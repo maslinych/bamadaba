@@ -3851,98 +3851,98 @@ gâteries)
 \nt
 \dt 11/Nov/2007
 
-\lx bàrò.da
+\lx bàro.da
 \ps n. 
 \ge lieu de causerie
 \lt (causer.endroit)
 \dt 16/Aug/2006
 
-\lx bàrò.den
+\lx bàro.den
 \ps n. 
 \ge un membre de la conversation
 \ge courtisan
 \lt (causer.qn)
 \dt 26/Sep/2006
 
-\lx bàrò.kɛ̀.la
+\lx bàro.kɛ.la
 \ps n. 
 \ge un membre de la conversation
 \ge courtisan
 \lt (conversation.faire.qui)
-\sy bàròkɛ̀ɲɔgɔn
+\sy bàrokɛɲɔgɔn
 \dt 26/Sep/2006
 
-\lx bàrò.là.mɔgɔbàròlamaa
+\lx bàro.la.mɔgɔ bàrolamaa
 \ps n. 
 \ge un membre de la conversation
 \ge courtisan
 \lt (conversation.lieu.qn)
 \dt 26/Sep/2006
 
-\lx bàrò.tigi
+\lx bàro.tigi
 \ps n. 
 \ge chez qui on fait cercle
 \lt (conversation.maître)
-\xv jiri bàròtigi, à bɛ iko : kàràmɔgɔ bɛ  à ka kàlàndenw cɛ rɔ:
+\xv jíri bàrotigi, à bɛ́ íko : kàramɔgɔ bɛ́  à ká kàlanden cɛ́ rɔ́:
 \xe un arbre entouré (de petits arbres) est comme un maître au milieu de ses élèves
 \dt 16/Aug/2006
 
-\lx basa
+\lx bása
 \ps n. 
 \ge margouillat
 \ge pfs : crocodile
 \dt 26/Sep/2006
 
-\lx basa
+\lx bása
 \ps v.t 
 \ge braquer (les yeux
 \ge une torche ...)
 \dt 26/Sep/2006
 
-\lx bàsàbasa
+\lx bàsabása
 \ps v.t 
 \ge cuire à l'eau (sans condiment
 \ge pour conserver ...)
 \dt 26/Sep/2006
 
-\lx bàsan
+\lx bàsan
 \ps n. 
 \ge tissu soyeux
 \bw fr : basane
 \dt 16/Aug/2006
 
-\lx bàsan
+\lx bàsan
 \ps v.t.
 \sn 1
 \ge mélanger 
-\sy ɲagami, kule
+\sy ɲágami, kúle
 \sn 2
 \ge embrouiller 
-\sy fereke
+\sy féreke
 \dt 16/Aug/2006
 
-\lx basa.da
+\lx bása.da
 \ps n. 
 \ge bonnet à deux pointes
 \lt (crocodile.bouche)
-\sy bàmàda
+\sy bàmada
 \dt 16/Aug/2006
 
-\lx basa.kan.kɔrɔ.tigɛ 
+\lx bása.kan.kɔrɔ.tigɛ
 \ps n. 
 \ge ulcération sous les orteils (aïnhun)
 \lt (margouillat.cou.sous.coupure)
 \dt 16/Aug/2006
 
-\lx basa.kili.ci
+\lx bása.kili.ci
 \ps v.t 
 \ge dire sans ambages
 \lt (margouillat.oeuf.casser)
-\xv kà tìɲɛ basakilici 
+\xv kà tìɲɛ básakilici
 \xe dire la vérité sans détour
 \dt 16/Aug/2006
 
-\lx basa.ku
+\lx bása.ku
 \ps n. 
 \ge plante herbacée 
 \ge Borreria verticillata
@@ -5781,34 +5781,34 @@ ou non)
 \ge serpent 
 \sn 1
 \ge (Cerastes vipera ?) 
-\sy fɔnfɔnnin, fòròkòfaraka
+\sy fɔ́nfɔnnin, fòrokofaraka
 \lt (latérite.  ?   )  
 \sn 2
 \ge (Causus rhombeatus ?) 
 \ee (petite vipère très venimeuse) 
 \dt 19/Aug/2006
 
-\lx bɛ̀l.kili
+\lx bɛ̀lɛ.kili
 \ps n. 
 \ge testicules (t.i)
 \lt (sexe.boule)
 \dt 16/Aug/2006
 
-\lx bɛ̀l.kisɛ
+\lx bɛ̀lɛ.kisɛ
 \ps n. 
 \ge gravier
 \ge gravillon
 \lt (gravier.grain)
 \dt 26/Sep/2006
 
-\lx bɛ̀l.là.nkasa
+\lx bɛ̀.la.nkasa
 \ps n. 
 \ge herbe adventice
 \ge Aristida adscensionis
 \sd gram
 \ee 20 cm / 1 m 
 \lt (gravier.de.'nkasa')
-\sy fugarɔnkasanin
+\sy fúgarɔnkasanin
 \dt 08/Sep/2006
 
 \lx bɛ̀n
@@ -10950,32 +10950,32 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \lt (sortie.moi.endroit)   
 \dt 26/Sep/2006
 
-\lx bɔ.n.sɔn
+\lx bɔ́.n.sɔn
 \ps n. 
 \ge descendant
 \ge descendante
 \ge postérité
 \lt (sortie.moi.endroit)
-\cf  bɔnna
+\cf  bɔ́nna
 \dt 26/Sep/2006
 
-\lx bɔ.n.yeli
+\lx bɔ́.n.yeli
 \ps n. 
 \ge visite désintéressée
 \lt (sortie.moi.visite)
 \dt 16/Aug/2006
 
-\lx /bɔ.ɲɔgɔn.ko/
-\va bɔɲɔɔnko 
+\lx /bɔ́.ɲɔgɔn.ko/
+\vá bɔ́ɲɔɔnko
 \ps n. 
 \ge pareil
 \ge semblable...
 \lt (égaler.semblable.affaire)
-\xv ò bɔɲɔɔnko tɛ 
+\xv ò bɔ́ɲɔɔnko tɛ́
 \xe il n'y en a pas de pareil
 \dt 26/Sep/2006
 
-\lx bɔ.yɔrɔ
+\lx bɔ́.yɔrɔ
 \ps n. 
 \ge lieu d'origine
 \ge d'où l'on vient
@@ -13230,8 +13230,8 @@ contextes (cè modulé)
 \nt
 \dt 11/Nov/2007
 
-\lx cɛ̀tɛmùsòtɛ 
-\va
+\lx cɛ̀.tɛ́.mùso.tɛ́
+\vá
 \ps n
 \lt homme-n'est pas-femme-n'est pas
 \ge hermaphrodite, androgyne, bisexué
@@ -34109,18 +34109,18 @@ ou cypéracée )
 \ge lieu d'exécution capitale
 \dt 19/Aug/2006
 
-\lx gène
+\lx gène
 \ue (f,bk)
-\va gènde
+\vá gènde
 \ph [gw]
 \ps v.t / v.i 
 \ge serrer fortement 
 \ee (se dit d'un vêtement trop étroit ...)
-\xv sàbara nìn ka dɔgɔ  i sěn mà, à bɛ gène  à mà
+\xv sàbara nìn ká dɔ́gɔ  í sěn mà, à bɛ́ gène  à mà
 \xe ces chaussures sont trop petites pour ton pied, elles le compriment
 \dt 16/Aug/2006
 
-\lx gene.kàlan 
+\lx géne.kàlan
 \lt ('gene'.bariolé)
 \ph [gw]
 \ps n. 
@@ -38429,127 +38429,127 @@ acceptions)
 \nt
 \dt 11/Nov/2007
 
-\lx jànfà.nci
+\lx jànfa.nci
 \ps n
 \ps adj
 \ge traître ...
 \lt (trahison.sujet actif)
 \dt 16/Aug/2006
 
-\lx jànfà.tigi
+\lx jànfa.tigi
 \ps n
 \ps adj
 \ge instigateur du complot ...
 \lt (trahison.responsable)
 \dt 16/Aug/2006
 
-\lx /jangarabu/
-\cf jankarabu 
+\lx /jángarabu/
+\cf jánkarabu
 \ps n
 \ps adj
 \ge fourbe
 
-\lx /jàngaro/
-\cf jànkaro 
+\lx /jàngaro/
+\cf jànkaro
 \ps n. 
 \ge maladie
 
-\lx janjigi
+\lx jánjigi
 \ps n. 
 \ge personne élégante
 \ee (se dit des femmes d'allure respectable qui réussissent dans les affaires, souvent non
 mariées)
 \dt 16/Aug/2006
 
-\lx janjigi.ya
+\lx jánjigi.ya
 \ps n. 
 \ge élégance
 \lt (élégant.suf abs)
 
-\lx jànjon
-\va jànjo 
+\lx jànjon
+\vá jànjo
 \ps n.
 \sn 1
 \ge hymne à la bravoure
 \sn 2
 \ge grande bataille de guerriers
-\xv kàrisa to'n bɛ  jànjo rɔ 
+\xv kàrisa tó'ń bɛ́  jànjo rɔ́
 \xe un tel est mort au front
 \sn 3
 \ge belle vie
 \ge réjouissance
 \dt 26/Sep/2006
 
-\lx jankalimɛ
-\cf /jakalimɛ/ 
+\lx jánkalimɛ
+\cf /jákalimɛ/
 \ps n. 
 \ge bâtard
 \dt 12/Aug/2006
 
-\lx jǎnkàmu
+\lx jǎnkàmú
 \ue (f)
-\va jɔ̌nkɔ̀mi
-\va /jɔ̌ngɔ̀mɔ/ 
+\vá jɔ̌nkɔ̀mí
+\vá /jɔ̌ngɔ̀mɔ́/
 \ps n. 
 \ge gros scorpion noir
 \dt 16/Aug/2006
 
-\lx jankarabu
-\va /jangarabu/ 
+\lx jánkarabu
+\vá /jángarabu/
 \ps n
 \ps adj
 \ge fourbe
 \ee (qui met  les gens les uns contre les autres)
 \dt 16/Aug/2006
 
-\lx jankarabu.ya
+\lx jánkarabu.ya
 \ps n. 
 \ge fourberie
 \ge mensonge
 \lt (fourbe.suf abs)
 \dt 26/Sep/2006
 
-\lx jànkaro
-\va /jàngaro/ 
+\lx jànkaro
+\vá /jàngaro/
 \ps n. 
 \ge maladie
-\sy bàna
+\sy bàna
 \dt 16/Aug/2006
 
-\lx jànkàrò.tɔ
+\lx jànkaro.tɔ
 \ps n
 \ps adj
 \ge malade
 \lt (maladie.sujet)
 \dt 12/Aug/2006
 
-\lx jànkàrò.ya
+\lx jànkaro.ya
 \ps n. 
 \ge maladie
 \lt (maladie.suf abs)
 
-\lx jànkàrò.ya
+\lx jànkaro.ya
 \ps v.t 
 \ge rendre malade
 \lt (maladie.suf caus)
 \dt 16/Aug/2006
 
-\lx jǎnko
+\lx jǎnkó
 \ph [*yàn n ko = ici je dis ?--> spécialement]
 \ps part.
 \sn 1
 \ge particule d'insistance : à plus forte raison
 \ge surtout
 \ge en particulier
-\xv furumuso tɛ  àle fɛ̀, jǎnko den
+\xv fúrumuso tɛ́  àle fɛ̀, jǎnko dén
 \xe il n'a pas de femme, à plus forte raison d'enfant
 \sn 2
 \ge particule conjonctive : pour (que)
-\xv wòro ɲimi  jǎnko i kàna sìnɔgɔ
+\xv wòro ɲími  jǎnko í kàna sìnɔgɔ
 \xe croque de la noix de kola pour ne pas dormir
 \dt 26/Sep/2006
 
-\lx jànkò.ci
+\lx jànko.ci
 \ue (f)
 \lt (?.culture)
 \ps n. 
@@ -41852,67 +41852,67 @@ mollusques ...)
 \nt
 \dt 11/Nov/2007
 
-\lx /jɔ̀ngɔmɔ/
-\cf jɔ̌nkɔ̀mi 
+\lx jɔ̀ngɔ́mɔ
+\cf jɔ̌nkɔ̀mí
 \ps n. 
 \ge scorpion noir
 \dt 16/Aug/2006
 
-\lx jɔnjɔn
+\lx jɔ́njɔn
 \ps n.
 \ps adj. 
 \sn 1
 \ge exact
 \ge juste
 \ge authentique
-\xv ne ma kɔrɔ jɔnjɔn sɔ̀rɔ  kuma nin na
+\xv né má kɔ́rɔ jɔ́njɔn sɔ̀rɔ  kúma nín ná
 \xe je n'ai pas trouvé le sens exact de cette parole  
 \sn 2
 \ge convenable 
 \sn 3
 \ge de bonne qualité
-\xv bɔ̀rɔ̀ jɔnjɔn 
+\xv bɔ̀rɔ jɔ́njɔn
 \xe un bon sac   
-\sy ɲɛnama
+\sy ɲɛ́nama
 \dt 26/Sep/2006
 
-\lx jɔ̌nkɔ̀mi
-\va jǎnkàmu 
+\lx jɔ̌nkɔ̀mí
+\vá jǎnkàmú
 \ue (f)
-\va /jɔ̀ngɔmɔ/  
+\vá /jɔ̀ngɔmɔ/
 \ps n. 
 \ge scorpion noir 
 \dt 16/Aug/2006
 
-\lx jɔnkɔrɔmɛ
-\va jɔnwɔrɔmɛ 
+\lx jɔ́nkɔrɔmɛ
+\vá jɔ́nwɔrɔmɛ
 \ue (bn)
 \ps n. 
 \ge caste de griots
 \ee (méprisés et redoutés)
 \dt 16/Aug/2006
 
-\lx /jɔntɛ/
-\cf jɔɔntɔ 
+\lx /jɔ́ntɛ/
+\cf jɔ́ɔntɔ
 \ps n. 
 \ge paludisme
 
-\lx jɔntɛ.fin
+\lx jɔ́ntɛ.fin
 \ps n. 
 \ge fièvre jaune
 \ee (un des signes : vomissement noir)
 \lt (vomir.noir)
 \dt 16/Aug/2006
 
-\lx jɔnwɔrɔmɛ
-\va jɔnkɔrɔmɛ 
+\lx jɔ́nwɔrɔmɛ
+\vá jɔ́nkɔrɔmɛ
 \ps n. 
 \ge caste de griots
 \ee (méprisés et redoutés)
 \dt 16/Aug/2006
 
-\lx jɔ̀nyàbaara 
-\va
+\lx jɔ̀nyabaara
+\vá
 \ps n
 \lt esclavage-travail
 \ge travail d'esclave, corvée d'esclave, esclavage
@@ -44506,20 +44506,20 @@ l'étranger en disant :  l'eauest prête
 \ee arbre de la forêt humide, fût droit. ---> 20 / 40 m )
 \dt 19/Aug/2006
 
-\lx kala.biyɛn
-\va /kalabiɲɛ/ 
+\lx kála.biyɛn
+\vá /kálabiɲɛ/
 \ps n. 
 \ge flèche
 \lt (arc.pointe)
 \dt 16/Aug/2006
 
-\lx kàlà.cɛ
+\lx kàla.cɛ
 \ps n. 
 \ge nettoyage des champs avant les semis
 \lt (tige.ramasser)
 \dt 16/Aug/2006
 
-\lx kàlà.ci*
+\lx kàla.ci
 \ps n. 
 \ge petits serpents fouisseurs
 \ee (inoffensifs malgré leur réputation)
@@ -73870,17 +73870,17 @@ p.7)
 \sd malv
 \dt 19/Aug/2006
 
-\lx ngùlu.bàra
+\lx ngùlúbàrá
 \ps n. 
 \ge plante à souche vivace 
 \ge Cochlospermum tinctorium
 \sd coch
 \lt (  ?  .  ?  )
 \ee semi-tubéreuse, fleurs jaune d'or au ras de terre)    
-\sy ndìlibàra
+\sy ndìlibara
 \dt 19/Aug/2006
 
-\lx nguna-nìn.jɛ
+\lx ngúna-nìn.jɛ́
 \ps n. 
 \ge oiseau
 \ge héron garde-boeuf 
@@ -92720,8 +92720,8 @@ sènɲɛ̀ duuru
 \ee (de monnaie ou autres objets. technique de comptage. = multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \dt 15/Aug/2006
 
-\lx sìgì.baa
-\va /sìgìbaga/ 
+\lx sìgi.baa
+\vá /sìgi.baga/
 \ps n. 
 \sn 1
 \ge celui qui s'assied
@@ -98588,53 +98588,53 @@ sìtànɛ̀màko la
 \lt (haricot.tige)
 \dt 16/Aug/2006
 
-\lx sỳɛ́
+\lx syɛ́
 \ph [shyɛ]
 \ee *mal : sisɛ = id. 
 \ps n. 
 \ge poule
 \dt 12/Aug/2006
 
-\lx sỳɛ́n
+\lx syɛ́n
 \ph [shyɛn]
 \ps n. 
 \ge miel pur
-\xv wàá dɔw ye  denw ye, wàá dɔw ye  nkàmo ye, wàá dɔw ye  sỳɛn ye
+\xv wàa dɔ́ yé  dén yé, wàa dɔ́ yé  nkàmo yé, wàa dɔ́ yé  ɛ́n yé
 \xe certaines alvéoles sont (remplies de) couvain,certaines sont (remplies de) pollen, certaines sont (remplies de) miel
 \dt 16/Aug/2006
 
-\lx sỳɛ́n
+\lx syɛ́n
 \ph [shyɛn]
 \ps v.t 
 \ge remplir de miel (la ruche
 \ge les alvéoles ...)
-\xv di syɛ̀nnen 
-\xv ŋunu syɛ̀nnen dòn 
+\xv dí syɛ̀nnen
+\xv ŋúnu syɛ̀nnen dòn
 \xe la ruche est remplie de miel
 \dt 26/Sep/2006
 
-\lx sỳɛ́n
+\lx syɛ́n
 \ph [shyɛn]
 \ps n. 
 \ge lutte
-\sy baari
-\xv sỳɛn bɔ 
-\xv sỳɛn tà 
+\sy báari
+\xv ɛ́n bɔ́
+\xv ɛ́n tà
 \xe faire la lutte, lutter 
 \dt 12/Aug/2006
 
-\lx sỳɛ́n
+\lx syɛ́n
 \ue (bn)
 \ph [shyɛn]
-\va fỳɛn 
+\vá ɛ́n
 \ue (f)
 \ps n. 
 \ge plant à repiquer
 \ge à transplanter ...
 \dt 26/Sep/2006
 
-\lx sỳɛ́.kɔ̀gɔ
-\va sỳɛ́kwànin 
+\lx syɛ́.kɔ̀gɔ
+\vá syɛ́.kwànin
 \ue (f)
 \ph [shy ...]
 \ps n. 
@@ -98642,14 +98642,14 @@ sìtànɛ̀màko la
 \lt (poule.sel ?)
 \dt 16/Aug/2006
 
-\lx sỳɛ́.kwà.nin
-\cf sỳɛkɔ̀gɔ 
+\lx syɛ́.kwà.nin
+\cf syɛ́.kɔ̀gɔ
 \ps n. 
 \ge gros ver blanc
 \lt (poule.sel ?.petit)
 \dt 16/Aug/2006
 
-\lx sỳɔ́
+\lx syɔ́
 \ph [shyɔ]
 \ps n. 
 \ge haricot sultivé
