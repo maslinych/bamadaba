@@ -354,7 +354,7 @@ suivie du jour)
 \dt 11/Nov/2007
 
 \lx álaɲɔ
-\va ngálaɲɔ *(ó; bt)
+\va ngálaɲɔ (ó; bt)
 \ps n
 \lt
 \sc 1/ Uraria picta 2/ Cucurligo pilosa  3/ Dasystachis senegalensis 4/ Chlorophytum senegalense
@@ -511,7 +511,7 @@ par ses racines, ses fruits mangés par le petit bétail
 \dt 26/Sep/2006
 
 \lx àlijɛnɛ
-\va /àlijinɛ/
+\va àlijinɛ
 \va àlijana
 \va àrijana
 \ue (bn)
@@ -539,7 +539,7 @@ par ses racines, ses fruits mangés par le petit bétail
 \dt 11/Nov/2007
 
 \lx àlikama
-\va /àlikaama/
+\va àlikaama
 \bw ar: al-qamh= id. 
 \ps n. 
 \ge blé (Triticum ...) 
@@ -547,7 +547,7 @@ par ses racines, ses fruits mangés par le petit bétail
 \dt 19/Aug/2006
 
 \lx àlikamamugu
-\va /àlikaamamugu/
+\va àlikaamamugu
 \ps n
 \lt blé-farine
 \ge farine de blé
@@ -657,7 +657,7 @@ par ses racines, ses fruits mangés par le petit bétail
 \dt 16/Aug/2006
 
 \lx àrijaba
-\va /àrajaba/
+\va àrajaba
 \ph [arjaba]
 \bw ar: ar-ragab = id
 \ps n. 
@@ -721,7 +721,7 @@ par ses racines, ses fruits mangés par le petit bétail
 \cf á
 \dt 16/Aug/2006
 
-\lx á' ní...
+\lx á' ní…
 \ps expr
 \ge début de salutation (s'adressant généralement à plusieurs personnes)
 \xv á' ní  sɔ̀gɔma !
@@ -870,7 +870,7 @@ de phrase
 \xe "père" Ngolo
 \dt 26/Sep/2006
 
-\lx bàa...mà
+\lx bàa…mà
 \cf bàga
 \ps v.i 
 \ge : offenser 
@@ -922,7 +922,7 @@ de phrase
 \dt 26/Sep/2006
 
 \lx bàafan
-\va /bánfan/
+\va bánfan
 \ue (-bn)
 \ps n. 
 \ge endroit boueux (aux abords d'un puits)
@@ -942,7 +942,7 @@ de phrase
 \dt 16/Aug/2006
 
 \lx bàama.ko
-\va /bàgamako/
+\va bàgamako
 \ps n. 
 \ge châtiment immérité
 \lt (offense.affaire)
@@ -959,7 +959,7 @@ de phrase
 \sy nàfolotigi
 \dt 26/Sep/2006
 
-\lx /bàana/
+\lx bàana
 \cf bàna
 \ps n. 
 \ge doigt du milieu
@@ -1143,7 +1143,7 @@ de phrase
 \dt 16/Aug/2006
 
 \lx báara.kɛ.mina
-\va /báarakɛminɛn/
+\va báarakɛminɛn
 \ps n. 
 \ge outil
 \ge instrument de travail
@@ -1366,7 +1366,7 @@ de phrase
 \dt 11/Nov/2007
 
 \lx báda
-\va /bádaa/
+\va bádaa
 \cf ábada
 \cf hábada
 \bw ar: abadan = id
@@ -1422,7 +1422,7 @@ de phrase
 \ge protection
 \dt 12/Aug/2006
 
-\lx /bàdɛgɛ/
+\lx bàdɛgɛ
 \cf bàntɛgɛ
 \ps n. 
 \ge bouc
@@ -1472,7 +1472,7 @@ de phrase
 \xe il l'a mangé
 \dt 19/Aug/2006
 
-\lx bàga...màbaa
+\lx bàga…màbaa
 \ps v.i.
 \ge offenser
 \ge outrager
@@ -1517,7 +1517,7 @@ de phrase
 \nt trouver une meilleure traduction (Kb 6/05 p.1)
 \dt 11/Nov/2007
 
-\lx /bàgama.ko/
+\lx bàgama.ko
 \ps n. 
 \ge châtiment immérité
 \lt (offense.affaire)
@@ -1783,7 +1783,7 @@ de phrase
 \ge lépreux
 \lt (lèpre.état)
 
-\lx /bágu/
+\lx bágu
 \cf báku
 \ps v.t 
 \ge apprivoiser
@@ -1914,7 +1914,7 @@ de phrase
 \ps n. 
 \ge civette d'Afrique 
 \ge Viverra civetta)
-\sy /bàkɔrɔnkuru/
+\sy bàkɔrɔnkuru
 \lt (  bouc.     ?)
 \ee mammifère carnivore, solitaire, de la taille d'un chien)
 \dt 16/Aug/2006
@@ -1934,7 +1934,7 @@ de phrase
 \dt 26/Sep/2006
 
 \lx bàku
-\va /bágu/
+\va bágu
 \ps v.t.
 \sn 1
 \ge apprivoiser
@@ -2102,7 +2102,7 @@ demi-tons : do, ré, fa, sol, la, do
 \xe il s'est levé précipitamment
 \dt 26/Sep/2006
 
-\lx /bàlamini/
+\lx bàlamini
 \cf bànamini
 \ps v.t 
 \ge mettre en travers ...
@@ -2354,7 +2354,7 @@ par ses racines, ses fruits mangés par le petit bétail
 beaucoup de grands arbres (prov)
 \dt 16/Aug/2006
 
-\lx /bàlen.bo/
+\lx bàlen.bo
 \ps n. 
 \ge arbuste
 \ge quinquina des chèvres 
@@ -2622,7 +2622,7 @@ beaucoup de grands arbres (prov)
 \dt 16/Aug/2006
 
 \lx bámàná
-\va /bámanan/
+\va bámanan
 \ps n. 
 \sn 1
 \ge bambara (ethnie)
@@ -2811,7 +2811,7 @@ publicité)
 \dt 26/Sep/2006
 
 \lx bàna
-\va /bànan/
+\va bànan
 \ps n. 
 \ge fromager (arbre)
 \ge Ceiba pentandra
@@ -2821,7 +2821,7 @@ rembourrer les coussins, les oreillers
 \dt 19/Aug/2006
 
 \lx bàna
-\va /bàana/
+\va bàana
 \ps n. 
 \ge doigt du milieu
 \ge médius
@@ -2931,7 +2931,7 @@ rembourrer les coussins, les oreillers
 \dt 26/Sep/2006
 
 \lx bánakɔtagayɔrɔ
-\va // bánakɔtaayɔrɔ
+\va bánakɔtaayɔrɔ
 \ps n
 \lt toilettes-aller-endroit
 \ge lieu d'aisance, toilettes, WC
@@ -2970,7 +2970,7 @@ rembourrer les coussins, les oreillers
 \dt 26/Sep/2006
 
 \lx bànamini
-\va /bàlamini/
+\va bàlamini
 \ps v.t 
 \sn 1
 \ge barrer
@@ -2986,19 +2986,19 @@ rembourrer les coussins, les oreillers
 \ge répondre en normand
 \dt 26/Sep/2006
 
-\lx /bànan/
+\lx bànan
 \cf bàna
 \ps n. 
 \ge fromager ( arbre )
 \dt 16/Aug/2006
 
-\lx /bànanku/
+\lx bànanku
 \cf bànaku
 \ps n. 
 \ge manioc 
 \dt 16/Aug/2006
 
-\lx /bànan.jugu/
+\lx bànan.jugu
 \cf  bànajugu
 \ps n. 
 \ge Crateva religiosa ( arbre ---> 10m )
@@ -3016,7 +3016,7 @@ rembourrer les coussins, les oreillers
 \dt 16/Aug/2006
 
 \lx bàna.baatɔ
-\va /bànabagatɔ/
+\va bànabagatɔ
 \ps n
 \ps adj
 \ge malade
@@ -3037,7 +3037,7 @@ rembourrer les coussins, les oreillers
 \dt 16/Aug/2006
 
 \lx bàna.jugu
-\va /bànanjugu/
+\va bànanjugu
 \ps n. 
 \ge Crateva adansonii
 \sd capp
@@ -3062,7 +3062,7 @@ rembourrer les coussins, les oreillers
 \dt 26/Sep/2006
 
 \lx bàna.ku
-\va /bànanku/
+\va bànanku
 \ps n. 
 \ge manioc 
 \ge Manihot esculenta
@@ -3087,7 +3087,7 @@ rembourrer les coussins, les oreillers
 \dt 26/Sep/2006
 
 \lx bànbaanciya
-\va /bànbaganciya/
+\va bànbaganciya
 \ps n
 \lt de mauvaise volonté-état
 \ge mauvais vouloir, entêtement
@@ -3107,7 +3107,7 @@ rembourrer les coussins, les oreillers
 \ge banquette en banco
 \ge terre-plein
 \ge seuil relevé (anti-crapaud)
-\cf  /bànbe/
+\cf  bànbe
 \dt 26/Sep/2006
 
 \lx bánbali
@@ -3154,20 +3154,20 @@ rembourrer les coussins, les oreillers
 \xe efforce-toi de marcher
 \dt 26/Sep/2006
 
-\lx /bànbe/
+\lx bànbe
 \ph [banbali --> banbei --> banbe ?]
 \cf bànbali
 \ps n. 
 \ge banquette en banco
 \dt 16/Aug/2006
 
-\lx /bànda/
+\lx bànda
 \ps n. 
 \ge grossesse avancée 
 \ue Kita
 \dt 16/Aug/2006
 
-\lx bànda *
+\lx bànda 
 \va
 \ps vi
 \lt
@@ -3212,7 +3212,7 @@ rembourrer les coussins, les oreillers
 \dt 26/Sep/2006
 
 \lx bánge.baa
-\va /bángebaga/
+\va bángebaga
 \ps n. 
 \ge père ou mère qui t'a engendré
 \lt (engendrer.qui)
@@ -3258,7 +3258,7 @@ rembourrer les coussins, les oreillers
 \dt 26/Sep/2006
 
 \lx bánginbangen
-\va /bánge/
+\va bánge
 \ps v.t.
 \sn 1
 \ge enfanter
@@ -3325,7 +3325,7 @@ rembourrer les coussins, les oreillers
 \ee (niche en zone soudanienne au début des pluies) 
 \dt 26/Sep/2006
 
-\lx /bànjaraki/
+\lx bànjaraki
 \cf nkàncaraki
 \ps n. 
 \ge fruit à demi-mûr
@@ -3354,7 +3354,7 @@ rembourrer les coussins, les oreillers
 \dt 11/Nov/2007
 
 \lx bán.baatɔ
-\va /bánbagatɔ/
+\va bánbagatɔ
 \ps n. 
 \ge défunt
 \ge décédé
@@ -3363,7 +3363,7 @@ rembourrer les coussins, les oreillers
 \dt 26/Sep/2006
 
 \lx bàn.baa.nci
-\va /bànbaganci/
+\va bànbaganci
 \ps n
 \ps adj
 \ge entêté
@@ -3426,7 +3426,7 @@ gâteries)
 \dt 26/Sep/2006
 
 \lx bán.ni
-\va /báni/
+\va báni
 \ue (-f) 
 \ps marque d'impatience
 \ge enfin
@@ -3437,7 +3437,7 @@ gâteries)
 \xe patiente seulement !
 \dt 26/Sep/2006
 
-\lx /bàn.sen/
+\lx bàn.sen
 \ps n. 
 \ge proposition négative (néologisme)
 \lt (refus.phrase)
@@ -3488,7 +3488,7 @@ gâteries)
 \xe viens chez moi
 \dt 19/Aug/2006
 
-\lx /bárada/
+\lx bárada
 \cf bára.daa
 \ps n. 
 \ge théière
@@ -4258,7 +4258,7 @@ gâteries)
 \ge correspondance (surtout en arabe)
 \dt 26/Sep/2006
 
-\lx /bátara/
+\lx bátara
 \cf báatara-
 \ps n. 
 \ge qui ne vaut rien
@@ -4339,8 +4339,8 @@ gâteries)
 \xe respecter le mariage, être fidèle
 \dt 16/Aug/2006
 
-\lx bàtobaga *
-\va // bàtobaa (kb)
+\lx bàtobaga 
+\va bàtobaa (kb)
 \ps n
 \lt vénérer-celui qui
 \ge
@@ -4400,7 +4400,7 @@ gâteries)
 \nt
 \dt 11/Nov/2007
 
-\lx /báwuli/
+\lx báwuli
 \bw ar: bawl = urine 
 \ps v.i 
 \ge uriner
@@ -4857,7 +4857,7 @@ ayant son père et sa mère !
 \dt 16/Aug/2006
 
 \lx bà.ntɛgɛ
-\va /bàdɛgɛ/
+\va bàdɛgɛ
 \ps n. 
 \ge bouc castré
 \lt (caprin.castré)
@@ -4997,7 +4997,7 @@ ayant son père et sa mère !
 \lt (mère.état)
 \dt 26/Sep/2006
 
-\lx /bá.ya/
+\lx bá.ya
 \ps v.i 
 \ge devenir un personnage important
 \lt (important.devenir)
@@ -5025,7 +5025,7 @@ ayant son père et sa mère !
 \dt 26/Sep/2006
 
 \lx bé
-\cf /bɛ́/
+\cf bɛ́
 \ps aux
 \ge auxiliaire du présent
 \dt 16/Aug/2006
@@ -5187,7 +5187,7 @@ osseuses au processus huméral, ---> 28 cm, ---> 550 gr)
 \ge flanc
 \dt 26/Sep/2006
 
-\lx bére *
+\lx bére 
 \va bère (f)
 \ps n
 \ge bâton (qu'on lance : celui du peul, celui qu'on lance pour gauler les mangues ...)
@@ -5207,7 +5207,7 @@ du bâton pour marcher (selon Cas tjs de ton bas)
 \cf  tùfa
 \dt 16/Aug/2006
 
-\lx /bèrebére/
+\lx bèrebére
 \cf bɛ̀ɛrɛbɛ́ɛrɛ
 \ps v.t 
 \ge choyer
@@ -5383,7 +5383,7 @@ ou non)
 \dt 16/Aug/2006
 
 \lx bɛ́ nà
-\va /bɛ́na/
+\va bɛ́na
 \ps prédicatif du futur
 \ge prédicatif du futur
 \cf nà
@@ -5394,7 +5394,7 @@ ou non)
 \dt 16/Aug/2006
 
 \lx bɛ́ nà
-\va /bɛ́na/
+\va bɛ́na
 \ps préd
 \ge prédicatif du futur
 \cf nà
@@ -5468,7 +5468,7 @@ ou non)
 \xe à chacun le sien
 \dt 26/Sep/2006
 
-\lx /bɛ́ɛlɛ/
+\lx bɛ́ɛlɛ
 \va byɛ́lɛ
 \va nbyɛ́lɛ
 \ps n. 
@@ -5587,7 +5587,7 @@ ou non)
 \dt 26/Sep/2006
 
 \lx bɛ̀ɛrɛbɛɛrɛ
-\va /bèrebere/
+\va bèrebere
 \ps v.t 
 \ge cajoler
 \ge dorloter
@@ -5595,7 +5595,7 @@ ou non)
 \dt 26/Sep/2006
 
 \lx bɛ̀ɛrɛbɛɛrɛ
-\va /bèrebere/
+\va bèrebere
 \ps v.t 
 \ge cajoler
 \ge dorloter
@@ -5603,13 +5603,13 @@ ou non)
 \dt 26/Sep/2006
 
 \lx bɛ̀gɛn
-\va /bɛ̀ngɛ/
+\va bɛ̀ngɛ
 \ps n. 
 \ge terrine pour ablution
 \dt 16/Aug/2006
 
 \lx bɛ̀gɛn
-\va /bɛ̀ngɛ/
+\va bɛ̀ngɛ
 \ps n. 
 \ge terrine pour ablution
 \dt 16/Aug/2006
@@ -6117,7 +6117,7 @@ ou non)
 \lt (sésame.grand)
 
 \lx bɛ̀nɛ.fin
-\va /bɛ̀nɛfunti/
+\va bɛ̀nɛfunti
 \va bɛ̀nɛ.fín.jɔ̀n
 \ps n. 
 \ge plantes herbacées 
@@ -6134,7 +6134,7 @@ ou non)
 
 \lx bɛ̀nɛ.fín.jɔ̀n
 \va bɛ̀nɛ.fin
-\va /bɛ̀nɛfunti/
+\va bɛ̀nɛfunti
 \ps n. 
 \ge plantes herbacées 
 \lt (sésame.noir.esclave)
@@ -6207,19 +6207,19 @@ ou non)
 \ge terrine (pour les ablutions)
 \dt 16/Aug/2006
 
-\lx /bɛ́nkɛ/
+\lx bɛ́nkɛ
 \cf bɛ́ɛnkɛ
 \ps n. 
 \ge oncle maternel
 \dt 16/Aug/2006
 
-\lx /bɛ́nkɛ/
+\lx bɛ́nkɛ
 \cf bɛ́ɛnkɛ
 \ps n. 
 \ge oncle maternel
 \dt 16/Aug/2006
 
-\lx /bɛ́nna/
+\lx bɛ́nna
 \cf bɛ́ɛnna
 \ps n. 
 \ge lieu d'origine de la mère
@@ -6550,13 +6550,13 @@ ou non)
 \dt 19/Aug/2006
 
 \lx bì
-\cf /bìn/
+\cf bìn
 \ps v.i 
 \ge tomber ...
 \dt 16/Aug/2006
 
 \lx bì
-\cf /bìn/
+\cf bìn
 \ps v.i 
 \ge tomber ...
 \dt 16/Aug/2006
@@ -6671,7 +6671,7 @@ ou non)
 \lx bíla
 \ph [bla]
 \ue (f,bk)  
-\cf /dílan/
+\cf dílan
 \ps v.t 
 \ge réparer
 \dt 12/Aug/2006
@@ -6679,7 +6679,7 @@ ou non)
 \lx bíla
 \ph [bla]
 \ue (f,bk)  
-\cf /dílan/
+\cf dílan
 \ps v.t 
 \ge réparer
 \dt 12/Aug/2006
@@ -7297,14 +7297,14 @@ ou non)
 \sy dímɔgɔ
 \dt 16/Aug/2006
 
-\lx /bílen/
+\lx bílen
 \ph [blen]
 \ue (-f,-bk)  
 \ps n. 
 \ge ombre
 \dt 12/Aug/2006
 
-\lx /bílen/
+\lx bílen
 \ph [blen]
 \ue (-f,-bk)  
 \ps n. 
@@ -7528,7 +7528,7 @@ ou non)
 \dt 26/Sep/2006
 
 \lx bílisa
-\va /bírisa/
+\va bírisa
 \ps v.t 
 \ge enchevêtrer
 \ge embroussailler
@@ -7536,7 +7536,7 @@ ou non)
 \dt 26/Sep/2006
 
 \lx bílisa
-\va /bírisa/
+\va bírisa
 \ps v.t 
 \ge enchevêtrer
 \ge embroussailler
@@ -7544,7 +7544,7 @@ ou non)
 \dt 26/Sep/2006
 
 \lx bílisaɲagami
-\va /bírisaɲagami/
+\va bírisaɲagami
 \ps n
 \lt embrouillamini-mélange
 \ge affaire compliquée
@@ -7898,19 +7898,19 @@ un tourbillon ...
 \lt (herbe.touffue)
 \dt 16/Aug/2006
 
-\lx /bíɲɛ/
+\lx bíɲɛ
 \cf bíyɛn
 \ps n. 
 \ge foie
 \dt 12/Aug/2006
 
-\lx /bíɲɛ/
+\lx bíɲɛ
 \cf bíyɛn
 \ps n. 
 \ge corne ...
 \dt 16/Aug/2006
 
-\lx /bìɲɛ/
+\lx bìɲɛ
 \cf bìyɛn
 \ps n. 
 \ge pointe
@@ -7934,14 +7934,14 @@ un tourbillon ...
 \rem
 \dt 11/Nov/2007
 
-\lx /bíɲɛ.kalama/
+\lx bíɲɛ.kalama
 \cf bíyɛnkalama
 \ps n. 
 \ge brochette (de viande)
 \lt  (foie.tige)
 \dt 16/Aug/2006
 
-\lx /bìɲɛ.tulo/
+\lx bìɲɛ.tulo
 \cf bìyɛntulo
 \ps n. 
 \ge barbillon de flèche ...
@@ -8041,7 +8041,7 @@ un tourbillon ...
 \ee niche souvent dans les rôniers
 \sy ɲǎntanba
 \sy bìrintufa
-\sy /bírintugan/
+\sy bírintugan
 \dt 16/Aug/2006
 
 \lx bíribɔrɔ
@@ -8102,7 +8102,7 @@ la journée
 \ge boursoufler légèrement
 \dt 26/Sep/2006
 
-\lx /bírisa/
+\lx bírisa
 \cf bílisa
 \ps v.t 
 \ge enchevêtrer
@@ -8724,7 +8724,7 @@ la journée
 \ps n
 \lt bras-vaccination-écrit
 \ge carnet de vaccination
-\va bólocisɛbɛn *
+\va bólocisɛbɛn 
 \xv
 \xe
 \xn
@@ -9122,7 +9122,7 @@ la journée
 \sy ɲɛ́sigi
 \dt 26/Sep/2006
 
-\lx /bólonkɔni/
+\lx bólonkɔni
 \cf bólokɔni
 \ps n. 
 \ge doigt
@@ -9701,7 +9701,7 @@ la journée
 \lt (menton.bout)
 \dt 16/Aug/2006
 
-\lx /bònbon.si/
+\lx bònbon.si
 \va bòonsi
 \ps n. 
 \ge barbe
@@ -10292,21 +10292,21 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \xe le lion a cassé le cou de l'antilope
 \dt 12/Aug/2006
 
-\lx bɔ́...fɛ̀
+\lx bɔ́…fɛ̀
 \ps v.
 \ge ressembler 
 \xv à bɔ́ra  à bá fɛ̀
 \xe il ressemble à sa mère
 \dt 16/Aug/2006
 
-\lx bɔ́...kàn
+\lx bɔ́…kàn
 \ps v.i 
 \ge sortir (pour) rendre visite à
 \xv màa tɛ́ bɔ́  án kàn
 \xe personne ne nous rend visite
 \dt 16/Aug/2006
 
-\lx bɔ́...lá
+\lx bɔ́…lá
 \ps v.i 
 \ge sortir (pour) rendre visite à
 \xv ù bɔ́ra  ù ká fòro lá
@@ -10317,7 +10317,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \xe ils diffèrent
 \dt 16/Aug/2006
 
-\lx bɔ́...mà
+\lx bɔ́…mà
 \ps v.i 
 \ge sortir
 \ge venir de
@@ -10331,7 +10331,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \xe ils diffèrent
 \dt 26/Sep/2006
 
-\lx bɔ́...yé
+\lx bɔ́…yé
 \ps v.i 
 \ge sortir (pour) rendre visite à
 \xv án nàna bɔ́  í yé
@@ -10341,7 +10341,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 16/Aug/2006
 
 \lx bɔ́baa
-\va /bɔ́baga/
+\va bɔ́baga
 \ps n
 \lt provenir-celui qui
 \sn 1
@@ -10644,7 +10644,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \ps v.i 
 \ge déteindre
 
-\lx /bɔ̀n/
+\lx bɔ̀n
 \cf bɔ̀ 
 \ps v.t 
 \ge arracher
@@ -10777,7 +10777,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 11/Nov/2007
 
 \lx bɔ̀ɔsi
-\va /bɔ̀si/
+\va bɔ̀si
 \ps v.t
 \sn 1
 \ge écorcher
@@ -10788,7 +10788,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 26/Sep/2006
 
 \lx bɔ̀ɔsili
-\va /bɔ̀sili/
+\va bɔ̀sili
 \ps n
 \lt écorcher-action
 \ge égratignure, écorchure
@@ -10813,7 +10813,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 16/Aug/2006
 
 \lx bɔ̀rɔ
-\va /bɔ̀rɛ/
+\va bɔ̀rɛ
 \ph [bwɛrɛ]
 \ps n. 
 \sn 1
@@ -10936,7 +10936,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \xe révéler un secret
 \dt 16/Aug/2006
 
-\lx /bɔ̀si/
+\lx bɔ̀si
 \cf bɔ̀ɔsi 
 \ps v.t 
 \ge écorcher ...
@@ -11071,7 +11071,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \lt (sortie.moi.visite)
 \dt 16/Aug/2006
 
-\lx /bɔ́.ɲɔgɔn.ko/
+\lx bɔ́.ɲɔgɔn.ko
 \va bɔ́ɲɔɔnko
 \ps n. 
 \ge pareil
@@ -11234,7 +11234,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \lt (coquet.devenir)
 \dt 26/Sep/2006
 
-\lx /búgɛ/
+\lx búgɛ
 \cf búkɛ
 \ps idéo.
 \ge d'un seul coup
@@ -11295,7 +11295,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \xe hameau de culture fondé par  (un certain) "Nci"
 \dt 26/Sep/2006
 
-\lx /bùgu/
+\lx bùgu
 \cf bùgun
 \ps v.i 
 \ge se blottir
@@ -11392,7 +11392,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 26/Sep/2006
 
 \lx bùgun
-\va /bùgu/
+\va bùgu
 \ps v.i 
 \ge se blottir
 \ge se tapir
@@ -11502,7 +11502,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 26/Sep/2006
 
 \lx búkɛ
-\va /búgɛ/
+\va búgɛ
 \ps idéo.
 \ge évoque la soudaineté (mort
 \ge chute ...)
@@ -11645,7 +11645,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 16/Aug/2006
 
 \lx búlu
-\va /búru/
+\va búru
 \ve (f)
 \ps n.
 \sn 1
@@ -11698,7 +11698,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 16/Aug/2006
 
 \lx bùluku
-\va /bùruku/
+\va bùruku
 \ps n. 
 \ge plante aquatique 
 \ge Echinochloa stagnina
@@ -11760,7 +11760,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \ge Bombax costatum
 \sd bomb	
 \ee (floraison en déc-janv, belles fleurs rouges ou oranges en forme de tulipe)   
-\sy /búnbun/
+\sy búnbun
 \dt 19/Aug/2006
 
 \lx búmugu
@@ -11813,7 +11813,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \ge se répandre dans toute une région (maladie ...)
 \dt 16/Aug/2006
 
-\lx /búnbun/
+\lx búnbun
 \cf búmu
 \ps n. 
 \ge kapokier 
@@ -11823,12 +11823,12 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 
 \lx bùnɛ
 \ue (f)  
-\cf /bɔ̀nɛ/  
+\cf bɔ̀nɛ  
 \ps n. 
 \ge malheur ...
 \dt 16/Aug/2006
 
-\lx /búnge/
+\lx búnge
 \cf bónge
 \ps n. 
 \ge Mormyrops deliciosus (sorte de poisson )
@@ -11855,7 +11855,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 16/Aug/2006
 
 \lx bùnten
-\va /bùnte/
+\va bùnte
 \ps v.t 
 \sn 1
 \ge piler pour réduire en farine 
@@ -11905,7 +11905,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 26/Sep/2006
 
 \lx bùnumunu
-\va /búnunbunun/
+\va búnunbunun
 \ps n. 
 \ge cendres non éteintes
 \dt 16/Aug/2006
@@ -11921,7 +11921,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \ge oie de Gambie 
 \ge Plectopterus gambensis)
 \ee grand, long cou, tache blanche à l'aile, perche volontiers)  
-\sy /búnun/
+\sy búnun
 \dt 26/Sep/2006
 
 \lx búnu.kuru.cɛ
@@ -11994,7 +11994,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \lt (beau-père.travail)
 \dt 16/Aug/2006
 
-\lx /búran.gosi.dibi/
+\lx búran.gosi.dibi
 \ps n. 
 \ge ténèbres épaisses
 \lt (beaux-parents.frapper.ténèbres)
@@ -12068,7 +12068,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 26/Sep/2006
 
 \lx búru
-\va /nbúru/
+\va nbúru
 \ps n. 
 \ge pain
 \dt 16/Aug/2006
@@ -12080,7 +12080,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 16/Aug/2006
 
 \lx búru
-\va /nbúru/
+\va nbúru
 \ps n. 
 \ge état
 \ge gouvernement
@@ -12153,7 +12153,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \xe les griots ont rappelé les noms de ses ancêtres
 \dt 26/Sep/2006
 
-\lx /bùruku/
+\lx bùruku
 \cf bùluku
 \ps n. 
 \ge plante aquatique 
@@ -12221,20 +12221,20 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \dt 16/Aug/2006
 
 \lx búru.gɔsi.la
-\va /búrugosila/
+\va búrugosila
 \ps n. 
 \ge boulanger
 \lt (pain.pétrir.agent)
 \dt 16/Aug/2006
 
 \lx búru.gɔsi.yɔrɔ
-\va /búrugosiyɔrɔ/
+\va búrugosiyɔrɔ
 \ps n. 
 \ge boulangerie
 \lt (pain.pétrir.lieu)
 \dt 16/Aug/2006
 
-\lx /búsan/
+\lx búsan
 \cf bísan
 \ps n. 
 \ge baguette
@@ -12364,7 +12364,7 @@ favorisé l'évolution phonétique ?
 \dt 16/Aug/2006
 
 \lx byɛ́lɛ
-\va /bɛ́ɛlɛ/
+\va bɛ́ɛlɛ
 \va nbyɛ́lɛ
 \ps n. 
 \ge terrine
@@ -12387,7 +12387,7 @@ favorisé l'évolution phonétique ?
 
 \lx cá
 \ee ciya* 
-\va /cíya/
+\va cíya
 \ps n. 
 \ge travail
 \ge tâche
@@ -12438,7 +12438,7 @@ favorisé l'évolution phonétique ?
 \dt 16/Aug/2006
 
 \lx cǎn
-\cf /tìɲɛ/
+\cf tìɲɛ
 \ps n. 
 \ge vérité ...
 \dt 16/Aug/2006
@@ -12542,7 +12542,7 @@ feuilles, écorces et racines donne une teinture jaune)
 \dt 16/Aug/2006
 
 \lx cá.kɛ.da
-\va /cíyakɛda/
+\va cíyakɛda
 \ps n. 
 \ge lieu de travail
 \ge bureau
@@ -12551,7 +12551,7 @@ feuilles, écorces et racines donne une teinture jaune)
 \dt 26/Sep/2006
 
 \lx cá.kɛ.la
-\va /cíyakɛla/
+\va cíyakɛla
 \ps n. 
 \ge travailleur
 \ge ouvrier
@@ -12598,7 +12598,7 @@ feuilles, écorces et racines donne une teinture jaune)
 \ge intensifier
 \dt 26/Sep/2006
 
-\lx cá.ya...yé
+\lx cá.ya…yé
 \ps expr
 \ge dépasser en nombre
 \ge en quantité
@@ -12622,7 +12622,7 @@ feuilles, écorces et racines donne une teinture jaune)
 \dt 19/Aug/2006
 
 \lx cèle
-\va /kèle/
+\va kèle
 \ps n
 \ps adj
 \ge jaloux surtout passionnel
@@ -12636,7 +12636,7 @@ feuilles, écorces et racines donne une teinture jaune)
 \dt 16/Aug/2006
 
 \lx cèle.ya
-\va /kèleya/
+\va kèleya
 \ps v.t 
 \ge jalouser
 \lt (jaloux.suf caus)
@@ -12840,7 +12840,7 @@ feuilles, écorces et racines donne une teinture jaune)
 \dt 15/Aug/2006
 
 \lx cɛ́bɛn.baa
-\va /cɛ́bɛnbaga/
+\va cɛ́bɛnbaga
 \ps n. 
 \ge médiateur
 \lt (accorder.celui qui)
@@ -13068,7 +13068,7 @@ contextes (cè modulé)
 \ge vie conjugale (pour une femme)
 \dt 16/Aug/2006
 
-\lx cɛ̀likɛla *
+\lx cɛ̀likɛla 
 \va
 \ps n
 \lt ramasser-action-faire-celui qui
@@ -13145,7 +13145,7 @@ contextes (cè modulé)
 \dt 11/Nov/2007
 
 \lx cɛ̀minɛn 
-\va //cɛ̀minan
+\va cɛ̀minan
 \ps n
 \lt guerrier-bagages
 \ge armure, armes
@@ -13168,7 +13168,7 @@ contextes (cè modulé)
 \dt 16/Aug/2006
 
 \lx cɛ́n
-\va /cíyɛn/
+\va cíyɛn
 \ps n. 
 \ge héritage
 \dt 15/Aug/2006
@@ -13180,7 +13180,7 @@ contextes (cè modulé)
 \xe il est très agité, rapide dans son travail
 
 \lx cɛ́n
-\cf /tíɲɛ/
+\cf tíɲɛ
 \ps v.t 
 \ge gâter
 
@@ -13195,7 +13195,7 @@ contextes (cè modulé)
 \dt 16/Aug/2006
 
 \lx cɛ̌n
-\cf /tìɲɛ/
+\cf tìɲɛ
 \ps n. 
 \ge vérité
 
@@ -13280,7 +13280,7 @@ contextes (cè modulé)
 \dt 16/Aug/2006
 
 \lx cɛ́n.ta.la
-\va /cíyɛntala/
+\va cíyɛntala
 \ps n. 
 \ge héritier
 \lt (héritage.prendre.celui qui)
@@ -13302,14 +13302,14 @@ contextes (cè modulé)
 \rem
 \dt 11/Nov/2007
 
-\lx /cɛ̀rɛ/
+\lx cɛ̀rɛ
 \cf tɛ̀rɛ 
 \ps n. 
 \ge van
 \dt 12/Aug/2006
 
 \lx cɛ̀rin
-\va /càrin/
+\va càrin
 \ps v.
 \ge disperser ...
 \dt 16/Aug/2006
@@ -13654,7 +13654,7 @@ moustache de porc-épic)
 \ge contre-temps (terme musical)
 \dt 16/Aug/2006
 
-\lx /cɛ̀.ma/
+\lx cɛ̀.ma
 \va cɛ̀man
 \ps n
 \ps adj
@@ -13704,7 +13704,7 @@ moustache de porc-épic)
 
 \lx cɛ̀.ɲa 
 \ee cɛ̀ɲiya* 
-\va /cɛ̀ɲɛ/
+\va cɛ̀ɲɛ
 \ps n. 
 \ge beauté
 \lt (aspect.réussite)
@@ -13981,7 +13981,7 @@ grandiflorus (gram)
 \dt 26/Sep/2006
 
 \lx cǐ
-\va /cìí/
+\va cìí
 \ps n. 
 \ge trait
 \ge tatouage
@@ -14001,7 +14001,7 @@ grandiflorus (gram)
 \lt (envoyé.suf abs)
 \dt 26/Sep/2006
 
-\lx /cìí/
+\lx cìí
 \cf cǐ
 \ps n. 
 \ge tatouage ...
@@ -14077,28 +14077,28 @@ grandiflorus (gram)
 \lt (piqûre.être)
 \dt 16/Aug/2006
 
-\lx /cíya.bɛɛ.kɛ/
+\lx cíya.bɛɛ.kɛ
 \va cábɛɛkɛ
 \ps n. 
 \ge multiculteur
 \lt (travaux.tous.faire)
 \dt 16/Aug/2006
 
-\lx /cíya.kɛ.la/
+\lx cíya.kɛ.la
 \cf cákɛla
 \ps n. 
 \ge ouvrier
 \lt (travail.faire.celui qui)
 \dt 12/Aug/2006
 
-\lx /cíyɛn/
+\lx cíyɛn
 \cf cɛ́n
 \ps n. 
 \ge héritage
 \dt 12/Aug/2006
 
 \lx cíyɛntabaa
-\va // cíyɛntabaga
+\va cíyɛntabaga
 \va cɛ́ntabaa
 \ps n
 \lt héritage-prendre-celui qui
@@ -14117,7 +14117,7 @@ ciyɛntabaga ye
 \dt 11/Nov/2007
 
 \lx cíyɛntala
-\va // cɛ́ntala
+\va cɛ́ntala
 \ps n
 \lt héritage-prendre-celui qui
 \ge héritier
@@ -14160,7 +14160,7 @@ ciyɛntabaga ye
 \nt
 \dt 11/Nov/2007
 
-\lx /cíyɛn.dun.den/
+\lx cíyɛn.dun.den
 \va cɛ́ndunden
 \ps n. 
 \ge dépensier
@@ -14169,7 +14169,7 @@ ciyɛntabaga ye
 \dt 26/Sep/2006
 
 \lx cí.baa
-\va /cíbaga/
+\va cíbaga
 \ps n.
 \sn 1
 \ge celui qui envoie
@@ -14310,7 +14310,7 @@ ciyɛntabaga ye
 \ge multiculteur 
 \dt 26/Sep/2006
 
-\lx /cí.ya/
+\lx cí.ya
 \cf cá
 \ps n. 
 \ge travail en général
@@ -14331,7 +14331,7 @@ ciyɛntabaga ye
 \xv bɔ́taa
 \dt 16/Aug/2006
 
-\lx /cógo/
+\lx cógo
 \va cóko
 \mr kɛ.ko* = manière de faire 
 \ps n.
@@ -14394,7 +14394,7 @@ ciyɛntabaga ye
 \dt 16/Aug/2006
 
 \lx cóko
-\cf /cógo/
+\cf cógo
 \ps n.
 \sn 1
 \ge manière de faire
@@ -14415,7 +14415,7 @@ ciyɛntabaga ye
 \lx cókoya
 \ps n. 
 \ge manière
-\cf /cógoya/
+\cf cógoya
 \dt 19/Aug/2006
 
 \lx cókwɛ
@@ -14479,7 +14479,7 @@ ciyɛntabaga ye
 \ge toit à deux pentes recouvert de paille
 \dt 19/Aug/2006
 
-\lx /córi/
+\lx córi
 \cf cɔ́ri
 \ps idéo.
 \ge assurément
@@ -14490,7 +14490,7 @@ ciyɛntabaga ye
 \ge d'un rouge vif
 \dt 16/Aug/2006
 
-\lx /córoko/
+\lx córoko
 \cf cɔ́rɔkɔ
 \ps v.t 
 \ge parler de manière précipitée
@@ -14533,7 +14533,7 @@ ciyɛntabaga ye
 \ge kɛɲɛ)
 \dt 26/Sep/2006
 
-\lx /cɔ̀cɔ/
+\lx cɔ̀cɔ
 \cf cɔ̀ɔcɔɔ 
 \ps n. 
 \ge fine pluie qui dure sans tonnerre
@@ -14563,7 +14563,7 @@ ciyɛntabaga ye
 \dt 11/Nov/2007
 
 \lx cɔ́nkɔn
-\va /cɔ́ngɔ/
+\va cɔ́ngɔ
 \ps v.t 
 \ge presser
 \ge écraser
@@ -14573,7 +14573,7 @@ ciyɛntabaga ye
 \dt 26/Sep/2006
 
 \lx cɔ̀ɔcɔɔ
-\va /cɔ̀cɔ/
+\va cɔ̀cɔ
 \ps n. 
 \ge fine pluie qui dure sans tonnerre
 \dt 16/Aug/2006
@@ -14594,14 +14594,14 @@ ciyɛntabaga ye
 \ge faire dépérir
 \dt 26/Sep/2006
 
-\lx /cɔ̀ɔnɔ/
+\lx cɔ̀ɔnɔ
 \cf ncɔ̀ɔnɔ 
 \ps v.i 
 \ge sourdre
 \dt 12/Aug/2006
 
 \lx cɔ́ri
-\va /córi/
+\va córi
 \ps idéo.
 \ge assurément
 \xv ń tìgɛra  é lá  cɔ́ri !
@@ -14689,7 +14689,7 @@ ciyɛntabaga ye
 \dt 26/Sep/2006
 
 \lx cwári
-\va /cɔ́gɔri/
+\va cɔ́gɔri
 \ps v.
 \ge piler pour enlever la coque
 \ge le tégument ...
@@ -14955,7 +14955,7 @@ ciyɛntabaga ye
 \dt 16/Aug/2006
 
 \lx dáaba
-\va /dába/
+\va dába
 \ps n. 
 \ge termite à grosse tête
 \xv ò dáaba bɛ́ sɔ̀rɔ  ntònbilen ná
@@ -15081,7 +15081,7 @@ ciyɛntabaga ye
 \dt 16/Aug/2006
 
 \lx dábaatɔ
-\va /dábagatɔ/
+\va dábagatɔ
 \ps n adj
 \lt coucher-sujet
 \ge alité, grabataire
@@ -15277,7 +15277,7 @@ ciyɛntabaga ye
 \dt 16/Aug/2006
 
 \lx dàbi
-\va /dɛ̀bi/
+\va dɛ̀bi
 \ps n. 
 \ge oiseaux (crépusculaires
 \ge nocturnes
@@ -15518,7 +15518,7 @@ ciyɛntabaga ye
 \lt (abords.lieu)
 \dt 26/Sep/2006
 
-\lx /dáfiɲɛ/
+\lx dáfiɲɛ
 \cf dáfiyɛn
 \ps n. 
 \ge haleine
@@ -15577,7 +15577,7 @@ ciyɛntabaga ye
 \dt 26/Sep/2006
 
 \lx dàgan
-\va /dànga/
+\va dànga
 \ps n. 
 \ge Afzelia africana
 \ee arbre --->  20 m 
@@ -15586,7 +15586,7 @@ ciyɛntabaga ye
 \dt 19/Aug/2006
 
 \lx dàgan
-\va /dànga/
+\va dànga
 \ps adj.préd (rare) 
 \ge malpropre (plus fréquent comme épithète)
 \xv mùso ìn ká dàgan
@@ -15594,13 +15594,13 @@ ciyɛntabaga ye
 \dt 16/Aug/2006
 
 \lx dágan
-\va /dánga/
+\va dánga
 \ps n. 
 \ge poulette
 \dt 15/Aug/2006
 
 \lx dàgan.ba
-\va /dàngaba/
+\va dàngaba
 \ps n. 
 \ge Afzelia africana
 \ee arbre ---> 20 m 
@@ -15609,7 +15609,7 @@ ciyɛntabaga ye
 \dt 19/Aug/2006
 
 \lx dàgan.nin
-\va /dànganin/
+\va dànganin
 \ps n. 
 \ge arbuste ---> 2 / 3 m 
 \ge Annona senegalensis
@@ -16080,7 +16080,7 @@ ciyɛntabaga ye
 \dt 16/Aug/2006
 
 \lx dàma
-\va /dàman/
+\va dàman
 \ps n. 
 \ge puits de mine d'or
 \dt 16/Aug/2006
@@ -16147,13 +16147,13 @@ ciyɛntabaga ye
 \lt (disette.sujet)
 \dt 16/Aug/2006
 
-\lx /dàman/
+\lx dàman
 \ps n.
 \ge puits de mine
 \cf dàma
 \dt 16/Aug/2006
 
-\lx /dàmanda/
+\lx dàmanda
 \cf dàmada
 \ps n
 \ge mine d'or
@@ -16169,7 +16169,7 @@ ciyɛntabaga ye
 \dt 15/Aug/2006
 
 \lx dàma.da
-\va /dàmanda/
+\va dàmanda
 \ps n. 
 \ge mine d'or
 \lt (mine.lieu)
@@ -16203,7 +16203,7 @@ ciyɛntabaga ye
 \dt 12/Aug/2006
 
 \lx dàma.yira
-\va /dàmajira/
+\va dàmajira
 \ps n. 
 \ge maximum
 \lt (limite.montrer)
@@ -16298,7 +16298,7 @@ ciyɛntabaga ye
 \xe il s'est échappé (on ne l'a pas rattrapé)
 \dt 26/Sep/2006
 
-\lx /dánanjugu/
+\lx dánanjugu
 \cf dàanɛ
 \ps n. 
 \ge égoiste
@@ -16333,7 +16333,7 @@ ciyɛntabaga ye
  
 \dt 16/Aug/2006
 
-\lx /dànga/
+\lx dànga
 \cf dàgan
 \ps n. 
 \ge Afzelia africana 
@@ -16413,7 +16413,7 @@ ciyɛntabaga ye
 \lt (malédiction.enfant)
 \dt 26/Sep/2006
 
-\lx /dànga.nin/
+\lx dànga.nin
 \cf dàgannin
 \ps n. 
 \ge arbuste ---> 2 / 3 m 
@@ -16450,7 +16450,7 @@ ciyɛntabaga ye
 \dt 16/Aug/2006
 
 \lx dánkalankule
-\va /dànkarankule/
+\va dànkarankule
 \ps n. 
 \ge oryx algazelle 
 \ge Oryx algazella dammah
@@ -16464,7 +16464,7 @@ ciyɛntabaga ye
 \ge bord
 \dt 26/Sep/2006
 
-\lx /dànkarankule/
+\lx dànkarankule
 \cf dánkalankule
 \ps n. 
 \ge oryx algazelle
@@ -16825,7 +16825,7 @@ p.4)
 \xe distinguez bien leur sens !
 \dt 26/Sep/2006
 
-\lx /dán.fɛn/
+\lx dán.fɛn
 \cf dáfɛn
 \ps n. 
 \ge créature
@@ -17131,7 +17131,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 16/Aug/2006
 
 \lx dátiɲɛ
-\va // dátiyɛn
+\va dátiyɛn
 \ps n
 \lt bouche-gâter
 \ge stomatite
@@ -17239,7 +17239,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 16/Aug/2006
 
 \lx dá.baa
-\va /dábaga/
+\va dábaga
 \ps n. 
 \ge créateur
 \ge Dieu
@@ -17253,7 +17253,7 @@ d'emprunt (kb 6/06 p.6)
 \lt (bouche.cavité)
 \dt 26/Sep/2006
 
-\lx /dá.bɛrɛbɛrɛma/
+\lx dá.bɛrɛbɛrɛma
 \ue (-f,-bk)  
 \ps v.t 
 \ge couper toute retraite
@@ -17340,7 +17340,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 16/Aug/2006
 
 \lx dá.bulu
-\va /dáburu/
+\va dáburu
 \ps n. 
 \ge canon du fusil
 \lt (issue.tuyau)
@@ -17372,7 +17372,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 26/Sep/2006
 
 \lx dá.dèn
-\va /dádè/
+\va dádè
 \ps v.réf 
 \ge se taire
 \xv í dáden !
@@ -17526,7 +17526,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 16/Aug/2006
 
 \lx dá.fa.nɛ
-\va /dáfanɛn/
+\va dáfanɛn
 \ps n
 \ps adj
 \ge niais
@@ -17535,7 +17535,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 26/Sep/2006
 
 \lx dá.fɛn
-\va /dánfɛn/
+\va dánfɛn
 \ps n. 
 \ge créature
 \lt (création.être)
@@ -17639,7 +17639,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 16/Aug/2006
 
 \lx dá.furuku
-\va /dáfurugu/
+\va dáfurugu
 \ps n. 
 \ge joue
 \ge abajoue
@@ -17744,7 +17744,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 16/Aug/2006
 
 \lx dá.gɔsi
-\va /dágosi/
+\va dágosi
 \ps n. 
 \ge grandeur d'un travail ...
 \lt (bouche? frapper ?)
@@ -17753,7 +17753,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 16/Aug/2006
 
 \lx dá.gɔ̀si
-\va /dágosi/
+\va dágosi
 \ps v.t.
 \sn 1
 \ge frapper à la porte
@@ -18135,7 +18135,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 16/Aug/2006
 
 \lx dá.kuru.ɲa
-\va /dákuruɲɛ/
+\va dákuruɲɛ
 \ps n. 
 \sn 1
 \ge bouchée
@@ -18457,7 +18457,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 16/Aug/2006
 
 \lx dá.mù
-\va /dámùn/
+\va dámùn
 \ps v.t 
 \ge donner un pot de vin (pour faire taire un témoin ...)
 \ge graisser la patte à qn
@@ -18497,7 +18497,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 19/Aug/2006
 
 \lx dá.nɔgɔ
-\va /dánɔgɔn/
+\va dánɔgɔn
 \ps n
 \ps adj
 \ge bon marché
@@ -18744,7 +18744,7 @@ d'emprunt (kb 6/06 p.6)
 \ge l'ensorceler de cette manière
 \dt 16/Aug/2006
 
-\lx /dá.sònyɛ/
+\lx dá.sònyɛ
 \va dásònya
 \ps v.t 
 \ge faire dire à qn un secret
@@ -18806,7 +18806,7 @@ d'emprunt (kb 6/06 p.6)
 \xe je ne te parle plus
 \dt 16/Aug/2006
 
-\lx /dá.tiɲɛ/
+\lx dá.tiɲɛ
 \va dátiyɛn
 \ps v.t 
 \ge ébrécher
@@ -18931,7 +18931,7 @@ d'emprunt (kb 6/06 p.6)
 \dt 26/Sep/2006
 
 \lx dá.yìra
-\cf /dájìra/
+\cf dájìra
 \ps v.t 
 \ge expliquer qc à qn 
 \xv dáyira...lá
@@ -19085,7 +19085,7 @@ d'emprunt (kb 6/06 p.6)
 \rem
 \dt 11/Nov/2007
 
-\lx /déli/
+\lx déli
 \va dɛ́li
 \ps n. 
 \ge prière
@@ -19094,7 +19094,7 @@ d'emprunt (kb 6/06 p.6)
 \xe c'est une prière (sous-entendu : ce n'est pas une contrainte)
 \dt 26/Sep/2006
 
-\lx /déli/
+\lx déli
 \va dɛ́li
 \ps v.t 
 \ge prier
@@ -19107,7 +19107,7 @@ d'emprunt (kb 6/06 p.6)
 \xe je t'en prie, je t'en supplie, s'il te plaît
 \dt 26/Sep/2006
 
-\lx /dèli/
+\lx dèli
 \va dɛ̀li
 \ps n. 
 \sn 1
@@ -19119,7 +19119,7 @@ d'emprunt (kb 6/06 p.6)
 \xe il est diificile de se séparer d'un ami
 \dt 26/Sep/2006
 
-\lx /dèli/
+\lx dèli
 \va dɛ̀li
 \ps v.i 
 \ge avoir l'habitude 
@@ -19348,7 +19348,7 @@ d'emprunt (kb 6/06 p.6)
 \xe il lui a jeté des maléfices (en cachette)
 \dt 16/Aug/2006
 
-\lx /dénkoro/
+\lx dénkoro
 \va dɛ́nkuru
 \ps n. 
 \ge crampe
@@ -19871,7 +19871,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 19/Aug/2006
 
 \lx dɛ̀ɛmu
-\va /jɛ̀mu/
+\va jɛ̀mu
 \ps v.i 
 \sn 1
 \ge prendre la parole
@@ -19881,7 +19881,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 26/Sep/2006
 
 \lx dɛ̀ɛmu
-\va /jɛ̀mu/
+\va jɛ̀mu
 \mr dɛ̀gɛ̀mu*  
 \ps n. 
 \ge parole
@@ -19954,14 +19954,14 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 26/Sep/2006
 
 \lx dɛ́li
-\cf /déli/
+\cf déli
 \ps v.t 
 \ge prier
 \ge solliciter ...
 \dt 26/Sep/2006
 
 \lx dɛ̀li
-\cf /dèli/
+\cf dèli
 \ps v.i 
 \ge avoir l'habitude de ...
 \dt 16/Aug/2006
@@ -19989,7 +19989,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 26/Sep/2006
 
 \lx dɛ̀mɛ.baa
-\va /dɛ̀mɛbaga/
+\va dɛ̀mɛbaga
 \ps n. 
 \ge assistant
 \ge aide
@@ -20037,7 +20037,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \ge bien utiliser
 \dt 26/Sep/2006
 
-\lx /dɛ̀ndɛ/
+\lx dɛ̀ndɛ
 \cf dɛ̀ɛndɛɛn  
 \ps v.t 
 \ge aider à marcher ...
@@ -20049,7 +20049,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 16/Aug/2006
 
 \lx dɛ̀nɛ
-\va /dɛ̀nɛn/
+\va dɛ̀nɛn
 \ps n. 
 \ge mur d'une bâtisse
 \xv bása kélen dísi tɛ́  dɛ̀nɛ bɛ̀n
@@ -20077,7 +20077,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 26/Sep/2006
 
 \lx dɛ́nkuru
-\va /dénkoro/
+\va dénkoro
 \ps n. 
 \ge tremblement musculaire (de frousse)
 \ge crampe
@@ -20410,8 +20410,8 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \xv kǔn dígi
 \xe tresser les cheveux (grossièrement)
 
-\lx dígi...kàn
-\va dígi...lá
+\lx dígi…kàn
+\va dígi…lá
 \ps v.i 
 \ge faire mal à ...
 \ge appuyer sur (sens physique ou moral)
@@ -20436,7 +20436,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \ge masser
 \lt (presser-presser)
 
-\lx /dìgon/
+\lx dìgon
 \ps n. 
 \ge grand calao d'Abyssinie 
 \ge Bucorvus abyssinicus)
@@ -20448,7 +20448,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \ge poids d'un objet porté dans les bras
 \dt 16/Aug/2006
 
-\lx /díinɛ/
+\lx díinɛ
 \bw ar: din = religion
 \ps n.
 \sn 1
@@ -20550,7 +20550,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 26/Sep/2006
 
 \lx dími
-\va /dímin/
+\va dímin
 \ps v.t 
 \sn 1
 \ge faire souffrir
@@ -20566,7 +20566,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 26/Sep/2006
 
 \lx dímidon
-\va /dímindon/
+\va dímindon
 \ps n
 \lt souffrance-introduire
 \ge amertume, rancune
@@ -20582,7 +20582,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 11/Nov/2007
 
 \lx dími.baatɔ
-\va /dímibagatɔ/
+\va dímibagatɔ
 \ps n
 \ps adj
 \ge en colère
@@ -20626,13 +20626,13 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 26/Sep/2006
 
 \lx dìngɛn
-\va /dìngɛ/
+\va dìngɛ
 \ps n. 
 \ge trou
 \ge terrier
 \dt 26/Sep/2006
 
-\lx /díɲɛ/
+\lx díɲɛ
 \va díyɛn
 \bw ar: dunya = monde 
 \ps n. 
@@ -20642,7 +20642,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \xe jamais de la vie !
 \dt 26/Sep/2006
 
-\lx /díɲɛden.ya/
+\lx díɲɛden.ya
 \va díyɛndenya
 \ps n. 
 \ge libertinage ...
@@ -20663,7 +20663,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \rem
 \dt 11/Nov/2007
 
-\lx /díɲɛ.den/
+\lx díɲɛ.den
 \va díyɛnden
 \ps n. 
 \ge mondain
@@ -20671,7 +20671,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \lt (monde.fils)
 \dt 26/Sep/2006
 
-\lx /díɲɛ.laban/
+\lx díɲɛ.laban
 \va díyɛnlaban
 \ps n. 
 \ge fin du monde
@@ -20679,7 +20679,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \sy díɲɛwuli
 \dt 16/Aug/2006
 
-\lx /díɲɛ.natigɛ/
+\lx díɲɛ.natigɛ
 \va díyɛnnatigɛ
 \ps n. 
 \ge vie
@@ -20687,7 +20687,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \sy díɲɛsosigi
 \dt 16/Aug/2006
 
-\lx /díɲɛ.so.sigi/
+\lx díɲɛ.so.sigi
 \va díyɛnsosigi
 \ps n. 
 \ge vie (temps de la vie sur la terre)
@@ -20695,7 +20695,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \sy díɲɛnatigɛ
 \dt 16/Aug/2006
 
-\lx /díɲɛ.wuli/
+\lx díɲɛ.wuli
 \va díyɛnwuli
 \ps n. 
 \ge fin du monde
@@ -20916,7 +20916,7 @@ poison dangereux.
 \ge qui jouit
 \dt 16/Aug/2006
 
-\lx /díya.goya/
+\lx díya.goya
 \va díyakoya
 \ph [jakoya]
 \ps n. 
@@ -20928,7 +20928,7 @@ poison dangereux.
 \xe bon gré, mal gré (de force)
 \dt 26/Sep/2006
 
-\lx /díya.goya/
+\lx díya.goya
 \va díyakoya
 \ph [jakoya]
 \ps v.t 
@@ -20979,7 +20979,7 @@ poison dangereux.
 \dt 16/Aug/2006
 
 \lx díyɛn
-\va /díɲɛ/
+\va díɲɛ
 \ph [dyɛn-->jɛn]
 \bw ar: dunya = monde 
 \ps n. 
@@ -20990,7 +20990,7 @@ poison dangereux.
 \dt 26/Sep/2006
 
 \lx díyɛn.den
-\va /díɲɛden/
+\va díɲɛden
 \ps n.
 \sn 1
 \ge qui a tout vu
@@ -21001,14 +21001,14 @@ poison dangereux.
 \dt 26/Sep/2006
 
 \lx díyɛn.laban
-\va /díɲɛlaban/
+\va díɲɛlaban
 \ps n. 
 \ge fin du monde
 \lt (univers.fin)
 \dt 16/Aug/2006
 
 \lx díyɛn.natigɛ
-\va /díɲɛlatigɛ/
+\va díɲɛlatigɛ
 \ps n. 
 \ge traversée de ce monde
 \ge vie
@@ -21017,7 +21017,7 @@ poison dangereux.
 \dt 26/Sep/2006
 
 \lx díyɛn.na.bɔ
-\va /díɲɛnabɔ/
+\va díɲɛnabɔ
 \ps n. 
 \ge temps passé sur la terre
 \ge vie
@@ -21026,7 +21026,7 @@ poison dangereux.
 \dt 26/Sep/2006
 
 \lx díyɛn.so.sigi
-\va /díɲɛsosigi/
+\va díɲɛsosigi
 \ps n. 
 \ge temps de vie sur la terre
 \ge vie terrestre
@@ -21036,7 +21036,7 @@ poison dangereux.
 \dt 26/Sep/2006
 
 \lx díyɛn.wuli
-\va /díɲɛwuli/
+\va díɲɛwuli
 \ps n. 
 \ge fin du monde
 \lt (monde.bouleverser)
@@ -21116,7 +21116,7 @@ poison dangereux.
 \xe certaines abeilles vont chercher du pollen que nous appelons "dinkamo"
 
 \lx dí.nɔnɔ
-\va /dínɔɔnɔ/
+\va dínɔɔnɔ
 \ps n. 
 \ge miel clarifié
 \lt (miel.pur)
@@ -21223,7 +21223,7 @@ non loin d'un bosquet de cette espèce.
 \dt 26/Sep/2006
 
 \lx dódo
-\va /dóodo/
+\va dóodo
 \ps n. 
 \ge tétrodon (sorte de poisson)
 \ge Tetraodon fahaka
@@ -21351,7 +21351,7 @@ non loin d'un bosquet de cette espèce.
 \ge ligne
 \dt 26/Sep/2006
 
-\lx /dòlen/
+\lx dòlen
 \va dɔ̀len
 \ve jɔ̀len
 \ve (f,bn) 
@@ -21511,7 +21511,7 @@ non loin d'un bosquet de cette espèce.
 \xe la femme fabrique de la bière de mil
 \dt 26/Sep/2006
 
-\lx /dòn/
+\lx dòn
 \va dò
 \ps prédicatif de phrase à prédicat
 \sn 1
@@ -21698,7 +21698,7 @@ non loin d'un bosquet de cette espèce.
 \dt 16/Aug/2006
 
 \lx dòno
-\va /dònon/
+\va dònon
 \ps n. 
 \ge coq
 \xv dòno kàsira
@@ -21910,7 +21910,7 @@ non loin d'un bosquet de cette espèce.
 \lt (jour.éloigné)
 \dt 16/Aug/2006
 
-\lx /dón.jate.lan/
+\lx dón.jate.lan
 \va dónjatilan
 \ps n. 
 \ge calendrier
@@ -22020,7 +22020,7 @@ non loin d'un bosquet de cette espèce.
 \ge pan !
 \dt 26/Sep/2006
 
-\lx /dóodo/
+\lx dóodo
 \cf  dódo
 \ps n. 
 \ge tétrodon (sorte de poisson)
@@ -22079,13 +22079,13 @@ non loin d'un bosquet de cette espèce.
 \ge personne ...)
 \dt 26/Sep/2006
 
-\lx /dórogo/
+\lx dórogo
 \cf dóroko
 \ps v.t 
 \ge serrer ...
 \dt 16/Aug/2006
 
-\lx /dórogo.len/
+\lx dórogo.len
 \ps n. 
 \ge mot composé 
 \ee (néologisme : on lie les éléments dans l'orthographe)
@@ -22188,7 +22188,7 @@ non loin d'un bosquet de cette espèce.
 \lt (soustraire.action)
 \dt 16/Aug/2006
 
-\lx /dɔ̀dɔ/
+\lx dɔ̀dɔ
 \va jɔ̀jɔ
 \ve (f,bn) 
 \ps v.t 
@@ -22318,7 +22318,7 @@ non loin d'un bosquet de cette espèce.
 
 \lx dɔ̀gɔn
 \cf dɔ̀ngɔ
-\cf /dùngɔ/
+\cf dùngɔ
 \ps n. 
 \ge volonté
 \dt 12/Aug/2006
@@ -22512,7 +22512,7 @@ est pas une
 \dt 11/Nov/2007
 
 \lx dɔ̀kɔtɔrɔ
-\va /dɔ̀gɔtɔrɔ/
+\va dɔ̀gɔtɔrɔ
 \bw fr : docteur 
 \ps n. 
 \ge infirmier
@@ -22520,7 +22520,7 @@ est pas une
 \dt 26/Sep/2006
 
 \lx dɔ́kɔtɔrɔmobili
-\va /dɔ́gɔtɔrɔmobili/
+\va dɔ́gɔtɔrɔmobili
 \ps n
 \lt docteur-voiture
 \ge ambulance / voiture des services de santé (avec une croix rouge)
@@ -22572,7 +22572,7 @@ est pas une
 \lx dɔ̀len
 \va jɔ̀len
 \ve (f,bn)
-\va /dòlen/
+\va dòlen
 \ps n. 
 \ge herbe coupante 
 \ge Imperata cylindrica
@@ -22772,7 +22772,7 @@ de support)
 \lx dɔ̀ngɔ
 \va dɔ̀gɔn
 \ve (f)
-\va /dùngɔ/
+\va dùngɔ
 \ps n.
 \ge goût
 \ge bon plaisir
@@ -22795,7 +22795,7 @@ de support)
 \dt 26/Sep/2006
 
 \lx dɔ̀nka
-\va /dɔ̀nkan/
+\va dɔ̀nkan
 \ps n. 
 \ge petit tambour de griot
 \dt 16/Aug/2006
@@ -22878,7 +22878,7 @@ de support)
 \dt 16/Aug/2006
 
 \lx dɔ́n.baa
-\va /dɔ́nbaga/
+\va dɔ́nbaga
 \ps n.
 \sn 1
 \ge qui connaît 
@@ -23078,12 +23078,12 @@ pratiques magiques (de protection)
 \xe bénir qn, faire des bénédictions 
 \dt 16/Aug/2006
 
-\lx dùba...kán
+\lx dùba…kán
 \ps v.i 
 \ge bénir qc
 \dt 16/Aug/2006
 
-\lx dùba...yé
+\lx dùba…yé
 \ps v.i 
 \ge faire des bénédictions à
 \xv Ála kà dùba  í yé !
@@ -23102,14 +23102,14 @@ pratiques magiques (de protection)
 \xe que Dieu accueille favorablement tes souhaits 
 \dt 26/Sep/2006
 
-\lx dùbabu...kàn
+\lx dùbabu…kàn
 \ps v.i 
 \ge bénir qc
 \xv mɔ̀npɛri dùbabura  búru kàn
 \xe le prêtre a béni le pain
 \dt 16/Aug/2006
 
-\lx dùbabu...yé
+\lx dùbabu…yé
 \ps v.i 
 \ge bénir qn
 \dt 16/Aug/2006
@@ -23190,7 +23190,7 @@ pratiques magiques (de protection)
 
 \lx dùfa
 \ue (f)
-\va /dùga/
+\va dùga
 \va dùba
 \bw ar: du`a' = invocation 
 \ps v.i 
@@ -23275,7 +23275,7 @@ pratiques magiques (de protection)
 \dt 16/Aug/2006
 
 \lx dùgare
-\va /dùngare/
+\va dùngare
 \ps n. 
 \ge miroir
 \ge glace
@@ -23554,7 +23554,7 @@ pratiques magiques (de protection)
 \lt (village.grand)
 \dt 26/Sep/2006
 
-\lx dùgu.ci*
+\lx dùgu.ci
 \ps n.
 \sn 1
 \ge (Typhlops punctatus
@@ -23772,7 +23772,7 @@ pratiques magiques (de protection)
 \dt 16/Aug/2006
 
 \lx dùlɔki
-\va /dùloki/
+\va dùloki
 \ph [dl]
 \ps n. 
 \ge tout vêtement qui couvre la poitrine
@@ -24095,14 +24095,14 @@ meurs !
 \xe la nourriture de la maison est meilleure que la nourriture commune
 \dt 16/Aug/2006
 
-\lx /dùngare/
+\lx dùngare
 \cf dùgare
 \ps n. 
 \ge miroir
 \ge glace
 \dt 26/Sep/2006
 
-\lx /dùnge/
+\lx dùnge
 \ue (-f,-bk) 
 \ps n. 
 \sn 1
@@ -24115,7 +24115,7 @@ meurs !
 \xe un tel fréquente volontiers cet endroit
 \dt 26/Sep/2006
 
-\lx /dùngɔ/
+\lx dùngɔ
 \cf dɔ̀ngɔ 
 \ps n. 
 \ge bon plaisir
@@ -24131,7 +24131,7 @@ meurs !
 \dt 16/Aug/2006
 
 \lx dúniya
-\va /dúnuya/
+\va dúnuya
 \bw ar: dunya = id. 
 \ps n. 
 \ge univers
@@ -24174,7 +24174,7 @@ meurs !
 \dt 11/Nov/2007
 
 \lx dùnu
-\va /dùnun/
+\va dùnun
 \ps n. 
 \sn 1
 \ge tambour 
@@ -24192,7 +24192,7 @@ meurs !
 \dt 16/Aug/2006
 
 \lx dùnufɔla
-\va /dúnunfɔla/
+\va dúnunfɔla
 \ps n
 \lt tambour-joueur
 \ge joueur de tambour
@@ -24223,7 +24223,7 @@ meurs !
 \rem bz, du, f
 \dt 11/Nov/2007
 
-\lx /dúnuya/
+\lx dúnuya
 \cf dúniya
 \bw ar: dunya = id. 
 \ps n. 
@@ -24687,7 +24687,7 @@ cmavec de chaque côté une ailette étroite, à l'intérieur une ou deux  
 \dt 19/Aug/2006
 
 \lx dùuru
-\va /dùrugu/
+\va dùrugu
 \sn 1
 \ps v.réf 
 \ge s'abaisser sous qc
@@ -24935,7 +24935,7 @@ cmavec de chaque côté une ailette étroite, à l'intérieur une ou deux  
 \ge poële à frire pour les beignets (autrefois en poterie)
 \dt 16/Aug/2006
 
-\lx /fáa/
+\lx fáa
 \va fwá
 \ue (f)
 \va fága
@@ -25252,7 +25252,7 @@ choses)
 \dt 16/Aug/2006
 
 \lx fáatu
-\va /fátu/
+\va fátu
 \bw ar: fat = passer 
 \ps n. 
 \ge mourir
@@ -25262,7 +25262,7 @@ choses)
 \dt 26/Sep/2006
 
 \lx fáatuli
-\va /fátuli/
+\va fátuli
 \ps n
 \lt mourir-action
 \ge décès
@@ -25526,7 +25526,7 @@ choses)
 \dt 16/Aug/2006
 
 \lx fákwoyi
-\va /fákuwoyi/
+\va fákuwoyi
 \ps n. 
 \ge sauce des Songhaïs (à base de "nsɔbɔn")
 \dt 16/Aug/2006
@@ -25592,7 +25592,7 @@ choses)
 \ge frapper dans le vide
 \dt 16/Aug/2006
 
-\lx /fálakɔ/
+\lx fálakɔ
 \cf fálanko
 \ps n. 
 \ge celui qui répète les paroles d'un imam
@@ -25615,7 +25615,7 @@ choses)
 \dt 16/Aug/2006
 
 \lx fálanko
-\va /fálakɔ/
+\va fálakɔ
 \ps n. 
 \ge répétiteur des paroles d'un imam
 \dt 16/Aug/2006
@@ -26017,14 +26017,14 @@ choses)
 \dt 19/Aug/2006
 
 \lx fána
-\va /fánan/
+\va fánan
 \ps n. 
 \ge distance assez grande
 \xv fána fɛ̀
 \xe au loin, à distance
 \dt 16/Aug/2006
 
-\lx /fánan/
+\lx fánan
 \cf nfánan
 \ps n. 
 \ge Heterotis niloticus (sorte de poisson)
@@ -27370,7 +27370,7 @@ totalement inconnu même à Kolokani)
 \lt (fou.suf abs)
 \dt 16/Aug/2006
 
-\lx /fàtu/
+\lx fàtu
 \cf fàatu
 \ps v. i 
 \ge mourir
@@ -27417,7 +27417,7 @@ totalement inconnu même à Kolokani)
 \dt 16/Aug/2006
 
 \lx fáyiri
-\va /fájiri/
+\va fájiri
 \ps n.
 \sn 1
 \ge prière musulmane avant le lever du soleil
@@ -27607,7 +27607,7 @@ totalement inconnu même à Kolokani)
 \lt (père.'homonyme')
 \dt 16/Aug/2006
 
-\lx /féere/
+\lx féere
 \va fyére
 \ve (f)
 \ps n. 
@@ -27615,14 +27615,14 @@ totalement inconnu même à Kolokani)
 \ge inflorescence
 \dt 26/Sep/2006
 
-\lx /féere/
+\lx féere
 \va fyére
 \ue (f)
 \ps v.i 
 \ge fleurir
 \dt 16/Aug/2006
 
-\lx /fèere/
+\lx fèere
 \va fyère
 \ve (f)
 \ps n. 
@@ -27632,7 +27632,7 @@ totalement inconnu même à Kolokani)
 \xe l'échec d'un marché n'est pas un malheur, chacun garde son bien
 \dt 26/Sep/2006
 
-\lx /fèere/
+\lx fèere
 \va fyère
 \ve (f)
 \ps v.t.
@@ -27646,14 +27646,14 @@ totalement inconnu même à Kolokani)
 \xe la forgeronne fabrique des canaris pour que les bambara les achètent
 \dt 16/Aug/2006
 
-\lx /fèere.da/
+\lx fèere.da
 \va fyèreda
 \ps n. 
 \ge prix de vente
 \lt (vendre.prix)
 \dt 16/Aug/2006
 
-\lx /fèere.fɛn/
+\lx fèere.fɛn
 \va fyèrefɛn
 \ps n. 
 \ge marchandise
@@ -27742,7 +27742,7 @@ totalement inconnu même à Kolokani)
 \dt 26/Sep/2006
 
 \lx fèrin
-\va /fèrun/
+\va fèrun
 \ps v.t 
 \ge serrer fort
 \ge plaquer
@@ -27827,7 +27827,7 @@ totalement inconnu même à Kolokani)
 \ge crème du lait
 \dt 16/Aug/2006
 
-\lx /fɛ̀ɛnɛ/
+\lx fɛ̀ɛnɛ
 \ue (-f)
 \va fyɛ̀nɛ
 \ue (bn)
@@ -27850,7 +27850,7 @@ dans lesquelles on trait les vaches)
 \lx fɛ́ɛrɛ
 \va fyɛ́rɛ
 \ue (f)
-\va /fɛ́ɛrɔ/
+\va fɛ́ɛrɔ
 \ps n. 
 \ge haillons
 \ge loques
@@ -27859,7 +27859,7 @@ dans lesquelles on trait les vaches)
 \xe habiller qn, lui enlever ses haillons, le vêtir 
 \dt 26/Sep/2006
 
-\lx /fɛ̀ɛrɛ/
+\lx fɛ̀ɛrɛ
 \va fyɛ̀rɛ
 \ps n. 
 \ge ruse
@@ -27898,7 +27898,7 @@ dans lesquelles on trait les vaches)
 \lx fɛ́ɛrɛn
 \va fyɛ́rɛn
 \ue (f)
-\va /fɛ́rɛn/
+\va fɛ́rɛn
 \va pɛ́ɛrɛn
 \ue (bk)
 \ps n.
@@ -27953,8 +27953,8 @@ dans lesquelles on trait les vaches)
 \ge éviter 
 \dt 16/Aug/2006
 
-\lx /fɛ́gɛn/
-\va /fíɲɛ/
+\lx fɛ́gɛn
+\va fíɲɛ
 \ps adj.préd 
 \cf  fíyɛn
 \ge léger 
@@ -28044,7 +28044,7 @@ dans lesquelles on trait les vaches)
 \dt 16/Aug/2006
 
 \lx fɛ́ngɛɲɛ
-\va /fɛ́ngɛngɛ/
+\va fɛ́ngɛngɛ
 \ps n. 
 \ge derrière
 \ge fesses
@@ -28275,7 +28275,7 @@ dans lesquelles on trait les vaches)
 
 \lx fɛ́ɲɛn
 \ue (f)
-\cf  /fíɲɛn/
+\cf  fíɲɛn
 \ps n. 
 \ge grande jarre 
 \dt 16/Aug/2006
@@ -28350,7 +28350,7 @@ dans lesquelles on trait les vaches)
 \xe le chien secoue avec force le rat voleur
 \dt 26/Sep/2006
 
-\lx /fɛ́rɛn/
+\lx fɛ́rɛn
 \cf  fɛ́ɛrɛn
 \cf fyɛ́rɛn
 \cf pɛ́ɛrɛn
@@ -28373,7 +28373,7 @@ dans lesquelles on trait les vaches)
 \dt 26/Sep/2006
 
 \lx fɛ́rɛ.baa.nci
-\va /fɛ́rɛbaganci/
+\va fɛ́rɛbaganci
 \ps n.
 \sn 1
 \ge qui n'a rien à faire
@@ -28390,14 +28390,14 @@ dans lesquelles on trait les vaches)
 \dt 16/Aug/2006
 
 \lx fɛ̀rin
-\cf  fèrin  /fèrun/
+\cf  fèrin  fèrun
 \ps v.t 
 \ge serrer
 \ge coincer
 \dt 26/Sep/2006
 
 \lx fɛ́sɛfɛsɛ
-\va /fɛ̀sɛfɛsɛ/
+\va fɛ̀sɛfɛsɛ
 \ps v.t 
 \ge faire une action avec soin
 \ge enquêter
@@ -28446,7 +28446,7 @@ dans lesquelles on trait les vaches)
 \dt 11/Nov/2007
 
 \lx fɛ̀tɛ
-\va /pɛ̀tɛ/
+\va pɛ̀tɛ
 \ps v.t 
 \ge aplatir
 \xv ń'í sěn dára  mángoro kàn, à bɛ́ fɛ̀tɛ
@@ -28922,7 +28922,7 @@ de différentes longueurs)
 \dt 26/Sep/2006
 
 \lx fìliya
-\va fìriya *
+\va fìriya 
 \ps n
 \lt
 \ge veuvage
@@ -29360,12 +29360,12 @@ de différentes longueurs)
 \dt 26/Sep/2006
 
 \lx fíɲɛ
-\va /fíɲɛn/
+\va fíɲɛn
 \ps n. 
 \ge grande jarre
 \dt 16/Aug/2006
 
-\lx /fíɲɛ/
+\lx fíɲɛ
 \cf fíyɛn
 \cf fɛ́gɛn
 \ps adj.préd 
@@ -29374,7 +29374,7 @@ de différentes longueurs)
 \xe il manque de discrétion
 \dt 16/Aug/2006
 
-\lx /fíɲɛ/
+\lx fíɲɛ
 \cf fíyɛn
 \ps n. 
 \ge vent
@@ -29382,7 +29382,7 @@ de différentes longueurs)
 \ee (pour les mots composés ou dérivés de ces trois mots)voir plus loin les formes en fiyɛn
 \dt 26/Sep/2006
 
-\lx /fìɲɛ/
+\lx fìɲɛ
 \cf fìyɛn
 \ps n.
 \sn 1
@@ -29699,7 +29699,7 @@ de différentes longueurs)
 \dt 16/Aug/2006
 
 \lx fìtirifátara
-\va /fìsirifásara/
+\va fìsirifásara
 \ps n. 
 \ge ingrat
 \dt 15/Aug/2006
@@ -29818,8 +29818,8 @@ de différentes longueurs)
 
 \lx fíyɛn
 \ph [fy]
-\va /fíɲɛ/
-\va /fɛ́ngɛ/
+\va fíɲɛ
+\va fɛ́ngɛ
 \va fɛ́gɛn
 \ps adj.préd
 \sn 1
@@ -29839,7 +29839,7 @@ de différentes longueurs)
 
 \lx fíyɛn
 \ph [fy]
-\va /fíɲɛ/
+\va fíɲɛ
 \ps n. 
 \ge vent
 \ge air (que l'on respire)
@@ -29870,7 +29870,7 @@ de différentes longueurs)
 
 \lx fìyɛn
 \ph [fy]
-\va /fìɲɛ/
+\va fìɲɛ
 \ps n. 
 \sn 1
 \ge défaut physique
@@ -29884,7 +29884,7 @@ de différentes longueurs)
 
 \lx fíyɛnbila.baliya
 \ph [fy]
-\va /fíɲɛbilabaliya/
+\va fíɲɛbilabaliya
 \ph [bl]
 \lt (lâchage d'air.absence)
 \ps n.
@@ -29896,7 +29896,7 @@ de différentes longueurs)
 \dt 26/Sep/2006
 
 \lx fíyɛnminɛwaati
-\va /fíɲɛminɛwaati/
+\va fíɲɛminɛwaati
 \ps n
 \lt air-prendre-moment
 \ge récréation
@@ -29929,7 +29929,7 @@ de différentes longueurs)
 
 \lx fíyɛn.bana
 \ph [fy]
-\va /fíɲɛbana/
+\va fíɲɛbana
 \ps n. 
 \ge toute maladie attribuée au vent : 
 \ge méningite
@@ -29946,7 +29946,7 @@ de différentes longueurs)
 
 \lx fíyɛn.bila
 \ph [fy]
-\va /fíɲɛbila/
+\va fíɲɛbila
 \ph [bl]
 \ps n. 
 \sn 1
@@ -29959,7 +29959,7 @@ de différentes longueurs)
 
 \lx fíyɛn.di.lan
 \ph [fy]
-\va /fíɲɛdilan/
+\va fíɲɛdilan
 \ps n. 
 \sn 1
 \ge ventilateur 
@@ -29970,7 +29970,7 @@ de différentes longueurs)
 
 \lx fíyɛn.don.da
 \ph [fy]
-\va /fíɲɛdonda/
+\va fíɲɛdonda
 \ps n. 
 \sn 1
 \ge fenêtre
@@ -29981,7 +29981,7 @@ de différentes longueurs)
 
 \lx fíyɛn.don.nan
 \ph [fy]
-\va /fíɲɛdonnan/
+\va fíɲɛdonnan
 \ps n. 
 \ge pompe de vélo ...
 \lt (air.entrer.ce qui sert à)
@@ -29989,7 +29989,7 @@ de différentes longueurs)
 
 \lx fíyɛn.fɛrɛn
 \ph [fy]
-\va /fíɲɛfɛrɛn/
+\va fíɲɛfɛrɛn
 \ps n. 
 \ge éolienne
 \lt (vent.hélice)
@@ -29997,7 +29997,7 @@ de différentes longueurs)
 
 \lx fíyɛn.foroko
 \ph [fy]
-\va /fíɲɛforoko/
+\va fíɲɛforoko
 \ps n. 
 \ge chambre à air
 \lt (air.enveloppe)
@@ -30005,7 +30005,7 @@ de différentes longueurs)
 
 \lx fíyɛn.foron
 \ph [fy]
-\va /fíɲɛforon/
+\va fíɲɛforon
 \ps n. 
 \ge inspiration
 \lt (air.aspirer)
@@ -30015,7 +30015,7 @@ de différentes longueurs)
 
 \lx fíyɛn.kɛ.lan
 \ph [fy]
-\va /fíɲɛkɛlan/
+\va fíɲɛkɛlan
 \ps n. 
 \ge pompe (vélo ...)
 \lt (air.mettre.ce qui sert)
@@ -30023,7 +30023,7 @@ de différentes longueurs)
 
 \lx fíyɛn.man
 \ph [fy]
-\va /fíɲɛman/
+\va fíɲɛman
 \ps n
 \ps adj
 \ge léger
@@ -30034,7 +30034,7 @@ de différentes longueurs)
 
 \lx fìyɛn.ma.ko
 \ph [fy]
-\va /fìɲɛmako/
+\va fìɲɛmako
 \ps n. 
 \sn 1
 \ge qui a un défaut (physique ...)
@@ -30045,7 +30045,7 @@ de différentes longueurs)
 
 \lx fìyɛn.ma.yɔrɔ
 \ph [fy]
-\va /fìɲɛmayɔrɔ/
+\va fìɲɛmayɔrɔ
 \ps n. 
 \ge endroit défectueux (au physique ou au moral)
 \lt (défaut.qui a.lieu)
@@ -30053,7 +30053,7 @@ de différentes longueurs)
 
 \lx fíyɛn.minɛ
 \ph [fy]
-\va /fíɲɛminɛ/
+\va fíɲɛminɛ
 \ps n.
 \sn 1
 \ge inspiration
@@ -30068,7 +30068,7 @@ de différentes longueurs)
 
 \lx fíyɛn.nabɔ
 \ph [fy]
-\va /fíɲɛnabɔ/
+\va fíɲɛnabɔ
 \lt (air.faire sortir)
 \ps n. 
 \sn 1
@@ -30084,7 +30084,7 @@ de différentes longueurs)
 
 \lx fíyɛn.ɲɛdimi
 \ph [fy]
-\va /fíɲɛɲɛdimi/
+\va fíɲɛɲɛdimi
 \ps n. 
 \ge conjonctivite épidémique
 \lt (vent.conjonctivite)
@@ -30092,7 +30092,7 @@ de différentes longueurs)
 
 \lx fíyɛn.sama
 \ph [fy]
-\va /fíɲɛsama/
+\va fíɲɛsama
 \ps n. 
 \ge inspiration
 \sy fíyɛnminɛ
@@ -30102,7 +30102,7 @@ de différentes longueurs)
 
 \lx fíyɛn.ya
 \ph [fy]
-\va /fíɲɛya/
+\va fíɲɛya
 \ps n. 
 \sn 1
 \ge légèreté
@@ -30113,7 +30113,7 @@ de différentes longueurs)
 
 \lx fíyɛn.ya
 \ph [fy]
-\va /fíɲɛya/
+\va fíɲɛya
 \ps v.t 
 \sn 1
 \ge alléger
@@ -30154,7 +30154,7 @@ de différentes longueurs)
 \xe les abeilles ont quitté (la ruche)
 \dt 26/Sep/2006
 
-\lx /fó/
+\lx fó
 \cf fɔ́
 \ps prép 
 \ge jusqu'à...
@@ -30262,7 +30262,7 @@ de différentes longueurs)
 \ge être très léger ou poreux
 \dt 16/Aug/2006
 
-\lx /fógonfogon/
+\lx fógonfogon
 \ps n. 
 \ge arbuste
 \ge roustonnier 
@@ -30315,7 +30315,7 @@ de différentes longueurs)
 \ge glume
 \dt 26/Sep/2006
 
-\lx /fòlo/
+\lx fòlo
 \cf fòolo
 \ps n. 
 \ge goître
@@ -30338,7 +30338,7 @@ de différentes longueurs)
 
 \lx fòlófòndó
 \ue (f)
-\va /fònfon/
+\va fònfon
 \ps n. 
 \ge traces de pas
 \ge sentier battu
@@ -30413,7 +30413,7 @@ de différentes longueurs)
 
 \lx fòndo
 \ue (f)
-\va /fònfon/
+\va fònfon
 \cf fòlo
 \cf 
 \ps n. 
@@ -30431,7 +30431,7 @@ de différentes longueurs)
 \dt 26/Sep/2006
 
 \lx fònfo
-\va /fònfon/
+\va fònfon
 \va fòlo
 \va fòndo
 \ps n. 
@@ -30496,7 +30496,7 @@ de différentes longueurs)
 \dt 26/Sep/2006
 
 \lx fòolo
-\va /fòlo/
+\va fòlo
 \ps n. 
 \ge goître
 \dt 15/Aug/2006
@@ -30518,7 +30518,7 @@ de différentes longueurs)
 
 \lx fòori
 \va fòosi
-\va /fòri/
+\va fòri
 \ps v.t 
 \ge retirer vivement qc (d'un ensemble
 \ge d'un endroit ...)
@@ -30547,7 +30547,7 @@ de différentes longueurs)
 \ge trop cuit (tubercules)
 \dt 16/Aug/2006
 
-\lx /fòri/
+\lx fòri
 \cf fòori
 \ps v.t 
 \ge retirer vivement
@@ -30651,7 +30651,7 @@ de différentes longueurs)
 \lt (commun.nom)
 \dt 16/Aug/2006
 
-\lx /fòroforo/
+\lx fòroforo
 \cf fùrufuru
 \ps n. 
 \ge phlyctène
@@ -30961,7 +30961,7 @@ maladie, sans l'avertir lui-même)
 \xe il joue du tambour
 \dt 26/Sep/2006
 
-\lx fɔ́...kɔ́
+\lx fɔ́…kɔ́
 \ps v.i 
 \sn 1
 \ge venir en l'absence de qn
@@ -31215,7 +31215,7 @@ maladie, sans l'avertir lui-même)
 \nt
 \dt 11/Nov/2007
 
-\lx fɔ́nfɔn.nin*
+\lx fɔ́nfɔn.nin
 \ps n. 
 \ge serpent 
 \ge Causus rhombeatus)
@@ -31330,14 +31330,14 @@ maladie, sans l'avertir lui-même)
 \dt 26/Sep/2006
 
 \lx fɔ́rɔ.dabulu
-\va /fɔ́rɔdaburu/
+\va fɔ́rɔdaburu
 \ps n. 
 \ge prépuce
 \lt (pénis.bout)
 \dt 15/Aug/2006
 
 \lx fɔ́rɔ.nu
-\va /fɔ́rɔnun/
+\va fɔ́rɔnun
 \ps n. 
 \ge gland (anat)
 \lt (pénis.nez)
@@ -31363,7 +31363,7 @@ maladie, sans l'avertir lui-même)
 \dt 26/Sep/2006
 
 \lx fɔ̀sɔn-fɔ̀sɔn
-\va /pɔ̀sɔn-pɔ̀sɔn/
+\va pɔ̀sɔn-pɔ̀sɔn
 \ps v.i 
 \ge flétrir
 \ge faner
@@ -31379,7 +31379,7 @@ maladie, sans l'avertir lui-même)
 \dt 26/Sep/2006
 
 \lx fɔ́.baa
-\va /fɔ́baga/
+\va fɔ́baga
 \ps n. 
 \sn 1
 \ge celui qui dit 
@@ -31388,7 +31388,7 @@ maladie, sans l'avertir lui-même)
 \lt (dire/jouer.celui qui)
 \dt 16/Aug/2006
 
-\lx fɔ́-fɔ́...kɔ́
+\lx fɔ́-fɔ́…kɔ́
 \ps v.i 
 \sn 1
 \ge se succéder
@@ -31765,7 +31765,7 @@ maladie, sans l'avertir lui-même)
 
 \lx fùlantara
 \ue (f)
-\va /sùlantɛrɛ/
+\va sùlantɛrɛ
 \ps n. 
 \ge gecko
 \dt 16/Aug/2006
@@ -31841,7 +31841,7 @@ maladie, sans l'avertir lui-même)
 \dt 12/Aug/2006
 
 \lx fúnakɛ
-\va /fúnankɛ/
+\va fúnankɛ
 \ue (-f)
 \ps n. 
 \ge jeune 
@@ -31908,7 +31908,7 @@ maladie, sans l'avertir lui-même)
 \dt 16/Aug/2006
 
 \lx fúnu
-\va /fúnun/
+\va fúnun
 \ps n.
 \sn 1
 \ge gonflement : oedème
@@ -31921,7 +31921,7 @@ maladie, sans l'avertir lui-même)
 \dt 26/Sep/2006
 
 \lx fúnu
-\va /fúnun/
+\va fúnun
 \ps v.i 
 \sn 1
 \ge gonfler
@@ -31936,7 +31936,7 @@ maladie, sans l'avertir lui-même)
 \dt 26/Sep/2006
 
 \lx fúnuba
-\va /fúnunba/
+\va fúnunba
 \ps n
 \lt enflure-grande
 \ge oedème
@@ -31961,13 +31961,13 @@ maladie, sans l'avertir lui-même)
 \dt 26/Sep/2006
 
 \lx fúnufunu
-\va /fúnunfunun/
+\va fúnunfunun
 \ps n. 
 \ge tourbillon
 \ge petit cyclone
 \dt 26/Sep/2006
 
-\lx /fúnun/
+\lx fúnun
 \cf fúnu
 \ps v.i 
 \ge gonfler ...
@@ -32134,7 +32134,7 @@ maladie, sans l'avertir lui-même)
 \lt soins-endroit
 \ge centre de soins, dispensaire
 \sy fúrakɛyɔrɔ
-\sy fúrakɛso...
+\sy fúrakɛso…
 \xv
 \xe
 \xv
@@ -32160,7 +32160,7 @@ maladie, sans l'avertir lui-même)
 \lt (petit remède.tête.deux.étui)
 \dt 26/Sep/2006
 
-\lx /fúran/
+\lx fúran
 \va fúra
 \ps v.t 
 \ge balayer
@@ -32307,7 +32307,7 @@ ou cypéracée )
 \dt 16/Aug/2006
 
 \lx fúra.lan
-\va /fúrannan/
+\va fúrannan
 \ps n. 
 \ge balai
 \lt (balayer.ce qui sert à)
@@ -32363,7 +32363,7 @@ ou cypéracée )
 \dt 26/Sep/2006
 
 \lx fúra.syɔri
-\va /fúrasɔɔri/
+\va fúrasɔɔri
 \ps n. 
 \ge homme primitif (avec des feuilles pour tout habit)
 \lt (feuille.insérer)
@@ -32502,7 +32502,7 @@ ou cypéracée )
 \xe ne te fâche pas contre ton ami
 \dt 16/Aug/2006
 
-\lx /fùrumɛ/
+\lx fùrumɛ
 \ue (bk)
 \ps n. 
 \ge galette
@@ -32736,7 +32736,7 @@ ou cypéracée )
 \dt 26/Sep/2006
 
 \lx fúsunfusun
-\va /fúsufusu/
+\va fúsufusu
 \ps v.i 
 \sn 1
 \ge bruiner
@@ -32800,7 +32800,7 @@ ou cypéracée )
 \dt 26/Sep/2006
 
 \lx fwá
-\va /fúwaa/
+\va fúwaa
 \va pwá
 \ps idéo.
 \ge d'une blancheur éclatante
@@ -32808,7 +32808,7 @@ ou cypéracée )
 
 \lx fwá
 \ue (f)
-\va /fága/
+\va fága
 \ps n. 
 \ge jarre de grande dimension
 \dt 16/Aug/2006
@@ -32834,7 +32834,7 @@ ou cypéracée )
 
 \lx fwǎn
 \ue (f)
-\va /fànga/
+\va fànga
 \ps n. 
 \ge force ...
 \dt 16/Aug/2006
@@ -32877,19 +32877,19 @@ ou cypéracée )
 \dt 16/Aug/2006
 
 \lx fyére
-\cf /féere/
+\cf féere
 \ps v.t 
 \ge fleurir ...
 \dt 16/Aug/2006
 
 \lx fyère
-\cf /fèere/
+\cf fèere
 \ps v.t 
 \ge vendre ...
 \dt 16/Aug/2006
 
 \lx fyéwu
-\cf /féwu/
+\cf féwu
 \ps idéo.
 \ge nullement
 \ge pas du tout (+ nég) 
@@ -32985,21 +32985,21 @@ ou cypéracée )
 
 \lx fyɛ́n
 \ue (f)
-\va /syɛ́n/
+\va syɛ́n
 \ps n. 
 \ge plant
 \dt 16/Aug/2006
 
 \lx fyɛ̀nɛ
 \ue (bk,bn)
-\va /fɛ̀ɛnɛ/
+\va fɛ̀ɛnɛ
 \ps v.t 
 \ge étendre
 \dt 16/Aug/2006
 
 \lx fyɛ́rɛ
 \ue (bn,f)
-\va /fɛ́ɛrɔ/
+\va fɛ́ɛrɔ
 \ps n. 
 \ge guenilles
 \ge haillons
@@ -33008,7 +33008,7 @@ ou cypéracée )
 
 \lx fyɛ̀rɛ
 \ue (f)
-\va /fɛ̀ɛrɛ/
+\va fɛ̀ɛrɛ
 \ps n. 
 \ge procédé
 \ge moyen ...
@@ -33017,7 +33017,7 @@ ou cypéracée )
 \lx fyɛ́rɛn
 \va fyɛ́tɛrɛn
 \ue (f)
-\va /fɛ́rɛn/
+\va fɛ́rɛn
 \va fɛ́rɛlɛn
 \ue (bn)
 \ps n. 
@@ -33102,7 +33102,7 @@ ou cypéracée )
 \xe dresse le secco devant l'ouverture de la porte !
 \dt 26/Sep/2006
 
-\lx /gàaragaara/
+\lx gàaragaara
 \va gàragara
 \ve (f,bk) 
 \ph [gw-gw]
@@ -33167,7 +33167,7 @@ ou cypéracée )
 \ge "petite amie"
 \dt 16/Aug/2006
 
-\lx /gáfe/
+\lx gáfe
 \ue (-f,-bk,-bn) 
 \ps n. 
 \ge livre (à lire)
@@ -33220,12 +33220,12 @@ ou cypéracée )
 \nt
 \dt 11/Nov/2007
 
-\lx /gáfe.lasagon.na/
+\lx gáfe.lasagon.na
 \ps n. 
 \ge bibliothécaire
 \lt (livre.garder.celui qui)
 
-\lx /gáfe.lasagon.so/
+\lx gáfe.lasagon.so
 \ps n. 
 \ge bibliothèque
 \lt (livre.garder.maison)
@@ -33294,7 +33294,7 @@ ou cypéracée )
 \xe si tu refuses tous les partis, tu resteras vieille fille
 \dt 16/Aug/2006
 
-\lx /gála/
+\lx gála
 \cf gɛ́lɛ
 \ph [gw]
 \ps n. 
@@ -33646,7 +33646,7 @@ ou cypéracée )
 \dt 16/Aug/2006
 
 \lx gàna
-\va /gànan/
+\va gànan
 \ph [gw]
 \ps v.t 
 \ge raser complètement
@@ -33654,7 +33654,7 @@ ou cypéracée )
 \dt 26/Sep/2006
 
 \lx gána
-\va /gánan/
+\va gánan
 \ph [gw]
 \ps n
 \ps adj
@@ -33801,7 +33801,7 @@ ou cypéracée )
 \dt 26/Sep/2006
 
 \lx gánse
-\va /gánsi/
+\va gánsi
 \ve (-f,-bk,-bn) 
 \ps v.t 
 \ge publier
@@ -33883,7 +33883,7 @@ ou cypéracée )
 
 \lx gàra
 \ue (f)
-\cf /gɛ̀rɛ/ 
+\cf gɛ̀rɛ 
 \ph [gw]
 \ps v.i 
 \ge s'approcher
@@ -33913,7 +33913,7 @@ ou cypéracée )
 
 \lx gàragara
 \ue (f,bk)
-\va /gàaragaara/
+\va gàaragaara
 \ph [gwàràgwara]
 \ps n. 
 \ge brancard
@@ -33978,7 +33978,7 @@ ou cypéracée )
 \ge entraver
 
 \lx gárana
-\va /gàrina/
+\va gàrina
 \ph [garna]
 \ps n. 
 \ge corne à poudre
@@ -34007,7 +34007,7 @@ ou cypéracée )
 \lt (élève-marabout.suf abs)
 \dt 26/Sep/2006
 
-\lx /gàrijɛgɛ/
+\lx gàrijɛgɛ
 \va gàrisɛgɛ
 \bw ar: ar-rizq = subsistance, chance 
 \ph [garjɛgɛ]
@@ -34022,7 +34022,7 @@ ou cypéracée )
 \xe si l'épouse reste longtemps sans entrer en grossesse...
 \dt 16/Aug/2006
 
-\lx /gàrijɛgɛ/
+\lx gàrijɛgɛ
 \ps v.i 
 \sn 1
 \ge avoir de la chance
@@ -34061,14 +34061,14 @@ ou cypéracée )
 \ge enceinte (femme)
 \dt 26/Sep/2006
 
-\lx /gàrina/
+\lx gàrina
 \cf gárana
 \ps n. 
 \ge corne à poudre
 \dt 16/Aug/2006
 
 \lx gàrisɛgɛ
-\cf /gàrijɛgɛ/
+\cf gàrijɛgɛ
 \ps n. 
 \sn 1
 \ge chance 
@@ -34185,7 +34185,7 @@ ou cypéracée )
 \dt 26/Sep/2006
 
 \lx gáwulɛ
-\va /gáwulɔ/
+\va gáwulɔ
 \ps n. 
 \ge classe de griots
 \ee ( effrontés, n'hésitent pas à maudire ...)
@@ -34456,7 +34456,7 @@ de métal (prov)
 \ge corne de bétail
 \dt 16/Aug/2006
 
-\lx /gère/
+\lx gère
 \va gèren
 \ue (-bk)
 \ph [gw]
@@ -34567,7 +34567,7 @@ de métal (prov)
 
 \lx gèren.tigɛ
 \ph [gw]
-\va /gɛ̀rɛntɛgɛ/
+\va gɛ̀rɛntɛgɛ
 \ps v.t 
 \sn 1
 \ge gauler des fruits
@@ -34594,7 +34594,7 @@ de métal (prov)
 \xe le fil de chaîne du riche c'est le pauvre (prov)
 \dt 19/Aug/2006
 
-\lx /gèse/
+\lx gèse
 \va ngèsen
 \ve (f,bk) 
 \ps v.i 
@@ -34711,7 +34711,7 @@ de métal (prov)
 \dt 16/Aug/2006
 
 \lx gɛ́lɛ
-\va /gála/
+\va gála
 \ph [gw]
 \ps n. 
 \sn 1
@@ -34804,7 +34804,7 @@ de métal (prov)
 \dt 26/Sep/2006
 
 \lx gɛ̀lɛn 
-\va /gɛ̀nɛn/
+\va gɛ̀nɛn
 \ph [gw]
 \ps n. 
 \ge tibia
@@ -34908,7 +34908,7 @@ de métal (prov)
 \ge garder les troupeaux
 \dt 26/Sep/2006
 
-\lx /gɛ̀nɛn/
+\lx gɛ̀nɛn
 \cf gɛ̀lɛn
 \ph [gw]
 \ps n. 
@@ -35090,7 +35090,7 @@ de métal (prov)
 \nt
 \dt 11/Nov/2007
 
-\lx /gɛ̀rɛntɛgɛ/
+\lx gɛ̀rɛntɛgɛ
 \cf gèrentigɛ
 \ph [gw]
 \ps v.t 
@@ -35175,7 +35175,7 @@ de métal (prov)
 \dt 12/Aug/2006
 
 \lx gìndo
-\va /gùndo/
+\va gùndo
 \ps n. 
 \ge secret
 \xv gìndo fára
@@ -35197,7 +35197,7 @@ de métal (prov)
 
 \lx gíni
 \ue (f)
-\cf /gírin/
+\cf gírin
 \ps v.i 
 \ge se précipiter
 \dt 16/Aug/2006
@@ -35417,7 +35417,7 @@ de métal (prov)
 \xe il a claqué la porte, vlan !
 \dt 16/Aug/2006
 
-\lx /gó/
+\lx gó
 \va kó
 \ve (f,bk) 
 \ps adj.préd
@@ -35723,7 +35723,7 @@ t'en reparle pas
 \ge prendre de force et par surprise
 \dt 16/Aug/2006
 
-\lx /gòro/
+\lx gòro
 \cf gòron
 \ps v.t 
 \ge frotter énergiquement
@@ -35753,7 +35753,7 @@ t'en reparle pas
 \dt 16/Aug/2006
 
 \lx gòron
-\va /gòro/
+\va gòro
 \ps v.t     
 \sn 1
 \ge frotter énergiquement
@@ -35780,7 +35780,7 @@ t'en reparle pas
 \ge caroncule des oiseaux
 \dt 26/Sep/2006
 
-\lx /gòsi/
+\lx gòsi
 \cf gɔ̀si 
 \ue (f)
 \ps v.t.
@@ -35904,7 +35904,7 @@ t'en reparle pas
 \sn 2
 \ge babouin doguera 
 \ge Papio cynocephalus anubis)
-\sy /ngɔ̌n/
+\sy ngɔ̌n
 \dt 16/Aug/2006
 
 \lx gɔ̌n
@@ -36070,7 +36070,7 @@ t'en reparle pas
 \dt 26/Sep/2006
 
 \lx gɔ̀rɔntɔ
-\va /gɔ̀rɔndɔ/
+\va gɔ̀rɔndɔ
 \va kɔ̀rɔntɔ
 \ue (bn)
 \ps v.i 
@@ -36085,7 +36085,7 @@ t'en reparle pas
 
 \lx gɔ̀si
 \ue (f)
-\cf /gòsi/
+\cf gòsi
 \ps v.t 
 \ge battre ...
 \dt 16/Aug/2006
@@ -36187,7 +36187,7 @@ t'en reparle pas
 \xe il s'est accoudé sur la natte
 \dt 16/Aug/2006
 
-\lx /gùndo/
+\lx gùndo
 \va gìndo
 \ps n. 
 \ge secret
@@ -36286,7 +36286,7 @@ t'en reparle pas
 \lt (île.unité)
 
 \lx gùn.kurun
-\va /gùngurun/
+\va gùngurun
 \ps n. 
 \ge souche
 \lt ( ? . bloc)
@@ -36667,7 +36667,8 @@ t'en reparle pas
 \ge manque de mémoire
 \ge sottise ...
 \lt (étourdi.suf abs)
-\sy hákilintanyako  = úne étourderie
+\xx hákilintanyako  = úne étourderie
+\sy hákilintanyako
 \dt 26/Sep/2006
 
 \lx hákilitigiya
@@ -36811,7 +36812,7 @@ t'en reparle pas
 \lt (esprit.possession)
 \dt 16/Aug/2006
 
-\lx /hákili.tiɲɛ/
+\lx hákili.tiɲɛ
 \va hákilitiyɛn
 \ps n. 
 \ge découragement
@@ -36876,7 +36877,7 @@ t'en reparle pas
 \lx hàli
 \ue (bn,bk)
 \va hàlɛ
-\va /hɛ̀lɛ/
+\va hɛ̀lɛ
 \ps v.i 
 \ge être arrogant
 \ge mépriser l'autorité
@@ -36923,7 +36924,7 @@ t'en reparle pas
 \xe elle a envie d'une coépouse
 \dt 16/Aug/2006
 
-\lx /hàmihami/
+\lx hàmihami
 \va tìmitimi
 \ue (f)
 \va kìmikimi
@@ -37122,7 +37123,7 @@ t'en reparle pas
 \dt 11/Nov/2007
 
 \lx háwulɛ
-\va /háwula/
+\va háwula
 \bw ar: halwa =sucrerie ? 
 \ps n. 
 \ge gourmandise
@@ -37204,14 +37205,14 @@ t'en reparle pas
 \ge être essoufflé
 \dt 26/Sep/2006
 
-\lx /hɛ̀lɛ/
+\lx hɛ̀lɛ
 \cf hàli (bn;bk)
 \ps v.i 
 \ge être arrogant ... 
 \dt 16/Aug/2006
 
 \lx hɛ́ra
-\va /hɛ́rɛ/
+\va hɛ́rɛ
 \ps n. 
 \ge paix
 \ge bonheur 
@@ -37221,7 +37222,7 @@ t'en reparle pas
 \dt 26/Sep/2006
 
 \lx hɛ́ra
-\va /hɛ́rɛ/
+\va hɛ́rɛ
 \ps v.i 
 \ge être dans la paix
 \ee (bonne santé, nourriture, habillement et descendance assurés)
@@ -37276,7 +37277,7 @@ t'en reparle pas
 \ge être très ému ...
 \dt 16/Aug/2006
 
-\lx /hìmihimi/
+\lx hìmihimi
 \va tìmitimi
 \ue (f)
 \va tìmatima
@@ -37535,7 +37536,7 @@ t'en reparle pas
 \xe il est comme fou, il semble fou
 \dt 26/Sep/2006
 
-\lx í ní...
+\lx í ní…
 \ps expr.
 \ge toi et ...
 \ee salutation adressée à une seule personne
@@ -37706,7 +37707,7 @@ sous un arbre (dicton)
 \dt 12/Aug/2006
 
 \lx jàasere
-\va /jàgasere/
+\va jàgasere
 \ps excl.
 \ge exclamation de mise en garde
 \ge gare !
@@ -37912,7 +37913,7 @@ mains ...)
 \sd sola
 \dt 19/Aug/2006
 
-\lx /jàgasere/
+\lx jàgasere
 \cf jàasere
 \ps excl.de 
 \ge mise en garde: gare !
@@ -37926,7 +37927,7 @@ mains ...)
 \lt (sans peur.suf abs)
 \dt 26/Sep/2006
 
-\lx /jàgi/
+\lx jàgi
 \cf jàki
 \ps n. 
 \ge haut du dos
@@ -38075,7 +38076,7 @@ mains ...)
 \xe ils s'efforcent de comprendre 
 \dt 26/Sep/2006
 
-\lx /jákalimɛ/
+\lx jákalimɛ
 \cf jánkalimɛ
 \ps n. 
 \ge bâtard
@@ -38090,7 +38091,7 @@ mains ...)
 \lx jàki
 \va jɛ̀ki
 \ue (bn)
-\va /jàgi/
+\va jàgi
 \ps n. 
 \ge haut du dos
 \ge crinière
@@ -38116,7 +38117,7 @@ mains ...)
 \dt 11/Nov/2007
 
 \lx jàki.ma
-\va /jàgima/
+\va jàgima
 \lt (crinière.qui a)
 \ps n
 \ps adj
@@ -38399,7 +38400,7 @@ mains ...)
 \dt 26/Sep/2006
 
 \lx jàma
-\va /jàman/
+\va jàman
 \ph [jàn.ma* = loin + suf ?--> jàman]
 \ps v.i 
 \ge s'éloigner (dans l'espace ou dans le temps)
@@ -38408,7 +38409,7 @@ mains ...)
 \dt 16/Aug/2006
 
 \lx jáma
-\va /jáman/
+\va jáman
 \ps v.i 
 \ge s'exciter 
 \ee (de colère, au travail, à la danse, de joie ...)
@@ -38442,12 +38443,12 @@ mains ...)
 \xe ça s'est passé un jour de fête
 \dt 16/Aug/2006
 
-\lx /jàman/
+\lx jàman
 \cf jàma
 \ps v.i 
 \ge s'éloigner
 
-\lx /jáman/
+\lx jáman
 \cf jáma
 \ps v.i 
 \ge s'exciter
@@ -38542,7 +38543,7 @@ mains ...)
 \dt 16/Aug/2006
 
 \lx jámuru
-\va /jánburu/
+\va jánburu
 \ps n
 \ps adj.
 \sn 1
@@ -38554,7 +38555,7 @@ mains ...)
 \dt 26/Sep/2006
 
 \lx jámurubugu
-\va /jánburubugu/
+\va jánburubugu
 \ps n
 \lt débauché-maison
 \sn 1
@@ -38657,7 +38658,7 @@ acceptions)
 \ge ensevelissement
 \dt 26/Sep/2006
 
-\lx /jànba/
+\lx jànba
 \ps n. 
 \ge tabac
 \ge Nicotiana tabacum
@@ -38675,7 +38676,7 @@ acceptions)
 \xe faisons la lutte !
 \dt 16/Aug/2006
 
-\lx /jánburu/
+\lx jánburu
 \cf jámuru
 \ps n. 
 \ge vagabond ...
@@ -38734,13 +38735,13 @@ acceptions)
 \lt (trahison.responsable)
 \dt 16/Aug/2006
 
-\lx /jángarabu/
+\lx jángarabu
 \cf jánkarabu
 \ps n
 \ps adj
 \ge fourbe
 
-\lx /jàngaro/
+\lx jàngaro
 \cf jànkaro
 \ps n. 
 \ge maladie
@@ -38772,7 +38773,7 @@ mariées)
 \dt 26/Sep/2006
 
 \lx jánkalimɛ
-\cf /jákalimɛ/
+\cf jákalimɛ
 \ps n. 
 \ge bâtard
 \dt 12/Aug/2006
@@ -38780,13 +38781,13 @@ mariées)
 \lx jǎnkàmú
 \ue (f)
 \va jɔ̌nkɔ̀mí
-\va /jɔ̌ngɔ̀mɔ́/
+\va jɔ̌ngɔ̀mɔ́
 \ps n. 
 \ge gros scorpion noir
 \dt 16/Aug/2006
 
 \lx jánkarabu
-\va /jángarabu/
+\va jángarabu
 \ps n
 \ps adj
 \ge fourbe
@@ -38801,7 +38802,7 @@ mariées)
 \dt 26/Sep/2006
 
 \lx jànkaro
-\va /jàngaro/
+\va jàngaro
 \ps n. 
 \ge maladie
 \sy bàna
@@ -38927,7 +38928,7 @@ mariées)
 
 \lx jáɲe
 \ph [janye]
-\cf /díyanye/
+\cf díyanye
 \ps n. 
 \ge plaisir
 \dt 19/Aug/2006
@@ -39042,7 +39043,7 @@ mariées)
 \dt 16/Aug/2006
 
 \lx jàson
-\va /jàso/
+\va jàso
 \ps v.t 
 \ge attraper au vol (qc qui tombe)
 \dt 16/Aug/2006
@@ -39076,7 +39077,7 @@ mariées)
 \dt 16/Aug/2006
 
 \lx jàti
-\va /jàte/
+\va jàte
 \ps n. 
 \sn 1
 \ge compte
@@ -39092,7 +39093,7 @@ mariées)
 \dt 26/Sep/2006
 
 \lx jàti
-\va /jàte/
+\va jàte
 \ps v.t.
 \sn 1
 \ge compter
@@ -39180,14 +39181,14 @@ arbre)
 \dt 26/Sep/2006
 
 \lx jàti.kalan
-\va /jàtekalan/
+\va jàtekalan
 \ps n. 
 \ge arithmétique
 \lt (calcul.étude)
 \dt 16/Aug/2006
 
 \lx jàti.minɛ
-\va /jàteminɛ/
+\va jàteminɛ
 \ps n. 
 \ge opération d'arithmétique
 \ge de calcul
@@ -39243,7 +39244,7 @@ arbre)
 \dt 11/Nov/2007
 
 \lx jà.baa
-\va /jàbaga/
+\va jàbaga
 \ps n. 
 \ge logeur
 \ge hôte actif
@@ -39486,7 +39487,7 @@ arbre)
 \ge flatterie
 \dt 26/Sep/2006
 
-\lx /jènbe/
+\lx jènbe
 \va jùnbe
 \va jùme
 \ue (f)
@@ -39797,7 +39798,7 @@ arbre)
 \lx jɛ̀ki
 \ue (bn)
 \cf jàki
-\cf /jàgi/
+\cf jàgi
 \ps n. 
 \ge haut du dos crinière
 \ge longue arête dorsale
@@ -39866,14 +39867,14 @@ arbre)
 \rem l 89 porte-feuille / du : sacoche, giberne / traditionnel, vérifier fabrication
 \dt 11/Nov/2007
 
-\lx /jɛ̀mu/
+\lx jɛ̀mu
 \cf dɛ̀ɛmu 
 \ee dɛ̀gɛ̀mu*  
 \ps n. 
 \ge parole
 \dt 12/Aug/2006
 
-\lx /jɛ̀mu/
+\lx jɛ̀mu
 \cf dɛ̀ɛmu  
 \ps v.i 
 \sn 1
@@ -39897,8 +39898,8 @@ arbre)
 \ge accoupler
 \dt 26/Sep/2006
 
-\lx jɛ̀n...kɔ́
-\va jɛ̀n ní...yé
+\lx jɛ̀n…kɔ́
+\va jɛ̀n ní…yé
 \ps v.i 
 \sn 1
 \ge renoncer à
@@ -39912,7 +39913,7 @@ arbre)
 \dt 26/Sep/2006
 
 \lx jɛ́nɛ
-\va /jínɛ/
+\va jínɛ
 \ps n. 
 \ge démon ...
 \dt 16/Aug/2006
@@ -39942,7 +39943,7 @@ arbre)
 \dt 19/Aug/2006
 
 \lx jɛ̀ngɛn
-\va /jɛ̀ngɛ/
+\va jɛ̀ngɛ
 \ps v.t
 \sn 1
 \ge incliner
@@ -40147,7 +40148,7 @@ arbre)
 \dt 26/Sep/2006
 
 \lx jɛ̀.tura
-\va /jɛ̀ntura/
+\va jɛ̀ntura
 \ps n. 
 \ge taureau pour la reproduction
 \lt (accoupler.taureau)
@@ -40357,7 +40358,7 @@ arbre)
 \ge cadavre d'animal (non égorgé selon les rites)
 \dt 19/Aug/2006
 
-\lx /jífa/
+\lx jífa
 \va júfa
 \ps v.i 
 \ge crever (animal)
@@ -40527,7 +40528,7 @@ arbre)
 
 \lx jìgiɲɛ
 \va jìgiɲɔ
-\cf /jìginɛ/
+\cf jìginɛ
 \ps n. 
 \ge grenier (tout en paille)
 \dt 16/Aug/2006
@@ -40606,7 +40607,7 @@ arbre)
 \lt (espoir.couper)
 \dt 26/Sep/2006
 
-\lx /jìgi.tiɲɛ/
+\lx jìgi.tiɲɛ
 \va jìgitiyɛn
 \ph [jigicɛn]
 \ps n. 
@@ -40702,7 +40703,7 @@ arbre)
 \ge mur d'enceinte
 \dt 26/Sep/2006
 
-\lx /jínɛ/
+\lx jínɛ
 \va jɛ́nɛ
 \bw ar: ginn = démon, génie 
 \ps n.
@@ -41137,7 +41138,7 @@ légumes)
 \dt 26/Sep/2006
 
 \lx jí.dunu
-\va /jídunun/
+\va jídunun
 \ps n. 
 \ge tambour d'eau
 \ee (calebasse renversée sur une baignoire remplie d'eau. Au Bɛlɛdugu, les femmes en jouent
@@ -41388,7 +41389,7 @@ accompagnerait des danses de possession)
 \ee P. adansonii ---> 19 cm) (P.niger ---> 18 cm) (P.subniger ---> 29 cm)
 \sy jírɔsula
 \sy nkógonin
-\sy /nkúgo/
+\sy nkúgo
 \dt 16/Aug/2006
 
 \lx jí.rɔ.sa
@@ -41898,7 +41899,7 @@ mollusques ...)
 \dt 11/Nov/2007
 
 \lx jò.baatɔ
-\va /jùbatɔ/
+\va jùbatɔ
 \ee jiginbaatɔ* = qui vient d'accoucher ? 
 \lt (mettre bas.sujet)
 \ps n
@@ -41985,7 +41986,7 @@ mollusques ...)
 
 \lx jɔ̌
 \ue (f)
-\va /jɔ́n/
+\va jɔ́n
 \ps n. 
 \ge au courant de
 \ge informé
@@ -42017,7 +42018,7 @@ mollusques ...)
 
 \lx jɔ̀gɔn
 \ue (-f)
-\va /jɔ̀gɔ/
+\va jɔ̀gɔ
 \ps v.t 
 \ge mettre en meules
 \ge en tas
@@ -42070,7 +42071,7 @@ mollusques ...)
 
 \lx jɔ̀len
 \ue (f,bn)
-\va /dɔ̀len/
+\va dɔ̀len
 \ps n. 
 \ge herbe-baïonnette
 \ge coupante 
@@ -42114,7 +42115,7 @@ mollusques ...)
 \ge rabattre les herbes
 \dt 16/Aug/2006
 
-\lx /jɔ́n/
+\lx jɔ́n
 \cf jɔ̌ 
 \ps n. 
 \ge au courant de
@@ -42193,7 +42194,7 @@ mollusques ...)
 \lx jɔ̌nkɔ̀mí
 \va jǎnkàmú
 \ue (f)
-\va /jɔ̀ngɔmɔ/
+\va jɔ̀ngɔmɔ
 \ps n. 
 \ge scorpion noir 
 \dt 16/Aug/2006
@@ -42206,7 +42207,7 @@ mollusques ...)
 \ee (méprisés et redoutés)
 \dt 16/Aug/2006
 
-\lx /jɔ́ntɛ/
+\lx jɔ́ntɛ
 \cf jɔ́ɔntɔ
 \ps n. 
 \ge paludisme
@@ -42279,7 +42280,7 @@ mollusques ...)
 \dt 16/Aug/2006
 
 \lx jɔ́n.ni
-\va /jɔ́ni/
+\va jɔ́ni
 \ps inter.
 \ge qui?
 \cf jɔ́n
@@ -42305,13 +42306,13 @@ mollusques ...)
 \dt 26/Sep/2006
 
 \lx jɔ́ɔntɔ
-\va /jɔ́ntɛ/
+\va jɔ́ntɛ
 \ps n. 
 \ge paludisme
 \dt 16/Aug/2006
 
 \lx jɔ̀ɔsi
-\va /jɔ̀si/
+\va jɔ̀si
 \ps v.t 
 \sn 1
 \ge essuyer
@@ -42335,7 +42336,7 @@ mollusques ...)
 \xe de quoi t'inquiètes-tu ?
 
 \lx jɔ̀rɔ
-\va /jɔ̀rɛ/
+\va jɔ̀rɛ
 \ps v.i 
 \sn 1
 \ge s'inquiéter de
@@ -42352,7 +42353,7 @@ mollusques ...)
 \xe la maladie d'un tel m'inquiète
 \dt 26/Sep/2006
 
-\lx /jɔ̀si/
+\lx jɔ̀si
 \cf jɔ̀ɔsi 
 \ps v.t 
 \ge essuyer ...
@@ -42567,7 +42568,7 @@ bâtiment
 \ge entreprendre 
 \sy dábɔ
 \sy dáminɛ
-\sy jùbɔ...
+\sy jùbɔ…
 \lt (base.couper)
 \xv ń'í yé  tériya jǔtigɛ  nàfolo kàn, ní  nàfolo bánna, tériya bɛ́ sà dɛ́ !
 \xe si tu bases l'amitié sur la richesse, quand la richesse disparaît,l'amitié meurt
@@ -42578,7 +42579,7 @@ bâtiment
 \xe provoquer la ruine d'une famille (mortalité infantile, impuissance, dettes ...)
 \dt 26/Sep/2006
 
-\lx /jùbatɔ/
+\lx jùbatɔ
 \cf jòbaatɔ
 \ps n. 
 \ge nouvelle accouchée
@@ -42594,7 +42595,7 @@ bâtiment
 \dt 16/Aug/2006
 
 \lx júfa
-\va /jífa/
+\va jífa
 \ps n. 
 \ge cadavre de bête crevée
 \dt 16/Aug/2006
@@ -42629,7 +42630,7 @@ bâtiment
 
 \lx júga
 \ue (f)
-\va /júfa/
+\va júfa
 \va dúfa
 \ue (bn)
 \ps n. 
@@ -42847,7 +42848,7 @@ bâtiment
 \ge commencer
 \lt (base.couper)
 \sy jùbɔ
-\sy dábɔ...
+\sy dábɔ…
 \dt 15/Aug/2006
 
 \lx jùla.wuli
@@ -42887,7 +42888,7 @@ bâtiment
 \lx jùme
 \ue (f)
 \cf jùnbe
-\cf /jènbe/
+\cf jènbe
 \ps n. 
 \ge variété de tam-tam
 \dt 16/Aug/2006
@@ -42901,7 +42902,7 @@ bâtiment
 \dt 26/Sep/2006
 
 \lx jùmɛ
-\va /jùmɛn/
+\va jùmɛn
 \va jɛ̀ɛn
 \ue (f)
 \ps  inter.
@@ -42950,7 +42951,7 @@ bâtiment
 \lx jùnbe
 \va jùme
 \ue (f)
-\va /jènbe/
+\va jènbe
 \ps n. 
 \ge variété de tam-tam
 \dt 16/Aug/2006
@@ -43222,7 +43223,7 @@ bâtiment
 \dt 26/Sep/2006
 
 \lx jù.kuna
-\va /jùkunan/
+\va jùkunan
 \ps n. 
 \ge fesse
 \ge derrière
@@ -43262,7 +43263,7 @@ bâtiment
 \ge débuter
 \lt (base.prendre)
 \sy jùbɔ
-\sy dábɔ...
+\sy dábɔ…
 \dt 26/Sep/2006
 
 \lx jù.mugu
@@ -43435,7 +43436,7 @@ l'étranger en disant :  l'eauest prête
 \xe ils ont continué de le frapper
 \dt 26/Sep/2006
 
-\lx kàa...lá
+\lx kàa…lá
 \ps v.i 
 \ge épargner
 \xv nǐn cɛ̀nin tɛ́ màlo  mɔ̀gɔ mà, à tɛ́ kàa  màa sí lá
@@ -43448,7 +43449,7 @@ l'étranger en disant :  l'eauest prête
 \dt 16/Aug/2006
 
 \lx káafiri
-\va /káfiri/
+\va káfiri
 \ph [kaafri]
 \bw ar: kafir = id  
 \ps n. 
@@ -43459,7 +43460,7 @@ l'étranger en disant :  l'eauest prête
 
 \lx káafiriya
 \ph [fr]
-\va /káfiriya/
+\va káfiriya
 \ps n
 \lt païen-suf abs
 \ge paganisme, animisme, mécréance
@@ -43491,7 +43492,7 @@ l'étranger en disant :  l'eauest prête
 \ge se promener en flânant
 \dt 16/Aug/2006
 
-\lx /kàale/
+\lx kàale
 \cf nkàale
 \ps n. 
 \ge quenouille
@@ -43516,7 +43517,7 @@ l'étranger en disant :  l'eauest prête
 
 \lx kàán
 \ue (f)
-\va /kànga/
+\va kànga
 \ps n. 
 \ge écume
 \ge mousse
@@ -43524,7 +43525,7 @@ l'étranger en disant :  l'eauest prête
 
 \lx kàán
 \ue (f)
-\va /kànga/
+\va kànga
 \ps v.i 
 \ge faire de la mousse
 \ge de l'écume
@@ -43577,7 +43578,7 @@ l'étranger en disant :  l'eauest prête
 \lt (caractère.dur)
 \dt 26/Sep/2006
 
-\lx /kàani/
+\lx kàani
 \cf nkàani
 \cf ŋàani
 \ps v.t 
@@ -43603,14 +43604,14 @@ l'étranger en disant :  l'eauest prête
 
 \lx káankɔ
 \ue (f)
-\va /káako/
+\va káako
 \ps n. 
 \ge huître
 \dt 16/Aug/2006
 
 \lx kàanri
 \va kàanni
-\va /kàari/
+\va kàari
 \ps n. 
 \ge glaire
 \ge crachat
@@ -43649,12 +43650,12 @@ l'étranger en disant :  l'eauest prête
 \ee (ceux qui en étaient atteints étaient censés apporter des calamités : sécheresse ...)
 \dt 16/Aug/2006
 
-\lx /kàari/
+\lx kàari
 \cf kàanri
 \ps n. 
 \ge crachat
 
-\lx /kàari/
+\lx kàari
 \cf kàri
 \ps n. 
 \ge un tel
@@ -43701,7 +43702,7 @@ l'étranger en disant :  l'eauest prête
 \lt (qui renonce à. suf abs)
 \dt 16/Aug/2006
 
-\lx /kàarisa/
+\lx kàarisa
 \cf kàrisa
 \ps n. 
 \ge un tel
@@ -43794,7 +43795,7 @@ l'étranger en disant :  l'eauest prête
 \ge crier (de peur) en parlant de la poule
 \dt 16/Aug/2006
 
-\lx /kába/
+\lx kába
 \cf káfa
 \ps v.i 
 \ge être arrogant
@@ -44137,7 +44138,7 @@ l'étranger en disant :  l'eauest prête
 \dt 16/Aug/2006
 
 \lx káfa
-\va /kába/
+\va kába
 \ps v.i 
 \ps réf 
 \sn 1
@@ -44183,7 +44184,7 @@ l'étranger en disant :  l'eauest prête
 \rem l 89, du, Jos ...
 \dt 11/Nov/2007
 
-\lx /káfiri/
+\lx káfiri
 \cf káafiri
 \bw ar: kafir = id. 
 \ps n
@@ -44244,7 +44245,7 @@ l'étranger en disant :  l'eauest prête
 \lx kàgan
 \va kàan
 \ue (f)
-\cf /kànga/
+\cf kànga
 \ps n. 
 \ge mousse
 \ge écume
@@ -44673,7 +44674,7 @@ l'étranger en disant :  l'eauest prête
 \dt 11/Nov/2007
 
 \lx kàlan.baa
-\va /kàlanbaga/
+\va kàlanbaga
 \ps n.
 \sn 1
 \ge celui qui lit 
@@ -44832,7 +44833,7 @@ l'étranger en disant :  l'eauest prête
 \dt 11/Nov/2007
 
 \lx kála.baanci
-\va /kálabaganci/
+\va kálabaganci
 \ph [*kalan = chaud ?]
 \ps n
 \ps adj
@@ -44850,7 +44851,7 @@ l'étranger en disant :  l'eauest prête
 \dt 19/Aug/2006
 
 \lx kála.biyɛn
-\va /kálabiɲɛ/
+\va kálabiɲɛ
 \ps n. 
 \ge flèche
 \lt (arc.pointe)
@@ -45053,7 +45054,7 @@ l'étranger en disant :  l'eauest prête
 \dt 26/Sep/2006
 
 \lx kálimukala
-\va // káalimukala (dú)
+\va káalimukala (dú)
 \ps n
 \lt plume-tige
 \ge porte-plume (au fig : verge)
@@ -45244,7 +45245,7 @@ hernies, kyste de l'ovaire...)
 \dt 26/Sep/2006
 
 \lx kàma
-\va /kàman/
+\va kàman
 \ps n.
 \sn 1
 \ge épaule
@@ -45403,7 +45404,7 @@ hernies, kyste de l'ovaire...)
 \xe apaiser qn
 \dt 16/Aug/2006
 
-\lx /kàman/
+\lx kàman
 \cf kàma
 \ps n. 
 \ge épaule ...
@@ -45710,7 +45711,7 @@ hernies, kyste de l'ovaire...)
 \dt 26/Sep/2006
 
 \lx kána.baa
-\va /kánabaga/
+\va kánabaga
 \ps n. 
 \ge protecteur
 \ge policier ...
@@ -45797,7 +45798,7 @@ hernies, kyste de l'ovaire...)
 \ee (capable de résister aux féticheurs)
 \dt 16/Aug/2006
 
-\lx /kàngari/
+\lx kàngari
 \va kànkari
 \ps n. 
 \ge mise en garde
@@ -45850,7 +45851,7 @@ hernies, kyste de l'ovaire...)
 \dt 26/Sep/2006
 
 \lx kánkan
-\cf /káka/
+\cf káka
 \ps v.i 
 \ge caqueter
 \dt 12/Aug/2006
@@ -45863,7 +45864,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 16/Aug/2006
 
 \lx kànkari
-\va /kàngari/
+\va kàngari
 \ps n. 
 \ge mise en garde
 \ge menace
@@ -45904,7 +45905,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 11/Nov/2007
 
 \lx kànkiran
-\va /kànkira/
+\va kànkira
 \ps n. 
 \ge caisse
 \ge cantine
@@ -45994,7 +45995,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \lt (infidèle.suf abs)
 \dt 16/Aug/2006
 
-\lx /kànsan/
+\lx kànsan
 \va kàsan
 \ps n. 
 \ge armature d'une clôture
@@ -46012,7 +46013,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 16/Aug/2006
 
 \lx kánsole
-\va /kánsoli/
+\va kánsoli
 \ps n. 
 \ge grand aulacode 
 \ge Thryonomys swinderianus)
@@ -46038,7 +46039,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 16/Aug/2006
 
 \lx kántikɛ
-\va kántigɛ//
+\va kántigɛ
 \ps vt
 \lt cou-couper
 \ge égorger
@@ -46085,7 +46086,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 11/Nov/2007
 
 \lx kànu.baa
-\va /kànubaga/
+\va kànubaga
 \ps n. 
 \ge celui qui aime
 \ge ami
@@ -46095,7 +46096,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 26/Sep/2006
 
 \lx kànu.baa.nci
-\va /kànubaganci/
+\va kànubaganci
 \ps n. 
 \ge qui aime beaucoup
 \ge fana ... (sens noble ou péj.)
@@ -46577,7 +46578,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 26/Sep/2006
 
 \lx kán.nakolon
-\va /kánnankolon/
+\va kánnankolon
 \ps n
 \ps adj
 \sn 1
@@ -46617,7 +46618,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \ge pommade
 \lt (oindre.ce qui sert à)
 
-\lx /kán.nankolon/
+\lx kán.nankolon
 \va kánnakolon
 \ps n
 \ps adj
@@ -46736,7 +46737,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 26/Sep/2006
 
 \lx kán.ɲa
-\va /kánɲɛ/
+\va kánɲɛ
 \ps n. 
 \sn 1
 \ge gorgée
@@ -47115,7 +47116,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 26/Sep/2006
 
 \lx kàri
-\va /kàari/
+\va kàari
 \ps n. 
 \ge un tel
 \ge une telle
@@ -47186,7 +47187,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 11/Nov/2007
 
 \lx kàriɲa
-\va /kàriɲan/
+\va kàriɲan
 \va nkàniya
 \va nkɛ̀rɛɲɛ
 \ue (bn)
@@ -47223,7 +47224,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \lt (plier.couteau)
 
 \lx kàri.sa
-\va /kàarisa/
+\va kàarisa
 \ps n. 
 \ge un tel
 \ge une telle
@@ -47249,7 +47250,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \xv fɛ́n kàro
 \xe acheter qc et partir sans payer
 
-\lx /kàro/
+\lx kàro
 \ue (-bk,-bn) 
 \ps n. 
 \ge tricherie
@@ -47264,7 +47265,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \ge être coriace (nourriture ...)
 \dt 16/Aug/2006
 
-\lx /kàrɔgɛlɛn/
+\lx kàrɔgɛlɛn
 \cf kàarɔgɛlɛn
 \ps n. 
 \ge cruel ...
@@ -47379,7 +47380,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 26/Sep/2006
 
 \lx kàsan
-\va /kànsan/
+\va kànsan
 \ps n. 
 \ge armature (d'un masque
 \ge d'une palissade ...)
@@ -47712,7 +47713,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \ps n
 \lt
 \ge cahier
-\sy /káyeti/
+\sy káyeti
 \xv
 \xe
 \xv
@@ -47732,7 +47733,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 19/Aug/2006
 
 \lx kàyin
-\va /kàyon/
+\va kàyon
 \ps v.t 
 \ge entortiller (autour d'une baguette
 \ge sur la cuisse ...)
@@ -47766,7 +47767,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \xe ils ont battu le voleur et l'ont laissé à demi-mort
 \dt 26/Sep/2006
 
-\lx /kègun/
+\lx kègun
 \va kèkun
 \ue (bn)
 \va kèwun
@@ -47789,7 +47790,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 26/Sep/2006
 
 \lx kègu.ya
-\va /kègunya/
+\va kègunya
 \ps n. 
 \ge ruse
 \ge roublardise
@@ -47803,7 +47804,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 26/Sep/2006
 
 \lx kègu.ya
-\va /kègunya/
+\va kègunya
 \ps v.t 
 \ge rendre malin
 \lt (malin.suf caus)
@@ -47818,7 +47819,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \ge éperon épineux (botanique)
 \dt 26/Sep/2006
 
-\lx /kèle/
+\lx kèle
 \va cèle
 \ue (bn,f)
 \ps adj..préd (rare)
@@ -47982,14 +47983,14 @@ frères, une même communauté
 \rem l 89, du
 \dt 11/Nov/2007
 
-\lx /kèle.ya/
+\lx kèle.ya
 \va cèleya
 \ps n. 
 \ge jalousie passionnelle
 \lt (jaloux.suf abs)
 \dt 16/Aug/2006
 
-\lx /kèle.ya/
+\lx kèle.ya
 \va cèleya
 \ps v.t 
 \ge jalouser
@@ -48005,7 +48006,7 @@ frères, une même communauté
 \ge jeter ...
 \dt 16/Aug/2006
 
-\lx /kènde/
+\lx kènde
 \va nkène
 \ue (f)
 \ps n. 
@@ -48261,7 +48262,7 @@ présent ou l'imparfait). Ainsi :
 \dt 16/Aug/2006
 
 \lx kɛ̀ɛsɛkɛɛsɛ
-\va /kɛ̀sɛkɛsɛ/
+\va kɛ̀sɛkɛsɛ
 \ps v.réf 
 \ge marcher lentement
 \ge à petits pas
@@ -48427,7 +48428,7 @@ présent ou l'imparfait). Ainsi :
 \dt 11/Nov/2007
 
 \lx kɛ̀lɛ.baa
-\va /kɛ̀lɛbaga/
+\va kɛ̀lɛbaga
 \ps n. 
 \ge celui qui combat
 \lt (combattre.celui qui)
@@ -48513,7 +48514,7 @@ présent ou l'imparfait). Ainsi :
 \ge arme
 \ge armement
 \lt (guerre.faire.ce qui sert à )
-\sy /kɛ̀lɛminɛn/
+\sy kɛ̀lɛminɛn
 \sy kɛ̀lɛkɛminɛn
 \dt 26/Sep/2006
 
@@ -48554,7 +48555,7 @@ présent ou l'imparfait). Ainsi :
 \lt (guerre.lieu.fuir.celui qui)
 \dt 26/Sep/2006
 
-\lx /kɛ̀lɛ.minɛn/
+\lx kɛ̀lɛ.minɛn
 \ps n. 
 \ge arme
 \ge armement 
@@ -48581,7 +48582,7 @@ présent ou l'imparfait). Ainsi :
 
 \lx kɛ́likɛ
 \cf kílikɛ
-\cf /kírike/
+\cf kírike
 \ps n. 
 \ge selle de cheval
 \dt 16/Aug/2006
@@ -48782,7 +48783,7 @@ présent ou l'imparfait). Ainsi :
 \dt 26/Sep/2006
 
 \lx kɛ́nɛ.baatɔ
-\va /kɛ́nɛbagatɔ/
+\va kɛ́nɛbagatɔ
 \ps n
 \ps adj
 \ge personne bien portante
@@ -48967,7 +48968,7 @@ présent ou l'imparfait). Ainsi :
 
 \lx kɛ̀ɲɛ
 \ue (f)
-\va /kɛ̀nɛ/
+\va kɛ̀nɛ
 \ps n. 
 \ge pubis
 \dt 16/Aug/2006
@@ -49081,7 +49082,7 @@ présent ou l'imparfait). Ainsi :
 \dt 26/Sep/2006
 
 \lx kɛ̀rɛbɔ
-\va /kɛ̀rɛbo/
+\va kɛ̀rɛbo
 \ps n. 
 \ge pierre à fusil
 \dt 16/Aug/2006
@@ -49135,7 +49136,7 @@ présent ou l'imparfait). Ainsi :
 \dt 26/Sep/2006
 
 \lx kɛ̀rɛmu
-\va /kɛ̀rɛmɛ/
+\va kɛ̀rɛmɛ
 \ps v.t.
 \sn 1
 \ge vanner 
@@ -49144,7 +49145,7 @@ présent ou l'imparfait). Ainsi :
 \ge danser en se balançant
 \dt 16/Aug/2006
 
-\lx /kɛ̀rɛnin/
+\lx kɛ̀rɛnin
 \cf nkɛ̀rɛnin
 \ps n. 
 \ge prise de lutte
@@ -49259,7 +49260,7 @@ présent ou l'imparfait). Ainsi :
 \dt 26/Sep/2006
 
 \lx kɛ́rikɛ
-\va /kírike/
+\va kírike
 \ps n. 
 \ge selle de cheval
 \dt 16/Aug/2006
@@ -49269,7 +49270,7 @@ présent ou l'imparfait). Ainsi :
 \ge tout à fait sec
 \dt 16/Aug/2006
 
-\lx /kɛ̀sɛkɛsɛ/
+\lx kɛ̀sɛkɛsɛ
 \cf kɛ̀ɛsɛkɛɛsɛ
 \ps v.réf 
 \ge marcher à petits pas
@@ -49278,7 +49279,7 @@ présent ou l'imparfait). Ainsi :
 
 \lx kɛ̀tɛ
 \ph [kwɛtɛ]
-\va /kɔ̀tɛ/
+\va kɔ̀tɛ
 \ps n. 
 \ge escargot
 \ge coquille d'escargot
@@ -49357,7 +49358,7 @@ présent ou l'imparfait). Ainsi :
 \ge action de faire ...
 \dt 26/Sep/2006
 
-\lx /kɛ́.minɛn/
+\lx kɛ́.minɛn
 \va kɛ́mina
 \ps n. 
 \ge récipient
@@ -49468,7 +49469,7 @@ petites bandes à la queue leu-leu en jacassant)
 
 \lx kìbaro
 \bw ar: habar = id. 
-\va /kìbaru/
+\va kìbaru
 \ps n. 
 \ge nouvelle (que l'on apprend)
 \dt 16/Aug/2006
@@ -49487,7 +49488,7 @@ petites bandes à la queue leu-leu en jacassant)
 \xe il a appris la nouvelle hier
 \dt 16/Aug/2006
 
-\lx /kìbaru/
+\lx kìbaru
 \cf kìbaro
 \ps n. 
 \ge nouvelle
@@ -49542,7 +49543,7 @@ petites bandes à la queue leu-leu en jacassant)
 \sy tú
 \dt 16/Aug/2006
 
-\lx /kíli/
+\lx kíli
 \ue (kita) 
 \ps v.t 
 \ge appeler
@@ -49566,7 +49567,7 @@ petites bandes à la queue leu-leu en jacassant)
 \dt 11/Nov/2007
 
 \lx kílikɛ
-\va /kírike/
+\va kírike
 \va kɛ́likɛ
 \ps n. 
 \ge selle de cheval
@@ -49665,7 +49666,7 @@ petites bandes à la queue leu-leu en jacassant)
 \lx kìmikími
 \ue (Kita)
 \cf tìmitími
-\cf /hàmihámi/
+\cf hàmihámi
 \ps v.i 
 \ge être très ému ...
 \dt 16/Aug/2006
@@ -49699,13 +49700,13 @@ petites bandes à la queue leu-leu en jacassant)
 \dt 16/Aug/2006
 
 \lx kíni
-\va /kínin/
+\va kínin
 \ps n. 
 \ge droite
 \ge main droite(opposée à : gauche)
 \dt 26/Sep/2006
 
-\lx /kínin/
+\lx kínin
 \cf kíni
 \ps n. 
 \ge (main) droite
@@ -49829,14 +49830,15 @@ petites bandes à la queue leu-leu en jacassant)
 \cf kìsikasa
 \ps n. 
 \ge sans valeur
-\sy kùnntan(sé dí dé bíen dé chóse : pétite bête
+\xx kùnntan(sé dí dé bíen dé chóse : pétite bête
+\sy kùnntan
 \sy ínsecte
 \sy dé máuvaise árachide qúe l'ón jétte
 \sy dóssie óu même
 de personnes ...)
 \dt 16/Aug/2006
 
-\lx /kìrikara/
+\lx kìrikara
 \va kìrinkaran
 \va kìsikasa
 \va kìisikaasa
@@ -49849,7 +49851,7 @@ de personnes ...)
 \dt 26/Sep/2006
 
 \lx kírikɛ
-\va /kírike/
+\va kírike
 \va kɛ́rikɛ
 \ps n. 
 \ge selle de cheval
@@ -49930,7 +49932,7 @@ de personnes ...)
 \dt 16/Aug/2006
 
 \lx kìrinkaran
-\cf /kìrikara/
+\cf kìrikara
 \cf kìsikasa
 \cf kìisikaasa
 \ps v.t 
@@ -50199,13 +50201,13 @@ de personnes ...)
 
 \lx kìsikasa
 \cf kìisikaasa
-\va /kìrikara/
+\va kìrikara
 \ps v.i 
 \ge marcher avec difficulté (vieillard ...)
 \dt 19/Aug/2006
 
 \lx kísi.baa
-\va /kísibaga/
+\va kísibaga
 \ps n. 
 \ge sauveur
 \ee (Jésus-Christ pour les chrétiens)
@@ -50359,7 +50361,7 @@ que ..., dans l'intention de ...)
 \dt 26/Sep/2006
 
 \lx kòbi
-\va /kɔ́bi/
+\va kɔ́bi
 \ue (-bk)
 \ps n. 
 \ge coït
@@ -50368,7 +50370,7 @@ que ..., dans l'intention de ...)
 \dt 16/Aug/2006
 
 \lx kòbi
-\va /kɔ́bi/
+\va kɔ́bi
 \ue (-bk)
 \ps v.t 
 \ge baiser
@@ -50384,7 +50386,7 @@ que ..., dans l'intention de ...)
 \dt 26/Sep/2006
 
 \lx kódɔn.baa
-\va /kódɔnbaga/
+\va kódɔnbaga
 \ps n.
 \sn 1
 \ge savant
@@ -50437,7 +50439,7 @@ que ..., dans l'intention de ...)
 \dt 16/Aug/2006
 
 \lx kógoso
-\va /kógosogo/
+\va kógosogo
 \ps idéo.
 \sn 1
 \ge très dur 
@@ -50463,7 +50465,7 @@ que ..., dans l'intention de ...)
 \xe d'avoir trop crié l'a enroué
 \dt 26/Sep/2006
 
-\lx /kókolo/
+\lx kókolo
 \cf kɔ́kolo
 \ps n. 
 \ge cache-sexe des garçons (+ rare que npogi)
@@ -50482,7 +50484,7 @@ que ..., dans l'intention de ...)
 \ge à traits verts ...)
 \dt 26/Sep/2006
 
-\lx /kókoyo/
+\lx kókoyo
 \cf nkòkoyo
 \ps n. 
 \sn 1
@@ -50498,7 +50500,7 @@ que ..., dans l'intention de ...)
 \dt 16/Aug/2006
 
 \lx kólan
-\va /kúlan/
+\va kúlan
 \ps n. 
 \ge enclume
 \dt 16/Aug/2006
@@ -50733,7 +50735,7 @@ que ..., dans l'intention de ...)
 \ge flâner
 \dt 16/Aug/2006
 
-\lx /kólokari/
+\lx kólokari
 \cf kólonkari
 \ps n. 
 \ge chat sauvage 
@@ -50955,7 +50957,7 @@ piège)
 \dt 16/Aug/2006
 
 \lx kólonkari
-\va /kólokari/
+\va kólokari
 \ps n. 
 \sn 1
 \ge chat ganté 
@@ -51454,13 +51456,13 @@ puissant)
 \dt 16/Aug/2006
 
 \lx kòngoron
-\va /kónkoron/
+\va kónkoron
 \ps n. 
 \ge région lombaire
 \sy kòto
 \dt 16/Aug/2006
 
-\lx /kóniya/
+\lx kóniya
 \cf kɔ́niya
 \ps n. 
 \ge envie
@@ -51551,7 +51553,7 @@ puissant)
 \ge Clarias senegalensis) id. (bassin du Sénégal) 
 \dt 16/Aug/2006
 
-\lx /kónkoro/
+\lx kónkoro
 \cf kòngoron
 \ps n. 
 \ge région lombaire
@@ -51609,7 +51611,7 @@ puissant)
 \dt 16/Aug/2006
 
 \lx kón.ɲi
-\va /kónɲin/
+\va kónɲin
 \ee * xas : xundiŋo = élément de porte ! 
 \ps n. 
 \ge clef
@@ -51651,7 +51653,7 @@ puissant)
 \dt 16/Aug/2006
 
 \lx kòoli
-\va /kòori/
+\va kòori
 \ps v.t 
 \ge encercler
 \ge entourer
@@ -51681,7 +51683,7 @@ puissant)
 \dt 12/Aug/2006
 
 \lx kòolokaala
-\va /kòlokala/
+\va kòlokala
 \va kòlokolo
 \ps v.i 
 \ge flâner (au travail
@@ -51689,7 +51691,7 @@ puissant)
 \dt 26/Sep/2006
 
 \lx kóono
-\va /kɔ́ɔnɔ/
+\va kɔ́ɔnɔ
 \ps n. 
 \ge péritoine
 \dt 16/Aug/2006
@@ -51718,7 +51720,7 @@ puissant)
 \ge mugir
 \dt 26/Sep/2006
 
-\lx /kóoro/
+\lx kóoro
 \va kóro
 \ps n. 
 \ge iguane de terre
@@ -51800,7 +51802,7 @@ puissant)
 \dt 16/Aug/2006
 
 \lx kóro
-\va /kóoro/
+\va kóoro
 \ps n. 
 \ge iguane de terre 
 \xv (pró)kóro bɛ́  à mɔ̀yɔrɔ fàri dá
@@ -52043,7 +52045,7 @@ les 'fuga')
 \dt 11/Nov/2007
 
 \lx kóteenten ná
-\va /kótɛtɛnna/
+\va kótɛtɛnna
 \ee *? 
 \ps loc.adv 
 \ge peut-être
@@ -52094,7 +52096,7 @@ les 'fuga')
 \ee (arbre toujours en feuilles, terrains rocailleux)
 \dt 19/Aug/2006
 
-\lx /kóyi/
+\lx kóyi
 \va kɔ́yi
 \ps excl. 
 \ge exclamation de fin de phrase affirmative = certes !
@@ -52333,7 +52335,7 @@ les 'fuga')
 \dt 26/Sep/2006
 
 \lx kó.man
-\cf /góman/
+\cf góman
 \ps n
 \ps adj
 \ge mauvais ...
@@ -52460,7 +52462,7 @@ on l'appelle "Nsan"
 \dt 16/Aug/2006
 
 \lx kó.ya
-\cf /góya/
+\cf góya
 \ps v.t 
 \ge rendre mauvais
 \ge désagréable ...
@@ -52589,7 +52591,7 @@ on l'appelle "Nsan"
 \xe la pêche a été bonne
 \dt 26/Sep/2006
 
-\lx /kɔ́bi/
+\lx kɔ́bi
 \cf kòbi
 \ps v.t 
 \ge baiser (sens sexuel)
@@ -53266,7 +53268,7 @@ on l'appelle "Nsan"
 \xe aujourd'hui nous dînerons avant l'heure
 \dt 26/Sep/2006
 
-\lx /kɔ́nan/
+\lx kɔ́nan
 \cf kòna
 \ps n
 \ps adj
@@ -53335,7 +53337,7 @@ on l'appelle "Nsan"
 \dt 19/Aug/2006
 
 \lx kɔ́niya
-\va /kóniya/
+\va kóniya
 \ps n. 
 \ge envie
 \ge jalousie
@@ -53351,7 +53353,7 @@ on l'appelle "Nsan"
 \dt 26/Sep/2006
 
 \lx kɔ́niya.baa
-\va /kóniyabaga/
+\va kóniyabaga
 \ps n. 
 \ge jaloux
 \ge envieux
@@ -53509,7 +53511,7 @@ on l'appelle "Nsan"
 \dt 26/Sep/2006
 
 \lx kɔ́nɔ
-\cf /kɔ́nɔn/
+\cf kɔ́nɔn
 \ps n.
 \sn 1
 \ge perle 
@@ -53518,7 +53520,7 @@ on l'appelle "Nsan"
 \dt 16/Aug/2006
 
 \lx kɔ́nɔ
-\cf /kɔ́nɔn/
+\cf kɔ́nɔn
 \ps v.t 
 \ge faire un petit cadeau à l'acheteur
 \dt 16/Aug/2006
@@ -53667,7 +53669,7 @@ on l'appelle "Nsan"
 \dt 11/Nov/2007
 
 \lx kɔ́nɔgan.baa
-\va /kɔ́nɔganbaga/
+\va kɔ́nɔganbaga
 \ph [gw]
 \ps n. 
 \ge qui a des difficultés
@@ -53676,7 +53678,7 @@ on l'appelle "Nsan"
 \dt 26/Sep/2006
 
 \lx kɔ́nɔgan.baatɔ
-\va /kɔ́nɔganbagatɔ/
+\va kɔ́nɔganbagatɔ
 \ph [gw]
 \lt (tracasser.sujet)
 \ps n
@@ -53780,7 +53782,7 @@ on l'appelle "Nsan"
 \nt
 \dt 11/Nov/2007
 
-\lx /kɔ́nɔn/
+\lx kɔ́nɔn
 \va kɔ́nɔ
 \ps n.
 \sn 1
@@ -53791,7 +53793,7 @@ on l'appelle "Nsan"
 \ge ristourne(petit supplément ajouté par le vendeur ...)
 \dt 16/Aug/2006
 
-\lx /kɔ́nɔn/
+\lx kɔ́nɔn
 \va kɔ́nɔ
 \ps v.t 
 \ge faire un petit cadeau à l'acheteur
@@ -54056,14 +54058,14 @@ cì i kàn
 \sy kɔ́nɔtigɛ
 \dt 16/Aug/2006
 
-\lx /kɔ́nɔn.kisɛ/
+\lx kɔ́nɔn.kisɛ
 \va kɔ́nɔkisɛ
 \ps n. 
 \ge une perle
 \lt (perle.grain)
 \dt 16/Aug/2006
 
-\lx /kɔ́nɔn.mugu/
+\lx kɔ́nɔn.mugu
 \va kɔ́nɔmugu
 \ps n. 
 \ge menues perles
@@ -54259,7 +54261,7 @@ cì i kàn
 \dt 12/Aug/2006
 
 \lx kɔ́nɔ.kisɛ
-\va /kɔ́nɔnkisɛ/
+\va kɔ́nɔnkisɛ
 \ps n. 
 \ge une perle
 \lt (perle.grain)
@@ -54301,7 +54303,7 @@ cì i kàn
 \dt 26/Sep/2006
 
 \lx kɔ́nɔ.lagɔsi
-\va /kɔ́nɔlagosi/
+\va kɔ́nɔlagosi
 \ps n. 
 \ge fausse-couche
 \ge perte
@@ -54337,7 +54339,7 @@ cì i kàn
 \dt 12/Aug/2006
 
 \lx kɔ́nɔ.mugu
-\va /kɔ́nɔnmugu/
+\va kɔ́nɔnmugu
 \ps n. 
 \ge menues perles
 \lt (perle.poussière)
@@ -54478,7 +54480,7 @@ cì i kàn
 
 \lx kɔ́nɔ.tiyɛn
 \ph [kɔnɔcɛn]
-\va /kɔ́nɔtiɲɛ/
+\va kɔ́nɔtiɲɛ
 \ps n. 
 \ge fausse couche
 \ge perte
@@ -54593,7 +54595,7 @@ cì i kàn
 \dt 16/Aug/2006
 
 \lx kɔ́ɲɔ.cɛ
-\va /kɔ́ɲɔkɛ/
+\va kɔ́ɲɔkɛ
 \ps n. 
 \ge le jeune marié
 \lt (noce.mari)
@@ -54672,7 +54674,7 @@ écailles assez grosses)
 \lt (étamine.qui a)
 \dt 16/Aug/2006
 
-\lx /kɔ̀ɔnɔ/
+\lx kɔ̀ɔnɔ
 \cf kóono
 \ps n. 
 \ge péritoine
@@ -54783,7 +54785,7 @@ écailles assez grosses)
 \ge fétiche et sa société secrète (zone de Dioila)
 \dt 16/Aug/2006
 
-\lx /kɔ̀rɛ.duga/
+\lx kɔ̀rɛ.duga
 \cf kɔ̀rɔduga
 \ps n. 
 \ge bouffon
@@ -55003,7 +55005,7 @@ écailles assez grosses)
 
 \lx kɔ̀rɔntɔ
 \cf gɔ̀rɔntɔ
-\cf /gɔ̀rɔndɔ/
+\cf gɔ̀rɔndɔ
 \ps v.i 
 \ge ronfler
 \ge rugir ...
@@ -55048,7 +55050,7 @@ écailles assez grosses)
 \dt 11/Nov/2007
 
 \lx kɔ̀rɔti
-\va /kɔ̀rɔte/
+\va kɔ̀rɔte
 \ps n. 
 \ge poison magique (qui se lance à distance !)
 \dt 16/Aug/2006
@@ -55173,7 +55175,7 @@ écailles assez grosses)
 \dt 26/Sep/2006
 
 \lx kɔ̀rɔ.duga
-\cf /kɔ̀rɛduga/
+\cf kɔ̀rɛduga
 \ps n. 
 \ge bouffon
 \lt (fétiche.bouffon)
@@ -55232,7 +55234,7 @@ écailles assez grosses)
 \dt 16/Aug/2006
 
 \lx kɔ̀rɔ.juga
-\va /kɔ̀rɛduga/
+\va kɔ̀rɛduga
 \lt (fétiche.clown)
 \ps n. 
 \ge bouffon
@@ -55490,7 +55492,7 @@ écailles assez grosses)
 \ee (danses souvent suivies de théâtre)
 \dt 16/Aug/2006
 
-\lx /kɔ̀tɛ/
+\lx kɔ̀tɛ
 \va kɛ̀tɛ
 \ph [kw]
 \ps n. 
@@ -55566,7 +55568,7 @@ écailles assez grosses)
 \dt 26/Sep/2006
 
 \lx kɔ́yi
-\va /kóyi/
+\va kóyi
 \ps excl.
 \ge exclamation en fin de phrase positive
 \ge certes
@@ -55812,7 +55814,7 @@ écailles assez grosses)
 \dt 19/Aug/2006
 
 \lx kɔ́.gɔ̀si
-\va /kɔ́gosi/
+\va kɔ́gosi
 \ps v.t 
 \ge castrer (par écrasement)
 \lt (testicule.frapper)
@@ -55949,7 +55951,7 @@ écailles assez grosses)
 \ge bosse
 \lt (dos.boule)
 
-\lx /kɔ́.la.da/
+\lx kɔ́.la.da
 \va kɔ́rada
 \ve (bn)
 \va kɔ́rɔda
@@ -55980,7 +55982,7 @@ écailles assez grosses)
 \dt 16/Aug/2006
 
 \lx kɔ́.maa
-\cf /kɔ́mɔgɔ/
+\cf kɔ́mɔgɔ
 \ps n
 \ge le dernier ...
 \dt 16/Aug/2006
@@ -56048,7 +56050,7 @@ écailles assez grosses)
 \ee mammifère rongeur, aime les points d'eau, en groupes familiaux)
 \sy kánsole
 \sy nkánsole
-\sy /kánsoli/
+\sy kánsoli
 \dt 16/Aug/2006
 
 \lx kɔ̀.ɲume
@@ -56269,7 +56271,7 @@ écailles assez grosses)
 \ee feuilles rugueuses des deux côtés)
 \dt 19/Aug/2006
 
-\lx /kɔ́.tɔrɔ.mabɔ/
+\lx kɔ́.tɔrɔ.mabɔ
 \va kɔ́ntɔrɔnmabɔ
 \ps v.réf
 \ps v.i 
@@ -56521,7 +56523,7 @@ mollusques ...
 \lx kùlu
 \ue (f)
 \cf tùlu
-\cf /tùru/
+\cf tùru
 \ps n. 
 \ge huppe
 \dt 12/Aug/2006
@@ -57138,14 +57140,14 @@ rochers)
 \dt 16/Aug/2006
 
 \lx kúna
-\va /kúnan/
+\va kúnan
 \ps n. 
 \ge plat en bois
 \ge écuelle
 \dt 26/Sep/2006
 
 \lx kúna
-\va /kúnan/
+\va kúnan
 \ps adj.préd. 
 \sn 1
 \ge amer 
@@ -57231,7 +57233,7 @@ rochers)
 \dt 19/Aug/2006
 
 \lx kúna-kúna
-\va /kúnan-kúnan/
+\va kúnan-kúnan
 \ps n
 \ps adj
 \ge très amer
@@ -57293,7 +57295,7 @@ rochers)
 \dt 11/Nov/2007
 
 \lx kùnba.bin
-\va /kùnmabin/
+\va kùnmabin
 \ps n. 
 \ge maux de tête
 \ge migraine
@@ -57804,7 +57806,7 @@ kùnkɔrɔ
 \dt 11/Nov/2007
 
 \lx kùnmabɔ.baa
-\va /kùnmabɔbaga/
+\va kùnmabɔbaga
 \ps n. 
 \ge rédempteur
 \ge libérateur
@@ -57833,7 +57835,7 @@ kùnkɔrɔ
 \nt
 \dt 11/Nov/2007
 
-\lx /kùnma.bin/
+\lx kùnma.bin
 \va kùnbabin
 \ue (bn)
 \ps n. 
@@ -58286,7 +58288,7 @@ un ami ...)
 
 \lx kùnna.tiyɛn
 \ph [kunnacɛn]
-\va /kùnnatiɲɛ/
+\va kùnnatiɲɛ
 \ps n. 
 \ge déshonneur
 \ge détournement
@@ -58295,7 +58297,7 @@ un ami ...)
 
 \lx kùnna.tiyɛn
 \ph [..cɛn]
-\va /kùnnatiɲɛ/
+\va kùnnatiɲɛ
 \ps v.t 
 \sn 1
 \ge détourner qn de son devoir
@@ -58421,7 +58423,7 @@ un ami ...)
 \dt 16/Aug/2006
 
 \lx kúnu
-\va /kúnun/
+\va kúnun
 \ps v.i 
 \sn 1
 \ge se réveiller
@@ -58430,13 +58432,13 @@ un ami ...)
 \dt 16/Aug/2006
 
 \lx kúnu
-\va /kúnun/ 
+\va kúnun 
 \ps n. 
 \ge hier
 \dt 16/Aug/2006
 
 \lx kùnu
-\va /kùnun/ 
+\va kùnun 
 \ps v.t 
 \ge avaler
 \ge engloutir
@@ -58469,7 +58471,7 @@ un ami ...)
 \dt 12/Aug/2006
 
 \lx kúnu.baa.tɔ
-\va /kúnubagatɔ/
+\va kúnubagatɔ
 \ps n
 \ps adj.
 \sn 1
@@ -58650,7 +58652,7 @@ traduction par "baptême" se généralise, même chez les musulmans)
 \dt 16/Aug/2006
 
 \lx kùn.fɛ.jati
-\va /kùnfɛjate/
+\va kùnfɛjate
 \ps n. 
 \ge calcul mental
 \lt (tête.de.compter)
@@ -58742,7 +58744,7 @@ traduction par "baptême" se généralise, même chez les musulmans)
 \lt (tête.frapper)
 \dt 26/Sep/2006
 
-\lx /kùn.gosi.bali/
+\lx kùn.gosi.bali
 \va kùngɔsibali
 \ps n
 \ps adj
@@ -59126,7 +59128,7 @@ traduction par "baptême" se généralise, même chez les musulmans)
 
 \lx kùn.tiyɛn
 \ph [kuncɛn]
-\va /kùntiɲɛ/
+\va kùntiɲɛ
 \ps v.t 
 \ge détourner qn de son devoir
 \lt (tête.gâter)
@@ -59524,7 +59526,7 @@ traduction par "baptême" se généralise, même chez les musulmans)
 \dt 16/Aug/2006
 
 \lx kúrun.nin
-\va /kúrunden/
+\va kúrunden
 \ps n. 
 \sn 1
 \ge maillet (pour battre le linge)
@@ -59766,7 +59768,7 @@ ligne)
 \ge au secours ! à l'aide ! au boulot !
 \dt 16/Aug/2006
 
-\lx /kúuru/
+\lx kúuru
 \cf kúru
 \ue (f,bk) 
 \ps n
@@ -60168,7 +60170,7 @@ ligne)
 \lt (conseiller.action.faire.celui qui)
 \dt 26/Sep/2006
 
-\lx /làafa/
+\lx làafa
 \ue (-f,-bn,-bk) 
 \va làfa
 \ve (vx) 
@@ -60184,14 +60186,14 @@ ligne)
 \ge faire dépérir
 \dt 26/Sep/2006
 
-\lx /láahawula/
+\lx láahawula
 \va láayilaa
 \bw ar: la ilaha = il n'y a pas de divinité en dehors de Dieu ...
 \ps excl.
 \ge catastrophe ! phénoménal !
 \dt 16/Aug/2006
 
-\lx /làáji/
+\lx làáji
 \va làhaji
 \ps n. 
 \ge pèlerin de La Mecque
@@ -60237,7 +60239,7 @@ ligne)
 \dt 16/Aug/2006
 
 \lx láayilaa
-\va /láahawula/
+\va láahawula
 \bw ar: la ilaha = il n'y a pas de divinité en dehors de Dieu ...
 \ps excl.
 \ge exclamation d'étonnement
@@ -60281,7 +60283,7 @@ ligne)
 \dt 11/Nov/2007
 
 \lx lábi
-\va /láabi/
+\va láabi
 \ps v.t 
 \ge remplacer qn
 \ge prendre la place de ...
@@ -60495,7 +60497,7 @@ ligne)
 \dt 26/Sep/2006
 
 \lx làfa
-\va /làafa/
+\va làafa
 \ps n. 
 \ge bonnet (vx)
 \dt 16/Aug/2006
@@ -60560,7 +60562,7 @@ ligne)
 
 \lx láfili.baatɔ
 \ph [fl]
-\va /láfilibagatɔ/
+\va láfilibagatɔ
 \ps n
 \ps adj
 \ge triste
@@ -60695,7 +60697,7 @@ ligne)
 \dt 12/Aug/2006
 
 \lx láhaala
-\va /láhaara/
+\va láhaara
 \ue (bmk) 
 \bw ar: al-halat = état, condition
 \ps n.
@@ -60724,7 +60726,7 @@ ligne)
 \dt 16/Aug/2006
 
 \lx làhaji
-\va /làaji/
+\va làaji
 \ps n. 
 \ge pèlerin de La Mecque
 \dt 16/Aug/2006
@@ -60758,7 +60760,7 @@ ligne)
 \ee (habitant de l'autre monde : paradis, ou enfer !)
 \lt (autre monde.habitant)
 
-\lx /làhiya/
+\lx làhiya
 \cf làya
 \ps n. 
 \ge mouton sacrifié le jour de la Tabaski
@@ -60928,7 +60930,7 @@ ligne)
 \dt 26/Sep/2006
 
 \lx lákolo
-\va /lákolon/
+\va lákolon
 \ps vt
 \lt pré-corriger
 \ge éduquer, corriger, gérer l'éducation
@@ -61088,7 +61090,7 @@ ligne)
 \dt 26/Sep/2006
 
 \lx lámɛ.baa
-\va /lámɛnbaga/
+\va lámɛnbaga
 \ps n. 
 \ge auditeur
 \ge auditrice
@@ -61396,7 +61398,7 @@ laɲɛbagaw dè ye
 \lt (arabe.langue)
 \dt 16/Aug/2006
 
-\lx /láriwe/
+\lx láriwe
 \va lárawi
 \ue (bk)
 \va nárawi
@@ -61646,7 +61648,7 @@ laɲɛbagaw dè ye
 \dt 11/Nov/2007
 
 \lx làya
-\va /làhiya/
+\va làhiya
 \ps n. 
 \ge mouton
 \ge sacrifié à la Tabaski
@@ -62025,7 +62027,7 @@ intéressant d'aller voir les différents sens du verbe radical)
 \dt 26/Sep/2006
 
 \lx lá.dila
-\va /ládilan/
+\va ládilan
 \ph [ladla]
 \ps v.t 
 \sn 1
@@ -62205,7 +62207,7 @@ support)
 \xe les paysans sont angoissés au sujet de la pluie
 \dt 26/Sep/2006
 
-\lx /lá.fiɲɛ/
+\lx lá.fiɲɛ
 \cf láfiyɛn
 \cf rɔ́fiyɛn
 \ps v.réf 
@@ -62214,7 +62216,7 @@ support)
 \dt 16/Aug/2006
 
 \lx lá.fiyɛn
-\va /láfiɲɛ/
+\va láfiɲɛ
 \va rɔ́fiyɛn
 \lt (préf.alléger)
 \ps v.réf
@@ -62449,7 +62451,7 @@ support)
 
 \lx lá.jɛbɛ
 \ue (f,bk) 
-\cf  /lájaba/
+\cf  lájaba
 \ps v.t 
 \ge tancer ...
 \lt (préf.humilier ?)
@@ -62676,7 +62678,7 @@ support)
 \dt 26/Sep/2006
 
 \lx lá.ko.mɛ
-\va /lákomɛn/
+\va lákomɛn
 \ps v.t 
 \ge entendre parler de ...
 \lt (préf.affaire.entendre)
@@ -62725,7 +62727,7 @@ support)
 \dt 26/Sep/2006
 
 \lx lá.kunu
-\va /lá.kunun/
+\va lá.kunun
 \ps v.t 
 \ge réveiller
 \ge ressusciter
@@ -62804,7 +62806,7 @@ support)
 \dt 26/Sep/2006
 
 \lx lá.mana
-\va /lámɛnɛ/
+\va lámɛnɛ
 \ps v.t 
 \ge allumer
 \lt (préf.flamber)
@@ -62832,14 +62834,14 @@ support)
 \dt 26/Sep/2006
 
 \lx lá.mɛ
-\va /lámɛn/
+\va lámɛn
 \ps v.t 
 \ge faire durer
 \lt (préf.durer)
 \dt 16/Aug/2006
 
 \lx lá.mɛ
-\va /lámɛn/
+\va lámɛn
 \ps v.t
 \sn 1
 \ge écouter
@@ -63005,7 +63007,7 @@ nouvellement initiés)
 \dt 16/Aug/2006
 
 \lx lá.nɔ
-\va /lánɔn/
+\va lánɔn
 \ps v.t 
 \ge lécher
 \ge laper
@@ -63056,7 +63058,7 @@ nouvellement initiés)
 \dt 26/Sep/2006
 
 \lx lá.ɲɛni
-\va /láɲani/
+\va láɲani
 \ps v.t 
 \ge réduire à la misère
 \lt (préf.être dans la misère)
@@ -63098,7 +63100,7 @@ nouvellement initiés)
 \dt 26/Sep/2006
 
 \lx lá.ɲɔ
-\va /láɲɔn/
+\va láɲɔn
 \va rɔ́ɲɔ
 \ps v. réf
 \sn 1
@@ -63334,7 +63336,7 @@ nouvellement initiés)
 \dt 26/Sep/2006
 
 \lx lá.tiimɛ
-\va /látimɛ/
+\va látimɛ
 \ps v.t 
 \ge accomplir
 \ge mener à bien
@@ -63363,7 +63365,7 @@ nouvellement initiés)
 \ge bien suivre une loi
 \dt 26/Sep/2006
 
-\lx /lá.timɛ/
+\lx lá.timɛ
 \cf látiimɛ
 \ps v.t 
 \ge accomplir
@@ -63378,7 +63380,7 @@ nouvellement initiés)
 \lt (préf.rendre sucré)
 \dt 26/Sep/2006
 
-\lx /lá.tiɲɛ/
+\lx lá.tiɲɛ
 \cf lá.tiyɛn
 \ps v.t 
 \ge gâter ...
@@ -63393,7 +63395,7 @@ nouvellement initiés)
 
 \lx lá.tiyɛn
 \ph [lacɛn]
-\va /látiɲɛ/
+\va látiɲɛ
 \ps v.t 
 \sn 1
 \ge empêcher de faire une bonne action
@@ -63474,7 +63476,7 @@ nouvellement initiés)
 \dt 12/Aug/2006
 
 \lx lá.tunu
-\va /látunun/
+\va látunun
 \ps v.t.
 \sn 1
 \ge égarer
@@ -63648,7 +63650,7 @@ nouvellement initiés)
 \dt 16/Aug/2006
 
 \lx lèmuru
-\va /lènburu/
+\va lènburu
 \ps n.
 \sn 1
 \ge agrume en général 
@@ -63695,7 +63697,7 @@ nouvellement initiés)
 \dt 26/Sep/2006
 
 \lx lèmuru.kumu
-\va /lènburukumu/
+\va lènburukumu
 \ps n. 
 \ge citronnier
 \ge citron 
@@ -63714,7 +63716,7 @@ nouvellement initiés)
 \sy pánpulimusi
 \dt 26/Sep/2006
 
-\lx /lènburu/
+\lx lènburu
 \cf lèmuru
 \ps n. 
 \ge agrume ...
@@ -64145,7 +64147,7 @@ portent maintenant des culottes à élastique)
 \dt 26/Sep/2006
 
 \lx lómansa
-\va /lómaasa/
+\va lómaasa
 \ps n. 
 \ge teinture bleu foncé (brillant)
 \dt 16/Aug/2006
@@ -64163,7 +64165,7 @@ portent maintenant des culottes à élastique)
 
 \lx lòtɛli
 \es {fr : l'hôtel}
-\va /lòtoli/
+\va lòtoli
 \ps n
 \lt
 \ge hôtel + restaurant //
@@ -64401,7 +64403,7 @@ toutes les "mères" de la grande famille)
 \ge luciole
 
 \lx mǎ
-\va /mán/
+\va mán
 \ps n. 
 \ge lamantin 
 \ge Trichecus senegalensis) 
@@ -64418,7 +64420,7 @@ toutes les "mères" de la grande famille)
 
 \lx màá
 \ue (f,bk) 
-\cf /màgan/
+\cf màgan
 \ps adj. préd.
 \ge souple ... 
 \dt 16/Aug/2006
@@ -64942,7 +64944,7 @@ toutes les "mères" de la grande famille)
 \ge desserrer 
 \dt 26/Sep/2006
 
-\lx /màgo/
+\lx màgo
 \va màko
 \ee *mà= contact + ko = besoin, affaire concernant ...
 \ph [la prononciation "mako" semble beaucoup plus courante]
@@ -65083,7 +65085,7 @@ toutes les "mères" de la grande famille)
 \xv à màkari dònna  à lá
 \xe il en a eu pitié
 
-\lx màkari...lá
+\lx màkari…lá
 \ps v.i 
 \ge avoir pitié de
 \sy hínɛa màkarila  à lá
@@ -65379,7 +65381,7 @@ toutes les "mères" de la grande famille)
 \dt 11/Nov/2007
 
 \lx màlo.baatɔ
-\va /màlobagatɔ/
+\va màlobagatɔ
 \ps n
 \ps adj
 \ge rempli de confusion
@@ -65526,7 +65528,7 @@ toutes les "mères" de la grande famille)
 \xe le citronnier est moins grand que le rônier
 \dt 16/Aug/2006
 
-\lx /mán/
+\lx mán
 \cf mǎ
 \ps n. 
 \ge lamantin 
@@ -65588,7 +65590,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mána
-\cf /mɛ́nɛ/
+\cf mɛ́nɛ
 \ps v.t 
 \sn 1
 \ge allumer
@@ -65713,7 +65715,7 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mána-mána
-\va /mɛ́nɛ-mɛ́nɛ/
+\va mɛ́nɛ-mɛ́nɛ
 \ps v.i 
 \ge briller par intermittence
 \ge scintiller ...
@@ -65770,7 +65772,7 @@ toutes les "mères" de la grande famille)
 \ps n
 \lt endroit-côté
 \ge espèce, sorte ...
-\sy súgu...
+\sy súgu…
 \xv à tɛ́ sɔ̀n kà sɛ̀gɛbaatɔ mànfan sí dɛ̀mɛ / à tɛ́ sɔ̀n báara mànfan sí mà
 \xe
 \xv
@@ -65876,7 +65878,7 @@ toutes les "mères" de la grande famille)
 \lx mànjaraki
 \va mɔ̀njaraki
 \va nkànjaraki
-\va /bànjaraki/
+\va bànjaraki
 \ps v.i 
 \ge être presque mûr
 \dt 16/Aug/2006
@@ -65985,7 +65987,7 @@ toutes les "mères" de la grande famille)
 \rem du (néo) (kb)
 \dt 11/Nov/2007
 
-\lx /mánsa/
+\lx mánsa
 \cf mása
 \ps n. 
 \ge personne d'une génération supérieure
@@ -66060,7 +66062,7 @@ toutes les "mères" de la grande famille)
 \lt (contact.agréable)
 \dt 26/Sep/2006
 
-\lx /màn.digi/
+\lx màn.digi
 \cf màdigi
 \ps v.t 
 \ge causer de la douleur
@@ -66078,7 +66080,7 @@ toutes les "mères" de la grande famille)
 \ge mettre en colère
 \dt 26/Sep/2006
 
-\lx /màn.diya/
+\lx màn.diya
 \cf màdiya
 \ps n. 
 \ge amour
@@ -66182,7 +66184,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx máɲa
-\va /máɲan/
+\va máɲan
 \va mɛ́ɲɛ
 \ps n. 
 \ge sorte de gale
@@ -66190,7 +66192,7 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx máɲa
-\va /máɲan/
+\va máɲan
 \ps n. 
 \sn 1
 \ge jachère
@@ -66226,7 +66228,7 @@ toutes les "mères" de la grande famille)
 \xe certains comprimés te donnent des fourmillements
 \dt 26/Sep/2006
 
-\lx /máɲan/
+\lx máɲan
 \cf máɲa
 \ps n. 
 \ge jachère ...
@@ -66371,7 +66373,7 @@ toutes les "mères" de la grande famille)
 \ee (vendeur ambulant de drogues médicamenteuses)(souvent d'origine étrangère : mossi, yoruba, haoussa ...)
 \dt 12/Aug/2006
 
-\lx /màrabaa.tiga/
+\lx màrabaa.tiga
 \ph [marba ...]
 \ps n. 
 \ge arachides grillées et salées
@@ -66555,7 +66557,7 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mása
-\va /mánsa/
+\va mánsa
 \ps n. 
 \ge personne d'une génération supérieure
 \xv mása rɔ́ kɔ̀rɔbalen yé  ǔ mɔ̀kɛ yé
@@ -66982,7 +66984,7 @@ toutes les "mères" de la grande famille)
 \xe voici 500 francs, c'est ma part pour t'aider
 
 \lx mà.digi
-\va /màndigi/
+\va màndigi
 \ps v.t 
 \sn 1
 \ge rouvrir (une plaie ...) 
@@ -66995,7 +66997,7 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mà.diya
-\va /màndiya/
+\va màndiya
 \ph [maja]
 \ps n. 
 \ge affection
@@ -67071,7 +67073,7 @@ toutes les "mères" de la grande famille)
 
 \lx mà.fiyɛn
 \ph [mafyɛn]
-\va /máfiɲɛ/
+\va máfiɲɛ
 \ps v.t 
 \ge dénigrer
 \ge humilier
@@ -67679,7 +67681,7 @@ toutes les "mères" de la grande famille)
 \dt 12/Aug/2006
 
 \lx mɛ́
-\va /mɛ́n/
+\va mɛ́n
 \ph [mɛɛn = allongement expressif assez courant]
 \ps v.i 
 \ge rester longtemps
@@ -67692,7 +67694,7 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mɛ́
-\va /mɛ́n/
+\va mɛ́n
 \ps v.t.
 \sn 1
 \ge entendre
@@ -67724,7 +67726,7 @@ toutes les "mères" de la grande famille)
 \xe que veux- tu ?
 \dt 19/Aug/2006
 
-\lx /mɛ̀ɛrɛ/
+\lx mɛ̀ɛrɛ
 \cf mɛ̀rɛ 
 \ps n
 \ps adj
@@ -67833,13 +67835,13 @@ toutes les "mères" de la grande famille)
 \ge sorte d'étagère dans les angles des cases
 \dt 16/Aug/2006
 
-\lx /mɛ́n/
+\lx mɛ́n
 \cf mɛ́
 \ps v.i 
 \ge rester longtemps ...
 \dt 16/Aug/2006
 
-\lx /mɛ́n/
+\lx mɛ́n
 \cf mɛ́
 \ps v.t 
 \ge entendre ...
@@ -67853,7 +67855,7 @@ toutes les "mères" de la grande famille)
 \ge trop manger
 \dt 26/Sep/2006
 
-\lx /mɛ́nɛ/
+\lx mɛ́nɛ
 \cf mána
 \ps v.t.
 \sn 1
@@ -67917,7 +67919,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mɛ̀rɛ
-\va /mɛ̀ɛrɛ/
+\va mɛ̀ɛrɛ
 \ps n
 \ps adj
 \sn 1
@@ -68104,7 +68106,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mìlikiti
-\va /nírikiti/
+\va nírikiti
 \ps n. 
 \ge sangsue
 \dt 16/Aug/2006
@@ -68190,7 +68192,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mìna
-\va /mìnɛn/
+\va mìnɛn
 \ps n. 
 \ge bagage
 \ge outil ...
@@ -68249,7 +68251,7 @@ toutes les "mères" de la grande famille)
 \ee (allure et taille du chevreuil, une des antilopes les plus communes)   
 \dt 26/Sep/2006
 
-\lx /mìnɛ/
+\lx mìnɛ
 \va mìna
 \ps v.t.
 \sn 1
@@ -68292,7 +68294,7 @@ toutes les "mères" de la grande famille)
 \xe s'en remettre à Dieu (dans les épreuves, les injustices)
 \dt 26/Sep/2006
 
-\lx /mìnɛn/
+\lx mìnɛn
 \cf mìna
 \ps n .
 \sn 1
@@ -68382,7 +68384,7 @@ toutes les "mères" de la grande famille)
 \sy múnumunu
 \dt 26/Sep/2006
 
-\lx míni.ɲa*
+\lx míni.ɲa
 \ps n. 
 \ge boa constricteur
 \ge python 
@@ -68782,7 +68784,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mìsiriwelela
-\va /mìsiriweelela/
+\va mìsiriweelela
 \ps n
 \lt mosquée-crieur
 \ge muezzin
@@ -68798,7 +68800,7 @@ toutes les "mères" de la grande famille)
 \dt 11/Nov/2007
 
 \lx mìsiri.maa
-\va /mìsirimagan/
+\va mìsirimagan
 \ps n. 
 \ge aveugle
 \ge mendiant
@@ -69022,7 +69024,7 @@ toutes les "mères" de la grande famille)
 \ge tartre sur les dents
 \dt 26/Sep/2006
 
-\lx /móri/
+\lx móri
 \va mɔ́ri
 \bw ar: murabit = id. 
 \ps n.
@@ -69713,13 +69715,14 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mɔ̀mɔ
-\cf mɔ̀ = fóuille ?
+\xx mɔ̀ = fóuille ?
+\cf mɔ̀
 \ps v.t 
 \ge chercher à tâtons
 \ge palper
 \dt 26/Sep/2006
 
-\lx /mɔ́n/
+\lx mɔ́n
 \cf mɔ́
 \ps v. 
 \ge pêcher
@@ -69814,7 +69817,7 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mɔ̀ɲɔ
-\va /mɔ̀ɲɔn/
+\va mɔ̀ɲɔn
 \ps n. 
 \ge torche
 \ge brandon
@@ -69824,7 +69827,7 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mɔ́ɲɔkɔ
-\va /mɔ́ɲɔnkɔ/
+\va mɔ́ɲɔnkɔ
 \ps v.t 
 \sn 1
 \ge écraser
@@ -69907,7 +69910,7 @@ toutes les "mères" de la grande famille)
 \dt 12/Aug/2006
 
 \lx mɔ́ri
-\cf /móri/
+\cf móri
 \ps n. 
 \ge marabout
 \ge musulman
@@ -70087,7 +70090,7 @@ toutes les "mères" de la grande famille)
 \lt (pêcher.action.faire.celui qui)
 
 \lx mù
-\va /mùn/
+\va mùn
 \ps v.t 
 \ge enduire
 \ge crépir
@@ -70153,7 +70156,7 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mùgu
-\va /mùugu/
+\va mùugu
 \ps n. 
 \ge Synodontis filamentosus (sorte de poisson)
 \ee ---> 22 cm, ---> 245 gr. Corps assez bas, allongé, dorsale prolongée par un long filament noir)
@@ -70297,7 +70300,7 @@ toutes les "mères" de la grande famille)
 \dt 12/Aug/2006
 
 \lx mùluku.baatɔ
-\va /mùlukubagatɔ/
+\va mùlukubagatɔ
 \ps n. 
 \ge harassé de fatigue
 \ge paralysé
@@ -70343,7 +70346,7 @@ toutes les "mères" de la grande famille)
 \xe en quoi cela me regarde-t-il ?
 \dt 16/Aug/2006
 
-\lx /mùn/
+\lx mùn
 \cf mù
 \ps v.t 
 \ge enduire ...
@@ -70385,7 +70388,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx múnɛtɔ
-\va /mɔ́nɛtɔ/ (bn; bk)
+\va mɔ́nɛtɔ (bn; bk)
 \ps n/adj
 \lt rancoeur-qui a
 \ge plein de rancune, d'esprit de vengeance
@@ -70498,7 +70501,7 @@ toutes les "mères" de la grande famille)
 \dt 19/Aug/2006
 
 \lx mùɲu.baa
-\va /mùɲubaga/
+\va mùɲubaga
 \ps n. 
 \ge celui qui est patient
 \lt (patienter.celui qui)
@@ -70654,7 +70657,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mùru.jan
-\va /mùruja/
+\va mùruja
 \ps n. 
 \ge balance romaine
 \lt (couteau.grand ?)
@@ -70672,7 +70675,7 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx músalaka
-\va /músalaha/
+\va músalaha
 \bw ar: musalaha = compromis, conciliation, composition
 \ps v.t 
 \ge flatter hypocritement
@@ -70980,7 +70983,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mùso.man
-\va /mùsoma/
+\va mùsoma
 \ps n
 \ps adj
 \sn 1
@@ -71385,7 +71388,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx náalo
-\va /náalon/
+\va náalon
 \ue (-f)
 \ps n. 
 \ge esprit
@@ -71420,7 +71423,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx náamu
-\va /námu/
+\va námu
 \ps n. 
 \ge règle
 \ge loi
@@ -71453,7 +71456,7 @@ toutes les "mères" de la grande famille)
 \lx náanagalen
 \ps n. 
 \ge hirondelles et martinets
-\sy /nánagalen/
+\sy nánagalen
 \dt 16/Aug/2006
 
 \lx nàani
@@ -71482,7 +71485,7 @@ toutes les "mères" de la grande famille)
 \dt 12/Aug/2006
 
 \lx nàarɛ
-\va /nàrɛ/
+\va nàrɛ
 \ps n. 
 \ge beurre frais
 \dt 16/Aug/2006
@@ -71500,14 +71503,14 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx nàati
-\va /nàti/
+\va nàti
 \ps v.t 
 \ge faire venir
 \ge apporter
 \dt 26/Sep/2006
 
 \lx nàa.kɔrɔ.la
-\va /nàgakɔrɔla/
+\va nàgakɔrɔla
 \ps n. 
 \ge bas-ventre
 \lt (ventre.sous.endroit)
@@ -71902,7 +71905,7 @@ p.7)
 \sy súruku
 \dt 16/Aug/2006
 
-\lx /nàma/
+\lx nàma
 \va nɛ́mɛ
 \ps v.i 
 \ge être harassé
@@ -71962,7 +71965,7 @@ p.7)
 \dt 19/Aug/2006
 
 \lx námara
-\va /nánbara/
+\va nánbara
 \ps n. 
 \ge fraude
 \ge malhonnêteté
@@ -72068,7 +72071,7 @@ p.7)
 \lt (gluant.suf caus)
 \dt 26/Sep/2006
 
-\lx /námi/
+\lx námi
 \ue (bmk) 
 \cf náami
 \ps n. 
@@ -72167,14 +72170,14 @@ p.7)
 \lt (don.calme !)
 \dt 26/Sep/2006
 
-\lx /nánbara/
+\lx nánbara
 \cf námara
 \ps n. 
 \ge malhonnêteté ...
 \dt 16/Aug/2006
 
 \lx nànginɛ
-\va /nàngina/
+\va nàngina
 \bw fr : La Guinée 
 \ps n. 
 \ge cretonne
@@ -72254,7 +72257,7 @@ p.7)
 \ue (kl)
 \va lárawi
 \ue (bk)
-\cf /láriwe/
+\cf láriwe
 \ps v.t 
 \ge fouiller ...
 \dt 16/Aug/2006
@@ -72357,7 +72360,7 @@ p.7)
 \lt (cupidité.grande)
 \dt 26/Sep/2006
 
-\lx /nàti/
+\lx nàti
 \cf nàati
 \ps v.t 
 \ge apporter
@@ -72702,20 +72705,20 @@ p.7)
 \sy búlenmuso
 \dt 26/Sep/2006
 
-\lx /nbúru/
+\lx nbúru
 \cf búru
 \ps n. 
 \ge état
 \ge gouvernement
 \dt 26/Sep/2006
 
-\lx /nbúru/
+\lx nbúru
 \cf búru
 \ps n. 
 \ge pain
 
 \lx nbyɛ́lɛ
-\va /bɛ́ɛlɛ/
+\va bɛ́ɛlɛ
 \va byɛ́lɛ
 \ps n. 
 \ge récipient en terre
@@ -73043,7 +73046,7 @@ p.7)
 
 \lx ncɔ́ɔlɔ
 \ue (bn)
-\va /cɔ́ɔlɔ/
+\va cɔ́ɔlɔ
 \ps v.i 
 \ge s'affaiblir
 \dt 16/Aug/2006
@@ -73053,7 +73056,7 @@ p.7)
 \ge source
 
 \lx ncɔ́ɔnɔ
-\va /cɔ́ɔnɔ/
+\va cɔ́ɔnɔ
 \ps v.i 
 \ge sourdre
 \ge transsuder
@@ -73273,7 +73276,7 @@ p.7)
 \dt 11/Nov/2007
 
 \lx négenege
-\va /légelege/
+\va légelege
 \va nténtegema
 \ue (bk)
 \ps v.réf 
@@ -73342,7 +73345,7 @@ p.7)
 \dt 12/Aug/2006
 
 \lx nɛ̌
-\va /nɛ̌n/
+\va nɛ̌n
 \ps n. 
 \sn 1
 \ge langue(anat) 
@@ -73353,7 +73356,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɛ̌
-\va /nɛ̌n/
+\va nɛ̌n
 \ps n. 
 \ge pus
 \xv fúnu yé  nɛ̌ dòn
@@ -73427,7 +73430,7 @@ p.7)
 \ge de l'humidité
 \dt 26/Sep/2006
 
-\lx /nɛ́ɛnɛ/
+\lx nɛ́ɛnɛ
 \va nɛ́gɛnɛgɛ
 \ue (bk,bn)
 \cf nɛ́nɛ
@@ -73800,7 +73803,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɛ̀jan 
-\va /nɛ̀njan/
+\va nɛ̀njan
 \ps n/adj
 \lt langue-longue
 \ge qui a la langue bien pendue, bavard
@@ -73862,7 +73865,7 @@ p.7)
 
 \lx nɛ́mɛ
 \ue (-f)
-\va /náma/
+\va náma
 \ps v.i 
 \ge être harassé
 \ge ruiné
@@ -73880,13 +73883,13 @@ p.7)
 \sy nɔ́
 \sy lánɔ
 
-\lx /nɛ̌n/
+\lx nɛ̌n
 \cf nɛ̌ 
 \ps n. 
 \ge langue (anat)
 \dt 16/Aug/2006
 
-\lx /nɛ̌n/
+\lx nɛ̌n
 \cf nɛ̌ 
 \ps n. 
 \ge pus
@@ -73899,7 +73902,7 @@ p.7)
 \xe le froid l'a pris brusquement
 
 \lx nɛ́nɛ
-\va /nɛ́ɛnɛ/
+\va nɛ́ɛnɛ
 \cf nɛ́gɛnɛgɛ
 \ps v.t.
 \sn 1
@@ -73915,7 +73918,7 @@ p.7)
 \lt ( ? . enveloppe)
 
 \lx nɛ́nɛ-nɛ́nɛ
-\va /nɛ́ɛnɛ-nɛ́ɛnɛ/
+\va nɛ́ɛnɛ-nɛ́ɛnɛ
 \ps v.t 
 \ge savourer peu à peu
 \lt (goûter-goûter)
@@ -73950,14 +73953,14 @@ p.7)
 \rem 81, jos, du : défaut de prononciation, personne affligée de ce défaut
 \dt 11/Nov/2007
 
-\lx /nɛ̀n.diya/
+\lx nɛ̀n.diya
 \cf nɛ̀diya 
 \ps n. 
 \ge baratinage
 \lt (langue.bonté)
 \dt 12/Aug/2006
 
-\lx /nɛ̀n.duman/ 
+\lx nɛ̀n.duman 
 \cf nɛ̀duman 
 \ps n
 \ps adj
@@ -73965,7 +73968,7 @@ p.7)
 \lt (langue.bonne)
 \dt 12/Aug/2006
 
-\lx /nɛ̀n.juru/
+\lx nɛ̀n.juru
 \cf nɛ̀juru
 \ps n. 
 \ge frein
@@ -73973,7 +73976,7 @@ p.7)
 \lt (langue.fil)
 \dt 26/Sep/2006
 
-\lx /nɛ̀n.kɔrɔ.juru/
+\lx nɛ̀n.kɔrɔ.juru
 \cf nɛ̀kɔrɔjuru
 \ps n. 
 \ge frein
@@ -73982,7 +73985,7 @@ p.7)
 \sy nɛ̀juru
 \dt 26/Sep/2006
 
-\lx /nɛ̀n.kun/
+\lx nɛ̀n.kun
 \cf nɛ̀kun 
 \ps n. 
 \ge extrémité de la langue
@@ -74059,7 +74062,7 @@ p.7)
 \lt ('Parkia'.fermenté)
 
 \lx nɛ̀.diya
-\va /nɛ̀ndiya/
+\va nɛ̀ndiya
 \ps n. 
 \ge qualité ou défaut de qui parle facilement
 \ge bagout
@@ -74067,7 +74070,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nɛ̀.duman
-\va /nɛ̀nduman/
+\va nɛ̀nduman
 \ps n
 \ps adj
 \ge baratineur
@@ -74075,7 +74078,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɛ̀.juru
-\va /nɛ̀njuru/
+\va nɛ̀njuru
 \ps n. 
 \ge frein
 \ge filet de la langue
@@ -74083,14 +74086,14 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nɛ̀.kɔrɔ.juru
-\va /nɛ̀nkɔrɔjuru/
+\va nɛ̀nkɔrɔjuru
 \ps n. 
 \ge id.
 \lt (langue.sous.ficelle)
 \dt 16/Aug/2006
 
 \lx nɛ̀.kun
-\va /nɛ̀nkun/
+\va nɛ̀nkun
 \ps n. 
 \ge extrémité de la langue
 \lt (langue.bout)
@@ -74100,17 +74103,17 @@ p.7)
 \ps n. 
 \ge Heterotis niloticus (sorte de poisson)
 \ee ---> 1 m, ---> 10,15 kg. Grosses écailles, croissance rapide
-\sy /fánan/
+\sy fánan
 \dt 26/Sep/2006
 
 \lx nfɛ́rɛ
 \cf npɛ́rɛ
-\cf /tɛ́rɛ/
+\cf tɛ́rɛ
 \ps n. 
 \ge tique
 \dt 12/Aug/2006
 
-\lx /nfírinfirin/
+\lx nfírinfirin
 \cf npɛ́rɛnpɛrɛn
 \ps n. 
 \ge papillon
@@ -74123,7 +74126,7 @@ p.7)
 \ge Calotropis procera
 \sd ascl
 \ee ---> 6 m (typique des sols dégradés, vieille écorce liégeuse, latex caustique)
-\sy /fógonfogon/ 
+\sy fógonfogon 
 \sy npóponpogolon
 \dt 26/Sep/2006
 
@@ -74137,7 +74140,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nfɔ́sɔn(júru)
-\va /npɔ́sɔnjuru/
+\va npɔ́sɔnjuru
 \va mɔ́sɔnjuru
 \ue (bk)
 \ps n. 
@@ -74161,7 +74164,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nfyé
-\va /npíyen/
+\va npíyen
 \ps n. 
 \ge plante herbacée de souche vivace tubéreuse 
 \ge Asclepias lineolata 
@@ -74195,7 +74198,7 @@ p.7)
 
 \lx ngàara
 \va ngàra
-\va /ŋàara/
+\va ŋàara
 \ps n
 \ps adj
 \ge éloquent (se dit surtout des griots)
@@ -74203,7 +74206,7 @@ p.7)
 
 \lx Ngála
 \va Ála
-\va /ŋála/
+\va ŋála
 \ps n. 
 \sn 1
 \ge Dieu
@@ -74275,14 +74278,14 @@ p.7)
 \dt 19/Aug/2006
 
 \lx ngánagana
-\va /ŋánaŋana/
+\va ŋánaŋana
 \ps n. 
 \ge grande agitation mentale
 \ge folie
 \dt 26/Sep/2006
 
 \lx ngàniya
-\va /ŋàniya/
+\va ŋàniya
 \ps n.
 \sn 1
 \ge bon plaisir
@@ -74298,7 +74301,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx ngàniya
-\va /ŋàniya/
+\va ŋàniya
 \ps v.t 
 \ge vouloir 
 \xv à y'á ngàniya kà...
@@ -74306,13 +74309,13 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ngánunganu
-\va /ŋánuŋanu/
+\va ŋánuŋanu
 \ps v.i 
 \ge faisander
 \dt 16/Aug/2006
 
 \lx ngáɲangaɲa
-\va /ŋáɲaŋaɲa/
+\va ŋáɲaŋaɲa
 \ps idéo.
 \ge marque l'excellence
 \ge la perfection
@@ -74328,7 +74331,7 @@ p.7)
 
 \lx ngàra
 \cf ngàara
-\cf /ŋáara/
+\cf ŋáara
 \ps n
 \ps adj
 \ge éloquent (griot)
@@ -74359,7 +74362,7 @@ p.7)
 
 \lx ngèsen
 \ue (f,bk) 
-\va /gèse/
+\va gèse
 \ps v.t 
 \sn 1
 \ge rendre terne
@@ -74391,7 +74394,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ngìrin
-\va /nkìrin/
+\va nkìrin
 \ps n. 
 \ge spirale d'une corne d'antilope ...
 \dt 16/Aug/2006
@@ -74530,7 +74533,7 @@ p.7)
 \sy ngɔ̀jɛ
 \dt 19/Aug/2006
 
-\lx /ngɔ̌/
+\lx ngɔ̌
 \va nkɔ̌
 \ps n. 
 \ge planche de labour
@@ -74699,7 +74702,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ngùsun
-\va /nkùsun/
+\va nkùsun
 \ps n. 
 \ge variété de calebasse (instrument rythmique)
 \cf  nkùsun-
@@ -74787,7 +74790,7 @@ p.7)
 \xe ne pas avoir part à ..., se désengager de ...
 \dt 16/Aug/2006
 
-\lx ní...yé
+\lx ní…yé
 \ps loc.post
 \sn 1
 \ge marque d'accompagnement
@@ -74902,18 +74905,18 @@ p.7)
 \dt 19/Aug/2006
 
 \lx nìgisinɔgɔsɔ
-\va /nìisiinɔɔsɔ/
+\va nìisiinɔɔsɔ
 \ps n. 
 \ge douleurs musculaires (surtout des jambes)
 \dt 16/Aug/2006
 
-\lx /níiri/
+\lx níiri
 \va níri
 \ps n. 
 \ge lice (lisse) (d'un métier de tisserand)
 \dt 16/Aug/2006
 
-\lx /nìisinɔɔsɔ/
+\lx nìisinɔɔsɔ
 \va nìgisinɔgɔsɔ
 \va nìisinɔɔsɔnin
 \ps n. 
@@ -75296,7 +75299,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx níri
-\va /níiri/
+\va níiri
 \ps n. 
 \ge lice d'un métier de tisserand
 \dt 16/Aug/2006
@@ -75309,7 +75312,7 @@ p.7)
 \sy nàto
 \dt 26/Sep/2006
 
-\lx /nírikiti/
+\lx nírikiti
 \cf mìlikiti
 \ps n. 
 \ge sangsue
@@ -75395,7 +75398,7 @@ p.7)
 \lx ní.dɔngɔ
 \va ní.dɔgɔn
 \ue (f,bk)
-\va /nídungɔ/
+\va nídungɔ
 \sy díyanye
 \lt (âme.choix)
 \ps n.
@@ -75540,7 +75543,8 @@ p.7)
 
 \lx ní.sɔn
 \ee * 
-\cf  xá : níto = í.
+\xx  xá : níto = í.
+\cf xá
 \ps n.
 \ge humeur
 \ge caractère
@@ -75619,7 +75623,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nkàale
-\va /kàale/
+\va kàale
 \ps n. 
 \ge quenouille
 \dt 16/Aug/2006
@@ -75632,7 +75636,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nkàani
-\va /kàani/
+\va kàani
 \va ŋàani
 \va nkàari
 \ue (bn)
@@ -75902,7 +75906,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nkàniya
-\va /kàriɲan/
+\va kàriɲan
 \va nkɛ̀rɛɲɛ
 \ue (bn)
 \ps n. 
@@ -75912,7 +75916,7 @@ p.7)
 
 \lx nkànjaraki
 \cf mànjaraki
-\cf /bànjaraki/
+\cf bànjaraki
 \ps v.i 
 \ge être presque mûr
 \dt 16/Aug/2006
@@ -75924,7 +75928,7 @@ p.7)
 \lt ('strychnos'.grand)
 \ee fruits comestibles)   
 \sy nkànkoromuso
-\sy nkàntoroba...
+\sy nkàntoroba…
 \dt 16/Aug/2006
 
 \lx nkànkoro.muso
@@ -75934,7 +75938,7 @@ p.7)
 \lt ('strychnos'.femelle)
 \ee fruits comestibles)   
 \sy nkànkoroba
-\sy nkàntoromuso...
+\sy nkàntoromuso…
 \dt 19/Aug/2006
 
 \lx nkànkoro.nin
@@ -75957,7 +75961,7 @@ p.7)
 
 \lx nkánsole
 \cf kánsole
-\cf /kánsoli/
+\cf kánsoli
 \ps n. 
 \ge grand aulacode 
 \ge Thryonomys swinderianus
@@ -75988,7 +75992,7 @@ p.7)
 
 \lx nkàraki
 \ue (f,bn)
-\va /ntàraki/
+\va ntàraki
 \ps v.t 
 \ge érafler
 \ge écorcher
@@ -76152,7 +76156,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nkène
-\va /kènde/
+\va kènde
 \ps n. 
 \ge variété de sorgho 
 \ge Sorghum margaritiferum
@@ -76188,7 +76192,7 @@ p.7)
 \ue (bn)
 \va ntɛ̀ɛnkɛɲɛ
 \ue (f)
-\va /ntìgiɲɛ/
+\va ntìgiɲɛ
 \ps n. 
 \ge fourmi noire (en grandes colonies)
 \dt 16/Aug/2006
@@ -76307,7 +76311,7 @@ p.7)
 
 \lx nkɛ̀rɛ
 \va nkɛ̀rɛ(nín)
-\va /kɛ̀rɛnin/
+\va kɛ̀rɛnin
 \ps n. 
 \ge prise de lutte
 \dt 16/Aug/2006
@@ -76412,7 +76416,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nkógo.nin
-\va /nkúgo/
+\va nkúgo
 \lt ('nkogo'.petite) 
 \ps n. 
 \ge tortue aquatique 
@@ -76448,7 +76452,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nkòkoyo
-\va /kókoyo/
+\va kókoyo
 \ps n. 
 \sn 1
 \ge sauterelle 
@@ -76591,7 +76595,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nkɔ̌
-\cf /ngɔ̌/ 
+\cf ngɔ̌ 
 \ps n. 
 \ge planche de labour
 \dt 16/Aug/2006
@@ -76758,14 +76762,14 @@ p.7)
 \cf  jàgaro
 \dt 19/Aug/2006
 
-\lx /nkúgo/
+\lx nkúgo
 \cf nkógonin
 \ps n
 \ge tortue d'eau 
 \dt 19/Aug/2006
 
 \lx nkúma
-\va /nkúman/
+\va nkúman
 \ps n. 
 \ge grue couronnée 
 \ge Balearica pavonina
@@ -76782,7 +76786,7 @@ p.7)
 \dt 19/Aug/2006
 
 \lx nkùnaji
-\va /nkùnanji/
+\va nkùnanji
 \ps n
 \lt 'Sclero'..-eau
 \ge liqueur de nkùnan (sorte de bière faite avec le fruit
@@ -76799,7 +76803,7 @@ p.7)
 
 \lx nkúnankuna
 \va kúnankunan
-\va /ŋúnanŋunan/
+\va ŋúnanŋunan
 \ps n. 
 \ge bile 
 \sy fyé
@@ -76813,7 +76817,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nkúra
-\va /ngúra/
+\va ngúra
 \ps n. 
 \ge fourmi rouge (des manguiers et des agrumes)
 \dt 16/Aug/2006
@@ -76839,21 +76843,21 @@ p.7)
 \ge calebasse allongée ...
 \dt 16/Aug/2006
 
-\lx /nkùsun/
+\lx nkùsun
 \va ngùsun
 \ps n. 
 \ge variété de calebasse
 \ee (en forme de marinba, remplie de "petits cailloux" ou de graines, sert d'instrument rythmique)
 \dt 16/Aug/2006
 
-\lx /nkùsun.bala/
+\lx nkùsun.bala
 \va ngùsunbala
 \lt (marinba.xylophone) 
 \ps n. 
 \ge type d'accompagnement au balafon des chants de femmes du Bɛlɛdugu
 \dt 16/Aug/2006
 
-\lx /nkùsun.bara/
+\lx nkùsun.bara
 \va ngùsunbara
 \ps n. 
 \ge variété de calebasse
@@ -76861,7 +76865,7 @@ p.7)
 \lt (marinba.calebasse)
 \dt 16/Aug/2006
 
-\lx /nkùsun.jeli/
+\lx nkùsun.jeli
 \va ngùsunjeli
 \lt (marinba.griot)
 \ps n. 
@@ -76892,7 +76896,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɔ́
-\va /nɔ́n/
+\va nɔ́n
 \ps v.t 
 \ge lécher
 \ge laper
@@ -76903,7 +76907,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nɔ́
-\va /nɔ́n/
+\va nɔ́n
 \ps v.i /  réf
 \ge nager (rare)
 \xv à b'í nɔ́
@@ -77078,7 +77082,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nɔ̀gɔ
-\va /nɔ̀gɔn/
+\va nɔ̀gɔn
 \ps adj.préd
 \sn 1
 \ge facile
@@ -77130,7 +77134,7 @@ p.7)
 \ge péché (relations non permises ...)
 \dt 26/Sep/2006
 
-\lx /nɔ̀gɔn/
+\lx nɔ̀gɔn
 \cf nɔ̀gɔ
 \ps adj.préd
 \ge facile ...
@@ -77208,7 +77212,7 @@ p.7)
 \lt (fumier.mettre)
 \dt 26/Sep/2006
 
-\lx /nɔ́gɔ.fi/
+\lx nɔ́gɔ.fi
 \va nɔ́gɔsi
 \ue (bn, f) 
 \ps v.t 
@@ -77275,7 +77279,7 @@ p.7)
 
 \lx nɔ́gɔ.si
 \ue (bn,f)
-\cf /nɔ́gɔfi/
+\cf nɔ́gɔfi
 \ps v.t 
 \sn 1
 \ge brutaliser ...
@@ -77362,7 +77366,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nɔ̀mi
-\va /nɔ̀min/
+\va nɔ̀min
 \ps n.
 \sn 1
 \ge toute chose arquée
@@ -77374,20 +77378,20 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɔ̀mi.tɔ
-\va /nɔ̀mintɔ/
+\va nɔ̀mintɔ
 \ps n. 
 \ge personne aux jambes arquées(qui a le "valgus")
 \lt (arc.qui a)
 \dt 16/Aug/2006
 
-\lx /nɔ́n/
+\lx nɔ́n
 \cf nɔ́
 \ps v.t 
 \ge lécher 
 \sy nɛ́mu
 \dt 16/Aug/2006
 
-\lx /nɔ́n/
+\lx nɔ́n
 \cf nɔ́
 \ps v.i  /  réf
 \ge nager (rare)
@@ -77437,7 +77441,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɔ́nikɛla
-\va /nɔ́nnikɛla/
+\va nɔ́nnikɛla
 \ps n
 \lt natation-faire celui qui
 \ge nageur
@@ -77491,7 +77495,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɔ̀nɔ
-\va /nɔ̀ɔnɔ/
+\va nɔ̀ɔnɔ
 \ps n. 
 \ge miel clarifié (rare en dehors du composé dinɔnɔ)
 \dt 16/Aug/2006
@@ -77518,7 +77522,7 @@ p.7)
 \lt (lait.poudre)
 \dt 16/Aug/2006
 
-\lx /nɔ́nsi/
+\lx nɔ́nsi
 \va nɔ́ɔnsi
 \ps n. 
 \ge caméléon (saurien)
@@ -77537,14 +77541,14 @@ p.7)
 \ge pétrir
 \dt 26/Sep/2006
 
-\lx /nɔ̀ɔnɔ/
+\lx nɔ̀ɔnɔ
 \cf nɔ̀nɔ 
 \ps n. 
 \ge miel pur
 \dt 16/Aug/2006
 
 \lx nɔ́ɔnsi
-\va /nɔ́nsi/
+\va nɔ́nsi
 \ps n. 
 \ge caméléon (saurien)
 \dt 16/Aug/2006
@@ -77643,7 +77647,7 @@ p.7)
 \ge bourses (anat)
 \dt 16/Aug/2006
 
-\lx /nɔ̀ɔrɔ/
+\lx nɔ̀ɔrɔ
 \cf nɔ̀rɔ 
 \ue (f,bn) 
 \ps n. 
@@ -77711,7 +77715,7 @@ p.7)
 
 \lx nɔ̀rɔ
 \ue (f,bn)
-\va /nɔ̀ɔrɔ/
+\va nɔ̀ɔrɔ
 \ps n. 
 \ge épis à glaner
 \ge arachides ...
@@ -77882,7 +77886,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx npàana
-\va /pàana/
+\va pàana
 \ps v.t 
 \ge écarter (les jambes
 \ge les bras ...)
@@ -77890,7 +77894,7 @@ p.7)
 
 \lx npàara
 \ue (bk)
-\va /pàara/
+\va pàara
 \va ntàran
 \ps n. 
 \ge enjambée (fam)
@@ -77951,7 +77955,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx npárancan
-\va /npáraja/
+\va npáraja
 \ps n. 
 \ge varicelle
 \dt 16/Aug/2006
@@ -77968,7 +77972,7 @@ p.7)
 \ee pris dans un filet, il sort des mailles avec vivacité)
 \dt 16/Aug/2006
 
-\lx /npári/
+\lx npári
 \cf npɛ́ri
 \ps n
 \ge sorte de jeu
@@ -78053,7 +78057,7 @@ p.7)
 \lx npérekete.nin
 \va npɔ́rɔkɔnin
 \va 
-\va /npɔ́rɔkɔtɔlen/
+\va npɔ́rɔkɔtɔlen
 \cf ncírikitinin
 \lt (petit.petit)
 \ps n
@@ -78090,7 +78094,7 @@ p.7)
 \lx npɛ̀rɛ
 \va npàra
 \ue (bk)
-\va /pàara/
+\va pàara
 \ps n. 
 \ge sifflement de mépris
 \ge de désaccord
@@ -78105,7 +78109,7 @@ p.7)
 \dt 12/Aug/2006
 
 \lx npɛ́ri
-\va /npári/
+\va npári
 \ps n. 
 \ge sorte de jeu
 \ee (consiste à ficher une pointe dans un bois tendre caché dans le sable ou la poussière)
@@ -78276,7 +78280,7 @@ p.7)
 \sd ascl
 \ee (typique des sols dégradés, vieille écorce liégeuse, latex caustique)
 \sy nfógonfogon
-\sy /fógonfogon/
+\sy fógonfogon
 \dt 26/Sep/2006
 
 \lx npóro
@@ -78316,7 +78320,7 @@ p.7)
 
 \lx npɔ̀lɔn
 \va nbɔ̀lɔn
-\va /bɔ̀lɔn/
+\va bɔ̀lɔn
 \ps n. 
 \ge guitare-harpe du Wassoulou 
 \ge guitare des chasseurs au Bɛlɛdugu 
@@ -78365,7 +78369,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx npɔ́rɔkɔtɔnin
-\va /npɔ́rɔkɔtɔlen/
+\va npɔ́rɔkɔtɔlen
 \ue (bn,bk) 
 \cf npéreketeniin
 \ps n. 
@@ -78420,7 +78424,7 @@ p.7)
 \lt (syphilis.malade)
 \dt 16/Aug/2006
 
-\lx /npɔ́sɔn.juru/
+\lx npɔ́sɔn.juru
 \va nfɔ́sɔnjuru
 \va mɔ́sɔnjuru
 \ue (bk)
@@ -78447,7 +78451,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx npyéna
-\va /nfyéna/
+\va nfyéna
 \va npyɛ́nɛ
 \ue (bn)
 \ps n. 
@@ -78471,7 +78475,7 @@ p.7)
 \lx npyɛ́nɛ
 \ue (bn)
 \cf npyéna
-\cf /nfyéna/
+\cf nfyéna
 \ps n. 
 \ge champignon
 \dt 12/Aug/2006
@@ -78535,7 +78539,7 @@ p.7)
 \ge Daniellia oiveri ( arbre ---> 15 / 20 m )
 \sd césa    
 \sy sána
-\sy /sánan/
+\sy sánan
 \dt 19/Aug/2006
 
 \lx nsànfala
@@ -78641,7 +78645,7 @@ p.7)
 
 \lx nsɛ̀gɛlɛn
 \va sɛ̀gɛlɛn
-\va /sègelen/
+\va sègelen
 \ps n. 
 \ge ver de Guinée
 \ge dracunculose
@@ -78759,7 +78763,7 @@ p.7)
 
 \lx nsómo
 \va nsónbo
-\va /sómo/
+\va sómo
 \ps n. 
 \ge ver dans le poisson boucané
 \ge séché
@@ -78784,7 +78788,7 @@ p.7)
 \ge petite vérole
 \dt 26/Sep/2006
 
-\lx /nsǒn/
+\lx nsǒn
 \cf sǒn
 \ue (f)
 \ps n. 
@@ -78956,7 +78960,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx ntàki
-\va /ntàgi/
+\va ntàgi
 \ps n
 \ps adj
 \sn 1
@@ -79040,7 +79044,7 @@ p.7)
 \dt 12/Aug/2006
 
 \lx ntàma
-\va /ntàman/
+\va ntàman
 \ps n. 
 \ge tambourin d'aisselle (à deux peaux)
 \dt 16/Aug/2006
@@ -79199,7 +79203,7 @@ p.7)
 \ee (deux trous de même volume remplis de terre le premier qui vide le sien a gagné)
 \dt 26/Sep/2006
 
-\lx /ntàraki/
+\lx ntàraki
 \va nkàraki
 \ue (f,bn) 
 \ps v.t 
@@ -79212,7 +79216,7 @@ p.7)
 \lx ntàran
 \va npàara
 \ue (bk)
-\va /pàara/
+\va pàara
 \ps n. 
 \ge jambes écartées (fam)
 \dt 16/Aug/2006
@@ -79232,7 +79236,7 @@ p.7)
 \ue (f)
 \va nkèrenkɛ̀ɲɛ́
 \ue (bn)
-\va /ntìgiɲɛ/
+\va ntìgiɲɛ
 \ps n. 
 \ge fourmi noire (en grandes colonies)
 \dt 16/Aug/2006
@@ -79381,7 +79385,7 @@ p.7)
 
 \lx ntɛ́ɛnɛ
 \ue (bn)
-\va /ntɛ́gɛnɛ/
+\va ntɛ́gɛnɛ
 \va tɛ́gɛnɛ
 \ue (bk)
 \cf ntɛ́gɛlɛn
@@ -79399,7 +79403,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ntɛ́ɛntɛ
-\va /ntɛ́ntɛn/
+\va ntɛ́ntɛn
 \ps n. 
 \ge mot d'introduction d'une devinette
 \ge d'un conte
@@ -79420,7 +79424,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx ntɛ́gɛlɛn
-\va /ntɛ́gɛnɛ/
+\va ntɛ́gɛnɛ
 \va ntɛ́ɛnɛ
 \ue (bn)
 \va tɛ́gɛnɛ
@@ -79436,7 +79440,7 @@ p.7)
 \ge cervelle
 \dt 12/Aug/2006
 
-\lx /ntɛ́gɛnɛ/
+\lx ntɛ́gɛnɛ
 \cf ntɛ́gɛlɛn
 \cf tɛ́gɛnɛ
 \ue (bk)
@@ -79485,7 +79489,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ntɛ̀nɛ
-\va /ntɛ̀nɛn/
+\va ntɛ̀nɛn
 \bw ar: al-itnayn = 2 ème jour 
 \ps n. 
 \ge lundi 
@@ -79493,14 +79497,14 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ntígi
-\va /ntígin/
+\va ntígin
 \ps n. 
 \ge poisson-électrique 
 \ge Malopterus electricus
 \ee ---> 1,2 m, 27 kg  (ses décharges électriques servent à sa défense ou à paralyser les poissons dont il fait sa nourriture)
 \dt 16/Aug/2006
 
-\lx /ntìgiɲɛ/
+\lx ntìgiɲɛ
 \va ntɛ̀ɛ́nkɛ̀ɲɛ́
 \ue (f)
 \va nkèrenkɛɲɛ
@@ -79525,7 +79529,7 @@ p.7)
 
 \lx ntìiri
 \ue (bk)
-\va /tìiri/
+\va tìiri
 \cf ntìri
 \ps n. 
 \ge trait
@@ -79543,7 +79547,7 @@ p.7)
 
 \lx ntíleku
 \ph [ntl]
-\va /ntílɛku/
+\va ntílɛku
 \ps n. 
 \ge plomb
 \dt 16/Aug/2006
@@ -79570,7 +79574,7 @@ p.7)
 \lx ntìri
 \va ntìiri
 \ue (bk)
-\va /tìiri/
+\va tìiri
 \ps n. 
 \ge trait
 \ge ligne
@@ -79705,7 +79709,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ntólo
-\va /ntóolo/
+\va ntóolo
 \ps idéo.
 \ge action de percer complètement
 \dt 16/Aug/2006
@@ -79820,7 +79824,7 @@ p.7)
 \ge Petrocephalus sp. (Sorte de poisson)
 \sd
 \sy fyɛ́baden
-\sy dákurun...
+\sy dákurun…
 \dt 16/Aug/2006
 
 \lx ntòni.fòro
@@ -79839,7 +79843,7 @@ p.7)
 \xe (prov) faire des ricochets avec un caillou, ce n'est pas extraordinaire (ça ne vaut pas la peine de mettre sa main sur sa bouche d'étonnement)
 \dt 16/Aug/2006
 
-\lx /ntònso/
+\lx ntònso
 \cf tònso
 \ps n. 
 \ge roussette + épomophore
@@ -79900,7 +79904,7 @@ p.7)
 \ee (au coucher du soleil les 6 lobes du périgone s'étalent et s'enroulent sur eux-mêmes)
 \dt 26/Sep/2006
 
-\lx /ntóolo/
+\lx ntóolo
 \va ntólo
 \ps idéo.
 \ge bruit de chute
@@ -80082,7 +80086,7 @@ p.7)
 
 \lx ntɔ̀ɲɔ
 \ue (f,bk) 
-\cf /tɔ̀ɲɔ/ 
+\cf tɔ̀ɲɔ 
 \ps v.t 
 \ge offenser
 \ge faire du tort à qn
@@ -80119,7 +80123,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ntɔ̀ri.nin
-\cf /ntòrinin/
+\cf ntòrinin
 \ps n. 
 \ge parties sexuelles féminines ...
 \lt (crapaud.petit)
@@ -80336,7 +80340,7 @@ p.7)
 \lx ntúsu
 \va ntúsun
 \va túsu
-\va /túsuu/
+\va túsuu
 \ps n.
 \ge grappe de fruits (régime de banane ...)
 \dt 16/Aug/2006
@@ -80350,7 +80354,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nú
-\va /nún/
+\va nún
 \ps n.
 \sn 1
 \ge nez
@@ -80471,7 +80475,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx nùgurɛ
-\va /nùgure/
+\va nùgure
 \ps n. 
 \ge sangle
 \ge sous-ventrière
@@ -80577,7 +80581,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx nújuru
-\va /núnjuru/
+\va núnjuru
 \ps n
 \lt nez-corde
 \sn 1
@@ -80597,7 +80601,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 11/Nov/2007
 
 \lx núkɔrɔsi
-\va /núnkɔrɔsi/
+\va núnkɔrɔsi
 \va núnkɔrɔsii (dú)
 \ps n
 \lt nez-sous-poil
@@ -80694,7 +80698,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \lt (forgeron.suf abs)
 \dt 26/Sep/2006
 
-\lx /nún/
+\lx nún
 \cf nú
 \ps n. 
 \ge nez ...
@@ -80833,7 +80837,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 16/Aug/2006
 
 \lx nú.ma
-\va /núman/
+\va núman
 \ps n
 \ps adj
 \ge gauche (opposé à droite)
@@ -81021,7 +81025,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 12/Aug/2006
 
 \lx ɲà
-\va /ɲɛ̀/
+\va ɲɛ̀
 \ee *ɲì-ya --> ɲǎ (bon + suf caus) = rendre bon
 \ps v.t.
 \sn 1
@@ -81063,7 +81067,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx ɲá
-\va /ɲán/
+\va ɲán
 \ue (-f,-bn) 
 \ps v.i 
 \ge manquer
@@ -81073,7 +81077,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx ɲá
-\cf /ɲɛ́/
+\cf ɲɛ́
 \ps n. 
 \ge fois
 \ge coup
@@ -81087,7 +81091,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 16/Aug/2006
 
 \lx ɲǎ
-\va /ɲɛ̌/
+\va ɲɛ̌
 \ee *ɲì-ya --> ɲǎ (bon + suf abs) = bonté 
 \ps n. 
 \ge réussite
@@ -81190,7 +81194,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 16/Aug/2006
 
 \lx ɲàci.ntan
-\va /ɲɛ̀cintan/
+\va ɲɛ̀cintan
 \ps n
 \ps adj
 \ge inutile
@@ -81273,7 +81277,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 
 \lx ɲàgan
 \ue (f,bn)
-\va /ɲɛ̀gan/
+\va ɲɛ̀gan
 \ph [ɲàgwan]
 \ps n. 
 \ge sorcier réputé bienfaisant
@@ -81332,7 +81336,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx ɲàki
-\va /ɲàgi/
+\va ɲàgi
 \ps n. 
 \ge foëne à trois dents
 \ge trident
@@ -81340,7 +81344,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 
 \lx ɲàkin
 \ue (f)
-\cf /ɲàngi/
+\cf ɲàngi
 \ps v.t 
 \ge taxer d'une amende
 \dt 16/Aug/2006
@@ -81366,7 +81370,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx ɲàko.ma
-\va /ɲɛ̀koma/
+\va ɲɛ̀koma
 \ps n
 \ps adj
 \ge personne utile
@@ -81374,7 +81378,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 16/Aug/2006
 
 \lx ɲàko.ntan
-\va /ɲɛ̀kontan/
+\va ɲɛ̀kontan
 \ps n
 \ps adj
 \ge inutile
@@ -81392,7 +81396,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 16/Aug/2006
 
 \lx ɲàma
-\va /ɲàman/
+\va ɲàman
 \ps n. 
 \ge ordure
 \ge balayure ...
@@ -81467,7 +81471,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \rem
 \dt 11/Nov/2007
 
-\lx /ɲàman/
+\lx ɲàman
 \cf ɲàma
 \ps n. 
 \ge ordure
@@ -81475,14 +81479,14 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx ɲàmaɲáma
-\va /ɲàmanɲáman/
+\va ɲàmanɲáman
 \ps n. 
 \ge objets hétéroclites
 \ge bricoles
 \dt 26/Sep/2006
 
 \lx ɲàmaton
-\va /ɲàmanton/
+\va ɲàmanton
 \ps n
 \lt ordure-tas
 \sn 1
@@ -81520,7 +81524,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 19/Aug/2006
 
 \lx ɲàma.daa
-\va /ɲàmada/
+\va ɲàmada
 \ps n. 
 \ge canari (sur lequel les chasseurs font des sacrifices)
 \lt ('force'.canari)
@@ -81615,7 +81619,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \ge amante
 \lt (amant.féminin)
 
-\lx /ɲán/
+\lx ɲán
 \cf ɲá
 \ue (-f,-bn) 
 \ps v.i 
@@ -81623,7 +81627,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 16/Aug/2006
 
 \lx ɲàna
-\va /ɲànan/
+\va ɲànan
 \ps n. 
 \ge variété de fétiche redouté
 \dt 16/Aug/2006
@@ -81644,14 +81648,14 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \rem f, bk, bn
 \dt 11/Nov/2007
 
-\lx /ɲàngi/
+\lx ɲàngi
 \cf ɲàkin
 \ue (f)
 \ps v.t 
 \ge taxer d'une amende
 \dt 16/Aug/2006
 
-\lx /ɲáni/
+\lx ɲáni
 \cf ɲɛ́ni
 \ue (f,bn) 
 \ps n. 
@@ -81662,7 +81666,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx ɲànkara
-\va /ɲànkaran/
+\va ɲànkaran
 \ps n. 
 \sn 1
 \ge chasseur audacieux ... 
@@ -81721,8 +81725,8 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \ee (gros pigeon lié à la présence des rôniers)
 \dt 26/Sep/2006
 
-\lx ɲǎn*
-\cf ɲǎ*
+\lx ɲǎn
+\cf ɲǎ
 \ps n. 
 \ge python royal 
 \ge Python regius
@@ -81752,7 +81756,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \ge personnes)
 \dt 26/Sep/2006
 
-\lx /ɲáramaɲarama/
+\lx ɲáramaɲarama
 \ue (bmk)
 \va ɲɛ́ramaɲɛrama
 \ps v.réf 
@@ -81816,8 +81820,8 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \xe le chien a montré les dents
 \dt 26/Sep/2006
 
-\lx ɲǎ*
-\va /ɲǎn/
+\lx ɲǎ
+\va ɲǎn
 \ps n. 
 \ge python royal 
 \ge Python regius
@@ -81825,7 +81829,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 16/Aug/2006
 
 \lx ɲà.ci
-\va /ɲɛ̀ci/
+\va ɲɛ̀ci
 \ps n. 
 \ge utilité
 \ge emploi
@@ -81844,7 +81848,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \xe quand il a vu qu'il n'y avait rien à faire...
 \dt 26/Sep/2006
 
-\lx ɲà.jan*
+\lx ɲà.jan
 \lt ('ɲa'.grand)
 \ps n. 
 \ge serpent
@@ -81856,7 +81860,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx ɲà.ko
-\va /ɲɛ̀ko/
+\va ɲɛ̀ko
 \ps n. 
 \ge utilité
 \ge fonction ...
@@ -82002,7 +82006,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \xe réserver de la nourriture pour quelqu'un
 \dt 26/Sep/2006
 
-\lx /ɲɛ́/
+\lx ɲɛ́
 \va ɲà
 \ps n.
 \sn 1
@@ -82016,7 +82020,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \xe une panerée
 \dt 26/Sep/2006
 
-\lx /ɲɛ̀/
+\lx ɲɛ̀
 \cf ɲà
 \ps v.i 
 \ge être bon
@@ -82090,7 +82094,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \lt (oeil rouge.vieux)
 \dt 16/Aug/2006
 
-\lx /ɲɛ̀ci.ntan/
+\lx ɲɛ̀ci.ntan
 \va ɲàcintan
 \ps n
 \ps adj
@@ -82241,7 +82245,7 @@ paysans
 \xv ɲɛ́gɛnɛ kɛ́
 \xe uriner, pisser
 \sy súgunɛ kɛ́
-\sy /báwuli/
+\sy báwuli
 \dt 26/Sep/2006
 
 \lx ɲɛ́gɛnɛkɛ(bana)
@@ -82277,7 +82281,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɛ́go.nci
-\va /ɲɛ́ngonci/
+\va ɲɛ́ngonci
 \ps n
 \ps adj
 \ge jaloux à l'excès
@@ -82286,7 +82290,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɛ́go.ya
-\va /ɲɛ́ngoya/
+\va ɲɛ́ngoya
 \ps n. 
 \sn 1
 \ge jalousie
@@ -82365,7 +82369,7 @@ paysans
 \ge sourcil
 \lt (oeil.arcade.poil)
 
-\lx /ɲɛ̀ko.ma/
+\lx ɲɛ̀ko.ma
 \va ɲàkoma
 \ps n
 \ps adj
@@ -82373,7 +82377,7 @@ paysans
 \lt (utilité.qui a)
 \dt 16/Aug/2006
 
-\lx /ɲɛ̀ko.ntan/
+\lx ɲɛ̀ko.ntan
 \va ɲàkontan
 \ps n
 \ps adj
@@ -82660,7 +82664,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɛ́ma.tiyɛn
-\va /ɲɛ́matiɲɛ/
+\va ɲɛ́matiɲɛ
 \lt (devant.gâter) 
 \ps v.t 
 \ge détourner qn d'une action
@@ -82670,7 +82674,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɛ́ma.tunu
-\va /ɲɛ́matunun/
+\va ɲɛ́matunun
 \ps v.i 
 \ge disparaître au regard
 \ge être perdu de vue
@@ -82786,7 +82790,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɛ́nakegun
-\va /ɲɛ́nakekun/
+\va ɲɛ́nakekun
 \ps n
 \lt regard-malin
 \ge adroit de ses mains (!)
@@ -83135,18 +83139,18 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɛ̀nɛ
-\va /ɲìnɛ/
+\va ɲìnɛ
 \ps v.i 
 \ge oublier ... kɔ
 \dt 16/Aug/2006
 
-\lx /ɲɛ́ngoya/
+\lx ɲɛ́ngoya
 \cf ɲɛ́goya
 \ps n. 
 \ge jalousie
 \lt (jaloux.suf abs)
 
-\lx /ɲɛ́ngo.nci/
+\lx ɲɛ́ngo.nci
 \cf ɲɛ́gonci
 \ps n. 
 \ge jaloux ...
@@ -83155,7 +83159,7 @@ paysans
 
 \lx ɲɛ́ni
 \ue (f,bn) 
-\cf /ɲáni/
+\cf ɲáni
 \ps n. 
 \ge misère
 \ge malheur
@@ -83199,7 +83203,7 @@ paysans
 \lt (sauter-sauter)
 \dt 16/Aug/2006
 
-\lx /ɲɛ́n.go/
+\lx ɲɛ́n.go
 \cf ɲɛ́go
 \ps n
 \ps adj
@@ -83210,7 +83214,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɛ̀ɲɛ
-\va /ɲɛ̀ɲɛn/
+\va ɲɛ̀ɲɛn
 \ps n. 
 \ge brisure de céréales
 \ge mil concassé
@@ -83224,7 +83228,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɛ́ramaɲɛrama
-\va /ɲáramaɲarama/
+\va ɲáramaɲarama
 \ps v.i 
 \ge marcher lascivement
 \dt 16/Aug/2006
@@ -83246,7 +83250,7 @@ paysans
 \dt 11/Nov/2007
 
 \lx ɲɛ́siranbaga
-\va // ɲɛ́siranbaa
+\va ɲɛ́siranbaa
 \ps n
 \lt craindre-celui qui
 \ge qui respecte un supérieur, qui le révère
@@ -83408,7 +83412,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɛ́.bɔɔsi
-\va /ɲɛ́bɔsi/
+\va ɲɛ́bɔsi
 \ps n. 
 \ge maladie des yeux : blépharite ...
 \lt (oeil.écorcher)
@@ -83428,7 +83432,7 @@ paysans
 \lt (oeil.éclater)
 \dt 16/Aug/2006
 
-\lx /ɲɛ̀.ci/
+\lx ɲɛ̀.ci
 \cf ɲàci
 \ps n. 
 \ge utilité ...
@@ -83445,7 +83449,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɛ́.cɔnkɔ
-\va /ɲɛ́cɔngɔ/
+\va ɲɛ́cɔngɔ
 \ps n.
 \sn 1
 \ge frottement des yeux
@@ -83658,7 +83662,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɛ́.go
-\va /ɲɛ́ngo/
+\va ɲɛ́ngo
 \ps n
 \ps adj
 \sn 1
@@ -83794,7 +83798,7 @@ paysans
 \xe quand tu regardais ses yeux, tu y voyais ton image  (elle avait de beaux yeux !)
 \dt 16/Aug/2006
 
-\lx /ɲɛ̀.ko/
+\lx ɲɛ̀.ko
 \va ɲàko
 \ps n. 
 \ge utilité
@@ -83876,14 +83880,14 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɛ́.maa
-\cf /ɲɛ́mɔgɔ/
+\cf ɲɛ́mɔgɔ
 \ps n. 
 \ge chef ...
 \lt (devant.personne)
 \dt 16/Aug/2006
 
 \lx ɲɛ́.màa.nin
-\va /ɲɛ́.mɔ̀gɔ.nin/
+\va ɲɛ́.mɔ̀gɔ.nin
 \ps n. 
 \ge pupille de l'oeil
 \lt (oeil.poupée ?)
@@ -84089,7 +84093,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɛ́.ŋunu
-\va /ɲɛ́ɲugu/
+\va ɲɛ́ɲugu
 \ps v.réf 
 \ge afficher une mine triste
 \lt (yeux.détourner)
@@ -84326,7 +84330,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲí
-\va /ɲín/
+\va ɲín
 \ps n. 
 \ge dent
 \xv à ɲí bɔ́ra
@@ -84369,7 +84373,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲǐ
-\va /ɲǐn/
+\va ɲǐn
 \ee *ɲì : bon, en fonction nominale 
 \ps n. 
 \ge ami
@@ -84497,18 +84501,18 @@ paysans
 \sy háwusakala
 \dt 19/Aug/2006
 
-\lx /ɲín/
+\lx ɲín
 \cf ɲí
 \ps n. 
 \ge dent
 
-\lx /ɲǐn/
+\lx ɲǐn
 \cf ɲǐ
 \ps n. 
 \ge ami
 
 \lx ɲìna
-\va /ɲìnan/
+\va ɲìnan
 \ps n. 
 \ge année en cours
 \ge cette année
@@ -84784,7 +84788,7 @@ paysans
 \dt 12/Aug/2006
 
 \lx ɲóron
-\va /ɲóro/
+\va ɲóro
 \ps n.
 \sn 1
 \ge avoir la nausée
@@ -84805,7 +84809,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɔ́
-\va /ɲɔ́n/
+\va ɲɔ́n
 \ps n.
 \sn 1
 \ge respiration
@@ -84819,7 +84823,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɔ́
-\va /ɲɔ́n/
+\va ɲɔ́n
 \ps v.i 
 \sn 1
 \ge respirer
@@ -85132,7 +85136,7 @@ paysans
 \xe on le pince, il ne réagit même pas
 \dt 12/Aug/2006
 
-\lx /ɲɔ̀kɔrɔ.ba/
+\lx ɲɔ̀kɔrɔ.ba
 \ps n. 
 \ge dernier sarclage du mil
 \lt (mil.sous.finir?)
@@ -85160,12 +85164,12 @@ paysans
 \ge gratter
 \dt 26/Sep/2006
 
-\lx /ɲɔ́n/
+\lx ɲɔ́n
 \cf ɲɔ́
 \ps n. 
 \ge respiration
 
-\lx /ɲɔ́n/
+\lx ɲɔ́n
 \cf ɲɔ́
 \ps v.i 
 \ge respirer
@@ -85214,7 +85218,7 @@ paysans
 \lt (rougeole. mort? )
 \dt 16/Aug/2006
 
-\lx /ɲɔ́nkan/
+\lx ɲɔ́nkan
 \cf ɲɔ́kan
 \ps n. 
 \ge respiration (bruit)
@@ -85275,7 +85279,7 @@ paysans
 \ge sans doigts (lépreux)
 \dt 16/Aug/2006
 
-\lx /ɲɔ́n.minɛ/
+\lx ɲɔ́n.minɛ
 \va ɲɔ́minɛ
 \ps n. 
 \ge asthme
@@ -85353,7 +85357,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɔ́.kan
-\va /ɲɔ́nkan/
+\va ɲɔ́nkan
 \ps n. 
 \ge respiration (bruit)
 \lt (respirer.bruit)
@@ -85380,7 +85384,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɔ́.minɛ
-\va /ɲɔ́nminɛ/
+\va ɲɔ́nminɛ
 \ps n. 
 \ge asthme
 \ge asphyxie
@@ -85407,7 +85411,7 @@ paysans
 \dt 12/Aug/2006
 
 \lx ɲú
-\va /ɲún/
+\va ɲún
 \ps v.t.
 \sn 1
 \ge charger un fardeau (sur la tête
@@ -85608,7 +85612,7 @@ paysans
 \xe selon les musulmans ...
 \dt 26/Sep/2006
 
-\lx /ɲún/
+\lx ɲún
 \cf ɲú
 \ps v.t 
 \ge charger un fardeau ...
@@ -85637,7 +85641,7 @@ paysans
 
 \lx ŋàani
 \va nkàani
-\va /kàani/
+\va kàani
 \va nkàari
 \ue (bn)
 \ps v.t.
@@ -85680,7 +85684,7 @@ paysans
 \sy kúngowulunin
 \dt 16/Aug/2006
 
-\lx /ŋála/
+\lx ŋála
 \ue (bk)
 \cf ngála
 \ps n.
@@ -85778,7 +85782,7 @@ paysans
 \xe les chanteuses ont chanté à pleins poumons
 \dt 26/Sep/2006
 
-\lx /ŋánaŋana/
+\lx ŋánaŋana
 \ps n. 
 \ge grande agitation mentale
 \ge folie
@@ -85802,7 +85806,7 @@ paysans
 \ge résolution ...
 \dt 26/Sep/2006
 
-\lx /ŋánuŋanu/
+\lx ŋánuŋanu
 \cf ngánunganu
 \ps v.i 
 \ge faisander
@@ -85824,7 +85828,7 @@ paysans
 \dt 11/Nov/2007
 
 \lx ŋàɲa
-\va /ŋàɲan/
+\va ŋàɲan
 \ps n. 
 \ge brousse (sans cultures)
 \sy kúngo
@@ -85921,7 +85925,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ŋéle
-\va /wélenin/
+\va wélenin
 \ps n. 
 \ge clochette
 \ge grelot
@@ -86072,7 +86076,7 @@ paysans
 \ge oedicnème du Cap 
 \ge Burhinus capensis)
 \ee (souvent confondu avec le précédent, habitat : plaines arides, 'fuga')
-\sy /ngòli-bòli-kà-bìn/
+\sy ngòli-bòli-kà-bìn
 \dt 16/Aug/2006
 
 \lx ŋɔ̀mɛ
@@ -86144,14 +86148,14 @@ paysans
 \lx ŋɔ́yi
 \va ŋáyi
 \ue (bk)
-\va /ŋóyi/
+\va ŋóyi
 \ps idéo.
 \ge ratatiné
 \ge vieux ...
 \dt 26/Sep/2006
 
 \lx ŋúna
-\va /ŋúnan/
+\va ŋúnan
 \ps n. 
 \ge fontanelle
 \dt 16/Aug/2006
@@ -86163,7 +86167,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ŋúna
-\va /ŋúnan/
+\va ŋúnan
 \ps v.i 
 \ge gémir
 \ge respirer avec peine
@@ -86403,7 +86407,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɔ̀hɔɔ
-\va /ɔ̀hɔ/
+\va ɔ̀hɔ
 \ps excl.
 \ge d'étonnementoh !
 \ge ah oui ! ...
@@ -86445,7 +86449,7 @@ paysans
 \ge dévoré complètement et rapidement
 \dt 16/Aug/2006
 
-\lx /pàana/
+\lx pàana
 \cf npàana
 \ps v.t 
 \ge écarter (les bras
@@ -86453,7 +86457,7 @@ paysans
 \dt 26/Sep/2006
 
 \lx páani
-\va /páanin/
+\va páanin
 \ps n. 
 \ge coupe en métal
 \ee (de différentes dimensions : servant de mesure pour les grains, la farine, les poudres ...)
@@ -86498,7 +86502,7 @@ paysans
 \ee (à lame en retrait par rapport au manche)
 \dt 16/Aug/2006
 
-\lx /pàgo/
+\lx pàgo
 \va pàro
 \va fàro
 \ps v.t 
@@ -86544,7 +86548,7 @@ paysans
 \xe ne fais pas s'envoler les francolins !
 \dt 26/Sep/2006
 
-\lx /pàngo/
+\lx pàngo
 \va tàngo
 \ue (bk)
 \va tɛ̀ngo
@@ -86789,7 +86793,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx pàro
-\va /pàgo/
+\va pàgo
 \va fàro
 \ps v.t 
 \ge abattre d'un coup
@@ -86940,7 +86944,7 @@ paysans
 \ge pigeon à épaulettes violettes 
 \ge Treron waalia)
 \ee (pigeon au ventre jaune citron, se tient dans les figuiers où il se nourrit) 
-\sy /pɛ́rɛpɛrɛ/
+\sy pɛ́rɛpɛrɛ
 \dt 16/Aug/2006
 
 \lx pérepere.la.tìgɛ
@@ -87043,7 +87047,7 @@ paysans
 \cf  fɛ́rɛfɛrɛ
 \dt 16/Aug/2006
 
-\lx /pɛ́rɛpɛrɛ/
+\lx pɛ́rɛpɛrɛ
 \ps n. 
 \ge pigeon à épaulettes violettes 
 \ge Treron waalia) 
@@ -87063,7 +87067,7 @@ paysans
 \ee (des initiés au "do", au "gwǎn"...la viande sacrifiée est mangée par tous, même les non-initiés)
 \dt 16/Aug/2006
 
-\lx /pɛ̀tɛ/
+\lx pɛ̀tɛ
 \va fɛ̀tɛ
 \ue (f)
 \va fɛ̀rɛ
@@ -87276,7 +87280,7 @@ paysans
 \dt 11/Nov/2007
 
 \lx pònpóron
-\va /pɔ̀npɔ́rɔn/
+\va pɔ̀npɔ́rɔn
 \bw fr : poivron 
 \ps n. 
 \ge poivron
@@ -87441,7 +87445,7 @@ paysans
 \nt kb 2/05 p.2
 \dt 11/Nov/2007
 
-\lx /pɔ̀npɔrɔn/
+\lx pɔ̀npɔrɔn
 \cf pònporon
 \bw fr : poivron 
 \ps n. 
@@ -87460,7 +87464,7 @@ paysans
 \lx pɔ̀pɔ.nin
 \va pɔ́pɔnin
 \ue (bk)
-\va /póponin/
+\va póponin
 \ps n. 
 \ge mobylette (le mot a déjà vieilli)
 \lt (onom.petit)
@@ -87496,7 +87500,7 @@ paysans
 \nt du mot français 'poison'
 \dt 11/Nov/2007
 
-\lx /pɔ̀sɔn-pɔ̀sɔn/
+\lx pɔ̀sɔn-pɔ̀sɔn
 \cf fɔ̀sɔn-fɔ̀sɔn 
 \ps v.i 
 \ge flétrir
@@ -87565,7 +87569,7 @@ paysans
 
 \lx pwá
 \va fwá
-\va /fúwaa/
+\va fúwaa
 \ps idéo.
 \ge tout à fait blanc
 \dt 16/Aug/2006
@@ -87892,7 +87896,7 @@ paysans
 
 \lx rɔ́.tiyɛn
 \cf látiyɛn
-\cf /látiɲɛ/
+\cf látiɲɛ
 \ps v.t.
 \sn 1
 \ge gâter
@@ -88004,7 +88008,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx sàabi.kɔnkɔn
-\va /sàbikɔnkɔn/
+\va sàbikɔnkɔn
 \ps n. 
 \sn 1
 \ge Brachysynodontis batensoda ( sorte de poisson )
@@ -88040,14 +88044,14 @@ paysans
 \dt 26/Sep/2006
 
 \lx sáale
-\va /ságale/
+\va ságale
 \ps n. 
 \ge droits du marché
 \ge taxe de douane
 \dt 26/Sep/2006
 
 \lx sáaleminɛna
-\va /ságaleminɛna/
+\va ságaleminɛna
 \ps n
 \lt taxe-prendre-celui qui
 \ge percepteur de droits ...
@@ -88072,7 +88076,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx sáaletala
-\va /ságaletala/
+\va ságaletala
 \ps n
 \lt taxes-prendre-celui qui
 \ge percepteur des taxes du marché
@@ -88088,7 +88092,7 @@ paysans
 \dt 11/Nov/2007
 
 \lx sáale.minɛ.baa
-\va /ságaleminɛbaga/
+\va ságaleminɛbaga
 \ps n. 
 \ge percepteur de taxe
 \lt (taxe.prendre.celui qui)
@@ -88166,7 +88170,7 @@ fu.
 \dt 16/Aug/2006
 
 \lx sàanɛ
-\va /sàanɛnɛ/
+\va sàanɛnɛ
 \ps n. 
 \ge génie "féminin" qui protège les chasseurs
 \ee ( en fer, ressemble au fétiche fàjigi, le nom de son "mari" est kɔntɔ̀rɔ)
@@ -88186,14 +88190,14 @@ fu.
 
 \lx sáankolo
 \ue (f)
-\va /sánnakolo/
+\va sánnakolo
 \ps n. 
 \ge tibia
 \lt ( ? . os)
 \dt 16/Aug/2006
 
 \lx sáankùrú
-\va /sámakulu/
+\va sámakulu
 \va sáankùlú
 \ue (bn)
 \ps n. 
@@ -88534,7 +88538,7 @@ fu.
 
 \lx sàdiya
 \ue (-bn)
-\va /sàndiya/
+\va sàndiya
 \ps n. 
 \ge plaisanterie
 \ge paroles plaisantes
@@ -88543,7 +88547,7 @@ fu.
 \dt 26/Sep/2006
 
 \lx sàdiyakɛla
-\va /sàndiyakɛla/
+\va sàndiyakɛla
 \ps n
 \lt palisanterie-faire-celui qui
 \ge plaisantin
@@ -88618,7 +88622,7 @@ fu.
 \ge brebis
 \dt 26/Sep/2006
 
-\lx /ságale/
+\lx ságale
 \va sáale
 \ps n. 
 \ge droits du marché
@@ -88746,7 +88750,7 @@ fu.
 \dt 16/Aug/2006
 
 \lx sàgokɛbaga
-\va // sàgokɛbaa
+\va sàgokɛbaa
 \ps n
 \lt volonté-faire-celui qui 
 \ge obéissant
@@ -88931,7 +88935,7 @@ fu.
 \ge plat de mil bouilli au sel (en temps de pénurie)
 \dt 16/Aug/2006
 
-\lx /sákɛ/
+\lx sákɛ
 \ue (-bk)
 \va sɛ́ki
 \ps n. 
@@ -88984,7 +88988,7 @@ fu.
 
 \lx sálaku
 \ue (bn,bk)
-\va /sɛ́lɛku/
+\va sɛ́lɛku
 \ue (f)
 \ps v.t 
 \ge équarrir
@@ -88995,7 +88999,7 @@ fu.
 \ue (f)
 \va málakumalaku
 \ve (bn,bk)
-\va /sɛ́lɛkumɛlɛku/
+\va sɛ́lɛkumɛlɛku
 \ps idéo.
 \ge gloutonnement (comme les chiens ...)
 \dt 16/Aug/2006
@@ -89034,12 +89038,12 @@ fu.
 \lt (paresse.suf caus)
 \dt 16/Aug/2006
 
-\lx /sàle/
+\lx sàle
 \cf sɛ̀lɛ 
 \ps n. 
 \ge tombe
 
-\lx /sálen/
+\lx sálen
 \cf sáalen
 \ps n. 
 \ge capitaine (sorte de poisson)
@@ -89268,7 +89272,7 @@ fu.
 \dt 16/Aug/2006
 
 \lx sàmiya
-\va /sàmiyɛ/
+\va sàmiyɛ
 \ps n. 
 \ge saison des pluies
 \ge hivernage
@@ -89395,7 +89399,7 @@ fu.
 \dt 26/Sep/2006
 
 \lx sàna
-\va /sànan/
+\va sànan
 \va sɛ̀nɛ
 \ue (bn)
 \va sǎn
@@ -89405,7 +89409,7 @@ fu.
 \dt 26/Sep/2006
 
 \lx sána
-\va /sánan/
+\va sánan
 \ps n. 
 \ge Daniellia oliveri (arbre ---> 15 m
 \ge 20 m )
@@ -89437,7 +89441,7 @@ fu.
 \sy nkàncaraki
 \dt 16/Aug/2006
 
-\lx /sàndiya/
+\lx sàndiya
 \cf sàdiya
 \ps n. 
 \ge plaisanterie
@@ -89459,7 +89463,7 @@ fu.
 \dt 11/Nov/2007
 
 \lx sànfo.la
-\va /sàngafola/
+\va sàngafola
 \ps n. 
 \sn 1
 \ge personne venue présenter ses condoléances
@@ -89468,7 +89472,7 @@ fu.
 \ge pleureuse
 \dt 16/Aug/2006
 
-\lx /sànga/
+\lx sànga
 \cf sǎn
 \ps n. 
 \ge deuil
@@ -89520,7 +89524,7 @@ fu.
 \dt 26/Sep/2006
 
 \lx sàngara
-\va /sànkaran/
+\va sànkaran
 \ps n. 
 \ge sifflet de chasseur
 \dt 16/Aug/2006
@@ -89531,7 +89535,7 @@ fu.
 \ge ver (dans les kolas)
 \dt 16/Aug/2006
 
-\lx /sànga.bon/
+\lx sànga.bon
 \va sànbon
 \va sànbonda
 \ps n. 
@@ -89539,7 +89543,7 @@ fu.
 \lt (décès.maison)
 \dt 16/Aug/2006
 
-\lx /sànga.ci/
+\lx sànga.ci
 \va sànci
 \ps n. 
 \sn 1
@@ -89549,7 +89553,7 @@ fu.
 \ge messager chargé de l'annoncer
 \dt 16/Aug/2006
 
-\lx /sànga.fo/
+\lx sànga.fo
 \va sànfo
 \ps n. 
 \ge condoléances (action)
@@ -89586,7 +89590,7 @@ fu.
 \lt (mode.commencer)
 \dt 26/Sep/2006
 
-\lx /sánge/
+\lx sánge
 \cf sánke
 \ps n. 
 \ge moustiquaire
@@ -89666,14 +89670,14 @@ fu.
 \ge crier
 \dt 26/Sep/2006
 
-\lx /sànkaran/
+\lx sànkaran
 \cf sángara
 \ps n. 
 \ge sifflet de chasseur
 \dt 16/Aug/2006
 
 \lx sánke
-\va /sánge/
+\va sánge
 \ps n. 
 \ge moustiquaire
 \dt 16/Aug/2006
@@ -89703,7 +89707,7 @@ fu.
 \nt kb 5/05 p.10
 \dt 11/Nov/2007
 
-\lx /sánnakolo/
+\lx sánnakolo
 \va sáankolo
 \ue (f)
 \ps n. 
@@ -89814,7 +89818,7 @@ fu.
 \ge sauter brusquement
 \dt 16/Aug/2006
 
-\lx /sánti/
+\lx sánti
 \cf sáani
 \ue (bn)
 \ps v.t 
@@ -89928,7 +89932,7 @@ fu.
 \dt 16/Aug/2006
 
 \lx sàn.ci
-\va /sàngaci/
+\va sàngaci
 \ps n.
 \sn 1
 \ge message de deuil
@@ -89965,7 +89969,7 @@ fu.
 \dt 16/Aug/2006
 
 \lx sán.fiyɛn
-\va /sánfiɲɛ/
+\va sánfiɲɛ
 \ps n. 
 \ge bourrasque
 \ge tornade
@@ -89974,7 +89978,7 @@ fu.
 \dt 26/Sep/2006
 
 \lx sàn.fo
-\va /sàngafo/
+\va sàngafo
 \ps n. 
 \ge condoléances
 \lt (deuil.saluer)
@@ -90365,7 +90369,7 @@ fu.
 \dt 26/Sep/2006
 
 \lx sàraki-sàraki
-\va /sáraki-sáraki/
+\va sáraki-sáraki
 \va sàrakisaraki
 \ps v.réf 
 \ge ne pas tenir en place
@@ -90619,7 +90623,7 @@ fu.
 
 \lx sáwa
 \va sɛ́wa
-\va /séwa/
+\va séwa
 \ps v.t 
 \ge réjouir
 \ge satisfaire
@@ -90788,7 +90792,7 @@ fu.
 \dt 16/Aug/2006
 
 \lx sá.ni
-\va /sánni/
+\va sánni
 \ps conjonction 
 \ge avant de ...
 \ge avant que ...
@@ -90900,7 +90904,7 @@ fu.
 \dt 26/Sep/2006
 
 \lx sébaa.ya
-\va /sébagaya/
+\va sébagaya
 \ps n. 
 \ge efficacité
 \ge puissance ...
@@ -91165,7 +91169,7 @@ fu.
 \ge triangle
 \lt (angle.trois)
 
-\lx /séli/
+\lx séli
 \va sɛ́li
 \bw ar: salla = prier 
 \ps n 
@@ -91179,7 +91183,7 @@ fu.
 \ge conversion à l'islam
 \dt 16/Aug/2006
 
-\lx /séli/
+\lx séli
 \va sɛ́li
 \ps v.i 
 \sn 1
@@ -91269,7 +91273,7 @@ fu.
 \dt 16/Aug/2006
 
 \lx séli.baa
-\va /sélibaga/
+\va sélibaga
 \ps n. 
 \ge qui fait le 'salam' (les jours de grande fête)
 \lt (prier.celui qui)
@@ -91352,7 +91356,7 @@ fu.
 \lt (fête.petite.petite)
 \dt 16/Aug/2006
 
-\lx /séma/
+\lx séma
 \cf syéma
 \cf sɛ́ɛmɛ
 \ue (bn)
@@ -91445,7 +91449,7 @@ fu.
 \dt 26/Sep/2006
 
 \lx sěn
-\cf /sègin/
+\cf sègin
 \va sòni
 \va sèni
 \ue (bk)
@@ -91495,7 +91499,7 @@ fu.
 \dt 11/Nov/2007
 
 \lx sèndimi.baatɔ
-\va /sèndimibagatɔ/
+\va sèndimibagatɔ
 \ps n. 
 \ge qui a mal aux pieds
 \ge aux pattes
@@ -91503,14 +91507,14 @@ fu.
 \dt 26/Sep/2006
 
 \lx sèndon.baa
-\va /sèndonbaga/
+\va sèndonbaga
 \ps n. 
 \ge dénonciateur
 \lt (dénoncer.celui qui)
 \dt 16/Aug/2006
 
 \lx sènenkun
-\va /sìnankun/
+\va sìnankun
 \ps n. 
 \ge membre de la famille liée à la vôtre par des relations traditionnelles d'entr'aide et de plaisanterie
 \ee (ex : les 'Tarawele' et les 'Jara' sont des 'senenkun' de même que les'Kulubali' et les 'Konare' ...)
@@ -91922,7 +91926,7 @@ sènkɔ̀rɔ̀màdon
 \sy sènsabana
 
 \lx sèn.kɔnin
-\va /sènnkɔni/
+\va sènnkɔni
 \ee *sen.kɔnɔ.ndin = élément de l'intérieur du pied
 \lt (pied.petit doigt)
 \ps n. 
@@ -92022,7 +92026,7 @@ sènkɔ̀rɔ̀màdon
 \ue (bn)
 \va sìyɛn
 \ue (f)
-\va /sìɲɛ/
+\va sìɲɛ
 \lt (pas.fois)
 \ps n. 
 \sn 1
@@ -92116,7 +92120,7 @@ sènkɔ̀rɔ̀màdon
 \ge toujours debout
 \dt 16/Aug/2006
 
-\lx /sérente/
+\lx sérente
 \va sɛ̀rɛntɛ
 \ps v.t 
 \ge effeuiller
@@ -92254,7 +92258,7 @@ sènkɔ̀rɔ̀màdon
 \lt (puissant.suf caus)
 \dt 26/Sep/2006
 
-\lx /séwa/
+\lx séwa
 \cf sáwa
 \cf sɛ́wa
 \ps v.i 
@@ -92262,7 +92266,7 @@ sènkɔ̀rɔ̀màdon
 \dt 16/Aug/2006
 
 \lx sé.baa
-\va /sébaga/
+\va sébaga
 \ps n. 
 \ge vainqueur
 \ge tout-puissant ( = Dieu)
@@ -92558,7 +92562,7 @@ sènkɔ̀rɔ̀màdon
 \lt (sérieux.suf abs)
 \dt 16/Aug/2006
 
-\lx /sɛ̀ɛlɛ/
+\lx sɛ̀ɛlɛ
 \va sɛ̀lɛ
 \ue (f)
 \va sɛ́ɛlɛ
@@ -92569,13 +92573,13 @@ sènkɔ̀rɔ̀màdon
 
 \lx sɛ́ɛmɛ
 \cf syéma
-\cf /séma/
+\cf séma
 \ps n. 
 \ge responsable des circoncis
 \ge des excisées
 \dt 26/Sep/2006
 
-\lx /sɛ́ɛnɛ/
+\lx sɛ́ɛnɛ
 \cf syéne
 \ue (f)
 \ps v.t 
@@ -92584,7 +92588,7 @@ sènkɔ̀rɔ̀màdon
 
 \lx sɛ̀ɛnsɛn
 \cf sɛ̀nsɛn
-\cf /sɛ̀nsɛ/  
+\cf sɛ̀nsɛ  
 \ps v.t 
 \ge faire avancer doucement
 \sy dɛ̀mɛdɛmɛ
@@ -92595,7 +92599,7 @@ sènkɔ̀rɔ̀màdon
 \ps n. 
 \ge quelques rapaces diurnes 
 \cf  sɛ́gɛbanpokolon
-\cf sɛ́gɛbilen...
+\cf sɛ́gɛbilen…
 \dt 16/Aug/2006
 
 \lx sɛ́gɛ
@@ -92671,7 +92675,7 @@ sènkɔ̀rɔ̀màdon
 \dt 26/Sep/2006
 
 \lx sɛ̀gɛn.baatɔ
-\va /sɛ̀gɛnbagatɔ/
+\va sɛ̀gɛnbagatɔ
 \ps n
 \ps adj
 \ge pauvre
@@ -92737,7 +92741,7 @@ sènkɔ̀rɔ̀màdon
 \dt 19/Aug/2006
 
 \lx sɛ́gɛ.bantin
-\va /sɛ́gɛbanti/
+\va sɛ́gɛbanti
 \ps n. 
 \ge récipient percé rempli de cendres 
 \lt (potasse. ?)
@@ -92812,20 +92816,20 @@ sènkɔ̀rɔ̀màdon
 
 \lx sɛ́ki
 \ue (-bk)
-\va /sákɛ/
+\va sákɛ
 \ps n. 
 \ge 'forgeron' (Toucouleur : travaillant surtout le bois)
 \dt 16/Aug/2006
 
 \lx sɛ́lɛ
 \ue (f)
-\va /sɛ̀ɛlɛ/
+\va sɛ̀ɛlɛ
 \ps v.t 
 \ge découper en lanières
 \dt 16/Aug/2006
 
 \lx sɛ̀lɛ
-\va /sàle/
+\va sàle
 \ps n. 
 \ge tombe
 \ge tombeau
@@ -92840,7 +92844,7 @@ sènkɔ̀rɔ̀màdon
 \ge équarrir 
 \dt 16/Aug/2006
 
-\lx /sɛ́lɛkumɛlɛku/
+\lx sɛ́lɛkumɛlɛku
 \va sálakumalaku
 \ue (f)
 \ps idéo.
@@ -92868,7 +92872,7 @@ sènkɔ̀rɔ̀màdon
 \dt 15/Aug/2006
 
 \lx sɛ́li
-\cf /séli/
+\cf séli
 \ps n. 
 \ge fête
 \ge prière
@@ -92954,7 +92958,7 @@ sènkɔ̀rɔ̀màdon
 \xe toi et la longue marche !
 
 \lx sɛ̀nɛ
-\va /sànan/
+\va sànan
 \va sǎn
 \ue (f)
 \ps n. 
@@ -92997,7 +93001,7 @@ sènkɔ̀rɔ̀màdon
 \dt 11/Nov/2007
 
 \lx sɛ́nɛfɔ
-\va /syɛ́nafɔ/
+\va syɛ́nafɔ
 \va sínafɔ
 \ue (bk)
 \ps n. 
@@ -93093,7 +93097,7 @@ sènkɔ̀rɔ̀màdon
 \lt (culture.produit mûr)
 
 \lx sɛ̀ngɛrɛ
-\va /sɛ̀ngɛrɛn/
+\va sɛ̀ngɛrɛn
 \ps n. 
 \ge pâte sèche de 'to' sans sauce
 \dt 16/Aug/2006
@@ -93105,7 +93109,7 @@ sènkɔ̀rɔ̀màdon
 \dt 26/Sep/2006
 
 \lx sɛ̀nsɛn
-\va /sɛ̀nsɛ/
+\va sɛ̀nsɛ
 \va sɛ̀ɛnsɛɛn
 \sy dɛ̀mɛdɛmɛ
 \sy dɛ̀ɛndɛɛn
@@ -93145,7 +93149,7 @@ sènkɔ̀rɔ̀màdon
 \dt 12/Aug/2006
 
 \lx sɛ̀rɛntɛ
-\va /sérente/
+\va sérente
 \ps v.t.
 \sn 1
 \ge effeuiller (une branche) 
@@ -93166,7 +93170,7 @@ sènkɔ̀rɔ̀màdon
 
 \lx sɛ́ri
 \ue (f)
-\cf /séri/
+\cf séri
 \ps v.t 
 \ge éparpiller ...
 \dt 16/Aug/2006
@@ -93180,7 +93184,7 @@ sènkɔ̀rɔ̀màdon
 
 \lx sɛ́wa
 \cf sáwa
-\cf /séwa/
+\cf séwa
 \ps v.i 
 \ge se réjouir
 \dt 16/Aug/2006
@@ -93665,7 +93669,7 @@ sènɲɛ̀ duuru
 \dt 15/Aug/2006
 
 \lx sìgi.baa
-\va /sìgi.baga/
+\va sìgi.baga
 \ps n. 
 \sn 1
 \ge celui qui s'assied
@@ -93822,7 +93826,7 @@ sènɲɛ̀ duuru
 \dt 26/Sep/2006
 
 \lx sìisan
-\va /sìnsan/
+\va sìnsan
 \ps n. 
 \sn 1
 \ge manque d'oygène 
@@ -94068,7 +94072,7 @@ sènɲɛ̀ duuru
 
 \lx sínafɔ
 \ue (bk)
-\va /syɛ́nafɔ/
+\va syɛ́nafɔ
 \va sɛ́nɛfɔ
 \ue (f)
 \ps n. 
@@ -94092,7 +94096,7 @@ sènɲɛ̀ duuru
 \ge rivalité entre coépouses
 \dt 16/Aug/2006
 
-\lx /sìnankun/
+\lx sìnankun
 \cf sènenkun
 \ps n. 
 \ge type de relation (plaisanterie / service ...)
@@ -94208,7 +94212,7 @@ sènɲɛ̀ duuru
 \dt 26/Sep/2006
 
 \lx sìni
-\va /sínin/
+\va sínin
 \ps n. 
 \ge soleil levant
 \ge matinée
@@ -94238,7 +94242,7 @@ sènɲɛ̀ duuru
 \dt 16/Aug/2006
 
 \lx síni.kɛnɛ
-\va /síninkɛnɛ/
+\va síninkɛnɛ
 \ps n / adv.
 \ge après-demain
 \lt (demain.aube ?)
@@ -94311,14 +94315,14 @@ sènɲɛ̀ duuru
 \ps v.t 
 \ge clôturer
 
-\lx /sìnsan/
+\lx sìnsan
 \cf sìisan
 \ps n. 
 \ge asthme ...
 \dt 16/Aug/2006
 
 \lx sínsin
-\va /sínsi/
+\va sínsi
 \ps v.t 
 \sn 1
 \ge appuyer sur ...
@@ -94461,7 +94465,7 @@ sènɲɛ̀ duuru
 \ge soutien-gorge
 \lt (sein.tenir.ce qui sert à)
 
-\lx /sìɲɛ/
+\lx sìɲɛ
 \cf sènɲa
 \ps n. 
 \ge fois
@@ -94588,7 +94592,7 @@ veillées de deuil, des veillées de fête de mariage ...)
 \dt 11/Nov/2007
 
 \lx sìrakɔgɔma
-\va /sírakɔgɔma/
+\va sírakɔgɔma
 \cf fìlakwama
 \ps n. 
 \ge petite tortue de terre
@@ -94641,7 +94645,7 @@ veillées de deuil, des veillées de fête de mariage ...)
 \dt 26/Sep/2006
 
 \lx síran.baatɔ
-\va /síranbagatɔ/
+\va síranbagatɔ
 \ps n
 \ps adj
 \ge peureux
@@ -95126,7 +95130,7 @@ sìtànɛ̀màko la
 
 \lx sìyɛn
 \cf sènɲa
-\cf /sìɲɛ/
+\cf sìɲɛ
 \ps n. 
 \ge fois ...
 \dt 16/Aug/2006
@@ -95304,7 +95308,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx sì.nɔgɔ
-\va /sùnɔgɔ/
+\va sùnɔgɔ
 \va sùnaa
 \lt (dormir.envie)
 \ee *sìn = passer la nuit + dɔgɔ = envie 
@@ -95551,7 +95555,7 @@ sìtànɛ̀màko la
 \ge carnivore
 \lt (viande.manger.celui qui)
 
-\lx /sògo.faga.la/
+\lx sògo.faga.la
 \va sògofaala
 \ps n. 
 \sn 1
@@ -95644,7 +95648,7 @@ sìtànɛ̀màko la
 \ps n. 
 \ge singe rouge 
 \ge Erythrocebus patas patas)
-\sy /sùla/
+\sy sùla
 \sy wárabilen
 \dt 16/Aug/2006
 
@@ -95734,7 +95738,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx sòli.baa
-\va /sòlibaga/
+\va sòlibaga
 \ps n. 
 \ge personne matinale
 \lt (se lever tôt.celui qui)
@@ -95855,7 +95859,7 @@ sìtànɛ̀màko la
 \ge sorcellerie
 \lt (sorcier.suf abs)
 
-\lx /sómo/
+\lx sómo
 \cf nsómo
 \ps n. 
 \ge ver du poisson séché
@@ -95891,7 +95895,7 @@ sìtànɛ̀màko la
 \dt 12/Aug/2006
 
 \lx sònkala
-\va /sònkalan/
+\va sònkalan
 \ps n. 
 \ge bâtonnet pour remuer le 'to'
 \dt 16/Aug/2006
@@ -95960,7 +95964,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx sòn.ya
-\va /sònyɛ/
+\va sònyɛ
 \ps v.t 
 \ge voler qc
 \ge dérober
@@ -96030,7 +96034,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx sòona.don.baa
-\va /sòonadonbaga/
+\va sòonadonbaga
 \ps n. 
 \ge intercesseur
 \ge avocat (du moment)
@@ -96398,7 +96402,7 @@ sìtànɛ̀màko la
 \ps n. 
 \ge Mormyrops deliciosus) (sorte de poisson)
 \sy bónge
-\sy /búnge/
+\sy búnge
 \lt (cheval.'nana')
 \ee le plus grand des 'nana' ---> 90 cm, ---> 6 kg)
 \dt 16/Aug/2006
@@ -96472,7 +96476,7 @@ sìtànɛ̀màko la
 \xe le sol est complètement détrempé
 \dt 26/Sep/2006
 
-\lx /sɔ́gɔbɛ/
+\lx sɔ́gɔbɛ
 \va sɔ́gɔmɛ
 \ue (f)
 \va sɔ́gɔnbɛ
@@ -96860,7 +96864,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx sɔ̀ni
-\va /sɔ̀nin/
+\va sɔ̀nin
 \ps n. 
 \sn 1
 \ge ongle
@@ -97151,7 +97155,7 @@ sìtànɛ̀màko la
 \sy sɔ̀njugu
 \dt 16/Aug/2006
 
-\lx /sɔ́ɔlɔ/
+\lx sɔ́ɔlɔ
 \cf syɔ́lɔ
 \ps v.t 
 \ge dégouliner ...
@@ -97167,7 +97171,7 @@ sìtànɛ̀màko la
 \xe à bientôt !
 \dt 26/Sep/2006
 
-\lx /sɔ́ɔri/
+\lx sɔ́ɔri
 \cf syɔ́ri
 \ps v.t 
 \ge insérer ...
@@ -97287,7 +97291,7 @@ sìtànɛ̀màko la
 
 \lx sɔ̀yi
 \ue (f)
-\cf /sòli/
+\cf sòli
 \ps n. 
 \ge canine (dent)
 \dt 16/Aug/2006
@@ -97389,7 +97393,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx sú rɔ́
-\va /súrɔ/
+\va súrɔ
 \ps loc.adv.temp
 \ge hier soir
 \lt (soir.moment)
@@ -97684,11 +97688,11 @@ sìtànɛ̀màko la
 \lt (espèce.suf abs)
 \sy súgu
 \sy síya
-\sy sífa...
+\sy sífa…
 \dt 26/Sep/2006
 
 \lx sùjuru
-\va /sùjudu/
+\va sùjudu
 \bw ar: sujud = id 
 \ps n. 
 \ge prosternation (strictement musulman)
@@ -97732,7 +97736,7 @@ sìtànɛ̀màko la
 \nt
 \dt 11/Nov/2007
 
-\lx /sùla/
+\lx sùla
 \ps n. 
 \ge singe rouge 
 \ge Erythrocebus patas
@@ -97742,7 +97746,7 @@ sìtànɛ̀màko la
 \sy sòla
 \dt 16/Aug/2006
 
-\lx /sùla.fin/
+\lx sùla.fin
 \ps n. 
 \ge vervet
 \ge singe vert 
@@ -97904,7 +97908,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx sùma
-\va /sùman/
+\va sùman
 \ps n. 
 \sn 1
 \ge récolte
@@ -97930,7 +97934,7 @@ sìtànɛ̀màko la
 \ge lenteur
 \dt 26/Sep/2006
 
-\lx /sùman/
+\lx sùman
 \cf sùma
 \ps n. 
 \ge récolte
@@ -98145,8 +98149,8 @@ sìtànɛ̀màko la
 \dt 12/Aug/2006
 
 \lx sùmu.nin
-\va /súmuni/
-\cf  xá  súmu.ndin =  í.
+\va súmuni
+\xx xá  súmu.ndin =  í.
 \ps n.
 \ge furoncle
 \ge clou
@@ -98207,7 +98211,7 @@ sìtànɛ̀màko la
 \dt 12/Aug/2006
 
 \lx sùnaa.baatɔ
-\va /sùnɔgɔ.bagatɔ/
+\va sùnɔgɔ.bagatɔ
 \ps n
 \ps adj
 \ge dormeur
@@ -98495,7 +98499,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx sùruka
-\va /sùruga/
+\va sùruga
 \ps n. 
 \ge travailleur saisonnier (au Sénégal)
 \dt 16/Aug/2006
@@ -98605,7 +98609,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx súrundu
-\va /súuru/
+\va súuru
 \ps v.t 
 \ge exprimer son dégoût pour qn (en sifflant entre les dents)
 \xv ń'í yé  né súrundu  nìn kɔ́...
@@ -98615,14 +98619,14 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx súrundu
-\va /súuru/
+\va súuru
 \ps n. 
 \ge cascade
 \ge source
 \dt 26/Sep/2006
 
 \lx súrundu
-\va /súuru/
+\va súuru
 \ps v.t 
 \ge faire couler
 \ge verser en cascade
@@ -98758,7 +98762,7 @@ sìtànɛ̀màko la
 \dt 12/Aug/2006
 
 \lx sùtara
-\va /sùtura/
+\va sùtura
 \bw ar: satara = voiler
 \ps n.
 \sn 1
@@ -98792,7 +98796,7 @@ sìtànɛ̀màko la
 \xe ils ont enterré le mort
 \dt 26/Sep/2006
 
-\lx /sùtura/
+\lx sùtura
 \cf sùtara
 \ps v.t 
 \ge cacher ...
@@ -98828,20 +98832,20 @@ sìtànɛ̀màko la
 \ge urine
 \dt 16/Aug/2006
 
-\lx /súuru/
+\lx súuru
 \cf súrundu
 \ps n. 
 \ge cascade
 \ge source
 \dt 26/Sep/2006
 
-\lx /súuru/
+\lx súuru
 \cf súrundu
 \ps v.t 
 \ge exprimer son mépris pour ... (par un sifflement)
 \dt 16/Aug/2006
 
-\lx /súuru/
+\lx súuru
 \ue (bk)
 \cf súrundu
 \ps v.t 
@@ -98861,7 +98865,7 @@ sìtànɛ̀màko la
 \xe le mari et la femme se sont querellés, la femme s'est enfuie
 \dt 16/Aug/2006
 
-\lx /súwɛ/
+\lx súwɛ
 \va swɛ́
 \ph [shwɛ]
 \ps idéo.
@@ -98953,7 +98957,7 @@ sìtànɛ̀màko la
 \sy súbaga
 \dt 15/Aug/2006
 
-\lx /sù.nɔgɔ/
+\lx sù.nɔgɔ
 \cf sìnɔgɔ
 \cf sùnaa
 \ph [*sìn.dɔgɔ --> sùnɔgɔ]
@@ -99072,7 +99076,7 @@ sìtànɛ̀màko la
 
 \lx swɛ́
 \ph [shwɛ]
-\va /súwɛ/
+\va súwɛ
 \sn 1
 \ps idéo.
 \ge rapide comme le vent 
@@ -99118,7 +99122,7 @@ sìtànɛ̀màko la
 \lx syéma
 \ph [shyema]
 \ee *seema 
-\va /séma/
+\va séma
 \va sɛ́ɛmɛ
 \ue (bn)
 \ps n. 
@@ -99138,7 +99142,7 @@ sìtànɛ̀màko la
 \ue (f)
 \ph [shyene]
 \ee *seene 
-\va /sɛ́ɛnɛ/
+\va sɛ́ɛnɛ
 \ps v.t.
 \sn 1
 \ge préparer l'eau pour la toilette
@@ -99155,14 +99159,14 @@ sìtànɛ̀màko la
 \lx syére
 \ue (f,bn)
 \ph [shyere]
-\cf /séere/
+\cf séere
 \ps n. 
 \ge témoin
 \dt 12/Aug/2006
 
 \lx syére.ya
 \ph [shyereya]
-\cf /séereya/
+\cf séereya
 \ps n. 
 \sn 1
 \ge témoignage
@@ -99280,7 +99284,7 @@ sìtànɛ̀màko la
 \ge s'engager par serment à ...
 \dt 26/Sep/2006
 
-\lx /syɛ́nafɔ/
+\lx syɛ́nafɔ
 \cf sɛ́nɛfɔ
 \ue (f)
 \va sínafɔ
@@ -99292,7 +99296,7 @@ sìtànɛ̀màko la
 
 \lx syɛ́nɛ
 \ph [shyɛnɛ]
-\va /sɛ́ɛnɛ/
+\va sɛ́ɛnɛ
 \cf syéne
 \ps v.t 
 \ge verser ...
@@ -99524,7 +99528,7 @@ sìtànɛ̀màko la
 
 \lx syɔ́lɔ
 \ph [shyɔlɔ]
-\va /sɔ́ɔlɔ/
+\va sɔ́ɔlɔ
 \ps v.t 
 \sn 1
 \ge égoutter
@@ -99558,7 +99562,7 @@ sìtànɛ̀màko la
 
 \lx syɔ́ri
 \ph [shyɔri]
-\va /sɔ́ɔri/
+\va sɔ́ɔri
 \ps v.t	
 \sn 1
 \ge insérer dans un interstice
@@ -99867,7 +99871,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx táamabaa
-\va /táamabaga/
+\va táamabaga
 \ps n
 \lt voyager-celui qui
 \ge voyageur, marcheur (intermédiaire de mariage)
@@ -99948,7 +99952,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tàana
-\va /táala/
+\va táala
 \ps n. 
 \ge Très-haut (qualificatif donné à Dieu = roi des rois)
 \dt 16/Aug/2006
@@ -99970,7 +99974,7 @@ sìtànɛ̀màko la
 \ge bain de teinture (des peaux tannées ...)
 \dt 16/Aug/2006
 
-\lx /tàara/
+\lx tàara
 \va tàra
 \ue (bmk) 
 \ps n. 
@@ -100174,7 +100178,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx tàba.daa
-\va /tàbadaga/
+\va tàbadaga
 \ps n. 
 \ge pipe
 \lt (tabac.canari)
@@ -100218,7 +100222,7 @@ sìtànɛ̀màko la
 \lt (molaire.base)
 \dt 26/Sep/2006
 
-\lx /tàgi/
+\lx tàgi
 \ps v.i 
 \ge tomber sur le derrière
 \dt 16/Aug/2006
@@ -100229,7 +100233,7 @@ sìtànɛ̀màko la
 \lt (allumette.bonbon à la gomme)
 
 \lx táki
-\cf /tàgi/
+\cf tàgi
 \ps idéo.
 \ge lourde chute
 \dt 16/Aug/2006
@@ -100240,7 +100244,7 @@ sìtànɛ̀màko la
 \ee (sert d'offrande rituelle; préconisé tant par les devins que par les marabouts, ne peut être préparé par une femmequi a ses règles)
 \dt 16/Aug/2006
 
-\lx /tálanin/
+\lx tálanin
 \ph [tlanin]
 \cf tílanin
 \ps n. 
@@ -100335,7 +100339,7 @@ sìtànɛ̀màko la
 \ge lance
 
 \lx tàma
-\va /tàman/
+\va tàman
 \ps n. 
 \ge tempe
 \ge région de tempes (joue comprise)
@@ -100353,7 +100357,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx tàmaki
-\va /tànbaki/
+\va tànbaki
 \ps n. 
 \ge hésitation
 \ge doute
@@ -100406,14 +100410,14 @@ sìtànɛ̀màko la
 \xe il a des cicatrices aux tempes
 
 \lx tàme
-\va /tɛ̀mɛ/
+\va tɛ̀mɛ
 \bw fr id. 
 \ps n. 
 \ge tamis importé
 \dt 16/Aug/2006
 
 \lx tàmɛ
-\va /tɛ̀mɛ/
+\va tɛ̀mɛ
 \ps n. 
 \ge boeuf à bosse
 \ge zébu
@@ -100470,7 +100474,7 @@ sìtànɛ̀màko la
 \xe ça va(il n'y a pas de mal)
 \dt 26/Sep/2006
 
-\lx /tànbaki/
+\lx tànbaki
 \cf tàmaki
 \ps v.i 
 \ge hésiter
@@ -100508,7 +100512,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx tàngara
-\va /tàngaran/
+\va tàngaran
 \va tànkɔrɔ
 \ue (f)
 \ps n. 
@@ -100532,14 +100536,14 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tàngo
-\va /pàngo/
+\va pàngo
 \va tɛ̀ngo
 \ps v.t 
 \ge remuer doucement la surface d'un liquide
 \dt 16/Aug/2006
 
 \lx tàngɔn
-\va /tàngɔ/
+\va tàngɔ
 \ps n. 
 \ge grande poële
 \dt 16/Aug/2006
@@ -100557,7 +100561,7 @@ sìtànɛ̀màko la
 
 \lx tànkɔrɔ
 \ue (f)
-\va /tàngaran/
+\va tàngaran
 \ps n. 
 \ge bâton de l'imam
 \dt 16/Aug/2006
@@ -100635,7 +100639,7 @@ sìtànɛ̀màko la
 
 \lx tàra
 \ue (bmk)
-\va /tàara/
+\va tàara
 \ps n. 
 \ge lit à dossier légèrement relevé
 \dt 16/Aug/2006
@@ -100660,14 +100664,14 @@ sìtànɛ̀màko la
 \sy déli
 \dt 26/Sep/2006
 
-\lx /tàraba/
+\lx tàraba
 \ue (-bk)
 \cf ntáraba
 \ps n. 
 \ge tranchée ...
 \dt 16/Aug/2006
 
-\lx /tàrabu/
+\lx tàrabu
 \cf tùrabu
 \ps n. 
 \ge géomancie
@@ -100681,7 +100685,7 @@ sìtànɛ̀màko la
 \dt 12/Aug/2006
 
 \lx tàra.muso
-\va /tàaramuso/
+\va tàaramuso
 \ps n. 
 \ge femme esclave
 \lt ( lit ? . femme)
@@ -100716,7 +100720,7 @@ sìtànɛ̀màko la
 \lx tàsabiya
 \va tásabila
 \ue (bn)
-\va /tàrabiya/
+\va tàrabiya
 \bw ar: tasbiha = glorification de Dieu)
 \ps n. 
 \ge secte musulmane
@@ -100730,7 +100734,7 @@ sìtànɛ̀màko la
 \ee (sert pour les ablutions musulmanes)
 \dt 16/Aug/2006
 
-\lx /tàsári/
+\lx tàsári
 \va tàsáli
 \ue (bn)
 \va tɛ̀sɛyin
@@ -100813,7 +100817,7 @@ sìtànɛ̀màko la
 \dt 19/Aug/2006
 
 \lx táyi
-\va /táyi-táyi/
+\va táyi-táyi
 \va tá
 \va táwu
 \ps idéo.
@@ -100828,7 +100832,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx tá.fyenke
-\va /táfyeke/
+\va táfyeke
 \va táfuge
 \ue (bn)
 \ps n. 
@@ -100930,7 +100934,7 @@ sìtànɛ̀màko la
 \lt (feu.flamber)
 \dt 16/Aug/2006
 
-\lx /tá.mɛnɛ/
+\lx tá.mɛnɛ
 \va tá.mana
 \ps n. 
 \ge flamme
@@ -100966,7 +100970,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx tá.ɲa
-\va /tá.ɲɛ/
+\va tá.ɲɛ
 \ps n. 
 \ge réussite personnelle
 \ge succès
@@ -101075,7 +101079,7 @@ sìtànɛ̀màko la
 \ge ombrette 
 \ge Scopus umbretta
 \ee (énorme nid sphérique : 1m O,/ , aime les marais, même  les flaques d'eau)   
-\sy /téntanten/
+\sy téntanten
 \dt 16/Aug/2006
 
 \lx téenta.syɛ
@@ -101085,7 +101089,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx tègele
-\va /tɛ̀gɛlɛ/
+\va tɛ̀gɛlɛ
 \va tɛ̀gɛrɛ
 \ps v.t 
 \ge tenir en équilibre à l'arrêt
@@ -101112,13 +101116,13 @@ sìtànɛ̀màko la
 \ge délicatement (poser ...)
 \dt 16/Aug/2006
 
-\lx /téli/
+\lx téli
 \ue (bn)
 \cf tɛ́li
 \ps adj.préd
 \ge rapide
 
-\lx /téli.man/
+\lx téli.man
 \cf tɛ́li.man
 \ps n
 \ps adj
@@ -101126,7 +101130,7 @@ sìtànɛ̀màko la
 \lt (rapide.suf adj)
 \dt 16/Aug/2006
 
-\lx /téli.ya/
+\lx téli.ya
 \cf tɛ́liya
 \ps n. 
 \ge rapidité
@@ -101141,7 +101145,7 @@ sìtànɛ̀màko la
 
 \lx télun
 \ue (f)
-\va /térun/
+\va térun
 \ps v.t 
 \ge déplacer
 \dt 16/Aug/2006
@@ -101171,7 +101175,7 @@ sìtànɛ̀màko la
 \xe les maisons sont côte à côte
 \dt 26/Sep/2006
 
-\lx /téntanten/
+\lx téntanten
 \cf téenta(nín)
 \ps n. 
 \ge ombrette 
@@ -101483,7 +101487,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx tɛ̀gɛlɛ
-\va /tɛ̀gɛrɛ/
+\va tɛ̀gɛrɛ
 \va tègele
 \ue (bn)
 \ps v.t 
@@ -101531,7 +101535,7 @@ sìtànɛ̀màko la
 
 \lx tɛ́gɛnɛ
 \ue (bk)
-\va /ntɛ́gɛnɛ/
+\va ntɛ́gɛnɛ
 \va ntɛ́ɛnɛ
 \ue (bn)
 \cf ntɛ́gɛlɛn
@@ -101565,7 +101569,7 @@ sìtànɛ̀màko la
 \xe battre le rythme en frappant des mains, applaudir
 \dt 26/Sep/2006
 
-\lx /tɛ̀gɛrɛ/
+\lx tɛ̀gɛrɛ
 \cf tɛ̀gɛlɛ
 \cf tègele
 \ue (bn)
@@ -101675,7 +101679,7 @@ sìtànɛ̀màko la
 
 \lx tɛ́li
 \ue (bk,f)
-\va /téli/
+\va téli
 \ue (bn)
 \ps adj.préd. 
 \sn 1
@@ -101690,7 +101694,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tɛ́li.man
-\va /téliman/
+\va téliman
 \ps n
 \ps adj
 \sn 1
@@ -101706,7 +101710,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tɛ́li.ya
-\va /téliya/
+\va téliya
 \ps n. 
 \ge rapidité
 \ge promptitude
@@ -101720,7 +101724,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tɛ́li.ya
-\va /téliya/
+\va téliya
 \ps v.t 
 \sn 1
 \ge accélérer
@@ -101784,7 +101788,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tɛ̀mɛ.baa
-\va /tɛ̀mɛ.baga/
+\va tɛ̀mɛ.baga
 \ps n. 
 \ge passant
 \lt (passer.celui qui)
@@ -101844,7 +101848,7 @@ sìtànɛ̀màko la
 \xe les bambara considèrent les femmes de caste comme leur interdit
 \dt 26/Sep/2006
 
-\lx /tɛ̀nɛku/
+\lx tɛ̀nɛku
 \cf tɛ̀rɛku
 \ps v.réf 
 \ge glisser
@@ -101882,7 +101886,7 @@ sìtànɛ̀màko la
 
 \lx tɛ̀ngo
 \va tàngo
-\va /pàngo/
+\va pàngo
 \ps v.t 
 \ge remuer doucement la surface d'un liquide
 \dt 16/Aug/2006
@@ -101907,7 +101911,7 @@ sìtànɛ̀màko la
 \ge tamis
 \lt (tamiser.ce qui sert à)
 
-\lx /tɛ́rɛ/
+\lx tɛ́rɛ
 \va npɛ́rɛ
 \ue (f)
 \va nfɛ́rɛ
@@ -101917,7 +101921,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx tɛ̀rɛ
-\va /cɛ̀rɛ/
+\va cɛ̀rɛ
 \ps n. 
 \ge sorte de van
 \ge corbeille (sert aussi de couvercle)
@@ -101948,7 +101952,7 @@ sìtànɛ̀màko la
 
 \lx tɛ̀rɛku
 \ue (-bk)
-\va /tɛ̀nɛku/
+\va tɛ̀nɛku
 \ps v.réf 
 \ge s'avancer en traînant
 \ge glisser
@@ -102040,7 +102044,7 @@ sìtànɛ̀màko la
 \lx tɛ̀sɛyin
 \va tàsali
 \ue (bn)
-\va /tàsari/
+\va tàsari
 \ps v.i 
 \ge avoir la nausée
 \ge avoir envie de vomir
@@ -102208,7 +102212,7 @@ sìtànɛ̀màko la
 
 \lx tìgɛ
 \ue (bn,bk,f) 
-\cf /tìga/
+\cf tìga
 \ps n. 
 \ge arachide 
 \ge Arachis hypogaea
@@ -102423,7 +102427,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tìibitáaba
-\va /tìbitába/
+\va tìbitába
 \ps n. 
 \ge grosse affaire
 \ge embêtement
@@ -102448,7 +102452,7 @@ sìtànɛ̀màko la
 \xe son commerce a réussi
 \dt 26/Sep/2006
 
-\lx /tìiri/
+\lx tìiri
 \va ntìiri
 \ue (bk)
 \va ntìri
@@ -102460,7 +102464,7 @@ sìtànɛ̀màko la
 \xe tracer
 \dt 26/Sep/2006
 
-\lx /tìiri/
+\lx tìiri
 \va ntìiri
 \ue (bk)
 \va ntìri
@@ -102637,7 +102641,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tíla.nin
-\va /tálanin/
+\va tálanin
 \ph [tlanin]
 \ps n. 
 \ge bourbouille
@@ -102825,7 +102829,7 @@ v.t
 
 \lx tìle.bi
 \ph [tlebi]
-\va /tìlebin/
+\va tìlebin
 \ps n. 
 \sn 1
 \ge coucher du soleil 
@@ -102903,7 +102907,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx tìle.sen.kuncɛ
-\va /tìle.se.kuncɛ/
+\va tìle.se.kuncɛ
 \ph [tl]
 \ps n. 
 \ge midi (le soleil est au zénith)
@@ -103015,7 +103019,7 @@ v.t
 \ue (f)
 \va kìmikími
 \ue (kita)
-\va /hàmihami/
+\va hàmihami
 \va tìmatima
 \ue (bk)
 \ps v.i 
@@ -103280,7 +103284,7 @@ v.t
 \lt (travail.patient)
 \dt 16/Aug/2006
 
-\lx /tíɲɛ/
+\lx tíɲɛ
 \cf tíyɛn
 \ph [cɛn]
 \ps v.t 
@@ -103289,7 +103293,7 @@ v.t
 \ce pour les composés
 \dt 16/Aug/2006
 
-\lx /tìɲɛ/
+\lx tìɲɛ
 \cf tìyɛn
 \ph [cɛ̌n]
 \ps n. 
@@ -103356,7 +103360,7 @@ v.t
 
 \lx tíyɛn
 \ph [cɛn]
-\va /tíɲɛ/
+\va tíɲɛ
 \ps v.t 
 \ge gâter
 \ge abîmer
@@ -103372,7 +103376,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tìyɛn
-\va /tìɲɛ/
+\va tìɲɛ
 \ph [cɛ̌n]
 \ps n.
 \sn 1
@@ -103388,7 +103392,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx tíyɛnlen.ya
-\va /tíɲɛlenya/
+\va tíɲɛlenya
 \ph [cɛn...]
 \ps n. 
 \ge mauvaise éducation
@@ -103397,7 +103401,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tíyɛnni.kɛla
-\va /tíɲɛnikɛla/
+\va tíɲɛnikɛla
 \ph [cɛn...]
 \ps n. 
 \ge personne qui gâte
@@ -103406,7 +103410,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tíyɛn.da
-\va /tíɲɛda/
+\va tíɲɛda
 \ph [cɛnda]
 \ps n. 
 \ge endroit détérioré
@@ -103415,7 +103419,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tìyɛn.fɔ.la
-\va /tìɲɛfɔla/
+\va tìɲɛfɔla
 \ph [cɛn...]
 \ps n. 
 \ge personne qui dit la vérité
@@ -103424,7 +103428,7 @@ v.t
 
 \lx tíyɛn.li
 \va tíyɛnni
-\va /tíɲɛli/
+\va tíɲɛli
 \ph [cɛnni]
 \ps n. 
 \ge dégâts
@@ -103434,7 +103438,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tìyɛn.tigi
-\va /tìɲɛtigi/
+\va tìɲɛtigi
 \ph [cɛntigi]
 \ps n
 \ps adj
@@ -103444,7 +103448,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tìyɛn.tigi.ya
-\va /tìɲɛtigiya/
+\va tìɲɛtigiya
 \ph [cɛn...]
 \ps v.t 
 \sn 1
@@ -103667,7 +103671,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx tómo
-\va /tómon/
+\va tómon
 \ps n. 
 \ge ruines (de maisons
 \ge de villages ...)
@@ -103782,7 +103786,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx tònso
-\va /ntònso/
+\va ntònso
 \ps n. 
 \ge grande chauve-souris frugivore
 \sn 1
@@ -103830,7 +103834,7 @@ v.t
 
 \lx tǒntà
 \ue (-f)
-\va /tǒntàn/
+\va tǒntàn
 \ue (bk)
 \ps v.t 
 \sn 1
@@ -103847,7 +103851,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx tòntogo
-\va /tòntogonin/
+\va tòntogonin
 \ps n. 
 \ge parties sexuelles de la femme
 \dt 16/Aug/2006
@@ -103899,7 +103903,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tòro
-\va /tòto/
+\va tòto
 \ps n. 
 \ge rat de Gambie
 \ge rat voleur 
@@ -103947,7 +103951,7 @@ v.t
 \ee (dûe à l'extraction de la terre pour les constructions)
 \dt 26/Sep/2006
 
-\lx /tòto/
+\lx tòto
 \cf tòro
 \ps n. 
 \ge rat voleur
@@ -104216,7 +104220,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tɔ́gɔ.tiyɛn
-\va /tɔ́gɔtiɲɛ/
+\va tɔ́gɔtiɲɛ
 \ps n. 
 \ge dénigrement (par médisance ou calomnie) 
 \lt (renom.gâter)
@@ -104504,7 +104508,7 @@ v.t
 \xe la maman doit pousser pour aider l'enfant(à naître)
 \dt 16/Aug/2006
 
-\lx /tɔ̀ɲɔ/
+\lx tɔ̀ɲɔ
 \cf ntɔ̀ɲɔ 
 \ue (bk,f) 
 \ps v.t 
@@ -104595,7 +104599,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tɔ̀rɔmɔjɔn.ya
-\va /tɔ̀rɔmajɔnya/
+\va tɔ̀rɔmajɔnya
 \ps v.t  /  réf
 \ge prendre à pleine main
 \lt (poignée.suf caus)
@@ -104681,7 +104685,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tù
-\va /tùu/
+\va tùu
 \ps v.t.
 \sn 1
 \ge heurter
@@ -104812,7 +104816,7 @@ v.t
 \ge pantalon bouffant
 \dt 16/Aug/2006
 
-\lx /túfa/
+\lx túfa
 \ue (-f)
 \ps n. 
 \ge toit de chaume
@@ -104898,7 +104902,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx túgun.ni
-\va /túguni/
+\va túguni
 \ps adv. 
 \ge encore
 \ge de nouveau
@@ -104908,7 +104912,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx túgu.baanci
-\va /túgubaganci/
+\va túgubaganci
 \ps n
 \ps adj
 \ge qui le fait exprès
@@ -105330,7 +105334,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tùlu
-\va /tùru/
+\va tùru
 \va kùlu
 \ue (f)
 \ps n. 
@@ -105489,7 +105493,7 @@ v.t
 \ge planchette sur le linteau de la porte
 \dt 16/Aug/2006
 
-\lx /túnga/
+\lx túnga
 \va túngan
 \ue (f)
 \ps n. 
@@ -105529,7 +105533,7 @@ v.t
 \dt 11/Nov/2007
 
 \lx túnga.ran.kɛ
-\va /túngaranke/
+\va túngaranke
 \ps n. 
 \ge émigrant
 \ge émigré
@@ -105557,7 +105561,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx túnu
-\va /túnun/
+\va túnun
 \va kúnu
 \ue (f,bk)
 \ps v.t  /  v.i 
@@ -105566,7 +105570,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx tùrabu
-\va /tàrabu/
+\va tàrabu
 \bw ar: turab = poussière, terre 
 \ps n. 
 \ge géomancie
@@ -105594,7 +105598,7 @@ v.t
 \xe les circoncis posent leur coude à terre(pour saluer)
 \dt 26/Sep/2006
 
-\lx /tùru/
+\lx tùru
 \va tùlu
 \va kùlu
 \ue (f)
@@ -105645,7 +105649,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx túsu
-\va /túsuu/
+\va túsuu
 \va túsun
 \ue (bn)
 \va ntúsun
@@ -105714,7 +105718,7 @@ v.t
 \lt (sexe féminin.petit)
 \dt 16/Aug/2006
 
-\lx /tùu/
+\lx tùu
 \cf tù
 \ps v.t 
 \ge heurter ...
@@ -105897,7 +105901,7 @@ v.t
 
 \lx únhùn
 \ph [articulation énergique, tons très contrastés]
-\va /ún-ùn/
+\va ún-ùn
 \ps interj.
 \ge non (réponse négative)
 \xv à tɛ́ sé  ún-ùn ná
@@ -105992,7 +105996,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wáajibi
-\va /wájibi/
+\va wájibi
 \bw ar. wagib =  contraindre 
 \ps n. 
 \ge obligation
@@ -106056,7 +106060,7 @@ v.t
 \ge prédicateur
 \lt (action de prêcher.celui qui fait)
 
-\lx /wáanba/
+\lx wáanba
 \va wáganba
 \ps n
 \ps adj
@@ -106183,7 +106187,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wàa.ba
-\va /wàgaba/
+\va wàgaba
 \ps n. 
 \ge grande herbe ---> 3 m 
 \ge Andropogon gayanus gayanus
@@ -106312,7 +106316,7 @@ v.t
 \ps n. 
 \ge wahabite
 
-\lx /wájibi/
+\lx wájibi
 \cf wáajibi
 \bw ar: wagib = contraindre 
 \ps v.t 
@@ -106379,12 +106383,12 @@ v.t
 
 \lx wála
 \va wálima
-\va /wáli/
+\va wáli
 \ps conj.
 \ge ou bien
 \dt 16/Aug/2006
 
-\lx /wála/
+\lx wála
 \va wúla
 \ue (f)
 \ps excl.
@@ -106394,7 +106398,7 @@ v.t
 \xe Eh ! Nsan !
 \dt 26/Sep/2006
 
-\lx /wàlaahi/
+\lx wàlaahi
 \cf wàlayi
 \bw ar 
 \ps excl.
@@ -106461,7 +106465,7 @@ v.t
 \xe adolescente(pas tout à fait mûre)
 \dt 26/Sep/2006
 
-\lx /wálan/
+\lx wálan
 \cf wɛ́lɛn
 \ps n. 
 \ge sillon
@@ -106617,7 +106621,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx wàli
-\va /wɔ̀li/
+\va wɔ̀li
 \ue (-f)
 \ps n. 
 \ge sorte de jeu d'osselets
@@ -106625,7 +106629,7 @@ v.t
 \xe jouer à ce jeu (planche à trous dans lesquels doivent entrer les graines servant à ce jeu)
 \dt 16/Aug/2006
 
-\lx /wáli/
+\lx wáli
 \va wálima
 \cf  wála
 \ps conj.
@@ -106712,7 +106716,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wàlo
-\va /wàlon/
+\va wàlon
 \ps v.t 
 \ge ébrécher
 \ge écorner
@@ -106728,7 +106732,7 @@ v.t
 \ge boeuf rouge sombre
 \dt 16/Aug/2006
 
-\lx /wánjɛ/
+\lx wánjɛ
 \cf wɛ́ncɛ (f;bn)
 \ps n. 
 \ge blague
@@ -107154,7 +107158,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx wásanba
-\va /wásama/
+\va wásama
 \ps n. 
 \ge sorte de crécelle des circoncis
 \ee (fabriquée avec de morceaux de calebasse)
@@ -107164,7 +107168,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wàsa.baatɔ
-\va /wàsabagatɔ/
+\va wàsabagatɔ
 \ps n
 \ps adj
 \ge satisfait
@@ -107179,7 +107183,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wásobaanciya
-\va /wásobaganciya/
+\va wásobaganciya
 \ps n
 \lt vaniteux-suf abs
 \ge vanité, prétention
@@ -107195,7 +107199,7 @@ v.t
 \dt 11/Nov/2007
 
 \lx wáso.baa.nci
-\va /wásobaganci/
+\va wásobaganci
 \ps n
 \ps adj
 \ge vaniteux
@@ -107234,7 +107238,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wàyi
-\va /wàye/
+\va wàye
 \ps n. 
 \ge boucher(personne)
 \dt 16/Aug/2006
@@ -107276,7 +107280,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wéece
-\va /wɛ̀cɛ/
+\va wɛ̀cɛ
 \va wɛ́ɛcɛ
 \ue (bn)
 \ps v.t 
@@ -107284,7 +107288,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wéle
-\va /wèle/
+\va wèle
 \ps n. 
 \sn 1
 \ge appel
@@ -107335,7 +107339,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx wélelele
-\va /wéleleleyi/
+\va wéleleleyi
 \ps excl.
 \ge d'appel au secours
 \xv à kúlora   "wélelele" !
@@ -107371,7 +107375,7 @@ v.t
 \ge moucheron (qui fabrique un peu de cire et de miel)
 \dt 16/Aug/2006
 
-\lx /wélewele/
+\lx wélewele
 \va wɛ́lɛwɛlɛ
 \ue (f)
 \ps idéo.
@@ -107398,7 +107402,7 @@ v.t
 \lt (annonce.poser)
 \dt 26/Sep/2006
 
-\lx /wéle.nin/
+\lx wéle.nin
 \va ŋélenin
 \ue (f,bk) 
 \ps n. 
@@ -107448,7 +107452,7 @@ v.t
 
 \lx wɛ́ɛcɛ
 \ue (bn)
-\va /wɛ̀cɛ/
+\va wɛ̀cɛ
 \va wéece
 \ue (f)
 \ps v.t 
@@ -107457,20 +107461,20 @@ v.t
 
 \lx wɛ́lɛn
 \va wɛ́lɛ
-\va /wálan/
+\va wálan
 \ps n. 
 \ge sillon
 \ge passage entre les lignes buttées
 \dt 26/Sep/2006
 
 \lx wɛ́lɛwɛlɛ
-\va /wélewele/
+\va wélewele
 \ps idéo.
 \ge très claire (eau)
 \dt 16/Aug/2006
 
 \lx wɛ́ncɛ
-\va /wánjɛ/
+\va wánjɛ
 \ue (-bk)
 \ps n. 
 \ge blague
@@ -107681,7 +107685,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wólobaa
-\va /wólobaga/
+\va wólobaga
 \ps n
 \lt engendrer-celui qui
 \ge celui ou celle qui engendre : géniteur, génitrice
@@ -107815,7 +107819,7 @@ v.t
 
 \lx wólonfila.nan
 \ph [fl]
-\va /wólonwulanan/
+\va wólonwulanan
 \ps n
 \ps adj
 \ge septième
@@ -107832,12 +107836,12 @@ v.t
 \ge gros ravin
 \dt 26/Sep/2006
 
-\lx /wólonwula/
+\lx wólonwula
 \cf wólonfila
 \ps numéral 
 \ge sept
 
-\lx /wólonwula.nan/
+\lx wólonwula.nan
 \va wólonfilanan
 \ps n
 \ps adj
@@ -107847,7 +107851,7 @@ v.t
 
 \lx wólon.fila
 \ph [wolonfla]
-\va /wólonwula/
+\va wólonwula
 \ps numéral 
 \ge sept
 \lt (cinq.deux)
@@ -107861,7 +107865,7 @@ v.t
 \lt (naître.parole.qui a)
 \dt 12/Aug/2006
 
-\lx /wòlowolo.den/
+\lx wòlowolo.den
 \cf wɔ̀lɔwɔlɔden
 \ue (f)
 \ps n. 
@@ -108035,7 +108039,7 @@ v.t
 
 \lx wòoro
 \va wòoron
-\va /wùro/
+\va wùro
 \ps n. 
 \ge platine (métal)
 \dt 16/Aug/2006
@@ -108243,7 +108247,7 @@ v.t
 \ue (bn)
 \va wɔ́gɔmɛ
 \ue (f,bk)
-\va /wɔ́gɔbɛ/
+\va wɔ́gɔbɛ
 \ps v.t 
 \ge fouiller (une excavation)
 \dt 16/Aug/2006
@@ -108255,7 +108259,7 @@ v.t
 \ge lutin (petit génie de la brousse)
 \dt 16/Aug/2006
 
-\lx /wɔ̀li/
+\lx wɔ̀li
 \cf wàli
 \ps n. 
 \ge sorte de jeu d'osselets
@@ -108263,7 +108267,7 @@ v.t
 
 \lx wɔ̀likɔ
 \ue (f)
-\va /wɔ̀lɔkɔ/
+\va wɔ̀lɔkɔ
 \ps v.i 
 \ge tiédir
 \dt 16/Aug/2006
@@ -108332,7 +108336,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx wɔ̀lɔwɔlɔ.den
-\va /wòlowolo.den/
+\va wòlowolo.den
 \ps n. 
 \ge prématuré
 \ge né avant terme
@@ -108465,7 +108469,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wɔ́rɔ
-\va /wɔ́rɔn/
+\va wɔ́rɔn
 \ps v.t 
 \sn 1
 \ge enlever la peau
@@ -108599,7 +108603,7 @@ v.t
 \ge soir (de l'après-midi à la nuit tombante)
 \dt 16/Aug/2006
 
-\lx /wúla/
+\lx wúla
 \va wúlɛ
 \ue (f,bn) 
 \ps n. 
@@ -108608,7 +108612,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wúladanin.fyɛ
-\va /wúlapɛtɛnin/
+\va wúlapɛtɛnin
 \ps n. 
 \ge moment de l'après-midi(au coucher du soleil)
 \lt (après-midi. frais ?)
@@ -108665,13 +108669,13 @@ v.t
 \dt 11/Nov/2007
 
 \lx wúlan
-\va /wúran/
+\va wúran
 \ps v.t 
 \ge écorcher
 \ge exorbiter
 \dt 26/Sep/2006
 
-\lx /wúla.ba/
+\lx wúla.ba
 \va wúlɛba
 \ue (f,bn) 
 \ps n. 
@@ -108691,7 +108695,7 @@ v.t
 \lt (après-midi.dans.saluer)
 \dt 16/Aug/2006
 
-\lx /wúla.pɛtɛ.nin/
+\lx wúla.pɛtɛ.nin
 \cf wúladaninfyɛ
 \ps n. 
 \ge coucher du soleil 
@@ -108846,7 +108850,7 @@ v.t
 \ge débauché
 \dt 26/Sep/2006
 
-\lx /wùlukutu/
+\lx wùlukutu
 \va wùrukutu
 \ue (f)
 \va wùrunkutu
@@ -108891,7 +108895,7 @@ v.t
 \ee plante à rhizome
 \dt 21/Nov/2007
 
-\lx /wùluŋaŋa/
+\lx wùluŋaŋa
 \va wùlu.ngagan
 \ps n. 
 \ge poisson-chien (sorte de poisson )
@@ -108903,7 +108907,7 @@ v.t
 \lx wùlusi
 \va wùusi
 \ue (f)
-\va /wùrusi/
+\va wùrusi
 \ps v.t 
 \ge égrener le coton
 \dt 16/Aug/2006
@@ -109004,7 +109008,7 @@ v.t
 \lt (débauché.suf abs)
 \dt 26/Sep/2006
 
-\lx /wúran/
+\lx wúran
 \ue (-f,-bk) 
 \ps v.t 
 \ge exorbiter
@@ -109019,12 +109023,12 @@ v.t
 \lx wùri
 \ue (bn,f)
 \va wùruyi
-\va /úruyi/
+\va úruyi
 \ps n. 
 \ge bouillie de farine (sans grumeaux)
 \dt 16/Aug/2006
 
-\lx /wùro/
+\lx wùro
 \va wòoro
 \ps n. 
 \ge platine (métal)
@@ -109058,7 +109062,7 @@ v.t
 \ue (f)
 \va wùrunkutu
 \ue (bn)
-\va /wùlukutu/
+\va wùlukutu
 \ps v.t 
 \ge luxer
 \ge fouler
@@ -109080,7 +109084,7 @@ v.t
 \rem Mol, f, bn (-bk)
 \dt 11/Nov/2007
 
-\lx /wùrusi/
+\lx wùrusi
 \va wùlusi
 \va wùusi
 \ue (f)
@@ -109088,14 +109092,14 @@ v.t
 \ge égrener le coton
 \dt 16/Aug/2006
 
-\lx /wùrusilan.den/
+\lx wùrusilan.den
 \cf wùlusilanden
 \ps n. 
 \ge tige de métal pour égrener
 \lt ('égreneuse'.élément)
 \dt 16/Aug/2006
 
-\lx /wùrusi.lan/
+\lx wùrusi.lan
 \va wùlusilan
 \va wùusilan
 \ue (f)
@@ -109119,7 +109123,7 @@ v.t
 \lx wùruyi
 \va wùri
 \ue (f,bn)
-\va /úruyi/
+\va úruyi
 \ps n. 
 \ge bouillie de farine sans grumeaux
 \dt 16/Aug/2006
@@ -109188,7 +109192,7 @@ v.t
 
 \lx wùusi
 \va wùlusi
-\va /wùrusi/
+\va wùrusi
 \ps v.t 
 \ge égrener le coton
 \dt 16/Aug/2006
@@ -109261,7 +109265,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx yàada
-\va /yàda/
+\va yàda
 \ps v.i 
 \sn 1
 \ge être arrogant
@@ -109365,7 +109369,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx yàáràbí
-\va /yáarabi/
+\va yáarabi
 \ps n. 
 \ge invocation directe de Dieu (voc. de griot
 \ge de devin)
@@ -109394,12 +109398,12 @@ v.t
 \dt 16/Aug/2006
 
 \lx yábalan
-\va /yában/
+\va yában
 \ps v.i 
 \ge galoper
 \dt 16/Aug/2006
 
-\lx /yàda/
+\lx yàda
 \cf yàada
 \ps v.i 
 \ge être arrogant ...
@@ -109429,7 +109433,7 @@ v.t
 \xe Pardonne-le nous !
 \dt 16/Aug/2006
 
-\lx /yàfa.baga/
+\lx yàfa.baga
 \va yàfa.baa
 \ue (f,bk) 
 \ps n. 
@@ -109505,7 +109509,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx yàmari
-\va /yàmaru/
+\va yàmaru
 \bw ar: 
 \cf yàmari
 \ps n. 
@@ -109513,7 +109517,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx yàmari
-\va /yàmaru/
+\va yàmaru
 \bw ar: amara (ya'muru) = id. 
 \ps v.t 
 \ge autoriser
@@ -109521,7 +109525,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx yàmari.ya
-\va /yàmaruya/
+\va yàmaruya
 \ue (-bn)
 \bw ar: id 
 \ps v.t 
@@ -109529,7 +109533,7 @@ v.t
 \lt (autorisation.suf caus)
 \dt 16/Aug/2006
 
-\lx /yàmaru/
+\lx yàmaru
 \cf yàmari
 \bw ar: id 
 \ps v.t 
@@ -109537,7 +109541,7 @@ v.t
 \ge autoriser (au nég : défendre)
 \dt 26/Sep/2006
 
-\lx /yàmaru.ya/
+\lx yàmaru.ya
 \ue (-bn)
 \cf yàmariya
 \ps v.t 
@@ -109562,7 +109566,7 @@ v.t
 \xe d'ici trois jours ...
 \dt 26/Sep/2006
 
-\lx /yánba/
+\lx yánba
 \ps n. 
 \ge chanvre indien (drogue)
 \dt 16/Aug/2006
@@ -109938,7 +109942,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx yéfuge
-\va /yéfege/
+\va yéfege
 \ps n. 
 \ge albinos
 \dt 16/Aug/2006
@@ -110008,7 +110012,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx yèleke
-\va /yɛ̀lɛkɛ/
+\va yɛ̀lɛkɛ
 \ps v.t 
 \ge granuler de la farine (en vue de la cuisson)
 \dt 16/Aug/2006
@@ -110143,7 +110147,7 @@ v.t
 \sy gàlama
 \dt 16/Aug/2006
 
-\lx /yɛ̀lɛ/
+\lx yɛ̀lɛ
 \va yɛ̀lɛn
 \ue (bn)
 \ps v.t 
@@ -110166,7 +110170,7 @@ v.t
 \rem Ps 22, 8
 \dt 11/Nov/2007
 
-\lx /yɛ̀lɛkɛ/
+\lx yɛ̀lɛkɛ
 \cf yèleke
 \ps v.t 
 \ge granuler de la farine
@@ -110556,7 +110560,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx yɛ́rɛyɛrɛ.baatɔ
-\va /yɛ́rɛyɛrɛbagatɔ/
+\va yɛ́rɛyɛrɛbagatɔ
 \ps n
 \ps adj
 \ge tremblant (quelle que soit la cause)
@@ -110898,7 +110902,7 @@ v.t
 \ue (bn)
 \va yùrundu
 \ue (f)
-\va /yùru/
+\va yùru
 \va yùuru
 \ps v.i 
 \sn 1
@@ -110972,7 +110976,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx yògoron
-\va /yògoro/
+\va yògoro
 \ps v.t 
 \ge faire peur à qn 
 \sy bàgabaga
@@ -111143,7 +111147,7 @@ dumunikɛyɔrɔ la
 \dt 26/Sep/2006
 
 \lx yɔ́rɔ.jumɛ.ka
-\va /yɔ́rɔjumɛn.ka/
+\va yɔ́rɔjumɛn.ka
 \ps n. 
 \ge personne de quel endroit ?
 \lt (endroit.quel ?habitant)
@@ -111216,7 +111220,7 @@ dumunikɛyɔrɔ la
 \ge le prix ...)
 \dt 26/Sep/2006
 
-\lx /yùru/
+\lx yùru
 \cf yùrundu
 \ue (f)
 \va yùuru
@@ -111235,7 +111239,7 @@ dumunikɛyɔrɔ la
 
 \lx yùrundu
 \ue (f)
-\cf /yùru/
+\cf yùru
 \cf yùuru
 \cf yìrindi
 \ue (bn)
@@ -111307,7 +111311,7 @@ dumunikɛyɔrɔ la
 \ge juin
 
 \lx -bɛ́ɲɛ
-\va /bíɲɛ/
+\va bíɲɛ
 \ps n
 \ps adj
 \sn 1
@@ -111322,7 +111326,7 @@ dumunikɛyɔrɔ la
 \dt 26/Sep/2006
 
 \lx -bɛ́ɲɛ
-\va /bíɲɛ/
+\va bíɲɛ
 \ps n
 \ps adj. 
 \sn 1
@@ -111356,7 +111360,7 @@ dumunikɛyɔrɔ la
 \dt 26/Sep/2006
 
 \lx -báa
-\va /-bága/
+\va -bága
 \ps suffixe d'agent ponctuel
 \ge celui qui ...
 \ge celle qui ...
@@ -111369,7 +111373,7 @@ dumunikɛyɔrɔ la
 \dt 26/Sep/2006
 
 \lx -báanci
-\va /báganci/
+\va báganci
 \ps suf
 \ge suffixe d'agent à l'excès 
 \xv bàn.baanci
@@ -111377,7 +111381,7 @@ dumunikɛyɔrɔ la
 \dt 16/Aug/2006
 
 \lx -báanciya
-\va /báganciya/
+\va báganciya
 \ps suf
 \ge suffixe marquant l'excès d'un défaut(ou plus rarement l'excellence d'une qualité chez qn) 
 \xv hínɛ.baanciya
@@ -111394,7 +111398,7 @@ dumunikɛyɔrɔ la
 \dt 16/Aug/2006
 
 \lx -báa.tɔ
-\va /-bágatɔ/
+\va -bágatɔ
 \ps suf
 \lt (sujet.patient)
 \ge suffixe rattaché à une base verbale (indique à la fois le sujet et l'état dans lequel il se trouve
@@ -111407,7 +111411,7 @@ dumunikɛyɔrɔ la
 \xe qui court, en train de courir
 \dt 26/Sep/2006
 
-\lx /-bága/
+\lx -bága
 \cf -báa
 \ps suf
 \ge suffixe d'agent (ponctuel)
@@ -111418,7 +111422,7 @@ dumunikɛyɔrɔ la
 \dt 16/Aug/2006
 
 \lx -bágan
-\va /-bánga/
+\va -bánga
 \ps n. 
 \ge mets sans sauce
 \ge boue desséchée
@@ -111477,7 +111481,7 @@ dumunikɛyɔrɔ la
 \ge animal sauvage apprivoisé
 \dt 16/Aug/2006
 
-\lx /-bánga/
+\lx -bánga
 \cf bágan
 \cf bɛ́ɲɛ
 \ps n.
@@ -111488,7 +111492,7 @@ dumunikɛyɔrɔ la
 \ge mets sans sauce 
 \dt 26/Sep/2006
 
-\lx /-bíɲɛ/
+\lx -bíɲɛ
 \cf -bɛ́ɲɛ
 \ps n. 
 \ge mets sans sauce ...
@@ -111540,7 +111544,7 @@ dumunikɛyɔrɔ la
 \dt 15/Aug/2006
 
 \lx [já]
-\cf /díya/
+\cf díya
 \ps v.t 
 \ge rendre agréable ...
 \dt 16/Aug/2006
@@ -111910,7 +111914,7 @@ dumunikɛyɔrɔ la
 \xe les tiges
 \dt 16/Aug/2006
 
-\lx ... jù.la
+\lx … jù.la
 \ps loc.post
 \ge à l'endroit de ...
 \ge là où a lieu telle action
