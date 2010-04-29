@@ -8268,14 +8268,8 @@ la journée
 \lt (dizaine.litre)
 \dt 16/Aug/2006
 
-\lx bì.li.bánabìnnibána
-\ps n. 
-\ge épilepsie
-\sy kìrikirimasyɛn
-\lt (tomber.action.maladie)
-\dt 12/Aug/2006
-
-\lx bì.li.bánabìnnibána
+\lx bì.li.bána
+\va bìnnibána
 \ps n. 
 \ge épilepsie
 \sy kìrikirimasyɛn
@@ -71592,7 +71586,7 @@ p.7)
 \ge don gratuit
 \dt 16/Aug/2006
 
-\lx nànafinman.nin
+\lx nàna.finman.nin
 \ps n. 
 \sn 1
 \ge Marcusenius petricolus)(sorte de poisson)
@@ -87059,7 +87053,7 @@ paysans
 \dt 12/Aug/2006
 
 \lx rɔ́.jɛya
-\cf lá/jɛya
+\cf lá.jɛya
 \ps v.t 
 \ge rendre propre
 \ge justifier
@@ -104577,7 +104571,7 @@ v.t
 \xe quand le moment est arrivé, il n'y a pas de remède
 \dt 26/Sep/2006
 
-\lx tùméwèlé
+\lx tùmáwùlé
 \vá dùmáŋèré
 \ue (f)
 \ps n. 
