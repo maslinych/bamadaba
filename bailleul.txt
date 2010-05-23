@@ -1157,7 +1157,7 @@ de phrase
 \lx báara.ntan
 \ps n
 \ge chômeur
-\ps adj.
+\ps adj
 \ge oisif
 \lt (travail.sans)
 \dt 16/Aug/2006
@@ -5311,7 +5311,7 @@ du bâton pour marcher (selon Cas tjs de ton bas)
 \va bí
 \va b'
 \ph [be / bi	 ]
-\ps pm.
+\ps pm
 \sn 1
 \ge auxiliaire du présent positif des verbes
 \xv ń bɛ́ táa só
@@ -6247,7 +6247,7 @@ ou non)
 
 \lx bɛ̀n.bali
 \ps n
-\ps adj.
+\ps adj
 \ge non d'accord
 \ge brouillé
 \ge désuni ...
@@ -6353,7 +6353,7 @@ ou non)
 
 \lx bɛ́rɛ
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge important
 \ge grand
@@ -6458,7 +6458,7 @@ ou non)
 
 \lx bɛ̀sɛ
 \ps n
-\ps adj.
+\ps adj
 \ge coquet
 \ge très propre
 \ge recherché dans sa tenue
@@ -6898,7 +6898,7 @@ ou non)
 \va blàkoro.lama
 \ph [bla]
 \ps n
-\ps adj.
+\ps adj
 \ge dans l'état d'incirconcis
 \lt (incirconcis.aspect)
 \xv á bìlakorolama tùn bɛ́  kó mín kɛ́, á kàna  ò sí kɛ́ bìlen !
@@ -7046,7 +7046,7 @@ ou non)
 \va blà.kojugu
 \ph [bla]
 \ps n
-\ps adj.
+\ps adj
 \ge vaurien (t.i)
 \lt (laisser aller.trop)
 \dt 19/Aug/2006
@@ -7312,7 +7312,7 @@ ou non)
 \va blèn.man
 \ph [bl]
 \ps n
-\ps adj.
+\ps adj
 \ge rouge
 \lt (rouge.suf)
 \dt 16/Aug/2006
@@ -8217,7 +8217,7 @@ la journée
 
 \lx bì.lama
 \ps n
-\ps adj.
+\ps adj
 \ge dans l'état actuel
 \ge d'aujourd'hui
 \lt (aujourd'hui.en l'état)
@@ -12246,7 +12246,7 @@ favorisé l'évolution phonétique ?
 \dt 26/Sep/2006
 
 \lx cá
-\ps vq.
+\ps vq
 \sn 1
 \ge nombreux
 \ge abondant
@@ -14149,7 +14149,7 @@ ciyɛntabaga ye
 
 \lx cí.ntan
 \ps n
-\ps adj.
+\ps adj
 \ge oisif
 \ge ou inutile
 \lt (utilité.sans)
@@ -15022,7 +15022,7 @@ ciyɛntabaga ye
 \ps n
 \ge âne
 \lt (bouche.claire)
-\ps adj.
+\ps adj
 \ge pauvre
 \ge qui n'est pas considéré [fig]
 \dt 26/Sep/2006
@@ -18832,7 +18832,7 @@ d'emprunt (kb 6/06 p.6)
 
 \lx dédenin
 \ps n
-\ps adj.
+\ps adj
 \ge minuscule
 \ge tout petit
 \dt 26/Sep/2006
@@ -19406,7 +19406,7 @@ d'emprunt (kb 6/06 p.6)
 
 \lx dén.jugu
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge mauvais coeur
 \ge égoïste
@@ -27440,7 +27440,7 @@ totalement inconnu même à Kolokani)
 
 \lx fà.ɲɔgɔn
 \ps n
-\ps adj.
+\ps adj
 \ge homme du même âge que le père
 \lt (père.pareil)
 \dt 16/Aug/2006
@@ -29621,7 +29621,7 @@ de différentes longueurs)
 
 \lx fítinin
 \ps n 
-\ps adj.
+\ps adj
 \ge petit
 \ge tout petit
 \sy ncínin
@@ -31467,7 +31467,7 @@ maladie, sans l'avertir lui-même)
 \ge cadeau
 \xv à díra  é mà fú
 \xe on te le donne gratis
-\ps adj. 
+\ps adj
 \sn 4
 \ge sans valeur
 \ge inutile
@@ -37591,7 +37591,7 @@ t'en reparle pas
 \lx hɔ́rɔn
 \bw ar: hurr = id.
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge homme libre
 \ee (opposé à l'esclave : jɔ̀n)
@@ -38197,7 +38197,7 @@ mains ...)
 \lx jáhili
 \bw ar: gahili = ignorant, païen
 \ps n
-\ps adj.
+\ps adj
 \ge voyou
 \ge paresseux
 \ge vicieux
@@ -38712,7 +38712,7 @@ mains ...)
 \lx jámuru
 \va jánburu
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge vagabond
 \ge traînard de rue
@@ -41371,7 +41371,7 @@ accompagnerait des danses de possession)
 
 \lx jí.lama
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge de l'apparence de l'eau
 \ge liquide
@@ -42355,7 +42355,7 @@ mollusques ...)
 
 \lx jɔ́njɔn
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge exact
 \ge juste
@@ -44953,7 +44953,7 @@ l'étranger en disant :  l'eauest prête
 \lx kálan.man
 \va kálaman
 \ps n
-\ps adj.
+\ps adj
 \ge chaud
 \ge rapide
 \ge fougueux
@@ -48056,7 +48056,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \dt 26/Sep/2006
 
 \lx kélen
-\ps num.
+\ps num
 \sn 1
 \ge un
 \ge un seul
@@ -49495,7 +49495,7 @@ présent ou l'imparfait). Ainsi :
 \lx kɛ̀yɛ.tɔ
 \va kàyatɔ
 \ps n
-\ps adj.
+\ps adj
 \ge atteint d'hydrocèle
 \ge qui a les bourses énormes
 \lt (hydrocèle.atteint)
@@ -51021,7 +51021,7 @@ que ..., dans l'intention de ...)
 
 \lx kólokòtó
 \ps n
-\ps adj.
+\ps adj
 \ge qui ne recule devant rien
 \xv kólokoto yé  fùra sì
 \xe le "kolokoto" a fait la veillée de mariage (sans avoir été invité) (prov)  = (on n'a pas réussi à le prendre au
@@ -51669,7 +51669,7 @@ puissant)
 \va kóyo
 \ue (f)
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge surnom de la hyène
 \sn 2
@@ -53275,7 +53275,7 @@ on l'appelle "Nsan"
 \sn 1
 \ge tourteau des noix de karité
 \lt (noix.tourteau)
-\ps adj.
+\ps adj
 \sn 2
 \ge couleur brun foncé
 \dt 16/Aug/2006
@@ -54403,7 +54403,7 @@ cì i kàn
 \va kɔ́nɔ.gwɛlɛn
 \ph [gw]
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge méchant
 \ge dur
@@ -58699,7 +58699,7 @@ un ami ...)
 \lx kúnu.baa.tɔ
 \va kúnubagatɔ
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge en train de se réveiller
 \lt (se réveiller.celui qui)
@@ -60873,7 +60873,7 @@ ligne)
 \ps n
 \sn 1
 \ge apathie
-\ps adj.
+\ps adj
 \sn 2
 \ge attardé mental
 \dt 16/Aug/2006
@@ -61451,7 +61451,7 @@ ligne)
 \va rɔ́nkolon
 \va rɔ́kolon
 \ps n
-\ps adj.
+\ps adj
 \sy kólon
 \lt (endroit.vide)
 \sn 1
@@ -70932,7 +70932,7 @@ toutes les "mères" de la grande famille)
 \ge femme
 \xv ń'í b'á fɛ̀  kà mùso ɲúman fúru...
 \xe si tu veux une bonne épouse ...
-\ps adj.
+\ps adj
 \sn 2
 \ge de sexe féminin : femme
 \ge femelle
@@ -71521,7 +71521,7 @@ va mùso.gwana.ya
 \lx nà
 \va ná
 \ee *nà = venir
-\ps pm.
+\ps pm
 \sn 1
 \ge auxiliaire du futur affirmatif
 \xv à ná sà
@@ -74268,7 +74268,7 @@ p.7)
 \ge Parkia biglobosa
 \sd mimo
 \lt ('Parkia'.poudre)
-\ps adj.
+\ps adj
 \sn 2
 \ge couleur jaune
 \dt 19/Aug/2006
@@ -75379,7 +75379,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nímisi
-\ps v.
+\ps v
 \ge regretter
 \ge avoir des remords
 \dt 26/Sep/2006
@@ -77209,7 +77209,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nɔ̀ kàn
-\ps pp.
+\ps pp
 \ge à la suite de ...
 \ge à la place de ...
 \ge après ...
@@ -79092,7 +79092,7 @@ p.7)
 \sn 1
 \ge Ficus dicranostyla
 \sd mora
-\ps adj.
+\ps adj
 \sn 2
 \ge couleur orange (tirée du 'Ficus dicranostyla')
 \dt 19/Aug/2006
@@ -80755,7 +80755,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \sn 1
 \ge gros intestin
 \lt (intestin.gros)
-\ps adj.
+\ps adj
 \sn 2
 \ge goinfre (rare)
 \dt 16/Aug/2006
@@ -81282,7 +81282,7 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \lx ń'ó tɛ́
 \va ń'ó ntɛ́
 \ee *xas : ntɛ = tɛ
-\ps loc.
+\ps loc
 \lt (si.cela.n'est pas)
 \ps conj
 \ge sinon
@@ -83283,7 +83283,7 @@ paysans
 
 \lx ɲɛ́na.kuna
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge effronté
 \lt (regard.amer)
@@ -83624,7 +83624,7 @@ paysans
 \ge blanc
 \ge européen (péj)
 \lt (oeil.rouge)
-\ps adj.
+\ps adj
 \sn 3
 \ge rougeâtre
 \dt 26/Sep/2006
@@ -84209,7 +84209,7 @@ paysans
 \ps n
 \sn 1
 \ge petite maille
-\ps adj.
+\ps adj
 \sn 2
 \ge qui inspecte en détail
 \dt 16/Aug/2006
@@ -85788,7 +85788,7 @@ paysans
 \ps n
 \sn 1
 \ge sauce de feuilles
-\ps adj.
+\ps adj
 \sn 2
 \ge vert (couleur)
 \sy bínkɛnɛ
@@ -88760,7 +88760,7 @@ fu.
 \sn 2
 \ge féticheur
 \ge guérisseur
-\ps adj.
+\ps adj
 \sn 3
 \ge querelleur
 \dt 26/Sep/2006
@@ -95250,7 +95250,7 @@ veillées de deuil, des veillées de fête de mariage ...)
 \ps n
 \sn 1
 \ge fumée blanche
-\ps adj.
+\ps adj
 \sn 2
 \ge couleur gris-clair
 \dt 16/Aug/2006
@@ -95481,7 +95481,7 @@ sìtànɛ̀màko la
 \ps n
 \sn 1
 \ge race de griots exploiteurs
-\ps adj.
+\ps adj
 \sn 2
 \ge noble dégénéré ("hɔrɔn" indigne de ce nom)
 \dt 16/Aug/2006
@@ -97280,7 +97280,7 @@ sìtànɛ̀màko la
 \ge débauche
 \lt (conduite.mauvaise)
 \ee tous les péchés capitaux et spécialement la luxure)
-\ps adj.
+\ps adj
 \sn 2
 \ge débauché
 \dt 26/Sep/2006
@@ -97298,7 +97298,7 @@ sìtànɛ̀màko la
 \ge vice
 \ge défaut
 \lt (conduite.vaurien)
-\ps adj.
+\ps adj
 \sn 2
 \ge vaurien
 \dt 26/Sep/2006
@@ -98769,7 +98769,7 @@ sìtànɛ̀màko la
 \ge hyène tachetée
 \ge Crocuta crocuta)
 \lt (hyène.rouge.petite)
-\ps adj.
+\ps adj
 \sn 2
 \ge débauché
 \ge éhonté [fig]
@@ -101934,7 +101934,7 @@ Côte d'Ivoire)
 \ph [tɛga]
 \ue (f)
 \ph [se dit d'une seule émission de voix au contraire du suivant]
-\ps pm.
+\ps pm
 \ge auxiliaire négatif de l'accompli transitif
 \cf má
 \xv ò tɛ́ka  à yé =  ò má  à yé
@@ -107863,7 +107863,7 @@ v.t
 \dt 26/Sep/2006
 
 \lx wɛ́rɛ
-\ps adj.
+\ps adj
 \ge autre
 \ge différent ou en plus (ne s'emploie jamais seul)
 \xv ò tɛ́  dɔ́ wɛ́rɛ yé  nìn kɔ́
@@ -109597,7 +109597,7 @@ v.t
 \lx yà
 \ue (f)
 \ee * xas : kà = ye
-\ps pm.
+\ps pm
 \ge auxiliaire de l'accompli des verbes transitifs
 \dt 16/Aug/2006
 
@@ -111163,7 +111163,7 @@ v.t
 \ge issu de la lignée du fondateur du village
 \xv Fàlajɛ yɛ̀rɛwolo yé  Tàrawele yé
 \xe les autochtones de Falajɛ sont les Tarawele
-\ps adj.
+\ps adj
 \sn 3
 \ge d'excellente qualité
 \xv sánu yɛ̀rɛwolo
@@ -111706,7 +111706,7 @@ dumunikɛyɔrɔ la
 \lx -bɛ́ɲɛ
 \va bíɲɛ
 \ps n
-\ps adj.
+\ps adj
 \sn 1
 \ge mets sans sauce
 \ge boue desséchée
@@ -112033,7 +112033,7 @@ dumunikɛyɔrɔ la
 \va -nándi
 \va -nàndi
 \ps mrph
-\ps adj.
+\ps adj
 \ge qui aime ...
 \xv kàlanlandi
 \xe qui aime l'étude, persévérant
@@ -112068,7 +112068,7 @@ dumunikɛyɔrɔ la
 \dt 16/Aug/2006
 
 \lx -má
-\ps mrph.
+\ps mrph
 \ge suffixe dérivatif nominal
 \ee (qui a, qui possède; s'oppose à -ntan = sans)
 \xv ntùmu
@@ -112114,7 +112114,7 @@ dumunikɛyɔrɔ la
 \ge plante cultivée qui pousse sans avoir été semée
 \xv tìgamana
 \xe arachide "sauvage"
-\ps adj.
+\ps adj
 \sn 2
 \ge apprivoisé
 \xv sògomana
