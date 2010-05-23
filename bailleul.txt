@@ -5326,6 +5326,7 @@ du bâton pour marcher (selon Cas tjs de ton bas)
 \lx bɛ́
 \va bé
 \va bí
+\va b'
 \ph [be / bi	 ]
 \ps aux.
 \sn 1 
@@ -5367,6 +5368,7 @@ ou non)
 \dt 26/Sep/2006
 
 \lx bɛ́  kà
+\va bɛ́ k'
 \ps prédicatif du présent progressif (au positif)
 \ge est en train de ...
 \lt (est + àux.inf)
@@ -5643,6 +5645,7 @@ ou non)
 \dt 26/Sep/2006
 
 \lx bɛ́ka
+\va bɛ́k'
 \ue (f) 
 \cf bága
 \ps préd
@@ -14783,6 +14786,7 @@ ciyɛntabaga ye
 \dt 16/Aug/2006
 
 \lx dá
+\va d'
 \ps v.t 
 \sn 1
 \ge poser
@@ -20245,6 +20249,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \dt 26/Sep/2006
 
 \lx dí
+\va d'
 \ps v.t 
 \ge donner qc à qn
 \ge accorder ...
@@ -30268,6 +30273,7 @@ de différentes longueurs)
 \dt 26/Sep/2006
 
 \lx fó
+\va f'
 \cf fɔ́
 \ps prép 
 \ge jusqu'à...
@@ -31012,6 +31018,7 @@ maladie, sans l'avertir lui-même)
 \dt 16/Aug/2006
 
 \lx fɔ́
+\va f'
 \va fɔ́ɔ
 \ph [fɔɔ]
 \ps prép  
@@ -43627,6 +43634,7 @@ bâtiment
 \dt 19/Aug/2006
 
 \lx kà
+\va k'
 \ps préd
 \ge prédicatif verbal
 \ge auxiliaire de l'accompli transitif
@@ -43636,6 +43644,7 @@ bâtiment
 \dt 26/Sep/2006
 
 \lx kà
+\va k'
 \ps part.
 \sn 1
 \ge prédicatif verbal de l'infinitif positif
@@ -43674,6 +43683,7 @@ l'étranger en disant :  l'eauest prête
 \dt 26/Sep/2006
 
 \lx ká
+\va k'
 \ps part.
 \ge particule copulative (reliant possesseur et objet possédé)
 \xv à ká dàba dòn
@@ -46018,6 +46028,7 @@ hernies, kyste de l'ovaire...)
 
 \lx kàna
 \va kána
+\va kàn'
 \ue (jula : ton inversé)
 \ps préd.de l'infinitif négatif 
 \sn 1
@@ -64804,6 +64815,7 @@ toutes les "mères" de la grande famille)
 \dt 12/Aug/2006
 
 \lx má
+\va m'
 \ps aux.
 \ge auxiliaire verbal
 \ge inaccompli_(marque de l')
@@ -75210,6 +75222,7 @@ p.7)
 \dt 26/Sep/2006
 
 \lx ní
+\va n'
 \ps conn.
 \ge connectif 
 \ph [enclitique : se prononce avec le mot qui précède]
@@ -75232,6 +75245,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ní
+\va n'
 \ps conj.
 \ge conjonction introduisant une proposition hypothético-temporelle
 \ge si ...
@@ -76095,6 +76109,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nká
+\va nk'
 \ps conj.
 \ge mais
 \ge cependant
@@ -91417,6 +91432,7 @@ fu.
 \dt 26/Sep/2006
 
 \lx sé
+\va s'
 \ps v.i 
 \sn 1
 \ge arriver
@@ -101983,6 +101999,7 @@ sìtànɛ̀màko la
 \lx tɛ́
 \va té
 \va tí
+\va t'
 \ee * xas : ntɛ, 
 \cf ń'ó tɛ́
 \cf -ntán
@@ -102010,6 +102027,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tɛ́ kà
+\va tɛ́ k'
 \ps aux.
 \ge auxiliaire négatif du présent progressif (n'est pas en train de ...)
 \xv à tɛ́ kà kàsi
@@ -102273,6 +102291,7 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx tɛ́ka
+\va tɛ́k'
 \va tɛ́ga
 \ph [tɛga]
 \ue (f)
@@ -106708,6 +106727,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx wáa
+\va w'
 \cf wála
 \ps conj.
 \ge ou bien
@@ -110561,6 +110581,7 @@ v.t
 \dt 16/Aug/2006
 
 \lx yé
+\va y'
 \ps aux
 \ge auxiliaire de l'accompli positif des verbes transitifs
 \xv ù yé  ɲɔ̀ gòsi
@@ -112663,4 +112684,6 @@ dumunikɛyɔrɔ la
 \xv ù má táa  ò jùla
 \xe ils n'y sont pas allés
 \dt 26/Sep/2006
+
+
 
