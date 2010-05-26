@@ -4533,9 +4533,9 @@ gâteries)
 \dt 16/Aug/2006
 
 \lx bá.fila.bɛn
-\lx bá.fla.bɛn
-\ph [baflabɛn]
+\va bá.fla.bɛn
 \ps n
+\ph [baflabɛn]
 \ge confluent
 \lt (fleuve.2.rencontre)
 \dt 12/Aug/2006
@@ -4556,9 +4556,9 @@ gâteries)
 \dt 16/Aug/2006
 
 \lx bà.geren
-\lx bà.gweren
-\ph [bàgweren]
+\va bà.gweren
 \ps n
+\ph [bàgweren]
 \ge chevreau
 \ge chevrette (qui n'a pas encore mis bas)
 \lt (caprin.jeune)
@@ -6879,9 +6879,9 @@ ou non)
 \dt 19/Aug/2006
 
 \lx bìla.ko.rɔbilakola
-\lx blà.ko.rɔbilakola
-\ph [bla]
+\va blà.ko.rɔbilakola
 \ps n
+\ph [bla]
 \sn 1
 \ge qui crée des histoires à ...
 \lt (mettre.affaire.dans)
@@ -15451,9 +15451,9 @@ ciyɛntabaga ye
 \dt 16/Aug/2006
 
 \lx dálan.na.bana
-\lx dlán.na.bana
-\ph [dl]
+\va dlán.na.bana
 \ps n
+\ph [dl]
 \ge impuissance sexuelle
 \lt (lit.au.maladie)
 \sy jàlagɔsi
@@ -22551,7 +22551,6 @@ pratiques magiques (de protection)
 \lx dɔ́ɔ.nin
 \ee dɔgɔnin*
 \ps adj/n
-\ps adj
 \ge un peu
 \xv dɔ́ɔnin-dɔ́ɔnin
 \xe peu à peu, doucement
@@ -24162,8 +24161,7 @@ cmavec de chaque côté une ailette étroite, à l'intérieur une ou deux  
 \lt (irascible.suf abs)
 
 \lx dùsu.ba
-\ps n
-\ps adj
+\ps adj/n
 \ge coléreux
 \ge soupe au lait
 \ge susceptible ...
@@ -54912,12 +54910,13 @@ écailles assez grosses)
 
 \lx kɔ̀rɔ.len
 \ps ptcp
-\sn 1
 \ge vieilli
 \ge vieux
 \lt (vieillir.suf part) 
+\dt 26/Sep/2006
+
+\lx kɔ̀rɔ.len
 \ps adv
-\sn 2
 \ge déjà
 \ge depuis longtemps
 \xv ń y'á dɔ́n kɔ̀rɔlen
@@ -65414,7 +65413,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mánkan
-\ps adj.n
+\ps adj/n
 \ge moyen
 \xv fílen mánkan
 \xe une calebasse de taille moyenne
@@ -67393,7 +67392,6 @@ toutes les "mères" de la grande famille)
 \ge faire une action avec ardeur
 \xv á'yé mána  fɔ́li kàn !
 \xe jouez-en avec entrain !
-\ps v
 \sn 3
 \ge se mettre en colère
 \ge s'enflammer contre qn
@@ -72336,6 +72334,9 @@ p.7)
 \ge petit
 \ge jeune
 \ge le plus jeune
+\dt 26/Sep/2006
+
+\lx ncínin
 \ps vq
 \ge petit
 \ge jeune
@@ -80485,7 +80486,6 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \ee *xas : ntɛ = tɛ
 \ps expr
 \lt (si.cela.n'est pas)
-\ps conj
 \ge sinon
 \ge sans cela
 \ge autrement
@@ -89676,7 +89676,6 @@ fu.
 \lx sáraka.minɛ.bali
 \ps ptcp
 \lt (offrande.accepter.ne pas)
-\ps adj
 \ge vaurien
 \ee (pour lequel aucun sacrifice n'a été accepté par Dieu) (enfant plus ou moins maudit)
 
@@ -96684,7 +96683,7 @@ sìtànɛ̀màko la
 
 \lx sú rɔ́
 \va súrɔ
-\ps 
+\ps expr
 \ge hier soir
 \lt (soir.moment)
 \dt 16/Aug/2006
@@ -101558,7 +101557,7 @@ Côte d'Ivoire)
 \lx tìgɛ
 \va tìkɛ
 \ue (f)
-\ps v.t
+\ps v
 \sn 1
 \ge faire une coupure
 \ge couper
@@ -101592,7 +101591,6 @@ Côte d'Ivoire)
 \xe ça peut rendre la femme stérile
 \sn 7
 \ge acheter pour revendre plus cher
-\ps v
 \sn 8
 \ge se défier de ...
 \xv né tìgɛra  à lá
@@ -102262,10 +102260,10 @@ v.t
 
 \lx tìle.sen.kuncɛ
 \va tìle.se.kuncɛ
-\lx tlè.sen.kuncɛ
+\va tlè.sen.kuncɛ
 \va tlè.se.kuncɛ
-\ph [tl]
 \ps n
+\ph [tl]
 \ge midi (le soleil est au zénith)
 \lt (soleil.arriver.sommet)
 \dt 16/Aug/2006
