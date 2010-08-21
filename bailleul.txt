@@ -1,5 +1,4 @@
-﻿
-\_sh v3.0  725  MDF-BAMBARA
+﻿\_sh v3.0  725  MDF-BAMBARA
 \_DateStampHasFourDigitYearu
 
 \lx à
@@ -251,7 +250,7 @@ suivie du jour)
 \ps ptcp
 \lt Dieu-crainte-sans
 \ge impie
-\ge, qui ne craint pas Dieu
+\ge qui ne craint pas Dieu
 \nt AT
 \dt 11/Nov/2007
 
@@ -352,7 +351,7 @@ suivie du jour)
 \sn 1
 \ge religieux
 \ge religieuse
-\\ge personne consacrée à Dieu
+\ge personne consacrée à Dieu
 lt (Dieu.à.don)
 \sn 2
 \ge mariage.sans.dot
@@ -6948,13 +6947,13 @@ la journée
 \ge main
 \xv bólo mìnɛ
 \xe prendre la main de qn
-\xv...bólo séri  mɔ̀gɔ yé
+\xv ...bólo séri  mɔ̀gɔ yé
 \xe faire signe à qn
-\xv...bólo dá...dá lá
+\xv ...bólo dá...dá lá
 \xe mettre la main sur la bouche (grande surprise)
-\xv...bólo dòn...kùn
+\xv ...bólo dòn...kùn
 \xe mettre sa main dans sa poche
-\xv...bólo kɔ́rɔ
+\xv ...bólo kɔ́rɔ
 \xe à portée de main
 \xv à bólo bɛ́  jí lá
 \xe elle a ses règles
@@ -6964,11 +6963,11 @@ la journée
 \xe nous n'avons tous qu'à nous louer d'une telle
 \xv fɛ́n bìla  í bólo kɔ́ fɛ̀
 \xe négliger qc, ne pas en tenir compte
-\xv...mìnɛ ní  bólo fìla yé
+\xv ...mìnɛ ní  bólo fìla yé
 \xe saisir fermement qc  (ne pas quitter qn)
 \xv à bólo ká gɛ̀lɛn
 \xe il est avare
-\xv...bólo dòn  kó lá
+\xv ...bólo dòn  kó lá
 \xe se mettre à ..., s'initier à ...
 \xv fɛ́n ɲíni  sèn ní  bólo
 \xe faire des pieds et des mains pour avoir qc 
@@ -10036,7 +10035,7 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau d
 \ps n
 \lt déprécier-action
 \ge mépris
-\xv...fòrobanafolo búrujali / án ká nàfolosɔrɔfɛn búrujali
+\xv ...fòrobanafolo búrujali / án ká nàfolosɔrɔfɛn búrujali
 \xe .... le mépris des biens publics (gaspillage ?) / gaspillage de nos sources de profit (kb 1/06 p.2)
 \dt 11/Nov/2007
 
@@ -10878,7 +10877,7 @@ contextes (cè modulé)
 \ps n
 \lt décentraliser-action
 \ge décentralisation
-\xv...ń'á bɛ́ màra cɛ́mabɔli kófɔ
+\xv ...ń'á bɛ́ màra cɛ́mabɔli kófɔ
 \xe (l'article de loi) qui instaure la décentralisation de l'administration (kb 5/06 p.9)
 \dt 11/Nov/2007
 
@@ -14125,7 +14124,7 @@ grandiflorus (gram)
 \sn 1
 \ge endroit
 \lt (endroit.bout)
-\xv...dákun ná
+\xv ...dákun ná
 \xe en ce qui concerne, sous le rapport de...
 \xv í tɛ́nɛmuso, í tɛ́ sé  kà ɲɛ́bɔ  ò fɛ̀  cɛ̀nimusoya dákun ná
 \xe la soeur de ton père, tu ne peux la convoiter sur le plan sexuel (inceste)
@@ -17309,7 +17308,7 @@ nouvelle, qc de pénible à rappeler, à dire, à demander ...)
 \xe comment s'appelle-t-il ?
 \xv í kó dì ?
 \xe qu'en dis-tu ?
-\xv...kó dì ?
+\xv ...kó dì ?
 \xe ... n'est-ce pas ?
 \dt 26/Sep/2006
 
@@ -22200,7 +22199,7 @@ choses)
 \ps n
 \sn 1
 \ge côté
-\xv...fàn fɛ̀
+\xv ...fàn fɛ̀
 \xe du côté de ... ; en ce qui concerne ...
 \xv fàn wɛ́rɛ fɛ̀
 \xe d'un autre côté, ailleurs
@@ -30909,7 +30908,7 @@ va gwɛ̀yin.ji
 \ps v
 \sn 1
 \ge exciter
-\ge(pour aller plus vite)
+\ge (pour aller plus vite)
 \sn 2
 \ge activer
 \dt 16/Aug/2006
@@ -35379,7 +35378,7 @@ va gwɛ̀yin.ji
 \ps v
 \sn 1
 \ge exciter
-\ge(pour aller plus vite)
+\ge (pour aller plus vite)
 \sn 2
 \ge activer
 \dt 16/Aug/2006
@@ -40816,7 +40815,7 @@ accompagnerait des danses de possession)
 \ee (poissons herbivores à petites écailles rugueuses) 
 \lt (eau.râpeux)
 \sy bínɲimi
-\\dt 26/Sep/2006
+\dt 26/Sep/2006
 
 \lx jí.rɔ.bana
 \ps n
@@ -44870,7 +44869,6 @@ hernies, kyste de l'ovaire...)
 \xe il n'y a plus que de la braise
 \sn 2
 \ge réduire à l'état de braise
-
 \dt 16/Aug/2006
 
 \lx kàmikami
@@ -45522,7 +45520,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 \ps v
 \ge parler
 \ge s'adresser à ...
-\xv...mà...yé
+\xv ...mà...yé
 \lt (voix.sortir)
 \dt 26/Sep/2006
 
@@ -46619,7 +46617,7 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un 
 
 \lx kàsaba
 \ue (bn)
-\gàsaba
+\va gàsaba
 \ps v
 \ge se hâter
 \dt 16/Aug/2006
@@ -47429,7 +47427,7 @@ frères, une même communauté
 \xe ils le soignent
 \xv à yé  síramugu dɔ́ɔnin kɛ́  à dá
 \xe il a mis un peu de poudre de tabac dans sa bouche
-\xv...kɛ́ kà...
+\xv ...kɛ́ kà...
 \xe utiliser, se servir de ...
 \xv bólokuru kɛ́ kà...
 \xe utiliser le poing pour ...
@@ -48335,7 +48333,6 @@ présent ou l'imparfait). Ainsi :
 \ps v
 \ge critiquer
 \ge attaquer indirectement qn
-
 \lt (à côté.couper)
 \sy kɔ́rɔmatigɛ
 \ue (bk)
@@ -51496,7 +51493,7 @@ on l'appelle "Nsan"
 \xe l'un derrière l'autre
 \xv táa kɔ́ fɛ̀
 \xe aller aux cabinets
-\xv...kɔ́ kàn
+\xv ...kɔ́ kàn
 \ge en dehors de ...
 \ge
 \ge derrière ...
@@ -52791,7 +52788,6 @@ cì i kàn
 \ps adj/n
 \sn 1
 \ge mal.intentionné
-
 \ge qui pense du mal des autres
 \lt (intérieur.mauvais)
 \sn 2
@@ -55912,7 +55908,7 @@ rochers)
 \ge cause
 \ge besoin
 \ge sujet ...
-\xv...kùn yé  mùn yé ?
+\xv ...kùn yé  mùn yé ?
 \xe quelle en est la cause ?
 \xv ò kùn tɛ́ bìlen
 \xé í ń'y á plú dé móti, cé ń'é plú lá péine
@@ -57728,7 +57724,7 @@ traduction par "baptême" se généralise, même chez les musulmans)
 \sn 1
 \ge vitalité 
 \ge constitution physique
-\xv...à kùnma ká dɔ́gɔ
+\xv ...à kùnma ká dɔ́gɔ
 \xe il est chétif
 \lt (tête.rapport)
 \sn 2
@@ -59468,7 +59464,7 @@ ligne)
 \ge divulguer
 \ge répandre
 \ge propager
-\xv...lákali...yé
+\xv ...lákali...yé
 \xe annoncer qc à qn
 \dt 26/Sep/2006
 
@@ -62638,7 +62634,7 @@ portent maintenant des culottes à élastique)
 \lx lògomi
 \ps n
 \ge polyptère 
-\ge(sorte de poisson)
+\ge (sorte de poisson)
 \ge Polypterus endicheri
 \ee ---> 75 cm (jaune, verdâtre) 
 \sy sàjɛgɛ
@@ -64657,7 +64653,7 @@ toutes les "mères" de la grande famille)
 \ps n
 \sn 1
 \ge onchocercose 
-\ge(cécité des rivières)
+\ge (cécité des rivières)
 \sn 2
 \ge débilité mentale
 \ee (se dit de plusieurs maladies provoquant une déchéance physique)
@@ -65687,7 +65683,7 @@ toutes les "mères" de la grande famille)
 \va má.ŋala
 \ps n
 \ge Dieu
-\ge_(un des titres de)
+\ge (un des titres de)
 \ge Seigneur Dieu
 \lt (Seigneur.Dieu)
 \dt 16/Aug/2006
@@ -70118,7 +70114,6 @@ p.7)
 \lx námara
 \ps v
 \ge voler
-
 \ge être malhonnête envers ...
 \xv à yé  né námara
 \xe il m'a volé
@@ -72728,7 +72723,7 @@ p.7)
 \lx nì
 \va ɲì
 \ps n
-\\ge par
+\ge par
 \xv nì dòn
 \xe participer à ...
 \xv nì bɔ́
@@ -73719,7 +73714,7 @@ p.7)
 \rem Cas / remède du kòbòli
 \dt 11/Nov/2007
 
-﻿\lx nkànfulori
+\lx nkànfulori
 \ps n
 \ge écart
 \ge espace entre les dents
@@ -74053,9 +74048,9 @@ p.7)
 
 \lx nkɛ́ɛrɛn-ná-dà
 \ps n
-\geherbe. Hibiscus.panduriformis
+\ge herbe.Hibiscus.panduriformis
 \ge plantes herbacées
-\lt (grillon-du- chanvre)
+\lt (grillon-du-chanvre)
 \sn 1
 \ge Hibiscus panduriformis
 \sd malv
@@ -76713,7 +76708,7 @@ p.7)
 \ge héron.pourpré
 \ge oiseau
 \ge Ardea purpurea
-\ee	(perche peu dans les arbres)
+\ee (perche peu dans les arbres)
 \dt 26/Sep/2006
 
 \lx ntána
@@ -80623,7 +80618,7 @@ ge s'exiler
 \lt (devant.par.aller)
 
 \lx ɲɛ́fíli-fìli
-\va ɲɛ́flí-flì
+\va ɲɛ́flí-flì
 \ph [flifli]
 \ps v
 \ge jeter.un.coup.d'oeil.par.ci.par.là
@@ -88502,7 +88497,7 @@ ge s'exiler
 \xe réellement, en vérité, sérieusement
 \xv à b'á sɛ̀bɛ lá
 \xe il est bien décidé, il ne blague pas
-\xv...dòn  sɛ̀bɛ lá
+\xv ...dòn  sɛ̀bɛ lá
 \xe prendre au sérieux qc
 \sn 2
 \ge en grande quantité
@@ -90614,7 +90609,7 @@ veillées de deuil, des veillées de fête de mariage ...)
 \ge perspective
 \ge occasion
 \ge coïncidence
-\xv...síratigɛ lá
+\xv ...síratigɛ lá
 \xe à propos de ..., en ce qui concerne ..., à l'occasion de
 \dt 26/Sep/2006
 
@@ -90714,7 +90709,7 @@ veillées de deuil, des veillées de fête de mariage ...)
 \sn 1
 \ge corde pour attacher
 \lt (lier.corde)
-\xv...sìrijuru gɛ̀lɛya
+\xv ...sìrijuru gɛ̀lɛya
 \xe amener des complications [fig] 
 \sn 2
 \ge sortilège
@@ -97687,7 +97682,7 @@ ps v
 \lx tìle.rɔ
 \ps v
 \sn 1
-\offrir.le.diner
+\ge offrir.le.diner
 \ge offrir le repas de midi à qn
 \lt (soleil.moment)
 \xv à yé  án tìlerɔ ní  sàga kélen yé
@@ -97775,7 +97770,7 @@ ps v
 \ge bonne.application
 \ge bonne assiduité
 \lt (application.bonté)
-\xv...kɛ́ ní  tíminandiya yé : s'ápplique à...
+\xv ...kɛ́ ní  tíminandiya yé : s'ápplique à...
 \dt 26/Sep/2006
 
 \lx tími.nan.di.ya
@@ -99718,7 +99713,7 @@ ps v
 \xe il entend tout, il comprend tout
 \xv màmuso y'á lámɔ, à túlo gɛ̀lɛyara
 \xe sa grand'mère l'a élevé, il est devenu indocile
-\xv...dá  màa túlo kàn
+\xv ...dá  màa túlo kàn
 \xe annoncer qc à qn
 \sn 2
 \ge chien d'un fusil (tulo et non pas ntulo)
@@ -100124,7 +100119,7 @@ ps v
 \ge heure
 \sy wáati
 \sy wágati
-\xv...tùma mín ná
+\xv ...tùma mín ná
 \xe lorsque, au moment où ... 
 \sn 2
 \ge temps
@@ -100738,7 +100733,7 @@ ps v
 \va wàga.ba
 \ps n
 \ge herbe.Andropogon.gayanus
-\geAndropogon gayanus gayanus
+\ge Andropogon gayanus gayanus
 \ge grande herbe ---> 3 m
 \lt ('waga'.grand)
 \sd gram
@@ -103880,7 +103875,7 @@ ps v
 \ge introduit une appellation ou une phrase explicative
 \xv à tɔ́gɔ yé kó  Nsàn
 \xe Il s'appelle Nsan (son nom est : Nsan)
-\xv...ò yé kó : wári tɛ́ ń fɛ̀
+\xv ...ò yé kó : wári tɛ́ ń fɛ̀
 \xe .... c'est que je n'ai pas d'argent
 \dt 26/Sep/2006
 
@@ -105040,7 +105035,7 @@ dumunikɛyɔrɔ la
 \sn 3
 \ge moment
 \ge temps
-\xv...yɔ́rɔ mín ná
+\xv ...yɔ́rɔ mín ná
 \xe au moment où ...
 \xv í nà  yɔ́rɔ sɔ̀rɔ  kà nà wá ?
 \xe trouveras-tu le temps de venir ?
