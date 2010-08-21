@@ -39,7 +39,6 @@
 \ge surprise : ah !
 \dt 16/Aug/2006
 \sn 2
-\ps intj
 \ge réticence : ah ! [très bref]
 \dt 03/oct./2006
 
@@ -389,6 +388,7 @@ lt (Dieu.à.don)
 \lt (Dieu.voie)
 
 \lx ála.sira
+\ps n
 \sn 1
 \ge espace.entre.les.dents
 \xv álasira bɛ́  kàrisa lá
@@ -14677,7 +14677,7 @@ grandiflorus (gram)
 \dt 16/Aug/2006
 
 \lx dáma
-\ps
+\ps adv
 \ge seulement
 \sy dɔ́rɔn
 \xv ò dáma tɛ́
@@ -23813,7 +23813,6 @@ totalement inconnu même à Kolokani)
 \lx féwu
 \va fyéwu
 \ps adv
-\ps onomat
 \ge complètement
 \sm (au positif)
 \ge tout à fait
@@ -37439,7 +37438,8 @@ sous un arbre (dicton)
 \ge télé
 \sy téle
 \dt 11/Nov/2007
-﻿\lx jàba.ba
+
+\lx jàba.ba
 \ps n
 \ge oignon
 \ee (opposé à échalotte)
@@ -42070,7 +42070,7 @@ bâtiment
 \cf jùbe
 \cf jùme
 \ue (f)
-\ps
+\ps n
 \ge cheval
 \ge cheval.à.tête.et.poitrail.noirs
 \dt 16/Aug/2006
@@ -48545,7 +48545,7 @@ présent ou l'imparfait). Ainsi :
 \dt 26/Sep/2006
 
 \lx kɛ́.n.kɔnɔ
-\ps 
+\ps n
 \ge poison
 \lt (mettre.moi.dans)
 \sy dònnkɔnɔ
@@ -71225,7 +71225,6 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nège.bɔ
-\va
 \ps n
 \lt envie-ôter
 \sn 1
@@ -71302,7 +71301,7 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nège.bɔ
-\ps
+\ps v
 \ge dégoûter
 \ge inspirer du dégoût à ...la (en avoir ras le bol)
 \lt (désir.enlever)
@@ -80918,7 +80917,7 @@ ge s'exiler
 \dt 16/Aug/2006
 
 \lx ɲɛ́.mìnɛ
-\ps vtw
+\ps v
 \ge prévoir
 \sn 1
 \ge cacher les yeux
@@ -92149,7 +92148,8 @@ sìtànɛ̀màko la
 \lt (maison.rat voleur)
 
 \lx sɔ̀gɔ
-\ps swà
+\ps v
+\va swà
 \sn 1
 \ge percer
 \ge piquer
@@ -95166,7 +95166,7 @@ sìtànɛ̀màko la
 
 \lx tàare
 \ps intj
-ge bonne.surprise
+\ge bonne.surprise
 \ge bienvenue !
 \ge quelle bonne surprise !
 \sy tàbarikala
