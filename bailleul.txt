@@ -3572,7 +3572,6 @@ gâteries)
 \lt application-absence
 \ge inconstance
 \ge manque de sérieux, d'application, de fermeté ...
-\sy
 \rem bz, mol / l 89 : frivolité  du : agitation, énervement, instabilité
 \dt 11/Nov/2007
 
@@ -8926,7 +8925,6 @@ on peut les multiplier de bouture, à plat, les racines démarrent au niveau des
 \ps ptcp
 \lt sortant
 \ge sortant
-\sy
 \xv í bɔ́tɔ fílɛ kà mín fɔ́...
 \xe ce que tu viens de dire (d'entendre ...)
 \rem f, Jos
@@ -12868,7 +12866,6 @@ grandiflorus (gram)
 \ge incessant
 \ge sans fin, perpétuel, immuable
 \xv bòli dábilabali, sènduman bɛ́ mìnɛ ò lá (1753) / làada dábilabali
-\xe
 \xv í tɛ́ fúnun dábilabali kɛ́
 \xe ta colère ne dura pas toujours (Mi 7, 18)
 \dt 11/Nov/2007
@@ -14520,7 +14517,6 @@ grandiflorus (gram)
 \dt 26/Sep/2006
 
 \lx dá.la.sìgi
-\va
 \ps v
 \lt abord-s'installer
 \ge assiéger
@@ -19670,7 +19666,6 @@ pratiques magiques (de protection)
 \lx dɔ́rɔgu.ta.la
 \va drɔ́gu.ta.la
 \ph [dr]
-\va
 \ps n
 \lt drogue-prendre-celui qui
 \ge drogué
@@ -20391,7 +20386,6 @@ meurs !
 \dt 16/Aug/2006
 
 \lx dúmuni.bali.ya
-\va
 \ps n
 \lt nourriture-absence
 \ge jeûne
@@ -20958,7 +20952,6 @@ cmavec de chaque côté une ailette étroite, à l'intérieur une ou deux  grain
 \dt 16/Aug/2006
 
 \lx dùsu.la.fili.ba
-\va
 \ps n
 \lt affliction-grande
 \ge affliction
@@ -21597,7 +21590,6 @@ choses)
 \dt 26/Sep/2006
 
 \lx fà.bulon.da
-\va
 \ps n
 \lt père-famille
 \sn 1
@@ -21919,7 +21911,6 @@ choses)
 \dt 26/Sep/2006
 
 \lx fàlen.ni
-\va
 \ps n
 \lt échanger-action de
 \sn 1
@@ -21991,7 +21982,6 @@ choses)
 \dt 16/Aug/2006
 
 \lx fàli.den
-\va
 \ps n
 \lt âne-petit
 \ge ânon
@@ -22004,7 +21994,6 @@ choses)
 \dt 26/Sep/2006
 
 \lx fàli.gɛn.den
-\va
 \ps n
 \lt âne-mener-personne
 \ge ânier
@@ -22021,7 +22010,6 @@ choses)
 \dt 16/Aug/2006
 
 \lx fàli.kɛ
-\va
 \ps n
 \lt âne-mâle
 \ge âne
@@ -22036,7 +22024,6 @@ choses)
 \dt 19/Aug/2006
 
 \lx fàli.muso
-\va
 \ps n
 \lt âne-femelle
 \ge anesse
@@ -22087,7 +22074,6 @@ choses)
 \lx fálo
 \va fálon
 \ps v
-\ge
 \ge sarcler.avec.pioche
 \dt 16/Aug/2006
 
@@ -22116,7 +22102,6 @@ choses)
 \dt 26/Sep/2006
 
 \lx fà.misɛn
-\va
 \ps n
 \lt père-petit
 \ge petit.frère.du.père
@@ -22434,7 +22419,6 @@ choses)
 \dt 11/Nov/2007
 
 \lx fáɲa.len.ya
-\va
 \ps n
 \lt rebelle-suf abs
 \ge rébellion
@@ -22546,7 +22530,6 @@ choses)
 \dt 11/Nov/2007
 
 \lx fàra.fín.fùra.bɔ́.la
-\va
 \ps n
 \lt remède africain-fournir-celui qui
 \ge tradipraticien
@@ -22724,7 +22707,6 @@ choses)
 \dt 26/Sep/2006
 
 \lx fàrati.bali
-\va
 \ps ptcp
 \lt risque-sans
 \ge prudent
@@ -22949,7 +22931,6 @@ totalement inconnu même à Kolokani)
 \lt (corps.amusement)
 
 \lx fàri.la.si
-\va
 \ps n
 \lt corps-sur-poil
 \ge poil
@@ -23216,7 +23197,6 @@ totalement inconnu même à Kolokani)
 \dt 26/Sep/2006
 
 \lx fàsa.bana
-\va
 \ps n
 \lt maigrir-maladie
 \ge 'marasme'
@@ -23344,7 +23324,6 @@ totalement inconnu même à Kolokani)
 \dt 11/Nov/2007
 
 \lx fà.so.la.mɔgɔ
-\va
 \ps n
 \lt patrie-de-gens
 \sn 1
@@ -23412,7 +23391,6 @@ totalement inconnu même à Kolokani)
 \dt 16/Aug/2006
 
 \lx fà.ya
-\va
 \ps n
 \lt père-suf abs
 \ge paternité
@@ -24044,7 +24022,6 @@ dans lesquelles on trait les vaches)
 \dt 15/Aug/2006
 
 \lx fɛ́n.kɛ.bali
-\va
 \ps ptcp
 \lt qc-faire-nég
 \ge fainéant
@@ -24810,7 +24787,6 @@ de différentes longueurs)
 \dt 26/Sep/2006
 
 \lx fìli.bali
-\va
 \ps ptcp
 \lt erreur-sans-
 \ge infaillible
@@ -25009,7 +24985,6 @@ de différentes longueurs)
 \dt 26/Sep/2006
 
 \lx fìni.bugu
-\va
 \ps n
 \lt tissu-maison
 \ge tente
@@ -25713,7 +25688,6 @@ de différentes longueurs)
 \dt 11/Nov/2007
 
 \lx fìyɛn.ntan
-\va
 \ps adj
 \lt défaut-sans
 \ge sans.défaut
@@ -26819,7 +26793,6 @@ maladie, sans l'avertir lui-même)
 \dt 26/Sep/2006
 
 \lx fɔ́lɔ.ya
-\va
 \ps n
 \lt premier-suf abs
 \ge droit.d'aînesse
@@ -26933,7 +26906,6 @@ maladie, sans l'avertir lui-même)
 \dt 16/Aug/2006
 
 \lx fɔ́ɔnɔ
-\va
 \ps n
 \ge vomissement
 \ge vomissure
@@ -28058,7 +28030,6 @@ maladie, sans l'avertir lui-même)
 \lx fúru.ɲɔgɔn.ya
 \ps n
 \lt mariage-voisin-suf abs
-\ge
 \sn 1
 \ge alliance.matrimoniale.traditionnelle
 \xv fúruɲɔgɔnya tɛ́ lájɛ túgunni
@@ -28555,7 +28526,6 @@ maladie, sans l'avertir lui-même)
 \lx gáda
 \va gádɛ
 \ps n
-\lt
 \ge traverse
 \ge qui (unit les côtés de la pirogue) et sert de siège
 \rem du + JP Delpech
@@ -29198,7 +29168,6 @@ maladie, sans l'avertir lui-même)
 \lx gàntugu
 \va gwàntugu
 \ph [gw]
-\va
 \ps n
 \lt feu- allumer
 \ge fournaise
@@ -29486,10 +29455,8 @@ maladie, sans l'avertir lui-même)
 \lt tort-qui fait
 \ge offensant
 \xv gàsimakuma / gàsimako...
-\xe
 \sn 2
 \ge vénéré
-\sy
 \xv à táara à kùndógo bàtoso gàsimaba dɔ́ kɔ́nɔ
 \xe il est allé se réfugier dans un temple très vénéré (2 Ch 4, 33)
 \dt 11/Nov/2007
@@ -30121,9 +30088,7 @@ de métal (prov)
 \dt 12/Aug/2006
 
 \lx gɛ̀lɛ.cɛ
-\va
 \ps n
-\lt
 \ge homme.stérile
 \ge (dont auucne femme n'a d'enfants)
 \ue (bk)
@@ -30313,7 +30278,6 @@ de métal (prov)
 \lx gɛ́n.ni.na
 \va gwɛ́n.ni.na
 \ph {gw]
-\va
 \ps n
 \lt paître-celui qui
 \ge berger
@@ -30578,7 +30542,6 @@ va gwɛ̀yin.ji
 \ue bk, bn
 \ps n
 \ge grande.foule
-\ge
 \ge grande fête
 \dt 26/Sep/2006
 
@@ -30680,7 +30643,6 @@ va gwɛ̀yin.ji
 \lx gírin.ya.li
 \ps n
 \lt devenir lourd-action
-\ge
 \sn 1
 \ge alourdissement
 \sn 2
@@ -31126,7 +31088,6 @@ t'en reparle pas
 \dt 26/Sep/2006
 
 \lx gòsi.tuma
-\va
 \ps n
 \lt saillir-moment
 \ge rut
@@ -31491,7 +31452,6 @@ t'en reparle pas
 
 \lx gùndo.la.fɔ
 \va gìndo.la.fɔ 
-\va
 \ps n
 \lt secret-en-dire
 \ge euphémisme
@@ -31821,7 +31781,6 @@ t'en reparle pas
 \dt 16/Aug/2006
 
 \lx hákili.la.bana
-\va
 \ps n
 \lt esprit-de l'-maladie
 \ge maladie.mentale
@@ -32173,7 +32132,6 @@ t'en reparle pas
 \dt 16/Aug/2006
 
 \lx hàrama.ya
-\va
 \ps n
 \lt menteur-suf abs
 \ge mensonge
@@ -32532,7 +32490,6 @@ t'en reparle pas
 \ps onomat
 \ge surprise.pénible
 \xv hóku kɔ́rɔ yé : kó(júgu) dɔ́ kɛ́ra
-\xe
 \rem l 89 (-bk,-bn)
 \dt 11/Nov/2007
 
@@ -33149,19 +33106,11 @@ mains ...)
 \dt 26/Sep/2006
 
 \lx jàkikuru
-\va
 \ps n
 \lt rachis ? -bosse
 \ge mal.de.Pott
 \sy dàn; dànkɔgɔdimi
 \sy dágɛkɔgɔdimi
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Jakité, (-Jos)
 \dt 11/Nov/2007
 
@@ -33257,14 +33206,6 @@ mains ...)
 \ps n
 \lt accuser-celui qui
 \ge accusateur
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jàlakibaliya
@@ -33272,28 +33213,14 @@ mains ...)
 \lt irééprochable-suf abs
 \ge innocence
 \va jàlakintanya
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jàlakintanya
 \ps n
 \lt innocent-suf abs
 \ge innocence
-\rf
 \xv mɔ̀gɔ mínnu tùn bɛ́ né ká jàlakintanya láfasa
 \xe ceux qui défendaient mon innocence (Ps 35, 27)
-\xn
-\ue
-\un
-\cf
-\ce
 \nt vérifier si irréprochabilité se trouve dans les gros dicos
 \dt 11/Nov/2007
 
@@ -33352,12 +33279,6 @@ mains ...)
 \sy jàlatigɛla
 \xv jàlatigɛbaa ká báara yé jùmɛn yé ?
 \xe quels sont les rôles de l'arbitre ? (kb 2/05 p.6)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jála.ji
@@ -33405,19 +33326,11 @@ mains ...)
 \dt 26/Sep/2006
 
 \lx jàlonjalon
-\va
 \ps n
-\lt
 \ge vagabondage
 \ue (Jó)
 \sy càloncalon
 \xv fúru jóona tɛ́ jàlonjalon sà (chán)
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
@@ -33458,19 +33371,9 @@ mains ...)
 \dt 16/Aug/2006
 
 \lx jàma.don.fini
-\va
 \ps n
 \lt fête-jour-habit
 \ge habit.de.fête
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx jàmadon.ya
@@ -33494,13 +33397,6 @@ mains ...)
 \ps n
 \lt pays-filiation
 \ge nationalité
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt Kb 11/06 p.1
 \dt 11/Nov/2007
 
@@ -33509,13 +33405,6 @@ mains ...)
 \lt pays-chef
 \ge président
 \sy jàmanatigi
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt Kb 11/06 p.3
 \dt 11/Nov/2007
 
@@ -33590,13 +33479,6 @@ mains ...)
 \sn 2
 \ge village de corvéables
 \sy súngurunbaso
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem 1/  Jos  2/ Mol  les sens sont plutôt éloignés, revoir ce qui est le plus connu en l'an 2000
 \dt 11/Nov/2007
 
@@ -33650,18 +33532,9 @@ acceptions)
 \dt 12/Aug/2006
 
 \lx jàn
-\va
 \ps n
-\lt
 \ge côté
-\sy
 \xv kó dúman tɛ́ jàn kélen ná ! / Ála k'í jàn bɛ́ɛ wɔ́ɔrɔ kɛ́nɛ tó !
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f, Tor : ne s'entend que dans les chants ou les bénédictions (-bk, -bn) / deux yeux, deux bras, deux jambes à bk = jòn : esclave !
 \dt 11/Nov/2007
 
@@ -33729,14 +33602,6 @@ acceptions)
 \ps n
 \lt traître-suf abs
 \ge trahison
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jànfa.nci
@@ -33866,7 +33731,6 @@ mariées)
 \dt 12/Aug/2006
 
 \lx jànto.ń.yɛ̀rɛ.la
-\va
 \ps n
 \lt veiller-moi-même-sur
 \sn 1
@@ -33874,15 +33738,8 @@ mariées)
 \ge circonspection ... / hygiène
 \sn 2
 \ge celui qui prend soin de soi-même
-\sy
 \xv jàntonyɛrɛla kɔ̀rɔko ká ɲì (2145)
 \xe l'homme prudent a une heureuse vieillesse
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx jàn.man.jan
@@ -34119,19 +33976,11 @@ mariées)
 \dt 12/Aug/2006
 
 \lx jàtigiya
-\va
 \ps v
 \lt logeur-suf abs
 \ge donner.l'hospitalité
-\sy
 \xv mɔ́gɔ sí má á játigiya á ká só kɔ́nɔ, síli káma (jg 19, 15)
 \xe personne ne les accueillit dans sa maison pour passer la nuit
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx jàtigi.faa.jiri
@@ -34227,18 +34076,10 @@ arbre)
 \dt 19/Aug/2006
 
 \lx jàye
-\va
 \ps n
 \lt image-voir
 \ge miroir
 \sy jàfilɛ
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, Jos
 \dt 11/Nov/2007
 
@@ -34392,18 +34233,9 @@ arbre)
 \ge hache
 
 \lx jélekala
-\va
 \ps n
 \lt hache-manche
 \ge manche.de.hache
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
@@ -34431,44 +34263,18 @@ arbre)
 \ge balafon.de.griot
 \xv jèlibala bɛ́ mànkan súguya 7 bɔ́, à ká cá Màli, Gíne, Sénegali
 \xe le balafon des griots a sept notes, on le trouve surtout au Mali, en Guinée au Sénégal (kb 7.05 p.9)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jèli.kɛ
-\va
 \ps n
 \lt griot-masculin
 \ge griot
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx jèli.muso
-\va
 \ps n
 \lt groit-féminin
 \ge griote
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx jèli.ba
@@ -34516,13 +34322,6 @@ arbre)
 \sn 2
 \ge marque au fer rouge du bétail
 \sy jèninida
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Mol, l 89
 \dt 11/Nov/2007
 
@@ -34673,14 +34472,6 @@ arbre)
 \lt discours-parole
 \ge termes.du.discours
 \ge texte d'une conférence / discours
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 / du
 \dt 11/Nov/2007
 
@@ -34695,35 +34486,18 @@ arbre)
 \ee (terme générique)
 
 \lx jɛ́gɛbere
-\va
 \ps n
 \lt poisson- ?
 \ge natte
 \ge natte cousue contenant du poisson sec
 \sy jɛ́gɛɲaga
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, Jos
 \dt 11/Nov/2007
 
 \lx jɛ́gɛma
-\va
 \ps adj
 \lt poisson-qui a
 \ge poissonneux
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos
 \dt 11/Nov/2007
 
@@ -34776,20 +34550,11 @@ arbre)
 \dt 16/Aug/2006
 
 \lx jɛ́lenya
-\va
 \ps n
 \lt clarifié-suf abs
 \ge clarté
 \ge propreté / (fig) innocence, loyauté, intégrité
-\sy
 \xv jɛ́lenya yé  kɛ́nɛya tàamasyɛn yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx jɛ̀makan
@@ -34798,27 +34563,11 @@ arbre)
 \ge accord.verbal
 \xv RPM ní RDT bólo, sɛ́bɛn ìn má tɛ́gɛnɔbila ní màliden jɛ̀makan yé...
 \xe selon le RPM et le RDT cet  'écrit' n' pas été signé avec l'accord du peuple malien ...(kb 1/06 p.3)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jɛ́mɛ
-\va
 \ps n
-\lt
 \ge porte-monnaie
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 porte-feuille / du : sacoche, giberne / traditionnel, vérifier fabrication
 \dt 11/Nov/2007
 
@@ -34886,18 +34635,8 @@ arbre)
 \dt 26/Sep/2006
 
 \lx jɛ̀njɛ
-\va
 \ps n
-\lt
 \ge drapeau
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, bn, bk  + armoirie, symbole
 \dt 11/Nov/2007
 
@@ -34925,14 +34664,6 @@ arbre)
 \lt compagnon-ami
 \ge camarade
 \ge partenaire
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jɛ̀ɲɔgɔn.ya
@@ -35166,79 +34897,36 @@ arbre)
 \sy kánari
 \xv Jíbolisira mín bɛ́ kà dílan Kála kɔ́rɔnyanfan fɛ̀
 \xe le canal qu'on est en train de creuser à l'est de Kala (kb  7/05 p.4)
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jí.bɔ.la
-\va
 \ps n
 \lt eau-puiser-celui qui
 \ge qui.puise.de.l'eau
 \sy jíbɔbaga
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx jí.bɔ.sira
-\va
 \ps n
 \lt eau-sortir-voie
 \ge tuyau
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du + Jos
 \dt 11/Nov/2007
 
 \lx jí.da
-\va
 \ps n
 \lt eau-bord
 \ge bord.de.l'eau
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, Jos
 \dt 11/Nov/2007
 
 \lx jí.daga
-\va
 \ps n
 \lt eau-canari
 \sn 1
 \ge jarre
 \sn 2
 \ge poche des eaux (anat)
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du + Jos
 \dt 11/Nov/2007
 
@@ -35251,18 +34939,9 @@ arbre)
 \dt 16/Aug/2006
 
 \lx jídon
-\va
 \ps n
 \lt eau-faire entrer
 \ge irrigation
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 (par canaux ?? Office du Niger ....
 \dt 11/Nov/2007
 
@@ -35320,20 +34999,8 @@ arbre)
 \ps adj
 \lt décourager-sujet
 \ge découragé
-\re
-\de
-\gn
-\rn
-\dn
-\rf
 \xv à bɛ́ jìgikaribagatɔ jìgi túgu
 \xe il redonne courage à ceux qui ont l'esprit abattu (Ps 34,19)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jìgila.mɔgɔ
@@ -35591,14 +35258,6 @@ arbre)
 \ps n
 \lt dans l'eau-reste-action
 \ge noyade
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jìn
@@ -35622,19 +35281,11 @@ arbre)
 \dt 26/Sep/2006
 
 \lx jínɛ.ɲama
-\va
 \ps n
 \lt jinn-maléfice
 \ge causes.des.cris.de.l'enfant 
 \ge toutes les causes des cris incessants de l'enfant
 \sy jínɛbana ?
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Jakité, Jos
 \dt 11/Nov/2007
 
@@ -35710,34 +35361,17 @@ arbre)
 
 \lx jínjinbere
 \es {fr}
-\va
 \ps n
-\lt
 \ge gingembre
 \sy ɲámaku
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, Jos ...(-bn)
 \dt 11/Nov/2007
 
 \lx jíɲɛ
-\va
 \ps n
 \lt eau-devant
 \ge chemin.d'écoulement.des.eaux.de.pluie
-\sy
 \xv ní sánji cáman nàna kà tága bá kɔ́nɔ, jɛ́gɛ bɛ́ yɛ̀lɛn jíɲɛ fɛ̀ (dú)
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du, bk, bn, Jos
 \dt 11/Nov/2007
 
@@ -35777,20 +35411,10 @@ arbre)
 \dt 26/Sep/2006
 
 \lx jíripanparan
-\va
 \ps n
 \lt bois-planche
 \ge planche
 \ge traverse
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx jíri.baara.la
@@ -35874,9 +35498,7 @@ arbre)
 \ps n
 \ge pic
 \ge Campethera ...
-\ge
 \ge Dendropicos ...
-\ge
 \ge Mesopicos ...)
 \ee (oiseaux arboricoles, grimpeurs, chassent les insectes du bois)
 \lt (arbre.taper)
@@ -36534,18 +36156,10 @@ mollusques ...)
 \dt 16/Aug/2006
 
 \lx jòli.bɔ.sira
-\va
 \ps n
 \lt sang-sortir-voie
 \ge artère
 \sy jòlibilensira
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du / en soi peut se dire aussi des veines
 \dt 11/Nov/2007
 
@@ -36767,14 +36381,6 @@ mollusques ...)
 \ps n
 \lt droit-propriété
 \ge le.bon.droit
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jò.baatɔ
@@ -36915,13 +36521,6 @@ mollusques ...)
 \ge espion
 \xv Né ɲɛ́ yé né jɔ̀jɔlibaga yé kà à lása,
 \xe mon oeil repère ceux qui m'espionnent (Ps 92, 12)
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jɔ̀jɔlima
@@ -36938,12 +36537,6 @@ mollusques ...)
 \sy jɔ̀kɔlɔsibaga
 \xv bɛ́ɛ b'á kàla mà, Máli jɔ̀kɔlɔsila fána mán ɲì
 \xe Tous sont au courant que le gardien de but du Mali n'est pas bon (kb 9/04 p.11) (kb 3/05 p.12)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jɔ̀len
@@ -37028,14 +36621,6 @@ mollusques ...)
 \ps n
 \lt esclave-vente
 \ge esclavage
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx jɔ̀ngɔ́mɔ
@@ -37090,20 +36675,10 @@ mollusques ...)
 \dt 16/Aug/2006
 
 \lx jɔ̀nyabaara
-\va
 \ps n
 \lt esclavage-travail
 \ge travail.d'esclave
 \ge corvée d'esclave, esclavage
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx jɔ̀n.foro
@@ -37229,9 +36804,7 @@ mollusques ...)
 \ps v
 \ge presser
 \ge serrer
-\ge
 \ge bourrer (un fusil)
-\ge
 \ge colmater (une brèche)
 \xv ɲɛ́najɛyɔrɔ lá, mɔ̀gɔ jɔ́sɔnnen ɲɔ́gɔn kàn
 \xe au spectacle, les gens sont pressés les uns sur les autres
@@ -37381,7 +36954,6 @@ bâtiment
 \xv jù fɛ̀
 \xe en bas, en contrebas
 \ge le bout d'un champ ...
-\ge
 \ge la crosse d'un fusil
 \ge le pied d'un arbre
 \xv jíriju bɔ̀
@@ -37646,19 +37218,10 @@ bâtiment
 \lt (débauché.suf abs)
 
 \lx jùlakan
-\va
 \ps n
 \lt Jula-langue
 \ge langue.dioula
 \ge langue 'jula' dialecte du mandingue, parlé en Côte d'Ivoire et en Haute-Volta
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l  89
 \dt 11/Nov/2007
 
@@ -38245,14 +37808,8 @@ l'étranger en disant :  l'eauest prête
 \lt païen-suf abs
 \ge paganisme
 \ge paganisme, animisme, mécréance
-\sy
 \xv káafiriya dè yé ɲùmandɔnbaliya yé
-\xe
 \xv Ála kó : án kàna káafiriya
-\ue
-\un
-\cf
-\ce
 \rem du, Tor, bk
 \rem l 89, du, Tor, bk
 \dt 11/Nov/2007
@@ -38461,12 +38018,6 @@ l'étranger en disant :  l'eauest prête
 \ge générosité au service de ...
 \xv  kà táama ní káarilenya yé Díyɛnbɛɛtigi Ála ɲɛ́ kɔ́rɔ, ò bɛ́ mùn ɲɛ̀?
 \xe vous dites : à quoi bon marcher avec générosité devant le Dieu de l'univers ?
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx káarinci.ya
@@ -38937,18 +38488,8 @@ l'étranger en disant :  l'eauest prête
 
 \lx káfe
 \es (fr: café}
-\va
 \ps n
-\lt
 \ge café
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du, Jos ...
 \dt 11/Nov/2007
 
@@ -39148,35 +38689,18 @@ l'étranger en disant :  l'eauest prête
 \dt 26/Sep/2006
 
 \lx kálabonna
-\va
 \ps n
 \lt arc-lancer-celui qui
 \ge archer
-\sy
 \xv kálabonnaŋana /
 \xe archer d'élite
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kàlada
-\va
 \ps n
 \lt paille-poser
 \ge tirage.au.sort 
 \sy kàladali
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kàlafili
@@ -39186,12 +38710,6 @@ l'étranger en disant :  l'eauest prête
 \sy kàlafiliko
 \xv kàlafili bɛ́na kɛ́ Líberiya sán 2005 ɔ́kutɔburukalo tìle 11
 \xe des élections auront lieu au Liberia le 11 octobre 2005 (kb 2/05 p.8)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kálaka
@@ -39219,19 +38737,9 @@ l'étranger en disant :  l'eauest prête
 \dt 16/Aug/2006
 
 \lx kála.li.kɛ.mansin
-\va
 \ps n
 \lt couture-faire-machine
 \ge machine.à.coudre
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kálali.kɛ.la
@@ -39336,26 +38844,12 @@ l'étranger en disant :  l'eauest prête
 \ge livre de classe
 \xv kàlangafe bɛ́ fàamuyali téliya
 \xe les livres de lecture accélèrent la compréhension (kb 12/05 p.7)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kàlan.jɛ.gafe
 \ps n
 \lt lecture-livre
 \ge livre.de.lecture
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kàlan.ko
@@ -39365,12 +38859,6 @@ l'étranger en disant :  l'eauest prête
 \ge éducation (nationale)
 \xv ò wári nà dòn  kàlanko dá fɛ̀
 \xe cett somme sera investie dans l'Education (Kb 9/06 p.1)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kálan.man
@@ -39404,30 +38892,12 @@ l'étranger en disant :  l'eauest prête
 \ps n
 \lt étude-prendre
 \ge reprise.colaire
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kàlan.yɔrɔ.kɛnɛ
-\va
 \ps n
 \lt école-espace libre
 \ge cour.d'école
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kàlan.baa
@@ -39550,40 +39020,22 @@ l'étranger en disant :  l'eauest prête
 \dt 16/Aug/2006
 
 \lx kàlata
-\va
 \ps n
 \lt paille-prendre
-\ge
 \sn 1
 \ge tirage.au.sort
-\sy
 \xv kálata bɛ́na kɛ́ jámana tílali lá (nb 26, 55)
 \xe c'est par tirage au sort que se fera le partage du pays
 \sn 2
 \ge élection / vote ?
 \xv sán 2007 kàlata bɛ́ lábɛn  sáriya kúra tàlen nìnnu húkumu kɔ́nɔ
 \xe les élections de 2007 seront organisées dans le cadre de ces nouvelles lois (Kb 8/06 p.1)
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kála.tigi
-\va
 \ps n
 \lt arc-qui a
 \ge archer
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kála.baanci
@@ -39813,14 +39265,6 @@ l'étranger en disant :  l'eauest prête
 \ps n
 \lt plume-tige
 \ge porte-plume
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du
 \dt 11/Nov/2007
 
@@ -39835,22 +39279,12 @@ hernies, kyste de l'ovaire...)
 \dt 26/Sep/2006
 
 \lx káliya bɔ́ta
-\va
 \ps n
 \lt hernie-qui sort
 \sn 1
 \ge hydrocèle
 \sn 2
 \ge cystocèle des femmes : prolapsus utérin
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx káliya.bonbon
@@ -39870,16 +39304,8 @@ hernies, kyste de l'ovaire...)
 \lx káli-káli
 \va káli
 \ps onomat
-\lt
 \ge très.fort
 \sy káti
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du 87, jos (-bk)
 \dt 11/Nov/2007
 
@@ -39917,18 +39343,9 @@ hernies, kyste de l'ovaire...)
 \dt 26/Sep/2006
 
 \lx kálo.dibi
-\va
 \ps n
 \lt lune-ténèbres
 \ge nuit.sombre
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 (quand la lune est dans l'ombre)
 \dt 11/Nov/2007
 
@@ -40492,14 +39909,6 @@ hernies, kyste de l'ovaire...)
 \ps n
 \lt langue-2-comprendre-celui qui
 \ge bilingue
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kàngaran
@@ -40577,14 +39986,6 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \ge avertissement
 \sy kànkaridalikan
 \sy kànkarimadakan
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kànkarimadakan
@@ -40593,13 +39994,6 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \ge avertissement
 \sy kànkaridalikan
 \sy kànkaridakan
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt kb 1/05 p6
 \dt 11/Nov/2007
 
@@ -40612,70 +40006,33 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \dt 26/Sep/2006
 
 \lx kánkɔrɔtalan
-\va
 \ps n
 \lt voix-soulever-qui sert à
 \ge haut-parleur
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
 \lx kánmɛnbali
-\va
 \ps ptcp
 \lt langue-comprendre-nég
 \sn 1
 \ge qui.ne.comprend.pas.telle.langue
 \sn 2
 \ge désobéissant
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kánmuguli
-\va
 \ps n
 \lt cou-luxation
 \ge torticolis
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem mol
 \dt 11/Nov/2007
 
 \lx kànni.kɛ.tuma
-\va
 \ps n
 \lt fauche-moment
 \ge moisson
 \sy kànnituma
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kánntan.ya
@@ -40735,12 +40092,8 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \ps v
 \lt cou-couper
 \ge égorger
-\sy
 \xv syɛ̀ bɛ́ kántigɛ ní fúruyiidikuma yé
 \xe on sacrifie la poule avec des bénédictions de prospérité pour le mariage
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kànu
@@ -40769,12 +40122,6 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \sy kànuɲɔgɔnman
 \xv kànuɲɔgɔnman cɛ́kɛlɛ
 \xe dispute entre des amants (LD p.28)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kànu.baa
@@ -41627,12 +40974,6 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \ge livre.du.maître
 \xv ò mísali ìn bɔ́ra kàramɔgɔdegesɛbɛn kɔ́nɔ...
 \xe cet exemple est tiré du livre du maître ... (kb 8/04 p.8)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kàramɔgɔ.kɛ
@@ -41668,12 +41009,6 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \ge souci
 \xv káran kɛ́ra kó fìla mà : kàlan àni kɛ́nɛyako
 \xe on s'est préoccupé de deux choses : de l'instruction et de la santé (kb 9/04 p.5)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kàrangafe
@@ -41694,19 +41029,12 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \dt 16/Aug/2006
 
 \lx kárankarantɔ
-\va
 \ps adj/n
 \lt risquer-sujet
 \ge téméraire
 \ge étourdi jusqu'à l'imprudence
 \sy kárankarannci
 \xv fà tɛ́ kárankarantɔ lá, ká à t'í yɛ̀rɛ kɔ̀lɔsi
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
@@ -41816,7 +41144,6 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \dt 26/Sep/2006
 
 \lx kári.li
-\va
 \ps n
 \lt casser-action
 \sn 1
@@ -41824,14 +41151,6 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \ge brisement 
 \sn 2
 \ge cueillette
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem mol
 \dt 11/Nov/2007
 
@@ -42149,19 +41468,11 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \dt 16/Aug/2006
 
 \lx kàso.la.don.ni
-\va
 \ps n
 \lt prison-faire entrer-action
 \ge incarcération
-\sy
 \xv né má (kó) fóyi kɛ́ mín ká kán ní kàsoladonni yé (gn 40, 15)
 \xe je n'ai rien fait qui mérite la prison
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kàsonka
@@ -42318,18 +41629,9 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 
 \lx kàye
 \es {fr : cahier}
-\va
 \ps n
-\lt
 \ge cahier
 \sy káyeti
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Jos / l 89, du
 \dt 11/Nov/2007
 
@@ -42495,19 +41797,10 @@ carène qui les fait plier vers le dos; un exemplaire tué venait d'avaler un pe
 \dt 16/Aug/2006
 
 \lx kélennato
-\va
 \ps n
 \lt tout seul-rester
 \ge solitude
 \ge isolement, exclusion
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -42569,14 +41862,6 @@ frères, une même communauté
 \ps adj/n
 \lt ^étre jaloux-sujet
 \ge jaloux
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du
 \dt 11/Nov/2007
 
@@ -42783,19 +42068,9 @@ présent ou l'imparfait). Ainsi :
 \dt 16/Aug/2006
 
 \lx kɛ́.bali.ya
-\va
 \ps n
 \lt non fait-auf abs
 \ge omission
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kɛ̀ɛ́
@@ -42831,19 +42106,11 @@ présent ou l'imparfait). Ainsi :
 \dt 19/Aug/2006
 
 \lx kɛ́kun
-\va
 \ps n
 \lt faire-motif
 \ge raison
 \ge le motif d'une action
-\sy
 \xv í kɛ́kun'à gòsi ? = í b'á gòsi mùn ná ?
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, f
 \dt 11/Nov/2007
 
@@ -42910,29 +42177,12 @@ présent ou l'imparfait). Ainsi :
 \ps n
 \lt guerre-faire-char
 \ge char.de.guerre
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɛ̀lɛ.kun.tigi
-\va
 \ps n
 \lt guerre-chef
 \ge chef.de.guerre 
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -42955,33 +42205,15 @@ présent ou l'imparfait). Ainsi :
 \dt 16/Aug/2006
 
 \lx kɛ̀lɛ.ŋana
-\va
 \ps n
 \lt guerre-as
 \ge soldat.d'élite
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kɛ̀lɛ.tɔnɔ
 \ps n
 \lt guerre-profit
 \ge butin.de.guerre
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɛ̀lɛ.baa
@@ -43153,12 +42385,6 @@ présent ou l'imparfait). Ainsi :
 \ge pourcentage
 \xv kɛ̀mɛsarada lá, fòro 40 yé ɲɔ̀foro yé...
 \xe en pourcentage, 40% des champs (détruits par les sauterelles) sont des champs de mil (kb 10/04 p.1)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɛ́mɛsu
@@ -43299,12 +42525,6 @@ présent ou l'imparfait). Ainsi :
 \xe ma blessure est incurable /
 \xv Mátigi Ála yé kɔ́nɔdimijuguba kɛ́nɛyabali bìla à lá
 \xe Le Seigneur frappa encore Joram d'une maladie intestinale incurable (2 Ch 21, 18)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɛ́nɛ.ba
@@ -43597,14 +42817,6 @@ présent ou l'imparfait). Ainsi :
 \ge silex
 \ge pierre à feu
 \sy kɛ̀rɛbɔfara
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɛ̀rɛfɛkuma
@@ -43612,14 +42824,6 @@ présent ou l'imparfait). Ainsi :
 \lt à côté-parole
 \ge chuchotement
 \ge propos en aparté, messe basse
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɛ̀rɛfɛmɔgɔ.ya
@@ -43679,18 +42883,9 @@ présent ou l'imparfait). Ainsi :
 \dt 16/Aug/2006
 
 \lx kɛ̀rɛ́sàba
-\va
 \ps n
 \lt côté- trois
 \ge triangle
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du : vérifier la partie tonale
 \dt 11/Nov/2007
 
@@ -44014,13 +43209,6 @@ petites bandes à la queue leu-leu en jacassant)
 \lt testicule-sac
 \ge bourses
 \sy kílibara
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt LD p.14
 \dt 11/Nov/2007
 
@@ -44485,12 +43673,6 @@ petites bandes à la queue leu-leu en jacassant)
 \ge sans profit, vain
 \xv Mɔ̀gɔjugu bɛ́ tɔ̀nɔ kìsɛntan sɔ̀rɔ
 \xe le méchant recueille un décevant profit (Pr 11, 18)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kìsɛ.kelen.fili
@@ -44789,19 +43971,10 @@ que ..., dans l'intention de ...)
 \dt 26/Sep/2006
 
 \lx kógɛlɛn
-\va
 \ps n
 \lt affaire-difficile
 \ge affaire.importante
 \ge difficulté
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem ex 18, 26
 \dt 11/Nov/2007
 
@@ -44892,14 +44065,6 @@ que ..., dans l'intention de ...)
 \lt lavage-récipient
 \ge bassin
 \ge cuve, baignoire ...
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kòli.fu
@@ -45000,20 +44165,14 @@ que ..., dans l'intention de ...)
 \dt 26/Sep/2006
 
 \lx kólobali
-\va
 \ps ptcp
 \lt dresser-nég
 \ge incorrigible
 \ge indomptable, indocile, non dompté, non dressé, sans éducation (barbare)
-\sy
 \xv Zákɔbu kɔ́lɛ bɔ́len síya kólobali cɛ́ lá
 \xe quand la famille de Jacob quitta un peuple barbare (Ps 114, 1)
 \xv Í kàna dénmisɛn kólobali tó
 \xe n'hésite pas à corriger un enfant (Pr 23, 13)
-\ue
-\un
-\cf
-\ce
 \rem Mol
 \dt 11/Nov/2007
 
@@ -45030,19 +44189,11 @@ que ..., dans l'intention de ...)
 \dt 26/Sep/2006
 
 \lx kóloden
-\va
 \ps n
 \lt os-élément
 \ge petit.os
 \ge osselet
 \sy kólonin
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du + Jos
 \dt 11/Nov/2007
 
@@ -45051,20 +44202,8 @@ que ..., dans l'intention de ...)
 \lt texture-lourde
 \ge important
 \sy kólogirin
-\re
-\de
-\gn
-\rn
-\dn
-\rf
 \xv Zónasi kìbaro bɛ́ tìyɛnkuma kólogirinman dɔ́ jìra
 \xe l'histoire de Jonas nous montre des vérités importantes
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kólogirin.ya
@@ -45157,18 +44296,9 @@ piège)
 \dt 16/Aug/2006
 
 \lx kólokunba
-\va
 \ps adj/n
 \lt articulation-grosse / os.gros
 \ge corpulent
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du / Mol, Guérin
 \dt 11/Nov/2007
 
@@ -45181,18 +44311,10 @@ piège)
 \dt 26/Sep/2006
 
 \lx kólomagɛlɛn
-\va
 \ps n
 \lt texture-solide
 \ge résistant 
 \sy kólogɛlɛn
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
@@ -45439,14 +44561,6 @@ puissant)
 \lt os-joindre-celui qui
 \ge rebouteux
 \sy kólotugu
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kólo.ba.kari
@@ -45908,14 +45022,6 @@ puissant)
 \ps n
 \lt cercle-intérieur-trait
 \ge diamètre
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kòolokaala
@@ -46208,14 +45314,6 @@ les 'fuga')
 \lt couverture de coton-zébrée
 \ge couverture
 \ge épaisse en cotonnade carrelée, à bords décorés
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem bk, bn, f / va : l 89 + du
 \dt 11/Nov/2007
 
@@ -46240,12 +45338,6 @@ les 'fuga')
 \ge grave à Dieu
 \xv álako kàlanbaa ká kòta fànga ká bòn
 \xe ceux qui sont instruits de la religion pèchent gravement (kb 5/05 p.11)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kóteentenná
@@ -46253,7 +45345,6 @@ les 'fuga')
 \ee *?
 \ps adv
 \ge peut-être
-\ge
 \ge on ne sait jamais
 \ge en tout cas ...
 \dt 26/Sep/2006
@@ -46277,7 +45368,6 @@ les 'fuga')
 \ps v
 \ge être.responsable
 \ge devenir le chef incontestable
-\ge
 \ee avoir la situation en mains
 \dt 26/Sep/2006
 
@@ -46747,9 +45837,7 @@ on l'appelle "Nsan"
 \xe aller aux cabinets
 \xv ...kɔ́ kàn
 \ge en dehors de ...
-\ge
 \ge derrière ...
-\ge
 \ge à l'extérieur de ...
 \xv kɔ́
 \ee (sans circonstant = derrière, par derrière)
@@ -46816,14 +45904,6 @@ on l'appelle "Nsan"
 \ps n
 \lt testicules-frapper-action
 \ge castration
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
@@ -46878,14 +45958,6 @@ on l'appelle "Nsan"
 \lt mûrir-nég
 \ge non.mûr
 \ge adolescent, non nubile
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Mol, du : immature, prématuré, vert
 \dt 11/Nov/2007
 
@@ -46897,28 +45969,13 @@ on l'appelle "Nsan"
 \sy wɔ̀lɔwɔlɔdenya
 \xv dényɛrɛnin sàta nìnnu ná, 20% ká sàya sábabu yé ù kɔ́gɔbaliya yé
 \xe parmi ces morts d'enfants, 20% ont pour cause leur naissance prématurée (kb 4/05 p.12)
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Mol
 \dt 11/Nov/2007
 
 \lx kɔ̀gɔ.ji.la.jɛgɛ
-\va
 \ps n
 \lt mer-en-poisson
 \ge poisson.de.mer
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kɔ̀gɔji.da
@@ -46991,13 +46048,6 @@ on l'appelle "Nsan"
 \lt dos-dessous-entrer
 \ge soutenir
 \ge (par derrière), étayer ...
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt kb 12/04 p.3
 \dt 11/Nov/2007
 
@@ -47160,12 +46210,6 @@ on l'appelle "Nsan"
 \xe LD p.25 / LD p.25
 \xv kɔ́nɔmaya láɲinibali kɔ́lɔlɔ yé jùmɛn yé ?
 \xe quelles sont les conséquences d'une grossesse non désirée ? (LD p.28)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɔ̀lɔn
@@ -47306,52 +46350,28 @@ on l'appelle "Nsan"
 \dt 16/Aug/2006
 
 \lx kɔ̀mɔden
-\va
 \ps n
 \lt fétiche 'kòmò'- membre
 \ge membre.de.société.initiatique 
 \ge affilié au kòmò, membre de ceet société initiatique
 \sy kɔ̀mɔna
 \xv kɔ̀mɔden bɛ́ dùgukolo syɛ́n ní sɔ̀nin yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kɔ̀mɔjan
-\va
 \ps n
 \lt kòmò-grand
 \ge société.iniatique
-\sy
 \xv kɔ̀mɔjan yé jíri yé, kɔ̀nɔsi ní kɔ̀nɔkunkolo ní fɛ́n cáman b'á lá, í b'í kùnkolo dá à kɔ́rɔ k'à wúli
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
 \lx kɔ̀mɔsama
-\va
 \ps n
 \lt kòmò-éléphant
 \ge trompette
 \ge sorte de trompette en métal
-\sy
 \xv sɔ́nni dè bɛ́ kɛ́ kɔ̀mɔsama ná
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem b : fabriquée par les forgerons, le son n'est pas très agréable
 \dt 11/Nov/2007
 
@@ -47363,35 +46383,18 @@ on l'appelle "Nsan"
 \dt 16/Aug/2006
 
 \lx kɔ̀mɔ.suruku
-\va
 \ps n
 \lt fétiche 'kòmò'-hyène
 \ge fétiche
 \ge un des fétiches de la société du kòmò
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem b : mirliton en bambou ou en métal : celui qui l'utilise joue les devins
 \dt 11/Nov/2007
 
 \lx kɔ̀mɔtu
-\va
 \ps n
 \lt 'kòmò'-bosquet
 \ge bois.sacré
 \sy kɔ̀mɔkili
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -47582,7 +46585,6 @@ on l'appelle "Nsan"
 \ps n
 \sn 1
 \ge poisson.Synodontis.vermiculatus
-\sd
 \lt (Syno. rouge)
 \sn 2
 \ge Synodontis schall ?
@@ -47724,20 +46726,8 @@ on l'appelle "Nsan"
 \ps n
 \lt ventre-qui a
 \ge ventru
-\re
-\de
-\gn
-\rn
-\dn
-\rf
 \xv mùso kɔ́nɔbaratigi
 \xe femme enceinte au huitième/neuvième mois
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɔ́nɔbara.la.ntumunin
@@ -47762,11 +46752,6 @@ on l'appelle "Nsan"
 \ge obésité
 \xv kɔ́nɔbara fàsa b'án tànga kɔ́nɔbaya mà
 \xe les muscles de l'abdomen nous protègent de l'obésité
-\xn
-\ue
-\un
-\cf
-\ce
 \nt dònniya 5/6 p 11
 \dt 11/Nov/2007
 
@@ -47776,32 +46761,14 @@ on l'appelle "Nsan"
 \ge césarienne
 \xv kɔ́nɔcibange bɛ́ kɛ́ fú lá Màli fàn tán ní náani lá
 \xe la césarienne est gratuite partout au Mali (Kb 6/05 p.5)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɔ́nɔdun
 \ps adj
 \lt intérieur-profond
 \ge profond
-\re
-\de
-\gn
-\rn
-\dn
-\rf
 \xv mìnnifilen kɔ́nɔba àni kɔ́nɔdun
 \xe une coupe large et profonde (Ez 23, 32)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɔ́nɔfɔɲɔgɔn
@@ -47811,20 +46778,8 @@ on l'appelle "Nsan"
 \sy kùnfɔɲɔgɔn
 \sy kùnkofɔɲɔgɔn
 \sy gùndofɔɲɔgɔn
-\re
-\de
-\gn
-\rn
-\dn
-\rf
 \xv á kàna á jìgi dá kɔ́nɔfɔɲɔgɔn kàn
 \xe ne vous fiez pas à un ami (Mi 7, 5)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɔ́nɔgan.baa
@@ -47862,19 +46817,10 @@ on l'appelle "Nsan"
 \lx kɔ̀nɔgɛn
 \va kɔ̀nɔgwɛn
 \ph [gw]
-\va
 \ps n
 \lt oiseau-chasse
 \ge chasse.aux.oiseaux 
 \ge prédateurs (?) / aux granivores
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, bk
 \dt 11/Nov/2007
 
@@ -47882,14 +46828,6 @@ on l'appelle "Nsan"
 \ps n
 \lt intention-mauvaise-suf abs
 \ge méchanceté
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɔ́nɔkari.fura
@@ -47902,19 +46840,14 @@ on l'appelle "Nsan"
 \dt 16/Aug/2006
 
 \lx kɔ́nɔmaya
-\va
 \ps n
 \lt enceinte-état
 \sn 1
 \ge grossesse
-\sy
 \sn 2
 \ge épiaison
 \xv ɲɔ̀tɛli yé kɔ́nɔmaya dáminɛ
 \xe le mil hâtif a commencé son épiaison
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kɔ́nɔma.ya
@@ -47935,12 +46868,6 @@ on l'appelle "Nsan"
 \ge oiseleur
 \xv àle dè bɛ́ né bɔ́ kɔ̀nɔminɛla ká ján ná
 \xe c'es lui qui me délivre des pièges de l'oiseleur (Ps 91, 3)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɔ́nɔn
@@ -47996,11 +46923,6 @@ on l'appelle "Nsan"
 cì i kàn
 \xe au temps de ta colère, agis contre eux (Jr 18, 23) (fais éclater ton ressentiment) / J'assouvirai ma fureur contre toi
 (Ez 16, 42) cf : déverser sa colère
-\xn
-\ue
-\un
-\cf
-\ce
 \nt dimikuru est mieux compris à bk (Sb)
 \dt 11/Nov/2007
 
@@ -48201,18 +47123,9 @@ cì i kàn
 \dt 16/Aug/2006
 
 \lx kɔ̀nɔntɔn.nan
-\va
 \ps adj
 \lt neuf-ième
 \ge neuvième
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Mol, du
 \dt 11/Nov/2007
 
@@ -49170,13 +48083,6 @@ cì i kàn
 \ps n
 \lt sens-voisin
 \ge synonyme
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt kb 9/05/p.7
 \dt 11/Nov/2007
 
@@ -49539,38 +48445,20 @@ cì i kàn
 \dt 16/Aug/2006
 
 \lx kɔ́salamɔgɔ
-\va
 \ps n
 \lt récent-personne
 \ge les.derniers
 \ge les plus récents
-\sy
 \xv k'à dáminɛ kɔ́salamɔgɔ lá...é)
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kɔ́saya
-\va
 \ps v
-\lt
 \sn 1
 \ge être.récent 
 \sn 2
 \ge tarder, être en retard
-\sy
 \xv Múruja sìgi kɔ́sayara / sàɲɔ bɛ́ kɔ́saya kà mɔ̀
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem 1/ du 2/ Mol, Svt
 \dt 11/Nov/2007
 
@@ -49649,12 +48537,6 @@ cì i kàn
 \ge incessant
 \xv ní ù kɛ́ra dègun kɔ́tigɛbali yé, mùso ká kán kà sé fúrakɛso lá
 \xe si ces troubles (de la ménopause) sont incessants, la femme doit voir le médecin (Kb 4/06 p.5)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kɔ́tikɔti
@@ -50552,19 +49434,12 @@ mollusques ...
 
 \lx kúlo.kan
 \va kúle.kan
-\va
 \ps n
 \lt crier-voix
 \ge hurlement
 \sy kúlo
 \xv á ɲɛ́nasisilenba yé kúlokanba bɔ́ (gn 27, 34)
 \xe (Esaü) fut rempli d'amertume et se mit à pousser de grands cris
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kùlokùlo
@@ -50608,14 +49483,6 @@ mollusques ...
 \ps n
 \lt colline-intervalle
 \ge vallée
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kúlukulu
@@ -50793,12 +49660,6 @@ rochers)
 \ge interlocuteur
 \xv í kúmaɲɔgɔn bɛ́na à fɛ̀la fɔ́
 \xe ton interlocuteur va dire ce qu'il a à dire
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kúmaɲɔgɔnya
@@ -50809,28 +49670,13 @@ rochers)
 \sy kúmafalenfalen
 \xv tɔ́gɔ bɛ́ sɔ́rɔ  à ká kúmaɲɔgɔnya ná,
 \xe la renommée s'acquiert en s'entretenant avec (la Sagesse) (Sg 8, 18)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kúmatala
-\va
 \ps n
 \lt parole-prendre-celui qui
 \ge orateur
 \ge celui qui a la parole
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, Jos
 \dt 11/Nov/2007
 
@@ -51208,35 +50054,15 @@ rochers)
 \lt (avant-hier.cet)
 
 \lx kúna.tɔ.kɛ
-\va
 \ps n
 \lt lépreux-masculin
 \ge lépreux
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kúna.tɔ.muso
-\va
 \ps n
 \lt lépreux-féminin
 \ge lépreuse
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kúna.faa
@@ -51300,19 +50126,12 @@ rochers)
 \dt 16/Aug/2006
 
 \lx kùnbálan
-\va
 \ps v
 \lt tête-arrêter
 \ge créer.des.ennuis
 \ge des problèmes, mettre dans l'embarras
-\sy
 \xv í kàna ń kùnbalan dɛ́ !
 \xe ne m'enquiquine pas !
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Jos, du, f : ennuyer, enquiquiner
 \dt 11/Nov/2007
 
@@ -51369,7 +50188,6 @@ rochers)
 \dt 16/Aug/2006
 
 \lx kùnbɛn
-\va
 \ps n
 \lt unité-rencontre
 \sn 1
@@ -51378,14 +50196,7 @@ rochers)
 \ge semaine 
 \sn 3
 \ge rencontre-accueil
-\sy
 \xv fàamakunbɛn
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem trouver des exemples pour les différents sens
 \dt 11/Nov/2007
 
@@ -51422,19 +50233,10 @@ rochers)
 \dt 26/Sep/2006
 
 \lx kùncɛkuma
-\va
 \ps n
 \lt conclusion-parole
 \ge paroles.de.conclusion
 \ge discours de clôture
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
@@ -51486,12 +50288,6 @@ rochers)
 \ge se cacher
 \xv à táara à kùndogo bàtoso gàsimaba dɔ́ kɔ́nɔ
 \xe il est allé se réfugier dans un temple très vénéré
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kùnfin.ya
@@ -51502,24 +50298,17 @@ rochers)
 \dt 26/Sep/2006
 
 \lx kùnfɔlɔ
-\va
 \ps n
 \lt unité-premier
 \ge prémices
 \sn 1
 \ge prémices (des cultures ...)
-\sy
 \xv sùmankura kùnfɔlɔ / sɛ̀nɛmɔ kùnfɔlɔ /
 \xe prémices de la moisson (céréales)/ /
 \sn 2
 \ge première partie
 \xv fúnankɛya kùnfɔlɔ
 \xe première étape de l'adolescence (LD p.26) de 10 à 14 ans
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kùnfɔ.ɲɔgɔn
@@ -51776,23 +50565,15 @@ côté une ailette étroite, à l'intérieur une ou deux graines) \sy mùsònsan
 \dt 26/Sep/2006
 
 \lx kùnkɔrɔ
-\va
 \ps pp
 \lt charge-sous
 \ge pour
 \ge (obtenir), en échange de ..., en gage
-\sy
 \xv  'Né bɛ́na sàn wólonwula báara kɛ́ í yé, í dénmuso dɔ́gɔmannin àrasɛli kùnkɔrɔ.gn 29, 18)
 \xe Je travaillerai sept ans à ton service pour épouser Rachel ta fille cadette
 \xv  "Í bɛ́na fɛ́n jùmɛn bìla  kùnkɔrɔ ?' / Í ká ɛ̀rɛzɛnforo dí né mà wári
 kùnkɔrɔ
 \xe Que me donneras-tu en gage (pour le chevreau promis) ? / vends-moi ta vigne contre de l'argent
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx kùnkɔrɔta.sɛbɛn
@@ -51808,19 +50589,11 @@ kùnkɔrɔ
 \dt 16/Aug/2006
 
 \lx kùnmabɔsara
-\va
 \ps n
 \lt rachat-paie
 \ge somme.versée
 \ge pour libérer un esclave, rançon
 \sy kùnmabɔlisara
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem ex 30, 16
 \dt 11/Nov/2007
 
@@ -51845,12 +50618,6 @@ kùnkɔrɔ
 \ge (qui fait dresser les cheveux sur la tête)
 \xv Kùnmasicɛ yé né dègun.
 \xe je suis submergé par l'effroi (Ps 55, 6)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kùnma.bɔ
@@ -51937,31 +50704,15 @@ kùnkɔrɔ
 \lt ? ?
 \ge remplir
 \ge (un panier ...)
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, b, bk, bn  / du ajoute le sens de 'mettre en boules' refusé par bk, Tor
 \dt 11/Nov/2007
 
 \lx kùn.na.bana
-\va
 \ps n
 \lt tête-endroit-maladie
 \ge maladie.mentale
 \sy kùnfɛn
 \sy kùnnafɛn
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Jakité + Jos
 \dt 11/Nov/2007
 
@@ -51978,19 +50729,10 @@ kùnkɔrɔ
 \lt (informer.celui qui)
 
 \lx kùn.na.jala
-\va
 \ps n
 \lt tête-sur-cordon
 \ge diadème
 \ge couronne, mouchoir de tête, turban
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Mol, f
 \dt 11/Nov/2007
 
@@ -52001,13 +50743,6 @@ kùnkɔrɔ
 \ge calcul.mental
 \sy jùnfɛjate
 \sy dálajate
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, Jos, kb
 \dt 11/Nov/2007
 
@@ -52015,15 +50750,8 @@ kùnkɔrɔ
 \ps n
 \lt tête-sur-entourer
 \ge turban
-\sy
 \xv à yé  sánujala dɔ́ dòn  à kùn ná  kùnnamini sán fɛ̀
 \xe un diadème d'or par-dessus le turban (Si 45, 12)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kùn.nandi.ya
@@ -52069,19 +50797,11 @@ un ami ...)
 \dt 16/Aug/2006
 
 \lx kùn.na.wolo.sɛbɛn
-\va
 \ps n
 \lt honneur-écrit
 \ge diplôme.d'honneur
 \ge prix
-\sy
 \xv ń yé bálikukalan kɛ́ fɔ́ kà kùnnawolosɛbɛn sɔ̀rɔ ò lá fáasi !
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
@@ -52330,19 +51050,11 @@ un ami ...)
 \dt 16/Aug/2006
 
 \lx kùnntanko
-\va
 \ps n
 \lt imbécile-action
 \ge imbécilité
 \ge sottise / chose de peu d'importance / plaisanterie
-\sy
 \xv á kà sɛ̀bɛko kɛ́, á kàna kùnntanko kɛ́ !
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
@@ -52447,12 +51159,6 @@ un ami ...)
 \ge ... ou autrefois
 \xv Túmutu kúnunama tùn bɛ́ sánga mín ná...
 \xe le renom qu'avait Tombouctou autrefois ... (kb 10/05 p.9)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kúnuwò
@@ -53218,29 +51924,13 @@ traduction par "baptême" se généralise, même chez les musulmans)
 \ge tout.nouveau
 \xv jàmana mínnu kúralama dòn kɔ́ɔri íziniko lá...
 \xe les pays nouvellement dotés d'usines de fabrication de coton ... (kb 1/05 p.1)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kùran
 \es {fr : courant}
-\va
 \ps n
-\lt
 \ge électricité
 \ge courant électrique
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du  / cf: pq 00 kùrànjuru
 \dt 11/Nov/2007
 
@@ -53472,15 +52162,6 @@ traduction par "baptême" se généralise, même chez les musulmans)
 \lt pirogue-courir-celui qui
 \ge piroguier
 \ge marin ..., rameur
-\ge
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx kùrunbo.kari
@@ -53689,18 +52370,11 @@ ligne)
 \dt 16/Aug/2006
 
 \lx kúturufin
-\va
 \ps adj
 \lt entier-noir
 \ge totalement.nu
-\sy
 \xv í kúturufin bɛ́ táa wá ?
 \xe tu pars tout nu ?
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du, Jos
 \dt 11/Nov/2007
 
@@ -53936,31 +52610,14 @@ ligne)
 \lt coutume-selon-réunion
 \ge réunion.ordinaire
 \ge ( conseil des ministres ordinaire ...)
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx làada.ma
-\va
 \ps adj
 \lt règles-qui a
 \ge indisposée
 \ge qui a ses règles
-\sy
 \xv mùso làadama, cɛ̀ ká kán k'à tó yèn
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx làada.ye.baliya
@@ -54100,12 +52757,6 @@ ligne)
 \lt préf-empêcher
 \xv ò bɛ́  hákilintan lábali
 \xe (la puissance de Dieu) confond les insensés (Sg 1, 3)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lában.ko
@@ -54122,12 +52773,6 @@ ligne)
 \ge ( de la loi, du code de la route, d'une coutume ...)
 \xv ò yé síraba sàriya lábatobaliya ɲàngili mùsaka dànnatigɛ
 \xe (tel article de la loi) a précisé les amendes de l'inobservance du code de la route (kb 12/05 p.5)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lábila.li
@@ -54140,18 +52785,8 @@ ligne)
 \dt 26/Sep/2006
 
 \lx làbitani
-\va
 \ps n
-\lt
 \ge hôpital
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du ... alf : ça se dit
 \dt 11/Nov/2007
 
@@ -54167,14 +52802,6 @@ ligne)
 \lt préf-ravir
 \ge ravir
 \ge reprendre de force
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lábure
@@ -54190,20 +52817,11 @@ ligne)
 \dt 16/Aug/2006
 
 \lx lá.ca.ya
-\va
 \ps v
 \lt préf-rendre nombreux
 \ge multiplier
 \ge rendre nombreux 
 \sy lábugun
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx lá.cɛ̀ɲa
@@ -54213,12 +52831,6 @@ ligne)
 \ge rendre beau
 \xv Sánu mín bɛ́ bɔ̀n bóli kàn kà ù lácɛɲɛ
 \xe l'or dont on les a couverts pour les embellir (lettre de Jér 1, 23)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx ládamu
@@ -54242,13 +52854,6 @@ ligne)
 \ps n
 \lt éduquer-action-celui qui fait
 \ge éducateur
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt LD p.1
 \dt 11/Nov/2007
 
@@ -54259,32 +52864,14 @@ ligne)
 \ge laisser de côté
 \xv à kɛ́ra íko mùsocɛsalen ládɛnnen kɛ̀rɛ fɛ̀
 \xe (Jérusalem) elle est comme une veuve laissée de côté (Lam 1, 1)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.dìbi
 \ps v
 \lt pré-enténébrer
 \ge rendre.obscur
-\re
-\de
-\gn
-\rn
-\dn
-\rf
 \xv kà tìle ɲɛ́ ládibi íko sú
 \xe Dieu a rendu l'apect du soleil comme la nuit (Os 5, 8)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.diyalifɛn
@@ -54294,28 +52881,14 @@ ligne)
 \ge récompense
 \xv mɔ̀gɔ 6 yé ládiyalifɛn sɔ̀rɔ :
 \xe Six personnes ont obtenu des prix : ... (Kb 10/06 p.10)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.dògo
-\va
 \ps v
 \lt préf-cacher
 \ge cacher
-\sy
 \xv à tùn yé mɔ̀gɔ dɔ́ ládogo só kɔ́nɔ
 \xe il avait caché des hommes dans le 'fort'  (1 Mc)
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx lá.dɔn
@@ -54341,12 +52914,6 @@ ligne)
 \ge faire germer
 \xv Í bɛ́ sɛ̀nɛfɛn láfalen ádamaden yé,
 \xe tu fais pousser les plantes que les hommes cultivent (ps 104, 14)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx là.fe
@@ -54369,14 +52936,6 @@ ligne)
 \lt pré-étendre
 \ge étendre
 \ge étaler (du linge ... des vêtements ...)
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.fɛrɛ
@@ -54386,12 +52945,6 @@ ligne)
 \ge rendre plus vaste
 \xv ù  bɛ́na Síkaso-Bùgunin síraba láfɛrɛ k'à dílan k'à ɲɛ̀
 \xe ils vont élargir la grand route de Sikaso-Bugunin et bien l'aménager (kb 8/04 p.3)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx láfili.baatɔ
@@ -54407,20 +52960,12 @@ ligne)
 \dt 26/Sep/2006
 
 \lx lá.fin
-\va
 \ps v
 \lt préf-noircir
 \ge noircir
 \ge (s'éteindre : en parlant de la vue)
-\sy
 \xv à ɲɛ́ láfinna fɔ́ à tùn tɛ́ kà fɛ́n yé tún (gn 27, 1) /Tɔ́ɔrɔ yé né ɲɛ́ láfin
 \xe sa vue avait tellement baissé qu'il n'y voyait plus / mes yeux sont usés de chagrin (Ps 88, 10)
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx là.fiya
@@ -54449,20 +52994,11 @@ ligne)
 \dt 26/Sep/2006
 
 \lx là.fiyadon
-\va
 \ps n
 \lt repos-jour
 \ge jour.de.repos
 \ge jour chômé (sabbat des juifs, dimanche des chrétiens, vendredi des musulmans)
 \sy láfiyɛndon
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx lágalaga
@@ -54557,19 +53093,10 @@ ligne)
 \dt 26/Sep/2006
 
 \lx láhara.so
-\va
 \ps n
 \lt au-delà-maison
 \ge l'au-delà
-\sy
 \xv kà láharaso súma à yé !
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx láhara.ka
@@ -54599,13 +53126,6 @@ ligne)
 \lt préf-pencher
 \ge faire.pencher
 \ge détourner ...
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lájɛ-lájɛ
@@ -54637,51 +53157,24 @@ ligne)
 \dt 26/Sep/2006
 
 \lx làkalitaɲini
-\va
 \ps n
 \lt nouvelles-recherche
 \ge reportage
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, jos : d'accord pour le ton
 \dt 11/Nov/2007
 
 \lx làkalitaɲinina
-\va
 \ps n
 \lt nouvelles-chercher-celui qui
 \ge journaliste
 \ge reporter
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
 \lx làkali.ta.sɛbɛn
-\va
 \ps n
 \lt nouvelles-écrit
 \ge journal
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, jos : d'accord pour le ton
 \dt 11/Nov/2007
 
@@ -54704,12 +53197,6 @@ ligne)
 \xe la cause de nombreuses maladies est la non-protection de l'eau et des aliments (donniya 5/6 p.30)
 \xv lákanabaliya kɛ́ra dàntɛmɛ yé Kɔ́diwari (kb 5/05 .)
 \xe l'insécurité est à son comble en Côte d'Ivoire (kb 5/05 p.2)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lákari
@@ -54726,12 +53213,6 @@ ligne)
 \ge rendre.égal
 \xv  àle bɛ́na òlu bɛ́ɛ lájɛlen ní Átɛnika lákɛnyɛ kó bɛ́ɛ lá
 \xe il va rendre tous les juifs égaux aux Athéniens (2 Mc 9, 15)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx làkika
@@ -54748,13 +53229,6 @@ ligne)
 \lt pré-corriger
 \ge éduquer
 \gr corriger, gérer l'éducation
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt LD p.8
 \dt 11/Nov/2007
 
@@ -54763,12 +53237,6 @@ ligne)
 \ge coincer
 \xv pólosi dèlila kà nsònba dɔ́ lákoron...
 \xe les policiers ont à l'occasion coincé de grands voleurs .... (kb 5/05 p.2)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx làkɔli
@@ -54778,35 +53246,17 @@ ligne)
 \dt 12/Aug/2006
 
 \lx làkɔli.karamɔgɔ
-\va
 \ps n
 \lt école-maître
 \ge instituteur
 \ge maître d'école, enseignant
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 / du ton haut !
 \dt 11/Nov/2007
 
 \lx làkɔli.so
-\va
 \ps n
 \lt école-maison
 \ge école
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 / du : ton haut !
 \dt 11/Nov/2007
 
@@ -54830,48 +53280,21 @@ ligne)
 \ge faire.revenir
 \xv Ála yé kíra cí ù mà, wálasa kà ù lákɔsegin àle mà
 \xe Dieu leur a envoyé des prohètes pour les faire revenir à lui (2 Ch 24, 19)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.kuma
 \ps v
 \lt préf-parler
 \ge faire.parler
-\re
-\de
-\gn
-\rn
-\dn
-\rf
 \xv ù bɛ́ à ɲíni kó à kà bóbo lákuma
 \xe ils le prient de rendre la voix au muet
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx là.kuru
 \es {fr: recrue ?}
-\va
 \ps n
-\lt
 \ge recrue
-\sy
 \xv làkuru yé sɔ̀lɔdasi kúra yé (á)
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, alf ...
 \dt 11/Nov/2007
 
@@ -54892,18 +53315,12 @@ ligne)
 \dt 26/Sep/2006
 
 \lx lá.mɔ.bali.ya
-\va
 \ps n
 \lt mal élevé-suf abs
 \ge mauvaise.éducation
 \sy lámɔlibaliya
 \xv K'í jɔ̀  ká kúma lámɛn  dá lá, ò yé  lámɔlibaliyaba yé
 \xe écouter aux portes est le fait d'un homme sans éducation (Si 21, 24)
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -54946,18 +53363,9 @@ ligne)
 \lt (éduquer.parent)
 
 \lx lámukala
-\va
 \ps n
 \lt lame-manche
 \ge rasoir
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -54965,28 +53373,12 @@ ligne)
 \ps v
 \lt préf-être stupide
 \ge rendre.stupide
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.nisɔndi.ya
 \ps v
 \lt préf-réjouir
 \ge réjouir
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lánkolon.ya
@@ -55012,12 +53404,6 @@ ligne)
 \ge faire.pousser
 \xv Í bɛ́ bín lánugu kà bágan bálo
 \xe c'est toi qui fais pousser l'herbe pour le bétail (ps 104, 14)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lánkolon
@@ -55056,12 +53442,6 @@ ligne)
 \ge réjouir	
 \xv í ká kúma tùn bɛ́ kà né láɲagali
 \xe tes paroles causaient ma joie (jr 15, 16)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.ɲɛ̀
@@ -55070,14 +53450,6 @@ ligne)
 \lt préf-réussir
 \ge faire.réussir
 \ge faire du bien à
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.ɲɛ.baga
@@ -55088,12 +53460,6 @@ ligne)
 \xv  Óniyasi mín tùn yé dùgu láɲɛbaga yé / á tùn yé  Ála ká màsaya
 laɲɛbagaw dè ye
 \xe Onias, le bienfaiteur de la ville (2 Ch 4, 2) / vous étiez au service de sa royauté (Sg 6, 4)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.ɲɛ.na.maya
@@ -55101,47 +53467,21 @@ laɲɛbagaw dè ye
 \lt pré-animer
 \ge rénover
 \ge ... réanimer
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.ɲɔ̀ngiri
-\va
 \ps v
 \lt préf-agenouiller
 \ge faire.agenouiller
-\sy
 \xv à yé ɲàamɛ láɲɔngiri (gn 24, 11)
 \xe il fit agenouiller les chameaux
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx lá.pan
-\va
 \ps n
 \lt préf-voler
 \ge faire.voler
 \ge faire envoler
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx lá.poyi
@@ -55150,26 +53490,12 @@ laɲɛbagaw dè ye
 \ge faire.jaillir
 \xv Í bɛ́ jí lápoyi
 \xe tu fais jaillir l'eau des sources (ps 104, 10)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lárabula
 \ps n
 \lt arabe-endroit
 \ge les.pays.arabes
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx làrabu.kan
@@ -55214,18 +53540,9 @@ laɲɛbagaw dè ye
 \dt 26/Sep/2006
 
 \lx là.sigi.den.so
-\va
 \ps n
 \lt ambassadeur-maison
 \ge ambassade
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du, jos
 \dt 11/Nov/2007
 
@@ -55259,12 +53576,6 @@ laɲɛbagaw dè ye
 \ge ..., faire voyager
 \xv kúran bɛ́ kɛ́ kà ízini látaama...
 \xe le courant permet de faire marcher les usines (kb 2/05 p.4)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx làtaraso.ji
@@ -55297,12 +53608,6 @@ laɲɛbagaw dè ye
 \ge indestructible
 \xv kàtugu  tílennenya yé  sí látunubali yé
 \xe car la justice est immortelle (Sg 1, 15)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx làturu
@@ -55343,18 +53648,10 @@ laɲɛbagaw dè ye
 \ge ovule !
 \sy làwakisɛ
 \sy dénfan
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt 2/ LD p.22
 \dt 11/Nov/2007
 
 \lx làwa.kisɛ
-\va
 \ps n
 \lt sperme-élément
 \sn 1
@@ -55363,13 +53660,6 @@ laɲɛbagaw dè ye
 \ge ovule
 \sy làwajikisɛ
 \sy dénfan
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du, jos : néologisme
 \dt 11/Nov/2007
 
@@ -55384,19 +53674,11 @@ laɲɛbagaw dè ye
 \dt 26/Sep/2006
 
 \lx láwàsa
-\va
 \ps v
 \lt préf-combler
 \ge combler
-\sy
 \xv  né yé à láwasa àlikama ní ɛ̀rɛzɛndɔlɔ lá (gn 27, 37)
 \xe je l'ai pourvu de blé et de vin
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx làwa.ji
@@ -55410,12 +53692,6 @@ laɲɛbagaw dè ye
 \ge faire.couler
 \xv kà ù láwoyo kɔ̀ kɔ́nɔ
 \xe (tu conduis l'eau des sources) dans les ruisseaux (Ps 104, 10)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx làya
@@ -55431,25 +53707,12 @@ laɲɛbagaw dè ye
 \ge cirer
 \xv à bɛ́ kà à ká kàbasen yéelen láyelenku cógo mín ná, é bɛ́ ò dɔ́n wá?
 \xe sais-tu comment il fait briller la foudre dans les nuages ? (Job 37, 15)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.yɛrɛyɛrɛ
 \ps v
 \lt préf-trembler
 \ge faire.trembler
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt Jr 1, 17
 \dt 11/Nov/2007
 
@@ -55488,19 +53751,10 @@ laɲɛbagaw dè ye
 \dt 26/Sep/2006
 
 \lx láyidukan
-\va
 \ps n
 \lt promesse-parole
 \ge parole.donnée
 \ge profession, termes d'un serment
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -55518,12 +53772,6 @@ laɲɛbagaw dè ye
 \xe kb 10/06 p.1 /
 \xv ní jàmana m'ú dànbe sínsin k'ú ká kán láyiriwa...
 \xe  les pays qui ne renforcent pas leur renom et ne font pas progresser leurs langues nationales ... (kb 9/05/ p.2)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lá.baara
@@ -55702,7 +53950,6 @@ laɲɛbagaw dè ye
 \lt (préf.sortir)
 \xv jàtigikɛ yé  kúma lábɔ  à yé
 \xe l'hôte s'est adressé à lui
-\sn 
 \ge curer (un puits ...)
 \sn 3
 \ge envahir
@@ -57375,14 +55622,6 @@ nouvellement initiés)
 \lt citron-eau
 \ge jus.de.citron
 \ge citronnade
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du, jos
 \dt 11/Nov/2007
 
@@ -57510,18 +55749,10 @@ portent maintenant des culottes à élastique)
 
 \lx lɛ̀npo
 \es {fr : l'impôt}
-\va
 \ps n
-\lt
 \ge impôt
-\sy
 \xv kà lɛ̀npo kàni...sàra
 \xe collecter, réclamer l'impôt / payer l'impôt
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du : revérifier le ton
 \dt 11/Nov/2007
 
@@ -57538,52 +55769,24 @@ portent maintenant des culottes à élastique)
 \es {fr : l'heure}
 \va lɛ́ri
 \ps n
-\lt
 \ge heure
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du ...
 \dt 11/Nov/2007
 
 \lx lɛ́rɛn
 \ps v
 \ge être.éblouissant
-\re
-\de
-\gn
-\rn
-\dn
-\rf
 \xv Tásuma tùn bɛ́ lɛ́rɛn / 16 Wòtorosen tùn bɛ́ lɛ́rɛn íko lúulu
 \xe le feu était éblouissant (Ez 1, 13)  / Les roues offraient l'aspect scintillant d'une pierre précieuse (Ez 1, 16)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lɛ́tɛrɛ
 \es {fr : lettre}
-\va
 \ps n
-\lt
 \ge lettre
 \sy sɛ́bɛn
 \xv lɛ́tɛrɛ cí
 \xe envoyer une lettre
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 : vérifier la prononciation lètèrè ou lètiri ?
 \dt 11/Nov/2007
 
@@ -57593,14 +55796,6 @@ portent maintenant des culottes à élastique)
 \lt lettre-enveloppe
 \ge enveloppe
 \ge (d'une lettre à envoyer)
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
@@ -57631,18 +55826,8 @@ portent maintenant des culottes à élastique)
 
 \lx líburu
 \es {fr : livre}
-\va
 \ps n
-\lt
 \ge livre
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 ....
 \dt 11/Nov/2007
 
@@ -57651,14 +55836,6 @@ portent maintenant des culottes à élastique)
 \ps n
 \lt nylon-tamis
 \ge tamis.en.nylon
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem kl
 \dt 11/Nov/2007
 
@@ -57720,18 +55897,8 @@ portent maintenant des culottes à élastique)
 
 \lx lítiri
 \es {fr : litre}
-\va
 \ps n
-\lt
 \ge litre
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du ...
 \dt 11/Nov/2007
 
@@ -57855,17 +56022,9 @@ portent maintenant des culottes à élastique)
 \es {fr : l'hôtel}
 \va lòtoli
 \ps n
-\lt
 \ge hôtel
 \ge + restaurant //
-\sy
 \xv ù sélen dùgu kɔ́nɔ, ù 'ú kùn dá lòtɛli kàn
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, l 89 ...
 \dt 11/Nov/2007
 
@@ -57881,18 +56040,10 @@ portent maintenant des culottes à élastique)
 \dt 26/Sep/2006
 
 \lx lɔ́bɔlɔbɔ
-\va
 \ps adv
-\lt
 \ge très
-\sy
 \xv sì mɔ̀na lɔ́bɔlɔbɔ !
 \xe les noix de karité sont très mûres
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du 89, jos (-bk)
 \dt 11/Nov/2007
 
@@ -57942,14 +56093,6 @@ portent maintenant des culottes à élastique)
 \ps n
 \lt diamant-morceau
 \ge diamant
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx lúwanse
@@ -58107,33 +56250,20 @@ toutes les "mères" de la grande famille)
 \lt homme-avec-homme
 \ge dépendant
 \ge personne qui dépend d'une autre (esclave, captif (du), orphelin ...)
-\sy
 \xv màatigiba lában kɛ́ra màafɛmaa yé
 \xe le chef d'une grande famille a fini par vivre dans la famille d'autrui (chant)
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, f
 \dt 11/Nov/2007
 
 \lx màa.ko
-\va
 \ps n
 \lt homme-besoin
 \sn 1
 \ge tout.ce.qui.concerne.l'homme 
 \sn 2
 \ge besoin de main-d'oeuvre, de personnel
-\sy
 \xv à bɛ́ màako kɛ́
 \xe il s'occupe des gens, s'intéresse à eux
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
@@ -58184,19 +56314,12 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx màanasiri
-\va
 \ps n
 \lt homme-à-attaché
 \ge personne.dépendant
 \ge d'une autre (esclave
 \sy màafɛmaa
 \xv ní í dén má dège fóyi lá, ní í yɛ̀rɛ ^ɛ́tununa dón ó dón, à bɛ́ ká màanasiri yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem 83
 \dt 11/Nov/2007
 
@@ -58231,18 +56354,9 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006 
 
 \lx máaɲɔkuru
-\va
 \ps n
 \lt maïs-bloc
 \ge épi.de.maïs
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jos
 \dt 11/Nov/2007
 
@@ -58359,16 +56473,7 @@ toutes les "mères" de la grande famille)
 \ue (dú)
 \va mándarasa
 \ps n
-\lt
 \ge médersa
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -58409,19 +56514,12 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx màgannaya
-\va
 \ps n
 \lt servante-suf abs
 \ge condition.de.servante
 \ge de serviteur / service
-\sy
 \xv mínnu tùn bɛ́ màgannaya lá màsakɛ bólo
 \xe ... qui étaient au service du roi
-\xv
-\ue
-\un
-\cf
-\ce
 \rem ex 21,7
 \dt 11/Nov/2007
 
@@ -58527,14 +56625,6 @@ toutes les "mères" de la grande famille)
 \ps v
 \lt préf-montrer
 \ge montrer
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx màkama
@@ -58628,19 +56718,10 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx màkari.ko
-\va
 \ps n
 \lt pitié-affaire
 \ge sujet.de.pitié
 \ge affaire qui inspire la pitié
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos
 \dt 11/Nov/2007
 
@@ -58823,19 +56904,9 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx màloforo
-\va
 \ps n
 \lt riz-champ
 \ge rizière
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx màlogosi.masin
@@ -58850,12 +56921,6 @@ toutes les "mères" de la grande famille)
 \ge paddy
 \xv à yé màlokaama tɔ́ni 5 sɔ̀rɔ tári 1 kɔ́nɔ
 \xe il a récolté 5 tonnes de paddy à l'hectare (Kb  8/06 p.6)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx màlokan.masin
@@ -58868,13 +56933,6 @@ toutes les "mères" de la grande famille)
 \ps n
 \lt riz-cultiver-celui qui
 \ge riziculteur
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt kb 10/05 p.2
 \dt 11/Nov/2007
 
@@ -58884,12 +56942,6 @@ toutes les "mères" de la grande famille)
 \ge rizière
 \xv màlosɛnɛyɔrɔ bɛ́na lábɛn
 \xe on va préparer des rizières (kb 9/04 p.4)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx màlo.baatɔ
@@ -59071,19 +57123,10 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mánajuru
-\va
 \ps n
 \lt élastique-lien
 \ge tendeur
 \ge sandow / ou toute corde en nylon, plastique
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
@@ -59099,19 +57142,10 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mànamanako
-\va
 \ps n
 \ge bêtise
 \lt de peu d'importance-affaire
 \ge bêtise ..., bagatelle
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos
 \dt 11/Nov/2007
 
@@ -59137,11 +57171,6 @@ toutes les "mères" de la grande famille)
 \ge être.élastique
 \xv wòlo ká màgan wá à mánayalen dòn
 \xe la peau est molle mais élastique
-\xn
-\ue
-\un
-\cf
-\ce
 \nt dònniya 5/6 p.14 (Et.Kl)
 \dt 11/Nov/2007
 
@@ -59240,19 +57269,12 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mànfan
-\va
 \ps n
 \lt endroit-côté
 \ge espèce
 \ge sorte ...
 \sy súgu…
 \xv à tɛ́ sɔ̀n kà sɛ̀gɛbaatɔ mànfan sí dɛ̀mɛ / à tɛ́ sɔ̀n báara mànfan sí mà
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos
 \dt 11/Nov/2007
 
@@ -59304,35 +57326,17 @@ toutes les "mères" de la grande famille)
 \dt 12/Aug/2006
 
 \lx màninka.fin
-\va
 \ps n
 \lt malinké-noir
 \ge malinké.animiste
 \ge (entre Siguiri et Kita)
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
 \lx màninka.la
-\va
 \ps n
 \lt malinké-endroit
 \ge pays.malinké
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -59382,31 +57386,14 @@ toutes les "mères" de la grande famille)
 \lt son-augmenter-ce qui sert à
 \ge amplificateur
 \ge micro
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt kb 10/04 p.9
 \dt 11/Nov/2007
 
 \lx mànkan.kɛ.la
-\va
 \ps n
 \lt bruit-faire-celui qui
 \ge qui.fait.du.bruit
 \ge manifestant
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx mànkansigini
@@ -59415,11 +57402,6 @@ toutes les "mères" de la grande famille)
 \ge alphabet.phonétique
 \xv díɲɛforobamankansigini
 \xe alphabet phonétique international
-\xn
-\ue
-\un
-\cf
-\ce
 \nt kb 9/05 p.7
 \dt 11/Nov/2007
 
@@ -59447,18 +57429,9 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mànkutu.lan
-\va
 \ps n
 \lt qualifier-qui sert à
 \ge qualifiant
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du (néo) (kb)
 \dt 11/Nov/2007
 
@@ -59466,16 +57439,8 @@ toutes les "mères" de la grande famille)
 \es {fr : machine}
 \va màsin
 \ps n
-\lt
 \ge machine
-\sy
 \xv án nà à sɛ́bɛn màsin ná / tìga wɔ́rɔlen màsin ná...
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du ...
 \dt 11/Nov/2007
 
@@ -59678,12 +57643,6 @@ toutes les "mères" de la grande famille)
 \ge peindre
 \xv kà ò só sàmasen wólonwula màɲɛgɛn
 \xe la Sagesse a bâti sa maison et 'orné de motifs' ses 7 colonnes (Pr 9, 1)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx màɲɔgɔnna
@@ -59692,12 +57651,6 @@ toutes les "mères" de la grande famille)
 \ge semblable
 \xv kà jùru kùnkanfɛn ní màɲɔgɔnna fàralen ɲɔ́gɔn kàn...
 \xe mais les ajouts de la dette et autres frais semblables ajoutés les uns sur les autres ... (kb 12/04 p.7)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx màɲumanko.tɔ
@@ -59707,7 +57660,6 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx màɲumantɔkan
-\va
 \ps n
 \lt personne qui inspire pitié-parole
 \ge lamentation
@@ -59717,10 +57669,6 @@ toutes les "mères" de la grande famille)
 \xe ce ne sont ni des cris de victoire ni des cris de défaite (ex 32, 18)
 \xv à yé Dániyɛli wéle ní màɲumantɔkan yé
 \xe Il appela Daniel d'une voix affligée (Dn 6, 21)
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -59847,21 +57795,13 @@ toutes les "mères" de la grande famille)
 \dt 12/Aug/2006
 
 \lx màra.mɔgɔ
-\va
 \ps n
 \lt garder-personne
 \sn 1
 \ge pupille
 \sn 2
 \ge personne qui s'occupe de qn : tuteur, gouverneur
-\sy
 \xv 1/ í ká màramɔgɔ 2/ í màramɔgɔ
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -59945,35 +57885,16 @@ toutes les "mères" de la grande famille)
 \dt 12/Aug/2006
 
 \lx màrifa.bulu
-\va
 \ps n
 \lt fusil-tuyau
 \ge canon.de.fusil
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos
 \dt 11/Nov/2007
 
 \lx màrifa.ju
-\va
 \ps n
 \lt fusil-base
 \ge crosse.de.fusil
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx márisi
@@ -60032,14 +57953,6 @@ toutes les "mères" de la grande famille)
 \ps v
 \lt préf-tirer
 \ge attirer
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx màsama.li
@@ -60049,12 +57962,6 @@ toutes les "mères" de la grande famille)
 \ge attrait
 \xv júguman ká màsamali bɛ́  ɲùman dòn  dúgu lá
 \xe l'attrait du mal enterre la vision qu'on peut avoir du bien (Sg 4, 12)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx màsa.sigi.lan
@@ -60062,30 +57969,14 @@ toutes les "mères" de la grande famille)
 \lt roi-siège
 \ge trône
 \ge (royal)
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt vérifier le ton
 \dt 11/Nov/2007
 
 \lx màsa.so
-\va
 \ps n
 \lt roi-maison
 \ge palais.royal
 \sy màsakɛso
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx màsa.bolo
@@ -60227,32 +58118,19 @@ toutes les "mères" de la grande famille)
 \lt doux-suf abs
 \ge douceur
 \ge calme ...
-\ge
-\rf
 \xv ò màsumalenya kɛ́ra gánsan yé
 \xe cette douceur silencieuse fut vaine (Ps 39, 3)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx màsurun
-\va
 \ps adj
 \lt contact-proche
 \ge proche
 \ge (sens propre ou figuré)
-\sy
 \xv í kà fúrakɛyɔrɔ màsurun dɔ́ sɛ́gɛrɛ /
 \xe va au dispensaire le plus proche
 \xv fálenfɛn màsurun fìla báyɛlɛmani bɛ́ sé kà kɛ́ ù féere fɛ̀...
 \xe deux plantes voisines peuvent se croiser par leurs fleurs (donniya 5/6 p.53)
-\un
-\cf
-\ce
 \rem jos, du
 \dt 11/Nov/2007
 
@@ -60262,14 +58140,7 @@ toutes les "mères" de la grande famille)
 \lt préf-proche-suf
 \ge proximité
 \ge voisinage
-\sy
 \xv ní kɔ̀lɔn sònina ɲɛ́gɛn màsurunya ná...
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, Jos, bk
 \dt 11/Nov/2007
 
@@ -60303,15 +58174,8 @@ toutes les "mères" de la grande famille)
 \lt préf-gâter
 \ge gâter
 \ge déflorer
-\sy
 \xv Á nà mùso mín màminɛ, cɛ̀ wɛ́rɛ nà à dá ò fɛ̀ kà ò màtiyɛn (dt 28, 30)
 \xe celle que tu auras finacée, un autre couchera avec elle et la déflorera
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx mà.balima
@@ -61325,18 +59189,8 @@ toutes les "mères" de la grande famille)
 
 \lx mɛ́tɛrɛ
 \es {fr : mètre}
-\va
 \ps n
-\lt
 \ge mètre
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
@@ -61393,19 +59247,10 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx míiri.bali.ya
-\va
 \ps n
 \lt réflexion-absence
 \ge irréflexion
 \ge étourderie
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Mol, du : manque de réflexion
 \dt 11/Nov/2007
 
@@ -61629,21 +59474,13 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mìn.fɛn
-\va
 \ps n
 \lt boire-chose
 \sn 1
 \ge boisson 
 \sn 2
 \ge pfs : boisson alcoolisée
-\sy
 \xv dí, ń'í y'á kò, à bɛ́ fárinya, bɛ́ɛ tɛ́ sɔ̀n k'ò mìn kó : à kɛ́ra mìnfɛn yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, jos
 \dt 11/Nov/2007
 
@@ -61663,27 +59500,12 @@ toutes les "mères" de la grande famille)
 \lx mínisiri
 \ps n
 \ge ministre
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx mínisiri.ɲɛ.maa
 \ps n
 \lt ministre-chef
 \ge premier.ministre
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt kb 3/05 p.11
 \dt 11/Nov/2007
 
@@ -61724,7 +59546,6 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mìn.na
-\va
 \ps n
 \lt boire-celui qui
 \sc a) Psalydolytta pilipes
@@ -61732,19 +59553,10 @@ toutes les "mères" de la grande famille)
 \ge buveur
 \sn 2
 \ge coléoptères vésicants (cantharide) a) de couleur uniforme
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Bz, Mol  2 / il infecte le sanyo et le rend stérile car il 'boit' le fertilisant = il dévore les étamines et fait avorter de nombreux épis cf : parasites des cultures p. 89
 \dt 11/Nov/2007
 
 \lx mìn.ni.fɛn
-\va
 \ps n
 \lt action de boire-chose
 \sn 1
@@ -61754,29 +59566,15 @@ toutes les "mères" de la grande famille)
 \sn 1
 \sy mìnfɛn
 \xv mínnu tɛ́ dɔ̀lɔ mìn, í nà káfe cáman tà kà súkaro cáman tà, ò yé òlu ká mìnnifɛn yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem bz, mol, jos
 \dt 11/Nov/2007
 
 \lx mìn.ni.ji
-\va
 \ps n
 \lt action de boire-eau
 \ge eau.à.boire
 \ge eau potable
 \sy mìnji
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, jos
 \dt 11/Nov/2007
 
@@ -61897,39 +59695,21 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mìsali
-\va
 \ps n
-\lt
 \ge exemple
 \ge avis
-\sy
 \xv án ká wáleya nìn tùn ká kán kà kɛ́ mìsali yé dáfɛdugu lá / ń ká mìsali lá
 \xe /à mon avis ..
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx mìsali
-\va
 \ps v
-\lt
 \sn 1
 \ge imaginer
 \ge croire, penser 
 \sn 2
 \ge baratiner qn (pop)
-\sy
 \xv ń y'á mìsali kó Músa táara Bàmakɔ
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du
 \dt 11/Nov/2007
 
@@ -62017,18 +59797,10 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mìsi.bo
-\va
 \ps n
 \lt vache-excrément
 \ge bouse.de.vache
-\sy
 \xv í bɛ́ mìsibo tà k'ò kɛ́ dàakolon dɔ́ kɔ́nɔ k'ò lámaga, kà nà ŋúnu kɔ́nɔ nɔ́rɔ
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, jos ...
 \dt 11/Nov/2007
 
@@ -62102,14 +59874,7 @@ toutes les "mères" de la grande famille)
 \ps n
 \lt mosquée-crieur
 \ge muezzin
-\sy
 \xv Máhamadu kó mán dí ń yé, ò yé tìɲɛ yé, ká í nà à tɔ́gɔ mɛ́n mìsiriwelela dá dɛ́ !
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Mol, l 89, du
 \dt 11/Nov/2007
 
@@ -62128,20 +59893,12 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mìsi.tɛ̀nɛ
-\va
 \sc Cassia ?
 \fb césalpiniacées
 \ps n
 \lt bovin-interdit
 \ge arbuste.Cassia
 \sy syɛ̀tɛnɛ
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem cf  à fleurs jaunes
 \dt 11/Nov/2007
 
@@ -62232,19 +59989,8 @@ toutes les "mères" de la grande famille)
 
 \lx móbilɛti
 \es {fr : mobylette}
-\va
 \ps n
-\lt
 \ge mobylette
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx móbili
@@ -62255,18 +60001,9 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx móbili.boli.sɛbɛn
-\va
 \ps n
 \lt auto-conduire-écrit
 \ge permis.de.conduire
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jos
 \dt 11/Nov/2007
 
@@ -62277,33 +60014,17 @@ toutes les "mères" de la grande famille)
 \ge parking
 \xv kà kɛ́nɛlankolon dɔ́ bìla àni mɔ́bilijɔyɔrɔ 400 ɲɔ̀gɔnna
 \xe ils prévoient des parcs pour environ 400 voitures (kb 3/05 p.5
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx móbili.sen
-\va
 \ps n
 \lt auto-roue
 \ge roue
 \ge de voiture automobile, pneu  / chaussure faite avec de vieux pneus
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jos
 \dt 11/Nov/2007
 
 \lx móbili.tigi
-\va
 \ps n
 \lt auto-propriétaire
 \sn 1
@@ -62312,14 +60033,6 @@ toutes les "mères" de la grande famille)
 \ge possesseur d'une automobile 
 \sn 3
 \ge transporteur ...
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
@@ -62366,14 +60079,6 @@ toutes les "mères" de la grande famille)
 \ge enseignement.coranique 
 \sn 2
 \ge école coranique
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
@@ -62383,12 +60088,6 @@ toutes les "mères" de la grande famille)
 \ge maraboutage
 \xv Jɛ̀nɛ móri yé móriyabaara kɛ́ à yé
 \xe les marabouts de Jènè ont mis en oeuvre leur savoir en sa faveur ... (kb 3/05 p.2)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx móri.kolo
@@ -62414,35 +60113,15 @@ toutes les "mères" de la grande famille)
 
 \lx mótɛri
 \es {fr : moteur}
-\va
 \ps n
-\lt
 \ge moteur
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 ...
 \dt 11/Nov/2007
 
 \lx móto
 \es {fr : moto}
-\va
 \ps n
-\lt
 \ge moto
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 : motocyclette !
 \dt 11/Nov/2007
 
@@ -62521,35 +60200,19 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mɔ̀.bolo
-\va
 \ps n
 \lt éducation-branche
 \ge génération
 \ge : chaque degré de filiation
-\s
 \xv Mɔ̀bolo dɔ́ bɛ́ táa, mɔ̀bolo dɔ́ bɛ́ nà
 \xe une génération passe, une génération lui succède (Qo 1, 4)
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx mɔ̀.den.bolo
-\va
 \ps n
 \lt petits-enfants-branche
 \ge petits-enfants
-\sy
 \xv yàn mɔ̀denbolo, àni Fàlajɛ mɔ̀denbolo àni Dában mɔ̀denbolo, ò bɛ́ɛ yé mɔ̀denbolo kélen yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
@@ -62598,20 +60261,12 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mɔ̀gɔ.faga
-\va
 \ps n
 \lt homme-tuer
 \ge homicide
 \ge assassinat, meurtre
-\sy
 \xv sú fɛ̀ ò tɛ́ jàte mɔ̀gɔfaga yé (é 22,1)
 \xe si cela a lieu de nuit, cela n'est pas considéré comme un meurtre
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔ.gɛlɛn
@@ -62619,47 +60274,19 @@ toutes les "mères" de la grande famille)
 \ps expr
 \lt personne-dure
 \ge personne.dure
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔ.kisɛ
-\va
 \ps n
 \lt homme-courageux
 \ge personne.courageuse
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔ.kisilen
-\va
 \ps expr
 \lt homme-sauvé
 \ge rescapé
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔ.kɔrɔ.ba.ya
@@ -62667,15 +60294,6 @@ toutes les "mères" de la grande famille)
 \ps n
 \lt vieille personne-suf abs
 \ge vieillesse
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔ.kɔrɔ.ba
@@ -62695,18 +60313,9 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx mɔ̀gɔ.ma.yɔrɔ
-\va
 \ps n
 \lt homme-qui a-endroit
 \ge pays.habité
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem ex 16,, 35
 \dt 11/Nov/2007
 
@@ -62739,41 +60348,20 @@ toutes les "mères" de la grande famille)
 \lt homme-sans
 \ge dépeuplé
 \ge  2/ sans personne à son service
-\re
-\de
-\gn
-\rn
-\dn
-\rf
 \xv Fɔ́ dúgu ká tíyɛn, ú mɔ́gɔntan ká kɛ́
 \xe jusqu'à ce que les villes soient dévastées et dépeuplées (Is 6, 11)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔ.ɲɛ.na
-\va
 \ps n
 \lt personne-devant
 \ge fanfaronnade
 \ge le fait de faire des manières devant les étrangers pour se faire remarquer
-\sy
 \xv mɔ̀gɔɲɛna b'á lá, mɔ̀gɔɲɛnatɔ dòn
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔ.ɲɛ.na.tɔ
-\va
 \ps adj/n
 \lt homme-devant-qui est
 \sn 1
@@ -62781,14 +60369,7 @@ toutes les "mères" de la grande famille)
 \ge 'm'as-tu-vu 
 \sn 2
 \ge qui fait des manières quand on le regarde, devant les étrangers
-\sy
 \xv mɔ̀gɔɲɛna b'á lá, mɔ̀gɔɲɛnatɔ dòn
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
@@ -62798,31 +60379,16 @@ toutes les "mères" de la grande famille)
 \lt personne-semblable
 \ge prochain
 \ge ton semblable (frère humain), autrui
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f 81
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔ.tilen.nen
-\va
 \ps expr
 \lt personne-droite
 \ge homme.juste
 \ge droit
-\sy
 \xv Màtigi Ála yé à mìnɛ mɔ̀gɔtilennen yé
 \xe le Seigneur le considéra comme juste (gn 15, 6)
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Gn 6,10
 \dt 11/Nov/2007
 
@@ -63637,14 +61203,6 @@ toutes les "mères" de la grande famille)
 \lt rancoeur-qui a
 \ge plein.de.rancune
 \ge d'esprit de vengeance
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f
 \dt 11/Nov/2007
 
@@ -63723,19 +61281,10 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mùɲubali
-\va
 \ps ptcp
 \lt supporter-suf nég
 \ge impatient
 \ge qui ne supporte pas, impatient
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Mol
 \dt 11/Nov/2007
 
@@ -63810,14 +61359,7 @@ toutes les "mères" de la grande famille)
 \ge ceinture des spahis
 \sn 3
 \ge arc-en-ciel 
-\sy
 \xv sán yé mùrufebilen kɛ́ / à yé mùrufebilen kɛ́ jàlamugu yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem bz, Mol, b, (-bn, -bk) 3/ alf, jos
 \dt 11/Nov/2007
 
@@ -63829,18 +61371,9 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mùru.kisɛ
-\va
 \ps n
 \lt couteau-lame
 \ge lame.de.couteau
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jos
 \dt 11/Nov/2007
 
@@ -63882,19 +61415,10 @@ toutes les "mères" de la grande famille)
 \dt 26/Sep/2006
 
 \lx múruti.li
-\va
 \ps n
 \lt se révolter-action
 \ge révolte
 \ge émeute ...
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Mol
 \dt 11/Nov/2007
 
@@ -63968,62 +61492,31 @@ toutes les "mères" de la grande famille)
 \ps n
 \lt épouse-plusieurs-mariage
 \ge polygamie
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx mùso.fini
-\va
 \ps n
 \lt femme-linge
 \ge habit.de.femme
-\sy
 \xv mùsofini bɛ́ fɛ́n ó fɛ́n jù lá k'ó bɛ́ɛ kán tìgɛ fáari !
 \xe (tiré d'un conte)
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos ...
 \dt 11/Nov/2007
 
 \lx mùso.jigin.so
-\va
 \ps n
 \lt femme-accoucher-maison
 \ge maternité
 \ge (maison)
 \sy mùsojiginyɔrɔ
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos ...
 \dt 11/Nov/2007
 
 \lx mùsojigin.yɔrɔ
-\va
 \ps n
 \lt femme-accoucher-lieu
 \ge maternité
 \sy mùsojiginso
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jos
 \dt 11/Nov/2007
 
@@ -64043,22 +61536,13 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mùso.la.ka
-\va
 \ps n
 \lt épouse-endroit-habitant
 \sn 1
 \ge membre.de.la.famille.de.l'épouse 
 \sn 2
 \ge ou de la catégorie des femmes
-\sy
 \xv 2/ án mùsolaka kɔ̀ni bólo...
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx mùso.man.nin
@@ -64068,7 +61552,6 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mùso.ntan.ya
-\va
 \ps n
 \lt femme-absence
 \sn 1
@@ -64076,15 +61559,6 @@ toutes les "mères" de la grande famille)
 \ge masculin
 \sn 2
 \ge veuvage de l'homme
-\sy
-\xv
-\xe
-\sn
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Jos, bk
 \dt 11/Nov/2007
 
@@ -64094,27 +61568,13 @@ toutes les "mères" de la grande famille)
 \ge exciseuse
 \xv kàrisa yé mùsoselijila yé, màliden dòn fána
 \xe Une telle est exciseuse, malienne de plus  (kb 1/05 p.7)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx mùso.sintaki
-\va
 \ps n
 \lt femme-gonflement
 \ge mammite
 \sy síndimi
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Jakité ? (- Jos) augmentation exagérée du volume du sein
 \dt 11/Nov/2007
 
@@ -64394,18 +61854,10 @@ va mùso.gwana.ya
 \dt 26/Sep/2006
 
 \lx myɛ̀myɛ
-\va
 \ps n
-\lt
 \ge assoupissement
-\sy
 \xv myɛ̀myɛ dá'ń tùn bɛ́ né lá dɔ́ɔnin
 \xe j'étais à moitié endormi
-\xv
-\ue
-\un
-\cf
-\ce
 \rem on entend encore les gens causer
 \dt 11/Nov/2007
 
@@ -64428,19 +61880,10 @@ va mùso.gwana.ya
 \dt 26/Sep/2006
 
 \lx myɛ̀.tɔ
-\va
 \ps adj/n
 \lt faim de viande-qui a
 \ge friand.de.viande
 \ge de poisson
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du : personne en état de carence de viande (protéines animales)
 \dt 11/Nov/2007
 
@@ -64585,19 +62028,10 @@ va mùso.gwana.ya
 \dt 26/Sep/2006
 
 \lx nàa.kɔrɔ.la.dimi
-\va
 \ps n
 \lt pelvis-douleur
 \ge douleur.pelvienne
 \ge bas-ventre douloureux
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jakité : avec dysurie ou leucorrhée
 \dt 11/Nov/2007
 
@@ -64766,35 +62200,16 @@ va mùso.gwana.ya
 \dt 26/Sep/2006
 
 \lx nádamu
-\va
 \ps v
-\lt
 \ge bien.éduquer
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
 \lx nádiya.fɛn
-\va
 \ps n
 \lt sauce-rendre bon-chose
 \ge condiment
 \ge ingrédients culinaires
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jos
 \dt 11/Nov/2007
 
@@ -64830,28 +62245,13 @@ va mùso.gwana.ya
 sèn b'o la
 \xe si le manque de nourriture tue le bétail et rend la terre sans profit, nos mauvaises actions y ont leur part (kb 2/06
 p.7)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx nàfa.sɔrɔ.sira
-\va
 \ps n
 \lt profit-gagner-voie
 \ge économie
 \ge (science pratique)
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, jos, du : voies du progrès, du développement  : culture, pêche, élevage
 \dt 11/Nov/2007
 
@@ -64873,19 +62273,10 @@ p.7)
 \dt 26/Sep/2006
 
 \lx ná.fɛn
-\va
 \ps n
 \lt sauce-ingrédients
 \ge ingrédient.de.la.sauce 
 \ge condiments
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jos
 \dt 11/Nov/2007
 
@@ -64897,19 +62288,12 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nàfolo.tigi.ya
-\va
 \ps n
 \lt biens-propriété
 \ge richesse
 \ge propriété de biens, richesse, fortune
-\sy
 \xv à lá nàfolotigiya hákɛ tɛ̀mɛna kójugu  / kà nàfolotigiya kɛ́
 \xe le montant de sa fortune est par trop grand / devenir propriétaire
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 : possession de richesses
 \dt 11/Nov/2007
 
@@ -65023,19 +62407,10 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nákɔ.fɛn
-\va
 \ps n
 \lt jardin-chose
 \ge plante.potagère
 \ge légume ...
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jos
 \dt 11/Nov/2007
 
@@ -65135,20 +62510,12 @@ p.7)
 \dt 26/Sep/2006
 
 \lx náma
-\va
 \ps adj
 \lt sauce-qui a
 \ge pourvu.de.sauce
 \ge plein.de.sauce ...
-\sy
 \xv ní mín mána tíla dúmuni ná, ò k'à tɛ́gɛ náma jɔ̀ɔsi dùgakɔrɔ kùnkolo lá
 \xe que celui qui a fini de manger aille se ressuyer les mains pleines de sauce sur la tête du vautour (kb 11/04 p.9)
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx nàmakɔrɔba-lá-bálafɔ-npíri
@@ -65225,19 +62592,11 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nàmasira
-\va
 \ps n
 \ge alliés
 \lt parents côté maternel-chemin
 \ge parents par alliance, alliés
-\sy
 \xv kà nàmasira wéle
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem + parenté par le sang, amis, connaissances
 \dt 11/Nov/2007
 
@@ -65289,19 +62648,10 @@ p.7)
 \dt 16/Aug/2006
 
 \lx ná.mugu
-\va
 \ps n
 \lt sauce-poudre
 \ge poudre
 \ge pour la sauce (toute plante qui a du mucilage en particulier : feuilles de baobab ....)
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, du, jos
 \dt 11/Nov/2007
 
@@ -65405,12 +62755,6 @@ p.7)
 \ge pays.des.blancs
 \xv à kɛ́len kɔ́ kà fàrafinna ní nànsarala bɛ́ɛ kòlonkolon...
 \xe après avoir parcouru toute l'Afrique et l' Occident ... (kb 3/06 p.2)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx nànsara.ya
@@ -65419,12 +62763,6 @@ p.7)
 \ge manière.d'agir.des.blancs
 \xv kàbi nànsaraya nàna, ò làadaɲuman nìnnu tíɲɛna
 \xe depuis que sont venues les manières d'agir des blancs, toutes ces bonnes coutumes se sont gâtées (kb 6/06 p.8)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx nànsara.dɔn
@@ -65476,22 +62814,13 @@ p.7)
 \dt 26/Sep/2006
 
 \lx ná.sɔngɔ
-\va
 \ps n
 \lt sauce-prix
 \sn 1
 \ge prix.des.condiments 
 \sn 2
 \ge somme donnée chaque jour à la femme par le mari pour les dépenses de la cuisine
-\sy
 \xv násɔngɔ ká cá kínisɔngɔ yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx násɔn.ya
@@ -66286,14 +63615,7 @@ p.7)
 \ge objet ou personne qui dégoûte  (casse-pied ....)
 \sn 2
 \ge dégoût  ... ras-le-bol
-\sy
 \xv mín bɛ́ í déli k'í déli, nìn kó yé nègebɔ yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 : être incongru, bn, jos
 \dt 11/Nov/2007
 
@@ -66305,19 +63627,11 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nège.ji
-\va
 \ps n
 \lt envie-eau
 \ge sperme
 \sy làwa
 \sy cɛ̀yaji
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem alf,  jos, du : +  'eau à la bouche', salive  : sens contesté par  Jos
 \dt 11/Nov/2007
 
@@ -66330,19 +63644,10 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nègemafɛn
-\va
 \ps n
 \lt enviable-objet
 \ge friandise
 \ge gourmandise (objet)
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -66444,19 +63749,11 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɛ́ɛma.yɔrɔ
-\va
 \ps n
 \lt fraîcheur-endroit
 \ge endroit.frais
 \ge et agréable
-\sy
 \xv bá bɛ́ yɔ́rɔ ó yɔ́rɔ, ò yé nɛ́ɛmayɔrɔ yé
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jos
 \dt 11/Nov/2007
 
@@ -66503,18 +63800,9 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɛ̀furufuru
-\va
 \ps n
 \lt langue-ulcérations
 \ge ulcération.linguale
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du, jakité, jos
 \dt 11/Nov/2007
 
@@ -66532,84 +63820,43 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɛ̀gɛbɛnnan
-\va
 \ps n
 \lt arme-protéger-qui sert à
 \ge bouclier
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx nɛ̀gɛ.buguri
-\va
 \ps n
 \lt fer-poussière
 \ge limaille.de.fer
 \sy nɛ̀gɛmɔɲɔmɔɲɔ
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos
 \dt 11/Nov/2007
 
 \lx nɛ̀gɛ.da
-\va
 \ps n
 \lt métal-blessure
 \ge blessure
 \ge d'une arme à feu, d'un couteau  (de circoncision ...)
-\sy
 \xv nɛ̀gɛda kélen dè bɛ́ sàma ná, sàma dálen k'à kùn màsuli
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem b
 \dt 11/Nov/2007
 
 \lx nɛ̀gɛ.fin
-\va
 \ps n
 \lt fer-noir
 \ge fer
 \ge (opposé aux autres métaux : zinc, alu, or ...)
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89 + gn
 \dt 11/Nov/2007
 
 \lx nɛ̀gɛ.jɔ
-\va
 \ps n
 \lt fer-treillis
 \ge grillage
 \sy gíriyasi
 \xv ò fɔ̀lɔ dátugulen dòn ní nɛ̀gɛjɔ yé
 \xe ces fenêtres sont fermées avec du grillage
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
@@ -66620,7 +63867,6 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɛ̀gɛ.kisɛ
-\va
 \ps n
 \lt fer-grain
 \sn 1
@@ -66628,14 +63874,6 @@ p.7)
 \ge de fusil de  chasse
 \sn 2
 \ge balle de fusil de guerre
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f, jos
 \dt 11/Nov/2007
 
@@ -66647,28 +63885,13 @@ p.7)
 \sy nɛ̀gɛkɔrɔsigili
 \xv ù kó : mùsomannin ká nɛ̀gɛkɔrɔsigi kà dábila / nɛ̀gɛkɔrɔsigili  kà dábila
 \xe ils ont demandé d'abandonner 'la coutume de' l'excision (kb 5/06 p.7) / (kb 12/05 p.4)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx nɛ̀gɛ.ma
-\va
 \ps adj
 \lt fer-en
 \ge en.fer
 \ge métallique
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Bz, Mol
 \dt 11/Nov/2007
 
@@ -66700,19 +63923,12 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nɛ́gɛn.ni
-\va
 \ps n
 \lt tromper-action
 \ge tromperie
 \ge flatterie, séduction
-\sy
 \xv ní nɛ́gɛnni má fɛ́n ó fɛ́n ɲɛ̀, díyagoya t'ò ɲɛ̀  (2340)
 \xe ce qu'on n'a pu obtenir en essayant d'amadouer une personne, la contrainte ne l'obtiendra pas
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89
 \dt 11/Nov/2007
 
@@ -66732,19 +63948,11 @@ p.7)
 \dt 12/Aug/2006
 
 \lx nɛ̀gɛ.sira
-\va
 \ps n
 \lt fer-chemin
 \ge rail
 \ge chemin de fer
-\sy
 \xv ízini nìn jɔ̀li nà dɔ́ fàra nɛ̀gɛsira nàfa kàn Kíta
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, b, jos
 \dt 11/Nov/2007
 
@@ -66763,18 +63971,9 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nɛ̀gɛso-sònsantulo
-\va
 \ps n
 \lt vélo-oreille de lapin
 \ge papillon.des.roues.de.bicyclette
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f 81, jos
 \dt 11/Nov/2007
 
@@ -66867,14 +64066,7 @@ p.7)
 \lt langue-longue
 \ge bavard
 \ge qui a la langue bien pendue
-\sy
 \xv ní mín dá ká dí = nɛ̀jan
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem l 89, jos
 \dt 11/Nov/2007
 
@@ -66884,16 +64076,9 @@ p.7)
 \ge langue
 \xv náafigi nɛ̀kisɛ ká jàn ń'á yɛ̀rɛkun yé
 \xe la langue du rapporteur est plus grande que lui-même (kb 1/06 p.6)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx nɛ̀.kɔrɔ.ji
-\va
 \ps n
 \lt langue-sous-salive
 \sn 1
@@ -66904,11 +64089,6 @@ p.7)
 \sy kílisi
 \xv tùbabufura bɛ́ dɛ́sɛ bàna dɔ́ lá, nɛ̀kɔrɔji b'á fúra kɛ́
 \xe là où les remèdes européens échouent, les formules magiques réussissent
-\xv
-\ue
-\un
-\cf
-\ce
 \rem f 81, jos
 \dt 11/Nov/2007
 
@@ -66974,7 +64154,6 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nɛ̀nɔrɔ
-\va
 \ps n
 \lt langur-coller
 \sn 1
@@ -66983,14 +64162,6 @@ p.7)
 \ge zézaiement
 \sn 3
 \ge personne qui zézaye
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem 81, jos, du : défaut de prononciation, personne affligée de ce défaut
 \dt 11/Nov/2007
 
@@ -67721,18 +64892,10 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nì.fana
-\va
 \ps n
 \lt partage-repas
 \ge part.de.repas
 \sy nìto
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos, b
 \dt 11/Nov/2007
 
@@ -67740,52 +64903,29 @@ p.7)
 \ps n
 \lt vie-gaz
 \ge oxygène
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
 \nt donniya 5/6 p.17
 \dt 11/Nov/2007
 
 \lx ní.gɛlɛn
-\va
 \ps n
 \lt vie-dure
 \sn 1
 \ge résistant
 \sn 2
 \ge qui n'a pas pitié des faibles : cruel
-\sy
 \xv sòlo ní jàkuma ní ká gɛ̀lɛn / fàrafin ní ká gɛ̀lɛn tìle bólo
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem des affamés, des malades
 \dt 11/Nov/2007
 
 \lx ní.gɛlɛ.ya
-\va
 \ps n
 \lt âme-dureté
 \sn 1
 \ge résistance 
 \sn 2
 \ge cruauté, fureur
-\sy
 \xv Í yé nígɛlɛya kɛ́ né lá,
 \xe tu es devenu cruel à mon égard (Job 30, 21)
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx nìgiri
@@ -67828,47 +64968,26 @@ p.7)
 \lt âme-méchante
 \ge violent
 \ge cruel ..., dictateur, oppresseur, tyran
-\xv
-\xe
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx ní.kan.den
-\va
 \ps n
 \lt amour-enfant
 \ge enfant.chéri
 \sy dén màndi
 \xv à wóloba níkanden dòn
 \xe c'est l'enfant préféré de sa mère (Ct 6, 9)
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx ní.ka.nko
-\va
 \ps n
 \lt âme-sur-chose
 \ge désir.profond
 \ge ce qu'on a à coeur : intention ferme, désir profond, tenace / (dernières) volontés
-\sy
 \xv à níkanko yé kà táa Bàmakɔ / í níkanko ní í ɲɛ́nako ɲíni!
 \xe  / fais tout ce que tu désires et ce qui te plaît (Qo 11, 9)
 \xv kàtugu à má Mátigi Ála ɲínili kɛ́ à níkanko yé
 \xe il ne s'appliqua pas de tout son coeur à chercher le Seigneur (2 Ch 12, 14)
-\ue
-\un
-\cf
-\ce
 \rem jos, du : intention immédiate
 \dt 11/Nov/2007
 
@@ -67880,13 +64999,6 @@ p.7)
 \ge personne préférée
 \sy nídɔngɔmɔgɔ
 \sy níkantɛri
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos
 \dt 11/Nov/2007
 
@@ -67898,26 +65010,17 @@ p.7)
 \dt 26/Sep/2006
 
 \lx nì.ko
-\va
 \ps n
 \lt part-affaire
 \sn 1
 \ge affaire.personel
 \sn 2
 \ge du : problème, responsabilité ...
-\sy
 \xv ń'í yé kɛ̀lɛ kɛ́, í bɛ́ kùnko mín sɔ̀rɔ ò lá, ò dè bɛ́ wéle : í nìko
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem du
 \dt 11/Nov/2007
 
 \lx níkun
-\va
 \ps n
 \lt âme-unité
 \sn 1
@@ -67925,14 +65028,8 @@ p.7)
 \ge personne, sujet 
 \sn 2
 \ge ce qui tient à coeur à qn
-\sy
 \xv mɔ̀npɛriya bɛ́ à níkun kàn / Zàkɔbu níkun kɛ́nɛyara (gn 45, 27)
 \xe il aimerait fort devenir 'prêtre'  / Jacob se ranima
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jos
 \dt 11/Nov/2007
 
@@ -68068,36 +65165,19 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nínakili
-\va
 \ps n
 \lt souffle de vie-appeler
 \ge respiration
 \ge haleine
-\sy
 \xv à yé nínakili dòn ò núwo kɔ́nɔ ní à dáfiyɛn yé (gn 2, 7)
 \xe il lui insuffla dans ses narines le souffle de vie
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx nínakili.degun
-\va
 \ps n
 \lt respiration-gêne
 \ge asthme
 \ge cardioptahie dyspnéisante
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem jakité, du
 \dt 11/Nov/2007
 
@@ -68121,14 +65201,6 @@ p.7)
 \lt don-objet
 \ge cadeau
 \ge offrande (à Dieu, à des amis ...)
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem bz, Mol, b, jos / ex 29, 25
 \dt 11/Nov/2007
 
@@ -68167,19 +65239,9 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nísɔn.duman
-\va
 \ps adj
 \lt coeur-gai
 \ge joyeux
-\sy
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
-\rem
 \dt 11/Nov/2007
 
 \lx nísɔngɔ.bɔ.la
@@ -68633,12 +65695,6 @@ p.7)
 \ge dire de qn qu'il a menti
 \xv séereyasɛbɛn ìn y'ó nkàlontigiya
 \xe ce rapport prouve que ce n'est pas vrai ... (kb 1/06 p.4)
-\xn
-\ue
-\un
-\cf
-\ce
-\nt
 \dt 11/Nov/2007
 
 \lx nkàlon.ncì
@@ -68679,7 +65735,6 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nkànbafin
-\va
 \ps n
 \lt nkan-gros-noir
 \ge iule
@@ -68687,13 +65742,6 @@ p.7)
 \sy nkànbaŋele
 \ue (Kó)
 \sy nkàbaŋele
-\xv
-\xe
-\xv
-\ue
-\un
-\cf
-\ce
 \rem Cas / remède du kòbòli
 \dt 11/Nov/2007
 
@@ -69003,7 +66051,6 @@ p.7)
 \dt 16/Aug/2006
 
 \lx nkɛ́ɛrɛn-da-cɛ̀mannin
-\va
 \ps n
 \ge plante.Hibiscus.panduriformis
 \lt (grillon-hibiscus-mâle-ADJ-DIM)
@@ -70966,7 +68013,6 @@ p.7)
 \va pɔ̀n
 \ps n
 \ge pont
-\sy
 \xv fàtɔkɛ nàn'í sìgi npɔ̀n kàn
 \rem du, Jos :  prononciation de la ville /
 \dt 11/Nov/2007
@@ -72134,7 +69180,6 @@ p.7)
 \dt 26/Sep/2006
 
 \lx ntómi.ji
-\va
 \ps n
 \lt tamarinier-eau
 \ge jus.de.tamarin
@@ -72200,7 +69245,6 @@ p.7)
 \lx ntòni
 \ps n
 \ge poisson.Petrocephalus.sp.
-\sd
 \sy fyɛ́baden
 \sy dákurun…
 \dt 16/Aug/2006
@@ -72393,7 +69437,6 @@ g84
 \ge sauterelle
 
 \lx ntɔ̀n.bolo
-\va
 \ps n
 \lt sauterelle--file
 \ge armée.de.sauterelles
@@ -72410,7 +69453,6 @@ g84
 \dt 19/Aug/2006
 
 \lx ntɔ̀n.kulu
-\va
 \ps n
 \lt sauterelles-groupe
 \ge nuage.de.sauterelles
@@ -72614,11 +69656,9 @@ g84
 \dt 26/Sep/2006
 
 \lx ntùmu.ma
-\va
 \ps adj
 \lt ver-qui a
 \ge véreux
-\sy
 \xv à bɛ́ sì ntùmuma tɔ̀mɔ kà ɲùman tɔ̀mɔ
 \rem Mol
 \dt 11/Nov/2007
@@ -72753,7 +69793,6 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx nùgu.la.kɛn
-\va
 \ps n
 \lt entrailles-graisse
 \ge lard
@@ -72921,7 +69960,6 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 16/Aug/2006
 
 \lx núma.kuru.ma
-\va
 \ps adj/n
 \lt main gauche-qui est
 \ge gaucher
@@ -73463,12 +70501,10 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx ɲàga.ma
-\va
 \ps adj
 \lt résidu-qui a
 \ge non.nettoyé
 \ge non battu
-\sy
 \xv ɲɔ̀ ɲàgama / màlo ɲàgama
 \xe mil avec sa balle / paddy : riz non battu
 \rem bz, b / trouver mieux que résidu pour l'étymologie et des exemples
@@ -73601,7 +70637,6 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 26/Sep/2006
 
 \lx ɲámafu
-\va
 \ps n
 \lt 'arbre ɲama'-fibre
 \ge fibres.du.nyama'
@@ -73657,7 +70692,6 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \ge tas.d'ordures
 \sn 2
 \ge prénom
-\sy
 \xv ɲàmaton yé búnɛrɔtɔgɔ yé
 \rem b
 \dt 11/Nov/2007
@@ -73788,7 +70822,6 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \dt 16/Aug/2006
 
 \lx ɲánga
-\va
 \ps adv
 \ge beaucoup.de.poils
 \ge abondance de poils / l'étendue d'une surface ?
@@ -73993,7 +71026,6 @@ une labiale comme consonne suivante  di --> duman, ɲì --> ɲùman)
 \lt ('ɲa'.grand)
 \ps n
 \ge serpent.Dispholidus.typus
-\ge
 \ge Dispholidus typus
 \ee ---> 1,75 m
 \sy túrɔɲa
@@ -74279,7 +71311,6 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɛ́.gan
-\va
 \ps n
 \lt oeil-chaud
 \ge punition
@@ -74537,7 +71568,6 @@ paysans
 \lx ɲɛ́.kumu.ni
 \ps n
 \lt être aigri-action
-\ge
 \sn 1
 \ge méchanceté
 \ge sévérité
@@ -74868,7 +71898,6 @@ paysans
 \dt 11/Nov/2007
 
 \lx ɲɛ́.na.ye
-\va
 \ps n
 \lt des yeux-vision
 \ge mine
@@ -75150,7 +72179,6 @@ paysans
 \ps n
 \lt réussite-faire-celui qui
 \ge celui.qui.fait.réussir
-\sy
 \xv Ála yé tíɲɛnikɛla yé, à yé ɲɛ̀nikɛla yé
 \dt 11/Nov/2007
 
@@ -75184,7 +72212,6 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɛ́ri
-\va
 \ps v
 \ge fleurir
 \sm (en parlant des graminées)
@@ -75203,7 +72230,6 @@ paysans
 \dt 11/Nov/2007
 
 \lx ɲɛ́.siran.girin
-\va
 \ps n
 \lt peur-lourde
 \ge terreur
@@ -76349,7 +73375,6 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲígirɔ.gɛlɛn
-\va
 \ps adj/n
 \lt ? - dur
 \ge résolu
@@ -76449,7 +73474,6 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲínɛ.kalan
-\va
 \ps n
 \lt souris-rayée
 \sc Lemniscomys ...
@@ -76498,7 +73522,6 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲíni.ni.kɛ.la
-\va
 \ps n
 \lt rechercher-faire-celui qui
 \ge chercheur
@@ -76689,12 +73712,10 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɔ̀.falen
-\va
 \ps n
 \lt mil-germe
 \ge germes.de.mil
 \ge mil germé pour faire la bière de mil
-\sy
 \xv ní ɲɔ̀falen jàra...
 \xe quand le mil germé est sec
 \dt 11/Nov/2007
@@ -76793,7 +73814,6 @@ paysans
 \dt 11/Nov/2007
 
 \lx ɲɔ̀gɔn.ye.bali
-\va
 \ps ptcp
 \lt pareil-voir-nég
 \ge insolite
@@ -76919,7 +73939,6 @@ paysans
 \dt 26/Sep/2006
 
 \lx ɲɔ̀.kala
-\va
 \ps n
 \lt mil-tige
 \ge tige.de.mil
@@ -76981,7 +74000,6 @@ paysans
 
 \lx ɲɔ́ngɔ
 \va ɲɔ́nɔ
-\va 
 \ue (f,bk)
 \va ɲɔ́gɔn
 \fq r
@@ -77255,7 +74273,6 @@ paysans
 \lt (ingrat.suf abs)
 
 \lx ɲùman.dɔn.na
-\va
 \ps n
 \lt bienfait-reconnaître-celui qui
 \ge reconnaissant
@@ -77490,10 +74507,8 @@ paysans
 \ge faisander
 
 \lx ŋánwu
-\va
 \ps adv
 \ge puant
-\lt
 \ge d'une odeur puissante (dàtu, sunbala ...)
 \xv dàtu súma bɛ́ ŋánwu ! / súnbala...
 \rem Jos 95 (-bk)
@@ -78154,7 +75169,6 @@ paysans
 \lx pánpalan
 \ps adv
 \ge d'une.grande.surface
-\sy
 \xv ɲɔ̀foro gàlalen pánpalan ! / ò kɛ́su ká bòn pánpalan
 \rem jos, f
 \dt 11/Nov/2007
@@ -78291,7 +75305,6 @@ paysans
 \dt 16/Aug/2006
 
 \lx párata.li.kɛ.la
-\va
 \ps n
 \lt filage-faire-celle qui
 \ge fileuse
@@ -78736,7 +75749,6 @@ paysans
 
 \lx píritiparata
 \ps v
-\ge 
 \ge avoir une démarche désordonnée et rapide
 \dt 16/Aug/2006
 
@@ -79054,7 +76066,6 @@ paysans
 \dt 16/Aug/2006
 
 \lx rɔ́.suma
-\va
 \ps v
 \lt préf-refroidir
 \ge refroidir
@@ -79518,7 +76529,6 @@ paysans
 \ps n
 \ge liane.sp
 \ge Saba senegalensis
-\sd
 \ee (apoc)(ses fruits ont une pulpe savoureuse très recherchée)
 \sy nsàban
 \dt 16/Aug/2006
@@ -79541,7 +76551,6 @@ paysans
 \dt 26/Sep/2006
 
 \lx sàbara.juru
-\va
 \ps n
 \lt sandale-courroie
 \ge courroie.de.sandale
@@ -79578,7 +76587,6 @@ paysans
 \dt 26/Sep/2006
 
 \lx sàbati.ya
-\va
 \ps v
 \ge prospérer
 \sy sàbati
@@ -79803,7 +76811,6 @@ paysans
 \dt 19/Aug/2006
 
 \lx sàga.si.fini
-\va
 \ps n
 \lt mouton-poil-habit
 \ge lainage
@@ -79811,7 +76818,6 @@ paysans
 \dt 11/Nov/2007
 
 \lx sàga.wɛrɛ
-\va
 \ps n
 \lt ovin-par
 \ge bergerie
@@ -80496,7 +77502,6 @@ paysans
 \dt 16/Aug/2006
 
 \lx sàn.fɛn
-\va
 \ps n
 \lt vente-objet
 \ge marchandise
@@ -80845,7 +77850,6 @@ paysans
 \dt 26/Sep/2006
 
 \lx sàn.yɛlɛma.seli
-\va
 \ps n
 \lt anniversaire-fête
 \ge anniversaire
@@ -81337,7 +78341,6 @@ paysans
 \dt 26/Sep/2006
 
 \lx sárati.kan
-\va
 \ps n
 \lt contrat-parole
 \ge contrat
@@ -81481,7 +78484,6 @@ paysans
 \dt 26/Sep/2006
 
 \lx sà.ta
-\va
 \ps ptcp
 \lt mourir-qui doit
 \ge mortel
@@ -82085,7 +79087,6 @@ paysans
 \dt 16/Aug/2006
 
 \lx séli.wolo
-\va
 \ps n
 \lt prière-peau
 \ge peau.de.prière
@@ -82193,7 +79194,6 @@ paysans
 \dt 16/Aug/2006
 
 \lx sé.ma.ko
-\va
 \ps n
 \lt pouvoir-endroit-affaire
 \ge pouvoir
@@ -82355,7 +79355,6 @@ paysans
 \dt 11/Nov/2007
 
 \lx sèn.kɔnin.kolo
-\va
 \ps n
 \lt pied-doigt-os
 \ge métacarpe
@@ -82364,7 +79363,6 @@ paysans
 \dt 11/Nov/2007
 
 \lx sèn.kɔnin.kunba
-\va
 \ps n
 \lt doigt de pied-gros
 \ge gros.orteil
@@ -82379,7 +79377,6 @@ paysans
 \dt 11/Nov/2007
 
 \lx sèn.na.siri
-\va
 \ps v
 \lt pied-lier
 \ge entraver.la.marche
@@ -82506,7 +79503,6 @@ paysans
 \lx sé.ń.yɛ̀rɛ.lá
 \ps n
 \lt pouvoir-soi-même-sur
-\ge
 \sn 1
 \ge maîtrise.de.soi
 \sm (dans tous les sens)
@@ -83672,7 +80668,6 @@ paysans
 \dt 11/Nov/2007
 
 \lx sɛ̀nɛ.kɛ.suman
-\va
 \ps n
 \lt culture-récolte
 \ge récoltes
@@ -83953,7 +80948,6 @@ paysans
 \dt 16/Aug/2006
 
 \lx sí.bolo
-\va
 \ps n
 \lt race-branche
 \ge clan
@@ -84122,7 +81116,6 @@ paysans
 \dt 16/Aug/2006
 
 \lx sìgi.n.fɛ.ya
-\va
 \ps n
 \lt étranger-suf abs
 \ge condition.d'étranger
@@ -84204,7 +81197,6 @@ paysans
 \lx sìgi.yɔrɔ.ma
 \ps v
 \lt poser-lieu-suf
-\ge
 \sn 1
 \ge multiplier
 \sn 2
@@ -84415,7 +81407,6 @@ sènɲɛ̀ duuru
 \dt 12/Aug/2006
 
 \lx sí.kisɛ
-\va
 \ps n
 \lt espèce-grain
 \ge semence
@@ -86327,7 +83318,6 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx só.ɲinɛ
-\va
 \ps n
 \lt maison-souris
 \ge souris
@@ -86343,7 +83333,6 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx sòona.don.yɔrɔ
-\va
 \ps n
 \lt se réfugier-endroit
 \ge asile
@@ -87176,7 +84165,6 @@ sìtànɛ̀màko la
 \dt 11/Nov/2007
 
 \lx sɔ̀n.na.siran
-\va
 \ps v
 \lt coeur-effrayer
 \ge effrayer
@@ -87187,7 +84175,6 @@ sìtànɛ̀màko la
 \dt 11/Nov/2007
 
 \lx sɔ̀n.ni
-\va
 \ps n
 \lt consentir-action
 \ge consentement
@@ -87680,7 +84667,6 @@ sìtànɛ̀màko la
 \lt (agiter-agiter)
 
 \lx súgu.la.ŋɔmi
-\va
 \ps n
 \lt marché-au-galette
 \ge galette.du.marché
@@ -88226,7 +85212,6 @@ sìtànɛ̀màko la
 \dt 16/Aug/2006
 
 \lx sún.bali
-\va
 \ps ptcp
 \lt jeûner-nég
 \ge qui.ne.jeûne.pas
@@ -89031,7 +86016,6 @@ sìtànɛ̀màko la
 \lx syɛ̀.kasi.dono
 \ps n
 \lt poule-chant -coq
-\ge
 \sn 1
 \ge coq.qui.chante
 \sn 2
@@ -89086,7 +86070,6 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx syɛ̀nma
-\va
 \ps adj
 \ge rempli.de.miel
 \ge (alvéole)
@@ -89791,7 +86774,6 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tàasi.bali
-\va
 \ps ptcp
 \lt réfléchir-nég
 \ge irréfléchi
@@ -89799,7 +86781,6 @@ sìtànɛ̀màko la
 \dt 11/Nov/2007
 
 \lx táa.sira
-\va
 \ps n
 \lt aller-chemin
 \sn 1
@@ -91881,7 +88862,6 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx tìiri.ci.lan
-\va
 \ps n
 \lt trait-tirer-qui sert à
 \ge règle
@@ -93672,7 +90652,6 @@ ps v
 \dt 16/Aug/2006
 
 \lx tɔ̀n
-\va
 \ps n
 \ge interdiction
 \xv kà jí bìla tɔ̀n ná / sùman sí tɛ́ dénmisɛnnin fɛ̀ tɔ̀n ná bílen
@@ -94321,7 +91300,6 @@ ps v
 \dt 16/Aug/2006
 
 \lx túlo.bu
-\va
 \ps n
 \lt oreille-chair
 \ge lobe.d'oreille
@@ -94346,7 +91324,6 @@ ps v
 \dt 11/Nov/2007
 
 \lx túlo.ma
-\va
 \ps adj
 \lt oreille-qui a
 \ge ayant.oreilles
@@ -95712,7 +92689,6 @@ ps v
 \dt 16/Aug/2006
 
 \lx wáli.jamana
-\va
 \ps n
 \lt étranger-pays
 \ge pays.étranger
@@ -95797,7 +92773,6 @@ ps v
 \dt 26/Sep/2006
 
 \lx wára.ba.den
-\va
 \ps n
 \lt lion-petit
 \ge lionceau
@@ -95805,7 +92780,6 @@ ps v
 \dt 11/Nov/2007
 
 \lx wára.ba.muso
-\va
 \ps n
 \lt lion-femelle
 \ge lionne
@@ -95815,7 +92789,6 @@ ps v
 \lx wára.da.gan
 \va wára.da.gwan
 \ph [gw]
-\va
 \sc Opilia celtidifolia = O. amentacea
 \fb opiliacées
 \ps n
@@ -95987,7 +92960,6 @@ ps v
 \dt 11/Nov/2007
 
 \lx wári.jɛ.kisɛ
-\va
 \ps n
 \lt argent-pièce
 \ge pièce.d'argent
@@ -96096,7 +93068,6 @@ ps v
 \dt 26/Sep/2006
 
 \lx wàsa.bali
-\va
 \ps ptcp
 \lt satisfaire-nég
 \ge insatisfait
@@ -98490,7 +95461,6 @@ ps v
 \ge RCNT
 
 \lx yé.bali
-\va
 \ps ptcp
 \lt voir-nég
 \ge invisible
