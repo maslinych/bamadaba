@@ -4,7 +4,7 @@
 \lx à
 \sn 1
 \ps pers
-\ge 1SG
+\ge 3SG
 \ge il
 \ge elle ; le
 \ge la
@@ -565,10 +565,13 @@ par ses racines, ses fruits mangés par le petit bétail
 \lt (7ème mois .attente)
 \dt 16/Aug/2006
 
-\lx áw
-\va á'
+\lx á'
 \ps pers
 \ge 2PL
+
+\lx áw
+\ps pers
+\ge 2PL.EMPH
 \ge vous
 \ge vous (souvent de sens emphatique)
 \xv á bɔ́ra mín ?
@@ -613,7 +616,7 @@ par ses racines, ses fruits mangés par le petit bétail
 \ge (peut introduire une prudente réflexion ...)
 \dt 26/Sep/2006
 
-\lx à.le
+\lx àle
 \ue (f)
 \va ɛ̀
 \va é
@@ -4700,6 +4703,10 @@ ou non)
 \xv án b'á fɛ̀  kà táa Bàmakɔ
 \xe nous voulons aller à Bamako
 \dt 26/Sep/2006
+
+\lx bɛ́
+\ps pm
+\ge IPFV.AFF
 
 \lx bɛ́ kà
 \va bɛ́ k'
@@ -18381,7 +18388,7 @@ non loin d'un bosquet de cette espèce.
 \lx dòn
 \va dò
 \ps cop
-\ge COP
+\ge PRES
 \sn 1
 \ge nominal
 \ee (connote le présent positif ; associé à tùn  = imparfait)
@@ -20541,7 +20548,7 @@ meurs !
 
 \lx dùn
 \ps prt
-\ge donc
+\ge TOP.CNTR
 \ge particule d'opposition et de renforcement
 \ge quant à
 \ee se place derrière le mot qu'elle souligne)
@@ -32606,6 +32613,10 @@ t'en reparle pas
 \ge marque de doute
 \dt 16/Aug/2006
 
+\lx í
+\ps pers
+\ge REFL
+
 \lx í
 \ps pers
 \sn 1
@@ -32643,6 +32654,10 @@ t'en reparle pas
 \lt (tu.aux fut.ceci.dire)
 \dt 16/Aug/2006
 
+\lx íko
+\ps conj
+\ge comme
+
 \lx íkomi
 \ee amalgame ? de iko + komi
 \bw fr : comme
@@ -32658,7 +32673,7 @@ t'en reparle pas
 
 \lx ìn
 \ps dtm
-\ge ce
+\ge DEF
 \ee parfois associé à nìn
 \xv kɔ̀lɔn ìn ká dùn dɛ́ !
 \xv nìn kɔ̀lɔn ìn ká dùn dɛ́
@@ -38170,13 +38185,6 @@ l'étranger en disant :  l'eauest prête
 \dt 26/Sep/2006
 
 \lx kà
-\cf kàn
-\ps v
-\ge faucher
-\ge couper
-\dt 26/Sep/2006
-
-\lx kà
 \ps v
 \ge nier
 \ge ne pas avouer
@@ -38200,7 +38208,7 @@ l'étranger en disant :  l'eauest prête
 
 \lx ká
 \ps pm
-\ge QUAL
+\ge QUAL.AFF
 \ge (reliant l'adjectif prédicat à son sujet)
 \xv à ká bòn
 \xe il est gros
@@ -40401,12 +40409,12 @@ hernies, kyste de l'ovaire...)
 \dt 16/Aug/2006
 
 \lx kàna
-\va kána
+\va kánà
 \va kàn'
 \ue (jula : ton inversé)
 \ps pm
 \sn 1
-\ge IMP:NEG
+\ge PROH
 \xv Ála kà  án kùlu fá,  à kàna  án bá fá !
 \xe Que Dieu nous comble (de ses biens) comme une colline, non comme une rivière !
 \sn 2
@@ -47491,7 +47499,7 @@ on l'appelle "Nsan"
 
 \lx kɔ̀ni
 \ps prt
-\ge quant.à
+\ge TOP
 \ge particule d'insistance
 \ge quant à ...
 \ge pour ce qui est de ...
@@ -53887,6 +53895,11 @@ ligne)
 \ge ce.n'est.pas..vrai
 \dt 16/Aug/2006
 
+\lx lá-
+\va ná-
+\ps mrph
+\ge CAUS
+
 \lx láa
 \ps onomat
 \ge intensité.d'un.coup
@@ -58046,11 +58059,16 @@ toutes les "mères" de la grande famille)
 \sy báfaarɔ
 \dt 16/Aug/2006
 
+\lx mà-
+\va màn-
+\ps mrph
+\ge SUPER
+
 \lx máa
 \va mána
 \ps pm
 \sn 1
-\ge COND
+\ge COND.AFF
 \ge auxiliaire verbal positif du futur hypothétique (éventuel)
 \sn 2
 \ge auxiliaire verbal positif des temporelles d'antériorité
@@ -58063,7 +58081,7 @@ toutes les "mères" de la grande famille)
 \lx màa
 \va mà
 \ps pm
-\ge RARE!
+\ge DES
 \ge auxiliaire verbal des bénédictions
 \ee (il est souvent associé aux sufiixes : -ra /-la /-na ajoutés au radical verbal)
 \xv Ála máa  à bálola !
@@ -61454,7 +61472,7 @@ toutes les "mères" de la grande famille)
 
 \lx mín
 \ps prn
-\ge lequel
+\ge REL
 \ge laquelle
 \ge qui
 \ge que
@@ -64509,7 +64527,7 @@ va mùso.gwana.ya
 \ee *nà = venir
 \ps pm
 \sn 1
-\ge FUT
+\ge CERT
 \xv à ná sà
 \xe il va mourir
 \sn 2
@@ -68015,6 +68033,7 @@ p.7)
 \lx nìn
 \ph [le ton est ponctuel bas devant une syllabe haute, modulé ascendant devantune syllabe basse]
 \ps dtm/prn
+\ge DEM
 \ge ce
 \ge ceci
 \ge celui-ci
@@ -76707,7 +76726,9 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɔ́gɔn
+\va ɲúan
 \ps prn
+\ge RECP
 \ge l'un.l'autre
 \ge les uns les autres
 \xv ù bɛ́  ɲɔ́gɔn dɛ̀mɛ
@@ -77925,6 +77946,10 @@ paysans
 \xe celui que tu rencontreras, amène-le
 \dt 26/Sep/2006
 
+\lx ò
+\ps prn
+\ge ANAPH
+
 \lx ófu
 \va óf
 \ph [of]
@@ -77942,9 +77967,10 @@ paysans
 \xe certains malades ont été soignés, mais d'autres ont été opérés (kb 2/06 p.3
 \dt 11/Nov/2007
 
-\lx ò.lu
+\lx òlu
 \lt (celui-là.pl)
 \ps pers
+\ge ANAPH.PL
 \ge ceux
 \ge pronom démonstratif pluriel
 \ee (sert de pronom de rappel au relatif : minnu)
@@ -93430,13 +93456,13 @@ ps v
 \dt 26/Sep/2006
 
 \lx tɔ̀gɔ
-\va á
+\va twá
 \ps n
 \ge hanche
 \dt 16/Aug/2006
 
 \lx tɔ̀gɔ
-\va á
+\va twá
 \ps n
 \ge pièce.de.raccommodage
 \xv à yé  tɔ̀gɔ dòn  dùlɔki lá
@@ -95055,14 +95081,6 @@ ps v
 \ge leur
 \ge leurs ...
 \dt 26/Sep/2006
-
-\lx ún
-\ue (f)
-\ph [anw --> aun --> un]
-\ps pers
-\ge 1PL.EMPH
-\ge nous (variante de anw) (forme emphatique)
-\dt 16/Aug/2006
 
 \lx ùnhun
 \ps intj
@@ -98441,6 +98459,10 @@ ps v
 \xe ça se fait
 \dt 16/Aug/2006
 
+\lx yé
+\ps cop
+\ge EQU
+
 \lx yé
 \va y'
 \ps pm
@@ -98462,6 +98484,10 @@ ps v
 \xv ò yéra !
 \xe on l'a retrouvé ! (eurêka !)
 \dt 26/Sep/2006
+
+\lx yé kà
+\ps pm
+\ge RCNT
 
 \lx yé.bali
 \va
@@ -99765,7 +99791,7 @@ dumunikɛyɔrɔ la
 \xe l'héritier (celui qui prend l'héritage) 
 \dt 26/Sep/2006
 
-\lx –baa.nci
+\lx -baa.nci
 \va baga.nci
 \ps mrph
 \ge AG.OCC-AG.EX
@@ -99912,6 +99938,7 @@ dumunikɛyɔrɔ la
 \dt 26/Sep/2006
 
 \lx -la
+\va -na
 \ps mrph
 \ge PROG
 \ge suffixe ajouté à la forme verbale en "-tɔ"
@@ -99941,7 +99968,7 @@ dumunikɛyɔrɔ la
 \xe mangeur de "to"
 \dt 26/Sep/2006
 
-\lx –la
+\lx -la
 \va -na
 \ps mrph
 \ge MNT1
@@ -100074,9 +100101,9 @@ dumunikɛyɔrɔ la
 \xe qui oublie (sans mémoire)
 \dt 16/Aug/2006
 
-\lx –ra
-\va –la
-\va –na
+\lx -ra
+\va -la
+\va -na
 \ps mrph
 \ge IPFV.INTR
 
@@ -100118,7 +100145,7 @@ dumunikɛyɔrɔ la
 \ee (à base de végétaux fermentés : graines de "nɛrɛ", d'oseille ...)
 \dt 16/Aug/2006
 
-\lx -ẁ
+\lx -w
 \ph [-ù , le choix judicieux de l'orthographe supprime des équivoques](rappel : on néglige la transcription du ton bas dans ce dictionnaire)
 \ps mrph
 \ge PL
