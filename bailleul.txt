@@ -3532,8 +3532,8 @@ gâteries)
 \xe le cordon ombilical de l'enfant est tombé
 \dt 26/Sep/2006
 
-\lx bára.daa
-\va bára.da
+\lx báradaa
+\va bárada
 \ps n
 \ge théière
 \ge cafetière
@@ -52761,6 +52761,7 @@ kurunninle bois sur lequel le forgeron circoncit, nous l'appelons "kurunnin"
 \dt 26/Sep/2006
 
 \lx -la
+\va -na
 \ps mrph
 \ge AG.PRM
 \sm (nuance d'habitude, de métier)
@@ -52773,7 +52774,7 @@ kurunninle bois sur lequel le forgeron circoncit, nous l'appelons "kurunnin"
 \lx -la
 \va -na
 \ps mrph
-\ge MNT1
+\ge MENT1
 \ee ajouté à des noms de sens abstrait : miiri  = miirina pensée
 \dt 16/Aug/2006
 
@@ -55270,7 +55271,7 @@ laɲɛbagaw dè ye
 \va -nata
 \ee la = endroit, ta = part 
 \ps mrph
-\ge MNT2
+\ge MENT2
 \ee (s'accole à des mots de sens abstraits, nuance personnelle)
 \xv hákililata
 \xv míirinata
@@ -56421,6 +56422,14 @@ portent maintenant des culottes à élastique)
 \xv ntùmuma
 \xe véreux
 \dt 16/Aug/2006
+
+\lx -ma
+\ps mrph
+\ge RECP.PRN
+
+\lx -ma
+\ps mrph
+\ge DIR
 
 \lx má
 \ps n
@@ -95330,6 +95339,15 @@ ps v
 \ge menteur
 \lt (mensonge.dire.celui qui)
 \sy nkàlontigɛla
+
+\lx -ya
+\va yɛ
+\ps mrph
+\ge ABSTR
+
+\lx -ya
+\ps mrph
+\ge DEQU
 
 \lx yà
 \ue (f)
