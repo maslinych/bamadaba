@@ -868,7 +868,7 @@ les épouses des oncles paternels)
 \dt 16/Aug/2006
 
 \lx -baa.nci
-\va baga.nci
+\va -baga.nci
 \ps mrph
 \ge AG.OCC-AG.EX
 \ge suffixe d'agent à l'excès
@@ -877,7 +877,7 @@ les épouses des oncles paternels)
 \dt 16/Aug/2006
 
 \lx -baa.nci.ya
-\va baga.nci.ya
+\va -baga.nci.ya
 \ps mrph
 \ge AG.OCC-AG.EX-ABSTR
 \ge suffixe marquant l'excès d'un défaut(ou plus rarement l'excellence d'une qualité chez qn)
@@ -24188,7 +24188,7 @@ dans lesquelles on trait les vaches)
 \xe une manière voilée de parler de la lèpre est de dire : "la grande maladie"
 \dt 15/Aug/2006
 
-\lx fɛ́ngɛ.ɲɛ
+\lx fɛ́ngɛɲɛ
 \va fɛ́ngɛngɛ
 \ps n
 \ge derrière
@@ -24554,7 +24554,7 @@ dans lesquelles on trait les vaches)
 \dt 26/Sep/2006
 
 \lx fìla.kwà.ma
-\va fìla.sira.kɔ̀gɔ.ma
+\va sira.kɔ̀gɔ.ma
 \ue (f)
 \ph [flsìrakɔ̀gɔ̀ma]
 \ps n
@@ -35861,8 +35861,8 @@ accompagnerait des danses de possession)
 \ge érection
 \dt 26/Sep/2006
 
-\lx jíri.kɔrɔta
-\va yírikɔrɔta
+\lx jíri.kɔrɔ.ta
+\va yíri.kɔrɔ.ta
 \ps v
 \sn 1
 \ge donner.la.nausée
@@ -36209,7 +36209,7 @@ mollusques ...)
 \xe un "autel" est mis en place au carrefour (vieille termitière ...)
 \dt 26/Sep/2006
 
-\lx jò.baatɔ
+\lx jòbaatɔ
 \va jùbatɔ
 \ee jiginbaatɔ* = qui vient d'accoucher ?
 \lt (mettre bas.sujet)
@@ -36904,7 +36904,7 @@ mollusques ...)
 \lt (esclave.chaîne)
 \dt 16/Aug/2006
 
-\lx jɔ́n.ni
+\lx jɔ́nni
 \va jɔ́ni
 \ps prn
 \ge qui?
