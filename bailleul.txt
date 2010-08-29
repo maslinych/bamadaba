@@ -32697,7 +32697,7 @@ t'en reparle pas
 \ge marque de doute
 \dt 16/Aug/2006
 
-\lx í
+\lx í
 \ps pers
 \ge REFL
 
@@ -32729,7 +32729,7 @@ t'en reparle pas
 \xe le soir, tous se couchent
 \dt 16/Aug/2006
 
-\lx íko
+\lx íko
 \ps conj
 \ge comme
 
@@ -39994,7 +39994,7 @@ hernies, kyste de l'ovaire...)
 \dt 26/Sep/2006
 
 \lx kàna
-\va kánà
+\va kánà
 \va kàn'
 \ue (jula : ton inversé)
 \ps pm
@@ -52813,8 +52813,8 @@ kurunninle bois sur lequel le forgeron circoncit, nous l'appelons "kurunnin"
 \ge ce.n'est.pas..vrai
 \dt 16/Aug/2006
 
-\lx lá-
-\va ná-
+\lx lá-
+\va ná-
 \ps mrph
 \ge CAUS
 
@@ -53125,7 +53125,7 @@ kurunninle bois sur lequel le forgeron circoncit, nous l'appelons "kurunnin"
 \dt 12/Aug/2006
 
 \lx lá.bìla
-\va rɔ́.bìla
+\va rɔ́.bìla
 \lt (préf.laisser aller)
 \ps v
 \sn 1
@@ -56524,8 +56524,8 @@ toutes les "mères" de la grande famille)
 \sy báfaarɔ
 \dt 16/Aug/2006
 
-\lx mà-
-\va màn-
+\lx mà-
+\va màn-
 \ps mrph
 \ge SUPER
 
@@ -60877,7 +60877,7 @@ toutes les "mères" de la grande famille)
 \dt 16/Aug/2006
 
 \lx mɔ̀gɔ.ya
-\va màa.ya
+\va màa.ya
 \ps n
 \sn 1
 \ge humanité
@@ -74130,7 +74130,7 @@ paysans
 \dt 16/Aug/2006
 
 \lx ɲɔ́gɔn
-\va ɲúan
+\va ɲúan
 \ps prn
 \ge RECP
 \ge l'un.l'autre
@@ -75336,7 +75336,7 @@ paysans
 \xe celui que tu rencontreras, amène-le
 \dt 26/Sep/2006
 
-\lx ò
+\lx ò
 \ps prn
 \ge ANAPH
 
@@ -82930,7 +82930,7 @@ sènɲɛ̀ duuru
 \dt 26/Sep/2006
 
 \lx sísan
-\va sísàn
+\va sísàn
 \ps n
 \ge maintenant
 \ge moment présent
@@ -83702,7 +83702,7 @@ sìtànɛ̀màko la
 \dt 26/Sep/2006
 
 \lx sòli yó
-\va sòliyo
+\va sòliyo
 \ps expr
 \ge chant.de.bravoure.des.griots
 \lt (les circoncis.eh !)
@@ -95684,8 +95684,8 @@ ps v
 
 \lx yàn.ni ná
 \va yàn.ni nɔ́
-\va yàn.ni.ná
-\va yàn.ni.nɔ́
+\va yàn.ni.ná
+\va yàn.ni.nɔ́
 \ps expr
 \ge ici
 \ge par ici
@@ -95872,7 +95872,7 @@ ps v
 \xe ça se fait
 \dt 16/Aug/2006
 
-\lx yé
+\lx yé
 \ps cop
 \ge EQU
 
@@ -95898,7 +95898,7 @@ ps v
 \xe on l'a retrouvé ! (eurêka !)
 \dt 26/Sep/2006
 
-\lx yé kà
+\lx yé kà
 \ps pm
 \ge RCNT
 
