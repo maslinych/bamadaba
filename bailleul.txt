@@ -424,7 +424,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -453,7 +453,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -890,7 +890,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -1724,7 +1724,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -2327,7 +2327,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -2350,7 +2350,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -2370,7 +2370,7 @@
 \mm bàga:v:offenser
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm bàga:n:poison
 \mm bàga:n:bouillie
 \mm bàga:v:offenser
@@ -2379,7 +2379,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -2407,7 +2407,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -2426,7 +2426,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -3351,7 +3351,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -3381,7 +3381,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -3418,7 +3418,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -3869,7 +3869,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -3891,7 +3891,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -3971,7 +3971,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -4154,7 +4154,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -4249,7 +4249,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -4390,7 +4390,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -4830,7 +4830,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -4868,7 +4868,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -4989,7 +4989,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -5348,7 +5348,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -5425,7 +5425,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -6400,7 +6400,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -6424,7 +6424,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -7196,7 +7196,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -7220,7 +7220,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \lt âpre-suf
 \ge âpre
@@ -9561,7 +9561,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -9590,7 +9590,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -9822,7 +9822,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -9849,7 +9849,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -9866,7 +9866,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -10016,7 +10016,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -10286,7 +10286,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \va blèn.man
 \mm blèn:pm:COND.NEG
 \mm blèn:adv:encore
@@ -10295,7 +10295,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ph [bl]
 \ps adj
 \ge rouge
@@ -10312,7 +10312,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm nin:mrph:DIM
 \mm nìn:dtm/prn:DEM
 \va blèn.man.nin
@@ -10324,7 +10324,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm nin:mrph:DIM
 \mm nìn:dtm/prn:DEM
 \ph [bl]
@@ -10745,7 +10745,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -10920,7 +10920,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -10935,7 +10935,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -12254,7 +12254,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -12723,7 +12723,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm cɛ́:n:salut
 \mm cɛ́:n:milieu
 \mm cɛ́:pp:entre
@@ -13628,7 +13628,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -13670,7 +13670,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -13717,7 +13717,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -13746,7 +13746,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -13777,7 +13777,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -13799,7 +13799,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm dɔ́gɔ:n:désir
 \mm dɔ́gɔ:n:fagot
 \mm dɔ́gɔ:n:marché
@@ -13819,7 +13819,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm dɔ́gɔ:n:désir
 \mm dɔ́gɔ:n:fagot
 \mm dɔ́gɔ:n:marché
@@ -13842,7 +13842,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm júgu:n:placenta
 \mm júgu:vq/adj:mauvais
 \mm júgu:n:ennemi
@@ -13855,7 +13855,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -13878,7 +13878,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm júgu:n:placenta
 \mm júgu:vq/adj:mauvais
 \mm júgu:n:ennemi
@@ -13895,7 +13895,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -13922,7 +13922,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -14525,7 +14525,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -15632,7 +15632,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -16057,7 +16057,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -16370,7 +16370,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -16387,7 +16387,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -17547,7 +17547,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge nombreux
 \ge abondant
@@ -18508,7 +18508,7 @@
 \mm jɛ̀ki:n:haut.du.dos
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \ps n
 \ge poisson.Mormyrus.rume
 \lt (mâle.crinière.qui a)
@@ -19187,7 +19187,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -19201,7 +19201,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge mâle
 \ge masculin
@@ -19218,7 +19218,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -19242,7 +19242,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -19276,7 +19276,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm cɛ́:n:salut
 \mm cɛ́:n:milieu
 \mm cɛ́:pp:entre
@@ -19297,7 +19297,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm cɛ́:n:salut
 \mm cɛ́:n:milieu
 \mm cɛ́:pp:entre
@@ -19325,7 +19325,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm cɛ́:n:salut
 \mm cɛ́:n:milieu
 \mm cɛ́:pp:entre
@@ -20407,7 +20407,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -20553,7 +20553,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps n
 \ge travailleur.inappliqué
 \ge qui rechigne devant le travail
@@ -22490,7 +22490,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps n
 \ge ibis.sacré
 \ge Threskiornis aethiopica)
@@ -24622,7 +24622,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -24692,7 +24692,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -25555,7 +25555,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -25665,7 +25665,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -26026,7 +26026,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -26134,7 +26134,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -26756,7 +26756,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -26847,7 +26847,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -26870,7 +26870,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -26964,7 +26964,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -27024,7 +27024,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -27063,7 +27063,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -27088,7 +27088,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm gó:onomat:bruit.sec
 \mm gó:vq:désagréable
 \mm gò:n:petite.amie
@@ -27112,7 +27112,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -27143,7 +27143,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -28072,7 +28072,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -29402,7 +29402,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -30120,7 +30120,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -30473,7 +30473,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -31081,7 +31081,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \sn 1
 \ge étant.enfant
@@ -34443,7 +34443,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -34771,7 +34771,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -34787,7 +34787,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -34811,7 +34811,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -35311,7 +35311,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -35542,7 +35542,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \sn 1
 \ge petit
@@ -35565,7 +35565,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -35834,7 +35834,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -35854,7 +35854,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -35874,7 +35874,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -36443,7 +36443,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -36954,7 +36954,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -37454,7 +37454,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -37486,7 +37486,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -37517,7 +37517,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -37540,7 +37540,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -37566,7 +37566,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -37596,7 +37596,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -37632,7 +37632,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -37669,7 +37669,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -37888,7 +37888,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -38005,7 +38005,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ee diman*
 \ps adj
 \sn 1
@@ -38506,7 +38506,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -39353,7 +39353,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm dí:n:miel
 \mm dí:vq:agréable
 \mm dí:v:donner
@@ -39372,7 +39372,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm dí:n:miel
 \mm dí:vq:agréable
 \mm dí:v:donner
@@ -39393,7 +39393,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm gó:onomat:bruit.sec
 \mm gó:vq:désagréable
 \mm gò:n:petite.amie
@@ -39414,7 +39414,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm gó:onomat:bruit.sec
 \mm gó:vq:désagréable
 \mm gò:n:petite.amie
@@ -39708,7 +39708,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -39749,7 +39749,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -41042,7 +41042,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -41242,7 +41242,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -42116,7 +42116,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -42139,7 +42139,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -42164,7 +42164,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -42321,7 +42321,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps n
 \ge compagnon
 \ge partenaire (euph)
@@ -42852,7 +42852,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -42868,7 +42868,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -42892,7 +42892,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -42954,7 +42954,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge ardent
 \lt (vaillant.suf adj)
@@ -43225,14 +43225,14 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \va pàsa.man
 \mm pàsa:n:louange
 \mm pàsa:n:louange
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \sn 1
 \ge consistant
@@ -43567,7 +43567,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -44210,7 +44210,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -44941,7 +44941,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -44960,7 +44960,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -45057,7 +45057,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -45085,7 +45085,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -45384,7 +45384,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -45399,7 +45399,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -45869,7 +45869,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -45889,7 +45889,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -46377,7 +46377,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge noir
 \ge sombre
@@ -46656,7 +46656,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge meilleur
 \ge le préférable
@@ -46669,7 +46669,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm cí:n:chaume
 \mm cí:n:commission
 \mm cí:v:envoyer
@@ -46697,7 +46697,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm nci:mrph:AG.EX
 \ps n
 \ge meilleur
@@ -46881,7 +46881,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -46897,7 +46897,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -47650,7 +47650,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -47669,7 +47669,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -47689,7 +47689,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -47717,7 +47717,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \va fyɛ́n.man
 \mm fyɛ́n:vq:léger
 \mm fyɛ́n:n:vent
@@ -47726,7 +47726,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ph [fy]
 \va fíɲɛ.man
 \mm fíɲɛ:vq:léger
@@ -47735,7 +47735,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge léger
 \ge indiscret
@@ -47749,7 +47749,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -47764,7 +47764,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -47780,7 +47780,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -48438,7 +48438,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -48564,7 +48564,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -48905,7 +48905,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -50269,7 +50269,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -50661,7 +50661,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -50788,7 +50788,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -51077,7 +51077,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -51098,7 +51098,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -51417,7 +51417,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -51627,7 +51627,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -51762,7 +51762,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -52883,7 +52883,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -52900,7 +52900,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -52917,7 +52917,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -52934,7 +52934,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -52959,7 +52959,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -53661,7 +53661,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -54155,7 +54155,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -54169,7 +54169,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -54630,7 +54630,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \va gwɛ̀lɛn.man
 \mm gwɛ̀lɛn:vq/adj:dur
 \mm gwɛ̀lɛn:n:difficile
@@ -54638,7 +54638,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ph [gw]
 \ps adj
 \ge difficile
@@ -55249,7 +55249,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge lourd
 \ge solide
@@ -55601,7 +55601,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \va kó.man
 \mm kó:vq:désagréable
 \mm kó:n:action
@@ -55609,7 +55609,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge mauvais
 \ge désagréable
@@ -55699,7 +55699,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge chaud
 \ge brûlant
@@ -56351,7 +56351,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -56366,7 +56366,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -56610,7 +56610,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -56634,7 +56634,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -56968,7 +56968,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -57774,7 +57774,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -58702,7 +58702,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -59562,7 +59562,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm ján:n:piège
 \mm ján:v:tourner.face.au.ciel
 \mm jàn:vq:haut
@@ -60806,7 +60806,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge blanc
 \lt (blanc.suf)
@@ -61937,7 +61937,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -62546,7 +62546,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -63431,7 +63431,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -63451,7 +63451,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm dí:n:miel
 \mm dí:vq:agréable
 \mm dí:v:donner
@@ -63480,7 +63480,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm gó:onomat:bruit.sec
 \mm gó:vq:désagréable
 \mm gò:n:petite.amie
@@ -64068,7 +64068,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -64688,7 +64688,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge méchant
 \ge maléfique
@@ -65399,7 +65399,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm tìgi:n:maître
 \ps n
 \ge débiteur
@@ -66365,7 +66365,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -67281,7 +67281,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -67641,7 +67641,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge bariolé
 \ge zébré
@@ -67655,7 +67655,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \va kálaman
 \ps adj
 \ge chaud
@@ -68415,7 +68415,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -71782,7 +71782,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge malin
 \ge rusé
@@ -72716,7 +72716,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -72743,7 +72743,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -73159,7 +73159,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge sain
 \ge en bonne santé
@@ -74313,7 +74313,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -74752,7 +74752,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -74779,7 +74779,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge actif
 \ge zélé
@@ -76207,7 +76207,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -76474,7 +76474,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge paresseux
 \ge vieux
@@ -76732,7 +76732,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \cf góman
 \ps adj
 \ge mauvais
@@ -76748,7 +76748,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -76779,7 +76779,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -79718,7 +79718,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -80458,7 +80458,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -80485,7 +80485,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -81614,7 +81614,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -82366,7 +82366,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps n
 \ge très.ancien
 \ge très vieux
@@ -82427,7 +82427,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -82445,7 +82445,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge ancien
 \ge vieux
@@ -82463,7 +82463,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -83742,7 +83742,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -84194,7 +84194,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge acide
 \ge aigre
@@ -84485,7 +84485,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge avare
 \ge amer
@@ -84920,7 +84920,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -86092,7 +86092,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -88067,7 +88067,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -88775,7 +88775,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -88864,7 +88864,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -93689,7 +93689,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -94359,7 +94359,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -94381,7 +94381,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -94397,7 +94397,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -94434,7 +94434,7 @@
 \lx má
 \va m'
 \ps pm
-\ge IPFV:NEG
+\ge IPFV.NEG
 \ge auxiliaire verbal
 \ge inaccompli_(marque de l')
 \xv à má bán fɔ́lɔ
@@ -94709,7 +94709,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -94723,7 +94723,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -94747,7 +94747,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -95599,7 +95599,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge mou
 \ge moelleux ...
@@ -96256,7 +96256,7 @@
 \lx má.kɛ
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm kɛ:adj:mâle
 \mm kɛ́:n:action
 \mm kɛ́:v:faire
@@ -96684,7 +96684,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -96944,7 +96944,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps mrph
 \ge ADJ
 \ee (s'accole souvent aux adjectifs prédicats dans leur fonction épithétique ou nominale) comparer les phrases suivantes
@@ -96959,7 +96959,7 @@
 
 \lx mán
 \ps pm
-\ge QUAL:NEG
+\ge QUAL.NEG
 \xv à mán dí
 \xe ce n'est pas bon
 \xv lèmuru mán jàn ní  sèbe yé
@@ -97060,7 +97060,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -97258,12 +97258,12 @@
 \lx má.ngala
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm Ngála:n:Dieu
 \va má.ŋala
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm ŋála:n:Dieu
 \mm ŋála:n:Dieu
 \mm ŋàla:n:chacal.à.flancs.rayés
@@ -97422,7 +97422,7 @@
 
 \lx mán.je
 \mm mán:n:lamantin
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm jè:n:courge
 \ps n
 \ge papaye
@@ -97434,7 +97434,7 @@
 
 \lx mán.kàla
 \mm mán:n:lamantin
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm kàla:n:tige
 \ue (-bn)
 \ps n
@@ -98862,7 +98862,7 @@
 \lx má.tigi
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm tìgi:n:maître
 \ps n
 \ge seigneur
@@ -100064,7 +100064,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge petit
 \ge mince
@@ -101256,7 +101256,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -103057,7 +103057,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \va mùso.ma
 \mm mùso:n:femme
 \mm mùso:adj:femme
@@ -103066,7 +103066,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -103092,7 +103092,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm nin:mrph:DIM
 \mm nìn:dtm/prn:DEM
 \ps n
@@ -103882,7 +103882,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -104120,7 +104120,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -104168,7 +104168,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -104274,7 +104274,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -106022,7 +106022,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -106306,7 +106306,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -106686,7 +106686,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -106750,7 +106750,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -107103,7 +107103,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -107441,7 +107441,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -107861,7 +107861,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -107985,7 +107985,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -108089,7 +108089,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -110453,7 +110453,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge sale
 \sn 1
@@ -110470,7 +110470,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge facile
 \sn 1
@@ -111024,7 +111024,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -111082,7 +111082,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -111103,7 +111103,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -111258,7 +111258,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -112002,7 +112002,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -112204,7 +112204,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -113785,7 +113785,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -114175,7 +114175,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -114323,7 +114323,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -114337,7 +114337,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -114370,7 +114370,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -114738,7 +114738,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -114763,7 +114763,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -114790,7 +114790,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge poli
 \ge lisse
@@ -114809,7 +114809,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -115151,7 +115151,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -115254,7 +115254,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -116078,7 +116078,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -116108,7 +116108,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -116429,7 +116429,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -118518,7 +118518,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -118543,7 +118543,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -118842,7 +118842,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119046,7 +119046,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119086,7 +119086,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119112,7 +119112,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119151,7 +119151,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119177,7 +119177,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119201,7 +119201,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119235,7 +119235,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119278,7 +119278,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119309,7 +119309,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119340,7 +119340,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119368,7 +119368,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119391,7 +119391,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119446,7 +119446,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119473,7 +119473,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119508,7 +119508,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119535,7 +119535,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119553,7 +119553,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119575,7 +119575,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119603,7 +119603,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119630,7 +119630,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -119649,7 +119649,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -120798,7 +120798,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -120835,7 +120835,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -120873,7 +120873,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -122459,7 +122459,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -122881,7 +122881,7 @@
 \dt 16/Aug/2006
 
 \lx ɲɔ́gɔn
-\va ɲúan 
+\va ɲúan
 \ps prn
 \ge RECP
 \ge l'un.l'autre
@@ -124215,7 +124215,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge rugueux
 \ge urticant
@@ -124367,7 +124367,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -127738,7 +127738,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm ján:n:piège
 \mm ján:v:tourner.face.au.ciel
 \mm jàn:vq:haut
@@ -128632,7 +128632,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -128671,7 +128671,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -129870,7 +129870,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -131075,7 +131075,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -131096,7 +131096,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -131118,7 +131118,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -131147,7 +131147,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -131211,7 +131211,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -131573,7 +131573,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj/n
 \ge cousain.de.plaisanterie
 \ge personne liée par cette relation
@@ -131864,7 +131864,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -131930,7 +131930,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -132544,7 +132544,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge saint
 \sm (sens chrétien)
@@ -134985,7 +134985,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -135011,7 +135011,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -135107,7 +135107,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -135137,7 +135137,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -135507,7 +135507,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -135540,7 +135540,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -135578,7 +135578,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -135711,7 +135711,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -135907,7 +135907,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -136017,7 +136017,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \va sín.ji.ma
 \mm sín.ji:n:lait.maternel
 \mm sín:n:sein
@@ -136030,7 +136030,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -137195,7 +137195,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -137217,7 +137217,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -138327,7 +138327,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -138352,7 +138352,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -138379,7 +138379,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -138551,7 +138551,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -139513,7 +139513,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -140671,7 +140671,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -141028,7 +141028,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -141050,7 +141050,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \sn 1
 \ge froid
@@ -141520,7 +141520,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -142039,7 +142039,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge court
 \ge proche
@@ -144587,7 +144587,7 @@
 \mm tɛ́gɛ:n:paume
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \ps n
 \ge flagrant.délit
 \lt (prendre.ma.main.à)
@@ -145200,7 +145200,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -145220,7 +145220,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -145236,7 +145236,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -145276,7 +145276,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps n
 \ge ami
 \ge lié par l'amitié
@@ -145613,7 +145613,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -145636,7 +145636,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -145659,7 +145659,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -145684,7 +145684,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -145823,13 +145823,13 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \va téli.man
 \mm téli:vq:être.rapide
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \sn 1
 \ge rapide
@@ -146032,7 +146032,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -146810,7 +146810,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -147467,7 +147467,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -147481,7 +147481,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -147503,7 +147503,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -147517,7 +147517,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -147820,7 +147820,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \ps adj
 \ge savoureux
 \ge succulent
@@ -149705,7 +149705,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -149725,7 +149725,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -150155,7 +150155,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -150268,7 +150268,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151207,7 +151207,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151501,7 +151501,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151523,7 +151523,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151540,7 +151540,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151567,7 +151567,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151588,7 +151588,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151656,7 +151656,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151678,7 +151678,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151708,7 +151708,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151734,7 +151734,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151767,7 +151767,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -151786,7 +151786,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -152071,7 +152071,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -152153,7 +152153,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -155053,7 +155053,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -155207,7 +155207,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -155645,7 +155645,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -158463,7 +158463,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -158489,7 +158489,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -158512,7 +158512,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -158538,7 +158538,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -158563,7 +158563,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -158586,7 +158586,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -158606,7 +158606,7 @@
 \mm mán:n:lamantin
 \mm màn:mrph:SUPER
 \mm man:mrph:ADJ
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm dí:n:miel
 \mm dí:vq:agréable
 \mm dí:v:donner
@@ -158664,7 +158664,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
