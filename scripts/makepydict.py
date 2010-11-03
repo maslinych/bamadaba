@@ -35,21 +35,33 @@ wl_detone = {}
 def normalize_bailleul(word):
     return u''.join([c for c in word if c not in u'.-'])
 
+makeset = lambda s: set(s.split('/')) if s else set([])
+makegloss = lambda s: s.split(':')
+
 for entry in lexicon.findall('record'):
     ps = entry.findtext('ps')
     if ps != 'mrph':
         gloss = entry.findtext('ge')
+        keylist = []
         if not gloss:
             gloss = ''
         for e in entry:
             if e.tag in ['lx', 'le', 'va', 'vc']:
                 lemma = e.text
-                dictkey = mandeist.orthography.detone(normalize_bailleul(lemma.lower()))
-                glosstree = mandeist.GlossTree()
-                glosstree.append(mandeist.Gloss(u':'.join([lemma,ps,gloss])))
-                wl_detone.setdefault(dictkey,[]).append(glosstree)
+                keylist = []
+                keylist.append(normalize_bailleul(lemma.lower()))
+                dictkey_detone = mandeist.orthography.detone(keylist[-1])
+                if not dictkey_detone == keylist[-1]:
+                    keylist.append(dictkey_detone)
+
+                for key in keylist:
+                    wl_detone.setdefault(key,[]).append(mandeist.Gloss(lemma,makeset(ps),gloss,()))
             if e.tag in ['mm']:
-                wl_detone[dictkey][-1].append(mandeist.Gloss(e.text))
+                for key in keylist:
+                    lastlemma = wl_detone[key][-1]
+                    mform, mps, mgloss = e.text.split(':')
+                    morph = mandeist.Gloss(mform, makeset(mps),mgloss,())
+                    wl_detone[key][-1] = lastlemma._replace(morphemes = lastlemma.morphemes + tuple([morph]))
 
 with closing(open('bamana.bdi', 'wb')) as outdict:
     cPickle.dump(wl_detone, outdict, -1)
