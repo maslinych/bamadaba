@@ -348,7 +348,7 @@
 \mm ma:mrph:DIR
 \mm má:n:maître
 \mm má:n:maman
-\mm má:pm:IPFV:NEG
+\mm má:pm:IPFV.NEG
 \mm mà:pp:à
 \mm mà:n:endroit
 \mm mà:n:luciole
@@ -946,7 +946,7 @@
 \xe Que Dieu t'accorde sa grâce !
 \dt 26/Sep/2006
 
-\va bàalan
+\lx bàalan
 \ps n
 \ge poisson-chien
 
@@ -1006,7 +1006,7 @@
 \sd mimo
 \dt 08/Sep/2006
 
-\va bàganan.jiri
+\lx bàganan.jiri
 \mm bàganan:n:acacia.tannin
 \mm jíri:n:arbre
 \ps n
@@ -1790,7 +1790,7 @@
 \lt (poison.qui a)
 \dt 26/Sep/2006
 
-\lx.bàga.ma.ko
+\lx bàga.ma.ko
 \mm bàga:v:offenser
 \mm ma:mrph:COM
 \mm kó:n:action
@@ -2243,7 +2243,7 @@
 \mm la:mrph:LOC
 \mm kɔ̀nɔ:n:oiseau
 \mm nin:mrph:DIM
-m̏m fin:adj:noir
+\mm fin:adj:noir
 \ps n
 \ge pluvian.d'Egypte
 \ge Pluvianus aegyptius)
@@ -3865,7 +3865,7 @@ m̏m fin:adj:noir
 \mm bánge:v:naître
 \mm baa:mrph:AG.OCC
 \va bánge.baga
-\ \mm bánge:v:naître
+\mm bánge:v:naître
 \mm baga:mrph:AG.OCC
 \ps n
 \ge parent
@@ -5030,7 +5030,7 @@ m̏m fin:adj:noir
 \lx bási.ya
 \mm bási:n:sang
 \mm ya:mrph:DEQU
-\ \ue (bk)
+\ue (bk)
 \ps v
 \sn 1
 \ge soigner
@@ -5780,7 +5780,7 @@ m̏m fin:adj:noir
 \xe à chacun le sien
 \dt 26/Sep/2006
 
-\lx bɛ́ɛn 
+\lx bɛ́ɛn
 \va bɛ́n
 \ps n
 \ge oncle.maternel
@@ -5790,7 +5790,7 @@ m̏m fin:adj:noir
 \lx bɛ́ɛn.kɛ
 \mm bɛ́ɛn:n:oncle.maternel 
 \mm kɛ:adj:mâle
-\va bɛ́n.kɛ 
+\va bɛ́n.kɛ
 \mm bɛ́n:n:oncle.maternel 
 \mm kɛ:adj:mâle
 \ps n
@@ -5945,7 +5945,7 @@ m̏m fin:adj:noir
 \ge appendicite
 \dt 15/Aug/2006
 
-\va bɛ̀lɛ.nin
+\lx bɛ̀lɛ.nin
 \mm bɛ̀lɛ:n:gravier
 \mm nin:mrph:DIM
 \ps n
@@ -6479,33 +6479,33 @@ m̏m fin:adj:noir
 \xe aujourd'hui en huit,  dans huit jours
 \dt 12/Aug/2006
 
-\lx bí kɔ̀nɔntɔn
+\lx bí.kɔ̀nɔntɔn
 \ps num
 \ge quatre-vingt.dix
 \lt (dizaine.neuf)
 \dt 16/Aug/2006
 
-\lx bí sàba
+\lx bí.sàba
 \ps num
 \ge trente
 \lt (dizaine-trois)
 \dt 16/Aug/2006
 
-\lx bí ségin
+\lx bí.ségin
 \ps num
 \ge quatre-vingt
 \lt (dizaine-huit)
 \sy bámanakɛmɛ
 \dt 16/Aug/2006
 
-\lx bí wólonwula
-\va bí wólonfila
+\lx bí.wólonwula
+\va bí.wólonfila
 \ps num
 \ge soixante-dix
 \lt (dizaine-sept)
 \dt 16/Aug/2006
 
-\lx bí wɔ́ɔrɔ
+\lx bí.wɔ́ɔrɔ
 \ps num
 \ge soixante
 \lt (dizaine-six)
@@ -6685,7 +6685,7 @@ m̏m fin:adj:noir
 \lx bìla.ko
 \mm bìla:v:mettre
 \mm kó:n:action 
-\va blà.ko 
+\va blà.ko
 \mm blà:v:mettre
 \mm kó:n:action
 \ph [bla]
@@ -7260,7 +7260,7 @@ m̏m fin:adj:noir
 \lx bìlen.ya
 \mm bìlen:vq/adj:rouge
 \mm ya:mrph:DEQU
-\va blèn.ya 
+\va blèn.ya
 \mm blèn:vq/adj:rouge
 \mm ya:mrph:DEQU
 \ph [bl]
@@ -7573,7 +7573,6 @@ m̏m fin:adj:noir
 \va bì.li
 \mm bì:v:tomber
 \mm li:mrph:NMLZ 
-
 \ps n
 \lt choir-action
 \sn 1
@@ -7648,7 +7647,6 @@ m̏m fin:adj:noir
 \lx bìnaa
 \va bìnɔgɔ
 \ps n
-
 \ge oncle.paternel
 
 \lx bìnɔgɔ.kɛ
@@ -7778,7 +7776,7 @@ m̏m fin:adj:noir
 \ge bruit de course rapide
 \dt 16/Aug/2006
 
-\lx bìribiri.ba 
+\lx bìribiri.ba
 \mm ba:mrph:AUGM
 \ps n
 \ge pigeon.des.rôniers
@@ -8734,7 +8732,7 @@ m̏m fin:adj:noir
 \lx bólo.fɛn
 \mm bólo:n:bras
 \mm fɛ́n:n:chose
-\va bólo.la.fɛn 
+\va bólo.la.fɛn
 \mm bólo:n:bras
 \mm la:mrph:LOC
 \mm fɛ́n:n:chose
@@ -8772,7 +8770,7 @@ m̏m fin:adj:noir
 \dt 16/Aug/2006
 
 \lx bólokà
-\va bólokàn 
+\va bólokàn
 \ps v
 \ge cesser
 \ge terminer
@@ -8822,7 +8820,7 @@ m̏m fin:adj:noir
 \mm ná:conj:POS
 \mm nɛ̀gɛ:n:fer
 \va bólo.la.nɛgɛ
-\\mm bólo:n:bras
+\mm bólo:n:bras
 \mm bólo:n:branche
 \mm la:mrph:POSS
 \mm nɛ̀gɛ:n:fer
@@ -9426,7 +9424,7 @@ m̏m fin:adj:noir
 
 \lx bólo.man.dɔgɔ
 \mm bólo:n:bras
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm dɔ́gɔ:vq:petit
 \ps n
 \ge pauvre
@@ -9446,7 +9444,7 @@ m̏m fin:adj:noir
 
 \lx bólo.man.jugu
 \mm bólo:n:bras
-\mm mán:pm:QUAL:NEG
+\mm mán:pm:QUAL.NEG
 \mm júgu:vq/adj:mauvais
 \mm júgu:n:ennemi
 \va bólo.ma.jugu
@@ -10409,7 +10407,7 @@ m̏m fin:adj:noir
 \ge repiquer
 \lt (arracher-et-planter)
 
-\lx bɔ́.kolo 
+\lx bɔ́.kolo
 \mm bɔ́:v:sortir
 \mm kólo:n:os
 \ps n
@@ -10555,7 +10553,6 @@ m̏m fin:adj:noir
 \lx bɔ̀nɛ
 \va bùnɛ
 \va bɔ̀nɔ
-
 \ue (f)
 \ps v
 \sn 1
@@ -10967,7 +10964,7 @@ m̏m fin:adj:noir
 \xe un bambara t'apprendra beaucoup de mots de sa langue
 \dt 16/Aug/2006
 
-\lx búbaa.bɔ.la 
+\lx búbaa.bɔ.la
 \mm búbaa:n:termite 
 \mm bɔ̀:v:arracher
 \mm la:mrph:AG.PRM
@@ -11162,7 +11159,6 @@ m̏m fin:adj:noir
 \lx bùgu.da
 \mm bùgu:n:paillotte
 \mm dá:n:création
-\ 
 \ps n
 \ge hameau.de.culture
 \lt (paillotte.aire)
@@ -11304,8 +11300,7 @@ m̏m fin:adj:noir
 \lt (poussière.poser.qui)
 \dt 26/Sep/2006
 
-\lx bùguri.jɛ 
-
+\lx bùguri.jɛ
 \mm bùguri:n:poussière 
 \mm jɛ́:vq/adj:blanc
 \va bùgurin.jɛ
@@ -11408,7 +11403,7 @@ m̏m fin:adj:noir
 \lx búlen.cɛ
 \mm búlen:n:gardenia
 \mm cɛ̀:n:mâle
-\va blén.cɛ 
+\va blén.cɛ
 \mm blén:n:gardenia
 \mm cɛ̀:n:mâle
 \ph [blencɛ]
@@ -11422,12 +11417,11 @@ m̏m fin:adj:noir
 \sy nbúrencɛ
 \dt 26/Sep/2006
 
-\lx búlen.muso 
+\lx búlen.muso
 \mm búlen:n:gardenia
 \mm mùso:adj:femme
 \va blén.muso
 \mm blén:n:gardenia
-
 \mm mùso:adj:femme
 \ph [bl]
 \ps n
@@ -11739,7 +11733,7 @@ m̏m fin:adj:noir
 \ee (bec spatulé et fort, flancs marron)
 \dt 16/Aug/2006
 
-\lx búnukoro.cɛ 
+\lx búnukoro.cɛ
 \mm búnukoro:n:canard.armé
 \mm cɛ̀:n:mâle 
 \va búnukuru.cɛ
@@ -12851,7 +12845,6 @@ m̏m fin:adj:noir
 \dt 16/Aug/2006
 
 \lx cɛ̀.fini
-
 \mm cɛ̀:n:mâle
 \mm fìni:n:tissu
 \ps n
@@ -12957,7 +12950,7 @@ m̏m fin:adj:noir
 \rem f, bk
 \dt 11/Nov/2007
 
-\lx cɛ̀.jugu 
+\lx cɛ̀.jugu
 \mm cɛ̀:n:mâle
 \mm júgu:vq/adj:mauvais
 \ps adj
@@ -13407,7 +13400,7 @@ m̏m fin:adj:noir
 \lt (homme.jeune)
 \dt 16/Aug/2006
 
-\lx cɛ̀.mɔgɔ 
+\lx cɛ̀.mɔgɔ
 \mm cɛ̀:n:mâle 
 \mm mɔ̀gɔ:n:homme
 \ps n
@@ -13690,7 +13683,7 @@ m̏m fin:adj:noir
 \dt 11/Nov/2007
 
 \lx cɛ̀.sa.muso
-\\mm cɛ̀:n:mâle
+\mm cɛ̀:n:mâle
 \mm sà:v:mourir
 \mm mùso:n:femme
 \lt (mari.mort.femme)
@@ -14182,7 +14175,7 @@ m̏m fin:adj:noir
 \xe il a cultivé son champ
 \dt 16/Aug/2006
 
-\lx cí.kɛ.bali 
+\lx cí.kɛ.bali
 \mm cí:n:commission
 \mm kɛ́:v:faire
 \mm bali:mrph:PTCP.PRIV
@@ -14663,7 +14656,7 @@ m̏m fin:adj:noir
 \ge baisser (prix)
 \dt 16/Aug/2006
 
-\lx cún-cún 
+\lx cún-cún
 \mm cún:v:se.laisser.tomber
 \mm cún:v:se.laisser.tomber
 \ps v
@@ -16847,7 +16840,7 @@ m̏m fin:adj:noir
 \lt (créer.manière)
 \dt 16/Aug/2006
 
-\lx dá.ko.jugu 
+\lx dá.ko.jugu
 \mm dá:v:créer
 \mm kó:n:action
 \mm júgu:vq/adj:mauvais
@@ -17040,7 +17033,7 @@ m̏m fin:adj:noir
 \sy ntòni
 \dt 19/Aug/2006
 
-\lx dá.kurun.kan 
+\lx dá.kurun.kan
 \mm dá:n:bouche
 \mm kùrun:vq/adj:court
 \mm kán:n:cou
@@ -18640,7 +18633,6 @@ m̏m fin:adj:noir
 \lx dàn.ni
 \mm dàn:v:semer
 \mm ni:mrph:NMLZ
-
 \mm nì:n:par
 \ps n
 \lt semer-action
@@ -18881,7 +18873,7 @@ m̏m fin:adj:noir
 \lt (mal de Pott.sujet)
 \dt 12/Aug/2006
 
-\lx dá.n.ye 
+\lx dá.n.ye
 \mm dá:v:créer
 \mm ń:pers:je
 \mm yé:pp:PP
@@ -19558,7 +19550,7 @@ m̏m fin:adj:noir
 
 \lx dá.yɛ̀lɛ
 \mm dá:n:bouche
-\\mm yɛ̀lɛ:v:ouvrir
+\mm yɛ̀lɛ:v:ouvrir
 \ps v
 \ge ouvrir
 \ge déboucher ...
@@ -20185,7 +20177,7 @@ m̏m fin:adj:noir
 \dt 26/Sep/2006
 
 \lx dén.misɛn.ɲɔgɔn
-\\mm dén:n:enfant
+\mm dén:n:enfant
 \mm mìsɛn:vq:petit
 \mm ɲɔ́gɔn:prn:RECP
 \ps n
@@ -20288,7 +20280,7 @@ m̏m fin:adj:noir
 \lt (petit enfant.unique)
 \dt 26/Sep/2006
 
-\lx dén.nin-ó-dén.nin 
+\lx dén.nin-ó-dén.nin
 \mm dén:n:enfant
 \mm nin:mrph:DIM
 \mm ó:conj:DISTR
@@ -20388,7 +20380,7 @@ m̏m fin:adj:noir
 \lt (enfant.cadavre)
 \dt 26/Sep/2006
 
-\lx dén.ta 
+\lx dén.ta
 \mm dén:v:fructifier
 \mm ta:mrph:PTCP.POT
 \ps n
@@ -20410,7 +20402,7 @@ m̏m fin:adj:noir
 \lt (enfant.propriétaire)
 \dt 26/Sep/2006
 
-\lx dén.tigi.ya 
+\lx dén.tigi.ya
 \mm dén:n:enfant
 \mm tìgi:n:maître
 \mm ya:mrph:DEQU
@@ -20484,8 +20476,8 @@ m̏m fin:adj:noir
 \ee peut se dire d'un bébé jusqu'à ce qu'il puisse dire 'papa','maman')
 \dt 26/Sep/2006
 
-\lx dépite 
-\n n
+\lx dépite
+\ps n
 \ge député
 
 \lx dépite.bulon
@@ -20811,7 +20803,7 @@ m̏m fin:adj:noir
 \lt (mettre à l'écart.ce qui)
 \dt 16/Aug/2006
 
-\lx dɛ́n.ni 
+\lx dɛ́n.ni
 \mm dɛ́n:v:mettre.à.l'écart
 \mm ni:mrph:NMLZ
 \ps n
@@ -21752,7 +21744,7 @@ m̏m fin:adj:noir
 \lt (miel.rayon)
 \dt 16/Aug/2006
 
-\lx dí.ya 
+\lx dí.ya
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \va já
@@ -22176,7 +22168,6 @@ m̏m fin:adj:noir
 \lx dògo.dogo.nin.kuma
 \mm dògo:v:cacher
 \mm dògo:v:cacher
-
 \mm nin:mrph:DIM
 \mm kúma:n:parole
 \ps n
@@ -23308,7 +23299,7 @@ m̏m fin:adj:noir
 \lt (plus jeune.petit)
 \dt 26/Sep/2006
 
-\lx dɔ́gɔ.ɲini.na 
+\lx dɔ́gɔ.ɲini.na
 \mm dɔ́gɔ:n:fagot
 \mm ɲíni:v:chercher 
 \mm na:mrph:AG.PRM
@@ -23770,7 +23761,7 @@ m̏m fin:adj:noir
 \ge troisième mois de l'année lunaire
 \dt 16/Aug/2006
 
-\lx dɔ́n.baa 
+\lx dɔ́n.baa
 \mm dɔ́n:v:connaître
 \mm baa:mrph:AG.OCC
 \va dɔ́n.baga
@@ -24054,7 +24045,7 @@ m̏m fin:adj:noir
 \lx dɔ̀.surun
 \mm dɔ̀:n:longueur
 \mm sùrun:vq:être.court
-s\ps n
+\ps n
 \ge largeur
 \lt (côté.court)
 \dt 12/Aug/2006
@@ -25576,7 +25567,7 @@ s\ps n
 \lx dùsu.kasi
 \mm dùsu:n:centre.d'énergie
 \mm kàsi:n:pleurs
-\va dùsu.kasi.ko 
+\va dùsu.kasi.ko
 \mm dùsu:n:centre.d'énergie
 \mm kàsi:n:pleurs
 \mm kó:n:action
@@ -26228,7 +26219,6 @@ s\ps n
 
 \lx fàa.ntan.jamana
 \mm fàa:n:force
-
 \mm ntan:mrph:PRIV
 \mm jàmana:n:pays
 \ps n
@@ -26241,7 +26231,6 @@ s\ps n
 
 \lx fàa.ntan.ya
 \mm fàa:n:force
-
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
@@ -26254,7 +26243,6 @@ s\ps n
 
 \lx fàa.ntan.ya
 \mm fàa:n:force
-
 \mm ntan:mrph:PRIV
 \mm ya:mrph:DEQU
 \ps v
@@ -26541,7 +26529,6 @@ s\ps n
 \mm fágon:v:corrompre
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:PTCP.PROG
-
 \va fáku.baa.tɔ
 \mm fáku:v:corrompre
 \mm baa:mrph:AG.OCC
@@ -27339,7 +27326,7 @@ s\ps n
 \ge point de côté ...
 \dt 26/Sep/2006
 
-\lx fàn.kelen.sa 
+\lx fàn.kelen.sa
 \mm fàn:n:côté
 \mm kélen:num:un
 \mm sà:n:mort
@@ -28169,7 +28156,7 @@ s\ps n
 \lt (corps.lieu.plaisir)
 \dt 16/Aug/2006
 
-\lx fàri.la.si 
+\lx fàri.la.si
 \mm fàri:n:corps
 \mm la:mrph:LOC
 \mm sí:n:poil
@@ -28456,7 +28443,7 @@ s\ps n
 \mm fàsa:vq:résistant
 \mm man:mrph:ADJ
 \va pàsa.man
-mm pàsa:vq:résistant 
+\mm pàsa:vq:résistant 
 \mm man:mrph:ADJ
 \ps adj
 \sn 1
@@ -28499,7 +28486,7 @@ mm pàsa:vq:résistant
 \lt (avili.suf abs)
 \dt 26/Sep/2006
 
-\lx fàsa.ya 
+\lx fàsa.ya
 \mm fàsa:vq:résistant 
 \mm ya:mrph:ABSTR
 \ps n
@@ -29379,7 +29366,7 @@ mm pàsa:vq:résistant
 
 \lx fɛ́n.muso
 \mm fɛ́n:n:chose
-\\mm mùso:adj:femme
+\mm mùso:adj:femme
 \ps n
 \ge être.féminin
 \ge femelle
@@ -29550,7 +29537,7 @@ mm pàsa:vq:résistant
 \mm fɛ́rɛ:v:être.à.l'aise
 \mm baa:mrph:AG.OCC
 \mm nci:mrph:AG.EX
-\va fɛ́rɛ.baga.nci 
+\va fɛ́rɛ.baga.nci
 \mm fɛ́rɛ:v:être.à.l'aise
 \mm baga:mrph:AG.OCC
 \mm nci:mrph:AG.EX
@@ -29830,7 +29817,7 @@ mm pàsa:vq:résistant
 \dt 16/Aug/2006
 
 \lx fìla.nin.bɔn
-\ \mm fìla:num:deux
+\mm fìla:num:deux
 \mm nin:mrph:DIM
 \mm bɔ́n:n:tam-tam
 \va flà.nin.bɔn
@@ -30873,7 +30860,7 @@ mm pàsa:vq:résistant
 \lx fìsa.ma.nci.ya
 \mm fìsa:vq:mieux
 \mm ma:mrph:COM
-\mm nci:mrph::AG.EX
+\mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps n
 \lt meilleur-suf abs
@@ -30891,7 +30878,7 @@ mm pàsa:vq:résistant
 \lx fìsa.man.nci
 \mm fìsa:vq:mieux
 \mm ma:mrph:COM
-\mm nci:mrph::AG.EX
+\mm nci:mrph:AG.EX
 \ps n
 \ge meilleur
 \sn 1
@@ -32005,7 +31992,7 @@ mm pàsa:vq:résistant
 
 \lx fónisire.ya
 \mm fónisire:n:généreux
-\ \mm ya:mrph:DEQU
+\mm ya:mrph:DEQU
 \ps v
 \ge être.généreux
 \lt (généreux.suf caus)
@@ -32634,7 +32621,8 @@ mm pàsa:vq:résistant
 \lx fɔ́.li.sen.tigi
 \mm fɔ́:n:action.de.dire
 \mm li:mrph:NMLZ
-\mm sèn:n:jambe \mm tìgi:n:maître
+\mm sèn:n:jambe
+\mm tìgi:n:maître
 \ps n
 \ge maître.de.danse
 \ge celui des joueurs qui donne le rythme
@@ -33900,7 +33888,7 @@ mm pàsa:vq:résistant
 \lt (feuille.qui a)
 \dt 12/Aug/2006
 
-\lx fúra.ma.fɛn 
+\lx fúra.ma.fɛn
 \mm fúra:n:feuille
 \mm ma:mrph:COM
 \mm fɛ́n:n:chose
@@ -34738,7 +34726,7 @@ mm pàsa:vq:résistant
 \dt 26/Sep/2006
 
 \lx gádawu
-\va gwádawu 
+\va gwádawu
 \ps onomat
 \ge d'un.seul.coup
 \dt 16/Aug/2006
@@ -34852,7 +34840,6 @@ mm pàsa:vq:résistant
 \mm gáfe:n:livre
 \mm lá:mrph:CAUS
 \mm ságon:v:s'affadir
-
 \mm yɔ́rɔ:n:lieu
 \ps n
 \lt livre-garder-endroit
@@ -36973,7 +36960,7 @@ mm pàsa:vq:résistant
 \sy ngòyin
 \dt 19/Aug/2006
 
-\lx gɛ̀yin.ji 
+\lx gɛ̀yin.ji
 \mm gɛ̀yin:n:liane-caoutchouc
 \mm jí:n:eau
 \va gwɛ̀yin.ji
@@ -38394,7 +38381,7 @@ mm pàsa:vq:résistant
 \lx hákili.di.ya
 \mm hákili:n:esprit 
 \mm dí:vq:agréable
-\ mm ya:mrph:ABST
+\mm ya:mrph:ABST
 \ps n
 \ge bonne.intelligence
 \ge bonne mémoire
@@ -39634,7 +39621,7 @@ mm pàsa:vq:résistant
 \mm jà:n:ombre
 \mm bàra:n:calebasse
 \mm nin:mrph:DIM
-s\ps n
+\ps n
 \lt images-contenant-petit
 \ge télévision
 \ge télé
@@ -42795,7 +42782,7 @@ s\ps n
 \lx jínɛ.saga.jigi
 \mm jínɛ:n:esprit
 \mm sàga:n:ovin
-\mm jigi.adj.mâle
+\mm jigi:adj:mâle
 \ps n
 \ge bélier.très.blanc
 \lt (démon.bélier)
@@ -42970,7 +42957,7 @@ s\ps n
 
 \lx jíri.bolo
 \mm jíri:n:arbre
-mm bólo:n:branche
+\mm bólo:n:branche
 \ps n
 \ge branche
 \lt (arbre.bras)
@@ -44086,12 +44073,12 @@ mm bólo:n:branche
 \dt 16/Aug/2006
 
 \lx jɔ̀jɔ.li.baga
-\mm jɔ̀jɔ.v.suivre
-\mm li.mrph.NMLZ
+\mm jɔ̀jɔ:v:suivre
+\mm li:mrph:NMLZ
 \mm baga:mrph:AG.OCC
 \va jɔ̀jɔ.li.baa
-\mm jɔ̀jɔ.v.suivre
-\mm li.mrph.NMLZ
+\mm jɔ̀jɔ:v:suivre
+\mm li:mrph:NMLZ
 \mm baa:mrph:AG.OCC
 \ps n
 \lt espionner-celui qui
@@ -45242,7 +45229,7 @@ mm bólo:n:branche
 \mm jù:n:derrière
 \mm rɔ́:mrph:IN
 \mm kìsɛ:n:grain
-s\ps n
+\ps n
 \ge verge
 \ge verge (anat)
 \lt (derrière.lieu.lame)
@@ -46046,7 +46033,7 @@ s\ps n
 
 \lx kà.ban
 \mm kà:pm:INF
-\mm:v:bán
+\mm bán:v:terminer
 \ph [*kà ban = finir loc.]
 \ps adv
 \ge déjà
@@ -46591,7 +46578,7 @@ s\ps n
 
 \lx kàla.da
 \mm kàla:n:tige
-\mma dá:v:poser
+\mm dá:v:poser
 \ps n
 \lt paille-poser
 \ge tirage.au.sort
@@ -47255,7 +47242,6 @@ s\ps n
 \lx kálimu.kala
 \mm kálimu:n:stylet
 \mm kàla:n:tige
-\mm 
 \ue (dú)
 \va káalimu.kala
 \mm káalimu:n:stylet
@@ -47341,7 +47327,7 @@ s\ps n
 \lx kálo.muso
 \mm kálo:n:lune
 \mm mùso:n:femme
-\ \ps n
+\ps n
 \ge Vénus
 \lt (lune.femme)
 \dt 16/Aug/2006
@@ -48243,11 +48229,11 @@ s\ps n
 \lx kàngari.ma.dá
 \mm kàngari:n:mise.en.garde
 \mm mà:mrph:SUPER
-\mma dá:v:poser
+\mm dá:v:poser
 \va kànkari.ma.dá
 \mm kànkari:n:mise.en.garde
 \mm mà:mrph:SUPER
-\mma dá:v:poser
+\mm dá:v:poser
 \ps v
 \ge mettre.en.garde
 \ge prévenir
@@ -49341,7 +49327,7 @@ s\ps n
 \mm kàra.mɔgɔ:n:maître
 \mm kàra:n:lecture
 \mm mɔ̀gɔ:n:homme
- \mm dège:v:enseigner
+\mm dège:v:enseigner
 \mm sɛ́bɛn:n:écrit
 \ps n
 \lt maître-ensieigner-livre
@@ -50346,7 +50332,7 @@ s\ps n
 \xe on m'a laissé seul
 \dt 16/Aug/2006
 
-\lx kèle
+\lx kèle.ya.baa.tɔ
 \mm kèle:vq:être.envieux
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -50903,7 +50889,7 @@ s\ps n
 \mm mà:mrph:SUPER
 \mm bòli:v:courir
 \mm la:mrph:AG.PRM
-ps n
+\ps n
 \sn 1
 \ge fuyard
 \ge évacué
@@ -51239,7 +51225,7 @@ ps n
 \lx kɛ́nɛminikimanaka
 \mm kɛ́nɛ:n:clarté
 \va kɛ́nɛmilikimalaka
-mm kɛ́nɛ:n:clarté
+\mm kɛ́nɛ:n:clarté
 \ps n
 \ge point.du.jour
 \lt (clarté. début ?)
@@ -54116,7 +54102,7 @@ mm kɛ́nɛ:n:clarté
 \lt (fait.changer.celui qui)
 \dt 26/Sep/2006
 
-\lx kó. mɛ́n
+\lx kó.mɛ́n
 \mm kó:n:action
 \mm mɛ́n:v:entendre
 \ps v
@@ -55350,7 +55336,7 @@ mm kɛ́nɛ:n:clarté
 \lx kɔ́.gɛ́n
 \mm kɔ́:n:dos
 \mm gɛ́n:v:chasser
-\va kɔ́. gwɛ́n
+\va kɔ́.gwɛ́n
 \mm kɔ́:n:dos
 \mm gwɛ́n:v:chasser
 \ph [gw]
@@ -56328,7 +56314,7 @@ mm kɛ́nɛ:n:clarté
 \dt 16/Aug/2006
 
 \lx kɔni
-\va nkɔni 
+\va nkɔni
 \va kɔnin
 \ph [-kɔɔnin]
 \ue (bmk)
@@ -56761,7 +56747,6 @@ mm kɛ́nɛ:n:clarté
 \mm kɔ́nɔ:n:ventre
 \mm fɔ́:v:dire
 \mm ɲɔ́gɔn:prn:RECP
-\mm 
 \ps n
 \lt pensée-dire-associé
 \ge confident
@@ -66352,7 +66337,7 @@ mm kɛ́nɛ:n:clarté
 \mm ɲɛ́ni:v:réduire.à.la.misère
 \va lá.ɲani
 \mm lá:mrph:CAUS
-\mm ɲáni:n:v:réduire.à.la.misère
+\mm ɲáni:v:réduire.à.la.misère
 \ps v
 \ge réduire
 \ge à la misère
@@ -73748,7 +73733,7 @@ mm kɛ́nɛ:n:clarté
 \xe la maladie a rendu cet enfant chétif
 \dt 26/Sep/2006
 
-\va mɔ́ɲɔ-mɔ́ɲɔ
+\lx mɔ́ɲɔ-mɔ́ɲɔ
 \mm mɔ́ɲɔ:v:écraser
 \mm :mrph:INTENS
 \ps v
@@ -80445,7 +80430,7 @@ mm kɛ́nɛ:n:clarté
 \ge charabia
 \dt 26/Sep/2006
 
-\va nkósoro.kan
+\lx nkósoro.kan
 \mm nkósoro:n:javanais
 \mm kán:n:cou
 \ps n
@@ -80699,7 +80684,7 @@ mm kɛ́nɛ:n:clarté
 \dt 16/Aug/2006
 
 \lx nkùra
-\\ps n
+\ps n
 \ge claquement.des.doigts
 \xv ɲɔ̀susula bɛ́ nkùra cì
 \xe les pileuses font claquer leurs doigts
@@ -81270,8 +81255,8 @@ mm kɛ́nɛ:n:clarté
 \ge expier
 \dt 26/Sep/2006
 
-\lx nɔ̀gɔsi 
-\va nàasi 
+\lx nɔ̀gɔsi
+\va nàasi
 \va nɔ̀nsi
 \ps n 
 \ge cynhyène
@@ -86991,7 +86976,7 @@ mm kɛ́nɛ:n:clarté
 \lt (oeil.unique)
 \dt 16/Aug/2006
 
-\va ɲɛ́.kelen.nin
+\lx ɲɛ́.kelen.nin
 \mm ɲɛ́.kelen:n:borgne
 \mm ɲɛ́:n:oeil
 \mm kélen:num:un
@@ -88750,7 +88735,7 @@ mm kɛ́nɛ:n:clarté
 \mm ɲɛ́.tugu:v:fermer.les.yeux
 \mm ɲɛ́:n:oeil
 \mm túgu:v:fermer
-\mm :mrph:INTENS
+\mm :mrph:INTENS
 \ps v
 \ge ciller
 \ge ciller des yeux
@@ -89425,7 +89410,7 @@ mm kɛ́nɛ:n:clarté
 
 \lx ɲɔ́gɔn
 \va ɲɔ́ɔn
-\va ɲúan 
+\va ɲúan
 \ps prn
 \ge RECP
 \ge l'un.l'autre
@@ -90027,7 +90012,7 @@ mm kɛ́nɛ:n:clarté
 
 \lx ɲùgu-ɲùgu
 \mm ɲùgu:v:froisser
-\mm :mrph:INTENS
+\mm :mrph:INTENS
 \ps v
 \sn 1
 \ge être.nombreux
@@ -90635,11 +90620,11 @@ mm kɛ́nɛ:n:clarté
 \lt (feu de brousse. ?)
 \dt 26/Sep/2006
 
-\va ŋùna.fin.fin
+\lx ŋùna.fin.fin
 \mm ŋùna:n:feu.de.brousse
 \mm fìn.fin:n:charbon
 \mm fìn:n:noirceur
-\mm :mrph:INTENS
+\mm :mrph:INTENS
 \ue (bn)
 \ps n
 \ge cendres
@@ -91697,7 +91682,7 @@ mm kɛ́nɛ:n:clarté
 
 \lx pòron.poron
 \mm pòron:v:étreindre
-\mm :mrph:INTENS
+\mm :mrph:INTENS
 \ps v
 \ge faufiler
 \ge coudre à gros points
@@ -105973,7 +105958,7 @@ mm kɛ́nɛ:n:clarté
 \xe il s'est complètement calmé
 \dt 26/Sep/2006
 
-\va táyi-táyi
+\lx táyi-táyi
 \mm táyi:onomat:complètement
 \mm :mrph:INTENS
 \ps onomat
@@ -107443,7 +107428,7 @@ mm kɛ́nɛ:n:clarté
 \ph [tla, fla]
 \ue (f)
 \vc tílan
-ps v
+\ps v
 \sn 1
 \ge diviser
 \ge séparer
@@ -113597,7 +113582,7 @@ ps v
 \sd ster
 \dt 19/Aug/2006
 
-\va wòro
+\lx wòro
 \va wònton
 \ps n
 \ge chimpanzé
@@ -115603,7 +115588,7 @@ ps v
 
 \lx yére.yere
 \mm yére:onomat:bien.rouge
-\mm :mrph:INTENS
+\mm :mrph:INTENS
 \ps onomat
 \ge bien.rouge
 \ge bien mûr
