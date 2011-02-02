@@ -2,11 +2,11 @@
 # -*- encoding: utf-8 -*-
 
 import sys
-sys.path.append('/home/kirill/src/mande')
-import mandeist
-import mandeist.orthography
+sys.path.append('/home/kirill/src/mande/mandeist')
+from ntgloss import Gloss
+import orthography
 import cPickle
-import xml.etree.ElementTree as x
+import xml.etree.cElementTree as x
 from nltk.corpus.reader import ToolboxCorpusReader
 from nltk.corpus.util import LazyCorpusLoader
 from contextlib import closing
@@ -41,26 +41,28 @@ makegloss = lambda s: s.split(':')
 for entry in lexicon.findall('record'):
     ps = entry.findtext('ps')
     if ps != 'mrph':
-        gloss = entry.findtext('ge')
+        gloss = entry.findtext('ge') or ''
         keylist = []
-        if not gloss:
-            gloss = ''
         for e in entry:
             if e.tag in ['lx', 'le', 'va', 'vc']:
                 lemma = e.text
                 keylist = []
                 keylist.append(normalize_bailleul(lemma.lower()))
-                dictkey_detone = mandeist.orthography.detone(keylist[-1])
+                dictkey_detone = orthography.detone(keylist[-1])
                 if not dictkey_detone == keylist[-1]:
+                    print "X:", keylist[-1], dictkey_detone
                     keylist.append(dictkey_detone)
 
                 for key in keylist:
-                    wl_detone.setdefault(key,[]).append(mandeist.Gloss(lemma,makeset(ps),gloss,()))
+                    wl_detone.setdefault(key,[]).append(Gloss(lemma,makeset(ps),gloss,()))
             if e.tag in ['mm']:
                 for key in keylist:
                     lastlemma = wl_detone[key][-1]
-                    mform, mps, mgloss = e.text.split(':')
-                    morph = mandeist.Gloss(mform, makeset(mps),mgloss,())
+                    try:
+                        mform, mps, mgloss = e.text.split(':')
+                    except ValueError:
+                        print "MALFORMED:", e.text
+                    morph = Gloss(mform, makeset(mps),mgloss,())
                     wl_detone[key][-1] = lastlemma._replace(morphemes = lastlemma.morphemes + tuple([morph]))
 
 with closing(open('bamana.bdi', 'wb')) as outdict:
