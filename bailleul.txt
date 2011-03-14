@@ -5735,25 +5735,27 @@
 \sm variante du prédicatif positif du présent (fréquent quand le verbe commence par p t k n f ) 
 \ps pm
 \sn 1
-\ge IPFV
+\ge IPFV.AFF
 \ge (auxiliaire du présent positif des verbes)
 \xv ń bɛ́ táa só
 \xe je pars à la maison
 \xv à bɛ́ sàn Bàmakɔ
-\xe ça se vend à Bamakopfs : sens de futur
+\xe ça se vend à Bamako
+\sm pfs: sens de futur
 \xv ní  ò má kɛ́, né bí fàa
 \xe si cela n'a pas lieu, on va me tuer
 \xv ò bí kɛ́
 \xe ça se fait, on le fera
-\sn 2
-\ge associé au participe présent ou passé
+
+\lx bɛ́
+\ps cop
+\ge BE
+\ge prédicat d'existence
+\ge de présence en un endroit
 \xv à táalen bɛ́  kúngo lá
 \xe il est parti en brousse
 \xv à táatɔ bɛ́  Bàmakɔ
 \xe il s'en va à Bamako à l'instant
-\sn 3
-\ge prédicat d'existence
-\ge de présence en un endroit
 \xv né fà bɛ́
 \xe mon père vit (encore)
 \xv nɛ́nɛ bɛ́
@@ -5773,10 +5775,6 @@
 \xv án b'á fɛ̀  kà táa Bàmakɔ
 \xe nous voulons aller à Bamako
 \dt 26/Sep/2006
-
-\lx bɛ́
-\ps pm
-\ge IPFV.AFF
 
 \lx bɛ́ kà
 \va bɛ́ k'
@@ -117173,4 +117171,5 @@ va ntànfòro
 \bw fr : juin
 \ps n
 \ge juin
+
 
