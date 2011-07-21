@@ -73,7 +73,7 @@
 \va Alize
 \di b
 \ty гос.
-\ge Algérie
+\ge Algérie
 \ru Алжир
 \dt 23/May/2010
 \ps n.prop
@@ -81,7 +81,7 @@
 \lx Ámdàláy
 \ty кв.
 \cm (в Сегу)
-\ge quartier.à.Ségou
+\ge quartier.à.Ségou
 \dt 05/Dec/2010
 \ps n.prop
 
@@ -104,7 +104,7 @@
 
 \lx Ángolem
 \cm (в Бамако)
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \dt 05/Dec/2010
 \ps n.prop
 
@@ -136,7 +136,7 @@
 \lx Arameni
 \va Arimeni
 \ty гос.
-\ge Arménie
+\ge Arménie
 \ru Армения
 \dt 23/May/2010
 \ps n.prop
@@ -173,7 +173,7 @@
 \lx Atɛn
 \va Ahɛn
 \ty г.
-\ge Athènes
+\ge Athènes
 \ru Афины
 \dt 23/May/2010
 \ps n.prop
@@ -183,7 +183,7 @@
 \et fr. Atlantique
 \ge Atlantique
 \ty ок.
-\ru Атлантический
+\ru Атлантический
 \dt 23/May/2010
 \ps n.prop
 
@@ -208,7 +208,7 @@
 \va Bable
 \va Bawulen
 \ty р.
-\ge Baoulé
+\ge Baoulé
 \ru Бавулен
 \cm (приток Нигера)
 \dt 23/May/2010
@@ -216,15 +216,15 @@
 
 \lx Bádalabugu 
 \ty кв. 
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Bafilabɛn
-\et букв. "сплетение двух рек", т.е. Бакой и Бафин
+\et букв. "сплетение двух рек", т.е. Бакой и Бафин
 \ty г.
-\ge Bafoulabé
+\ge Bafoulabé
 \ru Бафулабе
 \dt 23/May/2010
 \ps n.prop
@@ -238,14 +238,14 @@
 
 \lx Bágadaji
 \ty кв. 
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Bájalana
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -271,21 +271,21 @@
 
 \lx Bákaribugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Báko Jíkoroni
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Bakoyi
 \ty р.
-\ru Бакой
+\ru Бакой
 \ge Bakoy
 \cm (приток Нигера)
 \dt 23/May/2010
@@ -301,21 +301,21 @@
 
 \lx Bámakɔkura
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Bámànángin
 \ty кв.
-\ge quartier.à.Ségou
+\ge quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Bánanisabakɔrɔ
 \ty кв.
-\ge quartier.à.Ségou
+\ge quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
 \ps n.prop
@@ -329,14 +329,14 @@
 
 \lx Bángɔni
 \ty кв.
-\ge quartier.à.Ségou
+\ge quartier.à.Ségou
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Baninfin
 \ty р.
-\ru Бани Чёрная
+\ru Бани Чёрная
 \ge Banifing
 \cm (приток Бани)
 \dt 23/May/2010
@@ -348,7 +348,7 @@
 \va Banisirayila
 \et ar. bnu-sraa'il 'евреи'
 \ty гос.
-\ge Israël
+\ge Israël
 \ru Израиль
 \dt 23/May/2010
 \ps n.prop
@@ -419,7 +419,7 @@
 
 \lx Bɛnɛn
 \ty гос.
-\ge Bénin
+\ge Bénin
 \ru Бенин
 \dt 23/May/2010
 \ps n.prop
@@ -434,7 +434,7 @@
 \lx Bɛnuwɛ
 \ty р.
 \ru Бенуэ
-\ge Bénoué
+\ge Bénoué
 \cm (в Нигерии, приток Нигера)
 \dt 23/May/2010
 \ps n.prop
@@ -442,7 +442,7 @@
 \lx Beresili
 \va Berezili
 \ty гос.
-\ge Brésil
+\ge Brésil
 \ru Бразилия
 \dt 23/May/2010
 \ps n.prop
@@ -473,14 +473,14 @@
 
 \lx Bólibana
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Bózola
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -495,7 +495,7 @@
 
 \lx Bulantiya
 \ty г.
-\ru Блантайр
+\ru Блантайр
 \ge Blantyre
 \cm (Малави)
 \dt 23/May/2010
@@ -503,7 +503,7 @@
 
 \lx Bulbine
 \ty кв.
-\ge quartier.à.Conakry
+\ge quartier.à.Conakry
 \ru Бульбине
 \cm (В Конакри)
 \dt 23/May/2010
@@ -519,7 +519,7 @@
 
 \lx Búlkasùnbugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -600,7 +600,7 @@
 
 \lx Dársàlám
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -609,13 +609,13 @@
 \ty оз.
 \ru Дебо
 \ge Debo
-\cm (в Мали, центр внутренний дельты Нигера)
+\cm (в Мали, центр внутренний дельты Нигера)
 \dt 23/May/2010
 \ps n.prop
 
 \lx Dɛ́rsàlám
 \ty кв.
-\ge quartier.à.Ségou
+\ge quartier.à.Ségou
 \dt 05/Dec/2010
 \ps n.prop
 
@@ -628,7 +628,7 @@
 
 \lx Dràwela
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -649,7 +649,7 @@
 
 \lx Eritere
 \ty гос.
-\ge Érithrée
+\ge Érithrée
 \ru Эритрея
 \dt 23/May/2010
 \ps n.prop
@@ -658,15 +658,15 @@
 \ty оз.
 \ru Фагибини
 \ge Faguibini
-\cm (в Мали, к северу от внутренней дельты Нигера)
+\cm (в Мали, к северу от внутренней дельты Нигера)
 \dt 23/May/2010
 \ps n.prop
 
 \lx Faleme
 \ty р.
 \ru Фалеме
-\ge Falémé
-\cm (левый приток р. Сенегал)
+\ge Falémé
+\cm (левый приток р. Сенегал)
 \dt 23/May/2010
 \ps n.prop
 
@@ -778,7 +778,7 @@
 \di m
 \ty гос.
 \ru Кот-д'Ивуар
-\ge Côte.d'Ivoire
+\ge Côte.d'Ivoire
 \sy Kɔ́nɔwari
 \dt 23/May/2010
 \ps n.prop
@@ -787,13 +787,13 @@
 \va Ginebisawo
 \ty гос.
 \ru Гвинея-Бисау
-\ge Guinée-Bissau
+\ge Guinée-Bissau
 \dt 23/May/2010
 \ps n.prop
 
 \lx Hámdalay
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -802,7 +802,7 @@
 \ty оз.
 \ru Харибомо
 \ge Haribomo
-\cm (в Мали, к востоку от внутренней дельты Нигера)
+\cm (в Мали, к востоку от внутренней дельты Нигера)
 \dt 23/May/2010
 \ps n.prop
 
@@ -817,7 +817,7 @@
 \ty оз.
 \ru Хоро
 \ge Horo
-\cm (к северу от внутренней дельты Нигера)
+\cm (к северу от внутренней дельты Нигера)
 \dt 23/May/2010
 \ps n.prop
 
@@ -832,7 +832,7 @@
 
 \lx Ípɔdrɔm
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -850,7 +850,7 @@
 \ty гос.
 \ge Russie
 \ru Росcия
-\ru Советский Союз
+\ru Советский Союз
 \dt 23/May/2010
 \ps n.prop
 
@@ -883,7 +883,7 @@
 
 \lx Jèlibugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -893,7 +893,7 @@
 \va Jɛ̀nɛ
 \di m
 \ty г.
-\ge Dienné
+\ge Dienné
 \ru Дженне
 \dt 23/May/2010
 \ps n.prop
@@ -909,7 +909,7 @@
 \va Lágìnɛ
 \va Láginɛ
 \ty гос.
-\ge Guinée
+\ge Guinée
 \ru Гвинея
 \dt 23/May/2010
 \ps n.prop
@@ -918,13 +918,13 @@
 \ty ист.
 \ru Джома
 \ge Dioma
-\cm (историческая область в южной Гвинее)
+\cm (историческая область в южной Гвинее)
 \dt 23/May/2010
 \ps n.prop
 
 \lx Júmanzana
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -987,7 +987,7 @@
 \ty р.
 \ru Каракоро
 \ge Karakoro
-\cm (правый приток р. Сенегал)
+\cm (правый приток р. Сенегал)
 \dt 23/May/2010
 \ps n.prop
 
@@ -1018,7 +1018,7 @@
 \lx Káwàya
 \di m
 \ty г.
-\ru Кавайа
+\ru Кавайа
 \cm (в Гвинее)
 \dt 23/May/2010
 \ps n.prop
@@ -1050,7 +1050,7 @@
 
 \lx Kénzanbugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1097,8 +1097,8 @@
 \lx Kolinbinna
 \ty р.
 \ru Колинбинна
-\ge Colimbiné
-\cm (правый приток реки Сенегал)
+\ge Colimbiné
+\cm (правый приток реки Сенегал)
 \dt 23/May/2010
 \ps n.prop
 
@@ -1126,7 +1126,7 @@
 \va Kodiwari
 \va Kotiwari
 \ty гос.
-\ge Côte.d'Ivoire
+\ge Côte.d'Ivoire
 \ru Кот-д'Ивуар
 \dt 23/May/2010
 \ps n.prop
@@ -1148,7 +1148,7 @@
 
 \lx Kɔ́rɔfina
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1163,8 +1163,8 @@
 
 \lx Kowɛti
 \ty гос.
-\ru Кувейт
-\ge Koweït
+\ru Кувейт
+\ge Koweït
 \dt 23/May/2010
 \ps n.prop
 
@@ -1183,7 +1183,7 @@
 \ru Куранко
 \ge Kouranko
 \cm (к западу от Кисидугу, на территории Гвинеи и
-Сьерра-Леоне; также одноимённый народ)
+Сьерра-Леоне; также одноимённый народ)
 \dt 23/May/2010
 \ps n.prop
 
@@ -1197,14 +1197,14 @@
 
 \lx Láfìyábugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Lagine Bisawo
 \ty гос.
-\ge Guinée-Bissau
+\ge Guinée-Bissau
 \ru Гвинея-Бисау
 \dt 23/May/2010
 \ps n.prop
@@ -1234,7 +1234,7 @@
 
 \lx Lomɛ
 \ty г.
-\ge Lomé
+\ge Lomé
 \ru Ломе
 \dt 23/May/2010
 \ps n.prop
@@ -1242,7 +1242,7 @@
 \lx Lorenso-Marikɛs
 \ty г.
 \ru Лоренсу-Маркеш
-\ge Lourenço.Marques
+\ge Lourenço.Marques
 \cm (c 1976 г. - Мапуту)
 \dt 23/May/2010
 \ps n.prop
@@ -1271,7 +1271,7 @@
 
 \lx Màdina
 \ty г.
-\ge Médine
+\ge Médine
 \ru Медина
 \dt 23/May/2010
 \ps n.prop
@@ -1333,21 +1333,21 @@
 
 \lx Mɛ́din
 \ty кв.
-\ge quartier.à.Segou
+\ge quartier.à.Segou
 \cm (в Сегу)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Mɛ́dìnákura
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Mediterane
 \ty м.
-\ge Méditerranée
+\ge Méditerranée
 \ru Средиземное
 \dt 23/May/2010
 \ps n.prop
@@ -1371,7 +1371,7 @@
 \va Mísìran
 \va Mísɛ̀r
 \ty гос.
-\ge Égypte
+\ge Égypte
 \ru Египет
 \dt 05/Dec/2010
 \ps n.prop
@@ -1431,7 +1431,7 @@
 \lx Nairobi
 \ty г.
 \ge Nairobi
-\ru Найроби
+\ru Найроби
 \dt 23/May/2010
 \ps n.prop
 
@@ -1465,7 +1465,7 @@
 
 \lx Ntòmikɔrɔbugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1481,14 +1481,14 @@
 \lx Nyamɛ
 \ty г.
 \ge Niamey
-\ru Ньямей
+\ru Ньямей
 \dt 23/May/2010
 \ps n.prop
 
 \lx Nzɛ́rɛkɔ̀rɛ
 \va Nsɛrɛgbɛ̀dɛ
 \ty г.
-\ge Nzérékoré
+\ge Nzérékoré
 \ru Нзерекоре
 \cm (в Гвинее)
 \dt 23/May/2010
@@ -1541,13 +1541,13 @@
 \lx Pasifiki
 \ty ок.
 \ge Pacifique
-\ru Тихий
+\ru Тихий
 \dt 23/May/2010
 \ps n.prop
 
 \lx Pɛ̀linŋana
 \ty кв.
-\ge quartier.à.Ségou
+\ge quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1583,7 +1583,7 @@
 
 \lx Reniyɔn
 \ty гос.
-\ge Réunion
+\ge Réunion
 \ru Реюньон
 \dt 23/May/2010
 \ps n.prop
@@ -1591,15 +1591,15 @@
 \lx Riyo-Doro
 \ty обл.
 \ru Рио-до-Оро
-\ge Río.de.Oro
-\cm (южная часть Западной Сахары)
+\ge Río.de.Oro
+\cm (южная часть Западной Сахары)
 \dt 23/May/2010
 \ps n.prop
 
 \lx Rodezi
 \ty гос.
 \ru Родезия
-\ge Rhodésie
+\ge Rhodésie
 \cm (с 1980 - Зимбабве)
 \dt 23/May/2010
 \ps n.prop
@@ -1613,7 +1613,7 @@
 
 \lx Sábalibugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1645,14 +1645,14 @@
 \ty г.
 \ru Санта-Исабель
 \ge Santa.Isabel
-\cm (c 1973 г. - Малабо, столица Экваториальной Гвинеи)
+\cm (c 1973 г. - Малабо, столица Экваториальной Гвинеи)
 \dt 23/May/2010
 \ps n.prop
 
 \lx Santarafiriki
 \va Santarafrikɛn
 \ty гос.
-\ge République.centrafricaine
+\ge République.centrafricaine
 \ru Центральноафриканская республика
 \dt 23/May/2010
 \ps n.prop
@@ -1670,14 +1670,14 @@
 \lx Ségu
 \ty г.
 \ru Сегу
-\ge Ségou
+\ge Ségou
 \cm (в Мали)
 \dt 23/May/2010
 \ps n.prop
 
 \lx Ségukura
 \ty кв.
-\ge quartier.à.Ségou
+\ge quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1694,7 +1694,7 @@
 \va Sinakale
 \va Sɛnɛgal
 \ty гос.
-\ge Sénégal
+\ge Sénégal
 \ru Сенегал
 \dt 23/May/2010
 \ps n.prop
@@ -1710,7 +1710,7 @@
 \lx Seno
 \ty плато
 \ru Сено
-\ge Sèno
+\ge Sèno
 \cm (в Мали)
 \dt 23/May/2010
 \ps n.prop
@@ -1733,7 +1733,7 @@
 
 \lx Síkɔrɔni
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1744,21 +1744,21 @@
 \va Shinuwa
 \ty гос.
 \ge Chine
-\ru Китай
+\ru Китай
 \dt 23/May/2010
 \ps n.prop
 
 \lx Sogbɛ
 \ty кв.
 \ru Согбе
-\ge quartier.à.Kankan
+\ge quartier.à.Kankan
 \cm (в Канкане)
 \dt 23/May/2010
 \ps n.prop
 
 \lx Sòkálakɔ̀nɔ
 \ty кв.
-\ge quartier.à.Ségou
+\ge quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1780,7 +1780,7 @@
 
 \lx Sɔ́mɔnɔso
 \ty кв.
-\ge quartier.à.Ségou
+\ge quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1797,7 +1797,7 @@
 \lx Sowiyati
 \ty гос.
 \ge l’Union.Sovetique
-\ru Cоветский Союх
+\ru Cоветский Союх
 \dt 23/May/2010
 \ps n.prop
 
@@ -1832,7 +1832,7 @@
 
 \lx Tɛmanbaa Jinɛ
 \ty гос.
-\ge Guinée.équatoriale
+\ge Guinée.équatoriale
 \ru Экваториальная Гвинея
 \dt 23/May/2010
 \ps n.prop
@@ -1846,7 +1846,7 @@
 
 \lx Tɔ́rɔkɔrɔbugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -1855,7 +1855,7 @@
 \ty ист.
 \ru Торон
 \ge Toron
-\cm (область, включающая большую часть Верхней Гвинеи)
+\cm (область, включающая большую часть Верхней Гвинеи)
 \dt 23/May/2010
 \ps n.prop
 
@@ -1913,30 +1913,30 @@
 
 \lx Wɔ́lɔfɔbugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
 
 \lx Yámanin
 \ty гос.
-\ge Yémen
-\ru Йемен
+\ge Yémen
+\ru Йемен
 \dt 23/May/2010
 \ps n.prop
 
 \lx Yaunde
 \ty г.
-\ge Yaoundé
+\ge Yaoundé
 \ru Яунде
 \dt 23/May/2010
 \ps n.prop
 
 \lx Yelimani
 \ty г.
-\ge Yélimané
+\ge Yélimané
 \ru Елимане
-\cm (на  крайнем северо-западе Мали)
+\cm (на  крайнем северо-западе Мали)
 \dt 23/May/2010
 \ps n.prop
 
@@ -1963,7 +1963,7 @@
 
 \lx Zayiri
 \ty гос.
-\ge Zaïre
+\ge Zaïre
 \ru Заир
 \dt 23/May/2010
 \ps n.prop
@@ -1994,8 +1994,8 @@
 \lx Ɲangayi
 \ty оз.
 \ge Niangay
-\ru Ниангай
-\cm (в Мали, к востоку от внутренней дельты Нигера)
+\ru Ниангай
+\cm (в Мали, к востоку от внутренней дельты Нигера)
 \dt 23/May/2010
 \ps n.prop
 
@@ -2009,7 +2009,7 @@
 
 \lx Ɲárɛla
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
@@ -2018,7 +2018,7 @@
 \va Ecupi
 \va Ɛtiyopi
 \ty гос.
-\ge Éthiopie
+\ge Éthiopie
 \ru Эфиопия
 \dt 23/May/2010
 \ps n.prop
@@ -2034,14 +2034,14 @@
 \lx Ɛ̀njen
 \et fr. Indien
 \ty ок.
-\ge Océan.Indien
-\ru Индийский
+\ge Océan.Indien
+\ru Индийский
 \dt 23/May/2010
 \ps n.prop
 
 \lx Ɲɔ̀miriyambugu
 \ty кв.
-\ge quartier.à.Bamako
+\ge quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
