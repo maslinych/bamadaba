@@ -1,0 +1,3026 @@
+\_sh v3.0  400  MDF 4.0
+\_DateStampHasFourDigitYear
+\lang bam
+\name togow
+\ver 0.3
+
+\lx Aba
+\ge m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Abdul
+\va Abdulaye
+\di b
+\va Abdlaye
+\va Ábudu
+\ge m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Abduraman
+\ge m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Àbú
+\ge m
+\di m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Abubakari
+\ge m
+\di b
+\dt 02/May/2010
+\ps n.prop
+
+\lx Abudaramani
+\ge m
+\di b
+\dt 02/May/2010
+\ps n.prop
+
+\lx Ádama
+\ge m, f
+\di mF
+\dt 02/May/2010
+\ps n.prop
+
+\lx Àfaana
+\ge m
+\di m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Áladìnyɛ
+\di m
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Aladungo
+\di b
+\ge
+\dt 02/May/2010
+\ps n.prop
+
+\lx Álafɛ̀
+\di m
+\ge m, f
+\dt 02/May/2010
+\ps n.prop
+
+\lx Alakanyi
+\di
+\ge
+\dt 02/May/2010
+\ps n.prop
+
+\lx Alama
+\di m
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Álamàko
+\di
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Alfa
+\di son, ful
+\ge m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Àli
+\va Aliu
+\va Aliyu
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Álifàa
+\di m
+\ge m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Alikawu
+\va Alkaw
+\di b
+\ge
+\dt 02/May/2010
+\ps n.prop
+
+\lx Alimani
+\di
+\ge m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Aluseni
+\di
+\ge m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Ámara
+\di b
+\ge m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Ámì
+\di b
+\ge f
+\dt 02/May/2010
+\ps n.prop
+
+\lx Ámìdu
+\di b
+\va Ámadù
+\va Ámadi
+\va Ámàdu
+\dt 03/May/2010
+\ps n.prop
+
+\lx Áminàta
+\di m
+\dm Minata
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ansumani
+\va Ansmane
+\va Ànsumánà
+\di m
+\ge
+\dt 02/May/2010
+\ps n.prop
+
+\lx Araba
+\di
+\ge f
+\dt 02/May/2010
+\ps n.prop
+
+\lx Arafan
+\di m
+\ge m
+\dt 02/May/2010
+\ps n.prop
+
+\lx Aramata
+\di m
+\ge f
+\dt 02/May/2010
+\ps n.prop
+
+\lx Àri
+\di was
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Aruna
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Asaku
+\di son
+\di m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Asita
+\va Asta
+\di b
+\va Ásitàn
+\va Aysata
+\va Sítàn
+\dm Asan
+\dm Asa
+\hn Basan
+\di (m)
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Àtiku
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Áwà
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ayi
+\di m
+\hn Ayiba
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Baable
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Baba
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Babenba
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bacɔ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Badra
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bádu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bafaraji
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bàfin
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bagi
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bájènebá
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bakanmɛn
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bákàrí
+\va Bwákàrí
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bakarijan
+\di b
+\va Bwakarijan
+\di bS
+\dm Bwàján
+\dm Bàján
+\dm Bwari
+\dm Bakari
+\dm Bwakari
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bakɔrɔba
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bakun
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bàla
+\di b, m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Balemori
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bamanankɛ
+\dm Bamankɛ
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bamasa
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bamɛ
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bamori
+\di b, dK
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Banba
+\ps
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bánbo
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Banfali
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bàngalí
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bánjan
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Banjugu
+\di b
+\va Bánjuu
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bánkàli
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Baramanin
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bàru
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Baseri
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Basi
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Basirima
+\di dK
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bátùru
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Baydi
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bayegi
+\ps
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bee
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Békayi
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bɛnba
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Béremà
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Binɛfu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bineta
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bíntà
+\va Bíntu
+\va Béntu
+\di b, m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Binyɛ
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Binyɛsɔn
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Birahima
+\va Brahima
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Biratigɛ
+\di b
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bisiri
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Biton
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bolodanɛ
+\di son
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Buba
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bubakari
+\va Bubakar
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bufunɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Buguri
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bulonko
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bulonkun
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bùnafù
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bùrama
+\va Buram
+\va Bram
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Burayima
+\va Burayma
+\va Brɛyma
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bùrémàn
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Buru
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bùruláyi
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Bwàlì
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀bá
+\di b, m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀ble
+\va Cɛ̀bilen
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀fin
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀jɛ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀jugu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀kɔrɔ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀kura
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀mɔgɔ
+\va Cɛ̀mɔkɔ
+\di b
+\va Cɛ̀mɔɔ
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀nege
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀rɛfà
+\va Kɛ̀rɛfà
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀sɔn
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀timɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀tin
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cɛ̀yiri
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Cona
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dabi
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Daliba
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Daloba
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Daman
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Damu
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dànbá
+\di m
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Danfin
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dansɛnɛ
+\di b
+\va Dasɛnɛ
+\di bBel
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Daramani
+\va Daramane
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dáuda
+\va Dáwuda
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dému
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dènba
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dɛndɛ
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dirisa
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dose
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dùdù
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dùgufana
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dulaye
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dura
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Dúsu
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fà
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fáatumata
+\va Fatumata
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fàbilen
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fabori
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fàbu
+\di b, m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fádama
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fàdebi
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fadima
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fajala
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fàjo
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fakanda
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fàkɔ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fálen
+\va Fále
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Falibo
+\di b
+\va Halibu
+\di mK
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fàmori
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Famɔrɔ
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fánkelen
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fáraban
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fárima
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fárina
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fasale
+\di b
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fasedi
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fàsun
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fatimata
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fàtú
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fátuma
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fɛntɛalabɔ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fili
+\di b
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Filifɛn
+\di
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fódè
+\va Fòdé
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fónba
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Funɛ
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Fuseni
+\va Fùséyini
+\di ful
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Gabukɔrɔ
+\di b 
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Gancɔ
+\va Gwancɔ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Gansenin
+\va Gwansenin
+\va Ganseni
+\va Gwanseni
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Gansun
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Gantɛnɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Gárabà
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Gausu
+\va Gawusu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Gejuma
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Hábì
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Habiba
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Halifa
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Hama
+\di ful, son
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Hámadi
+\va Hamadu
+\va Hàmídu
+\va Hamari
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Háwa
+\va Máwa
+\va Áwa
+\di m
+\va Áwà
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Húmun
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Huseni
+\va Fuseni
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ibrahima
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ídrìsa
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ísa
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ìsiaka
+\va Siaka
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jàaká
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jafode
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jajiri
+\di ful
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jala
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jàmako
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jámùru
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jara
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jariso
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jawey
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jédi
+\di ful
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jelimakan
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jɛ̀nɛ
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jɛ̀nɛba
+\va Jɛ̀nɛbu
+\va Jainab
+\di b, m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jɛ́nfà
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jígi
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jòkolon
+\va Jòkolo
+\va Jókolo
+\dm Jò
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jóma
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jɔngɔlɔn
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Jùba
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Júgà
+\di xas
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Káalà
+\di sou
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kaari
+\di b
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kaba
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kábìnɛ
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kádè
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Káfunɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kaguja
+\di b
+\dm Kaja
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kalifa
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kàmísa
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kandya
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Káni
+\va Kánin
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Káninfin
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Káningbɛ
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kánjà
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kanku
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kariatu
+\va Kariatu
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Káriba
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Karifa
+\va Karfa
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Karija
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kárimu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Káronkan
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kasimu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kásun
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kawali
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kɛfa
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kenda
+\di ful
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kída
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kìtagbɛ
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kòdárì
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Koiba
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kɔ̀kɛ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Koli
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kɔmɔko
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kɔmɔkɔrɔ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kɔmɔtigi
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kónì
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kóninbà
+\va Kòninbá
+\di b
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kɔ̀nɔjugu
+\di b
+\va Kɔ̀nɔjúu
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Korɛjo
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kɔ̀rɔtumu
+\dm Kɔ̀rɔ́
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kɔtyatu
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kóyan
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kúda
+\hn Makuda
+\di m
+\va Kúra
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kúlako
+\di m
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kúlunba
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kúmànjan
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kùnadi
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kúnbà
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kùnta
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Làháwù
+\va Làháù
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Lala
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Làmíni
+\di b
+\va Làmínìn
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Lanseni
+\va Lansana
+\va Lánsìnɛ
+\va Làsana
+\di b, m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Lemu
+\di son
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Lónsanin
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mace
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Màdami
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mádi
+\va Màdú
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Magansire
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mahamani
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Majugu
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Maka
+\va Màkan
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Makɔnɔ
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Maladɔ
+\va Màaládɔ
+\di ful
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Màlisájò
+\di b
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Màlobálì
+\di
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Málɔ̀n
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mámà
+\va Màmá
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mamadi
+\va Mamadu
+\va Mamari
+\va Mamani
+\di b, m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mamaniɲuman
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mamanja
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mamu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mamuru
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Managama
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mánjù
+\va Mànjú
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Manugu
+\di dK
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mapogo
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Máriyamu
+\va Márìam
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Másarka
+\va Másàran
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Masɔgɔna
+\di dK
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mata
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mawula
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mɛ́nkɔ̀rɔ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mìna
+\di was
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mìsi
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Módibo
+\va Módibò
+\di b
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mɔ̀nsɔn
+\va Mɔ̀nzɔn
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mòri
+\di b, m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mòribà
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Morlaye
+\di b
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mówamèd
+\di mF
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Muktari
+\va Mukutar
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Murlaye
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Músà
+\di b, m
+\va Mísa
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Musofɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Musojugu
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Musokɔrɔ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Musokura
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Musoni
+\va Musonin
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nàfína
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nákàn
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nama
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Namakɛ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Namakɔrɔ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Námàn
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Namasen
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Namasɔn
+\di b
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Namatɛnɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Namayiri
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nambugare
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Naminata
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nàna
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nanamisa
+\dm Namisa
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nánkuman
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Náɲuma
+\va Náɲuman
+\di b, m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Náronbà
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nbáalì
+\va Nbáalù
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ncí
+\va Njí
+\va Ncì
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nɛgɛ
+\di b
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Negesama
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Negesɔn
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Negetin
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nɛnɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nfaadaman
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nfáalì
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nfanyanama
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ngɔ̀lɔ
+\va Ŋɔ̀lɔ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ngonfinba
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nitiye
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Niyɛlɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nja
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ńnàgbɛ
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Npɛnɛn
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Npiyɛ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nsanga
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ntifɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ntɔ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nuhun
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Numan
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Numori
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Númoso
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nùmu
+\di
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Numujɔn
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Numukɛ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Numuni
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Numusira
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Numuso
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Numusoma
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Núnkɛ̀
+\va Núncɛ
+\di b̀
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nùnkúmàn
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Núnkùn
+\hn Núnkùnba
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nuntɛnɛ
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nuwa
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nyima
+\di kisi
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nzàn
+\va Nsàn
+\va Zàn
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Pápa
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Patɛ
+\di ful
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Pènda
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Pɔrɛ
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sáajɔ̀
+\va Sàajɔ
+\di b
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sabali
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sábu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sàdá
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sádanken
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Safiyatu
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Safura
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sálèmatú
+\va Sálèmatá
+\dm Sàlé
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sálifu
+\va Sálif
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sama
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Samakun
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sámu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sana
+\di b, dog
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sànaba
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sánàsa
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sànba
+\di m, ful
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sànbu
+\di b, m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Saninba
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sánsi
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sánu
+\ps
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sánumu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sànusi
+\dm Sàsí
+\di b
+\va Sanunsi
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sàran
+\va Sáràn
+\hn Nasaran
+\di b, m
+\va Sádàn
+\di m
+\di f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sárata
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sàró
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sayon
+\di b
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sébu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sédu
+\va Sèdu
+\di b, m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Segikolon
+\di b
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sékù
+\va Sek
+\va Sheku
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sɛnɛ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Séni
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sénkun
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sérè
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sɛrɛba
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Seriba
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sétù
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Seynu
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Shɔ́
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Síbìri
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sídì
+\va Sídi
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sidiki
+\va Siriki
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Siliman
+\va Slimana
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sìnɛ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sìra
+\di b
+\va Sìira
+\va Síira
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Siriba
+\dm Seri
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Síriman
+\va Sirman
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sìtafa
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Síyata
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sòba
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sɔgɔna
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sòliba
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sòlomani
+\va Sòlomana
+\va Sòlomaana
+\dm Solo
+\di b, m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sóma
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sòrí
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sule
+\va Sulaye
+\di b
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sulemani
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sumana
+\va Zumana
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Súnba
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sùnjata
+\di b
+\va Sonjade
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Súnkalo
+\va Súngalo
+\di b
+\va Sunkaro
+\di m
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sùntúrà
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sununkum
+\di b
+\va Suntunkun
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Súrugu
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Swansɛy
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Táyiru
+\di m
+\va Tahiru
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tɛnɛmagan
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tɛ̀nɛn
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tɛ̀nɛnba
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tɛ̀nɛnfin
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tɛ̀nɛngbɛ
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tíbù
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tigidanke
+\di b
+\va Tiidanke
+\va Tiiranke
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tíjane
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tijani
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tɔ́gɔntan
+\di
+\ge b
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tonkɔ
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Túmani
+\va Tumaane
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Úmarù
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Úmù
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Useyni
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Usmane
+\va Usmana
+\va Usumana
+\va Úsmàní
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Usubi
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Wálì
+\di b, m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Wáraba
+\di b
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Warajugu
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Wári
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Wàrikɛ
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Wàsá
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Wobana
+\di bobo
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Wòrokíà
+\di
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Yaama
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Yadi
+\di m
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Yàkubà
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Yámusa
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Yáya
+\di
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Yaye
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Yíriba
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Yúba
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Yusufu
+\va Yusuf
+\va Yúsu
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲa
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲàama
+\di m
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲàgalen
+\di b
+\va Ɲaalen
+\va Ɲakalen
+\di m
+\va Ɲàlen
+\di mF
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲama
+\di b
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲamakolon
+\di b
+\ge m
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲamanton
+\di b
+\ge m, f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲansɔn
+\di
+\ge
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲɛ̀ba
+\va Ɲɛ́ba
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲèle
+\va Ɲèlen
+\di b
+\ge f
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲinɛ
+\di b
+\ge f
+\dt 03/May/2010
+
+\ps n.prop
+

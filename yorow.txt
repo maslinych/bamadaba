@@ -1,0 +1,2074 @@
+﻿\_sh v3.0  400  MDF 4.0
+\_DateStampHasFourDigitYear
+\lang bam
+\name yorow
+\ver 0.3
+
+\lx Ábijàn
+\di b
+\di m
+\ty г.
+\ge Abidjan
+\ru Абиджан
+\dt 23/May/2010
+\ps n.prop
+
+\lx Adisabeba
+\di b
+\di m
+\ty г.
+\ge Addis-abeba
+\ru Аддис-Абеба
+\dt 23/May/2010
+\ps n.prop
+
+\lx Afiganisitan
+\va Áfugan
+\di b
+\di m
+\ty гос.
+\ge Afghanistan
+\ru Афганистан
+\dt 23/May/2010
+\ps n.prop
+
+\lx Áfriki
+\va Afrika
+\va Àfrik
+\sy Farafinna
+\di b
+\sy Fadafinna
+\di m
+\ty конт.
+\ge Afrique
+\ru Африка
+\dt 23/May/2010
+\ps n.prop
+
+\lx Akkra
+\va Akra
+\ty г.
+\ge Akkra
+\ru Аккра
+\dt 23/May/2010
+\ps n.prop
+
+\lx Áliban
+\ty гос.
+\ge Albanie
+\ru Албания
+\dt 23/May/2010
+\ps n.prop
+
+\lx Alimani
+\va Alimaɲi
+\va Aliman
+\et fr. Allemagne
+\ge Allemagne
+\ru Германия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Alizeri
+\va Alize
+\di b
+\ty гос.
+\ge Algérie
+\ru Алжир
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ámdàláy
+\ty кв.
+\cm (в Сегу)
+\ge quartier.à.Ségou
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Ameriki
+\ty гос.
+\ty конт.
+\ge Amerique
+\ru Америка
+\dt 23/May/2010
+\ps n.prop
+
+\lx Angola
+\di b
+\di m
+\ty гос.
+\ge Angola
+\ru Ангола
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ángolem
+\cm (в Бамако)
+\ge quartier.à.Bamako
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Ankiletɛrɛ
+\va Ankili
+\va Angletɛrɛ
+\va Angleteri
+\ty гос.
+\ge Angleterre
+\ru Англия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ansongo
+\va Ansɔngɔ
+\ge Ansongo
+\ty г.
+\ru Ансонго
+\dt 23/May/2010
+\ps n.prop
+
+\lx Árabula
+\ty мест.
+\ge Arabie
+\ru Аравия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Arameni
+\va Arimeni
+\ty гос.
+\ge Arménie
+\ru Армения
+\dt 23/May/2010
+\ps n.prop
+
+\lx Arizantini
+\ty гос.
+\ge Argentine
+\ru Аргенина
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ashikabadi
+\ty г.
+\ge Achkhabad
+\ru Ашхабад
+\dt 23/May/2010
+\ps n.prop
+
+\lx Asi
+\va Azi
+\ty конт.
+\ge Asie
+\ru Азия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Asimara
+\ty г.
+\ge Asmara
+\ru Асмера
+\dt 23/May/2010
+\ps n.prop
+
+\lx Atɛn
+\va Ahɛn
+\ty г.
+\ge Athènes
+\ru Афины
+\dt 23/May/2010
+\ps n.prop
+
+\lx Atilantiki
+\va Atlantiki
+\et fr. Atlantique
+\ge Atlantique
+\ty ок.
+\ru Атлантический
+\dt 23/May/2010
+\ps n.prop
+
+\lx Azani
+\di b
+\ty гос.
+\ge Azanie
+\ru Азания
+\dt 23/May/2010
+\ps n.prop
+
+\lx Baba
+\ty р.
+\ge Niger
+\ru Нигер
+\dt 23/May/2010
+\ps n.prop
+
+\lx Babilen
+\va Babulen
+\va Bablen
+\va Bable
+\va Bawulen
+\ty р.
+\ge Baoulé
+\ru Бавулен
+\cm (приток Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bádalabugu 
+\ty кв. 
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Bafilabɛn
+\et букв. "сплетение двух рек", т.е. Бакой и Бафин
+\ty г.
+\ge Bafoulabé
+\ru Бафулабе
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bafin
+\ty р.
+\ge Bafing
+\ru Бафин
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bágadaji
+\ty кв. 
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Bájalana
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Bajɛ
+\di b
+\va Bagbɛ
+\va Bagwɛ
+\di m
+\ty р.
+\ge Bagoe
+\ru Багое
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bajiba
+\cm поэт.
+\ty р.
+\ru Нигер
+\ge Niger
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bákaribugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Báko Jíkoroni
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Bakoyi
+\ty р.
+\ru Бакой
+\ge Bakoy
+\cm (приток Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bàmakɔ
+\va Bàmako
+\ty г.
+\ge Bamako
+\ru Бамако
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bámakɔkura
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Bámànángin
+\ty кв.
+\ge quartier.à.Ségou
+\cm (в Сегу)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Bánanisabakɔrɔ
+\ty кв.
+\ge quartier.à.Ségou
+\cm (в Сегу)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Bangi
+\ty р.
+\ru Банги
+\ge Bangui
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bángɔni
+\ty кв.
+\ge quartier.à.Ségou
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Baninfin
+\ty р.
+\ru Бани Чёрная
+\ge Banifing
+\cm (приток Бани)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Baninsira
+\va Banisira
+\va Banisilayila
+\va Banisirayila
+\et ar. bnu-sraa'il 'евреи'
+\ty гос.
+\ge Israël
+\ru Израиль
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bánjagara
+\ty плато
+\ge Bandiagara
+\ru Бандиагара
+\dt 23/May/2010
+\ps n.prop
+
+\lx Banjulu
+\ty г.
+\ge Banjoul
+\ru Банджул
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bankasi
+\ty дер.
+\ru Банкаси
+\ge Bankassi
+\cm (к северу от Бамако)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bankumana
+\ty дер.
+\ru Банкумана
+\ge Bankoumana
+\cm (деревня на р. Нигер между Бамако и Кангаба)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Barazawil
+\va Barazaduu
+\ty г.
+\ge Brazzaville
+\ru Браззавиль
+\dt 23/May/2010
+\ps n.prop
+
+\lx Basutoland
+\va Basutola
+\ty гос.
+\ge Basutoland
+\ru Басутоленд
+\dt 23/May/2010
+\ps n.prop
+
+\lx Batɔsi
+\ty г.
+\ru Батерст
+\ge Bathurst
+\cm (с1973 г.  - Банджул)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Becuwanaduu
+\va Becuwanadugu
+\va Becuwanaland
+\ty гос.
+\ge Betchouanaland 
+\ru Бечуаналенд
+\cm (с 1966 г. - Ботсвана)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bɛnɛn
+\ty гос.
+\ge Bénin
+\ru Бенин
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bɛngazi
+\ty г.
+\ge Benghazi
+\ru Бенгази
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bɛnuwɛ
+\ty р.
+\ru Бенуэ
+\ge Bénoué
+\cm (в Нигерии, приток Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Beresili
+\va Berezili
+\ty гос.
+\ge Brésil
+\ru Бразилия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bìritan
+\va m
+\ty гос.
+\ge Royaume-Uni
+\ru Британия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bisao
+\ty г.
+\ge Bissau
+\ru Бисау
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bófà
+\di m
+\ty г.
+\ge Bofa
+\ru Бофа
+\cm Гвинея
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bólibana
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Bózola
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Bujumbura
+\di b
+\ty г.
+\ge Bujumbura
+\ru Бужумбура
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bulantiya
+\ty г.
+\ru Блантайр
+\ge Blantyre
+\cm (Малави)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bulbine
+\ty кв.
+\ge quartier.à.Conakry
+\ru Бульбине
+\cm (В Конакри)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Bulgari
+\va Bíligari
+\ty гос.
+\ge Bulgarie
+\ru Болгария
+\dt 23/May/2010
+\ps n.prop
+
+\lx Búlkasùnbugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Búrukinafaso
+\va Búrukina
+\ty гос.
+\ge Bourkina-Faso
+\ps n.prop
+
+\ru Буркина-Фасо
+\cm (до 1984 г. - Верхняя Вольта)
+\dt 23/May/2010
+
+\lx Burundi
+\ty гос.
+\ge Bouroundi
+\ru Бурунди
+\dt 23/May/2010
+\ps n.prop
+
+\lx Busuunbura
+\ty г.
+\ge Bujumbura
+\ru Бужумбура
+\dt 23/May/2010
+\ps n.prop
+
+\lx Cadi
+\va Caadi
+\ty гос.
+\ty оз.
+\ge Tchad
+\ru Чад
+\dt 23/May/2010
+\ps n.prop
+
+\lx Dákar
+\va Dakaaru
+\va Dakari
+\va Dakaro
+\ty г.
+\ge Dakar
+\ru Дакар
+\dt 23/May/2010
+\ps n.prop
+
+\lx Dalaba
+\di m
+\ty г.
+\ge Dalaba
+\ru Далаба
+\dt 23/May/2010
+\ps n.prop
+
+\lx Damasi
+\ty г.
+\ru Дамаск
+\ge Damas
+\dt 23/May/2010
+\ps n.prop
+
+\lx Dàomɛ
+\ty гос.
+\ge Dahomey
+\ru Дагомея
+\cm (с 1972 г. - Бенин)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Darisalamu
+\va Daaru Salaami
+\ty г.
+\ge Dar es Salam
+\ru Дар-эс-Салам
+\dt 23/May/2010
+\ps n.prop
+
+\lx Dársàlám
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Debo
+\ty оз.
+\ru Дебо
+\ge Debo
+\cm (в Мали, центр внутренний дельты Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Dɛ́rsàlám
+\ty кв.
+\ge quartier.à.Ségou
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Dominiki
+\ty гос.
+\ge Dominique
+\ru Доминикана
+\dt 23/May/2010
+\ps n.prop
+
+\lx Dràwela
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Dunfin
+\ty др.
+\ru Дунфин
+\cm (один из порогов на Нигере между Бамако и Куликоро)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Dúwazà
+\ty г.
+\ru Дуэнца
+\ge Douentza
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Eritere
+\ty гос.
+\ge Érithrée
+\ru Эритрея
+\dt 23/May/2010
+\ps n.prop
+
+\lx Fagibini
+\ty оз.
+\ru Фагибини
+\ge Faguibini
+\cm (в Мали, к северу от внутренней дельты Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Faleme
+\ty р.
+\ru Фалеме
+\ge Falémé
+\cm (левый приток р. Сенегал)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Fàransi
+\ty гос.
+\ru Франция
+\ge France
+\sy Tubabula
+\dt 23/May/2010
+\ps n.prop
+
+\lx Fieyn
+\ty горы
+\ru Фиен
+\cm (в Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Firitɔn
+\di m
+\ty г.
+\ru Фритаун
+\ge Freetown
+\sy Hɔrɔyaso
+\dt 23/May/2010
+\ps n.prop
+
+\lx Fíriya
+\ty окр.
+\ru Фрия
+\ge Fria
+\cm (в Гвинее)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Fɔrulami
+\ty г.
+\ru Форт-Лами
+\ge Fort-Lamy
+\cm (с 1973 г. - Нджамена)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Futa Jalɔn
+\ty горы
+\ru Фута-Джалон
+\ge Fouta.Djallon
+\cm (в Гвинее)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Futa Toro
+\ty горы
+\ru Фута Торо
+\ge Fouta.Toro
+\cm (в Сенегале)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Gabon
+\va Gabɔ́n
+\ty гос.
+\ge Gabon
+\ru Габон
+\dt 23/May/2010
+\ps n.prop
+
+\lx Gana
+\ty гос.
+\ge Ghana
+\ru Гана
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ganbiya
+\ty гос.
+\ge Gambie
+\ru Гамбия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Gangaran
+\ty горы
+\ru Гангаран
+\ge Gangaran
+\cm (в Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Gawo
+\ty г.
+\ge Gao
+\ru Гао
+\cm (на востоке Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Gbékeduu
+\di m
+\ty г.
+\ge Gbekedou
+\ru Гекеду
+\cm (в Гвинее)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Gben Kɔɔjida
+\va Gbenkɔɔijida
+\di m
+\ty гос.
+\ru Кот-д'Ивуар
+\ge Côte.d'Ivoire
+\sy Kɔ́nɔwari
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ginɛbiso
+\va Ginebisawo
+\ty гос.
+\ru Гвинея-Бисау
+\ge Guinée-Bissau
+\dt 23/May/2010
+\ps n.prop
+
+\lx Hámdalay
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Haribomo
+\ty оз.
+\ru Харибомо
+\ge Haribomo
+\cm (в Мали, к востоку от внутренней дельты Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Hòngiri
+\ty гос.
+\ge Hongrie
+\ru Венгрия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Horo
+\ty оз.
+\ru Хоро
+\ge Horo
+\cm (к северу от внутренней дельты Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Hɔrɔyaso
+\di m
+\ty г.
+\ru Фритаун
+\ge Freetown
+\sy Firiton
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ípɔdrɔm
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Iran
+\ty гос.
+\ge Iran
+\ru Иран
+\dt 23/May/2010
+\ps n.prop
+
+\lx Irisi
+\va Irisila
+\va Rùsí
+\ty гос.
+\ge Russie
+\ru Росcия
+\ru Советский Союз
+\dt 23/May/2010
+\ps n.prop
+
+\lx Jadakuru
+\ty гос.
+\ge Sierra Leone
+\ru Сьерра-Леоне
+\dt 23/May/2010
+\ps n.prop
+
+\lx Jeliba
+\di m
+\va Joliba
+\di b
+\va Yálìba
+\va Yólìba
+\di mF
+\ty р.
+\ge Niger
+\ru Нигер
+\dt 23/May/2010
+\ps n.prop
+
+\lx Jelibaduu
+\ty гос.
+\ge Niger
+\ru Нигер
+\dt 23/May/2010
+\ps n.prop
+
+\lx Jèlibugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Jene
+\di b
+\va Jɛ̀nɛ
+\di m
+\ty г.
+\ge Dienné
+\ru Дженне
+\dt 23/May/2010
+\ps n.prop
+
+\lx Jibuti
+\ty гос.
+\ge Djibouti
+\ru Джибути
+\dt 23/May/2010
+\ps n.prop
+
+\lx Jinɛ
+\va Lágìnɛ
+\va Láginɛ
+\ty гос.
+\ge Guinée
+\ru Гвинея
+\dt 23/May/2010
+\ps n.prop
+
+\lx Joma
+\ty ист.
+\ru Джома
+\ge Dioma
+\cm (историческая область в южной Гвинее)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Júmanzana
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Kahera
+\va Kahira
+\va Kahiira
+\ty г.
+\ge Caire
+\ru Каир
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kameruni
+\va Kamerun
+\ty гос.
+\ge Cameroun
+\ru Камерун
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kanada
+\ty гос.
+\ge Canada
+\ru Канада
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kanbiya
+\ty гос.
+\ge Gambie
+\ru Гамбия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kánkan
+\ty г.
+\ru Канкан
+\ge Kankan
+\cm (в Гвинее)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kanpala
+\ty г.
+\ge Kampala
+\ru Кампала
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kapu Wɛri
+\va Kapuwɛri
+\ty гос.
+\ge Cap-Vert
+\ru Кабо-Верде
+\dt 23/May/2010
+\ps n.prop
+
+\lx Karakoro
+\ty р.
+\ru Каракоро
+\ge Karakoro
+\cm (правый приток р. Сенегал)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kàrata
+\ty ист.
+\ru Каарта
+\ge Kaarta
+\cm (к северу от Бамако)
+\ge
+\dt 23/May/2010
+\ps n.prop
+
+\lx Karitum
+\di m
+\ty г.
+\ge Khartoum
+\ru Хартум
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kaveri
+\ty гос.
+\ge Cap-Vert
+\ru Кабо-Верде
+\dt 23/May/2010
+\ps n.prop
+
+\lx Káwàya
+\di m
+\ty г.
+\ru Кавайа
+\cm (в Гвинее)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Káyì
+\ty г.
+\ru Каес
+\ge Kayes
+\cm (на северо-западе Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kazamansi
+\ty пров.
+\ru Казаманс
+\ge Casamance
+\cm (в Сенегале)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Keniya
+\va Keninya
+\va Kenya
+\ty гос.
+\ge Kenya
+\ru Кения
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kénzanbugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Keri
+\ty г.
+\ge Caire
+\ru Каир
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kigali
+\ty г.
+\ge Kigali
+\ru Кигали
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kinsasa
+\va Kinshasa
+\ty г.
+\ge Kinchassa
+\ru Киншаса
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kìsiduu
+\di m
+\ty г.
+\ge Kisidou
+\ru Кисиду
+\cm (Гвинея)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kita
+\ty г.
+\ge Kita
+\ru Кита
+\cm (на северо-западе Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kolinbinna
+\ty р.
+\ru Колинбинна
+\ge Colimbiné
+\cm (правый приток реки Сенегал)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kɔ́nakiri
+\ty г.
+\ru Конакри
+\ge Conakry
+\cm (столица Гвинеи)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kòngo
+\ty гос.
+\ge Congo
+\ru Конго
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kɔ́nɔwàri
+\va Kodiwari
+\va Konteware
+\va Kontuware
+\va Kɔ́ntɔwàri
+\va Konowari
+\va Kodiwari
+\va Kotiwari
+\ty гос.
+\ge Côte.d'Ivoire
+\ru Кот-д'Ивуар
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kɔmɔri
+\va Kɔmɔɔru
+\ty гос.
+\ge Comores
+\ru Коморские острова
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kore
+\ty гос.
+\ge Korea
+\ru Корея
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kɔ́rɔfina
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Kotonu
+\va Kotonun
+\ty г.
+\ge Cotonou
+\ru Котону
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kowɛti
+\ty гос.
+\ru Кувейт
+\ge Koweït
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kulukɔrɔ
+\va Kulikɔrɔ
+\ty г.
+\ru Куликоро
+\ge Koulikoro
+\cm (на берегу Нигера, к востоку от Бамако)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kùrankɔ
+\di m
+\ty обл.
+\ru Куранко
+\ge Kouranko
+\cm (к западу от Кисидугу, на территории Гвинеи и
+Сьерра-Леоне; также одноимённый народ)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kurusa
+\ty г.
+\ru Куруса
+\ge Kouroussa
+\cm (на северо-востоке Гвинеи)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Láfìyábugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Lagine Bisawo
+\ty гос.
+\ge Guinée-Bissau
+\ru Гвинея-Бисау
+\dt 23/May/2010
+\ps n.prop
+
+\lx Lagɔsi
+\va Lagos
+\ty г.
+\ge Lagos
+\ru Лагос
+\dt 23/May/2010
+\ps n.prop
+
+\lx Líbɛriya
+\va Lábiriya
+\ty гос.
+\ge Liberia
+\ru Либерия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Libi
+\ty гос.
+\ru Ливия
+\ge Libye
+\dt 23/May/2010
+\ps n.prop
+
+\lx Lomɛ
+\ty г.
+\ge Lomé
+\ru Ломе
+\dt 23/May/2010
+\ps n.prop
+
+\lx Lorenso-Marikɛs
+\ty г.
+\ru Лоренсу-Маркеш
+\ge Lourenço.Marques
+\cm (c 1976 г. - Мапуту)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Lusaka
+\ty г.
+\ge Lusaka
+\ru Лусака
+\dt 23/May/2010
+\ps n.prop
+
+\lx Luwanda
+\ty г.
+\ge Loanda
+\ru Луанда
+\dt 23/May/2010
+\ps n.prop
+
+\lx Madagasikari
+\va Madagaasi
+\ty гос.
+\ge Madagascar
+\ru Мадагаскар
+\dt 23/May/2010
+\ps n.prop
+
+\lx Màdina
+\ty г.
+\ge Médine
+\ru Медина
+\dt 23/May/2010
+\ps n.prop
+
+\lx Máka
+\va Mákan
+\ty г.
+\ge La.Mecque
+\ru Мекка
+\dt 23/May/2010
+\ps n.prop
+
+\lx Malawi
+\ty гос.
+\ru Малави
+\ge Malawi
+\dt 23/May/2010
+\ps n.prop
+
+\lx Màlí
+\ty гос.
+\ru Мали
+\ge Mali
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mamun
+\ty г.
+\ge Mamou
+\ru Маму
+\dt 23/May/2010
+\ps n.prop
+
+\lx Màsanta
+\va Màsantan
+\di m
+\ty г.
+\ge Masanta
+\ru Масента
+\dt 23/May/2010
+\ps n.prop
+
+\lx Maseru
+\ty г.
+\ru Масеру
+\ge Maseru
+\dt 23/May/2010
+\ps n.prop
+
+\lx Másina
+\va Máasina
+\ty ист.
+\ru Масина
+\ge Masina
+\cm (в Мали, с центром в г. Мопти)
+\ge
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mɛ́din
+\ty кв.
+\ge quartier.à.Segou
+\cm (в Сегу)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Mɛ́dìnákura
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Mediterane
+\ty м.
+\ge Méditerranée
+\ru Средиземное
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mɛkisiki
+\ty гос.
+\ge Mexique
+\ru Мексика
+\dt 23/May/2010
+\ps n.prop
+
+\lx Milo
+\ty р.
+\ge Milo
+\ru Мило
+\cm (в Гвинее, приток Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mísìra
+\va Mísìran
+\va Mísɛ̀r
+\ty гос.
+\ge Égypte
+\ru Египет
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Mogadisho
+\ty г.
+\ge Mogadiscio
+\ru Могадишо
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mɔ́ngoli
+\ty гос.
+\ge Mongolie
+\ru Монголия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Móritani
+\ty гос.
+\ge Mauritanie
+\ru Мавритания
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mɔrɔbiya
+\va Mɔnrɔviya
+\ty г.
+\ge Monrovia
+\ru Монровия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mɔ̀rɔkù
+\va Marɔku
+\ty гос.
+\ge Maroc
+\ru Марокко
+\dt 23/May/2010
+\ps n.prop
+
+\lx Móti
+\ty г.
+\ge Mopti
+\ru Мопти
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mozanbik
+\va Mozambik
+\ty гос.
+\ge Mozambique
+\ru Мозамбик
+\dt 23/May/2010
+\ps n.prop
+
+\lx Nairobi
+\ty г.
+\ge Nairobi
+\ru Найроби
+\dt 23/May/2010
+\ps n.prop
+
+\lx Namibi
+\ty гос.
+\ge Namibie
+\ru Намибия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Nbaban
+\ty г.
+\ge Mbaban
+\ru Мбабане
+\dt 23/May/2010
+\ps n.prop
+
+\lx Nizɛri
+\ty гос.
+\ge Niger
+\ru Нигер
+\dt 23/May/2010
+\ps n.prop
+
+\lx Nizɛriya
+\ty г.
+\ge Nigeria
+\ru Нигерия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ntòmikɔrɔbugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Nuwashɔti
+\va Nuwakishot
+\ty г.
+\ge Nouakchott
+\ru Нуакшот
+\dt 23/May/2010
+\ps n.prop
+
+\lx Nyamɛ
+\ty г.
+\ge Niamey
+\ru Ньямей
+\dt 23/May/2010
+\ps n.prop
+
+\lx Nzɛ́rɛkɔ̀rɛ
+\va Nsɛrɛgbɛ̀dɛ
+\ty г.
+\ge Nzérékoré
+\ru Нзерекоре
+\cm (в Гвинее)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Olandi
+\ty гос.
+\ge Pays-Bas
+\ru Голландия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ositarali
+\ty гос.
+\ty конт.
+\ge Australie
+\ru Австралия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Otirishi
+\di b
+\ty гос.
+\ge Autriche
+\ru Австрия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Pakistan
+\ty гос.
+\ge Pakistan
+\ru Пакистан
+\dt 23/May/2010
+\ps n.prop
+
+\lx Palɛstini
+\ty гос.
+\ge Palestine
+\ru Палестина
+\dt 23/May/2010
+\ps n.prop
+
+\lx Pàri
+\ty г.
+\ge Paris
+\ru Париж
+\dt 23/May/2010
+\ps n.prop
+
+\lx Pasifiki
+\ty ок.
+\ge Pacifique
+\ru Тихий
+\dt 23/May/2010
+\ps n.prop
+
+\lx Pɛ̀linŋana
+\ty кв.
+\ge quartier.à.Ségou
+\cm (в Сегу)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Pɔ́lɔn
+\va Pɔ̀lɔnɛ
+\ty гос.
+\ge Pologne
+\ru Польша
+\dt 23/May/2010
+\ps n.prop
+
+\lx Porito Novo
+\ty г.
+\ge Porto-Novo
+\ru Порто-Ново
+\dt 23/May/2010
+\ps n.prop
+
+\lx Pretoriya
+\ty г.
+\ge Pretoria
+\ru Претория
+\dt 23/May/2010
+\ps n.prop
+
+\lx Raba
+\ty г.
+\ge Rabat
+\ru Рабат
+\dt 23/May/2010
+\ps n.prop
+
+\lx Reniyɔn
+\ty гос.
+\ge Réunion
+\ru Реюньон
+\dt 23/May/2010
+\ps n.prop
+
+\lx Riyo-Doro
+\ty обл.
+\ru Рио-до-Оро
+\ge Río.de.Oro
+\cm (южная часть Западной Сахары)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Rodezi
+\ty гос.
+\ru Родезия
+\ge Rhodésie
+\cm (с 1980 - Зимбабве)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ruwanda
+\ty гос.
+\ge Rwanda
+\ru Руанда
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sábalibugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Sahara
+\ty пуст.
+\ge Sahara
+\ru Сахара
+\dt 23/May/2010
+\ps n.prop
+
+\lx Samakɔ
+\ty дер.
+\ge Samako
+\ru Самако
+\cm (вблизи Бамако)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sankaranin
+\ty р.
+\ru Санкарани
+\ge Sanakarani
+\cm (в Гвинее, приток Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Santa Isabɛl
+\ty г.
+\ru Санта-Исабель
+\ge Santa.Isabel
+\cm (c 1973 г. - Малабо, столица Экваториальной Гвинеи)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Santarafiriki
+\va Santarafrikɛn
+\ty гос.
+\ge République.centrafricaine
+\ru Центральноафриканская республика
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sàrlon
+\va Saralon
+\va Siyera Lewɔni
+\va Jàdakuru
+\ty гос.
+\ge Sierra.Leone
+\ru Сьерра-Леоне
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ségu
+\ty г.
+\ru Сегу
+\ge Ségou
+\cm (в Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ségukura
+\ty кв.
+\ge quartier.à.Ségou
+\cm (в Сегу)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Sɛndeni
+\ty г.
+\ge Saint-Denis
+\ru Сен-Дени
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sɛ̀nɛgali
+\va Senegali
+\va Sinakale
+\va Sɛnɛgal
+\ty гос.
+\ge Sénégal
+\ru Сенегал
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sɛnluwi
+\ty г.
+\ru Сен-Луи
+\ge Saint-Louis
+\cm (в Сенегале)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Seno
+\ty плато
+\ru Сено
+\ge Sèno
+\cm (в Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sigiri
+\va Sigirin
+\va Síirin
+\ty г.
+\ge Siguiru
+\ru Сигири
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sikaso
+\ty г.
+\ge Sikasso
+\ru Сикасо
+\dt 23/May/2010
+\ps n.prop
+
+\lx Síkɔrɔni
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Sinuwala
+\va Shinuwala
+\va Sinuwa
+\va Shinuwa
+\ty гос.
+\ge Chine
+\ru Китай
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sogbɛ
+\ty кв.
+\ru Согбе
+\ge quartier.à.Kankan
+\cm (в Канкане)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sòkálakɔ̀nɔ
+\ty кв.
+\ge quartier.à.Ségou
+\cm (в Сегу)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Solsiburi
+\ty г.
+\ru Солсбери
+\ge Salisbury
+\cm (c 1982 г. - Хараре)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Somali
+\ty гос.
+\ge Somalie
+\ru Сомали
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sɔ́mɔnɔso
+\ty кв.
+\ge quartier.à.Ségou
+\cm (в Сегу)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Sotuba
+\ty порог
+\ru Сотуба
+\ge Sotouba
+\cm (на Нигере, между Бамако и Куликоро)
+\ge
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sowiyati
+\ty гос.
+\ge l’Union.Sovetique
+\ru Cоветский Союх
+\dt 23/May/2010
+\ps n.prop
+
+\lx Sudan
+\ty гос.
+\ge Soudan
+\ru Cудан
+\dt 23/May/2010
+\ps n.prop
+
+\lx Suwaziduu
+\va Suwaziland
+\ty гос.
+\ge Swaziland
+\ru Свазиленд
+\dt 23/May/2010
+\ps n.prop
+
+\lx Tanzani
+\ty гос.
+\ge Tanzanie
+\ru Танзания
+\dt 23/May/2010
+\ps n.prop
+
+\lx Tawudeni
+\ty г.
+\ge Taoudenni
+\ru Тауденни
+\dt 23/May/2010
+\ps n.prop
+
+\lx Tɛmanbaa Jinɛ
+\ty гос.
+\ge Guinée.équatoriale
+\ru Экваториальная Гвинея
+\dt 23/May/2010
+\ps n.prop
+
+\lx Togo
+\ty гос.
+\ge Togo
+\ru Того
+\dt 23/May/2010
+\ps n.prop
+
+\lx Tɔ́rɔkɔrɔbugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Tɔrɔn
+\ty ист.
+\ru Торон
+\ge Toron
+\cm (область, включающая большую часть Верхней Гвинеи)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Tripoli
+\ty г.
+\ge Tripolo
+\ru Триполи
+\dt 23/May/2010
+\ps n.prop
+
+\lx Tunusi
+\va Tunisi
+\ty г.
+\ge Tunisie
+\ru Тунис
+\dt 23/May/2010
+\ps n.prop
+
+\lx Tunusiya
+\va Tunisia
+\ty гос.
+\ge Tunisie
+\ru Тунис
+\dt 23/May/2010
+\ps n.prop
+
+\lx Túruke
+\ty гос.
+\ge Turquie
+\ru Турция
+\dt 23/May/2010
+\ps n.prop
+
+\lx Uganda
+\ty гос.
+\ge Uganda
+\ru Уганда
+\dt 23/May/2010
+\ps n.prop
+
+\lx Wagadugu
+\va Wàadúu
+\ty г.
+\ge Ouagadougou
+\ru Уагадугу
+\dt 23/May/2010
+\ps n.prop
+
+\lx Windɔk
+\ty г.
+\ge Windhoek
+\ru Виндхук
+\dt 23/May/2010
+\ps n.prop
+
+\lx Wɔ́lɔfɔbugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Yámanin
+\ty гос.
+\ge Yémen
+\ru Йемен
+\dt 23/May/2010
+\ps n.prop
+
+\lx Yaunde
+\ty г.
+\ge Yaoundé
+\ru Яунде
+\dt 23/May/2010
+\ps n.prop
+
+\lx Yelimani
+\ty г.
+\ge Yélimané
+\ru Елимане
+\cm (на  крайнем северо-западе Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Yugɔsilawi
+\ty гос.
+\ge Yougoslavie
+\ru Югославия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Zanbi
+\ty гос.
+\ge Zambie
+\ru Замбия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Zapɔn
+\ty гос.
+\ge Japon
+\ru Япония
+\dt 23/May/2010
+\ps n.prop
+
+\lx Zayiri
+\ty гос.
+\ge Zaïre
+\ru Заир
+\dt 23/May/2010
+\ps n.prop
+
+\lx Zigɛnshori
+\ty г.
+\ge Ziguichor
+\ru Зигиншор
+\dt 23/May/2010
+\ps n.prop
+
+\lx Zinbabwe
+\ty гос.
+\ge Zimbabwe
+\ru Зимбабве
+\dt 23/May/2010
+\ps n.prop
+
+\lx Zonba
+\ty г.
+\ge Zomba
+\ru Зомба
+\cm (до 1974 г. - столица Малави)
+\ge
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɲangayi
+\ty оз.
+\ge Niangay
+\ru Ниангай
+\cm (в Мали, к востоку от внутренней дельты Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɲàni
+\ty г.
+\ge Niani
+\ru Ньяани
+\cm (столица древнего Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɲárɛla
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Ɛcopi
+\va Ecupi
+\va Ɛtiyopi
+\ty гос.
+\ge Éthiopie
+\ru Эфиопия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɛ̀ndu
+\va Híndi
+\ty гос.
+\ge Inde
+\ru Индия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɛ̀njen
+\et fr. Indien
+\ty ок.
+\ge Océan.Indien
+\ru Индийский
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɲɔ̀miriyambugu
+\ty кв.
+\ge quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Ɲòoro
+\ty г.
+\ge Nioro
+\ru Ниоро
+\cm (на северо-западе Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɛ̀ropi
+\ty конт.
+\ge Europe
+\ru Европа
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɔtiwɔlita
+\va Otiwolita
+\va Hotu Wolita
+\va Walita Sandɔ
+\ty гос.
+\ge Haute-Volta
+\ru Верхняя Вольта
+\cm (c 1984 г. - Буркина Фасо)
+\dt 23/May/2010
+\ps n.prop
+
