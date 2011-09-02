@@ -1,8 +1,8 @@
 ﻿\_sh v3.0  725  MDF-BAMBARA
 \_DateStampHasFourDigitYearu
 \lang bam
-\name BVDE
-\ver 0.4.2
+\name bamadaba
+\ver 0.4.3
 
 \lx á	
 \ps intj
@@ -15240,7 +15240,7 @@
 \lx dá
 \ps n
 \ge création
-gv naissance
+\gv naissance
 \xv dá kɛ́ra  cógo mín, ní  sà kɛ́ra tèn...
 \xe si la mort suit l'ordre de naissance ...
 \dt 26/Sep/2006
@@ -51293,7 +51293,7 @@ gv naissance
 \xe ce sera vrai à l'éventuel : n'o kɛra  tìɲɛ ye
 \xv ò mána kɛ́  tìɲɛ yé...
 \xe si c'est vrai ...
-De même l'exemple du ň 5 \xv ń'í kɛ́ra  mɔ̀gɔ fɛ̀ á pour équivalent áu présent : í bɛ́  mɔ̀gɔ fɛ̀ tu aime les gens
+\xe De même l'exemple du ň 5 \xv ń'í kɛ́ra  mɔ̀gɔ fɛ̀ á pour équivalent áu présent : í bɛ́  mɔ̀gɔ fɛ̀ tu aime les gens
 \dt 26/Sep/2006
 
 \lx kɛ̀
@@ -84708,8 +84708,8 @@ De même l'exemple du ň 5 \xv ń'í kɛ́ra  mɔ̀gɔ fɛ̀ á pour équi
 \dt 16/Aug/2006
 
 \lx ntànfùra
-\\mm ntàn:n:fronde
-va ntànfòro
+\mm ntàn:n:fronde
+\va ntànfòro
 \mm ntàn:n:fronde
 \va ntànfɛ̀rɛ
 \mm ntàn:n:fronde
