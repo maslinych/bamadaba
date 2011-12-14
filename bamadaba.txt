@@ -2,7 +2,7 @@
 \_DateStampHasFourDigitYearu
 \lang bam
 \name bamadaba
-\ver 0.4.3
+\ver 0.5
 
 \lx á	
 \ps intj
@@ -59015,7 +59015,7 @@ De même l'exemple du ň 5 \xv ń'í kɛ́ra  mɔ̀gɔ fɛ̀ á pour équi
 \dt 26/Sep/2006
 
 \lx kɔ̀rɛ.duga
-\mm kɔ̀rɛ:n:"korè"
+\mm kɔ̀rɛ:n:"korè"
 \mm dùga:n:vautour
 \ps n
 \ge bouffon
@@ -92226,7 +92226,7 @@ va ntànfòro
 \mm ŋɔ́ni:n:épine
 \ps n
 \ge arbuste.Acacia.macrostachya
-\ee ( arbuste ---> 7 m, parfois sarmenteux ; épines recourbées en griffes contre leur support)
+\ee ( arbuste ---> 7 m, parfois sarmenteux ; épines recourbées en griffes contre leur support)
 \sy nsòfaraŋɔni
 \sy ŋɔ́nijɛ
 \dt 26/Sep/2006
@@ -92330,7 +92330,7 @@ va ntànfòro
 \ve dans des contextes phonétiques de liquides ou de nasales (cette postposition est courante au Bɛlɛdugu (f)  et à Bɛlɛkɔ (bk) dans lesautres régions elle n'est commune que dans l'expression surɔ hier soir)
 \ps pp
 \ge IN
-\sm postposition locative : dans, en, à ...
+\sm postposition locative : dans, en, à ...
 \ee * tɔ = à l'intérieur de en malinké
 \xv ò cɛ́mancɛ rɔ́
 \xe en son milieu
@@ -93176,7 +93176,7 @@ va ntànfòro
 \ge remède.antivenimeux
 \lt (serpent.remède)
 \sn 2
-\gv remède contre les serpents
+\gv remède contre les serpents
 \sm produit qui protège contre les piqûres de serpent
 \dt 16/Aug/2006
 
@@ -97669,7 +97669,7 @@ va ntànfòro
 \sn 1
 \ge rejoindre
 \sn 2
-\gv se diriger à
+\gv se diriger à
 \sm aller trouver qn (pour une affaire)
 \dt 16/Aug/2006
 
@@ -99746,7 +99746,7 @@ va ntànfòro
 \ge embranchement
 \gv croisement de route
 \sn 2
-\gv traversée de la route
+\gv traversée de la route
 \lt (route.traverser)
 \xv síracɛtigɛ ká gɛ̀lɛn sísan, móbili ká cá !
 \xe il est difficile de traverser la route en ce moment, il y a trop de voitures
@@ -109146,7 +109146,7 @@ va ntànfòro
 \gv carquois et flèches
 \ee (armes anciennes)
 \sn 2
-\gv sacoche à talismans
+\gv sacoche à talismans
 \sm du bambara en voyage (contenant et contenu, en particulier le fétiche protecteur)
 \xv tón bɛ́  bɔ̀lɔ lá, bɔ̀lɔ bɛ́  fɛ́n ná
 \xe (prov) la sacoche est accrochée au poteau, le poteau est fixé à qc
@@ -112322,7 +112322,7 @@ va ntànfòro
 \bw ar
 \ps n
 \ge sainteté
-\gv piété
+\gv piété
 \lt (saint.suf abs)
 \dt 26/Sep/2006
 
@@ -114192,7 +114192,7 @@ va ntànfòro
 \ge sueur
 \gv transpiration
 \sn 2
-\gv rémunération
+\gv rémunération
 \sm ce qu'on a gagné par son travail
 \xv ò má bɔ́  cɛ̀ ká júfa lá, ò yé  né wɔ̀si yé
 \xe mon mari n'en a pas sorti l'argent, c'est le fruit de mon travail
@@ -115456,7 +115456,7 @@ va ntànfòro
 \xv sú b'í sɛ̀nsɛn  kà táa  dùgujɛ yé
 \xe la nuit s'avance doucement vers l'aube
 \sn 7
-\sm associé à un deuxième ye marque l'équivalence ; l'identité entre un sujet et un prédicat nominal
+\sm associé à un deuxième ye marque l'équivalence ; l'identité entre un sujet et un prédicat nominal
 \xv ò yé  kɔ̀nɔ yé
 \xe c'est un oiseau
 \xv ò tùn yé  tìɲɛ yé
@@ -115464,7 +115464,7 @@ va ntànfòro
 \xv mùn yé  nìn yé  í bólo ?
 \xe qu'as-tu en main ?
 \sn 8
-\sm associé à ko ; introduit une appellation ou une phrase explicative
+\sm associé à ko ; introduit une appellation ou une phrase explicative
 \xv à tɔ́gɔ yé kó  Nsàn
 \xe Il s'appelle Nsan (son nom est : Nsan)
 \xv ...ò yé kó : wári tɛ́ ń fɛ̀
