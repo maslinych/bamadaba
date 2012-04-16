@@ -2,7 +2,7 @@
 \_DateStampHasFourDigitYearu
 \lang bam
 \name bamadaba
-\ver 0.5
+\ver 0.5.1
 
 \lx á	
 \ps intj
@@ -685,6 +685,12 @@
 \ps n
 \ge avril
 \dt 12/Aug/2006
+
+\lx àwɔ́
+\va ɔ̀wɔ́
+\va àwá
+\ps intj
+\ge oui
 
 \lx àyi
 \ps intj
@@ -5398,6 +5404,7 @@
 \ge ceinture.de.perles
 
 \lx bá.yan.fan
+\va bá.ɲan.fan
 \mm bá:n:fleuve
 \mm yàn.fan:n:ce.côté-ci 
 \mm yàn:n:ici
@@ -7209,6 +7216,7 @@
 
 \lx bìlen
 \va blèn
+\va bèlen
 \ph [blen]
 \ps adv
 \ge encore
@@ -9930,6 +9938,7 @@
 \lx bònbon
 \va bòon
 \va bòn
+\va bòmon
 \fq r
 \ps n
 \ge menton
@@ -14261,6 +14270,15 @@
 \ee [fig]
 \dt 16/Aug/2006
 
+\lx cɛ́wu
+\va céwu
+\ps adv
+\ge pointu
+\ee (idée d’une chose qui est pointue et dressée)
+\sn 2
+\gv exactement
+\ee (en accord avec une autre chose)
+
 \lx cɛ̀.ya
 \mm cɛ̀:n:mâle
 \mm ya:mrph:ABSTR
@@ -15467,7 +15485,8 @@
 \lx dàankun
 \mm kùn:n:tête 
 \ps n
-\ge angle.intérieur.d'une.bifurcation.de.route
+\ge carrefour
+\gv angle.intérieur.d'une.bifurcation.de.route
 \ee (endroit privilégié de sacrifices)
 \lt (  ? . tête)
 \dt 16/Aug/2006
@@ -18993,6 +19012,13 @@
 \ps n
 \ge bosse
 \lt (mal de Pott.boule)
+
+\lx dàn.ma
+\mm dàn:n:limite
+\mm mà:pp:à 
+\ps n
+\ge spécial
+\gn à.part
 
 \lx dàn.ma.ko
 \mm dàn:n:limite
@@ -39613,6 +39639,10 @@
 \xe sa femme est à la ménopause
 \dt 26/Sep/2006
 
+\lx hèbeku
+\ps v
+\ge perdre.contenance
+
 \lx héyi
 \ps intj
 \sn 1
@@ -39622,6 +39652,15 @@
 \gv hé !
 \sm incitation au travail
 \dt 16/Aug/2006
+
+\lx hɛ̀lɛmu 
+\ps v
+\sn 1
+\ge respirer.pleins.poumons
+\ee (et sans complexe)
+\sn 2
+\gv avaler.goulûment 
+\ee (sans se préoccuper des conséquences)
 
 \lx hɛ́ra
 \va hɛ́rɛ
@@ -46779,6 +46818,10 @@
 \ge industrieux
 \dt 26/Sep/2006
 
+\lx kádara
+\ps n
+\ge cadre
+
 \lx kádawu
 \ps onomat
 \ge toujours
@@ -52082,6 +52125,11 @@
 \sy fílanya
 \dt 16/Aug/2006
 
+\lx kɛ̀rɛmu 
+\ps v
+\sn 1
+\ge prendre.son.élan
+
 \lx kɛ̀rɛ
 \vc kɛ̀rɛn
 \ps n
@@ -52632,6 +52680,10 @@
 \xv yɔ́rɔ cáman bón dá dè bɛ́ yɛ̀lɛ  í kínifɛla fɛ̀
 \xe en beaucoup d'endroits, la porte de la case s'ouvre du côté droit
 \dt 16/Aug/2006
+
+\lx kínikini
+\ps n
+\ge pitié
 
 \lx kíni.ma
 \mm kíni:n:droite
@@ -59008,6 +59060,7 @@
 \dt 16/Aug/2006
 
 \lx kɔ̀rɔjuga
+\va kɔ̀rɔduga 
 \mm jùga:n:sot
 \ps n
 \ge bouffon
@@ -66017,6 +66070,7 @@
 \dt 11/Nov/2007
 
 \lx làkika
+\va hàkika
 \bw ar: al-haqiqa = vérité
 \ps adj/n
 \ge vrai
@@ -67242,6 +67296,12 @@
 \xv npògotigi yé  à yɛ̀rɛ lásago
 \xe la jeune fille s'est gardée chaste
 \dt 26/Sep/2006
+
+\lx lá.sáha
+\mm lá:mrph:CAUS
+\mm sáha:v:se.reposer
+\ps v
+\ge faire.se.reposer
 
 \lx lá.sama
 \mm lá:mrph:CAUS
@@ -68726,6 +68786,20 @@
 \ge fusil
 \ee traditionnel (de très grande taille, mais de moyen diamètre)
 \dt 16/Aug/2006
+
+\lx lújura
+\va lájura
+\va lɔ́jura 
+\ps n
+\ge difficulté
+\gv situation pénible
+
+\lx lújuratɔ
+\va lájuratɔ
+\va lɔ́juratɔ
+\ps n
+\ge handicapé
+\gv personne défavorisée
 
 \lx lúulu
 \bw ar: lu'lu' = perle
@@ -81378,9 +81452,9 @@
 \dt 26/Sep/2006
 
 \lx ǹǹń
-\ps adv
+\ps intj
 \ge oui
-\ee adverbe de réponse positive (prononcé comme dans un murmure poli)
+\ee interjection de réponse positive (prononcé comme dans un murmure poli)
 \dt 16/Aug/2006
 
 \lx nòwanburu
@@ -89898,6 +89972,12 @@
 \dt 11/Nov/2007
 
 \lx ɲɔ́gɔlɔn
+\ps n
+\ge ornement
+\gv accessoire
+\gv théâtre 
+
+\lx ɲɔ́gɔlɔn
 \ps onomat
 \ge très.léger
 \dt 16/Aug/2006
@@ -93451,6 +93531,10 @@
 \ee (réponse à un souhait de bienvenue)
 \dt 19/Aug/2006
 
+\lx sáha
+\ps v
+\ge se.reposer
+
 \lx sáheli
 \bw ar: sahil = littoral (du désert)
 \ps n
@@ -93743,6 +93827,7 @@
 \dt 16/Aug/2006
 
 \lx sàma
+\va sàman
 \ps v
 \vl vt
 \ge rapporter.cadeau
@@ -99618,6 +99703,7 @@
 
 \lx sínti
 \ue (-bk)
+\va síndi
 \ps n
 \ge origine
 \sy búruju
@@ -104450,6 +104536,8 @@
 
 \lx syɛ́n
 \va shyɛ́n
+\va síɲɛ
+\va síɲɛn
 \ph [shyɛn]
 \ps v
 \vl vr
@@ -114763,13 +114851,19 @@
 \sm (sans grumeaux)
 \dt 16/Aug/2006
 
+\lx wùru
+\va wùuru 
+\ps v
+\vl vi
+\ge s’effondrer
+\gv s’écrouler
+
 \lx wùruba
 \ps v
 \vl vt
 \ge renverser
 \gv ébouler
 \gv faire perdre l'équilibre
-\dt 26/Sep/2006
 
 \lx wùrubata
 \ps v
@@ -117012,4 +117106,5 @@
 \bw fr : juin
 \ps n
 \ge juin
+
 
