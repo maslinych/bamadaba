@@ -42,44 +42,9 @@
 \va à dɔ́ rá
 \ue (bk,bn)
 \va à dɔ́ rɔ́
-\ps expr
+\ps itj
 \ge peut-être
 \lt (ça-un peu-endroit)
-\dt 16/Aug/2006
-
-\lx à ká c'á rɔ́
-\va à ká cá  à rɔ́
-\va à ká c'á rá
-\ue (bn)
-\ps expr
-\ge probablement
-\gv sans doute
-\lt (c'est bcp-ça-endroit)
-\dt 26/Sep/2006
-
-\lx à ń'á sɔ̀rɔ
-\va à ná sɔ̀rɔ
-\ps expr
-\ge probablement
-\gv sans doute
-\lt (cela-fera-ceci-obtenir)
-\xv à ń'á sɔ̀rɔ : à táalen
-\xe sans doute est-il parti
-\dt 26/Sep/2006
-
-\lx à sí bɛ́
-\ps expr
-\lt cela-types-existent
-\ge probablement
-\gv sans doute
-\sy à ká c'á lá
-\rem bk (-bn)
-\dt 11/Nov/2007
-
-\lx à y'á sɔ̀rɔ
-\va ò y'á sɔ̀rɔ
-\ps expr
-\ge alors
 \dt 16/Aug/2006
 
 \lx á'
@@ -609,6 +574,7 @@
 \dt 26/Sep/2006
 
 \lx àni
+\va àn'
 \ps conj
 \ge ainsi.que
 \sm (mise en relief )
@@ -649,6 +615,10 @@
 \mm dón:n:jour
 \ps n
 \ge mercredi
+
+\lx àrajo
+\ps n
+\ge radio
 
 \lx àrijaba
 \va àrajaba
@@ -702,6 +672,7 @@
 \dt 16/Aug/2006
 
 \lx áyiwa
+\va áyiw'
 \bw ar: hayhat
 \ps intj
 \sn 1
@@ -873,6 +844,10 @@
 \xe Que Dieu t'accorde sa grâce !
 \dt 26/Sep/2006
 
+\lx bàadɛbɛ
+\ps adv.p
+\ge violemment
+
 \lx bàalan
 \ps n
 \ge poisson-chien
@@ -920,6 +895,7 @@
 
 \lx bàanan
 \va bàganan
+\va bùwanɛ
 \ps n
 \ge acacia.tannin
 \lt (tanner.ce qui sert à)
@@ -1476,6 +1452,13 @@
 \ee (fin et blanc !)
 \rem l 89
 \dt 11/Nov/2007
+
+\lx báda
+\va bádaa
+\va báada
+\bw ar: abadan : mêmes sens
+\ps adv
+\ge toujours
 
 \lx bá.da
 \mm bá:n:fleuve
@@ -2371,16 +2354,14 @@
 \mm bá:n:mère
 \mm kùru:n:boule
 \mm ma:mrph:COM
-\ps adj/n
-\ge entier
-\gv le.tout
+\ps adv.p
+\ge entièrement
 \lt (le tout.qui a)
 \xv à bákuruma jènina
 \xe il a brûlé entièrement
 \dt 26/Sep/2006
 
 \lx bá.kuru.ma.san
-\mm bá.kuru.ma:adj/n:entier
 \mm bá.kuru:n:tout
 \mm bá:n:mère
 \mm kùru:n:boule
@@ -2396,7 +2377,6 @@
 
 \lx bá.kuru.ma.san.na
 \mm bá.kuru.ma.san:v:s’abonner
-\mm bá.kuru.ma:adj/n:entier
 \mm bá.kuru:n:tout
 \mm bá:n:mère
 \mm kùru:n:boule
@@ -2558,6 +2538,8 @@
 \dt 19/Aug/2006
 
 \lx bàlakabalaka
+\mm bàlaka:v:se.précipiter
+\mm :mrph:INTENS
 \ps v
 \vl vi
 \ge bâcler
@@ -2565,6 +2547,10 @@
 \xv à bàlakabalakara  kà wúli
 \xe il s'est levé précipitamment
 \dt 26/Sep/2006
+
+\lx bàlakabalaka
+\ps adv.p
+\ge précipitamment
 
 \lx bàla-kà-wúli
 \mm bàla:v:surprendre
@@ -6576,6 +6562,12 @@
 \ee (terme général)
 \dt 26/Sep/2006
 
+\lx bì.bi
+\mm bì:n/adv:aujourd'hui
+\mm bì:n/adv:aujourd'hui
+\ps n
+\ge aujourd'hui
+
 \lx bì.den.ya
 \mm bì:n/adv:aujourd'hui
 \mm dén:n:enfant
@@ -8149,6 +8141,15 @@
 \xv í bìsimila !
 \xe assieds-toi !  fais comme chez toi !
 \dt 26/Sep/2006
+
+\lx bìson
+\ps n
+\ge point.de.départ
+
+\lx bíye
+\bw fr
+\ps n
+\ge billet
 
 \lx bíyɛn
 \va bíɲɛ
@@ -11320,6 +11321,13 @@
 \ge termitière
 \lt (termite.maison)
 
+\lx bù.bán.pàsa
+\mm bù:n:chair
+\mm bán:v:terminer
+\mm pàsa:v:rendre.consistant
+\ps n
+\ge émaciation
+
 \lx búbunin
 \mm nin:mrph:DIM
 \ps n
@@ -12254,6 +12262,7 @@
 \dt 16/Aug/2006
 
 \lx búru
+\va bútu 
 \ps n
 \sn 1
 \ge trompette
@@ -17214,6 +17223,13 @@
 \xe c'est une femme d'une prodigieuse beauté
 \dt 26/Sep/2006
 
+\lx dá.kaba.na
+\mm dá:n:bouche
+\mm kába:v:s'étonner
+\mm na:mrph:AG.PRM
+\ps adv.p
+\ge par.extraordinaire
+
 \lx dá.kaba.na.mɔgɔ
 \mm dá:n:bouche
 \mm kába:v:s'étonner
@@ -17804,10 +17820,19 @@
 \mm kɛ́n:vq:égal
 \mm yɛ:mrph:DEQU
 \mr kɛn* > kan : égal + yɛ* (= ya . suf)
+\va dálakɛɲɛ
+\mm dá:n:bouche
+\mm la:mrph:LOC
+\mm kɛ́n.yɛ:v:égaliser
 \ps v
+\sn 1
 \vl vt
-\ge niveler
+\ge égaliser
+\gv niveler
 \gv ajuster
+\sn 2
+\vl vi
+\gv avoir de belles proportions
 
 \lx dá.la.ko
 \mm dá:n:bouche
@@ -18447,6 +18472,12 @@
 \gv chicaneur
 \dt 15/Aug/2006
 
+\lx dàma.tɛmɛ
+\mm dàma:n:limite
+\mm tɛ̀mɛ:v:passer
+\ps adv.p
+\ge excessivement
+
 \lx dàma.yira
 \mm dàma:n:limite
 \mm yìra:v:montrer
@@ -18840,6 +18871,8 @@
 
 \lx dànkalan
 \va dànkaran
+\va dàngala
+\ue bS
 \ps n
 \ge vipère.heurtante
 \sy tùtu
@@ -19018,7 +19051,7 @@
 \mm mà:pp:à 
 \ps n
 \ge spécial
-\gn à.part
+\gv à.part
 
 \lx dàn.ma.ko
 \mm dàn:n:limite
@@ -19587,6 +19620,16 @@
 \xv "ń bɛ́ táa ń dá", í dáɲɔgɔn ɲínina dòn
 \xe dire "Je vais me coucher", c'est chercher un compagnon
 \dt 26/Sep/2006
+
+\lx dàŋaniya
+\ps v
+\vl vi
+\ge attester
+\gv autoriser
+
+\lx dàŋaniya
+\ps n
+\ge ferveur
 
 \lx dàra
 \va drà
@@ -21413,6 +21456,7 @@
 
 \lx dɛ̀nkɛlɛnya
 \ue (f)
+\va dànkaniya
 \ps v
 \vl vr
 \ge s'en.remettre
@@ -21518,7 +21562,11 @@
 \mm dɛ́sɛ:v:échouer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj
+\va dɛ́sɛ.baga.tɔ
+\mm dɛ́sɛ:v:échouer
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps adj/n
 \sn 1
 \ge indigent
 \ee qui n'arrive pas à subvenir à ses besoins
@@ -21800,6 +21848,10 @@
 \sy kɔ̀nɔninbin
 \dt 19/Aug/2006
 
+\lx digi
+\ps n
+\ge digue
+
 \lx dígi
 \ps v
 \vl vt
@@ -21955,6 +22007,11 @@
 \lt don-écrit
 \ge bon.de.livraison
 \dt 11/Nov/2007
+
+\lx dimasi
+\bw fr.
+\ps n
+\ge dimanche
 
 \lx dími
 \ps n
@@ -22504,6 +22561,15 @@
 \ge contraindre
 \lt (plaire.déplaire)
 \dt 26/Sep/2006
+
+\lx dí.ya.go.ya
+\mm dí.ya:v:rendre.agréable
+\mm dí:vq:agréable
+\mm ya:mrph:DEQU
+\mm gó:vq:désagréable
+\mm ya:mrph:DEQU
+\ps adv.p
+\ge de.force
 
 \lx dí.ya.go.ya.baara
 \mm dí:vq:agréable
@@ -23097,6 +23163,14 @@
 \ge enfant.qui.a.réussi
 \lt (réussite.enfant)
 \dt 16/Aug/2006
+
+\lx dòn.da.la.li
+\mm dòn:v:entrer
+\mm dá:n:bouche 
+\mm lá:pp:dans
+\mm li:mrph:NMLZ
+\ps n
+\ge valorisation
 
 \lx dòn.da.lama
 \mm dòn:v:entrer
@@ -23838,7 +23912,7 @@
 \mm dɔ́gɔ:vq:petit
 \mm :mrph:INTENS
 \mm nin:mrph:DIM
-\ps adv
+\ps adv.p
 \ge doucement
 \lt (un peu.un peu.petit)
 \dt 12/Aug/2006
@@ -26916,7 +26990,7 @@
 \lx fáatu
 \va fátu
 \bw ar: fat = passer
-\ps n
+\ps v
 \ge mourir
 \dt 26/Sep/2006
 
@@ -27422,7 +27496,7 @@
 
 \lx fàlen-fàlen
 \mm fàlen:v:échanger
-\mm:mrph:INTENS
+\mm :mrph:INTENS
 \ps v
 \vl vt
 \ge échanger
@@ -29712,6 +29786,13 @@
 \xv à tɛ́gɛla ká fíyɛn
 \xe il a la main leste, il est prompt à frapper
 \dt 26/Sep/2006
+
+\lx fɛ́gɛya
+\mm fɛ́gɛn:vq:léger
+\mm ya:mrph:ABSTR
+\ps v
+\vl vt
+\ge affaiblir
 
 \lx fɛ̀.ko
 \mm fɛ̀:pp:vers
@@ -32732,6 +32813,12 @@
 \xe argent appartenant à tel groupe, à l'Etat ...
 \dt 16/Aug/2006
 
+\lx fòro.ba
+\mm fòro:n:champ
+\mm ba:mrph:AUGM
+\ps adv.p
+\ge collectivement
+
 \lx fòro.ba.baara
 \mm fòro:n:champ
 \mm ba:mrph:AUGM
@@ -33948,6 +34035,7 @@
 \dt 16/Aug/2006
 
 \lx fújunu
+\va fújunɛ
 \ps v
 \vl vi
 \ge se.fâcher
@@ -35616,6 +35704,10 @@
 \ee agir à-la-va-vite
 \dt 16/Aug/2006
 
+\lx gálabagalaba
+\ps adv.p
+\ge à.la.va-vite
+
 \lx gálabu
 \va gwálabu
 \ph [gw]
@@ -36351,6 +36443,7 @@
 \dt 16/Aug/2006
 
 \lx gàribu
+\va gèrebu
 \ps n
 \ge élève-marabout
 \ee qui fait de la mendicité
@@ -36498,6 +36591,7 @@
 \dt 16/Aug/2006
 
 \lx gàsi
+\va gàasi
 \bw ar: ba`s = mal ?
 \ps n
 \sn 1
@@ -38532,6 +38626,11 @@
 \lt (frapper.ce qui sert à)
 \dt 26/Sep/2006
 
+\lx gùdɔrɔn
+\bw fr.
+\ps n
+\ge asphalte
+
 \lx gúdu
 \va gúdun
 \ps v
@@ -38744,8 +38843,6 @@
 
 \lx hábada
 \va ábada
-\va báda
-\va bádaa
 \bw ar: abadan : mêmes sens
 \ps adv
 \sn 1
@@ -39091,7 +39188,7 @@
 \mm la:mrph:LOC
 \mm fàlen-fàlen:v:échanger
 \mm fàlen:v:échanger
-\mm:mrph:INTENS
+\mm :mrph:INTENS
 \ps n
 \lt opinions-échange
 \ge échange.de.vues
@@ -39316,6 +39413,7 @@
 \dt 16/Aug/2006
 
 \lx háli
+\va hál'
 \bw ar: `ala kullihal = de toutes façons
 \ps prt
 \sn 1
@@ -39630,6 +39728,11 @@
 \xv háya dɔ́ b'á bólo, ń'á y'ó kɛ́, màa sí t'á sɔ̀rɔ  bòli lá
 \xe il a une formule magique, s'il la prononce, personne ne l'attrape à la course
 \dt 16/Aug/2006
+
+\lx háyibu
+\ps v
+\vl vt
+\ge dénigrer
 
 \lx háyida
 \bw ar: hayda = menstruation
@@ -39999,7 +40102,7 @@
 \dt 16/Aug/2006
 
 \lx ínafɔ
-\ps expr
+\ps conj
 \ge comme
 \sy íko
 \sy íkomi
@@ -40099,6 +40202,7 @@
 \lx jàa
 \ps intj
 \ge vraiment
+\gv hélas!
 \dt 26/Sep/2006
 
 \lx jáabi
@@ -44892,11 +44996,12 @@
 \ge scorpion.noir
 \dt 16/Aug/2006
 
-\lx jɔ́nkɔrɔmɛ
+\lx jɔ́gɔramɛ
+\va jɔ́nkɔrɔmɛ
 \va jɔ́nwɔrɔmɛ
 \ue (bn)
 \ps n
-\ge Jogoramé
+\ge Diawambé
 \sm caste de griots
 \ee (méprisés et redoutés)
 \dt 16/Aug/2006
@@ -46169,6 +46274,7 @@
 \dt 16/Aug/2006
 
 \lx káana
+\va kána
 \ps n
 \ge iguane.d'eau
 \gv varan.du.Nil
@@ -47402,7 +47508,7 @@
 \mm baga:mrph:AG.OCC
 \ps n
 \sn 1
-\ge celui.qui.lit
+\ge lecteur
 \sn 2
 \gv étudiant
 \lt (lire.celui qui)
@@ -48227,7 +48333,7 @@
 \sy kàmamafɛn
 \dt 12/Aug/2006
 
-\lx kàmanagan
+\lx kàmanagàn
 \mm gàn:v:chauffer
 \ps v
 \vl vi
@@ -49845,7 +49951,10 @@
 
 \lx kàrafe
 \ps n
+\sn 1
 \ge mors
+\sn 2
+\gv chevalier
 
 \lx kàrafe
 \ps v
@@ -50640,9 +50749,10 @@
 \dt 26/Sep/2006
 
 \lx káwule
+\va káwula
 \ps n
-\ge saison.lourde
-\ee mois qui suit l'arrêt des pluies (mi-octobre / mi-novembre : le temps reste lourd)
+\ge octobre.novembre
+\sm saison qui suit l'arrêt des pluies (mi-octobre / mi-novembre : le temps reste lourd)
 \dt 16/Aug/2006
 
 \lx kàya
@@ -50868,7 +50978,14 @@
 \xe mieux vaut "déjà!" que "trop tard!" (dicton)
 \dt 16/Aug/2006
 
-\lx kélen.na.mɔgɔ
+\lx kèlennakuma
+\mm kélen:num:un
+\mm ná:pp:dans
+\mm kúma:n:parole
+\ps n
+\ge soliloque
+
+\lx kèlennamɔgɔ
 \mm kélen:num:un
 \mm ná:pp:dans
 \mm mɔ̀gɔ:n:homme
@@ -51060,6 +51177,7 @@
 \dt 26/Sep/2006
 
 \lx kɛ́
+\va k'
 \ps v
 \sn 1
 \vl vt
@@ -53242,6 +53360,7 @@
 \dt 26/Sep/2006
 
 \lx kó
+\va k'
 \ps cop
 \ge QUOT
 \sm prédicat.de.parole (défectif, n'accepte que tùn comme prédicatif)
@@ -56541,8 +56660,8 @@
 \dt 26/Sep/2006
 
 \lx kɔ̀lɔkɔlɔ
-\ps n
-\ge de.peu.d'importance
+\ps adv.p
+\ge peu
 \ee (souvent dans une phrase négative)
 \xv à mán kɔ̀lɔkɔlɔ ján
 \xe il n'est pas de petite taille  (= il est très grand)
@@ -59450,8 +59569,9 @@
 \dt 16/Aug/2006
 
 \lx kɔ́sa
+\va kɔ́san
 \bw ar: aqsa = le dernier
-\ps adj
+\ps adj/n
 \ge récent
 \gv dernier
 \xv kɔ́sa ìn ná
@@ -59500,6 +59620,10 @@
 \ge dernier-né
 \lt (récemment.enfant)
 \dt 16/Aug/2006
+
+\lx kɔ́san
+\ps adv
+\ge récemment
 
 \lx kɔ̀.sàfunɛ
 \mm kɔ̀:n:marigot
@@ -60713,7 +60837,7 @@
 \xv ...kùn yé  mùn yé ?
 \xe quelle en est la cause ?
 \xv ò kùn tɛ́ bìlen
-\xé í ń'y á plú dé móti, cé ń'é plú lá péine
+\xe í ń'y á plú dé móti, cé ń'é plú lá péine
 \xv ù nàkun yé  kélen yé
 \xe la raison de leur venue est la même
 
@@ -65455,9 +65579,10 @@
 \gv réprimander
 \dt 26/Sep/2006
 
-\lx láhaala
-\va láhaara
+\lx làhaala
+\va làhaara
 \ue (bmk)
+\va làhala
 \bw ar: al-halat = état, condition
 \ps n
 \sn 1
@@ -65470,7 +65595,10 @@
 \dt 26/Sep/2006
 
 \lx làhaala.ya
-\mm láhaala:n:aspect
+\mm làhaala:n:aspect
+\mm ya:mrph:ABSTR
+\va làhala.ya
+\mm làhala:n:aspect
 \mm ya:mrph:ABSTR
 \ps n
 \ge condition
@@ -65481,7 +65609,10 @@
 \dt 26/Sep/2006
 
 \lx làhaala.ya
-\mm láhaala:n:aspect
+\mm làhaala:n:aspect
+\mm ya:mrph:ABSTR
+\va làhala.ya
+\mm làhala:n:aspect
 \mm ya:mrph:ABSTR
 \ps v
 \vl vr
@@ -67160,7 +67291,7 @@
 \lx lá.pan
 \mm lá:mrph:CAUS
 \mm pán:v:sauter
-\ps n
+\ps v
 \lt préf-voler
 \ge faire.voler
 \dt 11/Nov/2007
@@ -68069,6 +68200,14 @@
 \sn 3
 \gv faire.démarrer
 \dt 26/Sep/2006
+
+\lx láwulinkama
+\mm lá:mrph:CAUS
+\mm wúli:v:se.lever
+\mm ń:pers:je
+\mm kámà:pp:en.vue.de
+\ps n
+\ge (ce.qui)fait.exprès
 
 \lx làya
 \va làhiya
@@ -70773,6 +70912,10 @@
 \xe arrête de dire des sottises !
 \dt 26/Sep/2006
 
+\lx mànamana
+\ps adv.p
+\ge pour.rien
+
 \lx mànamana.ko
 \mm mànamana:n:banal
 \mm kó:n:affaire
@@ -71498,8 +71641,7 @@
 \lx màra
 \ps n
 \sn 1
-\ge élevage
-\gv action.de.garder
+\ge garde
 \xv ní  bágan bɛ́  à tìgi dɔ́n, à màra ká dí
 \xe il est facile d'élever du bétail qui reconnaît son maître (prov)
 \sn 2
@@ -73133,6 +73275,12 @@
 \lt (soif.patient)
 \dt 16/Aug/2006
 
+\lx mín.nu
+\mm mín:prn:REL
+\mm nu:mrph:PL
+\ps prn
+\ge REL.PL
+
 \lx mínsigi
 \va fínsigi
 \ps n
@@ -73967,18 +74115,6 @@
 \lt (homme.tuer.action)
 \dt 26/Sep/2006
 
-\lx mɔ̀gɔ.gɛlɛn
-\mm mɔ̀gɔ:n:homme
-\mm gɛ̀lɛn:vq/adj:dur
-\va màa.gɛlɛn
-\mm màa:n:homme
-\mm gɛ̀lɛn:vq/adj:dur
-\ps expr
-\lt personne-dure
-\ge personne.dure
-\rem jos
-\dt 11/Nov/2007
-
 \lx mɔ̀gɔ.jɛ
 \mm mɔ̀gɔ:n:homme
 \mm jɛ́:vq/adj:blanc
@@ -74012,15 +74148,6 @@
 \ps n
 \lt homme-courageux
 \ge personne.courageuse
-\dt 11/Nov/2007
-
-\lx mɔ̀gɔ.kisi.len
-\mm mɔ̀gɔ:n:homme
-\mm kísi:v:sauver
-\mm len:mrph:RES
-\ps expr
-\lt homme-sauvé
-\ge rescapé
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔ.kolo
@@ -74296,18 +74423,6 @@
 \ge médisance
 \lt (personne.viande.manger)
 \dt 26/Sep/2006
-
-\lx mɔ̀gɔ.tilen.nen
-\mm mɔ̀gɔ:n:homme
-\mm tílen:v:redresser
-\mm nen:mrph:RES
-\ps expr
-\lt personne-droite
-\ge homme.juste
-\xv Màtigi Ála yé à mìnɛ mɔ̀gɔtilennen yé
-\xe le Seigneur le considéra comme juste (gn 15, 6)
-\rem Gn 6,10
-\dt 11/Nov/2007
 
 \lx mɔ̀gɔ.tɔ
 \mm mɔ̀gɔ:n:homme
@@ -75060,6 +75175,10 @@
 \ge être.satisfait
 \sy sáwa
 \dt 26/Sep/2006
+
+\lx mùndeenin
+\ps adv.p
+\ge précautionneusement
 
 \lx mùnɛ
 \ps n
@@ -75994,7 +76113,7 @@
 \lx ń'ó tɛ́
 \va ń'ó ntɛ́
 \ee *xas : ntɛ = tɛ
-\ps expr
+\ps conj
 \lt (si.cela.n'est pas)
 \ge sinon
 \dt 26/Sep/2006
@@ -76195,16 +76314,6 @@
 \vl vt
 \ge faire.venir
 \gv apporter
-\dt 26/Sep/2006
-
-\lx nà.baa
-\mm nà:v:venir
-\mm baa:mrph:AG.OCC
-\ps n
-\ge celui.qui.vient
-\lt (venir.celui qui)
-\xv nàbaa yé  táabaa yé
-\xe celui qui est venu s'en va  (chant pour un défunt)
 \dt 26/Sep/2006
 
 \lx nàbara
@@ -76441,6 +76550,10 @@
 \ge palais
 \ee (de la bouche) (anat)
 \dt 16/Aug/2006
+
+\lx nàganaga
+\ps adv.p
+\ge facilement
 
 \lx nágasa
 \ps v
@@ -78514,6 +78627,12 @@
 \ge doucement
 \dt 26/Sep/2006
 
+\lx nɛ̀mɛnɛmɛ.nin
+\mm nɛ̀mɛnɛmɛ:adv:doucement
+\mm nin:mrph:DIM
+\ps adv.p
+\ge doucement
+
 \lx nɛ́mu
 \ps v
 \vl vt
@@ -78658,6 +78777,7 @@
 
 \lx nfógonfogon
 \va fógonfogon
+\va fógofogo
 \ps n
 \ge arbuste.Calotropis.procera
 \sd ascl
@@ -82461,6 +82581,10 @@
 \ee sur tel point ... la
 \dt 16/Aug/2006
 
+\lx nɔ́rɔ
+\ps n
+\ge dépôt
+
 \lx nɔ̀.rɔ́.gɔ̀si
 \mm nɔ̀:n:trace
 \mm rɔ́:mrph:IN
@@ -84594,6 +84718,7 @@
 \dt 16/Aug/2006
 
 \lx ntɔ́mɔ̀lɔ́n
+\va ntɔ́mɔnɔn
 \ps n
 \ge jujubier.blanc
 \ee ---> 4 / 12 m (épineux)
@@ -84820,6 +84945,9 @@
 \dt 16/Aug/2006
 
 \lx ntùgun
+\va ntùgu
+\va ndùgu
+\ue bS
 \ps n
 \ge butte
 \sm (de terre, faite à la houe)
@@ -85724,6 +85852,7 @@
 \dt 16/Aug/2006
 
 \lx ɲàamɛ
+\va ɲàmɛ
 \va ɲɔ̀gɔmɛ
 \ue (bn)
 \va ɲáamu
@@ -89221,6 +89350,10 @@
 \ee joue les premiers rôles sans en être chargé)
 \dt 16/Aug/2006
 
+\lx ɲɛ́tɛgɛ
+\ps n
+\ge explication
+
 \lx ɲɛ́.tìgɛ
 \mm ɲɛ́:n:oeil
 \mm tìgɛ:v:couper
@@ -90807,6 +90940,10 @@
 \ge tromperie
 \gv chantage
 \dt 26/Sep/2006
+
+\lx ŋànamuŋanamu
+\ps adv.p
+\ge malhonnêtement
 
 \lx ŋánaŋana
 \ps v
@@ -93215,6 +93352,11 @@
 \rem Bz, b
 \dt 11/Nov/2007
 
+\lx sàfɛ
+\bw fr.
+\ps conj
+\ge ça.fait
+
 \lx sà.fɛn
 \mm sà:v:mourir
 \mm fɛ́n:n:chose
@@ -93661,6 +93803,10 @@
 \lt (  ? . originaire)
 \dt 16/Aug/2006
 
+\lx sàkɔsi
+\ps n
+\ge sacoche
+
 \lx sà.kùnu
 \mm sà:n:serpent
 \mm kùnu:v:avaler
@@ -94066,6 +94212,7 @@
 \lx sán
 \va syán
 \ue (bn)
+\va síyɛn
 \va syɛ́n
 \ve (bk,f)
 \va shyɛ́n
@@ -94967,7 +95114,7 @@
 
 \lx sára
 \ps n
-\ge petits.tas
+\ge petit.tas
 \sm (à vendre, à distribuer ...)
 \xv sárada
 \ce préparer ces petits tas, ces petits lots
@@ -97343,7 +97490,7 @@
 \mm sɛ̀bɛ:adj/n:sérieux
 \mm kɔ̀rɔ:vq/adj:vieux
 \lt (sérieux.âgé)
-\ps adv
+\ps adv.p
 \ge très
 \gv fortement
 \gv consciencieusement
@@ -98133,6 +98280,10 @@
 \ge septembre
 \dt 12/Aug/2006
 
+\lx sɛ́tɛri
+\ps n
+\ge sept.heures
+
 \lx sí
 \vc síi
 \ps n
@@ -98900,6 +99051,10 @@
 \sn 2
 \gv lambiner
 \dt 26/Sep/2006
+
+\lx síiri
+\ps n
+\ge magie
 
 \lx sìisan
 \va sìnsan
@@ -99711,6 +99866,12 @@
 \sy sínji
 \dt 26/Sep/2006
 
+\lx sínti
+\va síndi
+\ps v
+\vl vt
+\ge fonder
+
 \lx sì.ɲɛ.na
 \mm sì:v:passer.la.nuit
 \mm ɲɛ́:n:oeil
@@ -100202,15 +100363,6 @@
 \lt (instant.lieu.petit)
 \dt 26/Sep/2006
 
-\lx sísan.ni nɔ́
-\mm sísan:n:maintenant
-\mm nì:dtm/prn:DEM
-\mm nɔ́:pp:IN
-\ps expr
-\ge à.l'instant
-\lt (instant.suf) à
-\dt 16/Aug/2006
-
 \lx sísan.waati
 \mm sísan:n:maintenant
 \mm wáati:n:moment
@@ -100568,6 +100720,13 @@
 \sm (anat)
 \lt (maison.porte)
 \dt 16/Aug/2006
+
+\lx sò.dan.so
+\mm sò:n:cheval
+\mm dàn:v:dépasser
+\mm sò:n:cheval
+\ps n
+\ge cavalier.vaillant
 
 \lx só.den
 \mm só:n:maison
@@ -101103,17 +101262,6 @@
 \xe ils ont fait la pêche commune dans le marigot
 \dt 26/Sep/2006
 
-\lx sòli yó
-\mm sòli:n:circoncision
-\mm yó:intj:salut
-\va sòli.yo
-\mm sòli:n:circoncision
-\mm yó:intj:salut
-\ps expr
-\ge chant.de.bravoure.des.griots
-\lt (les circoncis.eh !)
-\dt 16/Aug/2006
-
 \lx sòli.baa
 \mm sòli:v:être.matinal
 \mm baa:mrph:AG.OCC
@@ -101177,6 +101325,14 @@
 \ps n
 \ge veillée.de.circoncision
 \lt (circoncision.veiller)
+\dt 16/Aug/2006
+
+\lx sóliyo
+\mm sòli:n:circoncision
+\mm yó:intj:salut
+\ps n
+\ge cri.des.griottes
+\lt (les circoncis.eh !)
 \dt 16/Aug/2006
 
 \lx sòlo
@@ -102521,15 +102677,6 @@
 \xe faire un sacrifice aux ancêtres
 \dt 26/Sep/2006
 
-\lx sú rɔ́
-\va sú.rɔ
-\mm sú:n:nuit
-\mm rɔ́:pp:IN
-\ps expr
-\ge hier.soir
-\lt (soir.moment)
-\dt 16/Aug/2006
-
 \lx sù.ba
 \mm sù:n:cadavre
 \mm ba:mrph:AUGM
@@ -103688,6 +103835,14 @@
 \sn 3
 \gv insolite
 \dt 26/Sep/2006
+
+\lx sú.rɔ
+\mm sú:n:nuit
+\mm rɔ́:pp:IN
+\ps n
+\ge hier.soir
+\lt (soir.moment)
+\dt 16/Aug/2006
 
 \lx sú.rɔ.fana
 \mm sú:n:nuit
@@ -104973,6 +105128,10 @@
 \sm (ne plus savoir où donner de la tête)
 \dt 26/Sep/2006
 
+\lx tàabataaba
+\ps adv.p
+\ge de.travers
+
 \lx táa.bolo
 \mm táa:v:aller
 \mm bólo:n:bras
@@ -105891,27 +106050,6 @@
 \xv tán ní fìla
 \xe douze (dix et deux = 12 , chiffre symbolique de la perfection)
 
-\lx tànni ná
-\mm tàn:adv:ainsi
-\mm ná:pp:dans
-\va tènni ná
-\mm tèn:adv:ainsi
-\mm ná:pp:dans
-\va tànni nɔ́
-\mm tàn:adv:ainsi
-\mm nɔ́:pp:IN
-\va tènni nɔ́
-\mm tèn:adv:ainsi
-\mm nɔ́:pp:IN
-\ue (f)
-\ue (f)
-\ps expr
-\ge ainsi
-\lt (ainsi.suf + lieu)
-\xv mùn y'í kɛ́  tànni nɔ́ ?
-\xe qu'est-ce qui t'a rendu comme ça ?
-\dt 26/Sep/2006
-
 \lx tán.ni.fila.fili
 \mm tán:num:dix
 \mm ní:prep/conj:et
@@ -106071,6 +106209,12 @@
 \xv tàri dì ?
 \xe n'est-ce pas ?
 \dt 16/Aug/2006
+
+\lx táriku
+\va táriki
+\va táariki
+\ps n
+\ge histoire
 
 \lx tàro
 \ue (-bk,-bn)
@@ -111506,6 +111650,11 @@
 \xe les circoncis posent leur coude à terre(pour saluer)
 \dt 26/Sep/2006
 
+\lx tùrudà
+\ps v
+\vl vt
+\ge prétexter
+
 \lx túruka
 \va túrka
 \ph [turka]
@@ -113323,6 +113472,10 @@
 \sm (exclamation de douleur)
 \ee (vocabulaire féminin)
 \dt 16/Aug/2006
+
+\lx wítɛri
+\ps n
+\ge huit.heures
 
 \lx wó
 \ps conj
@@ -115348,6 +115501,8 @@
 \dt 16/Aug/2006
 
 \lx yánkan
+\va yánga
+\ue bS
 \ps v
 \vl vt
 \ge étendre
@@ -115371,28 +115526,6 @@
 \xe avant que ce jour n'arrive
 \sn 2
 \gv au lieu de
-\dt 26/Sep/2006
-
-\lx yànni ná
-\mm yànni:conj:avant.que
-\mm yàn:n:ici
-\mm ná:pp:dans
-\va yànni nɔ́
-\mm yànni:conj:avant.que
-\mm yàn:n:ici
-\mm nɔ́:pp:IN
-\va yànni.ná
-\mm yànni:conj:avant.que
-\mm yàn:n:ici
-\mm ná:pp:dans
-\va yànni.nɔ́
-\mm yànni:conj:avant.que
-\mm yàn:n:ici
-\mm nɔ́:pp:IN
-\ps expr
-\ge ici
-\gv par ici
-\lt (ici.suf + post)
 \dt 26/Sep/2006
 
 \lx yári
@@ -115802,24 +115935,6 @@
 \ge quelqu'un.de.là-bas
 \lt (là-bas.habitant)
 \dt 16/Aug/2006
-
-\lx yènni ná
-\mm yèn:n:là-bas
-\mm ná:pp:dans
-\va yènni nɔ́
-\mm yèn:n:là-bas
-\mm nɔ́:pp:IN
-\va yènniná
-\mm yèn:n:là-bas
-\mm ná:pp:dans
-\va yènninɔ́
-\mm yèn:n:là-bas
-\mm nɔ́:pp:IN
-\ps expr
-\ge là
-\gv par.là
-\lt (ici.suf + post)
-\dt 26/Sep/2006
 
 \lx yé.ɲɛ.na
 \mm yé:v:voir
@@ -117053,6 +117168,7 @@
 \dt 26/Sep/2006
 
 \lx yùruguyurugu
+\va yùrukuyuruku
 \ps n
 \ge trafic.malhonnête
 \gv usure
@@ -117106,5 +117222,6 @@
 \bw fr : juin
 \ps n
 \ge juin
+
 
 
