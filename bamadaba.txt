@@ -2355,7 +2355,7 @@
 \mm kùru:n:boule
 \mm ma:mrph:COM
 \ps adv.p
-\ge entièrement
+\ge entièrement
 \lt (le tout.qui a)
 \xv à bákuruma jènina
 \xe il a brûlé entièrement
@@ -11326,7 +11326,7 @@
 \mm bán:v:terminer
 \mm pàsa:v:rendre.consistant
 \ps n
-\ge émaciation
+\ge émaciation
 
 \lx búbunin
 \mm nin:mrph:DIM
@@ -35706,7 +35706,7 @@
 
 \lx gálabagalaba
 \ps adv.p
-\ge à.la.va-vite
+\ge à.la.va-vite
 
 \lx gálabu
 \va gwálabu
@@ -39732,7 +39732,7 @@
 \lx háyibu
 \ps v
 \vl vt
-\ge dénigrer
+\ge dénigrer
 
 \lx háyida
 \bw ar: hayda = menstruation
@@ -45001,7 +45001,7 @@
 \va jɔ́nwɔrɔmɛ
 \ue (bn)
 \ps n
-\ge Diawambé
+\ge Diawambé
 \sm caste de griots
 \ee (méprisés et redoutés)
 \dt 16/Aug/2006
@@ -50978,7 +50978,7 @@
 \xe mieux vaut "déjà!" que "trop tard!" (dicton)
 \dt 16/Aug/2006
 
-\lx kèlennakuma
+\lx kèlennakuma
 \mm kélen:num:un
 \mm ná:pp:dans
 \mm kúma:n:parole
@@ -68207,7 +68207,7 @@
 \mm ń:pers:je
 \mm kámà:pp:en.vue.de
 \ps n
-\ge (ce.qui)fait.exprès
+\ge (ce.qui)fait.exprès
 
 \lx làya
 \va làhiya
@@ -75178,7 +75178,7 @@
 
 \lx mùndeenin
 \ps adv.p
-\ge précautionneusement
+\ge précautionneusement
 
 \lx mùnɛ
 \ps n
@@ -82583,7 +82583,7 @@
 
 \lx nɔ́rɔ
 \ps n
-\ge dépôt
+\ge dépôt
 
 \lx nɔ̀.rɔ́.gɔ̀si
 \mm nɔ̀:n:trace
@@ -90943,7 +90943,7 @@
 
 \lx ŋànamuŋanamu
 \ps adv.p
-\ge malhonnêtement
+\ge malhonnêtement
 
 \lx ŋánaŋana
 \ps v
@@ -93352,10 +93352,10 @@
 \rem Bz, b
 \dt 11/Nov/2007
 
-\lx sàfɛ
+\lx sàfɛ
 \bw fr.
 \ps conj
-\ge ça.fait
+\ge ça.fait
 
 \lx sà.fɛn
 \mm sà:v:mourir
@@ -111653,7 +111653,7 @@
 \lx tùrudà
 \ps v
 \vl vt
-\ge prétexter
+\ge prétexter
 
 \lx túruka
 \va túrka
