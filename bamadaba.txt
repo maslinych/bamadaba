@@ -2,7 +2,7 @@
 \_DateStampHasFourDigitYearu
 \lang bam
 \name bamadaba
-\ver 0.5.2
+\ver 0.5.3
 
 \lx á	
 \ps intj
@@ -3557,12 +3557,8 @@
 \rem du
 \dt 11/Nov/2007
 
-\lx bàna.ku
-\mm bàna:n:fromager
-\mm kú:n:igname
-\va bànan.ku
-\mm bànan:n:fromager
-\mm kú:n:igname
+\lx bànaku
+\va bànanku
 \ps n
 \ge manioc
 \lat Manihot esculenta
@@ -5748,7 +5744,7 @@
 \va bɛ́ 'ń kà
 \ue (f)
 \ps pm
-\ge PROG
+\ge PROG.AFF
 \sm (prédicatif de présent progressif (positif)
 \xv ù bɛ́  kà dlɔ́ mìn
 \xe ils sont en train de boire de la bière de mil
@@ -7808,7 +7804,7 @@
 \ph [br]
 \ps v
 \vl vt
-\ge mettre.face.au.sol
+\ge courber
 \ee (sens général)
 \lf Ant
 \lv jan
@@ -7897,7 +7893,7 @@
 \dt 16/Aug/2006
 
 \lx bíri.fini
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \mm fìni:n:tissu
 \va brí.fini
 \mm brí:v:mettre.face.au.sol
@@ -7935,7 +7931,7 @@
 \dt 16/Aug/2006
 
 \lx bíri.len.na.baara
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \mm len:mrph:RES
 \mm ná:conj:POS 
 \mm báara:n:travail
@@ -7973,7 +7969,7 @@
 \dt 16/Aug/2006
 
 \lx bíri.n.kan
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \mm ń:pers:je
 \mm kàn:pp:sur
 \va brí.n.kan
@@ -7990,7 +7986,7 @@
 
 \lx bíri.n.kan.fini
 \mm bíri.n.kan:n:couverture
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \mm ń:pers:je
 \mm kàn:pp:sur
 \mm fìni:n:tissu
@@ -15890,7 +15886,7 @@
 
 \lx dá.biri
 \mm dá:n:bouche
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \va dá.bri
 \mm dá:n:bouche
 \mm brí:v:mettre.face.au.sol
@@ -15903,7 +15899,7 @@
 
 \lx dá.biri.lan
 \mm dá:n:bouche
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \mm lan:mrph:INSTR
 \ps n
 \lt renverser-qui sert à
@@ -31574,14 +31570,14 @@
 \ps n
 \lt meilleur-suf abs
 \sn 1
-\ge amélioration.de.la.santé
+\ge discrimination
 \sn 2
-\gv discrimination
-\sn 3
 \gv préférence
 \xv fìsamanciyaba bɛ́ kán ní ɲɔ́gɔn cɛ́
 \xe il existe des langues très privilégiées (très prisées)  (kb 5/05 p.4)
 \rem du
+\sn 3
+\gv amélioration.de.la.santé
 \dt 11/Nov/2007
 
 \lx fìsa.man.nci
@@ -35704,7 +35700,7 @@
 \ee agir à-la-va-vite
 \dt 16/Aug/2006
 
-\lx gálabagalaba
+\lx gàlabagalaba
 \ps adv.p
 \ge à.la.va-vite
 
@@ -56667,6 +56663,10 @@
 \xe il n'est pas de petite taille  (= il est très grand)
 \dt 16/Aug/2006
 
+\lx kɔ̀lɔkɔlɔ
+\ps n
+\ge de.peu.d'importance
+
 \lx kɔ́lɔ.kun
 \mm kɔ́lɔ:n:sexe.de.l'homme
 \mm kùn:n:tête
@@ -62503,7 +62503,7 @@
 \lx kùn.na.biri
 \mm kùn:n:tête
 \mm ná:mrph:CAUS
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \ps n
 \ge voile.de.tête
 \ee (des circoncis et des excisées ...)
@@ -62515,7 +62515,7 @@
 \lx kùn.na.biri
 \mm kùn:n:tête
 \mm ná:mrph:CAUS
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \ps v
 \vl vt
 \ge voiler.la.tête
@@ -64625,7 +64625,7 @@
 
 \lx lá.biri
 \mm lá:mrph:CAUS
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \ps v
 \vl vt
 \ge abaisser
@@ -69407,7 +69407,7 @@
 
 \lx mà.biri
 \mm mà:mrph:SUPER
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \ps v
 \vl vt
 \ge abaisser
@@ -78623,12 +78623,12 @@
 \dt 26/Sep/2006
 
 \lx nɛ̀mɛnɛmɛ
-\ps adv
+\ps adv.p
 \ge doucement
 \dt 26/Sep/2006
 
 \lx nɛ̀mɛnɛmɛ.nin
-\mm nɛ̀mɛnɛmɛ:adv:doucement
+\mm nɛ̀mɛnɛmɛ:adv.p:doucement
 \mm nin:mrph:DIM
 \ps adv.p
 \ge doucement
@@ -97491,7 +97491,7 @@
 \mm kɔ̀rɔ:vq/adj:vieux
 \lt (sérieux.âgé)
 \ps adv.p
-\ge très
+\ge sérieusement
 \gv fortement
 \gv consciencieusement
 \ee (en composition avec un adjectif prédicat ou un verbe)
@@ -102375,7 +102375,7 @@
 \lx sɔ̀n.na.biri
 \mm sɔ̀n:n:conduite
 \mm ná:mrph:CAUS
-\mm bíri:v:mettre.face.au.sol
+\mm bíri:v:courber
 \ps n
 \ge diaphragme
 \lt (coeur.lieu.couverture)
@@ -117222,6 +117222,7 @@
 \bw fr : juin
 \ps n
 \ge juin
+
 
 
 
