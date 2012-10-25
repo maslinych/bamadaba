@@ -3411,7 +3411,7 @@
 \mm bàna:n:maladie
 \mm ba:mrph:AUGM
 \mm sìgi:v:asseoir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge maladie.chronique
 \gv longue.maladie
@@ -3421,7 +3421,7 @@
 \lx bàna-cún.nen
 \mm bàna:n:maladie
 \mm cún:v:se.laisser.tomber
-\mm nen:mrph:RES
+\mm nen:mrph:PTCP.RES
 \ps n
 \ge maladie.subite
 \lt (maladie-tombée)
@@ -4968,7 +4968,7 @@
 \lx bá.sigi.len.ya
 \mm bá:n:mère
 \mm sìgi:v:asseoir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge constance
@@ -7932,12 +7932,12 @@
 
 \lx bíri.len.na.baara
 \mm bíri:v:courber
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ná:conj:POS 
 \mm báara:n:travail
 \va brí.len.na.baara
 \mm brí:v:mettre.face.au.sol
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ná:conj:POS
 \mm báara:n:travail
 \ph [br]
@@ -13025,7 +13025,7 @@
 \lx cɛ̀.ba.len
 \mm cɛ̀:n:mâle
 \mm ba:mrph:AUGM
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \lt (homme.grand)
 \ps n
 \sn 1
@@ -13040,7 +13040,7 @@
 \mm cɛ̀.ba.len:n:circoncis
 \mm cɛ̀:n:mâle
 \mm ba:mrph:AUGM
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -13486,7 +13486,7 @@
 \mm cɛ̀:n:mâle
 \mm kɔ́:n:dos
 \mm bɔ́:v:sortir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \lt homme-parties-enlevées
 \ge eunuque
@@ -13610,7 +13610,7 @@
 \lx cɛ́.kùru.len
 \mm cɛ́:n:milieu
 \mm kùru:v:plier
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge silure.fumé
 \ee (recourbé en vente sur les marchés)
@@ -16289,7 +16289,7 @@
 
 \lx dáfa.len
 \mm dáfa:v:compléter
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge voyelle
 \sm (néologisme : son 'complet' en lui-même)
@@ -16300,7 +16300,7 @@
 
 \lx dáfa.len
 \mm dáfa:v:compléter
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge serment
 \gv promesse
@@ -21963,7 +21963,7 @@
 \lx dí.kò.len
 \mm dí:n:miel
 \mm kò:v:laver
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge hydromel
 \lt (miel.lavé)
@@ -23677,7 +23677,7 @@
 
 \lx dórogo.len
 \mm dórogo:v:serrer
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge mot.composé
 \ee (néologisme : on lie les éléments dans l'orthographe)
@@ -24102,7 +24102,7 @@
 \lx dɔ́gɔ.ya.len.ba
 \mm dɔ́gɔ:vq:petit
 \mm ya:mrph:ABSTR
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ba:mrph:AUGM
 \ps adj
 \lt diminué-très
@@ -25514,7 +25514,7 @@
 
 \lx dù.len.ya
 \mm dù:v:courber 
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \sn 1
@@ -26263,7 +26263,7 @@
 \lx dùsu.jɛ.len.ya
 \mm dùsu:n:centre.d'énergie
 \mm jɛ́:vq/adj:blanc
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \lt coeur-clair-suf abs
@@ -26347,7 +26347,7 @@
 \mm dùsu:n:centre.d'énergie
 \mm kùn:n:tête
 \mm jɛ́:vq/adj:blanc
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \lt âme-claire-suf abs
@@ -26880,7 +26880,7 @@
 \lx fàamu.ya.len
 \mm fàamu:v:compréhension
 \mm ya:mrph:ABSTR
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \lt comprendre-suf
 \ge spécialiste
@@ -28111,7 +28111,7 @@
 
 \lx fáɲa.len.ya
 \mm fáɲa:v:être.faraud
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \lt rebelle-suf abs
@@ -28531,7 +28531,7 @@
 
 \lx fáranfasi.len.ya
 \mm fáranfasi:v:différencier
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR 
 \ps n
 \ge distinction
@@ -28542,7 +28542,7 @@
 
 \lx fáranfasi.len.ya
 \mm fáranfasi:v:différencier
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -29174,7 +29174,7 @@
 
 \lx fásan.nen.ya
 \mm fásan:v:avilir
-\mm nen:mrph:RES
+\mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge abrutissement
@@ -29907,7 +29907,7 @@
 \lx fɛ́n.da.len
 \mm fɛ́n:n:chose
 \mm dá:v:créer
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \lt être-créé
 \ge créature
@@ -33278,7 +33278,7 @@
 
 \lx fɔ́.len
 \mm fɔ́:v:dire
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge dit
 \lt (dire.suf part pas)
@@ -39290,7 +39290,7 @@
 \lx hákili.sigi.len.ya
 \mm hákili:n:esprit
 \mm sìgi:n:position.assise
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge sérénité
@@ -42473,7 +42473,7 @@
 
 \lx jɛ́.len.ya
 \mm jɛ́:n:le.blanc
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \lt clarifié-suf abs
@@ -44872,7 +44872,7 @@
 
 \lx jɔ̀.len.ya
 \mm jɔ̀:v:mettre.debout
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge stabilité
@@ -46412,7 +46412,7 @@
 
 \lx káari.len.ya
 \mm káari:v:renoncer
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \lt 'renoncé'-suf abs
@@ -46948,7 +46948,7 @@
 
 \lx káfa.len.ya
 \mm káfa:v:être.arrogant
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge fierté
@@ -47328,7 +47328,7 @@
 \mm kála-kála:v:rayer
 \mm kála:vq:bariolé
 \mm :mrph:INTENS
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \lt (Syno. bariolé)
 \ps n
 \ge poisson.Synodontis.ocellifer
@@ -52435,7 +52435,7 @@
 \mm kɛ́rɛn.kɛrɛn:v:mettre.de.côté
 \mm kɛ́rɛn:n:côté
 \mm :mrph:INTENS 
-\mm nen:mrph:RES
+\mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \lt (mis à part.suf abs)
 \ps n
@@ -54330,7 +54330,7 @@
 
 \lx kólo.len.ya
 \mm kólo:v:éduquer
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge docilité
@@ -58106,7 +58106,7 @@
 \mm ná:pp:dans
 \mm sú:n:nuit
 \mm kò:v:arriver
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge indécis
 \gv velléitaire
@@ -58121,7 +58121,7 @@
 \mm ná:pp:dans
 \mm sú:n:nuit
 \mm kò:v:arriver
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge lenteur.de.compréhension
@@ -58933,7 +58933,7 @@
 \lx kɔ̀rɔ.ba.len
 \mm kɔ̀rɔ:vq/adj:vieux
 \mm ba:mrph:AUGM
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge le.plus.vieux
 \lt (vieux.très.suf)
@@ -59256,7 +59256,7 @@
 
 \lx kɔ̀rɔ.len
 \mm kɔ̀rɔ:v:vieillir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps ptcp
 \ge vieilli
 \gv vieux
@@ -59265,7 +59265,7 @@
 
 \lx kɔ̀rɔ.len
 \mm kɔ̀rɔ:v:vieillir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps adv
 \ge déjà
 \gv depuis.longtemps
@@ -62837,7 +62837,7 @@
 \mm kùn:n:tête
 \mm ná:pp:dans
 \mm sìri:v:lier
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge confusion
@@ -62919,7 +62919,7 @@
 \mm kùn:n:tête
 \mm ná:mrph:CAUS
 \mm tìgɛ:v:couper
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \sn 1
 \ge effronté
@@ -62936,7 +62936,7 @@
 \mm kùn:n:tête
 \mm ná:mrph:CAUS
 \mm tìgɛ:v:couper
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge effronterie
@@ -63100,7 +63100,7 @@
 \lx kùn.sa.len.ya
 \mm kùn:n:tête
 \mm sà:v:mourir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge apathie
@@ -64869,7 +64869,7 @@
 
 \lx ládamu.len.ya
 \mm ládamu:v:entretenir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge bonne.éducation
@@ -67476,7 +67476,7 @@
 
 \lx lásɔn.nen.ya
 \mm lásɔ̀n:v:conserver
-\mm nen:mrph:RES
+\mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge continence
@@ -69980,7 +69980,7 @@
 \lx mà.jigi.len.ya
 \mm mà:mrph:SUPER
 \mm jìgi:v:descendre
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge humilité
@@ -72228,7 +72228,7 @@
 \mm mà.suma:v:calmer
 \mm mà:mrph:SUPER
 \mm súma:v:rafraîchir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \lt doux-suf abs
@@ -74985,7 +74985,7 @@
 \mm kála-kála:v:rayer
 \mm kála:vq:bariolé
 \mm :mrph:INTENS
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge poisson.Synodontis.gobroni
 \lt (mugu.bariolé)
@@ -75548,7 +75548,7 @@
 \mm mùso:n:femme
 \mm cɛ̀:n:mâle
 \mm sà:v:mourir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge veuve
 \lt (femme.mari.défunt)
@@ -77046,7 +77046,7 @@
 \mm nàna:n:don.gratuit
 \mm mà:mrph:SUPER
 \mm súma:v:rafraîchir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps ptcp
 \ge sans.effort
 \gv sans.raison
@@ -78729,7 +78729,7 @@
 \lx nɛ̀rɛ.mugu.len
 \mm nɛ̀rɛ:n:nèrè.de.Gambie
 \mm múgu:v:réduire.en.poudre
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \ge loriot.doré
 \lat Oriolus.auratus
@@ -81931,7 +81931,7 @@
 
 \lx nɔ́gɔ.len.ya
 \mm nɔ́gɔ:v:salir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \sn 1
@@ -85609,14 +85609,14 @@
 \mm ná:pp:dans
 \mm dá:n:bouche
 \mm fá:v:remplir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ue (kb)
 \va nún.na.da.fa.len
 \mm nún:n:nez
 \mm ná:pp:dans
 \mm dá:n:bouche
 \mm fá:v:remplir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps n
 \lt nez-de-voyelle
 \ge voyelle.nasale
@@ -87133,7 +87133,7 @@
 \lx ɲɛ́.fara.len
 \mm ɲɛ́:n:oeil
 \mm fára:v:diviser
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps ptcp
 \ge impoli
 \lt (paupière déchirée)
@@ -93098,7 +93098,7 @@
 
 \lx sábali.len.ya
 \mm sábali:v:être.patient
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge vertu.de.patience
@@ -100324,7 +100324,7 @@
 \lx sìri.tigɛ.len
 \mm sìri:n:liaison
 \mm tìgɛ:v:couper
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ue (bmk)
 \ps ptcp
 \ge effronté
@@ -100336,7 +100336,7 @@
 \mm sìri.tigɛ.len:ptcp:effronté
 \mm sìri:n:liaison
 \mm tìgɛ:v:couper
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ue (bmk)
 \ps n
@@ -103147,7 +103147,7 @@
 
 \lx sú.len
 \mm sú:v:tremper
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \ps ptcp
 \ge saoûl
 \xv à tùn súlenba dòn
@@ -103157,7 +103157,7 @@
 \lx sú.len.ya
 \mm sú.len:ptcp:saoûl
 \mm sú:v:tremper
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \lt soûl-suf abs
@@ -103308,7 +103308,7 @@
 
 \lx súma.len.ya
 \mm súma:v:rafraîchir
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \sn 1
@@ -108324,11 +108324,11 @@
 
 \lx tílen.nen.ya
 \mm tílen:v:redresser
-\mm nen:mrph:RES
+\mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \va tlén.nen.ya
 \mm tlén:v:redresser
-\mm nen:mrph:RES
+\mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ph [tl]
 \ps n
@@ -108950,19 +108950,19 @@
 
 \lx tíyɛn.len.ya
 \mm tíyɛn:v:gâter
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \va tíɲɛ.len.ya
 \mm tíɲɛ:v:gâter
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \va cɛ́n.len.ya
 \mm cɛ́n:v:gâter
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \va cɛ́n.nen.ya
 \mm cɛ́n:v:gâter
-\mm nen:mrph:RES
+\mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ph [cɛn...]
 \ps n
@@ -115221,7 +115221,7 @@
 
 \lx yàada.len.ya
 \mm yàada:v:être.arrogant
-\mm len:mrph:RES
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge arrogance
