@@ -1928,6 +1928,15 @@
 \ps adv.p
 \ge précipitamment
 
+\lx bàlakabalaka
+\ps v
+\vl vi
+\ge bâcler
+\gv agir.précipitamment
+\xv à bàlakabalakara  kà wúli
+\xe il s'est levé précipitamment
+\dt 08/Nov/2012
+
 \lx bàla-kà-wúli
 \mm bàla:v:surprendre
 \mm kà:pm:INF
@@ -1954,17 +1963,6 @@
 \sd asté
 \lt (surprendre-et-se lever)
 \dt 19/Aug/2006
-
-\lx bàlaka.balaka
-\mm bàlaka:v:se.précipiter
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\ge bâcler
-\gv agir.précipitamment
-\xv à bàlakabalakara  kà wúli
-\xe il s'est levé précipitamment
-\dt 26/Sep/2006
 
 \lx bàlan
 \ps n
@@ -3005,17 +3003,6 @@
 \ee (rempli...)
 \xv k'à kɔ́nɔbaranin fá  bánbali !
 \xe se remplir complètement son petit ventre
-\dt 16/Aug/2006
-
-\lx bàn-bàn
-\mm bàn:v:refuser
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\ge refuser.souvent
-\lt (refuser.refuser)
-\xv à bɛ́ tó  kà í bàn-bàn  kà sín mìn
-\xe il refuse souvent de prendre le sein
 \dt 16/Aug/2006
 
 \lx bánban
@@ -4482,16 +4469,15 @@
 \sd gram
 \lt bouc.barbe
 
-\lx bá.cɛn.cɛn
+\lx bá.cɛncɛn
 \mm bá:n:fleuve
-\mm cɛ̀n:n:sable
-\mm :mrph:INTENS
+\mm cɛ̀ncɛn:n:sable
 \ps n
 \lt rivière-sable
 \ge sable.de.rivière
 \ee (fin et blanc !)
 \rem l 89
-\dt 11/Nov/2007
+\dt 08/Nov/2012
 
 \lx bá.da
 \mm bá:n:fleuve
@@ -6005,15 +5991,6 @@
 \ge nasse
 \ee pour prendre le poisson
 \sy nsɛ̀lɛ
-\dt 16/Aug/2006
-
-\lx bɛ́lɛn-bɛ́lɛn
-\mm bɛ́lɛn:v:aborder
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge se.déplacer.discrètement
-\lt (aborder-aborder)
 \dt 16/Aug/2006
 
 \lx bɛ̀lɛwɔyɔ
@@ -10887,18 +10864,6 @@
 \gv enlever.vivement
 \dt 26/Sep/2006
 
-\lx bɔ̀ɔsi-bɔ̀ɔsi
-\mm bɔ̀ɔsi:v:écorcher
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\sn 1
-\ge écorcher.en.plusieurs.endroits
-\sn 2
-\gv enlever.de.force
-\lt (écorcher-écorcher)
-\dt 16/Aug/2006
-
 \lx bɔ̀ɔsi.li
 \mm bɔ̀ɔsi:v:écorcher
 \mm li:mrph:NMLZ
@@ -11406,15 +11371,6 @@
 \ge frapper
 \sy gɔ̀si
 \dt 12/Aug/2006
-
-\lx bùgɔ-bùgɔ
-\mm bùgɔ:v:frapper
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge frapper.à.petits.coups
-\lt (frapper-frapper)
-\dt 16/Aug/2006
 
 \lx bùgɔ.li
 \mm bùgɔ:v:frapper
@@ -15134,17 +15090,20 @@
 \sm (prix)
 \dt 16/Aug/2006
 
-\lx cún-cún
-\mm cún:v:se.laisser.tomber
-\mm :mrph:INTENS
+\lx cúncun
 \ps v
 \vl vi
-\sn 1
+\sn
 \ge sautiller
+\dt 08/Nov/2012
+
+\lx cúncun
+\ps v
 \sn 2
-\gv être.rare
+\ge être.rare
+\gv être épars
 \ee épars (semis ...)
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx cúnɛ
 \ps n
@@ -17809,11 +17768,10 @@
 \lt (parole.se tromper)
 \dt 26/Sep/2006
 
-\lx dá.fili-fìli
+\lx dá.filifìli
 \mm dá:n:bouche
 \mm fìli:v:jeter
-\mm :mrph:INTENS
-\va dá.fli-fli
+\va dá.flifli
 \mm dá:n:bouche
 \mm flì:v:jeter 
 \mm :mrph:INTENS
@@ -17823,7 +17781,7 @@
 \ge claironner
 \ee faire savoir à différentes personnes (naissance,travail ...)
 \lt (parole.lancer-lancer)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx dá.fili.ci
 \mm dá:n:bouche
@@ -21863,14 +21821,6 @@
 \sm (sens physique ou moral)
 \dt 26/Sep/2006
 
-\lx dígi-dígi
-\mm dígi:v:presser
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge masser
-\lt (presser-presser)
-
 \lx dìgon
 \ps n
 \ge grand.calao.d'Abyssinie
@@ -22846,13 +22796,13 @@
 \gv pétrir
 \dt 16/Aug/2006
 
-\lx dógi-dógi
+\lx dógidogi
 \mm dógi:v:tanner
 \mm :mrph:INTENS
 \ps v
 \vl vt
 \ge masser.légèrement
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx dògo
 \ps n
@@ -22867,6 +22817,16 @@
 \xv sà dògolen bɛ́ kɔ́gɔ
 \xe un serpent qui se cache devient adulte (prov)
 
+\lx dògodogo
+\ps v
+\vl vt
+\ge (se).cacher
+\xv ɲɔ́gɔn dògodogo
+\xe garder un secret entrer entre nous
+\xv màa dògodogo  kó dɔ́ lá
+\xe parler d'une affaire à qn en secret
+\dt 08/Nov/2012
+
 \lx dógodogo
 \ps n
 \ge coin
@@ -22874,6 +22834,15 @@
 \gv anse
 \gv petite.baie
 \dt 26/Sep/2006
+
+\lx dògodogo.nin.kuma
+\mm dògodogo:v:cacher
+\mm nin:mrph:DIM
+\mm kúma:n:parole
+\ps n
+\ge cachotterie
+\lt (cachette.petite.parole)
+\dt 08/Nov/2012
 
 \lx dògo.baa
 \mm dògo:v:cacher
@@ -22884,31 +22853,6 @@
 \xv sɔ̀n bɛ́  bɛ́ɛ lá, dɔ́ tá  dògobaa bɛ́
 \xe tout le monde a des défauts, (mais) il y en a qui cachent les leurs
 \dt 16/Aug/2006
-
-\lx dògo.dogo
-\mm dògo:v:cacher
-\mm :mrph:INTENS
-\vt dògo.dògo
-\mm dògo:v:cacher
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge (se).cacher
-\xv ɲɔ́gɔn dògodogo
-\xe garder un secret entrer entre nous
-\xv màa dògodogo  kó dɔ́ lá
-\xe parler d'une affaire à qn en secret
-\dt 16/Aug/2006
-
-\lx dògo.dogo.nin.kuma
-\mm dògo:v:cacher
-\mm :mrph:INTENS
-\mm nin:mrph:DIM
-\mm kúma:n:parole
-\ps n
-\ge cachotterie
-\lt (cachette.petite.parole)
-\dt 26/Sep/2006
 
 \lx dògo.ka.tɛmɛ.na
 \mm dògo:v:cacher
@@ -23923,12 +23867,11 @@
 
 \lx dɔ́gɔ.dɔgɔ.nin
 \mm dɔ́gɔ:vq:petit
-\mm :mrph:INTENS
 \mm nin:mrph:DIM
 \ps adv.p
 \ge doucement
 \lt (un peu.un peu.petit)
-\dt 12/Aug/2006
+\dt 08/Nov/2012
 
 \lx dɔ́gɔ.dugu
 \mm dɔ́gɔ:n:marché
@@ -27344,16 +27287,6 @@
 \sm (jambes ...)
 \dt 26/Sep/2006
 
-\lx fàlen-fàlen
-\mm fàlen:v:échanger
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge échanger
-\sm l'un à la place de l'autre
-\lt (changer.changer)
-\dt 26/Sep/2006
-
 \lx fálen.fɛn
 \mm fálen:v:germer
 \mm fɛ́n:n:chose
@@ -28031,15 +27964,6 @@
 \xv háli ń'í yé  (kɔ̀gɔ)fáradi kɛ́  kà é ká sókɔnɔ fá, ń'í m'á kɛ́  ná ná, à tɛ́ tímiya
 \xe même si tu remplis ta case de barres de sel, si tu n'en mets pas dans lasauce, elle n'aura pas de goût (prov)
 \dt 16/Aug/2006
-
-\lx fára-fára
-\mm fára:v:diviser
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge déchiqueter
-\lt (déchirer-déchirer)
-\dt 26/Sep/2006
 
 \lx fàrafyenke
 \mm fàra:n:écorce.d'arbre
@@ -31057,19 +30981,6 @@
 \sm (feuilles, jambe cassée ...)
 \dt 26/Sep/2006
 
-\lx fìli-fìli
-\mm fìli:v:jeter
-\mm :mrph:INTENS
-\va flì-fli
-\mm flì:v:jeter
-\mm :mrph:INTENS
-\ph [fli-fli]
-\ps v
-\vl vt
-\ge lancer.de.main.à.main
-\lt (lancer.lancer)
-\dt 16/Aug/2006
-
 \lx fìli.baa.nci
 \mm fìli:n:erreur
 \mm baa:mrph:AG.OCC
@@ -31511,12 +31422,10 @@
 \dt 16/Aug/2006
 
 \lx fìn.fin
-\mm fìn:vq/adj:noir
-\mm :mrph:INTENS
 \ps n
 \ge charbon.de.bois
 \lt (noir.noir)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx fìn.man
 \mm fìn:vq/adj:noir
@@ -32972,19 +32881,9 @@
 \vl vi
 \ge craquer
 \gv s'ouvrir.en.craquant
-\dt 26/Sep/2006
-
-\lx fóron-fóron
-\mm fóron:v:craquer
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\ge éclater
-\gv avoir.des.gerçures
-\lt (craquer-craquer)
 \xv kàba sònyali ká gɛ̀lɛn, à bɛ́ fóron-fóron  tá kàn
 \xe difficile de voler des épis de maïs, ils éclatent au feu
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx fòronto
 \ps n
@@ -33354,21 +33253,9 @@
 \xe pour sûr il mourra, il est venu après d'autres, d'autres lui succèderont
 \sn 3
 \gv se.contredire
-\dt 26/Sep/2006
-
-\lx fɔ́-fɔ́
-\mm fɔ́:v:dire
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\sn 1
-\ge se.succéder
-\lt (succéder-succéder)
-\sn 2
-\gv se.contredire
 \xv ká kúma fɔ́-fɔ́ra  ɲɔ́gɔn kɔ́
 \xe ils se sont contredits
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx fɔ́gɔbɛ
 \ps v
@@ -33379,15 +33266,14 @@
 \gv enfoncer
 \dt 26/Sep/2006
 
-\lx fɔ́gɔbɛ-fɔ́gɔbɛ
-\mm fɔ́gɔbɛ:v:dégonfler
-\mm :mrph:INTENS
+\lx fɔ́gɔbɛfɔgɔbɛ
 \ps v
 \vl vr
 \ge se.faufiler
-\xv dénmisɛnnin b'ú fɔ́gɔbɛ-fɔ́gɔbɛ  jàma ná  k'ù sìgi  ɲɛ́ fɛ̀
+\xv dénmisɛnnin b'ú fɔ́gɔbɛfɔgɔbɛ  jàma ná  k'ù sìgi 
+ɲɛ́ fɛ̀
 \xe les petits enfants se faufilent dans la foule et s'installent au premier rang
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx fɔ́gɔlɔn
 \ps onomat
@@ -33437,14 +33323,13 @@
 \xe tu commences par te laver les mains
 \dt 16/Aug/2006
 
-\lx fɔ́lɔ-fɔ́lɔ
+\lx fɔ́lɔfɔlɔ
 \mm fɔ́lɔ:adj:premier
-\mm :mrph:INTENS
 \ps n
-\ge tout.premier
-\gv autrefois
+\ge autrefois
+\gv tout.premier
 \lt (premier-premier)
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx fɔ̀lɔkɔ
 \ps n
@@ -35808,15 +35693,14 @@
 \sm de grosses perles
 \dt 16/Aug/2006
 
-\lx gále-gále
+\lx gálegale
 \mm gále:n:premier
-\mm :mrph:INTENS
 \ps n
 \ge autrefois
 \gv naguère
-\sy fɔ́lɔ-fɔ́lɔ
+\sy fɔ́lɔfɔlɔ
 \lt (autrefois-autrefois)
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx gále.mɔgɔ
 \mm gále:n:premier
@@ -36834,20 +36718,6 @@
 \sy pélu
 \dt 26/Sep/2006
 
-\lx gélu-gélu
-\mm gélu:v:couper
-\mm :mrph:INTENS
-\va gwélu-gwélu
-\mm gwélu:v:couper
-\mm :mrph:INTENS
-\ph [gw-gw]
-\ps v
-\vl vt
-\ge couper
-\sm en petits morceaux
-\lt (couper-couper)
-\dt 16/Aug/2006
-
 \lx gén
 \va gwén
 \ph [gw]
@@ -36909,19 +36779,15 @@
 \xe (un tel ne changera plus !)
 \dt 26/Sep/2006
 
-\lx gén-gén
-\mm gén:v:lancer
-\mm :mrph:INTENS
-\va gwén-gwén
-\mm gwén:v:lancer
-\mm :mrph:INTENS
+\lx géngen
+\va gwéngwen
 \ph [gw]
 \ps v
 \vl vt
 \ge clouer
 \ee (il faut plusieurs coups ?)
 \lt (enfoncer-enfoncer)
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx géngeren
 \ps onomat
@@ -37480,28 +37346,22 @@
 \gv garder.les.troupeaux
 \dt 26/Sep/2006
 
-\lx gɛ́n-gɛ́n
-\mm gɛ́n:v:chasser
-\mm :mrph:INTENS
-\va gwɛ́n-gwɛ́n
-\mm gwɛ́n:v:chasser
-\mm :mrph:INTENS
+\lx gɛ́ngɛn
+\va gwɛ́ngwɛn
 \ph [gwɛn-gwɛn]
 \ps v
 \vl vt
-\ge conduire.un.troupeau
+\ge faire.paître
 \lt (mener-mener)
 \xv fúla bɛ́  kà mìsi gɛ́n-gɛ́n  kà nà
 \xe le peul est en train de ramener les vaches
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
-\lx gɛ́n.gɛn.baa
-\mm gɛ́n:v:chasser
-\mm :mrph:INTENS
+\lx gɛ́ngɛn.baa
+\mm gɛ́ngɛn:v:faire.paître
 \mm baa:mrph:AG.OCC
 \va gwɛ́n.gwɛn.baa
-\mm gwɛ́n:v:chasser
-\mm :mrph:INTENS
+\mm gwɛ́ngwɛn:v:faire.paître
 \mm baa:mrph:AG.OCC
 \ph [gw]
 \ps n
@@ -37509,7 +37369,7 @@
 \lt (faire paître.celui qui)
 \xv ntòrikulu gɛ́ngɛnbaa, í tɛ́ dùsu, ń'ó tɛ́, í nà tɛ̀mɛ  dɔ́ kàn
 \xe le pasteur d'un troupeau de crapauds ne doit pas s'énerver, sinon il va en oublier un (prov)
-\dt 12/Aug/2006
+\dt 08/Nov/2012
 
 \lx gɛ́n.ni.kɛ.la
 \mm gɛ́n:v:chasser
@@ -37618,6 +37478,30 @@
 \ge teindre.en.ocre
 \dt 16/Aug/2006
 
+\lx gɛ̀rɛngɛrɛn
+\va gwɛ̀rɛngwɛrɛn
+\ph [gwɛ̀rɛ̀ngwɛrɛn]
+\ps n
+\ge sécheresse
+\dt 08/Nov/2012
+
+\lx gɛ̀rɛn-gɛrɛn
+\mm gɛ̀rɛn:v:faire.évaporer
+\mm :mrph:INTENS
+\va gwɛ̀rɛn-gwɛrɛn
+\mm gwɛ̀rɛn:v:faire.évaporer
+\mm :mrph:INTENS
+\ph [gwɛ̀rɛ̀ngwɛrɛn]
+\ps v
+\sn 1
+\vl vt
+\ge sécher
+\gv rendre.plus.consistant
+\sn 2
+\vl vi
+\gv tarir
+\dt 08/Nov/2012
+
 \lx gɛ̀rɛngɛrɛnnin
 \mm nin:mrph:DIM
 \ps n
@@ -37673,34 +37557,6 @@
 \xv ɲɔ́gɔn ká gɛ̀rɛntɛ
 \xe la pression des semblables (de la société)
 \dt 11/Nov/2007
-
-\lx gɛ̀rɛn.gɛrɛn
-\mm gɛ̀rɛn:v:faire.évaporer
-\mm :mrph:INTENS
-\va gwɛ̀rɛn.gwɛrɛn
-\mm gwɛ̀rɛn:v:faire.évaporer
-\mm :mrph:INTENS
-\ph [gwɛ̀rɛ̀ngwɛrɛn]
-\ps n
-\ge tarissement
-\dt 16/Aug/2006
-
-\lx gɛ̀rɛn.gɛrɛn
-\mm gɛ̀rɛn:v:faire.évaporer
-\mm :mrph:INTENS
-\va gwɛ̀rɛn.gwɛrɛn
-\mm gwɛ̀rɛn:v:faire.évaporer
-\mm :mrph:INTENS
-\ph [gwɛ̀rɛ̀ngwɛrɛn]
-\ps v
-\sn 1
-\vl vt
-\ge sécher
-\gv rendre.plus.consistant
-\sn 2
-\vl vi
-\gv tarir
-\dt 16/Aug/2006
 
 \lx gɛ́sɛ
 \va gwɛ́sɛ
@@ -38653,17 +38509,6 @@
 \sm (couvrir une femelle)
 \dt 16/Aug/2006
 
-\lx gɔ̀si-gɔ̀si
-\mm gɔ̀si:v:battre
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge frapper
-\sm à plusieurs reprises
-\gv entrechoquer
-\lt (frapper-frapper)
-\dt 26/Sep/2006
-
 \lx gɔ̀si.lan
 \mm gɔ̀si:v:battre
 \mm lan:mrph:INSTR
@@ -39235,7 +39080,6 @@
 \lx hákili.la.falen.falen
 \mm hákili:n:esprit
 \mm la:mrph:LOC
-\mm fàlen-fàlen:v:échanger
 \mm fàlen:v:échanger
 \mm :mrph:INTENS
 \ps n
@@ -39243,11 +39087,11 @@
 \ge échange.de.vues
 \gv forum
 \sy hákililafalen
-\xv nín gáfe lábɛnna  hákililafalenfalen báara sèn fɛ̀
+\xv nín gáfe lábɛnna hákililafalenfalen báara sèn fɛ̀
 \xe ce livret a été composé au cours d'ateliers d'échanges de vues ... LD p.3
 \xv Ó. b'á ká làada tíimɛ ń'ó yé kà lájɛ kɛ́ hákililafalen ná...
 \xe l'Office du Niger selon sa coutume organise des réunions d'échanges de vues ... (kb 7/05 p.4)
-\dt 11/Nov/2007
+\dt 08/Nov/2012
 
 \lx hákili.la.tigɛ
 \mm hákili:n:esprit
@@ -42882,15 +42726,6 @@
 \va jìgiɲɔ
 \ps n
 \ge grenier
-\dt 16/Aug/2006
-
-\lx jìgin-jìgin
-\mm jìgin:v:descendre
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\ge descendre.un.par.un
-\lt (descendre-descendre)
 \dt 16/Aug/2006
 
 \lx jìgin.da
@@ -47260,15 +47095,14 @@
 \ps n
 \ge brindilles
 
-\lx kála-kála.len
-\mm kála-kála:v:rayer
-\mm kála:vq:bariolé
-\mm :mrph:INTENS
+\lx kálakala.len
+\mm kálakala:v:rayer
 \mm len:mrph:PTCP.RES
 \lt (Syno. bariolé)
 \ps n
 \ge poisson.Synodontis.ocellifer
 \ee ---> 40 cm (taches ocellées sur le corps et l'adipeuse)
+\dt 08/Nov/2012
 
 \lx kálaka.kun.kɔrɔ.sigi
 \mm kálaka:n:lit
@@ -47351,18 +47185,14 @@
 \gv irréfléchi
 \dt 16/Aug/2006
 
-\lx kálan-kálan
-\mm kálan:vq:bariolé
-\mm :mrph:INTENS
-\va kála-kála
-\mm kála:vq:bariolé
-\mm :mrph:INTENS
+\lx kálankalan
+\va kálakala
 \ps v
 \vl vt
 \ge rayer
 \ee barioler de zones sombres et claires
 \lt (zébrer-zébrer)
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx kálanson
 \va káanso
@@ -47904,7 +47734,8 @@
 \ps onomat
 \ge fort.de.goût
 \sm (amer)
-\dt 26/Sep/2006
+\sy káti
+\dt 08/Nov/2012
 
 \lx kàlifa
 \va kàlfa
@@ -47929,14 +47760,13 @@
 \xe il lui a confié une vache
 \dt 16/Aug/2006
 
-\lx káli-káli
-\mm káli:onomat:fort.de.goût
-\mm :mrph:INTENS
-\ps onomat
-\ge très.fort
-\sy káti
-\rem du 87, jos (-bk)
-\dt 11/Nov/2007
+\lx kàlikali
+\ps v
+\ge s'énerver
+\lt (s'énerver.sujet)
+\gv être irascible
+\gv ne pas rester en place
+\dt 08/Nov/2012
 
 \lx kàli-kà-syɛ́n
 \mm kàli:v:jurer
@@ -48002,17 +47832,6 @@
 \gv tumeur
 \gv kyste.de.l'ovaire
 \lt (douleur.boule)
-\dt 26/Sep/2006
-
-\lx káli.kali.baa.tɔ
-\mm káli-káli:onomat:très.fort
-\mm káli:onomat:fort.de.goût
-\mm :mrph:INTENS
-\mm baa:mrph:AG.OCC
-\mm tɔ:mrph:ST
-\ps adj
-\ge énervé
-\lt (s'énerver.sujet)
 \dt 26/Sep/2006
 
 \lx kàli.kan
@@ -50093,17 +49912,15 @@
 
 \lx káran.karan.nci
 \mm káran:v:veiller
-\mm :mrph:INTENS
 \mm nci:mrph:AG.EX
 \ps n
 \ge audacieux
 \gv téméraire
 \lt (risque.à l'excès)
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx káran.karan.tɔ
 \mm káran:v:veiller
-\mm :mrph:INTENS
 \mm tɔ:mrph:ST
 \ps adj/n
 \lt risquer-sujet
@@ -50112,7 +49929,7 @@
 \sy kárankarannci
 \xv fà tɛ́ kárankarantɔ lá, ká à t'í yɛ̀rɛ kɔ̀lɔsi
 \rem f
-\dt 11/Nov/2007
+\dt 08/Nov/2012
 
 \lx kàrata
 \ps n
@@ -52207,19 +52024,15 @@
 \gv danser.en.se.balançant
 \dt 16/Aug/2006
 
-\lx kɛ̀rɛn.kɛrɛn
-\mm kɛ́rɛn:n:côté
-\mm :mrph:INTENS 
+\lx kɛ̀rɛnkɛrɛn
 \ps n
 \ge abords
 \gv proximité
 \xv kɛ̀rɛnkɛrɛn fɛ̀
 \xe sur le bord, à proximité
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
-\lx kɛ́rɛn.kɛrɛn
-\mm kɛ́rɛn:n:côté
-\mm :mrph:INTENS
+\lx kɛ́rɛnkɛrɛn
 \ps v
 \sn 1
 \vl vt
@@ -52230,12 +52043,10 @@
 \vl v ?
 \gv se.garder
 \ee (de toute mauvaise action)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
-\lx kɛ́rɛn.kɛrɛn.nen.ya
-\mm kɛ́rɛn.kɛrɛn:v:mettre.de.côté
-\mm kɛ́rɛn:n:côté
-\mm :mrph:INTENS 
+\lx kɛ́rɛnkɛrɛn.nen.ya
+\mm kɛ́rɛnkɛrɛn:v:mettre.de.côté
 \mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \lt (mis à part.suf abs)
@@ -52246,7 +52057,7 @@
 \xe en particulier ..., spécialement ...
 \sn 2
 \gv honnêteté
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx kɛ́rɛtɛkɛrɛtɛ
 \ps v
@@ -53202,15 +53013,6 @@
 \xv à ká kìsɛ  í yé
 \xe il est plus actif que toi
 \dt 26/Sep/2006
-
-\lx kìsɛ-kìsɛ
-\mm kìsɛ:v:grener
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge couvrir.de.petits.boutons
-\lt (bouton-bouton)
-\dt 16/Aug/2006
 
 \lx kìsɛ.kelen.fili
 \mm kìsɛ:n:grain
@@ -60224,16 +60026,14 @@
 \sy mùnɛ
 \dt 16/Aug/2006
 
-\lx kúlu-kúlu
-\mm kúlu:v:grouper
-\mm :mrph:INTENS
+\lx kúlukulu
 \ue (bk)
 \bw ar:
 \ps v
 \vl vi
 \ge s'engouffrer
 \lt (grouper-grouper)
-\dt 12/Aug/2006
+\dt 08/Nov/2012
 
 \lx kúlukùtú
 \ps n
@@ -60419,7 +60219,9 @@
 \ge bégayer
 \sn 2
 \gv délirer
-\dt 26/Sep/2006
+\sn 3
+\gv parler sans arrêt
+\dt 08/Nov/2012
 
 \lx kúma.bara
 \mm kúma:v:parler
@@ -60858,17 +60660,6 @@
 \gv avare
 \xv kàrisa ká kúna
 \xe un tel est avare
-\dt 16/Aug/2006
-
-\lx kúna-kúna
-\mm kúna:vq:amer
-\mm :mrph:INTENS
-\va kúnan-kúnan
-\mm kúnan:vq:amer
-\mm :mrph:INTENS
-\ps adj
-\ge très.amer
-\lt (amer-amer)
 \dt 16/Aug/2006
 
 \lx kúnakunabilen
@@ -63428,13 +63219,6 @@
 \sm servant d'urinoir
 \dt 26/Sep/2006
 
-\lx kúra-kúra
-\mm kúra:adj:nouveau
-\mm :mrph:INTENS
-\ps adj
-\ge tout.neuf
-\dt 16/Aug/2006
-
 \lx kúra-kúra.ya
 \mm kúra-kúra:adj:tout.neuf
 \mm kúra:adj:nouveau
@@ -63442,9 +63226,9 @@
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
-\ge renouveler.complètement
+\ge renouveler
 \lt (nouveau-nouveau.suf caus)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx kùran
 \es {fr : courant}
@@ -63602,6 +63386,19 @@
 \xe un an entier, toute l'année
 \dt 26/Sep/2006
 
+\lx kùrukuru
+\ps v
+\ge bouder
+\gv se.renfrogner
+\dt 08/Nov/2012
+
+\lx kùrukuru
+\ps n
+\ge grumeau
+\gv pustule
+\gv petit bouton
+\dt 08/Nov/2012
+
 \lx kùru-kùru
 \mm kùru:v:plier
 \mm :mrph:INTENS
@@ -63617,16 +63414,22 @@
 \sn 3
 \vl vt
 \gv faire.des.noeuds
-\sn 4
-\vl vi
-\gv bouder
-\gv se.renfrogner
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx kúrukuru
 \ps v
 \vl vi
 \ge trembler
+
+\lx kùrukuru.nin
+\mm kùrukuru:n:grumeau
+\mm nin:mrph:DIM
+\ps n
+\ge plante.Indigofera.macrocalyx
+\sd papi
+\lt (boulette ? petite)
+\ee à tiges plutôt étalées, fleurs en glomérule rouge brique)
+\dt 08/Nov/2012
 
 \lx kùrun
 \ps vq/adj
@@ -63829,17 +63632,6 @@
 \gv arthrite
 \lt (articulation.douleur)
 \dt 26/Sep/2006
-
-\lx kùru.kuru.nin
-\mm kùru:n:boule
-\mm :mrph:INTENS
-\mm nin:mrph:DIM
-\ps n
-\ge plante.Indigofera.macrocalyx
-\sd papi
-\lt (boulette ? petite)
-\ee à tiges plutôt étalées, fleurs en glomérule rouge brique)
-\dt 19/Aug/2006
 
 \lx kùru.ma
 \mm kùru:n:boule
@@ -66381,18 +66173,6 @@
 \xe ils se cotisent
 \dt 26/Sep/2006
 
-\lx lá.jɛ-lá.jɛ
-\mm lá.jɛ:v:regarder
-\mm :mrph:INTENS
-\mm lá:mrph:CAUS
-\mm jɛ́:v:blanchir
-\ps v
-\vl vt
-\ge examiner
-\ee soigneusement
-\lt (regarder-regarder)
-\dt 16/Aug/2006
-
 \lx lá.jɛ̀ngɛ́n
 \mm lá:mrph:CAUS
 \mm jɛ̀ngɛn:v:incliner
@@ -66953,23 +66733,6 @@
 \ee (maladie, plaie ...)
 \dt 26/Sep/2006
 
-\lx lá.màa-lá.màa
-\mm lá.màa:v:remuer
-\mm :mrph:INTENS
-\mm lá:mrph:CAUS
-\mm màa:v:toucher
-\va lá.màga-lá.màga
-\mm lá.màga:v:remuer
-\mm :mrph:INTENS
-\mm lá:mrph:CAUS
-\mm màga:v:toucher
-\ps v
-\vl vt
-\ge ballotter
-\gv bien.remuer
-\lt (remuer-remuer)
-\dt 26/Sep/2006
-
 \lx lá.màga.ya
 \mm lá:mrph:CAUS
 \mm màga.ya:v:rendre.mou
@@ -67191,16 +66954,15 @@
 \lt (préf.entourer)
 \dt 26/Sep/2006
 
-\lx lá.mini-míni
+\lx lá.minimini
 \mm lá:mrph:CAUS
-\mm míni:v:enrouler
-\mm :mrph:INTENS
+\mm mínimini:v:tourner
 \ps v
 \vl vt
 \ge entourer
 \gv faire.plusieurs.fois.le tour
 \lt (préf.tourner-tourner)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx lá.mɔ̀
 \mm lá:mrph:CAUS
@@ -67877,7 +67639,7 @@
 \vl vt
 \ge faire.marcher
 \lt (préf.marcher-marcher)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx lá.tànga
 \mm lá:mrph:CAUS
@@ -70184,17 +69946,13 @@
 \ee au goût
 \dt 16/Aug/2006
 
-\lx mána-mána
-\mm mána:v:allumer
-\mm :mrph:INTENS
-\va mɛ́nɛ-mɛ́nɛ
-\mm mɛ́nɛ:v:allumer
-\mm :mrph:INTENS
+\lx mánamana
+\va mɛ́nɛmɛnɛ
 \ps v
 \vl vi
 \ge scintiller
 \lt (briller-briller)
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx mànamana.ko
 \mm mànamana:n:banal
@@ -71930,16 +71688,14 @@
 \lt (maître.masculin)
 \dt 26/Sep/2006
 
-\lx mà.kɛrɛn.kɛrɛn
+\lx mà.kɛ́rɛnkɛrɛn
 \mm mà:mrph:SUPER
-\mm kɛ́rɛn.kɛrɛn:v:mettre.de.côté
-\mm kɛ́rɛn:n:côté
-\mm :mrph:INTENS 
+\mm kɛ́rɛnkɛrɛn:v:mettre.de.côté
 \ps v
 \vl vt
 \ge faire.attention
 \ee à ... (ne pas gaspiller) ; (choisir particulièrement)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx mà.kili
 \mm mà:mrph:SUPER
@@ -72553,17 +72309,6 @@
 \xe prends directement cette route, ne fais pas de détour par un autre chemin
 \dt 26/Sep/2006
 
-\lx méleke-méleke
-\mm méleke:v:enrouler
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\ge faire.des.zigzags
-\lt (détour-détour)
-\xv síra bɛ́ méleke-méleke
-\xe la route fait des zigzags
-\dt 16/Aug/2006
-
 \lx mère
 \ps n
 \ge vache
@@ -72594,16 +72339,6 @@
 \vl vt
 \ge couper
 \ee (des petits morceaux)
-\dt 16/Aug/2006
-
-\lx méseku-méseku
-\mm méseku:v:couper
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge couper
-\ee (en tout petits morceaux)
-\lt (couper-couper)
 \dt 16/Aug/2006
 
 \lx mɛ́
@@ -73196,16 +72931,22 @@
 \gv faire.des.tours
 \dt 26/Sep/2006
 
-\lx míni-míni
-\mm míni:v:enrouler
-\mm :mrph:INTENS
+\lx mínimini
 \ps v
 \vl vt
 \ge tourner
 \gv faire.des.détours
 \lt (tourner-tourner)
 \sy múnumunu
-\dt 26/Sep/2006
+\dt 08/Nov/2012
+
+\lx mínimini.sàalo
+\mm mínimini:v:tourner
+\mm sàalo:v:masser
+\ps n
+\ge tour.sur.soi-même
+\lt (tourner. ?)
+\dt 08/Nov/2012
 
 \lx mínisiri
 \ps n
@@ -73221,16 +72962,6 @@
 \ge premier.ministre
 \nt kb 3/05 p.11
 \dt 11/Nov/2007
-
-\lx míni.mini.sàalo
-\mm míni-míni:v:tourner
-\mm míni:v:enrouler
-\mm :mrph:INTENS
-\mm sàalo:v:masser
-\ps n
-\ge tour.sur.soi-même
-\lt (tourner. ?)
-\dt 16/Aug/2006
 
 \lx míni.ɲa
 \mm míni:v:enrouler
@@ -74635,14 +74366,6 @@
 \gv miettes
 \dt 26/Sep/2006
 
-\lx mɔ́ɲɔ-mɔ́ɲɔ
-\mm mɔ́ɲɔ:v:écraser
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge écraser
-\ee en petits morceaux
-
 \lx mɔ̀ɲɔ.tugu
 \mm mɔ̀ɲɔ:n:torche
 \mm tùgu:v:rabouter
@@ -75054,15 +74777,6 @@
 \xv à bɛ́ múgumugu ń'á yɛ̀rɛ yé
 \xe il sourit spontanément
 
-\lx múgu-múgu
-\mm múgu:v:réduire.en.poudre
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge réduire.en.poudre
-\lt (poudre.poudre)
-\dt 26/Sep/2006
-
 \lx múguɲɛmuguɲɛ
 \va múuɲɛmuuɲɛ
 \ps onomat
@@ -75111,16 +74825,14 @@
 \lt ('mugu'.sombre)
 \dt 16/Aug/2006
 
-\lx mùgu.kála.kála.len
+\lx mùgu.kálakala.len
 \mm mùgu:n:poisson.Synodontis.filamentosus
-\mm kála-kála:v:rayer
-\mm kála:vq:bariolé
-\mm :mrph:INTENS
+\mm kálakala:v:rayer
 \mm len:mrph:PTCP.RES
 \ps n
 \ge poisson.Synodontis.gobroni
 \lt (mugu.bariolé)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx múgu.kɛ.lan
 \mm múgu:n:poudre
@@ -78221,19 +77933,6 @@
 \ee (vx) (on en tirait de la poudre de fusil)
 \dt 26/Sep/2006
 
-\lx nɛ́ɛnɛ-nɛ́ɛnɛ
-\mm nɛ́ɛnɛ:v:goûter
-\mm :mrph:INTENS
-\va nɛ́nɛ-nɛ́nɛ
-\mm nɛ́nɛ:v:goûter
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge savourer
-\ee peu à peu
-\lt (goûter-goûter)
-\dt 16/Aug/2006
-
 \lx nɛ̀furufuru
 \ps n
 \lt langue-ulcérations
@@ -78282,9 +77981,7 @@
 \xe il l'avale sans en apprécier le goût
 \dt 16/Aug/2006
 
-\lx nɛ́gɛn-nɛ́gɛn
-\mm nɛ́gɛn:v:leurrer
-\mm :mrph:INTENS
+\lx nɛ́gɛnnɛgɛn
 \ps v
 \vl vt
 \sn 1
@@ -78293,7 +77990,7 @@
 \gv consoler
 \ee (en faisant miroiter qc)
 \lt (berner.berner)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx nɛ́gɛn.ni
 \mm nɛ́gɛn:v:leurrer
@@ -78914,22 +78611,6 @@
 \ps n
 \ge colostrum
 \ee (premier lait des femelles qui viennent de mettre bas; premier lait d'une femme qui vient d'accoucher)
-
-\lx ngàani-ngàani
-\mm ngàani:v:gratter
-\mm :mrph:INTENS
-\va nkàani-nkàani
-\mm nkàani:v:gratter
-\mm :mrph:INTENS
-\va nkàani-nkáani
-\mm nkàani:v:gratter
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge gribouiller
-\gv faire.des.graffiti
-\lt (gribouiller-gribouiller)
-\dt 26/Sep/2006
 
 \lx ngàara
 \va ngàra
@@ -80255,22 +79936,13 @@
 \lx njànaki
 \va njòroki
 \ps v
-\vl vi
-\ge bouger.sans.cesse
-\dt 16/Aug/2006
-
-\lx njànaki-njànaki
-\mm njànaki:v:bouger.sans.cesse
-\mm :mrph:INTENS
-\ps v
-\vl vi
 \sn 1
 \ge bouger.sans.cesse
 \lt (bouger-bouger)
 \sn 2
 \gv parler.sans.cesse
 \ee à tort et à travers
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx njáɲi
 \va njáyin
@@ -80992,14 +80664,13 @@
 
 \lx nkɛ̀lɛn.nkɛlɛn
 \mm nkɛ̀lɛn:n:testicules
-\mm :mrph:INTENS
 \va nkɛ̀lɛnkɛ̀lɛn
 \va kɛ̀lɛnkɛ̀lɛn
 \ps n
 \ge adénopathie
 \gv adénite
 \ee (inflammation des ganglions de l'aine)
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx nkɛ̀lɛn.so
 \mm nkɛ̀lɛn:n:testicules
@@ -83383,15 +83054,14 @@
 \dt 16/Aug/2006
 
 \lx nsàn.nin.kelen.kelen
-\mm nsàn:n:Nsan
+\mm nsàn:n.prop:NOM.M
 \mm nin:mrph:DIM
 \mm kélen:num:un
-\mm :mrph:INTENS
 \ps n
 \ge épi.de.maïs
 \ee (aux grains très rares)
 \lt (petit 'Nsan'.un.un)
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx nsàn.si.ma
 \mm nsàn:n:Nsan
@@ -87522,21 +87192,6 @@
 \ge progrès
 \lt (devant.par.aller)
 
-\lx ɲɛ́.fíli-fìli
-\mm ɲɛ́:n:oeil
-\mm fìli:v:jeter
-\mm :mrph:INTENS
-\va ɲɛ́.flí-flì
-\mm ɲɛ́:n:oeil
-\mm flì:v:jeter
-\mm :mrph:INTENS
-\ph [flifli]
-\ps v
-\vl vr
-\ge jeter.regards.par.ci.par.là
-\lt (regard.jeter-jeter)
-\dt 16/Aug/2006
-
 \lx ɲɛ́.fin
 \mm ɲɛ́:n:oeil
 \mm fìn:n:noirceur
@@ -89513,27 +89168,6 @@
 \sy kùntilenna
 \dt 12/Aug/2006
 
-\lx ɲɛ́.tugu
-\mm ɲɛ́:n:oeil
-\mm túgu:v:fermer
-\ps v
-\vl vt
-\ge fermer.les.yeux
-\lt (oeil.fermer)
-\dt 16/Aug/2006
-
-\lx ɲɛ́.tugu-túgu
-\mm ɲɛ́:n:oeil
-\mm túgu:v:fermer
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge ciller
-\lt (oeil fermer-fermer)
-\xv à b'á ɲɛ́tugu-túgu  tìle ɲɛ́
-\xe il cille des yeux face au soleil
-\dt 16/Aug/2006
-
 \lx ɲɛ́.túnu
 \mm ɲɛ́:n:oeil
 \mm túnu:v:perdre
@@ -90758,19 +90392,6 @@
 \xe les abeilles se suspendent à un arbre en gros essaim
 \dt 26/Sep/2006
 
-\lx ɲùgu-ɲùgu
-\mm ɲùgu:v:froisser
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\sn 1
-\ge être.nombreux
-\lt (être serré-serré)
-\sn 2
-\gv être.serrés
-\sm les uns contre les autres
-\dt 16/Aug/2006
-
 \lx ɲùguɲúgu
 \ps n
 \ge les.Pléiades
@@ -90823,6 +90444,19 @@
 \sy nɔ́gɔlanjuru
 \sy nnɔ́gɔlansa
 \dt 19/Aug/2006
+
+\lx ɲùgu.ɲùgu
+\mm ɲùgu:n:groupe
+\mm :mrph:INTENS
+\ps v
+\vl vi
+\sn 1
+\ge être.nombreux
+\lt (être serré-serré)
+\sn 2
+\gv être.serrés
+\sm les uns contre les autres
+\dt 08/Nov/2012
 
 \lx ɲùman
 \ee *ɲì = bon, beau
@@ -91438,15 +91072,14 @@
 \ge bile
 \sy fyé
 
-\lx ŋùna.fin.fin
+\lx ŋùna.finfin
 \mm ŋùna:n:feu.de.brousse
-\mm fìn.fin:n:charbon
-\mm fìn:n:noirceur
-\mm :mrph:INTENS
+\mm fìnfin:n:charbon
 \ue (bn)
 \ps n
 \ge cendres
 \sm (des herbes brûlées par un feu de brousse)
+\dt 08/Nov/2012
 
 \lx ŋúnu
 \ps n
@@ -92222,23 +91855,14 @@
 \ge appuyer
 \xv dígi nìn bùtɔn pín
 \xe appuie sur ce bouton
+\xv nà ń sèn pín-pín, ń kà yɛ̀lɛn  mángoro lá !
+\xe viens me tenir les pieds que je monte au manguier !
 \vl vr
 \gv s'appuyer
 \sm sur ... (kàn)
 \xv í pín nìn bùtɔn kàn
 \xe appuie sur ce bouton
-\dt 16/Aug/2006
-
-\lx pín-pín
-\mm pín:v:appuyer
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge appuyer
-\sy tíntin
-\xv nà ń sèn pín-pín, ń kà yɛ̀lɛn  mángoro lá !
-\xe viens me tenir les pieds que je monte au manguier !
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx píntin
 \ps n
@@ -92421,9 +92045,7 @@
 \xe il s'est précipité sur son aîné
 \dt 26/Sep/2006
 
-\lx pòron.poron
-\mm pòron:v:étreindre
-\mm :mrph:INTENS
+\lx pòronporon
 \ps v
 \vl vt
 \ge faufiler
@@ -92431,7 +92053,7 @@
 \gv mal.coudre
 \lt (faufiler-faufiler)
 \sy sáran
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx póroo
 \ps onomat
@@ -92571,20 +92193,6 @@
 \xe l'entassement des excréments (dans l'intestin) empoisonne le sang (donniya 5/6 p.23)
 \nt du mot français 'poison'
 \dt 11/Nov/2007
-
-\lx pɔ̀sɔn-pɔ̀sɔn
-\mm pɔ̀sɔn:v:flétrir
-\mm :mrph:INTENS
-\va fɔ̀sɔn-fɔ̀sɔn
-\mm fɔ̀sɔn:v:flétrir
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge flétrir
-\vl vi
-\gv se.faner
-\lt (faner-faner)
-\dt 26/Sep/2006
 
 \lx pɔ̀tɔpɔtɔ
 \ps n
@@ -93587,16 +93195,6 @@
 \sm (une sauce ...)
 \dt 26/Sep/2006
 
-\lx sàgon-sàgon
-\mm sàgon:v:sauter.par.dessus
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\ge sautiller
-\ee (crapaud, oiseau)
-\lt (sauter.sauter)
-\dt 26/Sep/2006
-
 \lx sàgon.ni
 \mm sàgon:v:sauter.par.dessus
 \mm ni:mrph:NMLZ
@@ -93957,14 +93555,6 @@
 \lx sámanɛ̀nɛ́
 \ps n
 \ge pancréas
-
-\lx sàma-sàma
-\mm sàma:v:tirer.à.soi
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge tirailler
-\lt (tirer-tirer)
 
 \lx sàma.bali
 \mm sàma:n:éléphant
@@ -97286,6 +96876,16 @@
 \sm de céréales concassées
 \dt 16/Aug/2006
 
+\lx séri
+\va sɛ́ri
+\ue (f)
+\ps v
+\vl vt
+\ge éparpiller
+\gv asperger
+\gv semer à la volée
+\dt 08/Nov/2012
+
 \lx sériba
 \ps n
 \ge genette
@@ -97348,24 +96948,6 @@
 \ps n
 \ge eczéma.sp
 \dt 16/Aug/2006
-
-\lx séri-séri
-\mm séri:v:éparpiller
-\mm :mrph:INTENS
-\va sɛ́ri-sɛ́ri
-\mm sɛ́ri:v:éparpiller
-\mm :mrph:INTENS
-\ue (f)
-\lt (lancer-lancer)
-\ps v
-\vl vt
-\sn 1
-\ge asperger
-\gv éparpiller
-\sn 2
-\gv bouger des pieds
-\gv bouger des mains
-\dt 26/Sep/2006
 
 \lx séri.li.kɛ.la
 \mm séri:v:éparpiller
@@ -98391,16 +97973,6 @@
 \lt (troupe.suf abs)
 \dt 16/Aug/2006
 
-\lx sɛ́ri
-\ue (f)
-\va séri
-\ps v
-\vl vt
-\ge éparpiller
-\gv asperger
-\gv semer à la volée
-\dt 26/Sep/2006
-
 \lx sɛ́tanburu
 \va sɛ́tanbru
 \ph [br]
@@ -98574,30 +98146,13 @@
 \xe je ne crois pas beaucoup à ses paroles
 \dt 26/Sep/2006
 
-\lx síga-síga
+\lx sígasiga
 \mm síga:n:doute
-\mm :mrph:INTENS
-\va sígi-sígi
+\va sígisigi
 \mm sígi:n:doute
-\mm :mrph:INTENS
 \ps n
 \ge hésitation
-\dt 16/Aug/2006
-
-\lx síga-síga
-\mm síga:v:douter
-\mm :mrph:INTENS
-\va sígi-sígi
-\mm sígi:v:douter
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\ge hésiter
-\gv tergiverser
-\lt (douter-douter)
-\xv à bɛ́ sígi-sígi  síra lá
-\xe il hésite sur la route à prendre
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx síga.ń.ná
 \mm síga:n:doute
@@ -98618,6 +98173,19 @@
 \lt (doute.moi.en)
 \xv síginna t'á lá, sán bɛ́ nà bì
 \xe il n'y a pas de doute, il va pleuvoir aujourd'hui
+
+\lx síga.siga
+\mm síga:v:douter
+\va sígi.sigi
+\mm sígi:v:douter
+\ps v
+\vl vi
+\ge hésiter
+\gv tergiverser
+\lt (douter-douter)
+\xv à bɛ́ sígi-sígi  síra lá
+\xe il hésite sur la route à prendre
+\dt 08/Nov/2012
 
 \lx sìgi
 \ps n
@@ -102890,13 +102458,12 @@
 \sy súruku ré
 \dt 26/Sep/2006
 
-\lx súguba-súguba
-\mm súguba:v:exciter
-\mm :mrph:INTENS
+\lx súgubasuguba
 \ps v
 \vl vt
 \ge bâcler
 \lt (agiter-agiter)
+\dt 08/Nov/2012
 
 \lx súgunɛ
 \va súuna
@@ -105366,16 +104933,6 @@
 \xe il lui a indiqué la route
 \dt 26/Sep/2006
 
-\lx táama-táama
-\mm táama:v:marcher
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\ge aller.et.venir
-\gv se promener
-\lt (marcher-marcher)
-\dt 26/Sep/2006
-
 \lx táama.baa
 \mm táama:v:marcher
 \mm baa:mrph:AG.OCC
@@ -106236,12 +105793,9 @@
 \fq r
 \va táwu
 \ue (bk)
-
-\lx táyi-táyi
-\mm táyi:onomat:complètement
-\mm :mrph:INTENS
 \ps onomat
 \ge complètement
+\dt 08/Nov/2012
 
 \lx tá.bɛlɛ
 \mm tá:n:feu
@@ -112176,16 +111730,6 @@
 \ge mettre.en.désordre
 \dt 26/Sep/2006
 
-\lx wáaro-wáaro
-\mm wáaro:v:mettre.en.désordre
-\mm :mrph:INTENS
-\ps v
-\vl vt
-\ge désorganiser
-\sm (saboter un chant ...)
-\lt (mal faire-mal faire)
-\dt 16/Aug/2006
-
 \lx wáati
 \va wágati
 \bw ar: waqt = id.
@@ -112806,9 +112350,7 @@
 \gv collier fétichiste
 \dt 16/Aug/2006
 
-\lx wára-wára
-\mm wára:v:remplir.abondamment
-\mm :mrph:INTENS
+\lx wárawara
 \ps v
 \vl vt
 \ge goutter.abondamment
@@ -112817,7 +112359,7 @@
 \lt (verser-verser)
 \xv bà bɛ́ à bò wára-wára
 \xe la chèvre fait tomber ses (petites) crottes comme des gouttes de pluie
-\dt 16/Aug/2006
+\dt 08/Nov/2012
 
 \lx wárawarawara
 \ps onomat
@@ -113375,6 +112917,43 @@
 \sm (eau)
 \dt 16/Aug/2006
 
+\lx wélewele
+\ps n
+\ge annonce.publique
+\gv appel du crieur public
+\gv convocation
+\dt 08/Nov/2012
+
+\lx wélewele.da
+\mm wélewele:n:annonce.publique
+\mm dá:v:poser
+\ps v
+\vl vt
+\ge annoncer.publiquement
+\sm une nouvelle
+\lt (annonce publique.poser)
+\dt 08/Nov/2012
+
+\lx wélewele.da.la
+\mm wélewele.da:v:annoncer.publiquement
+\mm wélewele:n:annonce.publique
+\mm dá:v:poser
+\mm la:mrph:AG.PRM
+\ps n
+\ge crieur.public
+\lt (convocation.poser.celui qui)
+\dt 08/Nov/2012
+
+\lx wélewele.ma.da
+\mm wélewele:n:annonce.publique
+\mm mà:mrph:SUPER
+\mm dá:v:poser
+\ps v
+\vl vt
+\ge annoncer.publiquement
+\sm une nouvelle
+\dt 08/Nov/2012
+
 \lx wéle.da
 \mm wéle:n:appel
 \mm dá:v:poser
@@ -113412,50 +112991,6 @@
 \sm (aux pieds des bébés)
 \lt (clochette.petite)
 \dt 16/Aug/2006
-
-\lx wéle.wele
-\mm wéle:n:appel
-\mm :mrph:INTENS
-\ps n
-\ge annonce.publique
-\gv appel du crieur public
-\gv convocation
-\dt 26/Sep/2006
-
-\lx wéle.wele.da
-\mm wéle.wele:n:annonce.publique
-\mm wéle:n:appel
-\mm :mrph:INTENS
-\mm dá:v:poser
-\ps v
-\vl vt
-\ge annoncer.publiquement
-\sm une nouvelle
-\lt (annonce publique.poser)
-\dt 16/Aug/2006
-
-\lx wéle.wele.da.la
-\mm wéle.wele.da:v:annoncer.publiquement
-\mm wéle.wele:n:annonce.publique
-\mm wéle:n:appel
-\mm :mrph:INTENS
-\mm dá:v:poser
-\mm la:mrph:AG.PRM
-\ps n
-\ge crieur.public
-\lt (convocation.poser.celui qui)
-\dt 16/Aug/2006
-
-\lx wéle.wele.ma.da
-\mm wéle.wele:n:annonce.publique
-\mm wéle:n:appel
-\mm :mrph:INTENS
-\mm mà:mrph:SUPER
-\mm dá:v:poser
-\ps v
-\vl vt
-\ge annoncer.publiquement
-\sm une nouvelle
 
 \lx wènce
 \ue (-bk)
@@ -114906,20 +114441,6 @@
 \sy kìrikirimasyɛn
 \dt 16/Aug/2006
 
-\lx wúli-wúli
-\mm wúli:v:se.lever
-\mm :mrph:INTENS
-\va wíli-wíli
-\mm wíli:v:se.lever
-\mm :mrph:INTENS
-\ue (f)
-\ps v
-\vl vi
-\ge se.hérisser
-\gv onduler
-\lt (lever-lever)
-\dt 26/Sep/2006
-
 \lx wúli.bali
 \mm wúli:v:se.lever
 \mm bali:mrph:PTCP.PRIV
@@ -116061,18 +115582,11 @@
 \dt 16/Aug/2006
 
 \lx yére
+\va yéreyere
 \ps onomat
 \ge bien.rouge
 \gv bien mûr
-\dt 26/Sep/2006
-
-\lx yére.yere
-\mm yére:onomat:bien.rouge
-\mm :mrph:INTENS
-\ps onomat
-\ge bien.rouge
-\gv bien mûr
-\lt (rouge.rouge)
+\dt 08/Nov/2012
 
 \lx yéri
 \ps v
@@ -116261,15 +115775,6 @@
 \sm (une manche ...)
 \dt 26/Sep/2006
 
-\lx yɛ̀lɛn-yɛ̀lɛn
-\mm yɛ̀lɛn:v:monter
-\mm :mrph:INTENS
-\ps v
-\vl vi
-\ge monter.rapidement
-\lt (monter-monter)
-\dt 16/Aug/2006
-
 \lx yɛ̀lɛn.bagan
 \mm yɛ̀lɛn:v:monter
 \mm bágan:n:bête
@@ -116301,14 +115806,13 @@
 
 \lx yɛ̀lɛn.yɛlɛn.nan
 \mm yɛ̀lɛn:v:monter
-\mm :mrph:INTENS
 \mm nan:mrph:INSTR
 \ps n
 \ge échelle
 \lt (monter.monter.ce qui sert à)
 \xv ní  yɛ̀lɛnyɛlɛnnan tùn bɛ́  Ála lá, né tùn ná yɛ̀lɛn  kà bárika dá
 \xe s'il y avait un escalier pour monter vers Dieu, j'y monterais pour le remercier (chant de maman)
-\dt 26/Sep/2006
+\dt 08/Nov/2012
 
 \lx yɛ́lɛ.bɔ.fɛn
 \mm yɛ́lɛ:n:rire
