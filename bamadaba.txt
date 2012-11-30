@@ -1538,7 +1538,7 @@
 
 \lx bágan.mara
 \mm bágan:n:bête
-\mm màra:n:élevage
+\mm màra:n:garde
 \ps n
 \ge élevage
 \lt (bétail.garder)
@@ -16884,7 +16884,7 @@
 \mm tìgɛ:v:couper
 \ps v
 \vl vr
-\ge dire.le.motif.de.la.venue
+\ge s'expliquer
 \sy dàntígɛ
 \lt (limite.couper)
 \dt 16/Aug/2006
@@ -17031,7 +17031,7 @@
 \mm dàn:n:limite
 \mm tìgɛ:v:couper
 \ps n
-\ge indication.du.motif.de.la.venue
+\ge explication
 \lt (limite.couper)
 \xv dàntigɛ bɔ́
 \xv dàntigɛ kɛ́
@@ -17055,7 +17055,7 @@
 \ps n
 \lt préciser-action
 \sn 1
-\ge indication.du.motif.de.la.venue
+\ge s'expliquer.NMLZ
 \sn 2
 \gv introduction
 \ee (d'une narration, d'une rédaction ...)
@@ -18476,11 +18476,9 @@
 \ee vive, récente, non infectée
 \dt 26/Sep/2006
 
-\lx dá.kɛn.yɛ
+\lx dá.kɛnyɛ
 \mm dá:n:bouche
-\mm kɛ́n.yɛ:v:égaliser
-\mm kɛ́n:vq:égal
-\mm yɛ:mrph:DEQU
+\mm kɛ́nyɛ:v:égaliser
 \mr kɛn* > kan : égal + yɛ* (= ya . suf)
 \ps v
 \vl vt
@@ -19015,17 +19013,15 @@
 \xe j'ai fait le voeu de ne plus boire de bière
 \dt 21/Nov/2012
 
-\lx dá.la.kɛn.yɛ
+\lx dá.la.kɛnyɛ
 \mm dá:n:bouche
 \mm la:mrph:LOC
-\mm kɛ́n.yɛ:v:égaliser
-\mm kɛ́n:vq:égal
-\mm yɛ:mrph:DEQU
+\mm kɛ́nyɛ:v:égaliser
 \mr kɛn* > kan : égal + yɛ* (= ya . suf)
 \va dálakɛɲɛ
 \mm dá:n:bouche
 \mm la:mrph:LOC
-\mm kɛ́n.yɛ:v:égaliser
+\mm kɛ́nyɛ:v:égaliser
 \ps v
 \sn 1
 \vl vt
@@ -51998,10 +51994,8 @@
 \ge péritoine
 \lt (graisse.tissu)
 
-\lx kɛ́n.yɛ.lan
-\mm kɛ́n.yɛ:v:égaliser
-\mm kɛ́n:vq:égal
-\mm yɛ:mrph:DEQU
+\lx kɛ́nyɛ.lan
+\mm kɛ́nyɛ:v:égaliser
 \mm lan:mrph:INSTR
 \ps n
 \ge signe.de.l'égalisation
@@ -66606,11 +66600,9 @@
 \xe ce remède m'a guéri
 \dt 26/Sep/2006
 
-\lx lá.kɛn.yɛ
+\lx lá.kɛnyɛ
 \mm lá:mrph:CAUS
-\mm kɛ́n.yɛ:v:égaliser
-\mm kɛ́n:vq:égal
-\mm yɛ:mrph:DEQU
+\mm kɛ́nyɛ:v:égaliser
 \ps v
 \vl vt
 \lt préf-égaliser
@@ -70854,7 +70846,7 @@
 \dt 16/Aug/2006
 
 \lx màra.bolo
-\mm màra:n:élevage
+\mm màra:n:garde
 \mm bólo:n:branche
 \ps n
 \ge division.administrative
@@ -104645,7 +104637,7 @@
 
 \lx syɛ̀.mara
 \mm syɛ̀:n:poule
-\mm màra:n:élevage
+\mm màra:n:garde
 \ps n
 \lt poule-garder
 \ge aviculture
