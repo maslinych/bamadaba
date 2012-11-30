@@ -2,7 +2,7 @@
 \_DateStampHasFourDigitYear
 \lang bam
 \name bamadaba
-\ver 0.5.3
+\ver 0.5.4
 
 \lx à
 \sn 1
@@ -2280,9 +2280,10 @@
 \mm kàlan:n:lecture
 \mm dén:n:enfant
 \ps n
-\ge adulte.qui.suit.les.cours.d'alphabétisation
+\ge adulte.alphabétisé
+\gv adulte.qui.suit.les.cours.d'alphabétisation
 \lt (cours pour adultes.membre)
-\dt 16/Aug/2006
+\dt 14/Nov/2012
 
 \lx báliku.kalan.so
 \mm báliku.kalan:n:alphabétisation.des.adultes
@@ -5583,6 +5584,19 @@
 \sy bére
 \dt 12/Aug/2006
 
+\lx bèretu
+\va bèretu.bagi
+\mm bèretu:n:tresses.de.femme
+\mm bàgi:n:lèpre.lépromateuse
+\ps n
+\ge tresses.de.femme
+\dt 30/Nov/2012
+
+\lx béretuduma
+\ps n
+\ge tresses.enchêvetrés
+\dt 30/Nov/2012
+
 \lx bère.cɛ
 \mm bère:n:bâton
 \mm cɛ̀:n:mâle
@@ -7018,14 +7032,14 @@
 \ph [bla]
 \ps v
 \vl vt
-\ge orienter
+\ge raccompagner
 \ee mettre sur la route
 \lt (placer.route)
 \xv ń bìlasirala  kàrisa fɛ̀
 \xe un tel m'a conseillé (mis sur le bon chemin)
 \xv mɔ̀gɔ bìlasira
 \ce reconduire qn, le mettre sur le chemin
-\dt 19/Aug/2006
+\dt 22/Nov/2012
 
 \lx bìla.sira.bága
 \mm bìla.sira:v:orienter
@@ -8805,7 +8819,7 @@
 \mm fɛ́n:n:chose
 \va bólo.la.fɛn
 \mm bólo:n:bras
-\mm la:mrph:LOC
+\mm lá:pp:dans
 \mm fɛ́n:n:chose
 \ps n
 \sn 1
@@ -8814,7 +8828,7 @@
 \sn 2
 \gv bagage.à.main
 \sy bólolaminɛn
-\dt 16/Aug/2006
+\dt 22/Nov/2012
 
 \lx bólo.fura
 \mm bólo:n:bras
@@ -9144,6 +9158,15 @@
 \lt (main.bonne)
 \dt 26/Sep/2006
 
+\lx bólo.lan.kolon
+\mm bólo:n:bras
+\mm lán.kolon:adj:vide
+\mm lan:mrph:dans
+\mm kólon:adj:vide
+\ps adj
+\ge pauvre
+\dt 21/Nov/2012
+
 \lx bólo.lan.kolon.ya
 \mm bólo:n:bras
 \mm lán.kolon:adj:vide
@@ -9272,13 +9295,13 @@
 
 \lx bólo.la.jugu
 \mm bólo:n:bras
-\mm la:mrph:LOC
+\mm lá:pp:dans
 \mm júgu:vq/adj:mauvais
 \ps adj/n
 \ge mauvais.travailleur
 \sy bólomanjugu
 \lt (travail.mauvais)
-\dt 16/Aug/2006
+\dt 21/Nov/2012
 
 \lx bólo.la.minɛn
 \mm bólo:n:bras
@@ -9454,13 +9477,13 @@
 \mm júgu:vq/adj:mauvais
 \va bólo.ma.jugu
 \mm bólo:n:bras
-\mm ma:mrph:COM
+\mm ma:mrph:SUPER
 \mm júgu:vq/adj:mauvais
 \ps adj/n
 \ge mauvais.travailleur
 \lt (travail.mauvais)
 \sy bólolajugu
-\dt 16/Aug/2006
+\dt 21/Nov/2012
 
 \lx bólo.man.jugu.ya
 \mm bólo.man.jugu:adj/n:mauvais.travailleur
@@ -9514,7 +9537,7 @@
 
 \lx bólo.ma.fara
 \mm bólo:n:bras
-\mm ma:mrph:COM
+\mm mà:mrph:SUPER
 \mm fàra:v:ajouter
 \ps v
 \vl vt
@@ -9522,11 +9545,11 @@
 \gv venir.en.aide.à
 \lt (biens.ajouter)
 \sy bólolajɛ
-\dt 26/Sep/2006
+\dt 28/Nov/2012
 
 \lx bólo.ma.fara
 \mm bólo:n:bras
-\mm ma:mrph:COM
+\mm mà:mrph:SUPER
 \mm fàra:v:ajouter
 \ps n
 \sn 1
@@ -9535,7 +9558,7 @@
 \lt (biens.ajouter)
 \sn 2
 \gv collecte
-\dt 16/Aug/2006
+\dt 28/Nov/2012
 
 \lx bólo.ma.gɛn
 \mm bólo:n:bras
@@ -11574,13 +11597,14 @@
 
 \lx bùguri.jɛ
 \mm bùguri:n:poussière 
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \va bùgurin.jɛ
-\mm bùgurin:n:poussière 
-\mm jɛ́:vq/adj:blanc
+\mm bùguri:n:poussière 
+\mm jɛ́:adj:blanc
 \ps n
 \ge cendre
 \lt (poussière.blanche)
+\dt 30/Nov/2012
 
 \lx bùgu.da
 \mm bùgu:n:paillotte
@@ -12291,9 +12315,9 @@
 \lx bùrudamɛ
 \va bùrudaamɛ
 \ps n
-\ge targui
-\ee (au pl. touaregs)
-\dt 16/Aug/2006
+\ge Touareg
+\ee (au pl. targi)
+\dt 28/Nov/2012
 
 \lx búruja
 \ue (-bk)
@@ -13798,6 +13822,13 @@
 \lt (mari.endroit)
 \dt 16/Aug/2006
 
+\lx cɛ́.la
+\mm cɛ́:n:milieu
+\mm lá:pp:dans
+\ps pp
+\ge parmi
+\dt 22/Nov/2012
+
 \lx cɛ́.la.jala
 \mm cɛ́:n:milieu
 \mm lá:pp:dans
@@ -13894,6 +13925,13 @@
 \ge mâle
 \lt (mâle.fait partie)
 \dt 26/Sep/2006
+
+\lx cɛ́.mà
+\mm cɛ́:n:milieu
+\mm mà:pp:à
+\ps pp
+\ge parmi
+\dt 28/Nov/2012
 
 \lx cɛ́.ma.bɔ.li
 \mm cɛ́:n:milieu
@@ -16172,6 +16210,22 @@
 \ge puits.de.mine.d'or
 \dt 16/Aug/2006
 
+\lx dàma
+\mm dàn:n:limite
+\mm mà:pp:à
+\va dàn.ma
+\mm dàn:n:limite
+\mm mà:pp:à
+\ps n
+\ge limite
+\gv taille
+\gv dimension
+\gv mesure
+\gv nombre
+\gv caractère
+\gv caractéristique
+\dt 28/Nov/2012
+
 \lx dáma
 \ps adv
 \ge seulement
@@ -16216,7 +16270,8 @@
 \dt 16/Aug/2006
 
 \lx dáma.dɔ
-\mm dáma:adv:seulement
+\mm dán:n:compte
+\mm ma:mrph:COM
 \mm dɔ́:dtm:certain
 \va dán.ma.dɔ
 \mm dán:n:compte
@@ -16229,7 +16284,7 @@
 \xv kà ŋɔ̀mi dánmadɔ jíran (gn 18, 6)
 \xe faire quelques galettes
 \rem du et gn : ton haut
-\dt 11/Nov/2007
+\dt 28/Nov/2012
 
 \lx dàma.dɔn.bali
 \mm dàma:n:limite
@@ -16243,8 +16298,43 @@
 \lx dàma.tɛmɛ
 \mm dàma:n:limite
 \mm tɛ̀mɛ:v:passer
+\va dàn.ma.tɛmɛ
+\mm dàn.ma:n:limite
+\mm tɛ̀mɛ:v:passer
 \ps adv.p
 \ge excessivement
+\dt 28/Nov/2012
+
+\lx dàma.tɛmɛ
+\mm dàma:n:limite
+\mm tɛ̀mɛ:v:passer
+\va dàn.ma.tɛmɛ
+\mm dàn.ma:n:limite
+\mm tɛ̀mɛ:v:passer
+\ps adj
+\ge excessif
+\dt 28/Nov/2012
+
+\lx dàma.tɛmɛ
+\mm dàma:n:limite
+\mm tɛ̀mɛ:v:passer
+\va dàn.ma.tɛmɛ
+\mm dàn.ma:n:limite
+\mm tɛ̀mɛ:v:passer
+\ps n
+\ge affaire.excessive
+\dt 28/Nov/2012
+
+\lx dàma.tɛ̀mɛ
+\mm dàma:n:limite
+\mm tɛ̀mɛ:v:passer
+\va dàn.ma.tɛ̀mɛ
+\mm dàn.ma:n:limite
+\mm tɛ̀mɛ:v:passer
+\ps v
+\ge exagérer
+\gv être excessif
+\dt 28/Nov/2012
 
 \lx dàma.yira
 \mm dàma:n:limite
@@ -16570,8 +16660,9 @@
 
 \lx dánpe
 \ps n
-\ge vêtements.noirs.des.femmes.maures
-\dt 16/Aug/2006
+\ge couverture
+\gv vêtements.noirs.des.femmes.maures
+\dt 09/Nov/2012
 
 \lx dánpɛri
 \mm dá:n:bouche
@@ -16745,6 +16836,16 @@
 \ps n
 \ge spécial
 \gv à.part
+
+\lx dán.ma
+\mm dán:n:compte
+\mm ma:mrph:COM
+\va dá.ma
+\mm dán:n:compte
+\mm ma:mrph:COM
+\ps n
+\ge nombre
+\dt 28/Nov/2012
 
 \lx dàn.ma.ko
 \mm dàn:n:limite
@@ -18900,11 +19001,11 @@
 
 \lx dá.la.kan
 \mm dá:n:bouche
-\mm la:mrph:LOC
+\mm la:pp:dans
 \mm kán:n:cou
 \va dá.rɔ.kan
 \mm dá:n:bouche
-\mm rɔ́:mrph:LOC
+\mm rɔ́:pp:IN
 \mm kán:n:cou
 \ps n
 \lt (bouche.en.parole)
@@ -18912,7 +19013,7 @@
 \sm (de faire qc posée telle condition)
 \xv ń yé  dárɔkan dòn kó : né tɛ́na  dɔ̀lɔ mìn bìlen
 \xe j'ai fait le voeu de ne plus boire de bière
-\dt 26/Sep/2006
+\dt 21/Nov/2012
 
 \lx dá.la.kɛn.yɛ
 \mm dá:n:bouche
@@ -20810,7 +20911,7 @@
 
 \lx dén.misɛn
 \mm dén:n:enfant
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ps n
 \ge enfant
 \gv jeune
@@ -20819,11 +20920,11 @@
 \xv né yé  dénmisɛn yé
 \xe je ne suis qu'un enfant
 \ee (devant des vieux, cette phrase peut s'entendre dans la bouche de quadragénaires !)
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx dén.misɛn.man
 \mm dén:n:enfant
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \mm man:mrph:ADJ
 \ps adj
 \sn 1
@@ -20832,22 +20933,22 @@
 \sn 2
 \gv vierge
 \ee (en parlant d'une fille)
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx dén.misɛn.nama
 \mm dén:n:enfant
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \mm nama:mrph:STAT
 \ps adj
 \ge étant.enfant
 \lt (enfant.à l'aspect)
 \xv án dénmisɛnnama...
 \xe dans notre enfance...
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx dén.misɛn.nin
 \mm dén:n:enfant
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \mm nin:mrph:DIM 
 \ps n
 \sn 1
@@ -20856,22 +20957,22 @@
 \lt (enfant.petit)
 \sn 2
 \gv incirconcis
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx dén.misɛn.ɲɔgɔn
 \mm dén:n:enfant
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \mm ɲɔ́gɔn:prn:RECP
 \ps n
 \lt enfant-semblable
 \ge compagnon.d'âge.d'un.enfant
 \xv dénmisɛn mín bɛ́ dúmuni dògo à dénmisɛnɲɔgɔn ná, ò yé nùguma dèye
 \rem b
-\dt 11/Nov/2007
+\dt 23/Nov/2012
 
 \lx dén.misɛn.ya
 \mm dén:n:enfant
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \mm ya:mrph:ABSTR
 \ps n
 \sn 1
@@ -20884,7 +20985,7 @@
 \lt (enfant.suf abs)
 \xv fúrucɛ y'á sɔ̀rɔ  à ká dénmisɛnya ná
 \xe le mari l'a trouvé vierge
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx dén.muso
 \mm dén:n:enfant 
@@ -25468,6 +25569,11 @@
 \sm partie d'un arbre où commencent les racines
 \dt 16/Aug/2006
 
+\lx dúlen
+\ps n
+\ge ombre
+\dt 22/Nov/2012
+
 \lx dùlokoto
 \va dlòkoto
 \ph [dl]
@@ -26823,17 +26929,17 @@
 \dt 11/Nov/2007
 
 \lx fàamu.ya.len
-\mm fàamu:v:compréhension
+\mm fàamu:v:compréhendre
 \mm ya:mrph:ABSTR
 \mm len:mrph:PTCP.RES
-\ps n
+\ps prcp
 \lt comprendre-suf
-\ge spécialiste
+\ge compétent
 \ee personne très instruite, / avertie, compétente, qualifiée, érudit, savant
 \xv mɔ̀gɔ fàamuyalen 67 kúmana másalakun nìnnu kàn
 \xe 67 spécialistes ont parlé sur ces sujets (kb 1/06 p.2)
 \nt du : mògò fàamùyàlen : averti, compétent, qualifié
-\dt 11/Nov/2007
+\dt 14/Nov/2012
 
 \lx fàamu.ya.li
 \mm fàamu:v:compréhension
@@ -28432,7 +28538,7 @@
 \dt 26/Sep/2006
 
 \lx fárin
-\ps vq
+\ps vq/adj
 \sn 1
 \ge ardent
 \gv fort
@@ -28451,7 +28557,7 @@
 \gv féroce
 \xv wáajuli tùn ká fárin
 \xe le sermon était sévère
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx fárini
 \ps n
@@ -28591,29 +28697,30 @@
 \lt (corps.os)
 \xv mín bɛ́  án fàrikolo lá, ń'í yé  kálo kɔ̀nɔntɔn kɛ́ ń'á yé...l'être)
 \xe que nous avons en notre corps, après neuf mois de compagnie ...
-\dt 26/Sep/2006
+\dt 29/Nov/2012
 
 \lx fàri.kolo.ɲɛ.na.jɛ
 \mm fàri:n:corps
 \mm kólo:n:os
 \mm ɲɛ́:n:oeil
-\mm na:mrph:LOC
-\mm jɛ́:vq/adj:blanc
+\mm ná:mrph:CAUS
+\mm jɛ́:v:blanchir
 \ps n
 \ge sport
 \lt (corps.amusement)
+\dt 29/Nov/2012
 
 \lx fàri.kolo.ɲɛ.na.jɛ.kɛnɛ
 \mm fàri:n:corps
 \mm kólo:n:os
 \mm ɲɛ́:n:oeil
-\mm na:mrph:LOC
-\mm jɛ́:vq/adj:blanc
+\mm ná:mrph:CAUS
+\mm jɛ́:v:blanchir
 \mm kɛ́nɛ:n:clarté
 \ps n
 \ge stade.de.sport
 \lt (sport.aire)
-\dt 16/Aug/2006
+\dt 29/Nov/2012
 
 \lx fàri.kumu
 \mm fàri:n:corps
@@ -33257,14 +33364,19 @@
 \xe ils se sont contredits
 \dt 08/Nov/2012
 
-\lx fɔ́gɔbɛ
+\lx fɔ̀gɔbɛ
 \ps v
 \vl vt
 \sn 1
 \ge dégonfler
 \sn 2
 \gv enfoncer
-\dt 26/Sep/2006
+\dt 10/Nov/2012
+
+\lx fɔ́gɔbɛ
+\ps adv
+\ge vide.et.plat
+\dt 10/Nov/2012
 
 \lx fɔ́gɔbɛfɔgɔbɛ
 \ps v
@@ -33755,7 +33867,7 @@
 \dt 26/Sep/2006
 
 \lx fɔ́.ta
-\mm fɔ́:prep/conj:jusqu'à
+\mm fɔ́:dire:dire
 \mm ta:mrph:PTCP.POT
 \ps ptcp
 \sn 1
@@ -33768,7 +33880,7 @@
 \gv dit
 \xv dén b'í ɲɛ́mada  mása ká fɔ́ta mà
 \xe l'enfant fait très attention à ce que disent ses parents
-\dt 26/Sep/2006
+\dt 14/Nov/2012
 
 \lx fù
 \ps n
@@ -36571,6 +36683,13 @@
 \lt (foyer.pierre)
 \dt 16/Aug/2006
 
+\lx gà.kuru
+\mm gà:n:foyer
+\mm kùru:n:boule
+\ps n
+\ge pierres.du.foyer
+\dt 30/Nov/2012
+
 \lx gà.ɲɛ
 \mm gà:n:foyer
 \mm ɲɛ́:n:oeil
@@ -39369,14 +39488,15 @@
 
 \lx hámi.na
 \mm hámi:n:souci
-\mm na:mrph:LOC
+\mm na:mrph:MNT1
 \ps n
 \ge souci
 \lt (souci.contenu)
+\dt 08/Nov/2012
 
-\lx hámi.na.ko
+\lx hámi.nan.ko
 \mm hámi:n:souci
-\mm na:mrph:LOC
+\mm na:mrph:MNT1
 \mm kó:n:affaire
 \ps n
 \sn 1
@@ -39384,7 +39504,7 @@
 \lt (souci.affaire)
 \sn 2
 \gv désir
-\dt 26/Sep/2006
+\dt 21/Nov/2012
 
 \lx hán
 \ps intj
@@ -40484,10 +40604,10 @@
 \mm jàkuma:n:chat
 \mm jùru:n:corde
 \ps n
-\ge petite.vannerie
-\ee (en herbe tressée pour suspendre les calebasses)
+\ge garde-manger.suspendu
+\ee (petite vannerie en herbe tressée pour suspendre les calebasses)
 \lt (chat.corde)
-\dt 16/Aug/2006
+\dt 30/Nov/2012
 
 \lx jàkuma.kun
 \mm jàkuma:n:chat
@@ -45048,11 +45168,11 @@
 \lx jɔ̀.n.sɔn.na
 \mm jɔ̀:v:mettre.debout
 \mm ń:pers:je
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm ná:pp:dans
 \ps n
 \ge aveu.d'une.faute
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx jɔ̀.sen
 \mm jɔ̀:n:station.debout
@@ -47980,10 +48100,16 @@
 \dt 26/Sep/2006
 
 \lx kámà
+\mm kán:n:cou
+\mm mà:pp:à
+\va kán.mà
+\mm kán:n:cou
+\mm mà:pp:à
 \ee kan mà*
 \ps pp
 \sn 1
-\ge en.vue.de
+\ge pour
+\gv en.vue.de
 \gv à.cause.de
 \xv Ála káma
 \xe pour (l'amour de) Dieu
@@ -47991,7 +48117,7 @@
 \gv contre
 \xv à wúlila né káma
 \xe il s'est levé pour m'attaquer
-\dt 26/Sep/2006
+\dt 28/Nov/2012
 
 \lx kàmafyɛfyɛ
 \mm kàma:n:épaule
@@ -48715,11 +48841,12 @@
 \mm kànu:v:aimer
 \mm baga:mrph:AG.OCC
 \ps n
-\ge celui.qui.aime
+\ge amateur
+\gv celui.qui.aime
 \gv ami
 \gv amant(e)
 \lt (aimer.celui qui)
-\dt 26/Sep/2006
+\dt 14/Nov/2012
 
 \lx kànu.baa.nci
 \mm kànu:v:aimer
@@ -50404,11 +50531,15 @@
 \mm kàsi:v:pleurer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
+\va kàsi.baga.tɔ
+\mm kàsi:v:pleurer
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
 \ps adj
 \ge triste
 \gv pleurnicheur
 \lt (pleurer.sujet)
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx kàsi.bali
 \mm kàsi:v:pleurer
@@ -52091,6 +52222,13 @@
 \lt (côté.douleur)
 \dt 16/Aug/2006
 
+\lx kɛ̀rɛ.fɛ̀
+\mm kɛ̀rɛ:n:côté
+\mm fɛ̀:pp:vers
+\ps pp
+\ge par.côté
+\dt 23/Nov/2012
+
 \lx kɛ̀rɛ.fɛ.kuma
 \mm kɛ̀rɛ:n:côté
 \mm fɛ̀:pp:vers
@@ -52630,8 +52768,8 @@
 
 \lx kíni
 \ps n
-\ge ruz.cuit
-\dt 16/Aug/2006
+\ge riz.cuit
+\dt 14/Nov/2012
 
 \lx kíni
 \va kínin
@@ -53194,6 +53332,7 @@
 \dt 26/Sep/2006
 
 \lx kò
+\va k'
 \ps v
 \vl vt
 \ge laver
@@ -53203,7 +53342,7 @@
 \xe se laver la figure, prendre le petit déjeûner
 \xv bólo wɛ́rɛ b'á ɲɛ́ kò
 \xe une autre main lui lave le visage (il est mort!)
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx kó
 \ps n
@@ -55067,52 +55206,38 @@
 
 \lx kó.jugu
 \mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
-\ps n
-\sn 1
-\ge affaire.grave
-\gv événement.fâcheux
-\gv accident
-\gv malheur
-\xv nìn tɛ́  kójugu yé
-\xe ce n'est pas grave
-\sn 2
-\gv méfait
-\gv mal
-\gv péché
-
-\lx kó.jugu
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adv
 \ge trop
 \gv très
 \gv beaucoup
 \xv à bɛ́  dɔ̀lɔ mìn kójugu
 \xe il boit trop de bière
+\dt 23/Nov/2012
 
 \lx kó.jugu
 \mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps intj
 \ge assurément
 \gv parfaitement
 \xv kójugu ! ń dára  ò lá
 \xe parfaitement ! je le crois
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx kó.jugu.kɛ.la
 \mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \ge malfaiteur
 \lt (méfait.faire.celui qui)
+\dt 23/Nov/2012
 
 \lx kó.jugu.ya
 \mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \ge méfait
@@ -55121,7 +55246,7 @@
 \lt (méfait.suf abs)
 \xv à kúlo kójuguya y'á kán sìsi
 \xe d'avoir trop crié l'a enroué
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx kó.kɛ.bali.ya
 \mm kó:n:affaire
@@ -58533,6 +58658,19 @@
 \xv íko kɔ̀rɔman
 \xe comme d'habitude (iko kɔ̀rɔ̀len est + courant)
 \dt 26/Sep/2006
+
+\lx kɔ̀rɔ.man.ɲɔgɔn
+\mm kɔ̀rɔ:vq/adj:vieux
+\mm man:mrph:ADJ
+\mm ɲɔgɔn:mrph:RECP
+\va kɔ̀rɔ.ma.ɲɔgɔn
+\mm kɔ̀rɔ:vq/adj:vieux
+\mm man:mrph:ADJ
+\mm ɲɔgɔn:mrph:RECP
+\ps n
+\ge aîné
+\gv personne plus âgée que soi
+\dt 29/Nov/2012
 
 \lx kɔ́rɔ.ma.tìgɛ
 \mm kɔ́rɔ:n:dessous
@@ -62612,6 +62750,23 @@
 \rem du, Jos, kb
 \dt 11/Nov/2007
 
+\lx kùn.na.la
+\mm kùn.na:pp:au.dessus
+\mm kùn:n:tête
+\mm ná:pp:dans
+\mm la:mrph:LOC
+\va kùn.na.na
+\mm kùn.na:pp:au.dessus
+\mm kùn:n:tête
+\mm ná:pp:dans
+\mm na:mrph:LOC
+\ps n
+\ge dessus
+\lt (au dessus.endroit)
+\xv dén bàra kùnnana bɛ́ fìn  k'à sɔ̀rɔ  jóli bɛ́  à jùkɔrɔla lá
+\xe le dessus du nombril du bébé noircit alors qu'il y a une plaie par dessous
+\dt 10/Nov/2012
+
 \lx kùn.na.mini
 \mm kùn:n:tête
 \mm ná:pp:dans
@@ -62622,18 +62777,6 @@
 \xv à yé  sánujala dɔ́ dòn  à kùn ná  kùnnamini sán fɛ̀
 \xe un diadème d'or par-dessus le turban (Si 45, 12)
 \dt 11/Nov/2007
-
-\lx kùn.na.na
-\mm kùn.na:pp:au.dessus
-\mm kùn:n:tête
-\mm ná:pp:dans
-\mm na:mrph:LOC
-\ps n
-\ge dessus
-\lt (au dessus.endroit)
-\xv dén bàra kùnnana bɛ́ fìn  k'à sɔ̀rɔ  jóli bɛ́  à jùkɔrɔla lá
-\xe le dessus du nombril du bébé noircit alors qu'il y a une plaie par dessous
-\dt 16/Aug/2006
 
 \lx kùn.na.sàgon
 \mm kùn.na:pp:au.dessus
@@ -63094,12 +63237,12 @@
 \ps v
 \vl vr
 \sn 1
-\ge se.mettre.en.face
-\ee vis à vis de ...
+\gv se.diriger
 \lt (tête.diriger)
 \sn 2
-\gv se.diriger
-\dt 26/Sep/2006
+\ge se.mettre.en.face
+\ee vis à vis de ...
+\dt 14/Nov/2012
 
 \lx kùn.tilen.na
 \mm kùn.tilen:v:se.mettre.en.face
@@ -65353,6 +65496,9 @@
 \lx lá.bɔ
 \mm lá:mrph:CAUS
 \mm bɔ́:v:sortir
+\va ná.bɔ
+\mm ná:mrph:CAUS
+\mm bɔ́:v:sortir
 \va rɔ́.bɔ
 \mm rɔ́:mrph:IN
 \mm bɔ́:v:sortir
@@ -65391,7 +65537,7 @@
 \gv être.fatigué
 \xv né lábɔlen
 \xe je suis fatigué
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx lá.bɔ̀ɔsí
 \mm lá:mrph:CAUS
@@ -65705,12 +65851,13 @@
 \lx lá.fàamu.ya
 \mm lá:mrph:CAUS
 \mm fàamu.ya:v:comprendre
-\mm fàamu:n:compréhension
+\mm fàamu:v:comprendre
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \ge comprendre
 \lt (préf.comprendre)
+\dt 14/Nov/2012
 
 \lx lá.falen
 \mm lá:mrph:CAUS
@@ -67161,14 +67308,14 @@
 \mm ní.sɔn.di.ya:v:réjouir
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \lt préf-réjouir
 \ge réjouir
-\dt 11/Nov/2007
+\dt 23/Nov/2012
 
 \lx lá.nɔ
 \mm lá:mrph:CAUS
@@ -67488,6 +67635,14 @@
 \gv s'étirer
 \lt (préf.tirer)
 \dt 26/Sep/2006
+
+\lx lá.se
+\mm lá:mrph:CAUS
+\mm sé:v:arriver
+\ps v
+\ge transmettre
+\gv faire parvenir
+\dt 22/Nov/2012
 
 \lx lá.sɔ̀rɔ
 \mm lá:mrph:CAUS
@@ -69473,6 +69628,11 @@
 \lt (pitié.patient)
 \dt 26/Sep/2006
 
+\lx màkun
+\ps n
+\ge silence
+\dt 29/Nov/2012
+
 \lx màkùn
 \ps v
 \vl vr
@@ -70634,8 +70794,8 @@
 \ph [màrka]
 \ps n
 \ge sarakolé
-\ee (ethniedu N.O du Mali, très commerçante)
-\dt 12/Aug/2006
+\ee (ethnie du N.O du Mali, très commerçante)
+\dt 22/Nov/2012
 
 \lx màraka.jalan
 \mm màraka:n:sarakolé
@@ -71561,6 +71721,15 @@
 \xv à tɛ́  yɔ́rɔ mín màjɛ, án kà táa yén !
 \xe allons là où il ne manque pas d'aller !
 \dt 26/Sep/2006
+
+\lx mà.jigin
+\mm mà:mrph:SUPER
+\mm jìgin:v:descendre
+\ps n
+\ge humilité
+\gv modestie
+\gv modestie
+\dt 29/Nov/2012
 
 \lx mà.jìgin
 \mm mà:mrph:SUPER
@@ -73218,7 +73387,7 @@
 \dt 26/Sep/2006
 
 \lx mìsɛn
-\ps vq
+\ps vq/adj
 \sn 1
 \ge petit
 \gv mince
@@ -73231,7 +73400,7 @@
 \xe c'est un touche-à-tout
 \xv à dála ká mìsɛn
 \xe il ne tient pas sa langue
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx mìsɛn.man
 \mm mìsɛn:vq:petit
@@ -75872,6 +76041,7 @@
 \dt 26/Sep/2006
 
 \lx nà
+\va n'
 \ps v
 \sn 1
 \vl vi
@@ -75905,7 +76075,7 @@
 \xe le vent apporte la pluie
 \xv jíritu dè bɛ́  sán nà
 \xe ce sont les forêts qui attirent la pluie
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx nà
 \vt ná
@@ -77859,16 +78029,16 @@
 \va nɛ́ɛmɛ
 \ps n
 \sn 1
-\ge fraîcheur.agréable
+\ge bonheur
 \sn 2
 \gv bien-être
 \gv aisance
 \sn 3
-\gv bonheur
+\gv fraîcheur.agréable
 \sn 4
 \gv grâce.divine
 \ee (vocabulaire religieux chrétien ...)
-\dt 26/Sep/2006
+\dt 28/Nov/2012
 
 \lx nɛ́ɛma
 \bw ar
@@ -79800,7 +79970,7 @@
 
 \lx ní.sɔn
 \mm ní:n:âme
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \ee *
 \xx xá : níto = í.
 \ps n
@@ -79809,7 +79979,7 @@
 \lt (âme.endroit)
 \xv à nísɔn ká dí
 \xe il est gai
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx ní.sɔngɔ
 \mm ní:n:âme
@@ -79833,7 +80003,7 @@
 \lx ní.sɔn.di.ya
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
 \ps n
@@ -79842,25 +80012,25 @@
 \lt (humeur.bonté)
 \xv tùma bɛ́ɛ, á bɛ́  nísɔndiya lá
 \xe vous êtes toujours de bonne humeur
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx ní.sɔn.di.ya
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \ge réjouir
 \lt (humeur.rendre bonne)
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx ní.sɔn.di.ya.fura.nin
 \mm ní.sɔn.di.ya:n:joie
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
 \mm fúra:n:feuille
@@ -79868,45 +80038,45 @@
 \ps n
 \ge drogue
 \lt (joie.petit remède)
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx ní.sɔn.duman
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm dúman:adj:agréable
 \ps adj
 \lt coeur-gai
 \ge joyeux
-\dt 11/Nov/2007
+\dt 23/Nov/2012
 
 \lx ní.sɔn.go
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm gó:vq:désagréable
 \ps adj/n
 \ge de.mauvaise.humeur
 \lt (humeur.mauvaise)
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx ní.sɔn.go.ya
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \ps n
 \ge mauvaise.humeur
 \gv irritation
 \lt (humeur.état mauvais)
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx ní.sɔn.go.ya
 \mm ní.sɔn.go:adj/n:de.mauvaise.humeur
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \ps v
@@ -79914,7 +80084,7 @@
 \ge contrarier
 \gv attrister
 \lt (humeur.rendre mauvaise)
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx nì.ta
 \mm nì:n:part
@@ -82332,7 +82502,6 @@
 \dt 26/Sep/2006
 
 \lx nɔ̀.na.bila
-\mm nɔ̀.na:pp:à.la.place.de
 \mm nɔ̀:n:trace
 \mm ná:pp:dans
 \mm bìla:n:abandon
@@ -82343,10 +82512,9 @@
 \gv pronom
 \sm (néologisme)
 \lt (à la place.mettre)
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx nɔ̀.na.bila
-\mm nɔ̀.na:pp:à.la.place.de
 \mm nɔ̀:n:trace
 \mm ná:pp:dans
 \mm bìla:v:mettre
@@ -82357,10 +82525,9 @@
 \sn 2
 \gv renouveler
 \lt (à la place.mettre)
-\dt 12/Aug/2006
+\dt 23/Nov/2012
 
 \lx nɔ̀.na.da
-\mm nɔ̀.na:pp:à.la.place.de
 \mm nɔ̀:n:trace
 \mm ná:pp:dans
 \mm dá:v:poser
@@ -82373,7 +82540,7 @@
 \ps n
 \ge puîné
 \lt (à la suite.placer)
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx nɔ́.ni
 \mm nɔ́:v:nager
@@ -82893,15 +83060,6 @@
 \ee très grande cigogne noire et blanche, solitaire, assez rare)
 \dt 26/Sep/2006
 
-\lx npɔ̀n
-\es {fr : pont}
-\va pɔ̀n
-\ps n
-\ge pont
-\xv fàtɔkɛ nàn'í sìgi npɔ̀n kàn
-\rem du, Jos :  prononciation de la ville /
-\dt 11/Nov/2007
-
 \lx npɔ́rɔ
 \ps n
 \ge rien
@@ -82925,6 +83083,13 @@
 \gv maladie.des.poules
 \gv maladie.des.chiens
 \dt 26/Sep/2006
+
+\lx npɔ̀rɔn
+\va pɔ̀rɔn
+\ps n
+\ge bruit.dédaigneux
+\ee (produit par les lèvres)
+\dt 23/Nov/2012
 
 \lx npɔ̀rɔn.ŋɔ́ni.ma
 \mm npɔ̀rɔn:n:amaranthe
@@ -84305,6 +84470,7 @@
 \dt 16/Aug/2006
 
 \lx ntóolen
+\va ntòolèn
 \ps n
 \ge petit.calao
 \sn 1
@@ -84315,7 +84481,7 @@
 \lat Tockus.erythrorynchus
 \sy kɔ́ngɔngɔki
 \sy cɛ̀kankan
-\dt 16/Aug/2006
+\dt 30/Nov/2012
 
 \lx ntóolen.baga
 \mm ntóolen:n:petit.calao
@@ -92147,6 +92313,15 @@
 \lt (silure.sombre)
 \dt 16/Aug/2006
 
+\lx pɔ̀n
+\es {fr : pont}
+\va npɔ̀n
+\ps n
+\ge pont
+\xv fàtɔkɛ nàn'í sìgi npɔ̀n kàn
+\rem du, Jos :  prononciation de la ville /
+\dt 23/Nov/2012
+
 \lx pɔ́npe
 \ps n
 \ge pompe
@@ -93766,8 +93941,8 @@
 \lx sán
 \ps n
 \sn 1
-\ge haut
-\gv ciel
+\ge ciel
+\gv haut
 \xv jíri sán fɛ̀
 \xe en haut de l'arbre
 \sn 2
@@ -93783,7 +93958,7 @@
 \gv tonnerre
 \xv sán bɛ́ kúlu
 \xe il tonne, il y a du tonnerre
-\dt 26/Sep/2006
+\dt 30/Nov/2012
 
 \lx sán
 \va syán
@@ -96075,18 +96250,19 @@
 
 \lx sènenkun
 \va sìnankun
+\va sènankun
 \ps n
 \ge cousain.de.plaisanterie
 \ee membre de la famille liée à la vôtre par des relations traditionnelles d'entr'aide et de plaisanterie (ex : les 'Tarawele' et les 'Jara' sont des 'senenkun' de même que les'Kulubali' et les 'Konare' ...)
-\dt 16/Aug/2006
+\dt 28/Nov/2012
 
-\lx sènenkun.man
+\lx sènenkun.ma
 \mm sènenkun:n:cousain.de.plaisanterie
-\mm man:mrph:ADJ
+\mm ma:mrph:RECP.PRN
 \ps adj/n
 \ge cousain.de.plaisanterie
 \lt ('senenkun'.suf adj)
-\dt 16/Aug/2006
+\dt 28/Nov/2012
 
 \lx sènenkun.ya
 \mm sènenkun:n:cousain.de.plaisanterie
@@ -96517,14 +96693,14 @@
 
 \lx sèn.na
 \mm sèn:n:jambe
-\mm na:mrph:MNT1
+\mm na:mrph:dans
 \ps n
 \ge allure
 \gv marche
 \lt (pas.suf abs)
 \xv mín sènna ká tɛ́li
 \xe celui, celle qui est rapide
-\dt 26/Sep/2006
+\dt 30/Nov/2012
 
 \lx sèn.naani.ma.fɛn
 \mm sèn:n:jambe
@@ -96652,6 +96828,15 @@
 \ge se.promener.à.pied
 \lt (à pied.se promener)
 \dt 16/Aug/2006
+
+\lx sèn.na.yaala.la
+\mm sèn:n:jambe
+\mm ná:pp:dans
+\mm yáala:v:se.promener
+\mm la:mrph:AG.PRM
+\ps n
+\ge promeneur
+\dt 21/Nov/2012
 
 \lx sèn.nɔ
 \mm sèn:n:jambe
@@ -97064,6 +97249,15 @@
 \xv bìlakoro sénnamɔgɔ yé  bása yé
 \xe le garçonnet est le maître du margouillat
 \dt 16/Aug/2006
+
+\lx sé.n.yɛrɛ.kɔrɔ
+\mm sé:v:arriver
+\mm ń:prn:1SG
+\mm yɛ̀rɛ:dtm:même
+\mm kɔ́rɔ:pp:sous
+\ps n
+\ge autosuffisance
+\dt 23/Nov/2012
 
 \lx sé.ń.yɛ̀rɛ.lá
 \mm sé:n:arrivée
@@ -98145,6 +98339,15 @@
 \xv ń bɛ́ síga  à ká kúma ná
 \xe je ne crois pas beaucoup à ses paroles
 \dt 26/Sep/2006
+
+\lx síga-ń-yɛ̀rɛ-lá
+\mm síga:n:doute
+\mm ń:pers:1SG
+\mm yɛ̀rɛ:dtm:même
+\mm lá:pp:dans
+\ps n
+\ge manque.d’assurance
+\dt 29/Nov/2012
 
 \lx sígasiga
 \mm síga:n:doute
@@ -101887,7 +102090,7 @@
 \lt (ongle.couper.ce qui sert à)
 
 \lx sɔ̀nnɛmɛ
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \ue (-bk)
 \ee sɔndɔmɛ*
 \ps n
@@ -101897,7 +102100,7 @@
 \xv à tó án sɔ̀nnɛmɛ ná
 \xe tiens t'en à ce que nous avons décidé  (ce n'est pas de la rigolade)
 \sy ngàniya
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx sɔ́n.bolo
 \mm sɔ́n:v:gratifier
@@ -101921,16 +102124,16 @@
 \dt 26/Sep/2006
 
 \lx sɔ̀n.fɔ
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm fɔ́:v:dire
 \ps n
 \lt défaut.dire
 \ge critique
 \gv médisance
-\dt 11/Nov/2007
+\dt 23/Nov/2012
 
 \lx sɔ̀n.ja
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm jà:v:sécher
 \ps n
 \ge tristesse
@@ -101939,18 +102142,27 @@
 \lt (coeur.sécher)
 \sy dùsukasi
 \sy kɔ́nɔgan
-\dt 26/Sep/2006
+\dt 23/Nov/2012
+
+\lx sɔ̀n.ja
+\mm sɔ̀n:n:cœur
+\mm jà:v:sécher
+\ps v
+\ge attrister
+\gv affliger
+\gv décevoir
+\dt 23/Nov/2012
 
 \lx sɔ̀n.jugu
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm júgu:vq/adj:mauvais
 \ps adj/n
 \ge débauché
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.jugu.ya
 \mm sɔ̀n.jugu:adj/n:débauché
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm júgu:vq/adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
@@ -101961,11 +102173,11 @@
 \lt (vicieux.suf abs)
 \xv à dén tɛ́  sɔ̀njuguya tó yèn, fɔ́ kà táa sà
 \xe son enfant n'abandonnera pas sa conduite mauvaise jusqu'à sa mort
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.jugu.ya
 \mm sɔ̀n.jugu:adj/n:débauché
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm júgu:vq/adj:mauvais
 \mm ya:mrph:ABSTR
 \ps v
@@ -101976,19 +102188,20 @@
 \xe il a raflé cette nourriture en l'absence de sa mère
 \xv í yé  nìn wári sɔ̀njuguya  k'à sɔ̀rɔ  à má d'í mà
 \xe tu as utilisé cet argent sans qu'on te l'ait donné
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.juru
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm jùru:n:corde
 \ps n
 \ge aorte
 \lt (coeur.lien)
 \xv í yé ń sɔ̀njuru tìgɛ
 \xe tu m'as causé énormément de peine
+\dt 23/Nov/2012
 
 \lx sɔ̀n.kolon
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm kólon:vq:fainéant
 \ps n
 \sn 1
@@ -101996,7 +102209,7 @@
 \lt (conduite.vaurien)
 \sn 2
 \gv vaurien
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.kó.mà
 \mm sɔ̀n:v:accepter
@@ -102009,7 +102222,7 @@
 \dt 26/Sep/2006
 
 \lx sɔ̀n.kɔrɔ
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm kɔ̀rɔ:vq/adj:vieux
 \ps n
 \ge vieille.habitude
@@ -102017,55 +102230,56 @@
 \lt (vice.vieux)
 \xv dùgumɛnɛ sɔ̀nkɔrɔ yé  cínni yé : (pró)
 \xe la vieille habitude de la fourmi est de piquer
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.kun
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm kùn:n:tête
 \ps n
 \ge coeur
 \sm (organe)
 \lt (coeur.tête)
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.kuna
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm kúna:vq:amer
 \ps n
 \ge pyrosis
 \lt (coeur.amer)
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.kun.dimi
 \mm sɔ̀n.kun:n:coeur
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm kùn:n:tête
 \mm dími:n:souffrance
 \ps n
 \ge maux.de.coeur
 \lt (coeur.douleur)
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.na.biri
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm ná:mrph:CAUS
 \mm bíri:v:courber
 \ps n
 \ge diaphragme
 \lt (coeur.lieu.couverture)
+\dt 23/Nov/2012
 
 \lx sɔ̀n.na.ɲini
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm ná:mrph:CAUS
 \mm ɲíni:v:chercher
 \ps v
 \vl vt ?
 \ge chercher.querelle
 \rem l 89, bk, bn
-\dt 11/Nov/2007
+\dt 23/Nov/2012
 
 \lx sɔ̀n.na.siran
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm ná:mrph:CAUS
 \mm síran:v:craindre
 \ps v
@@ -102075,7 +102289,7 @@
 \xv ù b'ú sɔ̀nnasiran ní ò kúma cáman yé sá
 \xe ils lui flanquent la frousse avec beaucoup de paroles de ce genre !
 \rem f
-\dt 11/Nov/2007
+\dt 23/Nov/2012
 
 \lx sɔ̀n.ni
 \mm sɔ̀n:v:accepter
@@ -102124,40 +102338,41 @@
 \dt 11/Nov/2007
 
 \lx sɔ̀n.ntan
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm ntan:mrph:PRIV
 \ps adj
 \ge innocent
 \lt (vice.sans)
 \xv sɔ̀nntan tóra ɲɛ́gɛn nɔ́
 \xe l'innocent est resté dans la douchière(l'enfant mort-né y est enterré, innocent comme un bébé qui vient de naître)
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.ntan.ya
 \mm sɔ̀n.ntan:adj:innocent
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ge innocence
 \lt (innocent.suf abs)
+\dt 23/Nov/2012
 
 \lx sɔ̀n.suma
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm súma:v:rafraîchir
 \ps n
 \ge consolation
 \lt (coeur.rafraîchir)
-\dt 26/Sep/2006
+\dt 23/Nov/2012
 
 \lx sɔ̀n.tigi
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \mm tìgi:n:maître
 \ps n
 \ge vicieux
 \lt (vice.qui a)
 \sy sɔ̀njugu
-\dt 16/Aug/2006
+\dt 23/Nov/2012
 
 \lx sɔ́ɔni
 \ps n/adv
@@ -103669,6 +103884,18 @@
 \xv à fúrakɛtɔ, bànabaatɔ bɛ́  súu fɔ́
 \xe quand on le soigne, le malade crie 'suu' !
 \dt 16/Aug/2006
+
+\lx súuru
+\va súurun
+\ps v
+\ge verser
+\gv couler
+\gv tomber en cascade
+\gv vanner
+\gv se jeter
+\gv plonger
+\gv se battre
+\dt 23/Nov/2012
 
 \lx súuru.ta.la
 \mm súuru:v:faire.couler
@@ -106314,13 +106541,13 @@
 \lt (ami.homme)
 \dt 16/Aug/2006
 
-\lx téri.man
+\lx téri.ma
 \mm téri:n:ami
-\mm man:mrph:ADJ
+\mm ma:mrph:RECP.PRN
 \ps n
 \ge ami
 \lt (ami.suf adj)
-\dt 26/Sep/2006
+\dt 28/Nov/2012
 
 \lx téri.muso
 \mm téri:n:ami
@@ -107412,16 +107639,16 @@
 
 \lx tìgi.la.mɔgɔ
 \mm tìgi:n:maître
-\mm lá:conj:POS
+\mm lá:pp:dans
 \mm mɔ̀gɔ:n:homme
 \va tìgi.la.maa
 \mm tìgi:n:maître
-\mm lá:conj:POS
+\mm lá:pp:dans
 \mm màa:n:homme
 \ps n
 \ge personne.de.sorte
 \lt (type.de.personne)
-\dt 16/Aug/2006
+\dt 22/Nov/2012
 
 \lx tìgi.ma
 \mm tìgi:n:maître
@@ -108893,14 +109120,14 @@
 \mm tógo.da:n:hameau
 \mm tógo:n:hutte
 \mm dá:n:bouche
-\mm lá:conj:POS
+\mm lá:dans:PP
 \mm mɔ̀gɔ:n:homme
 \ps n
 \lt hameau-de-homme
 \ge villageois
 \xv ń'í y'á yé fànga dɔ́ɔnin bɛ́ bálikukalan ná, ò bɔ́ra tógodalamɔgɔ lá
 \xe si l'on constate que l'alphabétisation a quelque importance, elle est dûe aux paysans (kib 3/05 p.9)
-\dt 11/Nov/2007
+\dt 14/Nov/2012
 
 \lx tókutoku
 \ps onomat
@@ -109548,7 +109775,7 @@
 
 \lx tɔ́gɔ.la.don
 \mm tɔ́gɔ:n:nom
-\mm lá:conj:POS
+\mm lá:pp:dans
 \mm dón:n:jour
 \ps n
 \lt nom-au-jour
@@ -109556,7 +109783,7 @@
 \xv bálikukalan tɔ́gɔladon kɛ́rɛnkɛrɛnnen
 \xe jour de l'alphabétisation des adultes
 \nt Kb 10/06 p.10
-\dt 11/Nov/2007
+\dt 08/Nov/2012
 
 \lx tɔ́gɔ.ma
 \mm tɔ́gɔ:n:nom
@@ -110492,12 +110719,12 @@
 
 \lx tùgu.sɔn
 \mm tùgu:n:bras
-\mm sɔ̀n:n:conduite
+\mm sɔ̀n:n:cœur
 \ue (-bn)
 \ps n
 \ge biceps
 \lt (bras.chair)
-\dt 12/Aug/2006
+\dt 23/Nov/2012
 
 \lx túlo
 \va tló
@@ -111447,6 +111674,11 @@
 \ge néophyte.musulman
 \lt (conversion.esclave)
 \dt 16/Aug/2006
+
+\lx túuu
+\ps intj
+\ge pouah
+\dt 23/Nov/2012
 
 \lx tú.feere
 \mm tú:n:touffe
@@ -115312,7 +115544,7 @@
 \xe dis-le moi
 \xv à kɛ́  Ála yé
 \xe fais-le pour Dieu
-\xv ò sé tɛ́  né yé
+\xv ò sé tɛ́ né yé
 \xe je n'en ai pas les moyens
 \sn 2
 \gv au titre de
@@ -115362,7 +115594,7 @@
 \xe Il s'appelle Nsan (son nom est : Nsan)
 \xv ...ò yé kó : wári tɛ́ ń fɛ̀
 \xe .... c'est que je n'ai pas d'argent
-\dt 26/Sep/2006
+\dt 20/Nov/2012
 
 \lx yé
 \ee *ye = voir ?
