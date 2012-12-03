@@ -2270,12 +2270,12 @@
 \mm báliku:n:adulte
 \mm kàlan:n:lecture
 \ps n
-\ge alphabétisation.des.adultes
+\ge alphabétisation
 \lt (adulte.enseignement)
 \dt 16/Aug/2006
 
 \lx báliku.kalan.den
-\mm báliku.kalan:n:alphabétisation.des.adultes
+\mm báliku.kalan:n:alphabétisation
 \mm báliku:n:adulte
 \mm kàlan:n:lecture
 \mm dén:n:enfant
@@ -9477,7 +9477,7 @@
 \mm júgu:vq/adj:mauvais
 \va bólo.ma.jugu
 \mm bólo:n:bras
-\mm ma:mrph:SUPER
+\mm ma:mrph:à
 \mm júgu:vq/adj:mauvais
 \ps adj/n
 \ge mauvais.travailleur
@@ -26925,10 +26925,10 @@
 \dt 11/Nov/2007
 
 \lx fàamu.ya.len
-\mm fàamu:v:compréhendre
+\mm fàamu:v:comprendre
 \mm ya:mrph:ABSTR
 \mm len:mrph:PTCP.RES
-\ps prcp
+\ps ptcp
 \lt comprendre-suf
 \ge compétent
 \ee personne très instruite, / avertie, compétente, qualifiée, érudit, savant
@@ -65844,7 +65844,7 @@
 
 \lx lá.fàamu.ya
 \mm lá:mrph:CAUS
-\mm fàamu.ya:v:comprendre
+\mm fàamu.ya:v:se.familiariser
 \mm fàamu:v:comprendre
 \mm ya:mrph:ABSTR
 \ps v
@@ -70781,19 +70781,19 @@
 \sy nbá
 \dt 16/Aug/2006
 
-\lx màraka
+
 \va màrka
 \ph [màrka]
 \ps n
-\ge sarakolé
+\ge Soninké
 \ee (ethnie du N.O du Mali, très commerçante)
 \dt 22/Nov/2012
 
 \lx màraka.jalan
-\mm màraka:n:sarakolé
+\mm màraka:n:Soninké
 \mm jàlan:adj:sec
 \va màrka.jalan
-\mm màrka:n:sarakolé
+\mm màrka:n:Soninké
 \mm jàlan:adj:sec
 \ph [marka...]
 \ps n
@@ -87901,7 +87901,7 @@
 \mm ɲɛ́.kɔrɔ:n:le.devant.de
 \mm ɲɛ́:n:oeil
 \mm kɔ́rɔ:n:dessous
-\mm ma:mrph:SUPER
+\mm ma:mrph:à
 \mm tìgɛ:v:couper
 \ps v
 \vl vt
@@ -101975,7 +101975,7 @@
 \lx sɔ̀n
 \ps n
 \sn 1
-\ge conduite
+\ge coeur
 \xv dén bɛ́  mása sɔ̀n tà
 \xe les enfants prennent les habitudes de leurs parents
 \xv sɔ̀n tɛ́  màa mín ná, í júgu b'ó dá  í lá
@@ -101985,7 +101985,7 @@
 \xv à sɔ̀nkɔrɔ dòn
 \xe c'est son vice invétéré
 \sn 2
-\gv coeur
+\gv conduite
 \sm (organe : emploi rare)
 \dt 16/Aug/2006
 
