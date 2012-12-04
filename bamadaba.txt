@@ -289,7 +289,7 @@
 
 \lx ála.la.kɛ
 \mm Ála:n:Dieu
-\mm la:conj:POSS
+\mm la:pp:dans
 \mm kɛ́:n:action
 \ps n
 \lt Dieu-de-action
@@ -7846,12 +7846,12 @@
 \lx bíri.len.na.baara
 \mm bíri:v:courber
 \mm len:mrph:PTCP.RES
-\mm ná:conj:POS 
+\mm ná:pp:dans 
 \mm báara:n:travail
 \va brí.len.na.baara
 \mm brí:v:courber
 \mm len:mrph:PTCP.RES
-\mm ná:conj:POS
+\mm ná:pp:dans
 \mm báara:n:travail
 \ph [br]
 \ps n
@@ -8896,7 +8896,7 @@
 \mm bólo.kan:n:avant-bras
 \mm bólo:n:bras
 \mm kán:n:cou
-\mm ná:conj:POS
+\mm ná:pp:dans
 \mm nɛ̀gɛ:n:fer
 \ps n
 \ge bracelet.en.métal
@@ -9003,7 +9003,7 @@
 \mm bólo.kɔni:n:doigt
 \mm bólo:n:bras
 \mm kɔni:n:doigt
-\mm ná:conj:POS
+\mm ná:pp:dans
 \mm nɛ̀gɛ:n:fer
 \ps n
 \ge bague
@@ -76665,7 +76665,7 @@
 \mm nàma:n:hyène
 \mm kɔrɔ:adj:mâle.adulte
 \mm ba:mrph:AUGM
-\mm lá:conj:POS
+\mm lá:pp:dans
 \mm bála:n:balafon
 \mm fɔ́:v:dire
 \mm npíri:n:mailloche
@@ -76683,7 +76683,7 @@
 \mm nàma:n:hyène
 \mm kɔrɔ:adj:mâle.adulte
 \mm ba:mrph:AUGM
-\mm lá:conj:POS
+\mm lá:pp:dans
 \mm dí:n:miel
 \mm dàa:n:canari
 \mm kàla:n:tige
@@ -80720,7 +80720,7 @@
 
 \lx nkɛ́ɛrɛn-ná-dà
 \mm nkɛ́ɛrɛn:n:grillon
-\mm ná:conj:POS
+\mm ná:pp:dans
 \mm dà:n:chanvre
 \ps n
 \ee plantes herbacées
@@ -87757,7 +87757,7 @@
 \mm ɲɛ́.konkon:n:arcade.sourcilière
 \mm ɲɛ́:n:oeil
 \mm kónkon:n:partie.saillante
-\mm ná:conj:POS
+\mm ná:pp:dans
 \mm sí:n:poil
 \ps n
 \ge sourcil
@@ -94604,7 +94604,7 @@
 
 \lx sàn.na.ci
 \mm sàn:n:message.de.deuil
-\mm ná:conj:POS
+\mm ná:pp:dans
 \mm cí:n:commission
 \ps n
 \sn 1
@@ -102797,7 +102797,7 @@
 
 \lx súgu.la.den
 \mm súgu:n:marché
-\mm lá:conj:POS
+\mm lá:pp:dans
 \mm dén:n:enfant
 \ps n
 \sn 1
@@ -102809,7 +102809,7 @@
 
 \lx súgu.la.ŋɔmi
 \mm súgu:n:marché
-\mm lá:conj:POS
+\mm lá:pp:dans
 \mm ŋɔ̀mi:n:galette
 \ps n
 \lt marché-au-galette
