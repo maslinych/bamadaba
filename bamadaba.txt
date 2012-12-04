@@ -3542,13 +3542,16 @@
 \lx bàratu
 \ps v
 \vl vt
-\sn 1
 \ge coudre.à.gros.points
+\dt 04/Dec/2012
+
+\lx báratu
+\ps v
+\sn 1
+\ge suspendre.de.travers
 \sn 2
 \gv porter en bandoulière
-\sn 3
-\gv suspendre.de.travers
-\dt 26/Sep/2006
+\dt 04/Dec/2012
 
 \lx bàra.den
 \mm bàra:n:calebasse
@@ -16226,7 +16229,7 @@
 \gv caractéristique
 \dt 28/Nov/2012
 
-\lx dáma
+\lx dàma
 \ps adv
 \ge seulement
 \sy dɔ́rɔn
@@ -42415,6 +42418,11 @@
 \ge porte-monnaie
 \rem l 89 porte-feuille / du : sacoche, giberne / traditionnel, vérifier fabrication
 \dt 11/Nov/2007
+
+\lx jɛ̀n
+\va dìɲɛ
+\ps v
+\ge accepter
 
 \lx jɛ̀nɛ
 \ps n
