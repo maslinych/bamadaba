@@ -347,6 +347,11 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Bamaro
+\di b
+\ge NOM.M
+\ps n.prop
+
 \lx Bamasa
 \di b
 \ge NOM.M
@@ -469,20 +474,14 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Bɛnba
-\di
-\ge NOM.M
-\dt 03/May/2010
-\ps n.prop
-
 \lx Béremà
 \di m
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
 
-\lx Binɛfu
-\di b
+\lx Bɛnba
+\di
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
@@ -490,6 +489,12 @@
 \lx Bineta
 \di m
 \ge NOM.F
+\dt 03/May/2010
+\ps n.prop
+
+\lx Binɛfu
+\di b
+\ge NOM.M
 \dt 03/May/2010
 \ps n.prop
 
@@ -911,6 +916,11 @@
 \di m
 \ge NOM.M
 \dt 03/May/2010
+\ps n.prop
+
+\lx Fakoli
+\di b
+\ge NOM.M
 \ps n.prop
 
 \lx Fàkɔ
@@ -1457,14 +1467,14 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Kɛfa
-\di b
+\lx Kenda
+\di ful
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
 
-\lx Kenda
-\di ful
+\lx Kɛfa
+\di b
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
@@ -1493,14 +1503,39 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Kɔ̀kɛ
+\lx Koli
+\di
+\ge NOM.M
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kónì
 \di b
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
 
-\lx Koli
-\di
+\lx Kóninbà
+\va Kòninbá
+\di b
+\ge NOM.MF
+\dt 03/May/2010
+\ps n.prop
+
+\lx Korɛjo
+\di b
+\ge NOM.M
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kóyan
+\di b
+\ge NOM.F
+\dt 03/May/2010
+\ps n.prop
+
+\lx Kɔ̀kɛ
+\di b
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
@@ -1523,29 +1558,10 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Kónì
-\di b
-\ge NOM.M
-\dt 03/May/2010
-\ps n.prop
-
-\lx Kóninbà
-\va Kòninbá
-\di b
-\ge NOM.MF
-\dt 03/May/2010
-\ps n.prop
-
 \lx Kɔ̀nɔjugu
 \di b
 \va Kɔ̀nɔjúu
 \di m
-\ge NOM.M
-\dt 03/May/2010
-\ps n.prop
-
-\lx Korɛjo
-\di b
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
@@ -1559,12 +1575,6 @@
 
 \lx Kɔtyatu
 \di m
-\ge NOM.F
-\dt 03/May/2010
-\ps n.prop
-
-\lx Kóyan
-\di b
 \ge NOM.F
 \dt 03/May/2010
 \ps n.prop
@@ -1859,13 +1869,6 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Mɔ̀nsɔn
-\va Mɔ̀nzɔn
-\di b
-\ge NOM.M
-\dt 03/May/2010
-\ps n.prop
-
 \lx Mòri
 \di b, m
 \ge NOM.M
@@ -1886,6 +1889,13 @@
 
 \lx Mówamèd
 \di mF
+\ge NOM.M
+\dt 03/May/2010
+\ps n.prop
+
+\lx Mɔ̀nsɔn
+\va Mɔ̀nzɔn
+\di b
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
@@ -2061,11 +2071,10 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Nɛgɛ
-\di b
-\ge NOM
-\dt 03/May/2010
+\lx Ncidɔri
 \ps n.prop
+\ge NOM.M
+\dt 19/Dec/2012
 
 \lx Negesama
 \di b
@@ -2082,6 +2091,12 @@
 \lx Negetin
 \di b
 \ge NOM.M
+\dt 03/May/2010
+\ps n.prop
+
+\lx Nɛgɛ
+\di b
+\ge NOM
 \dt 03/May/2010
 \ps n.prop
 
@@ -2109,14 +2124,14 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Ngɔ̀lɔ
-\va Ŋɔ̀lɔ
+\lx Ngonfinba
 \di b
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
 
-\lx Ngonfinba
+\lx Ngɔ̀lɔ
+\va Ŋɔ̀lɔ
 \di b
 \ge NOM.M
 \dt 03/May/2010
@@ -2288,6 +2303,74 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Ɲa
+\di b
+\ge NOM.F
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲàama
+\di m
+\ge NOM.F
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲàgalen
+\di b
+\va Ɲaalen
+\va Ɲakalen
+\di m
+\va Ɲàlen
+\di mF
+\ge NOM.F
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲama
+\di b
+\ge NOM.MF
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲamakolon
+\di b
+\ge NOM.M
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲamanton
+\di b
+\ge NOM.MF
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲansɔn
+\di
+\ge NOM
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲèle
+\va Ɲèlen
+\di b
+\ge NOM.F
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲɛ̀ba
+\va Ɲɛ́ba
+\di b
+\ge NOM.F
+\dt 03/May/2010
+\ps n.prop
+
+\lx Ɲinɛ
+\di b
+\ge NOM.F
+\dt 03/May/2010
+
+\ps n.prop
+
 \lx Pápa
 \di m
 \ge NOM.M
@@ -2451,6 +2534,11 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Sanusiga
+\di b
+\ge NOM.M
+\ps n.prop
+
 \lx Sàran
 \va Sáràn
 \hn Nasaran
@@ -2506,12 +2594,6 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Sɛnɛ
-\di b
-\ge NOM.M
-\dt 03/May/2010
-\ps n.prop
-
 \lx Séni
 \di b
 \ge NOM.M
@@ -2530,12 +2612,6 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Sɛrɛba
-\di b
-\ge NOM.M
-\dt 03/May/2010
-\ps n.prop
-
 \lx Seriba
 \di b
 \ge NOM.M
@@ -2550,6 +2626,18 @@
 
 \lx Seynu
 \di
+\ge NOM.M
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sɛnɛ
+\di b
+\ge NOM.M
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sɛrɛba
+\di b
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
@@ -2634,12 +2722,6 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Sɔgɔna
-\di b
-\ge NOM.F
-\dt 03/May/2010
-\ps n.prop
-
 \lx Sòliba
 \di b
 \ge NOM.M
@@ -2663,6 +2745,12 @@
 \lx Sòrí
 \di b
 \ge NOM.M
+\dt 03/May/2010
+\ps n.prop
+
+\lx Sɔgɔna
+\di b
+\ge NOM.F
 \dt 03/May/2010
 \ps n.prop
 
@@ -2800,15 +2888,21 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Tɔ́gɔntan
+\lx Tiramagan
 \di b
-\ge NOM
-\dt 03/May/2010
+\ge NOM.M
+\ms nom d’aïeul du clan Traoré
 \ps n.prop
 
 \lx Tonkɔ
 \di
 \ge NOM.F
+\dt 03/May/2010
+\ps n.prop
+
+\lx Tɔ́gɔntan
+\di b
+\ge NOM
 \dt 03/May/2010
 \ps n.prop
 
@@ -2955,72 +3049,3 @@
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
-
-\lx Ɲa
-\di b
-\ge NOM.F
-\dt 03/May/2010
-\ps n.prop
-
-\lx Ɲàama
-\di m
-\ge NOM.F
-\dt 03/May/2010
-\ps n.prop
-
-\lx Ɲàgalen
-\di b
-\va Ɲaalen
-\va Ɲakalen
-\di m
-\va Ɲàlen
-\di mF
-\ge NOM.F
-\dt 03/May/2010
-\ps n.prop
-
-\lx Ɲama
-\di b
-\ge NOM.MF
-\dt 03/May/2010
-\ps n.prop
-
-\lx Ɲamakolon
-\di b
-\ge NOM.M
-\dt 03/May/2010
-\ps n.prop
-
-\lx Ɲamanton
-\di b
-\ge NOM.MF
-\dt 03/May/2010
-\ps n.prop
-
-\lx Ɲansɔn
-\di
-\ge NOM
-\dt 03/May/2010
-\ps n.prop
-
-\lx Ɲɛ̀ba
-\va Ɲɛ́ba
-\di b
-\ge NOM.F
-\dt 03/May/2010
-\ps n.prop
-
-\lx Ɲèle
-\va Ɲèlen
-\di b
-\ge NOM.F
-\dt 03/May/2010
-\ps n.prop
-
-\lx Ɲinɛ
-\di b
-\ge NOM.F
-\dt 03/May/2010
-
-\ps n.prop
-
