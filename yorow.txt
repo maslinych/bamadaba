@@ -1,4 +1,4 @@
-﻿\_sh v3.0  400  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 \_DateStampHasFourDigitYear
 \lang bam
 \name yorow
@@ -102,6 +102,12 @@
 \ru Америка
 \dt 23/May/2010
 \ps n.prop
+
+\lx Andalusi
+\ps n.prop
+\ge TOP
+\gv Andalousie
+\dt 19/Dec/2012
 
 \lx Angola
 \di b
@@ -468,6 +474,15 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Beresili
+\va Berezili
+\ty гос.
+\ge TOP
+\gv Brésil
+\ru Бразилия
+\dt 23/May/2010
+\ps n.prop
+
 \lx Bɛnɛn
 \ty гос.
 \ge TOP
@@ -490,15 +505,6 @@
 \ge TOP
 \gv Bénoué
 \cm (в Нигерии, приток Нигера)
-\dt 23/May/2010
-\ps n.prop
-
-\lx Beresili
-\va Berezili
-\ty гос.
-\ge TOP
-\gv Brésil
-\ru Бразилия
 \dt 23/May/2010
 \ps n.prop
 
@@ -735,6 +741,49 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Ɛcopi
+\va Ecupi
+\va Ɛtiyopi
+\ty гос.
+\ge TOP
+\gv Éthiopie
+\ru Эфиопия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɛ̀ndu
+\va Híndi
+\ty гос.
+\ge TOP
+\gv Inde
+\ru Индия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɛ̀njen
+\et fr. Indien
+\ty ок.
+\ge TOP
+\gv Océan.Indien
+\ru Индийский
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɛ̀ropi
+\va Erɔpu
+\ty конт.
+\ge TOP
+\gv Europe
+\ru Европа
+\dt 19/Dec/2012
+\ps n.prop
+
+\lx Ɛsipaɲi
+\ps n.prop
+\ge TOP
+\gv Espagne
+\dt 19/Dec/2012
+
 \lx Fagibini
 \ty оз.
 \ru Фагибини
@@ -858,6 +907,15 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Ginɛbiso
+\va Ginebisawo
+\ty гос.
+\ru Гвинея-Бисау
+\ge TOP
+\gv Guinée-Bissau
+\dt 23/May/2010
+\ps n.prop
+
 \lx Gbékeduu
 \di m
 \ty г.
@@ -876,15 +934,6 @@
 \ge TOP
 \gv Côte.d'Ivoire
 \sy Kɔ́nɔwari
-\dt 23/May/2010
-\ps n.prop
-
-\lx Ginɛbiso
-\va Ginebisawo
-\ty гос.
-\ru Гвинея-Бисау
-\ge TOP
-\gv Guinée-Bissau
 \dt 23/May/2010
 \ps n.prop
 
@@ -948,6 +997,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Irilandi
+\ps n.prop
+\ge TOP
+\gv Irelande
+\dt 19/Dec/2012
+
 \lx Irisi
 \va Irisila
 \va Rùsí
@@ -958,6 +1013,12 @@
 \ru Советский Союз
 \dt 23/May/2010
 \ps n.prop
+
+\lx Itali
+\ps n.prop
+\ge TOP
+\gv Italie
+\dt 19/Dec/2012
 
 \lx Jadakuru
 \ty гос.
@@ -1229,21 +1290,16 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Kolama
+\ps n.prop
+\ge TOP
+
 \lx Kolinbinna
 \ty р.
 \ru Колинбинна
 \ge TOP
 \gv Colimbiné
 \cm (правый приток реки Сенегал)
-\dt 23/May/2010
-\ps n.prop
-
-\lx Kɔ́nakiri
-\ty г.
-\ru Конакри
-\ge TOP
-\gv Conakry
-\cm (столица Гвинеи)
 \dt 23/May/2010
 \ps n.prop
 
@@ -1255,44 +1311,12 @@
 \dt 23/May/2010
 \ps n.prop
 
-\lx Kɔ́nɔwàri
-\va Kodiwari
-\va Konteware
-\va Kontuware
-\va Kɔ́ntɔwàri
-\va Konowari
-\va Kodiwari
-\va Kotiwari
-\ty гос.
-\ge TOP
-\gv Côte.d'Ivoire
-\ru Кот-д'Ивуар
-\dt 23/May/2010
-\ps n.prop
-
-\lx Kɔmɔri
-\va Kɔmɔɔru
-\ty гос.
-\ge TOP
-\gv Comores
-\ru Коморские острова
-\dt 23/May/2010
-\ps n.prop
-
 \lx Kore
 \ty гос.
 \ge TOP
 \gv Korea
 \ru Корея
 \dt 23/May/2010
-\ps n.prop
-
-\lx Kɔ́rɔfina
-\ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
 \ps n.prop
 
 \lx Kotonu
@@ -1311,6 +1335,51 @@
 \gv Koweït
 \dt 23/May/2010
 \ps n.prop
+
+\lx Kɔmɔri
+\va Kɔmɔɔru
+\ty гос.
+\ge TOP
+\gv Comores
+\ru Коморские острова
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kɔ́nakiri
+\ty г.
+\ru Конакри
+\ge TOP
+\gv Conakry
+\cm (столица Гвинеи)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Kɔ́nɔwàri
+\va Kodiwari
+\va Konteware
+\va Kontuware
+\va Kɔ́ntɔwàri
+\va Konowari
+\va Kɔdiwari
+\va Kotiwari
+\ty гос.
+\ge TOP
+\gv Côte.d'Ivoire
+\ru Кот-д'Ивуар
+\dt 17/Dec/2012
+\ps n.prop
+
+\lx Kɔ́rɔfina
+\ty кв.
+\ge TOP
+\gv quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Kucala
+\ps n.prop
+\ge TOP
 
 \lx Kulukɔrɔ
 \va Kulikɔrɔ
@@ -1332,6 +1401,10 @@
 Сьерра-Леоне; также одноимённый народ)
 \dt 23/May/2010
 \ps n.prop
+
+\lx Kurukanfuga
+\ps n.prop
+\ge TOP
 
 \lx Kurusa
 \va Kodosa
@@ -1498,6 +1571,14 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Mediterane
+\ty м.
+\ge TOP
+\gv Méditerranée
+\ru Средиземное
+\dt 23/May/2010
+\ps n.prop
+
 \lx Mɛ́din
 \ty кв.
 \ge TOP
@@ -1512,14 +1593,6 @@
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
-
-\lx Mediterane
-\ty м.
-\ge TOP
-\gv Méditerranée
-\ru Средиземное
-\dt 23/May/2010
 \ps n.prop
 
 \lx Mɛkisiki
@@ -1557,19 +1630,36 @@
 \dt 23/May/2010
 \ps n.prop
 
-\lx Mɔ́ngoli
-\ty гос.
-\ge TOP
-\gv Mongolie
-\ru Монголия
-\dt 23/May/2010
-\ps n.prop
-
 \lx Móritani
 \ty гос.
 \ge TOP
 \gv Mauritanie
 \ru Мавритания
+\dt 23/May/2010
+\ps n.prop
+
+\lx Móti
+\ty г.
+\ge TOP
+\gv Mopti
+\ru Мопти
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mozanbik
+\va Mozambik
+\ty гос.
+\ge TOP
+\gv Mozambique
+\ru Мозамбик
+\dt 23/May/2010
+\ps n.prop
+
+\lx Mɔ́ngoli
+\ty гос.
+\ge TOP
+\gv Mongolie
+\ru Монголия
 \dt 23/May/2010
 \ps n.prop
 
@@ -1588,23 +1678,6 @@
 \ge TOP
 \gv Maroc
 \ru Марокко
-\dt 23/May/2010
-\ps n.prop
-
-\lx Móti
-\ty г.
-\ge TOP
-\gv Mopti
-\ru Мопти
-\dt 23/May/2010
-\ps n.prop
-
-\lx Mozanbik
-\va Mozambik
-\ty гос.
-\ge TOP
-\gv Mozambique
-\ru Мозамбик
 \dt 23/May/2010
 \ps n.prop
 
@@ -1673,6 +1746,10 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Nyamina
+\ps n.prop
+\ge TOP
+
 \lx Nzɛ́rɛkɔ̀rɛ
 \va Nsɛrɛgbɛ̀dɛ
 \ty г.
@@ -1681,6 +1758,49 @@
 \ru Нзерекоре
 \cm (в Гвинее)
 \dt 23/May/2010
+\ps n.prop
+
+\lx Ɲangayi
+\ty оз.
+\ge TOP
+\gv Niangay
+\ru Ниангай
+\cm (в Мали, к востоку от внутренней дельты Нигера)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɲàni
+\ty г.
+\ge TOP
+\gv Niani
+\ru Ньяани
+\cm (столица древнего Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɲárɛla
+\ty кв.
+\ge TOP
+\gv quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
+\ps n.prop
+
+\lx Ɲòoro
+\ty г.
+\ge TOP
+\gv Nioro
+\ru Ниоро
+\cm (на северо-западе Мали)
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɲɔ̀miriyambugu
+\ty кв.
+\ge TOP
+\gv quartier.à.Bamako
+\cm (в Бамако)
+\dt 05/Dec/2010
 \ps n.prop
 
 \lx Olandi
@@ -1706,6 +1826,18 @@
 \ge TOP
 \gv Autriche
 \ru Австрия
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ɔtiwɔlita
+\va Otiwolita
+\va Hotu Wolita
+\va Walita Sandɔ
+\ty гос.
+\ge TOP
+\gv Haute-Volta
+\ru Верхняя Вольта
+\cm (c 1984 г. - Буркина Фасо)
 \dt 23/May/2010
 \ps n.prop
 
@@ -1749,20 +1881,20 @@
 \dt 05/Dec/2010
 \ps n.prop
 
+\lx Porito Novo
+\ty г.
+\ge TOP
+\gv Porto-Novo
+\ru Порто-Ново
+\dt 23/May/2010
+\ps n.prop
+
 \lx Pɔ́lɔn
 \va Pɔ̀lɔnɛ
 \ty гос.
 \ge TOP
 \gv Pologne
 \ru Польша
-\dt 23/May/2010
-\ps n.prop
-
-\lx Porito Novo
-\ty г.
-\ge TOP
-\gv Porto-Novo
-\ru Порто-Ново
 \dt 23/May/2010
 \ps n.prop
 
@@ -1896,6 +2028,15 @@
 \dt 05/Dec/2010
 \ps n.prop
 
+\lx Seno
+\ty плато
+\ru Сено
+\ge TOP
+\gv Sèno
+\cm (в Мали)
+\dt 23/May/2010
+\ps n.prop
+
 \lx Sɛndeni
 \ty г.
 \ge TOP
@@ -1907,12 +2048,13 @@
 \lx Sɛ̀nɛgali
 \va Senegali
 \va Sinakale
+\va Sinagali
 \va Sɛnɛgal
 \ty гос.
 \ge TOP
 \gv Sénégal
 \ru Сенегал
-\dt 23/May/2010
+\dt 17/Dec/2012
 \ps n.prop
 
 \lx Sɛnluwi
@@ -1921,15 +2063,6 @@
 \ge TOP
 \gv Saint-Louis
 \cm (в Сенегале)
-\dt 23/May/2010
-\ps n.prop
-
-\lx Seno
-\ty плато
-\ru Сено
-\ge TOP
-\gv Sèno
-\cm (в Мали)
 \dt 23/May/2010
 \ps n.prop
 
@@ -1958,6 +2091,10 @@
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
+
+\lx Sinsani
+\ps n.prop
+\ge TOP
 
 \lx Sinuwala
 \va Shinuwala
@@ -2004,14 +2141,6 @@
 \dt 23/May/2010
 \ps n.prop
 
-\lx Sɔ́mɔnɔso
-\ty кв.
-\ge TOP
-\gv quartier.à.Ségou
-\cm (в Сегу)
-\dt 05/Dec/2010
-\ps n.prop
-
 \lx Sotuba
 \ty порог
 \ru Сотуба
@@ -2029,6 +2158,14 @@
 \gv l’Union.Sovetique
 \ru Cоветский Союх
 \dt 23/May/2010
+\ps n.prop
+
+\lx Sɔ́mɔnɔso
+\ty кв.
+\ge TOP
+\gv quartier.à.Ségou
+\cm (в Сегу)
+\dt 05/Dec/2010
 \ps n.prop
 
 \lx Sudan
@@ -2103,6 +2240,11 @@
 \gv Tripolo
 \ru Триполи
 \dt 23/May/2010
+\ps n.prop
+
+\lx Tumutu
+\ge TOP
+\gv Tombouctou
 \ps n.prop
 
 \lx Tunusi
@@ -2247,95 +2389,3 @@
 \gv
 \dt 23/May/2010
 \ps n.prop
-
-\lx Ɲangayi
-\ty оз.
-\ge TOP
-\gv Niangay
-\ru Ниангай
-\cm (в Мали, к востоку от внутренней дельты Нигера)
-\dt 23/May/2010
-\ps n.prop
-
-\lx Ɲàni
-\ty г.
-\ge TOP
-\gv Niani
-\ru Ньяани
-\cm (столица древнего Мали)
-\dt 23/May/2010
-\ps n.prop
-
-\lx Ɲárɛla
-\ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
-\ps n.prop
-
-\lx Ɛcopi
-\va Ecupi
-\va Ɛtiyopi
-\ty гос.
-\ge TOP
-\gv Éthiopie
-\ru Эфиопия
-\dt 23/May/2010
-\ps n.prop
-
-\lx Ɛ̀ndu
-\va Híndi
-\ty гос.
-\ge TOP
-\gv Inde
-\ru Индия
-\dt 23/May/2010
-\ps n.prop
-
-\lx Ɛ̀njen
-\et fr. Indien
-\ty ок.
-\ge TOP
-\gv Océan.Indien
-\ru Индийский
-\dt 23/May/2010
-\ps n.prop
-
-\lx Ɲɔ̀miriyambugu
-\ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
-\ps n.prop
-
-\lx Ɲòoro
-\ty г.
-\ge TOP
-\gv Nioro
-\ru Ниоро
-\cm (на северо-западе Мали)
-\dt 23/May/2010
-\ps n.prop
-
-\lx Ɛ̀ropi
-\ty конт.
-\ge TOP
-\gv Europe
-\ru Европа
-\dt 23/May/2010
-\ps n.prop
-
-\lx Ɔtiwɔlita
-\va Otiwolita
-\va Hotu Wolita
-\va Walita Sandɔ
-\ty гос.
-\ge TOP
-\gv Haute-Volta
-\ru Верхняя Вольта
-\cm (c 1984 г. - Буркина Фасо)
-\dt 23/May/2010
-\ps n.prop
-
