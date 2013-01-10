@@ -54976,6 +54976,11 @@
 \cf íkomi
 \dt 26/Sep/2006
 
+\lx komini
+\ps n
+\ge commune
+\dt 10/Jan/2013
+
 \lx kòn
 \va nkòn
 \ue (-bk,-bn)
@@ -73009,6 +73014,11 @@
 \ge longue.durée
 \dt 16/Aug/2006
 
+\lx mɛri
+\ps n
+\ge mairie
+\dt 10/Jan/2013
+
 \lx mɛ̀sɛkɛ
 \ps n
 \sn 1
@@ -80087,6 +80097,11 @@
 \xv nà ní  fílen kúranin yé
 \xe apporte la calebasse toute neuve
 \dt 26/Sep/2006
+
+\lx nimɔrɔ
+\ps n
+\ge numéro
+\dt 10/Jan/2013
 
 \lx nìn
 \vc nì
@@ -95156,6 +95171,11 @@
 \rem Mol
 \dt 11/Nov/2007
 
+\lx santiri
+\ps n
+\ge centre
+\dt 10/Jan/2013
+
 \lx sánu
 \ps n
 \ge or
@@ -98414,6 +98434,12 @@
 \ge situation.de.groupe
 \lt (troupe.suf abs)
 \dt 16/Aug/2006
+
+\lx sɛriwusida
+\va sɛrɛwusida
+\ps n
+\ge service
+\dt 10/Jan/2013
 
 \lx sɛ́tanburu
 \va sɛ́tanbru

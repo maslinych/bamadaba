@@ -1236,6 +1236,11 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Jaratu
+\ps n.prop
+\ge NOM.F
+\dt 10/Jan/2013
+
 \lx Jariso
 \di m
 \ge NOM.M
@@ -3049,3 +3054,8 @@
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
+
+\lx Zanke
+\ps n.prop
+\ge NOM.M
+\dt 10/Jan/2013

@@ -278,6 +278,11 @@
 \dt 05/Dec/2010
 \ps n.prop
 
+\lx Baginda
+\ps n.prop
+\ge TOP
+\dt 10/Jan/2013
+
 \lx Bájalana
 \ty кв.
 \ge TOP
@@ -316,11 +321,12 @@
 \ps n.prop
 
 \lx Báko Jíkoroni
+\va Bakɔjikɔrɔnin
 \ty кв.
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
-\dt 05/Dec/2010
+\dt 10/Jan/2013
 \ps n.prop
 
 \lx Bakoyi
