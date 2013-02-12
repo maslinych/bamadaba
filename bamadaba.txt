@@ -626,6 +626,11 @@
 \ps n
 \ge radio
 
+\lx arayeda
+\ps n
+\ge bord.de.rails
+\dt 25/Jan/2013
+
 \lx àrijaba
 \va àrajaba
 \va àrjaba
@@ -7938,6 +7943,11 @@
 \sy síi
 \dt 16/Aug/2006
 
+\lx bíriki
+\ps n
+\ge brique
+\dt 06/Feb/2013
+
 \lx bìrikibaraka
 \ps v
 \vl vt
@@ -7946,6 +7956,13 @@
 \xe le ciel se couvre mais n'est pas noir
 \sy bìribara
 \dt 16/Aug/2006
+
+\lx bírikiden
+\mm bíriki:n:brique
+\mm dén:n:enfant
+\ps n
+\ge brique
+\dt 06/Feb/2013
 
 \lx bíri.len.na.baara
 \mm bíri:v:courber
@@ -8251,6 +8268,12 @@
 \xv bìyɛntulo dòn tún
 \xe réveiller une querelle
 \dt 16/Aug/2006
+
+\lx biyogazi
+\va biogazi
+\ps n
+\ge biogaz
+\dt 06/Feb/2013
 
 \lx bò
 \ps n
@@ -12518,6 +12541,12 @@
 \sm évoque la quantité de paroles
 \dt 26/Sep/2006
 
+\lx bùruwɛti
+\va bùruweti
+\ps n
+\ge brouette
+\dt 06/Feb/2013
+
 \lx búsun
 \ue (bk)
 \va músun
@@ -13294,6 +13323,14 @@
 \gv torsader des fils
 \sm (en les faisant rouler ...)
 \dt 16/Aug/2006
+
+\lx cɛ̀.farin.ya
+\mm cè:n:mâle
+\mm fárin:adj:adrent
+\mm ya:mrph:ABSTR
+\ps n
+\ge bravoure
+\dt 24/Jan/2013
 
 \lx cɛ́.fɛɛrɛn
 \mm cɛ́:n:milieu 
@@ -22316,6 +22353,7 @@
 \lx díɲɛ
 \va díyɛn
 \va jíɲɛ
+\va dúnuɲɛ
 \ph [dyɛn-->jɛn]
 \bw ar: dunya = monde
 \ps n
@@ -22324,7 +22362,7 @@
 \xe jamais de la vie !
 \xv díyɛn látigɛ
 \xe traverser le monde, vivre
-\dt 26/Sep/2006
+\dt 24/Jan/2013
 
 \lx díɲɛ.den
 \mm díɲɛ:n:monde
@@ -25331,6 +25369,15 @@
 \ge séisme
 \dt 11/Nov/2007
 
+\lx dùgu.kɔnɔ.na
+\mm dùgu:n:terre
+\mm kɔ́nɔ:pp:à.l'intérieur
+\mm na:mrph:LOC
+\ps n
+\ge centre.vill
+\gv intrérieur de village
+\dt 24/Jan/2013
+
 \lx dùgu.kunsigi
 \mm dùgu:n:terre
 \mm kùnsigi:n:cheveux
@@ -28019,6 +28066,16 @@
 \xe il m'a dénoncé
 \dt 26/Sep/2006
 
+\lx fànba
+\mm fàn:n:côté
+\mm ba:mrph:AUGM
+\ps n
+\ge majeure.partie
+\gv l'essentiel
+\gv la majorité de
+\gv
+\dt 06/Feb/2013
+
 \lx fán.da
 \mm fán:n:forge
 \mm dá:n:bouche
@@ -29195,7 +29252,7 @@
 \va fàsan
 \va pàsan
 \va pàsa
-\ps vq
+\ps vq/adj
 \sn 1
 \ge résistant
 \gv consistant
@@ -29204,7 +29261,7 @@
 \gv obstiné
 \xv à dá ká fàsa
 \xe il s'obstine à nier
-\dt 26/Sep/2006
+\dt 06/Feb/2013
 
 \lx fàsa
 \ps v
@@ -29884,6 +29941,7 @@
 \dt 12/Aug/2006
 
 \lx fyɛ́
+\va fíyɛ
 \ps v
 \sn 1
 \vl vt
@@ -29905,7 +29963,7 @@
 \sn 5
 \vl vr
 \gv faire.un.rase-mottes
-\dt 16/Aug/2006
+\dt 24/Jan/2013
 
 \lx fyɛ́baden
 \mm bá:n:fleuve
@@ -36606,6 +36664,7 @@
 \lx gàrijɛgɛ
 \va gàrisɛgɛ
 \va gàrjɛgɛ
+\va gɛ̀rɛsɛgɛ
 \bw ar: ar-rizq = subsistance, chance
 \ph [garjɛgɛ]
 \ps n
@@ -36617,7 +36676,7 @@
 \gv grossesse
 \xv ní  mùso mɛ́na ń'á má  gàrijɛgɛ sɔ̀rɔ...
 \xe si l'épouse reste longtemps sans entrer en grossesse...
-\dt 16/Aug/2006
+\dt 24/Jan/2013
 
 \lx gàrijɛgɛ
 \ps v
@@ -41316,7 +41375,7 @@
 \dt 11/Nov/2007
 
 \lx jàn
-\ps vq
+\ps vq/adj
 \sn 1
 \ge long
 \sn 2
@@ -41330,7 +41389,7 @@
 \xe cet endroit est éloigné
 \xv à bɔ́tuma ká jàn
 \xe il y a longtemps qu'il est sorti
-\dt 26/Sep/2006
+\dt 29/Dec/2012
 
 \lx jàn
 \ce jà et ses  expressions dans le sens de peur, courage; certaines langues voisines ont un même mot pur toutes ces acceptions)
@@ -41620,6 +41679,16 @@
 \ps n
 \ge croc-en-jambe
 \lt (piège.croc-en-jambe)
+
+\lx jàn.tó
+\mm jàn:n:attention
+\mm tó:v:rester
+\ps v
+\ge veiller
+\gv prendre soin de
+\gv surveiller
+\gv se méfier
+\dt 24/Jan/2013
 
 \lx jàn.to.ń.yɛ̀rɛ.la
 \mm jàn:n:attention
@@ -60855,6 +60924,11 @@
 \gv être.courbaturé
 \dt 26/Sep/2006
 
+\lx kùmu
+\ps adj
+\ge aigre
+\dt 06/Feb/2013
+
 \lx kúmu
 \ps v
 \ge vaincre
@@ -61176,17 +61250,26 @@
 \lt (amer.suf caus)
 \dt 16/Aug/2006
 
-\lx kùn.ba
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
-\ps vq
+\lx kùnba
+\ps vq/adj
 \ge gros
 \sy bòn
 \sy bèlebele
 \sy -bá
 \xv à ká kùnba
 \xe il est gros, elle est grosse
-\dt 16/Aug/2006
+\dt 24/Jan/2013
+
+\lx kùnba.ba
+\mm kùnba:vq/adj:gros
+\mm ba:mrph:AUGM
+\ps adj/n
+\ge gros
+\gv principal
+\gv le plus essentiel
+\gv le plus gros
+\gv somnifère (pop.)
+\dt 24/Jan/2013
 
 \lx kùn.ba.bin
 \mm kùn:n:tête
@@ -63631,6 +63714,11 @@
 \ge nain
 \gv nabot
 \dt 26/Sep/2006
+
+\lx kupudimɔndi
+\ps n
+\ge coupe.du.monde
+\dt 25/Jan/2013
 
 \lx kúra
 \ps adj
@@ -66934,6 +67022,13 @@
 \lt (préf.tourner-tourner)
 \dt 08/Nov/2012
 
+\lx lá.mɔ
+\mm lá:mrph:CAUS
+\mm mɔ̀:v:mûrir
+\ps n
+\ge éducation
+\dt 24/Jan/2013
+
 \lx lá.mɔ̀
 \mm lá:mrph:CAUS
 \mm mɔ̀:v:mûrir
@@ -67623,6 +67718,15 @@
 \sn 2
 \gv achever
 \dt 22/Nov/2012
+
+\lx lá.sègin
+\mm lá:mrph:CAUS
+\mm sègin:v:revenir
+\ps v
+\ge rendre
+\gv remettre
+\gv renvoyer
+\dt 02/Feb/2013
 
 \lx làsigidenso
 \mm dén:n:enfant
@@ -70034,6 +70138,14 @@
 \rem ex 21,7
 \dt 11/Nov/2007
 
+\lx màgasan
+\va màngasa
+\ps n
+\ge entrepôt
+\gv magasin
+\gv boutique
+\dt 06/Feb/2013
+
 \lx màga.ya
 \mm màga:vq:mou
 \mm ya:mrph:DEQU
@@ -70626,6 +70738,12 @@
 \ge malien
 \lt (Mali.enfant)
 \ee on s'attendait à màlìka ! qui ne se dit pas)
+
+\lx Malitɛl
+\ps n
+\ge Malitel
+\ee (opérateur téléphonique au Mali)
+\dt 25/Jan/2013
 
 \lx màli.wolo
 \mm màli:n:hippopotame
@@ -72431,6 +72549,12 @@
 \lt (orner.chose)
 \dt 26/Sep/2006
 
+\lx masɔn
+\va mɔsɔn
+\ps n
+\ge maçon
+\dt 06/Feb/2013
+
 \lx mà.sɔ̀rɔ
 \mm mà:mrph:SUPER
 \mm sɔ̀rɔ:v:obtenir
@@ -73142,6 +73266,11 @@
 \xe Que Dieu mette (ta bonne action) dans la balance ! (remerciement)
 \dt 16/Aug/2006
 
+\lx mikoro
+\ps n
+\ge microphone
+\dt 25/Jan/2013
+
 \lx mìlikimálaka
 \ps n
 \ge aube
@@ -73153,6 +73282,11 @@
 \ps n
 \ge sangsue
 \dt 16/Aug/2006
+
+\lx miliyɔn
+\ps num
+\ge million
+\dt 24/Jan/2013
 
 \lx mími
 \ue (bmk)
@@ -84738,6 +84872,7 @@
 
 \lx ntóolen
 \va ntòolèn
+\va ntúlen
 \ps n
 \ge petit.calao
 \sn 1
@@ -84748,7 +84883,7 @@
 \lat Tockus.erythrorynchus
 \sy kɔ́ngɔngɔki
 \sy cɛ̀kankan
-\dt 30/Nov/2012
+\dt 06/Feb/2013
 
 \lx ntóolen.ba.fin
 \mm ntóolen:n:petit.calao
@@ -85929,13 +86064,13 @@
 \ee (igname de brousse)
 \dt 19/Aug/2006
 
-\lx ń'ó tɛ́
-\va ń'ó ntɛ́
+\lx n'ó tɛ́
+\va n'ó ntɛ́
 \ee *xas : ntɛ = tɛ
 \ps conj
 \lt (si.cela.n'est pas)
 \ge sinon
-\dt 26/Sep/2006
+\dt 19/Jan/2013
 
 \lx ɲà
 \va ɲɛ̀
@@ -90371,6 +90506,15 @@
 \ge lieu.de.rendez-vous
 \dt 11/Nov/2007
 
+\lx ɲɔ̀gɔnna
+\ps n
+\ge pareil
+\gv semblable
+\gv identique
+\gv éqivalent
+\gv environ
+\dt 25/Jan/2013
+
 \lx ɲɔ́gɔn.na
 \mm ɲɔ́gɔn:prn:RECP
 \mm ná:pp:dans
@@ -91678,6 +91822,13 @@
 \ee (de différentes dimensions : servant de mesure pour les grains, la farine, les poudres ...)
 \dt 16/Aug/2006
 
+\lx pàara
+\va pàra
+\ps n
+\ge enjambée
+\gv pas
+\dt 24/Jan/2013
+
 \lx pàara.ɲɛ
 \mm pàara:n:enjambée
 \mm ɲɛ́:n:fois
@@ -92146,6 +92297,11 @@
 \lt (clairement.décider)
 \dt 26/Sep/2006
 
+\lx pese
+\ps v
+\ge peser
+\dt 06/Feb/2013
+
 \lx péwu
 \ps onomat
 \ge complètement
@@ -92598,6 +92754,11 @@
 \sy sàmatulo
 \ee arbre ---> 10 / 20 m (port caractéristique, les branches ne portent des feuilles qu'au sommet)
 \dt 26/Sep/2006
+
+\lx pɔri
+\ps n
+\ge port
+\dt 25/Jan/2013
 
 \lx pɔ́rɔ
 \ph [prrrɔ]
@@ -99470,6 +99631,12 @@
 \ge plumeux/poilu
 \dt 26/Sep/2006
 
+\lx siman
+\va simɔn
+\ps n
+\ge cément
+\dt 06/Feb/2013
+
 \lx sì.ma.ya
 \mm sì.ma:adj:durable
 \mm sì:n:vie
@@ -104239,15 +104406,15 @@
 \dt 16/Aug/2006
 
 \lx sùrun
-\ps vq
+\ps vq/adj
 \sn 1
-\ge être.court
+\ge court
 \ee petit de taille, bas (de hauteur ou de durée)
 \sn 2
-\gv être proche
+\gv proche
 \xv à ká sùrun Ségu lá
 \xe c'est près de Ségou
-\dt 26/Sep/2006
+\dt 29/Dec/2012
 
 \lx sùrundu
 \va sùruntu
@@ -110186,6 +110353,11 @@
 \lt (diarrhée.méchante)
 \dt 26/Sep/2006
 
+\lx tɔli
+\ps n
+\ge tôle
+\dt 25/Jan/2013
+
 \lx tɔ̀lɔ
 \va tlɔ̀
 \ph [tlɔ]
@@ -112180,13 +112352,17 @@
 \dt 16/Aug/2006
 
 \lx wáajibi
+\va wájibi
 \bw ar
 \ps v
 \vl vt
 \ge contraindre
-\dt 26/Sep/2006
+\dt 06/Feb/2013
 
 \lx wáajibi.ya
+\mm wáajibi:v:contraindre
+\mm ya:mrph:ABSTR
+\va wájibi.ya
 \mm wáajibi:v:contraindre
 \mm ya:mrph:ABSTR
 \bw ar
@@ -112196,7 +112372,7 @@
 \lt (obliger.suf caus)
 \xv cí bɛ́  né kàn k'à fɔ́, cí tɛ́  né kàn  kà mɔ̀gɔ wáajibiya k'à kɛ́
 \xe c'est mon devoir de le dire, non de forcer les gens à le faire.
-\dt 26/Sep/2006
+\dt 06/Feb/2013
 
 \lx wàa.ju
 \mm wàa:n:brousse
@@ -112765,6 +112941,12 @@
 \xv wàli bɔ́
 \xe jouer à ce jeu (planche à trous dans lesquels doivent entrer les graines servant à ce jeu)
 \dt 16/Aug/2006
+
+\lx wáli
+\ps n
+\ge autrui
+\sm toujours comme la première composante des mots composés
+\dt 29/Dec/2012
 
 \lx wáli.jamana
 \mm wáli:n:autrui
