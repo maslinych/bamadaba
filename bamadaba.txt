@@ -3917,6 +3917,11 @@
 \sy wólonugu
 \dt 26/Sep/2006
 
+\lx bánge.so
+\ps n
+\ge utérus
+\dt 19/Feb/2013
+
 \lx bàngɛyɛ
 \va bàngɔyɔ
 \ps n
@@ -10184,6 +10189,9 @@
 \lx bòn.ya
 \mm bòn:vq:ample
 \mm ya:mrph:DEQU
+\va bònyɛ
+\mm bòn:vq:ample
+\mm ya:mrph:DEQU
 \ps v
 \sn 1
 \vl vi
@@ -10206,7 +10214,7 @@
 \gv faire.des.cadeaux.à
 \xv ù yé  án bònya kósɛbɛ
 \xe ils nous ont fait beaucoup de cadeaux
-\dt 26/Sep/2006
+\dt 19/Feb/2013
 
 \lx bòn.ya.bali
 \mm bòn.ya:v:grossir
@@ -14037,11 +14045,11 @@
 \mm cɛ̀:n:mâle
 \mm ní:prep/conj:et
 \mm mùso:n:femme
-\mm yá:mrph:ABSTR
+\mm ya:mrph:ABSTR
 \ps n
 \ge rapports.sexuels
 \lt (homme.et.femme.suf abs)
-\dt 16/Aug/2006
+\dt 20/Feb/2013
 
 \lx cɛ̀.nin
 \mm cɛ̀:n:mâle
@@ -18846,6 +18854,12 @@
 \ge compter
 \gv recenser
 \dt 26/Sep/2006
+
+\lx dána
+\ps n
+\ge chancre.mou
+\gv syphilis
+\dt 19/Feb/2013
 
 \lx dánanjugu
 \mm júgu:vq/adj:mauvais
@@ -23884,6 +23898,7 @@
 
 \lx dóroko
 \va dórogo
+\va dóroga
 \ps v
 \vl vt
 \sn 1
@@ -23893,7 +23908,7 @@
 \gv mêler
 \xv ɲɛ́mɔgɔ mán kán  kà kɛ́  mɔ̀gɔ dórokolen yé  jàma ná
 \xe un chef ne doit pas se mêler à la foule
-\dt 16/Aug/2006
+\dt 19/Feb/2013
 
 \lx dóso
 \ps n
@@ -24706,13 +24721,15 @@
 \va dɔ̀gɔn
 \ve (f)
 \va dùngɔ
+\va dɔ̀ngɔn
 \ps n
-\ge volonté
+\ge désir
 \gv goût
 \gv bon.plaisir
+\gv volonté
 \xv Ála y'á dɔ̀ngɔ dòn  à lá, ń'ó yé  sàya yé
 \xe Dieu lui a manifesté sa volonté, je veux dire : la mort
-\dt 03/oct./2006
+\dt 20/Feb/2013
 
 \lx dɔ̀ngɔ.na
 \mm dɔ̀ngɔ:n:volonté
@@ -24961,6 +24978,13 @@
 \ge largeur
 \lt (côté.court)
 \dt 12/Aug/2006
+
+\lx dɔ́.wɛrɛ
+\mm dɔ́:dtm:certain
+\mm wɛ́rɛ:adj:autre
+\ps dtm
+\ge autre
+\dt 19/Feb/2013
 
 \lx dɔ́yi
 \ps onomat
@@ -26205,6 +26229,11 @@
 \xv kàrisa yé  nìn yɔ́rɔ dùnge yé
 \xe un tel fréquente volontiers cet endroit
 \dt 26/Sep/2006
+
+\lx dùngɔ
+\ps
+\ge
+\dt 20/Feb/2013
 
 \lx dùnguru
 \va tùnfuru
@@ -28250,6 +28279,11 @@
 \lt (côté.un.mourir)
 \dt 26/Sep/2006
 
+\lx fán.kisɛ
+\ps n
+\ge ovule
+\dt 19/Feb/2013
+
 \lx fànsi
 \ps n
 \ge tissu.manufacturé
@@ -29264,6 +29298,7 @@
 \dt 06/Feb/2013
 
 \lx fàsa
+\va pàsa
 \ps v
 \sn 1
 \vl vt
@@ -29279,7 +29314,7 @@
 \gv s'obstiner.à.nier
 \xv ń'í y'í fàsa  ò lá...
 \xe si tu t'obstines à ... (nier, mal agir ...)
-\dt 26/Sep/2006
+\dt 19/Feb/2013
 
 \lx fàsa.ba
 \mm fàsa:n:tendon
@@ -31864,6 +31899,7 @@
 \va fsà
 \ph [fsa]
 \va kùsa
+\va fùsa
 \sy swà
 \ps vq
 \ge mieux
@@ -31875,7 +31911,7 @@
 \xe c'est mieux pour toi
 \xv sàya ká fìsa  màlo yé
 \xe mieux vaut la mort que la honte (adage)
-\dt 26/Sep/2006
+\dt 19/Feb/2013
 
 \lx fìsa.man
 \mm fìsa:vq:mieux
@@ -37694,14 +37730,14 @@
 \vl vi
 \ge s'approcher
 \sy màdon
-\xv àna gɛ̀rɛ  tásuma ná !
+\xv kàna gɛ̀rɛ  tásuma ná !
 \xe ne t'approche pas du feu !
 \vl vt
 \gv approcher.qc.
 \xv gɛ̀rɛ ń ná !
 \xv à gɛ̀rɛ ń kɔ́rɔ !
 \xe approche-le de moi !
-\dt 16/Aug/2006
+\dt 20/Feb/2013
 
 \lx gɛ̀rɛgɛrɛ
 \va gwɛ̀rɛgwɛrɛ
@@ -43154,6 +43190,15 @@
 \lt (espoir.endroit)
 \dt 12/Aug/2006
 
+\lx jìgi.lá.mìsɛn.ya
+\mm jìgi:n:espoir
+\mm lá:mrph:CAUS
+\mm mìsɛn:vq:petit
+\mm ya:mrph:DEQU
+\ps v
+\ge décevoir
+\dt 19/Feb/2013
+
 \lx jìgi.la.mɔgɔ
 \mm jìgi:v:espérer
 \mm la:mrph:MNT1
@@ -48394,6 +48439,14 @@
 \ge raccourci
 \xv à táara  kàmakɔrɔsɔgɔsira fɛ̀
 \xe il a pris un raccourci
+
+\lx kàma.kɔrɔ.wo
+\mm kàma:n:épaule
+\mm kɔ́rɔ:n:dessous
+\mm wo:n:trou
+\ps n
+\ge creux.d'aisselle
+\dt 19/Feb/2013
 
 \lx kàma.kun
 \mm kàma:n:épaule
@@ -67737,6 +67790,12 @@
 \rem l 89, du, jos
 \dt 11/Nov/2007
 
+\lx lá.sìri
+\mm sìri:v:lier
+\ps v
+\ge engrosser
+\dt 19/Feb/2013
+
 \lx lá.sɔ̀mi
 \mm lá:mrph:CAUS
 \mm sɔ̀mi:v:soupçonner
@@ -71276,6 +71335,12 @@
 \gv bagatelle
 \rem jos
 \dt 11/Nov/2007
+
+\lx mána.nin
+\ps n
+\ge sac.plastique
+\gv préservatif
+\dt 19/Feb/2013
 
 \lx mána.nin.kun
 \mm mána:n:substance.collante
@@ -77603,6 +77668,14 @@
 \lt (sorte.suf abs)
 \dt 26/Sep/2006
 
+\lx násuguya
+\mm súgu:n:espèce
+\mm ya:mrph:ABSTR
+\ps n
+\ge sorte
+\gv espèce
+\dt 19/Feb/2013
+
 \lx nàta
 \ps n
 \ge cupidité
@@ -81551,6 +81624,12 @@
 \ee odeur désagréable (de ceux qui ne se lavent pas)
 \lt (crasse.odeur)
 \dt 16/Aug/2006
+
+\lx nkóroshyɛn
+\va nkóronshyɛn
+\ps n
+\ge bilharziose
+\dt 19/Feb/2013
 
 \lx nkósoro
 \ps n
@@ -88946,6 +89025,10 @@
 \mm ɲɛ́:n:oeil
 \mm ná:mrph:CAUS
 \mm jɛ́:v:blanchir
+\va ɲɛ́nɛjɛ
+\mm ɲɛ́:n:oeil
+\mm ná:mrph:CAUS
+\mm jɛ́:v:blanchir
 \ps v
 \vl vt
 \sn 1
@@ -88961,7 +89044,7 @@
 \lt (regard.rendre clair)
 \xv í bɛ́ sán ɲɛ́najɛ  kà táa  fòro lá
 \xe tu regardes le ciel et pars au champ
-\dt 26/Sep/2006
+\dt 19/Feb/2013
 
 \lx ɲɛ́.na.jɛ.kɛ.la
 \mm ɲɛ́.na.jɛ:n:réjouissance
@@ -99010,7 +99093,7 @@
 \xe reste assis sans bouger !
 \xv ù yé  bìlakoro sìgi  nɛ̀gɛ kɔ́rɔ
 \xe ils ont fait circoncire les jeunes garçons(
-\xv (é:)  né tùn lmá sìgi ní  ò yé
+\xv (é:)  né tùn má sìgi ní  ò yé
 \xe je ne m'y attendais pas
 \sn 2
 \vl vt
@@ -99039,7 +99122,7 @@
 \gv habiter
 \xv à sìgilen bɛ́ Bàmakɔ
 \xe il est domicilié à Bamako
-\dt 26/Sep/2006
+\dt 20/Feb/2013
 
 \lx sígi
 \ps n
@@ -102009,6 +102092,13 @@
 \ge asile
 \rem Mol, b
 \dt 11/Nov/2007
+
+\lx sòpisi
+\ps n
+\ge blennorragie
+\gv gonorrhée
+\gv gonococcie
+\dt 19/Feb/2013
 
 \lx sóro
 \ue (-bk)
@@ -106370,6 +106460,14 @@
 \xe éviter telle action
 \dt 16/Aug/2006
 
+\lx tànga
+\ps adv
+\ge nouvellement
+\gv tout récemment
+\ee n'apparaît qu'avec les participes résultatifs et nus
+\gv
+\dt 20/Feb/2013
+
 \lx tàngara
 \va tàngaran
 \va tànkɔrɔ
@@ -107741,6 +107839,11 @@
 \nt kb 1/05 p.5)
 \dt 11/Nov/2007
 
+\lx tɛ́sadì
+\ps intj
+\ge n'est-ce.pas
+\dt 19/Feb/2013
+
 \lx tɛ́tɛ
 \ps n
 \sn 1
@@ -108130,6 +108233,12 @@
 \xv kàrisa yé bànin tìgima yé
 \xe un tel est une petite chèvre qui appartient à qn (il ne s'en sort pas tout seul)
 \dt 16/Aug/2006
+
+\lx tìgimasina
+\va tìgimasinɛ
+\ps n
+\ge personne.en.question
+\dt 19/Feb/2013
 
 \lx tìgi.ntan.ya
 \mm tìgi:n:maître
@@ -114464,6 +114573,16 @@
 \ps n
 \ge fémur
 \lt (cuisse.os)
+
+\lx wóro.kɔrɔ.la
+\mm wóro:n:cuisse
+\mm kɔ́rɔ:n:dessous
+\mm la:mrph:LOC
+\ps n
+\ge entre-jambes
+\gv testicules (euph)
+\gv boule à l'aine
+\dt 19/Feb/2013
 
 \lx wóro.mugu
 \mm wóro:n:cuisse

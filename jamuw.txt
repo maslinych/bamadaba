@@ -657,7 +657,7 @@
 \ps n.prop
 \ge NOM.CL
 
-\lx Fofana
+\lx Fófana
 \eq Fònba
 \eq Magasa
 \eq Dancogo
@@ -682,7 +682,7 @@
 \ca hɔ̀rɔn
 \ca wage
 \fa Kànunjɔ́n
-\dt 06/May/2010
+\dt 17/Feb/2013
 \ps n.prop
 \ge NOM.CL
 
@@ -885,8 +885,7 @@
 \ps n.prop
 \ge NOM.CL
 
-\lx Jaane
-\va Janɛ
+\lx Jàanɛ
 \di son
 \di m
 \di mdk
@@ -902,7 +901,7 @@
 \sn Sila
 \tn jifa
 \cm мясо животного, зарезанного не по мусульманскому обряду
-\dt 06/May/2010
+\dt 17/Feb/2013
 \ps n.prop
 \ge NOM.CL
 
@@ -940,7 +939,7 @@
 \ps n.prop
 \ge NOM.CL
 
-\lx Jakite
+\lx Jàkite
 \di was
 \di ful
 \ca hɔ̀rɔn
@@ -951,7 +950,7 @@
 \sn Kyta
 \sn Sidibɛ
 \fa Kaba
-\dt 06/May/2010
+\dt 17/Feb/2013
 \ps n.prop
 \ge NOM.CL
 
@@ -1378,7 +1377,7 @@
 \ps n.prop
 \ge NOM.CL
 
-\lx Kamisoko
+\lx Kàmisoko
 \va Kamisogo
 \di m
 \di son
@@ -1390,7 +1389,7 @@
 \ca jèli
 \ms Знак - три продольных шрама на висках.
 \fa Sataba
-\dt 06/May/2010
+\dt 17/Feb/2013
 \ps n.prop
 \ge NOM.CL
 
@@ -1481,7 +1480,7 @@
 \cm в Бугуни
 \pr Bamagana
 \fa nùmuna kúlunba, súbagaya tɛ́ sà!
-\fa nùmuya` tɛ́ kɔ́rɔbɔ
+\fa Súya tɛ sànfɛn yé, nùmuya` tɛ́ kɔ́rɔbɔ
 \sn Kulibali
 \sn Keyita
 \sn Kamara
@@ -1489,7 +1488,7 @@
 \sn Jabo
 \sn Jakitɛ
 \sn фульбе
-\dt 06/May/2010
+\dt 17/Feb/2013
 \ps n.prop
 \ge NOM.CL
 
@@ -1722,11 +1721,12 @@
 \lx Konare
 \di b
 \va Konarɛ
-\va Konantɛ
+\va Konantɛ (?)
+\eq
 \ca hɔ́rɔn
 \re Kayi
 \tn nɔ́nsin
-\dt 06/May/2010
+\dt 18/Feb/2013
 \ps n.prop
 \ge NOM.CL
 
@@ -2513,9 +2513,9 @@ Sagone.
 \sn Kùlibàli
 \re Segu
 \re Sikaso
-\fa Sàma sènkaba, sàma bólokanba
+\fa Sàma sènkanba, sàma bólokanba
 \ms Гриоты у сонгаев.
-\dt 06/May/2010
+\dt 17/Feb/2013
 \ps n.prop
 \ge NOM.CL
 
