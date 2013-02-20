@@ -626,10 +626,10 @@
 \ps n
 \ge radio
 
-\lx arayeda
+\lx àrayeda
 \ps n
 \ge bord.de.rails
-\dt 25/Jan/2013
+\dt 20/Feb/2013
 
 \lx àrijaba
 \va àrajaba
@@ -654,6 +654,11 @@
 \lx arma
 \ps n
 \ge arma
+
+\lx ásipirini
+\ps n
+\ge aspirine
+\dt 20/Feb/2013
 
 \lx áw
 \ps pers
@@ -20684,6 +20689,11 @@
 \xe mes amis intimes ... m'ont tous oubliés (Job 19, 14)
 \dt 11/Nov/2007
 
+\lx démokarasi
+\ps n
+\ge démocratie
+\dt 20/Feb/2013
+
 \lx dèn
 \va dè
 \ps v
@@ -22058,10 +22068,6 @@
 \sy kɔ̀nɔninbin
 \dt 19/Aug/2006
 
-\lx digi
-\ps n
-\ge digue
-
 \lx dígi
 \ps v
 \vl vt
@@ -22094,6 +22100,11 @@
 \gv appuyer.sur
 \sm (sens physique ou moral)
 \dt 26/Sep/2006
+
+\lx dígi
+\ps n
+\ge digue
+\dt 20/Feb/2013
 
 \lx dìgon
 \ps n
@@ -39456,6 +39467,14 @@
 \lt (sage.suf abs)
 \dt 26/Sep/2006
 
+\lx hákili.na
+\mm hákili:n:esprit
+\mm na:mrph:MNT1
+\ps n
+\ge avis
+\gv impressions.personnelles
+\dt 20/Feb/2013
+
 \lx hákili.nata
 \mm hákili:n:esprit
 \mm nata:mrph:MNT2
@@ -39464,7 +39483,7 @@
 \gv impressions.personnelles
 \sy fɛ̀la
 \lt (pensée.part)
-\dt 26/Sep/2006
+\dt 20/Feb/2013
 
 \lx hákili.ntan
 \mm hákili:n:esprit
@@ -63768,10 +63787,10 @@
 \gv nabot
 \dt 26/Sep/2006
 
-\lx kupudimɔndi
+\lx kúpudimɔndi
 \ps n
 \ge coupe.du.monde
-\dt 25/Jan/2013
+\dt 20/Feb/2013
 
 \lx kúra
 \ps adj
@@ -69362,7 +69381,7 @@
 \xe c'est trop petit pour moi
 \xv í kán bɛ́  né mà wá ?
 \xe c'est à moi que tu causes ? tu dis cela de moi ?
-\dt 26/Sep/2006
+\dt 20/Feb/2013
 
 \lx mà
 \ps n
@@ -73348,10 +73367,10 @@
 \ge sangsue
 \dt 16/Aug/2006
 
-\lx miliyɔn
+\lx míliyɔn
 \ps num
 \ge million
-\dt 24/Jan/2013
+\dt 20/Feb/2013
 
 \lx mími
 \ue (bmk)
@@ -92838,10 +92857,10 @@
 \ee arbre ---> 10 / 20 m (port caractéristique, les branches ne portent des feuilles qu'au sommet)
 \dt 26/Sep/2006
 
-\lx pɔri
+\lx pɔ́ri
 \ps n
 \ge port
-\dt 25/Jan/2013
+\dt 20/Feb/2013
 
 \lx pɔ́rɔ
 \ph [prrrɔ]
@@ -95415,10 +95434,10 @@
 \rem Mol
 \dt 11/Nov/2007
 
-\lx santiri
+\lx sántiri
 \ps n
 \ge centre
-\dt 10/Jan/2013
+\dt 20/Feb/2013
 
 \lx sánu
 \ps n
@@ -98679,11 +98698,11 @@
 \lt (troupe.suf abs)
 \dt 16/Aug/2006
 
-\lx sɛriwusida
-\va sɛrɛwusida
+\lx sɛ̀riwusida
+\va sɛ̀rɛwusida
 \ps n
 \ge service
-\dt 10/Jan/2013
+\dt 20/Feb/2013
 
 \lx sɛ́tanburu
 \va sɛ́tanbru
@@ -109319,6 +109338,25 @@
 \lt (jeune initié.suf abs)
 \dt 16/Aug/2006
 
+\lx tìɲɛ
+\va cɛ̀n
+\va cìyɛn
+\va càn
+\va tìyɛn
+\ph [cɛ̀n]
+\ps n
+\sn 1
+\ge vérité
+\xv tìyɛn dòn
+\xe c'est vrai
+\xv tìyɛn ná
+\xe en vérité
+\sn 2
+\gv raison
+\xv tìyɛn tɛ́  í bólo
+\xe tu n'as pas raison tu as tort
+\dt 20/Feb/2013
+
 \lx tìri
 \va ntìiri
 \va tìiri
@@ -109379,25 +109417,6 @@
 \ps n
 \ge four
 \ee (creusé dans la terre, fosse de méchoui des chasseurs ...)
-
-\lx tìyɛn
-\va cɛ̀n
-\va cìyɛn
-\va càn
-\va tìɲɛ
-\ph [cɛ̀n]
-\ps n
-\sn 1
-\ge vérité
-\xv tìyɛn dòn
-\xe c'est vrai
-\xv tìyɛn ná
-\xe en vérité
-\sn 2
-\gv raison
-\xv tìyɛn tɛ́  í bólo
-\xe tu n'as pas raison tu as tort
-\dt 16/Aug/2006
 
 \lx tíyɛn
 \va ciyɛ́n
@@ -110462,10 +110481,10 @@
 \lt (diarrhée.méchante)
 \dt 26/Sep/2006
 
-\lx tɔli
+\lx tɔ́li
 \ps n
 \ge tôle
-\dt 25/Jan/2013
+\dt 20/Feb/2013
 
 \lx tɔ̀lɔ
 \va tlɔ̀
@@ -112125,6 +112144,11 @@
 \gv géomancien
 \lt (faire de la géomancie.celui qui)
 \dt 26/Sep/2006
+
+\lx túrisi
+\ps n
+\ge touriste
+\dt 20/Feb/2013
 
 \lx tú.rɔ.mina.jan
 \mm tú:n:touffe
