@@ -574,10 +574,10 @@
 \xe c'est le nôtre, c'est la nôtre, c'est à nous
 \dt 26/Sep/2006
 
-\lx àngílɛ
+\lx àngilɛ
 \ps n
 \ge anglais
-\dt 19/Dec/2012
+\dt 21/Feb/2013
 
 \lx àni
 \va àn'
@@ -5424,8 +5424,8 @@
 \ps v
 \vl vt
 \sn 1
-\ge changer
-\gv transformer
+\ge transformer
+\gv changer
 \gv dénaturer
 \lt (essentiel.changer)
 \sn 2
@@ -5435,7 +5435,7 @@
 \gv traduire
 \xv ù yé  fàama ká kúma báyɛlɛma  bámanakan ná
 \xe ils ont traduit en bambara les paroles du chef d'arrondissement
-\dt 26/Sep/2006
+\dt 21/Feb/2013
 
 \lx bá.yɛlɛma.baga
 \mm bá:n:mère
@@ -26868,6 +26868,13 @@
 \ge espagnol
 \dt 19/Dec/2012
 
+\lx ɛsipaɲikan
+\mm ɛsipaɲi:n:espagnol
+\mm kán:n:cou
+\ps n
+\ge langue.espagnole
+\dt 21/Feb/2013
+
 \lx fà
 \ps n
 \sn 1
@@ -31769,6 +31776,22 @@
 \lt (noir.suf caus)
 \dt 26/Sep/2006
 
+\lx fìɲɛ
+\va fyɛ̀n
+\ph [fy]
+\va fìyɛn
+\ps n
+\sn 1
+\ge défaut.physique
+\xv Màsa Ngála, í yé  fɛ́n mínnu bɛ́ɛ dá, fìyɛn bɛ́  yɔ́rɔ dɔ́ lá
+\xe Seigneur Dieu ! Parmi tes créatures il y a un défaut  !
+\sn 2
+\gv faute
+\gv erreur
+\xv fìyɛn b'í lá
+\xe tu n'as pas bien agi
+\dt 21/Feb/2013
+
 \lx fíɲɛ
 \va fíɲɛn
 \va fɛ́ɲɛn
@@ -32279,21 +32302,6 @@
 \ge cécité
 \lt (aveugle.suf abs)
 \dt 12/Aug/2006
-
-\lx fìyɛn
-\va fyɛ̀n
-\ph [fy]
-\va fìɲɛ
-\ps n
-\sn 1
-\ge défaut.physique
-\xv Màsa Ngála, í yé  fɛ́n mínnu bɛ́ɛ dá, fìyɛn bɛ́  yɔ́rɔ dɔ́ lá
-\xe Seigneur Dieu ! Parmi tes créatures il y a un défaut  !
-\sn 2
-\gv mauvaise.manière.d'agir
-\xv fìyɛn b'í lá
-\xe tu n'as pas bien agi
-\dt 16/Aug/2006
 
 \lx fíyɛn
 \va fyɛ́n
@@ -40349,10 +40357,24 @@
 \ge russe
 \dt 19/Dec/2012
 
+\lx irisikan
+\mm irisi:n:russe
+\mm kán:n:cou
+\ps n
+\ge langue.russe
+\dt 21/Feb/2013
+
 \lx itali
 \ps n
 \ge italien
 \dt 19/Dec/2012
+
+\lx italikan
+\mm itali:n:italien
+\mm kán:n:cou
+\ps n
+\ge langue.italienne
+\dt 21/Feb/2013
 
 \lx íyo
 \ue (bmk)
@@ -42895,6 +42917,18 @@
 \sy jɛ̀
 \sy lájɛ
 \dt 26/Sep/2006
+
+\lx jɛrimani
+\ps n
+\ge germanique
+\dt 21/Feb/2013
+
+\lx jɛrimanikan
+\mm jɛrimani:n:germanique
+\mm kán:n:cou
+\ps n
+\ge langue.germanique
+\dt 21/Feb/2013
 
 \lx jɛ̀.tura
 \mm jɛ̀:n:porc
@@ -46640,6 +46674,13 @@
 \ee (en région semi-aride)
 \dt 26/Sep/2006
 
+\lx kàanki
+\va káaki
+\ps n
+\ge glaire
+\gv crachat
+\dt 21/Feb/2013
+
 \lx káankɔ
 \ue (f)
 \va káako
@@ -46656,7 +46697,7 @@
 \gv crachat
 \xv jòli bɛ́ à kàanri lá
 \xe il y a du sang dans ses crachats
-\dt 26/Sep/2006
+\dt 21/Feb/2013
 
 \lx kàara
 \va kàrata
@@ -95090,13 +95131,13 @@
 \ge moustiquaire
 \dt 16/Aug/2006
 
-\lx sànkó
+\lx sànko
 \ps conj
 \ge surtout
 \gv pour que
 \gv afin de
 \sy jànko
-\dt 26/Sep/2006
+\dt 21/Feb/2013
 
 \lx sán.kolo
 \mm sán:n:haut
