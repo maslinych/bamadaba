@@ -12322,12 +12322,12 @@
 \dt 26/Sep/2006
 
 \lx búran.na
-\mm búran:n:beaux-parents
+\mm búran:n:beaux-parent
 \mm na:mrph:LOC
 \ps n
 \ge lieu.d'origine.de.l'épouse
 \lt (beau-père.lieu)
-\dt 16/Aug/2006
+\dt 24/Feb/2013
 
 \lx búran.ya
 \mm búran:n:beaux-parents
@@ -35051,6 +35051,13 @@
 \sm 11ème mois de l'année musulmane
 \lt (milieu.mois)
 \dt 16/Aug/2006
+
+\lx fúran.nan
+\mm fúran:v:balayer
+\mm nan:mrph:INSTR
+\ps n
+\ge balai
+\dt 24/Feb/2013
 
 \lx fúra.ntan
 \mm fúra:n:feuille
@@ -68926,6 +68933,12 @@
 \sy kúngolɛ
 \sy wúlarɔlɛ
 \dt 26/Sep/2006
+
+\lx lɛ́
+\ps n
+\ge plaine
+\gv terre innondée
+\dt 24/Feb/2013
 
 \lx lɛ́bɛlɛ̀bɛ́
 \va lébilèbí
