@@ -348,6 +348,14 @@
 \ge jeudi
 \lt (jeudi.jour)
 
+\lx àlamisa.don.ya
+\mm àlamisa:n:jeudi
+\mm dón:n:jour
+\mm ya:mrph:ABSTR
+\ps n
+\ge jeudi
+\dt 01/Mar/2013
+
 \lx ála.ɲɛ.siran.bali
 \mm Ála:n:Dieu
 \mm ɲɛ́:pp:devant
@@ -5858,10 +5866,11 @@
 \va bɛ́rɛn
 \va béren
 \va bélen
+\va bɛ́lɛn
 \ps n
 \ge oncle.maternel
 \lt (parent côté maternel.homme)
-\dt 16/Aug/2006
+\dt 24/Feb/2013
 
 \lx bɛ́ɛn.kɛ
 \mm bɛ́ɛn:n:oncle.maternel 
@@ -12262,34 +12271,34 @@
 \lx búran
 \ps n
 \sn 1
-\ge beaux-parents
+\ge beaux-parent
 \gv parent.par.alliance
 \gv belle-fille
 \gv gendre
 \sn 2
 \gv belle-famille
 \ee beaux-frères et belles-soeurs plus âgés que le conjoint
-\dt 26/Sep/2006
+\dt 24/Feb/2013
 
 \lx búran.ci
-\mm búran:n:beaux-parents
+\mm búran:n:beaux-parent
 \mm cí:n:commission
 \ps n
 \ge travail.du.gendre.chez.ses.beaux-parents
 \lt (beau-père.travail)
-\dt 16/Aug/2006
+\dt 24/Feb/2013
 
 \lx búran.gosi.dibi
-\mm búran:n:beaux-parents
+\mm búran:n:beaux-parent
 \mm gòsi:v:battre
 \mm dìbi:n:obscurité
 \ps n
 \ge ténèbres.épaisses
 \lt (beaux-parents.frapper.ténèbres)
-\dt 16/Aug/2006
+\dt 24/Feb/2013
 
 \lx búran.kɛ
-\mm búran:n:beaux-parents
+\mm búran:n:beaux-parent
 \mm kɛ:adj:mâle
 \ps n
 \ge parent.par.alliance
@@ -12303,10 +12312,10 @@
 \sn 3
 \gv beau-fils
 \gv gendre
-\dt 26/Sep/2006
+\dt 24/Feb/2013
 
 \lx búran.muso
-\mm búran:n:beaux-parents
+\mm búran:n:beaux-parent
 \mm mùso:adj:femme
 \ps n
 \ge parente.par.alliance
@@ -12319,7 +12328,7 @@
 \sn 3
 \gv belle-soeur
 \sm grande soeur du mari + femme d'un frère cadet
-\dt 26/Sep/2006
+\dt 24/Feb/2013
 
 \lx búran.na
 \mm búran:n:beaux-parent
@@ -12330,7 +12339,7 @@
 \dt 24/Feb/2013
 
 \lx búran.ya
-\mm búran:n:beaux-parents
+\mm búran:n:beaux-parent
 \mm ya:mrph:ABSTR
 \ps n
 \ge affinité
@@ -12341,7 +12350,7 @@
 \sm entre la femme et les parents ou les aînés de son mari
 \sn 3
 \sm manière de se traiter les uns les autres
-\dt 16/Aug/2006
+\dt 24/Feb/2013
 
 \lx bùre
 \va bùri
@@ -24104,6 +24113,14 @@
 \gv bêcher
 \dt 26/Sep/2006
 
+\lx dɔ́gɔ.da
+\mm dɔ́gɔ:n:marché
+\mm dá:v:poser
+\ps v
+\ge fixer.date
+\gv prévoir
+\dt 01/Mar/2013
+
 \lx dɔ́gɔ.den
 \mm dɔ́gɔ:n:marché
 \mm dén:n:enfant
@@ -29432,6 +29449,11 @@
 \gv affaiblir
 \dt 26/Sep/2006
 
+\lx fásan
+\ps n
+\ge avilissement
+\dt 01/Mar/2013
+
 \lx fàsani
 \ue (-f,-bk)
 \ps v
@@ -29622,6 +29644,21 @@
 \gv mânes.des.ancêtres
 \ee (ceux des générations précédentes)
 \dt 16/Aug/2006
+
+\lx fásugu
+\mm súgu:n:espèce
+\ps n
+\ge sorte
+\gv espèce
+\dt 01/Mar/2013
+
+\lx fásugu.ya
+\mm súgu:n:espèce
+\mm ya:mrph:ABSTR
+\ps n
+\ge sorte
+\gv espèce
+\dt 01/Mar/2013
 
 \lx fàtawu
 \bw ar:
@@ -33746,6 +33783,11 @@
 \xe tu commences par te laver les mains
 \dt 16/Aug/2006
 
+\lx fɔ́lɔ
+\ps n
+\ge autrefois
+\dt 28/Feb/2013
+
 \lx fɔ́lɔfɔlɔ
 \mm fɔ́lɔ:adj:premier
 \ps n
@@ -34361,6 +34403,15 @@
 \sn 2
 \gv condom
 \dt 26/Sep/2006
+
+\lx fúgulanafama
+\mm fugula:n:chapeau
+\mm nafama:adj:profitable
+\mm nàfa:n:profit
+\mm ma:mrph:COM
+\ps n
+\ge préservatif
+\dt 01/Mar/2013
 
 \lx fúguri
 \ps n
@@ -38867,6 +38918,12 @@
 \gv battoir
 \lt (frapper.ce qui sert à)
 \dt 26/Sep/2006
+
+\lx grɛ́n
+\ps n
+\ge grin
+\ee (groupe d'amis qui se réunissent pour prendre le thé ensemble)
+\dt 28/Feb/2013
 
 \lx gùdɔrɔn
 \bw fr.
@@ -46036,6 +46093,21 @@
 \sy gèjuma
 \dt 12/Aug/2006
 
+\lx júma.don
+\mm júma:n:vendredi
+\mm dón:n:jour
+\ps n
+\ge vendredi
+\dt 01/Mar/2013
+
+\lx júma.don.ya
+\mm júma:n:vendredi
+\mm dón:n:jour
+\mm ya:mrph:ABSTR
+\ps n
+\ge vendredi
+\dt 01/Mar/2013
+
 \lx jùmɛ
 \ps n
 \ge oiseau.marabout
@@ -46682,11 +46754,11 @@
 \dt 26/Sep/2006
 
 \lx kàanki
-\va káaki
+\va kàaki
 \ps n
 \ge glaire
 \gv crachat
-\dt 21/Feb/2013
+\dt 25/Feb/2013
 
 \lx káankɔ
 \ue (f)
@@ -48932,6 +49004,11 @@
 \gv tailler
 \dt 26/Sep/2006
 
+\lx kána
+\ps n
+\ge protection
+\dt 01/Mar/2013
+
 \lx kána.baa
 \mm kána:v:protéger
 \mm baa:mrph:AG.OCC
@@ -49701,8 +49778,8 @@
 \ps v
 \sn 1
 \vl vt
-\ge faire
-\gv refaire
+\ge refaire
+\gv faire
 \sm (murette de la terrasse d'une maison en banco)
 \lt (cou / voix.sortir)
 \sn 2
@@ -49713,7 +49790,7 @@
 \vl vr
 \gv adresser.la.parole
 \sm à ... mà
-\dt 26/Sep/2006
+\dt 01/Mar/2013
 
 \lx kán.na.jala
 \mm kán:n:cou
@@ -54625,6 +54702,11 @@
 \gv donner.une.forme.cylindrique
 \dt 16/Aug/2006
 
+\lx kólokolo
+\ps v
+\ge rassembler
+\dt 28/Feb/2013
+
 \lx kólokoto
 \ps onomat
 \ge refus.catégorique
@@ -59290,9 +59372,11 @@
 \ps n
 \ge le.plus.vieux
 \lt (vieux.très.suf)
+\gv lorsque on est plus vieux
+\gv étant plus âgé
 \xv mása rɔ́ kɔ̀rɔbalen, ò yé  à mɔ̀kɛ yé
 \xe le plus âgé des générations précédentes est son grand'père
-\dt 16/Aug/2006
+\dt 28/Feb/2013
 
 \lx kɔ́rɔ.bari
 \mm kɔ́rɔ:n:dessous
@@ -60115,10 +60199,10 @@
 \mm kɔ́:n:dos
 \mm tá:n:propriété
 \ps n
-\ge qui.vient.après
-\gv prochain
+\ge prochain
+\gv qui.vient.après
 \lt (derrière.part)
-\dt 26/Sep/2006
+\dt 01/Mar/2013
 
 \lx kɔ̀tɛ
 \va kwɔ̀tɛ
@@ -61570,16 +61654,16 @@
 \mm bɔ́:v:sortir
 \ps v
 \sn 1
+\vl vi
+\gv apparaître
+\sn 2
 \vl vt
 \ge dévier
 \ee (une arme, des paroles ...)
 \lt (tête.sortir)
 \xv à kùnbɔ ń kàn
 \xe ne t'adresse pas à moi (ça ne me regarde pas)
-\sn 2
-\vl vi
-\gv apparaître
-\dt 26/Sep/2006
+\dt 01/Mar/2013
 
 \lx kùn.cɛ
 \mm kùn:n:tête
@@ -83903,6 +83987,15 @@
 \ge moëlle
 \dt 16/Aug/2006
 
+\lx nsɛ́mɛ
+\va nsɛ́ɛmɛ
+\va sɛ́mɛ
+\va sɛ́ɛma
+\ps n
+\ge mentor
+\ee (homme chargé d'encadrer les nouveaux circoncis)
+\dt 28/Feb/2013
+
 \lx nsɛ́rɛ
 \ps n
 \ge cheval.noir
@@ -104074,6 +104167,13 @@
 \sd gram
 \dt 26/Sep/2006
 
+\lx súna
+\ps n
+\ge facultatif
+\ee non obligatoire, mais permis
+\gv sounna
+\dt 01/Mar/2013
+
 \lx sùnaa.baa.tɔ
 \mm sùnaa:v:dormir
 \mm baa:mrph:AG.OCC
@@ -107038,6 +107138,23 @@
 \sm (poser ...)
 \dt 16/Aug/2006
 
+\lx téli
+\ue (bn)
+\va tɛ́li
+\ue (bk, f)
+\va télin
+\ps vq
+\sn 1
+\ge être.rapide
+\ee de cycle court
+\xv à dùsubɔ ká tɛ́li
+\xe il se fâche vite
+\sn 2
+\gv être très probable
+\xv bála ká tɛ́li kà fɔ́  sú ìn nɔ́
+\xe il est très probable qu'on va jouer du balafon ce soir
+\dt 01/Mar/2013
+
 \lx télu
 \ue (-bk)
 \ps n
@@ -107588,22 +107705,6 @@
 \xv à yé tɛ́lɛ dá à ɲɛ́
 \xe il lui a fait un croc-en-jambes
 \dt 12/Aug/2006
-
-\lx tɛ́li
-\ue (bk,f)
-\va téli
-\ue (bn)
-\ps vq
-\sn 1
-\ge être.rapide
-\ee de cycle court
-\xv à dùsubɔ ká tɛ́li
-\xe il se fâche vite
-\sn 2
-\gv être très probable
-\xv bála ká tɛ́li kà fɔ́  sú ìn nɔ́
-\xe il est très probable qu'on va jouer du balafon ce soir
-\dt 26/Sep/2006
 
 \lx tɛ́li.man
 \mm tɛ́li:vq:être.rapide
@@ -112651,13 +112752,17 @@
 \ee aux pieds écartés, destiné aux hommes)
 \dt 26/Sep/2006
 
-\lx wàansofili
+\lx wàanso
+\ps n
+\ge force.vitale.des.incirconcis
+\dt 28/Feb/2013
+
+\lx wàanso.fili
+\mm wàanso:n:force.vitale.des.incirconcis
 \mm fìli:v:jeter
 \ps n
-\ge fête.des.jeunes.filles
-\ee ancienne fête des jeunes filles au Bèlèdugu
-\lt ( ? . jeter )
-\dt 16/Aug/2006
+\ge fête.d'initiation
+\dt 28/Feb/2013
 
 \lx wáari
 \ps v

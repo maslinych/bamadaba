@@ -3012,6 +3012,11 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ps n.prop
 \ge NOM.CL
 
+\lx Tabure
+\ps
+\ge Maures
+\dt 25/Feb/2013
+
 \lx Tal
 \di tou
 \dt 06/May/2010
