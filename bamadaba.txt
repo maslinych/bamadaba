@@ -1670,10 +1670,9 @@
 \ue (f)
 \ps pm
 \ge INFR
-\sm (prédicatif verbal accompli des verbes transitifs = ye)
 \xv à bága  à dún =  à y'á dún
 \xe il l'a mangé
-\dt 19/Aug/2006
+\dt 27/Mar/2013
 
 \lx bàgabaga
 \ps n
@@ -6427,9 +6426,9 @@
 \ee favorable : chance
 \xv kàtugu  bɛ̀nsenma  àni  bɛ̀nsenmabaliya bɛ́  mɔ̀gɔ bɛ́ɛ sɔ̀rɔ
 \xe à tous arrivent heur et malheur (Qo 9, 11)
-\dt 11/Nov/2007
+\dt 15/Mar/2013
 
-\le bɛɲɛ
+\lx bɛɲɛ
 \vc biɲɛ
 \vc bagan
 \vc banga
@@ -6443,7 +6442,7 @@
 \gv nu
 \ee (sens particulier)
 \ue (bk)
-\dt 26/Sep/2006
+\dt 15/Mar/2013
 
 \lx bɛ̀rɛ
 \ps n
@@ -24816,6 +24815,10 @@
 \dt 26/Sep/2006
 
 \lx dɔ́nkɔri
+\va dònkari
+\va dòngari
+\va dɔ̀ngari
+\va dɔ̀nkari
 \ps n
 \sn 1
 \ge acacia.verek
@@ -24827,7 +24830,7 @@
 \sd mimo
 \ee ---> 8 m ( kl ) (épines recourbées en griffes sur les rameaux)
 \sy nsòfaraŋɔni
-\dt 08/Sep/2006
+\dt 28/Mar/2013
 
 \lx dɔ́n.mɔgɔ
 \mm dɔ́n:v:connaître
@@ -29474,7 +29477,7 @@
 \ge abrutissement
 \gv impudence
 \lt (avili.suf abs)
-\dt 26/Sep/2006
+\dt 27/Mar/2013
 
 \lx fàsari
 \fq rare
@@ -52568,6 +52571,11 @@
 \sy dɛ́sɛ
 \dt 26/Sep/2006
 
+\lx kɛ́ɲɛ
+\ps n
+\ge échec
+\dt 28/Mar/2013
+
 \lx kɛ̀ɲɛka
 \mm kɛ̀ɲɛ:n:sable
 \ps n
@@ -64646,8 +64654,8 @@
 
 \lx lá
 \ps intj
-\ge ce.n'est.pas..vrai
-\dt 16/Aug/2006
+\ge ce.n'est.pas.vrai
+\dt 28/Mar/2013
 
 \lx lá
 \fq r
@@ -64737,9 +64745,14 @@
 \mm láadi:v:conseiller
 \mm li:mrph:NMLZ
 \mm kán:n:cou
+\va ládi.li.kan
+\mm ládi:v:conseiller
+\mm li:mrph:NMLZ
+\mm kán:n:cou
 \ps n
 \ge conseil
 \lt (conseiller.action.parole)
+\dt 28/Mar/2013
 
 \lx láadi.li.kɛ.la
 \mm láadi:v:conseiller
@@ -64829,11 +64842,11 @@
 \ee (c'est le "seri" des Wolofs)
 \dt 16/Aug/2006
 
-\lx làálà
+\lx làalà
 \va làlà
 \ps adv
 \ge peut-être
-\dt 16/Aug/2006
+\dt 28/Mar/2013
 
 \lx làaminɛ
 \va làamɔnɛ
@@ -65457,10 +65470,12 @@
 \ph [laja]
 \ps v
 \vl vt
-\ge récompenser
+\ge faire.plaisir
+\gv satisfaire
+\gv récompenser
 \gv donner.des.gâteries
 \lt (préf.faire plaisir)
-\dt 26/Sep/2006
+\dt 28/Mar/2013
 
 \lx lá.di.ya.li.fɛn
 \mm lá.di.ya:v: récompenser
@@ -66578,16 +66593,15 @@
 \gv critiquer
 \dt 26/Sep/2006
 
-\lx lá.kari
-\mm lá:mrph:CAUS
-\mm kári:v:casser
+\lx lákari
+\va lánkari
 \ps n
 \sn 1
 \ge antidote
 \sn 2
 \gv adversaire
 \lt (préf.contrer)
-\dt 26/Sep/2006
+\dt 28/Mar/2013
 
 \lx lá.kari
 \mm lá:mrph:CAUS
@@ -71308,6 +71322,13 @@
 \lt (fiançailles.femme)
 \dt 26/Sep/2006
 
+\lx mà.mɔ̀
+\mm mà:mrph:SUPER
+\mm mɔ̀:v:mûrir
+\ps v
+\ge donner.longue.vie
+\dt 27/Mar/2013
+
 \lx màmuluku
 \ps n
 \ge haricot
@@ -73555,6 +73576,9 @@
 \dt 26/Sep/2006
 
 \lx mín
+\va mun
+\ee la forme mun apparaît régulièrement dans certains dialectes du
+nord-est
 \ps prn
 \ge REL
 \ee ...au pluriel : minnu
@@ -73572,7 +73596,7 @@
 \ee son corrélatif dans la principale est 'ò' au sing. et 'òlu' au pl.
 \xv í túlo bɛ́  wɔ̀lɔ mínnu kàsikan ná, né bɛ́ táa  òlu fàga
 \xe je m'en vais tuer les francolins que tu entends chanter
-\dt 26/Sep/2006
+\dt 28/Mar/2013
 
 \lx mín
 \va míni
@@ -76690,6 +76714,11 @@
 \xe de tes amis qui sont à Bamako, celui qui peut venir vient
 \dt 12/Aug/2006
 
+\lx nà
+\ps n
+\ge mère
+\dt 28/Mar/2013
+
 \lx ná
 \ps conj
 \ge POS
@@ -76885,12 +76914,13 @@
 
 \lx nàbi
 \va nàbila
+\va nàbilayi
 \bw ar: nabi = prophète
 \ps n
 \ge prophète
 \gv saint
 \ee (les musulmans donnent ce titre à Jésus : nàbi Isa )
-\dt 26/Sep/2006
+\dt 27/Mar/2013
 
 \lx ná.bulu
 \mm ná:n:sauce
@@ -87044,6 +87074,19 @@
 \ee (gros pigeon lié à la présence des rôniers)
 \dt 26/Sep/2006
 
+\lx ɲà.ń.yɛ̀rɛ.lá
+\mm ɲà:v:réussir
+\mm ń:pers:1SG
+\mm yɛ̀rɛ:dtm:même
+\mm lá:pp:dans
+\ps n
+\ge vaniteux
+\ge prétentieux
+\ge homme d'honneur
+\ge vanité
+\ge
+\dt 27/Mar/2013
+
 \lx ɲàɲa
 \ue (f)
 \ps n
@@ -91772,8 +91815,10 @@
 \dt 16/Aug/2006
 
 \lx ŋɔ́ni
+\va mɔ́ni
 \ps n
 \ge épine
+\dt 28/Mar/2013
 
 \lx ŋɔ́ni.bɔ.lan
 \mm ŋɔ́ni:n:épine
@@ -91960,11 +92005,12 @@
 \lx ó
 \va wó
 \ps prt
-\ge hé
+\ge emphathie
+\ee particule d'empathie
 \sm (appel)
 \xv cɛ̀ ó !
 \xe hé  (l'homme) !
-\dt 16/Aug/2006
+\dt 27/Mar/2013
 
 \lx ó
 \va óo
@@ -92901,6 +92947,12 @@
 \ge menacer
 \sm effrayer par des menaces ou des coups superficiels
 
+\lx pótopàtapoto
+\ps n
+\ge bâclage
+\gv travail mal fait
+\dt 28/Mar/2013
+
 \lx póyi
 \ue (bmk)
 \ps n
@@ -93413,6 +93465,12 @@
 \gv écumer
 \sm enlever les saletés qui surnagent
 \dt 26/Sep/2006
+
+\lx sàalo
+\va sàlo
+\ps v
+\ge sortir.de.réclusion
+\dt 27/Mar/2013
 
 \lx sáamɛ
 \ps n
@@ -96025,6 +96083,12 @@
 \ee texte d'une charte ; clause d'un contrat
 \rem l89
 \dt 11/Nov/2007
+
+\lx sàrawisi
+\ps n
+\ge service.militaire
+\gv soldat
+\dt 28/Mar/2013
 
 \lx sàri
 \ps n
@@ -100079,6 +100143,12 @@
 \xv í ká nɛ̀gɛso sínga  né mà
 \xe prête-moi ton vélo
 \dt 16/Aug/2006
+
+\lx sínga
+\ps n
+\ge emprunt
+\gv objet emprunté
+\dt 27/Mar/2013
 
 \lx sín.gɛrɛntɛ.lan
 \mm sín:n:sein
@@ -107825,6 +107895,7 @@
 \dt 19/Dec/2012
 
 \lx tɛ̀nɛ
+\va tìnɛ
 \va tnɛ̀
 \ph [tnɛ]
 \ps n
@@ -107842,7 +107913,7 @@
 \xe le vol, les fétiches, l'adultère sont des interdits pour les chrétiens
 \xv à ká dí  kóoro dá, káana tɛ̀nɛ tɛ́  à lá
 \xe le varan de terre aime ça,  ce n'est pas (pour autant) l'interdit du varan du Nil(prov)
-\dt 12/Aug/2006
+\dt 28/Mar/2013
 
 \lx tɛ̀nɛ
 \ps v
@@ -113106,6 +113177,11 @@
 \gv bien régler une affaire
 \dt 26/Sep/2006
 
+\lx wálawala
+\ps adv
+\ge très.clair
+\dt 28/Mar/2013
+
 \lx wàláyi
 \va wàláahi
 \va wàlláyi
@@ -113961,10 +114037,11 @@
 \dt 16/Aug/2006
 
 \lx wélewele
+\va wólowolo
 \ps n
 \ge moucheron
 \ee (qui fabrique un peu de cire et de miel)
-\dt 16/Aug/2006
+\dt 28/Mar/2013
 
 \lx wélewele
 \va wɛ́lɛwɛlɛ
@@ -114190,15 +114267,6 @@
 \ps conj
 \ge ou.bien
 \ee particule marquant des hypothèses successives
-\xv à bɛ́ nà wó, à tɛ́ nà wó, ò bɛ́ɛ ká kán
-\xe qu'il vienne ou non, c'est pareil
-\dt 26/Sep/2006
-
-\lx wó
-\ps conj
-\ge DISTR
-\ee particule marquant des hypothèses successives
-\ee plusieurs possibilités (en fin de proposition)
 \xv à bɛ́ nà wó, à tɛ́ nà wó, ò bɛ́ɛ ká kán
 \xe qu'il vienne ou non, c'est pareil
 \dt 26/Sep/2006
@@ -114522,16 +114590,17 @@
 \sy fólon
 \dt 26/Sep/2006
 
-\lx wólonfila
+\lx wólonfìla
 \mm fìla:num:deux
 \va wólonfla
 \mm flà:num:deux
 \ph [wolonfla]
-\va wólonwula
+\va wólonwùla
+\va wólonfùla
 \ps num
 \ge sept
 \lt (cinq.deux)
-\dt 16/Aug/2006
+\dt 27/Mar/2013
 
 \lx wólonfila.nan
 \mm wólonfila:num:sept
@@ -115918,6 +115987,11 @@
 \gv se vanter
 \dt 26/Sep/2006
 
+\lx yàada
+\ps n
+\ge arrogance
+\dt 27/Mar/2013
+
 \lx yàada.len.ya
 \mm yàada:v:être.arrogant
 \mm len:mrph:PTCP.RES
@@ -116441,6 +116515,11 @@
 \xe on l'a retrouvé ! (eurêka !)
 \dt 26/Sep/2006
 
+\lx yé
+\ps cop
+\ge BE
+\dt 27/Mar/2013
+
 \lx yé kà
 \ps pm
 \ge RCNT
@@ -116668,6 +116747,12 @@
 \ge hou.la
 \sm exclamation de surprise, d'admiration
 \dt 26/Sep/2006
+
+\lx yɛ́ɛ
+\va yée
+\ps intj
+\ge admiration
+\dt 28/Mar/2013
 
 \lx yɛ́gɛn
 \ps v
