@@ -466,6 +466,12 @@
 \xe Nci dit que c'est lui qui va s'expliquer en premier
 \dt 16/Aug/2006
 
+\lx álhamdulilayi
+\va álihamedulilahi
+\ps intj
+\ge Dieu.soit.loué
+\dt 10/Apr/2013
+
 \lx àlijɛnɛ
 \va àlijinɛ
 \va àlijana
@@ -22219,9 +22225,10 @@
 \va dlí
 \ve (bn)
 \ph [dli]
+\va líli
 \ps n
 \ge racine
-\dt 16/Aug/2006
+\dt 09/Apr/2013
 
 \lx dílisɛbɛn
 \ps n
@@ -24814,7 +24821,7 @@
 \lt (savoir.affaire)
 \dt 26/Sep/2006
 
-\lx dɔ́nkɔri
+\lx dɔ̀nkɔri
 \va dònkari
 \va dòngari
 \va dɔ̀ngari
@@ -30290,6 +30297,12 @@
 \xv fɛ́nkɔrɔ
 \xe une personne âgée
 \dt 26/Sep/2006
+
+\lx fɛ́n
+\ps v
+\ge "choser"
+\ee rare
+\dt 10/Apr/2013
 
 \lx fyɛ́n
 \ue (f)
@@ -40965,6 +40978,12 @@
 \sd gram
 \dt 19/Aug/2006
 
+\lx jàka
+\va jàaka
+\ps n
+\ge danse.jaka
+\dt 11/Apr/2013
+
 \lx jáka
 \bw ar: zakat = aumône légale (en général : le dixième)
 \ps n
@@ -46118,17 +46137,6 @@
 \ee (grande cigogne à bec énorme, avec poche d'air devant le jabot)
 \dt 26/Sep/2006
 
-\lx jùmɛ
-\va jùmɛn
-\va jɛ̀ɛn
-\ue (f)
-\ps prn
-\ge lequel
-\pl jùmɛw
-\xv wáati jùmɛ ná ?
-\xe à quel moment ?
-\dt 26/Sep/2006
-
 \lx jùmɛ.fin
 \mm jùmɛ:n: oiseau.marabout
 \mm fìn:vq/adj:noir
@@ -46136,6 +46144,17 @@
 \ge oiseau.Anastomus.lamelligerus
 \ee 'bec ouvert' (espèce aquatique, avec un grand bec dont les mandibules ne joignent pas)
 \dt 26/Sep/2006
+
+\lx jùmɛn
+\va jùmɛ
+\va jɛ̀ɛn
+\ue (f)
+\ps prn
+\ge lequel
+\pl jùmɛw
+\xv wáati jùmɛ ná ?
+\xe à quel moment ?
+\dt 10/Apr/2013
 
 \lx jù.minɛ
 \mm jù:n:derrière
@@ -66790,10 +66809,11 @@
 \dt 11/Nov/2007
 
 \lx làkɔli
+\va lèkɔli
 \bw fr : id.
 \ps n
 \ge école
-\dt 12/Aug/2006
+\dt 11/Apr/2013
 
 \lx làkɔli.ba
 \mm làkɔli:n:école
@@ -68010,6 +68030,13 @@
 \gv obtenir
 \lt (préf.obtenir)
 \dt 16/Aug/2006
+
+\lx lá.sɔ̀sɔ
+\mm lá:mrph:CAUS
+\mm sɔ̀sɔ:v:contredire
+\ps v
+\ge critiquer
+\dt 10/Apr/2013
 
 \lx lá.su
 \mm lá:mrph:CAUS
@@ -70392,6 +70419,20 @@
 \gv desserrer
 \dt 26/Sep/2006
 
+\lx màgɛlɛya
+\ps n
+\ge difficulté
+\dt 10/Apr/2013
+
+\lx màgɛ̀lɛya
+\ps v
+\sn 1
+\ge être.difficile
+\sn 2
+\gv insister
+\gv recommander fortement
+\dt 10/Apr/2013
+
 \lx mà.gɛn
 \mm mà:mrph:SUPER
 \mm gɛ́n:v:chasser
@@ -71243,6 +71284,12 @@
 \gv interloquer
 \dt 26/Sep/2006
 
+\lx máma
+\ps n
+\ge maman
+\ee surtout une forme vocative
+\dt 10/Apr/2013
+
 \lx màma.muso
 \mm màmà:n:grand'mère
 \mm mùso:n:femme
@@ -71786,9 +71833,7 @@
 \lat Cephalophus.Sylvicapra.grimmia
 \ee (petite antilope à l'arrière-train plus foncé que l'avant-train)
 
-\lx màn.kan
-\mm màn:mrph:SUPER
-\mm kán:n:cou
+\lx mànkan
 \ps n
 \sn 1
 \ge bruit
@@ -71803,7 +71848,7 @@
 \xe faire silence
 \sn 2
 \gv renommée
-\dt 26/Sep/2006
+\dt 11/Apr/2013
 
 \lx mánkan
 \ps adj/n
@@ -81549,14 +81594,15 @@ nord-est
 \ee (mini-calebasse ronde, instrument rythmique des excisées)
 \dt 16/Aug/2006
 
-\lx nkíliki
+\lx nkìliki
+\va ntìliki
 \ps n
 \ge mimosa-clochettes
 \lat Dichrostachys.cinerea
 \lat Dichrostachys.glomerata
 \sd mimo
 \ee buisson épineux ou arbre ---> 7 m (ses drageons sont une plaie dans les jachères)
-\dt 16/Aug/2006
+\dt 28/Mar/2013
 
 \lx nkíninkana
 \ps v
@@ -113825,6 +113871,11 @@ nord-est
 \xe seuls les imbéciles osent se vanter de leurs récoltes
 \dt 16/Aug/2006
 
+\lx wáso
+\ps n
+\ge vantardise
+\dt 10/Apr/2013
+
 \lx wáso.baa.nci
 \mm wáso:v:se.vanter
 \mm baa:mrph:AG.OCC
@@ -114161,16 +114212,24 @@ nord-est
 \dt 26/Sep/2006
 
 \lx wɛ́ntɛrɛ
-\bw fr : vendre ?
+\a wántɛrɛ
+\bw fr : vendre ? inventaire?
 \ps v
 \vl vt
 \sn 1
-\ge distribuer
-\ee (aux pauvres. aux malades ...)
-\sn 2
+\ge solder
 \gv vendre à bas prix
 \ue (bk)
-\dt 26/Sep/2006
+\sn 2
+\ge distribuer
+\ee (aux pauvres. aux malades ...)
+\dt 09/Apr/2013
+
+\lx wɛ́ntɛrɛ
+\a wántɛrɛ
+\ps n
+\ge soldes
+\dt 09/Apr/2013
 
 \lx wɛ̀rɛ
 \ps n
@@ -117785,8 +117844,8 @@ nord-est
 \gv sarcler légèrement
 \dt 26/Sep/2006
 
-\lx yɔ̀gɔyɔ́gɔ
-\va yìgiyɔ́gɔ
+\lx yɔ̀gɔyɔgɔ
+\va yìgiyɔgɔ
 \ue (bn)
 \ps v
 \vl vi
@@ -117794,7 +117853,7 @@ nord-est
 \sm (dent ...)
 \vl vt
 \gv chercher à déraciner
-\dt 16/Aug/2006
+\dt 05/Apr/2013
 
 \lx yɔ́kɔyi
 \ps onomat
