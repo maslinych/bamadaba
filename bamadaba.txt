@@ -602,7 +602,7 @@
 \ee sert dans les énumérations, peut aussi coordonner des phrases
 \xv à yé  ɲɔ́ d'á mà  àni  wòro
 \xe il lui a donné du mil et (aussi) des kolas (souvent employé avant le dernier mot d'une série)
-\dt 26/Sep/2006
+\dt 19/May/2013
 
 \lx ànkɛ
 \mr ɔ̀nhɔn kɛ̀
@@ -2215,7 +2215,7 @@
 
 \lx bà.kɔrɔ
 \mm bà:n:chèvre
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔrɔ:adj:mâle
 \ps n
 \sn 1
 \ge bouc
@@ -2223,7 +2223,7 @@
 \gv impudique
 \sm [fig]
 \lt (caprin.mâle)
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx bá.kɔrɔ
 \mm bá:n:mère
@@ -2238,7 +2238,7 @@
 \lx bà.kɔrɔ.boon.si
 \mm bà.kɔrɔ:n:bouc
 \mm bà:n:chèvre
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔrɔ:adj:mâle
 \mm bòon.si:n:barbe
 \mm bòon:n:menton
 \mm sí:n:poil
@@ -2248,12 +2248,12 @@
 \ee plante.adventice, 20 / 80 cm
 \sd gram
 \lt bouc.barbe
-\dt 19/Aug/2006
+\dt 11/May/2013
 
 \lx bà.kɔrɔ.fɔrɔ.kili
 \mm bà.kɔrɔ:n:bouc
 \mm bà:n:chèvre
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔrɔ:adj:mâle
 \mm fɔ́rɔ:n:membre.viril
 \mm kíli:n:oeuf
 \ps n
@@ -2262,12 +2262,12 @@
 \sd ascl
 \lt (bouc.testicule)
 \ee gousses aérifères, ovoïdes, légèrement arquées, d'où le nom)
-\dt 19/Aug/2006
+\dt 11/May/2013
 
 \lx bà.kɔrɔ.ku
 \mm bà.kɔrɔ:n:bouc
 \mm bà:n:chèvre
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔrɔ:adj:mâle
 \mm kú:n:queue
 \ps n
 \sn 1
@@ -2279,12 +2279,12 @@
 \lt (bouc.queue)
 \xv kàrisa yé  bàkɔrɔku yé, à tɛ́  bòdingɛfifa ɲà, à t'á dátugu ɲà
 \xe un tel est une queue de bouc : elle ne peut éventer l'anus, elle ne peut l'obturer
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx bà.kɔrɔ.nin
 \mm bà.kɔrɔ:n:bouc
 \mm bà:n:chèvre
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔrɔ:adj:mâle
 \mm nin:mrph:DIM
 \ps n
 \sn 1
@@ -2293,17 +2293,17 @@
 \gv débauché
 \sm [fig]
 \lt (bouc.suf.péj)
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx bàkɔrɔnkuri
 \mm bà.kɔrɔ:n:bouc
 \mm bà:n:chèvre
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔrɔ:adj:mâle
 \ps n
 \ge civette
 \lat Viverra.civetta
 \ee mammifère carnivore, solitaire, de la taille d'un chien)
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx bàkɔrɔnkuri.ɲama
 \mm bàkɔrɔnkuri:n:civette
@@ -2316,7 +2316,7 @@
 \lx bà.kɔrɔ.npeku
 \mm bà.kɔrɔ:n:bouc
 \mm bà:n:chèvre
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔrɔ:adj:mâle
 \mm npèku:n:arbre.Lannea.sp
 \ps n
 \ge plante.Lannea.velutina
@@ -2328,7 +2328,15 @@
 \sy npèkubaŋɛɲɛ
 \sy bènbekuna
 \sy bènbemuso
-\dt 26/Sep/2006
+\dt 11/May/2013
+
+\lx bà.kɔrɔ.nson
+\mm bà:n:chèvre
+\mm kɔrɔ:adj:mâle
+\mm nsòn:n:variole
+\ps n
+\ge varicelle
+\dt 11/May/2013
 
 \lx bàku
 \va bágu
@@ -3071,6 +3079,12 @@
 \xe quand les vivres viennent à manquer sérieusement au village (Kb 6/05 p.4)
 \dt 11/Nov/2007
 
+\lx bàlon.tan
+\mm tán:v:frapper
+\ps n
+\ge football
+\dt 10/May/2013
+
 \lx bálo.ntan.ya
 \mm bálo:n:nourriture
 \mm ntan:mrph:PRIV
@@ -3123,7 +3137,7 @@
 \lt (crocodile.bouche)
 \dt 16/Aug/2006
 
-\lx bámàná
+\lx bámàna
 \va bámànan
 \vt bámana
 \ps n
@@ -3133,7 +3147,7 @@
 \sn 2
 \gv animiste
 \gv fétichiste
-\dt 26/Sep/2006
+\dt 04/May/2013
 
 \lx bámana.kan
 \mm bámana:n:bambara.(ethnie)
@@ -5630,6 +5644,18 @@
 \rem selon Benoît, le ton bas souvent entendu aux alentours de Falajè, n'est pas correct / selon sb : bère se dit du bâton pour marcher (selon Cas tjs de ton bas)
 \dt 11/Nov/2007
 
+\lx bére.bila
+\mm bére:n:bâton
+\mm bìla:v:mettre
+\ps n
+\ge catastrophe
+\gv excès
+\gv exagération
+\gv médicament antidouleur
+\ee maladie qui tue tous les animaux du troupeau et fait abandonner le
+bâton de berger
+\dt 15/May/2013
+
 \lx bère.cɛ
 \mm bère:n:bâton
 \mm cɛ̀:n:mâle
@@ -5865,6 +5891,14 @@
 \lx bɛ́ɛ
 \ps adv
 \ge seulement
+
+\lx bɛ́ɛ.jɛ.fanga
+\mm bɛ́ɛ:dtm:tout
+\mm jɛ̀:v:assembler
+\mm fànga:n:force
+\ps n
+\ge démocratie
+\dt 03/May/2013
 
 \lx bɛ́ɛn
 \va bɛ́n
@@ -9355,6 +9389,9 @@
 \lx bólo.kurun
 \mm bólo:n:bras
 \mm kùrun:vq/adj:court
+\va bólo.kuru
+\mm bólo:n:bras
+\mm kùrun:vq/adj:court
 \ps n
 \sn 1
 \ge moignon.de.main
@@ -9366,7 +9403,7 @@
 \gv boxe
 \sn 3
 \gv manchot
-\dt 26/Sep/2006
+\dt 03/May/2013
 
 \lx bólo.kurun.kɛlɛ
 \mm bólo.kurun:v:donner.un.coup.de.poing
@@ -11311,6 +11348,14 @@
 \xe révéler un secret
 \dt 16/Aug/2006
 
+\lx bɔ́.ta
+\mm bɔ́:v:sortir
+\mm ta:mrph:PTCP.POT
+\ps n
+\ge dépense
+\lt
+\dt 04/May/2013
+
 \lx bɔ́.tɔ
 \mm bɔ́:v:sortir
 \mm tɔ:mrph:PTCP.PROG
@@ -11453,6 +11498,15 @@
 \sy sòla
 \lt (singe.petit)
 \dt 16/Aug/2006
+
+\lx búbu.tiga
+\mm tìga:n:arachide
+\mm nin:mrph:DIM
+\ps n
+\ge singe.rouge.apprivoisé
+\lat Erythrocebus patas
+\sy búbunin
+\dt 10/May/2013
 
 \lx búdubɛdɛ
 \va búgubɛgɛ
@@ -11844,11 +11898,20 @@
 
 \lx búlen
 \va blén
+\va búren
+\va nbúren
 \ps n
 \ge gardenia
+\dt 11/May/2013
 
 \lx búlen.cɛ
 \mm búlen:n:gardenia
+\mm cɛ̀:n:mâle
+\va búren.cɛ
+\mm búren:n:gardenia
+\mm cɛ̀:n:mâle
+\va nbúren.cɛ
+\mm nbúren:n:gardenia
 \mm cɛ̀:n:mâle
 \va blén.cɛ
 \mm blén:n:gardenia
@@ -11862,7 +11925,7 @@
 \lt (gardenia.mâle)
 \ee fruits non comestibles, restant sur les rameaux.
 \sy nbúrencɛ
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx búlen.muso
 \mm búlen:n:gardenia
@@ -13051,7 +13114,7 @@
 \gv homme.courageux
 \gv héros
 \gv guerrier
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx cɛ̀
 \ps n
@@ -13770,6 +13833,13 @@
 \ge parmi
 \dt 22/Nov/2012
 
+\lx cɛ́.la
+\mm cɛ́:n:milieu
+\mm la:mrph:LOC
+\ps n
+\ge relations
+\dt 23/Apr/2013
+
 \lx cɛ́.la.jala
 \mm cɛ́:n:milieu
 \mm lá:pp:dans
@@ -13904,11 +13974,13 @@
 \dt 16/Aug/2006
 
 \lx cɛ́mancɛ
+\va cámancɛ
 \ps n
 \ge milieu
 \lt (milieu.lieu.milieu)
 \xv jí cɛ́mancɛ lá
 \xe au beau milieu de l'eau
+\dt 03/May/2013
 
 \lx cɛ́mancɛ.rɔ.bana
 \mm cɛ́mancɛ:n:milieu
@@ -15996,14 +16068,15 @@
 \va dɛ̀bi
 \ps n
 \ee oiseaux (crépusculaires, nocturnes, insectivores)
+\ge engoulevent
 \sn 1
-\ge engoulevent.porte-étendard
+\gv engoulevent.porte-étendard
 \lat Macrodipteryx vexillarius
 \sn 2
 \gv engoulevent.à.balanciers
 \lat Macrodipteryx longipennis
 \ee (mâle : balanciers remarquables)
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx dá.bìla
 \mm dá:n:bouche
@@ -24422,11 +24495,14 @@
 \lx dɔ̀kɔtɔrɔ.fura
 \mm dɔ̀kɔtɔrɔ:n:infirmier
 \mm fúra:n:feuille
+\va dɔ̀gɔtɔrɔ.fura
+\mm dɔ̀gɔtɔrɔ:n:infirmier
+\mm fúra:n:feuille
 \ps n
 \ge médicament
 \ee (fabriqué en usine, acheté en pharmacie ...)
 \lt (docteur.remède)
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx dɔ̀kɔtɔrɔ.mobili
 \mm dɔ̀kɔtɔrɔ:n:infirmier
@@ -24443,27 +24519,37 @@
 \lx dɔ̀kɔtɔrɔ.muso
 \mm dɔ̀kɔtɔrɔ:n:infirmier
 \mm mùso:adj:femme
+\va dɔ̀gɔtɔrɔ.muso
+\mm dɔ̀gɔtɔrɔ:n:infirmier
+\mm mùso:adj:femme
 \ps n
 \ge doctoresse
 \lt (docteur.femme)
+\dt 11/May/2013
 
 \lx dɔ̀kɔtɔrɔ.so
 \mm dɔ̀kɔtɔrɔ:n:infirmier
+\mm só:n:maison
+\va dɔ̀gɔtɔrɔ.so
+\mm dɔ̀gɔtɔrɔ:n:infirmier
 \mm só:n:maison
 \ps n
 \ge hôpital
 \gv centre.de.soins
 \lt (docteur.maison)
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx dɔ̀kɔtɔrɔ.ya
 \mm dɔ̀kɔtɔrɔ:n:infirmier
+\mm ya:mrph:ABSTR
+\va dɔ̀gɔtɔrɔ.ya
+\mm dɔ̀gɔtɔrɔ:n:infirmier
 \mm ya:mrph:ABSTR
 \ps n
 \lt docteur-suf abs
 \ge médecine
 \sm (science ou pratique)
-\dt 11/Nov/2007
+\dt 11/May/2013
 
 \lx dɔ̀lɔ
 \va dlɔ̀
@@ -24955,14 +25041,17 @@
 \ee dɔgɔnin*
 \ps adj/n
 \ge un.peu
-\xv dɔ́ɔnin-dɔ́ɔnin
-\xe peu à peu, doucement
-\lt (un peu.petit)
 \xv dɔ́ɔnin b'á jɛ̀
 \xe il s'en faut d'un tout petit peu
 \xv nà ní  jí dɔ́ɔnin yé
 \xe apporte un peu d'eau
-\dt 16/Aug/2006
+\dt 11/May/2013
+
+\lx dɔ́ɔnin-dɔ́ɔnin
+\ps adv
+\ge doucement
+\gv peu à peu
+\dt 11/May/2013
 
 \lx dɔ̀ɔntin
 \ps n
@@ -25436,9 +25525,9 @@
 \mm kɔ́nɔ:pp:à.l'intérieur
 \mm na:mrph:LOC
 \ps n
-\ge centre.vill
+\ge centre.ville
 \gv intrérieur de village
-\dt 24/Jan/2013
+\dt 03/May/2013
 
 \lx dùgu.kunsigi
 \mm dùgu:n:terre
@@ -26839,6 +26928,13 @@
 \gv 25.francs
 \dt 19/Aug/2006
 
+\lx dúuru.nan
+\mm dúuru:num:cinq
+\mm nan:mrph:ORD
+\ps adj
+\ge cinquième
+\dt 03/May/2013
+
 \lx dúuru.nin
 \mm dúuru:num:cinq
 \mm nin:mrph:DIM
@@ -26889,6 +26985,11 @@
 \gv eh
 \sm réponse à un appel
 \dt 16/Aug/2006
+
+\lx ɛntɛrinɛti
+\ps n
+\ge Internet
+\dt 10/May/2013
 
 \lx ɛsipaɲi
 \ps n
@@ -27562,6 +27663,12 @@
 \xv kà fájiri jìra  án kɛ́nɛ (ɲɛ́) ná
 \xe bonne nuit ! (que l'aube se montre à nous bien portants !)
 \dt 26/Sep/2006
+
+\lx fakixi
+\ps n
+\ge fax
+\gv télécopieur
+\dt 11/May/2013
 
 \lx fà.kɔ
 \mm fà:n:père
@@ -28439,7 +28546,7 @@
 \lx fàra
 \ps n
 \sn 1
-\ge écorce.d'arbre
+\ge écorce
 \sy ŋɔ̀mɔ
 \sn 2
 \gv écaille.de.poisson
@@ -28458,7 +28565,7 @@
 \sn 8
 \gv peau
 \gv épiderme
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx fàra
 \ps n
@@ -28557,25 +28664,26 @@
 
 \lx fàra.fin
 \mm fàra:n:écorce.d'arbre
-\mm fìn:vq/adj:noir
-\ps adj/n
-\ge noir
+\mm fìn:adj:noir
+\ps n
+\ge Noir
 \sm (de race noire)
 \lt (peau.noire)
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx fàra.fin.fura
-\mm fàra:n:écorce.d'arbre
-\mm fìn:vq/adj:noir
+\mm fàra.fin:n:Noir
+\mm fàra:n:écorce
+\mm fìn:adj:noir
 \mm fúra:n:feuille
 \ps n
 \lt africain-remède
 \ge remède.traditionnel.africain
-\dt 11/Nov/2007
+\dt 11/May/2013
 
 \lx fàra.fín.fùra.bɔ́.la
-\mm fàra:n:écorce.d'arbre
-\mm fìn:vq/adj:noir
+\mm fàra:n:écorce
+\mm fìn:adj:noir
 \mm fúra:n:feuille
 \mm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
@@ -28583,11 +28691,11 @@
 \lt remède africain-fournir-celui qui
 \ge tradipraticien
 \sy fàrafinfurakɛla
-\dt 11/Nov/2007
+\dt 11/May/2013
 
 \lx fàra.fin.fura.kɛ.la
-\mm fàra:n:écorce.d'arbre
-\mm fìn:vq/adj:noir
+\mm fàra:n:écorce
+\mm fìn:adj:noir
 \mm fúra:n:feuille
 \mm kɛ́:n:action
 \mm la:mrph:AG.PRM
@@ -28597,20 +28705,20 @@
 \sy fàrafinfurabɔla
 \xv né b'á ɲíni fàrafinfurakɛla fɛ̀...
 \xe je demande aux tradipraticiens de ... (kb 2/05 p.6)
-\dt 11/Nov/2007
+\dt 11/May/2013
 
 \lx fàra.fin.na
-\mm fàra:n:écorce.d'arbre
-\mm fìn:vq/adj:noir
+\mm fàra:n:écorce
+\mm fìn:adj:noir
 \mm na:mrph:LOC
 \ps n
 \ge Afrique.noire
 \lt (race noire.lieu)
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx fàra.fin.nɔgɔ
-\mm fàra:n:écorce.d'arbre
-\mm fìn:vq/adj:noir
+\mm fàra:n:écorce
+\mm fìn:adj:noir
 \mm nɔ́gɔ:n:saleté
 \ps n
 \lt africain-engrais
@@ -28619,56 +28727,56 @@
 \sy bágannɔgɔ
 \xv sɛ̀nɛfɛn tɛ́ sé kà ɲɛ̀ ní fàrafinnɔgɔ ní tùbabunɔgɔ má fàra òlu kàn
 \xe les cultures ne peuvent réussir sans engrais végétal ou minéral (kb 10/05 p.2)
-\dt 11/Nov/2007
+\dt 11/May/2013
 
 \lx fàra.fin.ya
-\mm fàra:n:écorce.d'arbre
-\mm fìn:vq/adj:noir
+\mm fàra:n:écorce
+\mm fìn:adj:noir
 \mm ya:mrph:ABSTR
 \ps n 
 \ge négritude
 \ee condition d'Africain, de race noire
 \lt (race noire.suf abs)
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx fàragale
-\mm fàra:n:écorce.d'arbre
+\mm fàra:n:écorce
 \lt (écorce ?  ?)
 \ps n
 \ge ébène.du.Sénégal
 \lat Dalberghia melanoxylon
 \sd papi
 \ee arbuste ---> 4 / 7 m (son bois noir ébène est très recherché pour la sculpture, il est connu sous ce nom dans la zone de Nara, en pays sarakolé; l'arbuste est typiquement sahélien et totalement inconnu même à Kolokani)
-\dt 19/Aug/2006
+\dt 11/May/2013
 
 \lx fàra.jɛ
-\mm fàra:n:écorce.d'arbre
-\mm jɛ́:vq/adj:blanc
+\mm fàra:n:écorce
+\mm jɛ́:adj:blanc
 \ps adj/n
 \ge blanc
 \sm (de race blanche)
 \lt (peau.blanche)
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx fàra.jɛ.la
-\mm fàra:n:écorce.d'arbre
-\mm jɛ́:vq/adj:blanc
+\mm fàra:n:écorce
+\mm jɛ́:adj:blanc
 \mm la:mrph:LOC
 \ps n
 \ge pays.des.blancs
 \gv Europe
 \gv Amérique
 \lt (race blanche.lieu)
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx fàra.jɛ.ya
-\mm fàra:n:écorce.d'arbre
-\mm jɛ́:vq/adj:blanc
+\mm fàra:n:écorce
+\mm jɛ́:adj:blanc
 \mm ya:mrph:ABSTR 
 \ps n
 \ge condition.de.blanc
 \lt (race blanche.suf abs)
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx fára.kolo
 \mm fára:n:pierre
@@ -28704,7 +28812,7 @@
 \dt 16/Aug/2006
 
 \lx fàra.kɔrɔ.don
-\mm fàra:n:écorce.d'arbre
+\mm fàra:n:écorce
 \mm kɔ́rɔ:pp:sous
 \mm dòn:v:entrer
 \ps n
@@ -28712,7 +28820,7 @@
 \gv abcès.profond
 \gv hernie.ombilicale
 \lt (peau.sous.entrer)
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx fára.kɔrɔ.npɛnɛ
 \mm fára:n:pierre
@@ -28746,7 +28854,7 @@
 \dt 11/Nov/2007
 
 \lx fàra.ma
-\mm fàra:n:écorce.d'arbre
+\mm fàra:n:écorce
 \mm ma:mrph:COM
 \ps adj
 \ge de.cuirasse
@@ -28754,7 +28862,7 @@
 \lt (écailles.qui a)
 \xv tìga fàrama
 \xe arachides non décortiquées
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx fára.ma
 \mm fára:n:pierre
@@ -28775,7 +28883,7 @@
 \dt 16/Aug/2006
 
 \lx fàramyɛnin
-\mm fàra:n:écorce.d'arbre
+\mm fàra:n:écorce
 \ps n
 \sn 1
 \ge membrane.de.l'oeuf
@@ -28783,7 +28891,7 @@
 \lt (pelure.tendre)
 \sn 2
 \gv fine.peau.nouvelle
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx fàran
 \ue (-f,bn)
@@ -38281,6 +38389,11 @@
 \lt ('gita'.jouer.celle qui)
 \dt 16/Aug/2006
 
+\lx gitɔrɔn
+\ps n
+\ge goudron
+\dt 18/Apr/2013
+
 \lx gò
 \ps n
 \ge petite.amie
@@ -41906,6 +42019,7 @@
 \dt 16/Aug/2006
 
 \lx jàŋoyi
+\va jàŋɔyi
 \ps n
 \sn 1
 \ge tétanos.néonatal
@@ -41914,7 +42028,7 @@
 \sn 2
 \gv coléoptère
 \sm (tenu pour responsable de la maladie)
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx jà.papa
 \mm jà:n:ombre
@@ -48447,6 +48561,13 @@
 \lt (lune. ?)
 \dt 16/Aug/2006
 
+\lx kálo.saba
+\mm kálo:n:lune
+\mm sàba:num:trois
+\ps n
+\ge trimestre
+\dt 03/May/2013
+
 \lx kálo.saba.nin
 \mm kálo:n:lune
 \mm sàba:num:trois
@@ -50237,6 +50358,7 @@
 \dt 16/Aug/2006
 
 \lx kànu
+\va kànun
 \ps v
 \vl vt
 \sn 1
@@ -50248,7 +50370,7 @@
 \gv plaire
 \xv ù y'á kànu...
 \xe il leur a plu de ...
-\dt 26/Sep/2006
+\dt 23/Apr/2013
 
 \lx kànu.baa
 \mm kànu:v:aimer
@@ -50439,7 +50561,6 @@
 \dt 26/Sep/2006
 
 \lx kàra.mɔgɔ
-\mm kàra:n:lecture
 \mm mɔ̀gɔ:n:homme
 \bw ar: qara'a = lire
 \ps n
@@ -50449,11 +50570,10 @@
 \sn 2
 \gv maître-chasseur
 \lt (enseigner.personne)
-\dt 26/Sep/2006
+\dt 09/May/2013
 
 \lx kàra.mɔgɔ.dege.sɛbɛn
 \mm kàra.mɔgɔ:n:maître
-\mm kàra:n:lecture
 \mm mɔ̀gɔ:n:homme
 \mm dège:v:enseigner
 \mm sɛ́bɛn:n:écrit
@@ -50462,11 +50582,10 @@
 \ge livre.du.maître
 \xv ò mísali ìn bɔ́ra kàramɔgɔdegesɛbɛn kɔ́nɔ...
 \xe cet exemple est tiré du livre du maître ... (kb 8/04 p.8)
-\dt 11/Nov/2007
+\dt 09/May/2013
 
 \lx kàra.mɔgɔ.kɛ
 \mm kàra.mɔgɔ:n:maître
-\mm kàra:n:lecture
 \mm mɔ̀gɔ:n:homme
 \mm kɛ:adj:mâle
 \ps n
@@ -50477,27 +50596,25 @@
 \sn 3
 \gv marabout
 \lt (enseignant.masculin)
-\dt 26/Sep/2006
+\dt 09/May/2013
 
 \lx kàra.mɔgɔ.muso
 \mm kàra.mɔgɔ:n:maître
-\mm kàra:n:lecture
 \mm mɔ̀gɔ:n:homme
 \mm mùso:adj:femme
 \ps n
 \ge enseignante
 \lt (enseignant.féminin)
-\dt 26/Sep/2006
+\dt 09/May/2013
 
 \lx kàra.mɔgɔ.ya
 \mm kàra.mɔgɔ:n:maître
-\mm kàra:n:lecture
 \mm mɔ̀gɔ:n:homme
 \mm ya:mrph:ABSTR
 \ps n
 \ge métier.d'enseignant
 \lt (enseignant.suf abs)
-\dt 16/Aug/2006
+\dt 09/May/2013
 
 \lx káran
 \ps v
@@ -51624,6 +51741,11 @@
 \ee (pfs : nuance d'impatience)
 \dt 16/Aug/2006
 
+\lx kɛ̀
+\ps adj
+\ge mâle
+\dt 11/May/2013
+
 \lx kɛ́
 \ps n
 \ge action
@@ -51975,6 +52097,15 @@
 \lt (guerre.faire.homme)
 \dt 26/Sep/2006
 
+\lx kɛ̀lɛ.kɛ.den
+\mm kɛ̀lɛ:n:querelle
+\mm kɛ́:v:faire
+\mm dén:n:enfant
+\ps n
+\ge soldat
+\gv militaire
+\dt 03/May/2013
+
 \lx kɛ̀lɛ.kɛ.la
 \mm kɛ̀lɛ:n:querelle
 \mm kɛ́:v:faire
@@ -52252,37 +52383,35 @@
 \dt 26/Sep/2006
 
 \lx kɛ́nɛ
-\ee * xas : kende = id.  =,/ keren frais, vert
 \ps vq/adj
 \sn 1
+\gv sain
+\ee (fruit, viande ...)
+\sn 2
 \ge en.bonne.santé
 \gv en.pleine.forme
 \xv à mán kɛ́nɛ
 \xe il est malade
 \xv í ká kɛ́nɛ ?
 \xe tu vas bien
-\sn 2
-\gv sain
-\ee (fruit, viande ...)
-\dt 26/Sep/2006
-
-\lx kɛ́nɛ
-\ee * xas : keren = id.  =,/  kende bien portant
-\ps adj
-\sn 1
+\sn 3
 \ge frais
 \ee (poisson, lait ...)
 \xv à nɔ̀ kɛ́nɛ-kɛ́nɛ dòn
 \xe ses traces sont toutes fraîches
-\sn 2
+\sn 4
 \gv vert
 \ee (bois ...)
-\sn 3
+\sn 5
 \gv cru
 \ee (non cuit, non grillé ...)
 \xv à bɛ́  tìga kɛ́nɛ ɲími
 \xe il grignote des arachides crues
-\dt 26/Sep/2006
+\dt 15/May/2013
+
+\lx kɛ́nɛ
+\ps adj
+\dt 15/May/2013
 
 \lx kɛ́nɛ.ba
 \mm kɛ́nɛ:n:clarté
@@ -52596,11 +52725,10 @@
 \dt 28/Mar/2013
 
 \lx kɛ̀ɲɛka
-\mm kɛ̀ɲɛ:n:sable
 \ps n
 \ge nord
 \lt (sable.pays ?)
-\dt 16/Aug/2006
+\dt 24/Apr/2013
 
 \lx kɛ̀ɲɛ.kalama
 \mm kɛ̀ɲɛ:n:cire
@@ -53298,6 +53426,7 @@
 \dt 26/Sep/2006
 
 \lx kíri
+\va kíiri
 \ps n
 \ge jugement
 \gv procès
@@ -53307,7 +53436,7 @@
 \xe juger qn en justice
 \xv kíri bìn  màa kàn
 \xe juger coupable qn, le punir
-\dt 26/Sep/2006
+\dt 03/May/2013
 
 \lx kíri
 \ps v
@@ -54158,6 +54287,13 @@
 \lt (action.chef)
 \sy kùntigi
 \dt 26/Sep/2006
+
+\lx kó.kura
+\mm kó:n:affaire
+\mm kúra:adj:nouveau
+\ps adv
+\ge de.nouveau
+\dt 03/May/2013
 
 \lx kó.la.dɔ́n
 \mm kó:n:affaire
@@ -58755,22 +58891,15 @@
 \gv sentiments
 \dt 26/Sep/2006
 
-\lx kɔ̀nɔ.sogo.nin
-\mm kɔ̀nɔ:n:oiseau
-\mm sògo:n:viande
-\mm nin:mrph:DIM
+\lx kɔ̀nɔsogonin
 \va kɔ̀nɔsogonti
-\mm kɔ̀nɔ:n:oiseau
-\mm sògo:n:viande
-\va kɔ̀nɔsogotí
-\mm kɔ̀nɔ:n:oiseau
-\mm sògo:n:viande
+\va kɔ̀nɔsogoti
 \ps n
 \ge autruche
 \lat Struthio.camelus
 \lt (oiseau.gibier.petit)
 \ee habitat : désert et savane arbustive épineuse)
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx kɔ́nɔ.su
 \mm kɔ́nɔ:n:ventre
@@ -61506,14 +61635,14 @@
 \mm kùn:n:tête
 \mm ba:mrph:AUGM
 \mm bìn:v:tomber
-\va kùnmabin
+\va kùnma.bin
 \mm kùn:n:tête
 \mm bìn:v:tomber
 \ps n
 \ge migraine
 \gv sinusite
 \lt (grosse tête.tomber ?)
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx kùn.balan
 \mm kùn:n:tête
@@ -62345,11 +62474,13 @@
 \dt 16/Aug/2006
 
 \lx kùnjɛ
-\mm jɛ́:vq/adj:blanc
+\mm kùn:n:tête
+\mm jɛ́:adj:blanc
 \ps n
 \ge arbuste.Guiera.senegalensis
 \sd comb
 \ee ---> 3 m ; très commun, les fruits sont recouverts de poils argentés)
+\dt 11/May/2013
 
 \lx kùn.jɛ
 \mm kùn:n:tête
@@ -63089,6 +63220,15 @@
 \ps n
 \ge informateur
 \lt (informer.celui qui)
+
+\lx kùn.na.foni.sɛbɛn
+\mm kùn:n:tête
+\mm ná:pp:dans
+\mm fóni:v:détacher
+\mm sɛbɛn:n:écrit
+\ps n
+\ge journal
+\dt 23/Apr/2013
 
 \lx kùn.na.gòsi
 \mm kùn:n:tête
@@ -64312,11 +64452,15 @@
 \lx kùrunbo.kari
 \mm kùrunbo:adj:neuf
 \mm kári:v:casser
+\va kùrunbon.kari
+\mm kùrunbo:adj:neuf
+\mm kári:v:casser
 \ps v
 \vl vt
 \ge laver.pour.la.première.fois
 \lt (écru.casser ?)
-\dt 16/Aug/2006
+\gv inaugurer
+\dt 15/May/2013
 
 \lx kúrun.boli.la
 \mm kúrun:n:pirogue
@@ -66301,6 +66445,13 @@
 \xe essaie toi-même !
 \dt 26/Sep/2006
 
+\lx lá.jɛ
+\mm lá:mrph:CAUS
+\mm jɛ̀:v:assembler
+\ps n
+\ge réunion
+\dt 24/Apr/2013
+
 \lx lá.jɛ̀
 \mm lá:mrph:CAUS
 \mm jɛ̀:v:assembler
@@ -67945,6 +68096,15 @@
 \lt (préf.tirer)
 \dt 26/Sep/2006
 
+\lx lá.sani.ya
+\mm sáni.ya:v:nettoyer
+\mm sáni:vq:être.propre
+\mm ya:mrph:DEQU
+\ps v
+\vl vt
+\ge nettoyer
+\dt 16/May/2013
+
 \lx lá.se
 \mm lá:mrph:CAUS
 \mm sé:v:arriver
@@ -67966,14 +68126,47 @@
 \gv renvoyer
 \dt 02/Feb/2013
 
-\lx làsigidenso
+\lx là.sigi.den
+\mm lá:mrph:CAUS
+\mm sìgi:v:asseoir
+\mm dén:n:enfant
+\va làasigi.den
+\mm lá:mrph:CAUS
+\mm sìgi:v:asseoir
+\mm dén:n:enfant
+\ps n
+\ge ambassadeur
+\gv représentant
+\dt 06/May/2013
+
+\lx là.sigi.den.so
+\mm lá.sigi.den
+\mm lá:mrph:CAUS
+\mm sìgi:v:asseoir
+\mm dén:n:enfant
+\mm só:n:maison
+\va làasigidenso
+\mm lá.sigi.den
+\mm lá:mrph:CAUS
+\mm sìgi:v:asseoir
 \mm dén:n:enfant
 \mm só:n:maison
 \ps n
 \lt ambassadeur-maison
 \ge ambassade
 \rem l 89, du, jos
-\dt 11/Nov/2007
+\dt 06/May/2013
+
+\lx là.sigi.den.ya.juru
+\mm lá.sigi.den
+\mm lá:mrph:CAUS
+\mm sìgi:v:asseoir
+\mm dén:n:enfant
+\mm ya:mrph:ABSTR
+\mm juru:n:corde
+\ps n
+\ge relation.diplomatique
+\dt 05/May/2013
 
 \lx lá.sìri
 \mm sìri:v:lier
@@ -68846,6 +69039,7 @@
 \dt 19/Aug/2006
 
 \lx láyidu
+\va láhidu
 \bw ar: wa`ada / ya`i du = promettre
 \ps n
 \ge promesse
@@ -68857,7 +69051,7 @@
 \xe accomplir une promesse
 \xv láyidu tíyɛn (wúli)
 \xe rompre un contrat, une engagement ...
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx láyidu.kan
 \mm láyidu:n:promesse
@@ -71015,6 +71209,13 @@
 \ge Malitel
 \ee (opérateur téléphonique au Mali)
 \dt 25/Jan/2013
+
+\lx màli.wari
+\mm Màli:n.prop:TOP
+\mm wári:n:argent
+\ps n
+\ge franc.malien
+\dt 23/Apr/2013
 
 \lx màli.wolo
 \mm màli:n:hippopotame
@@ -73447,11 +73648,12 @@
 
 \lx mɛ́tɛrɛ
 \va mɛ́trɛ
+\va mɛ́tiri
 \es {fr : mètre}
 \ps n
 \ge mètre
 \rem du
-\dt 11/Nov/2007
+\dt 03/May/2013
 
 \lx mɛ́tɛrɛ.kɛnɛ
 \mm mɛ́tɛrɛ:n:mètre
@@ -73813,6 +74015,12 @@ nord-est
 \ge premier.ministre
 \nt kb 3/05 p.11
 \dt 11/Nov/2007
+
+\lx mínisiriso
+\mm só:n:maison
+\ps n
+\ge ministère
+\dt 03/May/2013
 
 \lx mínkɛ
 \va mínkɛni
@@ -77100,6 +77308,13 @@ nord-est
 \lt (argent.garder.endroit)
 \dt 16/Aug/2006
 
+\lx nàfolo.mugu
+\mm nàfolo:n:biens
+\mm múgu:n:poudre
+\ps n
+\ge grande.richesse
+\dt 23/Apr/2013
+
 \lx nàfolo.tigi
 \mm nàfolo:n:biens
 \mm tìgi:n:maître
@@ -78158,6 +78373,14 @@ nord-est
 \ee feuilles pubescentes)
 \dt 19/Aug/2006
 
+\lx ncàngàra
+\a càngàra
+\ps n
+\ge chigomier
+\gv Combretum glutinosum
+\gv Combretum ghasalense
+\dt 11/May/2013
+
 \lx ncàpanko
 \ps v
 \vl vt
@@ -79152,6 +79375,23 @@ nord-est
 \lt (fer.prendre.fer)
 \sy nɛ̀gɛtalan
 \ee (instrument pour prendre le fer)
+
+\lx nɛ̀gɛ.tigɛ.bana
+\mm nɛ̀gɛ:n:fer
+\mm tìgɛ:v:couper
+\mm bàna:n:maladie
+\ps n
+\ge tétanos
+\dt 15/May/2013
+
+\lx nɛ̀gɛ.tigɛ.da.bana
+\mm nɛ̀gɛ:n:fer
+\mm tìgɛ:v:couper
+\mm dá:n:plaie
+\mm bàna:n:maladie
+\ps n
+\ge tétanos
+\dt 15/May/2013
 
 \lx nɛ̀gɛ.wusu
 \mm nɛ̀gɛ:n:fer
@@ -80510,6 +80750,13 @@ nord-est
 \xe ils ont comblé nos espoirs
 \dt 26/Sep/2006
 
+\lx nímisiwàsa
+\ps v
+\ge satisfaire
+\gv faire plaisir à
+\gv faire une surprise agréable à
+\dt 10/May/2013
+
 \lx nìmɔgɔ
 \mm mɔ̀gɔ:n:homme
 \va nìmaa
@@ -80682,6 +80929,15 @@ nord-est
 \sy sìmi
 \sy nàto
 \dt 26/Sep/2006
+
+\lx nìsinɔsɔ.nin
+\mm nin:mrph:DIM
+\ps n
+\ge poliomyélite
+\gv arthrite
+\gv arthrose
+\gv maladie bénigne (des jambes)
+\dt 11/May/2013
 
 \lx ní.sɔn
 \mm ní:n:âme
@@ -83906,12 +84162,13 @@ nord-est
 \dt 16/Aug/2006
 
 \lx nsàna
+\va nzàna
 \ps n
 \ge proverbe
 \sm (plus rarement : historiette)
 \xv à bɛ́ nsàna dá
 \xe il cite des proverbes
-\dt 16/Aug/2006
+\dt 11/May/2013
 
 \lx nsána
 \va sána
@@ -85821,6 +86078,12 @@ nord-est
 \sm (arbre, herbe ...)
 \dt 26/Sep/2006
 
+\lx nùgu
+\ps n
+\ge repousse
+\gv jeune pousse
+\dt 11/May/2013
+
 \lx núgu
 \ps n
 \ge plante.Ageratum.conyzoides
@@ -87054,8 +87317,10 @@ nord-est
 \ue (f)
 \ps v
 \vl vt
-\ge taxer.d'amende
-\dt 16/Aug/2006
+\ge punir
+\gv sanctionner
+\gv taxer d'amende
+\dt 15/May/2013
 
 \lx ɲànkara
 \va ɲànkaran
@@ -87967,6 +88232,12 @@ nord-est
 \ge sorcellerie.bienfaisante
 \lt (sorcier.suf abs)
 \dt 16/Aug/2006
+
+\lx ɲɛ̀gɛmɛɲɛgɛmɛ
+\ps v
+\ge marcher.façon.séduisante
+\ee marcher en faisant jouer ses seins et ses fesses
+\dt 17/May/2013
 
 \lx ɲɛ̀gɛn
 \ps n
@@ -89038,11 +89309,15 @@ nord-est
 \mm ɲɛ́:n:oeil
 \mm mɔ̀gɔ:n:homme
 \mm ya:mrph:ABSTR
+\va ɲɛ́.maa.ya
+\mm ɲɛ́.maa:n:dirigeant
+\mm ɲɛ́:n:oeil
+\mm màa:n:homme
 \ps n
 \ge autorité
 \gv présidence
 \lt (chef.suf abs)
-\dt 26/Sep/2006
+\dt 03/May/2013
 
 \lx ɲɛ́.munu
 \mm ɲɛ́:n:oeil
@@ -90834,6 +91109,16 @@ nord-est
 \lt (l'un l'autre.derrière.parole)
 \dt 16/Aug/2006
 
+\lx ɲɔ́gɔn.kuma.ɲɔgɔn.ya
+\mm ɲɔ́gɔn:prn:RECP
+\mm kúma:v:parler
+\mm ɲɔ́gɔn:prn:RECP
+\mm ya:mrph:ABSTR
+\ps n
+\ge discussion
+\gv débat
+\dt 03/May/2013
+
 \lx ɲɔ́gɔn.kun.bɛn.yɔrɔ
 \mm ɲɔ́gɔn:prn:RECP
 \mm kùn:n:tête
@@ -92141,6 +92426,11 @@ nord-est
 \sm (de refus ou de désapprobation énergique)
 \dt 16/Aug/2006
 
+\lx ɔridinatɛri
+\ps n
+\ge ordinateur
+\dt 10/May/2013
+
 \lx ɔ̀wɔ
 \va àwɔ
 \ue (bn,f)
@@ -92283,11 +92573,20 @@ nord-est
 \mm jìgin:v:descendre
 \mm kɛ́nɛ:n:clarté
 \ps n
-\lt avion-atterrir-aire
 \ge aérodrome
 \xv kà dɔ́ fàra  pánkurunjiginkɛnɛ bònya kàn
 \xe allonger la piste d'atterrissage (Kb 4/06 p.1)
-\dt 11/Nov/2007
+\dt 03/May/2013
+
+\lx pán.kurun.jigin.yɔrɔ
+\mm pán.kurun:n:avion
+\mm pán:v:sauter
+\mm kúrun:n:pirogue
+\mm jìgin:v:descendre
+\mm yɔ́rɔ:n:lieu
+\ps n
+\ge aérodrome
+\dt 03/May/2013
 
 \lx pánpala
 \ue (f,bk)
@@ -92513,6 +92812,11 @@ nord-est
 \gv arrêt.d'activité
 \lt (maigrir.mon pied.sur)
 \dt 16/Aug/2006
+
+\lx páse
+\ps n
+\ge prix.du.trajet
+\dt 17/May/2013
 
 \lx pási
 \va pásipasi
@@ -93148,6 +93452,13 @@ nord-est
 \ge cracher
 \gv jeter.par.aspersion
 \dt 26/Sep/2006
+
+\lx puduru.mugu
+\mm múgu:n:poudre
+\ps n
+\ge poudre
+\ee (générale)
+\dt 11/May/2013
 
 \lx púkɛ
 \ps onomat
@@ -94523,6 +94834,11 @@ nord-est
 \ge équarrir
 \gv tailler grossièrement
 \dt 26/Sep/2006
+
+\lx sálamalekun
+\ps intj
+\ge salutation
+\dt 23/Apr/2013
 
 \lx sàlan
 \bw fr : chaland
@@ -96531,14 +96847,20 @@ nord-est
 \lt (témoignage.écrit)
 \dt 26/Sep/2006
 
-\lx séfawari
+\lx séfa
 \ps n
-\lt CFA-argent
+\ge franc.CFA
+\dt 03/May/2013
+
+\lx séfawari
+\mm séfa:n:franc.CFA
+\mm wári:n:argent
+\ps n
 \ge franc.CFA
 \ee (d'Afrique de l'Ouest)
 \xv ò bɛ́ bɛ̀n séfawari míliyari 11 mà
 \xe cela équivaut à 11 millards de francs CFA
-\dt 11/Nov/2007
+\dt 03/May/2013
 
 \lx ségelen
 \ps v
@@ -99320,6 +99642,11 @@ nord-est
 \ge manque.d’assurance
 \dt 29/Nov/2012
 
+\lx sigareti
+\ps n
+\ge cigarette
+\dt 16/May/2013
+
 \lx sígasiga
 \mm síga:n:doute
 \va sígisigi
@@ -101279,6 +101606,11 @@ nord-est
 \xe la polio a disparu
 \dt 26/Sep/2006
 
+\lx sivili
+\ps n
+\ge civile
+\dt 03/May/2013
+
 \lx sí.ya
 \mm sí:n:semence
 \mm ya:mrph:ABSTR
@@ -102349,10 +102681,13 @@ nord-est
 \mm sòonadòn:v:intercéder
 \mm dòn:v:entrer
 \mm baga:mrph:AG.OCC
+\va sùruɲali.don.baga
+\mm dòn:v:entrer
+\mm baga:mrph:AG.OCC
 \ps n
 \ge intercesseur
-\lt (intercession.entrer.celui qui)
-\dt 26/Sep/2006
+\gv avocat
+\dt 03/May/2013
 
 \lx sòonadon.na
 \mm sòonadòn:v:intercéder
@@ -103311,6 +103646,13 @@ nord-est
 \ge excrément.de.bébé
 \dt 16/Aug/2006
 
+\lx sɔ̀rɔdasi
+\va sɔ̀rasi
+\ps n
+\ge militaire
+\ge soldat
+\dt 03/May/2013
+
 \lx sɔ̀rɔ.fɛn
 \mm sɔ̀rɔ:v:obtenir
 \mm fɛ́n:n:chose
@@ -104184,11 +104526,11 @@ nord-est
 \dt 19/Aug/2006
 
 \lx sùmu
+\va sùmun
 \ps n
-\ge abcès
-\sm dentaire
-\gv carie
-\dt 26/Sep/2006
+\ge carie
+\gv abcès dentaire
+\dt 16/May/2013
 
 \lx sùmu
 \ue (-f,-bn)
@@ -105178,10 +105520,12 @@ nord-est
 \lx syɛ̀
 \va shyɛ̀
 \ph [shyɛ]
+\va shɛ̀
+\va sɛ̀
 \ee *mal : sisɛ = id.
 \ps n
 \ge poule
-\dt 12/Aug/2006
+\dt 10/May/2013
 
 \lx syɛ̀.ba
 \mm syɛ̀:n:poule
@@ -106436,6 +106780,16 @@ nord-est
 \lt (feu.morceau)
 \dt 12/Aug/2006
 
+\lx tà.ko
+\mm tà:v:prendre
+\mm kó:n:affaire
+\ps n
+\ge tour
+\gv fois
+\gv essai
+\gv coup
+\dt 03/May/2013
+
 \lx tákùlá
 \ps n
 \ge pain.de.mil
@@ -107181,6 +107535,11 @@ nord-est
 \ge complètement
 \dt 08/Nov/2012
 
+\lx te
+\ps n
+\ge thé
+\dt 15/May/2013
+
 \lx té
 \va tɛ́
 \va t'
@@ -107875,6 +108234,7 @@ nord-est
 \dt 26/Sep/2006
 
 \lx tɛ̀mɛ
+\mm tɛ̀mɛn
 \ps v
 \sn 1
 \vl vi
@@ -107903,7 +108263,7 @@ nord-est
 \gv résoudre
 \xv ní  gɛ̀lɛya nàna, á b'á tɛ̀mɛ  síra dɔ́ fɛ̀...
 \xe s'il y a une difficulté, vous la résolvez d'une certaine manière ...
-\dt 26/Sep/2006
+\dt 11/May/2013
 
 \lx tɛ̀mɛ.baa
 \mm tɛ̀mɛ:v:passer
@@ -108800,6 +109160,15 @@ nord-est
 \lt (diviser.part)
 \dt 12/Aug/2006
 
+\lx tíla.yɔrɔ
+\mm tíla:v:diviser
+\mm yɔ́rɔ:n:lieu
+\ps n
+\ge partie
+\gv part
+\gv division
+\dt 03/May/2013
+
 \lx tìle
 \va tlè
 \ph [tle]
@@ -109629,6 +109998,26 @@ nord-est
 \xe tu n'as pas raison tu as tort
 \dt 20/Feb/2013
 
+\lx tíɲɛ
+\va ciyɛ́n
+\va cɛ́n
+\ph [cɛn]
+\va tíyɛn
+\va tíɲɛn
+\ps v
+\vl vt
+\ge gâter
+\gv annuler
+\gv déflorer
+\ee (contextes et traductions innombrables)
+\xv à y'á kɔ́nɔ tíyɛn
+\xe elle s'est fait avorter
+\xv ò t'á tíyɛn
+\xe ça ne fait rien, tant pis, ça n'empêche pas
+\xv né ká móbili tíyɛnna
+\xe ma voiture ne marche plus
+\dt 15/May/2013
+
 \lx tìri
 \va ntìiri
 \va tìiri
@@ -109689,26 +110078,6 @@ nord-est
 \ps n
 \ge four
 \ee (creusé dans la terre, fosse de méchoui des chasseurs ...)
-
-\lx tíyɛn
-\va ciyɛ́n
-\va cɛ́n
-\ph [cɛn]
-\va tíɲɛ
-\va tíɲɛn
-\ps v
-\vl vt
-\ge gâter
-\gv annuler
-\gv déflorer
-\ee (contextes et traductions innombrables)
-\xv à y'á kɔ́nɔ tíyɛn
-\xe elle s'est fait avorter
-\xv ò t'á tíyɛn
-\xe ça ne fait rien, tant pis, ça n'empêche pas
-\xv né ká móbili tíyɛnna
-\xe ma voiture ne marche plus
-\dt 26/Sep/2006
 
 \lx tíyɛn.da
 \mm tíyɛn:v:gâter
@@ -110590,6 +110959,13 @@ nord-est
 \xe ils ont du renom
 \dt 26/Sep/2006
 
+\lx tɔ́gɔ.da
+\mm tɔ́gɔ:n:nom
+\mm dá:v:poser
+\ps v
+\ge nommer
+\dt 03/May/2013
+
 \lx tɔ̀gɔ.dimi
 \mm tɔ̀gɔ:n:hanche
 \mm dími:n:souffrance
@@ -110768,6 +111144,7 @@ nord-est
 \dt 26/Sep/2006
 
 \lx tɔ̀lɔ
+\va tùlɔ
 \va tlɔ̀
 \ph [tlɔ]
 \ps v
@@ -110775,7 +111152,7 @@ nord-est
 \ge engraisser
 \xv dén màdiya b'á tɔ̀lɔ, nká  à t'á mɛ́ sì lá
 \xe gâter un enfant l'engraisse, mais ça ne le fait pas vivre longtemps
-\dt 12/Aug/2006
+\dt 15/May/2013
 
 \lx tɔ̀mɔ
 \ps v
@@ -111969,6 +112346,15 @@ nord-est
 \gv désobéissance
 \rem Jos
 \dt 11/Nov/2007
+
+\lx túlo.ma.jɔ
+\mm túlo:n:oreille
+\mm mà:mrph:SUPER
+\mm jɔ̀:v:mettre.debout
+\ps n
+\ge fait.d'écouter
+\gv attention
+\dt 03/May/2013
 
 \lx túlo.mà.jɔ
 \mm túlo:n:oreille
@@ -113195,6 +113581,19 @@ nord-est
 \lt (école.prendre)
 \dt 16/Aug/2006
 
+\lx wálanwalan
+\va wálawala
+\ps v
+\vl vt
+\sn 1
+\ge dérouler
+\gv détordre
+\sn 2
+\gv bien expliquer
+\sn 3
+\gv bien régler une affaire
+\dt 03/May/2013
+
 \lx wálasa
 \va wáasa
 \va wálisa
@@ -113209,18 +113608,6 @@ nord-est
 \ps n
 \ge clairière
 \ee endroit sans végétation
-\dt 26/Sep/2006
-
-\lx wálawala
-\ps v
-\vl vt
-\sn 1
-\ge dérouler
-\gv détordre
-\sn 2
-\gv bien expliquer
-\sn 3
-\gv bien régler une affaire
 \dt 26/Sep/2006
 
 \lx wálawala
@@ -115612,6 +115999,16 @@ nord-est
 \sy kìrikirimasyɛn
 \dt 16/Aug/2006
 
+\lx wúlikajɔ
+\mm wúli:v:se.lever
+\mm kà:pm:INF
+\mm jɔ̀:v:mettre.débout
+\ps n
+\ge mobilisation
+\gv détermination
+\gv responsabilité
+\dt 04/May/2013
+
 \lx wùlu
 \ps n
 \sn 1
@@ -116575,9 +116972,10 @@ nord-est
 \dt 26/Sep/2006
 
 \lx yé
+\va y'
 \ps cop
 \ge BE
-\dt 27/Mar/2013
+\dt 15/May/2013
 
 \lx yé kà
 \ps pm
@@ -118007,6 +118405,13 @@ nord-est
 \gv prix exagéré
 \dt 26/Sep/2006
 
+\lx yùruguyurugu
+\va yùrukuyuruku
+\ps v
+\ge trafiquer
+\gv frauder
+\dt 03/May/2013
+
 \lx yúru.ya
 \mm yúru:adj/n:rapporteur
 \mm ya:mrph:ABSTR
@@ -118036,6 +118441,11 @@ nord-est
 \ge général
 \sm (grade militaire)
 \dt 16/Aug/2006
+
+\lx ziɲɔri
+\ps n
+\ge junior
+\dt 15/May/2013
 
 \lx zú
 \bw fr : joug

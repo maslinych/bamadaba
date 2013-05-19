@@ -1,6 +1,34 @@
 \_sh v3.0  400  MDF 4.0
 \_DateStampHasFourDigitYear
 
+\lx Air Afrique
+\ps n.prop
+\ge A
+\dt 03/May/2013
+
+\lx Alfaru
+\ps n.prop
+\ge Alphare
+\ee équipe de football à Gao
+\dt 03/May/2013
+
+\lx Arajomali
+\ps n.prop
+\ge Radio.Mali
+\dt 03/May/2013
+
+\lx AS Mande
+\ps n.prop
+\ge AS Mandé
+\ee équipe de football à Kayes
+\dt 03/May/2013
+
+\lx Bitɔn
+\ps n.prop
+\ge Biton
+\ee équipe de football
+\dt 15/May/2013
+
 \lx Goli
 \ps n.prop
 \ge TOP
@@ -19,6 +47,35 @@
 \ps n
 \ge latin
 
+\lx Mamayira
+\ps n.prop
+\ge Mamayira
+\ee équipe de football à Koulikoro
+\dt 03/May/2013
+
+\lx Ɲana
+\ps n.prop
+\ge Gnana
+\ee équipe de football à Koulikoro
+\dt 03/May/2013
+
+\lx Ofisidinizɛri
+\ps n.prop
+\ge Office.du.Niger
+\dt 24/Apr/2013
+
+\lx Real
+\ps n.prop
+\ge Réal
+\ee équipe de football à Bamako
+\dt 03/May/2013
+
+\lx Sàmatasɛgɛw
+\ps n.prop
+\ge Aigles.du.Mali
+\ee équipe du Mali de football
+\dt 15/May/2013
+
 \lx sɛliti
 \ps n
 \ge celte
@@ -27,7 +84,30 @@
 \ps n
 \ge groupe.de.sénoufo
 
+\lx Sigi
+\ps n.prop
+\ge Sigui
+\ee équipe de football à Kayes
+\dt 03/May/2013
+
 \lx Soni
 \va Sonni
 \ps n
 \ge Sonni.roi.Songhaï
+
+\lx Sonin
+\ps n.prop
+\ge Sonny
+\ee équipe de football à Gao
+\dt 03/May/2013
+
+\lx Stade
+\ps n.prop
+\ge Stade
+\ee équipe de football à Bamako
+\dt 03/May/2013
+
+\lx wurubulu
+\ps v
+\ge rouble
+\dt 03/May/2013
