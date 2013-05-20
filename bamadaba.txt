@@ -3330,9 +3330,10 @@
 \vl vi
 \gv mourir
 \xv à bánna  kúma ná
-\xe il a fini de parlerà banna
+\xe il a fini de parler
+\xv à banna
 \xe il est mort
-\dt 26/Sep/2006
+\dt 20/May/2013
 
 \lx bán
 \sy fɔ́lɔ
@@ -6604,7 +6605,7 @@ bâton de berger
 
 \lx bì
 \vt bì
-\ps n/adv
+\ps adv/n
 \ge aujourd'hui
 \xv kàbini bì
 \xe désormais
@@ -6614,7 +6615,7 @@ bâton de berger
 \xe à partir d'aujourd'hui
 \xv bì kùnɲɔgɔn
 \xe aujourd'hui en huit,  dans huit jours
-\dt 12/Aug/2006
+\dt 20/May/2013
 
 \lx bí
 \ps num
@@ -64027,9 +64028,9 @@ bâton de berger
 
 \lx kúnu
 \va kúnun
-\ps n/adv
+\ps adv/n
 \ge hier
-\dt 16/Aug/2006
+\dt 20/May/2013
 
 \lx kúnu.baa.tɔ
 \mm kúnu:v:se.réveiller
@@ -100556,8 +100557,8 @@ nord-est
 \dt 26/Sep/2006
 
 \lx síni
-\vc sínin
-\ps n
+\va sínin
+\ps adv/n
 \sn 1
 \ge demain
 \sn 2
@@ -100567,7 +100568,7 @@ nord-est
 \gv l'autre monde
 \xv - jɔ́n yé  síni dɔ́nbaa yé ? - fálatɔ lánaanibaa (chán dé trómpe)
 \xe - qui reconnaît l'autre vie ? - celui qui console l'orphelin
-\dt 26/Sep/2006
+\dt 20/May/2013
 
 \lx síni.kan
 \mm síni:n:demain
@@ -101380,13 +101381,13 @@ nord-est
 
 \lx sísan
 \vt sísàn
-\ps n
+\ps adv/n
 \ge maintenant
 \xv fɔ́ sísan
 \xe jusqu'à présent, encore maintenant
 \xv sísan sɔ̀rɔ kà...
 \xe disposer de cet instant pour ...
-\dt 26/Sep/2006
+\dt 20/May/2013
 
 \lx sísan.da.nin
 \mm sísan:n:maintenant
@@ -116676,7 +116677,7 @@ nord-est
 \dt 16/Aug/2006
 
 \lx yàn
-\ps n
+\ps adv/n
 \sn 1
 \ge ici
 \xv nà yàn !
@@ -116687,7 +116688,7 @@ nord-est
 \gv maintenant
 \xv yàn ní  tìle sàba cɛ́
 \xe d'ici trois jours ...
-\dt 26/Sep/2006
+\dt 20/May/2013
 
 \lx yánba
 \ps n
@@ -116703,7 +116704,7 @@ nord-est
 \lt (ici.côté)
 \xv yànfan fɛ̀
 \xe de ce côté-ci
-\dt 16/Aug/2006
+\dt 20/May/2013
 
 \lx yàn.fɛ̀.lá
 \mm yàn:n:ici
@@ -116745,6 +116746,7 @@ nord-est
 
 \lx yànni
 \mm yàn:n:ici
+\mm ní:prep/conj:et
 \ps conj
 \sn 1
 \ge avant.que
@@ -116755,7 +116757,7 @@ nord-est
 \xe avant que ce jour n'arrive
 \sn 2
 \gv au lieu de
-\dt 26/Sep/2006
+\dt 20/May/2013
 
 \lx yári
 \ps n
@@ -117147,13 +117149,13 @@ nord-est
 \dt 26/Sep/2006
 
 \lx yèn
-\ps n
+\ps adv/n
 \ge là-bas
 \xv bɔ́ yèn ! [bɔ́e]
 \xe Déguerpis de là ! Va--t-en !
 \xv í y'á tà  yɔ́rɔ mín ná, í k'ò bìla yèn !
 \xe remets-le où tu l'as pris !
-\dt 16/Aug/2006
+\dt 20/May/2013
 
 \lx yèn.fɛ.la
 \mm yèn:n:là-bas
@@ -117162,7 +117164,7 @@ nord-est
 \ps n
 \ge cette.zone-là
 \lt (là-bas.vers.endroit)
-\dt 16/Aug/2006
+\dt 20/May/2013
 
 \lx yèn.ka
 \mm yèn:n:là-bas
@@ -117170,7 +117172,7 @@ nord-est
 \ps n
 \ge quelqu'un.de.là-bas
 \lt (là-bas.habitant)
-\dt 16/Aug/2006
+\dt 20/May/2013
 
 \lx yé.ɲɛ.na
 \mm yé:v:voir
