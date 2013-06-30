@@ -622,6 +622,15 @@
 \xe qui veut partir ? - nous !
 \dt 16/Aug/2006
 
+\lx àpolo
+\va àpolo.ɲɛ.dimi
+\mm àpolo:n:conjonctivite
+\mm ɲɛ́:n:oeuil
+\mm dími:n:souffrance
+\ps n
+\ge conjonctivite
+\dt 25/Jun/2013
+
 \lx àraba
 \bw ar: al-arba`a' = 4ème jour
 \ps n
@@ -1263,6 +1272,12 @@
 \xe lutter, faire la lutte
 \dt 15/Aug/2006
 
+\lx báari
+\va bári
+\ps n
+\ge maçon
+\dt 25/Jun/2013
+
 \lx báari.ta.la
 \mm báari:n:lutte
 \mm tà:v:prendre
@@ -1776,11 +1791,13 @@
 \xe élever du bétail
 \dt 26/Sep/2006
 
-\lx bàganan.jiri
-\mm bàganan:n:acacia.tannin
-\mm jíri:n:arbre
+\lx bàganan
+\va bwànan
+\va bwànɛ
 \ps n
 \ge acacia.tannin
+\sm Acacia nilotica adansonii, Acacia scorpioides adstringens
+\dt 27/Jun/2013
 
 \lx bágan.faga.yɔrɔ
 \mm bágan:n:bête
@@ -2664,16 +2681,20 @@
 \xe ils sont pressés de venir
 \sn 2
 \vl vi
-\gv (re)tarder
+\gv retarder
+\gv tarder
 \ue (bn)
 \xv à bálanna  kà nà
 \xe il a été retardé
 \sn 3
+\gv empêcher
+\sn 4
 \vl vr
+\gv insister
 \gv s'obstiner
 \xv à y'í bálan kó  à bɛ́ táa
 \xe elle s'est obstinée disant qu'elle partait
-\dt 26/Sep/2006
+\dt 25/Jun/2013
 
 \lx bálan
 \va bála
@@ -2685,6 +2706,12 @@
 \xv í fà yɛ̀lɛnna  jíri mín bálan, háli ń'í má sé  à bálan, í k'ì sìgi  à súma ná
 \xe l'arbre sur lequel est monté ton père, même si tu n'arrives pas à y grimper, assieds-toi à son ombre (prov)
 \dt 16/Aug/2006
+
+\lx bálan
+\ps n
+\ge empêchement
+\gv accrochage
+\dt 25/Jun/2013
 
 \lx bála.nin
 \mm bála:n:xylophone
@@ -4494,6 +4521,15 @@
 \lt (car/donc)
 \dt 26/Sep/2006
 
+\lx bárigon
+\va bárikon
+\ps n
+\ge barrique
+\gv tonneau
+\gv fût
+\gv barril
+\dt 25/Jun/2013
+
 \lx bárika
 \va bárka
 \ph [barka]
@@ -5225,6 +5261,7 @@
 \dt 16/Aug/2006
 
 \lx bàto
+\va bàtu
 \ps n
 \sn 1
 \ge adoration
@@ -5233,9 +5270,10 @@
 \gv célébration.liturgique
 \xv Ála kà  bàto mìnɛ!
 \xe Que Dieu accueille favorablement vos prières !
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx bàto
+\va bàtu
 \ps v
 \vl vt
 \sn 1
@@ -5249,7 +5287,7 @@
 \sm (coutumes)
 \xv fúru bàto
 \xe respecter le mariage, être fidèle
-\dt 16/Aug/2006
+\dt 24/Jun/2013
 
 \lx bàto.baga
 \mm bàto:v:adorer
@@ -5819,6 +5857,22 @@ bâton de berger
 \xe nous voulons aller à Bamako
 \dt 26/Sep/2006
 
+\lx bɛ́ kà
+\va bɛ́ k'
+\va bɛ́kà
+\va bɛ́k'
+\va bɛ́ kàn kà
+\va bɛ́ 'ń kà
+\ue (f)
+\ps pm
+\ge PROG.AFF
+\sm (prédicatif de présent progressif (positif)
+\xv ù bɛ́  kà dlɔ́ mìn
+\xe ils sont en train de boire de la bière de mil
+\xv ù bɛ́ kàn  kà dɔ̀lɔ mìn
+\xe ils sont en train de boire de la bière de mil
+\dt 25/Jun/2013
+
 \lx bɛ́ nà
 \va bɛ́na
 \ps pm
@@ -6048,20 +6102,6 @@ bâton de berger
 \ge complètement
 \ee (éteindre le feu, fermer ...)
 \dt 26/Sep/2006
-
-\lx bɛ́kà
-\va bɛ́k'
-\va bɛ́ kàn kà
-\va bɛ́ 'ń kà
-\ue (f)
-\ps pm
-\ge PROG.AFF
-\sm (prédicatif de présent progressif (positif)
-\xv ù bɛ́  kà dlɔ́ mìn
-\xe ils sont en train de boire de la bière de mil
-\xv ù bɛ́ kàn  kà dɔ̀lɔ mìn
-\xe ils sont en train de boire de la bière de mil
-\dt 16/Dec/2012
 
 \lx bɛ̀la
 \ps n
@@ -6451,15 +6491,19 @@ bâton de berger
 \dt 11/Nov/2007
 
 \lx bɛ̀n.ń.sèn.mà
-\mm bɛ̀n:n:accord
+\mm bɛ̀n:v:se.rencontrer
 \mm ń:pers:je
 \mm sèn:n:jambe
-\mm mà:pm:DES
+\mm mà:pp:à
+\va bɛ̀n.sen.ma
+\mm bɛ̀n:v:se.rencontrer
+\mm sèn:n:jambe
+\mm mà:pp:à
 \ps n
 \lt s'accorder-à mon pied
 \sn 1
-\ge aventure
-\gv occasion
+\ge occasion
+\gv aventure
 \xv bɛ̀nsenma cɛ̀nimusoya
 \xe relations sexuelles occasionnelles (LD p.28)
 \sn 2
@@ -6467,7 +6511,12 @@ bâton de berger
 \ee favorable : chance
 \xv kàtugu  bɛ̀nsenma  àni  bɛ̀nsenmabaliya bɛ́  mɔ̀gɔ bɛ́ɛ sɔ̀rɔ
 \xe à tous arrivent heur et malheur (Qo 9, 11)
-\dt 15/Mar/2013
+\dt 25/Jun/2013
+
+\lx bɛ̀nsenma
+\ps
+\ge
+\dt 25/Jun/2013
 
 \lx bɛɲɛ
 \vc biɲɛ
@@ -8269,7 +8318,6 @@ bâton de berger
 
 \lx bìyɛn
 \va bìɲɛ
-\va gwàn
 \ps n
 \sn 1
 \ge pointe
@@ -8283,9 +8331,7 @@ bâton de berger
 \sn 2
 \gv fétiche
 \ee en forme de clou forgé
-\ph [gwàn]
-\ue (f)
-\dt 26/Sep/2006
+\dt 25/Jun/2013
 
 \lx bíyɛn
 \va bíɲɛ
@@ -8830,12 +8876,11 @@ bâton de berger
 \mm bólo:n:bras
 \mm bán:v:terminer
 \ps v
-\vl vt
 \ge ruiner
 \xv fúrakɛ y'á bóloban
 \xe les dépenses de santé l'ont ruiné
 \lt (biens.épuiser)
-\dt 16/Aug/2006
+\dt 25/Jun/2013
 
 \lx bólo.bilen
 \mm bólo:n:bras
@@ -8972,8 +9017,13 @@ bâton de berger
 
 \lx bólo.di.ɲɔgɔn.ma
 \mm bólo:n:bras
-\mm dí:vq/adj:agréable
+\mm dí:v:donner
 \mm ɲɔ́gɔn:prn:RECP
+\mm mà:pp:à
+\va bólo.di.ɲwan.ma
+\mm bólo:n:bras
+\mm dí:v:donner
+\mm ɲwán:prn:RECP
 \mm mà:pp:à
 \ps n
 \lt main-donner-l'un l'autre-à
@@ -8982,7 +9032,7 @@ bâton de berger
 \xv bólidiɲɔgɔnma yé fàantanya kɛ̀lɛlan yé
 \xe la coopération permet de combattre la pauvreté (kb 4/05 p.7)
 \rem l 89, du
-\dt 11/Nov/2007
+\dt 24/Jun/2013
 
 \lx bólo.dòn
 \mm bólo:n:bras
@@ -9303,9 +9353,18 @@ bâton de berger
 \mm kùn.ba:vq:gros
 \mm kùn:n:tête
 \mm ba:mrph:AUGM
+\va bólo.kɔni.den.kun.ba
+\mm bólo.kɔni:n:doigt
+\mm bólo:n:bras
+\mm kɔni:n:doigt
+\mm dén:n:enfant
+\mm kùn.ba:vq:gros
+\mm kùn:n:tête
+\mm ba:mrph:AUGM
 \ps n
 \ge pouce
 \lt (doigt.gros)
+\dt 25/Jun/2013
 
 \lx bólo.kɔni.na.nɛgɛ
 \mm bólo.kɔni:n:doigt
@@ -9748,6 +9807,14 @@ bâton de berger
 \gv mal.fermer
 \ee (péj)
 \dt 16/Aug/2006
+
+\lx bólo.la.wari
+\mm bólo:n:bras
+\mm lá:pp:dans
+\mm wári:n:argent
+\ps n
+\ge argent.de.poche
+\dt 24/Jun/2013
 
 \lx bólolo
 \ps onomat
@@ -11875,6 +11942,13 @@ bâton de berger
 \lt (bleu.qui a l'aspect)
 \dt 26/Sep/2006
 
+\lx búlanbulan
+\ps n
+\ge jeunot
+\gv néophyte
+\gv débutant
+\dt 25/Jun/2013
+
 \lx búla.ya
 \mm búla:n:boule.d’indigo
 \mm ya:mrph:ABSTR
@@ -12454,9 +12528,11 @@ bâton de berger
 
 \lx búru
 \va nbúru
+\va nbúuru
+\va búuru
 \ps n
 \ge pain
-\dt 16/Aug/2006
+\dt 25/Jun/2013
 
 \lx búru
 \va nbúru
@@ -12652,6 +12728,12 @@ bâton de berger
 \ge bruit.de.chute.brutale
 \dt 16/Aug/2006
 
+\lx bútɛ̀li
+\va bútèli
+\ps n
+\ge bouteille
+\dt 27/Jun/2013
+
 \lx bùtiki
 \ps n
 \ge magasin
@@ -12837,6 +12919,20 @@ bâton de berger
 \xv kó cáman
 \xe souvent, fréquemment, d'habitude
 \dt 26/Sep/2006
+
+\lx càn
+\ps v
+\ge se.buter
+\gv être décidé
+\gv se mettre en position de lutte
+\dt 25/Jun/2013
+
+\lx càn
+\ps adv
+\ge net
+\sm (refuser, s'arrêter)
+\gv avec décision
+\dt 25/Jun/2013
 
 \lx cáncan
 \ps v
@@ -15069,6 +15165,20 @@ bâton de berger
 \sm (en faisant du bruit)
 \dt 16/Aug/2006
 
+\lx cògocaga
+\ps v
+\ge embarrasser
+\gv être embarrassé
+\gv être dans une impasse
+\gv être douteux
+\dt 25/Jun/2013
+
+\lx cògocaga
+\ps n
+\ge embarras
+\gv état intermédiaire
+\dt 25/Jun/2013
+
 \lx cógocogo
 \ps v
 \vl vt
@@ -16887,7 +16997,7 @@ bâton de berger
 \ee (au négatif : défendre, interdire)
 \xv à dàgalen tɛ́
 \xe ce n'est pas permis, c'est illicite
-\dt 26/Sep/2006
+\dt 10/Jun/2013
 
 \lx dága
 \ps n
@@ -18466,10 +18576,10 @@ bâton de berger
 \bw ar: dalil = indication
 \ps n
 \sn 1
-\ge manière.de.faire
-\sn 2
+\ge cause
 \gv raison
-\gv cause
+\sn 2
+\gv manière.de.faire
 \xv nìn tɔ́nsigi dàlilu ká bòn
 \xe l'importance de cette réunion est grande
 \sn 3
@@ -18479,29 +18589,38 @@ bâton de berger
 \gv puissance.occulte
 \xv jɔ́n yé  dàlilu d'í mà  kà nìn kɛ́ ?
 \xe qui t'a donné le droit de le faire ?
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx dàlilu.ma
-\mm dàlilu:n:manière.de.faire
+\mm dàlilu:n:cause
+\mm ma:mrph:COM
+\va dàluma
+\mm dàlilu:n:cause
 \mm ma:mrph:COM
 \ps adj
 \ge ayant.un.motif
 \gv ayant.une.solution
 \lt (raison.qui a)
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx dàlilu.ntan
-\mm dàlilu:n:manière.de.faire
+\mm dàlilu:n:cause
+\mm ntan:mrph:PRIV
+\va dàlu.ntan
+\mm dàlu:n:cause
 \mm ntan:mrph:PRIV
 \ps adj
 \ge sans.raison
 \gv sans.solution
 \lt (motif.qui a)
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx dàlilu.ya
-\mm dàlilu:n:manière.de.faire
+\mm dàlilu:n:cause
 \mm ya:mrph:ABSTR
+\va dàlu.ya
+\mm dàlu:n:cause
+\mm ya:mrph:ABSTR 
 \ps n
 \ge procédé
 \gv solution
@@ -18509,13 +18628,13 @@ bâton de berger
 \lt (solution.suf abs)
 \xv ò dàliluya bɛ́ɛ sɔ̀rɔlen sísan
 \xe toutes ces solutions ont été trouvées de nos jours (césarienne ...)
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx dàlilu.ya
-\mm dàlilu:n:manière.de.faire
+\mm dàlilu:n:cause
 \mm ya:mrph:ABSTR
 \va dàlu.ya
-\mm dàlu:n:manière.de.faire
+\mm dàlu:n:cause
 \mm ya:mrph:ABSTR 
 \ve (bk)
 \ps v
@@ -18527,7 +18646,7 @@ bâton de berger
 \lt (droit.suf caus)
 \xv à dàliluya  kà táa  fèereli kɛ́ :
 \xe permets-lui de faire du commerce
-\dt 16/Aug/2006
+\dt 24/Jun/2013
 
 \lx dàma
 \va dàman
@@ -18688,6 +18807,14 @@ bâton de berger
 \gv acerbe
 \lt (bouche.endroit.désagréable)
 \dt 26/Sep/2006
+
+\lx dàmantan
+\va dàmanta
+\va dànmantan
+\ps dtm
+\ge seulement
+\gv uniquement
+\dt 24/Jun/2013
 
 \lx dá.ma.ɲini
 \mm dá:n:bouche
@@ -20762,10 +20889,18 @@ bâton de berger
 
 \lx dèli.na
 \mm dèli:n:habitude
-\mm na:mrph:PFV.INTR
+\mm na:mrph:MNT1
 \ps n
 \ge habitude
 \lt (habituer.suf)
+\dt 24/Jun/2013
+
+\lx dèli.nan.ko
+\mm dèli:n:habitude
+\mm na:mrph:MNT1
+\ps n
+\ge habitude
+\dt 24/Jun/2013
 
 \lx dèli.ɲɔgɔn
 \mm dèli:v:avoir.l'habitude
@@ -22467,6 +22602,7 @@ bâton de berger
 \lx díɲɛ
 \va díyɛn
 \va jíɲɛ
+\va jyɛ́n
 \va dúnuɲɛ
 \ph [dyɛn-->jɛn]
 \bw ar: dunya = monde
@@ -22476,7 +22612,7 @@ bâton de berger
 \xe jamais de la vie !
 \xv díyɛn látigɛ
 \xe traverser le monde, vivre
-\dt 24/Jan/2013
+\dt 09/Jun/2013
 
 \lx díɲɛ.den
 \mm díɲɛ:n:monde
@@ -22553,12 +22689,16 @@ bâton de berger
 \mm díyɛn:n:monde
 \mm ná:mrph:CAUS
 \mm tìgɛ:v:couper
+\va jyɛ́n.la.tigɛ
+\mm jyɛ́n:n:monde
+\mm lá:mrph:CAUS
+\mm tìgɛ:v:couper
 \ps n
 \ge vie
 \gv traversée.de.ce.monde
 \lt (monde.traverser)
 \sy díɲɛsosigi
-\dt 16/Aug/2006
+\dt 09/Jun/2013
 
 \lx díɲɛ.so.sigi
 \mm díɲɛ:n:monde
@@ -24218,13 +24358,12 @@ bâton de berger
 \sy dɔ́gɔjɔla
 \dt 26/Sep/2006
 
-\lx dɔ́gɔ.dɔgɔ.nin
-\mm dɔ́gɔ:vq:petit
-\mm nin:mrph:DIM
+\lx dɔ́gɔdɔgɔnin
+\va dɔndɔɔnin
 \ps adv.p
 \ge doucement
 \lt (un peu.un peu.petit)
-\dt 08/Nov/2012
+\dt 25/Jun/2013
 
 \lx dɔ́gɔ.dugu
 \mm dɔ́gɔ:n:marché
@@ -25087,17 +25226,17 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx dɔ́rɔn
-\ps adv
+\ps dtm
 \sn 1
 \ge seulement
-\sy dàma  mìsi dɔ́rɔn bɛ́ yèn
+\sy dàma mìsi dɔ́rɔn bɛ́ yèn
 \xe il n'y a que des vaches là-bas
 \sn 2
 \gv à.peine
 \gv dès.que
 \xv sú kòra dɔ́rɔn, ń ɲɛ́ tɛ́  fóyi yé
 \xe dès que tombe la nuit, je ne vois plus rien
-\dt 16/Aug/2006
+\dt 24/Jun/2013
 
 \lx dɔ̀.surun
 \mm dɔ̀:n:longueur
@@ -25200,11 +25339,14 @@ bâton de berger
 \lx dùba.den
 \mm dùba:n:bénédiction
 \mm dén:n:enfant
+\va dùga.den
+\mm dùga:n:bénédiction
+\mm dén:n:enfant
 \ps n
 \ge enfant.béni
 \sm qui a les bénédictions de ses parents
 \lt (bénédiction.enfant)
-\dt 16/Aug/2006
+\dt 24/Jun/2013
 
 \lx dúbalen
 \ps n
@@ -26987,6 +27129,12 @@ bâton de berger
 \sm réponse à un appel
 \dt 16/Aug/2006
 
+\lx ɛ̀lɛ́
+\ps intj
+\ge pouah
+\sm interjection de mépris
+\dt 27/Jun/2013
+
 \lx ɛntɛrinɛti
 \ps n
 \ge Internet
@@ -28301,6 +28449,7 @@ bâton de berger
 
 \lx fánfan
 \ue (-f)
+\va pánpan
 \ps n
 \sn 1
 \ge antre
@@ -28311,7 +28460,7 @@ bâton de berger
 \sn 3
 \gv nid.de.poule
 \ue (bk)
-\dt 26/Sep/2006
+\dt 29/Jun/2013
 
 \lx fán.fyɛ
 \mm fán:n:forge
@@ -29113,6 +29262,18 @@ bâton de berger
 \ge fatigue.générale
 \lt (corps.tuer)
 \dt 26/Sep/2006
+
+\lx fàri.faa
+\mm fàri:n:corps
+\mm fàa:v:tuer
+\va fàri.faga
+\mm fàri:n:corps
+\mm fàga:v:tuer
+\ps v
+\ge épuiser
+\gv être sans forces
+\gv décourager
+\dt 24/Jun/2013
 
 \lx fárifari
 \ps n
@@ -30231,6 +30392,23 @@ bâton de berger
 \xe habiller qn, lui enlever ses haillons, le vêtir
 \dt 26/Sep/2006
 
+\lx fɛ́ɛrɛ.baga.tɔ
+\mm fɛ́ɛrɛ:n:guenilles
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va fɛ́ɛrɛ.baa.tɔ
+\mm fɛ́ɛrɛ:n:guenilles
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va fyɛ́rɛ.baa.tɔ
+\mm fyɛ́rɛ:n:guenilles
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
+\ge loqueteux
+\gv personne en haillons
+\dt 24/Jun/2013
+
 \lx fɛ́ɛrɛ.bɔ
 \mm fɛ́ɛrɛ:n:guenilles
 \mm bɔ́:v:sortir
@@ -30243,6 +30421,17 @@ bâton de berger
 \sy fìni
 \rem l 89, Jos
 \dt 11/Nov/2007
+
+\lx fɛ́ɛrɛ.bɔ
+\mm fɛ́ɛrɛ:n:guenilles
+\mm bɔ́:v:sortir
+\va fɛ́ɛrɔ.bɔ
+\mm fɛ́ɛrɔ:n:guenilles
+\mm bɔ́:v:sortir
+\ps v
+\ge habiller
+\gv pourvoir en vêtements
+\dt 25/Jun/2013
 
 \lx fɛ́ɛrɛn
 \va fyɛ́rɛn
@@ -32123,8 +32312,12 @@ bâton de berger
 \mm ma:mrph:COM
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
+\va fùsa.baa.nci.ya
+\mm fùsa:vq:mieux
+\mm baa:mrph:AG.OCC
+\mm nci:mrph:AG.EX
+\mm ya:mrph:ABSTR
 \ps n
-\lt meilleur-suf abs
 \sn 1
 \ge discrimination
 \sn 2
@@ -32134,7 +32327,7 @@ bâton de berger
 \rem du
 \sn 3
 \gv amélioration.de.la.santé
-\dt 11/Nov/2007
+\dt 25/Jun/2013
 
 \lx fìsa.man.nci
 \mm fìsa:vq:mieux
@@ -33279,6 +33472,13 @@ bâton de berger
 \ps n
 \ge goître
 \dt 15/Aug/2006
+
+\lx fóolo
+\ps n
+\ge lacet
+\gv piège
+\sm (pour les oiseaux et petits rongeurs)
+\dt 25/Jun/2013
 
 \lx fóolo.bara
 \mm fóolo:v:se.gonfler.d'air
@@ -38395,6 +38595,11 @@ bâton de berger
 \ge goudron
 \dt 18/Apr/2013
 
+\lx gíwu
+\ps onomat
+\ge vite
+\dt 13/Jun/2013
+
 \lx gò
 \ps n
 \ge petite.amie
@@ -38920,10 +39125,11 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx gɔ́ngɔrɔ
+\va gɔ́ngɔrɔn
 \ps n
 \ge pierre
 \gv motte.de.terre
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx gɔ́ngɔrɔn
 \ue (f)
@@ -39750,6 +39956,19 @@ bâton de berger
 \gv faire.qc.sans.y.prêter.attention
 \dt 16/Aug/2006
 
+\lx hákili.son.yɛ
+\mm hákili:n:esprit
+\mm sòn.yɛ
+\mm sòn:n:voleur
+\va hákili.son.ya
+\mm hákili:n:esprit
+\mm sòn.ya
+\mm sòn:n:voleur
+\mm ya:mrph:ABSTR
+\ps n
+\ge détournement.d'attention
+\dt 24/Jun/2013
+
 \lx hákili.tigi
 \mm hákili:n:esprit
 \mm tìgi:n:maître
@@ -40204,13 +40423,15 @@ bâton de berger
 
 \lx hɛ́ra
 \va hɛ́rɛ
+\va hɛ́ɛrɛ
+\va hɛ́ɛra
 \ps n
 \ge paix
 \gv bonheur
 \sy káyira
 \xv Ála m'í sɔ́nna  hɛ́ra lá !
 \xe que Dieu t'accorde le bonheur !
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx hɛ́ra
 \va hɛ́rɛ
@@ -40695,6 +40916,48 @@ bâton de berger
 \xv jàasere dá / jàasere màda
 \xe menacer  (geste de l'index)
 \dt 26/Sep/2006
+
+\lx jàasere
+\va jàgasere
+\ps n
+\sn 1
+\ge avertissement
+\gv mise en garde
+\sn 2
+\ge index
+\sm (doigt)
+\dt 25/Jun/2013
+
+\lx jàasere
+\va jàgasere
+\ps v
+\ge avertir
+\gv mettre en garde
+\dt 25/Jun/2013
+
+\lx jàasere.ma.da.lan
+\mm jàasere:n:avertissement
+\mm mà.da:v:incliner
+\mm mà:mrph:SUPER
+\mm dá:v:poser
+\mm lan:mrph:INSTR
+\va jàgasere.ma.da.lan
+\mm jàgasere:n:avertissement
+\mm mà.da:v:incliner
+\mm mà:mrph:SUPER
+\mm dá:v:poser
+\mm lan:mrph:INSTR
+\va jàasere.da.lan
+\mm jàasere:n:avertissement
+\mm dá:v:poser
+\mm lan:mrph:INSTR
+\va jàgasere.da.lan
+\mm jàgasere:n:avertissement
+\mm dá:v:poser
+\mm lan:mrph:INSTR
+\ps v
+\ge index(doigt)
+\dt 25/Jun/2013
 
 \lx jáasi
 \ps v
@@ -41608,6 +41871,13 @@ bâton de berger
 \lt (pays.chef)
 \dt 16/Aug/2006
 
+\lx jàma.tɔn
+\mm jàma:n:foule
+\mm tɔ́n:n:société
+\ps n
+\ge association
+\dt 24/Jun/2013
+
 \lx jàmu
 \ps n
 \ge nom.de.famille
@@ -42228,8 +42498,7 @@ bâton de berger
 \mm lan:mrph:INSTR
 \ps n
 \ge appareil.photographique
-\lt (photographier.ce qui sert à)
-\dt 16/Aug/2006
+\dt 24/Jun/2013
 
 \lx jàti
 \va jàte
@@ -45264,6 +45533,15 @@ bâton de berger
 \sy cèlu
 \dt 16/Aug/2006
 
+\lx jɔ̀.da
+\mm jɔ̀:n:station.debout
+\mm dá:n:bouche
+\ps n
+\ge rôle
+\gv place
+\gv efet
+\dt 25/Jun/2013
+
 \lx jɔ̀gɔn
 \ue (-f)
 \va jɔ̀gɔ
@@ -45453,12 +45731,14 @@ bâton de berger
 \va jɔ́ni
 \va jɛ́n
 \ue (f)
+\va jenin
+\ue Mamadu Dukure
 \ps prn
 \ge qui
 \xv jɔ́n ní  jɔ́n ?
 \xe qui et qui ? (dans le détail)
 \pl jɔnw
-\dt 16/Aug/2006
+\dt 25/Jun/2013
 
 \lx jɔ́n
 \ue (f)
@@ -46952,6 +47232,14 @@ bâton de berger
 \xe je renonce à ma voiture et te la donne
 \dt 16/Aug/2006
 
+\lx káari
+\ps n
+\ge renoncement
+\gv effort
+\gv générosité
+\gv libéralité
+\dt 11/Jun/2013
+
 \lx káari.len.ya
 \mm káari:v:renoncer
 \mm len:mrph:PTCP.RES
@@ -47911,6 +48199,16 @@ bâton de berger
 \ge flèche
 \lt (arc.élément)
 
+\lx kàlalafili
+\ps v
+\ge feindre.d'ignorer
+\dt 24/Jun/2013
+
+\lx kàlalafili
+\ps n
+\ge ignorance.feinte
+\dt 24/Jun/2013
+
 \lx kála.li.kɛ.la
 \mm kála:v:coudre
 \mm li:mrph:NMLZ
@@ -48247,11 +48545,14 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx kálanson
+\va kálanso
 \va káanso
 \ue (bk)
 \va nkáanson
 \ue (bn)
 \va kólonson
+\va kólonso
+\va kúlensen
 \ps v
 \vl vt
 \ge croiser
@@ -48264,7 +48565,7 @@ bâton de berger
 \xe embrasser qn
 \xv sà bɛ́ kálanso  jíri bólo lá
 \xe le serpent s'enroule sur la branche
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx kàlan.ta
 \mm kàlan:n:lecture
@@ -48594,13 +48895,14 @@ bâton de berger
 \dt 26/Sep/2006
 
 \lx káluwa
+\va káliwa
 \bw ar: halwa = id.
 \ps n
 \ge retraite
 \ee (au sens religieux)
 \xv à dònna  káluwa lá
 \xe il s'est retiré quelque temps (pour prier, méditer)
-\dt 15/Aug/2006
+\dt 25/Jun/2013
 
 \lx káluwa.mɔgɔ
 \mm káluwa:n:retraite
@@ -48888,6 +49190,15 @@ bâton de berger
 \lx kàmana
 \ps n
 \ge PREV
+
+\lx kàmana.gan
+\mm kàmana:n:PREV
+\mm gàn:v:chauffer
+\ps n
+\ge angoisse
+\gv inquiétude
+\gv préoccupation
+\dt 24/Jun/2013
 
 \lx kàmana.gàn
 \mm kàmana:n:PREV
@@ -49281,9 +49592,11 @@ bâton de berger
 \dt 26/Sep/2006
 
 \lx kànɛmɛ
+\va kànimɛ
+\va kàlimɛ
 \ps n
 \ge cousin.croisé
-\dt 16/Aug/2006
+\dt 24/Jun/2013
 
 \lx kànɛmɛ.kɛ
 \mm kànɛmɛ:n:cousin.croisé
@@ -50994,6 +51307,22 @@ bâton de berger
 \lt (odeur.mauvaise.suf abs)
 \dt 16/Aug/2006
 
+\lx kásakasa
+\ps adv
+\ge très.sec
+\gv dur
+\sm (idée d'une vibration sèche)
+\gv très rapide
+\sm (démarche du margouillat ou du varan)
+\dt 25/Jun/2013
+
+\lx kásakasa
+\ps n
+\ge fuite
+\gv course
+\sm (comme un varan)
+\dt 25/Jun/2013
+
 \lx kásaki
 \ps onomat
 \sn 1
@@ -51927,6 +52256,15 @@ bâton de berger
 \sy jíŋɛɲɛ
 \sy bínɲimi
 \dt 19/Aug/2006
+
+\lx kɛ́.ko
+\mm kɛ́:n:action
+\mm kó:n:affaire
+\ps n
+\ge façon
+\gv fois
+\gv raison
+\dt 25/Jun/2013
 
 \lx kɛ́.kun
 \mm kɛ́:n:action
@@ -55371,6 +55709,14 @@ bâton de berger
 \lt (affaire.sur.interroger)
 \dt 26/Sep/2006
 
+\lx kó.ma.yɛlɛma
+\mm kó:n:affaire
+\mm mà:mrph:SUPER
+\mm yɛ̀lɛma:v:changer
+\ps n
+\ge déformation
+\dt 10/Jun/2013
+
 \lx kó.ma.yɛ̀lɛma
 \mm kó:n:affaire
 \mm mà:mrph:SUPER
@@ -55415,6 +55761,13 @@ bâton de berger
 \ps n
 \ge commune
 \dt 10/Jan/2013
+
+\lx kómitɛrɛ
+\va kómitɛri
+\va pɔ́mitɛrɛ
+\ps n
+\ge pomme.de.terre
+\dt 25/Jun/2013
 
 \lx kòn
 \va nkòn
@@ -60194,6 +60547,14 @@ bâton de berger
 \lt (sexe.mourir)
 \dt 16/Aug/2006
 
+\lx kɔ́.sà
+\ps v
+\ge se.refroidir
+\gv être déçu
+\gv être apathique
+\gv devenir mou et impropre à la consommation
+\dt 24/Jun/2013
+
 \lx kɔ́sa.den
 \mm kɔ́sa:adj:récent
 \mm dén:n:enfant
@@ -62832,6 +63193,15 @@ bâton de berger
 \lt (tête.sous.mettre.ce qui sert à)
 \dt 26/Sep/2006
 
+\lx kùn.kɔrɔ.ta
+\mm kùn:n:tête
+\mm kɔ́rɔ:pp:sous
+\mm tà:v:prendre
+\ps n
+\ge honneur
+\gv fierté
+\dt 25/Jun/2013
+
 \lx kùn.kɔ́rɔ.tà
 \mm kùn:n:tête
 \mm kɔ́rɔ:pp:sous
@@ -62839,8 +63209,8 @@ bâton de berger
 \ps v
 \vl vt
 \ge rendre.fier
-\lt (tête.sous.prendre)
-\dt 16/Aug/2006
+\gv honorer
+\dt 25/Jun/2013
 
 \lx kùn.kɔrɔ.ta.sɛbɛn
 \mm kùn.kɔrɔ.ta:v:rendre.fier
@@ -63001,6 +63371,15 @@ bâton de berger
 \lt (tête.baisser)
 \dt 26/Sep/2006
 
+\lx kùnmaniya
+\va kùmaniya
+\ps v
+\ge manquer
+\gv faire défaut
+\gv être déficitaire
+\gv léser
+\dt 09/Jun/2013
+
 \lx kùn.ma.si.cɛ
 \mm kùn:n:tête
 \mm mà:pp:à
@@ -63027,10 +63406,36 @@ bâton de berger
 \lt (tête.cheveux.ramasser)
 \dt 26/Sep/2006
 
+\lx kùn.ma.sìri
+\mm kùn:n:tête
+\mm mà:pp:à
+\mm sìri:v:attacher
+\ps v
+\ge inquiéter
+\gv préoccuper
+\dt 29/Jun/2013
+
+\lx kùn.ma.suli
+\mm kùn:n:tête
+\mm mà:mrph:SUPER
+\mm sùuli:v:abaisser
+\va kùn.ma.suuli
+\mm kùn:n:tête
+\mm mà:mrph:SUPER
+\mm sùuli:v:abaisser
+\ps n
+\ge humiliation
+\gv honte
+\dt 25/Jun/2013
+
 \lx kùn.ma.sùli
 \mm kùn:n:tête
 \mm mà:mrph:SUPER
-\mm sùli:v:abaisser
+\mm sùuli:v:abaisser
+\va kùn.ma.sùuli
+\mm kùn:n:tête
+\mm mà:mrph:SUPER
+\mm sùuli:v:abaisser
 \ps v
 \vl vr
 \sn 1
@@ -63038,7 +63443,13 @@ bâton de berger
 \lt (tête.baisser)
 \sn 2
 \gv avoir.honte
-\dt 16/Aug/2006
+\gv humilier
+\dt 25/Jun/2013
+
+\lx kùnmayɛlɛma
+\ps n
+\ge trouble.mental
+\dt 10/Jun/2013
 
 \lx kùn.ma.yɛ̀lɛma
 \mm kùn:n:tête
@@ -64934,6 +65345,7 @@ bâton de berger
 \gv sens.de.l'honneur
 \xv - k'ú tɛ́  nìn kɛ́ ? - ù làadiri ká bòn  nìn mà
 \xe - ils ne font pas ça ? - ils sont trop nobles pour cela
+\dt 29/Jun/2013
 
 \lx làadiri
 \ps adj
@@ -64941,7 +65353,7 @@ bâton de berger
 \gv droit
 \gv pieux
 \gv fidèle
-\dt 26/Sep/2006
+\dt 29/Jun/2013
 
 \lx làadiri.ma
 \mm làadiri:n:conscience
@@ -64950,7 +65362,7 @@ bâton de berger
 \ge consciencieux
 \gv loyal
 \lt (conscience.qui a)
-\dt 26/Sep/2006
+\dt 29/Jun/2013
 
 \lx làadiri.ya
 \mm làadiri:n:conscience
@@ -64960,7 +65372,7 @@ bâton de berger
 \gv piété
 \gv fidélité
 \lt (pieux.suf abs)
-\dt 26/Sep/2006
+\dt 29/Jun/2013
 
 \lx làafa
 \ue (-f,-bn,-bk)
@@ -67713,6 +68125,13 @@ bâton de berger
 \lt (préf.salir)
 \dt 26/Sep/2006
 
+\lx lá.nɔgɔ
+\mm lá:mrph:CAUS
+\mm nɔ́gɔ:v:salir
+\ps n
+\ge dénigrement
+\dt 10/Jun/2013
+
 \lx lán.siri
 \mm lan:mrph:dans
 \mm sìri:v:lier
@@ -68141,13 +68560,11 @@ bâton de berger
 \dt 06/May/2013
 
 \lx là.sigi.den.so
-\mm lá.sigi.den
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
 \mm dén:n:enfant
 \mm só:n:maison
-\va làasigidenso
-\mm lá.sigi.den
+\va làasigi.den.so
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
 \mm dén:n:enfant
@@ -68156,10 +68573,9 @@ bâton de berger
 \lt ambassadeur-maison
 \ge ambassade
 \rem l 89, du, jos
-\dt 06/May/2013
+\dt 24/May/2013
 
 \lx là.sigi.den.ya.juru
-\mm lá.sigi.den
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
 \mm dén:n:enfant
@@ -68167,7 +68583,7 @@ bâton de berger
 \mm juru:n:corde
 \ps n
 \ge relation.diplomatique
-\dt 05/May/2013
+\dt 14/Jun/2013
 
 \lx lá.sìri
 \mm sìri:v:lier
@@ -69424,11 +69840,16 @@ bâton de berger
 \dt 11/Nov/2007
 
 \lx lìmana
+\va làmaana
 \bw ar: àl-iman = foi
 \ps n
+\sn 1
 \ge confiance
 \gv foi
-\dt 26/Sep/2006
+\sn 2
+\gv ami
+\gv proche
+\dt 25/Jun/2013
 
 \lx lìmana.mɔgɔ
 \mm lìmana:n:confiance
@@ -70864,12 +71285,14 @@ bâton de berger
 
 \lx màkama
 \va màkaba
+\va màkaamà
 \ue (f)
+\va màkanma
 \ee *makanba ?
 \ps n
 \ge renom
 \gv gloire
-\dt 26/Sep/2006
+\dt 27/Jun/2013
 
 \lx màkan
 \ps n
@@ -71866,6 +72289,13 @@ bâton de berger
 \rem jos
 \dt 11/Nov/2007
 
+\lx mànfɛn
+\ps n
+\ge assaisonnement
+\gv épice
+\gv accessoire
+\dt 24/Jun/2013
+
 \lx má.ngala
 \mm má:n:Dieu
 \mm Ngála:n:Dieu
@@ -72686,6 +73116,7 @@ bâton de berger
 
 \lx màrifa
 \va màrfa
+\va màrafa
 \ph [marfa]
 \bw ar: midfa` = id.
 \ps n
@@ -72694,7 +73125,7 @@ bâton de berger
 \xv màrifa cáron
 \xv màrifa gòsi
 \xe tirer un coup de fusil
-\dt 12/Aug/2006
+\dt 24/Jun/2013
 
 \lx màrifa.bulu
 \mm màrifa:n:fusil
@@ -73044,6 +73475,15 @@ bâton de berger
 \ps n
 \ge maçon
 \dt 06/Feb/2013
+
+\lx mà.sɔrɔ
+\mm mà:mrph:SUPER
+\mm sɔ̀rɔ:v:obtenir
+\ps n
+\ge relâchement
+\gv laisser-aller
+\gv négligence
+\dt 29/Jun/2013
 
 \lx mà.sɔ̀rɔ
 \mm mà:mrph:SUPER
@@ -73709,10 +74149,10 @@ bâton de berger
 
 \lx míiri.na
 \mm míiri:n:idée
-\mm ná:pp:dans
+\mm ná:mrph:MNT1
 \va míiri.la
 \mm míiri:n:idée
-\mm lá:pp:dans
+\mm ná:mrph:MNT1
 \ps n
 \ge pensée
 \gv avis
@@ -73721,7 +74161,7 @@ bâton de berger
 \lt (pensée.lieu)
 \xv ù tɛ́  à míirina dɔ́n
 \xe ils ne savent pas ce qu'il pense, ce qu'il projette
-\dt 26/Sep/2006
+\dt 29/Jun/2013
 
 \lx míiri.nata
 \mm míiri:n:idée
@@ -75404,6 +75844,13 @@ nord-est
 \gv se.défouler
 \dt 26/Sep/2006
 
+\lx mɔ́nɛ.bɔ
+\mm mɔ́nɛ:n:rancoeur
+\mm bɔ́:v:sortir
+\ps n
+\ge satisfaction
+\dt 11/Jun/2013
+
 \lx mɔ́nɛ.tɔ
 \mm mɔ́nɛ:n:rancoeur
 \mm tɔ:mrph:ST
@@ -76101,6 +76548,13 @@ nord-est
 \xe il le supporte, il patiente à son égard
 \dt 16/Aug/2006
 
+\lx mùɲu
+\ps n
+\ge patience
+\gv endurance
+\gv résignation
+\dt 09/Jun/2013
+
 \lx mùɲu.baa
 \mm mùɲu:v:supporter
 \mm baa:mrph:AG.OCC
@@ -76298,6 +76752,20 @@ nord-est
 \ge dépense
 \ee frais occasionnés par ...
 \dt 26/Sep/2006
+
+\lx músalaha
+\va músalaka
+\ps n
+\ge flatterie
+\gv paroles hypocrites
+\dt 24/Jun/2013
+
+\lx músalaha
+\va músalaka
+\ps v
+\ge flatter
+\gv être hypocrite dans ses paroles
+\dt 24/Jun/2013
 
 \lx músalaka
 \va músalaha
@@ -77077,11 +77545,14 @@ nord-est
 \dt 26/Sep/2006
 
 \lx náamu
+\va námu
 \ps v
 \vl vt
 \ge tresser
 \sm grossièrement les cheveux
-\dt 16/Aug/2006
+\gv enrouler
+\gv se mettre un turban
+\dt 24/Jun/2013
 
 \lx nàamu.na.minɛ.na
 \mm nàamu:intj:oui
@@ -77221,6 +77692,16 @@ nord-est
 \vl vt
 \ge être.utile
 \dt 26/Sep/2006
+
+\lx nàfa.lan
+\mm nàfa:v:être.utile
+\mm lan:mrph:INSTR
+\ps n
+\ge aide
+\gv secours
+\gv recours
+\gv appui
+\dt 29/Jun/2013
 
 \lx nàfa.ma
 \mm nàfa:n:profit
@@ -79138,6 +79619,13 @@ nord-est
 \ee (opposé aux autres métaux : zinc, alu, or ...)
 \rem l 89 + gn
 \dt 11/Nov/2007
+
+\lx nɛ̀gɛhaya
+\mm nɛ̀gɛ:n:fer
+\ps n
+\ge incantation.contre.fer
+\sm formule magique contre arme métallique
+\dt 29/Jun/2013
 
 \lx nɛ̀gɛ.jɔ
 \mm nɛ̀gɛ:n:fer
@@ -81256,6 +81744,11 @@ nord-est
 \ps n
 \ge violoniste
 \lt (violon.gratter.celui qui)
+
+\lx nkalen
+\ps n
+\ge pagne.traditionel.des.excisées
+\dt 31/May/2013
 
 \lx nkàlon
 \ps n
@@ -84081,6 +84574,13 @@ nord-est
 \sy bùraburaba
 \dt 16/Aug/2006
 
+\lx npɔ́tɔ
+\va npɔ́tɔkɔlɔ
+\ps adv
+\ge très.désagréable
+\gv très.mauvais
+\dt 25/Jun/2013
+
 \lx npú
 \ps v
 \vl vt
@@ -85426,9 +85926,12 @@ nord-est
 \lx ntòn.kun
 \mm ntòn:n:termitière
 \mm kùn:n:tête
+\va tòn.kun
+\mm kùn:n:tête
 \ps n
 \ge termitière
 \lt (termitière.tête)
+\dt 25/Jun/2013
 
 \lx ntòn.tùlu.ma
 \mm ntòn:n:termitière
@@ -85610,16 +86113,6 @@ nord-est
 \xe ne fais pas éclater notre vésicule !  = ne nous accable pas de travail !
 \dt 16/Aug/2006
 
-\lx ntɔ́mɔ̀lɔ́n
-\va ntɔ́mɔnɔn
-\ps n
-\ge jujubier.blanc
-\ee ---> 4 / 12 m (épineux)
-\lat Ziziphus.mauritiana / Z.mauritiaca
-\sd rham
-\ee arbre, les fruits se vendent sur les marchés
-\dt 16/Aug/2006
-
 \lx ntɔ́mɔlɔn.file
 \mm ntɔ́mɔ̀lɔ́n:n:jujubier.blanc
 \mm fìle:n:flûte
@@ -85628,6 +86121,18 @@ nord-est
 \lt (jujube.flûte)
 \ee fait avec la pulpe du fruit cuite à la vapeur)
 \dt 16/Aug/2006
+
+\lx ntɔ́mɔ̀nɔ́n
+\va ntɔ́mɔnɔn
+\va ntɔ́mɔlɔn
+\va ntɔ́mɔ̀lɔ́n
+\ps n
+\ge jujubier.blanc
+\ee ---> 4 / 12 m (épineux)
+\lat Ziziphus.mauritiana / Z.mauritiaca
+\sd rham
+\ee arbre, les fruits se vendent sur les marchés
+\dt 21/May/2013
 
 \lx ntɔ̀n
 \ps n
@@ -87334,11 +87839,12 @@ nord-est
 \dt 16/Aug/2006
 
 \lx ɲànkata
+\va ɲàngata
 \ps n
 \ge malheur
 \gv tourment.continuel
 \gv querelle
-\dt 26/Sep/2006
+\dt 10/Jun/2013
 
 \lx ɲànkata
 \ps v
@@ -88172,6 +88678,13 @@ nord-est
 \xv í ɲɛ́fora  fɛ́n mín ná, í tɛ́ sé k'á ɲɛ́fɔ
 \xe ce que tu n'as fait qu'apercevoir, tu ne peux en parler clairement
 
+\lx ɲɛ́.fɔ
+\mm ɲɛ́:n:oeil
+\mm fɔ́:v:dire
+\ps n
+\ge explication
+\dt 25/Jun/2013
+
 \lx ɲɛ́.fɔ.li
 \mm ɲɛ́.fɔ:v:expliquer
 \mm ɲɛ́:n:oeil
@@ -88961,6 +89474,15 @@ nord-est
 \gv se.préoccuper
 \dt 26/Sep/2006
 
+\lx ɲɛ́.ma.da
+\mm ɲɛ́:n:oeil
+\mm mà:mrph:SUPER
+\mm dá:v:poser
+\ps n
+\ge préoccupation
+\gv surveillance
+\dt 29/Jun/2013
+
 \lx ɲɛ́.ma.dègun
 \mm ɲɛ́:n:oeil
 \mm mà:mrph:SUPER
@@ -89138,6 +89660,14 @@ nord-est
 \gv défigurer
 \lt (devant.salir)
 \dt 26/Sep/2006
+
+\lx ɲɛ́.ma.nɔgɔ
+\mm ɲɛ́:n:oeil
+\mm mà:mrph:SUPER
+\mm nɔ́gɔ:v:salir
+\ps n
+\ge misère
+\dt 25/Jun/2013
 
 \lx ɲɛ́.ma.nɔgɔfi
 \mm ɲɛ́:n:oeil
@@ -89681,6 +90211,8 @@ nord-est
 \lx ɲɛ́.nama
 \mm ɲɛ́:n:oeil
 \mm nama:mrph:STAT
+\va ɲɛ́.nɛma
+\mm ɲɛ́:n:oeil
 \va ɲínama
 \mm nama:mrph:STAT
 \ee *ɲi = ni : vie
@@ -89698,22 +90230,27 @@ nord-est
 \xe ils n'ont pas leur compte de nourriture
 \xv ɲɛ́namaba
 \xe excellent
-\dt 26/Sep/2006
+\dt 25/Jun/2013
 
 \lx ɲɛ́.nama.ya
 \mm ɲɛ́.nama:adj:vivant
 \mm ɲɛ́:n:oeil
 \mm nama:mrph:STAT
 \mm ya:mrph:ABSTR
+\va ɲɛ́.nɛma
+\mm ɲɛ́:n:oeil
 \ps n
 \ge vie
 \lt (vivant.suf abs)
+\dt 25/Jun/2013
 
 \lx ɲɛ́.nama.ya
 \mm ɲɛ́.nama:adj:vivant
 \mm ɲɛ́:n:oeil
 \mm nama:mrph:STAT
 \mm ya:mrph:ABSTR
+\va ɲɛ́.nɛma
+\mm ɲɛ́:n:oeil
 \ps v
 \vl vt
 \ge ranimer
@@ -89721,7 +90258,7 @@ nord-est
 \lt (vivant.suf caus)
 \xv à yé  à ká nɛ̀gɛso ɲɛ́namaya
 \xe il a remis son vélo à neuf
-\dt 26/Sep/2006
+\dt 25/Jun/2013
 
 \lx ɲɛ́.na.mini
 \mm ɲɛ́.na:n:regard
@@ -89838,6 +90375,15 @@ nord-est
 \xv í ɲɛ́nata  mùru nìnnu ná, mín ká dí  í yé
 \xe choisis parmi ces couteaux celui que tu préfères
 \dt 12/Aug/2006
+
+\lx ɲɛ́.na.tigɛ
+\mm ɲɛ́:n:oeil
+\mm ná:mrph:CAUS
+\mm tìgɛ:v:couper
+\ps n
+\ge grand
+\gv éveillé
+\dt 24/Jun/2013
 
 \lx ɲɛ́.na.tìgɛ
 \mm ɲɛ́:n:oeil
@@ -90011,15 +90557,25 @@ nord-est
 \ps v
 \vl vt
 \sn 1
+\ge résoudre
+\sn 2
 \ge jeter.un.sort
 \lt (manière.chercher)
 \xv básitigi y'á ɲɛ́nini  à kàna báara sɔ̀rɔ
 \xe le féticheur lui a jeté un sort pour qu'il ne puisse trouver du travail
-\sn 2
+\sn 3
 \gv chercher.la.cause
 \xv ń táa'ń tùn bɛ́  bàna ɲɛ́nini  cɛ̀ndala fɛ̀
 \xe j'étais allé chercher l'origine de la maladie auprès d'un devin
-\dt 16/Aug/2006
+\dt 23/Jun/2013
+
+\lx ɲɛ́.ɲini
+\mm ɲɛ́:n:oeil
+\mm ɲíni:v:chercher
+\ps n
+\ge résolution
+\gv recherche
+\dt 23/Jun/2013
 
 \lx ɲɛ́.ɲini.nan
 \mm ɲɛ́.ɲini:v:jeter.un.sort
@@ -91396,10 +91952,12 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ɲɔ̀ni
+\va ɲɔ̀nin
 \ps n
 \ge rougeole
 \sy ɲɔ̀nisan
 \sy mìsɛnmannin
+\dt 24/Jun/2013
 
 \lx ɲɔ̀.nin.fin
 \mm ɲɔ̀:n:mil
@@ -91883,6 +92441,11 @@ nord-est
 \gv criant.à.tue-tête
 \lt (hurler.sujet)
 \dt 26/Sep/2006
+
+\lx ŋáni
+\ps adv
+\ge tout.droit
+\dt 25/Jun/2013
 
 \lx ŋánwu
 \ps adv
@@ -92687,14 +93250,14 @@ nord-est
 \gv intimider
 \dt 26/Sep/2006
 
-\lx pápaga
+\lx pápǎgá
 \ps n
 \ge petit.rien
 \sy pútɛ̀rɛ́
 \ee (seulement dans une phrase négative, sens = absolument rien)
 \xv háli pápaga má nà à bólo kà bɔ́ táamayɔrɔ
 \xe il n'a absolument rien rapporté de son voyage
-\dt 16/Aug/2006
+\dt 24/Jun/2013
 
 \lx pàpulo
 \va pàplo
@@ -92775,6 +93338,11 @@ nord-est
 \sy lábɛn
 \sy màsiri
 \dt 16/Aug/2006
+
+\lx pári
+\ps adv
+\ge d'un.coup
+\dt 24/Jun/2013
 
 \lx pariti
 \ps n
@@ -92866,6 +93434,11 @@ nord-est
 \ge seulement
 \ee (emploi rare en dehors de kelen pe un seul)
 
+\lx pèlenpalan
+\ps v
+\ge balotter
+\dt 24/Jun/2013
+
 \lx pélenpelenkolo
 \mm kólo:n:os
 \ps n
@@ -92947,6 +93520,11 @@ nord-est
 \ps v
 \ge peser
 \dt 06/Feb/2013
+
+\lx pétu
+\ps intj
+\ge pas.question
+\dt 24/Jun/2013
 
 \lx péwu
 \ps onomat
@@ -93137,14 +93715,21 @@ nord-est
 \gv déchirer
 \dt 26/Sep/2006
 
-\lx píripara
-\va píriporo
+\lx pìripara
+\va pìriporo
 \ps adj
 \ge vain
 \gv de.nulle.valeur
+\gv négligeable
 \xv kúma pìripara dòn
 \xe ce sont de vaines paroles
-\dt 16/Aug/2006
+\dt 27/Jun/2013
+
+\lx pìripara
+\va pìriparapiri
+\ps n
+\ge chose.bâclée
+\dt 27/Jun/2013
 
 \lx píripara
 \ps v
@@ -93214,6 +93799,22 @@ nord-est
 \ps n
 \ge poivron
 \dt 16/Aug/2006
+
+\lx pópàpo
+\ps n
+\sn 1
+\ge parlottes
+\gv discussions inutiles
+\sn 2
+\gv flou
+\gv n'importe quoi
+\dt 25/Jun/2013
+
+\lx pópàpo
+\ps adv
+\ge en.vrac
+\gv énormément
+\dt 25/Jun/2013
 
 \lx póponin
 \va pɔ́pɔnin
@@ -94305,11 +94906,12 @@ nord-est
 \mm dí.ya:n:bon.goût
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
+\va sàja
 \ps n
 \ge plaisanterie
 \xv sàdiya bìla  màa ná
 \xe plaisanter qn
-\dt 26/Sep/2006
+\dt 25/Jun/2013
 
 \lx sàdiya.kɛ.la
 \mm sàdiya:n:plaisanterie
@@ -94850,10 +95452,10 @@ nord-est
 
 \lx sàlasala
 \ps adj/n
-\ge peu.comcentré
+\ge peu.concentré
 \sm mélange liquide peu concentré
 \ee (sans force, sans saveur ... se dit de la sauce,  de la bière, du sang, du sperme ...)
-\dt 16/Aug/2006
+\dt 25/Jun/2013
 
 \lx sàla.ya
 \mm sàla:vq:être.paresseux
@@ -95215,23 +95817,6 @@ nord-est
 \xe il tonne, il y a du tonnerre
 \dt 30/Nov/2012
 
-\lx sán
-\va syán
-\ue (bn)
-\va síyɛn
-\va syɛ́n
-\ve (bk,f)
-\va shyɛ́n
-\ps v
-\vl vt
-\ge gratter
-\gv sarcler
-\xv ŋɔ́ni yé  né syɛ́n
-\xe les épines m'ont égratigné
-\xv mùso bɛ́  jɛ́gɛfara syɛ́n
-\xe la femme écaille le poisson
-\dt 26/Sep/2006
-
 \lx sàna
 \va sànan
 \va sɛ̀nɛ
@@ -95331,6 +95916,14 @@ nord-est
 \xv kámalenkɔrɔ sánfa dùgufa
 \xe une 'armoire à glace' de jeune homme
 \dt 16/Aug/2006
+
+\lx sán.fɛ̀
+\mm sán:n:ciel
+\mm fɛ̀:pp:vers
+\ps pp
+\ge par-dessus
+\gv au-dessus.de
+\dt 24/Jun/2013
 
 \lx sán.fɛ.la
 \mm sán:n:haut
@@ -95619,6 +96212,17 @@ nord-est
 \sm (pluviométrique)
 \nt Kb 6/05 p.2
 \dt 11/Nov/2007
+
+\lx sán.ji.kɔrɔ.wɔsi
+\mm sán.ji:n:pluie
+\mm sán:n:haut
+\mm jí:n:eau
+\mm kɔ́rɔ:pp:sous
+\mm wɔ̀si:n:sueur
+\ps n
+\ge travail.vain
+\gv travail rude
+\dt 23/Jun/2013
 
 \lx sán.ji.kuna
 \mm sán.ji:n:pluie
@@ -98418,6 +99022,12 @@ nord-est
 \lt (puissant.suf caus)
 \dt 26/Sep/2006
 
+\lx séwu
+\va sésewu
+\ps adv
+\ge sans.bruit
+\dt 24/Jun/2013
+
 \lx sɛ̀
 \ee *sɛ̀gɛn = fatigue ?
 \ps n
@@ -98691,6 +99301,11 @@ nord-est
 \vl vt
 \ge découper.en.lanières
 \dt 16/Aug/2006
+
+\lx sɛ́ɛnɛ
+\ps v
+\ge étendre
+\dt 24/Jun/2013
 
 \lx sɛ́gɛ
 \ps n
@@ -100907,6 +101522,24 @@ nord-est
 \vl vt
 \ge fonder
 
+\lx síɲɛ
+\va sán
+\va syán
+\ue (bn)
+\va síyɛn
+\va syɛ́n
+\ve (bk,f)
+\va shyɛ́n
+\ps v
+\vl vt
+\ge gratter
+\gv sarcler
+\xv ŋɔ́ni yé  né syɛ́n
+\xe les épines m'ont égratigné
+\xv mùso bɛ́  jɛ́gɛfara syɛ́n
+\xe la femme écaille le poisson
+\dt 24/Jun/2013
+
 \lx sì.ɲɛ.na
 \mm sì:v:passer.la.nuit
 \mm ɲɛ́:n:oeil
@@ -101380,14 +102013,14 @@ nord-est
 \dt 26/Sep/2006
 
 \lx sísan
-\vt sísàn
+\va sísàn
 \ps adv/n
 \ge maintenant
 \xv fɔ́ sísan
 \xe jusqu'à présent, encore maintenant
 \xv sísan sɔ̀rɔ kà...
 \xe disposer de cet instant pour ...
-\dt 20/May/2013
+\dt 15/Jun/2013
 
 \lx sísan.da.nin
 \mm sísan:n:maintenant
@@ -101825,6 +102458,12 @@ nord-est
 \ge champs.aux.abords.du.village
 \lt (village.champ)
 \dt 16/Aug/2006
+
+\lx sòfuru
+\ps v
+\ge louer
+\gv prendre en location
+\dt 24/Jun/2013
 
 \lx só.gan
 \mm só:n:maison
@@ -102611,14 +103250,13 @@ nord-est
 \mm ya:mrph:ABSTR
 \va sòn.yɛ
 \mm sòn:n:voleur
-\mm yɛ:mrph:ABSTR
 \ps v
 \vl vt
 \ge dérober
 \lt (voleur.suf caus)
 \xv né má  mɔ̀gɔ sí sònya ábada
 \xe je n'ai jamais volé qui que ce soit
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx sòn.ya.li.kɛ.la
 \mm sòn.ya:v:dérober
@@ -103647,6 +104285,28 @@ nord-est
 \ge excrément.de.bébé
 \dt 16/Aug/2006
 
+\lx sɔ̀rɔ.baga.tɔ
+\mm sɔ̀rɔ:v:obtenir
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va sɔ̀rɔ.baa.tɔ
+\mm sɔ̀rɔ:v:obtenir
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
+\ge richard
+\gv nouveau riche
+\dt 24/Jun/2013
+
+\lx sɔ̀rɔ.da
+\mm sɔ̀rɔ:n:gain
+\mm dá:n:bouche
+\ps n
+\ge revenu
+\gv ressource
+\gv moyen d'existence
+\dt 25/Jun/2013
+
 \lx sɔ̀rɔdasi
 \va sɔ̀rasi
 \ps n
@@ -103723,6 +104383,7 @@ nord-est
 \dt 26/Sep/2006
 
 \lx sù
+\va shù
 \ps n
 \sn 1
 \ge cadavre
@@ -103735,7 +104396,14 @@ nord-est
 \xe enterrer un défunt
 \xv sù sɔ́n
 \xe faire un sacrifice aux ancêtres
-\dt 26/Sep/2006
+\dt 09/Jun/2013
+
+\lx sù
+\va shù
+\ps adj
+\ge mauvais
+\gv vil
+\dt 24/Jun/2013
 
 \lx sú
 \ps n
@@ -105662,15 +106330,18 @@ nord-est
 \lx syɛ̀.kili
 \mm syɛ̀:n:poule
 \mm kíli:n:oeuf
-\va shyɛ̀.kili
-\mm shyɛ̀:n:poule
+\va sɛ̀.kili
+\mm sɛ̀:n:poule
+\mm kíli:n:oeuf
+\va shɛ̀.kili
+\mm shɛ̀:n:poule
 \mm kíli:n:oeuf
 \ph [shyɛkili]
 \ps n
 \ge oeuf.de.poule
 \sy syɛ̀fan
 \lt (poule.oeuf)
-\dt 16/Aug/2006
+\dt 21/May/2013
 
 \lx syɛ̀.kili.fara
 \mm syɛ̀.kili:n:oeuf.de.poule
@@ -106545,6 +107216,11 @@ nord-est
 \xe tu n'as pas réfléchi à ce que je t'ai dit ?
 \dt 26/Sep/2006
 
+\lx tàasi
+\ps n
+\ge réflexion
+\dt 29/Jun/2013
+
 \lx tàasi.bali
 \mm tàasi:v:réfléchir
 \mm bali:mrph:PTCP.PRIV
@@ -107331,12 +108007,13 @@ nord-est
 \dt 12/Aug/2006
 
 \lx tàri
+\va tɛ́ri
 \ps conj
 \ge ou.bien
 \gv est-ce que ... ?
 \xv tàri dì ?
 \xe n'est-ce pas ?
-\dt 16/Aug/2006
+\dt 24/Jun/2013
 
 \lx táriku
 \va táriki
@@ -107461,12 +108138,15 @@ nord-est
 \va tá.tiyɛn
 \mm tá:n:propriété
 \mm tíyɛn:v:gâter
+\va tá.cɛn
+\mm tá:n:propriété
+\mm cɛ́n:v:gâter
 \ps n
 \ge catastrophe
 \gv désastre
 \gv échec personnel
 \lt (part.gâter)
-\dt 26/Sep/2006
+\dt 24/Jun/2013
 
 \lx tá.tugu.kɔnɔ
 \mm tá:n:feu
@@ -107619,7 +108299,7 @@ nord-est
 \va tɛ́li
 \ue (bk, f)
 \va télin
-\ps vq
+\ps vq/adj
 \sn 1
 \ge être.rapide
 \ee de cycle court
@@ -107629,7 +108309,7 @@ nord-est
 \gv être très probable
 \xv bála ká tɛ́li kà fɔ́  sú ìn nɔ́
 \xe il est très probable qu'on va jouer du balafon ce soir
-\dt 01/Mar/2013
+\dt 24/Jun/2013
 
 \lx télu
 \ue (-bk)
@@ -108235,7 +108915,7 @@ nord-est
 \dt 26/Sep/2006
 
 \lx tɛ̀mɛ
-\mm tɛ̀mɛn
+\va tɛ̀mɛn
 \ps v
 \sn 1
 \vl vi
@@ -108264,7 +108944,7 @@ nord-est
 \gv résoudre
 \xv ní  gɛ̀lɛya nàna, á b'á tɛ̀mɛ  síra dɔ́ fɛ̀...
 \xe s'il y a une difficulté, vous la résolvez d'une certaine manière ...
-\dt 11/May/2013
+\dt 24/May/2013
 
 \lx tɛ̀mɛ.baa
 \mm tɛ̀mɛ:v:passer
@@ -108464,6 +109144,13 @@ nord-est
 \xe c'est Ɲele qui chante les couplets
 \dt 16/Aug/2006
 
+\lx tɛ́rɛmɛ
+\ps v
+\ge retailler
+\gv adapter
+\gv dénigrer
+\dt 24/Jun/2013
+
 \lx tɛ́rɛmɛ.li.kɛ.la
 \mm tɛ́rɛmɛ:v:marchander
 \mm li:mrph:NMLZ
@@ -108491,6 +109178,13 @@ nord-est
 \nt kb 1/05 p.5)
 \dt 11/Nov/2007
 
+\lx tɛ́rɛntɛ
+\va tɛ́rɛndɛ
+\ps v
+\ge retailler
+\gv adapter
+\dt 24/Jun/2013
+
 \lx tɛ́sadì
 \ps intj
 \ge n'est-ce.pas
@@ -108504,6 +109198,11 @@ nord-est
 \ge suppurations cutanées
 \sm au bras
 \dt 16/Aug/2006
+
+\lx tí
+\ps adv
+\ge très.lourd
+\dt 24/Jun/2013
 
 \lx tìbitaba
 \va tìibitaaba
@@ -108808,17 +109507,30 @@ nord-est
 \lt (couper.de moi)
 \dt 26/Sep/2006
 
-\lx tìgɛ-ń-sòn-ya
+\lx tìgɛ.n.sɔn.ya
 \mm tìgɛ:v:couper
 \mm ń:pers:je
-\mm sòn:pp:IN
+\mm sɔ̀n:pp:IN
+\mm ya:mrph:ABSTR
+\ps n
+\ge négligence
+\gv "je-m'en-foutisme"
+\dt 25/Jun/2013
+
+\lx tìgɛ-ń-sɔ̀n-ya
+\mm tìgɛ:v:couper
+\mm ń:pers:je
+\mm sɔ̀n:pp:IN
 \mm ya:mrph:ABSTR
 \lt (se défier.moi.endroit.suf abs)
 \ps v
 \vl vt
-\ge ne.pas.répondre
+\ge dédaigner
+\gv mépriser
+\gv ne.pas.répondre
+\gv négliger
 \ee (pour divers motifs : mépris, orgueil, pour éviter une querelle on supporte l'affront ...)
-\dt 16/Aug/2006
+\dt 25/Jun/2013
 
 \lx tìgɛ.ɲɔgɔn.na
 \mm tìgɛ:v:couper
@@ -111114,11 +111826,14 @@ nord-est
 \va tɔ́gɔ.tiɲɛ
 \mm tɔ́gɔ:n:nom
 \mm tíɲɛ:v:gâter
+\va tɔ́gɔ.cɛn
+\mm tɔ́gɔ:n:nom
+\mm cɛ́n:v:gâter
 \ps n
 \ge dénigrement
 \sm (par médisance ou calomnie)
 \lt (renom.gâter)
-\dt 16/Aug/2006
+\dt 24/Jun/2013
 
 \lx tɔ̀gɔtɔgɔnin
 \mm nin:mrph:DIM
@@ -111156,6 +111871,7 @@ nord-est
 \dt 15/May/2013
 
 \lx tɔ̀mɔ
+\va tɔ̀mɔn
 \ps v
 \vl vt
 \sn 1
@@ -111167,7 +111883,7 @@ nord-est
 \sn 3
 \gv retrouver
 \sm un objet perdu
-\dt 26/Sep/2006
+\dt 13/Jun/2013
 
 \lx tɔ̀n
 \vc tɔ̀
@@ -111551,6 +112267,14 @@ nord-est
 \ge faire.souffrir
 \gv déranger
 \dt 26/Sep/2006
+
+\lx tɔ̀pɔtɔ
+\ps v
+\ge entretenir
+\gv prendre au sérieux
+\gv bien s'occuper de
+\gv être aux petits soins pour
+\dt 24/Jun/2013
 
 \lx tɔ́rɔ
 \va ntɔ́rɔn
@@ -113632,6 +114356,13 @@ nord-est
 \sy báara
 \dt 26/Sep/2006
 
+\lx wále.baa
+\mm wále:n:acte
+\mm baa:mrph:AG.OCC
+\ps n
+\ge auteur
+\dt 23/Jun/2013
+
 \lx wále.dɛmɛ.nan
 \mm wále:n:acte
 \mm dɛ̀mɛ:v:aider
@@ -113898,17 +114629,19 @@ nord-est
 \dt 11/Nov/2007
 
 \lx wáraka
+\va wálaka
 \ps v
 \vl vt
 \sn 1
 \ge démonter
 \sm (les pièces de ...)
 \sn 2
+\gv désahabiller
 \gv enlever ses habits
 \sm (un par un)
 \sn 3
 \gv dépecer
-\dt 16/Aug/2006
+\dt 25/Jun/2013
 
 \lx wáraka.ta
 \mm wáraka:v:démonter
@@ -117964,6 +118697,12 @@ nord-est
 \xe de l'or pur
 \dt 16/Aug/2006
 
+\lx yɛ̀rɛyɛ̀rɛ
+\ps adj
+\ge véritable
+\gv authentique
+\dt 24/Jun/2013
+
 \lx yɛ́rɛyɛrɛ
 \ps v
 \vl vi
@@ -118415,7 +119154,7 @@ nord-est
 \dt 03/May/2013
 
 \lx yúru.ya
-\mm yúru:adj/n:rapporteur
+\mm yúru:n:rapporteur
 \mm ya:mrph:ABSTR
 \ps n
 \lt commerçant malhonnête-suf abs
@@ -118423,7 +119162,14 @@ nord-est
 \gv escroquerie
 \xv kà yúruya kɛ́
 \rem Mol
-\dt 11/Nov/2007
+\dt 25/Jun/2013
+
+\lx yúru.ya
+\mm yúru:n:rapporteur
+\mm ya:mrph:ABSTR
+\ps v
+\ge escroquer
+\dt 25/Jun/2013
 
 \lx zántaramu
 \ps n
