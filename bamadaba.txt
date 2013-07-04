@@ -198,7 +198,7 @@
 
 \lx ála.jɔ
 \mm Ála:n:Dieu
-\mm jɔ̀:n:hamac
+\mm jɔ̀:n:filet
 \ps n
 \ge liane.chevelue
 \lat Cassytha filiformis
@@ -206,7 +206,7 @@
 \sy ngálajɔ
 \lt (Dieu.filet)
 \ee (herbe parasite sans feuilles, vivant sur les arbustes)
-\dt 19/Aug/2006
+\dt 04/Jul/2013
 
 \lx ála-ká-mìsi
 \mm Ála:n:Dieu
@@ -4568,6 +4568,21 @@
 \ee (rare)
 \dt 26/Sep/2006
 
+\lx bárika.da
+\mm bárika:n:bénédiction
+\mm dá:v:poser
+\ps v
+\ge remercier
+\dt 04/Jul/2013
+
+\lx bárika.da
+\mm bárika:n:bénédiction
+\mm dá:v:poser
+\ps n
+\ge remerciement
+\gv reconnaissance
+\dt 04/Jul/2013
+
 \lx bárika.den
 \mm bárika:n:bénédiction
 \mm dén:n:enfant
@@ -4885,10 +4900,11 @@
 \lx bá.sama.jɔ
 \mm bá:n:fleuve
 \mm sàma:v:tirer.à.soi
-\mm jɔ̀:n:hamac
+\mm jɔ̀:n:filet
 \ps n
 \ge senne
 \lt (fleuve.traîner.filet)
+\dt 04/Jul/2013
 
 \lx bàsan
 \ps n
@@ -14179,12 +14195,6 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx cɛ́n
-\va cíyɛn
-\ps n
-\ge héritage
-\dt 15/Aug/2006
-
-\lx cɛ́n
 \ps n
 \ge allure
 \xv à cɛ́n ká gòni
@@ -15053,6 +15063,13 @@ bâton de berger
 \lt (utilité.sans)
 \dt 26/Sep/2006
 
+\lx cíɲɛ
+\va cíyɛn
+\va cɛ́n
+\ps n
+\ge héritage
+\dt 04/Jul/2013
+
 \lx cíwara
 \ps n
 \sn 1
@@ -15094,10 +15111,18 @@ bâton de berger
 \mm cíyɛn:n:héritage
 \mm tà:v:prendre
 \mm mùso:n:femme
+\va cíɲɛ.ta.muso
+\mm cíɲɛ:n:héritage
+\mm tà:v:prendre
+\mm mùso:n:femme
+\va cɛ́n.ta.muso
+\mm cɛ́n:n:héritage
+\mm tà:v:prendre
+\mm mùso:n:femme
 \ps n
 \lt héritage-femme
 \ge femme.d'héritage
-\dt 11/Nov/2007
+\dt 04/Jul/2013
 
 \lx cíyɛn.ta.muso.ko
 \mm cíyɛn:n:héritage
@@ -16954,11 +16979,11 @@ bâton de berger
 
 \lx dà.fu
 \mm dà:n:chanvre
-\mm fù:n:fibre.de.chanvre
+\mm fù:n:fibre
 \ps n
 \ge fibres.de.chanvre
 \lt (chanvre.fibre)
-\dt 16/Aug/2006
+\dt 04/Jul/2013
 
 \lx dá.furuku
 \mm dá:n:bouche
@@ -24374,6 +24399,14 @@ bâton de berger
 \rem f 83
 \dt 11/Nov/2007
 
+\lx dɔ́gɔ.furan.cɛ
+\mm dɔ́gɔ:n:marché
+\mm fùran:n:distance
+\mm cɛ́:n:milieu
+\ps n
+\ge semaine
+\dt 04/Jul/2013
+
 \lx dɔ́gɔ.kɛ
 \mm dɔ́gɔ:n:cadet
 \mm kɛ:adj:mâle
@@ -31674,16 +31707,16 @@ bâton de berger
 
 \lx fìli.jɔ
 \mm fìli:v:jeter
-\mm jɔ̀:n:hamac
+\mm jɔ̀:n:filet
 \va flì.jɔ
 \mm flì:v:jeter
-\mm jɔ̀:n:hamac
+\mm jɔ̀:n:filet
 \ph [flijɔ]
 \ps n
 \ge épervier
 \sm (filet)
 \lt (lancer.filet)
-\dt 16/Aug/2006
+\dt 04/Jul/2013
 
 \lx fíli.juru
 \mm fíli:n:fil
@@ -33315,9 +33348,17 @@ bâton de berger
 \vl vt
 \ge abandonner
 \gv négliger
+\gv errer
+\gv perdre en marchant
 \xv ní  fɛ́n ɲúman bɛ́  à bólo,  à b'á fòlofolo
 \xe s'il possède quelque chose de précieux, il n'en prend pas soin
-\dt 26/Sep/2006
+\dt 04/Jul/2013
+
+\lx fòlofolo
+\ps n
+\ge abandon
+\gv manque de surveillance
+\dt 04/Jul/2013
 
 \lx fòloka
 \ps n
@@ -34361,11 +34402,11 @@ bâton de berger
 
 \lx fɔ̀ɔnɔ.jɔ
 \mm fɔ̀ɔnɔ:n:poisson.Alestes.dentex.sethente
-\mm jɔ̀:n:hamac
+\mm jɔ̀:n:filet
 \ps n
 \ge filet.à.petites.mailles
 \lt ("alestes".filet)
-\dt 16/Aug/2006
+\dt 04/Jul/2013
 
 \lx fɔ́ri
 \ps n
@@ -34462,7 +34503,7 @@ bâton de berger
 \lx fù
 \ps n
 \sn 1
-\ge fibre.de.chanvre
+\ge fibre
 \xv dàfu fúgan
 \xe tresser des fibres de chanvre
 \sn 2
@@ -34475,7 +34516,7 @@ bâton de berger
 \gv fibre.de.viande
 \xv sògofu bálanna  né ɲí ná
 \xe il me reste des fibres de viande entre les dents
-\dt 16/Aug/2006
+\dt 04/Jul/2013
 
 \lx fú
 \ps n
@@ -45490,12 +45531,13 @@ bâton de berger
 
 \lx jɔ̀
 \ps n
-\sn 1
-\ge hamac
-\sn 2
+\ge filet
 \ee tout tissu à larges mailles
+\sn 1
+\gv hamac
+\sn 2
 \gv filet.de.pêche
-\dt 26/Sep/2006
+\dt 04/Jul/2013
 
 \lx jɔ̀
 \ue (f)
@@ -45523,15 +45565,24 @@ bâton de berger
 \gv jugement.dernier
 \dt 16/Aug/2006
 
+\lx jɔ̀.bɔgɔ.jɔ.nin
+\mm jɔ̀:n:filet
+\mm bɔ̀gɔ:n:terre
+\mm jɔ̀:n:filet
+\mm nin:mrph:DIM
+\ps n
+\ge débardeur.en.mailles
+\dt 04/Jul/2013
+
 \lx jɔ̀.bɔrɔ
-\mm jɔ̀:n:hamac
+\mm jɔ̀:n:filet
 \mm bɔ̀rɔ:n:sac
 \ps n
 \ge sac
 \ee petit sac à mailles
 \lt (filet.sac)
 \sy cèlu
-\dt 16/Aug/2006
+\dt 04/Jul/2013
 
 \lx jɔ̀.da
 \mm jɔ̀:n:station.debout
@@ -45609,7 +45660,7 @@ bâton de berger
 \dt 26/Sep/2006
 
 \lx jɔ̀.kɔlɔsi.la
-\mm jɔ̀:n:hamac
+\mm jɔ̀:n:filet
 \mm kɔ̀lɔsi:v:surveiller
 \mm la:mrph:AG.PRM
 \ps n
@@ -45618,7 +45669,7 @@ bâton de berger
 \sy jɔ̀kɔlɔsibaga
 \xv bɛ́ɛ b'á kàla mà, Máli jɔ̀kɔlɔsila fána mán ɲì
 \xe Tous sont au courant que le gardien de but du Mali n'est pas bon (kb 9/04 p.11) (kb 3/05 p.12)
-\dt 11/Nov/2007
+\dt 04/Jul/2013
 
 \lx jɔ̀.kun
 \mm jɔ̀:n:station.debout
@@ -53656,6 +53707,17 @@ bâton de berger
 \lt (formule magique.parole)
 \dt 16/Aug/2006
 
+\lx kílo
+\ps n
+\ge kilomètre
+\dt 04/Jul/2013
+
+\lx kílo
+\ps n
+\ge kilogramme
+\gv kilo
+\dt 04/Jul/2013
+
 \lx kìn
 \ps n
 \ge quartier
@@ -54493,14 +54555,14 @@ bâton de berger
 
 \lx kò.fu
 \mm kò:v:laver
-\mm fù:n:fibre.de.chanvre
+\mm fù:n:fibre
 \ps n
 \ge filasse
 \gv éponge.végétale
 \sy kòlanfu
 \sy kòlifu
 \lt (laver.fibre)
-\dt 26/Sep/2006
+\dt 04/Jul/2013
 
 \lx kó.gɛlɛn
 \mm kó:n:affaire
@@ -54710,7 +54772,7 @@ bâton de berger
 \lx kò.lan.fu
 \mm kò:v:laver
 \mm lan:mrph:INSTR
-\mm fù:n:fibre.de.chanvre
+\mm fù:n:fibre
 \lt (laver.qui sert à.fibre)
 \ps n
 \ge courge-torchon
@@ -54718,7 +54780,7 @@ bâton de berger
 \sd cucu
 \sy kòlifu
 \ee (plante grimpante, annuelle, sert d'éponge, de filasse)
-\dt 19/Aug/2006
+\dt 04/Jul/2013
 
 \lx kólan.jan
 \mm kólan:n:enclume
@@ -54751,11 +54813,11 @@ bâton de berger
 \lx kò.li.fu
 \mm kò:v:laver
 \mm li:mrph:NMLZ
-\mm fù:n:fibre.de.chanvre
+\mm fù:n:fibre
 \ps n
 \ge filasse
 \ee bourre de fibres de rônier, sert d'éponge végétale)
-\dt 26/Sep/2006
+\dt 04/Jul/2013
 
 \lx kò.li.ji
 \mm kò:v:laver
@@ -58970,6 +59032,14 @@ bâton de berger
 \lt (intérieur.réfléchir)
 \dt 12/Aug/2006
 
+\lx kɔ́nɔ.na.miiri
+\mm kɔ́nɔ:n:ventre
+\mm ná:pp:dans
+\mm míiri:v:penser
+\ps n
+\ge méditation
+\dt 04/Jul/2013
+
 \lx kɔ́nɔ.nan.di
 \mm kɔ́nɔ:n:ventre
 \mm nan:mrph:dans
@@ -59071,6 +59141,27 @@ bâton de berger
 \ge lenteur.de.compréhension
 \lt (qui comprend lentement.suf abs)
 \dt 16/Aug/2006
+
+\lx kɔ́nɔ.na.suruku
+\mm kɔ́nɔ:n:ventre
+\mm ná:pp:dans
+\mm súruku:v:sonder.une.cavité
+\va kɔ́nɔ.suruku
+\mm kɔ́nɔ:n:ventre
+\mm súruku:v:sonder.une.cavité
+\ps v
+\ge exciter
+\gv pousser à
+\dt 04/Jul/2013
+
+\lx kɔ́nɔ.na.suruku
+\mm kɔ́nɔ:n:ventre
+\mm ná:pp:dans
+\mm súruku:v:sonder.une.cavité
+\ps n
+\ge instigation
+\gv influence
+\dt 04/Jul/2013
 
 \lx kɔ́nɔ.na.ta
 \mm kɔ́nɔ:n:ventre
@@ -63102,6 +63193,16 @@ bâton de berger
 \ge cavité.crânienne
 \lt (crâne.appartement)
 \dt 16/Aug/2006
+
+\lx kùn.kolo.tɔ
+\mm kùn.kolo:n:crâne
+\mm kùn:n:tête
+\mm kólo:n:os
+\mm tɔ:mrph:ST
+\ps n
+\ge fou
+\gv malade mental
+\dt 04/Jul/2013
 
 \lx kùn.kolo.wuli
 \mm kùn.kolo:n:crâne
@@ -68546,6 +68647,16 @@ bâton de berger
 \gv renvoyer
 \dt 02/Feb/2013
 
+\lx lá.sìgi
+\mm lá:mrph:CAUS
+\mm sìgi:v:asseoir
+\ps v
+\ge faire.asseoir
+\gv convoquer
+\gv poster
+\gv installer
+\dt 04/Jul/2013
+
 \lx là.sigi.den
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
@@ -68584,6 +68695,22 @@ bâton de berger
 \ps n
 \ge relation.diplomatique
 \dt 14/Jun/2013
+
+\lx lá.siran
+\mm lá:mrph:CAUS
+\mm síran:v:craindre
+\ps v
+\ge effrayer
+\gv faire peur
+\dt 04/Jul/2013
+
+\lx lá.siran
+\mm lá:mrph:CAUS
+\mm síran:v:craindre
+\ps n
+\ge crainte
+\gv peur
+\dt 04/Jul/2013
 
 \lx lá.sìri
 \mm sìri:v:lier
@@ -72279,6 +72406,27 @@ bâton de berger
 \gv mettre.en.colère
 \dt 26/Sep/2006
 
+\lx màn.di.ya
+\mm màn:mrph:SUPER
+\mm dí:vq/adj:agréable
+\mm ya:mrph:ABSTR
+\ps v
+\ge chérir
+\gv aimer
+\gv estimer
+\dt 04/Jul/2013
+
+\lx màn.di.ya
+\mm màn:mrph:SUPER
+\mm dí:vq/adj:agréable
+\mm ya:mrph:ABSTR
+\ps n
+\ge affection
+\gv amour
+\gv estime
+\gv bonnes grâces
+\dt 04/Jul/2013
+
 \lx mànfan
 \ps n
 \lt endroit-côté
@@ -74432,15 +74580,14 @@ nord-est
 \dt 08/Nov/2012
 
 \lx míni.ɲa
-\mm míni:v:enrouler
-\mm ɲà:n:python.royal
+\va míni.ɲan
 \ps n
 \ge python
 \gv boa.constricteur
 \lat Python.sebae
 \ee ---> 9,50 m
 \lt (enrouler.python)
-\dt 26/Sep/2006
+\dt 04/Jul/2013
 
 \lx mínisiri
 \ps n
@@ -80264,7 +80411,7 @@ nord-est
 
 \lx ngála.jɔ
 \mm Ngála:n:Dieu
-\mm jɔ̀:n:hamac
+\mm jɔ̀:n:filet
 \ps n
 \ge liane.chevelue
 \lat Cassytha.filiformis
@@ -80272,7 +80419,7 @@ nord-est
 \lt (Dieu.filet)
 \ee herbe parasite sans feuilles, vivant sur les arbustes)
 \sy álajɔ
-\dt 19/Aug/2006
+\dt 04/Jul/2013
 
 \lx ngála.kolo
 \mm Ngála:n:Dieu
@@ -87603,12 +87750,12 @@ nord-est
 
 \lx ɲáma.fu
 \mm ɲáma:n:arbre.Piliostigma.sp
-\mm fù:n:fibre.de.chanvre
+\mm fù:n:fibre
 \ps n
 \lt 'arbre ɲama'-fibre
 \ge fibres.du.pied-de-boeuf
 \rem l 89
-\dt 11/Nov/2007
+\dt 04/Jul/2013
 
 \lx ɲàma.ji
 \mm ɲàma:n:force.occulte
@@ -94741,11 +94888,12 @@ nord-est
 \lx sàbara
 \va sàmara
 \ue (bn)
+\va sànbara
 \ee sanbara*
 \ps n
 \ge chaussure
 \gv sandale
-\dt 26/Sep/2006
+\dt 04/Jul/2013
 
 \lx sàbara.ba.tigi
 \mm sàbara:n:chaussure
@@ -98358,6 +98506,16 @@ nord-est
 \ge gros.orteil
 \dt 11/Nov/2007
 
+\lx sèn.kɔrɔ
+\mm sèn:n:jambe
+\mm kɔ́rɔ:pp:sous
+\ps pp
+\ge parmi
+\gv chez
+\gv au milieu de
+\gv au cours de
+\dt 04/Jul/2013
+
 \lx sèn.kɔrɔ.jugu
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
@@ -98655,6 +98813,13 @@ nord-est
 \ee (grande antilope, de la taille d'un cerf mais croupe plus lourde)
 \lat Kobus kobus ellipsiprymnus unctuosus
 \dt 16/Aug/2006
+
+\lx sèn.ta
+\mm sèn:n:jambe
+\mm tà:v:prendre
+\ps n
+\ge pas
+\dt 04/Jul/2013
 
 \lx sé.ntan
 \mm sé:n:arrivée
@@ -103382,13 +103547,14 @@ nord-est
 \va sòonadòn
 \va sòronalidòn
 \va sùrunalidòn
+\va sòrona
 \ps v
 \ge intercéder
 \gv se faire l'avocat de
 \gv défendre qqn auprès d'une autre personne
 \gv
 \gv
-\dt 04/Dec/2012
+\dt 04/Jul/2013
 
 \lx sòronalidon
 \va sùrunalidon
@@ -105621,6 +105787,10 @@ nord-est
 \mm sú:n:nuit
 \mm rɔ́:pp:IN
 \mm fàna:n:repas
+\va sú.ra.fana
+\mm sú:n:nuit
+\mm rá:pp:dans
+\mm fàna:n:repas
 \ps n
 \sn 1
 \ge souper
@@ -105629,7 +105799,7 @@ nord-est
 \lt (soir.du.repas)
 \sn 2
 \gv cadeaux de 'fiançailles'
-\dt 16/Aug/2006
+\dt 04/Jul/2013
 
 \lx sú.rɔ.fɛn
 \mm sú:n:nuit
@@ -107913,11 +108083,12 @@ nord-est
 \dt 16/Aug/2006
 
 \lx tànu
+\va  tànun
 \ps v
 \vl vt
 \ge louer
 \gv féliciter
-\dt 26/Sep/2006
+\dt 04/Jul/2013
 
 \lx tá.ɲa
 \mm tá:n:propriété
@@ -112250,6 +112421,20 @@ nord-est
 \xv mùso ká kán k'í tɔ́n-tɔ́n  kà dén dɛ̀mɛ
 \xe la maman doit pousser pour aider l'enfant(à naître)
 \dt 16/Aug/2006
+
+\lx tɔ̀ɲɔ
+\ps v
+\ge offenser
+\gv léser
+\gv faire tort
+\gv gêner
+\gv opprimer
+\dt 04/Jul/2013
+
+\lx tɔ̀ɲɔ
+\ps n
+\ge offence
+\dt 04/Jul/2013
 
 \lx tɔ́ɔrɔ
 \ps n
