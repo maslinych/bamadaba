@@ -42024,13 +42024,12 @@ bâton de berger
 \lx jàmana.kun.tigi
 \mm jàmana:n:pays
 \mm kùn:n:tête
-\mm tìgi:n:
+\mm tìgi:n:maître
 \ps n
-\lt pays-chef
 \ge président
 \sy jàmanatigi
 \nt Kb 11/06 p.3
-\dt 11/Nov/2007
+\dt 13/Jul/2013
 
 \lx jàmana.tigi
 \mm jàmana:n:pays
@@ -51271,6 +51270,11 @@ bâton de berger
 \ge marchandise
 \dt 16/Aug/2006
 
+\lx kàre
+\ps adj
+\ge carré
+\dt 13/Jul/2013
+
 \lx kàri
 \va kàari
 \ps n
@@ -53908,6 +53912,11 @@ bâton de berger
 \ge kilogramme
 \gv kilo
 \dt 04/Jul/2013
+
+\lx kílomɛtɛrɛ
+\ps n
+\ge kilomètre
+\dt 13/Jul/2013
 
 \lx kìn
 \ps n
@@ -68555,6 +68564,18 @@ bâton de berger
 \lt (préf.réjouir)
 \dt 26/Sep/2006
 
+\lx lá.ɲɛ.nama.li.ya
+\mm lá:mrph:CAUS
+\mm ɲɛ́.nama.ya:v:ranimer
+\mm ɲɛ́.nama:adj:vivant
+\mm ɲɛ́:n:oeil
+\mm nama:mrph:STAT
+\mm li:mrph:NMLZ
+\mm ya:mrph:ABSTR
+\ps n
+\ge dynamisation
+\dt 13/Jul/2013
+
 \lx lá.ɲɛ.nama.ya
 \mm lá:mrph:CAUS
 \mm ɲɛ́.nama.ya:v:ranimer
@@ -68566,7 +68587,8 @@ bâton de berger
 \vl vt
 \ge rénover
 \gv réanimer
-\dt 11/Nov/2007
+\gv dynamiser
+\dt 13/Jul/2013
 
 \lx lá.ɲɛni
 \mm lá:mrph:CAUS
@@ -74579,10 +74601,15 @@ bâton de berger
 \ge sangsue
 \dt 16/Aug/2006
 
+\lx míliyari
+\ps n
+\ge milliard
+\dt 13/Jul/2013
+
 \lx míliyɔn
-\ps num
+\ps n
 \ge million
-\dt 20/Feb/2013
+\dt 13/Jul/2013
 
 \lx mími
 \ue (bmk)
@@ -76526,14 +76553,14 @@ nord-est
 \dt 26/Sep/2006
 
 \lx mùgan
-\ps n
+\ps num
 \sn 1
 \ge vingt
 \xv mùgan ní  tán = bí sàba
 \xe trente (20 et 10 = 30)
 \sn 2
 \gv cent.francs
-\dt 16/Aug/2006
+\dt 13/Jul/2013
 
 \lx múgan
 \ps v
@@ -87538,11 +87565,12 @@ nord-est
 
 \lx n'ó tɛ́
 \va n'ó ntɛ́
+\va nɔ́ntɛ
 \ee *xas : ntɛ = tɛ
 \ps conj
 \lt (si.cela.n'est pas)
 \ge sinon
-\dt 19/Jan/2013
+\dt 13/Jul/2013
 
 \lx ɲà
 \va ɲɛ̀
@@ -100840,6 +100868,14 @@ nord-est
 \gv chapitre du livre
 \dt 26/Sep/2006
 
+\lx sìgi.dama
+\mm sìgi:v:asseoir
+\mm dàma:n:limite
+\ps n
+\ge sorte
+\gv espèce
+\dt 13/Jul/2013
+
 \lx sìgi.dolo
 \mm sìgi:v:asseoir
 \mm dòlo:n:étoile
@@ -104764,10 +104800,11 @@ nord-est
 
 \lx sɔ̀rɔdasi
 \va sɔ̀rasi
+\va sòrodasi
 \ps n
 \ge militaire
 \ge soldat
-\dt 03/May/2013
+\dt 13/Jul/2013
 
 \lx sɔ̀rɔ.fɛn
 \mm sɔ̀rɔ:v:obtenir
@@ -114313,13 +114350,13 @@ nord-est
 \dt 16/Aug/2006
 
 \lx wáa
-\ps num
+\ps n
 \sn 1
 \ge mille
 \sn 2
 \gv 5.000 francs
 \sy bà
-\dt 16/Aug/2006
+\dt 13/Jul/2013
 
 \lx wàa.ba
 \mm wàa:n:brousse
