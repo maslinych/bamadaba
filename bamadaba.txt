@@ -61651,7 +61651,8 @@ bâton de berger
 \mm bàna:n:maladie
 \ps n
 \ge impuissance
-\dt 12/Jul/2013
+\gv maladie.vénérienne
+\dt 20/Jul/2013
 
 \lx kùlusi.jala.siri
 \mm kùlusi.jala:n:cordelière.de.la.culotte
@@ -70571,12 +70572,13 @@ bâton de berger
 \lat Trichecus.senegalensis
 \ee (mammifère herbivore aquatique, espèce devenue très rare  dans le bassin du Niger)
 \sy báfaarɔ
-\dt 16/Aug/2006
+\dt 21/Jul/2013
 
-\le mà
+\lx mà
 \va màn
 \ps mrph
 \ge SUPER
+\dt 21/Jul/2013
 
 \lx má
 \ps n
@@ -73784,13 +73786,15 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx màsiba
+\va màasiba
+\va màsibo
 \ps n
 \sn 1
 \ge catastrophe
 \gv accident
 \sn 2
 \gv maladie.grave
-\dt 26/Sep/2006
+\dt 16/Jul/2013
 
 \lx mà.sìgi
 \mm mà:mrph:SUPER
@@ -116914,6 +116918,7 @@ nord-est
 \dt 26/Sep/2006
 
 \lx wɔ̀si
+\va wɔ̀ɔsi
 \ps n
 \sn 1
 \ge sueur
@@ -116923,13 +116928,14 @@ nord-est
 \sm ce qu'on a gagné par son travail
 \xv ò má bɔ́  cɛ̀ ká júfa lá, ò yé  né wɔ̀si yé
 \xe mon mari n'en a pas sorti l'argent, c'est le fruit de mon travail
-\dt 26/Sep/2006
+\dt 24/Jul/2013
 
 \lx wɔ̀si
+\va wɔ̀ɔsi
 \ps v
 \vl vi
 \ge transpirer
-\dt 26/Sep/2006
+\dt 24/Jul/2013
 
 \lx wɔ̀si.ji
 \mm wɔ̀si:v:transpirer
