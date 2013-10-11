@@ -38,6 +38,11 @@
 \sm réticence : ah ! [très bref]
 \dt 03/oct./2006
 
+\lx á
+\ps pers
+\ge 2PL
+\dt 29/Sep/2013
+
 \lx à dɔ́ lá
 \va à dɔ́ rá
 \ue (bk,bn)
@@ -4007,6 +4012,12 @@
 \sn 2
 \gv paludisme.chronique
 \dt 26/Sep/2006
+
+\lx bàngu
+\va bànku
+\ps n
+\ge terre
+\dt 25/Sep/2013
 
 \lx báni
 \ee la prononciation vocalique orale vient sans doute de sa position en fin de phrase
@@ -8568,11 +8579,12 @@ bâton de berger
 \mm dún:v:manger
 \mm dùga:n:vautour
 \ps n
-\ge vautour.huppé
+\ge vautour.à.tête.blanche
+\gv vautour.huppé
 \lat Trigonoceps occipitalis
 \lt (crotte.manger.vautour)
 \ee adultes : dessus de la tête blanc, bec rouge
-\dt 16/Aug/2006
+\dt 23/Sep/2013
 
 \lx bò.fin.kɛ
 \mm bò:n:excrément
@@ -12883,11 +12895,6 @@ bâton de berger
 \sy kérekisɛ
 \dt 15/Aug/2006
 
-\lx bàngu
-\va bànku
-\ps n
-\ge terre
-
 \lx cá
 \va cán
 \va c'
@@ -15381,6 +15388,13 @@ bâton de berger
 \sy táaran
 \dt 12/Aug/2006
 
+\lx cɔ́
+\ps intj
+\ge parfaitement
+\gv justement
+\gv exactement
+\dt 22/Sep/2013
+
 \lx cɔ́gɔri
 \va cwári
 \ps v
@@ -16117,6 +16131,24 @@ bâton de berger
 \ge ensorceler
 \xv à yé  ù dàbali
 \xe il les a ensorcelés
+
+\lx dàbali.ban
+\mm dàbali:n:moyen
+\mm bán:v:terminer
+\ps v
+\ge stupéfier
+\gv abasourdir
+\gv interloquer
+\gv être stupéfié
+\dt 22/Sep/2013
+
+\lx dàbali.ban
+\mm dàbali:n:moyen
+\mm bán:n:fin
+\ps n
+\ge fait.incroyable
+\gv fait.extraordinaire
+\dt 22/Sep/2013
 
 \lx dàbali.bana
 \mm dàbali:n:moyen
@@ -26717,6 +26749,13 @@ bâton de berger
 \ge approfondir
 \lt (profond.suf caus)
 
+\lx dùruntu
+\ps v
+\ge disperser
+\gv mélanger
+\gv brouiller
+\dt 26/Sep/2013
+
 \lx dùrusi
 \bw ar: dars / durus = étude(s)
 \ps v
@@ -30991,13 +31030,14 @@ bâton de berger
 \ue (-f)
 \va fyɛ̀nɛ
 \ue (bk,bn)
+\va fɛ̀nfɛn
 \ps v
 \vl vt
 \ge étendre
 \sm (pour sécher, refroidir ...)
 \xv màlo fɛ̀nsɛn  bìlali kàn
 \xe étendre du riz sur une natte
-\dt 26/Sep/2006
+\dt 22/Sep/2013
 
 \lx fɛ́n.tigi
 \mm fɛ́n:n:chose
@@ -34011,7 +34051,13 @@ bâton de berger
 \xe à moins que ..., à moins de ...
 \xv fɔ́ ń'í bànana...
 \xe à moins que tu ne tombes malade
-\dt 26/Sep/2006
+\sn 3
+\gv au point de
+\sn 4
+\gv si bien que
+\sn 5
+\gv il faut que
+\dt 22/Sep/2013
 
 \lx fɔ́
 \ps n
@@ -40755,6 +40801,11 @@ bâton de berger
 \xe les petits enfants ont crié de joie en allant à la rencontre du papa
 \dt 16/Aug/2006
 
+\lx hírii
+\ps onomat
+\ge attaque.éclaire
+\dt 01/Oct/2013
+
 \lx hóhaho
 \ps n
 \ge brouhaha
@@ -41132,6 +41183,12 @@ bâton de berger
 \sn 3
 \gv mépriser
 \dt 26/Sep/2006
+
+\lx jaason
+\ps n
+\ge lièver
+\ee nom utilisé dans les contes populaires
+\dt 06/Oct/2013
 
 \lx jáati
 \ps intj
@@ -42606,6 +42663,13 @@ bâton de berger
 \ge peur
 \lt ('ja'.affoler)
 \dt 26/Sep/2006
+
+\lx jà.siran
+\mm jà:n:ombre
+\mm síran:v:craindre
+\ps v
+\ge effrayer
+\dt 22/Sep/2013
 
 \lx jà.siran.baa.tɔ
 \mm jà:n:ombre
@@ -53053,6 +53117,24 @@ bâton de berger
 \lt (clarté.blanche.début)
 \sy kɛ́nɛbɔnda
 
+\lx kɛ́nɛ.kan.da
+\mm kɛ́nɛ:n:clarté
+\mm kàn:pp:sur
+\mm dá:v:poser
+\ps adj
+\ge manifeste
+\gv public
+\dt 22/Sep/2013
+
+\lx kɛ́nɛ.kan.da
+\mm kɛ́nɛ:n:clarté
+\mm kàn:pp:sur
+\mm dá:v:poser
+\ps n
+\ge affaire.publique
+\gv objet.visible
+\dt 22/Sep/2013
+
 \lx kɛ́nɛ.karaba
 \mm kɛ́nɛ:n:clarté
 \mm káraba:v:forcer
@@ -55031,11 +55113,10 @@ bâton de berger
 \lx kòlikɛ
 \mm kɛ:adj:mâle
 \ps n
-\ge vieux.mâle
-\lt (margouillat.mâle)
+\ge margouillat.mâle
 \cf bása
 \xv kólan
-\dt 16/Aug/2006
+\dt 22/Sep/2013
 
 \lx kò.li.la
 \mm kò:v:laver
@@ -57115,7 +57196,7 @@ bâton de berger
 \ps pp
 \ge derrière
 \gv en.retard
-\xv ɲɔ́gɔn kɔ́ fɛ̀
+\xv ɲɔ́gɔn kɔ́fɛ̀
 \xe l'un derrière l'autre
 \xv táa kɔ́ fɛ̀
 \xe aller aux cabinets
@@ -57129,7 +57210,7 @@ bâton de berger
 \xe il est derrière
 \xv ù bɛ́ kɔ́  kà nà
 \xe ils sont par derrière, ils arrivent
-\dt 26/Sep/2006
+\dt 28/Sep/2013
 
 \lx kɔ́.fyɛ
 \mm kɔ́:n:dos
@@ -60331,6 +60412,13 @@ bâton de berger
 \gv rallonger.la.sauce
 \ee (au propre et au figuré)
 \dt 26/Sep/2006
+
+\lx kɔ́rɔ.dɔn
+\mm kɔ́rɔ:n:dessous
+\mm dɔ́n:v:connaître
+\ps v
+\ge découvrir
+\dt 22/Sep/2013
 
 \lx kɔ́rɔ.fɔ
 \mm kɔ́rɔ:n:dessous
@@ -94048,6 +94136,11 @@ nord-est
 \ge aplatir
 \dt 16/Aug/2006
 
+\lx pɛ́tɛkɛlɛ
+\ps adv
+\ge plat.sec
+\dt 01/Oct/2013
+
 \lx pɛ́tu
 \ps onomat
 \ge bien.ajusté
@@ -103708,6 +103801,8 @@ nord-est
 \dt 26/Sep/2006
 
 \lx sònsan
+\va nsàn
+\va zàn
 \ps n
 \ge lièvre
 \sn 1
@@ -103719,7 +103814,7 @@ nord-est
 \gv lièvre de Whyte
 \lat Lepus whytei
 \sy sònsanbugun
-\dt 26/Sep/2006
+\dt 26/Sep/2013
 
 \lx sònsan.ɲama
 \mm sònsan:n:lièvre
@@ -105122,6 +105217,7 @@ nord-est
 \dt 12/Aug/2006
 
 \lx súguba
+\va súgubɛ
 \ps v
 \sn 1
 \vl vt
@@ -105135,7 +105231,7 @@ nord-est
 \gv sonder une cavité
 \sm (y agiter un instrument ...)
 \sy súruku ré
-\dt 26/Sep/2006
+\dt 22/Sep/2013
 
 \lx súgubasuguba
 \ps v
@@ -107033,6 +107129,19 @@ nord-est
 \ee s'engager par serment à ...
 \dt 26/Sep/2006
 
+\lx syɛ́n
+\va sɛ́n
+\ps n
+\ge bouture
+\gv pousse.de.plante
+\dt 01/Oct/2013
+
+\lx syɛ́n
+\va sɛ́n
+\ps v
+\ge faire.repousses
+\dt 01/Oct/2013
+
 \lx syɛ̀n.bɔ
 \mm syɛ̀n:n:lutte
 \mm bɔ́:v:sortir
@@ -107356,6 +107465,7 @@ nord-est
 
 \lx táa
 \va tága
+\va t'
 \ps v
 \vl vi
 \sn 1
@@ -107375,7 +107485,7 @@ nord-est
 \xv ní...yé
 \xv fíyɛn táara ní  à yé
 \xe le vent l'a emporté
-\dt 26/Sep/2006
+\dt 28/Sep/2013
 
 \le tàa
 \ps n
@@ -108413,12 +108523,12 @@ nord-est
 \dt 16/Aug/2006
 
 \lx tànu
-\va  tànun
+\va tànun
 \ps v
 \vl vt
 \ge louer
 \gv féliciter
-\dt 04/Jul/2013
+\dt 03/Oct/2013
 
 \lx tá.ɲa
 \mm tá:n:propriété
@@ -111141,6 +111251,12 @@ nord-est
 \xe il m'a forcé
 \dt 26/Sep/2006
 
+\lx tíntintin
+\va títiti
+\ps adv
+\ge sans.bouger.sans.bruit
+\dt 01/Oct/2013
+
 \lx tíntiri
 \ps v
 \vl vi
@@ -112190,6 +112306,14 @@ nord-est
 \ge coxalgie
 \lt (hanche.douleur)
 \dt 26/Sep/2006
+
+\lx tɔ̀gɔ.fɛ.bila
+\mm tɔ̀gɔ:n:hanche
+\mm fɛ̀:pp:vers
+\mm bìla:v:mettre
+\ps n
+\ge talisman.de.poche
+\dt 28/Sep/2013
 
 \lx tɔ̀gɔ.kelen
 \mm tɔ̀gɔ:n:hanche
@@ -113248,6 +113372,12 @@ nord-est
 \ge biceps
 \lt (bras.chair)
 \dt 23/Nov/2012
+
+\lx túgutege
+\ps adv
+\ge completely
+\ee (immerger)
+\dt 01/Oct/2013
 
 \lx túlo
 \va tló
@@ -114393,6 +114523,12 @@ nord-est
 \vl vt
 \ge contraindre
 \dt 06/Feb/2013
+
+\lx wáajibi
+\va wájibi
+\ps adv
+\ge obligatoirement
+\dt 28/Sep/2013
 
 \lx wáajibi.ya
 \mm wáajibi:v:contraindre
@@ -118840,12 +118976,12 @@ nord-est
 \mm sù:n:cadavre
 \ps n
 \sn 1
-\ge suicidé
+\ge suicidaire
 \lt (suicide.cadavre)
 \sn 2
 \gv risque-tout
 \sy sì bántɔ
-\dt 26/Sep/2006
+\dt 23/Sep/2013
 
 \lx yɛ̀rɛ.jira.ko
 \mm yɛ̀rɛ:dtm:même
@@ -119546,6 +119682,12 @@ nord-est
 \ge marcher.à.petits.pas
 \sm (vieillard, chasseur, exilé)
 \dt 26/Sep/2006
+
+\lx yɔ̀lɔkɔyɔlɔkɔ
+\ps v
+\ge braquer.et.bouger
+\ee les yeux
+\dt 09/Oct/2013
 
 \lx yɔ̀ɔlɔ
 \ue (-f)
