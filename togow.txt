@@ -1,5 +1,5 @@
 \_sh v3.0  400  MDF 4.0
-\_DateStampHasFourDigitYear
+
 \lang bam
 \name togow
 \ver 0.3
@@ -300,7 +300,7 @@
 
 \lx Bákàrí
 \va Bwákàrí
-\ge NOM
+\ge NOM.M
 \dt 03/May/2010
 \ps n.prop
 
@@ -961,6 +961,10 @@
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
+
+\lx Fántà
+\ps n.prop
+\ge NOM.F
 
 \lx Fáraban
 \di m
@@ -2515,7 +2519,7 @@
 
 \lx Sánu
 \ps
-\ge NOM
+\ge NOM.MF
 \dt 03/May/2010
 \ps n.prop
 
@@ -2966,7 +2970,7 @@
 
 \lx Wári
 \di
-\ge NOM
+\ge NOM.MF
 \dt 03/May/2010
 \ps n.prop
 

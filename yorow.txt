@@ -1,5 +1,5 @@
 \_sh v3.0  400  MDF 4.0
-\_DateStampHasFourDigitYear
+
 \lang bam
 \name yorow
 \ver 0.3
@@ -813,6 +813,14 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Fàrafinna
+\mm fàra:n:écorce
+\mm fìn:adj:noir
+\mm na:mrph:LOC
+\ps n.prop
+\ge TOP
+\gv Afrique
+
 \lx Fàransi
 \ty гос.
 \ru Франция
@@ -918,15 +926,6 @@
 \dt 23/May/2010
 \ps n.prop
 
-\lx Ginɛbiso
-\va Ginebisawo
-\ty гос.
-\ru Гвинея-Бисау
-\ge TOP
-\gv Guinée-Bissau
-\dt 23/May/2010
-\ps n.prop
-
 \lx Gbékeduu
 \di m
 \ty г.
@@ -945,6 +944,15 @@
 \ge TOP
 \gv Côte.d'Ivoire
 \sy Kɔ́nɔwari
+\dt 23/May/2010
+\ps n.prop
+
+\lx Ginɛbiso
+\va Ginebisawo
+\ty гос.
+\ru Гвинея-Бисау
+\ge TOP
+\gv Guinée-Bissau
 \dt 23/May/2010
 \ps n.prop
 
@@ -1443,6 +1451,11 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Láginɛ
+\ps n.prop
+\ge TOP
+\gv Guinée
+
 \lx Lagɔsi
 \va Lagos
 \ty г.
@@ -1551,6 +1564,10 @@
 \ru Маму
 \dt 23/May/2010
 \ps n.prop
+
+\lx Mànden
+\ps n.prop
+\ge TOP
 
 \lx Màsanta
 \va Màsantan
