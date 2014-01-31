@@ -52146,11 +52146,12 @@ bâton de berger
 \sn 2
 \gv même
 \gv pareil
-\xv ù bɛ́ɛ yé  kélen yé
+\xv ù bɛ́ɛ yé kélen yé
 \xe ils sont tous semblables (pareils)
 \sn 3
 \gv unité
 \sm (opposée à la dizaine : néologisme)
+\dt 30/Jan/2014
 
 \lx kélen
 \ps conj
@@ -70590,13 +70591,13 @@ n'est pas près de disparaître
 \lx má
 \va m'
 \ps pm
-\ge PFV:NEG
+\ge PFV.NEG
 \ee auxiliaire verbal inaccompli_(marque de l')
 \xv à má bán fɔ́lɔ
 \xe ce n'est pas encore fini
 \xv à má nà
 \xe il n'est pas venu
-\dt 16/Aug/2006
+\dt 30/Jan/2014
 
 \lx màa
 \va mà
@@ -72517,6 +72518,12 @@ n'est pas près de disparaître
 \gv bagatelle
 \rem jos
 \dt 11/Nov/2007
+
+\lx manandono
+\va manandunu
+\ps n
+\ge coq.de.sacrifice
+\dt 29/Jan/2014
 
 \lx mána.nin
 \ps n
@@ -93251,7 +93258,7 @@ nord-est
 \xe hé  (l'homme) !
 \dt 27/Mar/2013
 
-\lx ó
+\lx ó`
 \va óo
 \ps conj
 \ph [surélevé, allongé et enclitique]
@@ -93265,7 +93272,7 @@ nord-est
 \xe chaque fois qu'on te voit, tu portes une ceinture (sur ton "boubou")
 \xv à bɛ́ nà ó, à tɛ́ nà ó, né má  ò dɔ́n
 \xe vient-il ? ne vient-il pas ? Je n'en sais rien
-\dt 16/Aug/2006
+\dt 30/Jan/2014
 
 \lx ófu
 \va óf
@@ -108995,6 +109002,10 @@ nord-est
 \ge IPFV.NEG
 \xv à tɛ́ táa
 \xe il ne part pas
+
+\lx tɛ́
+\ps cop
+\gf COP.NEG
 
 \lx tɛ̀ɛ
 \ps n
