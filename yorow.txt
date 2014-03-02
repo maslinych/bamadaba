@@ -38,6 +38,7 @@
 \lx Áfriki
 \va Afrika
 \va Àfrik
+\va Áfiriki
 \sy Farafinna
 \di b
 \sy Fadafinna
@@ -46,7 +47,7 @@
 \ge TOP
 \gv Afrique
 \ru Африка
-\dt 23/May/2010
+\dt 23/Feb/2014
 \ps n.prop
 
 \lx Akkra
@@ -1708,6 +1709,17 @@
 \ru Марокко
 \dt 23/May/2010
 \ps n.prop
+
+\lx Muruja
+\ps n.prop
+\ge TOP
+\gv Mourdiah
+\dt 23/Feb/2014
+
+\lx Musabugu
+\ps n.prop
+\ge TOP
+\dt 23/Feb/2014
 
 \lx Nairobi
 \ty г.
