@@ -918,6 +918,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Garali
+\ps n.prop
+\ge TOP
+\cm (village à Buguni)
+\dt 01/Apr/2014
+
 \lx Gawo
 \ty г.
 \ge TOP
@@ -1213,6 +1219,12 @@
 \ru Хартум
 \dt 23/May/2010
 \ps n.prop
+
+\lx Kati
+\ps n.prop
+\ge TOP
+\gv Kati
+\dt 10/Apr/2014
 
 \lx Kaveri
 \ty гос.
@@ -1550,12 +1562,12 @@
 \dt 23/May/2010
 \ps n.prop
 
-\lx Màlí
+\lx Màli
 \ty гос.
 \ru Мали
 \ge TOP
 \gv Mali
-\dt 23/May/2010
+\dt 26/Mar/2014
 \ps n.prop
 
 \lx Mamun
@@ -1587,6 +1599,13 @@
 \gv Maseru
 \dt 23/May/2010
 \ps n.prop
+
+\lx Masigi
+\ps n.prop
+\ge TOP
+\gv Massigui
+\cm une ville à Baninko
+\dt 18/Apr/2014
 
 \lx Másina
 \va Máasina

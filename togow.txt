@@ -14,8 +14,9 @@
 \di b
 \va Abdlaye
 \va Ábudu
+\va Abilayi
 \ge NOM.M
-\dt 02/May/2010
+\dt 01/Apr/2014
 \ps n.prop
 
 \lx Abduraman
@@ -145,7 +146,8 @@
 \va Ámadù
 \va Ámadi
 \va Ámàdu
-\dt 23/Feb/2014
+\va Ámɛ̀di
+\dt 12/Mar/2014
 \ps n.prop
 \ge NOM.M
 
@@ -1757,9 +1759,10 @@
 \va Mamadu
 \va Mamari
 \va Mamani
+\va Mahamadu
 \di b, m
 \ge NOM.M
-\dt 03/May/2010
+\dt 02/Apr/2014
 \ps n.prop
 
 \lx Mamaniɲuman
