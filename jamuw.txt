@@ -1640,12 +1640,13 @@
 \sn Kaba
 \sn Wulare
 \sn Jane
+\sn Màriko
 \fm Sugo
 \fm Suko
 \cm брачные партнёры
 \pr Manasaren
 \ms Общее происхождение с Kulibali.
-\dt 06/May/2010
+\dt 04/Jun/2014
 \ps n.prop
 \ge NOM.CL
 
@@ -1739,8 +1740,9 @@
 \di b
 \di kag
 \tn wùlu
+\sn Màriko
 \ms в Беледугу
-\dt 12/Apr/2014
+\dt 04/Jun/2014
 \ps n.prop
 \ge NOM.CL
 
@@ -1864,11 +1866,11 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \tt npolyɔ
 \tt jàra, màli
 \cm у старшей ветви (Nyangolo)
-\tt waraninkala
+\tt waraninkala; Dugukunna - bìnimini
 \cm у Kùlubàli-nùmu
 \fa Masa Kuru ni Masa Donde!
 \cm = Bitɔn Kulibali fasa
-\dt 06/May/2010
+\dt 18/Jun/2014
 \ps n.prop
 \ge NOM.CL
 
@@ -2136,7 +2138,7 @@ Sagone.
 \ps n.prop
 \ge NOM.CL
 
-\lx Mariko
+\lx Màriko
 \di b
 \di son
 \eq Tarawele
@@ -2145,8 +2147,8 @@ Sagone.
 \re Segu
 \re Sikaso
 \tt bàma
-\sn nùmu
-\dt 06/May/2010
+\sn nùmu; Sikaso: Kéyità, Samakɛ, Kónatɛ̀
+\dt 04/Jun/2014
 \ps n.prop
 \ge NOM.CL
 
@@ -2511,12 +2513,12 @@ Sagone.
 \eq Bonba
 \eq Kamate
 \tt sàma
-\sn Kùlibàli
+\sn Kùlibàli, Màriko (Sikaso)
 \re Segu
 \re Sikaso
 \fa Sàma sènkanba, sàma bólokanba
 \ms Гриоты у сонгаев.
-\dt 17/Feb/2013
+\dt 04/Jun/2014
 \ps n.prop
 \ge NOM.CL
 
@@ -2690,9 +2692,10 @@ Sagone.
 
 \lx Sɛnpara
 \va Simpara
-\dt 06/May/2010
 \ps n.prop
 \ge NOM.CL
+\ca hɔ́rɔn
+\dt 12/Jun/2014
 
 \lx Sí
 \di tou

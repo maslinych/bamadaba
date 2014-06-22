@@ -132,7 +132,7 @@
 \xv ń bɛ́  Ála mìnɛ
 \xe je m'en remets à Dieu (dans une épreuve, une injustice)
 \xv Ála ní...
-\xe indique la grandeur, l'excellene de qch.
+\xe indique la grandeur, l'excellence de qch.
 \xv Ála ní  tìɲɛ
 \xe authentique, vrai de vrai ... (m. à m. : Dieu et vérité)
 \xv nìn yé jàmanaden Ála ní  tìɲɛ yé
@@ -151,7 +151,7 @@
 \gv pluie
 \xv Ála nàna
 \xe la pluie est venue, il a plu
-\dt 23/Feb/2014
+\dt 01/Jun/2014
 
 \lx Ála Táala
 \va Ála Táana
@@ -638,9 +638,9 @@
 \ps pers
 \ge 1PL.EMPH
 \re nous
-\xv jɔ́n ní  jɔ́n b'á fɛ̀  kà táa ? - án !
+\xv jɔ́n ní  jɔ́n b'á fɛ̀  kà táa ? - ánw !
 \xe qui veut partir ? - nous !
-\dt 16/Aug/2006
+\dt 07/Jun/2014
 
 \lx àpolo
 \va àpolo.ɲɛ.dimi
@@ -696,7 +696,9 @@
 
 \lx arma
 \ps n
-\ge arma
+\ge Arma
+\sm (descendants des invahisseurs marocains de 16 ciècle)
+\dt 07/Jun/2014
 
 \lx ásipirini
 \ps n
@@ -1246,6 +1248,13 @@
 \ps n
 \ge maçon
 \dt 25/Jun/2013
+
+\lx báari
+\ps v
+\vl vr
+\ge lutter
+\sm (avec -- lá)
+\dt 09/Jun/2014
 
 \lx báaritala
 \mm báari:n:lutte
@@ -7688,9 +7697,9 @@ bâton de berger
 \va bíɲa
 \ps conj
 \ge car
-\gv pusque
+\gv puisque
 \gv vu que
-\dt 18/Apr/2014
+\dt 23/May/2014
 
 \lx bìnaa
 \va bìnɔgɔ
@@ -7931,6 +7940,12 @@ bâton de berger
 \ge variété.de.riz
 \dt 16/Aug/2006
 
+\lx bíɲɛ
+\va bíyɛn
+\ps n
+\ge foie
+\dt 13/May/2014
+
 \lx bíɲɛma
 \mm bíɲɛ:n:corne
 \mm ma:mrph:COM
@@ -8051,10 +8066,11 @@ bâton de berger
 
 \lx bíribiri
 \va bríbri
+\va bíribiribiri
 \ph [br]
 \ps onomat
 \ge bruit.de.pas
-\dt 16/Aug/2006
+\dt 13/May/2014
 
 \lx bìribiriba
 \mm ba:mrph:AUGM
@@ -8402,12 +8418,6 @@ bâton de berger
 \gv fétiche
 \ee en forme de clou forgé
 \dt 25/Jun/2013
-
-\lx bíyɛn
-\va bíɲɛ
-\ps n
-\ge foie
-\dt 16/Aug/2006
 
 \lx bíyɛn
 \va bíɲɛ
@@ -10615,9 +10625,10 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx bótaa
-\ps onomat
+\va pócaa
+\ps adv
 \ge complètement.mouillé
-\dt 16/Aug/2006
+\dt 16/May/2014
 
 \lx bòtontonkolo
 \mm bòtonton:n:lombes
@@ -12374,10 +12385,10 @@ bâton de berger
 \ps n
 \ge scorpion.jaunâtre
 \sy nkɔ̀sɔn
-\xv tùgutugu bɛ́  búnteni kú jànya
+\xv tùgutugu bɛ́ búnteni kú jànya
 \xe les anneaux rendent grande la queue du scorpion (prov)
 \xe (les petits ruisseaux font les grandes rivières)
-\dt 16/Aug/2006
+\dt 13/Jun/2014
 
 \lx búnukoro
 \va búnukuru
@@ -13194,37 +13205,6 @@ mort)
 \xv á ní  cé !
 \xe merci  (vous et la bonne oeuvre)
 \dt 19/Aug/2006
-
-\lx cèle
-\va kèle
-\ps adj
-\ge jaloux
-\ee surtout passionnel
-\dt 16/Aug/2006
-
-\lx cèleya
-\mm cèle:adj:jaloux
-\mm ya:mrph:ABSTR
-\va kèle.ya
-\mm kèle:adj:jaloux
-\mm ya:mrph:ABSTR
-\ps n
-\ge jalousie
-\ee (passionnelle)
-\lt (jaloux.suf abs)
-\dt 16/Aug/2006
-
-\lx cèleya
-\mm cèle:adj:jaloux
-\mm ya:mrph:ABSTR
-\va kèle.ya
-\mm kèle:adj:jaloux
-\mm ya:mrph:ABSTR
-\ps v
-\vl vt
-\ge jalouser
-\lt (jaloux.suf caus)
-\dt 15/Aug/2006
 
 \lx cèlu
 \ps n
@@ -14385,10 +14365,11 @@ sur soi)
 \dt 16/Aug/2006
 
 \lx cɛ̀nruncɛnrun
+\va cɛ̀ɛnruncɛɛnrun
 \ps v
-\ge faire.l’intéressant
-\cm (en passant et repassant)
-\dt 01/May/2014
+\ge papillonner
+\cm (faire l’intéressant en passant et repassant)
+\dt 11/May/2014
 
 \lx cɛ̀nso
 \mm cɛ̀n:n:sable
@@ -15454,6 +15435,12 @@ sur soi)
 \xe il s'est enfui rapidement
 \dt 16/Aug/2006
 
+\lx cóyi
+\ps adv
+\ge rouge.vif
+\gv très rouge
+\dt 09/Jun/2014
+
 \lx cóyika
 \ps n
 \ge gouttière
@@ -16445,14 +16432,6 @@ sur soi)
 \mm bɔ́:v:sortir
 \ps v
 \vl vt
-\ge sevrer
-\lt (bouche.ôter)
-
-\lx dábɔ
-\mm dá:n:bouche
-\mm bɔ́:v:sortir
-\ps v
-\vl vt
 \sn 1
 \ge commencer
 \sy jùbɔ
@@ -16481,7 +16460,9 @@ sur soi)
 \gv aiguiser
 \sn 8
 \gv ouvrir sur
-\dt 20/Feb/2014
+\sn 9
+\gv entamer
+\dt 09/Jun/2014
 
 \lx dábɔbònbonkɔ́rɔ
 \mm dá:n:bouche
@@ -17302,14 +17283,6 @@ sur soi)
 \sd césa
 \lt (dagan.grand)
 \dt 19/Aug/2006
-
-\lx dàganin
-\mm dàga:n:canari
-\mm nin:mrph:DIM
-\ps n
-\ge petit.pot
-\lt (canari.petit)
-\dt 26/Sep/2006
 
 \lx dágannan
 \mm dá:n:bouche
@@ -19687,6 +19660,10 @@ rétribution mais à titre de réciprocité)
 \lx dànkunbere
 \mm dàn:n:limite
 \mm kúnbere:n:genou
+\va dànnkúnbère
+\mm dàn:n:limite
+\mm ń:pers:1SG
+\mm kúnbere:n:genou
 \ps n
 \lt (limite.genou)
 \sn 1.1
@@ -19699,7 +19676,7 @@ rétribution mais à titre de réciprocité)
 \sn 2.2
 \gv jeune.homme
 \ee qui le porte
-\dt 16/Aug/2006
+\dt 20/Jun/2014
 
 \lx dànkunnayeelenbɔlan
 \mm dàn:v:dépasser
@@ -20208,11 +20185,17 @@ rétribution mais à titre de réciprocité)
 \mm ɲá:n:fois
 \ve (f)
 \ps n
+\sn 1
 \ge fois
 \lt (poser.fois)
 \xv ń'í fìlila  dáɲɛ kélen...
 \xe si tu te trompes une seule fois...
-\dt 26/Sep/2006
+\sn 2
+\gv coup
+\sn 3
+\gv mot
+\sm (grammatical)
+\dt 09/Jun/2014
 
 \lx dáɲɛ
 \mm dá:v:poser
@@ -24153,12 +24136,14 @@ rétribution mais à titre de réciprocité)
 \va dónwò
 \mm dón:n:jour
 \ps n
+\sn 1
 \ee ò don ò = ce jour l
 \ge jour_(ce)
 \xv ò dónko
 \xe l'autre jour
-\lt (jour.ce)
-\dt 16/Aug/2006
+\sn 2
+\gv avant-hier
+\dt 09/Jun/2014
 
 \lx dònkun
 \mm dòn:v:entrer
@@ -24255,11 +24240,12 @@ rétribution mais à titre de réciprocité)
 
 \lx dòno
 \va dònon
+\va dòndon
 \ps n
 \ge coq
 \xv dòno kàsira
 \xe le coq a chanté
-\dt 15/Aug/2006
+\dt 09/Jun/2014
 
 \lx dònobugun
 \mm dòno:n:coq
@@ -24496,8 +24482,14 @@ rétribution mais à titre de réciprocité)
 
 \lx dóso
 \ps n
-\ge gros.chien
-\dt 26/Sep/2006
+\ge gros.chien.mâle
+\dt 09/Jun/2014
+
+\lx dòsokodosoko
+\ps v
+\ge s'escrimer
+\gv faire des efforts
+\dt 09/Jun/2014
 
 \lx dósokɔrɔ
 \mm dóso:n:gros.chien
@@ -25332,11 +25324,11 @@ l'occasion d'une naissance)
 
 \lx dɔ́nbaliya
 \mm dɔ́n:v:connaître
-\mm bali:mrph.PTCP.PRIV
+\mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ge ignorance
-\dt 28/Mar/2014
+\dt 18/May/2014
 
 \lx dɔ̀nbamakɔnɔ
 \mm dɔ̀n:n:danse
@@ -25688,6 +25680,22 @@ désorienter')
 \xe bénir qn, faire des bénédictions
 \dt 18/Apr/2014
 
+\lx dùba
+\va dùga
+\va dùfa
+\ve (f)
+\bw ar: du`a' = invocation
+\ps v
+\vl vi
+\ge bénir
+\xv dùba...kán
+\xe bénir qc
+\xv dùba...yé
+\xe faire des bénédictions à
+\xv Ála kà dùba  í yé !
+\xe que Dieu t'accorde ses bénédictions bénir qc ... kàn
+\dt 04/Jun/2014
+
 \lx dùbabu
 \ve (f,bn)
 \va dùgawu
@@ -25768,22 +25776,6 @@ désorienter')
 \ge membre.de.famille
 \ee (personne résidant dans la concession)
 \lt (famille.enfant)
-\dt 16/Aug/2006
-
-\lx dùfa
-\ve (f)
-\va dùga
-\va dùba
-\bw ar: du`a' = invocation
-\ps v
-\vl vi
-\ge bénir
-\xv dùba...kán
-\xe bénir qc
-\xv dùba...yé
-\xe faire des bénédictions à
-\xv Ála kà dùba  í yé !
-\xe que Dieu t'accorde ses bénédictions bénir qc ... kàn
 \dt 16/Aug/2006
 
 \lx dúfa
@@ -26454,13 +26446,14 @@ désorienter')
 
 \lx dùlɔki
 \va dùloki
+\va dɔ̀lɔki
 \va dlɔ̀ki
 \va dlòki
 \ph [dl]
 \ps n
 \ge chemise
 \ee tout vêtement qui couvre la poitrine : chemise, maillot, tricot, veste, boubou ...
-\dt 16/Aug/2006
+\dt 08/Jun/2014
 
 \lx dúman
 \mm man:mrph:ADJ
@@ -27047,8 +27040,8 @@ désorienter')
 \lx dùsu
 \ps n
 \sn 1
-\ge centre.d'énergie
-\gv coeur
+\ge coeur
+\gv centre.d'énergie
 \sn 2
 \gv courage
 \sn 3
@@ -27079,7 +27072,7 @@ désorienter')
 \xe il est franc, honnête
 \xv à yé  dùsu dòn  à dén kɔ́nɔ
 \xe elle a encouragé son enfant ( ... la)
-\dt 26/Sep/2006
+\dt 04/Jun/2014
 
 \lx dùsu
 \ps v
@@ -30611,14 +30604,14 @@ désorienter')
 \va fyéfye
 \ps v
 \vl vt
-\ge effrayer
+\ge faire.fuir
+\gv effrayer
 \ee (au point de faire quitter les lieux)
-\gv faire.fuir
 \xv wólofa sàya yé  ù félefele
 \xe la mort du père leur a fait quitter le pays
 \xv fíyɛn yé  fúrajalan félefele
 \xe le vent a emporté les feuilles mortes
-\dt 26/Sep/2006
+\dt 06/Jun/2014
 
 \lx félewu
 \ps onomat
@@ -31542,10 +31535,10 @@ désorienter')
 \xe pour que tu puisses trouver ta femme vierge
 \dt 26/Sep/2006
 
-\lx fìlanan
-\mm fíla:num:deux
+\lx fílanan
+\mm fìla:num:deux
 \mm nan:mrph:ORD
-\va flà.nan
+\va flánan
 \mm flà:num:deux
 \mm nan:mrph:ORD
 \ph [fl]
@@ -31553,7 +31546,7 @@ désorienter')
 \ge deuxième
 \ph [remarque : on s'attendrait à un ton bas]
 \lt (deux.suf ord)
-\dt 16/Aug/2006
+\dt 04/Jun/2014
 
 \lx fílanbolo
 \mm fílan:n:camarade.d’âge
@@ -36858,6 +36851,12 @@ la virginité (pièce de monnaie sans trou)
 \sy nága
 \dt 16/Aug/2006
 
+\lx gágalanwu
+\ps onomat
+\ge patatra
+\sm (chute brutale de métal plat)
+\dt 16/May/2014
+
 \lx gàjaba
 \ps n
 \ge sorgho
@@ -37730,6 +37729,7 @@ la virginité (pièce de monnaie sans trou)
 \va gàrisɛgɛ
 \va gàrjɛgɛ
 \va gɛ̀rɛsɛgɛ
+\va gàrasɛgɛ
 \bw ar: ar-rizq = subsistance, chance
 \ph [garjɛgɛ]
 \ps n
@@ -37741,7 +37741,7 @@ la virginité (pièce de monnaie sans trou)
 \gv grossesse
 \xv ní  mùso mɛ́na ń'á má  gàrijɛgɛ sɔ̀rɔ...
 \xe si l'épouse reste longtemps sans entrer en grossesse...
-\dt 24/Jan/2013
+\dt 08/Jun/2014
 
 \lx gàrijɛgɛ
 \ps v
@@ -38903,11 +38903,12 @@ la virginité (pièce de monnaie sans trou)
 \dt 26/Sep/2006
 
 \lx gɛ̀rɛntɛ
+\va gwɛ̀rɛntɛ
 \ps n
 \ge pression
 \xv ɲɔ́gɔn ká gɛ̀rɛntɛ
 \xe la pression des semblables (de la société)
-\dt 11/Nov/2007
+\dt 06/Jun/2014
 
 \lx gɛ́sɛ
 \va gwɛ́sɛ
@@ -39965,23 +39966,23 @@ la virginité (pièce de monnaie sans trou)
 \vl vi
 \ge joindre
 \gv arriver.à
-\xv à gúra  à lá
+\xv à gúra à lá
 \xe il l'a rejoint
-\xv né nàtɔ  táara gún  nsɛ́rɛba dɔ́ lá
+\xv né nàtɔ táara gún nsɛ́rɛba dɔ́ lá
 \xe en venant, je suis arrivé à un gros ficus
 \sn 2
 \vl vt
 \gv joindre
 \gv atteindre
 \gv frapper
-\xv màli yé  kúrun gún
+\xv màli yé kúrun gún
 \xe l'hippopotame a bousculé la pirogue
 \sn 3
 \vl vt
 \gv soudoyer
-\xv tɛ́  né gún  fɛ́n ná ?
+\xv tɛ́ né gún fɛ́n ná ?
 \xe tu ne me fais pas un petit cadeau ?
-\dt 26/Sep/2006
+\dt 07/Jun/2014
 
 \lx gúnban
 \ve (f)
@@ -40121,6 +40122,13 @@ la virginité (pièce de monnaie sans trou)
 \ge cor.rhombe
 \ee (sert à produire un bruit effrayant)
 \dt 18/Apr/2014
+
+\lx gwála
+\ps n
+\ge coquille.de.fileuse
+\sm (un mollusque dont la coquille est utilisée pour secher les
+doigts par des fileuses du coton)
+\dt 20/Jun/2014
 
 \lx háali
 \bw ar: haali = exact
@@ -41205,12 +41213,18 @@ la virginité (pièce de monnaie sans trou)
 \lx hínɛ
 \bw ar: hanna = id.
 \ps n
+\sn 1
 \ge pitié
 \gv compassion
 \sy màkari
 \xv fàantan hínɛ dònna à lá
 \xe il a eu pitié du pauvre
-\dt 26/Sep/2006
+\sn 2
+\gv satisfaction
+\gv plaisir
+\xv né hínɛ fára
+\xe je suis très satisfait
+\dt 05/Jun/2014
 
 \lx hínɛ
 \ps v
@@ -41219,14 +41233,6 @@ la virginité (pièce de monnaie sans trou)
 \xv à hínɛna  fàantan ná
 \xe il a eu compassion du pauvre
 \dt 16/Aug/2006
-
-\lx hínɛ
-\ps n
-\ge satisfaction
-\gv plaisir
-\xv né hínɛ fára
-\xe je suis très satisfait
-\dt 26/Sep/2006
 
 \lx hínɛ
 \ps v
@@ -41314,6 +41320,12 @@ la virginité (pièce de monnaie sans trou)
 \cm (exprime l'indignation ou le refus)
 \dt 02/May/2014
 
+\lx hm
+\ps intj
+\ge hum
+\sm exprime un doute ou une pensée non-explicitée
+\dt 26/May/2014
+
 \lx hóhaho
 \ps n
 \ge brouhaha
@@ -41330,6 +41342,12 @@ la virginité (pièce de monnaie sans trou)
 \xv hóku kɔ́rɔ yé : kó(júgu) dɔ́ kɛ́ra
 \rem l 89 (-bk,-bn)
 \dt 11/Nov/2007
+
+\lx hóyi
+\ps intj
+\ge holà
+\sm (d'une apparition brusque et inopportune)
+\dt 16/May/2014
 
 \lx hɔ́n
 \ps v
@@ -41448,13 +41466,13 @@ la virginité (pièce de monnaie sans trou)
 \xe le soir, tous se couchent
 \dt 16/Aug/2006
 
-\lx íhi
+\lx ìhí
 \ps intj
 \ge hein
 \cm (la surprise, l’étonnement ou l’incrédulité)
 \gv tu te rends compte !
 \gv mon Dieu!
-\dt 01/May/2014
+\dt 09/May/2014
 
 \lx íko
 \ps conj
@@ -42103,6 +42121,7 @@ la virginité (pièce de monnaie sans trou)
 \dt 11/Apr/2013
 
 \lx jáka
+\va jága
 \bw ar: zakat = aumône légale (en général : le dixième)
 \ps n
 \sn 1
@@ -42120,7 +42139,7 @@ la virginité (pièce de monnaie sans trou)
 \gv conception
 \xv ù bɛ́  jáka bɔ́  ù hákili lá
 \xe ils s'efforcent de comprendre
-\dt 26/Sep/2006
+\dt 17/Jun/2014
 
 \lx jákabɔ
 \mm jáka:n:dîme
@@ -49946,7 +49965,6 @@ la virginité (pièce de monnaie sans trou)
 \dt 12/Aug/2006
 
 \lx kámalen
-\bw ar: kamil = parfait ?
 \ps n
 \sn 1
 \ge jeune.homme
@@ -49954,7 +49972,7 @@ la virginité (pièce de monnaie sans trou)
 \gv amant
 \xv à ká kámalen
 \xe son amant
-\dt 26/Sep/2006
+\dt 13/May/2014
 
 \lx kámalenba
 \mm kámalen:n:jeune.homme
@@ -52786,6 +52804,13 @@ la virginité (pièce de monnaie sans trou)
 \ps vq
 \ge être.envieux
 
+\lx kèle
+\va cèle
+\ps adj
+\ge jaloux
+\ee surtout passionnel
+\dt 06/Jun/2014
+
 \lx kèlebe
 \ps n
 \ge plaie
@@ -52933,6 +52958,30 @@ la virginité (pièce de monnaie sans trou)
 \xv ń kélenyana
 \xe on m'a laissé seul
 \dt 16/Aug/2006
+
+\lx kèleya
+\mm kèle:adj:jaloux
+\mm ya:mrph:ABSTR
+\va cèle.ya
+\mm cèle:adj:jaloux
+\mm ya:mrph:ABSTR
+\ps n
+\ge jalousie
+\ee (passionnelle)
+\lt (jaloux.suf abs)
+\dt 06/Jun/2014
+
+\lx kèleya
+\mm kèle:adj:jaloux
+\mm ya:mrph:ABSTR
+\va cèle.ya
+\mm cèle:adj:jaloux
+\mm ya:mrph:ABSTR
+\ps v
+\vl vt
+\ge jalouser
+\lt (jaloux.suf caus)
+\dt 06/Jun/2014
 
 \lx kèleyabaatɔ
 \mm kèle:vq:être.envieux
@@ -54823,8 +54872,8 @@ la virginité (pièce de monnaie sans trou)
 \lx kíri
 \ps v
 \vl vt
-\ge attaquer
-\dt 16/Aug/2006
+\ge attaquer.en.justice
+\dt 05/Jun/2014
 
 \lx kìribi
 \ve (bn)
@@ -55005,6 +55054,13 @@ la virginité (pièce de monnaie sans trou)
 \lt (procès.ensemble)
 \sy kíritigɛɲɔgɔn
 \dt 16/Aug/2006
+
+\lx kíriri
+\ps onomat
+\ge gnac
+\gv niaque
+\sm (idéophone du bruit des dents qui mordent)
+\dt 09/Jun/2014
 
 \lx kíritigɛ
 \mm kíri:n:jugement
@@ -56000,10 +56056,14 @@ la virginité (pièce de monnaie sans trou)
 
 \lx kòlobokalaba
 \ps v
+\sn 1
 \vl vr
 \ge traîner.au.travail
 \gv être.négligent
-\dt 26/Sep/2006
+\sn 2
+\vl vt
+\gv remuer
+\dt 12/May/2014
 
 \lx kólobɔ
 \mm kólo:n:os
@@ -56167,13 +56227,13 @@ la virginité (pièce de monnaie sans trou)
 \sy sɛ̀lɛdo
 \dt 15/Aug/2006
 
-\lx kòlokála
-\va kòlokólo
-\va kòolokáala
+\lx kòlokala
+\va kòlokolo
+\va kòolokaala
 \ps v
 \vl vi
 \ge flâner
-\dt 16/Aug/2006
+\dt 18/Jun/2014
 
 \lx kólokari
 \mm kólo:n:os
@@ -56326,12 +56386,12 @@ la virginité (pièce de monnaie sans trou)
 \gv réduire.à.la.misère
 \dt 26/Sep/2006
 
-\lx kólokòtó
+\lx kólokòto
 \ps n
 \ge qui.ne.recule.devant.rien
 \xv kólokoto yé fùru sì
 \xe le "kolokoto" a fait la veillée de mariage (sans avoir été invité) (prov)  = (on n'a pas réussi à le prendre au piège)
-\dt 16/Aug/2006
+\dt 18/Jun/2014
 
 \lx kólokun
 \mm kólo:n:os
@@ -56968,12 +57028,12 @@ la virginité (pièce de monnaie sans trou)
 \sm (comme la hyène)
 \dt 16/Aug/2006
 
-\lx kónkànkó
+\lx kónkànko
 \ps n
 \ge barbu.de.Vieillot
 \lat Lybius.vieilloti
 \ee (assez discret sauf par sa voix, fréquente jardins et vergers)
-\dt 26/Sep/2006
+\dt 18/Jun/2014
 
 \lx kónkànkon
 \ps n
@@ -57008,10 +57068,11 @@ la virginité (pièce de monnaie sans trou)
 \sy ŋúnufyɛkonko
 \dt 16/Aug/2006
 
-\lx kónkòló
+\lx kónkòlo
 \ps n
 \ge planchette
 \ee (sur laquelle les cordonniers découpent leurs cuirs)
+\dt 18/Jun/2014
 
 \lx kónkon
 \ps n
@@ -57338,23 +57399,28 @@ la virginité (pièce de monnaie sans trou)
 \ee arbre, fruits comestibles riches en vitamine A , fleurs mellifères
 \dt 19/Aug/2006
 
+\lx kórokara
+\ps onomat
+\ge branle-bas
+\dt 16/May/2014
+
 \lx kóroko
 \ps n
 \ge colporteur
 \dt 16/Aug/2006
 
-\lx kóròkó
+\lx kóròko
 \ps n
 \ge touraco.gris
 \lat Crinifer.piscator
 \ee sur la tête, une sorte de huppe, frugivore, bruyant, aime les parcs, les jardins)
-\dt 26/Sep/2006
+\dt 18/Jun/2014
 
-\lx kòrókòró
+\lx kòrokòro
 \ps n
 \ge masque.léonin
 \ee (maladie syphilitique)
-\dt 16/Aug/2006
+\dt 18/Jun/2014
 
 \lx kórokoro
 \ps v
@@ -57370,7 +57436,7 @@ la virginité (pièce de monnaie sans trou)
 \lt (boisson ? grande)
 \dt 16/Aug/2006
 
-\lx kòrókòrókùnbá
+\lx kòrokòrokùnba
 \mm kòrókòro:n: masque.léonin
 \mm kùn.ba:vq:gros
 \mm kùn:n:tête
@@ -57378,7 +57444,7 @@ la virginité (pièce de monnaie sans trou)
 \ps n
 \ge mélange.de.boissons.alcoolisées
 \lt (boisson ? grande)
-\dt 16/Aug/2006
+\dt 18/Jun/2014
 
 \lx kòrokoto
 \ps n
@@ -60042,12 +60108,12 @@ avec ŋɔni = épine !)
 \lt (pensées.égarer)
 \dt 26/Sep/2006
 
-\lx kɔ́nɔnafili
+\lx kɔ́nɔnafìli
 \mm kɔ́nɔ:n:ventre
 \mm ná.fili:v:tromper
 \mm ná:mrph:CAUS
 \mm fìli:v:jeter
-\va kɔ́nɔ.na.fli
+\va kɔ́nɔ.na.flì
 \mm kɔ́nɔ:n:ventre
 \mm ná.fli:v:tromper
 \mm ná:mrph:CAUS
@@ -60059,7 +60125,7 @@ avec ŋɔni = épine !)
 \gv troubler.profondément
 \gv angoisser
 \lt (pensées.égarer)
-\dt 26/Sep/2006
+\dt 18/Jun/2014
 
 \lx kɔ́nɔnafin
 \mm kɔ́nɔ:n:ventre
@@ -62578,15 +62644,15 @@ avec ŋɔni = épine !)
 \va kùlsi
 \ph [kulsi]
 \ps n
-\ge culotte
-\gv pantalon
+\ge pantalon
+\gv culotte
 \xv ù yé  kùlusi tà  dón kélen
 \xe ils ont été circoncis le même jour
 \xv kùlusi kélen tɛ́ sé  kà dòn  tìgi fìla lá
 \xe on ne peut mettre la même culotte à deux personnes (prov)
 \xv ní  jù wúlila, kùlusi bɛ́  mùn ná ?
 \xe quand le derrière se lève, que fait la culotte ? (prov)
-\dt 26/Sep/2006
+\dt 05/Jun/2014
 
 \lx kùlusida
 \mm kùlusi:n:culotte
@@ -63341,12 +63407,13 @@ avec ŋɔni = épine !)
 
 \lx kúnberefilennin
 \mm kúnbere:n:genou
-\mm fílen:n:calebasse
+\mm fílen:n:calebasse.demi-sphérique
 \mm nin:mrph:DIM
 \ve (-bn,-bk)
 \ps n
 \ge rotule
 \lt (genou.calebasse.petite)
+\dt 13/May/2014
 
 \lx kúnberefoolo
 \mm kúnbere:n:genou
@@ -63370,6 +63437,15 @@ avec ŋɔni = épine !)
 \ge articulation.du.genou
 \lt (genou.boule)
 \dt 16/Aug/2006
+
+\lx kúnberekurufilennin
+\mm kúnbere:n:genou
+\mm kùru:n:boule
+\mm fílen:n:calebasse
+\mm nin:mrph:DIM
+\ps n
+\ge rotule
+\dt 13/May/2014
 
 \lx kùnbɛn
 \mm kùn:n:tête
@@ -64493,7 +64569,7 @@ avec ŋɔni = épine !)
 \gv fierté
 \dt 25/Jun/2013
 
-\lx kùnkɔ́rɔtà
+\lx kùnkɔrɔtà
 \mm kùn:n:tête
 \mm kɔ́rɔ:pp:sous
 \mm tà:v:prendre
@@ -64501,7 +64577,7 @@ avec ŋɔni = épine !)
 \vl vt
 \ge rendre.fier
 \gv honorer
-\dt 25/Jun/2013
+\dt 18/Jun/2014
 
 \lx kùnkɔrɔtasɛbɛn
 \mm kùn.kɔrɔ.ta:v:rendre.fier
@@ -66407,8 +66483,8 @@ avec ŋɔni = épine !)
 
 \lx kúuru
 \ps v
-\ge époussierer
-\dt 10/Apr/2014
+\ge émpoussierer
+\dt 25/May/2014
 
 \lx kúusu
 \va kúus
@@ -73657,7 +73733,7 @@ n'est pas près de disparaître
 \gv mangue
 \lat Mangifera.indica
 \sd anac
-\dt 26/Sep/2006
+\dt 06/Jun/2014
 
 \lx màngoya
 \mm màn.go:adj:détesté
@@ -77275,6 +77351,12 @@ nord-est
 \gv se.défouler
 \dt 26/Sep/2006
 
+\lx mɔ́nɛ
+\ps adj
+\ge castré
+\sm (mouton)
+\dt 08/Jun/2014
+
 \lx mɔ́nɛbɔ
 \mm mɔ́nɛ:n:rancoeur
 \mm bɔ́:v:sortir
@@ -77699,6 +77781,13 @@ nord-est
 \ge qui.souffre.d'une.luxation
 \lt (luxation.patient)
 \dt 26/Sep/2006
+
+\lx múguda
+\mm múgu:n:poudre
+\mm dá:n:bouche
+\ps n
+\ge champ.de.batail
+\dt 09/Jun/2014
 
 \lx mùgufin
 \mm mùgu:n:poisson.Synodontis.filamentosus
@@ -78998,14 +79087,14 @@ nord-est
 \gv béni-oui-oui
 \dt 26/Sep/2006
 
-\lx nàamu
+\lx nàamù
 \bw ar: na`am = id.
 \ps intj
 \ge oui
 \sm (réponse à un appel : marque l'attention ; réponse à un conteur : invitation à poursuivre)
 \xv à yé  nàamu náminɛ
 \xe il lui a répondu "j'écoute"
-\dt 16/Aug/2006
+\dt 08/Jun/2014
 
 \lx náamu
 \va námu
@@ -86317,9 +86406,10 @@ nord-est
 \dt 16/Aug/2006
 
 \lx nsáyin
+\a nsáɲa
 \ps onomat
 \ge plein.à.ras.bord
-\dt 16/Aug/2006
+\dt 26/May/2014
 
 \lx nsè
 \ps n
@@ -87564,6 +87654,12 @@ nord-est
 \ee fleur blanc jaunâtre ou jaune crème)
 \dt 19/Aug/2006
 
+\lx ntòri-ká-sìgilan
+\va ntòrisìgilan
+\ps n
+\ge champignon.esp
+\dt 18/Jun/2014
+
 \lx ntòrinin
 \mm ntòri:n:crapaud
 \mm nin:mrph:DIM
@@ -88638,6 +88734,16 @@ nord-est
 \ee (qui taquine méchamment, insociable)
 \dt 16/Aug/2006
 
+\lx núnjɔlɔkɔ
+\mm nún:n:nez
+\mm jɔ̀lɔkɔ:n:chaîne
+\va nújɔlɔkɔ
+\mm nú:n:nez
+\mm jɔ̀lɔkɔ:n:chaîne
+\ps n
+\ge cloison.nasale
+\dt 13/May/2014
+
 \lx núsɔgɔtɔ
 \mm nú:n:nez
 \mm sɔ̀gɔ:v:percer
@@ -89611,7 +89717,7 @@ nord-est
 \xv né t'á ɲɛ́dɔn
 \xe je ne sais pas comment ça marche, "la manière"
 \xv kó bɛ́ɛ kɛ́ra  à ɲɛ́ mà
-\xe tout s'est passé normalement
+\xe #tout s'est passé normalement
 \sn 5
 \gv page
 \gv côté
@@ -89636,6 +89742,7 @@ nord-est
 \ee (céréales)
 \xv ɲɔ̀ ɲɛ́ bɛ́  kà yɛ̀lɛ
 \xe le mil commence à greener
+\dt 16/Jun/2014
 
 \lx ɲɛ́
 \va ɲá
@@ -95454,6 +95561,12 @@ nord-est
 \ge bruit.de.casse
 \dt 16/Aug/2006
 
+\lx pócaa
+\ps onomat
+\ge chute.mouillée
+\gv chute dans l'eau
+\dt 16/May/2014
+
 \lx pòlisi
 \va pólosi
 \ps n
@@ -97200,10 +97313,14 @@ nord-est
 \va sánnasini
 \mm ná:pp:dans
 \mm síni:n:demain
+\va sálòlalasini
+\mm sálon:n/adv:l'an.dernier
+\mm lá:pp:dans
+\mm síni:n:demain
 \ps n/adv
 \ge il.y.a.deux.ans
 \lt (l'an passé.  ?)
-\dt 16/Aug/2006
+\dt 09/Jun/2014
 
 \lx sàma
 \ps n
@@ -97449,9 +97566,11 @@ nord-est
 \ge année
 \xv sàn wɛ́rɛ
 \xe l'an prochain
+\xv sàn wɛ́rɛ kɔ́ta
+\xe l'an surprochain
 \xv à sàn dúuru yé  ɲìna yé
 \xe il y a cinq ans, voici cinq ans
-\dt 26/Sep/2006
+\dt 09/Jun/2014
 
 \lx sàn
 \va sànga
@@ -97965,6 +98084,11 @@ nord-est
 \gv afin de
 \sy jànko
 \dt 21/Feb/2013
+
+\lx sánkò
+\ps adv
+\ge l'année.dernière
+\dt 09/Jun/2014
 
 \lx sánkolo
 \mm sán:n:haut
@@ -99241,12 +99365,14 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ségin
+\va séegin
 \ps num
 \ge huit
 \xv tán ní  ségin
 \xe dix-huit
 \xv bí ségin
 \xe quatre-vingt
+\dt 14/Jun/2014
 
 \lx sèginbaatɔ
 \mm sègin:v:revenir
@@ -99731,14 +99857,6 @@ nord-est
 \gv passerelle
 \sy bíli
 \dt 26/Sep/2006
-
-\lx sé-ń- yɛ̀rɛ-k̀ɔrɔ
-\mm sé:v:arriver
-\mm ń:prn:1SG
-\mm yɛ̀rɛ:dtm:même
-\mm kɔ̀rɔ:pp:sous
-\ps n
-\ge autosuffisance
 
 \lx sènba
 \mm sèn:n:jambe
@@ -100566,6 +100684,15 @@ nord-est
 \ge autosuffisance
 \dt 23/Nov/2012
 
+\lx sé-ń-yɛ̀rɛ-kɔ̀rɔ
+\mm sé:v:arriver
+\mm ń:prn:1SG
+\mm yɛ̀rɛ:dtm:même
+\mm kɔ̀rɔ:pp:sous
+\ps n
+\ge autosuffisance
+\dt 18/Jun/2014
+
 \lx séńyɛ̀rɛlá
 \mm sé:n:arrivée
 \mm ń:pers:je
@@ -100797,8 +100924,8 @@ nord-est
 \ge fatigue
 \sm souhait de bienvenue à qui vient de loin
 \xv í ní sɛ̀ !
-\xv (tói é lá róute ! tói é lá fátigue !)
-\dt 16/Aug/2006
+\xv (toi et la route ! toi et la fatigue!)
+\dt 07/Jun/2014
 
 \lx sɛ̀bɛ
 \va sɔ̀bɛ
@@ -101699,6 +101826,11 @@ nord-est
 \ps n
 \ge sept.heures
 
+\lx shù
+\ps n
+\ge chou
+\dt 17/Jun/2014
+
 \lx sì
 \ps v
 \sn 1
@@ -102272,24 +102404,30 @@ nord-est
 \lt (asseoir.ma.main.à portée)
 \sn 2
 \gv oisif
-\dt 26/Sep/2006
+\sn 3
+\gv tranquillité
+\dt 18/Jun/2014
 
-\lx sìgińfɛ̀
+\lx sìginfɛ
 \mm sìgi:v:asseoir
 \mm ń:pers:je
 \mm fɛ̀:pp:vers
-\vt sìgi.n.fɛ
+\ps n
+\ge voisinage
+\gv vie.ensemble
+\dt 21/Jun/2014
+
+\lx sìgi-ń-fɛ̀
 \mm sìgi:v:asseoir
 \mm ń:pers:je
 \mm fɛ̀:pp:vers
-\lt (installé.moi.côté)
 \ps n
 \ge étranger
-\sm (établi depuis longtemps dans le village)s
+\sm (établi depuis longtemps dans le village)
 \gv émigré
-\xv ní  mín tɛ́  Tàrawele yé, ò yé  sìginfɛ yé  Fàlajɛ
+\xv ní  mín tɛ́  Tàrawele yé, ò yé sìgi-ń-fɛ̀ yé  Fàlajɛ
 \xe celui qui n'est pas Tarawele est un étranger à Falajɛ
-\dt 26/Sep/2006
+\dt 21/Jun/2014
 
 \lx sìginfɛya
 \mm sìgi.n.fɛ:n:étranger
@@ -104307,10 +104445,11 @@ trompe)
 \dt 16/Aug/2006
 
 \lx sògin
+\va sɔ̀gin
 \ps v
 \vl vt
 \ge picorer
-\dt 26/Sep/2006
+\dt 08/Jun/2014
 
 \lx sógin
 \ps n
@@ -107201,9 +107340,11 @@ trompe)
 \sn 2
 \gv putain
 \ee (péj.)
+\sn 3
+\gv amante
 \xv à ká súngurun dòn
 \xe c'est sa petite amie, sa 'poule'
-\dt 16/Aug/2006
+\dt 12/May/2014
 
 \lx súngurunba
 \mm súngurun:n:jeune.fille
@@ -109732,6 +109873,13 @@ trompe)
 \ge grande.poële
 \dt 16/Aug/2006
 
+\lx tànínɔ̀
+\va tànɔ
+\ps adv
+\ge ainsi
+\gv exactement ainsi
+\dt 25/May/2014
+
 \lx tánkɔn
 \ps n
 \sn 1
@@ -112118,6 +112266,11 @@ trompe)
 \xv à tílennen dòn  tɔ́nsira fɛ̀ kóɲuman
 \xe il suit parfaitement les règles de l'association
 \dt 26/Sep/2006
+
+\lx tílen
+\ps conj
+\ge depuis
+\dt 08/Jun/2014
 
 \lx tílenbaliya
 \mm tílen:v:redresser
@@ -116389,7 +116542,7 @@ trompe)
 \ee + nég = de peur que, de peur de ...
 \xv wálasa  í kàna ɲìnɛ  ò kɔ́...
 \xe pour que tu ne l'oublies pas ...
-\dt 26/Sep/2006
+\dt 10/May/2014
 
 \lx wálawala
 \ps n
@@ -118003,10 +118156,13 @@ trompe)
 
 \lx wóoyi
 \va wáayi
+\va wúyo
+\va wáyika
+\va wíka
 \ps intj
 \ge aïe
 \ee (cri de douleur, de lamentation)
-\dt 01/May/2014
+\dt 16/May/2014
 
 \lx wòro
 \ps n
@@ -119484,6 +119640,8 @@ trompe)
 \lx yálasa
 \va yáasa
 \va yála
+\va yálisa
+\va jáasa
 \ve (f)
 \ps conj
 \ge pour.que
@@ -119492,7 +119650,7 @@ trompe)
 \xe fais ce que tu peux pour qu'il en obtienne
 \xv í kà  à lá dòni tà yála án ná wà
 \xe prends son fardeau pour que nous avancions (plus vite)
-\dt 16/Aug/2006
+\dt 10/May/2014
 
 \lx yálon
 \va yálo
@@ -119920,6 +120078,13 @@ trompe)
 \xe éclairage du pont
 \dt 11/Nov/2007
 
+\lx yéelen-yeelen
+\mm yéelen:n:lumière
+\mm yéelen:n:lumière
+\ps v
+\ge briller
+\dt 09/Jun/2014
+
 \lx yéfuge
 \va yéfege
 \va yépege
@@ -120030,11 +120195,14 @@ trompe)
 
 \lx yéleyele
 \ps v
-\sn 1
+\sn
 \ge briller
-\sn 2
-\gv être limpide
-\dt 01/May/2014
+\dt 09/May/2014
+
+\lx yéleyele
+\ps adv
+\ge limpide
+\dt 09/May/2014
 
 \lx yèn
 \ps adv/n
