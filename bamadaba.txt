@@ -7946,6 +7946,11 @@ bâton de berger
 \ge foie
 \dt 13/May/2014
 
+\lx Biɲɛjankɔrɔ
+\ps n
+\ge fétiche.Binyejankoro
+\dt 21/Jul/2014
+
 \lx bíɲɛma
 \mm bíɲɛ:n:corne
 \mm ma:mrph:COM
@@ -10209,7 +10214,9 @@ bâton de berger
 \sn 2
 \gv tirer
 \gv viser
-\dt 26/Sep/2006
+\sn 3
+\gv piquer
+\dt 21/Jul/2014
 
 \lx bón
 \ps v
@@ -10229,6 +10236,12 @@ bâton de berger
 \ge case
 \gv maison.à.terrasse
 \dt 26/Sep/2006
+
+\lx bón
+\ps v
+\ge louanger
+\gv louer
+\dt 21/Jul/2014
 
 \lx bònboli
 \ps n
@@ -12963,6 +12976,13 @@ mort)
 \xe probablement
 \dt 26/Sep/2006
 
+\lx caan
+\ps onomat
+\ge bourdonnement
+\gr
+\fq
+\dt 20/Jul/2014
+
 \lx cájo
 \ps n
 \ge bétail.bai.en.tête-blanc.aux.pattes
@@ -14143,7 +14163,8 @@ sur soi)
 \mm mà:pp:à
 \ps pp
 \ge parmi
-\dt 28/Nov/2012
+\gv au milieu de
+\dt 20/Jul/2014
 
 \lx cɛ́mabɔli
 \mm cɛ́:n:milieu
@@ -14151,11 +14172,10 @@ sur soi)
 \mm bɔ́:v:sortir 
 \mm li:mrph:NMLZ
 \ps n
-\lt décentraliser-action
 \ge décentralisation
 \xv ...ń'á bɛ́ màra cɛ́mabɔli kófɔ
 \xe (l'article de loi) qui instaure la décentralisation de l'administration (kb 5/06 p.9)
-\dt 11/Nov/2007
+\dt 20/Jul/2014
 
 \lx cɛ́makolo
 \mm cɛ́:n:milieu
@@ -20197,15 +20217,6 @@ rétribution mais à titre de réciprocité)
 \sm (grammatical)
 \dt 09/Jun/2014
 
-\lx dáɲɛ
-\mm dá:v:poser
-\mm ɲɛ́:n:fois
-\ps n
-\ge mot
-\sm (néologisme)
-\lt (parole.fois)
-\dt 16/Aug/2006
-
 \lx dáɲɛburuju
 \mm dá:v:poser
 \mm ɲɛ́:n:fois
@@ -20883,12 +20894,15 @@ rétribution mais à titre de réciprocité)
 \lx dáyɛ̀lɛ
 \mm dá:n:bouche
 \mm yɛ̀lɛ:v:ouvrir
+\va dáyɛ̀lɛ
+\mm dá:n:bouche
+\mm yɛ̀lɛn:v:ouvrir
 \ps v
 \vl vt
 \ge ouvrir
 \gv déboucher
 \lt (ouverture.ouvrir)
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dáyɛlɛlan
 \mm dá:n:bouche
@@ -23134,6 +23148,14 @@ rétribution mais à titre de réciprocité)
 \gv dernier.de.portée
 \lt (poitrine.lieu.enfant)
 \dt 26/Sep/2006
+
+\lx díso
+\mm dí:n:miel
+\mm só:n:maison
+\ps n
+\ge cabaret
+\ee là où on vend l'hydromel
+\dt 21/Jul/2014
 
 \lx dísɔngɔ
 \mm sɔ̀ngɔ:n:prix
@@ -25555,14 +25577,13 @@ désorienter')
 \dt 16/Aug/2006
 
 \lx dɔ́ɔnin
-\ee dɔgɔnin*
-\ps adj/n
+\ps adv/n
 \ge un.peu
 \xv dɔ́ɔnin b'á jɛ̀
 \xe il s'en faut d'un tout petit peu
 \xv nà ní  jí dɔ́ɔnin yé
 \xe apporte un peu d'eau
-\dt 11/May/2013
+\dt 20/Jul/2014
 
 \lx dɔ́ɔnin-dɔ́ɔnin
 \ps adv
@@ -26426,7 +26447,7 @@ désorienter')
 \ps v
 \vl vt
 \ge provoquer.des.ampoules
-\dt 16/Aug/2006
+\dt 30/Jun/2014
 
 \lx dúlon
 \ve (f,bk)
@@ -27104,7 +27125,7 @@ désorienter')
 \dt 16/Aug/2006
 
 \lx dùsubɔ
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm bɔ́:v:sortir
 \ps n
 \sn 1
@@ -27112,27 +27133,28 @@ désorienter')
 \sn 2
 \gv courage
 \lt (colère.sortir)
-\dt 16/Aug/2006
+\dt 20/Jul/2014
 
 \lx dùsudimi
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm dími:n:souffrance
 \ps n
 \ge colère
 \lt (coeur.douleur)
+\dt 20/Jul/2014
 
 \lx dùsufaga
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm fàga:v:tuer
 \ps n
 \ge patience
 \gv calme
 \lt (colère.éteindre)
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dùsugɛlɛnya
-\mm dùsu:n:centre.d'énergie
-\mm gɛ̀lɛn:vq/adj:dur
+\mm dùsu:n:coeur
+\mm gɛ̀lɛn:adj:dur
 \mm ya:mrph:ABSTR
 \ps n
 \sn 1
@@ -27142,20 +27164,19 @@ désorienter')
 \gv courage
 \gv aplomb
 \lt (coeur.dur.suf abs)
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dùsugonitigi
-\mm dùsu:n:centre.d'énergie
-\mm gòni:vq/adj:chaud
+\mm dùsu:n:coeur
+\mm gòni:adj:chaud
 \mm tìgi:n:maître
 \ps n
-\lt coeur-chaud-propriétaire
 \ge irascible
 \xv dùsugonitigi dùsu ká tɛ́li
-\dt 11/Nov/2007
+\dt 20/Jul/2014
 
 \lx dùsuja
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm jà:n:sécheresse
 \ps n
 \sn 1
@@ -27163,32 +27184,40 @@ désorienter')
 \sn 2
 \gv grande.anxiété
 \lt (colère.sèche)
-\dt 16/Aug/2006
+\dt 20/Jul/2014
 
 \lx dùsujɛlenya
-\mm dùsu:n:centre.d'énergie
-\mm jɛ́:vq/adj:blanc
+\mm dùsu:n:coeur
+\mm jɛ́:adj:blanc
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
-\lt coeur-clair-suf abs
 \ge sincérité
-\dt 11/Nov/2007
+\dt 20/Jul/2014
 
 \lx dùsukasi
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kàsi:n:pleurs
 \va dùsu.kasi.ko
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kàsi:n:pleurs
 \mm kó:n:affaire
 \ps n
 \ge chagrin
 \lt (coeur.peiner)
-\dt 26/Sep/2006
+\dt 20/Jul/2014
+
+\lx dùsukasi
+\mm dùsu:n:coeur
+\mm kàsi:v:pleurer
+\ps v
+\ge chagriner
+\gv être affligé
+\fq
+\dt 20/Jul/2014
 
 \lx dùsukasibaatɔ
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kàsi:v:pleurer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -27196,20 +27225,20 @@ désorienter')
 \ge peiné
 \gv en.colère
 \lt (peine.qui a)
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dùsukasimɔgɔ
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kàsi:n:pleurs
 \mm mɔ̀gɔ:n:homme
 \ps n
 \ge vaurien
 \sm personne qui chagrine les gens par son comportement
 \lt (chagrin.personne)
-\dt 16/Aug/2006
+\dt 20/Jul/2014
 
 \lx dùsukun
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \ps n
 \sn 1
@@ -27225,31 +27254,30 @@ désorienter')
 \xe elle a du courage
 \sn 3
 \gv colère
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dùsukundimi
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \mm dími:n:souffrance
 \ps n
 \ge maux.de.coeur
 \lt (coeur.douleur)
-\dt 16/Aug/2006
+\dt 20/Jul/2014
 
 \lx dùsukungɛlɛya
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \mm gɛ̀lɛ:vq/adj:dur
 \mm ya:mrph:ABSTR
 \ps n
-\lt coeur-dureté
 \ge obstination
 \ee entêtement (dans une mauvaise conduite) / attitude rebelle, conduite endurcie
 \rem ex (14, 17)
-\dt 11/Nov/2007
+\dt 20/Jul/2014
 
 \lx dùsukunjɛlenya
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \mm jɛ́:vq/adj:blanc
 \mm len:mrph:PTCP.RES
@@ -27258,10 +27286,10 @@ désorienter')
 \lt âme-claire-suf abs
 \ge sincérité
 \ee droiture du coeur, clarté de l'âme
-\dt 11/Nov/2007
+\dt 20/Jul/2014
 
 \lx dùsukunnakaliya
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \mm na:mrph:LOC
 \mm kàli:v:faire.un.saut.périlleux 
@@ -27270,10 +27298,10 @@ désorienter')
 \ge aigreurs
 \gv inflammation.de.l'oesophage
 \lt (coeur.lieu.douleur migratoire)
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dùsukunnako
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \mm na:mrph:LOC
 \mm kó:n:affaire
@@ -27284,20 +27312,20 @@ désorienter')
 \sy níkanko
 \xv mɔ̀gɔ sí tɛ́ á cɛ́ lá mín bɛ́ ò kɛ́ à dùsukunnako yé
 \xe aucun d'entre vous ne le prend à coeur
-\dt 11/Nov/2007
+\dt 20/Jul/2014
 
 \lx dùsukunnata
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \mm nata:mrph:MNT2
 \ps n
 \ge sentiments
 \gv opinion
 \lt (coeur.lieu.part)
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dùsukunntan
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \mm ntan:mrph:PRIV
 \ps adj/n
@@ -27306,10 +27334,10 @@ désorienter')
 \sn 2
 \gv paresseux
 \lt (courage.sans)
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dùsukunntanya
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
@@ -27319,10 +27347,10 @@ désorienter')
 \sn 2
 \gv paresse
 \lt (courage.absence)
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dùsukunyɛrɛyɛrɛ
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm kùn:n:tête
 \mm yɛ́rɛyɛrɛ:v:trembler
 \ps n
@@ -27331,20 +27359,20 @@ désorienter')
 \sn 2
 \gv grande.perplexité
 \lt (coeur.trembler)
-\dt 16/Aug/2006
+\dt 20/Jul/2014
 
 \lx dùsulafiliba
-\mm dùsu:n:centre.d'énergie 
+\mm dùsu:n:coeur
 \mm la:mrph:LOC
 \mm fìli:n:erreur
 \mm ba:mrph:AUGM
 \ps n
 \lt affliction-grande
 \ge affliction
-\dt 11/Nov/2007
+\dt 20/Jul/2014
 
 \lx dùsulaminkuma
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm la:mrph:CAUS
 \mm mìn:v:boire
 \mm kúma:n:parole
@@ -27352,20 +27380,20 @@ désorienter')
 \lt âme-affermir-parole
 \ge encouragement
 \gv exhortation
-\dt 11/Nov/2007
+\dt 20/Jul/2014
 
 \lx dùsumandi
-\mm dùsu:n:centre.d'énergie 
+\mm dùsu:n:coeur
 \mm màn:mrph:SUPER
 \mm dí:vq/adj:agréable
 \ps adj
 \ge bénin
 \gv de.bonne.humeur
 \lt (coeur.contact.bon)
-\dt 16/Aug/2006
+\dt 20/Jul/2014
 
 \lx dùsumandiya
-\mm dùsu:n:centre.d'énergie 
+\mm dùsu:n:coeur
 \mm màn:mrph:SUPER
 \mm dí:vq/adj:agréable
 \mm ya:mrph:ABSTR
@@ -27373,10 +27401,10 @@ désorienter')
 \lt bonne humeur-suf abs
 \ge bonne.humeur
 \gv gentillesse
-\dt 11/Nov/2007
+\dt 20/Jul/2014
 
 \lx dùsumango
-\mm dùsu:n:centre.d'énergie 
+\mm dùsu:n:coeur
 \mm màn:mrph:SUPER
 \mm gó:vq:désagréable
 \ps adj
@@ -27385,31 +27413,33 @@ désorienter')
 \lt (coeur.contact.mauvais)
 \xv dùsumango fìla tɛ́  ɲɔ́gɔn láadi
 \xe deux irascibles ne se donnent pas de conseil
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx dùsumangoya
-\mm dùsu:n:centre.d'énergie 
+\mm dùsu:n:coeur
 \mm màn:mrph:SUPER
 \mm gó:vq:désagréable 
 \mm ya:mrph:ABSTR
 \ps n
 \ge irascibilité
 \lt (irascible.suf abs)
+\dt 20/Jul/2014
 
 \lx dùsuntan
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm ntan:mrph:PRIV
 \ps adj
 \ge fainéant
 \lt (courage.sans)
-\dt 12/Aug/2006
+\dt 20/Jul/2014
 
 \lx dùsuɲugu
-\mm dùsu:n:centre.d'énergie
+\mm dùsu:n:coeur
 \mm ɲúgu:n:nausée
 \ps n
 \ge nausées
 \lt (coeur.nausée)
+\dt 20/Jul/2014
 
 \lx dùtɛ
 \va dùte
@@ -28446,9 +28476,12 @@ désorienter')
 \lx fàlen
 \ps v
 \vl vt
+\ms 1
 \ge échanger
 \gv faire.de.la.monnaie
-\dt 26/Sep/2006
+\sn 2
+\gv modifier
+\dt 20/Jul/2014
 
 \lx fálen
 \ps v
@@ -33544,9 +33577,9 @@ la virginité (pièce de monnaie sans trou)
 \sn 2
 \gv atteindre
 \sm (par mégarde)
-\xv fòra  à lá, ò y'á sɔ̀rɔ : í m'á dábɔ  à káma
+\xv fòra à lá, ò y'á sɔ̀rɔ : í m'á dábɔ à kámà
 \xe le coup l'a atteint mais tu ne l'as pas fait exprès
-\dt 26/Sep/2006
+\dt 21/Jul/2014
 
 \lx fò
 \ps n
@@ -36713,12 +36746,12 @@ la virginité (pièce de monnaie sans trou)
 \ge bruit.de.galop
 \dt 16/Aug/2006
 
-\lx gádaya
+\lx gàdaya
 \mm gà.da:n:cuisine
 \mm gà:n:foyer
 \mm dá:n:bouche
 \mm ya:mrph:ABSTR
-\va gwá.da.ya
+\va gwà.da.ya
 \mm gwà.da:n:cuisine
 \mm gwà:n:foyer
 \mm dá:n:bouche
@@ -36729,7 +36762,7 @@ la virginité (pièce de monnaie sans trou)
 \gv situation.de.dépendance
 \ee condition de servante, d'esclave
 \lt (esclave.suf abs)
-\dt 26/Sep/2006
+\dt 21/Jul/2014
 
 \lx gàden
 \mm gà:n:foyer
@@ -39684,6 +39717,7 @@ la virginité (pièce de monnaie sans trou)
 
 \lx gɔ̀lɔn
 \va gwɔ̀lɔn
+\va wɔ̀lɔn
 \ph [gw]
 \ps v
 \vl vi
@@ -39693,7 +39727,7 @@ la virginité (pièce de monnaie sans trou)
 \xe le fer de ma houe est déformé
 \xv à sèn gɔ̀lɔnna
 \xe il a le pied tordu
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx gɔ̀mɛ
 \ps n
@@ -41421,6 +41455,12 @@ doigts par des fileuses du coton)
 \rem l 89
 \dt 11/Nov/2007
 
+\lx húja
+\ps n
+\ge prétexte
+\gv
+\dt 20/Jul/2014
+
 \lx húkumu
 \bw ar: hukm = autorité, gouvernement, pouvoir
 \ps n
@@ -41441,11 +41481,18 @@ doigts par des fileuses du coton)
 \lx í
 \ps pers
 \ge REFL
+\xv sú fɛ̀, à b'í dá
+\xe le soir, il se couche
+\xv sú fɛ̀, mɔ̀gɔ b'í dá
+\xe le soir, on se couche
+\xv sú fɛ̀, bɛ́ɛ b'í dá
+\xe le soir, tous se couchent
+\dt 20/Jul/2014
 
 \lx í
 \ps pers
 \sn 1
-\ge 2.SG
+\ge 2SG
 \xv sú fɛ̀, í b'í dá
 \xe le soir, tu te coucheston, ta, tes
 \xv í fúrucɛ
@@ -41456,15 +41503,7 @@ doigts par des fileuses du coton)
 \xe tes chaussureson
 \xv í tɛ́  fóyi sɔ̀rɔ ń'í má kúma
 \xe on n'obtient rien sans demander
-\sn 2
-\gv REFL
-\xv sú fɛ̀, à b'í dá
-\xe le soir, il se couche
-\xv sú fɛ̀, mɔ̀gɔ b'í dá
-\xe le soir, on se couche
-\xv sú fɛ̀, bɛ́ɛ b'í dá
-\xe le soir, tous se couchent
-\dt 16/Aug/2006
+\dt 20/Jul/2014
 
 \lx ìhí
 \ps intj
@@ -42584,6 +42623,13 @@ doigts par des fileuses du coton)
 \ps n
 \ge groupe.de.travail
 \dt 19/Dec/2012
+
+\lx jaman
+\ps n
+\ge diamant
+\gr
+\fq
+\dt 20/Jul/2014
 
 \lx jàmana
 \va jàmani
@@ -44324,6 +44370,17 @@ doigts par des fileuses du coton)
 \xv à fà jí b'á lá
 \xe il ressemble à son papa
 \dt 26/Sep/2006
+
+\lx jí
+\ps v
+\sn 1
+\ge boire
+\sn 2
+\gv couler
+\sn 3
+\gv arriver à l'eau
+\ee (puits)
+\dt 21/Jul/2014
 
 \lx jíbolisira
 \mm jí:n:eau
@@ -46675,6 +46732,16 @@ doigts par des fileuses du coton)
 \ge scorpion.noir
 \dt 16/Aug/2006
 
+\lx jɔ̀nkunna
+\mm jɔ̀:v:mettre.debout
+\mm ń:pers:1SG
+\mm kùn:n:tête
+\mm ná:pp:dans
+\ps n
+\ge garde.du.corps
+\gv garde personnel
+\dt 21/Jul/2014
+
 \lx jɔ̀nmaya
 \mm jɔ̀n:v:estimer.insuffisant
 \mm ma:mrph:COM
@@ -46914,17 +46981,20 @@ doigts par des fileuses du coton)
 \sn 2
 \gv arrière
 \gv bout
-\ee le bout d'un champ, la crosse d'un fusil, le pied d'un arbre
+\ee le bout d'un champ, la crosse d'un fusil
 \xv móbili sèginna  à jù kàn
 \xe la voiture a fait marche arrière le fond d'un récipient, la partie basse de, le contrebas, les fondations d'un bâtiment
 \xv jù fɛ̀
 \xe en bas, en contrebas
+\sn 3
+\gv tronc
+\ee le pied d'un arbre
 \xv jíriju bɔ̀
 \xe déraciner un arbre
 \gv lieu de rassemblement
 \xv à má táa  ò jù lá
 \xe il n'y est pas allé
-\sn 3
+\sn 4
 \gv base
 \gv origine
 \gv cause
@@ -46935,7 +47005,7 @@ doigts par des fileuses du coton)
 \xe on n'a pas trouvé la cause de sa maladie
 \xv dén ká jógojuguya jù bɛ́  jɔ́n ná ?
 \xe qui est responsable des vices des enfants ?
-\dt 01/Apr/2014
+\dt 20/Jul/2014
 
 \lx jùbara
 \mm jù:n:derrière
@@ -47115,12 +47185,15 @@ doigts par des fileuses du coton)
 \dt 26/Sep/2006
 
 \lx júguya
-\mm júgu:vq/adj:mauvais
+\mm júgu:vq:mauvais
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \sn 1
-\ge aggraver
+\ge être.méchant
+\gv être mauvais
+\sn 2
+\gv aggraver
 \ee (maladie ...)
 \lt (méchant.suf caus)
 \sn 2
@@ -47129,7 +47202,7 @@ doigts par des fileuses du coton)
 \gv faire.du.tort
 \xv mɔ̀gɔ mín bɛ́  í júguya, í kà  ò sɔ́n
 \xe celui qui te fait du mal, fais-lui du bien
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx jùjɛngɛn
 \mm jù:n:derrière
@@ -51922,6 +51995,12 @@ doigts par des fileuses du coton)
 \ps n
 \ge favoris
 \dt 16/Aug/2006
+
+\lx kárangɛ
+\va káranga
+\ps n
+\ge enceinte.d'une.ville
+\dt 21/Jul/2014
 
 \lx kárankarannci
 \mm káran:v:veiller
@@ -60110,12 +60189,10 @@ avec ŋɔni = épine !)
 
 \lx kɔ́nɔnafìli
 \mm kɔ́nɔ:n:ventre
-\mm ná.fili:v:tromper
 \mm ná:mrph:CAUS
 \mm fìli:v:jeter
 \va kɔ́nɔ.na.flì
 \mm kɔ́nɔ:n:ventre
-\mm ná.fli:v:tromper
 \mm ná:mrph:CAUS
 \mm flì:v:jeter
 \ph [fl]
@@ -60125,7 +60202,7 @@ avec ŋɔni = épine !)
 \gv troubler.profondément
 \gv angoisser
 \lt (pensées.égarer)
-\dt 18/Jun/2014
+\dt 20/Jul/2014
 
 \lx kɔ́nɔnafin
 \mm kɔ́nɔ:n:ventre
@@ -65519,18 +65596,15 @@ avec ŋɔni = épine !)
 \ge apathie
 \lt (tête.morte.suf abs)
 
-\lx kùnsi
+\lx kùnsigi
+\mm kùn:n:tête
+\va kùnsi
 \mm kùn:n:tête
 \mm sí:n:poil
 \ps n
 \ge cheveux
 \gv chevelure
-\lt (tête.poil)
-\dt 26/Sep/2006
-
-\lx kùnsigi
-\ps n
-\ge cheveux
+\dt 25/Jun/2014
 
 \lx kùnsigintan
 \mm kùnsigi:n:cheveux
@@ -66566,7 +66640,7 @@ avec ŋɔni = épine !)
 \dt 28/Mar/2013
 
 \lx lá
-\fq r
+\fq rá
 \va ná
 \ps conj
 \ge POSS
@@ -66575,7 +66649,7 @@ avec ŋɔni = épine !)
 \xe sa maison
 \xv ń ná mùru
 \xe mon couteau ( = à ka so / n ka mùru)
-\dt 28/Mar/2014
+\dt 20/Jul/2014
 
 \lx láa
 \ps onomat
@@ -72920,6 +72994,11 @@ n'est pas près de disparaître
 \xe tais-toi !
 \dt 16/Aug/2006
 
+\lx Makungoba
+\ps n
+\ge fétiche.Makungoba
+\dt 21/Jul/2014
+
 \lx màkunu
 \mm mà:mrph:SUPER
 \mm kúnu:v:se.réveiller
@@ -77474,6 +77553,13 @@ nord-est
 \gv miettes
 \dt 26/Sep/2006
 
+\lx mɔ́ɲɔmɔɲɔ
+\ps v
+\ge écraser
+\gv réduire en miettes
+\fq
+\dt 20/Jul/2014
+
 \lx mɔ̀ɲɔtugu
 \mm mɔ̀ɲɔ:n:torche
 \mm tùgu:v:rabouter
@@ -77709,6 +77795,13 @@ nord-est
 \ps n
 \ge babouche
 \dt 26/Sep/2006
+
+\lx múgɛde
+\ps intj
+\ge sacrebleu
+\gv ma foi
+\ee exprime le contentement
+\dt 21/Jul/2014
 
 \lx mùgu
 \va mùugu
@@ -79958,6 +80051,11 @@ nord-est
 \ge cretonne
 \dt 16/Aug/2006
 
+\lx Nangoloko
+\ps n
+\ge fétiche.Nangoloko
+\dt 21/Jul/2014
+
 \lx nànkama
 \mm nà:v:venir
 \mm ń:pers:1SG
@@ -80545,14 +80643,15 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ncínin
-\ps vq/adj
+\va ncíni
+\ps adj
 \ge petit
 \gv jeune
 \gv le.plus.jeune
 \fq (rare)
 \xv à ká ncínin
 \xe il est tout petit
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx ncíninkùnba
 \mm ncínin:vq/adj:petit
@@ -82149,7 +82248,7 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ngɔ̀lɔn
-\va gɔ̀lɔn
+\va wɔ̀lɔn
 \va ngwɔ̀lɔn
 \va gwɔ̀lɔn
 \ph [gw]
@@ -82158,7 +82257,18 @@ nord-est
 \ge être.déformé
 \ee (métal, calebasse ...)
 \sy ŋɔ̀mɛ
-\dt 26/Sep/2006
+\dt 21/Jul/2014
+
+\lx ngɔ̀lɔn
+\va ngɔ̀lɔ
+\va gɔ̀lɔn
+\ps n
+\sn 1
+\ge canne
+\gv baguette
+\sn 2
+\gv déformation
+\dt 21/Jul/2014
 
 \lx ngɔ̀n
 \va gɔ̀n
@@ -84292,11 +84402,12 @@ nord-est
 \lx nkɔ́n
 \va nkwɔ́n
 \ph [nkw]
+\va nkɔ́ncɔrɔ
 \ps n
 \ge tisserin.gendarme
 \lat Ploceus.cucullatus
 \ee (le plus gros des tisserins, vit en colonies bruyantes)
-\dt 26/Sep/2006
+\dt 21/Jul/2014
 
 \lx nkɔ̀ni
 \ps n
@@ -84683,7 +84794,7 @@ nord-est
 \sn 3
 \gv à.cause
 \gv pour
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx nɔ̀fɛgɛn
 \mm nɔ̀.fɛ:mrph:suivant
@@ -86237,6 +86348,11 @@ nord-est
 \gv refuser
 \ee (en faisant un bruit de dépréciation avec la bouche, plaisamment ou non)
 \dt 26/Sep/2006
+
+\lx npyé
+\ps n
+\ge tubercule.esp.
+\dt 21/Jul/2014
 
 \lx npyèlu
 \ps n
@@ -88165,6 +88281,7 @@ nord-est
 \lt (nez.souffler.ce qui sert à)
 
 \lx nùgu
+\va nògo
 \ps n
 \sn 1
 \ge intestin
@@ -88180,7 +88297,7 @@ nord-est
 \sn 4
 \gv moëlle
 \sm d'un végétal
-\dt 26/Sep/2006
+\dt 20/Jul/2014
 
 \lx nùgu
 \ps vq
@@ -101826,6 +101943,28 @@ nord-est
 \ps n
 \ge sept.heures
 
+\lx shɛ̀
+\va syɛ̀
+\va shyɛ̀
+\ph [shyɛ]
+\va sɛ̀
+\ee *mal : sisɛ = id.
+\ps n
+\ge poule
+\dt 03/Jul/2014
+
+\lx shɔ̀
+\va syɔ̀
+\va shyɔ̀
+\ph [shyɔ]
+\va sɔ̀
+\ps n
+\ge haricot
+\gv niébé
+\lat Vigna unguiculata
+\sd papi
+\dt 03/Jul/2014
+
 \lx shù
 \ps n
 \ge chou
@@ -106845,6 +106984,17 @@ trompe)
 \ge chant.funèbre
 \dt 11/Nov/2007
 
+\lx sùko
+\mm sù:n:cadavre
+\mm kó:n:affaire
+\ps n
+\sn 1
+\ge enterrement
+\gv obsèques
+\sn 2
+\gv service funèbre
+\dt 21/Jul/2014
+
 \lx sùkojama
 \mm sù:n:cadavre
 \mm kó:n:affaire
@@ -108208,16 +108358,6 @@ trompe)
 \gv s'étendre
 \dt 26/Sep/2006
 
-\lx syɛ̀
-\va shyɛ̀
-\ph [shyɛ]
-\va shɛ̀
-\va sɛ̀
-\ee *mal : sisɛ = id.
-\ps n
-\ge poule
-\dt 10/May/2013
-
 \lx syɛ̀ba
 \mm syɛ̀:n:poule
 \mm bá:n:mère
@@ -108679,17 +108819,6 @@ trompe)
 \vl vr
 \ge flâner
 \dt 16/Aug/2006
-
-\lx syɔ̀
-\va shyɔ̀
-\ph [shyɔ]
-\va sɔ̀
-\ps n
-\ge haricot
-\gv niébé
-\lat Vigna unguiculata
-\sd papi
-\dt 16/Apr/2014
 
 \lx syɔ́
 \ps n
@@ -117292,11 +117421,15 @@ trompe)
 \lx wàyiba
 \ps v
 \vl vt
-\ge humilier
-\sm publiquement
+\sn 1
+\ge dévoiler
+\sn 2
+\gv dénoncer
+\gv humilier publiquement
+\sn 3
 \vl vi
 \gv avoir honte
-\dt 16/Aug/2006
+\dt 20/Jul/2014
 
 \lx wàyibara
 \mm wàyi:n:boucher
@@ -118053,6 +118186,11 @@ trompe)
 \lt (engendrer.entrailles)
 \sy bángenugu
 \dt 26/Sep/2006
+
+\lx wòlonwalan
+\ps adj
+\ge large
+\dt 21/Jul/2014
 
 \lx wóloɲɔgɔn
 \mm wólo:v:accoucher
