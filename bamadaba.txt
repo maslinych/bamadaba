@@ -13809,14 +13809,13 @@ sur soi)
 \dt 16/Aug/2006
 
 \lx cɛ̀kala
-\mm cɛ̀:v:ramasser
 \mm kàla:n:tige
 \ps n
 \ge herbe.Andropogon.caniculatus
 \sd gram
 \lt (ramasser? tige)
 \ee (grande herbe dont on fait paillassons,nattes grossières, fermetures de portes ...)
-\dt 19/Aug/2006
+\dt 22/Sep/2014
 
 \lx cɛ̀kan
 \mm cɛ̀:n:mâle
@@ -34817,9 +34816,6 @@ la virginité (pièce de monnaie sans trou)
 \lx fɔ́ɔnɔbasi
 \mm fɔ́ɔnɔ:v:vomir
 \mm bási:n:fétiche
-\va fɔɔnɔ.fura
-\mm fɔ́ɔnɔ:v:vomir
-\mm fúra:n:feuille
 \va fwɔ́ɔnɔ.basi
 \mm fwɔ́ɔnɔ:v:vomir
 \mm bási:n:fétiche
@@ -34828,10 +34824,21 @@ la virginité (pièce de monnaie sans trou)
 \sn 1
 \ge remède.contre.le.vomissement
 \lt (vomir.remède)
+\sy fɔ́ɔnɔfura
 \sn 2
 \gv vomitif
 \ee remède pour faire vomir (plus rare)
-\dt 26/Sep/2006
+\dt 23/Sep/2014
+
+\lx fɔ́ɔnɔfura
+\mm fɔ́ɔnɔ:v:vomir
+\mm fúra:n:feuille
+\ps n
+\sn
+\ge remède.contre.le.vomissement
+\lt (vomir.remède)
+\sy fɔ́ɔnɔbasi
+\dt 23/Sep/2014
 
 \lx fɔ̀ɔnɔjɔ
 \mm fɔ̀ɔnɔ:n:poisson.Alestes.dentex.sethente
@@ -44512,7 +44519,6 @@ doigts par des fileuses du coton)
 \xv jìgi tíɲɛ
 \xv jìgi tìgɛ
 \xv jìgi wáari
-\xv jìgi tíɲɛ
 \xe briser l'espoir
 \xv né jìgi tùn tɛ́  í nàli kàn
 \xe je ne m'attendais pas à ta venue
@@ -44524,7 +44530,7 @@ doigts par des fileuses du coton)
 \gv ami
 \xv í jìgi b'í dɛ̀mɛ
 \xe ton ami te dépanne
-\dt 26/Sep/2006
+\dt 23/Sep/2014
 
 \lx jìgi
 \ps v
@@ -46682,14 +46688,14 @@ doigts par des fileuses du coton)
 \va jɛ́n
 \va jɛ́nni
 \ve (f)
-\va jenin
+\va jénin
 \ve Mamadu Dukure
 \ps prn
 \ge qui
 \xv jɔ̂n ní  jɔ̂n ?
 \xe qui et qui ? (dans le détail)
 \pl jɔnw
-\dt 09/Mar/2014
+\dt 23/Sep/2014
 
 \lx jɔ̀nfeere
 \mm jɔ̀n:n:esclave
@@ -53190,12 +53196,13 @@ doigts par des fileuses du coton)
 \mr kɛ* --> cɛ = homme, mari
 \ps adj
 \ge mâle
+\ee (uniquement en composition)
 \cf -jígi
 \cf -fáli
 \cf -kɔ́rɔ
 \cf -sára
 \cf -ntúra
-\dt 07/Mar/2014
+\dt 23/Sep/2014
 
 \lx kɛ̀
 \ps prt
@@ -61166,11 +61173,12 @@ avec ŋɔni = épine !)
 \ps adj
 \ee * en xas : -koton =,/ koro vieux
 \ge mâle.adulte
+\ee (uniquement en composition)
 \xv wɔ̀lɔkɔrɔ
 \xe francolin mâle (avec des ergots)
 \xv bàkɔrɔ
 \xe bouc
-\dt 07/Mar/2014
+\dt 23/Sep/2014
 
 \lx kɔ̀rɔ
 \ps vq/adj
@@ -75833,9 +75841,9 @@ n'est pas près de disparaître
 \xe d'où sors-tu, d'où viens-tu  ?
 \xv í bá táara mín ?
 \xe où est partie ta mère ?
-\xv í bɛ́ táa mínni ?
+\xv í bɛ́ táa míni ?
 \xe où vas-tu ?
-\dt 16/Aug/2006
+\dt 23/Sep/2014
 
 \lx mín
 \va mun
@@ -78388,6 +78396,12 @@ nord-est
 \xe il marmonne (entre ses dents)
 \dt 16/Aug/2006
 
+\lx múrumurulen
+\ps n
+\ge moucheron
+\gv
+\dt 22/Sep/2014
+
 \lx múruti
 \vc múrti
 \ps v
@@ -78937,6 +78951,8 @@ nord-est
 \dt 26/Sep/2006
 
 \lx myɛ̀
+\va mìyɛ
+\va mìɲɛ
 \ps n
 \sn 1
 \ge envie.de.viande
@@ -78944,9 +78960,9 @@ nord-est
 \xe il a envie de viande
 \sn 2
 \gv gourmandise
-\xv ɛ́ b'á lá
+\xv myɛ̀ b'á lá
 \xe il est gourmand
-\dt 16/Aug/2006
+\dt 23/Sep/2014
 
 \lx myɛ̀
 \ve (f,bn)
@@ -88938,8 +88954,6 @@ nord-est
 \xv ò ɲàna
 \xv ò cógo ɲàna !
 \xe c'est bien !
-\xv màɲa  à mà !
-\xe agrée sa demande !
 \vl vt
 \gv embellir
 \xv à y'á kùn ɲà
@@ -88949,7 +88963,12 @@ nord-est
 \gv se.passer.de
 \xv kɔ́ né tɛ́ sé  kà ɲà  nìn kɔ́
 \xe je ne peux m'en passer
-\dt 26/Sep/2006
+\sn 4
+\vl vi
+\gv aider (à -- mà)
+\xv ̀ɲa  à mà !
+\xe agrée sa demande !
+\dt 23/Sep/2014
 
 \lx ɲà
 \ps n
@@ -103026,8 +103045,8 @@ nord-est
 \lx siman
 \va simɔn
 \ps n
-\ge cément
-\dt 06/Feb/2013
+\ge ciment
+\dt 23/Sep/2014
 
 \lx sìmaya
 \mm sì.ma:adj:durable
@@ -108178,7 +108197,7 @@ trompe)
 \bw ar: satara = voiler
 \ps n
 \sn 1
-\ge dissimilation
+\ge dissimulation
 \sn 2
 \gv lieu caché
 \xv sùtara lá
@@ -108189,7 +108208,7 @@ trompe)
 \xe après l'enterrement, ils se retrouvent
 \sn 4
 \gv toilettes
-\dt 26/Sep/2006
+\dt 23/Sep/2014
 
 \lx sùtara
 \va sùtura
@@ -108999,14 +109018,17 @@ trompe)
 
 \lx tá
 \ps n
+\sn 1
 \ge propriété
 \xv né tá, í tá, à tá...
 \xe le mien, le tien, le sien ...
 \xv ò yé  í tá yé
 \xe c'est ta part, c'est à toi, ça t'appartient, c'est le tien ...
-\xv màa tɛ́ tó  tá lá  k'à fɔ́ : "á'yé ń sàma !"
+\xv màa tɛ́ tó  tá lá  k'à fɔ́ : "á yé ń sàma !"
 \xe quand on est riche, on ne dit pas  "donnez-moi"
-\dt 26/Sep/2006
+\sn 2
+\gv marque possessive emphatique
+\dt 01/Aug/2014
 
 \lx táa
 \va tága
@@ -113203,19 +113225,19 @@ trompe)
 \fq r
 \ps v
 \vl vt
-\ge donner.du."to"
+\ge donner.du."tô"
 \sm (rare, langage de griot)
 \xv í má né tò
 \xe tu ne m'as pas offert à manger
-\dt 26/Sep/2006
+\dt 22/Sep/2014
 
 \lx tò
 \ps n
-\ge “to”
+\ge “tô”
 \sm plat de céréales (pâte à base de farine de sorgho, de mil ...)
 \xv tò nàna sìgi  Ncì kɔ́rɔ
 \xe on a apporté un plat de "to" à Nci
-\dt 26/Sep/2006
+\dt 22/Sep/2014
 
 \lx tó
 \ps v
@@ -121563,8 +121585,8 @@ trompe)
 \sn 2
 \gv moment même
 \xv ò yɔ́rɔnin kélen
-\xv sú lé chá, tóu dé súite, áussito
-\dt 16/Aug/2006
+\xv sur le champ, tout de suite, aussitôt
+\dt 23/Sep/2014
 
 \lx yúguba
 \ps n
