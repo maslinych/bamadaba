@@ -325,6 +325,15 @@
 \xe imposer une amende à qn
 \dt 19/Aug/2006
 
+\lx álamata
+\mm ála:n:God
+\mm mà:pp:à
+\mm tá:n:propriété
+\ps n
+\ge le.moindre
+\gv même
+\dt 20/Oct/2014
+
 \lx álaminɛ
 \mm Ála:n:Dieu
 \mm mìnɛ:v:attraper
@@ -475,6 +484,13 @@
 \xv Ncí kó : àle fɔ́lɔ dè bɛ́  à dàntígɛ :
 \xe Nci dit que c'est lui qui va s'expliquer en premier
 \dt 16/Mar/2014
+
+\lx álekabakuru
+\a álikabakuru
+\ps n
+\ge cheville
+\gv
+\dt 28/Sep/2014
 
 \lx álhamdulilayi
 \va álihamedulilahi
@@ -8927,7 +8943,8 @@ bâton de berger
 \gv manière
 \gv modèle
 \xv ó bólo kàn
-\xv dé cétte mániere
+\xe dé cétte manière
+\dt 28/Sep/2014
 
 \lx bólo
 \ps pp
@@ -10325,9 +10342,9 @@ bâton de berger
 
 \lx bòndon
 \ps n
-\ge petit.grenier.en.pisé
+\ge grenier.en.pisé
 \ee (réservé aux femmes)
-\dt 16/Aug/2006
+\dt 20/Oct/2014
 
 \lx bóndonson
 \ps v
@@ -17845,6 +17862,15 @@ sur soi)
 \lt (bouche.odeur)
 \dt 16/Aug/2006
 
+\lx dákawuli
+\mm dá:v:poser
+\mm kà:pm:INF
+\mm wúli:v:se.lever
+\ps n
+\ge ami.intime
+\gv compagnon très proche
+\dt 20/Oct/2014
+
 \lx dá-kà-wúliteri
 \mm dá:v:poser
 \mm kà:pm:INF
@@ -19216,10 +19242,14 @@ rétribution mais à titre de réciprocité)
 
 \lx dàn
 \ps v
+\sn 1
 \vl vt
 \ge dépasser
 \ee (laisser derrière)
-\dt 16/Aug/2006
+\sn 2
+\vl vt
+\ge échapper
+\dt 28/Sep/2014
 
 \lx dàn
 \ps v
@@ -22234,11 +22264,14 @@ rétribution mais à titre de réciprocité)
 \ge laiton
 
 \lx dɛ̀rɛ
+\va dɛ̀rɛn
 \ps v
 \vl vt
 \ge serrer
 \gv coincer
-\dt 26/Sep/2006
+\gv attraper en coinçant
+\gv se jeter sur
+\dt 20/Oct/2014
 
 \lx dɛ́rɛ
 \ps prt
@@ -34268,6 +34301,13 @@ la virginité (pièce de monnaie sans trou)
 \ee (les voisins s'entendent pour effectuer un travail dans le champ d'un cultivateur cloué par la maladie, sans l'avertir lui-même)
 \dt 16/Aug/2006
 
+\lx fòsi
+\va fòosi
+\ps v
+\ge faire.complètement
+\gv
+\dt 28/Sep/2014
+
 \lx fósi
 \va fóyi
 \va fúsi
@@ -34422,6 +34462,13 @@ la virginité (pièce de monnaie sans trou)
 \gv joueur.d’un.tel.instrument
 \lt (dire/jouer.celui qui)
 \dt 16/Aug/2006
+
+\lx fɔ́gɔ
+\va fɔ́gɔn
+\ps n
+\ge troupeau
+\gv
+\dt 20/Oct/2014
 
 \lx fɔ̀gɔbɛ
 \ps v
@@ -35202,6 +35249,7 @@ la virginité (pièce de monnaie sans trou)
 \dt 26/Sep/2006
 
 \lx fúgula
+\va fúgulan
 \ps n
 \sn 1
 \ge chapeau
@@ -35210,7 +35258,7 @@ la virginité (pièce de monnaie sans trou)
 \sy bànfula
 \sn 2
 \gv condom
-\dt 26/Sep/2006
+\dt 19/Oct/2014
 
 \lx fúgulanafama
 \mm fugula:n:chapeau
@@ -41191,6 +41239,12 @@ doigts par des fileuses du coton)
 \ee (bonne santé, nourriture, habillement et descendance assurés)
 \dt 16/Aug/2006
 
+\lx hìdaya
+\ps n
+\ge mendicité
+\gv
+\dt 28/Sep/2014
+
 \lx híhan
 \ps v
 \vl vi
@@ -41785,12 +41839,12 @@ doigts par des fileuses du coton)
 
 \lx jàba
 \ps n
-\ge échalote
+\ge oignon
 \lat Allium.aescalonicum
 \sd lili
 \xv jàba bɛ́  kà kú tà
 \xe les oignons commencent à faire leur bulbe
-\dt 26/Sep/2006
+\dt 30/Oct/2014
 
 \lx jàba
 \ps v
@@ -42116,10 +42170,11 @@ doigts par des fileuses du coton)
 \dt 08/Apr/2014
 
 \lx jàhanama
+\va jàhanamɛ
 \bw ar: gahannam = id.
 \ps n
 \ge enfer
-\dt 12/Aug/2006
+\dt 28/Sep/2014
 
 \lx jàhanamaden
 \mm jàhanama:n:enfer
@@ -51208,6 +51263,14 @@ doigts par des fileuses du coton)
 \rem mol
 \dt 11/Nov/2007
 
+\lx kánna
+\mm kán:n:cou
+\mm ná:pp:dans
+\ps pp
+\ge sur
+\smf (un corps, pour un vêtement sur une personne)
+\dt 28/Sep/2014
+
 \lx kánnabàganín
 \mm kán:n:cou
 \mm ná:pp:dans
@@ -51628,7 +51691,11 @@ doigts par des fileuses du coton)
 \lt (cou.couper.bord)
 \xv à yé  dúmuni kɛ́  fɔ́ à kántigɛda
 \xe il s'est empiffré jusqu'au cou
-\dt 16/Aug/2006
+\sn 3
+\gv détermination
+\sn 4
+\gv argument ultime
+\dt 20/Oct/2014
 
 \lx kántigɛla
 \mm kán:n:cou
@@ -54944,6 +55011,7 @@ doigts par des fileuses du coton)
 
 \lx kíri
 \va kíiri
+\va kíti
 \ps n
 \ge jugement
 \gv procès
@@ -54953,7 +55021,7 @@ doigts par des fileuses du coton)
 \xe juger qn en justice
 \xv kíri bìn  màa kàn
 \xe juger coupable qn, le punir
-\dt 03/May/2013
+\dt 28/Sep/2014
 
 \lx kíri
 \ps v
@@ -57604,10 +57672,13 @@ doigts par des fileuses du coton)
 \lx kòronto
 \va kòrono
 \ve (f)
+\va kòronton
 \ps v
 \vl vt
 \ge rassembler
-\dt 16/Aug/2006
+\gv mettre ensemble
+\gv mettre en tas
+\dt 20/Oct/2014
 
 \lx kòroŋɛɲɛ
 \mm kòro:n:arbre.Vitex
@@ -57684,9 +57755,9 @@ doigts par des fileuses du coton)
 \gv pour
 \lt (affaire.endroit)
 \xv ò kósɔn...
-\xe à cause de cela ..., c'est pourquoi..., aussi ...
+\xe à cause de cela ..., c'est pourquoi...
 \sy ò dè y'á tó
-\dt 26/Sep/2006
+\dt 26/Oct/2014
 
 \lx kòta
 \ps v
@@ -65952,6 +66023,12 @@ avec ŋɔni = épine !)
 \gv résurrection
 \dt 15/Aug/2006
 
+\lx kúnunkò
+\ps adv
+\ge autrefois
+\gv hier
+\dt 28/Sep/2014
+
 \lx kúnuwò
 \ee *kunu ò = cet hier là
 \ps n
@@ -66468,6 +66545,18 @@ avec ŋɔni = épine !)
 \gv former.les.noeuds
 \sm (graminée : riz, mil ...)
 \dt 26/Sep/2006
+
+\lx kùrutìgɛ
+\mm kùru:n:boule
+\mm tìgɛ:v:couper
+\ps v
+\sn 1
+\ge aller.au.bout.de
+\gv venir à bout de qqch. de difficile
+\sn 2
+\gv endurer
+\gv supporter
+\dt 19/Oct/2014
 
 \lx kùrutɔ
 \mm kùru:n:boule
@@ -68151,6 +68240,12 @@ avec ŋɔni = épine !)
 \ge l'au-delà
 \xv kà láharaso súma à yé !
 \dt 11/Nov/2007
+
+\lx láhawuta
+\ps adv
+\ge beaucoup
+\gv
+\dt 27/Sep/2014
 
 \lx láhinɛ
 \mm lá:mrph:CAUS
@@ -70419,9 +70514,11 @@ avec ŋɔni = épine !)
 \xv à hákili látigɛlen dòn
 \xe il est rassuré
 \sn 6
+\gv arranger
+\sn 7
 \gv déflorer
 \sm (dans les insultes de femmes)
-\dt 26/Sep/2006
+\dt 19/Oct/2014
 
 \lx látiimɛ
 \mm lá:mrph:CAUS
@@ -75959,6 +76056,15 @@ nord-est
 \gv relation.sexuelle
 \dt 19/Feb/2014
 
+\lx mìnɛbolo
+\mm mìnɛ:v:attraper
+\mm bólo:n:bras
+\ps n
+\ge procédé
+\gv moyen
+\gv méthode
+\dt 19/Oct/2014
+
 \lx mìnɛn
 \va mìna
 \va mìnan
@@ -76042,6 +76148,12 @@ nord-est
 \ps n
 \ge ministère
 \dt 03/May/2013
+
+\lx míniti
+\ps n
+\ge minute
+\gv
+\dt 24/Oct/2014
 
 \lx mínkɛ
 \va mínkɛni
@@ -76675,7 +76787,7 @@ nord-est
 \sn 2
 \gv musulman
 \ee (en général)
-\dt 26/Sep/2006
+\dt 27/Sep/2014
 
 \lx mórikalan
 \mm móri:n:marabout
@@ -77370,15 +77482,21 @@ nord-est
 \dt 26/Sep/2006
 
 \lx mɔ́lɔti
+\va mɔ́lɔnti
+\va mɔ́lɔɔsi
+\va mɔ́lɔɔti
 \ps onomat
 \ge subrepticement
-\dt 12/Aug/2006
+\dt 20/Oct/2014
 
 \lx mɔ́lɔti
+\va mɔ́lɔnti
+\va mɔ́lɔɔsi
+\va mɔ́lɔɔti
 \ps v
 \vl vr
 \ge faire.furtivement
-\dt 16/Aug/2006
+\dt 20/Oct/2014
 
 \lx mɔ̀mɔ
 \ps v
@@ -78937,11 +79055,12 @@ nord-est
 \dt 26/Sep/2006
 
 \lx mùtukale
+\va mùtukali
 \bw ar: mitqal = poids
 \ps n
 \ge mesure.pour.l'or
 \ee (environ 4 gr)
-\dt 16/Aug/2006
+\dt 28/Sep/2014
 
 \lx múutu
 \ps v
@@ -79038,6 +79157,11 @@ nord-est
 \gv friand.de.poisson
 \rem l 89, du : personne en état de carence de viande (protéines animales)
 \dt 11/Nov/2007
+
+\lx ḿm
+\ps intj
+\ge hum
+\dt 01/Oct/2014
 
 \lx ń
 \ps pers
@@ -80353,6 +80477,7 @@ nord-est
 \dt 26/Sep/2006
 
 \lx nbá
+\va únba
 \bw ar: marhaban = bienvenue
 \ph [--> nba]
 \ps intj
@@ -80361,7 +80486,7 @@ nord-est
 \ee du type :
 \xv í ní...í ní  wúla ! -nbá ! í ní  wúla !
 \xe - Bonsoir ! - "nba'', Bonsoir !
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx nbáwudi
 \ve (bmk)
@@ -80634,6 +80759,12 @@ nord-est
 \xe "quel dommage !"
 \dt 16/Aug/2006
 
+\lx ncɛ́ncɛnin
+\ps adv
+\ge très.doucement
+\gv
+\dt 28/Sep/2014
+
 \lx ncìbilennin
 \mm bìlen:vq/adj:rouge
 \mm nin:mrph:DIM
@@ -80882,6 +81013,11 @@ nord-est
 \ge serrer.fortement
 \ee (une corde, un noeud ...)
 \dt 26/Sep/2006
+
+\lx ndánso
+\ps n
+\ge plante.aquatique
+\dt 28/Sep/2014
 
 \lx ndánwu
 \ps onomat
@@ -86549,10 +86685,12 @@ nord-est
 \sm prénom (souvent donné à la 8 ème fille d'une même mère)
 
 \lx nsé
+\va únse
+\va nsɛ́
 \ps intj
 \ge salut
 \sm réponse de femme à un salut du type i ni ...
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx nsèlu
 \ps n
@@ -89932,7 +90070,9 @@ nord-est
 \ge orgueil
 \gv insolence
 \gv jalousie
-\dt 11/Nov/2007
+\xv ń tɛ́ dòn í ká ɲɛ́baya lá
+\xe sauf votre respect
+\dt 21/Oct/2014
 
 \lx ɲɛ̀bɛrɛ
 \ps n
@@ -90340,6 +90480,17 @@ nord-est
 \xv é fàantan ɲɛ́farajɛ !
 \xe toi qui es pauvre comme Job !
 
+\lx ɲɛ́farajɛ
+\mm ɲɛ́fara:n:paupière
+\mm ɲɛ́:n:oeil
+\mm fàra:n:enveloppe
+\mm jɛ́:adj:blanc
+\ps adj
+\ge bon.à.rien
+\gv personne sans intérêt
+\ee (en parlant d'une personne)
+\dt 20/Oct/2014
+
 \lx ɲɛ́faralen
 \mm ɲɛ́:n:oeil
 \mm fára:v:diviser
@@ -90630,6 +90781,14 @@ nord-est
 \ge douleur.à.la.miction
 \lt (uriner.douleur)
 \dt 16/Aug/2006
+
+\lx ɲɛ̀gɛnjate
+\mm ɲɛ̀gɛn:n:dessin
+\mm jàte:n:compte
+\ps n
+\ge géometrie
+\ee (néologisme de Mamadu Dukure)
+\dt 20/Oct/2014
 
 \lx ɲɛ́go
 \mm ɲɛ́:n:oeil
@@ -92342,6 +92501,26 @@ nord-est
 \lt (devant.coller)
 \dt 16/Aug/2006
 
+\lx ɲɛ́ntannci
+\mm ɲɛ́:n:oeil
+\mm ntan:mrph:PRIV
+\mm nci:mrph:AG.EX
+\va ɲɛ́tanci
+\mm ɲɛ́:n:oeil
+\mm tà:v:prendre
+\mm nci:mrph:AG.EX
+\ps n/ɑdj
+\ms 1
+\ge dérisoire
+\gv sans importance
+\ms 2
+\gv fanfaron
+\gv prétentieux
+\gv qui fait l'important
+\lt (premier.à l'excès)
+\ee (joue les premiers rôles sans en être chargé)
+\dt 19/Oct/2014
+
 \lx ɲɛ̀ɲɛ
 \va ɲɛ̀ɲɛn
 \ps n
@@ -92615,17 +92794,6 @@ nord-est
 \xv à yé  ɲɛ́taa sɔ̀rɔ ɲìna
 \xe il a fait des progrès cette année
 \dt 15/Aug/2006
-
-\lx ɲɛ́tanci
-\mm ɲɛ́.ta:n:le.premier
-\mm ɲɛ́:n:oeil
-\mm tà:v:prendre
-\mm nci:mrph:AG.EX
-\ps n
-\ge qui.fait.l'important
-\lt (premier.à l'excès)
-\ee joue les premiers rôles sans en être chargé)
-\dt 16/Aug/2006
 
 \lx ɲɛ́tɛgɛ
 \ps n
@@ -93371,11 +93539,16 @@ nord-est
 \lx ɲɔ́gɔlɔn
 \va ɲɔ́gɔlan
 \ps n
+\sn 1
 \ge ornement
 \gv parure
+\sn 2
 \gv accessoire
+\sn 3
 \gv théâtre
-\dt 01/May/2014
+\gv scène
+\ee (théâtral; néol. de Mamadu Dukure)
+\dt 20/Oct/2014
 
 \lx ɲɔ́gɔlɔn
 \ps onomat
@@ -99354,6 +99527,11 @@ nord-est
 \lt (rônier.mâle.verge)
 \dt 19/Aug/2006
 
+\lx sèele
+\ps n
+\ge petit.tambour
+\dt 28/Sep/2014
+
 \lx séere
 \va syére
 \va shyéere
@@ -100596,6 +100774,7 @@ nord-est
 \va sìyɛn
 \ve (f)
 \va sìɲɛ
+\va shyɛ̀n
 \lt (pas.fois)
 \ps n
 \sn 1
@@ -100606,7 +100785,7 @@ nord-est
 \gv fois
 \xv sènɲa jòli
 \xe combien de fois
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx sènɲàran
 \mm sèn:n:jambe
@@ -101333,6 +101512,15 @@ nord-est
 \ge étendre
 \dt 24/Jun/2013
 
+\lx sɛ́ɛnɛ
+\ps v
+\sn 1
+\ge couler
+\gv verser
+\sn 2
+\gv filtrer
+\dt 30/Oct/2014
+
 \lx sɛ́gɛ
 \ps n
 \ge épervier
@@ -101682,6 +101870,13 @@ nord-est
 \lt (appuyer.arbre)
 \dt 26/Sep/2006
 
+\lx sɛ̀mɛkuru
+\mm sɛ̀mɛ:n:hache-houe
+\mm kùru:n:boule
+\ps n
+\ge hache-houe
+\dt 28/Sep/2014
+
 \lx sɛ́mɛntiya
 \va sɛ́mɛnciya
 \lt (force.excès.suf)
@@ -101970,7 +102165,7 @@ nord-est
 \ee *mal : sisɛ = id.
 \ps n
 \ge poule
-\dt 03/Jul/2014
+\dt 19/Oct/2014
 
 \lx shɔ̀
 \va syɔ̀
@@ -102032,7 +102227,7 @@ nord-est
 \dt 26/Sep/2006
 
 \lx sí
-\vc síi
+\va síi
 \ps n
 \sn 1
 \ge poil
@@ -102040,7 +102235,7 @@ nord-est
 \gv cheveu
 \sn 3
 \gv plume
-\dt 16/Aug/2006
+\dt 28/Sep/2014
 
 \lx sí
 \ps n
@@ -102083,11 +102278,15 @@ nord-est
 
 \lx sí
 \ps v
+\sn 1
 \vl vt
 \ge moudre
 \gv écraser
 \ee (mil, arachide, riz, sel, piment ...)
-\dt 26/Sep/2006
+\sn 2
+\vl vr
+\ge glisser
+\dt 28/Sep/2014
 
 \lx sìbantɔ
 \mm sì:n:vie
@@ -102361,6 +102560,14 @@ nord-est
 \xv à bɛ́ sígi-sígi  síra lá
 \xe il hésite sur la route à prendre
 \dt 08/Nov/2012
+
+\lx sígeyi
+\va síkeyi
+\va síke
+\ps intj
+\ge magnifique
+\ee (exclamation de l'étonnement, l'admiration, l'enthousiasme)
+\dt 20/Oct/2014
 
 \lx sìgi
 \ps n
@@ -102874,6 +103081,12 @@ nord-est
 \gv talisman
 \dt 12/Aug/2006
 
+\lx síkara
+\ps n
+\ge agonie
+\gv ; coma
+\dt 28/Sep/2014
+
 \lx síkisɛ
 \mm sí:n:semence
 \mm kìsɛ:n:grain
@@ -102921,10 +103134,12 @@ nord-est
 \dt 16/Aug/2006
 
 \lx sìlamɛ
+\va àlisilamɛ
+\va sìlama
 \bw ar: aslama = devenir musulman
 \ps n
 \ge musulman
-\dt 12/Aug/2006
+\dt 28/Sep/2014
 
 \lx sìlamɛden
 \mm sìlamɛ:n:musulman
@@ -102966,6 +103181,15 @@ nord-est
 \sn 2
 \gv pratiquer l'islam
 \dt 26/Sep/2006
+
+\lx sìlamɛyakɛmɛ
+\mm sìlamɛ:n:musulman
+\mm ya:mrph:ABSTR
+\mm kɛ̀mɛ:num:cent
+\ps num
+\ge cent
+\gv
+\dt 28/Sep/2014
 
 \lx sílasa
 \mm sí:n:semence
@@ -105425,6 +105649,12 @@ trompe)
 \ge souris
 \dt 11/Nov/2007
 
+\lx sóo
+\ps adv
+\ge précipitemment
+\gv en pleine vitesse
+\dt 28/Sep/2014
+
 \lx sòolosaala
 \va syòlosyala
 \ve (bk)
@@ -105557,6 +105787,14 @@ trompe)
 \ge très.grand
 \dt 16/Aug/2006
 
+\lx sósara
+\mm só:n:maison
+\mm sàra:n:paye
+\ps n
+\ge loyer
+\gv
+\dt 20/Oct/2014
+
 \lx sósègin
 \mm só:n:maison
 \mm sègin:v:revenir
@@ -105678,6 +105916,7 @@ trompe)
 \lx sɔ̀gɔ
 \ps v
 \va swà
+\va shwà
 \vl vt
 \sn 1
 \ge percer
@@ -105707,7 +105946,7 @@ trompe)
 \sn 7
 \vl vr
 \ge s'agripper
-\dt 21/Feb/2014
+\dt 19/Oct/2014
 
 \lx sɔ́gɔbɛ
 \va sɔ́gɔmɛ
@@ -107815,9 +108054,18 @@ trompe)
 \mm sú:n:nuit
 \mm rɔ́:pp:IN
 \mm fɛ́n:n:chose
+\va súrafɛn
+\mm sú:n:nuit
+\mm rá:pp:IN
+\mm fɛ́n:n:chose
 \ps n
+\sn 1
 \ge pot-de-vin
 \lt (nuit.dans.objet)
+\sn 2
+\gv cadeau donné aux pères de la future épouse au moment des
+fiançailles
+\dt 19/Oct/2014
 
 \lx súrɔfiyen
 \mm sú:n:nuit
@@ -108356,6 +108604,7 @@ trompe)
 
 \lx syéne
 \va shyéne
+\va shéne
 \ve (f)
 \ph [shyene]
 \ee *seene
@@ -108375,7 +108624,7 @@ trompe)
 \sn 3
 \vl vr
 \gv s'étendre
-\dt 26/Sep/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀ba
 \mm syɛ̀:n:poule
@@ -108384,20 +108633,30 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm bá:n:mère
 \ph [shyɛba]
+\va shɛ̀.ba
+\mm shɛ̀:n:poule
+\mm bá:n:mère
+\va sɛ̀.ba
+\mm sɛ̀:n:poule
+\mm bá:n:mère
 \ps n
 \ge poule.pondeuse
 \lt (poule.mère)
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀bunturun
 \mm syɛ̀:n:poule
 \va shyɛ̀bunturun
 \mm shyɛ̀:n:poule
 \ph [shyɛ..]
+\va shɛ̀bunturun
+\mm shɛ̀:n:poule
+\va sɛ̀bunturun
+\mm sɛ̀:n:poule
 \ps n
 \ge poussin.1-15.jours
 \lt (poule.poussin)
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀danga
 \mm syɛ̀:n:poule
@@ -108406,10 +108665,16 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm dánga:n:poulette-pondeuse
 \ph [shyɛ...]
+\va shɛ̀.danga
+\mm shɛ̀:n:poule
+\mm dánga:n:poulette-pondeuse
+\va sɛ̀.danga
+\mm sɛ̀:n:poule
+\mm dánga:n:poulette-pondeuse
 \ps n
 \ge poule.d'âge.à.pondre
 \lt (poule. ?)
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀den
 \mm syɛ̀:n:poule
@@ -108418,10 +108683,16 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm dén:n:enfant
 \ph [shyɛden]
+\va shɛ̀.den
+\mm shɛ̀:n:poule
+\mm dén:n:enfant
+\va sɛ̀.den
+\mm sɛ̀:n:poule
+\mm dén:n:enfant
 \ps n
 \ge poussin
 \lt (poule.petit)
-\dt 12/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀denba
 \mm syɛ̀:n:poule
@@ -108432,6 +108703,14 @@ trompe)
 \mm dén:n:enfant
 \mm bá:n:mère
 \ph [shyɛ...]
+\va shɛ̀.den.ba
+\mm shɛ̀:n:poule
+\mm dén:n:enfant
+\mm bá:n:mère
+\va sɛ̀.den.ba
+\mm sɛ̀:n:poule
+\mm dén:n:enfant
+\mm bá:n:mère
 \ps n
 \sn 1
 \ge poule.avec.ses.petits
@@ -108439,7 +108718,7 @@ trompe)
 \sn 2
 \gv Les Pléiades
 \ee (constellation)
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀denninntuguntugun
 \mm syɛ̀.den:n:poussin
@@ -108452,10 +108731,20 @@ trompe)
 \mm dén:n:enfant
 \mm nin:mrph:DIM
 \ph [shy ...]
+\va shɛ̀denninntuguntugun
+\mm shɛ̀.den:n:poussin
+\mm shɛ̀:n:poule
+\mm dén:n:enfant
+\mm nin:mrph:DIM
+\va sɛ̀denninntuguntugun
+\mm sɛ̀.den:n:poussin
+\mm sɛ̀:n:poule
+\mm dén:n:enfant
+\mm nin:mrph:DIM
 \ps n
 \ge petite.poulette
 \lt (poulette.petite ?)
-\dt 19/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀fan
 \mm syɛ̀:n:poule
@@ -108464,20 +108753,37 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm fán:n:oeuf
 \ph [shyɛfan]
+\va shɛ̀.fan
+\mm shɛ̀:n:poule
+\mm fán:n:oeuf
+\va sɛ̀.fan
+\mm sɛ̀:n:poule
+\mm fán:n:oeuf
 \ps n
 \ge oeuf.de.poule
 \sy syɛ̀kili
 \lt (poule.oeuf)
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀fanfara
 \mm syɛ̀.fan:n:oeuf.de.poule
 \mm syɛ̀:n:poule
 \mm fán:n:oeuf
 \mm fàra:n:enveloppe
+\va shɛ̀fanfara
+\mm shɛ̀.fan:n:oeuf.de.poule
+\mm shɛ̀:n:poule
+\mm fán:n:oeuf
+\mm fàra:n:enveloppe
+\va sɛ̀fanfara
+\mm sɛ̀.fan:n:oeuf.de.poule
+\mm sɛ̀:n:poule
+\mm fán:n:oeuf
+\mm fàra:n:enveloppe
 \ph [shy ...]
 \ps n
 \ge coquille.d'oeuf.de.poule
+\dt 19/Oct/2014
 
 \lx syɛ̀kama
 \mm syɛ̀:n:poule
@@ -108486,15 +108792,29 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm káma:n:neuf
 \ve (f)
+\va shɛ̀.kama
+\mm shɛ̀:n:poule
+\mm káma:n:neuf
+\va sɛ̀.kama
+\mm sɛ̀:n:poule
+\mm káma:n:neuf
 \ph [shyɛkama]
 \ps n
 \ge poulette.non.fécondée
 \lt (poule.intacte)
 \sy syɛ̀misɛn
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀kasidono
 \mm syɛ̀:n:poule
+\mm kàsi:v:pleurer
+\mm dòno:n:coq
+\va shɛ̀kasidono
+\mm shɛ̀:n:poule
+\mm kàsi:v:pleurer
+\mm dòno:n:coq
+\va sɛ̀kasidono
+\mm sɛ̀:n:poule
 \mm kàsi:v:pleurer
 \mm dòno:n:coq
 \ps n
@@ -108506,7 +108826,7 @@ trompe)
 \sm (dans son métier..)
 \xv ù bɛ́ɛ lájɛlen yé syɛ̀kasidono yé ù ká tɔ́n ná fàrajɛjamana ná
 \xe ce sont tous des as dans leurs clubs en Europe (kb 1/06 p.12)
-\dt 11/Nov/2007
+\dt 19/Oct/2014
 
 \lx syɛ̀kili
 \mm syɛ̀:n:poule
@@ -108534,13 +108854,23 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm kíli:n:oeuf
 \mm fàra:n:enveloppe
+\va shɛ̀.kili.fara
+\mm shɛ̀.kili:n:oeuf.de.poule
+\mm shɛ̀:n:poule
+\mm kíli:n:oeuf
+\mm fàra:n:enveloppe
+\va sɛ̀.kili.fara
+\mm sɛ̀.kili:n:oeuf.de.poule
+\mm sɛ̀:n:poule
+\mm kíli:n:oeuf
+\mm fàra:n:enveloppe
 \ph [shy ...]
 \ps n
 \ge coquille.d'oeuf.de.poule
 \lt (oeuf de poule.coquille)
 \xv í sèn tɛ́  syɛ̀kilifara cì
 \xe tu n'es bon à rien (tu n'es même pas capable de briser une coquille d'oeuf avec ton pied)
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀kɔ̀gɔ
 \mm syɛ́:n:poule
@@ -108549,12 +108879,18 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm kɔ̀gɔ:n:sel
 \ve (f)
+\va shɛ̀.kɔ̀gɔ
+\mm shɛ̀:n:poule
+\mm kɔ̀gɔ:n:sel
+\va sɛ̀.kɔ̀gɔ
+\mm sɛ̀:n:poule
+\mm kɔ̀gɔ:n:sel
 \ph [shy ...]
 \ps n
 \ge gros.ver.blanc
 \sm (larve de bousier ?)
 \lt (poule.sel ?)
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀kɔrɔ
 \mm syɛ̀:n:poule
@@ -108563,10 +108899,16 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm kɔ̀rɔ:vq/adj:vieux
 \ph [shy ...]
+\va shɛ̀.kɔrɔ
+\mm shɛ̀:n:poule
+\mm kɔ̀rɔ:vq/adj:vieux
+\va sɛ̀.kɔrɔ
+\mm sɛ̀:n:poule
+\mm kɔ̀rɔ:vq/adj:vieux
 \ps n
 \ge grosse.poule.adulte
 \lt (poule.adulte)
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀kulukulu
 \mm syɛ̀:n:poule
@@ -108575,11 +108917,17 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm kúlukulu:n:poulailler
 \ph [shy ...]
+\va shɛ̀.kulukulu
+\mm shɛ̀:n:poule
+\mm kúlukulu:n:poulailler
+\va sɛ̀.kulukulu
+\mm sɛ̀:n:poule
+\mm kúlukulu:n:poulailler
 \ps n
 \ge poulailler
 \lt (poule.case)
 \sy syɛ̀sulu
-\dt 12/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀kwànin
 \mm syɛ̀:n:poule
@@ -108589,32 +108937,64 @@ trompe)
 \mm shyɛ̀:n:poule
 \mm kwà:n:sel
 \mm nin:mrph:DIM
+\va shɛ̀.kwà.nin
+\mm shɛ̀:n:poule
+\mm kwà:n:sel
+\mm nin:mrph:DIM
+\va sɛ̀.kwà.nin
+\mm sɛ̀:n:poule
+\mm kwà:n:sel
+\mm nin:mrph:DIM
 \ph [shy ...]
 \ps n
 \ge gros.ver.blanc
 \sm (larve de bousier ?)
+\dt 19/Oct/2014
 
 \lx syɛ̀mara
 \mm syɛ̀:n:poule
 \mm màra:n:garde
+\va shɛ̀mara
+\mm shɛ̀:n:poule
+\mm màra:n:garde
+\va sɛ̀mara
+\mm sɛ̀:n:poule
+\mm màra:n:garde
 \ps n
 \lt poule-garder
 \ge aviculture
+\gv élevage de poules
 \nt donniya 5/6 p.63
-\dt 11/Nov/2007
+\dt 19/Oct/2014
 
 \lx syɛ̀marala
 \mm syɛ̀:n:poule
+\mm màra:v:garder
+\mm la:mrph:AG.PRM
+\va shɛ̀marala
+\mm shɛ̀:n:poule
+\mm màra:v:garder
+\mm la:mrph:AG.PRM
+\va sɛ̀marala
+\mm sɛ̀:n:poule
 \mm màra:v:garder
 \mm la:mrph:AG.PRM
 \ps n
 \lt poule-élever-celui qui
 \ge aviculteur
 \nt (kb 12/05 p.9)
-\dt 11/Nov/2007
+\dt 19/Oct/2014
 
 \lx syɛ̀minawara
 \mm syɛ̀:n:poule
+\mm mìna:v:attraper
+\mm wára:n:fauve
+\va shɛ̀minawara
+\mm shɛ̀:n:poule
+\mm mìna:v:attraper
+\mm wára:n:fauve
+\va sɛ̀minawara
+\mm sɛ̀:n:poule
 \mm mìna:v:attraper
 \mm wára:n:fauve
 \ps n
@@ -108625,7 +109005,7 @@ trompe)
 \sy jàkumawara
 \sy kólonkari
 \sy ɲàriwara
-\dt 26/Sep/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀misɛn
 \mm syɛ̀:n:poule
@@ -108633,12 +109013,18 @@ trompe)
 \va shyɛ̀.misɛn
 \mm shyɛ̀:n:poule
 \mm mìsɛn:vq:petit
+\va shɛ̀.misɛn
+\mm shɛ̀:n:poule
+\mm mìsɛn:vq:petit
+\va sɛ̀.misɛn
+\mm sɛ̀:n:poule
+\mm mìsɛn:vq:petit
 \ph [shyɛ̀ ...]
 \ps n
 \ge poulette
 \lt (poule.petite)
 \sy syɛ̀kama
-\dt 12/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀muso
 \mm syɛ̀:n:poule
@@ -108646,11 +109032,17 @@ trompe)
 \va shyɛ̀.muso
 \mm shyɛ̀:n:poule
 \mm mùso:adj:femme
+\va shɛ̀.muso
+\mm shɛ̀:n:poule
+\mm mùso:adj:femme
+\va sɛ̀.muso
+\mm sɛ̀:n:poule
+\mm mùso:adj:femme
 \ph [shy ...]
 \ps n
 \ge poule
 \lt (gallinacés.femelle)
-\dt 12/Aug/2006
+\dt 19/Oct/2014
 
 \lx syɛ̀n
 \va shyɛ̀n
@@ -108946,6 +109338,8 @@ trompe)
 \va shyɔ́ri
 \ph [shyɔri]
 \va sɔ́ɔri
+\va shɔ́ri
+\va shɔ́ɔri
 \ps v
 \vl vt
 \sn 1
@@ -108955,7 +109349,7 @@ trompe)
 \gv emmancher
 \xv nùmukɛ yé  jélekisɛ syɔ́ri  à kàla lá
 \xe le forgeron a emmanché le fer de la hache
-\dt 16/Aug/2006
+\dt 19/Oct/2014
 
 \lx tà
 \ps v
@@ -111200,6 +111594,12 @@ trompe)
 \gv guider
 \dt 10/Apr/2014
 
+\lx tɛ̀mɛ
+\ps n
+\ge tamis
+\gv
+\dt 30/Oct/2014
+
 \lx tɛ̀mɛbaa
 \mm tɛ̀mɛ:v:passer
 \mm baa:mrph:AG.OCC
@@ -111212,6 +111612,14 @@ trompe)
 \xv dùgu ká dí, súkelentɛmɛbaa tɛ́  ò ɲɛ́dɔn
 \xe "la vie dans ce village est agréable", l'étranger qui n'y passe qu'un soir n'a pas le temps de s'en rendre compte (chant)
 \dt 16/Aug/2006
+
+\lx tɛ̀mɛkan
+\mm tɛ̀mɛ:v:passer
+\mm kán:n:cou
+\ps n
+\ge mot.de.passe
+\gv
+\dt 19/Oct/2014
 
 \lx tɛ̀mɛsenna
 \mm tɛ̀mɛ:v:passer
@@ -111712,7 +112120,10 @@ trompe)
 \xe je n'ai plus confiance en lui
 \xv í kà tìgɛ ń ná !
 \xe crois-moi ! (sépare-toi de moi si ce n'est pas vrai !)
-\dt 26/Sep/2006
+\sn 9
+\vl vr
+\gv éclater de rire
+\dt 19/Oct/2014
 
 \lx tìgɛda
 \mm tìgɛ:v:couper
@@ -114615,7 +115026,18 @@ trompe)
 \gv éclore
 \xv kàmiden tɔ́rɔla bì
 \xe les pintadeaux ont éclos aujourd'hui
-\dt 26/Sep/2006
+\sn 3
+\vl vt
+\gv couver
+\dt 20/Oct/2014
+
+\lx tɔ́rɔlan
+\mm tɔ́rɔ:v:cogner 
+\mm lan:mrph:INSTR
+\ps v
+\ge couveuse
+\ee (un néologisme de Mamadu Dukure)
+\dt 20/Oct/2014
 
 \lx tɔ̀rɔmɔjɔn
 \va tɔ̀rɔmajɔn
@@ -115850,15 +116272,25 @@ trompe)
 
 \lx tùngurun
 \va tùuru
+\va tùnkurun
+\va tùnkurunma
 \ps v
 \vl vt
 \sn 1
-\ge arrêter
+\ge arrêter.brusquement
 \gv bloquer net
 \sn 2
+\vl vi
+\gv buter contre
+\gv s'arrêter brusquement
+\sn 3
+\gv douter
+\gv hésiter
+\sn 4
+\gv se prosterner
 \gv manifester du respect
 \sm (pour...ma, rare)
-\dt 26/Sep/2006
+\dt 19/Oct/2014
 
 \lx túnu
 \va túnun
@@ -116794,8 +117226,12 @@ trompe)
 \sn 2
 \gv respect des accords
 \xv Bá Bɛ́nba tùn tɛ́ sé wáleya lá, í ń'á fɔ́ à kɔ̀rɔkɛ
-\xe Ba Bènba ... ne respectait pas les accords comme son frère aîné ... (Kb 11/06 p.4)
-\dt 11/Nov/2007
+\xe Ba Bènba ... ne respectait pas les accords comme son frère
+aîné ... (Kb 11/06 p.4)
+\sn 3
+\gv acte 
+\ee (théâtral; néol. de Mamadu Dukure0
+\dt 20/Oct/2014
 
 \lx wáleya
 \mm wále:n:acte
@@ -117398,6 +117834,13 @@ trompe)
 \gv prétention
 \dt 11/Nov/2007
 
+\lx wàtità
+\ps adj
+\ge acharné
+\smf (lutte)
+\gv
+\dt 28/Sep/2014
+
 \lx wáwa
 \ps v
 \vl vi
@@ -117761,6 +118204,12 @@ trompe)
 \xv kálo wɛ́rɛ
 \xe le mois prochain, à la prochaine lune
 \dt 26/Sep/2006
+
+\lx wɛ́rɛ
+\ps n
+\ge verre
+\gv
+\dt 30/Oct/2014
 
 \lx wɛ̀rɛbɛwɛrɛbɛ
 \ps n
@@ -118565,12 +119014,13 @@ trompe)
 \lx wɔ̀kulɔ
 \va wɔ̀fulɔ
 \va wɔ̀klɔ
+\va wɔ̀kɔlɔ
 \ph [wɔklɔwɔ̀fulɔ]
 \ve (f)
 \ps n
 \ge lutin
 \sm (petit génie de la brousse)
-\dt 16/Aug/2006
+\dt 28/Sep/2014
 
 \lx wɔ̀likɔ
 \ve (f)
@@ -119102,11 +119552,6 @@ trompe)
 \xe le vent a soulevé la poussière
 \sn 2
 \vl vi
-\gv bouillir
-\xv jí wúlila  fɔ́ kà kànga
-\xe l'eau a bouilli et donné de l'écume
-\sn 3
-\vl vi
 \gv s'en aller
 \gv s'envoler
 \gv décamper
@@ -119115,31 +119560,39 @@ trompe)
 \xe quand les pêcheurs seront partis ...
 \xv à hákili wúlila
 \xe il a perdu la tête, il est devenu fou
-\sn 4
+\sn 3
 \vl vi
 \gv monter
 \sm (prix)
 \xv à sɔ̀ngɔ wúlila
 \xe son prix a monté
-\sn 5
+\sn 4
 \vl vi
 \gv commencer
 \gv démarrer
 \xv báara wúlila
 \xe le travail a commencé, c'est l'heure
-\sn 6
+\sn 5
 \vl vt
 \gv déterrer
 \xv ù yé  tìgɛ wúli
 \xe ils ont déterré les arachides
-\sn 7
+\sn 6
 \vl vt
 \gv faire partir
 \gv enlever
 \gv annuler
 \xv ù yé  dùgutigi wúli
 \xe ils ont destitué le chef de village
-\dt 26/Sep/2006
+\dt 30/Oct/2014
+
+\lx wúli
+\ps v
+\vl vi
+\ge bouillir
+\xv jí wúlila  fɔ́ kà kànga
+\xe l'eau a bouilli et donné de l'écume
+\dt 30/Oct/2014
 
 \lx wúlibali
 \mm wúli:v:se.lever
@@ -119481,9 +119934,10 @@ trompe)
 \lx wúsu
 \ps v
 \vl vt
-\ge dévisager
+\ge écarquiller
+\gv dévisager
 \ee ouvrir grand les yeux, ne pas sourciller
-\dt 26/Sep/2006
+\dt 28/Sep/2014
 
 \lx wúsulan
 \mm wúsu:v:fumer
@@ -120295,6 +120749,17 @@ trompe)
 \sm (dent, clou, arbre)
 \dt 26/Sep/2006
 
+\lx yéko
+\mm yé:v:voir
+\mm kó:n:affaire
+\ps n
+\sn 1
+\ge apparence
+\gv aspect
+\sn 2
+\gv fait de voir 
+\dt 20/Oct/2014
+
 \lx yékofila
 \mm yé:v:voir
 \mm kó:n:affaire
@@ -120668,6 +121133,13 @@ trompe)
 \xv dén mín tùn tɛ́ yɛ̀rɛ yé
 \xe l'enfant qui n'était pas légitime
 \dt 26/Sep/2006
+
+\lx yɛ̀rɛ
+\ps part
+\ge d'ailleurs
+\gv en fait
+\gv par contre
+\dt 28/Sep/2014
 
 \lx yɛ̀rɛ̂
 \ps dtm
@@ -121642,7 +122114,9 @@ trompe)
 \sn 2
 \gv commerçant malhonnête
 \ee (vole sur le poids, le prix)
-\dt 26/Sep/2006
+\sn 3
+\gv escroc
+\dt 20/Oct/2014
 
 \lx yùruguyurugu
 \va yùrukuyuruku
