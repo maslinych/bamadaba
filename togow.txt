@@ -546,6 +546,11 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Boliko
+\ps n.prop
+\ge NOM.M
+\dt 06/Nov/2014
+
 \lx Bolodanɛ
 \di son
 \ge NOM.M
@@ -859,6 +864,16 @@
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
+
+\lx Fàamanjɛ
+\ps n.prop
+\ge NOM.M
+\dt 06/Nov/2014
+
+\lx Fàantannjɛ
+\ps n.prop
+\ge NOM.M
+\dt 06/Nov/2014
 
 \lx Fáatumata
 \va Fatumata
@@ -1529,10 +1544,10 @@
 \ps n.prop
 
 \lx Kóninbà
-\va Kòninbá
+\va Kòninba
 \di b
 \ge NOM.MF
-\dt 03/May/2010
+\dt 06/Nov/2014
 \ps n.prop
 
 \lx Korɛjo
@@ -2163,6 +2178,11 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Njɛ́
+\ps n.prop
+\ge NOM.M
+\dt 06/Nov/2014
+
 \lx Ńnàgbɛ
 \di m
 \ge NOM.F
@@ -2371,6 +2391,11 @@
 \ge NOM.F
 \dt 03/May/2010
 \ps n.prop
+
+\lx Ɲɛkɔrɔ
+\ps n.prop
+\ge NOM.F
+\dt 06/Nov/2014
 
 \lx Ɲinɛ
 \di b
@@ -2675,6 +2700,11 @@
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
+
+\lx Sijama
+\ps n.prop
+\ge NOM.F
+\dt 06/Nov/2014
 
 \lx Siliman
 \va Slimana

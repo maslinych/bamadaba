@@ -1642,19 +1642,6 @@
 \xe elle a teint son pagne en bleu
 \dt 26/Sep/2006
 
-\lx bága
-\va bɛ́ka
-\va bɛ́k'
-\va bɛ́ga
-\va béga
-\va búga
-\ve (f)
-\ps pm
-\ge INFR
-\xv à bága  à dún =  à y'á dún
-\xe il l'a mangé
-\dt 27/Mar/2013
-
 \lx bàgabaga
 \ps n
 \ge intimidation
@@ -6102,6 +6089,19 @@ bâton de berger
 \ge complètement
 \ee (éteindre le feu, fermer ...)
 \dt 26/Sep/2006
+
+\lx bɛ́ka
+\va bɛ́k'
+\va bága
+\va bɛ́ga
+\va béga
+\va búga
+\ve (f)
+\ps pm
+\ge INFR
+\xv à bága  à dún =  à y'á dún
+\xe il l'a mangé
+\dt 05/Nov/2014
 
 \lx bɛ̀la
 \ps n
@@ -13086,11 +13086,13 @@ mort)
 \dt 16/Aug/2006
 
 \lx càngɛrɛ
-\va càngara
+\va càngàra
+\va cànkara
+\va ncàngàra
 \ps n
-\ge arbustes
+\ge arbuste.chigomier
 \sy càngɛrɛ.bilen
-\dt 16/Aug/2006
+\dt 05/Nov/2014
 
 \lx càngɛrɛbilen
 \mm càngɛrɛ:n:arbustes
@@ -36304,34 +36306,45 @@ la virginité (pièce de monnaie sans trou)
 \lx fúruɲɔgɔn
 \mm fúru:n:mariage
 \mm ɲɔ́gɔn:prn:RECP
+\va fúruɲwan
+\mm fúru:n:mariage
+\mm ɲwán:prn:RECP
 \ps n
 \sn 1
 \ge conjoint
 \sn 2
 \gv allié
 \lt (mariage.associé)
-\dt 12/Aug/2006
+\dt 06/Nov/2014
 
 \lx fúruɲɔgɔnma
 \mm fúru:n:mariage
 \mm ɲɔ́gɔn:prn:RECP
 \mm ma:mrph:COM
+\va fúruɲwanma
+\mm fúru:n:mariage
+\mm ɲwán:prn:RECP
+\mm ma:mrph:COM
 \lt (mariage.associé.suf)
 \ps n
 \ge personne.d'une.famille.alliée
 \ee (d'un village où l'on a coutume de chercher une épouse)
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx fúruɲɔgɔnya
 \mm fúru:n:mariage
 \mm ɲɔ́gɔn:prn:RECP
+\mm ya:mrph:ABSTR
+\va fúruɲwanya
+\mm fúru:n:mariage
+\mm ɲwán:prn:RECP
 \mm ya:mrph:ABSTR
 \ps n
 \lt mariage-voisin-suf abs
 \ge alliance.matrimoniale.traditionnelle
 \xv fúruɲɔgɔnya tɛ́ lájɛ túgunni
 \xe on ne tient plus compte des alliances matrimoniales traditionnelles (kb 6/06 p.6)
-\dt 11/Nov/2007
+\dt 06/Nov/2014
 
 \lx fúrusa
 \mm fúru:n:mariage
@@ -44276,6 +44289,9 @@ doigts par des fileuses du coton)
 \lx jɛ̀ɲɔgɔn
 \mm jɛ̀:v:assembler
 \mm ɲɔ́gɔn:prn:RECP
+\va jɛ̀ɲwan
+\mm jɛ̀:v:assembler
+\mm ɲwán:prn:RECP
 \ps n
 \sn 1
 \ge associé
@@ -44286,21 +44302,29 @@ doigts par des fileuses du coton)
 \sn 2
 \gv conseiller
 \sm (d'un chef de village ...)
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx jɛ̀ɲɔgɔnteri
 \mm jɛ̀:v:assembler
 \mm ɲɔ́gɔn:prn:RECP
 \mm téri:n:ami
+\va jɛ̀ɲwanteri
+\mm jɛ̀:v:assembler
+\mm ɲwán:prn:RECP
+\mm téri:n:ami
 \ps n
 \lt compagnon-ami
 \ge camarade
 \gv partenaire
-\dt 06/Dec/2012
+\dt 06/Nov/2014
 
 \lx jɛ̀ɲɔgɔnya
 \mm jɛ̀:v:assembler
 \mm ɲɔ́gɔn:prn:RECP
+\mm ya:mrph:ABSTR
+\va jɛ̀ɲwanya
+\mm jɛ̀:v:assembler
+\mm ɲwán:prn:RECP
 \mm ya:mrph:ABSTR
 \ps n
 \sn 1
@@ -44309,7 +44333,7 @@ doigts par des fileuses du coton)
 \lt (associé.suf abs)
 \sn 2
 \gv rapports.sexuels
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx jɛ̀rɛ
 \ve (bmk)
@@ -46750,7 +46774,7 @@ doigts par des fileuses du coton)
 \xv jɔ̂n ní  jɔ̂n ?
 \xe qui et qui ? (dans le détail)
 \pl jɔnw
-\dt 23/Sep/2014
+\dt 06/Nov/2014
 
 \lx jɔ̀nfeere
 \mm jɔ̀n:n:esclave
@@ -48668,6 +48692,7 @@ doigts par des fileuses du coton)
 
 \lx kàbi
 \va kàbii
+\va kàb'
 \ee (expressif)
 \ps prep/conj
 \ge depuis
@@ -48679,7 +48704,7 @@ doigts par des fileuses du coton)
 \xe depuis longtemps
 \xv kàbi à y'á yé...
 \xe dès qu'il l'eût vu ...
-\dt 26/Sep/2006
+\dt 05/Nov/2014
 
 \lx kábi
 \ve (-f)
@@ -51830,13 +51855,16 @@ doigts par des fileuses du coton)
 \lx kànuɲɔgɔn
 \mm kànu:v:aimer
 \mm ɲɔ́gɔn:prn:RECP
+\va kànuɲwan
+\mm kànu:v:aimer
+\mm ɲwán:prn:RECP
 \ps n
 \lt aimer-partenaire
 \ge amant(e)
 \sy kànuɲɔgɔnman
 \xv kànuɲɔgɔnman cɛ́kɛlɛ
 \xe dispute entre des amants (LD p.28)
-\dt 11/Nov/2007
+\dt 06/Nov/2014
 
 \lx kànuya
 \mm kànu:n:amour
@@ -51976,6 +52004,8 @@ doigts par des fileuses du coton)
 
 \lx kàramɔgɔ
 \mm mɔ̀gɔ:n:homme
+\va kàramaa
+\mm màa:n:homme
 \bw ar: qara'a = lire
 \ps n
 \sn 1
@@ -51984,7 +52014,7 @@ doigts par des fileuses du coton)
 \sn 2
 \gv maître-chasseur
 \lt (enseigner.personne)
-\dt 09/May/2013
+\dt 06/Nov/2014
 
 \lx kàramɔgɔdegesɛbɛn
 \mm kàra.mɔgɔ:n:maître
@@ -52222,6 +52252,12 @@ doigts par des fileuses du coton)
 \gv cueillette
 \rem mol
 \dt 11/Nov/2007
+
+\lx kàrimaasinɛ
+\ps n
+\ge untel
+\gv
+\dt 06/Nov/2014
 
 \lx kárimuru
 \mm kári:v:casser
@@ -60053,6 +60089,21 @@ avec ŋɔni = épine !)
 \sy kɔ́nɔnako
 \dt 26/Sep/2006
 
+\lx kɔ́nɔkofɔbaga
+\mm kɔ́nɔ:n:ventre
+\mm kó:n:affaire
+\mm fɔ́:v:dire
+\mm baga:mrph:AG.OCC
+\va kɔ́nɔkofɔbaa
+\mm kɔ́nɔ:n:ventre
+\mm kó:n:affaire
+\mm fɔ́:v:dire
+\mm baa:mrph:AG.OCC
+\ps n
+\ge confident
+\gv
+\dt 06/Nov/2014
+
 \lx kɔ̀nɔkɔnɔ
 \va kɔ̀nɔkɔnɔnin
 \ps n
@@ -64513,10 +64564,22 @@ avec ŋɔni = épine !)
 \mm kó:n:affaire
 \mm fɔ́:v:dire
 \mm ɲɔ́gɔn:prn:RECP
+\va kùnkofɔbaa
+\mm kùn.ko:n:affaire
+\mm kùn:n:tête
+\mm kó:n:affaire
+\mm fɔ́:v:dire
+\mm baa:mrph:AG.OCC
+\va kùnkofɔbaga
+\mm kùn.ko:n:affaire
+\mm kùn:n:tête
+\mm kó:n:affaire
+\mm fɔ́:v:dire
+\mm baga:mrph:AG.OCC
 \ps n
 \ge confident
 \lt (problème.dire.associé)
-\dt 12/Aug/2006
+\dt 06/Nov/2014
 
 \lx kùnkolo
 \mm kùn:n:tête
@@ -65638,6 +65701,9 @@ avec ŋɔni = épine !)
 \lx kùnɲɔgɔn
 \mm kùn:n:tête
 \mm ɲɔ̀gɔn:n:pareil
+\va kùnɲwan
+\mm kùn:n:tête
+\mm ɲwàn:n:pareil
 \ps n
 \ge semaine
 \gv octave
@@ -65646,7 +65712,7 @@ avec ŋɔni = épine !)
 \lt (unité.semblable)
 \xv ntɛ̀nɛ nàta kùnɲɔgɔn
 \xe lundi en huit
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx kùnpa
 \va kùnfa
@@ -72372,6 +72438,7 @@ n'est pas près de disparaître
 \lt (préf.regarder)
 \xv í kàna  à màfilɛ  náloma yé
 \xe ne le considère pas comme un idiot
+\dt 01/Nov/2014
 
 \lx màfiyɛn
 \mm mà:mrph:SUPER
@@ -89685,39 +89752,59 @@ nord-est
 \lx ɲàmɔgɔ
 \mm ɲà:n:réussite
 \mm mɔ̀gɔ:n:homme
+\va ɲàmaa
+\mm ɲà:n:réussite
+\mm màa:n:homme
 \ps n
 \ge amant
 \gv amante
 \lt (amabilité.personne)
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx ɲàmɔgɔden
 \mm ɲà.mɔgɔ:n:amant
 \mm ɲà:n:réussite
 \mm mɔ̀gɔ:n:homme
 \mm dén:n:enfant
+\va ɲàmaaden
+\mm ɲà.maa:n:amant
+\mm ɲà:n:réussite
+\mm màa:n:homme
+\mm dén:n:enfant
 \ps n
 \ge bâtard
 \lt (amant.enfant)
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx ɲàmɔgɔkɛ
 \mm ɲà.mɔgɔ:n:amant
 \mm ɲà:n:réussite
 \mm mɔ̀gɔ:n:homme
 \mm kɛ:adj:mâle
+\va ɲàmaakɛ
+\mm ɲà.maa:n:amant
+\mm ɲà:n:réussite
+\mm màa:n:homme
+\mm kɛ:adj:mâle
 \ps n
 \ge amant
 \lt (amant.masculin)
+\dt 06/Nov/2014
 
 \lx ɲàmɔgɔmuso
 \mm ɲà.mɔgɔ:n:amant
 \mm ɲà:n:réussite
 \mm mɔ̀gɔ:n:homme
 \mm mùso:adj:femme
+\va ɲàmaamuso
+\mm ɲà.maa:n:amant
+\mm ɲà:n:réussite
+\mm màa:n:homme
+\mm mùso:adj:femme
 \ps n
 \ge amante
 \lt (amant.féminin)
+\dt 06/Nov/2014
 
 \lx ɲàna
 \va ɲànan
@@ -93600,13 +93687,20 @@ nord-est
 \mm ɲɔ́gɔn:prn:RECP
 \mm bòn:vq:ample
 \mm ya:mrph:DEQU
+\va ɲwánbonya
+\mm ɲwán:prn:RECP
+\mm bòn:vq:ample
+\mm ya:mrph:DEQU
 \ps n
 \ge honneurs.réciproques
 \lt (l'un l'autre.respect)
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔndan
 \mm ɲɔ́gɔn:prn:RECP
+\mm dàn:n:dépassement
+\va ɲwándan
+\mm ɲwán:prn:RECP
 \mm dàn:n:dépassement
 \ps n
 \lt l'un l'autre-dépasser
@@ -93616,10 +93710,14 @@ nord-est
 \xe cela eut comme effet une mésentente au point de stopper la coupe de football (kb 1/06 p.10)
 \xv X kɛ́ra fɔ́lɔ yé cɛ̀ɲa ɲɔ́gɔndan ná
 \xe Nanani Keita a été la première au concours de beauté (kb 12/04 p.2)
-\dt 11/Nov/2007
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔndigidigi
 \mm ɲɔ́gɔn:prn:RECP
+\mm dígi:v:presser
+\mm dígi:v:presser
+\va ɲwándigidigi
+\mm ɲwán:prn:RECP
 \mm dígi:v:presser
 \mm dígi:v:presser
 \ps n
@@ -93629,54 +93727,71 @@ nord-est
 \xe 364 personnes sont mortes au cours d'une bousculade pendant le pélerinage (bk 1/06 p.5)
 \xv jàma cáya fɛ̀ ɲɔ́gɔndigidigi bɛ́ kɛ́...
 \xe id.
-\dt 19/Dec/2012
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔnfaga
 \mm ɲɔ́gɔn:prn:RECP
 \mm fàga:v:tuer
+\va ɲwánfaga
+\mm ɲwán:prn:RECP
+\mm fàga:v:tuer
 \ps n
 \ge tuerie.générale
 \lt (l'un l'autre.tuer)
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔnkɔkuma
 \mm ɲɔ́gɔn:prn:RECP
 \mm kɔ́:n:dos
 \mm kúma:n:parole
+\va ɲwánkɔkuma
+\mm ɲwán:prn:RECP
+\mm kɔ́:n:dos
+\mm kúma:n:parole
 \ps n
 \ge médisance.réciproque
 \lt (l'un l'autre.derrière.parole)
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔnkumaɲɔgɔnya
 \mm ɲɔ́gɔn:prn:RECP
 \mm kúma:v:parler
 \mm ɲɔ́gɔn:prn:RECP
 \mm ya:mrph:ABSTR
+\va ɲwánkumaɲwanya
+\mm ɲwán:prn:RECP
+\mm kúma:v:parler
+\mm ɲwán:prn:RECP
+\mm ya:mrph:ABSTR
 \ps n
 \ge discussion
 \gv débat
-\dt 03/May/2013
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔnkunbɛnyɔrɔ
 \mm ɲɔ́gɔn:prn:RECP
 \mm kùn:n:tête
 \mm bɛ̀n:v:se.rencontrer
 \mm yɔ́rɔ:n:lieu
+\va ɲwánkunbɛnyɔrɔ
+\mm ɲwán:prn:RECP
+\mm kùn:n:tête
+\mm bɛ̀n:v:se.rencontrer
+\mm yɔ́rɔ:n:lieu
 \ps n
 \lt mutuel-rencontre-lieu
 \ge lieu.de.rendez-vous
-\dt 11/Nov/2007
+\dt 06/Nov/2014
 
 \lx ɲɔ̀gɔnna
-\va ɲùanna
+\va ɲwànna
 \ps n
 \ge pareil
 \gv semblable
 \gv identique
 \gv éqivalent
 \gv environ
-\dt 19/Feb/2014
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔnna
 \mm ɲɔ́gɔn:prn:RECP
@@ -93684,8 +93799,8 @@ nord-est
 \va ɲɔ́ɔn.na
 \mm ɲɔ́ɔn:prn:RECP
 \mm ná:pp:dans
-\va ɲúan.na
-\mm ɲúan:prn:RECP
+\va ɲwán.na
+\mm ɲwán:prn:RECP
 \mm ná:pp:dans
 \ph [ɲuanna]
 \ps n
@@ -93693,23 +93808,30 @@ nord-est
 \ee frère cadet immédiat
 \lt (l'un l'autre ?lieu)
 \ee Nsan par rapport à Nci ..., Ngolo par rapport à Nsan ...)
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔnsɔsɔ
 \mm ɲɔ́gɔn:prn:RECP
 \mm sɔ̀sɔ:v:contredire
+\a ɲwánsɔsɔ
+\mm ɲwán:prn:RECP
+\mm sɔ̀sɔ:v:contredire
 \ps n
 \ge discussion
 \lt (l'un l'autre.contredire)
+\dt 06/Nov/2014
 
 \lx ɲɔ̀gɔntɛ
 \mm ɲɔ̀gɔn:n:pareil
+\mm tɛ́:cop:COP.NEG
+\va ɲwàntɛ
+\mm ɲwàn:n:pareil
 \mm tɛ́:cop:COP.NEG
 \ps n
 \ge unique
 \gv celui qui n'a pas de pareil
 \gv champion
-\dt 28/Mar/2014
+\dt 06/Nov/2014
 
 \lx ɲɔ̀gɔntuma
 \mm ɲɔ̀gɔn:n:pareil
@@ -93717,8 +93839,8 @@ nord-est
 \va ɲɔ̀ɔn.tuma
 \mm ɲɔ̀ɔn:n:pareil
 \mm tùma:n:moment
-\va ɲùan.tuma
-\mm ɲùan:n:pareil
+\va ɲwàn.tuma
+\mm ɲwàn:n:pareil
 \mm tùma:n:moment
 \ph [ɲùàntuma]
 \ps n
@@ -93726,10 +93848,13 @@ nord-est
 \lt (similitude.moment)
 \xv síni ɲɔ̀gɔntuma
 \xe demain à la même heure
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔnye
 \mm ɲɔ́gɔn:prn:RECP
+\mm yé:v:voir
+\va ɲwánye
+\mm ɲwán:prn:RECP
 \mm yé:v:voir
 \ps n
 \ge entrevue
@@ -93738,21 +93863,30 @@ nord-est
 \lt (l'un l'autre.voir)
 \xv Ála k'án ɲɔ́gɔnye nɔ̀gɔya !
 \xe que Dieu favorise une nouvelle rencontre !
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔnyeba
 \mm ɲɔ́gɔn.ye:n:entrevue
 \mm ɲɔ́gɔn:prn:RECP
 \mm yé:v:voir
 \mm ba:mrph:AUGM
+\va ɲwányeba
+\mm ɲwán.ye:n:entrevue
+\mm ɲwán:prn:RECP
+\mm yé:v:voir
+\mm ba:mrph:AUGM
 \ps n
 \ge grande.assemblée
 \gv concile
 \lt (réunion.grande)
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx ɲɔ̀gɔnyebali
 \mm ɲɔ̀gɔn:n:pareil
+\mm yé:v:voir
+\mm bali:mrph:PTCP.PRIV
+\va ɲwànyebali
+\mm ɲwàn:n:pareil
 \mm yé:v:voir
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
@@ -93763,7 +93897,7 @@ nord-est
 \xv à ká báara ɲɔ̀gɔnyebali
 \xe son oeuvre insolite (étrange) (Is 28, 21)
 \rem Bz, Mol, b, l 89
-\dt 11/Nov/2007
+\dt 06/Nov/2014
 
 \lx ɲɔ̀gɔɲɔgɔ
 \ps v
@@ -93790,7 +93924,7 @@ nord-est
 
 \lx ɲɔ́gɔri
 \va ɲɔ́ɔri
-\va ɲúari
+\va ɲwári
 \ve (f)
 \ph [ɲuari]
 \ps v
@@ -93798,7 +93932,7 @@ nord-est
 \ge s'approcher.à.pas.de.loup
 \xv dònsokɛ yé  sògo ɲɔ́gɔri
 \xe le chasseur s'est approché doucement de l'antilope
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx ɲɔ́gɔtɔ
 \ps v
@@ -102179,6 +102313,14 @@ nord-est
 \sd papi
 \dt 03/Jul/2014
 
+\lx shɔ̀manjɛ
+\mm shɔ̀:n:haricot
+\va syɔ̀manjɛ
+\mm syɔ̀:n:haricot
+\ps n
+\ge mets.de.haricots
+\dt 06/Nov/2014
+
 \lx shù
 \ps n
 \ge chou
@@ -102730,6 +102872,14 @@ nord-est
 \sm (anat / euph)
 \lt (s'asseoir.ce qui sert pour)
 \dt 16/Aug/2006
+
+\lx sìgilanmugu
+\mm sìgilan:n:siège
+\mm sìgi:v:asseoir
+\mm lan:mrph:INSTR
+\ps n
+\ge fesses
+\dt 06/Nov/2014
 
 \lx sìgili
 \mm sìgi:v:asseoir
@@ -106176,16 +106326,7 @@ trompe)
 \xe id.
 \gv régulièrement
 \ee le préverbe de sɔ̀.bɔ ... ?
-\sn 3
-\gv en train de
-\sm (+ circonstant personnel)
-\xv ń bɛ́ ń sɔ̀n
-\xe je suis au travail
-\xv ù b'ú sɔ̀n
-\xe ils sont en train de faire le travail
-\xv sán b'á sɔ̀n  nàli lá
-\xe la pluie continue de tomber
-\dt 27/sept./2006
+\dt 06/Nov/2014
 
 \lx sɔ̀n
 \ps v
@@ -106216,7 +106357,16 @@ trompe)
 \gv s'arrêter
 \xv dùgu máa tíla, màa sènna bɛ́ sɔ̀n
 \xe à minuit, il n'y a plus de (bruits de) pas
-\dt 16/Aug/2006
+\sn 6
+\gv en train de
+\sm (+ circonstant personnel)
+\xv ń bɛ́ ń sɔ̀n
+\xe je suis au travail
+\xv ù b'ú sɔ̀n
+\xe ils sont en train de faire le travail
+\xv sán b'á sɔ̀n  nàli lá
+\xe la pluie continue de tomber
+\dt 06/Nov/2014
 
 \lx sɔ̀n
 \ps n
@@ -109684,6 +109834,13 @@ fiançailles
 \ps n
 \ge voyageur
 \lt (marche.faire.celui qui)
+
+\lx táamala
+\mm táama:v:marcher
+\mm la:mrph:AG.PRM
+\ps n
+\ge voyageur
+\dt 06/Nov/2014
 
 \lx táamaɲɔgɔn
 \mm táama:v:marcher
@@ -114350,12 +114507,11 @@ fiançailles
 \dt 16/Aug/2006
 
 \lx tɔ̀gɔ
-\va twá
 \ps n
 \ge pièce.de.raccommodage
 \xv à yé  tɔ̀gɔ dòn  dùlɔki lá
 \xe il a mis une pièce au boubou
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx tɔ́gɔ
 \va twá
@@ -114381,9 +114537,12 @@ fiançailles
 \lx tɔ́gɔda
 \mm tɔ́gɔ:n:nom
 \mm dá:v:poser
+\va twáda
+\mm twá:n:nom
+\mm dá:v:poser
 \ps v
 \ge nommer
-\dt 03/May/2013
+\dt 06/Nov/2014
 
 \lx tɔ̀gɔdimi
 \mm tɔ̀gɔ:n:hanche
@@ -114446,33 +114605,46 @@ fiançailles
 \mm tɔ́gɔ:n:nom
 \mm lá:pp:dans
 \mm dón:n:jour
+\va twáladon
+\mm twá:n:nom
+\mm lá:pp:dans
+\mm dón:n:jour
 \ps n
 \lt nom-au-jour
 \ge jour.consacré.à
 \xv bálikukalan tɔ́gɔladon kɛ́rɛnkɛrɛnnen
 \xe jour de l'alphabétisation des adultes
 \nt Kb 10/06 p.10
-\dt 08/Nov/2012
+\dt 06/Nov/2014
 
 \lx tɔ́gɔma
 \mm tɔ́gɔ:n:nom
+\mm ma:mrph:RECP.PRN
+\va twáma
+\mm twá:n:nom
 \mm ma:mrph:RECP.PRN
 \ps n
 \ge homonyme
 \ee personne qui porte le même prénom que "x"
 \lt (prénom.qui a)
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx tɔ́gɔma
 \mm tɔ́gɔ:n:nom
 \mm ma:mrph:COM
+\va twáma
+\mm twá:n:nom
+\mm ma:mrph:COM
 \ps adj
 \ge renommé
 \sy tɔ́gɔtigi
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx tɔ́gɔntan
 \mm tɔ́gɔ:n:nom
+\mm ntan:mrph:PRIV
+\va twántan
+\mm twá:n:nom
 \mm ntan:mrph:PRIV
 \ps adj
 \sn 1
@@ -114480,11 +114652,15 @@ fiançailles
 \lt (nom.sans)
 \sn 2
 \gv sans renommée
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx tɔ́gɔntanya
 \mm tɔ́gɔ.ntan:adj:anonyme
 \mm tɔ́gɔ:n:nom
+\mm ntan:mrph:PRIV
+\mm ya:mrph:ABSTR
+\va twántanya
+\mm twá:n:nom
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
@@ -114494,27 +114670,37 @@ fiançailles
 \lt (anonyme.suf abs)
 \sn 2
 \gv manque de renommée
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx tɔ́gɔɲini
 \mm tɔ́gɔ:n:nom
 \mm ɲíni:v:chercher
+\va twáɲini
+\mm twá:n:nom
+\mm ɲíni:v:chercher
 \ps n
 \ge ambition
 \lt (renom.chercher)
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx tɔ́gɔɲinina
 \mm tɔ́gɔ:n:nom
 \mm ɲíni:v:chercher
 \mm na:mrph:AG.PRM
+\va twáɲinina
+\mm twá:n:nom
+\mm ɲíni:v:chercher
+\mm na:mrph:AG.PRM
 \ps n
 \ge personne.ambitieuse
 \lt (renom.chercher.celui qui)
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx tɔ́gɔsɛbɛn
 \mm tɔ́gɔ:n:nom
+\mm sɛ́bɛn:v:écrire
+\va twásɛbɛn
+\mm twá:n:nom
 \mm sɛ́bɛn:v:écrire
 \ps n
 \sn 1
@@ -114523,16 +114709,19 @@ fiançailles
 \lt (nom.écrire)
 \sn 2
 \gv liste de noms
-\dt 16/Aug/2006
+\dt 06/Nov/2014
 
 \lx tɔ́gɔtigi
 \mm tɔ́gɔ:n:nom
+\mm tìgi:n:maître
+\a twátigi
+\mm twá:n:nom
 \mm tìgi:n:maître
 \ps n
 \ge célèbre
 \lt (nom. qui a)
 \sy tɔ́gɔma
-\dt 26/Sep/2006
+\dt 06/Nov/2014
 
 \lx tɔ́gɔtiyɛn
 \mm tɔ́gɔ:n:nom
@@ -114543,11 +114732,17 @@ fiançailles
 \va tɔ́gɔ.cɛn
 \mm tɔ́gɔ:n:nom
 \mm cɛ́n:v:gâter
+\va twátiyɛn
+\mm twá:n:nom
+\mm tíyɛn:v:gâter
+\va twátiɲɛ
+\mm twá:n:nom
+\mm tíɲɛ:v:gâter
 \ps n
 \ge dénigrement
 \sm (par médisance ou calomnie)
 \lt (renom.gâter)
-\dt 24/Jun/2013
+\dt 06/Nov/2014
 
 \lx tɔ̀gɔtɔgɔnin
 \mm nin:mrph:DIM
@@ -121260,14 +121455,23 @@ aîné ... (Kb 11/06 p.4)
 \lx yɛ̀rɛfaga
 \mm yɛ̀rɛ:dtm:même
 \mm fàga:v:tuer
+\va yɛ̀rɛfaa
+\mm yɛ̀rɛ:dtm:même
+\mm fàa:v:tuer
 \ps n
 \ge suicide
 \lt (soi-même.tuer)
+\dt 06/Nov/2014
 
 \lx yɛ̀rɛfagasu
 \mm yɛ̀rɛ.faga:n:suicide
 \mm yɛ̀rɛ:dtm:même
 \mm fàga:v:tuer
+\mm sù:n:cadavre
+\va yɛ̀rɛfaasu
+\mm yɛ̀rɛ.faa:n:suicide
+\mm yɛ̀rɛ:dtm:même
+\mm fàa:v:tuer
 \mm sù:n:cadavre
 \ps n
 \sn 1
@@ -121276,7 +121480,7 @@ aîné ... (Kb 11/06 p.4)
 \sn 2
 \gv risque-tout
 \sy sì bántɔ
-\dt 23/Sep/2013
+\dt 06/Nov/2014
 
 \lx yɛ̀rɛjirako
 \mm yɛ̀rɛ:dtm:même

@@ -1165,6 +1165,11 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Kanina
+\ps n.prop
+\ge TOP
+\dt 06/Nov/2014
+
 \lx Kánkan
 \ty г.
 \ru Канкан
@@ -2291,6 +2296,11 @@
 \ru Того
 \dt 23/May/2010
 \ps n.prop
+
+\lx Tokɔrɔba
+\ps n.prop
+\ge TOP
+\dt 06/Nov/2014
 
 \lx Tɔ́rɔkɔrɔbugu
 \ty кв.
