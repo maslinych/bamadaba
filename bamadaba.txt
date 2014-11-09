@@ -3109,17 +3109,6 @@
 \gv fétichiste
 \dt 04/May/2013
 
-\lx bámanakan
-\mm bámana:n:bambara.(ethnie)
-\mm kán:n:cou
-\va bámanan.kan
-\mm bámana:n:bambara.(ethnie)
-\mm kán:n:cou
-\ps n
-\ge langue.bambara
-\lt (bambara.langue)
-\dt 16/Aug/2006
-
 \lx bámanakɔɔri
 \mm bámana:n:bambara.(ethnie)
 \mm kɔ́ɔri:n:coton
@@ -3147,6 +3136,17 @@
 \xv án fɛ̀  bámanana
 \xe chez nous, dans la société bambara ...
 \dt 26/Sep/2006
+
+\lx bámanankan
+\mm bámana:n:bambara.(ethnie)
+\mm kán:n:cou
+\va bámana.kan
+\mm bámana:n:bambara.(ethnie)
+\mm kán:n:cou
+\ps n
+\ge langue.bambara
+\lt (bambara.langue)
+\dt 07/Nov/2014
 
 \lx bámanaya
 \mm bámana:n:bambara.(ethnie)
@@ -5925,10 +5925,10 @@ bâton de berger
 \ps prn
 \ge chaque
 \gv chacun
-\gv tout
+\gv tous
 \xv bɛ́ɛ ń'í tá dòn
 \xe à chacun le sien
-\dt 26/Sep/2006
+\dt 07/Nov/2014
 
 \lx bɛ́ɛ
 \ps adv
@@ -8032,7 +8032,7 @@ bâton de berger
 \lx bíri
 \va brí
 \ph [br]
-\ps vt
+\ps v
 \sn 1
 \vl vt
 \ge courber
@@ -8069,7 +8069,7 @@ bâton de berger
 \xv í bíri  bóli kɔ́rɔ
 \xe être initié au fétiche
 \xv í bólo bíri  ɲɔ́gɔn dá lá
-\dt 12/Mar/2014
+\dt 08/Nov/2014
 
 \lx bìribara
 \ps v
@@ -19436,6 +19436,14 @@ rétribution mais à titre de réciprocité)
 \xe distinguez bien leur sens !
 \dt 26/Sep/2006
 
+\lx dánfɛn
+\mm dán:v:créer
+\mm fɛ́n:n:chose
+\ps n
+\ge créature
+\gv être
+\dt 07/Nov/2014
+
 \lx dànga
 \va dàgan
 \ve (f)
@@ -21442,6 +21450,11 @@ rétribution mais à titre de réciprocité)
 \xe Esaü vendit son droit d'aînesse à Jacob
 \rem bz
 \dt 11/Nov/2007
+
+\lx dèngu
+\ps v
+\ge avancer
+\dt 07/Nov/2014
 
 \lx dénjɔbaliya
 \mm dén:n:enfant
@@ -26938,9 +26951,12 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx dùngɔ
-\ps
-\ge
-\dt 20/Feb/2013
+\ps n
+\ge désir
+\gv choix
+\gv goût
+\gv bon plaisir
+\dt 08/Nov/2014
 
 \lx dùnguru
 \va tùnfuru
@@ -33663,9 +33679,9 @@ la virginité (pièce de monnaie sans trou)
 \ps n
 \ge début.de.la.saison.fraîche
 \lt (hiver.sortir.début)
-\xv ní  fóbɔnda séra
+\xv ní fóbɔnda séra
 \xe quand arrive la saison froide ...
-\dt 12/Jul/2013
+\dt 07/Nov/2014
 
 \lx fòfo
 \ve (-f)
@@ -54712,13 +54728,6 @@ doigts par des fileuses du coton)
 \lt (hydrocèle.atteint)
 \dt 26/Sep/2006
 
-\lx kìbaro
-\bw ar: habar = id.
-\va kìbaru
-\ps n
-\ge nouvelle
-\dt 16/Aug/2006
-
 \lx kíbaro
 \ps n
 \ge oiseau.moqueur
@@ -54745,6 +54754,17 @@ doigts par des fileuses du coton)
 \xv à y'á kìbaroya mɛ́ kúnu
 \xe il a appris la nouvelle hier
 \dt 16/Aug/2006
+
+\lx kìbaru
+\bw ar: habar = id.
+\va kìbaro
+\ps n
+\sn 1
+\ge nouvelle
+\sn 2
+\gv Kibaru
+\ee jurnal en langue bambara
+\dt 07/Nov/2014
 
 \lx kíimɛ
 \ve (-f,-bn)

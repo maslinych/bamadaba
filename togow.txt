@@ -301,10 +301,11 @@
 \dt 03/May/2010
 \ps n.prop
 
-\lx Bákàrí
-\va Bwákàrí
+\lx Bákàri
+\va Bwákàri
+\va Búkàri
 \ge NOM.M
-\dt 03/May/2010
+\dt 07/Nov/2014
 \ps n.prop
 
 \lx Bakarijan
@@ -464,6 +465,11 @@
 \ge NOM
 \dt 03/May/2010
 \ps n.prop
+
+\lx Bayi
+\ps n.prop
+\ge NOM.M
+\dt 07/Nov/2014
 
 \lx Bee
 \di b
@@ -692,6 +698,11 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Cɛ̀mɔkɔba
+\ps n.prop
+\ge NOM.M
+\dt 07/Nov/2014
+
 \lx Cɛ̀nege
 \di b
 \ge NOM.M
@@ -828,6 +839,11 @@
 \ge NOM.M
 \dt 03/May/2010
 \ps n.prop
+
+\lx Dɔkala
+\ps n.prop
+\ge NOM.M
+\dt 07/Nov/2014
 
 \lx Dùdù
 \di b
@@ -2372,6 +2388,11 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Ɲamodi
+\ps n.prop
+\ge NOM.M
+\dt 07/Nov/2014
+
 \lx Ɲansɔn
 \di
 \ge NOM
@@ -2657,6 +2678,11 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Seyidu
+\ps n.prop
+\ge NOM.M
+\dt 07/Nov/2014
+
 \lx Seynu
 \di
 \ge NOM.M
@@ -2769,9 +2795,9 @@
 \lx Sòlomani
 \va Sòlomana
 \va Sòlomaana
-\dm Solo
+\va Sòlo
 \di b, m
-\dt 03/May/2010
+\dt 07/Nov/2014
 \ps n.prop
 
 \lx Sóma

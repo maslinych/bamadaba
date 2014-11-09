@@ -866,6 +866,17 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Fúlabugu
+\ps n.prop
+\ge TOP
+\dt 07/Nov/2014
+
+\lx Futa
+\ps n.prop
+\ge TOP
+\gv
+\dt 07/Nov/2014
+
 \lx Futa Jalɔn
 \ty горы
 \ru Фута-Джалон
@@ -1130,6 +1141,12 @@
 \dt 05/Dec/2010
 \ps n.prop
 
+\lx Kaaba
+\ps n.prop
+\ge TOP
+\gv
+\dt 07/Nov/2014
+
 \lx Kahera
 \va Kahira
 \va Kahiira
@@ -1169,6 +1186,11 @@
 \ps n.prop
 \ge TOP
 \dt 06/Nov/2014
+
+\lx Kankaba
+\ps n.prop
+\ge TOP
+\dt 07/Nov/2014
 
 \lx Kánkan
 \ty г.
@@ -1290,6 +1312,11 @@
 \ru Каир
 \dt 23/May/2010
 \ps n.prop
+
+\lx Kidali
+\ps n.prop
+\ge TOP
+\dt 07/Nov/2014
 
 \lx Kigali
 \ty г.
@@ -1586,6 +1613,12 @@
 \lx Mànden
 \ps n.prop
 \ge TOP
+
+\lx Masabugu
+\ps n.prop
+\ge TOP
+\gv
+\dt 07/Nov/2014
 
 \lx Màsanta
 \va Màsantan
@@ -2020,6 +2053,11 @@
 \dt 05/Dec/2010
 \ps n.prop
 
+\lx Sabusire
+\ps n.prop
+\ge TOP
+\dt 07/Nov/2014
+
 \lx Sahara
 \ty пуст.
 \ge TOP
@@ -2374,6 +2412,11 @@
 \ru Уагадугу
 \dt 23/May/2010
 \ps n.prop
+
+\lx Welesebugu
+\ps n.prop
+\ge TOP
+\dt 07/Nov/2014
 
 \lx Windɔk
 \ty г.
