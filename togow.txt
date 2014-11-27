@@ -716,6 +716,13 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Cɛ̀sama
+\ps n.prop
+\ge NOM.MF
+\sm nom parfois donné à l'enfant d'une fille-mère si elle arrive à se marier
+\sy nànkɔraden
+\dt 24/Nov/2014
+
 \lx Cɛ̀sɔn
 \di b
 \ge NOM.M
@@ -960,8 +967,10 @@
 \lx Fàkɔ
 \di b
 \ge NOM.M
-\dt 03/May/2010
+\dt 24/Nov/2014
 \ps n.prop
+\ee ‘Après-le-père’
+\sm prénom donné à un enfant (né après la mort de son père)
 
 \lx Fálen
 \va Fále

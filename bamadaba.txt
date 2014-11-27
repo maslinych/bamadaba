@@ -39,13 +39,10 @@
 \dt 03/oct./2006
 
 \lx á
+\va á'
 \ps pers
 \ge 2PL
-\dt 29/Sep/2013
-
-\lx á'
-\ps pers
-\ge 2PL
+\dt 27/Nov/2014
 
 \lx à dɔ́ lá
 \va à dɔ́ rá
@@ -108,6 +105,14 @@
 \sy mɔ̀gɔya
 \sy màaninfinya
 \dt 08/Sep/2006
+
+\lx àháàn
+\va ànháàn
+\va àhân
+\ps intj
+\ge bon
+\ee enfin, j'ai compris
+\dt 27/Nov/2014
 
 \lx ákara
 \ve (-bn,bk)
@@ -629,6 +634,13 @@
 \ps n
 \ge enveloppe
 
+\lx ànhán
+\va àhán
+\ps intj
+\ge haha
+\ee un constat fait avec de la joie méchante
+\dt 27/Nov/2014
+
 \lx àni
 \va àn'
 \ps conj
@@ -752,8 +764,9 @@
 \xe (je te dis que) non !
 \dt 16/Aug/2006
 
-\lx áyiwa
-\va áyiw'
+\lx áyìwa
+\va áyìw'
+\va áwà
 \bw ar: hayhat
 \ps intj
 \sn 1
@@ -767,7 +780,7 @@
 \gv dans.ce.cas
 \sn 3
 \gv allons !
-\dt 26/Sep/2006
+\dt 27/Nov/2014
 
 \lx bà
 \ps n
@@ -776,6 +789,7 @@
 \dt 26/Sep/2006
 
 \lx bà
+\va bàa
 \ps num
 \ge mille
 \ee 1.000 qqf 800 (à Ségou)
@@ -784,7 +798,7 @@
 \xe 5.000 francs
 \xv (dɔ́rɔmɛ) bà fìla
 \xe 10.000 francs
-\dt 19/Aug/2006
+\dt 27/Nov/2014
 
 \lx bá
 \ps n
@@ -1088,7 +1102,7 @@
 \lx báarakɛda
 \mm báara:n:travail
 \mm kɛ́:v:faire
-\mm dà:n:syphilis.endémique
+\mm dá:n:bouche
 \ps n
 \ge lieu.de.travail
 \gv entreprise
@@ -1096,7 +1110,7 @@
 \lt (travail.faire.lieu)
 \sy báarada
 \sy cíyakɛda
-\dt 26/Sep/2006
+\dt 27/Nov/2014
 
 \lx báarakɛden
 \mm báara:n:travail
@@ -2180,6 +2194,9 @@
 \lx bàkɔrɔ
 \mm bà:n:chèvre
 \mm kɔrɔ:adj:mâle
+\va bàkɔrɔn
+\mm bà:n:chèvre
+\mm kɔrɔn:adj:mâle
 \ps n
 \sn 1
 \ge bouc
@@ -2187,7 +2204,7 @@
 \gv impudique
 \sm [fig]
 \lt (caprin.mâle)
-\dt 11/May/2013
+\dt 27/Nov/2014
 
 \lx bákɔrɔ
 \mm bá:n:mère
@@ -7780,10 +7797,14 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx bìnimini
+\va bìnibini
 \ps v
 \vl vi
 \ge se.vautrer
-\dt 26/Sep/2006
+\gv se contorsionner
+\gv se tordre
+\gv se tortiller
+\dt 27/Nov/2014
 
 \lx bínjalan
 \mm bín:n:herbe
@@ -7961,6 +7982,16 @@ bâton de berger
 \ps n
 \ge foie
 \dt 13/May/2014
+
+\lx bíɲɛ
+\va bíyɛn
+\ps n
+\sn 1
+\ge corne
+\sn 2
+\gv remède
+\ee contenu dans une corne
+\dt 11/Nov/2014
 
 \lx Biɲɛjankɔrɔ
 \ps n
@@ -8439,16 +8470,6 @@ bâton de berger
 \gv fétiche
 \ee en forme de clou forgé
 \dt 25/Jun/2013
-
-\lx bíyɛn
-\va bíɲɛ
-\ps n
-\sn 1
-\ge corne
-\sn 2
-\gv remède
-\ee contenu dans une corne
-\dt 26/Sep/2006
 
 \lx bíyɛnkalama
 \mm bíyɛn:n:foie
@@ -10590,9 +10611,9 @@ bâton de berger
 
 \lx bórowu
 \ps onomat
-\ge 'plouf'
+\ge plouf
 \sm chute dans l'eau
-\dt 26/Sep/2006
+\dt 24/Nov/2014
 
 \lx bòso
 \ps n
@@ -10861,9 +10882,9 @@ bâton de berger
 
 \lx bɔ̀bɔ
 \ps n
-\ge ‘Bobo’
+\ge Bobo
 \sm ethnie du Mali et du Burkina-faso (eux-mêmes se nomment 'bwa')
-\dt 16/Aug/2006
+\dt 24/Nov/2014
 
 \lx bɔ̀bɔ
 \ps v
@@ -13857,9 +13878,9 @@ sur soi)
 
 \lx cɛ̀kɛ
 \ps n
-\ge ‘atiéké’
+\ge atiéké
 \sm plat ivoirien (à base de manioc)
-\dt 16/Aug/2006
+\dt 24/Nov/2014
 
 \lx cɛ̀kɛcɛkɛ
 \ps v
@@ -14492,14 +14513,26 @@ sur soi)
 \lx cɛ̀ɲa
 \mm cɛ̀:n:aspect
 \mm ɲà:n:réussite
-\ee cɛ̀ɲiya*
 \va cɛ̀.ɲɛ
 \mm cɛ̀:n:aspect
 \mm ɲɛ̀:n:réussite
 \ps n
 \ge beauté
 \lt (aspect.réussite)
-\dt 16/Aug/2006
+\dt 27/Nov/2014
+
+\lx cɛ̀ɲa
+\mm cɛ̀:n:aspect
+\mm ɲà:n:réussite
+\va cɛ̀.ɲɛ
+\mm cɛ̀:n:aspect
+\mm ɲɛ̀:n:réussite
+\ps v
+\vl vi
+\ge être.beau
+\vl vt
+\gv rendre.beau
+\dt 27/Nov/2014
 
 \lx cɛ̀ɲi
 \mm cɛ̀:n:aspect
@@ -14541,17 +14574,6 @@ sur soi)
 \sn 2
 \gv traverser
 \dt 16/Aug/2006
-
-\lx cɛ̀sama
-\mm cɛ̀:n:mâle
-\mm sàma:n:cadeau
-\ps n
-\lt mari-cadeau
-\ge ‘Tiésama’
-\sm nom parfois donné à l'enfant d'une fille-mère si elle arrive à se marier
-\sy nànkɔraden
-\rem f, (-bn)
-\dt 11/Nov/2007
 
 \lx cɛ̀samuso
 \mm cɛ̀:n:mâle
@@ -15213,13 +15235,13 @@ sur soi)
 \lx cíwara
 \ps n
 \sn 1
-\ge ‘Chiwara’
+\ge Chiwara
 \sm fétiche des cultures (masque représentant des antilopes)
 \lt (culture.fauve)
 \sn 2
 \gv champion.de.culture
 \gv multiculteur
-\dt 26/Sep/2006
+\dt 24/Nov/2014
 
 \lx cíya
 \mm cí:n:commission
@@ -16205,6 +16227,8 @@ sur soi)
 \dt 26/Sep/2006
 
 \lx dàbali
+\va dɛ̀bɛli
+\va dàbari
 \ps n
 \sn 1
 \ge moyen
@@ -16220,7 +16244,7 @@ sur soi)
 \xv sán fìnnen, dàbali bɛ́  fíyɛn fɛ̀
 \xe le ciel est noir, le vent est maléfique
 \xe (on s'attend à la pluie, le vent va tout gâter)
-\dt 26/Sep/2006
+\dt 27/Nov/2014
 
 \lx dàbali
 \ps v
@@ -21554,9 +21578,9 @@ rétribution mais à titre de réciprocité)
 \mm dí:v:raser
 \lt (enfant.rasage de tête)
 \ps n
-\ge 'baptême'
+\ge baptême
 \sm cérémonie d'imposition du nom du bébé (une semaine après la naissance, on rase la tête de l'enfant, on leprésente à tous ceux à qui on a fait part de l'événement, on lui donneofficiellement son nom. Cette cérémonie est couramment appelée en ville 'baptême', même dans les milieux musulmans)
-\dt 16/Aug/2006
+\dt 24/Nov/2014
 
 \lx dénmarayɔrɔ
 \mm dén:n:enfant
@@ -21682,13 +21706,13 @@ rétribution mais à titre de réciprocité)
 \mm tɔ́gɔ:n:nom
 \lt (enfant.d'.malheur.nom)
 \ps n
-\ge ‘Malheur-d’enfants’
+\ge prénom.apotropaïque
 \sm (prénom particulier donné aux enfants dont les aînés sont morts dans leur première semaine)
 \xv bùguri
 \xe "Poussière"
 \xv ɲàmaton
 \xe "Tas-d'-ordures"
-\dt 16/Aug/2006
+\dt 24/Nov/2014
 
 \lx dénnaminaden
 \mm dén:n:enfant
@@ -23904,6 +23928,23 @@ rétribution mais à titre de réciprocité)
 \xe elle est partie
 \dt 16/Aug/2006
 
+\lx dòn
+\va dùn
+\ps prt
+\ge quant.à
+\sm interjection qui introduit une nouvelle question, une nouvelle
+hypothèse interrogative
+\gv et...
+\gv cependant
+\gv mais
+\xv í ká kɛ́nɛ....sómɔgɔ dòn ?
+\xe tu vas bien ? ... et la famille ? (sous-entendu : elle va bien ?)
+\xv - ń'á nàna, ń bɛ́  nìn kɛ́
+\xe - s'il vient, je ferai ceci
+\xv - ní  à má nà dòn ?
+\xe et s'il ne vient pas ? (sous-entendu : que feras-tu ?)
+\dt 26/Nov/2014
+
 \lx dón
 \ps n
 \ge jour
@@ -23915,20 +23956,6 @@ rétribution mais à titre de réciprocité)
 \xv dón ó dón
 \xe chaque jour don si
 \xe jamais (aucun jour)
-\dt 26/Sep/2006
-
-\lx dón
-\va dún
-\ps prt
-\ge et...?
-\sm interjection qui introduit une nouvelle question
-\ee une nouvelle hypothèse interrogative : et ...? et si ...?
-\xv í ká kɛ́nɛ....sómɔgɔ dón ?
-\xe tu vas bien ? ... et la famille ? (sous-entendu : elle va bien ?)
-\xv - ń'á nàna, ń bɛ́  nìn kɛ́
-\xe - s'il vient, je ferai ceci
-\xv - ní  à má nà dón ?
-\xe et s'il ne vient pas ? (sous-entendu : que feras-tu ?)
 \dt 26/Sep/2006
 
 \lx dónba
@@ -24247,9 +24274,9 @@ rétribution mais à titre de réciprocité)
 \lt (jour.bisser)
 \ph [mafla]
 \ps n
-\ge ‘jour.de.répétition’
+\ge jour.de.répétition
 \sm (jours de la semaine où les évènements sont censés se répéter : mercredi et samedi)
-\dt 16/Aug/2006
+\dt 24/Nov/2014
 
 \lx dónmakɔnɔ
 \mm dón:n:jour
@@ -27613,6 +27640,14 @@ désorienter')
 \sm réponse à un appel
 \dt 16/Aug/2006
 
+\lx ɛ̀hɛ́
+\va hɛ̀ɛ́
+\ps intj
+\ge ohé
+\gv holà
+\ee interjection servant à interpeller quelqu'un
+\dt 27/Nov/2014
+
 \lx ɛ̀lɛ́
 \ps intj
 \ge pouah
@@ -28319,15 +28354,6 @@ désorienter')
 \ge fax
 \gv télécopieur
 \dt 09/Jul/2013
-
-\lx fàkɔ
-\mm fà:n:père
-\mm kɔ́:pp:après 
-\ps n
-\ge ‘Après-le-père’
-\sm prénom donné à un enfant (né après la mort de son père)
-\lt (père.après)
-\dt 16/Aug/2006
 
 \lx fàkɔrɔba
 \mm fà:n:père
@@ -30172,13 +30198,13 @@ désorienter')
 \ps n
 \lt maigrir-maladie
 \sn 1
-\ge 'marasme'
+\ge marasme
 \gv amaigrissement.général
 \sn 2
 \gv sida
 \sy bíndin ?
 \rem Jakité : de l'enfant : tête plus grosse, cyanose des vaisseaux
-\dt 11/Nov/2007
+\dt 24/Nov/2014
 
 \lx fàsadimi
 \mm fàsa:n:tendon
@@ -31176,12 +31202,12 @@ désorienter')
 \ps v
 \vl vt
 \sn 1
-\ge 'travailler'.qn/qc
+\ge travailler.qn/qc
 \lt (chose.faire)
 \sn 2
-\gv 'trafiquer'
+\gv trafiquer
 \sm ('choser' expression vague)
-\dt 26/Sep/2006
+\dt 24/Nov/2014
 
 \lx fɛ́nkɛbali
 \mm fɛ́n:n:chose
@@ -31569,6 +31595,12 @@ désorienter')
 \ps n
 \ge éventail
 \dt 27/Apr/2014
+
+\lx fifɛ
+\ps intj
+\ge Dieu.merci
+\sm (exclamation de satisfaction)
+\dt 24/Nov/2014
 
 \lx fíisa
 \ve (-f, -bk)
@@ -35468,9 +35500,10 @@ la virginité (pièce de monnaie sans trou)
 \dt 12/Aug/2006
 
 \lx fùnɛ
+\va fìnɛ
 \ps n
 \ge catégorie.de.griot
-\dt 16/Aug/2006
+\dt 27/Nov/2014
 
 \lx fúnfun
 \ps v
@@ -38006,6 +38039,16 @@ la virginité (pièce de monnaie sans trou)
 \xv à táara à kùndógo bàtoso gàsimaba dɔ́ kɔ́nɔ
 \xe il est allé se réfugier dans un temple très vénéré (2 Ch 4, 33)
 \dt 11/Nov/2007
+
+\lx gàsintanya
+\mm gàsi:n:tort
+\mm ntan:mrph:PRIV
+\mm ya:mrph:ABSTR
+\ps n
+\ge impudence
+\gv effronterie
+\gv manque d'égards
+\dt 27/Nov/2014
 
 \lx gàso
 \va gwàso
@@ -41603,6 +41646,12 @@ doigts par des fileuses du coton)
 \gv mon Dieu!
 \dt 09/May/2014
 
+\lx íi
+\ps intj
+\ge hé
+\ee interjection du constat conjugué avec l'étonnement
+\dt 27/Nov/2014
+
 \lx íko
 \ps conj
 \ge comme
@@ -44770,16 +44819,19 @@ doigts par des fileuses du coton)
 \xv mɔ̀gɔ mín ká sɛ̀bɛ, á kà jìgin  ò kàn
 \xe prenez comme logeur un honnête homme
 \sn 7
+\vl vt
+\gv recevoir un hôte
+\sn 8
 \vl vi
 \gv se.disputer
 \xv án má jìgin  ɲɔ́gɔn ná fɔ́lɔ
 \xe nous ne nous sommes pas encore disputés
-\sn 8
+\sn 9
 \vl vt
 \gv rappeler
 \xv í kà  né hákili jìgin  ò lá !
 \xe rappelle-le moi !
-\dt 26/Sep/2006
+\dt 16/Nov/2014
 
 \lx jìginda
 \mm jìgin:v:descendre
@@ -44803,6 +44855,15 @@ doigts par des fileuses du coton)
 \ge pente.raide
 \lt (descente.descente)
 \dt 19/Dec/2012
+
+\lx jìginna
+\va jìginnna
+\ps n
+\ge rancune
+\gv ressentiment
+\gv rancœur
+\gv reproche
+\dt 27/Nov/2014
 
 \lx jìginnikaliya
 \mm jìgin:v:descendre
@@ -44839,14 +44900,19 @@ doigts par des fileuses du coton)
 \mm jìgin:v:descendre
 \mm ń:pers:je
 \mm ná:pp:dans
+\va jìginna
+\mm jìgin:v:descendre
+\mm ń:pers:je
+\mm ná:pp:dans
 \ps n
 \ge reproche
 \gv ressentiment
+\gv rencune
 \lt (rancoeur.moi.endroit)
 \sy jìginnako
 \xv jìginnna t'í lá
 \xe je ne t'en veux pas
-\dt 26/Sep/2006
+\dt 27/Nov/2014
 
 \lx jìgintan
 \mm jìgi:n:espoir
@@ -48257,12 +48323,13 @@ doigts par des fileuses du coton)
 
 \lx kàara
 \va kàrata
+\va kàarata
 \ps n
-\ge vannerie
-\ee en grandes pailles tressées
-\gv secco
+\ge secco
 \ee (sert de clôture, d'abri contre le vent, de paillasson ...)
-\dt 26/Sep/2006
+\gv vannerie
+\ee en grandes pailles tressées
+\dt 27/Nov/2014
 
 \lx káaran
 \ve (-bk,-bn)
@@ -51013,6 +51080,16 @@ doigts par des fileuses du coton)
 \lt (cou.manche)
 \dt 16/Aug/2006
 
+\lx kànkálǐbá
+\va kànkálabà
+\va gàngalaba
+\va kɛ̀nkaliba
+\va kànkàlíba
+\ps n
+\ge quinquéliba
+\gv Teclea sudanica
+\dt 11/Nov/2014
+
 \lx kànkan
 \va gàngan
 \ve (f)
@@ -52141,11 +52218,6 @@ doigts par des fileuses du coton)
 \xv fà tɛ́ kárankarantɔ lá, ká à t'í yɛ̀rɛ kɔ̀lɔsi
 \rem f
 \dt 08/Nov/2012
-
-\lx kàrata
-\ps n
-\ge secco
-\sy kàara
 
 \lx káratata
 \ps onomat
@@ -53311,18 +53383,6 @@ doigts par des fileuses du coton)
 \ge coqueluche
 \dt 07/Mar/2014
 
-\lx kɛ
-\mr kɛ* --> cɛ = homme, mari
-\ps adj
-\ge mâle
-\ee (uniquement en composition)
-\cf -jígi
-\cf -fáli
-\cf -kɔ́rɔ
-\cf -sára
-\cf -ntúra
-\dt 23/Sep/2014
-
 \lx kɛ̀
 \ps prt
 \ge certes
@@ -53332,7 +53392,13 @@ doigts par des fileuses du coton)
 \lx kɛ̀
 \ps adj
 \ge mâle
-\dt 11/May/2013
+\ee (uniquement en composition)
+\cf -jígi
+\cf -fáli
+\cf -kɔ́rɔ
+\cf -sára
+\cf -ntúra
+\dt 16/Nov/2014
 
 \lx kɛ́
 \ps n
@@ -54986,14 +55052,6 @@ doigts par des fileuses du coton)
 \ge riz.cuit
 \dt 14/Nov/2012
 
-\lx kíni
-\va kínin
-\ps n
-\ge droite
-\gv main droite
-\ee (opposée à : gauche)
-\dt 26/Sep/2006
-
 \lx kínibolo
 \mm kíni:n:droite
 \mm bólo:n:bras
@@ -55028,6 +55086,14 @@ doigts par des fileuses du coton)
 \ge droitier
 \lt (droite.qui a)
 \dt 12/Aug/2006
+
+\lx kínin
+\va kíni
+\ps n
+\ge droite
+\gv main droite
+\ee (opposée à : gauche)
+\dt 27/Nov/2014
 
 \lx kíniyanfan
 \mm kíni:n:droite
@@ -57771,17 +57837,17 @@ doigts par des fileuses du coton)
 
 \lx kósɛbɛ
 \mm kó:n:affaire
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:adj:sérieux
 \va kó.sɔbɛ
 \mm kó:n:affaire
-\mm sɔ̀bɛ:adj/n:sérieux
+\mm sɔ̀bɛ:adj:sérieux
 \ph [kosɔbɛ]
 \ps adv
 \ge très.bien
 \gv parfaitement
 \gv beaucoup
 \lt (manière.importante)
-\dt 26/Sep/2006
+\dt 26/Nov/2014
 
 \lx kósikosi
 \ps v
@@ -59855,6 +59921,16 @@ avec ŋɔni = épine !)
 \xe une coupe large et profonde (Ez 23, 32)
 \dt 11/Nov/2007
 
+\lx kɔ́nɔfaralenya
+\mm kɔ́nɔ:n:ventre
+\mm fàra:v:ajouter
+\mm len:mrph:PTCP.RES
+\mm ya:mrph:ABSTR
+\ps n
+\ge gourmandise
+\gv
+\dt 24/Nov/2014
+
 \lx kɔ́nɔfɔɲɔgɔn
 \mm kɔ́nɔ:n:ventre
 \mm fɔ́:v:dire
@@ -61110,6 +61186,16 @@ avec ŋɔni = épine !)
 \lt (noce.appartement)
 \dt 16/Aug/2006
 
+\lx kɔ́ɲɔya
+\mm kɔ́ɲɔ:n:noce
+\mm ya:mrph:ABSTR
+\va kɔ́ɲɛya
+\mm kɔ́ɲɛ:n:noce
+\mm ya:mrph:ABSTR
+\ps n
+\ge noce
+\dt 27/Nov/2014
+
 \lx kɔ̀ɲume
 \mm kɔ̀:n:marigot
 \ps n
@@ -61312,6 +61398,7 @@ avec ŋɔni = épine !)
 \dt 26/Sep/2006
 
 \lx kɔrɔ
+\va kɔrɔn
 \ps adj
 \ee * en xas : -koton =,/ koro vieux
 \ge mâle.adulte
@@ -61320,7 +61407,7 @@ avec ŋɔni = épine !)
 \xe francolin mâle (avec des ergots)
 \xv bàkɔrɔ
 \xe bouc
-\dt 23/Sep/2014
+\dt 27/Nov/2014
 
 \lx kɔ̀rɔ
 \ps vq/adj
@@ -62961,6 +63048,7 @@ avec ŋɔni = épine !)
 \dt 26/Sep/2006
 
 \lx kúma
+\va kúm'
 \ps v
 \vl vi
 \ge parler
@@ -62970,6 +63058,7 @@ avec ŋɔni = épine !)
 \xe s'adresser à qn
 \xv ń bɛ́na kúma  múrafura kàn
 \xe je vais parler des remèdes contre le rhume
+\dt 26/Nov/2014
 
 \lx kúmabara
 \mm kúma:v:parler
@@ -71500,6 +71589,12 @@ avec ŋɔni = épine !)
 \rem l 89 ....
 \dt 11/Nov/2007
 
+\lx lìdo
+\ps n
+\ge ludo
+\gv jeu de petits chevaux
+\dt 27/Nov/2014
+
 \lx lílɔntamɛ
 \va lílɔntami
 \ps n
@@ -76242,8 +76337,8 @@ nord-est
 \gv
 \dt 24/Oct/2014
 
-\lx mínkɛ
-\va mínkɛni
+\lx mînkɛ́
+\va mînkɛ́ni
 \ps conj
 \ge lorsque
 \gv dès.que
@@ -76251,7 +76346,7 @@ nord-est
 \xv à séra mínkɛ
 \xe quand il est arrivé ...
 \ee * l'étymologie à partir du relatif min et de kɛ (faire) présente des difficultés concernant l'ordre des mots
-\dt 26/Sep/2006
+\dt 10/Nov/2014
 
 \lx mìnkɔn
 \ps n
@@ -80141,6 +80236,15 @@ nord-est
 \lt (gluant.suf caus)
 \dt 26/Sep/2006
 
+\lx námin
+\ps n
+\ge flatteur
+\gv valet
+\gv pique-assiette
+\gv courtisan
+\gv béni oui-oui
+\dt 27/Nov/2014
+
 \lx náminɔ̀rɔ́
 \bw ar: nuhas ahmar = airain
 \ps n
@@ -80654,6 +80758,13 @@ nord-est
 \ge très.grand.et.frêle
 \dt 16/Aug/2006
 
+\lx nbónkun
+\va bónkun
+\ps n
+\ge cheval.noir
+\gv cheval de robe bai-brun uniforme
+\dt 27/Nov/2014
+
 \lx nbòrongo
 \ve (-f)
 \ps v
@@ -81100,6 +81211,13 @@ nord-est
 \ge serrer.fortement
 \ee (une corde, un noeud ...)
 \dt 26/Sep/2006
+
+\lx ncɔ́yin
+\va ncɔ́ɲi
+\ps adv
+\ge trop.petit
+\gv serré
+\dt 14/Nov/2014
 
 \lx ndánso
 \ps n
@@ -82396,6 +82514,12 @@ nord-est
 \lt ( ? . ? .jus)
 \dt 16/Aug/2006
 
+\lx ngolonin
+\ps n
+\ge cheval.roux
+\gv
+\dt 27/Nov/2014
+
 \lx ngómi
 \ps n
 \ge rosée
@@ -82452,6 +82576,7 @@ nord-est
 \dt 19/Aug/2006
 
 \lx ngɔ̀
+\va nkɔ̀
 \ps n
 \ge fève
 \lat Canavalia.ensiformis
@@ -82459,7 +82584,7 @@ nord-est
 \ee (sert à faire des colliers, sert de pions ou d'osselets pour différents jeux, d'ornement de certains masques de fétiches, pour la divination ...)
 \sy ngɔ̀bilen
 \sy ngɔ̀jɛ
-\dt 19/Aug/2006
+\dt 27/Nov/2014
 
 \lx ngɔ̀
 \va nkɔ̀
@@ -82600,6 +82725,17 @@ nord-est
 \ge cordes.vocales
 \lt (gorge.corde)
 \dt 16/Aug/2006
+
+\lx ngɔ̀so
+\mm ngɔ̀:n:fève
+\mm só:n:maison
+\va nkɔ̀so
+\mm nkɔ̀:n:fève
+\mm só:n:maison
+\ps n
+\ge damier
+\gv jeu tracé sur le sol
+\dt 27/Nov/2014
 
 \lx ngùlubàra
 \ps n
@@ -82839,6 +82975,12 @@ nord-est
 \sd gram
 \ee (en petites touffes, feuilles à marges ciliées)
 \dt 19/Aug/2006
+
+\lx niiri
+\ps n
+\ge livres.sterling
+\ee un mot de Mamadou Doukouré
+\dt 24/Nov/2014
 
 \lx níiri
 \va níri
@@ -86868,13 +87010,14 @@ nord-est
 \dt 19/Aug/2006
 
 \lx nsíirin
+\va nsíiri
 \ps n
 \ge conte
 \gv fable
 \gv historiette
 \xv nsíirin dá
 \xe raconter une fable
-\dt 26/Sep/2006
+\dt 25/Nov/2014
 
 \lx nsíirindala
 \mm nsíirin:n:conte
@@ -87175,9 +87318,7 @@ nord-est
 \ps n
 \ge tambourin.d'aisselle
 \sm (à deux peaux)
-\dt 07/Mar/2014
-
-\le ntáma
+\dt 24/Nov/2014
 
 \lx ntáma
 \ps onomat
@@ -94809,6 +94950,19 @@ nord-est
 \sm boucles ornant le pourtour de l'oreille ; grelots ornant le haut d'une guitare
 \dt 16/Aug/2006
 
+\lx ŋɛ́ɲɛŋɛɲɛ
+\va ŋáɲaŋaɲa
+\ps adv.ex
+\sn 1
+\ge très.rouge
+\gv rouge vif
+\gv écarlate
+\sn 2
+\gv très chaud
+\sn 3
+\gv très fort en sorcellerie
+\dt 23/Nov/2014
+
 \lx ŋɛ́ɲɛya
 \mm ŋɛ́ɲɛ:vq:rugueux
 \mm ya:mrph:DEQU
@@ -98349,11 +98503,12 @@ nord-est
 \dt 16/Aug/2006
 
 \lx sàngaran
+\va sàngaran
 \ve (-f)
 \ps n
 \ge ver
 \sm (dans les kolas)
-\dt 16/Aug/2006
+\dt 27/Nov/2014
 
 \lx sángatigi
 \mm sánga:n:temps
@@ -101081,13 +101236,16 @@ nord-est
 \lx sèntonto
 \mm sèn:n:jambe
 \mm tónto:n:talon
+\mm sèntonton
+\mm sèn:n:jambe
+\mm tónto:n:talon
 \va sèn.tontoli
 \mm sèn:n:jambe
 \mm tóntòlí:n:talon
 \ps n
 \ge talon
 \lt (pied.talon)
-\dt 16/Aug/2006
+\dt 27/Nov/2014
 
 \lx sèntontolikolo
 \mm sèn.tontoli:n:talon
@@ -102277,11 +102435,11 @@ nord-est
 \lt (troupe.suf abs)
 \dt 16/Aug/2006
 
-\lx sɛrikili
+\lx sɛ́rikili
 \ps n
 \ge cercle
 \ee (administratif)
-\dt 10/Apr/2014
+\dt 10/Nov/2014
 
 \lx sɛ̀riwusi
 \va sɛ̀rɛwusi
@@ -102320,6 +102478,12 @@ nord-est
 \ps n
 \ge poule
 \dt 19/Oct/2014
+
+\lx shíya
+\ps onomat
+\ge diantre
+\sm (expression de satisfaction ou de dépit)
+\dt 24/Nov/2014
 
 \lx shɔ̀
 \va syɔ̀
@@ -103700,11 +103864,14 @@ trompe)
 \lx sínikan
 \mm síni:n:demain
 \mm kán:n:cou
+\va síninkan
+\mm sínin:n:demain
+\mm kán:n:cou
 \ps n
 \ge paroles.malveillantes
 \lt (demain.parole)
 \ee paroles qu'on n'oubliera pas demain)
-\dt 16/Aug/2006
+\dt 27/Nov/2014
 
 \lx sínikɛnɛ
 \mm síni:n:demain
@@ -105200,13 +105367,14 @@ trompe)
 \mm sù:n:cadavre
 \ps n
 \sn 1
-\ge gangrène
+\ge gibier.crevé
+\gv gibier tué
 \sn 2
-\gv gibier tué / crevé
+\gv gangrène
 \sn 3
 \gv saletés d'une plaie
 \gv chair pourrie
-\dt 26/Sep/2006
+\dt 26/Nov/2014
 
 \lx sògotoli
 \mm sògo:n:viande
@@ -106782,6 +106950,14 @@ trompe)
 \sy sɔ̀njugu
 \dt 23/Nov/2012
 
+\lx sɔ̀ntulo
+\mm sɔ̀n:n:coeur
+\mm túlo:n:oreille
+\ps n
+\ge oreillette
+\ee terme anatomique
+\dt 27/Nov/2014
+
 \lx sɔ́ɔni
 \va sɔ́ɔnin
 \ps n/adv
@@ -107912,6 +108088,7 @@ trompe)
 \dt 11/Nov/2007
 
 \lx súngurun
+\va súnguru
 \ps n
 \sn 1
 \ge jeune.fille
@@ -107922,7 +108099,7 @@ trompe)
 \gv amante
 \xv à ká súngurun dòn
 \xe c'est sa petite amie, sa 'poule'
-\dt 12/May/2014
+\dt 21/Nov/2014
 
 \lx súngurunba
 \mm súngurun:n:jeune.fille
@@ -108298,20 +108475,30 @@ fiançailles
 \sy súruku-dátoli
 \sn 2
 \gv grappin
+\gv sonde
 \sm (pour retirer les objets au fond du puits  =  hyène)
-\dt 16/Aug/2006
+\dt 27/Nov/2014
 
 \lx súruku
+\va súruki
 \ps v
+\sn 1
 \vl vt
-\ge sonder.une.cavité
-\ee y agiter un instrument
+\ge sonder
+\ee une.cavité, en y agitant un instrument
 \sy súguba
 \xv à yé  dìngɛn súruku ní  bére yé
 \xe il a sondé le trou à l'aide d'un bâton
+\sn 2
+\vl vt
+\gv provoquer
+\gv inciter
 \xv à yé sà súruku dìngɛn nɔ́
 \xe il a dérangé le serpent dans le trou
-\dt 26/Sep/2006
+\sn 3
+\vl vt
+\gv coïter
+\dt 27/Nov/2014
 
 \lx súrukubilennin
 \mm súruku:n:hyène
@@ -109563,7 +109750,18 @@ fiançailles
 \sm un obstacle en prenant appui dessus
 \xv à yé kógo tà
 \xe il a fait le mur, il a passé par dessus le mur
-\dt 26/Sep/2006
+\sn 7
+\gv s’occuper sérieusement
+\sm (de – fɛ̀)
+\gv prêter attention
+\sm (à – fɛ̀)
+\sn 8
+\gv se laisser tempter
+\sm (par – fɛ̀)
+\gv donner la préférence
+\sm (à – fɛ̀)
+
+\dt 24/Nov/2014
 
 \lx tà
 \ps n
@@ -114341,10 +114539,11 @@ fiançailles
 
 \lx tóntòlí
 \vc tónto
+\vc tónton
 \ps n
 \ge talon
 \sm (anat)
-\dt 16/Aug/2006
+\dt 27/Nov/2014
 
 \lx tònugula
 \mm tò:n:“to”
@@ -114993,13 +115192,16 @@ fiançailles
 \dt 16/Aug/2006
 
 \lx tɔ̀nɔ
+\va tɔ̀nɔn
+\va tɛ̀nɛ
+\va tɔ̀ntɔ
 \ps v
 \vl vt
+\ge ourdir
 \gv étendre
 \gv étirer
 \sm des fils
-\gv ourdir
-\dt 26/Sep/2006
+\dt 24/Nov/2014
 
 \lx tɔ̀nɔ
 \va tɔ̀nɔn
@@ -119475,6 +119677,14 @@ aîné ... (Kb 11/06 p.4)
 \va ɔ́rɔbu
 \ps n
 \ge robe
+
+\lx wɔ̀rɔndɔ
+\ps v
+\vl vi
+\ge passer.aux.aveux
+\ee (un sorcier)
+\gv
+\dt 22/Nov/2014
 
 \lx wɔ̀rɔnkɔmi
 \ve (bk)
