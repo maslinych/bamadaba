@@ -5403,6 +5403,13 @@
 \sy gɔ́nfin
 \dt 16/Aug/2006
 
+\lx báworonto
+\mm bá:n:fleuve
+\ps n
+\ge flux
+\gv torrent
+\dt 02/Dec/2014
+
 \lx báwɔ̀lɔ
 \mm bá:n:fleuve
 \mm wɔ̀lɔ:n:francolin
@@ -11224,6 +11231,8 @@ bâton de berger
 \xv mùn bɔ̀nɛ kɛ́'í lá ?
 \xv mùn bɔ̀nɛ y'í sɔ̀rɔ ?
 \xe quel malheur t'est-t-il arrivé ?
+\xv Ɲàmaton yé búnɛrɔtɔgɔ yé
+\xe le nom "Tas d'ordures" est un nom apotpropéïque
 \sn 2
 \gv dépenses
 \xv cɛ̀ ìn yé  bɔ̀nɛba kɛ́ bì dɛ́ !
@@ -11232,7 +11241,7 @@ bâton de berger
 \gv fruit.du.labeur
 \xv né bɔ̀nɛ dòn
 \xe c'est le fruit de ma fatigue, de ma peine
-\dt 16/Aug/2006
+\dt 30/Nov/2014
 
 \lx bɔ̀nɛ
 \va bùnɛ
@@ -15020,12 +15029,12 @@ sur soi)
 \sn 1
 \ge envoyé
 \sn 2
-\gv 'apôtre'
+\gv apôtre
 \ee (sens chrétien)
 \lt (mission/travail.membre)
 \sn 3
 \gv ouvrier.au.travail.en.commun
-\dt 26/Sep/2006
+\dt 30/Nov/2014
 
 \lx cídenya
 \mm cí:n:commission
@@ -18492,9 +18501,11 @@ sur soi)
 
 \lx dálamaga
 \mm dá:n:bouche
+\mm lámàga:v:remuer
 \mm lá:mrph:CAUS
 \mm màga:v:toucher
 \va dá.la.maa
+\mm lámaga:v:remuer
 \mm dá:n:bouche
 \mm lá:mrph:CAUS
 \mm màa:v:toucher
@@ -18503,7 +18514,7 @@ sur soi)
 \lt (bouche.remuer)
 \xv kúma fɔ́lenkɔrɔ tɔ̀ yé  dálamaga yé
 \xe une chose convenue, il ne reste plus qu'à la rappeler  (dicton)
-\dt 16/Aug/2006
+\dt 01/Dec/2014
 
 \lx dálamàga
 \mm dá:n:bouche
@@ -18771,21 +18782,21 @@ sur soi)
 
 \lx dálateliya
 \mm dá:n:bouche
-\mm la:mrph:LOC
-\mm téli:vq:être.rapide
+\mm la:mrph:dans
+\mm téli:adj:rapide
 \mm ya:mrph:ABSTR
 \ps v
-\ge pressser.à.parler
-\dt 30/Mar/2014
+\ge presser.à.parler
+\dt 07/Dec/2014
 
 \lx dálateliya
 \mm dá:n:bouche
-\mm la:mrph:LOC
-\mm téli:vq:être.rapide
+\mm la:mrph:dans
+\mm téli:adj:rapide
 \mm ya:mrph:ABSTR
 \ps n
-\ge enpressement.à.parler
-\dt 30/Mar/2014
+\ge empressement.à.parler
+\dt 07/Dec/2014
 
 \lx dáli
 \mm dá:v:poser
@@ -34330,6 +34341,21 @@ la virginité (pièce de monnaie sans trou)
 \sd sola
 \dt 19/Aug/2006
 
+\lx fóronto
+\va wóronto
+\va wórondo
+\ps v
+\sn 1
+\vl vi
+\ge craquer
+\gv éclater
+\sn 2
+\vl vi
+\gv passer aux aveux
+\ee (un sorcier)
+\gv avouer des crimes de sorcellerie
+\dt 02/Dec/2014
+
 \lx fòrontobanin
 \mm fòronto:n:petit.piment
 \mm ba:mrph:AUGM
@@ -40375,13 +40401,14 @@ doigts par des fileuses du coton)
 \lx háju
 \bw ar: haga = choses nécessaires
 \ps n
-\sn 1
-\ge affaires
-\sn 2
-\gv (pré)occupations
+\sn
+\ge préoccupation
+\gv occupations
+\gv problème
+\gv affaires
 \xv né háju ɲàna
 \xe mon problème est réglé
-\dt 16/Aug/2006
+\dt 30/Nov/2014
 
 \lx hàkɛ
 \bw ar: didd al-haqq = à tort
@@ -42825,9 +42852,11 @@ doigts par des fileuses du coton)
 \mm jàmani:n:pays
 \mm tìgi:n:maître
 \ps n
-\ge président
+\ge chef.de.pays
+\gv roi
+\gv président
 \lt (pays.chef)
-\dt 16/Aug/2006
+\dt 01/Dec/2014
 
 \lx jàmatɔn
 \mm jàma:n:foule
@@ -44649,6 +44678,14 @@ doigts par des fileuses du coton)
 \ge crever
 \dt 16/Aug/2006
 
+\lx jífilen
+\mm jí:n:eau
+\mm fílen:n:calebasse.demi-sphérique
+\ps n
+\ge puisette
+\gv outre pour puiser
+\dt 07/Dec/2014
+
 \lx jigi
 \ps adj
 \ge mâle
@@ -46436,11 +46473,12 @@ doigts par des fileuses du coton)
 \ps n
 \sn 1
 \ge sang.d'un.hématome
-\gv 'bleu'
+\gv bleu
+\smf (eccymose)
 \lt (sang.mort)
 \sn 2
 \gv sang.coagulé
-\dt 26/Sep/2006
+\dt 30/Nov/2014
 
 \lx jólo
 \ps n
@@ -48292,9 +48330,9 @@ doigts par des fileuses du coton)
 \lx káankaan
 \ps n
 \ge oiseau.Corvus.albus
-\gv 'corbeau.pie'
+\gv corbeau pie
 \ee (en région semi-aride)
-\dt 26/Sep/2006
+\dt 30/Nov/2014
 
 \lx kàanki
 \va kàaki
@@ -57758,10 +57796,10 @@ doigts par des fileuses du coton)
 \mm nin:mrph:DIM
 \ps n
 \ge arbuste.Vitex.chrysocarpa
-\gv 'koro des berges'
+\gv koro des berges
 \sd verb
 \ee (aime l'eau)
-\dt 26/Sep/2006
+\dt 30/Nov/2014
 
 \lx kòroninfin
 \mm kòro:n:arbre.Vitex
@@ -57783,13 +57821,13 @@ doigts par des fileuses du coton)
 \lt (petit 'Vitex'.odeur.mauvaise)
 \sn 1
 \ge arbre.Vitex.madiensis
-\gv 'koro denté'
+\gv koro denté
 \sd verb
-\ee fruit comestible)
+\ee (fruit comestible)
 \sn 2
 \gv arbre.Vitex.barbata
 \sd verb
-\dt 26/Sep/2006
+\dt 30/Nov/2014
 
 \lx kòronto
 \va kòrono
@@ -62491,6 +62529,13 @@ avec ŋɔni = épine !)
 \ge reculer
 \lt (arrière.sabot.éloigner)
 \dt 26/Sep/2006
+
+\lx kɔ̀woronto
+\mm kɔ̀:n:marigot
+\ps n
+\ge flux
+\gv torrent
+\dt 02/Dec/2014
 
 \lx kɔ̀wùlu
 \mm kɔ̀:n:marigot
@@ -68490,8 +68535,7 @@ avec ŋɔni = épine !)
 \vl vt
 \sn 1
 \ge réprimander.vertement
-\gv 'engueuler'
-\lt (préf.humilier ?)
+\gv engueuler
 \xv à fà y'á lájaba
 \xe son père l'a sévèrement grondé
 \sn 2
@@ -68502,7 +68546,7 @@ avec ŋɔni = épine !)
 \gv aggraver
 \xv màajugu nàna  ù ká kɛ̀lɛ lájaba
 \xe de méchantes  personnes sont venues attiser leur querelle
-\dt 26/Sep/2006
+\dt 30/Nov/2014
 
 \lx lájàmu
 \mm lá:mrph:CAUS
@@ -69281,12 +69325,12 @@ avec ŋɔni = épine !)
 \gv faire.revenir
 \dt 26/Sep/2006
 
-\lx lámàa
-\mm lá:mrph:CAUS
-\mm màa:v:toucher
-\va lá.màga
+\lx lámàga
 \mm lá:mrph:CAUS
 \mm màga:v:toucher
+\va lá.màa
+\mm lá:mrph:CAUS
+\mm màa:v:toucher
 \ps v
 \vl vt
 \sn 1
@@ -69299,7 +69343,7 @@ avec ŋɔni = épine !)
 \sn 3
 \gv reprendre
 \ee (maladie, plaie ...)
-\dt 26/Sep/2006
+\dt 01/Dec/2014
 
 \lx lámàgaya
 \mm lá:mrph:CAUS
@@ -69458,12 +69502,12 @@ avec ŋɔni = épine !)
 \xe le sorgho est en épis, mais ils sont encore laiteux
 \dt 26/Sep/2006
 
-\lx lámìna
-\mm lá:mrph:CAUS
-\mm mìna:v:attraper
-\va lá.mìnɛ
+\lx lá.mìnɛ
 \mm lá:mrph:CAUS
 \mm mìnɛ:v:attraper
+\va lámìna
+\mm lá:mrph:CAUS
+\mm mìna:v:attraper
 \va rɔ́.mìnɛ
 \mm rɔ́:mrph:IN
 \mm mìnɛ:v:attraper
@@ -69504,7 +69548,7 @@ avec ŋɔni = épine !)
 \ee maîtriser ses mauvais penchants
 \xv í láminɛ dɔ́rɔn !
 \xe sois un peu maître de toi !
-\dt 26/Sep/2006
+\dt 30/Nov/2014
 
 \lx lámini
 \mm lá:mrph:CAUS
@@ -69831,6 +69875,11 @@ avec ŋɔni = épine !)
 \ps n
 \ge dénigrement
 \dt 10/Jun/2013
+
+\lx lànpan
+\ps n
+\ge lampe
+\dt 27/Nov/2014
 
 \lx lánsiri
 \mm lan:mrph:dans
@@ -75975,6 +76024,17 @@ n'est pas près de disparaître
 \xe à quoi penses-tu ?
 \dt 26/Sep/2006
 
+\lx míiribali
+\mm míiri:v:penser
+\mm bali:mrph:PTCP.PRIV
+\ps ptcp
+\ge étourdi
+\gv inconscient
+\gv irréfléchi
+\gv insouciant
+\gv impoli
+\dt 07/Dec/2014
+
 \lx míiribaliya
 \mm míiri:v:penser
 \mm bali:mrph:PTCP.PRIV
@@ -76302,13 +76362,14 @@ nord-est
 
 \lx míniɲa
 \va míni.ɲan
+\va míniyan
 \ps n
 \ge python
 \gv boa.constricteur
 \lat Python.sebae
 \ee ---> 9,50 m
 \lt (enrouler.python)
-\dt 04/Jul/2013
+\dt 02/Dec/2014
 
 \lx mínisiri
 \ps n
@@ -82514,12 +82575,6 @@ nord-est
 \lt ( ? . ? .jus)
 \dt 16/Aug/2006
 
-\lx ngolonin
-\ps n
-\ge cheval.roux
-\gv
-\dt 27/Nov/2014
-
 \lx ngómi
 \ps n
 \ge rosée
@@ -83354,7 +83409,6 @@ nord-est
 \dt 10/Jan/2013
 
 \lx nìn
-\vc nì
 \ph [le ton est ponctuel bas devant une syllabe haute, modulé ascendant devantune syllabe basse]
 \ps dtm/prn
 \ge DEM
@@ -83378,7 +83432,7 @@ nord-est
 \xe ces maisons
 \xv í tɛ́  nìnnu fɛ̀ ?
 \xe tu ne veux pas ceux-ci ?
-\dt 26/Sep/2006
+\dt 03/Dec/2014
 
 \lx nìnaa
 \va nènaa
@@ -83481,9 +83535,12 @@ nord-est
 \lx nìnnú
 \mm nìn:dtm/prn:DEM
 \mm nú:mrph:PL2
+\va nùnu
+\mm nìn:dtm/prn:DEM
+\mm nú:mrph:PL2
 \ps dtm/prn
 \ge DEM.PL
-\dt 24/Oct/2012
+\dt 03/Dec/2014
 
 \lx nìri
 \ps v
@@ -84553,12 +84610,17 @@ nord-est
 
 \lx nkólonin
 \vc nkólon
+\va ngólon
+\va ngólonin
 \ps n
+\sn 1
 \ge antilope.ourébi
 \lat Ourebia.ourebi
 \lt (ourebi.petite)
 \ee petite antilope de la savane, 12 kg)
-\dt 16/Aug/2006
+\sn 2
+\gv cheval rouan
+\dt 28/Nov/2014
 
 \lx nkólonìnjɛ́
 \mm jɛ́:vq/adj:blanc
@@ -89882,14 +89944,9 @@ nord-est
 \mm tòn:n:tas
 \ps n
 \lt ordure-tas
-\sn 1
+\sn
 \ge tas.d'ordures
-\sn 2
-\gv 'Tas.d'ordures'
-\sm prénom
-\xv ɲàmaton yé búnɛrɔtɔgɔ yé
-\rem b
-\dt 11/Nov/2007
+\dt 30/Nov/2014
 
 \lx ɲàmatɔ
 \mm ɲàma:n:force.occulte
@@ -98339,6 +98396,19 @@ nord-est
 \gv au-dessus.de
 \dt 24/Jun/2013
 
+\lx sánfɛfɛn
+\mm sán:n:ciel
+\mm fɛ̀:pp:vers
+\mm fɛ́n:n:chose
+\ps n
+\sn 1
+\ge oiseau
+\sn 2
+\gv objet qui se trouve en hauteur
+\sn 3
+\gv maladie de convulsions
+\dt 07/Dec/2014
+
 \lx sánfɛla
 \mm sán:n:haut
 \mm fɛ̀:pp:vers
@@ -98834,6 +98904,17 @@ nord-est
 \lt (deuil.message)
 \sn 2
 \gv qui annonce un décès
+
+\lx sánnafɛn
+\mm sán:n:haut
+\mm ná:pp:dans
+\mm fɛ́n:n:chose
+\ps n
+\sn 1
+\ge oiseau
+\sn 2
+\gv maladie de convulsions
+\dt 07/Dec/2014
 
 \lx sánnakalansoba
 \mm sán:n:haut
@@ -100966,7 +101047,7 @@ nord-est
 \rem sens précis à vérifier / chercher sens fig)
 \dt 11/Nov/2007
 
-\lx sènnásɔ̀n
+\lx sènnasɔ̀n
 \mm sèn:n:jambe
 \mm násɔ̀n:v:conserver
 \ps v
@@ -100977,7 +101058,7 @@ nord-est
 \xv dùgu máa tíla, màa sènna bɛ́ sɔ̀n
 \xv màa bɛ́ sènnasɔn
 \xe vers minuit, il n'y a plus de circulation
-\dt 26/Sep/2006
+\dt 07/Dec/2014
 
 \lx sènnasumaya
 \mm sèn.na:n:allure
@@ -101007,18 +101088,28 @@ nord-est
 \xe et les terminer par des pistes piétonnes de 2m (kb 5/05 p.2)
 \dt 11/Nov/2007
 
-\lx sènnatɛliya
+\lx sènnateli
 \mm sèn.na:n:allure
 \mm sèn:n:jambe
-\mm na:mrph:MNT1
-\mm tɛ́li:vq:être.rapide
-\mm ya:mrph:DEQU
+\mm na:mrph:dans
+\mm téli:adj:rapide
+\ps adj
+\ge pressé
+\gv rapide
+\dt 07/Dec/2014
+
+\lx sènnateliya
+\mm sèn.na:n:allure
+\mm sèn:n:jambe
+\mm na:mrph:dans
+\mm téli:adj:rapide
+\mm ya:mrph:ABSTR
 \ps v
 \vl vr
 \ge presser.l'allure
 \sm (pour le piéton)
 \lt (pas.hâter)
-\dt 16/Aug/2006
+\dt 07/Dec/2014
 
 \lx sènnayaala
 \mm sèn:n:jambe
@@ -103867,11 +103958,15 @@ trompe)
 \va síninkan
 \mm sínin:n:demain
 \mm kán:n:cou
+\va sínimakan
+\mm síni:n:demain
+\mm ma:pp:à
+\mm kán:n:cou
 \ps n
 \ge paroles.malveillantes
 \lt (demain.parole)
 \ee paroles qu'on n'oubliera pas demain)
-\dt 27/Nov/2014
+\dt 29/Nov/2014
 
 \lx sínikɛnɛ
 \mm síni:n:demain
@@ -111739,7 +111834,7 @@ fiançailles
 
 \lx tɛ́gɛma
 \mm tɛ́gɛ:n:paume
-\mm ma:mrph:dans
+\mm ma:mrph:SUPER
 \ps n
 \ge main
 \lt (main.contact)
@@ -111747,32 +111842,34 @@ fiançailles
 \xe il est avare
 \xv à tɛ́gɛma ká ɲì
 \xe il est habile de ses mains
+\dt 07/Dec/2014
 
 \lx tɛ́gɛmagɛlɛn
 \mm tɛ́gɛ.ma:n:main
 \mm tɛ́gɛ:n:paume
-\mm ma:mrph:dans
-\mm gɛ̀lɛn:vq/adj:dur
+\mm ma:mrph:SUPER
+\mm gɛ̀lɛn:adj:dur
 \ps adj/n
 \ge avare
 \lt (main.contact.dur)
-\dt 12/Aug/2006
+\dt 07/Dec/2014
 
 \lx tɛ́gɛmagɛlɛya
 \mm tɛ́gɛ.ma:n:main
 \mm tɛ́gɛ:n:paume
-\mm ma:mrph:dans
-\mm gɛ̀lɛ:vq/adj:dur
+\mm ma:mrph:SUPER
+\mm gɛ̀lɛ:adj:dur
 \mm ya:mrph:ABSTR
 \ps n
 \ge avarice
 \lt (avare.suf abs)
+\dt 07/Dec/2014
 
-\lx tɛ́gɛmagɛ̀lɛya
+\lx tɛ́gɛmagɛlɛya
 \mm tɛ́gɛ.ma:n:main
 \mm tɛ́gɛ:n:paume
-\mm ma:mrph:dans
-\mm gɛ̀lɛ:vq/adj:dur
+\mm ma:mrph:SUPER
+\mm gɛ̀lɛ:adj:dur
 \mm ya:mrph:DEQU
 \ps v
 \vl vr ?
@@ -111780,7 +111877,7 @@ fiançailles
 \ge faire.l'avare
 \xv á kàna á tɛ́gɛmagɛlɛya á bálema fàantan fàn fɛ̀
 \xe tu ne fermeras pas ta main à ton frère pauvre (Dt 15, 7)
-\dt 11/Nov/2007
+\dt 07/Dec/2014
 
 \lx tɛ́gɛn
 \va tángi
@@ -115333,34 +115430,29 @@ fiançailles
 \dt 04/Jul/2013
 
 \lx tɔ̀ɲɔgɔn
-\mm ɲɔ́gɔn:prn:RECP
 \va tɔ̀ɲɔɔn
-\mm ɲɔ́ɔn:prn:RECP
 \ps n
 \ge camarade
 \gv compagnon
 \gv copain
 \lt (autre.semblable)
-\dt 27/Apr/2014
+\dt 07/Dec/2014
 
 \lx tɔ̀ɲɔgɔnkɛ
 \mm tɔ̀ɲɔgɔn:n:camarade
-\mm ɲɔ́gɔn:prn:RECP
 \mm kɛ:adj:mâle
 \va tɔ̀ɲɔɔn.kɛ
 \mm tɔ̀ɲɔɔn:n:camarade
-\mm ɲɔ́ɔn:prn:RECP
 \mm kɛ:adj:mâle
 \ps n
 \ge camarade
 \gv compagnon
 \gv copain
 \lt (camarade.masculin)
-\dt 28/Feb/2014
+\dt 07/Dec/2014
 
 \lx tɔ̀ɲɔgɔnma
-\mm tɔ̀.ɲɔgɔn:n:camarade
-\mm ɲɔ́gɔn:prn:RECP
+\mm tɔ̀ɲɔgɔn:n:camarade
 \mm ma:mrph:RECP.PRN
 \ps n
 \lt camarade-qui est
@@ -115368,35 +115460,31 @@ fiançailles
 \xv sò ní màaninfin kɛ́ra tɔ̀ɲɔgɔnma yé
 \xe le poulain et l'enfant sont nés le même jour
 \rem f
-\dt 27/Apr/2014
+\dt 07/Dec/2014
 
 \lx tɔ̀ɲɔgɔnmuso
-\mm tɔ̀.ɲɔgɔn:n:camarade
-\mm ɲɔ́gɔn:prn:RECP
+\mm tɔ̀ɲɔgɔn:n:camarade
 \mm mùso:adj:femme
-\va tɔ̀.ɲɔɔn.muso
-\mm tɔ̀.ɲɔɔn:n:camarade
-\mm ɲɔ́ɔn:prn:RECP
+\va tɔ̀ɲɔɔn.muso
+\mm tɔ̀ɲɔɔn:n:camarade
 \mm mùso:adj:femme
 \ps n
 \gv compagne
 \gv camarade
 \gv copine
 \lt (camarade.féminin)
-\dt 27/Apr/2014
+\dt 07/Dec/2014
 
 \lx tɔ̀ɲɔgɔnya
-\mm tɔ̀.ɲɔgɔn:n:camarade
-\mm ɲɔ́gɔn:prn:RECP
+\mm tɔ̀ɲɔgɔn:n:camarade
 \mm ya:mrph:ABSTR
 \va tɔ̀.ɲɔɔn.ya
-\mm tɔ̀.ɲɔɔn:n:camarade
-\mm ɲɔ́ɔn:prn:RECP
+\mm tɔ̀ɲɔɔn:n:camarade
 \mm ya:mrph:ABSTR
 \ps n
 \ge camaraderie
 \lt (camarade.suf abs)
-\dt 27/Apr/2014
+\dt 07/Dec/2014
 
 \lx tɔ́ɔrɔ
 \ps n
@@ -115889,7 +115977,7 @@ fiançailles
 \lt (encore.suf)
 \xv dénnin nàna ní  dúmuni yé túgunni
 \xe la jeune fille a de nouveau apporté de la nourriture
-\dt 26/Sep/2006
+\dt 03/Dec/2014
 
 \lx tùgusɔn
 \mm tùgu:n:bras
@@ -119677,14 +119765,6 @@ aîné ... (Kb 11/06 p.4)
 \va ɔ́rɔbu
 \ps n
 \ge robe
-
-\lx wɔ̀rɔndɔ
-\ps v
-\vl vi
-\ge passer.aux.aveux
-\ee (un sorcier)
-\gv
-\dt 22/Nov/2014
 
 \lx wɔ̀rɔnkɔmi
 \ve (bk)
