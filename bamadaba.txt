@@ -1336,11 +1336,11 @@
 \dt 07/Mar/2014
 
 \lx báatara
-\vc bátara
+\va bátara
 \ps n
 \ge inutilité
 \ee qui ne vaut rien (seulement en composition ?)
-\dt 07/Mar/2014
+\dt 18/Dec/2014
 
 \lx báataraden
 \mm báatara:n:inutilité
@@ -8347,10 +8347,9 @@ bâton de berger
 \vl vt
 \ge presser
 \gv étreindre
-\xx bíri (tráire)
 \xv ù bɛ́  lèmuru bísi  k'à jí bɔ́
 \xe ils expriment le jus des citrons
-\dt 26/Sep/2006
+\dt 18/Dec/2014
 
 \lx bìsigi
 \ps n
@@ -14583,6 +14582,12 @@ sur soi)
 \sn 2
 \gv traverser
 \dt 16/Aug/2006
+
+\lx cɛ́rɔ
+\ps n
+\ge cheval.roux.dos.ventre.blancs
+\gv cheval alezan roux au dos et au ventre blancs
+\dt 18/Dec/2014
 
 \lx cɛ̀samuso
 \mm cɛ̀:n:mâle
@@ -22270,13 +22275,15 @@ rétribution mais à titre de réciprocité)
 \lx dɛ̀nkɛlɛnya
 \ve (f)
 \va dànkaniya
+\va dɛ̀ngɛnɛya
+\a dɛ̀nkɛrɛnya
 \ps v
 \vl vr
 \ge s'en.remettre
 \gv renoncer.à
 \xv k'ì dɛ̀nkɛlɛnya  Ála lá
 \xe s'en remettre à Dieu
-\dt 26/Sep/2006
+\dt 12/Dec/2014
 
 \lx dɛ́nkuru
 \va dénkoro
@@ -28563,12 +28570,12 @@ désorienter')
 \lx fàlen
 \ps v
 \vl vt
-\ms 1
+\sn 1
 \ge échanger
 \gv faire.de.la.monnaie
 \sn 2
 \gv modifier
-\dt 20/Jul/2014
+\dt 18/Dec/2014
 
 \lx fálen
 \ps v
@@ -31110,18 +31117,6 @@ désorienter')
 \ee rare
 \dt 10/Apr/2013
 
-\lx fɛ́nba
-\mm fɛ́n:n:chose
-\mm ba:mrph:AUGM
-\ps n
-\sn 1
-\ge être.important
-\sm ( Dieu ...)
-\lt (être.grand)
-\sn 2
-\gv grande.affaire
-\dt 16/Aug/2006
-
 \lx fɛ́nbɔla
 \mm fɛ́n:n:chose
 \mm bɔ́:v:sortir
@@ -32043,22 +32038,14 @@ la virginité (pièce de monnaie sans trou)
 \xe considère-le comme un menteur !
 \sn 2
 \gv faire.la.divination
-\sm à propos de ...
-\ms 3
-\gvf considérer
-\smf (comme -- yé)
-\gve consider
-\sme (as -- yé)
-\gvr считать
-\smr (чем -- yé)
-\ms 4
-\gvf prendre
-\smf (pour -- yé)
-\gve take
-\sme (for -- yé)
-\gvr принимать
-\smr (за -- yé)
-\dt 02/Feb/2014
+\ee à propos de ...
+\sn 3
+\gv considérer
+\ee (comme -- yé)
+\sn 4
+\gv prendre
+\ee (pour -- yé)
+\dt 18/Dec/2014
 
 \lx fílɛli
 \mm fílɛ:v:regarder
@@ -37674,8 +37661,8 @@ la virginité (pièce de monnaie sans trou)
 \ps n
 \ge pantalon.de.chasseur
 \ee (sans bouffant, moulé aux jambes)
-\src KT
-\dt 18/Apr/2014
+\so KT
+\dt 18/Dec/2014
 
 \lx gànkala
 \mm gàn:n:reste.des.tiges.de.mil
@@ -40791,9 +40778,8 @@ doigts par des fileuses du coton)
 \gv étourderie
 \gv sottise
 \lt (étourdi.suf abs)
-\xx hákilintanyako  = úne étourderie
 \sy hákilintanyako
-\dt 26/Sep/2006
+\dt 18/Dec/2014
 
 \lx hákiliɲaami
 \mm hákili:n:esprit
@@ -41391,6 +41377,12 @@ doigts par des fileuses du coton)
 \ps n
 \ge pèlerin
 \lt (pélerinage.enfant)
+
+\lx híjira
+\ps n
+\ge hégire
+\gv
+\dt 12/Dec/2014
 
 \lx hìmihimi
 \va tìmitimi
@@ -46717,9 +46709,9 @@ doigts par des fileuses du coton)
 \sn 2
 \gv contenance
 \xv kà bɔ́ í jɔ̀yiri kɔ́nɔ
-\src KT
+\so KT
 \xe perdre pied, perdre contenance
-\dt 18/Apr/2014
+\dt 18/Dec/2014
 
 \lx jɔ̀jɔlibaga
 \mm jɔ̀jɔ:v:suivre
@@ -48144,13 +48136,14 @@ doigts par des fileuses du coton)
 \lx ká
 \va k'
 \ps pm
-\ge OPT
+\ge SBJV
 \sm marque d’optatif
 \ee dans ce cas on peut avoir un ton haut de même dans les bénédictions et les souhaits
 \xv á ká táa  fòro lá !
 \xe partez au champ !
 \xv Ála ká tìle hɛ́rɛ cáya !
 \xe Que Dieu (nous) accorde une bonne journée !
+\dt 18/Dec/2014
 
 \lx ká
 \ps onomat
@@ -48975,7 +48968,8 @@ doigts par des fileuses du coton)
 
 \lx káfen
 \ps n
-\ge mésure.de.longueur
+\ge mesure.de.longueur
+\dt 18/Dec/2014
 
 \lx kàfo
 \ps n
@@ -51179,7 +51173,7 @@ doigts par des fileuses du coton)
 \mm kànkari.ma.dá:v:avertir
 \mm kànkari:n:mise.en.garde
 \mm mà:mrph:SUPER
-\mma dá:v:poser
+\mm dá:v:poser
 \mm kán:n:cou
 \ps n
 \lt avertir-parole
@@ -51187,7 +51181,7 @@ doigts par des fileuses du coton)
 \sy kànkaridalikan
 \sy kànkaridakan
 \nt kb 1/05 p6
-\dt 11/Nov/2007
+\dt 18/Dec/2014
 
 \lx kánkelen
 \mm kán:n:cou
@@ -57457,17 +57451,16 @@ doigts par des fileuses du coton)
 \ee (sorte de croix X, prive de ses règles la femme qui touche à leur gibier !)
 \dt 16/Aug/2006
 
-\lx kónɲi
-\mm kón:n:porte
-\mm ɲí:n:dent
-\va kón.ɲin
+\lx kónɲin
 \mm kón:n:porte
 \mm ɲín:n:dent
-\ee * xas : xundiŋo = élément de porte !
+\va kón.ɲi
+\mm kón:n:porte
+\mm ɲí:n:dent
 \ps n
 \ge clef
 \lt (porte.dent)
-\dt 16/Aug/2006
+\dt 18/Dec/2014
 
 \lx kónsɔ̀gɔ
 \mm kón:n:porte
@@ -66232,7 +66225,13 @@ avec ŋɔni = épine !)
 \xe le renom qu'avait Tombouctou autrefois ... (kb 10/05 p.9)
 \dt 11/Nov/2007
 
-\lx kúnuni
+\lx kúnunkò
+\ps adv
+\ge autrefois
+\gv hier
+\dt 28/Sep/2014
+
+\lx kúnunni
 \mm kúnu:v:se.réveiller
 \mm ni:mrph:NMLZ
 \ps n
@@ -66241,13 +66240,7 @@ avec ŋɔni = épine !)
 \lt (réveiller.action)
 \sn 2
 \gv résurrection
-\dt 15/Aug/2006
-
-\lx kúnunkò
-\ps adv
-\ge autrefois
-\gv hier
-\dt 28/Sep/2014
+\dt 18/Dec/2014
 
 \lx kúnuwò
 \ee *kunu ò = cet hier là
@@ -76360,8 +76353,7 @@ nord-est
 \lt (tourner. ?)
 \dt 08/Nov/2012
 
-\lx míniɲa
-\va míni.ɲan
+\lx míniɲan
 \va míniyan
 \ps n
 \ge python
@@ -76369,7 +76361,7 @@ nord-est
 \lat Python.sebae
 \ee ---> 9,50 m
 \lt (enrouler.python)
-\dt 02/Dec/2014
+\dt 18/Dec/2014
 
 \lx mínisiri
 \ps n
@@ -76404,10 +76396,10 @@ nord-est
 \ge lorsque
 \gv dès.que
 \ee (toujours en fin de phrase)
-\xv à séra mínkɛ
+\xv à séra mínkɛ̂
 \xe quand il est arrivé ...
 \ee * l'étymologie à partir du relatif min et de kɛ (faire) présente des difficultés concernant l'ordre des mots
-\dt 10/Nov/2014
+\dt 08/Dec/2014
 
 \lx mìnkɔn
 \ps n
@@ -77054,8 +77046,8 @@ nord-est
 \mm dén:n:enfant
 \ps n
 \ge apprenti.marabout
-\src KT
-\dt 18/Apr/2014
+\so KT
+\dt 18/Dec/2014
 
 \lx mórikolo
 \mm móri:n:marabout
@@ -78790,6 +78782,12 @@ nord-est
 \ee frais occasionnés par ...
 \dt 26/Sep/2006
 
+\lx mùsaka
+\ps v
+\ge subventionner
+\gv dépenser
+\dt 12/Dec/2014
+
 \lx músalaha
 \va músalaka
 \ps n
@@ -79501,13 +79499,15 @@ nord-est
 \dt 16/Aug/2006
 
 \lx náafigi
+\va náanfigi
+\va múnaafigi
 \bw ar: mu]nafiq = hypocrite
 \ps adj/n
 \ge rapporteur
 \gv indiscret
 \xv náafigi bɛ́  mɔ̀gɔ bìla  ɲɔ́gɔn ná
 \xe le rapporteur crée la zizanie
-\dt 26/Sep/2006
+\dt 12/Dec/2014
 
 \lx náafigiya
 \mm náafigi:adj/n:rapporteur
@@ -83563,15 +83563,13 @@ nord-est
 \lx nísɔn
 \mm ní:n:âme
 \mm sɔ̀n:n:cœur
-\ee *
-\xx xá : níto = í.
 \ps n
 \ge humeur
 \gv caractère
 \lt (âme.endroit)
 \xv à nísɔn ká dí
 \xe il est gai
-\dt 23/Nov/2012
+\dt 18/Dec/2014
 
 \lx nísɔndiya
 \mm ní.sɔn:n:humeur
@@ -84222,11 +84220,24 @@ nord-est
 \dt 26/Sep/2006
 
 \lx nkàsaki
+\va gàsaki
+\va kàsaki
 \ps v
+\sn 1
 \vl vt
 \ge montrer.dents
 \ee (animaux, hommes = type de grimace)
-\dt 16/Aug/2006
+\sn 2
+\gv ouvrir grand les yeux
+\dt 11/Dec/2014
+
+\lx nkàsaki
+\va gàsaki
+\va kàsaki
+\ps adv
+\ge proéminent
+\gv
+\dt 11/Dec/2014
 
 \lx nkásaki
 \ps onomat
@@ -84549,8 +84560,7 @@ nord-est
 \lat Cercopithecus.aethiops.sabaeus
 \ee (petit singe arboricole, 40 / 60 cm)
 \sy sòlafin
-\xx (díscute)
-\dt 26/Sep/2006
+\dt 18/Dec/2014
 
 \lx nkòbanin
 \mm nkòba:n:vervet
@@ -84561,8 +84571,7 @@ nord-est
 \lat Cercopithecus.aethiops.sabaeus
 \ee (petit singe arboricole, 40 / 60 cm)
 \sy sòlafin
-\xx (díscute)
-\dt 26/Sep/2006
+\dt 18/Dec/2014
 
 \lx nkógonin
 \mm nkógo:n:tortue.aquatique
@@ -84620,7 +84629,8 @@ nord-est
 \ee petite antilope de la savane, 12 kg)
 \sn 2
 \gv cheval rouan
-\dt 28/Nov/2014
+\gv cheval alezan roux à garot blanc
+\dt 18/Dec/2014
 
 \lx nkólonìnjɛ́
 \mm jɛ́:vq/adj:blanc
@@ -90296,7 +90306,7 @@ nord-est
 \xv né t'á ɲɛ́dɔn
 \xe je ne sais pas comment ça marche, "la manière"
 \xv kó bɛ́ɛ kɛ́ra  à ɲɛ́ mà
-\xe #tout s'est passé normalement
+\xe tout s'est passé normalement
 \sn 5
 \gv page
 \gv côté
@@ -90321,7 +90331,7 @@ nord-est
 \ee (céréales)
 \xv ɲɔ̀ ɲɛ́ bɛ́  kà yɛ̀lɛ
 \xe le mil commence à greener
-\dt 16/Jun/2014
+\dt 18/Dec/2014
 
 \lx ɲɛ́
 \va ɲá
@@ -90684,12 +90694,11 @@ nord-est
 \mm màa:n:homme
 \lt (braver.lieu.personne)
 \ps n
-\gw sous-estimé
 \sn 1
 \ge qui.n’est.pas.respecté
 \sn 2
 \gv personne.que.l'on.sous-estime
-\dt 16/Aug/2006
+\dt 18/Dec/2014
 
 \lx ɲɛ́donya
 \mm ɲɛ́.dòn:v:braver
@@ -92815,16 +92824,16 @@ nord-est
 \mm tà:v:prendre
 \mm nci:mrph:AG.EX
 \ps n/ɑdj
-\ms 1
+\sn 1
 \ge dérisoire
 \gv sans importance
-\ms 2
+\sn 2
 \gv fanfaron
 \gv prétentieux
 \gv qui fait l'important
 \lt (premier.à l'excès)
 \ee (joue les premiers rôles sans en être chargé)
-\dt 19/Oct/2014
+\dt 18/Dec/2014
 
 \lx ɲɛ̀ɲɛ
 \va ɲɛ̀ɲɛn
@@ -93309,15 +93318,6 @@ nord-est
 \xe des fois tu es gentil, des fois tu es méchant
 \dt 26/Sep/2006
 
-\lx ɲì
-\va ɲìn
-\ee *ɲì : bon, en fonction nominale
-\ps n
-\ge ami
-\gv allié
-\gv partisan
-\dt 26/Sep/2006
-
 \lx ɲí
 \va ɲín
 \ps n
@@ -93415,13 +93415,6 @@ nord-est
 \xe l'observance de la religion empêche les noirs d'être cruels envers eux-mêmes (suicide) (kb 10 10/04 p.2
 \dt 11/Nov/2007
 
-\lx ɲìjugu
-\mm ɲì:n:ami
-\mm júgu:n:ennemi
-\ps n
-\ge ennemi
-\lt (ami.ennemi)
-
 \lx ɲími
 \ps n
 \ge pou.de.tête
@@ -93452,6 +93445,15 @@ nord-est
 \gv déranger
 \ee (objets, tête ...)
 \dt 26/Sep/2006
+
+\lx ɲìn
+\va ɲì
+\ee *ɲì : bon, en fonction nominale
+\ps n
+\ge ami
+\gv allié
+\gv partisan
+\dt 12/Dec/2014
 
 \lx ɲìna
 \va ɲìnan
@@ -93625,6 +93627,17 @@ nord-est
 \xv ɲìninkalikɛla tɛ́ fìli
 \xe celui qui pose des questions ne se trompe pas
 \dt 16/Aug/2006
+
+\lx ɲìnjugu
+\mm ɲìn:n:ami
+\mm júgu:n:ennemi
+\va ɲìjugu
+\mm ɲì:n:ami
+\mm júgu:n:ennemi
+\ps n
+\ge ennemi
+\lt (ami.ennemi)
+\dt 12/Dec/2014
 
 \lx ɲíntan
 \mm ɲí:n:dent
@@ -95623,9 +95636,8 @@ nord-est
 \gv pamplemousse
 \lat Citrus.decumana
 \sd ruta
-\xx lènburukuna  (néo)
 \sy lènburukuna
-\dt 26/Sep/2006
+\dt 18/Dec/2014
 
 \lx pán-tɔ̀n-ná
 \mm pán:v:sauter
@@ -98091,12 +98103,13 @@ nord-est
 \ee ---> 3 / 7 m (les différences ne sont pas évidentes d'où le même nom)
 \dt 26/Sep/2006
 
-\lx sàmaɲi
+\lx sàmaɲin
 \mm sàma:n:éléphant
-\mm ɲí:n:dent
+\mm ɲín:n:dent
 \ps n
 \ge ivoire
 \lt (éléphant.dent)
+\dt 18/Dec/2014
 
 \lx sàmaɲinɛnin
 \mm sàma:n:éléphant
@@ -104933,9 +104946,7 @@ trompe)
 \ge querelleur
 \sn 2
 \gv diabolique
-\lt (diable.qui a)
-\xx l'éxpression "í á lé díable áu có"
-\dt 26/Sep/2006
+\dt 18/Dec/2014
 
 \lx sìtanɛmako
 \mm sìtanɛ.ma:adj:querelleur
@@ -105403,8 +105414,8 @@ trompe)
 \lx sògolon
 \ps n
 \ge chat
-\xx jàkuma (é plú cóuran)
 \sy jàkuma
+\dt 18/Dec/2014
 
 \lx sógolon
 \va sógoo
@@ -107246,13 +107257,12 @@ trompe)
 \xv sú ìn ná
 \xe ce soir, cette nuit (celle qui vient)
 \xv sú rɔ́
-\sp expr
 \xe hier soir, la nuit dernière
 \xv sú fɛ̀
 \xe le soir, la nuit
 \xv àrabasu
 \xe mardi soir (mercredi-nuit)
-\dt 12/Aug/2006
+\dt 18/Dec/2014
 
 \lx sú
 \ps n
@@ -108069,12 +108079,11 @@ trompe)
 \mm sùmu:n:abcès
 \mm nin:mrph:DIM
 \va súmuni
-\xx xá  súmu.ndin =  í.
 \ps n
 \ge furoncle
 \gv abcès
 \lt (abcès.petit)
-\dt 26/Sep/2006
+\dt 18/Dec/2014
 
 \lx súmuso
 \mm sú:v:inciter
@@ -111005,6 +111014,13 @@ fiançailles
 \gv féliciter
 \dt 03/Oct/2013
 
+\lx tànu
+\va tànun
+\ps n
+\ge louange
+\gv félicitations
+\dt 12/Dec/2014
+
 \lx táɲa
 \mm tá:n:propriété
 \mm ɲà:v:réussir
@@ -111938,7 +111954,7 @@ fiançailles
 \va tɛ́ga
 \ph [tɛga]
 \ve (f)
-\ph [se dit d'une seule émission de voix au contraire du suivant]
+\ph [se dit d'une seule émission de voix au contraire du PROG.NEG]
 \ps pm
 \ge INFR.NEG
 \ee auxiliaire négatif de l'accompli transitif
@@ -111946,7 +111962,7 @@ fiançailles
 \xe il ne l'a pas vu
 \xv à sìnamuso tɛ́ka  dén wólo
 \xe sa coépouse n'a pas eu d'enfant
-\dt 24/Oct/2012
+\dt 18/Dec/2014
 
 \lx tɛ́kà
 \va tɛ́k'
