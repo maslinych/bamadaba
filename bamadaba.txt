@@ -78888,23 +78888,24 @@ nord-est
 \lx múnumunu
 \mm múnu:v:tourner
 \mm múnu:v:tourner
-\mm múnunmunun
+\va múnunmunun
 \ps v
 \vl vt
 \ge faire.tourner
 \gv faire.des.détours
 \xv án kà  án hákili múnu-múnu dɔ́ɔnin !
 \xe réfléchissons un peu !
-\dt 22/Dec/2014
+\dt 23/Dec/2014
 
 \lx múnumunu
 \mm múnu:v:tourner
 \mm múnu:v:tourner
+\va múnunmunun
 \ps n
 \ge tournoiement
 \gv mouvement circulaire
 \gv agitation
-\dt 08/Jul/2013
+\dt 23/Dec/2014
 
 \lx múnunan
 \mm múnu:v:tourner
@@ -101830,7 +101831,7 @@ nord-est
 \lx sèntonto
 \mm sèn:n:jambe
 \mm tónto:n:talon
-\mm sèntonton
+\va sèntonton
 \mm sèn:n:jambe
 \mm tónto:n:talon
 \va sèn.tontoli
@@ -101839,7 +101840,7 @@ nord-est
 \ps n
 \ge talon
 \lt (pied.talon)
-\dt 27/Nov/2014
+\dt 23/Dec/2014
 
 \lx sèntontolikolo
 \mm sèn.tontoli:n:talon
@@ -116359,11 +116360,11 @@ fiançailles
 \dt 16/Aug/2006
 
 \lx túfa
-\mm ntúfa
+\va ntúfa
 \ve (-f)
 \ps n
 \ge toit.de.chaume
-\dt 19/Dec/2014
+\dt 23/Dec/2014
 
 \lx tùfaden
 \mm tùfa:n:brique
