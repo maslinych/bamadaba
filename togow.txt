@@ -50,9 +50,8 @@
 
 \lx Ádama
 \ge NOM.MF
-\di mF
-\dt 02/May/2010
 \ps n.prop
+\dt 19/Dec/2014
 
 \lx Àfaana
 \ge NOM.M
@@ -1235,9 +1234,10 @@
 \ps n.prop
 
 \lx Ísa
+\va Yisa
 \di
 \ge NOM.M
-\dt 03/May/2010
+\dt 21/Dec/2014
 \ps n.prop
 
 \lx Ìsiaka

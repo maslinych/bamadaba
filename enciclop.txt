@@ -32,6 +32,11 @@
 \ee équipe de football
 \dt 15/May/2013
 
+\lx farawona
+\ps n
+\ge pharaon
+\dt 21/Dec/2014
+
 \lx Goli
 \ps n.prop
 \ge TOP
@@ -41,14 +46,32 @@
 \ps n
 \ge gaulois
 
+\lx Ibilisa
+\ps n.prop
+\ge Iblis
+\gv diable
+\dt 21/Dec/2014
+
 \lx jermani
 \va jɛrimani
 \ps n
 \ge germanique
 
+\lx Jibirila
+\ps n.prop
+\ge Djibril
+\gv Gabriel
+\ee l'archange
+\dt 21/Dec/2014
+
 \lx latɛn
 \ps n
 \ge latin
+
+\lx maani
+\ps n
+\ge manne
+\dt 21/Dec/2014
 
 \lx Malitɛli
 \ps n
@@ -83,6 +106,11 @@
 \ge Réal
 \ee équipe de football à Bamako
 \dt 03/May/2013
+
+\lx saabina
+\ps m
+\ge Sabéen
+\dt 21/Dec/2014
 
 \lx Sàmatasɛgɛw
 \ps n.prop
@@ -120,6 +148,12 @@
 \ge Stade
 \ee équipe de football à Bamako
 \dt 03/May/2013
+
+\lx Tawureta
+\ps n
+\ge Torah
+\gv Thora
+\dt 21/Dec/2014
 
 \lx wurubulu
 \ps v

@@ -250,6 +250,14 @@
 \sy sánmurubilen
 \dt 16/Aug/2006
 
+\lx álakira
+\mm ála:n:Dieu
+\mm kíra:n:prophète
+\ps m
+\ge Prophèt
+\gv Mahomet
+\dt 21/Dec/2014
+
 \lx álakota
 \mm Ála:n:Dieu
 \mm kóta:n:désobéissance
@@ -837,17 +845,21 @@
 \lx bá
 \ps n
 \sn 1
-\ge racine.mère
+\ge base
+\gv composante principale
+\sn 2
+\gv racine.mère
 \sm d'un arbre
 \gv bourbillon
 \sm d'un furoncle
-\sn 2
+\sn 3
 \gv importance
 \gv énergie
 \xv í má  à dòn  bá rɔ́
 \xe tu ne l'as pas pris au sérieux
 \xv í bá dòn  à lá
 \xe mets-y toute ton application
+\dt 21/Dec/2014
 
 \lx bàa
 \ve (f)
@@ -1585,6 +1597,14 @@
 \sy bárɔfaarɔ
 \sy mà
 \dt 16/Aug/2006
+
+\lx báfàlen
+\mm bá:n:base
+\mm fàlen:v:échanger
+\ps v
+\ge substituer
+\ee (avec des mauvaises intentions; terme coranique)
+\dt 21/Dec/2014
 
 \lx báfilabɛn
 \mm bá:n:fleuve
@@ -5001,14 +5021,14 @@
 \lt (hémorragie.ventre.mal)
 
 \lx básigi
-\mm bá:n:racine.mère
+\mm bá:n:base
 \mm sìgi:v:asseoir
 \ps n
 \ge sécurité
-\dt 27/Mar/2014
+\dt 21/Dec/2014
 
 \lx básìgi
-\mm bá:n:racine.mère
+\mm bá:n:base
 \mm sìgi:v:asseoir
 \ps v
 \vl vi
@@ -5021,10 +5041,10 @@
 \sn 2
 \gv être.ordonné
 \sm soigneux, consciencieux, sérieux
-\dt 27/Mar/2014
+\dt 21/Dec/2014
 
 \lx básigibali
-\mm bá:n:mère
+\mm bá:n:base
 \mm sìgi:v:asseoir
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
@@ -5034,10 +5054,10 @@
 \sn 2
 \gv inappliqué
 \lt (être stable.nég)
-\dt 26/Sep/2006
+\dt 21/Dec/2014
 
 \lx básigibaliya
-\mm bá:n:mère
+\mm bá:n:base
 \mm sìgi:v:asseoir
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
@@ -5046,10 +5066,10 @@
 \ge inconstance
 \sm manque de sérieux, d'application, de fermeté ...
 \rem bz, mol / l 89 : frivolité  du : agitation, énervement, instabilité
-\dt 11/Nov/2007
+\dt 21/Dec/2014
 
 \lx básigilenya
-\mm bá:n:mère
+\mm bá:n:base
 \mm sìgi:v:asseoir
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
@@ -5058,7 +5078,7 @@
 \gv calme
 \gv application
 \lt (appliqué.suf abs)
-\dt 26/Sep/2006
+\dt 21/Dec/2014
 
 \lx básiji
 \mm bási:n:sang
@@ -5496,7 +5516,7 @@
 \dt 26/Sep/2006
 
 \lx báyɛ̀lɛma
-\mm bá:n:mère
+\mm bá:n:base
 \mm yɛ̀lɛma:v:changer
 \ps v
 \vl vt
@@ -5512,7 +5532,7 @@
 \gv traduire
 \xv ù yé  fàama ká kúma báyɛlɛma  bámanakan ná
 \xe ils ont traduit en bambara les paroles du chef d'arrondissement
-\dt 21/Feb/2013
+\dt 21/Dec/2014
 
 \lx báyɛlɛmabaga
 \mm bá:n:mère
@@ -9773,6 +9793,14 @@ bâton de berger
 \lt (travail.mauvais)
 \dt 21/Nov/2012
 
+\lx bólolakaran
+\ps n
+\ge jeux.de.mains
+\gv bagarre pour plaisanter
+\gv chahut
+\gv taquinerie
+\dt 22/Dec/2014
+
 \lx bólolaminɛn
 \mm bólo:n:bras
 \mm la:mrph:LOC
@@ -11187,12 +11215,13 @@ bâton de berger
 \xv jí bɔ̀n  sù lá
 \xe faire des libations aux morts
 \xv dà dɔ́ bɔ̀nnen tɛ́, dà kà sà
-\xv même sí ón á fái tómbe dé gráine d'óseille, í én réste tóujou (pró)
+\xe même si on a fait tombé de graine d'oseille, il en reste
+toujours (pro)
 \xe une épouse décédée, on en trouve une autre
 \sn 2
 \gv tomber
 \ee (fruits, feuilles)
-\dt 26/Sep/2006
+\dt 19/Dec/2014
 
 \lx bɔ̀n
 \ps v
@@ -11266,6 +11295,15 @@ bâton de berger
 \xv á yé  né bɔ̀nɛ  né dén ná
 \xe vous m'avez fait perdre mes enfants
 \dt 26/Sep/2006
+
+\lx bɔ́nfɛ
+\mm bɔ́:v:sortir
+\mm ń:pers:je
+\mm fɛ̀:pp:vers
+\ps n
+\ge analogue
+\gv qqch. rassemblant
+\dt 21/Dec/2014
 
 \lx bɔ́nfɔla
 \mm bɔ́n:n:tambour
@@ -12871,6 +12909,13 @@ mort)
 \ge brouette
 \dt 06/Feb/2013
 
+\lx búsan
+\ps v
+\ge devenir.difficile
+\gv barder
+\gv faire du vilain
+\dt 19/Dec/2014
+
 \lx búsubɛsɛ
 \ps adv
 \ge admirablement
@@ -12954,6 +12999,12 @@ mort)
 \ps onomat
 \ge très.rouge
 \dt 16/Aug/2006
+
+\lx buwaji
+\ps adj
+\ge jaunâtre
+\gv (race de vache; un mot coranique)
+\dt 21/Dec/2014
 
 \lx búwati
 \ps n
@@ -13676,6 +13727,16 @@ mort)
 sur soi)
 \dt 18/Apr/2014
 
+\lx cɛ́fara
+\mm cɛ́:n:milieu
+\mm fára:v:diviser
+\ps v
+\ge fendre.en.deux
+\sn 2
+\gv brouiller
+\gv sémer la discorde
+\dt 21/Dec/2014
+
 \lx cɛ̀farinya
 \mm cè:n:mâle
 \mm fárin:adj:adrent
@@ -14275,6 +14336,15 @@ sur soi)
 \sd gram
 \lt ("prénom d'homme".noir)
 \dt 19/Aug/2006
+
+\lx cɛ́mata
+\mm cɛ́:n:milieu
+\mm mà:pp:à
+\mm tá:n:propriété
+\ps adj
+\ge moyen
+\ee (de l'âge)
+\dt 21/Dec/2014
 
 \lx cɛ̀minɛ
 \mm cɛ̀:n:mâle
@@ -20137,6 +20207,23 @@ rétribution mais à titre de réciprocité)
 \xe faire cette moue  (et ce bruit de la bouche)
 \dt 16/Aug/2006
 
+\lx dànsagon
+\mm dàn:n:limite
+\mm sàgon:v:sauter.par.dessus
+\ps n
+\ge transgression
+\gv révolte
+\dt 19/Dec/2014
+
+\lx dànsàgon
+\mm dàn:n:limite
+\mm sàgon:v:sauter.par.dessus
+\ps v
+\vl vi
+\ge transgresser
+\gv ne pas respecter les interdictions
+\dt 19/Dec/2014
+
 \lx dànsagonwale
 \mm dàn:n:limite
 \mm sàgon:v:sauter.par.dessus
@@ -20512,6 +20599,17 @@ rétribution mais à titre de réciprocité)
 \ge remuer.la.bouche.comme.si.on.suçait.qc
 \lt (bouche.contenu.sucer)
 \dt 16/Aug/2006
+
+\lx dárɔsàma
+\mm dá:n:bouche
+\mm rɔ́:pp:IN
+\mm sàma:v:tirer.à.soi
+\ps v
+\vl vt
+\ge contester
+\gv contredire
+\ee un mot coranique
+\dt 22/Dec/2014
 
 \lx dárɔtɔmɔ
 \mm dá:n:bouche
@@ -24056,6 +24154,11 @@ hypothèse interrogative
 \sm (maladie du mil)
 \dt 16/Aug/2006
 
+\lx dóndonnin
+\ps n
+\ge margouillat.femelle
+\dt 19/Dec/2014
+
 \lx dònfɛn
 \mm dòn:v:entrer
 \mm fɛ́n:n:chose
@@ -27557,6 +27660,13 @@ désorienter')
 \gv propriétaire.d'une.'concession'
 \dt 16/Aug/2006
 
+\lx dúumi
+\va dúumɛ
+\ps v
+\ge durer
+\gv persévérer
+\dt 21/Dec/2014
+
 \lx dùuru
 \va dùrugu
 \ve (-f,-bk)
@@ -30909,12 +31019,13 @@ désorienter')
 \va fyɛ́rɛ
 \ve (bn,f)
 \va fɛ́ɛrɔ
+\va fɛ́rɛ
 \ps n
 \ge guenilles
 \gv manque.d'habits
 \xv màa fɛ́ɛrɛ bɔ́
 \xe habiller qn, lui enlever ses haillons, le vêtir
-\dt 26/Sep/2006
+\dt 22/Dec/2014
 
 \lx fɛ́ɛrɛbagatɔ
 \mm fɛ́ɛrɛ:n:guenilles
@@ -30928,23 +31039,30 @@ désorienter')
 \mm fyɛ́rɛ:n:guenilles
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
+\va fɛ́rɛ.baa.tɔ
+\mm fɛ́rɛ:n:guenilles
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
 \ps n
 \ge loqueteux
 \gv personne en haillons
-\dt 24/Jun/2013
+\dt 22/Dec/2014
 
 \lx fɛ́ɛrɛbɔ
 \mm fɛ́ɛrɛ:n:guenilles
 \mm bɔ́:v:sortir
 \va fɛ́ɛrɔ.bɔ
 \mm fɛ́ɛrɔ:n:guenilles
+\mm bɔ́:v:sortir
+\va fɛ́rɛ.bɔ
+\mm fɛ́rɛ:n:guenilles
 \mm bɔ́:v:sortir
 \ps n
 \lt guenilles-enlever
 \ge l'habillement
 \sy fìni
 \rem l 89, Jos
-\dt 11/Nov/2007
+\dt 22/Dec/2014
 
 \lx fɛ́ɛrɛbɔ
 \mm fɛ́ɛrɛ:n:guenilles
@@ -30952,10 +31070,13 @@ désorienter')
 \va fɛ́ɛrɔ.bɔ
 \mm fɛ́ɛrɔ:n:guenilles
 \mm bɔ́:v:sortir
+\va fɛ́rɛ.bɔ
+\mm fɛ́rɛ:n:guenilles
+\mm bɔ́:v:sortir
 \ps v
 \ge habiller
 \gv pourvoir en vêtements
-\dt 25/Jun/2013
+\dt 22/Dec/2014
 
 \lx fɛ́ɛrɛn
 \va fyɛ́rɛn
@@ -31020,12 +31141,38 @@ désorienter')
 \xe il a la main leste, il est prompt à frapper
 \dt 26/Sep/2006
 
-\lx fɛ́gɛya
+\lx fɛ́gɛnya
+\mm fɛ́gɛn:vq:léger
+\mm ya:mrph:ABSTR
+\va fɛ́gɛya
 \mm fɛ́gɛn:vq:léger
 \mm ya:mrph:ABSTR
 \ps v
+\sn 1
 \vl vt
 \ge affaiblir
+\gv alléger
+\sn 2
+\gv fragiliser
+\sn 3
+\gv humilier
+\gv dénigrer
+\dt 21/Dec/2014
+
+\lx fɛ́gɛnya
+\mm fɛ́gɛn:vq:léger
+\mm ya:mrph:ABSTR
+\va fɛ́gɛya
+\mm fɛ́gɛn:vq:léger
+\mm ya:mrph:ABSTR
+\ps n
+\sn 1
+\ge affaiblissement
+\sn 2
+\gv dénigrement
+\sn 3
+\gv humiliation
+\dt 21/Dec/2014
 
 \lx fɛ̀ko
 \mm fɛ̀:pp:vers
@@ -32863,6 +33010,16 @@ la virginité (pièce de monnaie sans trou)
 \gv amélioration.de.la.santé
 \dt 25/Jun/2013
 
+\lx fìsamandiya
+\mm fìsa:vq:mieux
+\mm man:mrph:ADJ
+\mm díya:n:bon.goût
+\mm dí:vq:agréable
+\mm ya:mrph:DEQU
+\ps n
+\ge clémence
+\dt 21/Dec/2014
+
 \lx fìsamannci
 \mm fìsa:vq:mieux
 \mm man:mrph:ADJ
@@ -33960,6 +34117,21 @@ la virginité (pièce de monnaie sans trou)
 \xv à b'á bólo kùru  k'à fóni
 \xe elle plie et déplie son bras
 \dt 26/Sep/2006
+
+\lx fóni
+\ps v
+\ge fuir
+\ee (à l'approche de l'ennemi)
+\dt 21/Dec/2014
+
+\lx fóni
+\ps n
+\sn 1
+\ge fuite
+\gv exode
+\sn 2
+\gv colonne de fuyards
+\dt 21/Dec/2014
 
 \lx fónisire
 \ps n
@@ -36414,6 +36586,16 @@ la virginité (pièce de monnaie sans trou)
 \ps n
 \ge divorce
 \lt (mariage.mort)
+
+\lx fúrusà
+\mm fúru:n:mariage
+\mm sà:n:mort
+\ps v
+\vl vt
+\ge divorcer
+\gv répudier
+\ee rompre le mariage, pour un homme
+\dt 22/Dec/2014
 
 \lx fúrusasɛbɛn
 \mm fúru:n:mariage
@@ -41839,9 +42021,11 @@ doigts par des fileuses du coton)
 \lx jáabi
 \bw ar: gawaba = id.
 \ps n
+\sn 1
 \ge réponse
-\sy jáabili
-\dt 16/Aug/2006
+\sn 2
+\gv résultat des élections
+\dt 23/Dec/2014
 
 \lx jáabi
 \va láabi
@@ -42254,6 +42438,7 @@ doigts par des fileuses du coton)
 
 \lx jàhadi
 \va jàhadu
+\va jàadi
 \bw ar: gihad = guerre sainte
 \ps n
 \sn 1
@@ -42264,7 +42449,7 @@ doigts par des fileuses du coton)
 \sn 2
 \gv guerre sainte
 \ee (pour les musulmans)
-\dt 08/Apr/2014
+\dt 20/Dec/2014
 
 \lx jàhanama
 \va jàhanamɛ
@@ -44305,7 +44490,26 @@ doigts par des fileuses du coton)
 \lx jɛ̀n
 \va dìɲɛ
 \ps v
+\sn 1
 \ge accepter
+\gv permettre
+\gv accorder
+\gv consentir
+\sn 2
+\gv reconnaître
+\sn 3
+\gv renoncer à
+\gv abandonner
+\gv effacer
+\dt 21/Dec/2014
+
+\lx jɛ̀n
+\va dìɲɛ
+\ps n
+\ge consentement
+\gv accord
+\gv aval
+\dt 21/Dec/2014
 
 \lx jɛ̀nɛ
 \ps n
@@ -44333,6 +44537,7 @@ doigts par des fileuses du coton)
 
 \lx jɛ̀ngɛn
 \va jɛ̀ngɛ
+\va jɛ̀gɛn
 \ps v
 \sn 1
 \vl vt
@@ -44345,7 +44550,7 @@ doigts par des fileuses du coton)
 \sn 3
 \vl vi
 \gv être.malhonnête
-\dt 26/Sep/2006
+\dt 22/Dec/2014
 
 \lx jɛ̀njɛ
 \ps n
@@ -46176,6 +46381,15 @@ doigts par des fileuses du coton)
 \ge se.dépêcher
 \dt 26/Sep/2006
 
+\lx jógojuguya
+\mm jógo:n:conduite
+\mm júgu:adj:mauvais
+\mm ya:mrph:ABSTR
+\ps n
+\ge mauvais.comportement
+\gv mauvais caractère
+\dt 22/Dec/2014
+
 \lx jòkala
 \ps n
 \ge oiseau.téléphone.tchagra
@@ -46662,6 +46876,13 @@ doigts par des fileuses du coton)
 \gv place
 \gv efet
 \dt 25/Jun/2013
+
+\lx jɔ̀don
+\mm jɔ̀:n:station.debout
+\mm dón:n:jour
+\ps n
+\ge jour.du.jugement.dernier
+\dt 21/Dec/2014
 
 \lx jɔ̀gɔn
 \ve (-f)
@@ -48949,15 +49170,27 @@ doigts par des fileuses du coton)
 \lt (être fier.part.passé.suf abs)
 \dt 26/Sep/2006
 
+\lx kàfara
+\va kàfaara
+\ps n
+\sn 1
+\ge offrande.expiatoire
+\sn 2
+\gv punition
+\dt 22/Dec/2014
+
 \lx kàfari
+\va kàfaara
+\va kàfara
 \bw ar: gafara = pardonner
 \ps v
 \vl vi
 \sn 1
 \ge expier
+\gv absoudre
 \sn 2
 \gv pardonner
-\dt 16/Aug/2006
+\dt 22/Dec/2014
 
 \lx káfe
 \es (fr: café}
@@ -49017,6 +49250,14 @@ doigts par des fileuses du coton)
 \gv partenaire
 \sm (sexuel)
 \dt 26/Sep/2006
+
+\lx kàfoɲɔgɔnya
+\mm kàfo:v:rassembler
+\mm ɲɔ́gɔn:prn:RECP
+\mm ya:mrph:ABSTR
+\ps n
+\ge relations.sexuelles
+\dt 22/Dec/2014
 
 \lx kàfotigi
 \mm kàfo:n:canton
@@ -51039,6 +51280,15 @@ doigts par des fileuses du coton)
 \ge ton
 \ee (d'une langue à tons : néologisme)
 \lt (voix.mesure)
+
+\lx kánhɔrɔnya
+\mm kán:n:cou
+\mm hɔ́rɔnya:v:libérer
+\mm hɔ́rɔn:adj/n:libre
+\mm ya:mrph:ABSTR
+\ps v
+\ge libérer
+\dt 22/Dec/2014
 
 \lx káni
 \ps v
@@ -53357,6 +53607,18 @@ doigts par des fileuses du coton)
 \ps n
 \ge clitoris
 
+\lx kerecɛn
+\ps n
+\ge chrétien
+\dt 21/Dec/2014
+
+\lx kèrejigi
+\mm jigi:adj:mâle
+\ps n
+\ge margouillat.mâle
+\ee (terme de la région de Bugunin)
+\dt 19/Dec/2014
+
 \lx kérekete
 \va kélekele
 \ps n
@@ -55166,6 +55428,7 @@ doigts par des fileuses du coton)
 \lx kíri
 \va kíiri
 \va kíti
+\va kíiti
 \ps n
 \ge jugement
 \gv procès
@@ -55175,13 +55438,16 @@ doigts par des fileuses du coton)
 \xe juger qn en justice
 \xv kíri bìn  màa kàn
 \xe juger coupable qn, le punir
-\dt 28/Sep/2014
+\dt 22/Dec/2014
 
 \lx kíri
+\va kíiri
+\va kíti
+\va kíiti
 \ps v
 \vl vt
 \ge attaquer.en.justice
-\dt 05/Jun/2014
+\dt 22/Dec/2014
 
 \lx kìribi
 \ve (bn)
@@ -56235,6 +56501,14 @@ doigts par des fileuses du coton)
 \cf bása
 \xv kólan
 \dt 22/Sep/2013
+
+\lx kòlikɛfala
+\mm kɛ:adj:mâle
+\mm fála:n:orphelin
+\ps n
+\ge margouillat.mâle
+\ee dont la tête n'est pas orange
+\dt 19/Dec/2014
 
 \lx kòlila
 \mm kò:v:laver
@@ -57912,6 +58186,11 @@ doigts par des fileuses du coton)
 \sy ò dè y'á tó
 \dt 26/Oct/2014
 
+\lx kósuma
+\ps v
+\ge invoquer
+\dt 22/Dec/2014
+
 \lx kòta
 \ps v
 \vl vt
@@ -59408,11 +59687,14 @@ doigts par des fileuses du coton)
 \lx kɔ́munu
 \mm kɔ́:n:dos
 \mm múnu:v:tourner
+\va kɔ́munun
+\mm kɔ́:n:dos
+\mm múnun:v:tourner
 \ps v
 \vl vr
 \ge tourner.le.dos
 \lt (dos.tourner)
-\dt 16/Aug/2006
+\dt 22/Dec/2014
 
 \lx kɔ̀mùru
 \mm kɔ̀:n:marigot
@@ -59620,6 +59902,11 @@ avec ŋɔni = épine !)
 \vl vr
 \ge se.préparer
 \dt 16/Aug/2006
+
+\lx kɔ̀nkɔn
+\ps n
+\ge concombre
+\dt 21/Dec/2014
 
 \lx kɔ́nkɔn
 \ps v
@@ -62076,15 +62363,18 @@ avec ŋɔni = épine !)
 
 \lx kɔ̀rɔti
 \va kɔ̀rɔte
+\va kɔ̀rɔtɛ
 \ps n
 \ge poison.magique
-\dt 16/Aug/2006
+\dt 21/Dec/2014
 
 \lx kɔ̀rɔti
+\va kɔ̀rɔte
+\va kɔ̀rɔtɛ
 \ps v
 \vl vt
 \ge jeter.sort
-\dt 16/Aug/2006
+\dt 21/Dec/2014
 
 \lx kɔ́rɔtìgɛ
 \mm kɔ́rɔ:n:dessous
@@ -62256,6 +62546,14 @@ avec ŋɔni = épine !)
 \gv arbuste.Vernonia.amygdalina
 \sd aste
 \dt 19/Aug/2006
+
+\lx kɔ́sàgon
+\mm kɔ́:n:dos
+\mm sàgon:v:sauter.par.dessus
+\ps v
+\ge enjamber
+\gv passer par-dessus
+\dt 22/Dec/2014
 
 \lx kɔ́saladen
 \mm kɔ́sa:adj:récent
@@ -63136,6 +63434,14 @@ avec ŋɔni = épine !)
 \lt (mot.livre)
 \ee néologisme)
 \dt 26/Sep/2006
+
+\lx kúmafɛn
+\mm kú:n:igname
+\mm ma:mrph:COM
+\mm fɛ́n:n:chose
+\ps n
+\ge tubercule
+\dt 21/Dec/2014
 
 \lx kúmajeli
 \mm kúma:n:parole
@@ -64587,6 +64893,16 @@ avec ŋɔni = épine !)
 \lt (coup.bruit)
 \dt 26/Sep/2006
 
+\lx kùnkan
+\mm kùn:n:tête
+\mm kán:n:cou
+\ps n
+\ge problème
+\gv question
+\gv souci
+\gv préoccupation
+\dt 21/Dec/2014
+
 \lx kùnkanko
 \mm kùn:n:tête
 \mm kàn:pp:sur
@@ -65010,6 +65326,16 @@ avec ŋɔni = épine !)
 \xe il remplace déjà son père
 \dt 26/Sep/2006
 
+\lx kùnmabɔ
+\mm kùn:n:tête
+\mm mà:mrph:SUPER
+\mm bɔ́:v:sortir
+\ps n
+\sn
+\gv compensation
+\ee (le nom apparaît surtout dans la traduction du Coran)
+\dt 22/Dec/2014
+
 \lx kùnmabɔbaa
 \mm kùn.ma.bɔ:v:racheter
 \mm kùn:n:tête
@@ -65178,6 +65504,13 @@ avec ŋɔni = épine !)
 \gv avoir.honte
 \gv humilier
 \dt 25/Jun/2013
+
+\lx kunmatu
+\ps n
+\ge indemnité
+\gv compensation
+\ee mot coranique
+\dt 21/Dec/2014
 
 \lx kùnmayɛlɛma
 \ps n
@@ -65390,6 +65723,15 @@ avec ŋɔni = épine !)
 \gv faire.la.morale
 \gv humilier
 \dt 26/Sep/2006
+
+\lx kùnnagòsi
+\mm kùn:n:tête
+\mm ná:mrph:CAUS
+\mm gòsi:v:battre
+\ps n
+\ge réprimande
+\gv regret
+\dt 22/Dec/2014
 
 \lx kùnnajala
 \mm kùn:n:tête
@@ -66950,7 +67292,7 @@ avec ŋɔni = épine !)
 \dt 28/Mar/2013
 
 \lx lá
-\fq rá
+\va rá
 \va ná
 \ps conj
 \ge POSS
@@ -66959,7 +67301,7 @@ avec ŋɔni = épine !)
 \xe sa maison
 \xv ń ná mùru
 \xe mon couteau ( = à ka so / n ka mùru)
-\dt 20/Jul/2014
+\dt 21/Dec/2014
 
 \lx láa
 \ps onomat
@@ -67053,39 +67395,47 @@ avec ŋɔni = épine !)
 \dt 26/Sep/2006
 
 \lx làadiri
+\va làdiri
 \ps n
 \ge conscience
 \gv sens.de.l'honneur
 \xv - k'ú tɛ́  nìn kɛ́ ? - ù làadiri ká bòn  nìn mà
 \xe - ils ne font pas ça ? - ils sont trop nobles pour cela
-\dt 29/Jun/2013
+\dt 22/Dec/2014
 
 \lx làadiri
+\va làdiri
 \ps adj
 \ge juste
 \gv droit
 \gv pieux
 \gv fidèle
-\dt 29/Jun/2013
+\dt 22/Dec/2014
 
 \lx làadirima
 \mm làadiri:n:conscience
+\mm ma:mrph:COM
+\va làdirima
+\mm làdiri:n:conscience
 \mm ma:mrph:COM
 \ps adj
 \ge consciencieux
 \gv loyal
 \lt (conscience.qui a)
-\dt 29/Jun/2013
+\dt 22/Dec/2014
 
 \lx làadiriya
 \mm làadiri:n:conscience
+\mm ya:mrph:ABSTR
+\va làdiriya
+\mm làdiri:n:conscience
 \mm ya:mrph:ABSTR
 \ps n
 \ge honnêteté
 \gv piété
 \gv fidélité
 \lt (pieux.suf abs)
-\dt 29/Jun/2013
+\dt 22/Dec/2014
 
 \lx làafa
 \ve (-f,-bn,-bk)
@@ -68232,6 +68582,18 @@ avec ŋɔni = épine !)
 \lt (préf.commencer)
 \dt 26/Sep/2006
 
+\lx láfu
+\mm lá:mrph:CAUS
+\mm fú:n:zéro
+\ps v
+\sn 1
+\ge affaiblir
+\gv faire dépérir
+\gv avilir
+\sn 2
+\gv se moquer de
+\dt 19/Dec/2014
+
 \lx lágabo
 \mm bò:n:excrément
 \ve (-f)
@@ -68570,6 +68932,14 @@ avec ŋɔni = épine !)
 \ge allonger
 \lt (préf.éloigner)
 \dt 16/Aug/2006
+
+\lx lájarabi
+\mm lá:mrph:CAUS
+\mm jàrabi:v:se.passionner
+\ps n
+\ge tentation
+\ee (un mot coranique)
+\dt 21/Dec/2014
 
 \lx lájàrabi
 \mm lá:mrph:CAUS
@@ -71902,6 +72272,12 @@ avec ŋɔni = épine !)
 \ge fusil
 \ee traditionnel (de très grande taille, mais de moyen diamètre)
 \dt 16/Aug/2006
+
+\lx lɔ́tɔ
+\va lɔ́tɔnin
+\ps n
+\ge margouillat.femelle
+\dt 19/Dec/2014
 
 \lx lújura
 \va lájura
@@ -76586,6 +76962,17 @@ nord-est
 \rem l 89, du
 \dt 11/Nov/2007
 
+\lx mìsaliya
+\mm mìsali:n:exemple
+\mm ya:mrph:ABSTR
+\ps n
+\sn 1
+\ge exemple
+\sn 2
+\gv image
+\gv représentation
+\dt 21/Dec/2014
+
 \lx mísɛli
 \bw ar: misalla = longue aiguille
 \ps n
@@ -78477,12 +78864,13 @@ nord-est
 \dt 26/Sep/2006
 
 \lx múnu
+\va múnun
 \ps v
 \vl vt
 \ge tourner
 \gv remuer
 \gv brasser
-\dt 26/Sep/2006
+\dt 22/Dec/2014
 
 \lx mùnumɛnɛ
 \ps v
@@ -78500,13 +78888,14 @@ nord-est
 \lx múnumunu
 \mm múnu:v:tourner
 \mm múnu:v:tourner
+\mm múnunmunun
 \ps v
 \vl vt
 \ge faire.tourner
 \gv faire.des.détours
 \xv án kà  án hákili múnu-múnu dɔ́ɔnin !
 \xe réfléchissons un peu !
-\dt 19/Dec/2012
+\dt 22/Dec/2014
 
 \lx múnumunu
 \mm múnu:v:tourner
@@ -78556,6 +78945,7 @@ nord-est
 \dt 26/Apr/2014
 
 \lx mùɲu
+\va mùɲun
 \ps v
 \sn 1
 \vl vt
@@ -78569,14 +78959,15 @@ nord-est
 \xe patiente un peu !
 \xv à b'í mùɲu  à kɔ́rɔ
 \xe il le supporte, il patiente à son égard
-\dt 16/Aug/2006
+\dt 21/Dec/2014
 
 \lx mùɲu
+\va mùɲun
 \ps n
 \ge patience
 \gv endurance
 \gv résignation
-\dt 09/Jun/2013
+\dt 21/Dec/2014
 
 \lx mùɲubaa
 \mm mùɲu:v:supporter
@@ -78736,7 +79127,10 @@ nord-est
 \ee discordance dans les notes d'un balafon ...
 \xv mùrumuru bɛ́  báladen ná
 \xe le balafon est mal accordé
-\dt 26/Sep/2006
+\sn 4
+\gv virgule
+\ee dans les chifres avec décimales
+\dt 20/Dec/2014
 
 \lx mùrumuru
 \ps v
@@ -79802,6 +80196,16 @@ nord-est
 \rem du, jos
 \dt 11/Nov/2007
 
+\lx náfila
+\va náfula
+\ps n
+\sn 1
+\ge prière surérogatoire
+\sn 2
+\gv complément
+\gv qui ne compte pas
+\dt 22/Dec/2014
+
 \lx nàfolo
 \ps n
 \ge biens
@@ -80055,6 +80459,9 @@ nord-est
 \lx nálonma
 \mm nálon:n:idiot
 \mm ma:mrph:COM
+\va náloma
+\mm nálon:n:idiot
+\mm ma:mrph:COM
 \ps adj/n
 \ge sot
 \gv imbécile
@@ -80062,7 +80469,7 @@ nord-est
 \lt (sot.suf adj)
 \xv nálonma kɔ́gɔlen !
 \xe tu es un parfait imbécile !
-\dt 26/Sep/2006
+\dt 22/Dec/2014
 
 \lx nálonmaya
 \mm nálon.ma:adj/n:sot
@@ -81345,6 +81752,13 @@ nord-est
 \ge très.acide
 \ee (citron, jus de tamarinier ...)
 \dt 26/Sep/2006
+
+\lx ndórogere
+\va ndórogwere
+\va ndórogure
+\ps n
+\ge margouillat.mâle
+\dt 19/Dec/2014
 
 \lx ndúbalen
 \ps n
@@ -86348,9 +86762,11 @@ nord-est
 \dt 16/Aug/2006
 
 \lx npèku
+\va npègu
 \ps n
-\ge arbre.Lannea.sp
-\dt 16/Aug/2006
+\ge raisinier
+\gv arbre Lannea sp.
+\dt 22/Dec/2014
 
 \lx npèkuba
 \mm npèku:n:arbre.Lannea.sp
@@ -87576,6 +87992,12 @@ nord-est
 \sd bora
 \ee arbre, fruits comestibles, on en tire une glu, en les laissant macérer dans l'eau,  ---> 5 / 15 m
 \dt 19/Aug/2006
+
+\lx ntegejigi
+\mm jigi:adj:mâle
+\ps n
+\ge margouillat.mâle
+\dt 19/Dec/2014
 
 \lx ntèle
 \va ntère
@@ -92990,6 +93412,14 @@ nord-est
 \lt (regard.diriger)
 \dt 26/Sep/2006
 
+\lx ɲɛ́siran
+\mm ɲɛ́:n:oeil
+\mm síran.ya:n:peur
+\ps n
+\ge appréhension
+\gv peur
+\dt 21/Dec/2014
+
 \lx ɲɛ́siranbaga
 \mm ɲɛ́:n:oeil
 \mm síran:v:craindre
@@ -93021,17 +93451,16 @@ nord-est
 \mm síran.ya:n:peur
 \mm síran:v:craindre
 \mm ya:mrph:ABSTR
-\va ɲɛ́.siran.yɛ
+\va ɲɛ́siranyɛ
 \mm ɲɛ́:n:oeil
 \mm síran.yɛ:n:peur
 \mm síran:v:craindre
-\mm yɛ:mrph:ABSTR
 \ps n
 \ge peur
 \gv crainte.respectueuse
 \lt (regard.avoir peur.suf abs)
 \ee ɲɛsiran.n.ɲɛ ?
-\dt 26/Sep/2006
+\dt 21/Dec/2014
 
 \lx ɲɛ́sìri
 \mm ɲɛ́:n:oeil
@@ -95773,13 +96202,24 @@ nord-est
 \ge parti
 
 \lx pàro
+\va pàron
 \va pàgo
 \va fàro
 \ps v
+\sn 1
 \vl vt
 \ge abattre.d'un.coup
 \ee frapper énergiquement qc contre le sol
-\dt 26/Sep/2006
+\sn 2
+\gv arracher
+\gv prendre brusquement
+\dt 22/Dec/2014
+
+\lx páro
+\ps adv
+\ge brusquement
+\gv à l'improviste
+\dt 22/Dec/2014
 
 \lx párɔ
 \ps onomat
@@ -96988,6 +97428,13 @@ nord-est
 \ge mille-pattes
 \lat Lulus.ligufer
 \dt 16/Aug/2006
+
+\lx sáasonin
+\va sásonin
+\ps n
+\ge margouillat.femelle
+\gv
+\dt 19/Dec/2014
 
 \lx sàba
 \vc sába
@@ -98401,6 +98848,14 @@ nord-est
 \xe une 'armoire à glace' de jeune homme
 \dt 16/Aug/2006
 
+\lx sánfara
+\mm sán:n:ciel
+\mm fára:n:pierre
+\ps n
+\ge ciel
+\ee dans contextes religieux
+\dt 21/Dec/2014
+
 \lx sánfɛ̀
 \mm sán:n:ciel
 \mm fɛ̀:pp:vers
@@ -98653,6 +99108,15 @@ nord-est
 \xe au lieu de pleurer, soigne-toi !
 \dt 20/Feb/2014
 
+\lx sániman
+\mm sáni:adj:être.propre
+\mm man:mrph:ADJ
+\ps vq
+\ge sain
+\gv propre
+\gv pur
+\dt 21/Dec/2014
+
 \lx sániya
 \mm sáni:vq:être.propre
 \mm ya:mrph:DEQU
@@ -98840,14 +99304,17 @@ nord-est
 \sm (ivre ...)
 \dt 26/Sep/2006
 
-\lx sánkulukan
+\lx sánkulu
+\mm sán:n:haut
+\mm kúlu:v:gronder
+\va sánkulukan
 \mm sán:n:haut
 \mm kúlu:v:gronder
 \mm kán:n:cou
 \ps n
 \ge tonnerre
 \lt (ciel.gronder.voix)
-\dt 26/Sep/2006
+\dt 21/Dec/2014
 
 \lx sànkunbɛn
 \mm sàn:n:année
@@ -99508,6 +99975,21 @@ nord-est
 \sm (de l'huile épaisse, par la chaleur)
 \dt 26/Sep/2006
 
+\lx sàrankanna
+\mm sàra:v:avertir
+\mm ń:pers:1SG
+\mm kán:n:cou
+\mm ná:pp:dans
+\va sàrankana
+\mm sàra:v:avertir
+\mm ń:pers:1SG
+\mm kán:n:cou
+\mm ná:pp:dans
+\ps n
+\ge avertissement
+\gv demande
+\dt 22/Dec/2014
+
 \lx sàrańnàbáli
 \mm sàra:v:avertir
 \mm ń:pers:je
@@ -99706,7 +100188,9 @@ nord-est
 \sn 2
 \gv ramener avec effort
 \ee de loin
-\dt 26/Sep/2006
+\sn 3
+\gv ramasser
+\dt 19/Dec/2014
 
 \lx sása
 \ps n
@@ -99785,6 +100269,12 @@ nord-est
 \ps n
 \ge jaunisse
 \dt 26/Sep/2006
+
+\lx sàyiba
+\ps n
+\ge compagnon.du.Prophète
+\gv saint
+\dt 21/Dec/2014
 
 \lx sáyibilen
 \mm sáyi:n:jaunisse
@@ -106190,6 +106680,16 @@ trompe)
 \sy sàfɔlɔ
 \dt 16/Aug/2006
 
+\lx sòronadon
+\va sùrunadon
+\va sòonadon
+\va sùrunalidon
+\va sòronalidon
+\ps n
+\ge intercession
+\gv médiation
+\dt 21/Dec/2014
+
 \lx sòronadòn
 \va sùrunadòn
 \va sòonadòn
@@ -106200,9 +106700,7 @@ trompe)
 \ge intercéder
 \gv se faire l'avocat de
 \gv défendre qqn auprès d'une autre personne
-\gv
-\gv
-\dt 04/Jul/2013
+\dt 21/Dec/2014
 
 \lx sòronalidon
 \va sùrunalidon
@@ -107421,11 +107919,12 @@ trompe)
 \dt 26/Sep/2006
 
 \lx súgandi
+\va súganti
 \ve (-bk)
 \ps v
 \vl vt
 \ge choisir
-\dt 12/Aug/2006
+\dt 22/Dec/2014
 
 \lx sùgo
 \va sùgon
@@ -111485,7 +111984,8 @@ fiançailles
 \va tèregwe
 \ph [teregwe]
 \ps n
-\ge gros.lézard
+\ge gros.magrouillat.mâle
+\dt 19/Dec/2014
 
 \lx tèregejigi
 \mm tèrege:n:gros.lézard
@@ -112854,6 +113354,12 @@ fiançailles
 \ge règle
 \dt 11/Nov/2007
 
+\lx tiiritaara
+\ps v
+\ge errer
+\gv marcher aveuglement
+\dt 19/Dec/2014
+
 \lx tíjani
 \bw ar: tijani = nom propre
 \ps n
@@ -113162,6 +113668,15 @@ fiançailles
 \ge lever.du.soleil
 \lt (soleil.sortir.moment)
 \dt 16/Aug/2006
+
+\lx tìlefɛla
+\mm tìle:n:soleil
+\mm fɛ̀:pp:vers
+\mm la:mrph:LOC
+\ps n
+\ge journée
+\ee cours de la journée, pendant la journée
+\dt 22/Dec/2014
 
 \lx tìlegan
 \mm tìle:n:soleil
@@ -115762,6 +116277,18 @@ fiançailles
 \ee arbre d'ornement introduit pour la beauté de ses fleurs)
 \dt 19/Aug/2006
 
+\lx tùbabunpegu
+\mm tùbabu:n:Européen
+\mm npègu:n:raisinier
+\va tùbabunpeku
+\mm tùbabu:n:Européen
+\mm npèku:n:raisinier
+\ps n
+\ge vigne
+\gv resin
+\ee (un mot coranique)
+\dt 22/Dec/2014
+
 \lx tùbabunsɛrɛ
 \mm tùbabu:n:Européen
 \mm nsɛ́rɛ:n:pastèque
@@ -115832,10 +116359,11 @@ fiançailles
 \dt 16/Aug/2006
 
 \lx túfa
+\mm ntúfa
 \ve (-f)
 \ps n
 \ge toit.de.chaume
-\dt 16/Aug/2006
+\dt 19/Dec/2014
 
 \lx tùfaden
 \mm tùfa:n:brique
@@ -117019,6 +117547,12 @@ fiançailles
 \xv à yé  múrutilen túubi
 \xe il a soumis les révoltés
 \dt 26/Sep/2006
+
+\lx túubi
+\ps n
+\ge convertion
+\ee en Islam
+\dt 21/Dec/2014
 
 \lx túubibaa
 \mm túubi:v:convertir
@@ -120588,6 +121122,19 @@ aîné ... (Kb 11/06 p.4)
 \ge arrogance
 \lt (arrogant.suf abs)
 
+\lx yàadanci
+\mm yàada:v:être.arrogant
+\mm nci:mrph:AG.EX
+\va yàdanci
+\mm yàda:v:être.arrogant
+\mm nci:mrph:AG.EX
+\ps n
+\sn 1
+\ge personne.arrogante
+\sn 2
+\gv celui qui abuse
+\dt 22/Dec/2014
+
 \lx yáala
 \ps n
 \sn 1
@@ -121241,24 +121788,38 @@ aîné ... (Kb 11/06 p.4)
 \lt (albinos.suf abs)
 
 \lx yègentu
+\va yègeru
+\va yèkere
 \ps n
 \ge hoquet
 \xv yègentu b'á lá
 \xe il a le hoquet
-\dt 12/Aug/2006
+\dt 21/Dec/2014
 
 \lx yègentu
+\va yègeru
+\va yèkere
 \ps v
 \vl vi
 \ge avoir.le.hoquet
-\dt 16/Aug/2006
+\dt 21/Dec/2014
 
-\lx yégerun
+\lx yégeru
+\va yégerun
 \va yéerun
 \ps v
 \vl vi
 \ge scintiller
-\dt 26/Sep/2006
+\gv briller
+\gv produire un éclair
+\dt 21/Dec/2014
+
+\lx yégeru
+\va yégerun
+\va yéerun
+\ps n
+\ge éclair
+\dt 21/Dec/2014
 
 \lx yègeyege
 \va yìgiyɔgɔ
@@ -121375,6 +121936,12 @@ aîné ... (Kb 11/06 p.4)
 \ge quelqu'un.de.là-bas
 \lt (là-bas.habitant)
 \dt 20/May/2013
+
+\lx yènninnɔ̀
+\va yènnɔ̀
+\ps adv
+\ge là-bas
+\dt 22/Dec/2014
 
 \lx yéɲɛna
 \mm yé:v:voir
@@ -121736,6 +122303,12 @@ aîné ... (Kb 11/06 p.4)
 \ge but.fixé.à.soi-même
 \lt (soi-même.envoyer)
 \dt 16/Aug/2006
+
+\lx yɛ̀rɛdama
+\ps dtm
+\ge exclusivement
+\gv uniquement
+\dt 21/Dec/2014
 
 \lx yɛ̀rɛdɔn
 \mm yɛ̀rɛ:dtm:même
