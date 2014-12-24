@@ -1602,9 +1602,9 @@
 \mm bá:n:base
 \mm fàlen:v:échanger
 \ps v
-\ge substituer
-\ee (avec des mauvaises intentions; terme coranique)
-\dt 21/Dec/2014
+\ge dénaturer
+\ee (terme coranique rare)
+\dt 24/Dec/2014
 
 \lx báfilabɛn
 \mm bá:n:fleuve
@@ -10979,12 +10979,18 @@ bâton de berger
 \gv boue
 \sn 3
 \gv mortier
-\gv argile
 \xv à bɛ́ sé  bɔ̀gɔ lá
 \xe c'est un bon maçon
 \xv í ká kìsɛ tɛ́  bɔ̀gɔ dún
 \xe tu es un bon tireur
-\dt 26/Sep/2006
+\dt 24/Dec/2014
+
+\lx bɔ́gɔ
+\ps n
+\ge argile
+\gv terre salée
+\ee pour le bétail; terre consommée par les femmes enceintes 
+\dt 24/Dec/2014
 
 \lx bɔ́gɔbɔgɔ
 \ps onomat
@@ -11008,6 +11014,21 @@ bâton de berger
 \ge argile
 \lt (terre.consistante)
 \dt 26/Sep/2006
+
+\lx bɔ́gɔji
+\mm bɔ́gɔ:n:argile
+\mm jí:n:eau
+\ps n
+\ge argile.liquide
+\dt 24/Dec/2014
+
+\lx bɔ́gɔji
+\mm bɔ́gɔ:n:argile
+\mm jí:n:eau
+\ps adj
+\ge beige
+\gv couleur de l'argile blanche
+\dt 24/Dec/2014
 
 \lx bɔ̀gɔkuru
 \mm bɔ̀gɔ:n:terre 
@@ -32367,6 +32388,12 @@ la virginité (pièce de monnaie sans trou)
 \lt (faute.endroit.action)
 \dt 26/Sep/2006
 
+\lx fílinfalan
+\ps n
+\ge lueur.blafarde
+\ee entre le jour et la nuit
+\dt 24/Dec/2014
+
 \lx fìliyɔrɔ
 \mm fìli:v:jeter
 \mm yɔ́rɔ:n:lieu
@@ -34132,6 +34159,14 @@ la virginité (pièce de monnaie sans trou)
 \sn 2
 \gv colonne de fuyards
 \dt 21/Dec/2014
+
+\lx fóni
+\fq r
+\ps n
+\ge ouverture
+\gv victoire
+\ee mot coranique, calque de fatḥ
+\dt 24/Dec/2014
 
 \lx fónisire
 \ps n
@@ -40357,6 +40392,13 @@ la virginité (pièce de monnaie sans trou)
 \xv bɔ̀rɔtɔ
 \xe dévoiler un secret
 \dt 21/Feb/2014
+
+\lx gùndo
+\fq r
+\ps v
+\ge garder.en.secret
+\ee soutenu, rare
+\dt 24/Dec/2014
 
 \lx gùndoba
 \mm gùndo:n:secret
@@ -53607,10 +53649,10 @@ doigts par des fileuses du coton)
 \ps n
 \ge clitoris
 
-\lx kerecɛn
+\lx kèrecɛn
 \ps n
 \ge chrétien
-\dt 21/Dec/2014
+\dt 24/Dec/2014
 
 \lx kèrejigi
 \mm jigi:adj:mâle
@@ -65505,12 +65547,14 @@ avec ŋɔni = épine !)
 \gv humilier
 \dt 25/Jun/2013
 
-\lx kunmatu
+\lx kùnmatu
+\mm kùn:n:tête
+\mm mà:pp:à
 \ps n
 \ge indemnité
 \gv compensation
-\ee mot coranique
-\dt 21/Dec/2014
+\ee mot coranique, rare
+\dt 24/Dec/2014
 
 \lx kùnmayɛlɛma
 \ps n
@@ -71655,6 +71699,13 @@ avec ŋɔni = épine !)
 \xe rompre un contrat, une engagement ...
 \dt 11/May/2013
 
+\lx láyidu
+\ps v
+\vl vt
+\ge promettre
+\ee dans l'emploi verbal, rare, seulement dans le Coran
+\dt 24/Dec/2014
+
 \lx láyidukan
 \mm láyidu:n:promesse
 \mm kán:n:cou
@@ -72942,6 +72993,19 @@ n'est pas près de disparaître
 \vl vt
 \ge échanger
 \lt (préf.changer)
+
+\lx máfanciya
+\ps v
+\ge rassurer
+\gv avoir de la quiétude
+\ee mot coranique
+\dt 24/Dec/2014
+
+\lx máfanciya
+\ps n
+\ge objet.de.quiétude
+\ee mot coranique
+\dt 24/Dec/2014
 
 \lx màfara
 \mm mà:mrph:SUPER
@@ -95452,7 +95516,7 @@ nord-est
 
 \lx ŋɛ́ɲɛŋɛɲɛ
 \va ŋáɲaŋaɲa
-\ps adv.ex
+\ps adv
 \sn 1
 \ge très.rouge
 \gv rouge vif
@@ -95461,7 +95525,7 @@ nord-est
 \gv très chaud
 \sn 3
 \gv très fort en sorcellerie
-\dt 23/Nov/2014
+\dt 24/Dec/2014
 
 \lx ŋɛ́ɲɛya
 \mm ŋɛ́ɲɛ:vq:rugueux
@@ -113355,11 +113419,11 @@ fiançailles
 \ge règle
 \dt 11/Nov/2007
 
-\lx tiiritaara
+\lx tíiritaara
 \ps v
 \ge errer
 \gv marcher aveuglement
-\dt 19/Dec/2014
+\dt 23/Dec/2014
 
 \lx tíjani
 \bw ar: tijani = nom propre
@@ -122306,10 +122370,11 @@ aîné ... (Kb 11/06 p.4)
 \dt 16/Aug/2006
 
 \lx yɛ̀rɛdama
+\mm yɛ̀rɛ̂:dtm:même
+\mm dàma:dtm:seulement
 \ps dtm
-\ge exclusivement
-\gv uniquement
-\dt 21/Dec/2014
+\ge entre.soi
+\dt 24/Dec/2014
 
 \lx yɛ̀rɛdɔn
 \mm yɛ̀rɛ:dtm:même
