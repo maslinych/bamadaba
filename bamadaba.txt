@@ -12965,9 +12965,10 @@ mort)
 
 \lx bùtiki
 \va bùtigi
+\va bìtiki
 \ps n
 \ge magasin
-\dt 23/Feb/2014
+\dt 01/Jan/2015
 
 \lx bùtikitigi
 \mm bùtiki:n:magasin
@@ -22119,13 +22120,14 @@ rétribution mais à titre de réciprocité)
 \lx dɛ́
 \ps prt
 \ge certes
-\sm exclamation d'intensité, d'excès : certes, certainement, surtout ...
+\sm marque de focus de vérité (le locuteur insiste sur le fait,
+assumant que l'interclocuteur pense autrement)
 \xv à ká jàn dɛ́ !
 \xe il est très grand !
 \xe qu'est-ce qu'il est grand !
 \xv í tɛ́na táa dɛ́ !
 \xe surtout, ne pars pas !
-\dt 26/Sep/2006
+\dt 01/Jan/2015
 
 \lx dɛ́
 \ps prt
@@ -34298,11 +34300,14 @@ la virginité (pièce de monnaie sans trou)
 \mm ba:mrph:AUGM
 \lt (champ.grand)
 \ps n
+\sn 1
 \ge bien.public
 \ee (le plus souvent premier élément d'un nom composé, fòròbà-)
 \xv fòrobawari
 \xe argent appartenant à tel groupe, à l'Etat ...
-\dt 16/Aug/2006
+\sn 2
+\gv champ collectif
+\dt 27/Dec/2014
 
 \lx fòroba
 \mm fòro:n:champ
@@ -42481,6 +42486,7 @@ doigts par des fileuses du coton)
 \lx jàhadi
 \va jàhadu
 \va jàadi
+\va jìhadi
 \bw ar: gihad = guerre sainte
 \ps n
 \sn 1
@@ -42491,7 +42497,7 @@ doigts par des fileuses du coton)
 \sn 2
 \gv guerre sainte
 \ee (pour les musulmans)
-\dt 20/Dec/2014
+\dt 27/Dec/2014
 
 \lx jàhanama
 \va jàhanamɛ
@@ -48372,10 +48378,10 @@ doigts par des fileuses du coton)
 \vl vi/vr
 \ge nier
 \gv ne.pas.reconnaître
-\xv ù kàra  à lá
-\xv ù y'ú kà  à lá
+\xv ù kàra à lá
+\xv ù y'ú kà à lá
 \xe ils ont nié
-\dt 26/Sep/2006
+\dt 28/Dec/2014
 
 \lx ká
 \ps conj
@@ -59876,11 +59882,12 @@ avec ŋɔni = épine !)
 
 \lx kɔ̀ni
 \ps prt
-\ge TOP
-\ee particule d'insistance (souligne un mot, une phrase ..., se place après)
-\xv nìn kɔ̀ni tɛ́  sàlabaatɔ yé
-\xe quant à celui-ci , ce n'est pas un paresseux
-\dt 26/Sep/2006
+\ge TOP.CNTR2
+\ee particule de topicalisation contrastive (suit un groupe niminal
+ou une proposition)
+\xv nìn kɔ̀ni tɛ́ sàlabaatɔ yé
+\xe quant à celui-ci, ce n'est pas un paresseux
+\dt 04/Jan/2015
 
 \lx kɔ̀ninnpèku
 \mm kɔ̀:n:marigot
@@ -65547,14 +65554,35 @@ avec ŋɔni = épine !)
 \gv humilier
 \dt 25/Jun/2013
 
+\lx kùnmato
+\mm kùn:n:tête
+\mm mà:pp:à
+\mm tó:v:rester
+\ps v
+\ge mettre.en.gâge
+\ee (une personne)
+\dt 27/Dec/2014
+
 \lx kùnmatu
 \mm kùn:n:tête
 \mm mà:pp:à
+\mm tú:n:touffe
 \ps n
 \ge indemnité
 \gv compensation
 \ee mot coranique, rare
-\dt 24/Dec/2014
+\dt 03/Jan/2015
+
+\lx kùnmatu
+\mm kùn:n:tête
+\mm mà:pp:à
+\mm tú:v:être.touffu
+\ps v
+\ge indemniser
+\gv payer une faute
+\gv être suffisant pour payer qch.
+\ee mot coranique, rare
+\dt 03/Jan/2015
 
 \lx kùnmayɛlɛma
 \ps n
@@ -94047,6 +94075,7 @@ nord-est
 
 \lx ɲíni
 \va ɲín'
+\va ɲínin
 \ps v
 \sn 1
 \vl vt
@@ -94064,7 +94093,7 @@ nord-est
 \gv être.sur.le.point.de
 \xv à bɛ́ ɲíni kà sà
 \xe il est sur le point de mourir
-\dt 20/Mar/2014
+\dt 28/Dec/2014
 
 \lx ɲíninikɛla
 \mm ɲíni:v:chercher
@@ -97660,8 +97689,8 @@ nord-est
 \ge être.patient
 \gv se.calmer
 \xv sábali !
-\xe calme-toi !  Ne te fâche pas !Laisse-moi tranquille !
-\dt 26/Sep/2006
+\xe calme-toi !  Ne te fâche pas ! Laisse-moi tranquille !
+\dt 01/Jan/2015
 
 \lx sábalilenya
 \mm sábali:v:être.patient
@@ -108354,17 +108383,6 @@ trompe)
 \gv alcoolisme
 \dt 11/Nov/2007
 
-\lx sùli
-\va sùuli
-\ps v
-\vl vt
-\ge abaisser
-\ee baisser vers l'avant
-\gv pencher
-\xv nìn sàmasen sùlilen bɛ́  bíli kɔ́rɔ
-\xe ce gros poteau soutient le toit
-\dt 26/Sep/2006
-
 \lx sùlu
 \va sùli
 \ve (f)
@@ -109532,6 +109550,17 @@ fiançailles
 \ge très.calme
 \gv totalement silencieux
 \dt 21/Feb/2014
+
+\lx sùuli
+\va sùli
+\ps v
+\vl vt
+\ge abaisser
+\ee baisser vers l'avant
+\gv pencher
+\xv nìn sàmasen sùlilen bɛ́  bíli kɔ́rɔ
+\xe ce gros poteau soutient le toit
+\dt 04/Jan/2015
 
 \lx súuru
 \va súurun
@@ -117702,9 +117731,9 @@ fiançailles
 \gv est-ce que
 \ee (en fin de phrase)
 \ph [sa position en fin de phraserend difficile l'analyse du ton, il est pourtant de ton de base haut]
-\xv ò dòn wá ?
+\xv ò dòn wà ?
 \xe est-ce que c'est ça ?
-\dt 16/Aug/2006
+\dt 05/Jan/2015
 
 \lx wà
 \ps prt
@@ -122289,10 +122318,15 @@ aîné ... (Kb 11/06 p.4)
 
 \lx yɛ̀rɛ
 \ps part
+\sn 1
 \ge d'ailleurs
 \gv en fait
 \gv par contre
-\dt 28/Sep/2014
+\sn 2
+\gv tout à fait
+\xv à sàlen yɛ̀rɛ
+\xe il est bel et bien mort
+\dt 05/Jan/2015
 
 \lx yɛ̀rɛ̂
 \ps dtm
@@ -122304,11 +122338,7 @@ aîné ... (Kb 11/06 p.4)
 \xe de soi-même, spontanément
 \xv í yɛ̀rɛ kɛ́...yé
 \xe feindre d'être ...
-\sn 2
-\gv tout à fait
-\xv à sàlen yɛ̀rɛ
-\xe il est bel et bien mort
-\dt 19/Mar/2014
+\dt 05/Jan/2015
 
 \lx yɛ̀rɛba
 \mm yɛ̀rɛ:dtm:même
