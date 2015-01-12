@@ -751,17 +751,18 @@
 \xe ce n'est pas le vôtre, ce n'est pas à vous !
 \dt 16/Aug/2006
 
+\lx àwá
+\va ɔ̀wɔ́
+\va àwɔ́
+\ps intj
+\ge oui
+\dt 09/Jan/2015
+
 \lx áwirili
 \bw fr : avril
 \ps n
 \ge avril
 \dt 12/Aug/2006
-
-\lx àwɔ́
-\va ɔ̀wɔ́
-\va àwá
-\ps intj
-\ge oui
 
 \lx àyi
 \ps intj
@@ -19152,6 +19153,19 @@ sur soi)
 \lt (disette.sujet)
 \dt 16/Aug/2006
 
+\lx dàmajira
+\mm dàma:n:limite
+\mm jìra:v:montrer
+\va dàma.yira
+\mm dàma:n:limite
+\mm yìra:v:montrer
+\ps n
+\ge maximum
+\lt (limite.montrer)
+\xv à yé  à séko dàmayira kɛ́
+\xe il a fait tout son possible
+\dt 10/Jan/2015
+
 \lx dámakàsi
 \mm dá:n:bouche
 \mm mà:mrph:SUPER
@@ -19272,19 +19286,6 @@ rétribution mais à titre de réciprocité)
 \ge exagérer
 \gv être excessif
 \dt 28/Nov/2012
-
-\lx dàmayira
-\mm dàma:n:limite
-\mm yìra:v:montrer
-\va dàma.jira
-\mm dàma:n:limite
-\mm jìra:v:montrer
-\ps n
-\ge maximum
-\lt (limite.montrer)
-\xv à yé  à séko dàmayira kɛ́
-\xe il a fait tout son possible
-\dt 15/Aug/2006
 
 \lx dáminɛ
 \mm dá:n:bouche
@@ -22108,6 +22109,11 @@ rétribution mais à titre de réciprocité)
 \ps n
 \ge décembre
 \dt 12/Aug/2006
+
+\lx désantaralizasɔn
+\ps n
+\ge décentralisation
+\dt 12/Jan/2015
 
 \lx déwu
 \ps onomat
@@ -27875,12 +27881,17 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx fáaba
+\mm fáa:n:grande.jarre
+\mm ba:mrph:AUGM
+\va fágaba
+\mm fága:n:grande.jarre
+\mm ba:mrph:AUGM
 \ps n
 \ge capitale
 \gv grand.centre
 \xv Bàmakɔ, Màli fáaba kɔ́nɔ...
 \xe dans Bamako, la capitale du Mali ...
-\dt 26/Sep/2006
+\dt 09/Jan/2015
 
 \lx fàabaa
 \mm fàa:v:tuer
@@ -61416,6 +61427,13 @@ ou une proposition)
 \lt (dartrier.petit)
 \dt 19/Aug/2006
 
+\lx kɔ́ntɛ̀
+\ps conj
+\ge sinon
+\gv à part ça
+\ee Idrissa Konté, une forme rare
+\dt 10/Jan/2015
+
 \lx kɔ́ntiga
 \mm kɔ́n:n:intervalle.entre.deux.noeuds
 \mm tìga:n:arachide
@@ -67046,12 +67064,15 @@ ou une proposition)
 \va kùrunbon.kari
 \mm kùrunbo:adj:neuf
 \mm kári:v:casser
+\va kòronbo.kari
+\mm kùrunbo:adj:neuf
+\mm kári:v:casser
 \ps v
 \vl vt
 \ge laver.pour.la.première.fois
 \lt (écru.casser ?)
 \gv inaugurer
-\dt 15/May/2013
+\dt 09/Jan/2015
 
 \lx kúrunbolila
 \mm kúrun:n:pirogue
@@ -69731,10 +69752,16 @@ ou une proposition)
 \mm kúra.ya:v:renouveler 
 \mm kúra:adj:nouveau
 \mm ya:mrph:ABSTR
+\va rɔ́kuraya
+\mm rɔ́:mrph:IN
+\mm kúra.ya:v:renouveler 
+\mm kúra:adj:nouveau
+\mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \ge renouveler
 \lt (préf.rendre neuf)
+\dt 09/Jan/2015
 
 \lx làkuru
 \es {fr: recrue ?}
@@ -74488,6 +74515,18 @@ n'est pas près de disparaître
 \nt dònniya 5/6 p.14 (Et.Kl)
 \dt 11/Nov/2007
 
+\lx mànda
+\mm màn:mrph:SUPER
+\mm dá:v:poser
+\ps v
+\ge mésurer
+\dt 09/Jan/2015
+
+\lx mánda
+\ps n
+\ge mandat
+\dt 12/Jan/2015
+
 \lx mànden
 \ps n
 \ge mandingue
@@ -75730,20 +75769,14 @@ n'est pas près de disparaître
 \dt 16/Aug/2006
 
 \lx màsina
-\mm mà:mrph:SUPER
-\mm sìna:n:un.tel
 \ve (bk,bn)
-\va mà.sùna
-\mm mà:mrph:SUPER
-\mm sùna:n:un.tel
-\va mà.sùma
-\mm mà:mrph:SUPER
-\mm sùma:n:un.tel
+\va màsùna
+\va màsùma
 \lt (préf.un tel)
 \ps n
 \ge un.tel
 \gv un.certain
-\dt 26/Sep/2006
+\dt 12/Jan/2015
 
 \lx màsiri
 \mm mà:mrph:SUPER
@@ -96914,6 +96947,11 @@ nord-est
 \ge menacer
 \sm effrayer par des menaces ou des coups superficiels
 
+\lx póroze
+\ps n
+\ge projet
+\dt 12/Jan/2015
+
 \lx pótopàtapoto
 \ps n
 \ge bâclage
@@ -100729,6 +100767,12 @@ nord-est
 \gv régression
 \lt (retourner.moi.derrière)
 \dt 26/Sep/2006
+
+\lx sékeretɛri
+\va sɛ́kɛrɛtɛri
+\ps n
+\ge secrétaire
+\dt 12/Jan/2015
 
 \lx séko
 \mm sé:n:arrivée
@@ -105228,6 +105272,9 @@ trompe)
 \lx síratigɛ
 \mm síra:n:chemin
 \mm tìgɛ:v:couper
+\va síratɛgɛ
+\mm síra:n:chemin
+\mm tìgɛ:v:couper
 \ps n
 \sn 1
 \ge voie
@@ -105239,7 +105286,7 @@ trompe)
 \sn 2
 \gv action de traverser
 \lt (voie.couper)
-\dt 26/Sep/2006
+\dt 09/Jan/2015
 
 \lx síratigɛla
 \mm síra:n:chemin
@@ -123368,6 +123415,11 @@ aîné ... (Kb 11/06 p.4)
 \ge général
 \sm (grade militaire)
 \dt 16/Aug/2006
+
+\lx zènerali
+\ps adj
+\ge général
+\dt 09/Jan/2015
 
 \lx ziɲɔri
 \ps n
