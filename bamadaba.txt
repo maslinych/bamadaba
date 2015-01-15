@@ -5905,16 +5905,6 @@ bâton de berger
 \xe ils sont en train de boire de la bière de mil
 \dt 25/Jun/2013
 
-\lx bɛ́ nà
-\va bɛ́na
-\ps pm
-\ge FUT
-\sm (prédicatif du futur)
-\ee au négatif : tɛ nà
-\xv síni, í bɛ́ nà táa  súgu jɔ̀
-\xe tu iras au marché demain
-\dt 16/Aug/2006
-
 \lx bɛ̀dɛbɛdɛ
 \va bèrebere
 \ps n
@@ -6380,6 +6370,17 @@ bâton de berger
 \xv bɛ̀n sìgira
 \xe l'entente s'est installée
 \dt 16/Aug/2006
+
+\lx bɛ́nà
+\va bɛ́n'
+\va bɛ́ na
+\ps pm
+\ge FUT
+\sm (prédicatif du futur)
+\ee au négatif : tɛ nà
+\xv síni, í bɛ́ nà táa  súgu jɔ̀
+\xe tu iras au marché demain
+\dt 13/Jan/2015
 
 \lx bɛ́nba
 \ps n
@@ -20056,13 +20057,13 @@ rétribution mais à titre de réciprocité)
 \lx dánnaya
 \mm dá:v:poser
 \mm ń:pers:je
-\mm ná:pp:dans 
+\mm ná:pp:dans
 \mm ya:mrph:ABSTR
 \ps n
 \ge foi
 \gv confiance
 \lt (confiance.suf abs)
-\dt 26/Sep/2006
+\dt 13/Jan/2015
 
 \lx dánnayamɔgɔ
 \mm dá:v:poser
@@ -39005,11 +39006,11 @@ la virginité (pièce de monnaie sans trou)
 \dt 16/Aug/2006
 
 \lx gɛ̀lɛya
-\mm gɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:ABSTR
+\mm gɛ̀lɛn:vq:dur
+\mm ya:mrph:DEQU
 \va gwɛ̀lɛ.ya
-\mm gwɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:ABSTR
+\mm gwɛ̀lɛ:vq:dur
+\mm ya:mrph:DEQU
 \ph [gw]
 \ps n
 \sn 1
@@ -39024,13 +39025,13 @@ la virginité (pièce de monnaie sans trou)
 \sn 4
 \gv cherté.de.vie
 \gv difficultés.économiques
-\dt 26/Sep/2006
+\dt 13/Jan/2015
 
 \lx gɛ̀lɛya
-\mm gɛ̀lɛ:vq/adj:dur
+\mm gɛ̀lɛn:vq:dur
 \mm ya:mrph:DEQU
 \va gwɛ̀lɛ.ya
-\mm gwɛ̀lɛ:vq/adj:dur
+\mm gwɛ̀lɛ:vq:dur
 \mm ya:mrph:DEQU
 \ph [gw]
 \ps v
@@ -39055,7 +39056,7 @@ la virginité (pièce de monnaie sans trou)
 \sm le prix de ...
 \xv à y'á sɔ̀ngɔ gɛ̀lɛya
 \xe il a rendu le prix inabordable
-\dt 26/Sep/2006
+\dt 13/Jan/2015
 
 \lx gɛ̀lɛyalan
 \mm gɛ̀lɛ:vq/adj:dur
@@ -53128,6 +53129,14 @@ doigts par des fileuses du coton)
 \ge khassonké
 \ee (ethnie de l'ouest du Mali et de langue mandé)
 
+\lx kàsɔrɔ
+\mm kà:pm:INF
+\mm sɔ̀rɔ:v:obtenir
+\ps conj
+\ge malgré
+\gv bien.que
+\dt 13/Jan/2015
+
 \lx kàta
 \ps n
 \sn
@@ -56662,6 +56671,11 @@ doigts par des fileuses du coton)
 \gv pétrir
 \gv assouplir
 \dt 26/Sep/2006
+
+\lx kólo
+\ps n
+\ge éducation
+\dt 13/Jan/2015
 
 \lx kólobakari
 \mm kólo:n:os
@@ -66910,7 +66924,7 @@ ou une proposition)
 \gv refuser
 \dt 26/Sep/2006
 
-\lx kúrukàrá
+\lx kúrukàra
 \va kúurukaara
 \ve (bk)
 \ps adj
@@ -66921,7 +66935,7 @@ ou une proposition)
 \xe vous tous ensemble
 \xv sàn kúrukara
 \xe un an entier, toute l'année
-\dt 26/Sep/2006
+\dt 13/Jan/2015
 
 \lx kùrukun
 \mm kùru:n:boule
@@ -69138,12 +69152,12 @@ ou une proposition)
 \lx lájɛya
 \mm lá:mrph:CAUS
 \mm jɛ́.ya:v:blanchir
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:vq:blanc
 \mm ya:mrph:DEQU
 \va rɔ́.jɛ.ya
 \mm rɔ́:mrph:IN
 \mm jɛ́.ya:v:blanchir
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:vq:blanc
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -69157,7 +69171,7 @@ ou une proposition)
 \sn 3
 \gv rendre.clair
 \sm (propos ...)
-\dt 16/Aug/2006
+\dt 13/Jan/2015
 
 \lx lájìgin
 \mm lá:mrph:CAUS
@@ -82952,31 +82966,6 @@ nord-est
 \gv grande.agitation.mentale
 \dt 26/Sep/2006
 
-\lx ngàniya
-\va ŋàniya
-\ps n
-\sn 1
-\ge bon.plaisir
-\gv gré
-\xv ní ngàniya yé
-\xe volontiers
-\sn 2
-\gv volonté
-\gv intention
-\gv résolution
-\xv ngàniya sìri
-\xe prendre la résolution de...
-\dt 26/Sep/2006
-
-\lx ngàniya
-\va ŋàniya
-\ps v
-\vl vt
-\ge vouloir
-\xv à y'á ngàniya kà...
-\xe il a décidé de ..., il lui a plu de ...
-\dt 16/Aug/2006
-
 \lx ngánunganu
 \va ŋánuŋanu
 \ps v
@@ -83461,7 +83450,7 @@ nord-est
 \xe il s'agit de ..., c'est à dire ..., je veux dire (et c'est ...) (coordonnant d'une relative)
 \xv í ɲɛ́ bɛ́  mùso mín ná, ń'ó yé  Ɲéle yé...
 \xe la femme que tu vois  (et) dont le nom est "Ɲele" ...
-\dt 16/Aug/2006
+\dt 13/Jan/2015
 
 \lx ní
 \va n'
@@ -95380,6 +95369,31 @@ nord-est
 \ps adv
 \ge tout.droit
 \dt 25/Jun/2013
+
+\lx ŋàniya
+\va ngàniya
+\ps n
+\sn 1
+\gv volonté
+\gv intention
+\gv résolution
+\xv ŋàniya sìri
+\xe prendre la résolution de...
+\sn 2
+\ge bon.plaisir
+\gv gré
+\xv ní ŋàniya yé
+\xe volontiers
+\dt 14/Jan/2015
+
+\lx ŋàniya
+\va ngàniya
+\ps v
+\vl vt
+\ge vouloir
+\xv à y'á ŋàniya kà...
+\xe il a décidé de ..., il lui a plu de ...
+\dt 14/Jan/2015
 
 \lx ŋánwu
 \ps adv
@@ -117541,6 +117555,13 @@ fiançailles
 \ee (arboricole, agressif, cou bien marqué, couleur vert olive, oeil très grand)
 \dt 16/Aug/2006
 
+\lx tùru
+\ps n
+\ge responsabilité
+\ee dans l'espression: k'à tùru tà k'à dá mɔ̀gɔ kùn 'mettre la
+responsabilité sur le dos de qqn'
+\dt 13/Jan/2015
+
 \lx túru
 \ps v
 \vl vt
@@ -117557,6 +117578,9 @@ fiançailles
 \ps v
 \vl vt
 \ge prétexter
+\gv invoquer
+\gv mettre sur le dos de
+\dt 13/Jan/2015
 
 \lx túruka
 \va túrka
