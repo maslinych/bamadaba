@@ -46769,16 +46769,21 @@ doigts par des fileuses du coton)
 
 \lx jóona
 \ps adv
-\sn 1
+\sn
 \ge bientôt
 \gv vite
 \xv jóona à sé lá
 \xe le plus vite qu'il pourra adj.
-\sn 2
+\dt 16/Jan/2015
+
+\lx jóona
+\ps adj
+\sn
 \gv précoce
 \xv tásuma jóona ká fìsa  tásuma kɔ́sa yé
-\xe les feux (de brousse) précoces sont préférables aux feux d'arrière-saison
-\dt 26/Sep/2006
+\xe les feux (de brousse) précoces sont préférables aux feux
+d'arrière-saison
+\dt 16/Jan/2015
 
 \lx jòro
 \ps n
@@ -110429,8 +110434,7 @@ fiançailles
 \ps n
 \ge passoire
 \gv filtre
-\lt (filtrer.ce qui sert à)
-\dt 26/Sep/2006
+\dt 17/Jan/2015
 
 \lx syɔ̀manyɛ̀
 \va syɔ̀manjɛ̀
