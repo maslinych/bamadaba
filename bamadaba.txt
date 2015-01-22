@@ -651,14 +651,14 @@
 
 \lx àni
 \va àn'
-\ps conj
+\ps prep/conj
 \ge ainsi.que
 \sm (mise en relief )
 \lt cela.et
 \ee sert dans les énumérations, peut aussi coordonner des phrases
 \xv à yé  ɲɔ́ d'á mà  àni  wòro
 \xe il lui a donné du mil et (aussi) des kolas (souvent employé avant le dernier mot d'une série)
-\dt 19/May/2013
+\dt 18/Jan/2015
 
 \lx ànkɛ
 \mr ɔ̀nhɔn kɛ̀
@@ -751,27 +751,20 @@
 \xe ce n'est pas le vôtre, ce n'est pas à vous !
 \dt 16/Aug/2006
 
-\lx àwá
-\va ɔ̀wɔ́
-\va àwɔ́
-\ps intj
-\ge oui
-\dt 09/Jan/2015
-
 \lx áwirili
 \bw fr : avril
 \ps n
 \ge avril
 \dt 12/Aug/2006
 
-\lx àyi
+\lx àyí
 \ps intj
 \ge non
 \xv àyi  dɛ́ !
 \xe non ! pas du tout !
 \xv àyi  sá !
 \xe (je te dis que) non !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx áyìwa
 \va áyìw'
@@ -1951,11 +1944,11 @@
 \dt 26/Sep/2006
 
 \lx bágibagi
-\ps onomat
+\ps adv
 \ge très.chaud
 \xv à ká gòni bágibagi !
 \xe c'est très chaud !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bàgifin
 \mm bàgi:n:lèpre.lépromateuse
@@ -2744,12 +2737,12 @@
 
 \lx bálawu
 \va bárawu
-\ps onomat
+\ps adv
 \ge avec.intensité
 \ee se dit de la flamme qui jaillit; d'une personne qui entre
 \xv tá mánana bálawu !
 \xe le feu a pris d'un seul coup !
-\dt 18/Apr/2014
+\dt 19/Jan/2015
 
 \lx bàlawuden
 \mm bàlawu:n:catastrophe
@@ -3715,12 +3708,12 @@
 \dt 26/Sep/2006
 
 \lx bánbali
-\ps onomat
+\ps adv
 \ge complètement
 \ee (rempli...)
 \xv k'à kɔ́nɔbaranin fá  bánbali !
 \xe se remplir complètement son petit ventre
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bánbali
 \mm bán:v:terminer
@@ -4493,23 +4486,19 @@
 \xe les abeilles se sont précipitées sur moi
 \dt 26/Sep/2006
 
-\lx bári
+\lx bàri
+\ps conj
+\ge mais
+\dt 18/Jan/2015
+
+\lx bárì
 \ps conj
 \ge car
 \gv en.effet
 \gv étant.donné.que
 \sy kàtugu
 \sy báwo
-\dt 26/Sep/2006
-
-\lx bári sá
-\va bárisa
-\ps conj
-\ge parce.que
-\gv en effet
-\gv étant.donné.que
-\lt (car/donc)
-\dt 26/Sep/2006
+\dt 18/Jan/2015
 
 \lx bárigon
 \va bárikon
@@ -4662,6 +4651,15 @@
 \rem jos, V
 \dt 11/Nov/2007
 
+\lx bárisa
+\va bári sá
+\ps conj
+\ge parce.que
+\gv en effet
+\gv étant.donné.que
+\lt (car/donc)
+\dt 18/Jan/2015
+
 \lx bàrisogo
 \mm bàri:v:crépir
 \mm sògo:n:viande
@@ -4745,6 +4743,15 @@
 \lt (conversation.faire.qui)
 \sy bàrokɛɲɔgɔn
 \dt 26/Sep/2006
+
+\lx bàrokɛɲɔgɔn
+\mm bàro:n:conversation
+\mm kɛ́:v:faire
+\mm ɲɔgɔn:mrph:RECP
+\ps n
+\ge interlocuteur
+\gv
+\dt 21/Jan/2015
 
 \lx bàrolamɔgɔ
 \mm bàro:n:conversation
@@ -5577,12 +5584,12 @@
 \dt 19/Aug/2006
 
 \lx békubeku
-\va bɛkubɛku
-\ps onomat
+\va bɛ́kubɛku
+\ps adv
 \ge hécatombe
 \ee évoque le grand nombre de tués
 \gv mort.définitive
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx bèlebele
 \ps adj
@@ -5914,10 +5921,10 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx bɛ́dɛbɛdɛ
-\ps onomat
+\ps adv
 \ge tout.en.sueur
 \sm évoque une grande transpiration
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bɛ̀dɛbɛdɛninkun
 \mm bɛ̀dɛbɛdɛ:n:brique.brute
@@ -6120,10 +6127,10 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx bɛ́gu
-\ps onomat
+\ps adv
 \ge complètement
 \ee (éteindre le feu, fermer ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx bɛ́ka
 \va bɛ́k'
@@ -6788,18 +6795,18 @@ bâton de berger
 \ge cinquante
 
 \lx bígibigi
-\ps onomat
+\ps adv
 \ge avec.intensité
 \sm évoque l'intensité d'un feu, d'un tourbillon
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx bíi
 \ps onomat
 \ge "biiii"
 \ee bruit d'une envolée d'oiseaux
-\xv kɔ̀nɔ bɛ́ɛ lájɛlen bɛ́  "bíi" fɔ́
+\xv kɔ̀nɔ bɛ́ɛ lájɛlen bɛ́ "bíi" fɔ́
 \xe une foule d'oiseaux font "biiii" (prov)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bíkɔ̀nɔntɔn
 \ps num
@@ -7786,10 +7793,10 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx bínduun
-\ps onomat
+\ps adv
 \ge très.touffu
 \ee évoque la quantité de poils
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bínfagalan
 \mm bín:n:herbe
@@ -8166,12 +8173,12 @@ bâton de berger
 \dt 16/Aug/2006
 
 \lx bíribɔrɔ
-\ps onomat
+\ps adv
 \ge très.sale
 \sm évoque la saleté
 \xv à nɔ́gɔlen bíribɔrɔ
 \xe il est tout sale
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bírifini
 \mm bíri:v:courber
@@ -8191,7 +8198,7 @@ bâton de berger
 \lx bírii
 \va bríi
 \ph [br]
-\ps onomat
+\ps adv
 \ge très.noir
 \sm évoque une grande noirceur
 \re noirceur
@@ -8200,7 +8207,7 @@ bâton de berger
 \sy dɛ́n
 \sy mɔ́nimɔni
 \sy síi
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bíriki
 \ps n
@@ -8358,11 +8365,13 @@ bâton de berger
 \dt 26/Sep/2006
 
 \lx bíségin
+\mm bî:num:dizaine
+\mm ségin:num:huit
 \ps num
 \ge quatre-vingt
 \lt (dizaine-huit)
 \sy bámanakɛmɛ
-\dt 16/Aug/2006
+\dt 20/Jan/2015
 
 \lx bísi
 \ps v
@@ -8701,11 +8710,11 @@ bâton de berger
 \dt 26/Sep/2006
 
 \lx bógoyi
-\ps onomat
+\ps adv
 \ge rapidement
 \xv à sòlila kà wúli bógoyi !
 \xe il s'est levé très tôt, rapidement !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bòjara
 \ps n
@@ -9986,11 +9995,11 @@ bâton de berger
 \dt 24/Jun/2013
 
 \lx bólolo
-\ps onomat
+\ps adv
 \ge longiligne
 \xv ntìlen ɲɛ́fɛsen ká jàn bólolo ! :
 \xe les pattes d'avant de la girafe sont très longues !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bóloma
 \mm bólo:n:bras
@@ -10995,10 +11004,10 @@ bâton de berger
 \dt 24/Dec/2014
 
 \lx bɔ́gɔbɔgɔ
-\ps onomat
+\ps adv
 \ge entièrement
 \ee (abîmé, cassé, fini ...)
-\dt 30/Mar/2014
+\dt 19/Jan/2015
 
 \lx bɔ̀gɔden
 \mm bɔ̀gɔ:n:terre
@@ -11145,6 +11154,23 @@ bâton de berger
 \vl vt
 \ge repiquer
 \lt (arracher-et-planter)
+
+\lx bɔ́ko
+\mm bɔ́:v:sortir
+\mm kó:n:affaire
+\ps n
+\ge numéro.de.périodique
+\ee (d'un périodiqe)
+\dt 18/Jan/2015
+
+\lx bɔ́ko
+\mm bɔ́:v:sortir
+\mm kó:n:affaire
+\ps n
+\ge apparence
+\gv physique
+\ee (aspect extérieur)
+\dt 18/Jan/2015
 
 \lx bɔ́kolo
 \mm bɔ́:v:sortir
@@ -11777,10 +11803,10 @@ toujours (pro)
 
 \lx búdubɛdɛ
 \va búgubɛgɛ
-\ps onomat
+\ps adv
 \ge foulé
 \sm se dit de branches épineuses réduites à l'état de brindilles inoffensives
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bùga
 \ps n
@@ -11816,15 +11842,15 @@ toujours (pro)
 \dt 26/Sep/2006
 
 \lx búgayi
-\ps onomat
+\ps adv
 \sn 1
 \ge en.bouffées
-\xv tábadaa mìn  búgayi
+\xv tábadaa mìn búgayi
 \xe fumer la pipe à grosses bouffées
 \sn 2
 \gv sans.façon
 \gv sans.délicatesse
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx bùgɔ
 \ps v
@@ -11904,9 +11930,9 @@ toujours (pro)
 \dt 26/Sep/2006
 
 \lx búgubugubugu
-\ps onomat
+\ps adv
 \ge en.tournoyant
-\dt 18/Apr/2014
+\dt 19/Jan/2015
 
 \lx bùgubuguma
 \mm bùgubugu:v:faire.tournoyer
@@ -12092,7 +12118,7 @@ toujours (pro)
 
 \lx búkɛ
 \va búgɛ
-\ps onomat
+\ps adv
 \sn 1
 \ge subitement
 \sm évoque la soudaineté (mort chute ...)
@@ -12100,7 +12126,7 @@ toujours (pro)
 \gv prudemment
 \sm la manière de s'asseoir avec précaution quand on a de beaux habits ....
 \sy púkɛ
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx bùla
 \ve (-f,-bk)
@@ -12163,10 +12189,10 @@ toujours (pro)
 \dt 11/Nov/2007
 
 \lx búlayibulayi
-\ps onomat
+\ps adv
 \ge pesamment
 \sm évoque qc de gros au déplacement difficile
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx búlayibulayi
 \ps v
@@ -12289,19 +12315,19 @@ toujours (pro)
 \dt 26/Sep/2006
 
 \lx búlubulu
-\ps onomat
+\ps adv
 \ge chaleur.intense
 \gv en.ébullition
 \gv en.grand.nombre
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx búlubulu
-\ps onomat
+\ps adv
 \ge long
 \ee évoquant qc de long
-\xv í kán búlubulu fílɛ  kà táa
+\xv í kán búlubulu fílɛ kà táa
 \xe regarde-moi le long cou que tu as !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx búlubulu
 \ps v
@@ -12311,9 +12337,9 @@ toujours (pro)
 
 \lx búluki
 \va bóloki
-\ps onomat
+\ps adv
 \ge précipitamment
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx búluki
 \ps v
@@ -12370,9 +12396,9 @@ toujours (pro)
 \dt 16/Aug/2006
 
 \lx búlukutu
-\ps onomat
+\ps adv
 \ge précipitamment
-\dt 12/Aug/2006
+\dt 19/Jan/2015
 
 \lx búlululululu
 \va búrululululu
@@ -12586,10 +12612,10 @@ toujours (pro)
 
 \lx búrabura
 \va bírabira
-\ps onomat
+\ps adv
 \ge en.abondance
 \ee (quantité de fruits mûrs de bourgeons ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx bùraburaba
 \mm ba:mrph:AUGM
@@ -12720,9 +12746,9 @@ toujours (pro)
 \dt 16/Aug/2006
 
 \lx búrɛburɛburɛ
-\ps onomat
+\ps adv
 \ge sans.vie
-\dt 18/Apr/2014
+\dt 19/Jan/2015
 
 \lx bùru
 \ps n
@@ -12759,10 +12785,10 @@ toujours (pro)
 \dt 26/Sep/2006
 
 \lx búrubaburuba
-\ps onomat
+\ps adv
 \ge rapidité
 \ee de mouvement à même le sol
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bùruburu
 \ps n
@@ -12779,12 +12805,12 @@ toujours (pro)
 \dt 16/Aug/2006
 
 \lx búruburu
-\ps onomat
-\ge beaucoup
+\ps adv
+\ge incessamment
 \ee écouler en grande quantité
-\xv ù bɛ́  bàrobɔ lá búru-búru-búru
+\xv ù bɛ́ bàrobɔ lá búru-búru-búru
 \xe ils bavardent longuement
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bùrudamɛ
 \va bùrudaamɛ
@@ -12921,10 +12947,10 @@ mort)
 \dt 16/Aug/2006
 
 \lx búrututu
-\ps onomat
+\ps adv
 \ge sans.répit
 \sm évoque la quantité de paroles
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx bùruwɛti
 \va bùruweti
@@ -13007,9 +13033,9 @@ mort)
 \dt 19/Aug/2006
 
 \lx búu
-\ps onomat
+\ps adv
 \ge rouge.vif
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bùuru
 \ps v
@@ -13020,9 +13046,9 @@ mort)
 \dt 16/Aug/2006
 
 \lx búwaan
-\ps onomat
+\ps adv
 \ge très.rouge
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx buwaji
 \ps adj
@@ -13036,9 +13062,9 @@ mort)
 \dt 03/Apr/2014
 
 \lx búyabuya
-\ps onomat
+\ps adv
 \ge en.ébullition
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx bùyaki
 \ps n
@@ -13100,9 +13126,7 @@ mort)
 \lx caan
 \ps onomat
 \ge bourdonnement
-\gr
-\fq
-\dt 20/Jul/2014
+\dt 19/Jan/2015
 
 \lx cájo
 \ps n
@@ -13145,10 +13169,10 @@ mort)
 \lx cálawu
 \va yálawu
 \va cálayi
-\ps onomat
+\ps adv
 \ge avec.souplesse
 \ee (avec des verbes de mouvement)
-\dt 18/Apr/2014
+\dt 19/Jan/2015
 
 \lx càloncalon
 \va càloncalo
@@ -13277,9 +13301,9 @@ mort)
 \dt 16/Aug/2006
 
 \lx cáwu
-\ps onomat
+\ps adv
 \ge brusquement
-\dt 12/Aug/2006
+\dt 19/Jan/2015
 
 \lx cáwu
 \ps v
@@ -15406,17 +15430,17 @@ sur soi)
 
 \lx có
 \va cɔ́
-\ps onomat
+\ps adv
 \ge pas.du.tout
 \sm (avec les verbes : kɛɲɛ, dɛsɛ ne pas arriver à)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx cóbaa
 \ve (-f)
-\ps onomat
+\ps adv
 \ge complètement.mouillé
 \xv bɔ́taa
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx cógo
 \va cóko
@@ -15508,9 +15532,9 @@ sur soi)
 \dt 16/Aug/2006
 
 \lx cóloki
-\ps onomat
+\ps adv
 \ge avec.souplesse
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx cònkoncanka
 \ps v
@@ -15563,9 +15587,9 @@ sur soi)
 \dt 19/Aug/2006
 
 \lx córicori
-\ps onomat
-\ge d'un.rouge.vif
-\dt 16/Aug/2006
+\ps adv
+\ge rouge.vif
+\dt 19/Jan/2015
 
 \lx córon
 \ps n
@@ -15678,11 +15702,11 @@ sur soi)
 
 \lx cɔ́ri
 \va córi
-\ps onomat
+\ps adv
 \ge assurément
-\xv ń tìgɛra  é lá  cɔ́ri !
+\xv ń tìgɛra é lá cɔ́ri !
 \xe je n'ai plus confiance en toi du tout !
-\dt 15/Aug/2006
+\dt 19/Jan/2015
 
 \lx cɔ̀rin
 \va cɔ̀ri
@@ -16518,9 +16542,9 @@ sur soi)
 \dt 11/May/2013
 
 \lx dábi
-\ps onomat
+\ps adv
 \ge pas.ferme
-\dt 18/Apr/2014
+\dt 19/Jan/2015
 
 \lx dábìla
 \mm dá:n:bouche
@@ -22117,12 +22141,12 @@ rétribution mais à titre de réciprocité)
 \dt 12/Jan/2015
 
 \lx déwu
-\ps onomat
+\ps adv
 \sn 1
 \ge cri.strident
 \sn 2
 \gv solidité.d'un.lien
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx dɛ́
 \ps prt
@@ -22146,9 +22170,9 @@ assumant que l'interclocuteur pense autrement)
 \dt 16/Aug/2006
 
 \lx dɛ́
-\ps onomat
+\ps adv
 \ge très.lourd
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx dɛ̀bɛ
 \ps num
@@ -22175,32 +22199,14 @@ assumant que l'interclocuteur pense autrement)
 \dt 26/Sep/2006
 
 \lx dɛ́bɛdɛbɛ
-\ps onomat
+\ps adv
 \ge gros.et.gras
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx dɛ̀bɛn
 \ps n
 \ge natte
 \ee pour s'étendre (en palmes de 'Hyphaene thebaica')
-\dt 16/Aug/2006
-
-\lx dɛ̀ɛmu
-\va jɛ̀mu
-\ps v
-\vl vi
-\sn 1
-\ge parler
-\gv prendre.la.parole
-\sn 2
-\ge réprimander
-\dt 26/Sep/2006
-
-\lx dɛ̀ɛmu
-\va jɛ̀mu
-\mr dɛ̀gɛ̀mu*
-\ps n
-\ge parole
 \dt 16/Aug/2006
 
 \lx dɛ́ɛndɛ
@@ -22269,10 +22275,10 @@ assumant que l'interclocuteur pense autrement)
 \lx dɛ́lɛdɛlɛdɛlɛ
 \va dlɛ́dlɛdlɛ
 \ph [dlɛdlɛdlɛ]
-\ps onomat
+\ps adv
 \ge ballonné
 \gv bien.rempli
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx dɛ̀mɛ
 \ps n
@@ -22377,9 +22383,9 @@ assumant que l'interclocuteur pense autrement)
 \ge accompagner
 
 \lx dɛ́ndɛndɛn
-\ps onomat
+\ps adv
 \ge très.noir
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx dɛ̀nɛ
 \va dɛ̀nɛn
@@ -22788,9 +22794,9 @@ assumant que l'interclocuteur pense autrement)
 \dt 16/Aug/2006
 
 \lx dídidi
-\ps onomat
+\ps adv
 \ge très.vite
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx díga
 \ps n
@@ -22846,10 +22852,10 @@ assumant que l'interclocuteur pense autrement)
 \dt 16/Aug/2006
 
 \lx díilidiili
-\ps onomat
+\ps adv
 \ge pesanteur
 \sm poids d'un objet porté dans les bras
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx díinɛ
 \bw ar: din = religion
@@ -24662,9 +24668,9 @@ hypothèse interrogative
 \dt 26/Sep/2006
 
 \lx dóradoradora
-\ps onomat
+\ps adv
 \ge adipeux
-\dt 12/Aug/2006
+\dt 19/Jan/2015
 
 \lx dóro
 \ps n
@@ -24692,10 +24698,10 @@ hypothèse interrogative
 \dt 16/Aug/2006
 
 \lx dórodoro
-\ps onomat
+\ps adv
 \ge rouge.et.mou
 \sm (fruit, personne ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx dórogolen
 \mm dórogo:v:serrer
@@ -25877,11 +25883,11 @@ désorienter')
 \dt 19/Feb/2013
 
 \lx dɔ́yi
-\ps onomat
+\ps adv
 \ge doucement
 \gv lentement
 \gv tranquillement
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx dù
 \va dùn
@@ -26493,12 +26499,12 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx dúguru
-\ps onomat
+\ps adv
 \ge très.enflé
 \xv à fúnuna kà kɛ́ dúguru
 \xe il a enflé démesurément
 \rem (par ex : du sein, éléphantiasis...)
-\dt 11/Nov/2007
+\dt 19/Jan/2015
 
 \lx dùgurudɛgɛrɛ
 \ps v
@@ -27272,10 +27278,10 @@ désorienter')
 \dt 16/Aug/2006
 
 \lx dúrututu
-\ps onomat
+\ps adv
 \ge odeur.forte
 \sm qui se répand
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx dúsɛbɛn
 \mm dú:n:maison
@@ -28187,14 +28193,14 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx fáari
-\ps onomat
-\ge en.plein
-\gv brusquemment
+\ps adv
+\ge brusquemment
+\gv en.plein
 \xv mùsokɔrɔnin wúlila k'ù bɛ́ɛ kántigɛ fáari
 \xe la sorcière s'est levé et les a tous égorgés
 \xv à wúlila fáari k'í jɔ̀
 \xe il s'est levé tout d'un coup
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fàaro
 \va fàarɔ
@@ -28205,11 +28211,11 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx fáasi
-\ps onomat
-\ge parfaitement!
+\ps intj
+\ge parfaitement
 \xv fáasi !
 \xe tout à fait ! parfaitement !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fáatu
 \va fátu
@@ -28615,9 +28621,9 @@ désorienter')
 \dt 16/Aug/2006
 
 \lx fálakifalaki
-\ps onomat
+\ps adv
 \ge à.vive.allure
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fàlako
 \ps v
@@ -29157,9 +29163,9 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx fánfali
-\ps onomat
+\ps adv
 \ge énorme
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx fánfan
 \ve (-f)
@@ -30506,14 +30512,14 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx fásayi
-\ps onomat
+\ps adv
 \ge définitivement
 \gv pour.toujours
 \sy kúdayi
 \sy báda
 \xv ò yé  mùso dílen yé  í mà fásayi
 \xe la femme t'est donnée définitivement
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx fàsiya
 \mm fà:n:père
@@ -30886,9 +30892,9 @@ désorienter')
 \dt 06/Jun/2014
 
 \lx félewu
-\ps onomat
+\ps adv
 \ge à.toute.allure
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx féreke
 \ps n
@@ -31149,9 +31155,9 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx fɛ́gɛfɛgɛ
-\ps onomat
+\ps adv
 \ge très.léger
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fɛ́gɛn
 \va fíyɛn
@@ -31640,12 +31646,12 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx fɛ́rɛɛ
-\ps onomat
+\ps adv
 \ge complètement
 \gv parfaitement
 \xv ù bɛ́  nìn bɛ́ɛ ɲɛ́fɔ kóɲuman fɛ́rɛɛ !
 \xe ils expliquent bien tout cela parfaitement
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx fɛ́rɛfɛrɛ
 \va wɛ́rɛwɛrɛ
@@ -31692,10 +31698,12 @@ désorienter')
 \ge natte.sp
 
 \lx fɛ́rɛtɛtɛ
-\ps onomat
-\ge jusqu'au.bout
+\ps adv
+\ge méticuleusement
+\gv clairement et dans le détail
 \gv dans.l'ordre
-\dt 26/Sep/2006
+\gv jusqu'au.bout
+\dt 19/Jan/2015
 
 \lx fɛ́sɛfɛsɛ
 \vt fɛ̀sɛfɛsɛ
@@ -32513,9 +32521,9 @@ la virginité (pièce de monnaie sans trou)
 \dt 26/Sep/2006
 
 \lx fíngifɔngɔ
-\ps onomat
+\ps adv
 \ge très.léger
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fíngɔn
 \ps v
@@ -32923,9 +32931,9 @@ la virginité (pièce de monnaie sans trou)
 \dt 26/Sep/2006
 
 \lx fírikiti
-\ps onomat
+\ps adv
 \ge complètement.retourné
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx fírilan
 \mm fíri:v:renverser
@@ -34289,10 +34297,10 @@ la virginité (pièce de monnaie sans trou)
 \dt 26/Sep/2006
 
 \lx fóra
-\ps onomat
+\ps adv
 \ge trop.cuit
 \sm (tubercules)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fòro
 \ps n
@@ -34781,9 +34789,9 @@ la virginité (pièce de monnaie sans trou)
 \dt 08/Nov/2012
 
 \lx fɔ́gɔlɔn
-\ps onomat
+\ps adv
 \ge très.léger
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fɔ́-kà-bɛ̀n
 \mm fɔ́:v:dire
@@ -35238,9 +35246,9 @@ la virginité (pièce de monnaie sans trou)
 \lt (pénis.peau)
 
 \lx fɔ́sɔkɔfɔsɔkɔ
-\ps onomat
+\ps adv
 \ge maigrichon
-\dt 12/Aug/2006
+\dt 19/Jan/2015
 
 \lx fɔ̀sɔn
 \va pɔ̀sɔn
@@ -35384,11 +35392,11 @@ la virginité (pièce de monnaie sans trou)
 \dt 01/Apr/2014
 
 \lx fúga
-\ps onomat
+\ps adv
 \ge rapidement
 \xv à y'í sìgi fúga !
 \xe il s'est vite installé (près du plat)
-\dt 12/Aug/2006
+\dt 19/Jan/2015
 
 \lx fúgakɛnɛ
 \mm fúga:n:clairière
@@ -35505,10 +35513,10 @@ la virginité (pièce de monnaie sans trou)
 \dt 16/Aug/2006
 
 \lx fúgubefugube
-\ps onomat
+\ps adv
 \ge délicieux
 \sm (patates douces à la braise ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fúgufugu
 \ps v
@@ -35703,9 +35711,9 @@ la virginité (pièce de monnaie sans trou)
 \dt 26/Sep/2006
 
 \lx fúluka
-\ps onomat
+\ps adv
 \ge tout.courbaturé
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx fúlumɛ
 \ps n
@@ -36724,22 +36732,25 @@ la virginité (pièce de monnaie sans trou)
 \dt 16/Aug/2006
 
 \lx fúrututu
-\ps onomat
-\ge trajet.continu
-\dt 16/Aug/2006
+\ps adv
+\ge longuement
+\ee idée d'un trajet continu
+\gv bien haut (parler), 
+\gv "sur tous les toits" (clamer)
+\dt 19/Jan/2015
 
 \lx fúruu
-\ps onomat
+\ps adv
 \ge complètement
 \ee du début jusqu'à la fin
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx fúsanwu
-\ps onomat
+\ps adv
 \ge avec.tintement
 \gv négligeamment
 \ee (caractérise le saut d’un masque couvert d’oripeaux)
-\dt 18/Apr/2014
+\dt 19/Jan/2015
 
 \lx fúse
 \va fúre
@@ -36803,10 +36814,10 @@ la virginité (pièce de monnaie sans trou)
 \lx fwá
 \va fúwaa
 \va pwá
-\ps onomat
+\ps adv
 \ge très.blanc
 \ee d'une blancheur éclatante
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fwàn
 \ve (f)
@@ -36831,9 +36842,9 @@ la virginité (pièce de monnaie sans trou)
 \dt 16/Aug/2006
 
 \lx fwánwu
-\ps onomat
+\ps adv
 \ge soudainement
-\dt 12/Aug/2006
+\dt 19/Jan/2015
 
 \lx fyé
 \ps n
@@ -36923,9 +36934,9 @@ la virginité (pièce de monnaie sans trou)
 \dt 26/Sep/2006
 
 \lx fyɛ́ɛ
-\ps onomat
+\ps adv
 \ge glissage.rapide.sur.l'eau
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx fyɛ́fyɛ
 \bw ar: fiffil = id.
@@ -36974,9 +36985,9 @@ la virginité (pièce de monnaie sans trou)
 \lx gá
 \va gwá
 \ph [gw]
-\ps onomat
+\ps adv
 \ge chute.énergique
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx gáala
 \va gwáala
@@ -37010,9 +37021,9 @@ la virginité (pièce de monnaie sans trou)
 \ph [gw]
 \ps onomat
 \ge bruit.violent
-\xv à yé  dá túgu gáan !
+\xv à yé dá túgu gáan !
 \xe il a fermé violemment la porte, pan !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx gàankan
 \va gànga
@@ -37099,9 +37110,9 @@ la virginité (pièce de monnaie sans trou)
 
 \lx gádawu
 \va gwádawu
-\ps onomat
+\ps adv
 \ge d'un.seul.coup
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx gádawugadawu
 \va gwádawugwádawu
@@ -37262,12 +37273,12 @@ la virginité (pièce de monnaie sans trou)
 \dt 19/Aug/2006
 
 \lx gájagi
-\ps onomat
+\ps adv
 \ge fort
 \gv énergique
 \xv dén bɛ́  à bá kɔ́ rɔ́ gájagi !
 \xe l'enfant se dresse énergiquement sur le dos de sa mère !
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx gákɔrɔla
 \mm gá:n:hangar
@@ -38099,12 +38110,12 @@ la virginité (pièce de monnaie sans trou)
 \ge cordonnier
 
 \lx gárawu
-\ps onomat
+\ps adv
 \ge avec.violence
 \ee et soudaineté
 \xv ù yé  sòn mìnɛ gárawu !
 \xe ils ont attrapé le voleur "garawu"!
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx gàribu
 \va gèrebu
@@ -38471,9 +38482,9 @@ la virginité (pièce de monnaie sans trou)
 \lx gén
 \va gwén
 \ph [gw]
-\ps onomat
+\ps adv
 \ge fermeture.rapide
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx gén
 \va gwén
@@ -38521,13 +38532,13 @@ la virginité (pièce de monnaie sans trou)
 \lx géngele
 \va gwéngele
 \ph [gw]
-\ps onomat
+\ps adv
 \ge très.sec
 \gv très.dynamique
 \xv í yé  nɛ̀gɛnin tà  géngele ! Í y'á bìla  géngele ! à tɛ́na dɔ́ wɛ́rɛ fɔ́nɛgɛninkan kɔ́
 \xe tu as pris un bout de métal "gling" ! Tu l'as rejeté "gling" !Il ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \xe (un tel ne changera plus !)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx géngen
 \va gwéngwen
@@ -38540,9 +38551,9 @@ la virginité (pièce de monnaie sans trou)
 \dt 08/Nov/2012
 
 \lx géngeren
-\ps onomat
+\ps adv
 \ge solide.et.trapu
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx gèngerenin
 \mm nin:mrph:DIM
@@ -38794,11 +38805,11 @@ la virginité (pièce de monnaie sans trou)
 \lx géte
 \va gwéte
 \ph [gw]
-\ps onomat
+\ps adv
 \ge très.petit.de.taille
 \xv kàrisa ká sùrun géte !
 \xe un tel est tout petit !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx gètere
 \va gwètere
@@ -38811,9 +38822,9 @@ la virginité (pièce de monnaie sans trou)
 \lx gétu
 \va gwétu
 \ph [gw]
-\ps onomat
+\ps adv
 \ge petit.et.fort
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx gɛ̀dɛgɛdɛ
 \va gwɛ̀dɛgwɛdɛ
@@ -38838,11 +38849,11 @@ la virginité (pièce de monnaie sans trou)
 \lx gɛ́ɛru
 \va gwɛ́ɛru
 \ph [gw]
-\ps onomat
+\ps adv
 \ge tout.près
-\xv kàna tɛ̀mɛ  à kɔ́rɔ  gɛ́ɛru !
+\xv kàna tɛ̀mɛ à kɔ́rɔ gɛ́ɛru !
 \xe ne passe pas si près !
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx gɛ̀fɛ
 \va gɔ̀fɛ
@@ -39627,9 +39638,9 @@ la virginité (pièce de monnaie sans trou)
 \dt 18/Apr/2013
 
 \lx gíwu
-\ps onomat
+\ps adv
 \ge vite
-\dt 13/Jun/2013
+\dt 19/Jan/2015
 
 \lx gò
 \ps n
@@ -39640,9 +39651,9 @@ la virginité (pièce de monnaie sans trou)
 \lx gó
 \ps onomat
 \ge bruit.sec
-\xv à yé  dátugu gó !
+\xv à yé dátugu gó !
 \xe il a claqué la porte, vlan !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx gó
 \va kó
@@ -39958,10 +39969,10 @@ la virginité (pièce de monnaie sans trou)
 
 \lx góro
 \va górowu
-\ps onomat
+\ps adv
 \ge prendre.de.force
 \ee et par surprise
-\dt 21/Feb/2014
+\dt 19/Jan/2015
 
 \lx góroba
 \mm góro:n:bouton
@@ -40018,6 +40029,17 @@ la virginité (pièce de monnaie sans trou)
 \xv ù b'ú gòron  í kàn  kà kúlo
 \xe ils se précipitent sur toi en hurlant
 \dt 21/Feb/2014
+
+\lx gòsi
+\va gɔ̀si
+\ps v
+\vl vt
+\sn 1
+\ge battre
+\sn 2
+\gv saillir
+\sm (couvrir une femelle)
+\dt 21/Jan/2015
 
 \lx gòsituma
 \mm gòsi:v:battre
@@ -40080,9 +40102,9 @@ la virginité (pièce de monnaie sans trou)
 \dt 16/Aug/2006
 
 \lx gɔ́dɔgɔdɔgɔdɔ
-\ps onomat
+\ps adv
 \ge à.bord
-\dt 18/Apr/2014
+\dt 19/Jan/2015
 
 \lx gɔfɛrɛnɛrɛ
 \ps n
@@ -40289,17 +40311,6 @@ la virginité (pièce de monnaie sans trou)
 \gv gronder
 \ee (chien ...)
 \dt 26/Sep/2006
-
-\lx gɔ̀si
-\va gòsi
-\ps v
-\vl vt
-\sn 1
-\ge battre
-\sn 2
-\gv saillir
-\sm (couvrir une femelle)
-\dt 16/Aug/2006
 
 \lx gɔ̀silan
 \mm gɔ̀si:v:battre
@@ -40548,11 +40559,12 @@ doigts par des fileuses du coton)
 \lx háali
 \bw ar: haali = exact
 \sn 1
-\ps onomat
+\ps adv
 \ge très
 \gv tout.à.fait
 \xv ń sɛ̀gɛnna háali !
 \xe je suis très fatigué !
+\dt 19/Jan/2015
 
 \lx háali
 \ps intj
@@ -41581,10 +41593,10 @@ doigts par des fileuses du coton)
 \dt 16/Aug/2006
 
 \lx híi
-\ps onomat
+\ps adv
 \ge très.loin
 \gv longtemps
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx hìjabu
 \ve (-f,-bk)
@@ -41735,9 +41747,9 @@ doigts par des fileuses du coton)
 \dt 16/Aug/2006
 
 \lx hírii
-\ps onomat
+\ps adv
 \ge attaque.éclaire
-\dt 01/Oct/2013
+\dt 19/Jan/2015
 
 \lx híye
 \ps intj
@@ -41764,11 +41776,11 @@ doigts par des fileuses du coton)
 \va hóki
 \ve (b)
 \va hógi
-\ps onomat
+\ps adv
 \ge surprise.pénible
 \xv hóku kɔ́rɔ yé : kó(júgu) dɔ́ kɛ́ra
 \rem l 89 (-bk,-bn)
-\dt 11/Nov/2007
+\dt 19/Jan/2015
 
 \lx hóyi
 \ps intj
@@ -41913,20 +41925,21 @@ doigts par des fileuses du coton)
 \dt 27/Nov/2014
 
 \lx íko
-\ps conj
+\ps prep/conj
 \ge comme
+\dt 18/Jan/2015
 
 \lx íkomi
 \ee amalgame ? de iko + komi
 \bw fr : comme
-\ps conj
+\ps prep/conj
 \ge comme
 \gv ainsi
 \sy íko
 \sy í ń'á fɔ́
 \xv à bɛ́  íkomi fàtɔ
 \xe il est comme fou
-\dt 26/Sep/2006
+\dt 18/Jan/2015
 
 \lx íkɔrɔ
 \ps adv
@@ -41943,12 +41956,14 @@ doigts par des fileuses du coton)
 \dt 16/Aug/2006
 
 \lx ínafɔ
-\ps conj
+\va í ná à fɔ́
+\va í n'à fɔ́
+\ps prep/conj
 \ge comme
 \sy íko
 \sy íkomi
 \lt (tu.aux fut.ceci.dire)
-\dt 16/Aug/2006
+\dt 18/Jan/2015
 
 \lx irisi
 \ps n
@@ -43398,6 +43413,7 @@ doigts par des fileuses du coton)
 \dt 01/May/2014
 
 \lx jànko
+\va jàngo
 \ph [*yàn n ko = ici je dis ?--> spécialement]
 \ps prt
 \sn 1
@@ -43411,7 +43427,7 @@ doigts par des fileuses du coton)
 \ee particule conjonctive
 \xv wòro ɲími  jànko í kàna sìnɔgɔ
 \xe croque de la noix de kola pour ne pas dormir
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx jànkoci
 \mm cí:n:commission
@@ -44276,7 +44292,7 @@ doigts par des fileuses du coton)
 \gv prendre.la.parole
 \sn 2
 \gv réprimander
-\dt 26/Sep/2006
+\dt 20/Jan/2015
 
 \lx jɛ̀ɛmukan
 \mm jɛ̀ɛmu:n:parole
@@ -47413,11 +47429,11 @@ d'arrière-saison
 
 \lx jɔ́yi
 \va jɔ́yili
-\ps onomat
+\ps adv
 \ge calmement
 \gv doucement
 \gv sans.bruit
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx jɔ̀yɔrɔ
 \mm jɔ̀:n:station.debout
@@ -48432,9 +48448,9 @@ d'arrière-saison
 \dt 18/Dec/2014
 
 \lx ká
-\ps onomat
+\ps adv
 \ge complètement.sec
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx káadɔ
 \ps n
@@ -49204,9 +49220,9 @@ d'arrière-saison
 \ge cadre
 
 \lx kádawu
-\ps onomat
+\ps adv
 \ge toujours
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx káfa
 \ps n
@@ -50170,11 +50186,11 @@ d'arrière-saison
 \dt 05/Apr/2014
 
 \lx káli
-\ps onomat
+\ps adv
 \ge fort.de.goût
 \sm (amer)
 \sy káti
-\dt 08/Nov/2012
+\dt 19/Jan/2015
 
 \lx kàlifa
 \va kàlfa
@@ -52567,10 +52583,10 @@ d'arrière-saison
 \dt 08/Nov/2012
 
 \lx káratata
-\ps onomat
+\ps adv
 \ge avec.énergie
 \ee (serrer, lier, comprimer ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx káratɔ
 \mm kára:n:mauvais.sort
@@ -52598,10 +52614,10 @@ d'arrière-saison
 \dt 19/Dec/2012
 
 \lx kárawu
-\ps onomat
+\ps adv
 \ge soudaineté
 \gv violence
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kàrayogo
 \ps n
@@ -52918,7 +52934,7 @@ d'arrière-saison
 \dt 25/Jun/2013
 
 \lx kásaki
-\ps onomat
+\ps adv
 \sn 1
 \ge très.dur
 \gv sec
@@ -52929,7 +52945,7 @@ d'arrière-saison
 \gv entr'ouvert
 \xv à ɲí bɛ́ kɛ́nɛ kàn kásaki
 \xe on voit bien ses dents !
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kásan
 \vc kása
@@ -52963,9 +52979,9 @@ d'arrière-saison
 \dt 26/Sep/2006
 
 \lx kásawu
-\ps onomat
+\ps adv
 \ge violence.et.rapidité
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kásaya
 \mm kása:vq:méchant
@@ -53182,7 +53198,7 @@ d'arrière-saison
 \dt 26/Sep/2006
 
 \lx káti
-\ps onomat
+\ps adv
 \sn 1
 \ge très.fort
 \sm de goût
@@ -53190,7 +53206,7 @@ d'arrière-saison
 \sn 2
 \gv énergiquement
 \sm (refus)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kátigɛlɛn
 \mm káti:n:caractère
@@ -54169,13 +54185,13 @@ d'arrière-saison
 \dt 19/Aug/2006
 
 \lx kɛ́lɛkɛlɛ
-\ps onomat
+\ps adv
 \sn 1
 \ge très.fort
 \sn 2
 \gv très.scabreux
 \gv excitant
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kɛ̀lɛkɛɲɔgɔn
 \mm kɛ̀lɛ:n:querelle
@@ -54255,9 +54271,9 @@ d'arrière-saison
 \dt 26/Sep/2006
 
 \lx kɛ́lɛnwu
-\ps onomat
+\ps adv
 \ge arrêt.brusque
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kɛ́lɛnwu
 \va kɛ́wu
@@ -55090,9 +55106,9 @@ d'arrière-saison
 \dt 16/Aug/2006
 
 \lx kɛ́sɛkɛsɛ
-\ps onomat
+\ps adv
 \ge sec
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kɛ́su
 \ps n
@@ -55207,12 +55223,12 @@ d'arrière-saison
 \dt 26/Sep/2006
 
 \lx kíisikaasa
-\ps onomat
+\ps adv
 \ge lentement
 \ee (malade affaibli)
 \gv de.façon.ondoyante
 \ee (reptile)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kíli
 \ps n
@@ -55601,13 +55617,16 @@ d'arrière-saison
 \ge très.brave
 
 \lx kírikiri
-\ps onomat
+\va kítikiti
+\va kírikiti
+\va kírititi
+\ps adv
 \ge très.sale
 \gv très.noir
 \sy kírikiti
 \xv sán fìnna kírikiri
 \xe le ciel est très noir
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kírikiri
 \ps v
@@ -55634,14 +55653,6 @@ d'arrière-saison
 \ps adj/n
 \ge épileptique
 \lt (épilepsie.patient)
-
-\lx kírikiti
-\va kírititi
-\ps onomat
-\ge très.sale
-\gv très.noir
-\sy kírikiri
-\dt 26/Sep/2006
 
 \lx kìrin
 \ps n
@@ -56006,12 +56017,6 @@ d'arrière-saison
 \ge livre
 \dt 16/Aug/2006
 
-\lx kítikiti
-\va kírikiri
-\ps onomat
-\ge très.sale
-\dt 16/Aug/2006
-
 \lx kíyama
 \va àlkiyama
 \bw ar: qiyama = résurrection finale ?
@@ -56317,7 +56322,7 @@ d'arrière-saison
 
 \lx kógoso
 \va kógosogo
-\ps onomat
+\ps adv
 \sn 1
 \ge très.dur
 \ve (-bk)
@@ -56325,7 +56330,7 @@ d'arrière-saison
 \gv lentement
 \ve (bk)
 \xv à wúlila kógoso
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kòji
 \mm kò:v:laver
@@ -56413,11 +56418,13 @@ d'arrière-saison
 
 \lx kòkuloriko
 \va kòkloriko
+\va kòkulerěké
+\va kèkelerěké
 \ph [kl]
 \ps onomat
 \ge cocorico
 \sm chant.du.coq
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kókun
 \mm kó:n:affaire
@@ -57029,12 +57036,12 @@ d'arrière-saison
 \dt 28/Feb/2013
 
 \lx kólokoto
-\ps onomat
+\ps adv
 \ge refus.catégorique
 \gv échec.complet
 \xv à y'á déli kólokoto !
 \xe il l'a supplié vainement
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kólokoto
 \ps v
@@ -57570,11 +57577,11 @@ d'arrière-saison
 
 \lx kómi
 \bw fr : comme = id
-\ps conj
+\ps prep/conj
 \ge comme
 \gv puisque
 \cf íkomi
-\dt 26/Sep/2006
+\dt 18/Jan/2015
 
 \lx komini
 \ps n
@@ -59056,9 +59063,9 @@ d'arrière-saison
 \lx kɔ́gɔsɔkɔgɔsɔ
 \va kɔ́ɔsɔkɔɔsɔ
 \va kɔ́ɔsikɔɔsi
-\ps onomat
+\ps adv
 \ge sans.hâte
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kɔ́ja
 \mm kɔ́:n:dos
@@ -59067,6 +59074,13 @@ d'arrière-saison
 \ge fatigue.du.dos
 \lt (dos.durcir)
 \dt 16/Aug/2006
+
+\lx kɔ́jaabi
+\mm kɔ́:n:dos
+\mm jáabi:n:réponse
+\ps n
+\ge réponse
+\dt 20/Jan/2015
 
 \lx kɔ̀jalan
 \mm kɔ̀:n:marigot
@@ -59407,14 +59421,14 @@ d'arrière-saison
 \lx kɔ́likɔli
 \va kwɔ́likwɔli
 \ph [kwɔlikwɔli]
-\ps onomat
+\ps adv
 \sn 1
 \ge grand.éloignement
 \sn 2
 \gv grande.noirceur
 \sn 3
 \gv ligature.bien.serrée
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kɔ́lɔ
 \ps n
@@ -62549,9 +62563,10 @@ ou une proposition)
 \dt 16/Aug/2006
 
 \lx kɔ́rr
-\ps onomat
+\ps adv
 \ge fortement
 \sm (attacher)
+\dt 19/Jan/2015
 
 \lx kɔ́sa
 \va kúsa
@@ -62706,10 +62721,10 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx kɔ́sɔkɔsɔ
-\ps onomat
+\ps adv
 \ge très.loin
 \gv longtemps
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kɔ̀sɔmɔ
 \mm kɔ̀:n:marigot
@@ -62808,10 +62823,10 @@ ou une proposition)
 \dt 16/Aug/2006
 
 \lx kɔ́tɛɛ
-\ps onomat
+\ps adv
 \ge toujours
 \gv sans.cesse
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kɔ̀tɛtulon
 \mm kɔ̀tɛ:n:fête
@@ -62861,9 +62876,9 @@ ou une proposition)
 \lx kɔ́tikɔti
 \va kɔ́rikɔri
 \ve (bk)
-\ps onomat
+\ps adv
 \ge très.sale
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kɔ̀tòronin
 \mm kɔ̀:n:marigot
@@ -62883,13 +62898,13 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx kɔ́tɔkɔtɔ
-\va kɔ́tɔkɔtɔkɔ́tɔ
-\ps onomat
+\va kɔ́tɔkɔtɔkɔtɔ
+\ps adv
 \ge très.vieux
 \gv gâteux
 \xv à kɔ̀rɔla kɔ́tɔkɔtɔ
 \xe il est retombé en enfance
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kɔ́tɔrɔmabɔ́
 \mm kɔ́:n:dos
@@ -63048,13 +63063,13 @@ ou une proposition)
 \dt 16/Aug/2006
 
 \lx kúdayi
-\ps onomat
+\ps adv
 \ge pour.toujours
 \gv définitivement
 \sy báda
 \sy ábada
 \sy fásayi
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx kùdu
 \va kùtu
@@ -63596,6 +63611,16 @@ ou une proposition)
 \sm d'un message
 \lt (parole.changement)
 \dt 16/Aug/2006
+
+\lx kúmamugu
+\mm kúma:n:parole
+\mm múgu:n:poudre
+\ps n
+\ge paroles.nombreuses
+\gv parlottes
+\gv logomachie
+\gv logorrhée
+\dt 20/Jan/2015
 
 \lx kúmana
 \mm kúma:v:parler
@@ -65817,6 +65842,15 @@ ou une proposition)
 \ge journal
 \dt 23/Apr/2013
 
+\lx kùnnagosi
+\mm kùn:n:tête
+\mm ná:mrph:CAUS
+\mm gòsi:v:battre
+\ps n
+\ge réprimande
+\gv regret
+\dt 20/Jan/2015
+
 \lx kùnnagòsi
 \mm kùn:n:tête
 \mm ná:mrph:CAUS
@@ -65832,15 +65866,6 @@ ou une proposition)
 \gv faire.la.morale
 \gv humilier
 \dt 26/Sep/2006
-
-\lx kùnnagòsi
-\mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm gòsi:v:battre
-\ps n
-\ge réprimande
-\gv regret
-\dt 22/Dec/2014
 
 \lx kùnnajala
 \mm kùn:n:tête
@@ -66889,10 +66914,10 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx kúrubɛkurubɛ
-\ps onomat
+\ps adv
 \ge mouvement.vif
 \ee (pour remuer le "to", trottinement d'un bébé)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kùrubɛn
 \mm kùru:n:boule
@@ -66998,6 +67023,17 @@ ou une proposition)
 \vl vi
 \ge trembler
 
+\lx kúrukuru
+\ps intj
+\ge appel.aux.oiseaux
+\dt 19/Jan/2015
+
+\lx kúrukuru
+\ps v
+\ge appeler
+\ee (les poulets)
+\dt 19/Jan/2015
+
 \lx kùrukurunin
 \mm kùrukuru:n:grumeau
 \mm nin:mrph:DIM
@@ -67092,6 +67128,20 @@ ou une proposition)
 \lt (écru.casser ?)
 \gv inaugurer
 \dt 09/Jan/2015
+
+\lx kùrunbokari
+\mm kùrunbo:adj:neuf
+\mm kári:v:casser
+\va kùrunbon.kari
+\mm kùrunbo:adj:neuf
+\mm kári:v:casser
+\va kòronbo.kari
+\mm kùrunbo:adj:neuf
+\mm kári:v:casser
+\ps n
+\ge inauguration
+\gv premier lavage
+\dt 18/Jan/2015
 
 \lx kúrunbolila
 \mm kúrun:n:pirogue
@@ -67280,9 +67330,9 @@ ou une proposition)
 \lx kútekute
 \va kɔ́tɛkɔtɛ
 \ve (bk)
-\ps onomat
-\ge entièrement.réduit.en.poussière
-\dt 16/Aug/2006
+\ps adv
+\ge réduit.en.poussière
+\dt 19/Jan/2015
 
 \lx kùtubasu
 \mm sú:n:nuit
@@ -67299,9 +67349,9 @@ ou une proposition)
 \dt 16/Aug/2006
 
 \lx kútukutu
-\ps onomat
+\ps adv
 \ge parfait.imbécile
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx kúturufin
 \mm kúturu:adj:entier
@@ -67416,12 +67466,12 @@ ou une proposition)
 \dt 21/Dec/2014
 
 \lx láa
-\ps onomat
-\ge très.fort!
+\ps adv
+\ge très.fort
 \sm intensité.d'un.coup
 \sy láwu
 \sy lɛ́wu
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx láabi
 \va lábi
@@ -68124,12 +68174,13 @@ ou une proposition)
 \nt LD p.1
 \dt 11/Nov/2007
 
-\lx ládán
+\lx ládan
 \mm lá:mrph:CAUS
 \mm dán:v:créer
 \ps v
 \vl vt
 \ge créer
+\dt 21/Jan/2015
 
 \lx ládege
 \mm lá:mrph:CAUS
@@ -68929,10 +68980,9 @@ ou une proposition)
 \dt 11/Nov/2007
 
 \lx láhawuta
-\ps adv
-\ge beaucoup
-\gv
-\dt 27/Sep/2014
+\ps adv.p
+\ge énormément
+\dt 18/Jan/2015
 
 \lx láhinɛ
 \mm lá:mrph:CAUS
@@ -71742,13 +71792,13 @@ ou une proposition)
 \dt 11/Nov/2007
 
 \lx láyi
-\ps onomat
+\ps adv
 \sn 1
 \ge coup.violent
 \sn 2
 \gv complètement
 \ee (remplir, détruire ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx láyi
 \bw fr: id.
@@ -71827,8 +71877,9 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx légelege
-\ps onomat
+\ps adv
 \ge très.haut
+\dt 19/Jan/2015
 
 \lx légelege
 \ps n
@@ -71953,11 +72004,11 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx léwu
-\ps onomat
+\ps adv
 \ge complètement
 \gv parfaitement
 \ee (nombreux verbes et adjectifs prédicats)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx lɛ̀
 \va jɛ̀
@@ -73448,7 +73499,10 @@ n'est pas près de disparaître
 \lt (intérêt.mourir)
 \dt 26/Sep/2006
 
-\lx màgɔ̀si
+\lx màgòsi
+\mm mà:mrph:SUPER
+\mm gòsi:v:battre
+\va màgɔ̀si
 \mm mà:mrph:SUPER
 \mm gɔ̀si:v:battre
 \ps v
@@ -73457,7 +73511,7 @@ n'est pas près de disparaître
 \lt (préf.frapper)
 \xv ù bɛ́  màngo màgɔsi
 \xe ils frappent sur la clochette
-\dt 26/Sep/2006
+\dt 21/Jan/2015
 
 \lx màhinɛ
 \ps n
@@ -73880,10 +73934,10 @@ n'est pas près de disparaître
 \lx málakumalaku
 \va sálakumalaku
 \ve (f)
-\ps onomat
+\ps adv
 \ge gloutonnement
 \ee (comme les chiens)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx málasa
 \ps n
@@ -74467,10 +74521,10 @@ n'est pas près de disparaître
 \ge pour.rien
 
 \lx mánamana
-\ps onomat
+\ps adv
 \ge très.doux
 \ee au goût
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx mánamana
 \va mɛ́nɛmɛnɛ
@@ -75447,9 +75501,9 @@ n'est pas près de disparaître
 
 \lx máratata
 \va mɛ́rɛtɛtɛ
-\ps onomat
-\ge sans.discontinuer
-\dt 16/Aug/2006
+\ps adv
+\ge sans.cesse
+\dt 19/Jan/2015
 
 \lx màratɔ
 \mm màra:n:onchocercose
@@ -76209,9 +76263,9 @@ n'est pas près de disparaître
 \dt 16/Aug/2006
 
 \lx mɛ́ɛnɛnɛnɛ
-\ps onomat
+\ps adv
 \ge léger.agréable
-\dt 01/May/2014
+\dt 19/Jan/2015
 
 \lx mɛ́ɛri
 \ps n
@@ -76243,9 +76297,9 @@ n'est pas près de disparaître
 \dt 16/Aug/2006
 
 \lx mɛ́gɛsu
-\ps onomat
+\ps adv
 \ge bien.ajusté
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx mɛ̀ku
 \va mɛ̀gu
@@ -76318,10 +76372,10 @@ n'est pas près de disparaître
 \dt 26/Mar/2014
 
 \lx mɛ́lɛku
-\ps onomat
+\ps adv
 \ge totalement
 \ee (fermé, recouvert, léché ...)
-\dt 12/Aug/2006
+\dt 19/Jan/2015
 
 \lx mɛ́lɛku
 \va mɛ́lɛkun
@@ -76332,13 +76386,13 @@ n'est pas près de disparaître
 \dt 26/Sep/2006
 
 \lx mɛ́lɛmɛlɛ
-\ps onomat
+\ps adv
 \sn 1
 \ge délicieux
 \sn 2
 \gv agréable
 \ee (à écouter : le babil d'un enfant ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx mɛ̀mɛ
 \ve (-bn)
@@ -76460,9 +76514,9 @@ n'est pas près de disparaître
 
 \lx mɛ́rɛtɛtɛ
 \va mɔ́rɔtɔtɔ
-\ps onomat
+\ps adv
 \ge longue.durée
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx mɛri
 \ps n
@@ -76484,8 +76538,9 @@ n'est pas près de disparaître
 \dt 26/Sep/2006
 
 \lx mɛ́tɛmɛtɛ
-\ps onomat
+\ps adv
 \ge flot.continu
+\dt 19/Jan/2015
 
 \lx mɛ́tɛrɛ
 \va mɛ́trɛ
@@ -78251,9 +78306,9 @@ nord-est
 \va mɔ́lɔnti
 \va mɔ́lɔɔsi
 \va mɔ́lɔɔti
-\ps onomat
+\ps adv
 \ge subrepticement
-\dt 20/Oct/2014
+\dt 19/Jan/2015
 
 \lx mɔ́lɔti
 \va mɔ́lɔnti
@@ -78374,9 +78429,9 @@ nord-est
 \dt 12/Mar/2014
 
 \lx mɔ́nimɔni
-\ps onomat
+\ps adv
 \ge noir.lustré
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx mɔ̀nɔnkɔn
 \va mɔ̀lɔnkɔn
@@ -78556,9 +78611,9 @@ nord-est
 \ee (l'argile rouge subit des transformations chimiques, quand elle est  longtemps imprégnée d'eau, elle devient blanche)
 
 \lx mɔ́rɔɲɔmɔrɔɲɔ
-\ps onomat
+\ps adv
 \ge avec.précaution
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx mɔ́rɔrɔ
 \va mɔ́rrɔ
@@ -78830,11 +78885,11 @@ nord-est
 \dt 16/Aug/2006
 
 \lx múgukuku
-\ps onomat
+\ps adv
 \ge hermétiquement
 \xv à yɛ́lɛla múgukuku
 \xe il a ri bouche fermée
-\dt 12/Aug/2006
+\dt 19/Jan/2015
 
 \lx múgumugu
 \ps v
@@ -78856,12 +78911,12 @@ nord-est
 
 \lx múguɲɛmuguɲɛ
 \va múuɲɛmuuɲɛ
-\ps onomat
+\ps adv
 \ge de.contentement
 \gv d'aise
 \xv à yɛ́lɛla múguɲɛmuguɲɛ !
 \xe il en a ri de contentement (cadeau reçu)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx múguri
 \ps v
@@ -79352,12 +79407,12 @@ nord-est
 \dt 16/Aug/2006
 
 \lx músɛmusɛ
-\ps onomat
+\ps adv
 \ge joliment
 \ee (petit rire ...)
 \xv ní  mùso yɛ́lɛla músɛmusɛ, ò ká dí  kámalen yé
 \xe quand les femmes rient finement, ça plait aux jeunes gens
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx mùso
 \ps n
@@ -81148,9 +81203,9 @@ nord-est
 \dt 19/Aug/2006
 
 \lx nári
-\ps onomat
+\ps adv
 \ge lourde.et.flasque
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx nási
 \ps n
@@ -81300,9 +81355,9 @@ nord-est
 \dt 16/Aug/2006
 
 \lx nbérenbata
-\ps onomat
+\ps adv
 \ge tenue.négligée
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx nbɛ́da
 \ee *senti comme un mot étranger, origine ?
@@ -81312,10 +81367,10 @@ nord-est
 \dt 26/Sep/2006
 
 \lx nbɛ́gɛlɛnbɛgɛlɛ
-\ps onomat
+\ps adv
 \ge marche.rapide
 \ee d'un petit bonhomme
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx ń-bɛ́-ń-díya
 \mm ń:pers:je
@@ -81367,9 +81422,9 @@ nord-est
 \dt 16/Aug/2006
 
 \lx nbólonbalan
-\ps onomat
+\ps adv
 \ge très.grand.et.frêle
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx nbónkun
 \va bónkun
@@ -81631,11 +81686,11 @@ nord-est
 \dt 16/Aug/2006
 
 \lx ncóba
-\ps onomat
+\ps adv
 \ge très.mouillé
 \gv bien.imprégné
 \ee (d'eau, d'huile)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ncògin
 \ps v
@@ -81758,7 +81813,7 @@ nord-est
 \sy ncóro
 \dt 16/Aug/2006
 
-\lx ncɔ́-ncɔ́
+\lx ncɔ́ncɔ
 \ps v
 \vl vt
 \sn 1
@@ -81768,7 +81823,7 @@ nord-est
 \sn 2
 \gv repiquer.en.série
 \ee (mêmes sens pour le verbe simple)
-\dt 26/Sep/2006
+\dt 20/Jan/2015
 
 \lx ncɔ́ɔlɔ
 \ve (bn)
@@ -81794,10 +81849,10 @@ nord-est
 \lx ncɔ́rɔki
 \va ncóroki
 \ve (f,bn)
-\ps onomat
+\ps adv
 \ge subitement
 \gv sans.retour
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ncɔ́rɔkɔ
 \va nsɔ́rɔkɔ
@@ -81838,16 +81893,16 @@ nord-est
 \dt 28/Sep/2014
 
 \lx ndánwu
-\ps onomat
+\ps adv
 \ge très.agréable
 \ee (odeur, fête ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ndére
-\ps onomat
+\ps adv
 \ge très
 \ee (chaud, mûr, rouge ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ndìlibara
 \ps n
@@ -81893,10 +81948,10 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ndóro
-\ps onomat
+\ps adv
 \ge très.acide
 \ee (citron, jus de tamarinier ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ndórogere
 \va ndórogwere
@@ -82981,9 +83036,9 @@ nord-est
 \lx ngáɲi
 \va ŋáɲi
 \ve (bn)
-\ps onomat
+\ps adv
 \ge solidité.d'une.attache
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx ngára
 \va ŋára
@@ -83066,9 +83121,9 @@ nord-est
 \lx ngóba
 \va ngóbɛ
 \ve (bk)
-\ps onomat
+\ps adv
 \ge amorphe
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx ngòko
 \ps n
@@ -83149,10 +83204,10 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ngóyangoya
-\ps onomat
+\ps adv
 \ge fade
 \gv décoloré
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ngòyin
 \va ngɔ̀yin
@@ -83658,11 +83713,11 @@ nord-est
 \dt 11/Nov/2007
 
 \lx níkiti
-\ps onomat
+\ps adv
 \ge élastique
 \gv consistant
 \gv mucilagineux
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx nìko
 \mm nì:n:part
@@ -84246,13 +84301,13 @@ nord-est
 \lx njáɲi
 \va njáyin
 \ve (bk)
-\ps onomat
+\ps adv
 \ge étirement.rectiligne
 \xv jùru lásama  njáyin !
 \xe bien tendre la corde !
 \xv kógobolo nìn bɛ́  njáyin !
 \xe ce mur est bien droit !
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx njɔ́
 \ps intj
@@ -84774,11 +84829,11 @@ nord-est
 \dt 11/Dec/2014
 
 \lx nkásaki
-\ps onomat
+\ps adv
 \ge dur
 \gv non.cuit
 \gv difficile.à.faire
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx nkàsan
 \va nkàsa
@@ -85179,10 +85234,10 @@ nord-est
 
 \lx nkólonkalan
 \va kólonkalan
-\ps onomat
+\ps adv
 \ge très.grand
 \gv très.haut
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx nkólonso
 \mm nkólon:n:antilope.ourébi
@@ -85265,9 +85320,9 @@ nord-est
 \dt 16/Aug/2006
 
 \lx nkóronkoron
-\ps onomat
+\ps adv
 \ge très.sale
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx nkóronkoron
 \ps n
@@ -85643,9 +85698,9 @@ nord-est
 \lx nkwá
 \va nkwɛ́
 \ve (bn)
-\ps onomat
+\ps adv
 \ge blancheur.éclatante
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx ń-màgo-tɛ́-kó-lá
 \mm ń:pers:je
@@ -87075,16 +87130,16 @@ nord-est
 \lx npíya
 \va npíyɛ
 \va pí
-\ps onomat
+\ps adv
 \ge beaucoup
 \xv à cámanba bɛ́ npíya !
 \xe il y en a une quantité innombrable !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx npíya
-\ps onomat
+\ps adv
 \ge insipide
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx npó
 \ve (bk)
@@ -87101,9 +87156,9 @@ nord-est
 \lx npó
 \va pó
 \ve (bk)
-\ps onomat
+\ps adv
 \ge en.abondance
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx npógi
 \ps n
@@ -87245,9 +87300,9 @@ nord-est
 \lx npɔ́
 \va pɔ́
 \ve (bk)
-\ps onomat
+\ps adv
 \ge de.mauvais.goût
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx npɔ̀lɔn
 \va nbɔ̀lɔn
@@ -87512,9 +87567,9 @@ nord-est
 
 \lx nsáyin
 \a nsáɲa
-\ps onomat
+\ps adv
 \ge plein.à.ras.bord
-\dt 26/May/2014
+\dt 19/Jan/2015
 
 \lx nsè
 \ps n
@@ -87929,9 +87984,9 @@ nord-est
 \dt 24/Nov/2014
 
 \lx ntáma
-\ps onomat
+\ps adv
 \ge délicieux
-\dt 12/Aug/2006
+\dt 19/Jan/2015
 
 \lx ntámajalan
 \mm ntáma:n:détar
@@ -88084,10 +88139,10 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ntáyin
-\ps onomat
+\ps adv
 \ge extension.complète
 \ee (jambe, fronde ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ntè
 \ps n
@@ -88512,10 +88567,10 @@ nord-est
 
 \lx ntólo
 \va ntóolo
-\ps onomat
+\ps adv
 \ge complètement
 \sm action de percer complètement
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx ntólo
 \ps n
@@ -88615,10 +88670,10 @@ nord-est
 \lx ntón
 \ve (bk)
 \va ntó
-\ps onomat
+\ps adv
 \ge acide
 \gv douloureux
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ntónda
 \mm ntón:n:noeud.coulant
@@ -88725,11 +88780,6 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ntòolo
-\ps onomat
-\ge beaucoup
-\dt 16/Aug/2006
-
-\lx ntòolo
 \ps v
 \vl vi
 \sn 1
@@ -88741,6 +88791,11 @@ nord-est
 \xv ba fara fɔ kà ntòolo
 \xe la crue du fleuve l'a fait déborder
 \dt 16/Aug/2006
+
+\lx ntóolo
+\ps adv
+\ge beaucoup
+\dt 19/Jan/2015
 
 \lx ntòri
 \va ntɔ̀ri
@@ -90719,9 +90774,9 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ɲári
-\ps onomat
+\ps adv
 \ge grande.quantité
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx ɲàriwara
 \mm ɲàri:n:chat
@@ -93167,15 +93222,14 @@ nord-est
 
 \lx ɲɛ́nata
 \mm ɲɛ́:n:oeil
-\mm ná:pp:dans
-\mm tà:n:action.de.prendre
+\mm nata:mrph:MNT2
 \ps n
 \ge choix
 \gv préférence
 \lt (choix.prendre)
 \xv jùmɛ yé í ɲɛ́nata yé ?
 \xe lequel préfères-tu ?
-\dt 26/Sep/2006
+\dt 21/Jan/2015
 
 \lx ɲɛ́natà
 \mm ɲɛ́:n:oeil
@@ -94419,9 +94473,9 @@ nord-est
 \dt 20/Oct/2014
 
 \lx ɲɔ́gɔlɔn
-\ps onomat
+\ps adv
 \ge très.léger
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx ɲɔ̀gɔn
 \va ɲɔ̀ɔn
@@ -94918,9 +94972,9 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ɲɔ́nɔn
-\ps onomat
+\ps adv
 \ge écrasement
-\dt 18/Apr/2014
+\dt 19/Jan/2015
 
 \lx ɲɔ̀nsɔn
 \ps n
@@ -95327,10 +95381,10 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ŋánamatan
-\ps onomat
+\ps adv
 \ge précipitamment
 \gv à.tort.et.à.travers
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ŋànamu
 \ps v
@@ -95437,10 +95491,10 @@ nord-est
 
 \lx ŋáɲaŋaɲa
 \va ngáɲangaɲa
-\ps onomat
+\ps adv
 \ge excellence
 \ee (cuisine à point, belle voix ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ŋára
 \va ŋáran
@@ -95585,9 +95639,9 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ŋɛ́ɲɛmɛ
-\ps onomat
+\ps adv
 \ge bien.paré
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx ŋɛ́ɲɛmɛ
 \ps n
@@ -95630,10 +95684,10 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ŋɛ́rɛlɛ
-\ps onomat
+\ps adv
 \ge facile.à.croquer
 \sm (nourriture)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx ŋòlokùnba
 \mm ŋòlo:n:Ngolo
@@ -95739,9 +95793,9 @@ nord-est
 \va ŋáyi
 \ve (bk)
 \va ŋóyi
-\ps onomat
+\ps adv
 \ge ratatiné
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx ŋùna
 \ps n
@@ -95975,21 +96029,21 @@ nord-est
 \ge ordinateur
 \dt 10/May/2013
 
-\lx ɔ̀wɔ
-\va àwɔ
+\lx ɔ̀wɔ́
+\va àwá
+\va àwɔ́
 \ve (bn,f)
 \va àwɛ
 \ps intj
 \ge oui
-\sm (de réponse positive)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pá
 \va pán
-\ps onomat
+\ps adv
 \ge complètement
 \sm dévoré complètement et rapidement
-\dt 23/Feb/2014
+\dt 19/Jan/2015
 
 \lx pá
 \va pán
@@ -96182,12 +96236,13 @@ nord-est
 \dt 19/Dec/2012
 
 \lx pánpara
-\ps onomat
+\va pánparanpa
+\ps adv
 \ge net
 \sm refus catégorique
 \xv à bànna pánpara !
 \xe il a refusé net !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pànparanba
 \mm ba:mrph:AUGM
@@ -96196,14 +96251,6 @@ nord-est
 \gv incorrigible
 \lt (déchet.grand)
 \dt 26/Sep/2006
-
-\lx pánparanpa
-\ps onomat
-\ge net
-\sm refus catégorique
-\xv à y'í bàn pánparanpa !
-\xe il a refusé tout net !
-\dt 16/Aug/2006
 
 \lx pánpulimusi
 \ps n
@@ -96228,11 +96275,11 @@ nord-est
 \dt 16/Aug/2006
 
 \lx pánwu
-\ps onomat
+\ps adv
 \ge de.loin
 \xv à y'á dàn pánwu !
 \xe il l'a nettement distancé !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pápa
 \ps v
@@ -96260,21 +96307,21 @@ nord-est
 \dt 16/Aug/2006
 
 \lx pára
-\ps onomat
+\ps adv
 \ge carrément
 \gv complètement
 \sm (paroles, nourriture)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx páraki
-\ps onomat
+\ps adv
 \sn 1
 \ge prestement
 \sm (allure)
 \sn 2
 \gv beaucoup
 \ee en grande quantité (fruits tombés ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx párata
 \ps v
@@ -96304,15 +96351,15 @@ nord-est
 \lx páratuparatu
 \va pɛ́rɛtupɛrɛtu
 \ve (bn)
-\ps onomat
+\ps adv
 \ge pas.rapides
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx párawu
-\ps onomat
+\ps adv
 \ge soudaineté
 \sm (d'une action)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx párawu
 \va pátawu
@@ -96368,10 +96415,10 @@ nord-est
 \dt 22/Dec/2014
 
 \lx párɔ
-\ps onomat
+\ps adv
 \ge jet.brusque
 \gv coup.frappé
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pàsakantɛlɛ
 \mm pàsa:n:tendon
@@ -96399,15 +96446,15 @@ nord-est
 
 \lx pási
 \va pásipasi
-\ps onomat
+\ps adv
 \ge blanc.immaculé
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx páta
-\ps onomat
+\ps adv
 \ge chute.molle
 \sm (placage de boue au crépissage ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx páti
 \ps intj
@@ -96426,10 +96473,10 @@ nord-est
 \dt 29/Mar/2014
 
 \lx páwu
-\ps onomat
+\ps adv
 \ge sèchement
 \sm d'un geste fort et sec
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx páyi
 \bw fr: paillette
@@ -96470,10 +96517,10 @@ nord-est
 \lt (tibia.os)
 
 \lx pélepele
-\ps onomat
+\ps adv
 \ge tout.à.fait
 \gv à.100.%
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx pélu
 \ps v
@@ -96540,9 +96587,9 @@ nord-est
 \dt 26/Sep/2006
 
 \lx pérewu
-\ps onomat
+\ps adv
 \ge complètement.dressé
-\dt 20/Feb/2014
+\dt 19/Jan/2015
 
 \lx pèrikali
 \va pɛ̀rɛkali
@@ -96561,11 +96608,11 @@ nord-est
 \dt 24/Jun/2013
 
 \lx péwu
-\ps onomat
+\ps adv
 \ge complètement
 \gv tout.à.fait
 \sm (refus, échec ...)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx pɛ̀gɛ
 \ve (-f)
@@ -96591,9 +96638,9 @@ nord-est
 \dt 26/Sep/2006
 
 \lx pɛ́npɛtɛ
-\ps onomat
+\ps adv
 \ge aplati.complètement
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pɛ́rɛ
 \ps v
@@ -96658,9 +96705,9 @@ nord-est
 \dt 01/Oct/2013
 
 \lx pɛ́tu
-\ps onomat
+\ps adv
 \ge bien.ajusté
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pɛ́tu
 \va pɛ́tupɛtu
@@ -96670,10 +96717,10 @@ nord-est
 \dt 16/Aug/2006
 
 \lx pí
-\ps onomat
+\ps adv
 \ge chute.complète
 \sm (d'un récipient ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pí
 \va pín
@@ -96751,10 +96798,10 @@ nord-est
 \dt 16/Aug/2006
 
 \lx píri
-\ps onomat
+\ps adv
 \ge complètement
 \sm (remplir ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pìripaago
 \ps v
@@ -96818,10 +96865,10 @@ nord-est
 \dt 16/Aug/2006
 
 \lx píya
-\ps onomat
+\ps adv
 \ge sans.ambages
 \sm (et sans vergogne)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx píyanwu
 \ps intj
@@ -96834,10 +96881,10 @@ nord-est
 \dt 16/Aug/2006
 
 \lx pócaa
-\ps onomat
+\ps adv
 \ge chute.mouillée
 \gv chute dans l'eau
-\dt 16/May/2014
+\dt 19/Jan/2015
 
 \lx pòlisi
 \va pólosi
@@ -96893,9 +96940,9 @@ nord-est
 \dt 16/Aug/2006
 
 \lx póro
-\ps onomat
-\ge très(rouge)
-\dt 16/Aug/2006
+\ps adv
+\ge très.rouge
+\dt 19/Jan/2015
 
 \lx póro
 \va npóro
@@ -96907,9 +96954,9 @@ nord-est
 \dt 16/Aug/2006
 
 \lx pórokoporoko
-\ps onomat
+\ps adv
 \ge grand.galop
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx pòrokotó
 \ps v
@@ -96947,10 +96994,10 @@ nord-est
 \dt 08/Nov/2012
 
 \lx póroo
-\ps onomat
+\ps adv
 \ge loin
 \ee sur une longue distance rectiligne
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx póroporo
 \ps v
@@ -97087,10 +97134,10 @@ nord-est
 
 \lx pɔ́rɔ
 \ph [prrrɔ]
-\ps onomat
+\ps adv
 \ge piqûre
 \sm (subite et cuisante)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pɔ́rɔtɔŋɔni
 \mm ŋɔ́ni:n:épine
@@ -97142,14 +97189,14 @@ nord-est
 \dt 11/May/2013
 
 \lx púkɛ
-\ps onomat
+\ps adv
 \ge subitement
 \sm (mort, crevaison, extinction ...)
 \cf búkɛ
 \cf búgɛ
 \xv dími màdara púkɛ !
 \xe la douleur a subitement disparu !
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx pùruki
 \ps v
@@ -97180,16 +97227,16 @@ nord-est
 \dt 26/Sep/2006
 
 \lx pútukuputuku
-\ps onomat
+\ps adv
 \ge resplendissant.de.santé
 \ee (bébé aux joues rebondies ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx pyɛ́
 \ve (f,bn)
-\ps onomat
+\ps adv
 \ge très.propre
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx rɔ́
 \va lɔ́
@@ -102134,9 +102181,9 @@ nord-est
 \dt 16/Aug/2006
 
 \lx sérelen
-\ps onomat
+\ps adv
 \ge toujours.debout
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx séremuso
 \mm sére:n:fruit.non-formé
@@ -103231,10 +103278,10 @@ nord-est
 \dt 19/Oct/2014
 
 \lx shíya
-\ps onomat
+\ps intj
 \ge diantre
 \sm (expression de satisfaction ou de dépit)
-\dt 24/Nov/2014
+\dt 19/Jan/2015
 
 \lx shɔ̀
 \va syɔ̀
@@ -104056,12 +104103,12 @@ nord-est
 \dt 15/Aug/2006
 
 \lx síi
-\ps onomat
-\ge très
+\ps adv
+\ge très.noir
 \sm (noir)
 \xv à ká fín síi !
 \xe il est très noir
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx sìilisáala
 \ps v
@@ -104150,12 +104197,12 @@ nord-est
 \dt 16/Aug/2006
 
 \lx síkan
-\ps onomat
+\ps adv
 \ge d'un.seul.trait
 \sm (avaler)
 \sy síri
 \sy síi
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx sìkara
 \ps n
@@ -105357,11 +105404,11 @@ trompe)
 \lx síri
 \va síi
 \ve (bn)
-\ps onomat
+\ps adv
 \ge d'un.seul.coup
 \sm (avaler)
 \sy síkan
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx síriba
 \ve (-f)
@@ -106885,9 +106932,9 @@ trompe)
 \lx sórototo
 \va súrututu
 \ve (bn)
-\ps onomat
+\ps adv
 \ge très.grand
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx sósara
 \mm só:n:maison
@@ -107144,9 +107191,9 @@ trompe)
 \dt 16/Aug/2006
 
 \lx sɔ́gɔsɔgɔ
-\ps onomat
+\ps adv
 \ge très.loin
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx sɔ́gɔsɔgɔ
 \va sɔ́gusɔgu
@@ -109662,10 +109709,10 @@ fiançailles
 \va swɛ́
 \va shwɛ́
 \ph [shwɛ]
-\ps onomat
+\ps adv
 \ge vite
 \ee rapide comme le vent
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx súya
 \mm sú:v:inciter
@@ -111293,9 +111340,9 @@ fiançailles
 \dt 26/Sep/2006
 
 \lx tálitali
-\ps onomat
+\ps adv
 \ge très.gros
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx tàlitalima
 \ps v
@@ -111404,9 +111451,9 @@ fiançailles
 \lx támatama
 \va ntámantama
 \ve (bn)
-\ps onomat
+\ps adv
 \ge très.chaud
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx tàmati
 \ps n
@@ -111647,10 +111694,10 @@ fiançailles
 \dt 07/Mar/2014
 
 \lx tántantali
-\ps onomat
+\ps adv
 \ge rebondissant
 \sm (danse ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx tà-ń-tɛ́gɛ-má
 \mm tà:v:prendre
@@ -111972,9 +112019,9 @@ fiançailles
 \fq r
 \va táwu
 \ve (bk)
-\ps onomat
+\ps adv
 \ge complètement
-\dt 08/Nov/2012
+\dt 19/Jan/2015
 
 \lx te
 \ps n
@@ -112038,10 +112085,10 @@ fiançailles
 \dt 26/Sep/2006
 
 \lx téku
-\ps onomat
+\ps adv
 \ge délicatement
 \sm (poser ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx téli
 \ve (bn)
@@ -112178,10 +112225,10 @@ fiançailles
 \dt 26/Sep/2006
 
 \lx térekete
-\ps onomat
+\ps adv
 \ge complètement
 \sm (terminer ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx tèrema
 \mm tère:n:chance
@@ -112632,10 +112679,10 @@ fiançailles
 \dt 17/Dec/2012
 
 \lx tɛ́ku
-\ps onomat
+\ps adv
 \ge complètement
 \ee (bouché, fermé)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx tɛ́lɛ
 \va ntɛ́lɛ
@@ -113395,9 +113442,9 @@ fiançailles
 \dt 16/Aug/2006
 
 \lx tígibatigiba
-\ps onomat
+\ps adv
 \ge démarche.d'un.gros
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx tìgilamɔgɔ
 \mm tìgi:n:maître
@@ -113440,11 +113487,11 @@ fiançailles
 \dt 16/Aug/2006
 
 \lx tígitigi
-\ps onomat
+\ps adv
 \ge exactement
 \xv ò dòn tígitigi !
 \xe c'est cela même !
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx tìgiya
 \mm tìgi:n:maître
@@ -113868,9 +113915,9 @@ fiançailles
 \va ntíleku
 \va ntíneku
 \ve (bn)
-\ps onomat
+\ps adv
 \ge très.lisse
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx tìlelafana
 \mm tìle:n:soleil
@@ -115030,10 +115077,10 @@ fiançailles
 \dt 16/Aug/2006
 
 \lx tólikotoliko
-\ps onomat
+\ps adv
 \ge marche.pénible
 \sm (jambes écartées)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx tòlisuma
 \mm tòli:v:pourrir
@@ -115049,12 +115096,12 @@ fiançailles
 \dt 11/Nov/2007
 
 \lx tólitoli
-\ps onomat
+\ps adv
 \ge allure.énergique
 \ee (d'un homme fort)
 \xv cɛ̀nin tólitoli nàtɔ fílɛ !
 \xe regarde-moi le petit homme costaud qui arrive !
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx tómi
 \ps n
@@ -118310,10 +118357,13 @@ responsabilité sur le dos de qqn'
 \dt 12/Mar/2014
 
 \lx wàlankata
+\va wàlankatan
+\va wàlakata
+\va wàrankata
 \ps v
 \vl vt
 \ge faire.déborder
-\dt 16/Aug/2006
+\dt 20/Jan/2015
 
 \lx wálanpara
 \ps intj
@@ -118769,12 +118819,12 @@ aîné ... (Kb 11/06 p.4)
 \dt 08/Nov/2012
 
 \lx wárawarawara
-\ps onomat
+\ps adv
 \ge brillant
 \gv clair
 \xv ń'á y'á sɔ̀rɔ : dòlo jɛ́len wárawarawara dòn, ù b'á fɔ́ kó : dòlo ká dí
 \xe alors si l'étoile (du matin) est très brillante,ils disent  : 'l'étoile est favorable' (pour faire la circoncision)
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx wáraya
 \mm wára:n:fauve
@@ -119257,10 +119307,10 @@ aîné ... (Kb 11/06 p.4)
 \lx wélewele
 \va wɛ́lɛwɛlɛ
 \ve (f)
-\ps onomat
+\ps adv
 \ge très.claire
 \sm (eau)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx wélewele
 \ps n
@@ -120186,13 +120236,13 @@ aîné ... (Kb 11/06 p.4)
 \vl vi
 \ge aboyer
 
-\lx wóyińba
+\lx wóyìńba
 \ps intj
 \ge oh
 \sm exclamation de compassion (employé par les femmes)
 \lt (oh.ma.mère)
 \ee quand un bébé qui apprend à marcher tombe ...
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx wòyo
 \ps n
@@ -121128,9 +121178,9 @@ aîné ... (Kb 11/06 p.4)
 \dt 16/Aug/2006
 
 \lx wúruu
-\ps onomat
+\ps adv
 \ge longuement
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx wúsu
 \ps v
@@ -122125,10 +122175,10 @@ aîné ... (Kb 11/06 p.4)
 
 \lx yére
 \va yéreyere
-\ps onomat
+\ps adv
 \ge bien.rouge
 \gv bien mûr
-\dt 08/Nov/2012
+\dt 19/Jan/2015
 
 \lx yéri
 \ps v
@@ -122392,7 +122442,7 @@ aîné ... (Kb 11/06 p.4)
 \dt 26/Sep/2006
 
 \lx yɛ̀rɛ
-\ps part
+\ps prt
 \sn 1
 \ge d'ailleurs
 \gv en fait
@@ -122401,7 +122451,7 @@ aîné ... (Kb 11/06 p.4)
 \gv tout à fait
 \xv à sàlen yɛ̀rɛ
 \xe il est bel et bien mort
-\dt 05/Jan/2015
+\dt 20/Jan/2015
 
 \lx yɛ̀rɛ̂
 \ps dtm
@@ -123166,11 +123216,11 @@ aîné ... (Kb 11/06 p.4)
 \dt 26/Sep/2006
 
 \lx yóosoyooso
-\ps onomat
+\ps adv
 \ge lourdement
 \gv lentement
 \gv nonchalamment
-\dt 26/Sep/2006
+\dt 19/Jan/2015
 
 \lx yórobilen
 \mm bìlen:vq/adj:rouge
@@ -123233,17 +123283,25 @@ aîné ... (Kb 11/06 p.4)
 \va yìgiyɔgɔ
 \ve (bn)
 \ps v
+\sn 1
 \vl vi
 \ge branler
 \sm (dent ...)
+\gv être branlant
+\gv
+\sn 2
 \vl vt
+\gv ébranler
 \gv chercher à déraciner
-\dt 05/Apr/2013
+\sn 3
+\gv être indistinct
+\ee (paroles)
+\dt 17/Jan/2015
 
 \lx yɔ́kɔyi
-\ps onomat
+\ps adv
 \ge départ.furtif
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx yɔ̀li
 \ve (-bk,-bn)
@@ -123362,10 +123420,10 @@ aîné ... (Kb 11/06 p.4)
 \dt 16/Aug/2006
 
 \lx yúguyɛgɛ
-\ps onomat
+\ps adv
 \ge très.léger
 \sm (tissu ...)
-\dt 16/Aug/2006
+\dt 19/Jan/2015
 
 \lx yúguyugu
 \ps n
