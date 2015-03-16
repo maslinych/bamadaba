@@ -757,6 +757,16 @@
 \ge avril
 \dt 12/Aug/2006
 
+\lx á-yé-fàli-bɛ̀n
+\mm á:pers:1PL
+\mm yé:mp:IMP
+\mm fàli:n:âne
+\mm bɛ̀n:v:se.rencontrer
+\ps n
+\ge ample.vêtement
+\gv de type surplis
+\dt 13/Feb/2015
+
 \lx àyí
 \ps intj
 \ge non
@@ -4658,7 +4668,7 @@
 \gv en effet
 \gv étant.donné.que
 \lt (car/donc)
-\dt 18/Jan/2015
+\dt 05/Feb/2015
 
 \lx bàrisogo
 \mm bàri:v:crépir
@@ -6675,12 +6685,14 @@ bâton de berger
 \dt 21/Feb/2014
 
 \lx bɛ̀rɛma
+\mm bɛ̀rɛ:n:mesure
+\mm ma:mrph:COM
 \vc bɛ̀rma
 \ps n
 \ge convenance
 \ee à la bonne mesure
 \cf bɛ̀rɛ
-\dt 07/Mar/2014
+\dt 22/Feb/2015
 
 \lx bɛ̀sɛ
 \ps adj/n
@@ -9432,6 +9444,14 @@ bâton de berger
 \lt (bras.os)
 \dt 26/Sep/2006
 
+\lx bólokolon
+\mm bólo:n:bras
+\mm kólon:adj:vide
+\ps n
+\ge pauvre
+\gv
+\dt 22/Feb/2015
+
 \lx bólokɔ
 \mm bólo:n:bras
 \mm kɔ́:n:dos
@@ -9777,14 +9797,14 @@ bâton de berger
 \lt (main.légèreté)
 \dt 16/Aug/2006
 
-\lx bólolagɔ̀si
-\mm bólo:n:bras
-\mm lá:mrph:CAUS
-\mm gɔ̀si:v:battre
-\va bólo.la.gòsi
+\lx bólolagòsi
 \mm bólo:n:bras
 \mm lá:mrph:CAUS
 \mm gòsi:v:battre
+\va bólo.la.gɔ̀si
+\mm bólo:n:bras
+\mm lá:mrph:CAUS
+\mm gɔ̀si:v:battre
 \ps v
 \vl vt
 \sn 1
@@ -9792,7 +9812,7 @@ bâton de berger
 \sn 2
 \gv trouver.insuffisant
 \lt (main.frapper)
-\dt 16/Aug/2006
+\dt 23/Jan/2015
 
 \lx bólolajugu
 \mm bólo:n:bras
@@ -28152,6 +28172,15 @@ désorienter')
 \gv impuissance
 \dt 26/Sep/2006
 
+\lx fàantanden
+\mm fàantan:n:pauvre
+\mm fàa:n:force
+\mm ntan:mrph:PRIV
+\mm dén:n:enfant
+\ps n
+\ge fils.de.pauvre
+\dt 19/Feb/2015
+
 \lx fàantanjamana
 \mm fàa:n:force
 \mm ntan:mrph:PRIV
@@ -33291,6 +33320,7 @@ la virginité (pièce de monnaie sans trou)
 \lx fíyen
 \va fyén
 \ph [fy]
+\va fíɲe
 \ps n
 \sn 1
 \ge aveugle
@@ -33299,17 +33329,18 @@ la virginité (pièce de monnaie sans trou)
 \sn 2
 \gv cécité
 \fq r
-\dt 16/Aug/2006
+\dt 23/Jan/2015
 
 \lx fíyen
 \va fyén
 \ph [fy]
+\va fíɲe
 \ps v
 \vl vt
 \ge rendre.aveugle
 \xv màra bɛ́  màa fíyen
 \xe l'onchocercose rend les gens aveugles
-\dt 16/Aug/2006
+\dt 23/Jan/2015
 
 \lx fíyenkɛ
 \mm fíyen:n:aveugle
@@ -33318,13 +33349,16 @@ la virginité (pièce de monnaie sans trou)
 \mm fyén:n:aveugle
 \mm kɛ:adj:mâle
 \ph [fy]
+\va fíɲekɛ
+\mm fíɲe:n:aveugle
+\mm kɛ:adj:mâle
 \ps n
 \ge aveugle
 \sm (masculin)
 \lt (aveugle.homme)
 \xv kó :"fíyenkɛ ! Í yé  mùn mɛ́ ?" :
 \xe "L'aveugle ! Qu'as-tu entendu ?"
-\dt 16/Aug/2006
+\dt 23/Jan/2015
 
 \lx fíyennibana
 \mm fíyen:v:rendre.aveugle
@@ -33335,13 +33369,16 @@ la virginité (pièce de monnaie sans trou)
 \mm ni:mrph:NMLZ
 \mm bàna:n:maladie
 \ph [fy]
+\va fíɲenibana
+\mm fíɲe:v:rendre.aveugle
+\mm bàna:n:maladie
 \ps n
 \ge cécité
 \gv onchocercose
 \lt (rendre aveugle.action.maladie)
 \xv né síranna  fíyennibana ɲɛ́
 \xe j'ai peur de l'onchocercose
-\dt 26/Sep/2006
+\dt 23/Jan/2015
 
 \lx fíyentɔ
 \mm fíyen:v:rendre.aveugle
@@ -33350,10 +33387,13 @@ la virginité (pièce de monnaie sans trou)
 \mm fyén:v:rendre.aveugle
 \mm tɔ:mrph:ST
 \ph [fy]
+\va fíɲetɔ
+\mm fíɲe:n:aveugle
+\mm tɔ:mrph:ST
 \ps adj/n
 \ge aveugle
 \lt (cécité.sujet)
-\dt 12/Aug/2006
+\dt 23/Jan/2015
 
 \lx fíyentɔbere
 \mm fíyen:v:rendre.aveugle
@@ -33364,42 +33404,54 @@ la virginité (pièce de monnaie sans trou)
 \mm tɔ:mrph:ST
 \mm bére:n:bâton
 \ph [fy]
+\va fíɲetɔ
+\mm fíɲe:n:aveugle
+\mm tɔ:mrph:ST
+\mm bére:n:bâton
 \ps n
 \sn 1
 \ge bâton.d'aveugle
 \lt (aveugle.bâton)
 \sn 2
 \gv (à).l'aveuglette
-\dt 16/Aug/2006
+\dt 23/Jan/2015
 
 \lx fíyentɔya
-\mm fíyen:v:rendre.aveugle
+\mm fíyen:n:aveugle
 \mm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
 \va fyén.tɔ.ya
-\mm fyén:v:rendre.aveugle
+\mm fyén:n:aveugle
 \mm tɔ:mrph:ST
 \mm ya:mrph:ABSTR 
 \ph [fy]
+\va fíɲetɔ
+\mm fíɲe:n:aveugle
+\mm tɔ:mrph:ST
+\mm ya:mrph:ABSTR 
 \ps n
 \ge cécité
 \lt (aveugle.suf abs)
-\dt 12/Aug/2006
+\dt 23/Jan/2015
 
 \lx fíyentɔya
-\mm fíyen:v:rendre.aveugle
+\mm fíyen:n:aveugle
 \mm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
 \va fyén.tɔ.ya
-\mm fyén:v:rendre.aveugle
+\mm fyén:n:aveugle
 \mm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
 \ph [fy]
+\va fíɲetɔya
+\mm fíɲe:n:aveugle
+\mm tɔ:mrph:ST
+\mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \ge rendre.aveugle
 \lt (aveugle.suf caus)
-\dt 16/Aug/2006
+\dt 23/Jan/2015
 
 \lx fíyenya
 \mm fíyen:n:aveugle
@@ -33408,10 +33460,13 @@ la virginité (pièce de monnaie sans trou)
 \mm fyén:n:aveugle
 \mm ya:mrph:ABSTR
 \ph [fy]
+\va fíɲeya
+\mm fíɲe:n:aveugle
+\mm ya:mrph:ABSTR
 \ps n
 \ge cécité
 \lt (aveugle.suf abs)
-\dt 12/Aug/2006
+\dt 23/Jan/2015
 
 \lx fíyɛn
 \va fyɛ́n
@@ -33904,6 +33959,38 @@ la virginité (pièce de monnaie sans trou)
 \xv díden fóra
 \xe les abeilles ont quitté (la ruche)
 \dt 26/Sep/2006
+
+\lx fó
+\va f'
+\va fɔ́ɔ
+\va fɔ́
+\va fó
+\ph [fɔɔ]
+\ps prep/conj
+\sn 1
+\ge jusqu'à
+\xv àbi Fàlajɛ  fɔ́ Bàmakɔ
+\xe de Falajɛ à Bamako
+\xv fɔ́ sàya mà
+\xe jusqu'à la mort (allongement parfois expressif dans ce sens
+\sn 2
+\gv sauf
+\xv ɛ́ɛ nàna, fɔ́ é !
+\xe tous sont venus, sauf toi !
+\gv en.sorte.que
+\xv ù yé  báara kɛ́  fɔ́ kà bàna
+\xe ils ont travaillé jusqu'à se rendre malade
+\xv fɔ́ ní
+\xe à moins que ..., à moins de ...
+\xv fɔ́ ń'í bànana...
+\xe à moins que tu ne tombes malade
+\sn 3
+\gv au point de
+\sn 4
+\gv si bien que
+\sn 5
+\gv il faut que
+\dt 22/Feb/2015
 
 \lx fóbɔnda
 \mm fó:n:saison.froide
@@ -34652,37 +34739,6 @@ la virginité (pièce de monnaie sans trou)
 \dt 16/Aug/2006
 
 \lx fɔ́
-\va f'
-\va fɔ́ɔ
-\va fó
-\ph [fɔɔ]
-\ps prep/conj
-\sn 1
-\ge jusqu'à
-\xv àbi Fàlajɛ  fɔ́ Bàmakɔ
-\xe de Falajɛ à Bamako
-\xv fɔ́ sàya mà
-\xe jusqu'à la mort (allongement parfois expressif dans ce sens
-\sn 2
-\gv sauf
-\xv ɛ́ɛ nàna, fɔ́ é !
-\xe tous sont venus, sauf toi !
-\gv en.sorte.que
-\xv ù yé  báara kɛ́  fɔ́ kà bàna
-\xe ils ont travaillé jusqu'à se rendre malade
-\xv fɔ́ ní
-\xe à moins que ..., à moins de ...
-\xv fɔ́ ń'í bànana...
-\xe à moins que tu ne tombes malade
-\sn 3
-\gv au point de
-\sn 4
-\gv si bien que
-\sn 5
-\gv il faut que
-\dt 22/Sep/2013
-
-\lx fɔ́
 \ps n
 \sn 1
 \ge action.de.dire
@@ -35318,9 +35374,9 @@ la virginité (pièce de monnaie sans trou)
 \lx fú
 \ps adj
 \ge inutile
-\xv kúmafu
+\xv kúma fu
 \xe parole sans valeur
-\dt 26/Sep/2006
+\dt 23/Jan/2015
 
 \lx fúfafu
 \ps n
@@ -39727,9 +39783,10 @@ la virginité (pièce de monnaie sans trou)
 \dt 16/Aug/2006
 
 \lx gofɛrɛnaman
+\va gɔfɛrɛnama
 \ps n
 \ge gouvernement
-\dt 17/Dec/2012
+\dt 18/Feb/2015
 
 \lx gógoro
 \ps n
@@ -49282,8 +49339,8 @@ d'arrière-saison
 
 \lx káfen
 \ps n
-\ge mesure.de.longueur
-\dt 18/Dec/2014
+\ge mésure.de.longueur
+\dt 14/Feb/2015
 
 \lx kàfo
 \ps n
@@ -52289,10 +52346,18 @@ d'arrière-saison
 \mm kànu:v:aimer
 \mm baga:mrph:AG.OCC
 \mm nci:mrph:AG.EX
+\va kànunbaanci
+\mm kànu:v:aimer
+\mm baa:mrph:AG.OCC
+\mm nci:mrph:AG.EX
+\va kànun.baga.nci
+\mm kànu:v:aimer
+\mm baga:mrph:AG.OCC
+\mm nci:mrph:AG.EX
 \ps n
 \ge qui.aime.beaucoup
 \lt (aimer.qui.à l'excès)
-\dt 26/Sep/2006
+\dt 22/Jan/2015
 
 \lx kànuden
 \mm kànu:n:amour
@@ -54729,7 +54794,7 @@ d'arrière-saison
 
 \lx kɛ́nyɛrɛla
 \mm kɛ́:v:faire
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yɛ̀rɛ:dtm:même
 \mm lá:pp:dans
 \ps n
@@ -54737,7 +54802,7 @@ d'arrière-saison
 \lt (faire.moi-même.endroit)
 \xv kɛ́nyɛrɛla dàn yé  kɔ̀lɔnkɔnɔboci yé
 \xe le comble de l' "égoïsme" est de péter au fond d'un puits (prov)
-\dt 16/Aug/2006
+\dt 19/Feb/2015
 
 \lx kɛ́nyɛrɛye
 \mm kɛ́:v:faire
@@ -55435,6 +55500,14 @@ d'arrière-saison
 \ge riz.cuit
 \dt 14/Nov/2012
 
+\lx kíni
+\va kínin
+\ps n
+\ge droite
+\gv main droite
+\ee (opposée à : gauche)
+\dt 04/Feb/2015
+
 \lx kínibolo
 \mm kíni:n:droite
 \mm bólo:n:bras
@@ -55469,14 +55542,6 @@ d'arrière-saison
 \ge droitier
 \lt (droite.qui a)
 \dt 12/Aug/2006
-
-\lx kínin
-\va kíni
-\ps n
-\ge droite
-\gv main droite
-\ee (opposée à : gauche)
-\dt 27/Nov/2014
 
 \lx kíniyanfan
 \mm kíni:n:droite
@@ -61790,9 +61855,9 @@ ou une proposition)
 \ps prt
 \ge est-ce.que
 \ee (en début de phrase)
-\xv kɔ̀'í ká kɛ́nɛ ?
+\xv kɔ̀r'í ká kɛ́nɛ ?
 \xe tu vas bien ? (nuances diverses : insistance ...)
-\dt 16/Aug/2006
+\dt 19/Feb/2015
 
 \lx kɔ̀ri
 \ps n
@@ -62858,6 +62923,15 @@ ou une proposition)
 \xv ní ù kɛ́ra dègun kɔ́tigɛbali yé, mùso ká kán kà sé fúrakɛso lá
 \xe si ces troubles (de la ménopause) sont incessants, la femme doit voir le médecin (Kb 4/06 p.5)
 \dt 11/Nov/2007
+
+\lx kɔ́tigɛjoona
+\mm kɔ́:n:dos
+\mm tìgɛ:v:couper
+\mm jóona:adv:bientôt
+\ps n
+\ge pantalon.court.serré.aux.genoux
+\gv
+\dt 13/Feb/2015
 
 \lx kɔ́tigi
 \mm kɔ́:n:dos
@@ -65841,6 +65915,17 @@ ou une proposition)
 \ps n
 \ge journal
 \dt 23/Apr/2013
+
+\lx kùnnafoniso
+\mm kùnnafoni
+\mm kùn:n:tête
+\mm ná:pp:dans
+\mm fóni:v:détacher
+\mm so:n:maison
+\ps n
+\ge site.Internet
+\gv
+\dt 30/Jan/2015
 
 \lx kùnnagosi
 \mm kùn:n:tête
@@ -69242,6 +69327,13 @@ ou une proposition)
 \gv faire.accoucher
 \dt 16/Aug/2006
 
+\lx lájo
+\mm lá:mrph:CAUS
+\mm jó:v:être.en.pleine.forme
+\ps v
+\ge mettre.en.pleine.forme
+\dt 21/Feb/2015
+
 \lx lájɔ̀
 \mm lá:mrph:CAUS
 \mm jɔ̀:v:mettre.debout
@@ -69661,10 +69753,11 @@ ou une proposition)
 
 \lx làkɔli
 \va lèkɔli
+\va èkɔli
 \bw fr : id.
 \ps n
 \ge école
-\dt 11/Apr/2013
+\dt 19/Feb/2015
 
 \lx làkɔliba
 \mm làkɔli:n:école
@@ -76221,29 +76314,6 @@ n'est pas près de disparaître
 \ge mai
 \dt 12/Aug/2006
 
-\lx mɛ́
-\va mɛ́n
-\ps v
-\vl vt
-\sn 1
-\ge entendre
-\xv kása mɛ́n
-\xe sentir (une odeur)
-\sn 2
-\gv entendre.parler
-\xv ń y'í nàko mɛ́
-\xe j'ai appris ta venue.
-\sn 3
-\gv écouter
-\gv exaucer
-\xv à yé ń ká délili mɛ́
-\xe il a exaucé ma prière
-\sn 4
-\gv comprendre
-\xv à tɛ́ bámanakan mɛ́ fɔ́lɔ
-\xe il ne comprend pas encore le bambara
-\dt 26/Sep/2006
-
 \lx mɛ́bali
 \mm mɛ́:v:entendre
 \mm bali:mrph:PTCP.PRIV
@@ -76261,6 +76331,20 @@ n'est pas près de disparaître
 \ge qui.ne.dure.pas
 \lt (durer.nég)
 \dt 16/Aug/2006
+
+\lx mɛ́ɛn
+\va mɛ́
+\va mɛ́n
+\ph [mɛɛn = allongement expressif assez courant]
+\ps v
+\vl vi
+\ge durer
+\gv tarder
+\xv à tɛ́ mɛ́ ní  à má nà
+\xe il ne tardera pas à venir
+\xv à mɛ́na
+\xe il y a longtemps
+\dt 14/Feb/2015
 
 \lx mɛ́ɛnɛnɛnɛ
 \ps adv
@@ -76403,17 +76487,26 @@ n'est pas près de disparaître
 
 \lx mɛ́n
 \va mɛ́
-\va mɛ́ɛn
-\ph [mɛɛn = allongement expressif assez courant]
 \ps v
-\vl vi
-\ge durer
-\gv tarder
-\xv à tɛ́ mɛ́ ní  à má nà
-\xe il ne tardera pas à venir
-\xv à mɛ́na
-\xe il y a longtemps
-\dt 29/Apr/2014
+\vl vt
+\sn 1
+\ge entendre
+\xv kása mɛ́n
+\xe sentir (une odeur)
+\sn 2
+\gv entendre.parler
+\xv ń y'í nàko mɛ́n
+\xe j'ai appris ta venue.
+\sn 3
+\gv écouter
+\gv exaucer
+\xv à yé ń ká délili mɛ́n
+\xe il a exaucé ma prière
+\sn 4
+\gv comprendre
+\xv à tɛ́ bámanakan mɛ́n fɔ́lɔ
+\xe il ne comprend pas encore le bambara
+\dt 14/Feb/2015
 
 \lx mɛ̀nɛ
 \ps prt
@@ -77525,10 +77618,11 @@ nord-est
 \dt 11/Nov/2007
 
 \lx móbili
+\mm mɔ́bili
 \bw fr : id.
 \ps n
 \ge automobile
-\dt 26/Sep/2006
+\dt 19/Feb/2015
 
 \lx móbilibolila
 \mm móbili:n:automobile
@@ -80226,6 +80320,12 @@ nord-est
 \lt (quatre.énième)
 \dt 12/Aug/2006
 
+\lx nàansanaansa
+\ps n
+\ge sans.énergie
+\gv dégonglé
+\dt 06/Feb/2015
+
 \lx nàantan
 \mm nàa:n:ventre
 \mm ntan:mrph:PRIV
@@ -81130,6 +81230,22 @@ nord-est
 \ge européen
 \ee (terme admiratif : ils font des choses étonnantes!)
 
+\lx nànsaalonansaalo
+\ps v
+\ge traîner
+\gv agir sans énergie
+\xv à nànsaalonansaalotɔ fílɛ
+\xe regarde-le déambuler paresseusement
+\dt 10/Feb/2015
+
+\lx nánsaalonansaalo
+\ps adv
+\ge ramolli
+\gv sans énergie
+\xv à bɛ́ nánsaalonansaalo íko kólo tɛ́ mɔ̀gɔ mín ná
+\xe il est moche, sans nerfs, comme s'il était sans os
+\dt 10/Feb/2015
+
 \lx nànsara
 \va nàsara
 \bw ar: nasara = nazaréen
@@ -81373,15 +81489,15 @@ nord-est
 \dt 19/Jan/2015
 
 \lx ń-bɛ́-ń-díya
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm bɛ́:pm:IPFV
-\mm ń:pers:je
-\mm dí:vq/adj:agréable
+\mm ń:pers:1SG
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \ps n
 \ge jouissance
 \lt (je me réjouis)
-\dt 26/Sep/2006
+\dt 07/Feb/2015
 
 \lx nbɛ́ndiyanci
 \mm n.bɛ́.n.di.ya:n:jouissance
@@ -99429,10 +99545,18 @@ nord-est
 \mm sán:n:haut
 \mm kàn:pp:sur
 \mm só:n:maison
+\va sánkaso
+\mm sán:n:haut
+\mm kàn:pp:sur
+\mm só:n:maison
+\va sángaso
+\mm sán:n:haut
+\mm kàn:pp:sur
+\mm só:n:maison
 \ps n
 \ge maison.à.étages
 \lt (haut.sur.maison)
-\dt 16/Aug/2006
+\dt 22/Feb/2015
 
 \lx sánke
 \va sánge
@@ -105006,6 +105130,12 @@ trompe)
 \vl vt
 \ge fonder
 
+\lx Sinuwa
+\ps n
+\ge Chinois
+\gv
+\dt 18/Feb/2015
+
 \lx síɲɛ
 \va sán
 \va syán
@@ -105060,9 +105190,9 @@ trompe)
 \ps n
 \lt espèce-semblable
 \ge même.espèce
-\xv Nímafɛn ó fɛ́n  ò ní  à síɲɔgɔn dè bɛ́ jɛ̀
+\xv Nímafɛn ó fɛ́n ò ní à síɲɔgɔn dè bɛ́ jɛ̀
 \xe tout être vivant fréquente son semblable (Si 13, 15)
-\dt 11/Nov/2007
+\dt 22/Jan/2015
 
 \lx sìra
 \va nsìra
@@ -107049,6 +107179,22 @@ trompe)
 \xe il s'approche du repas
 \sy màdón
 
+\lx sɔ́fɛ
+\ps n
+\ge excrément
+\gv toxine
+\gv impureté
+\dt 09/Feb/2015
+
+\lx sɔ́fɛlenya
+\mm sɔ́fɛ:n:exrément
+\mm len:mrph:PTCP.RES
+\mm ya:mrph:ABSTR
+\ps n
+\ge mépris
+\gv
+\dt 09/Feb/2015
+
 \lx sɔ̀gàra
 \mm sɔ̀:mrph:EN
 \mm gàra:v:s'approcher
@@ -107676,7 +107822,7 @@ trompe)
 \xv à tó án sɔ̀nnɛmɛ ná
 \xe tiens t'en à ce que nous avons décidé  (ce n'est pas de la rigolade)
 \sy ngàniya
-\dt 23/Nov/2012
+\dt 18/Feb/2015
 
 \lx sɔ̀nni
 \mm sɔ̀n:v:accepter
@@ -108124,6 +108270,12 @@ trompe)
 \ee cours de la nuit, pendant la nuit
 \lt (nuit.vers.moment)
 \dt 26/Sep/2006
+
+\lx súfi
+\ps n
+\ge soufi
+\gv sufi
+\dt 14/Feb/2015
 
 \lx súgandi
 \va súganti
@@ -109413,7 +109565,8 @@ fiançailles
 \xe si tu me fais encore ça ...! (sifflement)
 \xv á má ɲɔ́gɔn súuru
 \xe vous ne vous êtes pas disputés
-\dt 16/Aug/2006
+\xe
+\dt 16/Mar/2015
 
 \lx súrundu
 \va súuru
@@ -111813,14 +111966,14 @@ fiançailles
 \sy tàratadon
 \dt 12/Aug/2006
 
-\lx tàri
-\va tɛ́ri
+\lx tárì
+\va tɛ́rì
 \ps conj
 \ge ou.bien
 \gv est-ce que ... ?
-\xv tàri dì ?
+\xv tárì dì ?
 \xe n'est-ce pas ?
-\dt 24/Jun/2013
+\dt 22/Feb/2015
 
 \lx táriku
 \va táriki
@@ -112844,6 +112997,7 @@ fiançailles
 \ps n
 \sn 1
 \ge tabou
+\gv totem
 \ee (animal qui a rendu service aux ancêtres et qu'il est  défendu de tuer ou manger)
 \xv Kùlubali tɛ̀nɛ yé  wáraba yé
 \xe le tabou des "Kulubali" est le lion
@@ -112856,7 +113010,7 @@ fiançailles
 \xe le vol, les fétiches, l'adultère sont des interdits pour les chrétiens
 \xv à ká dí  kóoro dá, káana tɛ̀nɛ tɛ́  à lá
 \xe le varan de terre aime ça,  ce n'est pas (pour autant) l'interdit du varan du Nil(prov)
-\dt 28/Mar/2013
+\dt 13/Feb/2015
 
 \lx tɛ̀nɛ
 \ps v
@@ -115020,14 +115174,14 @@ fiançailles
 \mm tógo.da:n:hameau
 \mm tógo:n:hutte
 \mm dá:n:bouche
-\mm lá:dans:PP
+\mm lá:pp:dans
 \mm mɔ̀gɔ:n:homme
 \ps n
 \lt hameau-de-homme
 \ge villageois
 \xv ń'í y'á yé fànga dɔ́ɔnin bɛ́ bálikukalan ná, ò bɔ́ra tógodalamɔgɔ lá
 \xe si l'on constate que l'alphabétisation a quelque importance, elle est dûe aux paysans (kib 3/05 p.9)
-\dt 14/Nov/2012
+\dt 14/Feb/2015
 
 \lx tógofà
 \ps n
@@ -118251,13 +118405,14 @@ responsabilité sur le dos de qqn'
 \dt 16/Aug/2006
 
 \lx wála
+\va wálama
 \va wálima
 \va wáli
 \ps conj
 \ge ou.bien
 \xv cɛ̀ dòn, wálima mùso ?
 \xe c'est un garçon ou une fille ?...
-\dt 16/Aug/2006
+\dt 13/Feb/2015
 
 \lx wála
 \va wúla
@@ -119539,6 +119694,12 @@ aîné ... (Kb 11/06 p.4)
 \sm (exclamation de douleur)
 \ee (vocabulaire féminin)
 \dt 16/Aug/2006
+
+\lx wila
+\ps n
+\ge villa
+\gv
+\dt 22/Feb/2015
 
 \lx wítɛri
 \ps n
@@ -123095,6 +123256,18 @@ aîné ... (Kb 11/06 p.4)
 \ps n
 \ge myriade
 \dt 26/Sep/2006
+
+\lx yìrikiti
+\ps n
+\ge glaire
+\gv
+\dt 09/Feb/2015
+
+\lx yìrikiti
+\ps v
+\ge être.gluant
+\gv être liquide et sale
+\dt 09/Feb/2015
 
 \lx yírikɔrɔtali
 \mm yíri.kɔrɔ.ta:v:donner.la.nausée
