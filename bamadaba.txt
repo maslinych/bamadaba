@@ -8942,6 +8942,15 @@ bâton de berger
 \rem l 89, du
 \dt 11/Nov/2007
 
+\lx bòlininjɛ
+\mm bòli:n:course
+\mm nin:mrph:DIM
+\mm jɛ́:adj:blanc
+\ps n
+\gf course
+\smf (sportive)
+\dt 18/Mar/2015
+
 \lx bòlisira
 \mm bòli:v:courir
 \mm síra:n:chemin
@@ -78801,11 +78810,13 @@ nord-est
 \vl vt
 \ge enduire
 \gv crépir
+\gv badigeonner
+\gv graisser
 \xv só mù ní  mìsibo yé
 \xe crépir la maison avec de la bouse de vache
 \xv túlu mù  màrifa lá
 \xe graisser le fusil
-\dt 26/Sep/2006
+\dt 18/Mar/2015
 
 \lx mùgan
 \ps num
@@ -79101,6 +79112,15 @@ nord-est
 \xv né ká mùn b'á lá ?
 \xe en quoi cela me regarde-t-il ?
 \dt 16/Aug/2006
+
+\lx mùn
+\ps v
+\ge enduire
+\gv badigeonner
+\gv frictionner
+\gv crépir
+\gv graisser
+\dt 18/Mar/2015
 
 \lx mùnaki
 \ps v
@@ -96609,6 +96629,7 @@ nord-est
 \ps adv
 \ge seulement
 \ee (emploi rare en dehors de kelen pe un seul)
+\dt 18/Mar/2015
 
 \lx pélenkete
 \va pélenketenwu
