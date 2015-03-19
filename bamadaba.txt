@@ -65926,15 +65926,14 @@ ou une proposition)
 \dt 23/Apr/2013
 
 \lx kùnnafoniso
-\mm kùnnafoni
+\mm kùnnafoni:n:information
 \mm kùn:n:tête
 \mm ná:pp:dans
 \mm fóni:v:détacher
 \mm so:n:maison
 \ps n
 \ge site.Internet
-\gv
-\dt 30/Jan/2015
+\dt 19/Mar/2015
 
 \lx kùnnagosi
 \mm kùn:n:tête
@@ -77627,11 +77626,11 @@ nord-est
 \dt 11/Nov/2007
 
 \lx móbili
-\mm mɔ́bili
+\va mɔ́bili
 \bw fr : id.
 \ps n
 \ge automobile
-\dt 19/Feb/2015
+\dt 19/Mar/2015
 
 \lx móbilibolila
 \mm móbili:n:automobile
