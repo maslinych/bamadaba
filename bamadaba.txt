@@ -18549,13 +18549,13 @@ sur soi)
 \mm dála:n:bouche.active
 \mm dá:n:bouche
 \mm la:mrph:dans
-\mm cáman
+\mm cáman:adj:nombreux
 \mm cá:vq:nombreux
 \mm man:mrph:ADJ
 \ps adj/n
 \ge bavard
 \gv
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx dálacɛ̀
 \mm dá:n:bouche
@@ -28097,13 +28097,13 @@ désorienter')
 \lt (25 francs.petit)
 \dt 16/Aug/2006
 
-\lx é
+\lx ê
 \ps pers
 \ge 2SG.EMPH
 \ee pronom personell de la deuxième du singulier (emphatique) : toi, ton, ta, tes
-\xv ń bɛ́  é dè mà !
+\xv ń bɛ́ ê dè mà !
 \xe c'est à toi que je parle !
-\dt 16/Aug/2006
+\dt 28/Mar/2015
 
 \lx ée
 \ps intj
@@ -47152,7 +47152,7 @@ doigts par des fileuses du coton)
 \mm jòli:n:sang
 \mm man:mrph:SUPER
 \mm gó:adj:désagréable
-\mm jèlimango
+\va jèlimango
 \mm jèliman:n:sang.actif
 \mm jèli:n:sang
 \mm man:mrph:SUPER
@@ -47166,17 +47166,17 @@ doigts par des fileuses du coton)
 \sn 2
 \gv peu.sociable
 \gv misanthrope
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx jòlimangoya
-\mm jòlimango
+\mm jòlimango:adj:antipathique
 \mm jòliman:n:sang.actif
 \mm jòli:n:sang
 \mm man:mrph:SUPER
 \mm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \va jèlimangoya
-\mm jèlimango
+\mm jòlimango:adj:antipathique
 \mm jèliman:n:sang.actif
 \mm jèli:n:sang
 \mm man:mrph:SUPER
@@ -47185,7 +47185,7 @@ doigts par des fileuses du coton)
 \ps n
 \ge antipathie
 \lt (antipathique.suf abs)
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx jòlintan
 \mm jòli:n:sang
@@ -77378,21 +77378,30 @@ nord-est
 \ps dtm
 \ge REL
 \ee ...au pluriel : minnu
-\ee *min-lu lesquels, lesquelles, dont ...
 \xv é mîn sìgilen bɛ́  dùgu mà...
 \xe toi qui es assis par terre ...
-\xv mîn tɛ́gɛ ká dí...
-\xe celui qui est adroit  (dont la main est bonne)
 \xv ń yé  fàli mîn sàn...
 \xe l'âne que j'ai acheté ...
+\ee son corrélatif dans la principale est 'ò' au sing. et 'òlu' au pl.
+\xv í túlo bɛ́  wɔ̀lɔ mînnu kàsikan ná, né bɛ́ táa  òlu fàga
+\xe je m'en vais tuer les francolins que tu entends chanter
+\dt 28/Mar/2015
+
+\lx mín
+\va mun
+\ee la forme mun apparaît régulièrement dans certains dialectes du
+nord-est
+\ps prn
+\ge REL
+\ee ...au pluriel : minnu
+\xv mîn tɛ́gɛ ká dí...
+\xe celui qui est adroit  (dont la main est bonne)...
 \xv ní mîn b'á fɛ̀ kà
 \xe si qn veut  ...
 \xv mînnu ká ɲì
 \xe ceux qui sont en bon état
 \ee son corrélatif dans la principale est 'ò' au sing. et 'òlu' au pl.
-\xv í túlo bɛ́  wɔ̀lɔ mînnu kàsikan ná, né bɛ́ táa  òlu fàga
-\xe je m'en vais tuer les francolins que tu entends chanter
-\dt 19/Mar/2014
+\dt 28/Mar/2015
 
 \lx mìnan
 \ps n
@@ -84664,9 +84673,9 @@ nord-est
 
 \lx nìn
 \ph [le ton est ponctuel bas devant une syllabe haute, modulé ascendant devantune syllabe basse]
-\ps dtm/prn
+\ps dtm
 \ge DEM
-\ee ce, ceci, celui-ci, celle-ci, cet, cette
+\ee ce, cet, cette
 \ee peut se placer devant ou derrière le mot déterminé.
 \xv nìn só
 \xe cette maison
@@ -84676,7 +84685,6 @@ nord-est
 \xe ce cheval
 \xv sò nìn
 \xe ce cheval
-\xv à fílɛ  nìn yé
 \xe le voici
 \xv nìn só ìn
 \xe cette maison-ci
@@ -84684,9 +84692,19 @@ nord-est
 \ee *nin+lu se place toujours derrière le déterminé
 \xv só nìnnu
 \xe ces maisons
+\dt 28/Mar/2015
+
+\lx nìn
+\ps prn
+\ge ceci
+\gv celui-ci
+\gv celle-ci
+\xv à fílɛ nìn yé
+\xe le voici
+\pl nìnnu
 \xv í tɛ́  nìnnu fɛ̀ ?
 \xe tu ne veux pas ceux-ci ?
-\dt 03/Dec/2014
+\dt 28/Mar/2015
 
 \lx nìnaa
 \va nènaa
@@ -93546,12 +93564,12 @@ nord-est
 \dt 16/Aug/2006
 
 \lx ɲɛ́nagɛlɛn
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm gɛ̀lɛn:adj:dur
 \va ɲɛ́.na.gwɛlɛn
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm gwɛ̀lɛn:adj:dur
@@ -93565,7 +93583,7 @@ nord-est
 \sn 2
 \gv effronté
 \gv impudent
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx ɲɛ́nagɛlɛya
 \mm ɲɛ́.na:n:regard
@@ -93674,7 +93692,7 @@ nord-est
 \dt 16/Aug/2006
 
 \lx ɲɛ́najugu
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm júgu:adj:mauvais
@@ -93684,7 +93702,7 @@ nord-est
 \gv parasite
 \sn 2
 \gv quémandeur
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx ɲɛ́najugu
 \mm ɲɛ́:n:oeil
@@ -93696,12 +93714,12 @@ nord-est
 \dt 23/Mar/2015
 
 \lx ɲɛ́nakegun
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm kègun:adj:malin
 \va ɲɛ́nakekun
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm kèkun:adj:malin
@@ -93709,12 +93727,11 @@ nord-est
 \lt regard-malin
 \ge adroit.de.ses.mains
 \rem l 89
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx ɲɛ́nakegunya
 \mm ɲɛ́nakegun:adj:adroit.de.ses.mains
-\mm ɲɛ́nakegun
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm kègun:adj:malin
@@ -93723,7 +93740,7 @@ nord-est
 \lt habile-suf abs
 \ge habileté.technique
 \gv art
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx ɲɛ́nakɔniya
 \mm ɲɛ́:n:oeil
@@ -93749,12 +93766,12 @@ nord-est
 \dt 26/Sep/2006
 
 \lx ɲɛ́nakuna
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm kúna:adj:amer
 \va ɲɛ́nakunan
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm kúnan:adj:amer
@@ -93768,18 +93785,18 @@ nord-est
 \gv avare
 \sn 4
 \gv égoïste
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx ɲɛ́nakunaya
 \mm ɲɛ́nakuna:adj:effronté
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm kúna:adj:amer
 \mm ya:mrph:ABSTR
 \va ɲɛ́nakunanya
 \mm ɲɛ́nakunan:adj:effronté
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm kúnan:adj:amer
@@ -93788,7 +93805,7 @@ nord-est
 \vl vi
 \ge être.avare
 \lt (avare.suf caus)
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx ɲɛ́nama
 \mm ɲɛ́:n:oeil
@@ -93869,7 +93886,7 @@ nord-est
 \dt 16/Aug/2006
 
 \lx ɲɛ́namisɛn
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm mìsɛn:adj:petit
@@ -93877,7 +93894,7 @@ nord-est
 \ge minutieux
 \gv méticuleux
 \gv délicat
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx ɲɛ́namɔgɔ
 \mm ɲɛ́:n:oeil
@@ -93889,12 +93906,12 @@ nord-est
 \dt 16/Aug/2006
 
 \lx ɲɛ́nandi
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm nan:mrph:dans
 \mm dí:vq:agréable
-\mm ɲɛ́nadi
-\mm ɲɛ́na:vue
+\mm ɲɛ́nadi:adj/n:gai
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm na:mrph:dans
 \mm dí:vq:agréable
@@ -93906,17 +93923,17 @@ nord-est
 \gv habile
 \gv adroit
 \gv astucieux
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx ɲɛ́nango
-\mm ɲɛ́na:vue
+\mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
 \mm nan:mrph:dans
 \mm gó:adj:désagréable
 \ps adj/n
 \ge maladroit
 \gv malhabile
-\dt 23/Mar/2015
+\dt 28/Mar/2015
 
 \lx ɲɛ́naɲini
 \mm ɲɛ́.na:n:regard
@@ -96667,16 +96684,22 @@ nord-est
 \lx ò
 \ps prn
 \ge ce
-\ee celui, celui-là, cette ... là, cet ... là, celle ... là
+\ee celui, celui-là
+\xv mín í ní  mín mána bɛ̀n, nà ní  ò yé
+\xe celui que tu rencontreras, amène-le
+\dt 28/Mar/2015
+
+\lx ò
+\ps dtm
+\ge ce
+\ee cette ... là, cet ... là, celle ... là
 \sm démonstratif, déterminatif d'un nom, se place devant lui
 \xv ò cógo mán ɲì !
 \xe cette manière de faire n'est pas bonne !
 \xv ò tùma ná
 \xv ò yɔ́rɔ lá...
 \xe à ce moment là, alors ..., dans ce cas ...
-\xv mín í ní  mín mána bɛ̀n, nà ní  ò yé
-\xe celui que tu rencontreras, amène-le
-\dt 26/Sep/2006
+\dt 28/Mar/2015
 
 \lx ó
 \va wó
@@ -102611,6 +102634,7 @@ nord-est
 \dt 07/Dec/2014
 
 \lx sènnateliya
+\mm sènnateli:adj:pressé
 \mm sèn.na:n:allure
 \mm sèn:n:jambe
 \mm na:mrph:dans
@@ -102621,7 +102645,7 @@ nord-est
 \ge presser.l'allure
 \sm (pour le piéton)
 \lt (pas.hâter)
-\dt 07/Dec/2014
+\dt 26/Mar/2015
 
 \lx sènnayaala
 \mm sèn:n:jambe
