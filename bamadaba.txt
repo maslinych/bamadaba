@@ -24402,23 +24402,6 @@ assumant que l'interclocuteur pense autrement)
 \xe elle est partie
 \dt 16/Aug/2006
 
-\lx dòn
-\va dùn
-\ps prt
-\ge quant.à
-\sm interjection qui introduit une nouvelle question, une nouvelle
-hypothèse interrogative
-\gv et...
-\gv cependant
-\gv mais
-\xv í ká kɛ́nɛ....sómɔgɔ dòn ?
-\xe tu vas bien ? ... et la famille ? (sous-entendu : elle va bien ?)
-\xv - ń'á nàna, ń bɛ́  nìn kɛ́
-\xe - s'il vient, je ferai ceci
-\xv - ní  à má nà dòn ?
-\xe et s'il ne vient pas ? (sous-entendu : que feras-tu ?)
-\dt 26/Nov/2014
-
 \lx dón
 \ps n
 \ge jour
@@ -27254,14 +27237,28 @@ désorienter')
 \dt 16/Aug/2006
 
 \lx dùn
+\va dòn
 \ps prt
 \ge TOP.CNTR
-\ee particule d'opposition et de renforcement ; se place derrière le mot qu'elle souligne)
+\gv quant.à
+\ee particule d'opposition et de renforcement ; se place derrière le
+mot qu'elle souligne; introduit une nouvelle question, une
+nouvelle hypothèse interrogative
+\gv et...
+\gv cependant
+\gv mais
+\xv í ká kɛ́nɛ... sómɔgɔ dòn ?
+\xe tu vas bien ? ... et la famille ? (sous-entendu : elle va bien ?)
+\xv - ń'á nàna, ń bɛ́  nìn kɛ́. - ní  à má nà dòn ?
+\xe - s'il vient, je ferai ceci. - et s'il ne vient pas ? (sous-entendu :
+que feras-tu ?)
 \xv é dùn má táa  mùn ná ?
 \xe pourquoi donc tu n'es pas parti, toi ?
-\xv dònso nìn tɛ́  cí kɛ́, à tɛ́ sògosɔngɔ mìnɛ, à bá dùn bɛ́ ɲíni  kà kɔ̀rɔ
-\xe ce chasseur ne cultive pas, ne demande rien pour son gibier ;quant à sa mère, elle prend de l'âge
-\dt 16/Aug/2006
+\xv dònso nìn tɛ́ cí kɛ́, à tɛ́ sògosɔngɔ mìnɛ, à bá dùn bɛ́ ɲíni  kà
+kɔ̀rɔ
+\xe ce chasseur ne cultive pas, ne demande rien pour son gibier;
+quant à sa mère, elle prend de l'âge
+\dt 30/Mar/2015
 
 \lx dùn
 \ps n
@@ -33231,9 +33228,10 @@ la virginité (pièce de monnaie sans trou)
 \dt 26/Sep/2006
 
 \lx fìri
+\va fìiri
 \ps n
-\ge sorte.de.couscous
-\dt 16/Aug/2006
+\ge couscous.de.fonio
+\dt 29/Mar/2015
 
 \lx fìri
 \ps v
@@ -69235,6 +69233,13 @@ ou une proposition)
 \xe sa vue avait tellement baissé qu'il n'y voyait plus / mes yeux sont usés de chagrin (Ps 88, 10)
 \dt 11/Nov/2007
 
+\lx làfiri
+\va lèfiri
+\ps n
+\ge couscous.de.fonio
+\gv
+\dt 29/Mar/2015
+
 \lx làfiya
 \va làfya
 \ph [fy]
@@ -78370,11 +78375,23 @@ nord-est
 \dt 26/Sep/2006
 
 \lx mɔ́
+\vl mɔ́n
 \ps v
+\sn 1
 \vl vt
 \ge mettre.en.boule
 \ee (mortier, nourriture ...)
-\dt 26/Sep/2006
+\sn 2
+\vl vt
+\gv arrondir
+\sn 3
+\vl vr
+\gv se serrer
+\sn 4
+\vl vr
+\xv k'í mɔ́n ɲɔ́gɔn mà
+\gv se réunir
+\dt 29/Mar/2015
 
 \lx mɔ́
 \va mɔ́n
@@ -122597,6 +122614,7 @@ aîné ... (Kb 11/06 p.4)
 \va yánga
 \ve bS
 \ps v
+\sn 1
 \vl vt
 \ge étendre
 \sm (au dessus de ...)
@@ -122604,8 +122622,31 @@ aîné ... (Kb 11/06 p.4)
 \xv kɔ̀nɔ b'á kàma yánkan
 \xe l'oiseau déploie ses ailes
 \xv nùmumuso bɛ́  fìni yánkan  ù lá  sènɲa sàba, à náaninan, à b'á sìri  ù jù lá
-\xe la forgeronne leur déploie le pagne par trois fois, la quatrième fois elle le leur attache aux reins (coutume des jeunes femmes sous le "ga" au  Bɛlɛdugu, avant qu'elles ne soient définitivement données à leur mari)
-\dt 26/Sep/2006
+\xe la forgeronne leur déploie le pagne par trois fois, la
+quatrième fois elle le leur attache aux reins (coutume des
+jeunes femmes sous le "ga" au  Bɛlɛdugu, avant qu'elles ne
+soient définitivement données à leur mari)
+\sn 2
+\vl vt
+\gv soulever au-dessus de la tête
+\sn 3
+\vl vt
+\gv élever
+\sm (aider à atteindre une position sociale élevée)
+\sn 4
+\vl vi
+\gv s'élever
+\sm (atteindre une position sociale élevée)
+\sn 5
+\vl vr
+\gv surplomber
+\sm (qch. -- kùnná)
+\sn 6
+\vl vr
+\gv monter
+\gv grimper
+\sm (sur -- kàn, sánfɛ̀)
+\dt 29/Mar/2015
 
 \lx yànni
 \mm yàn:n:ici
