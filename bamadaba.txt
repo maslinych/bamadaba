@@ -25193,7 +25193,9 @@ assumant que l'interclocuteur pense autrement)
 \gv date
 \xv dɔ́gɔ dá
 \xe fixer une date
-\dt 16/Aug/2006
+\xv kà kó bɔ́ dɔ́gɔ kɔ́rɔ
+\xe ajourner quelque chose
+\dt 01/Apr/2015
 
 \lx dɔ́gɔ
 \va dwá
@@ -26118,11 +26120,17 @@ désorienter')
 \xe apporte un peu d'eau
 \dt 20/Jul/2014
 
-\lx dɔ́ɔnin-dɔ́ɔnin
-\ps adv
+\lx dɔ́ɔnindɔɔnin
+\ps adv.p
 \ge doucement
 \gv peu à peu
-\dt 11/May/2013
+\dt 31/Mar/2015
+
+\lx dɔ́ɔnindɔɔnin
+\ps adv
+\ge petit.à.petit
+\gv
+\dt 31/Mar/2015
 
 \lx dɔ̀ɔntin
 \ps n
@@ -103803,6 +103811,7 @@ nord-est
 \dt 30/Mar/2014
 
 \lx sɛ́mɛ
+\va sɔ́mɛ
 \va sɔ́mi
 \ve (f)
 \va nsɛ́mɛ
@@ -103815,7 +103824,7 @@ nord-est
 \gv force physique
 \xv dénmisɛnnin sɔ́mi má sé  báara mín kɛ́li yé, ń'í kó : à k'ò kɛ́, í b'á bàna
 \xe un travail qui dépasse les forces d'un enfant, si tu lui dis de le faire,tu vas le rendre malade
-\dt 30/Mar/2014
+\dt 31/Mar/2015
 
 \lx sɛ̀mɛjiri
 \mm sɛ̀mɛ:v:adosser
@@ -122910,17 +122919,6 @@ soient définitivement données à leur mari)
 \xe il a la lèvre pendante
 \dt 26/Sep/2006
 
-\lx yèele
-\ps v
-\vl vi
-\ge fondre
-\vl vt
-\gv faire fondre
-\gv dissoudre
-\xv kɛ̀ɲɛ bɛ́ yèele  tìle lá
-\xe la cire fond au soleil
-\dt 26/Sep/2006
-
 \lx yéele
 \ps adj
 \sn 1
@@ -122930,6 +122928,18 @@ soient définitivement données à leur mari)
 \gv gorgées d'eau
 \sm (en parlant d'arachides non mûres ...)
 \dt 16/Aug/2006
+
+\lx yèelen
+\va yèele
+\ps v
+\vl vi
+\ge fondre
+\vl vt
+\gv faire fondre
+\gv dissoudre
+\xv kɛ̀ɲɛ bɛ́ yèele  tìle lá
+\xe la cire fond au soleil
+\dt 31/Mar/2015
 
 \lx yéelen
 \ps n
