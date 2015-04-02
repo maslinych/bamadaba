@@ -4,12 +4,6 @@
 \name togow
 \ver 0.3
 
-\lx
-\ps
-\ge
-\gv
-\dt 30/Nov/2014
-
 \lx Aba
 \ge NOM.M
 \dt 02/May/2010
@@ -380,9 +374,9 @@
 \ps n.prop
 
 \lx Banba
-\ps
+\ps n.prop
 \ge NOM
-\dt 03/May/2010
+\dt 02/Apr/2015
 \ps n.prop
 
 \lx Bánbo
@@ -466,9 +460,9 @@
 \ps n.prop
 
 \lx Bayegi
-\ps
+\ps n.prop
 \ge NOM
-\dt 03/May/2010
+\dt 02/Apr/2015
 \ps n.prop
 
 \lx Bayi
@@ -2584,9 +2578,9 @@
 \ps n.prop
 
 \lx Sánu
-\ps
+\ps n.prop
 \ge NOM.MF
-\dt 03/May/2010
+\dt 02/Apr/2015
 \ps n.prop
 
 \lx Sánumu

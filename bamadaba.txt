@@ -253,10 +253,10 @@
 \lx álakira
 \mm ála:n:Dieu
 \mm kíra:n:prophète
-\ps m
+\ps n
 \ge Prophèt
 \gv Mahomet
-\dt 21/Dec/2014
+\dt 02/Apr/2015
 
 \lx álakota
 \mm Ála:n:Dieu
@@ -102231,32 +102231,32 @@ nord-est
 \va sànankun
 \va sɛ̀nɛnkun
 \ps n
-\ge cousain.de.plaisanterie
+\ge cousin.de.plaisanterie
 \ee membre de la famille liée à la vôtre par des relations traditionnelles d'entr'aide et de plaisanterie (ex : les 'Tarawele' et les 'Jara' sont des 'senenkun' de même que les'Kulubali' et les 'Konare' ...)
-\dt 18/Apr/2014
+\dt 02/Apr/2015
 
 \lx sènenkunma
-\mm sènenkun:n:cousain.de.plaisanterie
+\mm sènenkun:n:cousin.de.plaisanterie
 \mm ma:mrph:RECP.PRN
 \ps adj/n
-\ge cousain.de.plaisanterie
+\ge cousin.de.plaisanterie
 \lt ('senenkun'.suf adj)
-\dt 28/Nov/2012
+\dt 02/Apr/2015
 
 \lx sènenkunya
-\mm sènenkun:n:cousain.de.plaisanterie
+\mm sènenkun:n:cousin.de.plaisanterie
 \mm ya:mrph:ABSTR
 \va sìnankun.ya
-\mm sìnankun:n:cousain.de.plaisanterie
+\mm sìnankun:n:cousin.de.plaisanterie
 \mm ya:mrph:ABSTR
 \va sènankun.ya
-\mm sènankun:n:cousain.de.plaisanterie
+\mm sènankun:n:cousin.de.plaisanterie
 \mm ya:mrph:ABSTR
 \ps n
 \ge cousinage.de.plaisanterie
 \ee relation traditionnelle de plaisanterie et de service
 \lt ('senenkun'.suf abs)
-\dt 16/Aug/2006
+\dt 02/Apr/2015
 
 \lx sènfá
 \mm sèn:n:jambe
