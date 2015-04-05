@@ -254,9 +254,9 @@
 \mm ála:n:Dieu
 \mm kíra:n:prophète
 \ps n
-\ge Prophèt
+\ge Prophète
 \gv Mahomet
-\dt 02/Apr/2015
+\dt 03/Apr/2015
 
 \lx álakota
 \mm Ála:n:Dieu
@@ -16699,10 +16699,10 @@ sur soi)
 \mm dá:n:bouche
 \mm bàra:n:calebasse
 \mm jɛ́:vq/adj:blanc
-\ps n/adj
+\ps adj/n
 \ge pauvre
 \sm qui n'est pas considéré [fig]
-\dt 26/Sep/2006
+\dt 05/Apr/2015
 
 \lx dábɛrɛbɛrɛma
 \ve (-f,-bk)
@@ -31519,7 +31519,7 @@ quant à sa mère, elle prend de l'âge
 \ph [fy]
 \va fíɲɛ
 \va fɛ́ngɛ
-\ps vq/ɑdj
+\ps vq/adj
 \sn 1
 \ge léger
 \xv à ká fíyɛn ń kùn
@@ -31534,7 +31534,7 @@ quant à sa mère, elle prend de l'âge
 \gv rapide
 \xv à tɛ́gɛla ká fíyɛn
 \xe il a la main leste, il est prompt à frapper
-\dt 22/Mar/2015
+\dt 03/Apr/2015
 
 \lx fɛ́gɛnya
 \mm fɛ́gɛn:vq:léger
@@ -53883,13 +53883,13 @@ composante des adjectifs séparables)
 \ve (f)
 \va kègu
 \va kèku
-\ps vq/ɑdj
+\ps vq/adj
 \ge malin
 \gv rusé
 \gv roublard
 \xv wɔ̀lɔ ká kègun ní  sònsan yé
 \xe le francolin est plus malin que le lièvre
-\dt 23/Mar/2015
+\dt 03/Apr/2015
 
 \lx kègunman
 \mm kègun:vq:malin
@@ -64596,14 +64596,16 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx kúnasini
-\ps n/adv
+\ps adv/n
 \ge avant-hier
+\dt 05/Apr/2015
 
 \lx kúnasiniwo
 \mm kúnasini:n/adv:avant-hier
-\ps n/adv
+\ps adv/n
 \ge avant-hier
 \lt (avant-hier.cet)
+\dt 05/Apr/2015
 
 \lx kúnatɔ
 \mm kúna:n:lèpre.amputante
@@ -78671,11 +78673,11 @@ nord-est
 \va màa.landi
 \mm màa:n:homme
 \mm landi:adj:qui.aime
-\ps n/adj
+\ps adj/n
 \lt (homme.qui aime)
 \ge philanthrope
 \gv personne.bienveillante
-\dt 26/Sep/2006
+\dt 05/Apr/2015
 
 \lx mɔ̀gɔlandiya
 \mm mɔ̀gɔ:n:humain
@@ -94216,7 +94218,7 @@ nord-est
 \mm ɲɛ́:n:oeil
 \mm tà:v:prendre
 \mm nci:mrph:AG.EX
-\ps n/ɑdj
+\ps adj/n
 \sn 1
 \ge dérisoire
 \gv sans importance
@@ -94226,7 +94228,7 @@ nord-est
 \gv qui fait l'important
 \lt (premier.à l'excès)
 \ee (joue les premiers rôles sans en être chargé)
-\dt 18/Dec/2014
+\dt 05/Apr/2015
 
 \lx ɲɛ̀ɲɛ
 \va ɲɛ̀ɲɛn
@@ -99437,9 +99439,9 @@ nord-est
 
 \lx sálon
 \va sánwo
-\ps n/adv
+\ps adv/n
 \ge l'an.dernier
-\dt 26/Sep/2006
+\dt 05/Apr/2015
 
 \lx sálonnasini
 \mm sálon:n/adv:l'an.dernier
@@ -99452,10 +99454,10 @@ nord-est
 \mm sálon:n/adv:l'an.dernier
 \mm lá:pp:dans
 \mm síni:n:demain
-\ps n/adv
+\ps adv/n
 \ge il.y.a.deux.ans
 \lt (l'an passé.  ?)
-\dt 09/Jun/2014
+\dt 05/Apr/2015
 
 \lx sàma
 \ps n
@@ -105536,10 +105538,10 @@ trompe)
 \va sínin.kɛnɛ
 \mm sínin:n:demain
 \mm kɛ́nɛ:n:clarté
-\ps n/adv
+\ps adv/n
 \ge après-demain
 \lt (demain.aube ?)
-\dt 16/Aug/2006
+\dt 05/Apr/2015
 
 \lx sínimasini
 \mm síni:n:demain
@@ -108647,13 +108649,13 @@ trompe)
 \ee terme anatomique
 \dt 27/Nov/2014
 
-\lx sɔ́ɔni
-\va sɔ́ɔnin
-\ps n/adv
+\lx sɔ́ɔnin
+\va sɔ́ɔni
+\ps adv/n
 \ge bientôt
 \xv k'án sɔ́ɔni !
 \xe à bientôt !
-\dt 20/Mar/2014
+\dt 05/Apr/2015
 
 \lx sɔ́ɔrɔ
 \ve (-bk)
