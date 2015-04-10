@@ -26175,7 +26175,13 @@ désorienter')
 \gv dès.que
 \xv sú kòra dɔ́rɔn, ń ɲɛ́ tɛ́  fóyi yé
 \xe dès que tombe la nuit, je ne vois plus rien
-\dt 24/Jun/2013
+\dt 05/Apr/2015
+
+\lx dɔ́rɔn
+\ps adv
+\ge aussitôt
+\gv
+\dt 05/Apr/2015
 
 \lx dɔ̀surun
 \mm dɔ̀:n:longueur
@@ -40765,7 +40771,13 @@ la virginité (pièce de monnaie sans trou)
 \ge gronder
 \sm (tonnerre, chute d'eau ...)
 \lt (gronder-gronder)
-\dt 26/Sep/2006
+\dt 09/Apr/2015
+
+\lx gúdugudu
+\ps onomat
+\ge bruit.de.l'eau
+\gv
+\dt 09/Apr/2015
 
 \lx gúfa
 \ve (-f,-bk)
@@ -48139,9 +48151,9 @@ d'arrière-saison
 
 \lx júgunin
 \ps n
-\ge hérisson
+\ge 'hérisson
 \lat Atelerix albiventris, Erinaceus albiventris
-\dt 05/Feb/2014
+\dt 06/Apr/2015
 
 \lx júgusago
 \mm júgu:n:ennemi
@@ -66247,6 +66259,14 @@ ou une proposition)
 \rem du, b, bk, bn  / du ajoute le sens de 'mettre en boules' refusé par bk, Tor
 \dt 11/Nov/2007
 
+\lx kùnmugu
+\mm kùn:n:tête
+\mm múgu:n:poudre
+\ps n
+\ge tignasse
+\gv cheveux avant qu'ils soient tressés
+\dt 06/Apr/2015
+
 \lx kùnna
 \mm kùn:n:tête
 \mm na:mrph:dans
@@ -77376,7 +77396,7 @@ n'est pas près de disparaître
 
 \lx mín
 \va míni
-\ps prn
+\ps adv
 \ge où
 \xv í bɔ́ra mín ?
 \xe d'où sors-tu, d'où viens-tu  ?
@@ -77384,7 +77404,7 @@ n'est pas près de disparaître
 \xe où est partie ta mère ?
 \xv í bɛ́ táa míni ?
 \xe où vas-tu ?
-\dt 23/Sep/2014
+\dt 10/Apr/2015
 
 \lx mín
 \va mun
@@ -117657,8 +117677,6 @@ fiançailles
 \dt 26/Sep/2006
 
 \lx túgunni
-\mm túgun:adv:encore
-\mm ní:prep/conj:et
 \va túguni
 \mm ní:prep/conj:et
 \ps adv
@@ -117666,7 +117684,7 @@ fiançailles
 \lt (encore.suf)
 \xv dénnin nàna ní  dúmuni yé túgunni
 \xe la jeune fille a de nouveau apporté de la nourriture
-\dt 03/Dec/2014
+\dt 08/Apr/2015
 
 \lx tùgusɔn
 \mm tùgu:n:bras
