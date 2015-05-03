@@ -121,6 +121,8 @@
 \dt 16/Aug/2006
 
 \lx Ála
+\va Álawu
+\va Álahu
 \bw ar: allah = Dieu
 \sy ngála
 \ps n
@@ -156,7 +158,7 @@
 \gv pluie
 \xv Ála nàna
 \xe la pluie est venue, il a plu
-\dt 01/Jun/2014
+\dt 02/May/2015
 
 \lx Ála Táala
 \va Ála Táana
@@ -389,6 +391,15 @@
 \ps n
 \ge jeudi
 \dt 01/Mar/2013
+
+\lx àlanbara
+\va àlubaana
+\va àlihanbara
+\va àlihamara
+\ps n
+\ge ambre
+\gv
+\dt 02/May/2015
 
 \lx álaɲɛsiranbali
 \mm Ála:n:Dieu
@@ -2119,6 +2130,14 @@
 \sn 2
 \gv corde.de.flottaison.des.filets
 \dt 16/Aug/2006
+
+\lx bákanga
+\mm bá:n:fleuve
+\mm kànga:n:écume
+\ps n
+\ge composant.de.l'encens
+\gv
+\dt 02/May/2015
 
 \lx bàkilu
 \va bàkiilu
@@ -7005,8 +7024,9 @@ bâton de berger
 \ph [bla]
 \ps adj/n
 \ge vaurien
-\lt (laisser aller.trop)
-\dt 19/Aug/2006
+\xv kà à bìla fó bìlakojugu
+\xe laisser (la place) pour jamais
+\dt 18/Apr/2015
 
 \lx bìlakojuguya
 \mm bìla:v:mettre
@@ -7768,8 +7788,12 @@ bâton de berger
 \sn 1
 \ge agression
 \sn 2
+\gv chute
+\sn 3
+\gv perte
+\sn 4
 \gv accusation
-\dt 26/Mar/2014
+\dt 02/May/2015
 
 \lx bín
 \ps n
@@ -11568,6 +11592,12 @@ toujours (pro)
 \lt (tambour.aigu)
 \dt 26/Sep/2006
 
+\lx bɔ̀nkaju
+\ps n
+\ge mousquet
+\gv
+\dt 02/May/2015
+
 \lx bɔ́nkolo
 \mm bɔ́n:n:tambour
 \mm kólo:n:os
@@ -13215,7 +13245,7 @@ mort)
 \ee (de un à quatre jours)
 \sn 2
 \gv personne.jeune
-\dt 16/Aug/2006
+\dt 17/Apr/2015
 
 \lx búturuninkunkolo
 \ps n
@@ -14956,6 +14986,14 @@ sur soi)
 \ps n
 \ge ceinture
 \lt (taille.attacher.ce qui sert à)
+
+\lx cɛ̀so
+\mm cɛ̀:n:mâle
+\mm só:n:maison
+\ps n
+\ge chambre.d'homme
+\sm (pièce où un homme resserre ses affaires personnelles)
+\dt 02/May/2015
 
 \lx cɛ́sɔ̀gɔ
 \mm cɛ́:n:milieu
@@ -18125,8 +18163,10 @@ sur soi)
 \mm dá:n:bouche
 \mm kába:v:s'étonner
 \mm na:mrph:AG.PRM
+\va dákamana
 \ps adv.p
 \ge par.extraordinaire
+\dt 02/May/2015
 
 \lx dákabanamɔgɔ
 \mm dá:n:bouche
@@ -18247,6 +18287,13 @@ sur soi)
 \gv plaie.ouverte
 \ee vive, récente, non infectée
 \dt 26/Sep/2006
+
+\lx dákɛnɛmaya
+\ps v
+\vl vr
+\ge dire.clairement
+\gv
+\dt 18/Apr/2015
 
 \lx dákɛnyɛ
 \mm dá:n:bouche
@@ -20111,7 +20158,7 @@ rétribution mais à titre de réciprocité)
 \mm dàn:n:limite
 \mm kári:v:casser
 \ps v
-\vl vi ?
+\vl vi
 \lt limite-casser ?
 \ge mettre.fin
 \gv annuler
@@ -20124,7 +20171,8 @@ rétribution mais à titre de réciprocité)
 \xv jínɛfunufunuba dɔ́ yé dànkari Lámerikɛn ná
 \xe un énorme cyclone a anéanti 'des' américains (kb 9/05 p.11)
 \nt construction facultative ? ex 2 / comment traduire quand il s'agit de personnes ? anéantir ?
-\dt 27/Mar/2014
+\cm plutôt 2 mots: ù yé dàn sɛ̀bɛkɔrɔ kári à lá - VV
+\dt 18/Apr/2015
 
 \lx dànkelen
 \mm dàn:n:dépassement
@@ -25924,6 +25972,16 @@ désorienter')
 \xv Ála y'á dɔ̀ngɔ dòn  à lá, ń'ó yé  sàya yé
 \xe Dieu lui a manifesté sa volonté, je veux dire : la mort
 \dt 20/Feb/2013
+
+\lx dɔ̀ngɔli
+\va dɔ̀ngɔri
+\ps n
+\sn 1
+\ge contrainte
+\sn 2
+\gv percuteur
+\sm (du fusil)
+\dt 02/May/2015
 
 \lx dɔ̀ngɔna
 \mm dɔ̀ngɔ:n:volonté
@@ -32139,11 +32197,15 @@ quant à sa mère, elle prend de l'âge
 
 \lx fìfa
 \ps v
+\sn 1
 \vl vt
 \ge éventer
 \xv í bólo fìla fìfa
 \xe aller les bras ballants, les mains vides
-\dt 16/Aug/2006
+\sn 2
+\vl vr
+\gv faire l'amour
+\dt 18/Apr/2015
 
 \lx fìfalan
 \mm fìfa:v:éventer
@@ -38291,6 +38353,12 @@ la virginité (pièce de monnaie sans trou)
 \ee (en tiges de mil ou en paille entre deux séries de piquets)
 \dt 16/Aug/2006
 
+\lx gángaran
+\ps adv
+\ge bruit.violent
+\gv
+\dt 02/May/2015
+
 \lx gánjalan
 \mm gán:n:gombo
 \mm jàlan:adj:sec
@@ -38990,6 +39058,16 @@ la virginité (pièce de monnaie sans trou)
 \sd papi
 \ee arbre ---> 12 / 15 m(bois d'ébénisterie, sert à fabriquer les lames de balafon)
 \dt 16/Aug/2006
+
+\lx géninkunan
+\va gwéninkunan
+\ps n
+\sn 1
+\ge sorte.d'encens
+\sm (à partir des rhizomes de Cyperus esculentus)
+\sn 2
+\gv arbre.esp
+\dt 02/May/2015
 
 \lx gènte
 \va gwènte
@@ -41692,6 +41770,12 @@ doigts par des fileuses du coton)
 \gv désir
 \dt 21/Nov/2012
 
+\lx hámu
+\ps n
+\ge encens.esp
+\gv résine odorante employée comme parfum
+\dt 02/May/2015
+
 \lx hán
 \ps intj
 \ge reproche
@@ -44088,12 +44172,30 @@ doigts par des fileuses du coton)
 \lt (lion mâle.couille.peau)
 \dt 26/Sep/2006
 
+\lx jàrakuru
+\mm jàra:n:lion
+\mm kùru:n:boule
+\ps n
+\ge chien.de.fusil
+\gv
+\dt 02/May/2015
+
 \lx jàramànkaana
 \mm jàra:n:lion
 \ps n
 \ge fauve.mythique
 \lt (lion. ?)
 \dt 16/Aug/2006
+
+\lx jàraminɛjara
+\mm jàra:n:lion
+\mm mìnɛ:v:attraper
+\mm jàra:n:lion
+\ps n
+\ge fauve.mythique
+\gv grand lion
+\gv grande panthère
+\dt 02/May/2015
 
 \lx jàrawu
 \ps v
@@ -47725,6 +47827,14 @@ d'arrière-saison
 \sy ɲɛ́nama
 \dt 26/Sep/2006
 
+\lx jɔ̀nkɛ
+\mm jɔ̀n:n:esclave
+\mm kɛ̀:adj:mâle
+\ps n
+\ge esclave
+\gv captif
+\dt 02/May/2015
+
 \lx jɔ̀nkɔ̀mí
 \va jànkamu
 \ve (f)
@@ -47763,6 +47873,15 @@ d'arrière-saison
 \sm premier.mois.de.l'année.lunaire
 \lt (esclave.attraper)
 \dt 16/Aug/2006
+
+\lx jɔ̀nmuso
+\mm jɔ̀n:n:esclave
+\mm mùso:adj:femme
+\ps n
+\ge femme.esclave
+\gv captive
+\gv domestique
+\dt 02/May/2015
 
 \lx jɔ́nnasìgi
 \mm ná:mrph:CAUS
@@ -55002,6 +55121,14 @@ composante des adjectifs séparables)
 \sy kɛ́nɛjɛnda
 \dt 26/Sep/2006
 
+\lx kɛ́nɛfara
+\mm kɛ́nɛ:n:clarté
+\mm fára:v:diviser
+\ps n
+\ge aube
+\gv aurore
+\dt 02/May/2015
+
 \lx kɛ́nɛjɛ
 \mm kɛ́nɛ:n:clarté
 \mm jɛ́:vq/adj:blanc
@@ -56461,6 +56588,12 @@ composante des adjectifs séparables)
 \xv wòro bɛ́  màa kìsɛya
 \xe la noix de kola donne de l'énergie
 \dt 26/Sep/2006
+
+\lx kìsi
+\ps n
+\ge Kissi
+\sm (un groupe ethnique en Guinée et au Liberia et sa langue)
+\dt 02/May/2015
 
 \lx kísi
 \bw ar: `,hallasa = id.
@@ -58218,6 +58351,17 @@ composante des adjectifs séparables)
 \sy kòto
 \dt 16/Aug/2006
 
+\lx kòngoron
+\va kònkoron
+\va kùnkoron
+\va kònkoro
+\ps n
+\ge treillis
+\gv tenue des chasseurs
+\gv bonnet des chasseurs et des guerriers
+\gv bonnet à pointe(s)
+\dt 02/May/2015
+
 \lx kòni
 \ps conj
 \ge mais
@@ -58320,11 +58464,6 @@ composante des adjectifs séparables)
 \lat Clarias senegalensis
 \ee id. (bassin du Sénégal)
 \dt 16/Aug/2006
-
-\lx kònkoro
-\ps n
-\ge habit.de.chasseur
-\dt 26/Sep/2006
 
 \lx kònkɔrɔ
 \mm kòn:n:singe.mâle
@@ -60443,6 +60582,12 @@ composante des adjectifs séparables)
 \sy cɛ̀kankan
 \dt 26/Sep/2006
 
+\lx kɔ́ngɔrɔn
+\ps v
+\ge jeter
+\gv lancer
+\dt 02/May/2015
+
 \lx kɔ́ngɔtɔ
 \mm kɔ́ngɔ:n:faim
 \mm tɔ:mrph:ST
@@ -60615,12 +60760,14 @@ ou une proposition)
 \dt 16/Aug/2006
 
 \lx kɔ́nkɔ̀rɔ́
+\va kɔ́ngɔrɔn
+\va kónkɔrɔ
 \ps n
 \ge redunca
 \lat Redunca.redunca
 \sy kónkɔrɔ
 \ve (d)
-\dt 16/Aug/2006
+\dt 02/May/2015
 
 \lx kɔ̀nɔ
 \ps n
@@ -60648,6 +60795,12 @@ ou une proposition)
 \ge attendre
 \sy màkɔ́nɔ
 \dt 26/Sep/2006
+
+\lx kɔ̀nɔ
+\ps n
+\ge Kono
+\sm (un groupe ethnique en Sierra Leone et sa langue)
+\dt 02/May/2015
 
 \lx kɔ́nɔ
 \ps n
@@ -62755,10 +62908,11 @@ ou une proposition)
 \mm kɔ̀ɔ:n:aîné
 \mm kɛ:adj:mâle
 \ps n
+\sn
 \ge frère.aîné
 \gv cousin.germain.aîné
 \sm (une femme peut le dire pour s'adresser à son mari)
-\dt 16/Aug/2006
+\dt 02/May/2015
 
 \lx kɔ́rɔkɔrɔ
 \ps v
@@ -63964,6 +64118,12 @@ ou une proposition)
 \ge endroit.montagneux
 \lt (colline.qui a.lieu)
 \dt 16/Aug/2006
+
+\lx kulunɔgɔ
+\ps n
+\ge lichens.composante.de.l'encens
+\gv
+\dt 02/May/2015
 
 \lx kùlusi
 \va kùlsi
@@ -79948,10 +80108,17 @@ nord-est
 \lt (couteau.aiguiser.ce qui sert à)
 \dt 16/Aug/2006
 
-\lx mùrufyɛbilen
-\mm bìlen:vq/adj:rouge
-\va mùrufebilen
-\mm bìlen:vq/adj:rouge
+\lx múrufe
+\va múrufɛ
+\ps n
+\ge étoffe.rouge
+\gv velours rouge
+\dt 02/May/2015
+
+\lx mùrufebilen
+\mm bìlen:adj:rouge
+\va mùrufɛbilen
+\mm bìlen:adj:rouge
 \ps n
 \lt velours-rouge
 \sn 1
@@ -79963,7 +80130,7 @@ nord-est
 \gv arc-en-ciel
 \xv sán yé mùrufebilen kɛ́ / à yé mùrufebilen kɛ́ jàlamugu yé
 \rem bz, Mol, b, (-bn, -bk) 3/ alf, jos
-\dt 11/Nov/2007
+\dt 02/May/2015
 
 \lx mùruja
 \mm mùru:n:couteau
@@ -89049,10 +89216,12 @@ nord-est
 
 \lx ntɛ̀gɛ
 \va dɛ̀gɛ
+\va ntɛ̀gɛn
 \ps adj/n
 \ge castré
 \sm (bovin = boeuf, se dit aussi des caprins)
-\dt 26/Sep/2006
+\gv animal castré
+\dt 02/May/2015
 
 \lx ntɛ̀gɛdunu
 \mm dùnu:n:tambour
@@ -91729,6 +91898,14 @@ nord-est
 \xv dɛ̀nɛ máa pɛ́rɛn, ɲɛ̀bɛrɛ bɛ́ dòn  à lá
 \xe (prov) si le mur craquèle, le cancrelat y pénètre
 \dt 26/Sep/2006
+
+\lx ɲɛ̀bɛrɛbo
+\mm ɲɛ̀bɛrɛ:n:blatte
+\mm bò:n:excrément
+\ps n
+\ge poudre.du.fusil
+\gv
+\dt 02/May/2015
 
 \lx ɲɛ́bila
 \mm ɲɛ́:n:oeil
@@ -100733,6 +100910,12 @@ nord-est
 \sd gram
 \dt 26/Sep/2006
 
+\lx sara
+\ps adj
+\ge mâle.grand
+\gv
+\dt 02/May/2015
+
 \lx sàra
 \ps n
 \sn 1
@@ -100944,6 +101127,16 @@ nord-est
 \ps n
 \ge mendiant
 \lt (aumône.demander.celui qui)
+
+\lx sárakatani
+\va sárakatanɛ
+\ps n
+\sn 1
+\ge sorte.d'encens
+\sn 2
+\gv morceaux de tiges (Portulacea sp. ?) entrant dans la
+composition de l'encens
+\dt 02/May/2015
 
 \lx sárakati
 \ps v
@@ -101301,6 +101494,12 @@ nord-est
 \ps n
 \ge jaunisse
 \dt 26/Sep/2006
+
+\lx sáyi
+\ps adj
+\ge jaune
+\gv
+\dt 02/May/2015
 
 \lx sàyiba
 \ps n
@@ -103524,12 +103723,12 @@ nord-est
 \sn 3
 \gv savon traditionnel
 \sn 4
-\ee plante parasite du mil
 \gv herbe Striga senegalensis
+\ee plante parasite du mil
 \sd scro
 \cf sɛ́gɛba
 \cf sɛ́gɛbilen
-\dt 19/Aug/2006
+\dt 02/May/2015
 
 \lx sɛ́gɛ
 \va sɛ́gɛn
@@ -103614,6 +103813,17 @@ nord-est
 \sy sìsilasɛgɛ
 \sy tásisirɔsɛgɛ
 \dt 16/Aug/2006
+
+\lx sɛ́gɛji
+\mm sɛ́gɛ:n:salpêtre
+\mm jí:n:eau
+\va sɛ́gɛnji
+\mm sɛ́gɛ:n:salpêtre
+\mm jí:n:eau
+\ps n
+\ge eau.de.potasse
+\gv
+\dt 02/May/2015
 
 \lx sɛ́gɛkata
 \mm sɛ́gɛ:n:salpêtre
@@ -104976,8 +105186,11 @@ nord-est
 \lt (poser.lieu.suf)
 \sn 2
 \gv tas
-\ee (de monnaie ou autres objets. technique de comptage. = multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
-\dt 15/Aug/2006
+\ee (de monnaie ou autres objets. technique de comptage. =
+multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
+\sn 3
+\gv partie
+\dt 02/May/2015
 
 \lx síi
 \ps adv
@@ -105516,10 +105729,11 @@ nord-est
 
 \lx sìni
 \va sínin
+\va sìmi
 \ps n
 \ge matinée
 \gv soleil levant
-\dt 26/Sep/2006
+\dt 02/May/2015
 
 \lx síni
 \va sínin
@@ -106196,12 +106410,16 @@ trompe)
 \va síran.yɛ
 \mm síran:v:craindre
 \mm yɛ:mrph:ABSTR
+\va síranɲɛ
+\mm síran:v:craindre
+\mm ń:pers:1SG
+\mm ɲɛ́:pp:devant
 \ps n
 \ge peur
 \lt (peur.suf abs)
 \sy síran
 \sy jɔ̀rɔ
-\dt 16/Aug/2006
+\dt 02/May/2015
 
 \lx síranyafɛn
 \mm síran.ya:n:peur
@@ -107743,6 +107961,13 @@ trompe)
 \rem Mol, b
 \dt 11/Nov/2007
 
+\lx sóoro
+\va sóro
+\ps n
+\ge étage
+\gv
+\dt 02/May/2015
+
 \lx sòpisi
 \ps n
 \ge blennorragie
@@ -107855,6 +108080,12 @@ trompe)
 \lx sòso
 \ps n
 \ge moustique
+
+\lx sòso
+\ps n
+\ge Soussou
+\sm (groupe ethnique en Guinée et Sierra Leone et sa langue)
+\dt 02/May/2015
 
 \lx sòsobankɛnɛsi
 \mm sòso:n:moustique
@@ -110584,6 +110815,7 @@ fiançailles
 
 \lx súuru
 \va súurun
+\va súruntu
 \ps v
 \ge verser
 \gv couler
@@ -110592,7 +110824,7 @@ fiançailles
 \gv se jeter
 \gv plonger
 \gv se battre
-\dt 23/Nov/2012
+\dt 02/May/2015
 
 \lx súurutala
 \mm súuru:v:faire.couler
@@ -111663,11 +111895,12 @@ fiançailles
 
 \lx tàala
 \va tàana
+\va tàgala
 \cf Ála tàana
 \ps n
 \ge Très-haut
 \sm (qualificatif réservé à Dieu)
-\dt 16/Aug/2006
+\dt 02/May/2015
 
 \lx táala
 \mm táa:v:aller
@@ -117253,7 +117486,10 @@ fiançailles
 \lx tɔ̀rɔmɔjɔnya
 \mm tɔ̀rɔmɔjɔn:n:poignée
 \mm ya:mrph:ABSTR
-\va tɔ̀rɔmajɔn.ya
+\va tɔ̀rɔmajɔnya
+\mm tɔ̀rɔmajɔn:n:poignée
+\mm ya:mrph:ABSTR
+\va tɔ̀nɔmajɔnya
 \mm tɔ̀rɔmajɔn:n:poignée
 \mm ya:mrph:ABSTR
 \ps v
@@ -117262,7 +117498,7 @@ fiançailles
 \lt (poignée.suf caus)
 \xv à y'á bólo tɔ̀rɔmɔjɔnya shɔ́ lá
 \xe il a pris une poignée de haricots
-\dt 16/Aug/2006
+\dt 02/May/2015
 
 \lx tɔ̀rɔɲaga
 \mm ɲàga:n:nid
@@ -124061,6 +124297,12 @@ soient définitivement données à leur mari)
 \ge prospérer
 \dt 16/Aug/2006
 
+\lx yíkikiki
+\ps onomat
+\ge agitation.hâtive
+\gv
+\dt 02/May/2015
+
 \lx yíranyiran
 \va yáranyaran
 \ps v
@@ -124157,6 +124399,12 @@ soient définitivement données à leur mari)
 \ge mucus
 \sy fàlaka
 \dt 26/Sep/2006
+
+\lx yírr
+\ps onomat
+\ge course.rapide
+\gv
+\dt 02/May/2015
 
 \lx yó
 \ps intj

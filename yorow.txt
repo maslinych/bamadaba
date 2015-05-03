@@ -1124,6 +1124,13 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Jitumu
+\ps n.prop
+\ge TOP
+\gv Jitoumou
+\sm (un région historique au sud de Bamako)
+\dt 02/May/2015
+
 \lx Joma
 \ty ист.
 \ru Джома
@@ -2080,6 +2087,12 @@
 \cm (вблизи Бамако)
 \dt 23/May/2010
 \ps n.prop
+
+\lx San
+\ps n.prop
+\ge TOP
+\gv San, ville au Mali
+\dt 02/May/2015
 
 \lx Sankaranin
 \ty р.
