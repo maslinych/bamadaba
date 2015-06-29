@@ -4718,6 +4718,7 @@
 
 \lx bàro
 \ps n
+\sn 1
 \ge conversation
 \sy másala
 \sy báabu
@@ -4727,6 +4728,12 @@
 \xe id.
 \xv bàro sìgi
 \xe lancer une conversation
+\sn 2
+\gv halo
+\sm (autour de la lune ... du soleil ...)
+\xv kálo yé  bàro kòoli
+\xe il y a  un halo autour de la lune
+\dt 29/May/2015
 
 \lx bàro
 \ps n
@@ -9060,7 +9067,7 @@ bâton de berger
 
 \lx bólo
 \ps pp
-\ge POSS
+\ge CNTRL
 \sm marque de possession
 \sy fɛ̀
 \xv né kɔ̀ni bólo...
@@ -9081,6 +9088,7 @@ bâton de berger
 \xe plus moyen de revenir pour lui
 \xv kàrisa (tá) bólo fɛ̀
 \xe par l'entremise d'un tel, grâce à un tel
+\dt 12/Jun/2015
 
 \lx bólo
 \ps n
@@ -9639,6 +9647,16 @@ bâton de berger
 \ps n
 \ge doigt
 
+\lx bólokɔrɔ
+\mm bólo:n:bras
+\mm kɔ́rɔ:pp:sous
+\ps pp
+\ge sous.la.main
+\gv de côté
+\gv en réserve
+\gv à la disposition de
+\dt 15/Jun/2015
+
 \lx bólokɔrɔse
 \mm bólo:n:bras
 \mm kɔ́rɔ:pp:sous
@@ -9975,8 +9993,10 @@ bâton de berger
 \sn 3
 \gv adroit
 \gv habile
+\sn 4
+\gv généreux
 \lt (main.bonne)
-\dt 22/Mar/2015
+\dt 10/Jun/2015
 
 \lx bólolandɔgɔ
 \mm bólolan:n:action.de.main
@@ -10291,6 +10311,15 @@ bâton de berger
 \xe les prêtres se nourrissaient des rations que leur donnait Pharaon
 \dt 11/Nov/2007
 
+\lx bólomandi
+\mm bólo:n:bras
+\mm man:mrph:SUPER
+\mm dí:vq:agréable
+\ps adj/n
+\sn
+\ge généreux
+\dt 10/Jun/2015
+
 \lx bólomandɔgɔ
 \mm bólo:n:bras
 \mm man:mrph:SUPER
@@ -10543,6 +10572,14 @@ bâton de berger
 \ge louanger
 \gv louer
 \dt 21/Jul/2014
+
+\lx bònba
+\mm bòn:vq:ample
+\mm ba:mrph:AUGM
+\ps adj
+\ge grand
+\gv
+\dt 15/Jun/2015
 
 \lx bònboli
 \ps n
@@ -11755,13 +11792,15 @@ toujours (pro)
 \va bɔ̀rɛ
 \va bwɛ̀rɛ
 \ph [bwɛrɛ]
+\va bɔ̀ɔrɔ
+\va bɔ̀ɔrɛ
 \ps n
 \sn 1
 \ge sac
 \sn 2
 \gv combinaison
 \sm blouse-pantalon des danseurs masqués du Bɛlɛdugu
-\dt 16/Aug/2006
+\dt 11/Jun/2015
 
 \lx bɔ̀rɔbɔ̀rɔ
 \ps n
@@ -15988,6 +16027,24 @@ sur soi)
 \sy gɛ̀rɛntɛ
 \dt 16/Aug/2006
 
+\lx cùgancugan
+\va cùrancuran
+\ps n
+\ge trot
+\gv
+\dt 11/May/2015
+
+\lx cùgancugan
+\va cùrancuran
+\ps v
+\sn 1
+\vl vi
+\ge trotter
+\sn 2
+\vl vt
+\gv faire trotter
+\dt 12/May/2015
+
 \lx cún
 \ps n
 \ge variété.de.tambour
@@ -19496,11 +19553,19 @@ pas)
 \lt (parole.apaiser)
 \dt 26/Sep/2006
 
-\lx dàmadama
+\lx dàmadàma
+\va dàma-dàma
+\ps dtm
+\ge rien.que
+\smf (à l'exclusion de toute autre chose)
+\dt 10/Jun/2015
+
+\lx dámadama
 \ps n
 \ge quelques-uns
+\gv un petit nombre de
 \lt (nombre.nombre)
-\dt 04/Dec/2012
+\dt 10/Jun/2015
 
 \lx dámadɔ
 \mm dán:n:compte
@@ -23112,6 +23177,12 @@ assumant que l'interclocuteur pense autrement)
 \xe le possesseur d'un "dibilan" vous voit, (mais) vous ne le voyez pas
 \dt 16/Aug/2006
 
+\lx dìbinin
+\ps n
+\ge fétiche.esp
+\gv
+\dt 23/May/2015
+
 \lx díbiri
 \ps n
 \ge chapeau.en.paille.conique
@@ -25115,14 +25186,12 @@ assumant que l'interclocuteur pense autrement)
 \ps dtm
 \sn 1
 \ge certain
-\ee dɔgɔ*?
 \xv tùma dɔ́ lá
 \xe parfois, quelquefois
 \xv dɔ́ bɛ́, ù tɛ́  jí dɔ́n
 \xe il y en a qui ne savent pas nager
 \sn 2
 \gv peu.de
-\ee dɔgɔ*
 \xv dɔ́ bɔ́  sɔ̀ngɔ lá
 \xe baisser le prix
 \xv dɔ́ dí
@@ -25136,7 +25205,7 @@ assumant que l'interclocuteur pense autrement)
 \xv dɔ́ yé  dén wólo, dɔ́ má  dén wólo
 \xe l'une a eu un enfant, l'autre non
 
-\dt 22/Mar/2015
+\dt 04/May/2015
 
 \lx dɔ́bɔlan
 \mm dɔ́:dtm:certain
@@ -26282,11 +26351,11 @@ désorienter')
 \lx dú
 \ps n
 \sn 1
-\ge maison
-\sm "concession = maison + cour"
+\ge concession
+\sm maison + cour
 \sn 2
 \gv maisonnée
-\dt 26/Sep/2006
+\dt 22/Jun/2015
 
 \lx dùba
 \ve (f,bn)
@@ -26689,21 +26758,23 @@ désorienter')
 \cf dùgukolokunsi
 \dt 19/Aug/2006
 
-\lx dùgulenya
-\mm dùgu.len:n:villageois
-\mm dùgu:n:terre 
-\mm lén:n:enfant
-\mm ya:mrph:ABSTR
+\lx dùgulen
 \ps n
-\ge qualité.de.villageois
-\gv qualité.de.citoyen
-\lt (villageois.suf abs)
-\dt 26/Sep/2006
+\ge autochtone
+\gv local
+\dt 27/Jun/2015
 
 \lx dùgulenya
-\mm dùgu.len:n:villageois
-\mm dùgu:n:terre
-\mm lén:n:enfant
+\mm dùgu.len:n:autochtone
+\mm ya:mrph:ABSTR
+\ps n
+\ge qualité.d’autochtone
+\gv qualité.de.citoyen
+\lt (villageois.suf abs)
+\dt 27/Jun/2015
+
+\lx dùgulenya
+\mm dùgulen:n:autochtone
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
@@ -26712,7 +26783,7 @@ désorienter')
 \lt (villageois.suf caus)
 \sn 2
 \gv connaître.les.histoires.du.village
-\dt 16/Aug/2006
+\dt 27/Jun/2015
 
 \lx dùgumadagannin
 \mm dùgu:n:terre
@@ -27625,7 +27696,7 @@ quant à sa mère, elle prend de l'âge
 \rem l 89
 \dt 11/Nov/2007
 
-\lx dùnukàla
+\lx dùnunkàla
 \ve (b)
 \va dòni.kala
 \ps n
@@ -27633,7 +27704,7 @@ quant à sa mère, elle prend de l'âge
 \ge guêpe-maçonne
 \sy dɛ̀nɛkirinti
 \rem bz, du, f
-\dt 11/Nov/2007
+\dt 04/Jun/2015
 
 \lx dùnya
 \mm dùn:vq:profond
@@ -29600,6 +29671,14 @@ quant à sa mère, elle prend de l'âge
 \ve (bk)
 \dt 29/Jun/2013
 
+\lx fànfɛ̀
+\mm fàn:n:côté
+\mm fɛ̀:pp:vers
+\ps pp
+\ge vers
+\gv du côté de
+\dt 15/Jun/2015
+
 \lx fànfɛla
 \mm fàn:n:côté
 \mm fɛ̀:pp:vers
@@ -30485,13 +30564,13 @@ quant à sa mère, elle prend de l'âge
 \mm kólo:n:os
 \ps n
 \sn 1
-\ge squelette
-\sn 2
-\gv corps
-\lt (corps.os)
+\ge corps
 \xv mín bɛ́  án fàrikolo lá, ń'í yé  kálo kɔ̀nɔntɔn kɛ́ ń'á yé...l'être)
-\xe que nous avons en notre corps, après neuf mois de compagnie ...
-\dt 19/Feb/2014
+\xe que nous avons en notre corps, après neuf mois de
+compagnie ...
+\sn 2
+\gv squelette
+\dt 13/May/2015
 
 \lx fàrikoloɲɛnajɛ
 \mm fàri:n:corps
@@ -33413,6 +33492,17 @@ la virginité (pièce de monnaie sans trou)
 \xe habit de veuve
 \rem du
 \dt 11/Nov/2007
+
+\lx fìriya
+\va fìliya
+\va fùruja
+\va fìiya
+\ve (f)
+\ps v
+\ge faire.veuvage
+\gv être en période de veuvage
+\ee (pendant 40 jours après la mort du mari)
+\dt 17/Jun/2015
 
 \lx fìriyatɔ
 \mm fìriya:n:veuvage
@@ -41705,14 +41795,22 @@ doigts par des fileuses du coton)
 \sn 1
 \ge même
 \xv háli bì
-\xv háli sá
 \xe même maintenant, encore maintenant hali ni ...
 \xe même si ..., bien que ...,
 \sn 2
 \gv au.point.que
 \xv à mán kɛ́nɛ, háli  à tɛ́ sé kà táama
 \xe il est malade au point de ne pas pouvoir marcher
-\dt 16/Aug/2006
+\dt 10/Jun/2015
+
+\lx hálisà
+\va hálìsa
+\ps adv
+\ge jusque.là
+\gv jusqu'à présent
+\gv jusqu'à ce moment
+\gv encore actuellement 
+\dt 10/Jun/2015
 
 \lx hámi
 \bw ar: hamm = anxiété, souci
@@ -41839,6 +41937,12 @@ doigts par des fileuses du coton)
 \xv à hàramula  màa bɛ́ɛ fɛ̀
 \xe il est détesté de tous
 \dt 26/Sep/2006
+
+\lx hàramu
+\ps n
+\ge interdit
+\gv interdiction
+\dt 15/Jun/2015
 
 \lx hàramukɛla
 \mm hàramu:v:interdire
@@ -42627,6 +42731,12 @@ doigts par des fileuses du coton)
 \xv à yé  à bá jáabi kó
 \xe il a répondu à sa mère que ...
 \dt 26/Sep/2006
+
+\lx jáaran
+\ps n
+\ge violon.esp
+\gv
+\dt 12/May/2015
 
 \lx jàasere
 \va jàgasere
@@ -43528,14 +43638,25 @@ doigts par des fileuses du coton)
 \lx jáma
 \va jáman
 \ps v
+\sn 1
 \vl vi
 \ge s'exciter
-\ee (de colère, au travail, à la danse, de joie ...)
+\ee (au travail, à la danse, de joie ...)
 \xv à jámana  dénmisennin kùnna
 \xe il a crié sur les enfants
 \xv díkisɛ bɛ́ jáma  ò wáati lá
 \xe à cette période-là, les abeilles sont très énervées
-\dt 16/Aug/2006
+\sn 2
+\gv se fâcher
+\gv tonner contre quelqu'un
+\sn 3
+\gv choyer
+\gv gâter
+\sn 4
+\gv se vanter
+\gv être arrogant
+\gv faire l'important
+\dt 13/Jun/2015
 
 \lx jàmadonfini
 \mm jàma:n:foule
@@ -47928,12 +48049,12 @@ d'arrière-saison
 
 \lx jɔ́ntɛfin
 \mm jɔ́ntɛ:n:paludisme
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \ge fièvre.jaune
 \ee (un des signes : vomissement noir)
 \lt (vomir.noir)
-\dt 16/Aug/2006
+\dt 13/May/2015
 
 \lx jɔ̀nya
 \mm jɔ̀n:n:esclave
@@ -55409,16 +55530,16 @@ composante des adjectifs séparables)
 \vl vt
 \ge empêcher
 \sy bàli
-\xv fóyi tɛ́  Ála kɛ́ɲɛ
+\xv fóyi tɛ́ Ála kɛ́ɲɛ
 \xe rien n'est impossible à Dieu
 \sn 2
 \vl vi
 \gv échouer
 \gv être.incapable.de
-\xv ù kɛ́ɲɛna  có !
+\xv ù kɛ́ɲɛna có !
 \xe ils ont échoué complètement
 \sy dɛ́sɛ
-\dt 26/Sep/2006
+\dt 23/May/2015
 
 \lx kɛ́ɲɛ
 \ps n
@@ -63679,6 +63800,8 @@ ou une proposition)
 \sn 1
 \ge queue
 \gv chasse-mouche
+\xv kà kú bɔ́
+\xe faire pousser la queue
 \sn 2
 \gv soie
 \sm de.faucille
@@ -63697,10 +63820,10 @@ ou une proposition)
 \ee de certains légumes
 \sn 6
 \gv cul
-\xv í kú tà  kà bɔ́ yèn !
+\xv í kú tà kà bɔ́ yèn !
 \xe fous le camp !
 \ee ne se dit qu'aux enfants, ou aux chiens !
-\dt 26/Sep/2006
+\dt 23/May/2015
 
 \lx kú
 \ee *xas : ku : id.  =,/ xu : queue
@@ -73329,7 +73452,7 @@ ou une proposition)
 \xe c'est trop petit pour moi
 \xv í kán bɛ́  né mà wá ?
 \xe c'est à moi que tu causes ? tu dis cela de moi ?
-\dt 20/Feb/2013
+\dt 12/Jun/2015
 
 \lx mà
 \ps n
@@ -74647,6 +74770,13 @@ n'est pas près de disparaître
 \ge faire.attention
 \ee à ... (ne pas gaspiller) ; (choisir particulièrement)
 \dt 08/Nov/2012
+
+\lx màki
+\ps v
+\ge se.stabilier
+\gv
+\cm rare, Kalilou Téra
+\dt 01/Jun/2015
 
 \lx màkili
 \mm mà:mrph:SUPER
@@ -77705,13 +77835,13 @@ nord-est
 \sn 1
 \ge outils
 \sn 2
-\gv ustensiles
+\gv ustensile
 \sm (de cuisine ou autres ...)
 \sn 3
 \gv bagages
 \sn 4
 \gv objets.à.vendre
-\dt 26/Sep/2006
+\dt 15/Jun/2015
 
 \lx mìnfɛn
 \mm mìn:v:boire
@@ -79453,13 +79583,14 @@ nord-est
 
 \lx mɔ́rɔrɔ
 \va mɔ́rrɔ
+\va mɔ́rr
 \ph [mɔrrɔ]
 \ps intj
 \ge pouah!
 \sm excl de reproche envers qn (vocabulaire d'hommes)
 \xv mɔ́rɔrɔ !
 \xe que Dieu me préserve de faire une chose pareille !
-\dt 16/Aug/2006
+\dt 09/May/2015
 
 \lx mɔ́rɔtɔtɔ
 \ps intj
@@ -80855,6 +80986,12 @@ nord-est
 \ge hum
 \dt 01/Oct/2014
 
+\lx màrakasa
+\ps v
+\ge patiner.dans.la.boue
+\gv
+\dt 31/May/2015
+
 \lx ń
 \ps pers
 \ge 1SG
@@ -81463,6 +81600,13 @@ nord-est
 \sy nàkanma
 \dt 16/Aug/2006
 
+\lx náki
+\ps v
+\ge se.retenir.de.tomber
+\gv
+\cm rare, Kalilou Téra
+\dt 01/Jun/2015
+
 \lx nákɔ
 \ps n
 \ge jardin
@@ -81674,23 +81818,13 @@ nord-est
 \lt (hyène.nez percé)
 
 \lx námara
-\va nánbara
-\ps n
-\ge fraude
-\gv injustice
-\gv malversation
-\xv námara tɛ́  kàrisa lá
-\xe c'est un homme droit
-\dt 26/Sep/2006
-
-\lx námara
 \ps v
 \vl vt
-\ge voler
+\ge escroquer
 \gv être.malhonnête.envers
 \xv à yé  né námara
 \xe il m'a volé
-\dt 26/Sep/2006
+\dt 26/Jun/2015
 
 \lx námarakɛla
 \mm námara:n:fraude
@@ -81894,6 +82028,16 @@ nord-est
 \lat Mentha.viridis
 \sd labi
 \dt 19/Aug/2006
+
+\lx nánbara
+\va námara
+\ps n
+\ge fraude
+\gv injustice
+\gv malversation
+\xv námara tɛ́  kàrisa lá
+\xe c'est un homme droit
+\dt 05/May/2015
 
 \lx nàńbìla
 \mm nà:v:venir
@@ -85302,11 +85446,13 @@ nord-est
 \dt 16/Aug/2006
 
 \lx nkába
+\va ntába
+\va nkɔ́bɔn
 \ps n
 \ge kobo.des.savanes
 \lat Ficus.platyphylla
 \ee arbre de 20 m(bel arbre à ombrage)
-\dt 16/Aug/2006
+\dt 12/May/2015
 
 \lx nkàcɔn
 \ps n
@@ -86817,6 +86963,14 @@ nord-est
 \gv conciliant
 \gv favorable
 \dt 26/Sep/2006
+
+\lx nɔ̀gɔ
+\va nɔ̀gɔn
+\ps adj
+\sn
+\ge facile
+\gv
+\dt 13/May/2015
 
 \lx nɔ́gɔ
 \va nwá
@@ -89080,6 +89234,12 @@ nord-est
 \ee au gros orteil (ongle brisé ...)
 \dt 16/Aug/2006
 
+\lx ntèlekun
+\ps n
+\ge plaie.à.l'orteil
+\gv
+\dt 31/May/2015
+
 \lx ntèn
 \ps n
 \ge maladie.d'enfant.sp
@@ -90782,6 +90942,13 @@ nord-est
 \lt (nez.du.parler.celui qui)
 \dt 16/Aug/2006
 
+\lx nùnɛti
+\va lùnɛti
+\ps n
+\ge lunettes
+\gv
+\dt 05/Jun/2015
+
 \lx núnjɔlɔkɔ
 \mm nún:n:nez
 \mm jɔ̀lɔkɔ:n:chaîne
@@ -90859,6 +91026,12 @@ nord-est
 \lt (mucilage.tige)
 \ee (igname de brousse)
 \dt 19/Aug/2006
+
+\lx nwúun
+\ps intj
+\ge bof
+\smf (bruit de pet avec la bouche pour exprimer un mépris insultant)
+\dt 12/May/2015
 
 \lx nzeku
 \ps n
@@ -90948,15 +91121,15 @@ nord-est
 \sm (magique)
 \dt 20/Feb/2014
 
-\lx ɲá
-\va ɲán
+\lx ɲà
+\va ɲàn
 \ve (-f,-bn)
 \ps v
 \vl vi
 \ge manquer
-\xv wòro dá ɲána
+\xv wòro dá ɲàna
 \xe le nombre de kolas a été insuffisant
-\dt 26/Sep/2006
+\dt 20/Jun/2015
 
 \lx ɲàa
 \va ɲàga
@@ -91762,6 +91935,18 @@ nord-est
 \ge hacher
 \sm (en petits morceaux)
 \dt 16/Aug/2006
+
+\lx ɲériɲeri
+\ps n
+\ge trottinement.de.frayeur
+\gv
+\dt 11/May/2015
+
+\lx ɲériɲeri
+\ps v
+\ge trottiner
+\smf (cheval)
+\dt 12/May/2015
 
 \lx ɲɛ́
 \va ɲá
@@ -93025,7 +93210,7 @@ nord-est
 \xe si tu séduis une proche parente, c'est un inceste
 \dt 16/Aug/2006
 
-\lx ɲɛ́kɔ́rɔ
+\lx ɲɛ́kɔrɔ
 \mm ɲɛ́:n:oeil
 \mm kɔ́rɔ:pp:sous
 \ps pp
@@ -93033,7 +93218,7 @@ nord-est
 \gv devant
 \xv bɔ́ ń ɲɛ́kɔrɔ !
 \xe Va-t-en ! (impatience)
-\dt 26/Sep/2006
+\dt 15/Jun/2015
 
 \lx ɲɛ́kɔrɔdiya
 \mm ɲɛ́.kɔrɔ:n:le.devant.de
@@ -96882,7 +97067,7 @@ nord-est
 \xe il ne marche pas encore, il se traîne à quatre pattes
 \dt 16/Aug/2006
 
-\lx ŋùnuŋúnu
+\lx ŋùnuŋunu
 \ps v
 \vl vi
 \sn 1
@@ -96891,7 +97076,9 @@ nord-est
 \sn 2
 \gv résonner.sourdement
 \ee (gros tambour, tonnerre ...)
-\dt 26/Sep/2006
+\sn 3
+\gv murmurer
+\dt 05/Jun/2015
 
 \lx ŋùnuŋunukuma
 \mm ŋùnuŋunu:v:bougonner
@@ -102507,6 +102694,12 @@ composition de l'encens
 \va sènkolosabana
 \dt 11/Nov/2007
 
+\lx sènfɛ̀
+\ps pp
+\ge au.cours.de
+\gv à l'occasion de
+\dt 15/Jun/2015
+
 \lx sènfɛbila
 \mm sèn:n:jambe
 \mm fɛ̀:pp:vers
@@ -103513,7 +103706,9 @@ composition de l'encens
 \xe ils l'ont supplié instamment
 \xv à mán sɛ̀bɛkɔrɔ-ján
 \xe il n'est pas très grand
-\dt 26/Sep/2006
+\xv ń sɛ̀bɛkɔrɔ tɛ́!
+\xe ke refuse catégoriquement !
+\dt 09/Jun/2015
 
 \lx sɛ̀bɛkuma
 \mm sɛ̀bɛ:adj/n:sérieux
@@ -104321,10 +104516,11 @@ composition de l'encens
 \dt 16/Aug/2006
 
 \lx sɛ́rikili
+\va sɛ́rɛkili
 \ps n
 \ge cercle
 \ee (administratif)
-\dt 10/Nov/2014
+\dt 10/Jun/2015
 
 \lx sɛ̀riwusi
 \va sɛ̀rɛwusi
@@ -107825,6 +108021,12 @@ trompe)
 \sy sògoɲama
 \dt 26/Sep/2006
 
+\lx sònsolimasoli
+\ps n
+\ge épreuves.de.nouveau.initié
+\gv
+\dt 31/May/2015
+
 \lx sònsoro
 \va sònsoron
 \va sònsoli
@@ -110734,41 +110936,6 @@ fiançailles
 \sy súruku-dátoli
 \dt 16/Aug/2006
 
-\lx sùtara
-\va sùtura
-\bw ar: satara = voiler
-\ps n
-\sn 1
-\ge dissimulation
-\sn 2
-\gv lieu caché
-\xv sùtara lá
-\xe en secret
-\sn 3
-\gv sépulture
-\xv ní sùtara kɛ́ra, ù bɛ́  ɲɔ́gɔn yé
-\xe après l'enterrement, ils se retrouvent
-\sn 4
-\gv toilettes
-\dt 23/Sep/2014
-
-\lx sùtara
-\va sùtura
-\bw ar
-\ps v
-\vl vt
-\sn 1
-\ge cacher
-\gv garder secret
-\sn 2
-\gv dépanner qn
-\ee en secret (lui évitant une humiliation)
-\sn 3
-\gv enterrer
-\xv ù yé  sù sùtara
-\xe ils ont enterré le mort
-\dt 26/Sep/2006
-
 \lx sùtoro
 \mm sù:n:cadavre
 \mm tòro:n:figuier
@@ -110787,6 +110954,41 @@ fiançailles
 \ge association.de.sorciers
 \lt (sorcier.groupe)
 \dt 26/Sep/2006
+
+\lx sùtura
+\va sùtara
+\bw ar
+\ps v
+\vl vt
+\sn 1
+\ge cacher
+\gv garder secret
+\sn 2
+\gv dépanner qn
+\ee en secret (lui évitant une humiliation)
+\sn 3
+\gv enterrer
+\xv ù yé  sù sùtara
+\xe ils ont enterré le mort
+\dt 22/Jun/2015
+
+\lx sùtura
+\va sùtara
+\bw ar: satara = voiler
+\ps n
+\sn 1
+\ge dissimulation
+\sn 2
+\gv lieu caché
+\xv sùtara lá
+\xe en secret
+\sn 3
+\gv sépulture
+\xv ní sùtara kɛ́ra, ù bɛ́  ɲɔ́gɔn yé
+\xe après l'enterrement, ils se retrouvent
+\sn 4
+\gv toilettes
+\dt 22/Jun/2015
 
 \lx súu
 \ps intj
@@ -112271,6 +112473,12 @@ fiançailles
 \lt (molaire.base)
 \dt 26/Sep/2006
 
+\lx tágasitagasi
+\ps adv
+\ge en.longues.gorgées
+\smf (comme pour lécher)
+\dt 11/May/2015
+
 \lx tàgi
 \ps v
 \vl vi
@@ -112654,8 +112862,11 @@ fiançailles
 \lx tán
 \ps v
 \vl vt
-\ge frapper
-\dt 26/Sep/2006
+\sn 1
+\ge donner.coup.de.pied
+\sn 2
+\gv cogner
+\dt 05/May/2015
 
 \lx tán
 \ve (-f)
@@ -112674,6 +112885,12 @@ fiançailles
 \xv tàna tɛ́
 \xe ça va(il n'y a pas de mal)
 \dt 26/Sep/2006
+
+\lx tánakitanaki
+\ps adv
+\ge en.grandes.gorgées.sonores
+\smf (boire)
+\dt 11/May/2015
 
 \lx tànbakinci
 \mm tànbaki:v:hésiter
@@ -117743,6 +117960,13 @@ fiançailles
 \ge pantalon.bouffant
 \dt 16/Aug/2006
 
+\lx túbàle
+\va túbàli
+\ps n
+\ge tambour.de.guerre
+\gv
+\dt 11/May/2015
+
 \lx tùfa
 \va ntùfa
 \bw ar: tuba = id.
@@ -119596,6 +119820,13 @@ responsabilité sur le dos de qqn'
 \xe pour que tu ne l'oublies pas ...
 \dt 10/May/2014
 
+\lx wálasi
+\ps prt
+\ge eh
+\sm (exclamation féminin d'étonnement désagréable)
+\gv
+\dt 11/May/2015
+
 \lx wálawala
 \ps n
 \ge clairière
@@ -119828,6 +120059,18 @@ aîné ... (Kb 11/06 p.4)
 \ge remplir.abondamment
 \gv tomber à verse
 \dt 26/Sep/2006
+
+\lx wàraba
+\ps v
+\sn 1
+\vl vi
+\ge devenir.insouciant
+\gv devenir dispersé
+\sn 2
+\vl vt
+\gv rendre insouciant
+\gv rendre dispersé
+\dt 23/May/2015
 
 \lx wáraba
 \mm wára:n:fauve
@@ -121232,11 +121475,12 @@ aîné ... (Kb 11/06 p.4)
 \dt 16/Aug/2006
 
 \lx wòo
+\va wèe
 \ps n
 \ge huée
 \xv wòo cì  mɔ̀gɔ lá
 \xe crier haro sur qn
-\dt 26/Sep/2006
+\dt 12/May/2015
 
 \lx wòoro
 \va wòoron
@@ -122732,7 +122976,7 @@ aîné ... (Kb 11/06 p.4)
 \ps prt
 \sn 1
 \ge Q
-\gv est-ce que ?
+\gv est-ce que?
 \ee (souvent associé à wa)
 \xv Yála  á má  dénnin dɔ́ tɛ̀mɛtɔ yé wá ?
 \xe est-ce que par hasard vous n'auriez pas vu passer une jeune fille ?
@@ -122740,7 +122984,7 @@ aîné ... (Kb 11/06 p.4)
 \gv (pour voir) si
 \xv ń nàlen à lájɛ  yála né bɛ́  báara sɔ̀rɔ  í fɛ̀
 \xe je suis venu voir si je peux avoir du travail chez toi
-\dt 09/Jul/2013
+\dt 13/May/2015
 
 \lx yálakayalaka
 \ps adj
@@ -124299,9 +124543,9 @@ soient définitivement données à leur mari)
 
 \lx yíkikiki
 \ps onomat
-\ge agitation.hâtive
-\gv
-\dt 02/May/2015
+\ge amplement.lourdement
+\smf (d'une marche impressionnante des troupes)
+\dt 17/May/2015
 
 \lx yíranyiran
 \va yáranyaran
@@ -124402,9 +124646,9 @@ soient définitivement données à leur mari)
 
 \lx yírr
 \ps onomat
-\ge course.rapide
+\ge course.rapide.vigoureuse
 \gv
-\dt 02/May/2015
+\dt 11/May/2015
 
 \lx yó
 \ps intj

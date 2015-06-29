@@ -466,8 +466,8 @@
 \ps n.prop
 \ge NOM.CL
 
-\lx Denbele
-\va Danbɛlɛ
+\lx Dènbele
+\va Dànbɛlɛ
 \di b
 \di m
 \di xas
@@ -482,7 +482,7 @@
 \ca nùmu (Buguni)
 \tt tuga
 \tt miniɲan (Buguni)
-\dt 04/May/2010
+\dt 05/Jun/2015
 \ps n.prop
 \ge NOM.CL
 
