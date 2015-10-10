@@ -32,6 +32,24 @@
 \ee équipe de football
 \dt 15/May/2013
 
+\lx Buwaɲi
+\ps n.prop
+\ge Houphoët-Boigny, Félix
+\smf 1e président de la Côte d'Ivoire
+\dt 14/Sep/2015
+
+\lx CEDEAO
+\ps n
+\ge CÉDÉAO
+\gv Communauté économique des États de l'Afrique de l'Ouest
+\dt 14/Sep/2015
+
+\lx COMATEX
+\ps n
+\ge COMATEX
+\gv Compagnie Malienne de Textile
+\dt 14/Sep/2015
+
 \lx farawona
 \ps n
 \ge pharaon
@@ -132,6 +150,12 @@
 \ps n
 \ge groupe.de.sénoufo
 
+\lx Sɛngɔri
+\ps n.prop
+\ge Léopold Sédar Senghor
+\gv
+\dt 14/Sep/2015
+
 \lx Sigi
 \ps n.prop
 \ge Sigui
@@ -160,6 +184,12 @@
 \ge Torah
 \gv Thora
 \dt 21/Dec/2014
+
+\lx UDPM
+\ps n
+\ge UDPM
+\gv Union démocratique du peuple malien
+\dt 14/Sep/2015
 
 \lx wurubulu
 \ps v

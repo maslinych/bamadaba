@@ -2504,7 +2504,8 @@ Sagone.
 \ps n.prop
 \ge NOM.CL
 
-\lx Samakɛ
+\lx Sàmakɛ
+\va Sàmake
 \di b
 \di m
 \eq Tangara
@@ -2512,22 +2513,15 @@ Sagone.
 \eq Sogoba
 \eq Bonba
 \eq Kamate
+\ca hɔ́rɔn
 \tt sàma
 \sn Kùlibàli, Màriko (Sikaso)
 \re Segu
 \re Sikaso
+\re Buguni
 \fa Sàma sènkanba, sàma bólokanba
 \ms Гриоты у сонгаев.
-\dt 04/Jun/2014
-\ps n.prop
-\ge NOM.CL
-
-\lx Sàmakɛ
-\ca hɔ́rɔn
-\eq Ture
-\re Buguni
-\tt sàma
-\dt 06/May/2010
+\dt 14/Sep/2015
 \ps n.prop
 \ge NOM.CL
 

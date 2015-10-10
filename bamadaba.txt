@@ -11477,6 +11477,13 @@ bâton de berger
 \xe le bagage est (suspendu) au piquet, le piquet est (fixé) à qc (prov)
 \xe on dépend toujours de qn, si haut placé qu'on soit
 
+\lx bɔ́lɔ
+\ps n
+\di (Bɛlɛdugu)
+\ge tante.maternelle.cadette
+\gv jeune soeur de mère
+\dt 19/Jul/2015
+
 \lx bɔ́lɔn
 \ps n
 \sn 1
@@ -14210,23 +14217,33 @@ sur soi)
 
 \lx cɛ̀juguya
 \mm cɛ̀:n:aspect
-\mm júgu:vq/adj:mauvais
+\mm júgu:vq:mauvais
 \mm ya:mrph:DEQU
 \ps n
 \ge laideur
 \lt (laid.suf abs)
+\dt 19/Jul/2015
+
+\lx cɛ̀juguya
+\mm cɛ̀:n:aspect
+\mm júgu:vq:mauvais
+\mm ya:mrph:DEQU
+\ps v
+\ge être.laid
+\gv devir laid
+\dt 19/Jul/2015
 
 \lx cɛ̀juguyakuru
 \mm cɛ̀.jugu.ya:n:laideur
 \mm cɛ̀:n:aspect
-\mm júgu:vq/adj:mauvais
+\mm júgu:vq:mauvais
 \mm ya:mrph:DEQU
 \mm kùru:n:boule
 \ps n
 \ge grain.de.beauté
 \ee (le sens esthétique est différent !)
 \lt (laideur.bouton)
-\dt 16/Aug/2006
+\dt 19/Jul/2015
 
 \lx cɛ̀kala
 \mm kàla:n:tige
@@ -16026,6 +16043,12 @@ sur soi)
 \ee (une corde ...)
 \sy gɛ̀rɛntɛ
 \dt 16/Aug/2006
+
+\lx cùcacu
+\ps n
+\ge hésitation
+\gv indecision
+\dt 22/Sep/2015
 
 \lx cùgancugan
 \va cùrancuran
@@ -22844,15 +22867,32 @@ assumant que l'interclocuteur pense autrement)
 \lx dɛ̀nkɛlɛnya
 \ve (f)
 \va dànkaniya
+\va dàŋaniya
 \va dɛ̀ngɛnɛya
-\a dɛ̀nkɛrɛnya
+\va dɛ̀nkɛrɛnya
+\va dànkunnaya
+\va dànkannaya
+\di (bn)
 \ps v
 \vl vr
 \ge s'en.remettre
 \gv renoncer.à
 \xv k'ì dɛ̀nkɛlɛnya  Ála lá
 \xe s'en remettre à Dieu
-\dt 12/Dec/2014
+\dt 22/Sep/2015
+
+\lx dɛ̀nkɛlɛnya
+\va dànkaniya
+\va dàŋaniya
+\va dɛ̀ngɛnɛya
+\va dɛ̀nkɛrɛnya
+\va dànkunnaya
+\va dànkannaya
+\di (bn)
+\ps n
+\ge foi
+\gv
+\dt 22/Sep/2015
 
 \lx dɛ́nkuru
 \va dénkoro
@@ -23162,10 +23202,17 @@ assumant que l'interclocuteur pense autrement)
 \lt (four.élément)
 \dt 16/Aug/2006
 
-\lx dìbidíbi
+\lx dìbidibi
 \ps n
 \ge affaire.louche
-\dt 16/Aug/2006
+\dt 19/Jul/2015
+
+\lx dìbidibi
+\va dìibidiibi
+\ps v
+\ge manigancer
+\gv fomenter
+\dt 19/Jul/2015
 
 \lx dìbilan
 \mm dìbi:n:obscurité
@@ -35625,7 +35672,7 @@ la virginité (pièce de monnaie sans trou)
 
 \lx fɔ́nkɔ
 \mm fɔ́:v:dire
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:pp:après
 \ps n
 \sn 1
@@ -35635,22 +35682,22 @@ la virginité (pièce de monnaie sans trou)
 \lt (venir.moi.derrière)
 \sn 3
 \gv mésentente
-\dt 16/Aug/2006
+\dt 19/Jul/2015
 
 \lx fɔ́nkɔɲɔgɔnya
 \mm fɔ́nkɔ:n:visite.manquée
 \mm fɔ́:v:dire
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:pp:après
 \mm ɲɔ́gɔn:prn:RECP
 \mm ya:mrph:ABSTR
-\ps n
+\ps v
 \vl vt
 \ge se.contredire
 \sm (un mot coranique)
 \xv kà ɲɔ́gɔn fɔ́nkɔɲɔgɔnya
 \xe se contredire
-\dt 22/Mar/2015
+\dt 19/Jul/2015
 
 \lx fɔ́ɲɔgɔnkɔ
 \mm fɔ́:v:dire
@@ -40857,20 +40904,31 @@ la virginité (pièce de monnaie sans trou)
 \dt 29/Apr/2014
 
 \lx gɔ́rɔjigɛni
-\bw wolof *?
+\va gɔ́rɔjɛgɛni
+\va gɔ́rijigɛni
+\va gɔ́rijigɛnin
+\bw wolof *
 \ps n
 \ge homosexuel
-\dt 12/Aug/2006
+\dt 19/Jul/2015
 
 \lx gɔ́rɔjigɛniya
 \mm gɔ́rɔjigɛni:n:homosexuel
 \mm ya:mrph:ABSTR
+\va gɔ́rɔjɛgɛniya
+\mm gɔ́rɔjɛgɛni:n:homosexuel
+\mm ya:mrph:ABSTR
+\va gɔ́rijɛgɛniya
+\mm gɔ́rijɛgɛni:n:homosexuel
+\mm ya:mrph:ABSTR
+\va gɔ́rijɛgɛninya
+\mm gɔ́rijɛgɛnin:n:homosexuel
+\mm ya:mrph:ABSTR
 \ps n
-\lt homosexuel-suf abs
 \ge homosexualité
 \xv gɔ́rɔjigɛniya yé  cɛ̀ yɛ̀rɛdama ká ɲɔ́gɔnɲini yé...wála
 \xe l'homosexualité est la recherche du sexe entre hommes seulement ou entre femmes seulement (kb 6/06 p.11)
-\dt 11/Nov/2007
+\dt 19/Jul/2015
 
 \lx gɔ̀rɔkɔ
 \ps n
@@ -47866,13 +47924,20 @@ d'arrière-saison
 \lx jɔ̀n
 \ps v
 \vl vi/vr
-\ge estimer.insuffisant
+\sn 1
+\ge mépriser
+\gv négliger
+\gv sous-estimer
 \xv í jɔ̀nna ń ná
 \xv í jɔ̀nna  né rɔ́
 \xe tu n'as pas fait cas de moi
 \xv í kàna jɔ̀n  ntòri ká táama ná, ń'í y'í pán  kó sàba, í ń'á dɔ́n kó : ntòri bɛ́  cá lá
-\xe ne dénigre pas le sautillement du crapaud, si tu fais seulement trois bonds,tu reconnaîtras qu'il travaille (prov)
-\dt 16/Aug/2006
+\xe ne dénigre pas le sautillement du crapaud, si tu fais seulement
+trois bonds,tu reconnaîtras qu'il travaille (prov)
+\sn 2
+\gv avoir honte
+\gv se plaindre 
+\dt 26/Jul/2015
 
 \lx jɔ̀n
 \ps n
@@ -47889,6 +47954,12 @@ d'arrière-saison
 \xv ń'í y'á mɛ́n "jɔ̀n kùnnandi", à fɔ́ kó : sábabu ɲúman (dícton)
 \xe si tu entends dire "le bienheureux", dis : "(son) bienfaiteur"
 \dt 26/Sep/2006
+
+\lx jɔ̀n
+\ps n
+\ge mépris
+\gv dédain
+\dt 26/Jul/2015
 
 \lx jɔ́n
 \ve (f)
@@ -48168,6 +48239,13 @@ d'arrière-saison
 \ge largeur
 \lt (côté.court)
 \dt 16/Aug/2006
+
+\lx jɔ̀tɛ
+\va jɔ̀ntɛya
+\ps n
+\ge avarice.extrême
+\gv
+\dt 22/Sep/2015
 
 \lx jɔ́yi
 \va jɔ́yili
@@ -63400,6 +63478,14 @@ ou une proposition)
 \sm (attacher)
 \dt 19/Jan/2015
 
+\lx kɔ́s
+\va kɔ́si
+\ps adv
+\ge très.sec
+\gv très dur
+\gv très maigre
+\dt 22/Sep/2015
+
 \lx kɔ́sa
 \va kúsa
 \ps n
@@ -69415,6 +69501,18 @@ ou une proposition)
 \xv à tùn b'á fɛ̀ kà ń bùgɔ, nká, ń fà yé ń láfasa
 \xe il voulait me battre mais mon père a pris ma défense
 \dt 26/Sep/2006
+
+\lx láfasalikɛla
+\mm láfasa:v:louer
+\mm lá:mrph:CAUS
+\mm fàsa:v:rendre.consistant
+\mm li:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
+\ps v
+\ge défenseur
+\gv avocat
+\dt 19/Jul/2015
 
 \lx làfe
 \ve (-bk)
@@ -79989,6 +80087,14 @@ nord-est
 \gv graisser
 \dt 18/Mar/2015
 
+\lx múnaafigi
+\va múnanfagi
+\va ŋúnanfagi
+\ps n
+\ge rapporteur
+\gv délateur
+\dt 19/Jul/2015
+
 \lx mùnaki
 \ps v
 \vl vt
@@ -83195,13 +83301,14 @@ nord-est
 \dt 28/Nov/2012
 
 \lx nɛ́ɛma
+\va nɛ́ɛmɛ
 \bw ar
 \ps v
 \vl vt
 \ge rendre.heureux
 \xv Ála máa  à nɛ́ɛmana !
 \xe Que Dieu l'accueille parmi les bienheureux !
-\dt 16/Aug/2006
+\dt 19/Jul/2015
 
 \lx nɛ́ɛmama
 \mm nɛ́ɛma:n:fraîcheur.agréable
@@ -91360,6 +91467,9 @@ nord-est
 \lx ɲàgaribɔ
 \mm ɲàgari:n:moquerie
 \mm bɔ́:v:sortir
+\va ɲàngaribɔ
+\mm ɲàgari:n:moquerie
+\mm bɔ́:v:sortir
 \va ɲàgari.la.bɔ
 \mm ɲàgari:n:moquerie
 \mm lá:mrph:CAUS
@@ -91370,7 +91480,7 @@ nord-est
 \gv vexer
 \gv faire.bisquer
 \lt (moquerie.sortir)
-\dt 08/Jul/2013
+\dt 19/Jul/2015
 
 \lx ɲàgasa
 \ps n
@@ -91781,6 +91891,13 @@ nord-est
 \ge plaisanterie
 \lt (pitrerie.suf abs)
 \dt 26/Sep/2006
+
+\lx ɲánsanfari
+\va ɲánsanfaari
+\ps n
+\ge femme.potélée
+\gv femme bien en chair
+\dt 16/Sep/2015
 
 \lx ɲànsànin
 \mm nin:mrph:DIM
@@ -97016,8 +97133,7 @@ nord-est
 \ps adj/n
 \ge rapporteur
 \gv médisant
-\lt (feu de brousse. ?)
-\dt 26/Sep/2006
+\dt 19/Jul/2015
 
 \lx ŋùnafinfin
 \mm ŋùna:n:feu.de.brousse
@@ -97812,6 +97928,16 @@ nord-est
 \xv à yé pɛ̀gɛ dá ń ná
 \xe il m'a posé un piège
 \dt 26/Sep/2006
+
+\lx pɛ́gɛ̀lɛ
+\va pɛ́gɛlɛn
+\va nbɛ́gɛlɛnbɛgɛlɛ
+\va pɛ́kɛlɛ
+\ps n
+\ge femme.maigre
+\gv
+\cm fr. épingle
+\dt 16/Sep/2015
 
 \lx pɛ́npɛrɛn
 \va pánparan
@@ -101144,11 +101270,16 @@ nord-est
 
 \lx sára
 \ps n
-\ge petit.tas
+\sn 1
+\ge lot
+\gv portion
+\gv part
+\sn 2
+\gv petit.tas
 \sm (à vendre, à distribuer ...)
 \xv sárada
 \ce préparer ces petits tas, ces petits lots
-\dt 26/Sep/2006
+\dt 19/Jul/2015
 
 \lx sára
 \bw ar: sahara = charmer, fasciner
@@ -112340,6 +112471,18 @@ fiançailles
 \ge irréfléchi
 \dt 11/Nov/2007
 
+\lx tàasibila
+\mm tàasi:v:réfléchir
+\mm bìla:n:abandon
+\ps n
+\sn 1
+\ge commémoration
+\gv pensées (pour un défunt)
+\gv évocation de la mémoire d'un défunt
+\sn 2
+\gv réflexion
+\dt 03/Oct/2015
+
 \lx táasira
 \mm táa:v:aller
 \mm síra:n:chemin
@@ -118092,6 +118235,16 @@ fiançailles
 \ee de soudure, d'articulation...
 \lt (attacher.endroit)
 \dt 26/Sep/2006
+
+\lx túgukakɛ
+\mm túgu:v:faire.exprès
+\mm kà:pm:INF
+\mm kɛ́:v:faire
+\ps n
+\ge action.commise.exprès
+\gv
+\cm Kalilou Téra: túgukakɛ tonalement compacte!
+\dt 22/Sep/2015
 
 \lx tùgukan
 \mm tùgu:n:bras
@@ -124637,6 +124790,12 @@ soient définitivement données à leur mari)
 \gv développer
 \dt 26/Sep/2006
 
+\lx yíriwa
+\ps v
+\ge puissance
+\gv omnipuissance
+\dt 22/Sep/2015
+
 \lx yìriyiri
 \va yìrikiyiriki
 \ps n
@@ -125013,6 +125172,13 @@ soient définitivement données à leur mari)
 \ps n
 \ge junior
 \dt 15/May/2013
+
+\lx zipu
+\ps n
+\ge jupe
+\gv
+\cm fr. jupe
+\dt 17/Sep/2015
 
 \lx zú
 \bw fr : joug
