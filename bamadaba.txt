@@ -1433,13 +1433,25 @@
 \rem l 89
 \dt 11/Nov/2007
 
+\lx bábɛnjɔ
+\mm bá:n:fleuve
+\mm bɛ̀n:v:se.rencontrer
+\mm jɔ̀:n:filet
+\ps n
+\ge senne
+\gv seine
+\dt 20/Dec/2015
+
 \lx bábili
 \mm bá:n:fleuve
 \mm bíli:v:recouvrir
 \ps n
+\sn 1
 \ge pont
 \lt (rivière.couvrir)
-\dt 16/Aug/2006
+\sn 2
+\gv barrage
+\dt 04/Nov/2015
 
 \lx bábolo
 \mm bá:n:fleuve
@@ -7998,7 +8010,7 @@ bâton de berger
 
 \lx bìnńkànni
 \mm bìn:v:tomber
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \mm ní:mrph:NMLZ
 \va bìnkanni
@@ -8011,7 +8023,7 @@ bâton de berger
 \gv brigandage
 \sn 2
 \gv viol
-\dt 27/Mar/2014
+\dt 20/Dec/2015
 
 \lx bìnnkannikɛla
 \mm bìn:v:tomber
@@ -11385,12 +11397,12 @@ bâton de berger
 
 \lx bɔ̀jan
 \mm bɔ̀:n:bambou
-\mm jàn:vq:haut
+\mm jàn:adj:long
 \ps n
 \ge perche.de.bambou
 \lt (bambou.grand)
 \sy bɔ̀kala
-\dt 26/Sep/2006
+\dt 20/Dec/2015
 
 \lx bɔ̀kala
 \mm bɔ̀:n:bambou
@@ -13530,6 +13542,14 @@ mort)
 \gv couper.grossièrement
 \dt 26/Sep/2006
 
+\lx cápalo
+\va cápu
+\va cáp
+\ps n
+\ge bière de mil
+\gv
+\dt 04/Nov/2015
+
 \lx cápùrucá
 \ps n
 \sn 1
@@ -14230,8 +14250,8 @@ sur soi)
 \mm ya:mrph:DEQU
 \ps v
 \ge être.laid
-\gv devir laid
-\dt 19/Jul/2015
+\gv devenir laid
+\dt 29/Nov/2015
 
 \lx cɛ̀juguyakuru
 \mm cɛ̀.jugu.ya:n:laideur
@@ -15951,6 +15971,11 @@ sur soi)
 \rem l 89 + eurêka ! (-Jos)
 \dt 11/Nov/2007
 
+\lx cɔ́ncɔ
+\ps n
+\ge sorte.de.tresse
+\dt 20/Dec/2015
+
 \lx cɔ́nkɔn
 \va cɔ́ngɔ
 \va cɔ́nkɔ
@@ -16021,6 +16046,13 @@ sur soi)
 \ge taller
 \sm (riz, mil, coton ...)
 \dt 26/Sep/2006
+
+\lx cɔ̀rɔdabilennin
+\ps n
+\ge sénégali
+\ee (petit oiseau)
+\gv Estrilda.sp.
+\dt 20/Dec/2015
 
 \lx cɔ́rɔkɔ
 \va córoko
@@ -19425,11 +19457,11 @@ pas)
 \sn 3
 \gv droit
 \gv pouvoir
-\sn 4
-\gv puissance.occulte
 \xv jɔ́n yé  dàlilu d'í mà  kà nìn kɛ́ ?
 \xe qui t'a donné le droit de le faire ?
-\dt 24/Jun/2013
+\sn 4
+\gv puissance.occulte
+\dt 20/Dec/2015
 
 \lx dàliluma
 \mm dàlilu:n:cause
@@ -19849,24 +19881,21 @@ rétribution mais à titre de réciprocité)
 
 \lx dàn
 \ps v
+\sn 1
 \vl vi
 \ge s'arrêter
 \gv se.contenter
 \sm de ... ( ... mà)
 \xv án kà  dàn yàn
 \xe arrêtons-nous ici !
-\dt 26/Sep/2006
-
-\lx dàn
-\ps v
-\sn 1
+\sn 2
 \vl vt
 \ge dépasser
 \ee (laisser derrière)
-\sn 2
+\sn 3
 \vl vt
 \ge échapper
-\dt 28/Sep/2014
+\dt 20/Dec/2015
 
 \lx dàn
 \ps v
@@ -20058,6 +20087,17 @@ rétribution mais à titre de réciprocité)
 \ge créature
 \gv être
 \dt 07/Nov/2014
+
+\lx dànfin
+\ps n
+\ge animal.noir
+\dt 20/Dec/2015
+
+\lx dànfin
+\ps adj
+\ge noir
+\ee (et de race, animal)
+\dt 20/Dec/2015
 
 \lx dànga
 \va dàgan
@@ -22819,6 +22859,15 @@ assumant que l'interclocuteur pense autrement)
 \xe mettez-vous de chaque côté de la porte jusqu'à ce que passe le chef
 \dt 26/Sep/2006
 
+\lx dɛ́n
+\ps n
+\ge taon
+\gv glossine
+\gv mouche tsé-tsé
+\gv moucheron
+\gv Glossina palpalis
+\dt 20/Dec/2015
+
 \lx dɛ́nda
 \mm dɛ́n:v:être.suspendu
 \mm dá:n:bouche
@@ -25475,6 +25524,13 @@ l'occasion d'une naissance)
 \xv dɔ́gɔkun tɛ̀mɛnen
 \xe la semaine passée
 \dt 16/Aug/2006
+
+\lx dɔ̀gɔman
+\ps n
+\ge longtemps
+\gv longue période
+\src Kalilou Tera
+\dt 01/Dec/2015
 
 \lx dɔ́gɔman
 \mm dɔ́gɔ:vq:petit
@@ -30391,7 +30447,7 @@ quant à sa mère, elle prend de l'âge
 
 \lx fàrankan
 \mm fàra:v:ajouter
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \ps n
 \sn 1
@@ -30401,7 +30457,7 @@ quant à sa mère, elle prend de l'âge
 \gv assistant
 \gv remplaçant
 \sy jɛ̀ɲɔgɔn
-\dt 26/Sep/2006
+\dt 20/Dec/2015
 
 \lx fàransi
 \ps n
@@ -35417,15 +35473,15 @@ la virginité (pièce de monnaie sans trou)
 \ge action.de.dire
 \lt (dire/jouer.action)
 \sn 2
-\gv action.de.jouer.un.instrument.à.percussion
 \gv musique
+\gv action.de.jouer.un.instrument.à.percussion
 \xv ù yé  fɔ́li díya
 \xe ils ont joué de plus belle
 \sn 3
 \gv instrument.de.musique.à.percussion
 \xv ù bɛ́  fɔ́li fɔ́
 \xe ils jouent du tam-tam
-\dt 26/Sep/2006
+\dt 24/Nov/2015
 
 \lx fɔ́lifɛn
 \mm fɔ́:v:dire
@@ -37091,6 +37147,22 @@ la virginité (pièce de monnaie sans trou)
 \lt (estomac.douleur)
 \sy sɔ̀nkuna
 \dt 26/Sep/2006
+
+\lx fùrufara
+\ps n
+\ge difficulté
+\gv tension
+\gv souffrance
+\dt 20/Dec/2015
+
+\lx fùrufàra
+\ps v
+\sn 1
+\vl vt
+\ge nuire
+\sn 2
+\gv se déchirer
+\dt 20/Dec/2015
 
 \lx fúrufɛn
 \mm fúru:n:mariage
@@ -39613,6 +39685,13 @@ la virginité (pièce de monnaie sans trou)
 \ps n
 \ge tibia
 \dt 15/Aug/2006
+
+\lx gɛ̀lɛnjɛ
+\mm gɛ̀lɛn:n:tibia
+\mm jɛ́:adj:blanc
+\ps n
+\ge colonisateur
+\dt 20/Dec/2015
 
 \lx gɛ̀lɛnkolo
 \mm gɛ̀lɛn:n:tibia
@@ -42750,8 +42829,11 @@ doigts par des fileuses du coton)
 \xv jà fárinya
 \xe être courageux, rassuré ...
 \xv à jà sìgilen yàn
-\xe mot à mot : son 'jà' est installé ici. Se dit des ganglions provoqués par une plaie : adénopathie)
-\dt 26/Sep/2006
+\xe mot à mot : son 'jà' est installé ici. Se dit des ganglions
+provoqués par une plaie : adénopathie)
+\xv à tɛ́ jà dá mɔ̀gɔ lá
+\xe il redoute cette personne
+\dt 20/Dec/2015
 
 \lx jà
 \ps n
@@ -45004,6 +45086,13 @@ doigts par des fileuses du coton)
 \xe ça se lit dans tes yeux (que tu es malade ...)
 \dt 26/Sep/2006
 
+\lx jɛ́
+\ps n
+\ge plaine
+\gv espace dégagé
+\ee (fertile)
+\dt 20/Dec/2015
+
 \lx jɛ́bɛn
 \ps v
 \vl vt
@@ -45366,6 +45455,14 @@ doigts par des fileuses du coton)
 \vl vi
 \gv être.malhonnête
 \dt 22/Dec/2014
+
+\lx jɛ̀ngɛn
+\va jɛ̀ngɛ
+\va jɛ̀gɛn
+\ps n
+\ge déviation
+\gv
+\dt 29/Nov/2015
 
 \lx jɛ̀njɛ
 \ps n
@@ -47132,17 +47229,6 @@ doigts par des fileuses du coton)
 \sm (un défunt chez les musulmans)
 \dt 12/Aug/2006
 
-\lx jòbaatɔ
-\mm tɔ:mrph:ST
-\va jùbatɔ
-\mm tɔ:mrph:ST
-\ee jiginbaatɔ* = qui vient d'accoucher ?
-\lt (mettre bas.sujet)
-\ps adj/n
-\ge nouvelle.accouchée
-\ee femelle qui vient de mettre bas...
-\dt 16/Aug/2006
-
 \lx jógin
 \va jɔ́gin
 \ps v
@@ -47842,6 +47928,13 @@ d'arrière-saison
 \xe Tous sont au courant que le gardien de but du Mali n'est pas bon (kb 9/04 p.11) (kb 3/05 p.12)
 \dt 04/Jul/2013
 
+\lx jɔ̀kɔ̀ɔnin
+\ps n
+\ge sénégali
+\ee (petit oiseau)
+\gv Estrilda.sp.
+\dt 20/Dec/2015
+
 \lx jɔ̀kun
 \mm jɔ̀:n:station.debout
 \mm kùn:n:tête
@@ -48325,6 +48418,23 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \xv dén ká jógojuguya jù bɛ́  jɔ́n ná ?
 \xe qui est responsable des vices des enfants ?
 \dt 20/Jul/2014
+
+\lx jùbaatɔ
+\mm tɔ:mrph:ST
+\va jùbaatɔ
+\mm tɔ:mrph:ST
+\va jùbagatɔ
+\mm tɔ:mrph:ST
+\va jìbaatɔ
+\mm tɔ:mrph:ST
+\va jòbaatɔ
+\mm tɔ:mrph:ST
+\ee jiginbaatɔ* = qui vient d'accoucher ?
+\lt (mettre bas.sujet)
+\ps adj/n
+\ge nouvelle.accouchée
+\ee femelle qui vient de mettre bas...
+\dt 20/Dec/2015
 
 \lx jùbara
 \mm jù:n:derrière
@@ -49048,11 +49158,14 @@ composante des adjectifs séparables)
 
 \lx jùrumantigi
 \mm jùru:n:corde
-\mm man:mrph:SUPER
+\mm tìgi:n:maître
+\va jùrumatigi
+\mm jùru:n:corde
 \mm tìgi:n:maître
 \ps n
 \ge débiteur
 \lt (dette.lieu.qui a)
+\dt 20/Dec/2015
 
 \lx jùrumu
 \bw ar: gurm = crime, faute
@@ -50585,7 +50698,10 @@ composante des adjectifs séparables)
 \gv changer.de.direction
 \dt 26/Sep/2006
 
-\lx kàlamana
+\lx kàlamɛnɛ
+\mm kàla:n:tige
+\mm mɛ́nɛ:v:allumer
+\va kàlamana
 \mm kàla:n:tige
 \mm mána:v:allumer
 \ps n
@@ -50596,7 +50712,10 @@ composante des adjectifs séparables)
 \gv strabisme
 \xv kàlamana bɛ́  mín ná
 \xe celui qui louche
-\dt 16/Aug/2006
+\sn 3
+\gv leader
+\gv porte-drapeau
+\dt 20/Dec/2015
 
 \lx kàlan
 \vc kàra
@@ -56055,6 +56174,24 @@ composante des adjectifs séparables)
 \ee jurnal en langue bambara
 \dt 07/Nov/2014
 
+\lx kìbaruya
+\mm kìbaru:n:nouvelle
+\mm ya:mrph:ABSTR
+\ps n
+\sn 1
+\ge nouvelle
+\sn 2
+\gv présage
+\dt 29/Nov/2015
+
+\lx kìbaruya
+\mm kìbaru:n:nouvelle
+\mm ya:mrph:ABSTR
+\ps v
+\ge informer
+\gv
+\dt 29/Nov/2015
+
 \lx kíimɛ
 \ve (-f,-bn)
 \ps v
@@ -57528,14 +57665,14 @@ composante des adjectifs séparables)
 \vl vi
 \gv obéir
 \sm à ...... ye
-\xv án kà kólo  ɲɔ́gɔn yé
+\xv án ká kólo  ɲɔ́gɔn yé
 \xe soyons soumis les uns aux autres
 \sn 3
 \vl vt
 \gv tanner
 \gv pétrir
 \gv assouplir
-\dt 26/Sep/2006
+\dt 20/Dec/2015
 
 \lx kólo
 \ps n
@@ -60838,11 +60975,22 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx kɔ́niya
+\va kóniya
 \ps v
+\sn 1
 \vl vt
 \ge envier
+\gv être jaloux
+\gv jalouser
+\sn 2
+\vl vt
+\gv haïr (par jalousie)
+\sn 3
 \gv détester
-\dt 26/Sep/2006
+\sn 4
+\gv empêcher à parvenir
+\sm (où -- mà)
+\dt 05/Nov/2015
 
 \lx kɔ́niyabaa
 \mm kɔ́niya:v:envier
@@ -61792,12 +61940,32 @@ ou une proposition)
 \mm na:mrph:dans
 \mm jɛ́:adj:blanc
 \mm ya:mrph:ABSTR
+\va kɔ́nɔnanjɛya
+\mm kɔ́nɔ:n:ventre
+\mm nan:mrph:dans
+\mm jɛ́:adj:blanc
+\mm ya:mrph:ABSTR
 \ps n
 \ge franchise
 \gv sincérité
 \gv droiture
 \lt (franc.suf abs)
-\dt 23/Mar/2015
+\dt 29/Nov/2015
+
+\lx kɔ́nɔnajɛya
+\mm kɔ́nɔ:n:ventre
+\mm na:mrph:dans
+\mm jɛ́:adj:blanc
+\mm ya:mrph:ABSTR
+\va kɔ́nɔnanjɛya
+\mm kɔ́nɔ:n:ventre
+\mm nan:mrph:dans
+\mm jɛ́:adj:blanc
+\mm ya:mrph:ABSTR
+\ps v
+\ge être.franc
+\gv être.sincère
+\dt 29/Nov/2015
 
 \lx kɔ́nɔnajugu
 \mm kɔ́nɔ:n:ventre
@@ -63012,7 +63180,7 @@ ou une proposition)
 \gv réprimande
 \dt 26/Sep/2006
 
-\lx kɔ́rɔfɔ́
+\lx kɔ́rɔfɔ
 \mm kɔ́rɔ:n:dessous
 \mm fɔ́:v:dire
 \lt (dessous.dire)
@@ -63022,7 +63190,7 @@ ou une proposition)
 \gv réprimander
 \xv ù y'án kɔ́rɔfɔ
 \xe ils nous ont réprimandés
-\dt 26/Sep/2006
+\dt 20/Dec/2015
 
 \lx kɔ́rɔfɔkan
 \mm kɔ́rɔ:n:dessous
@@ -64131,6 +64299,12 @@ ou une proposition)
 \ps n
 \ge coqueluche
 \dt 20/Mar/2015
+
+\lx kùlekùle
+\ps n
+\ge dindon
+\gv dinde
+\dt 20/Dec/2015
 
 \lx kùleɲɛba
 \mm kùle:n:ménuisier
@@ -68854,6 +69028,16 @@ ou une proposition)
 \gv s'habiller
 \dt 16/Aug/2006
 
+\lx lábi
+\va láabi
+\ps v
+\ge remplacer
+\gv substituer
+\gv relayer
+\gv relever
+\gv
+\dt 29/Nov/2015
+
 \lx lábìla
 \mm lá:mrph:CAUS
 \mm bìla:v:mettre
@@ -69509,10 +69693,10 @@ ou une proposition)
 \mm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
-\ps v
+\ps n
 \ge défenseur
 \gv avocat
-\dt 19/Jul/2015
+\dt 29/Nov/2015
 
 \lx làfe
 \ve (-bk)
@@ -71075,6 +71259,9 @@ ou une proposition)
 \mm rɔ́:mrph:IN
 \mm mìna:v:attraper
 \ve (f)
+\va lɔ́.mìnɛ
+\mm rɔ́:mrph:IN
+\mm mìnɛ:v:attraper
 \ee le parallélisme  la- / rɔ-  exclut l'origine arabe
 \lt (préf.prendre)
 \ps v
@@ -71108,7 +71295,7 @@ ou une proposition)
 \ee maîtriser ses mauvais penchants
 \xv í láminɛ dɔ́rɔn !
 \xe sois un peu maître de toi !
-\dt 30/Nov/2014
+\dt 29/Nov/2015
 
 \lx lámini
 \mm lá:mrph:CAUS
@@ -73301,6 +73488,13 @@ ou une proposition)
 \sm de.grande.taille.et.rectiligne, droit comme un " I "
 \dt 26/Sep/2006
 
+\lx línjila
+\va línjili
+\ps n
+\ge Évangile
+\gv Bible
+\dt 29/Nov/2015
+
 \lx lítiri
 \va lítri
 \es {fr : litre}
@@ -75471,6 +75665,15 @@ n'est pas près de disparaître
 \xe si cela se produit, quand cela aura eu lieu, ensuite ...
 \dt 27/Apr/2014
 
+\lx mánabɛlɛ
+\mm mána:n:substance.collante
+\mm bɛ̀lɛ:n:gravier
+\ps n
+\ge lance-pierres
+\gv pierre
+\ee (tirée par le lance-pierres)
+\dt 20/Dec/2015
+
 \lx mànafin
 \mm màna:n:roche.noire
 \mm fìn:vq/adj:noir
@@ -76473,6 +76676,12 @@ n'est pas près de disparaître
 \ps v
 \ge marcher.précipitamment
 \dt 18/Apr/2014
+
+\lx màrakasa
+\ps v
+\ge patiner.dans.la.boue
+\gv
+\dt 04/Nov/2015
 
 \lx màrakunkolodimi
 \mm màra:n:onchocercose
@@ -80213,6 +80422,12 @@ nord-est
 \lt (tourner.ce qui sert à)
 \dt 26/Sep/2006
 
+\lx mùnuturumantara
+\ps n
+\ge réciprocité
+\gv donnant-donnant
+\dt 20/Dec/2015
+
 \lx mùɲa
 \ps n
 \ge résidence.d'un.chef
@@ -80985,11 +81200,12 @@ nord-est
 
 \lx mùtukale
 \va mùtukali
+\va mùtikali
 \bw ar: mitqal = poids
 \ps n
 \ge mesure.pour.l'or
 \ee (environ 4 gr)
-\dt 28/Sep/2014
+\dt 29/Nov/2015
 
 \lx múutu
 \ps v
@@ -81090,13 +81306,7 @@ nord-est
 \lx ḿm
 \ps intj
 \ge hum
-\dt 01/Oct/2014
-
-\lx màrakasa
-\ps v
-\ge patiner.dans.la.boue
-\gv
-\dt 31/May/2015
+\dt 04/Nov/2015
 
 \lx ń
 \ps pers
@@ -84321,6 +84531,15 @@ nord-est
 \ee herbe.adventice ---> 0,50 / 1,30 m
 \dt 19/Aug/2006
 
+\lx ngóolomantan
+\va nkólomantan
+\va kólonkan
+\ps n
+\ge entrave.autour.du.cou
+\ee (d'un animal domestique)
+\gv sorte d'entrave en bois qui sert à dresser les vaches
+\dt 20/Dec/2015
+
 \lx ngòonsoon
 \ve (f,bk)
 \ps n
@@ -86800,6 +87019,11 @@ nord-est
 \ge poule.féconde
 \ee poule qui pond beaucoup et a beaucoup de poussins
 \dt 16/Aug/2006
+
+\lx nkùre
+\ps n
+\ge épaule.de.vache
+\dt 20/Dec/2015
 
 \lx nkùsun
 \va ngùsun
@@ -89524,6 +89748,14 @@ nord-est
 \ee ---> 5 / 10 m, arbre, on tire des feuilles une teinture jaune
 \dt 27/sept./2006
 
+\lx ntɛ̀mɛ
+\va tɛ̀mɛ
+\va tàmɛ
+\ps n
+\ge zébou
+\gv boeuf
+\dt 20/Dec/2015
+
 \lx ntɛ̀nɛ
 \va ntɛ̀nɛn
 \bw ar: al-itnayn = 2 ème jour
@@ -89600,6 +89832,11 @@ nord-est
 \xv súgujɔ kɛ́ra ń-tìn-kà-dɔ́n yé à bólo
 \xe il a regretté d'être allé au marché  (il n'a rien vendu ni acheté)
 \dt 12/Aug/2006
+
+\lx ntíntàntin
+\ps n
+\ge coléoptère.espèce
+\dt 20/Dec/2015
 
 \lx ntìri
 \ps v
@@ -91843,6 +92080,23 @@ nord-est
 \gv sanctionner
 \gv taxer d'amende
 \dt 15/May/2013
+
+\lx ɲáni
+\ve ɲɛ́ni
+\ve (f,bn)
+\ps n
+\ge misère
+\gv malheur
+\dt 29/Nov/2015
+
+\lx ɲáni
+\va ɲɛ́ni
+\ve (f,bn)
+\ps v
+\ge souffrir
+\cm (dû à la misère)
+\gv
+\dt 29/Nov/2015
 
 \lx ɲànkara
 \va ɲànkaran
@@ -94635,14 +94889,6 @@ nord-est
 \dt 16/Aug/2006
 
 \lx ɲɛ́ni
-\ve (f,bn)
-\va ɲáni
-\ps n
-\ge misère
-\gv malheur
-\dt 26/Sep/2006
-
-\lx ɲɛ́ni
 \va ɲáni
 \ps v
 \vl vt
@@ -96464,11 +96710,11 @@ nord-est
 \sm les uns contre les autres
 \dt 19/Dec/2012
 
-\lx ɲùguɲúgu
+\lx ɲùguɲùgu
 \ps n
 \ge les.Pléiades
 \ee constellation des Pléiades
-\dt 16/Aug/2006
+\dt 20/Dec/2015
 
 \lx ɲùman
 \ee *ɲì = bon, beau
@@ -96704,6 +96950,11 @@ nord-est
 \ps adv.p
 \ge malhonnêtement
 
+\lx ŋànaŋàna
+\ps n
+\ge poisson.à.écailles
+\dt 20/Dec/2015
+
 \lx ŋánaŋana
 \ps v
 \vl vt
@@ -96712,6 +96963,15 @@ nord-est
 \xv dɔ̀nkilidala yé  dɔ̀nkili ŋánaŋana kósɛbɛ
 \xe les chanteuses ont chanté à pleins poumons
 \dt 26/Sep/2006
+
+\lx ŋánaŋana
+\ps adj
+\sn 1
+\ge fort
+\gv violent
+\sn 2
+\gv rouge vif
+\dt 20/Dec/2015
 
 \lx ŋánaŋanatɔ
 \mm ŋánaŋana:n:folie
@@ -96731,17 +96991,17 @@ nord-est
 \va ngàniya
 \ps n
 \sn 1
-\gv volonté
+\ge volonté
 \gv intention
 \gv résolution
 \xv ŋàniya sìri
 \xe prendre la résolution de...
 \sn 2
-\ge bon.plaisir
+\gv bon.plaisir
 \gv gré
 \xv ní ŋàniya yé
 \xe volontiers
-\dt 14/Jan/2015
+\dt 20/Dec/2015
 
 \lx ŋàniya
 \va ngàniya
@@ -99980,14 +100240,14 @@ nord-est
 \ps n
 \sn 1
 \ge cadeau
-\ee cadeau de bienvenue, de retour de voyage ...)
+\ee (cadeau de bienvenue, de retour de voyage ...)
 \sy sàmafɛn
 \sn 2
 \gv commission
 \sm (à exécuter)
 \xv à yé  sàma dí  à mà
 \xe elle lui a confié un cadeau (à transmettre)
-\dt 16/Aug/2006
+\dt 20/Dec/2015
 
 \lx sàma
 \va sàman
@@ -99995,9 +100255,10 @@ nord-est
 \vl vt
 \ge rapporter.cadeau
 \gv envoyer un cadeau
+\gv rapporter des nouvelles
 \xv í bɛ́  mùn sàma  né mà ? = í bɛ́  né sàma  mùn ná ?
 \xe Que me rapportes-tu en cadeau ?
-\dt 16/Aug/2006
+\dt 20/Dec/2015
 
 \lx sàma
 \ps v
@@ -113455,6 +113716,20 @@ fiançailles
 \lt (part.gâter)
 \dt 24/Jun/2013
 
+\lx tátiɲɛ
+\mm tá:n:propriété
+\mm tíɲɛ:v:gâter
+\va tá.tiyɛn
+\mm tá:n:propriété
+\mm tíyɛn:v:gâter
+\va tá.cɛn
+\mm tá:n:propriété
+\mm cɛ́n:v:gâter
+\ps v
+\ge se.foutre.en.l'aile
+\gv bousiller
+\dt 24/Nov/2015
+
 \lx tátugukɔnɔ
 \mm tá:n:feu
 \mm tùgu:v:rabouter
@@ -113719,10 +113994,14 @@ fiançailles
 \lx téreke
 \bw ar: faraka = id.
 \ps v
+\sn 1
 \vl vt
 \ge frotter
 \sm (écraser en frottant, réduire en purée)
-\dt 26/Sep/2006
+\sn 2
+\vl vt
+\gv flatter
+\dt 20/Dec/2015
 
 \lx térekete
 \ps adv
@@ -113830,11 +114109,9 @@ fiançailles
 \ge complètement
 \gv d'un.seul.coup
 \sm (cesser, remplir ...)
-\xv à y'á bɛ́ɛ dún tá !
-\xe il a tout dévoré
 \xv à màdara téwu !
 \xe il s'est complètement calmé
-\dt 18/Apr/2014
+\dt 20/Dec/2015
 
 \lx tɛ́
 \va té
@@ -114887,7 +115164,22 @@ fiançailles
 \lt (critiquer.suf)
 \dt 16/Aug/2006
 
+\lx tìgɛńkàn
+\mm tìgɛ:v:couper
+\mm ń:pers:1SG
+\mm kàn:pp:sur
+\ps n
+\ge décision
+\gv résolution
+\src Kalilou Tera
+\dt 01/Dec/2015
+
 \lx tìgɛ-ń-ná
+\mm tìgɛ:v:couper
+\mm ń:pers:je
+\mm ná:pp:dans
+\va làtigɛ-ń-ná
+\mm lá:mrph:CAUS
 \mm tìgɛ:v:couper
 \mm ń:pers:je
 \mm ná:pp:dans
@@ -114900,7 +115192,7 @@ fiançailles
 \ge défiance
 \gv perte de confiance
 \lt (couper.de moi)
-\dt 26/Sep/2006
+\dt 20/Dec/2015
 
 \lx tìgɛnsɔnya
 \mm tìgɛ:v:couper
@@ -118757,16 +119049,24 @@ fiançailles
 \lx túlominɛ
 \mm túlo:n:oreille
 \mm mìnɛ:v:attraper
+\va túlomina
+\mm túlo:n:oreille
+\mm mìna:v:attraper
 \va tló.minɛ
 \mm tló:n:oreille
 \mm mìnɛ:v:attraper
 \ph [tl]
+\va túlomaminɛ
+\mm túlo:n:oreille
+\mm mà:pp:à
+\mm mìnɛ:v:attraper
 \ps n
 \ge arrière.grand'père
 \lt (oreille.prendre)
+\gv arrière-petit-enfant
 \xv háli ní  à mɔ̀kɛ sàlen tɛ́, í ń'á sɔ̀rɔ : à túlominɛ sàlen dòn
 \xe même si son grand'père n'est pas mort, en tout cas son arrière grand'père est mort
-\dt 16/Aug/2006
+\dt 20/Dec/2015
 
 \lx túlon
 \va tlón
@@ -119573,6 +119873,13 @@ responsabilité sur le dos de qqn'
 \lt (grande graminée.surface)
 \dt 16/Aug/2006
 
+\lx wàala
+\ps n
+\ge foulée
+\gv enjambée
+\gv pas
+\dt 20/Dec/2015
+
 \lx wáanba
 \va wáganba
 \ps adj
@@ -120172,16 +120479,27 @@ aîné ... (Kb 11/06 p.4)
 \lt (autrui.part)
 \dt 16/Aug/2006
 
-\lx wàlo
-\va wàlon
+\lx wàlon
+\va wàlo
 \ps v
+\sn 1
 \vl vt
 \ge ébrécher
 \gv écorner
 \gv détacher un morceau
 \xv wòro kélen wálo  kà fɛ́ɛrɛn dí  né mà
 \xe divise la noix de cola et donne m'en un morceau
-\dt 16/Aug/2006
+\sn 2
+\gv gifler
+\gv frapper
+\gv battre
+\dt 20/Dec/2015
+
+\lx wàlon
+\ps n
+\ge tesson
+\gv morceau
+\dt 20/Dec/2015
 
 \lx wánkalan
 \ve (-bk)
@@ -123327,6 +123645,13 @@ soient définitivement données à leur mari)
 \gv au lieu de
 \dt 20/Feb/2014
 
+\lx yànnɔ̀
+\va yànninnɔ̀
+\ps adv
+\ge ici.même
+\gv ici
+\dt 29/Nov/2015
+
 \lx yári
 \ps n
 \ge yard
@@ -124096,15 +124421,22 @@ soient définitivement données à leur mari)
 \xe feindre d'être ...
 \dt 05/Jan/2015
 
+\lx yɛ́rɛ
+\va yére
+\ps n
+\ge sexe.masculin
+\gv testicules
+\dt 20/Dec/2015
+
 \lx yɛ̀rɛba
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm ba:mrph:AUGM
 \ps n
 \ge fat
 \gv vantard
 \gv orgueilleux
 \lt (lui-même.grand)
-\dt 26/Sep/2006
+\dt 20/Dec/2015
 
 \lx yɛ̀rɛbakun
 \mm yɛ̀rɛ:dtm:même
@@ -124791,10 +125123,10 @@ soient définitivement données à leur mari)
 \dt 26/Sep/2006
 
 \lx yíriwa
-\ps v
+\ps n
 \ge puissance
 \gv omnipuissance
-\dt 22/Sep/2015
+\dt 29/Nov/2015
 
 \lx yìriyiri
 \va yìrikiyiriki
