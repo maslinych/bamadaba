@@ -13556,6 +13556,23 @@ mort)
 \sd comb
 \dt 19/Aug/2006
 
+\lx cánkalan
+\va cánkala
+\ps adv
+\ge avec.détermination
+\gv affrontant
+\dt 27/Jan/2016
+
+\lx cánkalan
+\va cánkala
+\ps v
+\vl vr
+\ge affronter
+\gv s'imposer physiquement
+\gv montrer sa détermination
+\gv s'exhiber
+\dt 27/Jan/2016
+
 \lx cànwu
 \ps v
 \vl vt
@@ -23025,6 +23042,12 @@ assumant que l'interclocuteur pense autrement)
 \ps onomat
 \ge ébrouement.d'ailes
 \dt 16/Aug/2006
+
+\lx dɛ́rɛsi
+\ps prt
+\ge vraiment
+\smf (valeur intensive, exclamative et adversative)
+\dt 27/Jan/2016
 
 \lx dɛ̀sɛ
 \ps n
@@ -47319,6 +47342,14 @@ provoqués par une plaie : adénopathie)
 \gv mauvais caractère
 \dt 22/Dec/2014
 
+\lx jòkàjo
+\ps n
+\ms 1
+\ge anémie
+\ms 2
+\gv fièvre jaune
+\dt 27/Jan/2016
+
 \lx jòkala
 \ps n
 \ge oiseau.téléphone.tchagra
@@ -47862,6 +47893,13 @@ d'arrière-saison
 \ps n
 \ge jour.du.jugement.dernier
 \dt 21/Dec/2014
+
+\lx jɔ̀fɛba
+\va jɔ̀fɔ
+\ps n
+\ge péripneumonie.des.bovins
+\gv
+\dt 27/Jan/2016
 
 \lx jɔ̀gɔn
 \ve (-f)
@@ -59420,6 +59458,12 @@ composante des adjectifs séparables)
 \sd sapo
 \ee (arbre toujours en feuilles, terrains rocailleux)
 \dt 19/Aug/2006
+
+\lx koyengeli
+\ps n
+\ge maladie.de.bétail
+\gv
+\dt 27/Jan/2016
 
 \lx kóyi
 \va kɔ́yi
@@ -84827,6 +84871,12 @@ nord-est
 \lat Hibiscus.esculentus
 \sd malv
 \dt 19/Aug/2006
+
+\lx ngúman
+\ps n
+\ge maladie.pulmonaire.des.bovins
+\gv
+\dt 27/Jan/2016
 
 \lx ngúnanìnjɛ́
 \mm nin:mrph:DIM
@@ -119632,6 +119682,12 @@ responsabilité sur le dos de qqn'
 \ge casaque
 \ee (sorte de manteau à longues manches)
 \dt 12/Aug/2006
+
+\lx turuto
+\ps n
+\ge tourteau
+\gv
+\dt 27/Jan/2016
 
 \lx túsyɛ̀nin
 \mm tú:n:touffe
