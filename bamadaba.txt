@@ -3826,12 +3826,17 @@
 \mm cí:v:envoyer
 \mm ma:mrph:COM
 \mm la:mrph:AG.PRM
+\va bàncimana
+\mm bàn:v:refuser
+\mm cí:v:envoyer
+\mm ma:mrph:COM
+\mm na:mrph:AG.PRM
 \ps n
 \ge désobéissant
 \lt (refuser.ordre.à.qui)
 \xv dénmisɛn bàncimala ! í nà tɛ̀mɛ  dàanin cáman dátugulen ná
 \xe petit désobéissant ! tu passeras à côté de beaucoup de casseroles fermées (on ne lui offrira pas de gâteries)
-\dt 12/Aug/2006
+\dt 27/Jan/2016
 
 \lx báncinin
 \mm bá:n:mère
@@ -8941,6 +8946,15 @@ bâton de berger
 \gv fugitif
 \dt 26/Sep/2006
 
+\lx bòlibaanci
+\mm bòli:v:courir
+\mm baa:mrph:AG.OCC
+\mm nci:mrph:AG.EX
+\ps n
+\ge déserteur
+\gv
+\dt 27/Jan/2016
+
 \lx bòlifɛn
 \mm bòli:v:courir
 \mm fɛ́n:n:chose
@@ -8999,9 +9013,9 @@ bâton de berger
 \mm nin:mrph:DIM
 \mm jɛ́:adj:blanc
 \ps n
-\gf course
+\ge course
 \smf (sportive)
-\dt 18/Mar/2015
+\dt 27/Jan/2016
 
 \lx bòlisira
 \mm bòli:v:courir
@@ -12301,6 +12315,12 @@ toujours (pro)
 \ee (population...)
 \dt 26/Sep/2006
 
+\lx búgunin
+\ps n
+\ge tissu.à.raie.blanche
+\gv
+\dt 27/Jan/2016
+
 \lx bùguninka
 \mm bùgu:n:paillotte
 \mm nin:mrph:DIM
@@ -12312,11 +12332,12 @@ toujours (pro)
 \dt 12/Aug/2006
 
 \lx búguninka
+\va nbúguninka
 \va búguninkaro
 \ps n
 \ge tissu
 \ee de diverses teintes et de divers motifs
-\dt 16/Aug/2006
+\dt 27/Jan/2016
 
 \lx búgunnama
 \mm búgun:vq:gris.clair
@@ -35620,8 +35641,8 @@ la virginité (pièce de monnaie sans trou)
 \lx fɔ̀lɔn
 \ps v
 \vl vi
-\gv faner
-\dt 26/Sep/2006
+\ge faner
+\dt 27/Jan/2016
 
 \lx fɔ́lɔn
 \ps v
@@ -44061,6 +44082,13 @@ provoqués par une plaie : adénopathie)
 \xe faisons la lutte !
 \dt 16/Aug/2006
 
+\lx jànburunci
+\mm nci:mrph.AG.EX
+\ps n
+\ge vagabond
+\gv
+\dt 27/Jan/2016
+
 \lx jànfa
 \va jàanfa
 \ps n
@@ -47642,10 +47670,12 @@ provoqués par une plaie : adénopathie)
 \dt 26/Sep/2006
 
 \lx jónjon
+\va jòɲò
 \ps v
 \vl vr
 \ge gambader
-\dt 12/Aug/2006
+\gv chalouper
+\dt 27/Jan/2016
 
 \lx jóoki
 \ps onomat
@@ -47663,12 +47693,11 @@ provoqués par une plaie : adénopathie)
 
 \lx jóona
 \ps adj
-\sn
-\gv précoce
+\ge précoce
 \xv tásuma jóona ká fìsa  tásuma kɔ́sa yé
 \xe les feux (de brousse) précoces sont préférables aux feux
 d'arrière-saison
-\dt 16/Jan/2015
+\dt 27/Jan/2016
 
 \lx jòro
 \ps n
@@ -56463,6 +56492,11 @@ composante des adjectifs séparables)
 \ge le.côté.droit
 \lt (droit.ici.côté)
 \dt 26/Sep/2006
+
+\lx kínkànkín
+\ps onomat
+\ge cri.de.joie
+\dt 27/Jan/2016
 
 \lx kìntigi
 \mm kìn:n:quartier
@@ -65428,6 +65462,16 @@ ou une proposition)
 \xe ne t'adresse pas à moi (ça ne me regarde pas)
 \dt 01/Mar/2013
 
+\lx kùnbɔkola
+\mm kùn:n:tête
+\mm bɔ́:v:sortir
+\mm kó:n:affaire
+\mm lá:pp:dans
+\ps n
+\ge égoïsme
+\gv
+\dt 27/Jan/2016
+
 \lx kùncɛ
 \mm kùn:n:tête
 \mm cɛ́:n:milieu
@@ -66560,9 +66604,9 @@ ou une proposition)
 \mm bɔ́:v:sortir
 \ps n
 \sn
-\gv compensation
+\ge compensation
 \ee (le nom apparaît surtout dans la traduction du Coran)
-\dt 22/Dec/2014
+\dt 27/Jan/2016
 
 \lx kùnmabɔbaa
 \mm kùn.ma.bɔ:v:racheter
@@ -69835,6 +69879,18 @@ ou une proposition)
 \gv
 \dt 29/Mar/2015
 
+\lx láfìsaya
+\mm lá:mrph:CAUS
+\mm fìsaya:v:améliorer
+\mm fìsa:vq:mieux
+\mm ya:mrph:DEQU
+\ps v
+\ms 1
+\ge rendre.meilleur
+\ms 2
+\gv reconnaître.comme.meilleur
+\dt 27/Jan/2016
+
 \lx làfiya
 \va làfya
 \ph [fy]
@@ -71246,20 +71302,20 @@ ou une proposition)
 \xe le sorgho est en épis, mais ils sont encore laiteux
 \dt 26/Sep/2006
 
-\lx lá.mìnɛ
+\lx lámìnɛ
 \mm lá:mrph:CAUS
 \mm mìnɛ:v:attraper
 \va lámìna
 \mm lá:mrph:CAUS
 \mm mìna:v:attraper
-\va rɔ́.mìnɛ
+\va rɔ́mìnɛ
 \mm rɔ́:mrph:IN
 \mm mìnɛ:v:attraper
-\va rɔ́.mìna
+\va rɔ́mìna
 \mm rɔ́:mrph:IN
 \mm mìna:v:attraper
 \ve (f)
-\va lɔ́.mìnɛ
+\va lɔ́mìnɛ
 \mm rɔ́:mrph:IN
 \mm mìnɛ:v:attraper
 \ee le parallélisme  la- / rɔ-  exclut l'origine arabe
@@ -71295,7 +71351,7 @@ ou une proposition)
 \ee maîtriser ses mauvais penchants
 \xv í láminɛ dɔ́rɔn !
 \xe sois un peu maître de toi !
-\dt 29/Nov/2015
+\dt 27/Jan/2016
 
 \lx lámini
 \mm lá:mrph:CAUS
@@ -82686,6 +82742,17 @@ nord-est
 \xe - Bonsoir ! - "nba'', Bonsoir !
 \dt 19/Oct/2014
 
+\lx nbàki
+\ps n
+\ge champ.non-préparé
+\dt 27/Jan/2016
+
+\lx nbàki
+\ps v
+\ge semer.à.sec
+\gv semer sur un champ non préparé
+\dt 27/Jan/2016
+
 \lx nbáwudi
 \ve (bmk)
 \ps n
@@ -84365,6 +84432,20 @@ nord-est
 \ge folie
 \gv grande.agitation.mentale
 \dt 26/Sep/2006
+
+\lx ngáningani
+\va nkáninkani
+\ps n
+\ge arrogance
+\gv
+\dt 27/Jan/2016
+
+\lx ngáningani
+\va nkáninkani
+\ps v
+\ge être.présomptueux
+\gv
+\dt 27/Jan/2016
 
 \lx ngánunganu
 \va ŋánuŋanu
@@ -89173,6 +89254,12 @@ nord-est
 \sy fíndo
 \dt 16/Aug/2006
 
+\lx nsóŋe
+\ps n
+\ge rat.espèce
+\gv
+\dt 27/Jan/2016
+
 \lx nsóro
 \va sóro
 \ps n
@@ -91302,6 +91389,19 @@ nord-est
 \ps n
 \ge cloison.nasale
 \dt 13/May/2014
+
+\lx núnkurun
+\ps n
+\ms 1
+\ge nez.épaté
+\ms 2
+\gv laideron
+\ms 3
+\gv mangue.court
+\ms 4
+\gv mil tardif
+\smf Pennicularia spicata
+\dt 27/Jan/2016
 
 \lx núnnango
 \mm nún:n:nez
@@ -118050,11 +118150,11 @@ fiançailles
 \mm tɔ̀ɲɔɔn:n:camarade
 \mm mùso:adj:femme
 \ps n
-\gv compagne
+\ge compagne
 \gv camarade
 \gv copine
 \lt (camarade.féminin)
-\dt 07/Dec/2014
+\dt 27/Jan/2016
 
 \lx tɔ̀ɲɔgɔnya
 \mm tɔ̀ɲɔgɔn:n:camarade
@@ -124545,6 +124645,18 @@ soient définitivement données à leur mari)
 \ge suicide
 \lt (soi-même.tuer)
 \dt 06/Nov/2014
+
+\lx yɛ̀rɛfaganci
+\mm yɛ̀rɛ̂:dtm:même
+\mm fàga:v:tuer
+\mm nci:mrph:AG.EX
+\va yɛ̀rɛfaanci
+\mm yɛ̀rɛ̂:dtm:même
+\mm fàa:v:tuer
+\mm nci:mrph:AG.EX
+\ps n
+\ge suicidaire
+\dt 27/Jan/2016
 
 \lx yɛ̀rɛfagasu
 \mm yɛ̀rɛ.faga:n:suicide

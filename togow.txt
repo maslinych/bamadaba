@@ -198,8 +198,9 @@
 \lx Asaku
 \di son
 \di m
-\dt 03/May/2010
 \ps n.prop
+\ge NOM.M
+\dt 27/Jan/2016
 
 \lx Asita
 \va Asta
@@ -2615,8 +2616,9 @@
 \va Sádàn
 \di m
 \di f
-\dt 03/May/2010
+\dt 27/Jan/2016
 \ps n.prop
+\ge NOM.F
 
 \lx Sárata
 \di m
