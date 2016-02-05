@@ -15,10 +15,28 @@
 \ee équipe de football à Gao
 \dt 03/May/2013
 
+\lx Aradisɔni
+\ps n
+\ge Raddison
+\smf (réseau des hôtels)
+\dt 05/Feb/2016
+
 \lx Àrajomali
 \ps n.prop
 \ge Radio.Mali
 \dt 15/Oct/2014
+
+\lx Aramusɛsi
+\ps n.prop
+\ge NOM.M
+\gv Ramsès
+\dt 05/Feb/2016
+
+\lx Arasingikilɔbu
+\ps n
+\ge Racing.Club
+\smf (club de football)
+\dt 05/Feb/2016
 
 \lx AS Mande
 \ps n.prop
@@ -26,17 +44,42 @@
 \ee équipe de football à Kayes
 \dt 03/May/2013
 
+\lx Asikiya
+\ps n
+\ge Askia
+\smf (titre royal à l'Empire Songhaï)
+\dt 05/Feb/2016
+
+\lx Baraki Obama
+\ps n.prp
+\ge NOM.M
+\gv Barak Obama
+\dt 05/Feb/2016
+
+\lx Bɛnizamini Nataɲawu
+\ps n.prop
+\ge NOM.M
+\gv Benjamin Netanyahu
+\dt 05/Feb/2016
+
 \lx Bitɔn
 \ps n.prop
 \ge Biton
 \ee équipe de football
 \dt 15/May/2013
 
+\lx Bɔnga
+\ps n.prop
+\ge NOM.M
+\gv Bonga
+\smf (roi des Mossi au XVe siècle)
+\dt 05/Feb/2016
+
 \lx Buwaɲi
 \ps n.prop
 \ge Houphoët-Boigny, Félix
-\smf 1e président de la Côte d'Ivoire
-\dt 14/Sep/2015
+\smf (1e président de la Côte d'Ivoire)
+\dt 04/Feb/2016
 
 \lx CEDEAO
 \ps n
@@ -50,10 +93,34 @@
 \gv Compagnie Malienne de Textile
 \dt 14/Sep/2015
 
+\lx dinari
+\ps n
+\ge dinar
+\dt 04/Feb/2016
+
+\lx Donali Turanpu
+\ps n.prop
+\ge NOM.M
+\gv Donald Trump
+\dt 05/Feb/2016
+
+\lx fakoyi
+\ps n
+\ge plat.songhaï
+\gv
+\dt 05/Feb/2016
+
+\lx Faransuwa Holandi
+\ps n.prop
+\ge NOM.M
+\gv François Hollande
+\dt 04/Feb/2016
+
 \lx farawona
+\va farawuna
 \ps n
 \ge pharaon
-\dt 21/Dec/2014
+\dt 05/Feb/2016
 
 \lx Goli
 \ps n.prop
@@ -64,11 +131,24 @@
 \ps n
 \ge gaulois
 
+\lx Hilari Kilintɔni
+\ps n.prop
+\ge NOM.F
+\gv Hillary Clinton
+\dt 05/Feb/2016
+
 \lx Ibilisa
 \ps n.prop
 \ge Iblis
 \gv diable
 \dt 21/Dec/2014
+
+\lx Iyemowa
+\ps n
+\ge ABR
+\gv UEMOA
+\gv Union Economique et Monétaire Ouest-Africaine
+\dt 05/Feb/2016
 
 \lx jermani
 \va jɛrimani
@@ -82,6 +162,34 @@
 \ee l'archange
 \dt 21/Dec/2014
 
+\lx Jingarebɛri
+\ps n.prop
+\ge Djingarber
+\smf (ancienne mosquée à Tombouktou)
+\dt 04/Feb/2016
+
+\lx Judɛri
+\ps n.prop
+\ge NOM.M
+\gv Djouder
+\smf (chef de l'armée marocaine ayant vaincu l'armée songhaï en
+1591)
+\dt 05/Feb/2016
+
+\lx Kafu
+\ps n
+\ge ABR
+\gv CAF
+\gv Confédération Africaine de Football
+\dt 05/Feb/2016
+
+\lx Koli Tengela
+\ps n.prop
+\ge NOM.M
+\gv Koly Tengela
+\smf (chef de guerre des Peuls au XVI siècle)
+\dt 05/Feb/2016
+
 \lx latɛn
 \ps n
 \ge latin
@@ -90,6 +198,12 @@
 \ps n
 \ge manne
 \dt 21/Dec/2014
+
+\lx Madugu
+\ps n.prop
+\ge Madougou
+\smf (palais royal à Tombouktou)
+\dt 04/Feb/2016
 
 \lx Malitɛli
 \ps n
@@ -108,6 +222,19 @@
 \ge Mao.ZeDong
 \dt 23/Feb/2014
 
+\lx Miti Oromeneyi
+\ps n.prop
+\ge TOP
+\gv Mitt Romney
+\dt 05/Feb/2016
+
+\lx naba
+\ps n
+\ge Naba
+\smf (titre royal chez les Mossi)
+\gv
+\dt 05/Feb/2016
+
 \lx Ɲana
 \ps n.prop
 \ge Gnana
@@ -118,6 +245,18 @@
 \ps n.prop
 \ge Office.du.Niger
 \dt 24/Apr/2013
+
+\lx ONU
+\ps n
+\ge ABR
+\gv Organisation des Nations Unies
+\dt 04/Feb/2016
+
+\lx oranzimɔnɛ
+\ps n
+\ge Orange.Money
+\gv
+\dt 05/Feb/2016
 
 \lx Real
 \ps n.prop
@@ -130,6 +269,12 @@
 \ge Sabéen
 \dt 02/Apr/2015
 
+\lx Sagamanjan
+\ps n.prop
+\ge Sagamandjan
+\smf (chef de guerre de Mansa Moussa, 14e siècle)
+\dt 04/Feb/2016
+
 \lx Sàmatasɛgɛw
 \ps n.prop
 \ge Aigles.du.Mali
@@ -141,6 +286,12 @@
 \ge ABR
 \gv Societe d'Exploitation des Produits Arachidiers du Mali
 \dt 24/Mar/2015
+
+\lx Seyisebe
+\ps n
+\ge ABR
+\gv CICB
+\dt 04/Feb/2016
 
 \lx sɛliti
 \ps n
@@ -162,6 +313,12 @@
 \ee équipe de football à Kayes
 \dt 03/May/2013
 
+\lx Sitadi Maliyɛn
+\ps n
+\ge Stade.Malien
+\smf (club de football)
+\dt 05/Feb/2016
+
 \lx Soni
 \va Sonni
 \ps n
@@ -178,6 +335,12 @@
 \ge Stade
 \ee équipe de football à Bamako
 \dt 03/May/2013
+
+\lx Taganba
+\ps n
+\ge musique.Songhaï
+\gv
+\dt 05/Feb/2016
 
 \lx Tawureta
 \ps n

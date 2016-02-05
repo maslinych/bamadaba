@@ -60,11 +60,12 @@
 \ps n.prop
 
 \lx Áliban
+\va Álibani
 \ty гос.
 \ge TOP
 \gv Albanie
 \ru Албания
-\dt 23/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Alimani
@@ -96,12 +97,13 @@
 \ps n.prop
 
 \lx Ameriki
+\va Lamerikɛnjamana
 \ty гос.
 \ty конт.
 \ge TOP
 \gv Amerique
 \ru Америка
-\dt 23/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Andalusi
@@ -109,6 +111,18 @@
 \ge TOP
 \gv Andalousie
 \dt 19/Dec/2012
+
+\lx Angleteri
+\va Ankili
+\va Angletɛrɛ
+\va Ankiletɛrɛ
+\va Angiletɛri
+\ty гос.
+\ge TOP
+\gv Angleterre
+\ru Англия
+\dt 05/Feb/2016
+\ps n.prop
 
 \lx Angola
 \di b
@@ -127,24 +141,14 @@
 \dt 05/Dec/2010
 \ps n.prop
 
-\lx Ankiletɛrɛ
-\va Ankili
-\va Angletɛrɛ
-\va Angleteri
-\ty гос.
-\ge TOP
-\gv Angleterre
-\ru Англия
-\dt 23/May/2010
-\ps n.prop
-
 \lx Ansongo
 \va Ansɔngɔ
+\va Ansɔngo
 \ge TOP
 \gv Ansongo
 \ty г.
 \ru Ансонго
-\dt 23/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Árabula
@@ -171,6 +175,13 @@
 \ru Аргенина
 \dt 23/May/2010
 \ps n.prop
+
+\lx Aseyi demili
+\ps n.prop
+\ge TOP
+\gv ACI 2000
+\smf (quartier dans la commune de Hamdallaye à Bamako)
+\dt 05/Feb/2016
 
 \lx Ashikabadi
 \ty г.
@@ -401,12 +412,13 @@
 \va Banisira
 \va Banisilayila
 \va Banisirayila
+\va Isirayɛli
 \et ar. bnu-sraa'il 'евреи'
 \ty гос.
 \ge TOP
 \gv Israël
 \ru Израиль
-\dt 23/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Bánjagara
@@ -489,6 +501,12 @@
 \ru Бразилия
 \dt 23/May/2010
 \ps n.prop
+
+\lx Bɛliziki
+\ps n.prop
+\ge TOP
+\gv Belgique
+\dt 05/Feb/2016
 
 \lx Bɛnɛn
 \ty гос.
@@ -601,6 +619,12 @@
 \cm (в Бамако)
 \dt 05/Dec/2010
 \ps n.prop
+
+\lx Burɛmu
+\ps n.prop
+\ge TOP
+\gv Bourem
+\dt 05/Feb/2016
 
 \lx Búrukinafaso
 \va Búrukina
@@ -733,11 +757,12 @@
 \ps n.prop
 
 \lx Dúwazà
+\va Duwazan
 \ty г.
 \ru Дуэнца
 \ge TOP
 \gv Douentza
-\dt 05/Dec/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Eritere
@@ -752,6 +777,12 @@
 \ps n.prop
 \ge Europe
 \dt 21/Feb/2013
+
+\lx Eziputi
+\ps n.prop
+\ge TOP
+\gv Egypte
+\dt 04/Feb/2016
 
 \lx Ɛcopi
 \va Ecupi
@@ -930,11 +961,23 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Gaɲiwa
+\ps n.prop
+\ge TOP
+\gv Gagnoa
+\dt 05/Feb/2016
+
 \lx Garali
 \ps n.prop
 \ge TOP
 \cm (village à Buguni)
 \dt 01/Apr/2014
+
+\lx Garuwa
+\ps n.prop
+\ge Garoua
+\smf (une ville au nord de Cameroun)
+\dt 05/Feb/2016
 
 \lx Gawo
 \ty г.
@@ -975,12 +1018,19 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Guruma
+\ps n.prop
+\ge TOP
+\gv Gourma
+\dt 05/Feb/2016
+
 \lx Hámdalay
+\va Hámudalayi
 \ty кв.
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
-\dt 05/Dec/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Haribomo
@@ -1009,6 +1059,13 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Hɔnbori
+\ps n.prop
+\ge TOP
+\gv Hombori
+\smf (une ville, commune et montagnes dans le cercle de Douentza)
+\dt 05/Feb/2016
+
 \lx Hɔrɔyaso
 \di m
 \ty г.
@@ -1018,6 +1075,12 @@
 \sy Firiton
 \dt 23/May/2010
 \ps n.prop
+
+\lx Ikɛrɛni
+\ps n.prop
+\ge TOP
+\gv Ukraine
+\dt 05/Feb/2016
 
 \lx Ípɔdrɔm
 \ty кв.
@@ -1052,6 +1115,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Isilandi
+\ps n.prop
+\ge TOP
+\gv Islande
+\dt 05/Feb/2016
+
 \lx Itali
 \ps n.prop
 \ge TOP
@@ -1065,6 +1134,12 @@
 \ru Сьерра-Леоне
 \dt 23/May/2010
 \ps n.prop
+
+\lx Jaka
+\ps n.prop
+\ge TOP
+\gv Diaka
+\dt 05/Feb/2016
 
 \lx Jeliba
 \di m
@@ -1189,6 +1264,12 @@
 \ru Гамбия
 \dt 23/May/2010
 \ps n.prop
+
+\lx Kangaba
+\ps n.prop
+\ge TOP
+\gv Kangaba
+\dt 05/Feb/2016
 
 \lx Kanina
 \ps n.prop
@@ -1315,12 +1396,19 @@
 \ps n.prop
 
 \lx Keri
+\va Kɛri
 \ty г.
 \ge TOP
 \gv Caire
 \ru Каир
-\dt 23/May/2010
+\dt 04/Feb/2016
 \ps n.prop
+
+\lx Keruwanɛ
+\ps n.prop
+\ge TOP
+\gv Kerouané
+\dt 05/Feb/2016
 
 \lx Kidali
 \ps n.prop
@@ -1495,6 +1583,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Labezanga
+\ps n.prop
+\ge TOP
+\smf (port sur le fleuve Niger)
+\dt 05/Feb/2016
+
 \lx Láfìyábugu
 \ty кв.
 \ge TOP
@@ -1592,6 +1686,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Madiridi
+\ps n.prop
+\ge TOP
+\gv Madrid
+\dt 05/Feb/2016
+
 \lx Máka
 \va Mákan
 \ty г.
@@ -1680,6 +1780,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Menaka
+\ps n.prop
+\ge TOP
+\gv Ménaka
+\dt 05/Feb/2016
+
 \lx Mɛ́din
 \ty кв.
 \ge TOP
@@ -1731,6 +1837,11 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Molodo
+\ps n.prop
+\ge TOP
+\dt 05/Feb/2016
+
 \lx Móritani
 \ty гос.
 \ge TOP
@@ -1740,11 +1851,12 @@
 \ps n.prop
 
 \lx Móti
+\va Mɔ́ti
 \ty г.
 \ge TOP
 \gv Mopti
 \ru Мопти
-\dt 23/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Mozanbik
@@ -1809,6 +1921,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Nara
+\ps n.prop
+\ge TOP
+\gv Nara
+\dt 05/Feb/2016
+
 \lx Nbaban
 \ty г.
 \ge TOP
@@ -1816,6 +1934,19 @@
 \ru Мбабане
 \dt 23/May/2010
 \ps n.prop
+
+\lx Nbewani
+\ps n.prop
+\ge TOP
+\gv
+\dt 05/Feb/2016
+
+\lx Niyɔriki
+\va Niyɔrɔki
+\ps n
+\ge TOP
+\gv New-York
+\dt 05/Feb/2016
 
 \lx Nizɛri
 \ty гос.
@@ -1826,11 +1957,12 @@
 \ps n.prop
 
 \lx Nizɛriya
+\va Nizeriya
 \ty г.
 \ge TOP
 \gv Nigeria
 \ru Нигерия
-\dt 23/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Ntòmikɔrɔbugu
@@ -1850,18 +1982,6 @@
 \dt 23/May/2010
 \ps n.prop
 
-\lx Nyamɛ
-\ty г.
-\ge TOP
-\gv Niamey
-\ru Ньямей
-\dt 23/May/2010
-\ps n.prop
-
-\lx Nyamina
-\ps n.prop
-\ge TOP
-
 \lx Nzɛ́rɛkɔ̀rɛ
 \va Nsɛrɛgbɛ̀dɛ
 \ty г.
@@ -1871,6 +1991,17 @@
 \cm (в Гвинее)
 \dt 23/May/2010
 \ps n.prop
+
+\lx Ɲaamɛ
+\ps n.prop
+\ge TOP
+\gv Niamey
+\dt 05/Feb/2016
+
+\lx Ɲamina
+\ps n.prop
+\ge TOP
+\dt 05/Feb/2016
 
 \lx Ɲangayi
 \ty оз.
@@ -1891,11 +2022,12 @@
 \ps n.prop
 
 \lx Ɲárɛla
+\va Ɲáarela
 \ty кв.
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
-\dt 05/Dec/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Ɲòoro
@@ -1915,6 +2047,12 @@
 \dt 05/Dec/2010
 \ps n.prop
 
+\lx Ɲɔrɔn
+\ps n.prop
+\ge TOP
+\gv Nioro
+\dt 05/Feb/2016
+
 \lx Olandi
 \ty гос.
 \ge TOP
@@ -1933,12 +2071,13 @@
 \ps n.prop
 
 \lx Otirishi
-\di b
+\va Otirisi
+\di (b)
 \ty гос.
 \ge TOP
 \gv Autriche
 \ru Австрия
-\dt 23/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Ɔtiwɔlita
@@ -1985,6 +2124,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Peyidegali
+\ps n.prop
+\ge TOP
+\gv Pays de Galles
+\dt 05/Feb/2016
+
 \lx Pɛ̀linŋana
 \ty кв.
 \ge TOP
@@ -2003,12 +2148,19 @@
 
 \lx Pɔ́lɔn
 \va Pɔ̀lɔnɛ
+\va Pɔlɔɲi
 \ty гос.
 \ge TOP
 \gv Pologne
 \ru Польша
-\dt 23/May/2010
+\dt 05/Feb/2016
 \ps n.prop
+
+\lx Pɔritigali
+\ps n.prop
+\ge TOP
+\gv Portugal
+\dt 05/Feb/2016
 
 \lx Pretoriya
 \ty г.
@@ -2081,6 +2233,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Sahara
+\ps n.prop
+\ge TOP
+\gv Sahara
+\dt 05/Feb/2016
+
 \lx Samakɔ
 \ty дер.
 \ge TOP
@@ -2089,6 +2247,12 @@
 \cm (вблизи Бамако)
 \dt 23/May/2010
 \ps n.prop
+
+\lx Samiti
+\ps n.prop
+\ge TOP
+\smf (localité près de Gao où on extrait l'uranium)
+\dt 05/Feb/2016
 
 \lx San
 \ps n.prop
@@ -2231,6 +2395,12 @@
 \dt 05/Dec/2010
 \ps n.prop
 
+\lx Silowaki
+\ps n.prop
+\ge TOP
+\gv Slovaquie
+\dt 05/Feb/2016
+
 \lx Sinsani
 \ps n.prop
 \ge TOP
@@ -2324,6 +2494,18 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Suwɛdi
+\ps n.prop
+\ge TOP
+\gv Suède
+\dt 05/Feb/2016
+
+\lx Suwisi
+\ps n.prop
+\ge TOP
+\gv Suisse
+\dt 05/Feb/2016
+
 \lx Tanzani
 \ty гос.
 \ge TOP
@@ -2340,6 +2522,13 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Tekururu
+\ps n.prop
+\ge TOP
+\gv Tekrour
+\smf (état ancien dans la vallée du Sénégal)
+\dt 05/Feb/2016
+
 \lx Tɛmanbaa Jinɛ
 \ty гос.
 \ge TOP
@@ -2347,6 +2536,19 @@
 \ru Экваториальная Гвинея
 \dt 23/May/2010
 \ps n.prop
+
+\lx Tilemusi
+\ps n.prop
+\ge TOP
+\gv Tilemsi
+\smf (commune rurale pas loin de Gao)
+\dt 05/Feb/2016
+
+\lx Tiripoli
+\ps n.prop
+\ge TOP
+\gv Tripoli
+\dt 05/Feb/2016
 
 \lx Togo
 \ty гос.
@@ -2360,6 +2562,20 @@
 \ps n.prop
 \ge TOP
 \dt 06/Nov/2014
+
+\lx Tomiɲan
+\ps n.prop
+\ge TOP
+\gv
+\dt 05/Feb/2016
+
+\lx Tɔndibi
+\ps n.prop
+\ge TOP
+\gv Tondibi
+\smf (ville près de Gao, place de la bataille décisive entre les
+invahisseurs marocains et les Songhaï en 1591)
+\dt 05/Feb/2016
 
 \lx Tɔ́rɔkɔrɔbugu
 \ty кв.
@@ -2391,13 +2607,14 @@
 \gv Tombouctou
 \ps n.prop
 
-\lx Tunusi
-\va Tunisi
+\lx Tunisi
+\va Tunusi
+\va Tunizi
 \ty г.
 \ge TOP
 \gv Tunisie
 \ru Тунис
-\dt 23/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Tunusiya
@@ -2408,6 +2625,12 @@
 \ru Тунис
 \dt 23/May/2010
 \ps n.prop
+
+\lx Turaba
+\ps n.prop
+\ge TOP
+\gv Touraba
+\dt 05/Feb/2016
 
 \lx Túruke
 \ty гос.
@@ -2425,6 +2648,25 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Urumani
+\ps n.prop
+\ge TOP
+\gv Roumanie
+\dt 05/Feb/2016
+
+\lx Wabariya
+\ps n.prop
+\ge TOP
+\smf (port sur le fleuve Niger)
+\dt 05/Feb/2016
+
+\lx Wagadu
+\ps n.prop
+\ge Ouagadou
+\gv Ghana
+\smf (le premier des grands empires de l'Afrique Occidentale)
+\dt 05/Feb/2016
+
 \lx Wagadugu
 \va Wàadúu
 \ty г.
@@ -2433,6 +2675,12 @@
 \ru Уагадугу
 \dt 23/May/2010
 \ps n.prop
+
+\lx Walata
+\ps n.prop
+\ge TOP
+\gv Oualata
+\dt 05/Feb/2016
 
 \lx Welesebugu
 \ps n.prop
@@ -2487,6 +2735,12 @@
 \ru Югославия
 \dt 23/May/2010
 \ps n.prop
+
+\lx Yuwaru
+\ps n.prop
+\ge TOP
+\gv
+\dt 05/Feb/2016
 
 \lx Zanbi
 \ty гос.

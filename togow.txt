@@ -11,12 +11,13 @@
 
 \lx Abdul
 \va Abdulaye
+\va Abdulayi
 \di b
 \va Abdlaye
 \va Ábudu
 \va Abilayi
 \ge NOM.M
-\dt 01/Apr/2014
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Abduraman
@@ -98,9 +99,10 @@
 \lx Àli
 \va Aliu
 \va Aliyu
+\va Àlu
 \di m
 \ge NOM.M
-\dt 03/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Álifàa
@@ -607,11 +609,12 @@
 \ps n.prop
 
 \lx Bùrama
+\va Bùrema
 \va Buram
 \va Bram
 \di b
 \ge NOM.M
-\dt 03/May/2010
+\dt 05/Feb/2016
 \ps n.prop
 
 \lx Burayima
@@ -1193,6 +1196,12 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Hasana
+\ps n.prop
+\ge NOM.M
+\gv
+\dt 05/Feb/2016
+
 \lx Háwa
 \va Máwa
 \va Áwa
@@ -1460,9 +1469,10 @@
 \ps n.prop
 
 \lx Kanku
+\va Kankun
 \di m
 \ge NOM.F
-\dt 03/May/2010
+\dt 04/Feb/2016
 \ps n.prop
 
 \lx Kariatu
@@ -1917,6 +1927,12 @@
 \ge NOM
 \dt 03/May/2010
 \ps n.prop
+
+\lx Mohamɛdi
+\ps n.prop
+\ge NOM.M
+\gv Mouhammad
+\dt 05/Feb/2016
 
 \lx Mòri
 \di b, m
