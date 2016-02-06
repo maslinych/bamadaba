@@ -20877,6 +20877,14 @@ rétribution mais à titre de réciprocité)
 \sm révolte / faute
 \dt 11/Nov/2007
 
+\lx dànsigi
+\mm dàn:n:limite
+\mm sìgi:v:asseoir
+\ps n
+\ge convention
+\gv accord
+\dt 06/Feb/2016
+
 \lx dànsìgi
 \mm dàn:n:limite
 \mm sìgi:v:asseoir
@@ -20885,9 +20893,16 @@ rétribution mais à titre de réciprocité)
 \lt limite-poser
 \sn 1
 \ge délimiter
+\gv élaborer
 \sn 2
 \gv déterminer
-\dt 11/Nov/2007
+\gv définir
+\sn 3
+\gv mettre un terme à
+\sn 4
+\gv respecter
+\gv avoir des égards 
+\dt 06/Feb/2016
 
 \lx dántan
 \mm dá:n:bouche
@@ -55049,7 +55064,7 @@ composante des adjectifs séparables)
 \gv aimer
 \gv fréquenter
 \sm ... fɛ̀
-\xv ń'í kɛ́ra  mɔ̀gɔ fɛ̀...
+\xv n'í kɛ́ra  mɔ̀gɔ fɛ̀...
 \xe quand on aime les gens ...
 \xv à kɛ́ra  kámalennin fɛ̀, à má  à fúrucɛ màkɔnɔ
 \xe elle a fréquenté les jeunes gens, elle n'a pas attendu son mari
@@ -55061,8 +55076,7 @@ composante des adjectifs séparables)
 \xe ce sera vrai à l'éventuel : n'o kɛra  tìɲɛ ye
 \xv ò mána kɛ́  tìɲɛ yé...
 \xe si c'est vrai ...
-\xe De même l'exemple du ň 5 \xv ń'í kɛ́ra  mɔ̀gɔ fɛ̀ á pour équivalent áu présent : í bɛ́  mɔ̀gɔ fɛ̀ tu aime les gens
-\dt 26/Sep/2006
+\dt 06/Feb/2016
 
 \lx kɛ́bali
 \mm kɛ́:v:faire
@@ -72215,6 +72229,12 @@ Sahel)
 \lt arabe-endroit
 \ge les.pays.arabes
 \dt 11/Nov/2007
+
+\lx laramɛ
+\ps n
+\ge armée
+\gv
+\dt 06/Feb/2016
 
 \lx láriwe
 \va lárawi

@@ -692,6 +692,12 @@
 \dt 03/May/2010
 \ps n.prop
 
+\lx Cɛ̀man
+\ps n.prop
+\ge NOM.M
+\gv
+\dt 06/Feb/2016
+
 \lx Cɛ̀mɔgɔ
 \va Cɛ̀mɔkɔ
 \di b
@@ -1967,9 +1973,10 @@
 
 \lx Muktari
 \va Mukutar
+\va Mukutari
 \di
 \ge NOM.M
-\dt 03/May/2010
+\dt 06/Feb/2016
 \ps n.prop
 
 \lx Murlaye
@@ -2676,9 +2683,10 @@
 \lx Sékù
 \va Sek
 \va Sheku
+\va Sékì
 \di b
 \ge NOM.M
-\dt 03/May/2010
+\dt 06/Feb/2016
 \ps n.prop
 
 \lx Séni
