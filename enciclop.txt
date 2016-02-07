@@ -17,9 +17,9 @@
 
 \lx Aradisɔni
 \ps n
-\ge Raddison
+\ge Radisson
 \smf (réseau des hôtels)
-\dt 05/Feb/2016
+\dt 07/Feb/2016
 
 \lx Àrajomali
 \ps n.prop
@@ -353,6 +353,13 @@
 \ge UDPM
 \gv Union démocratique du peuple malien
 \dt 14/Sep/2015
+
+\lx UEMOA
+\ps n
+\ge ABR
+\gv UEMOA
+\gv Union Economique et Monétaire Ouest-Africaine
+\dt 07/Feb/2016
 
 \lx wurubulu
 \ps v

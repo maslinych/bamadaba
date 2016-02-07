@@ -107,11 +107,16 @@
 \dt 08/Sep/2006
 
 \lx adw
-\ps
+\mm àní:conj:ainsi.que
+\mm dɔ́wɛrɛ:prn:autre
+\mm dɔ́:dtm:certain
+\mm wɛ́rɛ:adj:autre
+\mm w:mrph:PL
+\ps adv
 \ge etc.
 \smf (abréviation de àní dɔ́wɛrɛw)
 \gv
-\dt 04/Feb/2016
+\dt 07/Feb/2016
 
 \lx àháàn
 \va ànháàn
@@ -5422,10 +5427,11 @@
 \dt 11/Nov/2007
 
 \lx baton
+\va baton
 \ps n
 \ge bateau
 \gv
-\dt 05/Feb/2016
+\dt 07/Feb/2016
 
 \lx bátu
 \mm bá:n:fleuve
@@ -7323,12 +7329,12 @@ bâton de berger
 \mm bìla:v:mettre
 \mm ń:pers:je
 \mm sèn:n:jambe
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \va blà.n.sen.fɛ
 \mm blà:v:mettre
 \mm ń:pers:je
 \mm sèn:n:jambe
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ph [bla]
 \ps n
 \ge vagabond
@@ -7336,21 +7342,21 @@ bâton de berger
 \lt (aller.mon.pied.à)
 \xv fálatɔya y'á kɛ́  bìlansenfɛ yé
 \xe la perte de ses parents en a fait un vagabond
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx bìlansenfɛya
 \mm bìla.n.sen.fɛ:n:vagabond
 \mm bìla:v:mettre
 \mm ń:pers:je
 \mm sèn:n:jambe
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm ya:mrph:ABSTR
 \va blà.n.sen.fɛ.ya
 \mm blà.n.sen.fɛ:n:vagabond
 \mm blà:v:mettre
 \mm ń:pers:je
 \mm sèn:n:jambe
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm ya:mrph:ABSTR
 \ph [bla]
 \ps n
@@ -7359,7 +7365,7 @@ bâton de berger
 \gv flânerie
 \lt (vagabond.état)
 \sy bàjanbila
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx bìlansimi
 \va blànsimi
@@ -9583,13 +9589,13 @@ bâton de berger
 \mm bólo.kɔ:n:revers.de.la.main
 \mm bólo:n:bras
 \mm kɔ́:n:dos
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm fɛ́n:n:chose
 \ps n
 \ge qch.négligeable
 \ee personne ou objet que l'on néglige
 \lt (négligence.de.chose)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx bólokɔni
 \mm bólo:n:bras
@@ -11573,14 +11579,14 @@ bâton de berger
 
 \lx bɔ́lɔnfɛkuma
 \mm bɔ́lɔn:n:rue
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm kúma:n:parole
 \ps n
 \lt rue-de-parole
 \ge rumeur
 \xv bɔ́lɔnfɛkuma yé 'ń y'á mɛ́n' yé, fɔ́baga jɔ́njɔn kélen sí t'á lá
 \xe (LD p.66)
-\dt 11/Nov/2007
+\dt 07/Feb/2016
 
 \lx bɔmu
 \ps n
@@ -11681,11 +11687,11 @@ toujours (pro)
 \lx bɔ́nfɛ
 \mm bɔ́:v:sortir
 \mm ń:pers:je
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps n
 \ge analogue
 \gv qqch. rassemblant
-\dt 21/Dec/2014
+\dt 07/Feb/2016
 
 \lx bɔ́nfɔla
 \mm bɔ́n:n:tambour
@@ -17564,29 +17570,29 @@ sur soi)
 
 \lx dáfɛ̀
 \mm dá:n:bouche
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps pp
 \ge auprès
 \lt (bord.vers)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx dáfɛdugu
 \mm dá:n:bouche
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm dùgu:n:terre
 \ps n
 \ge village.voisin
 \lt (abords.village)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx dáfɛla
 \mm dá:n:bouche
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge abords
 \lt (abords.lieu)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx dáfɛn
 \mm dá:n:création
@@ -21302,12 +21308,12 @@ rétribution mais à titre de réciprocité)
 \lx dásanfɛla
 \mm dá:n:bouche
 \mm sán:n:haut
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm lá:pp:dans 
 \ps n
 \ge mâchoire.supérieure
 \lt (bouche.haut)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx dásaran
 \mm dá:n:bouche
@@ -29913,21 +29919,21 @@ quant à sa mère, elle prend de l'âge
 
 \lx fànfɛ̀
 \mm fàn:n:côté
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps pp
 \ge vers
 \gv du côté de
-\dt 15/Jun/2015
+\dt 07/Feb/2016
 
 \lx fànfɛla
 \mm fàn:n:côté
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge alentours
 \gv région
 \lt (du côté.lieu)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx fánfyɛ
 \mm fán:n:forge
@@ -31702,7 +31708,7 @@ compagnie ...
 \mr fɛ̀n*--> fàn = côté, direction, fɛ̀n*--> fɛ̀
 \ps pp
 \sn 1
-\ge vers
+\gv vers
 \gv du.côté.de
 \sm sens local
 \xv kɔ́rɔn fɛ̀
@@ -31734,7 +31740,7 @@ compagnie ...
 \xv à yɛ̀lɛnna  jùru fɛ̀
 \xe il est monté par la corde
 \sn 6
-\gv par
+\ge par
 \sm marque d'agent
 \xv à bùgɔra  à fà fɛ̀
 \xe il a été battu par son père
@@ -31755,7 +31761,7 @@ compagnie ...
 \xe dans l'après-midi
 \xv sàgoma fɛ̀
 \xe le matin
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx fɛ̀
 \ps n
@@ -31953,15 +31959,15 @@ compagnie ...
 \dt 21/Dec/2014
 
 \lx fɛ̀ko
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm kó:n:affaire
 \ps n
 \ge avis
 \lt (chez.affaire)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx fɛ̀la
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \sn 1
@@ -31973,7 +31979,7 @@ compagnie ...
 \gv préoccupation
 \xv à y'á fɛ̀la fɔ́ ń yé
 \xe il m'a dit ce qui le préoccupait
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx fɛ́lɛ
 \ps n
@@ -32007,7 +32013,7 @@ compagnie ...
 \dt 26/Sep/2006
 
 \lx fɛ̀mɔgɔ
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm mɔ̀gɔ:n:homme
 \ps n
 \sn 1
@@ -32015,7 +32021,7 @@ compagnie ...
 \lt (côté.personne)
 \sn 2
 \gv partisan
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx fɛ́n
 \ps n
@@ -32482,34 +32488,34 @@ compagnie ...
 \dt 16/Aug/2006
 
 \lx fɛ̀sigi
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm sìgi:n:position.assise
 \ps n
 \lt avec-habiter
 \ge cohabitation
 \xv Kà sìgi í kélen ná dógodogo lá,  ò ká fìsa ní mùso kɛ̀lɛkɛla fɛ̀sigi yé
 \xe mieux vaut vivre seul dans un coin que de cohabiter avec une femme querelleuse (Pr 21, 9, 19)
-\dt 11/Nov/2007
+\dt 07/Feb/2016
 
 \lx fɛ̀ta
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm tá:n:propriété
 \ps n
 \ge avis
 \gv pensée
 \sy fɛ̀la
 \lt (chez.part)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx fɛ̀taaden
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm táa:v:aller 
 \mm dén:n:enfant
 \ps n
 \ge servante.de.la.nouvelle.mariée
 \ee (souvent une jeune soeur)
 \lt (avec.partir.fillette)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx fɛ̀yin
 \va fàyin
@@ -54555,6 +54561,12 @@ composante des adjectifs séparables)
 \ge tissu.de.pagne.blanc
 \dt 16/Aug/2006
 
+\lx kaziye
+\ps n
+\ge casier.hidraulique
+\gv
+\dt 07/Feb/2016
+
 \lx kèesekaasa
 \ps v
 \vl vi
@@ -56152,33 +56164,33 @@ composante des adjectifs séparables)
 
 \lx kɛ̀rɛfɛ̀
 \mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps pp
 \ge par.côté
-\dt 23/Nov/2012
+\dt 07/Feb/2016
 
 \lx kɛ̀rɛfɛkuma
 \mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm kúma:n:parole
 \ps n
 \lt à côté-parole
 \ge chuchotement
-\dt 11/Nov/2007
+\dt 07/Feb/2016
 
 \lx kɛ̀rɛfɛla
 \mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge alentours
 \gv pourtour
 \lt (côté.à.endroit)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx kɛ̀rɛfɛmɔgɔ
 \mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm mɔ̀gɔ:n:homme
 \ps n
 \sn 1
@@ -56186,22 +56198,22 @@ composante des adjectifs séparables)
 \lt (côté.à.personne)
 \sn 2
 \gv personne.qui.reste.à.l'écart
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx kɛ̀rɛfɛmɔgɔya
 \mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm mɔ̀gɔ:n:homme
 \mm ya:mrph:ABSTR
 \ps n
 \ge exclusion
 \gv mise.à.l'écart
 \lt (exclus.suf abs)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx kɛ̀rɛfɛsigi
 \mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm sìgi:v:asseoir
 \ps n
 \sn 1
@@ -56209,7 +56221,7 @@ composante des adjectifs séparables)
 \lt (côté.à.asseoir)
 \sn 2
 \gv conseiller
-\dt 15/Aug/2006
+\dt 07/Feb/2016
 
 \lx kɛ̀rɛkelenjɛngɛn
 \mm kɛ̀rɛ:n:côté
@@ -56680,7 +56692,7 @@ composante des adjectifs séparables)
 
 \lx kínifɛla
 \mm kíni:n:droite
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge la.droite
@@ -56688,7 +56700,7 @@ composante des adjectifs séparables)
 \lt (droite.côté.lieu)
 \xv yɔ́rɔ cáman bón dá dè bɛ́ yɛ̀lɛ  í kínifɛla fɛ̀
 \xe en beaucoup d'endroits, la porte de la case s'ouvre du côté droit
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx kínikini
 \ps n
@@ -60026,7 +60038,7 @@ composante des adjectifs séparables)
 
 \lx kɔ́fɛ̀
 \mm kɔ́:n:dos
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps pp
 \ge derrière
 \gv en.retard
@@ -60044,11 +60056,11 @@ composante des adjectifs séparables)
 \xe il est derrière
 \xv ù bɛ́ kɔ́  kà nà
 \xe ils sont par derrière, ils arrivent
-\dt 10/Apr/2014
+\dt 07/Feb/2016
 
 \lx kɔ́fɛla
 \mm kɔ́:n:dos
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \sn 1
@@ -60059,20 +60071,20 @@ composante des adjectifs séparables)
 \lt (derrière.par.ce qui est)
 \xv dén dɔ́ bɛ́ nà  ù kɔ́fɛla kàn
 \xe certains bébés naissent par le siège...
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx kɔ́fɛsen
 \mm kɔ́:n:dos
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm sèn:n:jambe
 \ps n
 \ge patte.de.derrière
 \lt (arrière.d'.patte)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx kɔ́fɛtaa
 \mm kɔ́:n:dos
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm táa:n:départ
 \ps n
 \ge excrément
@@ -60081,18 +60093,18 @@ composante des adjectifs séparables)
 \sy bò
 \sy bánakɔtaa
 \sy ɲàmanataa
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx kɔ́fɛtalan
 \mm kɔ́:n:dos
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm tà:v:prendre
 \mm lan:mrph:INSTR
 \ps n
 \ge porte-bagages
 \ee (de vélo, de mobylette ...)
 \lt (derrière.par.prendre.ce qui sert à)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx kɔ́filɛ
 \mm kɔ́:n:dos
@@ -63703,13 +63715,13 @@ ou une proposition)
 
 \lx kɔ́rɔnfɛla
 \mm kɔ́rɔn:n:orient
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge l'est
 \gv région.orientale
 \lt (est.vers.endroit)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx kɔ̀rɔ́ngɛ̀yin
 \mm kɔ̀:n:marigot
@@ -64009,12 +64021,12 @@ ou une proposition)
 
 \lx kɔ́safɛden
 \mm kɔ́sa:adj:récent
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm dén:n:enfant
 \ps n
 \ge dernier-né
 \lt (récemment.enfant)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx kɔ̀sàfunɛ
 \mm kɔ̀:n:marigot
@@ -64962,6 +64974,28 @@ ou une proposition)
 \ps n
 \ge tubercule
 \dt 21/Dec/2014
+
+\lx kúmafɛnɔna
+\mm kúma:n:parole
+\mm fɛ̀:pp:par
+\mm nɔ̀na:pp:à.la.place.de
+\mm nɔ̀:n:trace
+\mm ná:pp:dans
+\ps n
+\ge pronom.auditeur
+\gv pronom de la duexième personne
+\dt 07/Feb/2016
+
+\lx kúmafɔnɔna
+\mm kúma:n:parole
+\mm fɔ́:v:dire
+\mm nɔ̀na:pp:à.la.place.de
+\mm nɔ̀:n:trace
+\mm ná:pp:dans
+\ps n
+\ge pronom.locuteur
+\gv pronom de la première personne
+\dt 07/Feb/2016
 
 \lx kúmajeli
 \mm kúma:n:parole
@@ -66002,22 +66036,22 @@ ou une proposition)
 
 \lx kùnfɛjati
 \mm kùn:n:tête
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm jàti:n:compte
 \ps n
 \ge calcul.mental
 \lt (tête.de.compter)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx kùnfɛko
 \mm kùn:n:tête
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm kó:n:affaire
 \ps n
 \ge initiative
 \ee (impulsive, faite sans trop réfléchir)
 \lt (de soi.même.affaire)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx kùnfɛn
 \mm kùn:n:tête
@@ -66030,21 +66064,21 @@ ou une proposition)
 
 \lx kùnfɛtaa
 \mm kùn:n:tête
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm táa:n:départ
 \va kùn.fɛ.taga
 \mm kùn:n:tête
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm tága:n:départ
 \ps n
 \ge errance.sans.but
 \gv destination.inconnue
 \lt (à l'aventure.aller)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx kùnfɛtɔ
 \mm kùn:n:tête
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm tɔ:mrph:ST
 \ps n
 \ge aventurier
@@ -66052,7 +66086,7 @@ ou une proposition)
 \lt (au hasard.sujet)
 \xv díɲɛ kó yé  kùnfɛtɔ kó yé : à bé bɛ̀n wó, à tɛ́ bɛ̀n wó, í tɛ́  ò dɔ́n
 \xe la vie se déroule à l'aveuglette, ça ira, ça n'ira pas, tu n'en sais rien
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx kùnfilanintu
 \mm kùn:n:tête
@@ -74192,12 +74226,12 @@ n'est pas près de disparaître
 \mm màa:n:homme
 \mm bɛ́:pm:IPFV
 \mm ń:pers:je
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps n
 \ge haricots
 \ee variété de haricots très productive
 \lt (du monde-est-chez moi)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx máabɔ
 \ps n
@@ -74218,11 +74252,11 @@ n'est pas près de disparaître
 
 \lx màafɛmaa
 \mm màa:n:homme
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm màa:n:homme
 \va mɔ̀gɔ.fɛ.mɔgɔ
 \mm mɔ̀gɔ:n:homme
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm mɔ̀gɔ:n:homme
 \ps n
 \lt homme-avec-homme
@@ -74231,7 +74265,7 @@ n'est pas près de disparaître
 \xv màatigiba lában kɛ́ra màafɛmaa yé
 \xe le chef d'une grande famille a fini par vivre dans la famille d'autrui (chant)
 \rem du, f
-\dt 11/Nov/2007
+\dt 07/Feb/2016
 
 \lx màájá
 \mm màa:n:homme
@@ -87621,16 +87655,16 @@ nord-est
 
 \lx nɔ̀fɛ
 \mm nɔ̀:n:trace
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps n
 \ge suivant
 \xv ò nɔ̀fɛsan
 \xe l'année suivante
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx nɔ̀fɛ̀
 \mm nɔ̀:n:trace
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps pp
 \sn 1
 \ge derrière
@@ -87645,34 +87679,34 @@ nord-est
 \sn 3
 \gv à.cause
 \gv pour
-\dt 20/Jul/2014
+\dt 07/Feb/2016
 
 \lx nɔ̀fɛgɛn
 \mm nɔ̀.fɛ:mrph:suivant
 \mm nɔ̀:n:trace
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm gɛ́n:v:chasser
 \ps v
 \vl vt
 \ge poursuivre
 \gv pourchasser
 \lt (derrière.poursuivre)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx nɔ̀fɛta
 \mm nɔ̀.fɛ:mrph:suivant
 \mm nɔ̀:n:trace
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm ta:mrph:PTCP.POT
 \ps n
 \ge le.suivant
 \lt (après.celui)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx nɔ̀fɛtaama
 \mm nɔ̀.fɛ:mrph:suivant
 \mm nɔ̀:n:trace
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm táama:v:marcher
 \ps v
 \vl vt
@@ -87682,7 +87716,7 @@ nord-est
 \lt (à la suite.marcher)
 \sn 2
 \gv aller.derrière
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx nɔ̀gɛn
 \mm nɔ̀:n:trace
@@ -88569,6 +88603,7 @@ nord-est
 \dt 26/Sep/2006
 
 \lx nɔ́rɔkɔ
+\va nɔ́rɔgɔ
 \va nɔ́rɔngo
 \ps v
 \vl vt
@@ -88579,7 +88614,7 @@ nord-est
 \xe tu m'as sali de sauce
 \xv kɔ̀lɔnda nɔ́rɔkɔlen  mɔ̀gɔ fɛ̀
 \xe les gens ont sali les abords du puits
-\dt 18/Apr/2014
+\dt 06/Feb/2016
 
 \lx nɔ́rɔlan
 \mm nɔ́rɔ:v:coller
@@ -91578,18 +91613,18 @@ nord-est
 
 \lx númafɛla
 \mm núma:adj/n:gauche
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge la.gauche
 \lt (gauche.vers.lieu)
 \sy númayanfan
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx númafɛlaka
 \mm núma.fɛ.la:n:la.gauche
 \mm núma:adj/n:gauche
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \mm ka:mrph:GENT
 \ps n
@@ -91597,7 +91632,7 @@ nord-est
 \sm mot qui désigne les femmes
 \lt (la gauche.habitant)
 \ee à la traditionnelle, elles sont enterrées sur le coude gauche !)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx númakuru
 \mm núma:adj/n:gauche
@@ -93363,27 +93398,27 @@ nord-est
 
 \lx ɲɛ́fɛ̀
 \mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps pp
 \ge devant
 \gv en.progrès
 \xv à táara  ɲɛ́ fɛ̀
 \xe il est parti devant, il a progressé
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx ɲɛ́fɛko
 \mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm kó:n:affaire
 \ps n
 \ge avenir
 \gv événement.à.venir
 \lt (devant.vers.action)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx ɲɛ́fɛla
 \mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \sn 1
@@ -93391,12 +93426,12 @@ nord-est
 \lt (devant.par.ce qui)
 \sn 2
 \gv parties.sexuelles
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx ɲɛ́fɛlabɔ
 \mm ɲɛ́.fɛ.la:n:devanture
 \mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \mm bɔ́:n:sortie
 \ps n
@@ -93406,15 +93441,16 @@ nord-est
 \sy mùsokaya
 \sy káliya bɔ́ta
 \rem jakité
-\dt 11/Nov/2007
+\dt 07/Feb/2016
 
 \lx ɲɛ́fɛtaa
 \mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm táa:n:départ
 \ps n
 \ge progrès
 \lt (devant.par.aller)
+\dt 07/Feb/2016
 
 \lx ɲɛ́fin
 \mm ɲɛ́:n:oeil
@@ -101119,15 +101155,15 @@ nord-est
 
 \lx sánfɛ̀
 \mm sán:n:ciel
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps pp
 \ge par-dessus
 \gv au-dessus.de
-\dt 24/Jun/2013
+\dt 07/Feb/2016
 
 \lx sánfɛfɛn
 \mm sán:n:ciel
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm fɛ́n:n:chose
 \ps n
 \sn 1
@@ -101136,16 +101172,16 @@ nord-est
 \gv objet qui se trouve en hauteur
 \sn 3
 \gv maladie de convulsions
-\dt 07/Dec/2014
+\dt 07/Feb/2016
 
 \lx sánfɛla
 \mm sán:n:haut
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge le.haut
 \lt (haut.vers.lieu)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx sànfɛn
 \mm sàn:v:acheter
@@ -103580,14 +103616,14 @@ composition de l'encens
 
 \lx sènfɛbila
 \mm sèn:n:jambe
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm bìla:v:mettre
 \ps n
 \ge aventurier
 \gv vagabond
 \gv fou
 \lt (à l'aventure.laisser aller)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx sènfilamafɛn
 \mm sèn:n:jambe
@@ -106078,34 +106114,34 @@ composition de l'encens
 \lx sìginfɛ
 \mm sìgi:v:asseoir
 \mm ń:pers:je
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps n
 \ge voisinage
 \gv vie.ensemble
-\dt 21/Jun/2014
+\dt 07/Feb/2016
 
 \lx sìgi-ń-fɛ̀
 \mm sìgi:v:asseoir
 \mm ń:pers:je
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \ps n
 \ge étranger
 \sm (établi depuis longtemps dans le village)
 \gv émigré
 \xv ní  mín tɛ́  Tàrawele yé, ò yé sìgi-ń-fɛ̀ yé  Fàlajɛ
 \xe celui qui n'est pas Tarawele est un étranger à Falajɛ
-\dt 21/Jun/2014
+\dt 07/Feb/2016
 
 \lx sìginfɛya
 \mm sìgi.n.fɛ:n:étranger
 \mm sìgi:v:asseoir
 \mm ń:pers:je
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm ya:mrph:ABSTR
 \ps n
 \lt étranger-suf abs
 \ge condition.d'étranger
-\dt 11/Nov/2007
+\dt 07/Feb/2016
 
 \lx sìgini
 \ps n
@@ -106677,10 +106713,10 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \mm ma:mrph:COM
 \mm tɔ́n:n:société
 \ps n
-\ge partie.d'opposition
+\ge parti.d'opposition
 \xv fànga sìnamatɔn
-\xe partie d'opposition
-\dt 05/Feb/2016
+\xe parti d'opposition
+\dt 07/Feb/2016
 
 \lx sìnamuso
 \mm sìna:n:coépouse
@@ -110356,13 +110392,13 @@ trompe)
 
 \lx súfɛla
 \mm sú:n:nuit
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge nuit
 \ee cours de la nuit, pendant la nuit
 \lt (nuit.vers.moment)
-\dt 26/Sep/2006
+\dt 07/Feb/2016
 
 \lx súfi
 \ps n
@@ -116224,12 +116260,12 @@ fiançailles
 
 \lx tìlefɛla
 \mm tìle:n:soleil
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge journée
 \ee cours de la journée, pendant la journée
-\dt 22/Dec/2014
+\dt 07/Feb/2016
 
 \lx tìlegan
 \mm tìle:n:soleil
@@ -116249,12 +116285,12 @@ fiançailles
 \mm tìle.gan:n:grand.soleil
 \mm tìle:n:soleil
 \mm gàn:vq:chaud
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm sùnɔgɔ:n:sommeil
 \ps n
 \lt à midi-sommeil
 \ge sieste
-\dt 11/Nov/2007
+\dt 07/Feb/2016
 
 \lx tíleku
 \va tléku
@@ -117957,11 +117993,11 @@ fiançailles
 
 \lx tɔ̀gɔfɛbila
 \mm tɔ̀gɔ:n:hanche
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm bìla:v:mettre
 \ps n
 \ge talisman.de.poche
-\dt 28/Sep/2013
+\dt 07/Feb/2016
 
 \lx tɔ̀gɔkelen
 \mm tɔ̀gɔ:n:hanche
@@ -119889,11 +119925,11 @@ fiançailles
 
 \lx túngafɛtaa
 \mm túnga:n:pays.étranger
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm táa:n:départ
 \va túnga.fɛ.taga
 \mm túnga:n:pays.étranger
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm tága:n:départ
 \ps n
 \lt étranger-à-aller
@@ -119901,7 +119937,7 @@ fiançailles
 \gv expatriement
 \xv ò dè kósɔn dénmisɛn bɛ́ k'ù ní fìli túngafɛtaa nɔ̀ fɛ̀
 \xe c'est pourquoi les jeunes gens veulent à tout prix s'expatrier (Kb 10/06 p.3)
-\dt 07/Nov/2013
+\dt 07/Feb/2016
 
 \lx túngalataala
 \mm túnga:n:pays.étranger
@@ -119910,7 +119946,7 @@ fiançailles
 \mm la:mrph:AG.PRM
 \va túnga.fɛ.taa.la
 \mm túnga:n:pays.étranger
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm táa:v:aller
 \mm la:mrph:AG.PRM
 \ps n
@@ -119918,7 +119954,7 @@ fiançailles
 \sy túngalamɔgɔ
 \xv kúrun dáfirila ní túngalataala cáman yé
 \xe la barque s'est renversée avec beaucoup d'émigrés (kb 11/05 p.3)
-\dt 08/Jul/2013
+\dt 07/Feb/2016
 
 \lx túngarankɛ
 \mm túnga:n:pays.étranger
@@ -123179,12 +123215,12 @@ aîné ... (Kb 11/06 p.4)
 
 \lx wúlafɛla
 \mm wúla:n:soir
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \lt après-midi-environs
 \ge après-midi
-\dt 11/Nov/2007
+\dt 07/Feb/2016
 
 \lx wúlakɔnɔdugu
 \mm wúla:n:brousse
@@ -124116,14 +124152,14 @@ aîné ... (Kb 11/06 p.4)
 \xe de ce côté-ci
 \dt 20/May/2013
 
-\lx yànfɛ̀lá
+\lx yànfɛla
 \mm yàn:n:ici
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge cette.zone-ci
 \lt (ici.vers.endroit)
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx yànka
 \mm yàn:n:ici
@@ -124647,12 +124683,12 @@ soient définitivement données à leur mari)
 
 \lx yènfɛla
 \mm yèn:n:là-bas
-\mm fɛ̀:pp:vers
+\mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ge cette.zone-là
 \lt (là-bas.vers.endroit)
-\dt 20/May/2013
+\dt 07/Feb/2016
 
 \lx yènka
 \mm yèn:n:là-bas
