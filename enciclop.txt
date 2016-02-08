@@ -56,6 +56,13 @@
 \gv Barak Obama
 \dt 06/Feb/2016
 
+\lx Bewoyade
+\ps n
+\ge ABR
+\gv BOAD
+\gv Banque.Ouest-Africaine.de.Développement
+\dt 08/Feb/2016
+
 \lx Bɛnizamini Nataɲawu
 \ps n.prop
 \ge NOM.ETRG
@@ -104,6 +111,13 @@
 \gv Donald Trump
 \dt 06/Feb/2016
 
+\lx Edeyɛmu
+\ps n
+\ge ABR
+\gv EDM
+\gv Électricité.du.Mali
+\dt 08/Feb/2016
+
 \lx fakoyi
 \ps n
 \ge plat.songhaï
@@ -149,6 +163,13 @@
 \gv UEMOA
 \gv Union Economique et Monétaire Ouest-Africaine
 \dt 05/Feb/2016
+
+\lx Iyɛnipeyɛsi
+\ps n
+\ge ABR
+\gv INPS
+\gv Institut.National.de.Prévoyance.Sociale
+\dt 08/Feb/2016
 
 \lx jermani
 \va jɛrimani

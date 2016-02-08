@@ -1232,9 +1232,10 @@
 \ps n.prop
 
 \lx Ibrahima
+\va Ibarahimu
 \di
 \ge NOM.M
-\dt 03/May/2010
+\dt 08/Feb/2016
 \ps n.prop
 
 \lx Ídrìsa
@@ -2431,6 +2432,12 @@
 \ps n.prop
 \ge NOM.M
 \dt 07/Nov/2014
+
+\lx Ɲanankɔrɔ
+\ps n.prop
+\ge NOM.M
+\gv
+\dt 08/Feb/2016
 
 \lx Ɲansɔn
 \di

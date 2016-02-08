@@ -141,6 +141,12 @@
 \dt 05/Dec/2010
 \ps n.prop
 
+\lx Angulɛmu
+\ps n.prop
+\ge TOP
+\gv Angoulem
+\dt 08/Feb/2016
+
 \lx Ansongo
 \va Ansɔngɔ
 \va Ansɔngo
@@ -455,6 +461,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Barawuli
+\ps n.prop
+\ge TOP
+\gv Barouéli
+\dt 08/Feb/2016
+
 \lx Barazawil
 \va Barazaduu
 \ty г.
@@ -702,11 +714,12 @@
 
 \lx Darisalamu
 \va Daaru Salaami
+\va Darasalamu
 \ty г.
 \ge TOP
 \gv Dar es Salam
 \ru Дар-эс-Салам
-\dt 23/May/2010
+\dt 08/Feb/2016
 \ps n.prop
 
 \lx Dársàlám
@@ -1030,7 +1043,7 @@
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
-\dt 05/Feb/2016
+\dt 08/Feb/2016
 \ps n.prop
 
 \lx Haribomo
@@ -1464,6 +1477,13 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Kolongo
+\ps n.prop
+\ge TOP
+\gv Kolongo
+\smf (commune dans le cercle de Macina, région de Ségou)
+\dt 08/Feb/2016
+
 \lx Kòngo
 \ty гос.
 \ge TOP
@@ -1653,6 +1673,12 @@
 \dt 23/May/2010
 \ps n.prop
 
+\lx Lukusanburugu
+\ps n.prop
+\ge TOP
+\gv
+\dt 08/Feb/2016
+
 \lx Lusaka
 \ty г.
 \ge TOP
@@ -1729,6 +1755,13 @@
 \ps n.prop
 \ge TOP
 
+\lx Marakala
+\ps n.prop
+\ge TOP
+\gv Markala
+\smf (commune dans le cercle de Ségou)
+\dt 08/Feb/2016
+
 \lx Masabugu
 \ps n.prop
 \ge TOP
@@ -1766,10 +1799,9 @@
 \ru Масина
 \ge TOP
 \gv Masina
+\smf (ville et cercle au Mali)
 \cm (в Мали, с центром в г. Мопти)
-\ge TOP
-\gv
-\dt 23/May/2010
+\dt 08/Feb/2016
 \ps n.prop
 
 \lx Mediterane
@@ -2047,6 +2079,13 @@
 \dt 05/Dec/2010
 \ps n.prop
 
+\lx Ɲɔnɔn
+\ps n.prop
+\ge TOP
+\gv Niono
+\smf (ville et cercle dana la région de Ségou)
+\dt 08/Feb/2016
+
 \lx Ɲɔrɔn
 \ps n.prop
 \ge TOP
@@ -2123,6 +2162,19 @@
 \ru Тихий
 \dt 23/May/2010
 \ps n.prop
+
+\lx Pelengana
+\ps n.prop
+\ge TOP
+\gv Pelengana
+\smf (commune au cercle de Ségou)
+\dt 08/Feb/2016
+
+\lx Pelengana-Wɛrɛ
+\ps n.prop
+\ge TOP
+\gv
+\dt 08/Feb/2016
 
 \lx Peyidegali
 \ps n.prop
@@ -2564,10 +2616,12 @@
 \dt 06/Nov/2014
 
 \lx Tomiɲan
+\va Tomiɲa
 \ps n.prop
 \ge TOP
-\gv
-\dt 05/Feb/2016
+\gv Tominian
+\smf (ville et cercle dans la région de Ségou)
+\dt 08/Feb/2016
 
 \lx Tɔndibi
 \ps n.prop

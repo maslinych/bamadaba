@@ -4172,6 +4172,12 @@
 \lt (chèvre.'nkasa'.petit)
 \dt 19/Aug/2006
 
+\lx banki
+\ps n
+\ge banque
+\gv
+\dt 08/Feb/2016
+
 \lx bànkómà
 \mm bàn:v:refuser
 \mm kó:n:affaire
@@ -5381,6 +5387,12 @@
 \sy bákogo
 \lt (fleuve. surélévation)
 \dt 16/Aug/2006
+
+\lx batiri
+\ps n
+\ge batterie
+\gv
+\dt 08/Feb/2016
 
 \lx bàto
 \va bàtu
@@ -6828,6 +6840,12 @@ bâton de berger
 \xe le toit de paille est affaissé (Cas)
 \nt ton haut (Cas)
 \dt 11/Nov/2007
+
+\lx bɛtɔn
+\ps n
+\ge béton
+\gv
+\dt 08/Feb/2016
 
 \lx bì
 \va bè
@@ -24151,11 +24169,11 @@ assumant que l'interclocuteur pense autrement)
 \ps adj
 \sn 1
 \ge lambin
-\ee qui prend son temps (pour éxécuter un ordre ...)
+\ee qui prend son temps (pour exécuter un ordre ...)
 \lt (jouir.sujet)
 \sn 2
 \gv aimant.la.vie
-\dt 16/Aug/2006
+\dt 07/Feb/2016
 
 \lx díyabɔ
 \mm díya:n:bon.goût
@@ -28461,9 +28479,12 @@ quant à sa mère, elle prend de l'âge
 \lx dúurunan
 \mm dúuru:num:cinq
 \mm nan:mrph:ORD
+\va 5nan
+\mm dúuru:num:cinq
+\mm nan:mrph:ORD
 \ps adj
 \ge cinquième
-\dt 03/May/2013
+\dt 08/Feb/2016
 
 \lx dúurunin
 \mm dúuru:num:cinq
@@ -32605,12 +32626,15 @@ compagnie ...
 \va flánan
 \mm flà:num:deux
 \mm nan:mrph:ORD
+\va 2nan
+\mm fìla:num:deux
+\mm nan:mrph:ORD
 \ph [fl]
 \ps adj
 \ge deuxième
 \ph [remarque : on s'attendrait à un ton bas]
 \lt (deux.suf ord)
-\dt 04/Jun/2014
+\dt 08/Feb/2016
 
 \lx fílanbolo
 \mm fílan:n:camarade.d’âge
@@ -43432,11 +43456,12 @@ provoqués par une plaie : adénopathie)
 
 \lx jàgokɛla
 \mm jàgo:n:commerce
-\mm kɛ:adj:mâle
+\mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \ge commerçant
 \lt (commerce.faire.celui qui)
+\dt 08/Feb/2016
 
 \lx jàgokun
 \mm jàgo:n:commerce
@@ -54760,12 +54785,15 @@ composante des adjectifs séparables)
 \lx kélennan
 \mm kélen:num:un
 \mm nan:mrph:ORD
+\va 1nan
+\mm kélen:num:un
+\mm nan:mrph:ORD
 \ps adj
 \ge unième
 \xv mùgan ní  kélennan
 \xe vingt et unième
 \lt (un.ième)
-\dt 12/Aug/2006
+\dt 08/Feb/2016
 
 \lx kélennato
 \mm kélen:num:un
@@ -55541,9 +55569,13 @@ composante des adjectifs séparables)
 \lx kɛ̀mɛnan
 \mm kɛ̀mɛ:num:cent
 \mm nan:mrph:ORD
+\va 100nan
+\mm kɛ̀mɛ:num:cent
+\mm nan:mrph:ORD
 \ps n
 \ge centième
 \lt (cent. ième)
+\dt 08/Feb/2016
 
 \lx kɛ̀mɛsarada
 \mm kɛ̀mɛ:num:cent
@@ -56442,6 +56474,12 @@ composante des adjectifs séparables)
 \ge informer
 \gv
 \dt 29/Nov/2015
+
+\lx kibu
+\ps adj
+\ge cube
+\gv cubique
+\dt 08/Feb/2016
 
 \lx kíimɛ
 \ve (-f,-bn)
@@ -62563,10 +62601,13 @@ ou une proposition)
 \lx kɔ̀nɔntɔnnan
 \mm kɔ̀nɔntɔn:num:neuf
 \mm nan:mrph:ORD
+\va 9nan
+\mm kɔ̀nɔntɔn:num:neuf
+\mm nan:mrph:ORD
 \ps adj
 \ge neuvième
 \rem Mol, du
-\dt 11/Nov/2007
+\dt 08/Feb/2016
 
 \lx kɔ́nɔnugu
 \mm kɔ́nɔ:n:ventre
@@ -78208,6 +78249,13 @@ n'est pas près de disparaître
 \lt (mètre.surface)
 \dt 16/Aug/2006
 
+\lx mɛ́tɛrɛkibu
+\mm mɛ́tɛrɛ:n:mètre
+\mm kibu:adj:cube
+\ps n
+\ge mètre.cube
+\dt 08/Feb/2016
+
 \lx míbi
 \ps n
 \ge peul
@@ -80413,10 +80461,13 @@ nord-est
 \lx mùgannan
 \mm mùgan:n:vingt
 \mm nan:mrph:ORD
+\va 20nan
+\mm mùgan:n:vingt
+\mm nan:mrph:ORD
 \ps adj
 \ge vingtième
 \lt (vingt.ième)
-\dt 21/Mar/2015
+\dt 08/Feb/2016
 
 \lx múge
 \bw ar: (gur) muq = id.
@@ -81963,10 +82014,13 @@ nord-est
 \lx náaninan
 \mm náani:num:quatre
 \mm nan:mrph:ORD
+\va 4nan
+\mm náani:num:quatre
+\mm nan:mrph:ORD
 \ps adj
 \ge quatrième
 \lt (quatre.énième)
-\dt 12/Aug/2006
+\dt 08/Feb/2016
 
 \lx nàansanaansa
 \ps n
@@ -98734,6 +98788,12 @@ nord-est
 \ge aplati.complètement
 \dt 19/Jan/2015
 
+\lx pɛntiri
+\ps n
+\ge peinture
+\gv
+\dt 08/Feb/2016
+
 \lx pɛ́rɛ
 \ps v
 \vl vt
@@ -99934,11 +99994,14 @@ nord-est
 \lx sábanan
 \mm sába:num:trois
 \mm nan:mrph:ORD
+\va 3nan
+\mm sába:num:trois
+\mm nan:mrph:ORD
 \ps adj
 \ge troisième
 \ph [on s'attendrait à un ton bas]
 \lt (trois.ième)
-\dt 16/Aug/2006
+\dt 08/Feb/2016
 
 \lx sàbanin
 \mm sàba:num:trois
@@ -102942,9 +103005,13 @@ composition de l'encens
 \lx séginnan
 \mm ségin:num:huit
 \mm nan:mrph:ORD
+\va 8nan
+\mm ségin:num:huit
+\mm nan:mrph:ORD
 \ps adj
 \ge huitième
 \lt (huit.ième)
+\dt 08/Feb/2016
 
 \lx sèginńkànni
 \mm sègin:v:revenir
@@ -113365,6 +113432,14 @@ fiançailles
 \ee disposant d'une table pour proposer ses marchandises)
 \dt 26/Sep/2006
 
+\lx tábara
+\mm tá:n:feu
+\mm bàra:n:calebasse
+\ps n
+\ge batterie
+\gv
+\dt 08/Feb/2016
+
 \lx tàbarikala
 \va tàbaarikala
 \cf àbarika
@@ -113966,11 +114041,15 @@ fiançailles
 \lx tánnan
 \mm tán:num:dix
 \mm nan:mrph:ORD
+\va 10nan
+\mm tán:num:dix
+\mm nan:mrph:ORD
 \ps adj
 \ge dixième
 \lt (dix.ième)
 \xv tán ní fìla
 \xe douze (dix et deux = 12 , chiffre symbolique de la perfection)
+\dt 08/Feb/2016
 
 \lx tánnifilafili
 \mm tán:num:dix
@@ -116181,26 +116260,6 @@ fiançailles
 \sy tìlebajira
 \dt 12/Aug/2006
 
-\lx tìlebi
-\mm tìle:n:soleil
-\mm bì:v:tomber
-\va tlè.bi
-\mm tlè:n:soleil
-\mm bì:v:tomber
-\va tlè.bin
-\mm tlè:n:soleil
-\mm bìn:v:tomber
-\ph [tlebi]
-\va tìle.bin
-\mm tìle:n:soleil
-\mm bìn:v:tomber
-\ps n
-\ge occident
-\gv coucher.du.soleil
-\lt (soleil.tomber)
-\sy tìlebiyanfan
-\dt 26/Sep/2006
-
 \lx tìlebilen
 \mm tìle:n:soleil
 \mm bìlen:vq/adj:rouge
@@ -116212,6 +116271,26 @@ fiançailles
 \ge fruit.qui.a.reçu.un.coup.de.soleil
 \lt (soleil.rouge)
 \dt 16/Aug/2006
+
+\lx tìlebin
+\mm tìle:n:soleil
+\mm bìn:v:tomber
+\va tlè.bin
+\mm tlè:n:soleil
+\mm bìn:v:tomber
+\va tlè.bi
+\mm tlè:n:soleil
+\mm bì:v:tomber
+\ph [tlebi]
+\va tìle.bi
+\mm tìle:n:soleil
+\mm bì:v:tomber
+\ps n
+\ge occident
+\gv coucher.du.soleil
+\lt (soleil.tomber)
+\sy tìlebiyanfan
+\dt 08/Feb/2016
 
 \lx tìlebinda
 \mm tìle.bin:n:coucher.du.soleil
@@ -116230,10 +116309,22 @@ fiançailles
 \lt (coucher de soleil.début)
 \dt 26/Sep/2006
 
-\lx tìlebiyànfan
+\lx tìlebinyànfan
+\mm tìle.bin:n:coucher.du.soleil
+\mm tìle:n:soleil
+\mm bìn:v:tomber
+\mm yàn:n:ici
+\mm fàn:n:côté
+\va tìlebiyànfan
 \mm tìle.bi:n:coucher.du.soleil
 \mm tìle:n:soleil
 \mm bì:v:tomber
+\mm yàn:n:ici
+\mm fàn:n:côté
+\va tlè.bin.yàn.fan
+\mm tlè.bin:n:coucher.du.soleil
+\mm tlè:n:soleil
+\mm bìn:v:tomber
 \mm yàn:n:ici
 \mm fàn:n:côté
 \va tlè.bi.yàn.fan
@@ -116247,7 +116338,7 @@ fiançailles
 \ge ouest
 \lt (ouest.du côté)
 \sy tìlebi
-\dt 26/Sep/2006
+\dt 08/Feb/2016
 
 \lx tìlebɔtuma
 \mm tìle:n:soleil
@@ -119654,11 +119745,13 @@ fiançailles
 \gv plaisanterie
 \xv ù bɛ́  túlon bìla  sénenkun ná
 \xe ils plaisantent avec leur "senenkun"
+\xv túlon kɛ́
+\xe s'amuser
 \sn 2
 \gv débauche
 \xv túlon kɛ́
-\xe s'amuser  / s'adonner à la débauche
-\dt 26/Sep/2006
+\xe s'adonner à la débauche
+\dt 07/Feb/2016
 
 \lx túlonkɛden
 \mm túlon:n:jeu
@@ -122384,32 +122477,30 @@ aîné ... (Kb 11/06 p.4)
 \dt 26/Sep/2006
 
 \lx wólonfìla
-\mm fìla:num:deux
 \va wólonfla
-\mm flà:num:deux
-\ph [wolonfla]
 \va wólonwùla
 \va wólonfùla
 \ps num
 \ge sept
 \lt (cinq.deux)
-\dt 27/Mar/2013
+\dt 08/Feb/2016
 
 \lx wólonfilanan
 \mm wólonfila:num:sept
-\mm fìla:num:deux
 \mm nan:mrph:ORD
 \va wólonfla.nan
 \mm wólonfla:num:sept
-\mm flà:num:deux
 \mm nan:mrph:ORD
 \ph [fl]
 \va wólonwula.nan
 \mm wólonwula:num:sept
 \mm nan:mrph:ORD
+\va 7nan
+\mm wólonfila:num:sept
+\mm nan:mrph:ORD
 \ps adj
 \ge septième
-\dt 16/Aug/2006
+\dt 08/Feb/2016
 
 \lx wólonkama
 \mm wólo:v:accoucher
@@ -122580,6 +122671,13 @@ aîné ... (Kb 11/06 p.4)
 \sn 2
 \gv gigot
 \dt 12/Aug/2006
+
+\lx worobinɛ
+\va orobinɛ
+\ps n
+\ge robinet
+\gv
+\dt 08/Feb/2016
 
 \lx wòrocimuso
 \mm wòro:n:kola
@@ -123005,9 +123103,12 @@ aîné ... (Kb 11/06 p.4)
 \lx wɔ́ɔrɔnan
 \mm wɔ́ɔrɔ:num:six
 \mm nan:mrph:ORD
+\va 6nan
+\mm wɔ́ɔrɔ:num:six
+\mm nan:mrph:ORD
 \ps adj
 \ge sixième
-\dt 10/Jul/2013
+\dt 08/Feb/2016
 
 \lx wɔ̀ri
 \ve (f)
