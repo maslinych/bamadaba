@@ -78,14 +78,14 @@
 \dt 23/May/2010
 \ps n.prop
 
-\lx Alizeri
-\va Alize
+\lx Álizeri
+\va Álize
 \di b
 \ty гос.
 \ge TOP
 \gv Algérie
 \ru Алжир
-\dt 23/May/2010
+\dt 05/Apr/2016
 \ps n.prop
 
 \lx Ámdàláy
@@ -794,8 +794,8 @@
 \lx Eziputi
 \ps n.prop
 \ge TOP
-\gv Egypte
-\dt 04/Feb/2016
+\gv Égypte
+\dt 04/Apr/2016
 
 \lx Ɛcopi
 \va Ecupi
@@ -980,6 +980,12 @@
 \gv Gagnoa
 \dt 05/Feb/2016
 
+\lx Gáo
+\ps n.prop
+\ge TOP
+\gv Gao
+\dt 05/Apr/2016
+
 \lx Garali
 \ps n.prop
 \ge TOP
@@ -1021,6 +1027,12 @@
 \sy Kɔ́nɔwari
 \dt 23/May/2010
 \ps n.prop
+
+\lx Gíne
+\ps n.prop
+\ge TOP
+\gv Guinée
+\dt 05/Apr/2016
 
 \lx Ginɛbiso
 \va Ginebisawo
@@ -1114,8 +1126,8 @@
 \lx Irilandi
 \ps n.prop
 \ge TOP
-\gv Irelande
-\dt 19/Dec/2012
+\gv Irlande
+\dt 04/Apr/2016
 
 \lx Irisi
 \va Irisila
@@ -1440,9 +1452,9 @@
 \va Kinshasa
 \ty г.
 \ge TOP
-\gv Kinchassa
+\gv Kinshassa
 \ru Киншаса
-\dt 23/May/2010
+\dt 04/Apr/2016
 \ps n.prop
 
 \lx Kìsiduu
@@ -1509,12 +1521,12 @@
 \dt 23/May/2010
 \ps n.prop
 
-\lx Kowɛti
+\lx Kówɛti
 \ty гос.
 \ru Кувейт
 \ge TOP
 \gv Koweït
-\dt 23/May/2010
+\dt 05/Apr/2016
 \ps n.prop
 
 \lx Kɔminɛ
@@ -1641,12 +1653,12 @@
 
 \lx Líbɛriya
 \va Lábiriya
-\ty гос.
+\va Líberiya
+\ps n.prop
 \ge TOP
 \gv Liberia
 \ru Либерия
-\dt 23/May/2010
-\ps n.prop
+\dt 05/Apr/2016
 
 \lx Libi
 \ty гос.
@@ -2516,9 +2528,9 @@
 \lx Sowiyati
 \ty гос.
 \ge TOP
-\gv l’Union.Sovetique
-\ru Cоветский Союх
-\dt 23/May/2010
+\gv l’Union.Soviétique
+\ru Cоветский Союз
+\dt 05/Apr/2016
 \ps n.prop
 
 \lx Sɔ́mɔnɔso

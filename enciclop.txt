@@ -4,6 +4,12 @@
 \name enciclop
 \ver 0.3
 
+\lx Ábrahamu
+\ps n.prop
+\ge NOM.M
+\gv Abraham
+\dt 05/Apr/2016
+
 \lx Air Afrique
 \ps n.prop
 \ge A
@@ -31,6 +37,12 @@
 \ge NOM.ETRG
 \gv Ramsès
 \dt 06/Feb/2016
+
+\lx Àrasɛli
+\ps n.prop
+\ge NOM.F
+\gv Rachel
+\dt 05/Apr/2016
 
 \lx Arasingikilɔbu
 \ps n
@@ -84,9 +96,9 @@
 
 \lx Buwaɲi
 \ps n.prop
-\ge Houphoët-Boigny, Félix
+\ge Houphouët-Boigny, Félix
 \smf (1e président de la Côte d'Ivoire)
-\dt 04/Feb/2016
+\dt 03/Apr/2016
 
 \lx CEDEAO
 \ps n
@@ -381,6 +393,12 @@
 \gv UEMOA
 \gv Union Economique et Monétaire Ouest-Africaine
 \dt 07/Feb/2016
+
+\lx wiski
+\ps n
+\ge ETRG.FRA
+\gv whisky
+\dt 05/Apr/2016
 
 \lx wurubulu
 \ps v
