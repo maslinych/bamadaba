@@ -27434,16 +27434,20 @@ désorienter')
 \dt 22/Nov/2012
 
 \lx dùlenya
-\mm dù:v:courber 
+\mm dù:v:courber
 \mm len:mrph:PTCP.RES
+\mm ya:mrph:ABSTR
+\va dùnnenya
+\mm dùn:v:courber
+\mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \sn 1
 \ge sinuosité
 \sn 2
-\gv manque.de.droiture
-\lt (courbé.suf abs)
-\dt 16/Aug/2006
+\gv duplicité
+\gv manque de droiture
+\dt 07/Apr/2016
 
 \lx dùlokoto
 \va dlòkoto
@@ -49898,23 +49902,24 @@ l'eau est prête
 
 \lx kàanagɛlɛn
 \mm kàana:n:caractère
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:dur
 \va kàarɔgɛlɛn
-\mm gɛ̀lɛn:vq/adj:dur
-\va kàana.gwɛlɛn
+\mm gɛ̀lɛn:adj:dur
+\va kàanagwɛlɛn
 \mm kàana:n:caractère
-\mm gwɛ̀lɛn:vq/adj:dur
+\mm gwɛ̀lɛn:adj:dur
 \va kàarɔgwɛlɛn
-\mm gwɛ̀lɛn:vq/adj:dur
+\mm gwɛ̀lɛn:adj:dur
 \ph [gw]
 \ps n
 \sn 1
-\ge difficile.à.convaincre
+\ge intrasigeant
+\gv difficile à convaincre
 \gv tenace
 \sn 2
 \gv cruel
-\lt (caractère.dur)
-\dt 26/Sep/2006
+\gv féroce
+\dt 07/Apr/2016
 
 \lx kàanagɛlɛya
 \mm kàana:n:caractère
@@ -49954,12 +49959,14 @@ l'eau est prête
 \lt (poivre.grand)
 \dt 16/Aug/2006
 
-\lx káankaan
+\lx kàankàan
+\va kàkà
+\va kànkàn
 \ps n
-\ge oiseau.Corvus.albus
-\gv corbeau pie
+\ge corbeau.pie
+\lat Corvus albus
 \ee (en région semi-aride)
-\dt 30/Nov/2014
+\dt 07/Apr/2016
 
 \lx kàanki
 \va kàaki
@@ -59749,6 +59756,12 @@ prolapsus utérin
 \ps v
 \ge invoquer
 \dt 22/Dec/2014
+
+\lx kósuma
+\ps n
+\ge invocation
+\gv
+\dt 06/Apr/2016
 
 \lx kòta
 \ps v
@@ -92858,10 +92871,11 @@ graines, sert d'instrument rythmique)
 \dt 26/Mar/2014
 
 \lx ɲànkoron
+\va ɲàngoron
 \ps n
 \ge pitrerie
 \gv plaisanterie
-\dt 26/Sep/2006
+\dt 06/Apr/2016
 
 \lx ɲànkoronnci
 \mm ɲànkoron:n:pitrerie
@@ -101648,6 +101662,14 @@ épuisés
 \xe au lieu de pleurer, soigne-toi !
 \dt 20/Feb/2014
 
+\lx sáni
+\ve (-f,-bk)
+\va séni
+\ve (bn)
+\ps adj
+\ge propre
+\dt 06/Apr/2016
+
 \lx sániman
 \mm sáni:adj:être.propre
 \mm man:mrph:ADJ
@@ -104037,13 +104059,22 @@ paniers, sègi)
 \mm kɔ́rɔ:pp:sous
 \mm mà:mrph:SUPER
 \mm dòn:v:entrer
+\va sènkɔrɔdondon
+\mm sèn:n:jambe
+\mm kɔ́rɔ:pp:sous
+\mm dòn:v:entrer
+\va sènkɔrɔmadondon
+\mm sèn:n:jambe
+\mm kɔ́rɔ:pp:sous
+\mm mà:mrph:SUPER
+\mm dòn:v:entrer
 \ps v
 \vl vt
 \ge soutenir
 \xv háli ní 'póroze' nìn b'án ká làada sɔ̀sɔ, gófɛrɛnaman b'ó sènkɔ̀rɔ̀màdon
 \xe même si le projet va contre nos coutumes (excision), le
 gouvernement le soutient (kb 5/06 p.7)
-\dt 05/Apr/2016
+\dt 06/Apr/2016
 
 \lx sènkuru
 \mm sèn:n:jambe
@@ -112794,6 +112825,7 @@ fiançailles
 \dt 19/Aug/2006
 
 \lx syɛ́n
+\va síyɛn
 \va shyɛ́n
 \va síɲɛ
 \va síɲɛn
@@ -112804,7 +112836,7 @@ fiançailles
 \ee sur l'honneur (devant Dieu)
 \gv prêter serment
 \ee s'engager par serment à ...
-\dt 26/Sep/2006
+\dt 06/Apr/2016
 
 \lx syɛ́n
 \va sɛ́n
@@ -123973,6 +124005,13 @@ Mali)
 \vl vt
 \ge égrener.chapelet
 \dt 16/Aug/2006
+
+\lx wùrukuyi
+\va ùrukuyi
+\ps n
+\ge posture.de.prière
+\ee (courbé, mains aux genoux)
+\dt 06/Apr/2016
 
 \lx wùrunti
 \ps v
