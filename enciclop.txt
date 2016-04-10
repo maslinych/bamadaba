@@ -62,6 +62,12 @@
 \smf (titre royal à l'Empire Songhaï)
 \dt 05/Feb/2016
 
+\lx ATT
+\ps n.prop
+\ge ABR
+\gv Amadou Toumani Touré
+\dt 09/Apr/2016
+
 \lx Baraki Obama
 \ps n.prp
 \ge NOM.ETRG
@@ -291,6 +297,12 @@
 \gv
 \dt 05/Feb/2016
 
+\lx OUA
+\ps n
+\ge ABR
+\gv Organisation de l'Unité africaine
+\dt 09/Apr/2016
+
 \lx Real
 \ps n.prop
 \ge Réal
@@ -363,6 +375,13 @@
 \ge Sonny
 \ee équipe de football à Gao
 \dt 03/May/2013
+
+\lx Soweto
+\ps n.prop
+\ge TOP
+\gv Sowete
+\gv South Western Township
+\dt 09/Apr/2016
 
 \lx Stade
 \ps n.prop

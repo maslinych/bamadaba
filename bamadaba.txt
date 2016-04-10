@@ -12457,6 +12457,7 @@ toujours (pro)
 \dt 16/Aug/2006
 
 \lx búgun
+\va búgu
 \ps v
 \vl vi
 \sn 1
@@ -12465,7 +12466,7 @@ toujours (pro)
 \sn 2
 \gv se.multiplier
 \ee (population...)
-\dt 26/Sep/2006
+\dt 09/Apr/2016
 
 \lx búgunin
 \ps n
@@ -26054,6 +26055,15 @@ l'occasion d'une naissance)
 \sm (science ou pratique)
 \dt 11/May/2013
 
+\lx dɔ́lakelen
+\mm dɔ́:dtm:certain
+\mm lá:pp:dans
+\mm kelen:num:un
+\ps n
+\ge un.parmi
+\gv un.de
+\dt 08/Apr/2016
+
 \lx dɔ̀lɔ
 \va dlɔ̀
 \ph [dl]
@@ -29472,10 +29482,19 @@ quant à sa mère, elle prend de l'âge
 \sm (en perte d'équilibre)
 \dt 16/Aug/2006
 
-\lx fálakifalaki
+\lx fálaki
+\va fálakifalaki
 \ps adv
+\sn 1
 \ge à.vive.allure
-\dt 19/Jan/2015
+\sn 2
+\gv complètement
+\ee (détruire)
+\sn 3
+\gv nul
+\gv sans valeur
+\gv pour rien
+\dt 08/Apr/2016
 
 \lx fàlako
 \ps v
@@ -37219,6 +37238,14 @@ forestières, fruit : long follicule de 50 cm)
 \xe dans l'intervalle, entre temps
 \dt 26/Sep/2006
 
+\lx fùrancɛfanga
+\mm fùran:n:distance
+\mm cɛ́:n:milieu
+\mm fànga:n:force
+\ps n
+\ge régime.transitoire
+\dt 09/Apr/2016
+
 \lx fùrancɛkalo
 \mm fùran:n:distance
 \mm cɛ́:n:milieu
@@ -41657,6 +41684,12 @@ doigts par des fileuses du coton)
 \ge être.perdu
 \dt 26/Sep/2006
 
+\lx háayì
+\ps itj
+\ge aïe
+\gv
+\dt 08/Apr/2016
+
 \lx hábada
 \va ábada
 \bw ar: abadan : mêmes sens
@@ -42996,6 +43029,12 @@ doigts par des fileuses du coton)
 \gv hum
 \ee marque de doute
 \dt 16/Aug/2006
+
+\lx húuyì
+\ps itj
+\ge aïe
+\gv
+\dt 08/Apr/2016
 
 \lx í
 \ps pers
@@ -44644,6 +44683,13 @@ qqch ...)
 \xe on loue les circoncis, on loue le défunt ...
 \dt 16/Aug/2006
 
+\lx jànsa
+\ps n
+\ge récompense
+\gv prime
+\gv prix
+\dt 09/Apr/2016
+
 \lx jántara
 \ps n
 \ge impudique
@@ -45855,7 +45901,7 @@ qqch ...)
 \vl vt
 \ge disperser
 \gv répandre
-\dt 26/Sep/2006
+\dt 09/Apr/2016
 
 \lx jɛ̀ɲɔgɔn
 \mm jɛ̀:v:assembler
@@ -48483,6 +48529,19 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \lt (esclave.champ)
 \dt 26/Sep/2006
 
+\lx jɔ̀njɔn
+\ps n
+\sn 1
+\ge drapeau
+\sn 2
+\gv symbole
+\sn 3
+\gv récompense
+\gv prix
+\sn 4
+\gv médaille
+\dt 09/Apr/2016
+
 \lx jɔ́njɔn
 \ps adj
 \sn 1
@@ -49910,6 +49969,8 @@ l'eau est prête
 \mm gwɛ̀lɛn:adj:dur
 \va kàarɔgwɛlɛn
 \mm gwɛ̀lɛn:adj:dur
+\va kàrɔgɛlɛn
+\mm gɛ̀lɛn:adj:dur
 \ph [gw]
 \ps n
 \sn 1
@@ -49919,7 +49980,7 @@ l'eau est prête
 \sn 2
 \gv cruel
 \gv féroce
-\dt 07/Apr/2016
+\dt 10/Apr/2016
 
 \lx kàanagɛlɛya
 \mm kàana:n:caractère
@@ -49927,6 +49988,10 @@ l'eau est prête
 \mm ya:mrph:DEQU
 \va kàarɔgɛlɛn.ya
 \mm kàarɔgɛlɛn:n:difficile.à.convaincre
+\mm gɛ̀lɛn:vq/adj:dur
+\mm ya:mrph:DEQU
+\va kàrɔgɛlɛn.ya
+\mm kàrɔgɛlɛn:n:difficile.à.convaincre
 \mm gɛ̀lɛn:vq/adj:dur
 \mm ya:mrph:DEQU
 \va kàana.gwɛlɛn.ya
@@ -49946,7 +50011,7 @@ l'eau est prête
 \sn 3
 \gv cruauté
 \lt (caractère dur.suf abs)
-\dt 26/Sep/2006
+\dt 10/Apr/2016
 
 \lx káaniba
 \mm káani:n:poivre.d'Ethiopie
@@ -59844,13 +59909,19 @@ prolapsus utérin
 \mm ɲɔ́gɔn:prn:RECP
 \mm tá:n:propriété
 \mm lá:pp:dans
+\va kótoɲɔgɔntala
+\mm kó:n:affaire
+\mm tó:v:rester
+\mm ɲɔ́gɔn:prn:RECP
+\mm tá:n:propriété
+\mm lá:pp:dans
 \ps n
 \ge service.mutuel
 \ee (incluant du renoncement)
 \lt (affaire-laisser-l'un l'autre-part-endroit)
 \xv kó-tó-ɲɔ́gɔn-tá-lá bɛ́  kàratabugu sì cáya :
 \xe renoncer à ses occupations pour celles d'autrui allonge la durée de vie d'une paillote (dicton)
-\dt 16/Aug/2006
+\dt 10/Apr/2016
 
 \lx kóya
 \ps n
@@ -62329,16 +62400,20 @@ ou une proposition)
 \mm ná.fili:v:tromper
 \mm ná:mrph:CAUS
 \mm fìli:v:jeter
-\va kɔ́nɔ.na.fli
+\va kɔ́nɔnafli
 \mm kɔ́nɔ:n:ventre
 \mm ná.fli:v:tromper
 \mm ná:mrph:CAUS
 \mm flì:v:jeter
+\va kɔ́nɔrɔfili
+\mm kɔ́nɔ:n:ventre
+\mm rɔ́:pp:IN
+\mm fìli:v:jeter
 \ph [fl]
 \ps n
 \ge perplexité
 \lt (pensées.égarer)
-\dt 26/Sep/2006
+\dt 09/Apr/2016
 
 \lx kɔ́nɔnafìli
 \mm kɔ́nɔ:n:ventre
@@ -62348,6 +62423,10 @@ ou une proposition)
 \mm kɔ́nɔ:n:ventre
 \mm ná:mrph:CAUS
 \mm flì:v:jeter
+\va kɔ́nɔrɔfìli
+\mm kɔ́nɔ:n:ventre
+\mm rɔ́:pp:IN
+\mm fìli:v:jeter
 \ph [fl]
 \ps v
 \vl vt
@@ -62355,7 +62434,7 @@ ou une proposition)
 \gv troubler.profondément
 \gv angoisser
 \lt (pensées.égarer)
-\dt 20/Jul/2014
+\dt 09/Apr/2016
 
 \lx kɔ́nɔnafin
 \mm kɔ́nɔ:n:ventre
@@ -67016,6 +67095,14 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lt (tête.sous.mettre.ce qui sert à)
 \dt 26/Sep/2006
 
+\lx kùnkɔrɔko
+\mm kùn:n:tête
+\mm kɔ́rɔ:pp:sous
+\mm kó:n:affaire
+\ps n
+\ge préoccupation
+\dt 10/Apr/2016
+
 \lx kùnkɔrɔta
 \mm kùn:n:tête
 \mm kɔ́rɔ:pp:sous
@@ -67105,10 +67192,12 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \mm mà:mrph:SUPER
 \mm bɔ́:v:sortir
 \ps n
-\sn
+\sn 1
 \ge compensation
 \ee (le nom apparaît surtout dans la traduction du Coran)
-\dt 27/Jan/2016
+\sn 2
+\gv caution
+\dt 10/Apr/2016
 
 \lx kùnmabɔbaa
 \mm kùn.ma.bɔ:v:racheter
@@ -73450,6 +73539,20 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \xv í yé  sìtɛnɛ mínnu fɔ́, ò yé  láwalelako yé
 \xe les interdits de caste dont tu parles, c'est une affaire du vieux temps
 \dt 26/Sep/2006
+
+\lx láwàra
+\mm lá:mrph:CAUS
+\mm wàra:v:augmenter
+\va láwɛ̀rɛ
+\mm lá:mrph:CAUS
+\ps v
+\sn 1
+\ge élargir
+\gv agrandir
+\gv augmenter
+\sn 2
+\gv développer
+\dt 10/Apr/2016
 
 \lx láwàsa
 \mm lá:mrph:CAUS
@@ -104043,6 +104146,27 @@ paniers, sègi)
 \gv au cours de
 \dt 04/Jul/2013
 
+\lx sènkɔrɔcɛ
+\mm sèn:n:jambe
+\mm kɔ́rɔ:pp:sous
+\mm cɛ̀:v:ramasser
+\va sènkɔrɔmacɛ
+\mm sèn:n:jambe
+\mm kɔ́rɔ:pp:sous
+\mm mà:mrph:SUPER
+\mm cɛ̀:v:ramasser
+\ps v
+\sn 1
+\ge faire.tomber
+\ee (en prenant par les pieds)
+\sn 2
+\gv mettre un terme
+\gv conclure
+\gv achever
+\sn 3
+\gv commencer
+\dt 10/Apr/2016
+
 \lx sènkɔrɔjugu
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
@@ -104053,6 +104177,15 @@ paniers, sègi)
 \lt (pied.auprès.ennemi)
 \sy ɲìjugu
 \dt 16/Aug/2006
+
+\lx sènkɔrɔmadɛmɛ
+\mm sèn:n:jambe
+\mm kɔ́rɔ:pp:sous
+\mm mà:mrph:SUPER
+\mm dɛ̀mɛ:v:aider
+\ps v
+\ge soutenir
+\dt 10/Apr/2016
 
 \lx sènkɔrɔmadon
 \mm sèn:n:jambe
@@ -114570,16 +114703,16 @@ fiançailles
 \lx tátiɲɛ
 \mm tá:n:propriété
 \mm tíɲɛ:v:gâter
-\va tá.tiyɛn
+\va tátiyɛn
 \mm tá:n:propriété
 \mm tíyɛn:v:gâter
-\va tá.cɛn
+\va tácɛn
 \mm tá:n:propriété
 \mm cɛ́n:v:gâter
 \ps v
-\ge se.foutre.en.l'aile
+\ge se.foutre.en.l'aire
 \gv bousiller
-\dt 24/Nov/2015
+\dt 10/Apr/2016
 
 \lx tátugukɔnɔ
 \mm tá:n:feu
@@ -118640,6 +118773,13 @@ est due aux paysans (kib 3/05 p.9)
 \lt (association.marraine)
 \dt 16/Aug/2006
 
+\lx tɔ́nba
+\mm tɔ́n:n:société
+\mm ba:mrph:AUGM
+\ps n
+\ge grande.association
+\dt 09/Apr/2016
+
 \lx tɔ̀nbara
 \mm tɔ̀n:n:nuque
 \mm bàra:n:calebasse
@@ -121423,6 +121563,15 @@ aîné ... (Kb 11/06 p.4)
 \ge couteau.de.moisson
 \ee petit instrument pour couper le mil (lame coupante insérée en long dans un manche en bois)
 \dt 16/Aug/2006
+
+\lx wàra
+\ps v
+\sn 1
+\ge augmenter
+\gv agrandir
+\sn 2
+\gv se développer
+\dt 10/Apr/2016
 
 \lx wára
 \ps n
@@ -126012,8 +126161,13 @@ comportement (LD p.5)
 
 \lx yírika
 \ps n
-\ge myriade
-\dt 26/Sep/2006
+\sn 1
+\ge plusieurs
+\gv quelques
+\sn 2
+\gv myriade
+\gv très grand nombre
+\dt 09/Apr/2016
 
 \lx yìrikiti
 \ps n
