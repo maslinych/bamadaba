@@ -7109,14 +7109,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xe envoyer qqn l'appeler
 \sn 9
 \gv confier.qqn.à
-\xv ń y'á bìla  á bólo
+\xv ń y'à bìla  á bólo
 \xe je vous l'ai confié
 \sn 10
 \xv fɔ́ k'à bìla  /  fɔ́ kà táa ' bìla /  fɔ́ kà nà  à bìla
 \gv jusqu'à
 \xv k'à tà  sélifana ná  fɔ́ kà nà  à bìla  làansara lá
 \xe de 2h à 6h du soir
-\dt 03/Apr/2016
+\dt 16/Apr/2016
 
 \lx bìlabaa
 \mm bìla:v:mettre
@@ -13781,6 +13781,11 @@ médicinales
 \ee (un piège...)
 \dt 16/Aug/2006
 
+\lx catiri
+\ps n
+\ge théâtre
+\dt 17/Apr/2016
+
 \lx cáwu
 \ps adv
 \ge brusquement
@@ -13847,12 +13852,12 @@ médicinales
 \ge salut
 \sm salut à des travailleurs
 \xv á ní  cé !
-\xe salut  (vous et le travail !)
+\xe salut (vous et le travail !)
 \xv í ní  cé ! (áu sín)
 \xe ou merci (pour une bonne action)
 \xv á ní  cé !
 \xe merci  (vous et la bonne oeuvre)
-\dt 19/Aug/2006
+\dt 15/Apr/2016
 
 \lx cèlu
 \ps n
@@ -26603,9 +26608,9 @@ désorienter')
 
 \lx dɔ́ɔnindɔɔnin
 \ps adv
-\ge petit.à.petit
+\ge petit.à.petit
 \gv
-\dt 31/Mar/2015
+\dt 16/Apr/2016
 
 \lx dɔ̀ɔntin
 \ps n
@@ -27111,6 +27116,14 @@ désorienter')
 \ge autochtone
 \gv local
 \dt 27/Jun/2015
+
+\lx dùgulentɔgɔ
+\mm dùgulen:n:autochtone
+\mm tɔ́gɔ:n:nom
+\ps n
+\ge surnom
+\gv sobriquet
+\dt 17/Apr/2016
 
 \lx dùgulenya
 \mm dùgu.len:n:autochtone
@@ -29922,16 +29935,22 @@ quant à sa mère, elle prend de l'âge
 
 \lx fàna
 \ps vq
+\sn 1
 \ge rapporteur
 \xv ù ká fàna
 \xe ce sont  des rapporteurs
-\dt 16/Aug/2006
+\sn 2
+\gv être menteur
+\dt 17/Apr/2016
 
 \lx fàna
 \ps n
+\sn 1
 \ge rapporteur
 \gv mouchard
-\dt 26/Sep/2006
+\sn 2
+\gv menteur
+\dt 17/Apr/2016
 
 \lx fàna
 \ps n
@@ -34850,15 +34869,13 @@ de nos ancêtres
 \va f'
 \va fɔ́ɔ
 \va fɔ́
-\va fó
-\ph [fɔɔ]
 \ps prep/conj
 \sn 1
 \ge jusqu'à
 \xv kàbi Fàlajɛ  fɔ́ Bàmakɔ
 \xe de Falajɛ à Bamako
 \xv fɔ́ sàya mà
-\xe jusqu'à la mort (allongement parfois expressif dans ce sens
+\xe jusqu'à la mort (allongement parfois expressif dans ce sens)
 \sn 2
 \gv sauf
 \xv ɛ́ɛ nàna, fɔ́ é !
@@ -34876,7 +34893,7 @@ de nos ancêtres
 \gv si bien que
 \sn 5
 \gv il faut que
-\dt 05/Apr/2016
+\dt 16/Apr/2016
 
 \lx fóbɔnda
 \mm fó:n:saison.froide
@@ -36937,8 +36954,7 @@ forestières, fruit : long follicule de 50 cm)
 \ps n
 \ge feuille.fraîche
 \ee (utilisable en cuisine ou comme remède)
-\lt (feuille.fraîche)
-\dt 16/Aug/2006
+\dt 15/Apr/2016
 
 \lx fùradama
 \mm fùra:n:distance
@@ -41685,10 +41701,10 @@ doigts par des fileuses du coton)
 \dt 26/Sep/2006
 
 \lx háayì
-\ps itj
+\ps intj
 \ge aïe
 \gv
-\dt 08/Apr/2016
+\dt 12/Apr/2016
 
 \lx hábada
 \va ábada
@@ -43031,10 +43047,10 @@ doigts par des fileuses du coton)
 \dt 16/Aug/2006
 
 \lx húuyì
-\ps itj
+\ps intj
 \ge aïe
 \gv
-\dt 08/Apr/2016
+\dt 12/Apr/2016
 
 \lx í
 \ps pers
@@ -45816,10 +45832,11 @@ qqch ...)
 \sn 2
 \gv reconnaître
 \sn 3
+\xv jɛ̀n ... kɔ́
 \gv renoncer à
 \gv abandonner
 \gv effacer
-\dt 21/Dec/2014
+\dt 17/Apr/2016
 
 \lx jɛ̀n
 \va dìɲɛ
@@ -46511,6 +46528,12 @@ nos libations "
 \gv aide
 \lt (espoir.appuyer)
 \dt 26/Sep/2006
+
+\lx jígisɔ
+\ps n
+\ge objet.frêle
+\gv souffreteux
+\dt 17/Apr/2016
 
 \lx jìgitigɛ
 \mm jìgi:n:espoir
@@ -49974,13 +49997,13 @@ l'eau est prête
 \ph [gw]
 \ps n
 \sn 1
-\ge intrasigeant
+\ge intransigeant
 \gv difficile à convaincre
 \gv tenace
 \sn 2
 \gv cruel
 \gv féroce
-\dt 10/Apr/2016
+\dt 16/Apr/2016
 
 \lx kàanagɛlɛya
 \mm kàana:n:caractère
@@ -52131,6 +52154,13 @@ prolapsus utérin
 \ge être.angoissé
 \lt ( ? . chauffer)
 \dt 26/Sep/2006
+
+\lx kàmanjɛ
+\mm kàman:n:épaule
+\mm jɛ́:adj:blanc
+\ps n
+\ge poule.de.pharaon
+\dt 17/Apr/2016
 
 \lx kàmantan
 \mm kàma:n:épaule
@@ -55176,8 +55206,11 @@ prolapsus utérin
 \ge gésier
 \sn 2
 \gv clitoris
+\sn 3
+\gv pénil
+\gv mont de Vénus
 \sy ncɛ̀gɛn
-\dt 12/Aug/2006
+\dt 17/Apr/2016
 
 \lx kètekete
 \ps v
@@ -55202,6 +55235,16 @@ prolapsus utérin
 \ps n
 \ge coqueluche
 \dt 07/Mar/2014
+
+\lx kéyekeye
+\ps adv
+\sn 1
+\ge très.mûr
+\sn 2
+\gv très dur
+\sn 3
+\gv très blanc
+\dt 17/Apr/2016
 
 \lx kɛ̀
 \ps prt
@@ -74506,7 +74549,7 @@ famille)
 \xe maman-noire (de teint noir)
 \xv májɛ
 \xe maman-blanche (de teint clair)
-\dt 04/Apr/2016
+\dt 16/Apr/2016
 
 \lx má
 \va m'
@@ -83739,6 +83782,16 @@ sorcières et leur élimination)
 \ge bave.de.crapaud
 \dt 16/Aug/2006
 
+\lx ncɛ́kɛ
+\ps adv
+\ge stable
+\dt 17/Apr/2016
+
+\lx ncɛ́kɛ
+\ps v
+\ge être.stable
+\dt 17/Apr/2016
+
 \lx ncɛ̀n
 \va ncɔ̀n
 \ps n
@@ -85353,6 +85406,12 @@ petits enfants)
 \ge société.de.culture
 \dt 16/Aug/2006
 
+\lx ngórokingoroki
+\va ngúrukinguruki
+\ps adj
+\ge mi-cuit
+\dt 17/Apr/2016
+
 \lx ngòyaki
 \ps v
 \vl vi
@@ -85707,7 +85766,7 @@ petits enfants)
 \mm ní:n:âme
 \mm dɔ̀gɔn:n:volonté
 \ve (f,bk)
-\va ní.dungɔ
+\va nídungɔ
 \mm ní:n:âme
 \mm dùngɔ:n:volonté
 \sy díyanye
@@ -85719,14 +85778,15 @@ petits enfants)
 \xv né nídɔngɔ yé  báara yé
 \xe ce que j'aime, c'est le travail
 \sn 2
-\gv goût
+\gv inclination
 \gv choix
 \xv fúru yé  nídɔngɔko dè yé
 \xe le mariage est une affaire de choix personnel
 \sn 3
 \gv coeur
 \gv volonté
-\dt 26/Sep/2006
+\gv passion
+\dt 17/Apr/2016
 
 \lx nìfana
 \mm nì:n:part
@@ -93579,10 +93639,22 @@ graines, sert d'instrument rythmique)
 \lt (oeil.trou)
 \dt 16/Aug/2006
 
+\lx ɲɛ́don
+\mm ɲɛ́:n:oeil
+\mm dòn:v:entrer
+\ps n
+\sn 1
+\ge mépris
+\gv manque de respect
+\sn 2
+\gv insolence
+\sn 3
+\gv provocation
+\dt 17/Apr/2016
+
 \lx ɲɛ́dòn
 \mm ɲɛ́:n:oeil
 \mm dòn:v:entrer
-\lt (regard.entrer)
 \ps v
 \vl vr
 \sn 1
@@ -93595,7 +93667,10 @@ graines, sert d'instrument rythmique)
 \sm à ... fɛ̀
 \xv í ɲɛ́don  báara fɛ̀
 \xe se mettre avec coeur à l'ouvrage
-\dt 16/Aug/2006
+\sn 3
+\gv manquer de respect
+\gv être insolent
+\dt 17/Apr/2016
 
 \lx ɲɛ́donnamɔgɔ
 \mm ɲɛ́.dòn:v:braver
@@ -98199,6 +98274,11 @@ le pèlerinage (bk 1/06 p.5)
 \sm (chiens ...)
 \dt 16/Aug/2006
 
+\lx ŋɔ́nɔ
+\ps n
+\ge fleur.d'hibiscus
+\dt 17/Apr/2016
+
 \lx ŋɔ́yi
 \va ŋáyi
 \ve (bk)
@@ -100185,7 +100265,9 @@ s'en font un ennemi pour rien (Si 20, 23)
 \xv fɔ́lɔ màakɔrɔ, ń'ù tùn bɛ́ sà, ù tùn bɛ́  sábabu dí  ù dén mà
 \xe autrefois, les vieux, en mourant, confiaient leurs secrets à
 leurs enfants
-\dt 05/Apr/2016
+\sn 5
+\gv Dieu-Créateur
+\dt 17/Apr/2016
 
 \lx sábabuya
 \mm sábabu:n:cause
@@ -101886,11 +101968,11 @@ épuisés
 \sn 1
 \ge frapper
 \sm (avec force et avec bruit)
-\xv à yé  tɛ́gɛ sánkalima  à ɲɛ́ kàn
+\xv à yé tɛ́gɛ sánkalima à ɲɛ́ kàn
 \xe il lui a flanqué une bonne gifle
 \sn 2
 \gv crier
-\dt 26/Sep/2006
+\dt 17/Apr/2016
 
 \lx sánkanso
 \mm sán:n:haut
@@ -101938,16 +102020,18 @@ épuisés
 \dt 26/Sep/2006
 
 \lx sánkɔrɔta
-\mm sán:n:haut
+\mm sán:n:ciel
+\mm kɔ́rɔtà:v:soulever
 \mm kɔ́rɔ:pp:sous
 \mm tà:v:prendre
 \ps n
 \ge gloire
 \gv éloge
-\dt 10/Jul/2013
+\dt 17/Apr/2016
 
 \lx sánkɔrɔtà
-\mm sán:n:haut
+\mm sán:n:ciel
+\mm kɔ́rɔtà:v:soulever
 \mm kɔ́rɔ:pp:sous
 \mm tà:v:prendre
 \lt (haut.dessous.prendre)
@@ -101975,7 +102059,7 @@ épuisés
 \vl vi
 \gv être dans l'euphorie
 \sm (ivre ...)
-\dt 26/Sep/2006
+\dt 17/Apr/2016
 
 \lx sánkulu
 \mm sán:n:haut
@@ -105535,6 +105619,18 @@ gouvernement le soutient (kb 5/06 p.7)
 \sy káburudo
 \sy kólojɛbugu
 \dt 15/Aug/2006
+
+\lx sɛ́lɛkusɛlɛku
+\ps n
+\ge rapidité
+\sm (d'une démarche)
+\dt 17/Apr/2016
+
+\lx sɛ́lɛkusɛlɛku
+\ps adv
+\ge rapidement
+\sm (pour une démarche)
+\dt 17/Apr/2016
 
 \lx sɛ̀li
 \va sàli
@@ -111159,13 +111255,13 @@ euphémique)
 \dt 26/Sep/2006
 
 \lx sùlantɛ̀rɛ
+\va sùlantàra
 \va fùlantàra
 \ve (f)
 \ps n
 \ge gecko
-\lt (mort.du. ?)
-\ee animal censé maléfique)
-\dt 16/Aug/2006
+\ee (animal censé maléfique)
+\dt 17/Apr/2016
 
 \lx súlen
 \mm sú:v:tremper
@@ -114444,6 +114540,12 @@ fiançailles
 \sm (danse ...)
 \dt 19/Jan/2015
 
+\lx tántara
+\ps adv
+\ge grand.large
+\gv large et plat
+\dt 17/Apr/2016
+
 \lx tà-ń-tɛ́gɛ-má
 \mm tà:v:prendre
 \mm ń:pers:je
@@ -114710,9 +114812,9 @@ fiançailles
 \mm tá:n:propriété
 \mm cɛ́n:v:gâter
 \ps v
-\ge se.foutre.en.l'aire
+\ge se.foutre.en.l'air
 \gv bousiller
-\dt 10/Apr/2016
+\dt 16/Apr/2016
 
 \lx tátugukɔnɔ
 \mm tá:n:feu
@@ -118667,6 +118769,24 @@ est due aux paysans (kib 3/05 p.9)
 \gv insuffisant
 \dt 22/Mar/2015
 
+\lx tɔ̀lase
+\mm tɔ̀:n:le.reste
+\mm lá:mrph:CAUS
+\mm sé:v:arriver
+\ps n
+\ge coup.de.grâce
+\dt 17/Apr/2016
+
+\lx tɔ̀láse
+\mm tɔ̀:n:le.reste
+\mm lá:mrph:CAUS
+\mm sé:v:arriver
+\ps v
+\ge achever
+\sm (un animal)
+\gv mettre.un.terme.à
+\dt 17/Apr/2016
+
 \lx tɔ́li
 \ps n
 \ge tôle
@@ -121028,8 +121148,8 @@ bruyants, près du sol, dans les fourrés)
 \xv wáati dɔ́ lá
 \xe parfois
 \xv wáati y'á mìnɛ
-\xe ii a eu du retard, il est en retard
-\dt 26/Sep/2006
+\xe il a eu du retard, il est en retard
+\dt 16/Apr/2016
 
 \lx wáatikun
 \mm wáati:n:moment
