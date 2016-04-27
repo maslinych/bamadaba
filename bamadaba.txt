@@ -13781,10 +13781,11 @@ médicinales
 \ee (un piège...)
 \dt 16/Aug/2006
 
-\lx catiri
+\lx cátiri
+\va càtiri
 \ps n
 \ge théâtre
-\dt 17/Apr/2016
+\dt 19/Apr/2016
 
 \lx cáwu
 \ps adv
@@ -14273,11 +14274,11 @@ sur soi)
 
 \lx cɛ̀farinya
 \mm cè:n:mâle
-\mm fárin:adj:adrent
+\mm fárin:adj:ardent
 \mm ya:mrph:ABSTR
 \ps n
 \ge bravoure
-\dt 24/Jan/2013
+\dt 25/Apr/2016
 
 \lx cɛ́fɛɛrɛn
 \mm cɛ́:n:milieu 
@@ -15491,12 +15492,12 @@ sur soi)
 \sn 4
 \gv fendre
 \gv diviser
-\gv taller
+\gv tailler
 \sm (gram)
 \xv dɔ́gɔ cì
 \xe fendre du bois
 \xv nkène bɛ́ cì kójugu
-\xe le "nkene" talle beaucoup
+\xe le "nkene" taille beaucoup
 \xv bàninkɔnɔ kɔ́nɔsi cìlen dòn : fìnman ní  jɛ́man
 \xe les (couleurs des) plumes du ventre de la cigogne sont bien distinctes (noires et blanches)
 \sn 5
@@ -15514,7 +15515,7 @@ sur soi)
 \xe tracer des zones à sarcler dans un champ
 \xv tùgu cì
 \xe vacciner au bras
-\dt 26/Sep/2006
+\dt 25/Apr/2016
 
 \lx cì
 \va cìi
@@ -21945,6 +21946,13 @@ génitales ...
 \ps v
 \vl vt
 \ge aider
+
+\lx dègedegelu
+\va dègedegeli
+\ps v
+\ge épier
+\gv regarder en tendant les yeux et en se cachant
+\dt 25/Apr/2016
 
 \lx dègeden
 \mm dège:v:enseigner
@@ -29384,13 +29392,13 @@ quant à sa mère, elle prend de l'âge
 \bw ar: fajr : aube
 \ps n
 \sn 1
-\ge cinquième.prière.musulmane
+\ge prière.musulmane.de.l'aube
 \sm (avant le lever du soleil)
 \sn 2
 \gv aube
 \xv kà fájiri jìra  án kɛ́nɛ (ɲɛ́) ná
 \xe bonne nuit ! (que l'aube se montre à nous bien portants !)
-\dt 26/Sep/2006
+\dt 25/Apr/2016
 
 \lx fakisi
 \ps n
@@ -30153,6 +30161,12 @@ quant à sa mère, elle prend de l'âge
 \ge coup.d'état
 \lt (pouvoir.prendre)
 \dt 16/Aug/2006
+
+\lx fàni
+\ps v
+\ge se.révolter
+\gv
+\dt 25/Apr/2016
 
 \lx fànincinin
 \mm fà:n:père
@@ -31803,6 +31817,12 @@ bien (dicton)
 \ge à.toute.allure
 \dt 19/Jan/2015
 
+\lx fére
+\ps n
+\ge bicolore
+\sm (avec du blanc et du rouge)
+\dt 25/Apr/2016
+
 \lx féreke
 \ps n
 \ge enchevêtrement
@@ -31872,15 +31892,12 @@ bien (dicton)
 \mr fɛ̀n*--> fàn = côté, direction, fɛ̀n*--> fɛ̀
 \ps pp
 \sn 1
-\gv vers
-\gv du.côté.de
-\sm sens local
-\xv kɔ́rɔn fɛ̀
-\xe à l'est
-\xv sán fɛ̀
-\xe en haut
-\xv kɔ́ fɛ̀
-\xe par derrière
+\ge par
+\sm marque d'agent
+\xv à bùgɔra  à fà fɛ̀
+\xe il a été battu par son père
+\xv cɛ́sirilan mín bɛ́ díla  fúla fɛ̀
+\xe la ceinture que fabriquent les peuls ...
 \sn 2
 \gv avec
 \ee (accompagnement)
@@ -31904,12 +31921,15 @@ bien (dicton)
 \xv à yɛ̀lɛnna  jùru fɛ̀
 \xe il est monté par la corde
 \sn 6
-\ge par
-\sm marque d'agent
-\xv à bùgɔra  à fà fɛ̀
-\xe il a été battu par son père
-\xv cɛ́sirilan mín bɛ́ díla  fúla fɛ̀
-\xe la ceinture que fabriquent les peuls ...
+\gv vers
+\gv du.côté.de
+\sm sens local
+\xv kɔ́rɔn fɛ̀
+\xe à l'est
+\xv sán fɛ̀
+\xe en haut
+\xv kɔ́ fɛ̀
+\xe par derrière
 \sn 7
 \sm marque de l'objet désiré, voulu
 \xv í bɛ́  mùn fɛ̀ ?
@@ -31925,7 +31945,7 @@ bien (dicton)
 \xe dans l'après-midi
 \xv sàgoma fɛ̀
 \xe le matin
-\dt 07/Feb/2016
+\dt 25/Apr/2016
 
 \lx fɛ̀
 \ps n
@@ -34188,6 +34208,14 @@ de nos ancêtres
 \sm (vers 18h)
 \lt (crépuscule.rejoindre)
 \dt 16/Aug/2006
+
+\lx fìtirinin
+\mm fìtiri:n:prière.musulmane
+\mm nin:mrph:DIM
+\ps n
+\ge petite.chauve-souris.domestique
+\ee (qui sort au crépuscule)
+\dt 17/Apr/2016
 
 \lx fítiriwale
 \mm wále:n:acte
@@ -42427,16 +42455,27 @@ doigts par des fileuses du coton)
 \dt 26/Sep/2006
 
 \lx hàrabaharaba
+\va hàrakaharaka
 \ps n
 \ge affolement
 \gv précipitation
-\dt 26/Sep/2006
+\gv hâte
+\dt 17/Apr/2016
 
 \lx hàrabaharaba
+\va hàrakaharaka
 \ps v
 \vl vt
 \ge bâcler
-\dt 26/Sep/2006
+\gv faire à la hâte
+\dt 17/Apr/2016
+
+\lx hàrabaharaba
+\va hàrakaharaka
+\ps adv
+\ge précipitamment
+\gv à la hâte
+\dt 17/Apr/2016
 
 \lx hàraki
 \bw ar: harik = qui se refuse à faire ou à rendre ce qu'il doit
@@ -48937,6 +48976,14 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \ge cheval.à.tête.et.poitrail.noirs
 \dt 16/Aug/2006
 
+\lx jùbila
+\mm jù:n:derrière
+\mm bìla:v:mettre
+\ps n
+\ge fondations
+\gv soubassement
+\dt 25/Apr/2016
+
 \lx jùbɔ
 \mm jù:n:derrière
 \mm bɔ́:v:sortir
@@ -49269,7 +49316,7 @@ composante des adjectifs séparables)
 \dt 23/Mar/2015
 
 \lx jùlajuguya
-\mm jùlajugu:n:ompudique
+\mm jùlajugu:n:impudique
 \mm jùla:n:maîtrise.de.cul
 \mm jù:n:derrière
 \mm la:mrph:dans
@@ -49278,7 +49325,7 @@ composante des adjectifs séparables)
 \ps n
 \ge débauche
 \lt (débauché.suf abs)
-\dt 23/Mar/2015
+\dt 17/Apr/2016
 
 \lx jùlakan
 \mm jùla:n:commerçant
@@ -65103,23 +65150,36 @@ ou une proposition)
 \lt (grouper-grouper)
 \dt 08/Nov/2012
 
-\lx kúlukùtú
-\ps n
-\ge sphère
-\gv boule
-\gv disque
-\xv bàra kúlukutu
-\xe calebasse sphérique(non ouverte)
-\xv bámanakan yé fɛ́n yé, kúma kúlukutu bìla-bìlalen dòn, à kɔ́nɔna dè fálen bɛ́  kìsɛ lá, dáɲa kelen kuma, kuma tan kɛlen bɛ  à la
-\xe la langue bambara est (très concise), chaque parole est un fruit à part,son intérieur est plein de graines, (tu dis) un mot, il en contient dix.
-\dt 26/Sep/2006
+\lx kúlukùtu
+\ps
+\ge
+\gv
+\dt 25/Apr/2016
 
-\lx kúlukùtú
+\lx kúlukùtu
 \ps adj
 \ge nu
 \gv sans.ajout
 \gv sans.condiment
-\dt 26/Sep/2006
+\dt 25/Apr/2016
+
+\lx kúlukùtu
+\ps n
+\sn 1
+\ge sphère
+\gv boule
+\gv disque
+\xv bàra kúlukutu
+\xe calebasse sphérique (non ouverte)
+\xv bámanakan yé fɛ́n yé, kúma kúlukutu bìla-bìlalen dòn, à
+kɔ́nɔna dè fálen bɛ́ kìsɛ lá, dáɲa kelen kuma, kuma tan kɛlen
+bɛ  à la
+\xe la langue bambara est (très concise), chaque parole est un
+fruit à part, son intérieur est plein de graines, (tu dis) un mot,
+il en contient dix
+\sn 2
+\gv petit.enfant
+\dt 25/Apr/2016
 
 \lx kùlumayɔrɔ
 \mm kùlu:n:montagne
@@ -69245,10 +69305,11 @@ kúrunninle
 
 \lx kúusu
 \va kúus
+\va kús
 \ph [kuus]
 \ps intj
 \ge cri.pour.chasser.les.poules
-\dt 16/Aug/2006
+\dt 25/Apr/2016
 
 \lx kùyu
 \ps n
@@ -73441,6 +73502,14 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lt (préf.éclore)
 \dt 16/Aug/2006
 
+\lx látugu
+\mm lá:mrph:CAUS
+\mm túgu:v:faire.exprès
+\ps v
+\ge obliger
+\gv contraindre
+\dt 25/Apr/2016
+
 \lx látulon
 \mm lá:mrph:CAUS
 \mm túlon:v:jouer
@@ -76343,6 +76412,12 @@ jour, c'est une personne dépendante qu'il voit
 \lat Vigna.unguiculata
 \sd papi
 \dt 19/Aug/2006
+
+\lx mámùru
+\ps n
+\ge beauté.de.voix
+\gv beauté de chant
+\dt 25/Apr/2016
 
 \lx mán
 \ps pm
@@ -79816,6 +79891,13 @@ nord-est
 \sy hɔ́n
 \dt 01/Apr/2014
 
+\lx mɔ́
+\va mɔ́n
+\ps v
+\vl vt
+\ge pêcher
+\dt 25/Apr/2016
+
 \lx mɔ̀bolo
 \mm mɔ̀:n:croissance
 \mm bólo:n:branche
@@ -80394,13 +80476,6 @@ homme
 \ge grand'mère
 \lt (2ème génération.femme)
 \dt 16/Aug/2006
-
-\lx mɔ́n
-\va mɔ́
-\ps v
-\vl vt
-\ge pêcher
-\dt 26/Sep/2006
 
 \lx mɔ́nɛ
 \va múnɛ
@@ -83158,6 +83233,12 @@ sorcières et leur élimination)
 \gv sans.raison
 \lt (don.calme !)
 \dt 26/Sep/2006
+
+\lx nánatɔ
+\va náatɔ
+\ps n
+\ge idiot
+\dt 19/Apr/2016
 
 \lx nànaye
 \bw ar: na`na` = id
@@ -90171,7 +90252,9 @@ graines, sert d'instrument rythmique)
 \dt 18/Apr/2014
 
 \lx ntàla
+\va ntála
 \ps n
+\sn 1
 \ge mangouste
 \ee à queue blanche
 \lat Ichneumia.albicauda
@@ -90179,16 +90262,30 @@ graines, sert d'instrument rythmique)
 \ve (f)
 \sy ncó
 \sy ncókujɛ
-\dt 16/Aug/2006
+\sn 2
+\gv insensible à tout
+\gv risque-tout
+\gv intrépide
+\gv preux
+\sn 3
+\gv homme sauvage
+\gv brute
+\sn 4
+\gv paresseux
+\gv incapable
+\sn 5
+\gv novice
+\gv bleu
+\dt 25/Apr/2016
 
 \lx ntàla
-\ps adj/n
+\ps adj
 \sn 1
 \ge paresseux
 \gv incapable
 \sn 2
 \gv novice
-\dt 26/Sep/2006
+\dt 25/Apr/2016
 
 \lx ntála
 \ps n
@@ -99306,6 +99403,12 @@ le pèlerinage (bk 1/06 p.5)
 \ee variété de tambour au jeu particulier
 \dt 16/Aug/2006
 
+\lx píɲa
+\ps adv
+\ge délicieux
+\gv
+\dt 25/Apr/2016
+
 \lx pípawo
 \ps n
 \ge boubou.long
@@ -108162,10 +108265,12 @@ donne d'excellentes fibres)
 \lx sìrife
 \va sòrofe
 \ve (bn)
+\va sùrufe
+\va fèrefe
 \ps n
 \ge rasoir
 \gv petit couteau tranchant
-\dt 26/Sep/2006
+\dt 25/Apr/2016
 
 \lx sìrifi
 \ve (-f)
@@ -110144,6 +110249,9 @@ euphémique)
 \ps n
 \sn 1
 \ge coeur
+\sm (organe : emploi rare)
+\sn 2
+\gv conduite
 \xv dén bɛ́  mása sɔ̀n tà
 \xe les enfants prennent les habitudes de leurs parents
 \xv sɔ̀n tɛ́  màa mín ná, í júgu b'ó dá  í lá
@@ -110152,10 +110260,7 @@ euphémique)
 \xe changer de conduite
 \xv à sɔ̀nkɔrɔ dòn
 \xe c'est son vice invétéré
-\sn 2
-\gv conduite
-\sm (organe : emploi rare)
-\dt 16/Aug/2006
+\dt 17/Apr/2016
 
 \lx sɔ̀n
 \ps n
@@ -117465,7 +117570,12 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ps n
 \ge éminence
 \gv terre-plein
-\dt 26/Sep/2006
+\gv colline
+\sn 2
+\gv bord relevé
+\gv talus
+\gv margelle
+\dt 25/Apr/2016
 
 \lx tíntin
 \ps v
@@ -124586,12 +124696,24 @@ Mali)
 \dt 16/Aug/2006
 
 \lx yábi
+\va ɲámi
+\va ɲɛ́mi
 \ps adv
 \sn 1
 \ge en.remplissant.l’espace
+\gv énorme
+\gv gigantesque
+\gv très gras
 \sn 2
-\gv bruit.de.chute
-\dt 01/May/2014
+\gv bruit de chute
+\dt 18/Apr/2016
+
+\lx yábi
+\va ɲámi
+\va ɲɛ́mi
+\ps n
+\ge géant
+\dt 18/Apr/2016
 
 \lx yàfa
 \va yàafa
@@ -126466,10 +126588,11 @@ généreuses, avec bourrelets
 \ve (f)
 \va yóon
 \ve (bn)
+\va yóo
 \ps v
 \vl vt
 \ge huiler
-\dt 16/Aug/2006
+\dt 17/Apr/2016
 
 \lx yòrose
 \va yòrofe
