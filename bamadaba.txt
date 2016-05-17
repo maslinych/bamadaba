@@ -2188,6 +2188,15 @@ urinaires, rhume, toux...
 \gv
 \dt 02/May/2015
 
+\lx bákarijan
+\ps n
+\ge mélodie.traditionnelle
+\ee (originellement, un chant à l'honneur de Bákarijan, héros de
+Ségou)
+\xv
+\xe
+\dt 15/May/2016
+
 \lx bàkilu
 \va bàkiilu
 \bw ar: bahil = id.
@@ -8221,6 +8230,23 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ge variété.de.riz
 \dt 16/Aug/2006
 
+\lx bìɲɛ
+\va bìyɛn
+\ps n
+\sn 1
+\ge pointe
+\sn 1.1
+\gv flèche
+\sn 1.2
+\gv alêne
+\gv poinçon
+\sn 1.3
+\gv seringue
+\sn 2
+\gv fétiche
+\ee en forme de clou forgé
+\dt 12/May/2016
+
 \lx bíɲɛ
 \va bíyɛn
 \ps n
@@ -8698,23 +8724,6 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \bw fr
 \ps n
 \ge billet
-
-\lx bìyɛn
-\va bìɲɛ
-\ps n
-\sn 1
-\ge pointe
-\sn 1.1
-\gv flèche
-\sn 1.2
-\gv alêne
-\gv poinçon
-\sn 1.3
-\gv seringue
-\sn 2
-\gv fétiche
-\ee en forme de clou forgé
-\dt 03/Apr/2016
 
 \lx bíyɛnkalama
 \mm bíyɛn:n:foie
@@ -15276,6 +15285,16 @@ sur soi)
 \lt milieu-percer
 \ge transpercer
 \dt 11/Nov/2007
+
+\lx cɛ̀surun
+\mm cɛ̀:n:mâle
+\mm sùrun:adj:court
+\ps n
+\ge air.musical
+\ee
+\xv
+\xe
+\dt 15/May/2016
 
 \lx cɛ̀ta
 \mm cɛ̀:n:mâle
@@ -26915,11 +26934,13 @@ désorienter')
 
 \lx dùgare
 \va dùngare
+\va dùgalen
+\va dùgaren
 \ps n
 \ge miroir
 \xv dúgare cìra  à bólo
 \xe le miroir s'est brisé alors qu'elle s'en servait
-\dt 26/Sep/2006
+\dt 27/Apr/2016
 
 \lx dùgu
 \ps n
@@ -34906,7 +34927,7 @@ de nos ancêtres
 \xe jusqu'à la mort (allongement parfois expressif dans ce sens)
 \sn 2
 \gv sauf
-\xv ɛ́ɛ nàna, fɔ́ é !
+\xv bɛ́ɛ nàna, fɔ́ é !
 \xe tous sont venus, sauf toi !
 \gv en.sorte.que
 \xv ù yé  báara kɛ́  fɔ́ kà bàna
@@ -34921,7 +34942,7 @@ de nos ancêtres
 \gv si bien que
 \sn 5
 \gv il faut que
-\dt 16/Apr/2016
+\dt 03/May/2016
 
 \lx fóbɔnda
 \mm fó:n:saison.froide
@@ -50733,12 +50754,12 @@ l'eau est prête
 \ge offrande.expiatoire
 \sn 2
 \gv punition
-\dt 22/Dec/2014
+\dt 06/May/2016
 
 \lx kàfari
 \va kàfaara
 \va kàfara
-\bw ar: gafara = pardonner
+\bw ar: kaffara expier
 \ps v
 \vl vi
 \sn 1
@@ -50746,7 +50767,7 @@ l'eau est prête
 \gv absoudre
 \sn 2
 \gv pardonner
-\dt 22/Dec/2014
+\dt 06/May/2016
 
 \lx káfe
 \es (fr: café}
@@ -52226,6 +52247,14 @@ prolapsus utérin
 \ge enlever.les.ailes.de
 \lt (aile.priver)
 \dt 16/Aug/2006
+
+\lx kámàro
+\ps n
+\ge gomme.arabique
+\ee
+\xv
+\xe
+\dt 16/May/2016
 
 \lx kàmasi
 \mm kàma:n:épaule
@@ -59840,9 +59869,20 @@ prolapsus utérin
 \lx kòrose
 \bw fr : corsé
 \ps n
-\ge mélange.de.boissons.alcoolisées
+\sn 1
+\ge liqueur.d'hydromel
+\sn 2
+\gv mélange de boissons alcoolisées
 \gv panaché
-\dt 26/Sep/2006
+\dt 15/May/2016
+
+\lx kòrosekɔrɔ
+\mm kòrose:n:liqueur.d'hydromel
+\mm kɔ̀rɔ:adj:vieux
+\ps n
+\ge hymne.à.l'hydromel
+\ee (mélodie traditionnelle)
+\dt 15/May/2016
 
 \lx kòsa
 \bw fr: costard
@@ -60946,12 +60986,12 @@ prolapsus utérin
 \mm kɔ́:n:dos
 \mm lá:pp:dans
 \mm dá:v:poser
-\va kɔ́.ra.da
+\va kɔ́rada
 \mm kɔ́:n:dos
 \mm rá:pp:dans
 \mm dá:v:poser
 \ve (bn)
-\va kɔ́.rɔ.da
+\va kɔ́rɔda
 \mm kɔ́:n:dos
 \mm rɔ́:pp:IN
 \mm dá:v:poser
@@ -60959,7 +60999,7 @@ prolapsus utérin
 \ps n
 \ge tapis.de.selle
 \lt (dos.sur.poser)
-\dt 16/Aug/2006
+\dt 30/Apr/2016
 
 \lx kɔ́laden
 \mm kɔ́:n:dos
@@ -68158,12 +68198,13 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \ge honneur
 \gv fierté
 \gv gloire
-\gv réussite
-\lt (gloire.engendrer)
 \sn 2
 \gv joie
-\sm d'avoir échappé à une humiliation
-\dt 26/Sep/2006
+\sm (d'avoir échappé à une humiliation)
+\sn 3
+\gv réussite
+\gv acquis
+\dt 10/May/2016
 
 \lx kùnnawolo
 \mm kùn:n:tête
@@ -75680,11 +75721,10 @@ jour, c'est une personne dépendante qu'il voit
 \va màkaamà
 \ve (f)
 \va màkanma
-\ee *makanba ?
 \ps n
 \ge renom
 \gv gloire
-\dt 27/Jun/2013
+\dt 16/May/2016
 
 \lx màkan
 \ps n
@@ -75784,9 +75824,14 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màkari
 \ps n
+\sn 1
 \ge pitié
 \xv à màkari dònna  à lá
 \xe il en a eu pitié
+\sn 2
+\gv air musical traditionnel
+\ee (de màkari bánna pitié est fini)
+\dt 15/May/2016
 
 \lx màkari
 \ps v
@@ -86268,9 +86313,18 @@ sur soi, on les connaît
 \dt 22/Mar/2015
 
 \lx nímisa
+\va nímisi
 \ps n
+\sn 1
 \ge regret
 \gv repentir
+\sn 2
+\gv désir accompagné de regret
+\xv à nímisi bɛ́  mùso fílanan fúru kàn
+\xe il voudrait épouser une deuxième femme (regret de n'en avoir qu'une; dans ce sens, ne s'entend pas sous la forme "nimisa")
+\xv ù yé  án nímisi wása
+\xe ils ont comblé nos espoirs
+\dt 03/May/2016
 
 \lx nímisa
 \va nímisi
@@ -86279,25 +86333,14 @@ sur soi, on les connaît
 \ge regretter
 \dt 26/Sep/2006
 
-\lx nímisi
-\ps n
-\sn 1
-\ge regret
-\gv repentir
-\sn 2
-\gv désir.accompagné.de.regret
-\xv à nímisi bɛ́  mùso fílanan fúru kàn
-\xe il voudrait épouser une deuxième femme (regret de n'en avoir qu'une; dans ce sens, ne s'entend pas sous la forme "nimisa")
-\xv ù yé  án nímisi wása
-\xe ils ont comblé nos espoirs
-\dt 26/Sep/2006
-
 \lx nímisiwàsa
+\mm nímisi:n:regret
+\mm wàsa:v:satisfaire
 \ps v
 \ge satisfaire
 \gv faire plaisir à
 \gv faire une surprise agréable à
-\dt 10/May/2013
+\dt 03/May/2016
 
 \lx nìmɔgɔ
 \mm mɔ̀gɔ:n:homme
@@ -93205,6 +93248,16 @@ graines, sert d'instrument rythmique)
 \ge agitation
 \dt 16/Aug/2006
 
+\lx ɲáɲaaro
+\va ɲáaro
+\ps n
+\ge violon
+\gv violoncelle
+\syn sòku
+\xv
+\xe
+\dt 15/May/2016
+
 \lx ɲàraki
 \ps v
 \vl vt
@@ -99150,6 +99203,20 @@ le pèlerinage (bk 1/06 p.5)
 \xv tábali pénpe
 \xe clouer une table
 \dt 26/Sep/2006
+
+\lx pénpèlen
+\va pénpèle
+\ve pénbelen
+\ps n
+\sn 1
+\ge maillet
+\gv gourdin
+\gv billot de bois
+\sn 2
+\gv sexe masculin
+\xv
+\xe
+\dt 16/May/2016
 
 \lx péntèlú
 \ps n
@@ -113909,7 +113976,7 @@ fiançailles
 \gv évocation de la mémoire d'un défunt
 \sn 2
 \gv réflexion
-\dt 03/Oct/2015
+\dt 11/May/2016
 
 \lx táasira
 \mm táa:v:aller

@@ -1734,7 +1734,7 @@
 
 \lx Kónatɛ̀
 \va Kɔnatɛ
-\va Konate
+\va Kònate
 \eq Kéyità
 \eq Konare (?)
 \di m
@@ -1743,7 +1743,7 @@
 \tn wùlu
 \sn Màriko
 \ms в Беледугу
-\dt 04/Jun/2014
+\dt 13/May/2016
 \ps n.prop
 \ge NOM.CL
 
@@ -3188,7 +3188,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ge NOM.CL
 
 \lx Tùnkara
-\va Tungara
+\va Tùngara
 \di son
 \di kag
 \di m
@@ -3199,7 +3199,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ca mòri
 \ca jèli
 \ms У кагоро - jèli при Fofana.
-\dt 06/May/2010
+\dt 12/May/2016
 \ps n.prop
 \ge NOM.CL
 
