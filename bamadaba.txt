@@ -6156,12 +6156,12 @@ rhume, toux
 \ph [ byɛ]
 \ve (f)
 \ps prn
-\ge chaque
-\gv chacun
+\ge chacun
+\gv chaque
 \gv tous
 \xv bɛ́ɛ ń'í tá dòn
 \xe à chacun le sien
-\dt 07/Nov/2014
+\dt 28/May/2016
 
 \lx bɛ́ɛ
 \ps adv
@@ -8168,11 +8168,17 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
+\va bìnkannikɛla
+\mm bìn:v:tomber
+\mm kàn:pp:sur
+\mm ni:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
 \ps n
 \ge bandit
 \lt (agression.faiseur)
 \sy gètere
-\dt 04/Feb/2016
+\dt 22/May/2016
 
 \lx bìnńkànni
 \mm bìn:v:tomber
@@ -19776,6 +19782,14 @@ pas)
 \xe il n'y en avait que deux
 \dt 26/Sep/2006
 
+\lx dàma
+\ps adv
+\ge seulement
+\ee
+\xv
+\xe
+\dt 28/May/2016
+
 \lx dáma
 \ve (-f)
 \ps n
@@ -21345,7 +21359,7 @@ génitales ...
 
 \lx dárɔda
 \mm dá:n:bouche
-\mm rɔ́:mrph:CAUS
+\mm rɔ́:mrph:IN
 \mm dá:v:poser
 \ps v
 \vl vr
@@ -21354,7 +21368,7 @@ génitales ...
 \lt (parole.poser)
 \xv ń'í y'í dárɔda mín ná, í b'ó dárɔkanji bɔ̀n
 \xe ce que tu as promis, tu en verses la libation
-\dt 26/Sep/2006
+\dt 25/May/2016
 
 \lx dárɔdun
 \mm dá:n:bouche
@@ -21370,7 +21384,7 @@ génitales ...
 
 \lx dárɔgɛ̀lɛya
 \mm dá:n:bouche
-\mm rɔ́:mrph:CAUS
+\mm rɔ́:mrph:IN
 \mm gɛ̀lɛ:vq/adj:dur
 \mm ya:mrph:DEQU 
 \ps v
@@ -21378,16 +21392,16 @@ génitales ...
 \ge s'entêter
 \sm (à nier ...)
 \lt (parole.durcir)
-\dt 26/Sep/2006
+\dt 25/May/2016
 
 \lx dárɔmugan
 \mm dá:n:bouche
-\mm rɔ́:mrph:LOC
+\mm rɔ́:mrph:IN
 \mm múgan:v:sucer
 \ps v
 \vl vr
 \ge remuer.la.bouche.comme.si.on.suçait.qqch
-\dt 03/Apr/2016
+\dt 25/May/2016
 
 \lx dárɔsàma
 \mm dá:n:bouche
@@ -21402,7 +21416,7 @@ génitales ...
 
 \lx dárɔtɔmɔ
 \mm dá:n:bouche
-\mm rɔ́:mrph:CAUS
+\mm rɔ́:mrph:IN
 \mm tɔ̀mɔ:v:ramasser
 \ps n
 \ge choix.de.nourriture
@@ -21411,7 +21425,7 @@ génitales ...
 \xe un tel fait le difficile
 \xv ń'í y'á yé kó : í bɛ́  dárɔtɔmɔ kɛ́, mìnɛ fìla bɛ́  í kɔ́rɔ
 \xe si tu vois qu'on fait un choix, c'est qu'il y a deux plats proposés
-\dt 16/Aug/2006
+\dt 25/May/2016
 
 \lx dásàma
 \mm dá:n:bouche
@@ -36642,11 +36656,13 @@ forestières, fruit : long follicule de 50 cm)
 
 \lx fújunu
 \va fújunɛ
+\va fújeni
+\va fúnjeni
 \ps v
 \vl vi
 \ge se.fâcher
 \sm contre ... kɔrɔ
-\dt 16/Aug/2006
+\dt 26/May/2016
 
 \lx fúla
 \va flá
@@ -39133,6 +39149,14 @@ forestières, fruit : long follicule de 50 cm)
 \ge intervalle.entre.les.pierres.du.foyer
 \lt (foyer.devant)
 \dt 16/Aug/2006
+
+\lx garadi
+\ps n
+\ge garde
+\ee
+\xv
+\xe
+\dt 22/May/2016
 
 \lx gáradi
 \ps n
@@ -52312,6 +52336,14 @@ prolapsus utérin
 \lt (pintade.crête)
 \dt 16/Aug/2006
 
+\lx kan
+\ps n
+\ge camp.militaire
+\ee
+\xv
+\xe
+\dt 22/May/2016
+
 \lx kàn
 \ps pp
 \sn 1
@@ -53568,8 +53600,11 @@ prolapsus utérin
 \sn 2
 \gv syllabe
 \ee (néologisme)
-\lt (voix/gorge.fois)
-\dt 16/Aug/2006
+\sn 3
+\gv heure
+\xv nɛ̀gɛ kánɲɛ
+\xe heure
+\dt 22/May/2016
 
 \lx kánpasaja
 \mm kán:n:cou
@@ -56971,10 +57006,11 @@ prolapsus utérin
 \dt 04/Jul/2013
 
 \lx kílo
+\va kg
 \ps n
 \ge kilogramme
 \gv kilo
-\dt 04/Jul/2013
+\dt 22/May/2016
 
 \lx kílomɛtɛrɛ
 \ps n
@@ -59250,9 +59286,10 @@ prolapsus utérin
 \va kómitɛri
 \va kómutɛri
 \va pɔ́mitɛrɛ
+\va kɔ́mitɛri
 \ps n
 \ge pomme.de.terre
-\dt 05/Feb/2016
+\dt 22/May/2016
 
 \lx kòn
 \va nkòn
@@ -64209,18 +64246,21 @@ ou une proposition)
 \sy kɔ́rɔsigibaa
 \dt 26/Sep/2006
 
-\lx kɔ́rɔsyɛ́n
+\lx kɔ́rɔsyɛn
 \mm kɔ́rɔ:n:dessous
 \mm syɛ́n:v:gratter
-\va kɔ́rɔ.shyɛ́n
+\va kɔ́rɔshyɛ́n
 \mm kɔ́rɔ:n:dessous
 \mm shyɛ́n:v:gratter
+\va kɔ́rɔsiyɛn
+\mm kɔ́rɔ:n:dessous
+\mm síyɛn:v:gratter
 \ph [shy]
 \ps v
 \vl vt
 \ge sarcler
 \lt (dessous.gratter)
-\dt 16/Aug/2006
+\dt 22/May/2016
 
 \lx kɔ́rɔtà
 \mm kɔ́rɔ:n:dessous
@@ -69638,14 +69678,14 @@ kúrunninle
 \xe n'est pas perpendiculaire, (la maison) ne tiendra pas longtemps
 \dt 16/Aug/2006
 
-\lx làánsàrá
+\lx làansàra
 \bw ar: al -`asr = id.
 \ps n
 \sn 1
 \ge l'après-midi
 \sn 2
-\gv deuxième.prière.musulmane
-\dt 16/Aug/2006
+\gv troisième prière musulmane
+\dt 25/May/2016
 
 \lx lábaara
 \mm lá:mrph:CAUS
@@ -78902,7 +78942,7 @@ invulnérable aux serpents, aux fauves ...)
 \xe où vas-tu ?
 \dt 10/Apr/2015
 
-\lx mín
+\lx mîn
 \va mun
 \ee la forme mun apparaît régulièrement dans certains dialectes du
 nord-est
@@ -78916,9 +78956,9 @@ nord-est
 \ee son corrélatif dans la principale est 'ò' au sing. et 'òlu' au pl.
 \xv í túlo bɛ́  wɔ̀lɔ mînnu kàsikan ná, né bɛ́ táa  òlu fàga
 \xe je m'en vais tuer les francolins que tu entends chanter
-\dt 28/Mar/2015
+\dt 28/May/2016
 
-\lx mín
+\lx mîn
 \va mun
 \ee la forme mun apparaît régulièrement dans certains dialectes du
 nord-est
@@ -78932,7 +78972,7 @@ nord-est
 \xv mînnu ká ɲì
 \xe ceux qui sont en bon état
 \ee son corrélatif dans la principale est 'ò' au sing. et 'òlu' au pl.
-\dt 03/Apr/2016
+\dt 28/May/2016
 
 \lx mìnan
 \ps n
@@ -79853,6 +79893,14 @@ nord-est
 \ge moto
 \rem l 89 : motocyclette !
 \dt 11/Nov/2007
+
+\lx motopɔnpu
+\ps n
+\ge motopompe
+\ee
+\xv
+\xe
+\dt 22/May/2016
 
 \lx mɔ̀
 \ps v
@@ -99149,10 +99197,10 @@ le pèlerinage (bk 1/06 p.5)
 \dt 16/Aug/2006
 
 \lx pé
-\ps adv
+\ps dtm
 \ge seulement
 \ee (emploi rare en dehors de kelen pe un seul)
-\dt 18/Mar/2015
+\dt 28/May/2016
 
 \lx pélenkete
 \va pélenketenwu
@@ -107910,25 +107958,6 @@ trompe)
 \gv
 \dt 18/Feb/2015
 
-\lx síɲɛ
-\va sán
-\va syán
-\ve (bn)
-\va síyɛn
-\va syɛ́n
-\ve (bk,f)
-\va shyɛ́n
-\va shíyɛn
-\ps v
-\vl vt
-\ge gratter
-\gv sarcler
-\xv ŋɔ́ni yé  né syɛ́n
-\xe les épines m'ont égratigné
-\xv mùso bɛ́  jɛ́gɛfara syɛ́n
-\xe la femme écaille le poisson
-\dt 23/Mar/2015
-
 \lx sìɲɛna
 \mm sì:v:passer.la.nuit
 \mm ɲɛ́:n:oeil
@@ -108644,6 +108673,15 @@ donne d'excellentes fibres)
 \ge civile
 \dt 03/May/2013
 
+\lx siwili
+\va siwuli
+\ps n
+\ge civil
+\ee
+\xv
+\xe
+\dt 22/May/2016
+
 \lx síya
 \mm sí:n:semence
 \mm ya:mrph:ABSTR
@@ -108687,6 +108725,25 @@ donne d'excellentes fibres)
 \ps n
 \ge raciste
 \lt (race.trier.celui qui)
+
+\lx síyɛn
+\va sán
+\va syán
+\ve (bn)
+\va síɲɛ
+\va syɛ́n
+\ve (bk,f)
+\va shyɛ́n
+\va shíyɛn
+\ps v
+\vl vt
+\ge gratter
+\gv sarcler
+\xv ŋɔ́ni yé  né syɛ́n
+\xe les épines m'ont égratigné
+\xv mùso bɛ́  jɛ́gɛfara syɛ́n
+\xe la femme écaille le poisson
+\dt 22/May/2016
 
 \lx sò
 \ps n
@@ -114814,6 +114871,15 @@ fiançailles
 \sm (Dieu sur une offrande, vx)
 \sy déli
 \dt 26/Sep/2006
+
+\lx tarakitɛri
+\va tarakitri
+\ps n
+\ge tracteur
+\ee
+\xv
+\xe
+\dt 22/May/2016
 
 \lx táranna
 \mm tára:v:coller
