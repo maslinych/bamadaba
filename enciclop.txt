@@ -261,6 +261,16 @@
 \ge Mao.ZeDong
 \dt 23/Feb/2014
 
+\lx MINUSMA
+\ps n
+\ge MINUSMA
+\gv Mission multidimensionnelle intégrée des Nations Unies pour
+la stabilisation au Mali
+\ee
+\xv
+\xe
+\dt 28/May/2016
+
 \lx Miti Oromeneyi
 \ps n.prop
 \ge TOP
@@ -285,11 +295,22 @@
 \ge Office.du.Niger
 \dt 24/Apr/2013
 
+\lx Omɛsi
+\ps n
+\ge ABR
+\gv OMS
+\gv Organisation Mondiale de Santé
+\ee
+\xv
+\xe
+\dt 29/May/2016
+
 \lx ONU
+\va ONI
 \ps n
 \ge ABR
 \gv Organisation des Nations Unies
-\dt 04/Feb/2016
+\dt 29/May/2016
 
 \lx oranzimɔnɛ
 \ps n

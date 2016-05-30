@@ -10681,7 +10681,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bòn
 \ps vq
 \sn 1
-\ge ample
+\ge grand
 \sm gros en volume
 \xv dùlɔki nìn ká bòn  né mà
 \xe cet habit est trop grand pour moi
@@ -10702,7 +10702,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xe il est très gourmand
 \sn 4
 \gv important
-\dt 26/Sep/2006
+\dt 30/May/2016
 
 \lx bón
 \ee bon = lancer
@@ -19776,11 +19776,13 @@ pas)
 \ps dtm
 \ge seulement
 \sy dɔ́rɔn
+\xv à dàma
+\xe à part
 \xv ò dàma tɛ́
 \xe ce n'est pas seulement ça
 \xv fìla dàma tùn dòn
 \xe il n'y en avait que deux
-\dt 26/Sep/2006
+\dt 30/May/2016
 
 \lx dàma
 \ps adv
@@ -19822,6 +19824,15 @@ pas)
 \ge bouche.active
 \sm (partie initiale des adjectifs décomposables)
 \dt 23/Mar/2015
+
+\lx dáma
+\ps dtm
+\ge plusieurs
+\gv quelques
+\ee
+\xv
+\xe
+\dt 30/May/2016
 
 \lx dàmada
 \mm dàma:n:puits.de.mine.d'or
@@ -45103,24 +45114,24 @@ qqch ...)
 \lx jàteminɛ
 \mm jàte:n:compte
 \mm mìnɛ:v:attraper
+\va jàtiminɛ
 \mm jàti:n:compte
 \mm mìnɛ:v:attraper
-\va jàtiminɛ
 \ps n
 \ge calcul
 \lt (calcul.prendre)
-\dt 05/Feb/2016
+\dt 28/May/2016
 
 \lx jàteminɛ
 \mm jàte:n:compte
 \mm mìnɛ:v:attraper
+\va jàtiminɛ
 \mm jàti:n:compte
 \mm mìnɛ:v:attraper
-\va jàtiminɛ
 \ps v
 \vl vt
 \ge calculer
-\dt 05/Feb/2016
+\dt 28/May/2016
 
 \lx jàti
 \va jàte
@@ -56024,10 +56035,10 @@ prolapsus utérin
 \lx kɛ́nɛ
 \ps vq/adj
 \sn 1
-\gv sain
+\ge sain
 \ee (fruit, viande ...)
 \sn 2
-\ge en.bonne.santé
+\gv en.bonne.santé
 \gv en.pleine.forme
 \xv à mán kɛ́nɛ
 \xe il est malade
@@ -56046,7 +56057,7 @@ prolapsus utérin
 \ee (non cuit, non grillé ...)
 \xv à bɛ́  tìga kɛ́nɛ ɲími
 \xe il grignote des arachides crues
-\dt 15/May/2013
+\dt 30/May/2016
 
 \lx kɛ́nɛba
 \mm kɛ́nɛ:n:clarté
@@ -67916,10 +67927,17 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \mm nan:mrph:dans
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
+\va kùnnadiya
+\mm kùn.na.di:adj:chanceux
+\mm kùnna:n:contenu.de.tête
+\mm kùn:n:tête
+\mm na:mrph:dans
+\mm dí:vq:agréable
+\mm ya:mrph:ABSTR
 \ps n
 \ge chance
 \lt (chanceux.suf abs)
-\dt 23/Mar/2015
+\dt 28/May/2016
 
 \lx kùnnandiya
 \mm kùnnandi:adj:chanceux
@@ -67928,10 +67946,17 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \mm nan:mrph:dans
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
+\va kùnnadiya
+\mm kùn.na.di:adj:chanceux
+\mm kùnna:n:contenu.de.tête
+\mm kùn:n:tête
+\mm na:mrph:dans
+\mm dí:vq:agréable
+\mm ya:mrph:ABSTR
 \ps v
 \ge être.chanceux
 \gv porter chance
-\dt 23/Mar/2015
+\dt 28/May/2016
 
 \lx kùnnango
 \mm kùnna:n:contenu.de.tête
@@ -112141,6 +112166,11 @@ euphémique)
 \ee ménagères
 \dt 18/Apr/2014
 
+\lx superefe
+\ps n
+\ge sous-préfet
+\dt 28/May/2016
+
 \lx súraka
 \ps n
 \ge maure
@@ -122895,12 +122925,13 @@ la Justice (kb 12/05 p.4)
 \dt 26/Sep/2006
 
 \lx wó
+\va wá
 \ps conj
 \ge ou.bien
 \ee particule marquant des hypothèses successives
 \xv à bɛ́ nà wó, à tɛ́ nà wó, ò bɛ́ɛ ká kán
 \xe qu'il vienne ou non, c'est pareil
-\dt 26/Sep/2006
+\dt 28/May/2016
 
 \lx wó
 \ps v
@@ -124852,9 +124883,9 @@ Mali)
 \va yàafa
 \ps n
 \ge pardon
-\xv yàfa ɲíni  màa fɛ̀
+\xv yàfa ɲíni màa fɛ̀
 \xe demander pardon à qqn
-\dt 03/Apr/2016
+\dt 29/May/2016
 
 \lx yàfa
 \va yàafa
