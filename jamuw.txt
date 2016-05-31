@@ -11,6 +11,15 @@
 \ps n.prop
 \ge NOM.CL
 
+\lx Ba
+\ps n.prop
+\ge NOM.CL
+\gv Ba
+\ee
+\xv
+\xe
+\dt 31/May/2016
+
 \lx Bacili
 \ps n.prop
 \ge NOM.CL

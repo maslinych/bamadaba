@@ -4229,12 +4229,6 @@ Fleurs spectaculaires
 \lt (chèvre.'nkasa'.petit)
 \dt 03/Apr/2016
 
-\lx banki
-\ps n
-\ge banque
-\gv
-\dt 08/Feb/2016
-
 \lx bánki
 \ps n
 \ge banque
@@ -4615,6 +4609,15 @@ Fleurs spectaculaires
 \ge condition.de.la.femme.préférée
 \rem du
 \dt 11/Nov/2007
+
+\lx barazi
+\ps n
+\ge barrage
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx bàri
 \va bɛ̀ri
@@ -5271,6 +5274,15 @@ furoncles, inf. urinaires
 \ge infirmier
 \gv médecin
 \dt 11/Nov/2007
+
+\lx basikɛti
+\ps n
+\ge basket-ball
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx básikɛyɔrɔ
 \mm bási:n:fétiche
@@ -13414,6 +13426,15 @@ toujours (pro)
 \ee d'un panier ...
 \dt 16/Aug/2006
 
+\lx burusi
+\ps n
+\ge brousse
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
+
 \lx búrututu
 \ps adv
 \ge sans.répit
@@ -14870,6 +14891,17 @@ sur soi)
 \xv jí cɛ́mancɛ lá
 \xe au beau milieu de l'eau
 \dt 03/May/2013
+
+\lx cɛ́mancɛmɔgɔ
+\mm cɛ́mancɛ:n:milieu
+\mm mɔ̀gɔ:n:homme
+\ps n
+\ge milieux.de.terrain
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx cɛ́mancɛrɔbana
 \mm cɛ́mancɛ:n:milieu
@@ -17298,6 +17330,22 @@ sur soi)
 \lt (ibis.blanc)
 \ee (vol plané et battu alterné)
 \dt 16/Aug/2006
+
+\lx dábɔnkama
+\mm dábɔ:v:commencer
+\mm dá:n:bouche
+\mm bɔ́:v:sortir
+\mm ń:pers:1SG
+\mm kámà:pp:pour
+\mm kán:n:cou
+\mm mà:pp:à
+\ps n
+\ge action.intentionnelle
+\gv action volontaire
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx dàbulu
 \mm dà:n:chanvre
@@ -24201,6 +24249,15 @@ chefs religieux et représentants de l'administration
 \lt (poitrine.lieu.enfant)
 \dt 26/Sep/2006
 
+\lx disitiriki
+\ps n
+\ge district
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
+
 \lx díso
 \mm dí:n:miel
 \mm só:n:maison
@@ -24937,6 +24994,17 @@ chefs religieux et représentants de l'administration
 \ge non.initié
 \lt (entrer.ne pas)
 \dt 16/Aug/2006
+
+\lx dònbolo
+\mm dòn:v:entrer
+\mm bólo:n:bras
+\ps n
+\ge don
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx dònda
 \mm dòn:v:entrer
@@ -26764,7 +26832,6 @@ désorienter')
 
 \lx dùba
 \ve (f,bn)
-\va dùgawu
 \va dùwa
 \va dùga
 \va dùfa
@@ -26778,7 +26845,7 @@ désorienter')
 \xv dùba kɛ́
 \xv dùba dòn  màa yé
 \xe bénir qqn, faire des bénédictions
-\dt 03/Apr/2016
+\dt 31/May/2016
 
 \lx dùba
 \va dùga
@@ -47283,6 +47350,17 @@ nos libations "
 \lt (arbre.taper)
 \dt 26/Sep/2006
 
+\lx jírikɔnɔ
+\mm jíri:n:arbre
+\mm kɔ́nɔ:n:ventre
+\ps n
+\ge hectare
+\syn táari
+\ee
+\xv
+\xe
+\dt 31/May/2016
+
 \lx jírikɔrɔta
 \mm jíri:n:arbre
 \mm kɔ́rɔ:n:dessous
@@ -50754,6 +50832,15 @@ l'eau est prête
 \ps adv
 \ge toujours
 \dt 19/Jan/2015
+
+\lx kade
+\ps n
+\ge cadet
+\gv
+\ee (tranches d'âge en sports)
+\xv
+\xe
+\dt 31/May/2016
 
 \lx káfa
 \ps n
@@ -57014,7 +57101,7 @@ prolapsus utérin
 \lx kílo
 \ps n
 \ge kilomètre
-\dt 04/Jul/2013
+\dt 31/May/2016
 
 \lx kílo
 \va kg
@@ -60499,6 +60586,19 @@ prolapsus utérin
 \xe certains bébés naissent par le siège...
 \dt 07/Feb/2016
 
+\lx kɔ́fɛmɔgɔ
+\mm kɔ́fɛ̀:pp:derrière
+\mm kɔ́:n:dos
+\mm fɛ̀:pp:par
+\mm mɔ̀gɔ:n:homme
+\ps n
+\ge arrières.football
+\gv défenseur
+\ee
+\xv
+\xe
+\dt 31/May/2016
+
 \lx kɔ́fɛsen
 \mm kɔ́:n:dos
 \mm fɛ̀:pp:par
@@ -60646,11 +60746,13 @@ prolapsus utérin
 \ge poitrine
 \xv à kɔ́gɔ fálen
 \xe sa poitrine est pleine  (jeune fille aux seins bien formés)
-\xv fɛ́n cɛ̀  kɔ́gɔ lá
-\xv kɔ́gɔ dá  fìni ná
-\xv fɛ́n súma  kɔ́gɔ lá
+\xv kɔ́gɔ dá à lá
+\xe s'affronter à
+\xv
+\xe
+\xv kɔ́gɔ dá  fìni ná, fɛ́n cɛ̀  kɔ́gɔ lá, fɛ́n súma  kɔ́gɔ lá
 \xe auner une étoffe
-\dt 16/Aug/2006
+\dt 31/May/2016
 
 \lx kɔ́gɔ
 \va kwá
@@ -64250,12 +64352,15 @@ ou une proposition)
 \mm kɔ́rɔ:n:dessous
 \mm sìgi:v:asseoir
 \ps n
+\sn 1
 \ge adjoint
 \gv assistant
 \gv remplaçant
 \lt (auprès.asseoir)
 \sy kɔ́rɔsigibaa
-\dt 26/Sep/2006
+\sn 2
+\gv fraction
+\dt 31/May/2016
 
 \lx kɔ́rɔsyɛn
 \mm kɔ́rɔ:n:dessous
@@ -68042,10 +68147,28 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \mm ná:pp:dans
 \mm sìgi:v:asseoir
 \ps n
+\sn 1
 \ge installation.de.la.femme
 \ee au domicile de son mari
-\lt (à charge.installation)
-\dt 16/Aug/2006
+\sn 2
+\gv administrateur
+\gv supérieur
+\sn 3
+\gv multiple
+\ee (math.)
+\dt 31/May/2016
+
+\lx kùnnasigi
+\mm kùn:n:tête
+\mm ná:pp:dans
+\mm sìgi:v:asseoir
+\ps n
+\ge
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx kùnnasìgi
 \mm kùn:n:tête
@@ -68887,7 +69010,10 @@ Sahel)
 \sm (dans une balance)
 \sn 8
 \gv morceau
-\dt 10/Apr/2014
+\sn 9
+\gv but
+\ee (football)
+\dt 31/May/2016
 
 \lx kùru
 \ps v
@@ -77141,11 +77267,13 @@ invulnérable aux serpents, aux fauves ...)
 \lx mànkutu
 \ps v
 \vl vt
-\ge dire.du.bien
-\gv faire.l'éloge
+\sn 1
+\ge glorifier
 \xv mɔ̀gɔ ɲà ó ɲà, í tɛ́ sé k'í yɛ̀rɛ mànkutu
 \xe si bon qu'on soit, on ne fait pas son propre éloge
-\dt 26/Sep/2006
+\sn 2
+\gv qualifier
+\dt 31/May/2016
 
 \lx mànkutulan
 \mm mànkutu:v:dire.du.bien
@@ -78894,6 +79022,15 @@ invulnérable aux serpents, aux fauves ...)
 \ps n
 \ge sangsue
 \dt 16/Aug/2006
+
+\lx milimɛtɛrɛ
+\ps n
+\ge millimètre
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx míliyari
 \ps n
@@ -93194,6 +93331,22 @@ graines, sert d'instrument rythmique)
 \rem f, bk, bn
 \dt 11/Nov/2007
 
+\lx ɲàngaran
+\va ɲànkaran
+\va ɲàngara
+\va ɲànkara
+\ps n
+\sn 1
+\ge air.des.braves
+\sm (célébrant des gens courageux )
+\gv danse réservée aux braves après une dure épreuve
+\sn 2
+\gv chasseur.audacieux
+\sn 3
+\gv personne de grand savoir
+\gv sorcier
+\dt 31/May/2016
+
 \lx ɲàngi
 \va ɲàkin
 \ve (f)
@@ -93220,16 +93373,6 @@ graines, sert d'instrument rythmique)
 \cm (dû à la misère)
 \gv
 \dt 29/Nov/2015
-
-\lx ɲànkara
-\va ɲànkaran
-\ps n
-\sn 1
-\ge chasseur.audacieux
-\sn 2
-\gv air.de.musique
-\sm (célébrant des gens courageux )
-\dt 16/Aug/2006
 
 \lx ɲànkata
 \va ɲàngata
@@ -93611,7 +93754,9 @@ graines, sert d'instrument rythmique)
 \lt (devant.mettre)
 \sn 2
 \gv préface
-\dt 26/Sep/2006
+\sn 3
+\gv jeu préliminaire
+\dt 31/May/2016
 
 \lx ɲɛ́bìla
 \mm ɲɛ́:n:oeil
@@ -94088,6 +94233,19 @@ graines, sert d'instrument rythmique)
 \sy káliya bɔ́ta
 \rem jakité
 \dt 07/Feb/2016
+
+\lx ɲɛ́fɛmɔgɔ
+\mm ɲɛ́fɛ̀:pp:devant
+\mm ɲɛ́:n:oeil
+\mm fɛ̀:pp:par
+\mm mɔ̀gɔ:n:homme
+\ps n
+\ge avants.football
+\gv attaquant
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx ɲɛ́fɛtaa
 \mm ɲɛ́:n:oeil
@@ -99264,6 +99422,15 @@ le pèlerinage (bk 1/06 p.5)
 \xe la viande avec des os se coupe (ainsi)
 \dt 16/Aug/2006
 
+\lx penaliti
+\ps n
+\ge penalty
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
+
 \lx pénpe
 \ps v
 \vl vt
@@ -102241,12 +102408,13 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sànko
+\va sàngo
 \ps conj
 \ge surtout
 \gv pour que
 \gv afin de
 \sy jànko
-\dt 21/Feb/2013
+\dt 31/May/2016
 
 \lx sánkò
 \ps adv
@@ -103691,11 +103859,15 @@ paniers, sègi)
 \mm sé:n:arrivée
 \mm kó:n:affaire
 \mm la:mrph:AG.PRM
+\va sénkola
+\mm sé:n:arrivée
+\mm kó:n:affaire
+\mm la:mrph:AG.PRM
 \ps n
 \ge capable
 \ee qui montre qu'il est capable ...
 \lt (pouvoir.action.en)
-\dt 16/Aug/2006
+\dt 31/May/2016
 
 \lx sékufàli
 \ps n
@@ -114026,10 +114198,11 @@ fiançailles
 \lx táari
 \ps n
 \ge hectare
+\sy jírikɔnɔ
 \xv dɔ̀kɔtɔrɔsoba ìn bɛ́na jɔ̀ táari 16 kàn
 \xe le grand dispensaire se bâti sur (un terrain de) 16 hectares (kb 2/06 p.3)
 \nt ton à vérifier
-\dt 11/Nov/2007
+\dt 31/May/2016
 
 \lx tàasi
 \ps v
@@ -114704,6 +114877,17 @@ fiançailles
 \ge ainsi
 \gv exactement ainsi
 \dt 25/May/2014
+
+\lx tánko
+\mm tán:v:donner.coup.de.pied
+\mm kó:n:affaire
+\ps n
+\ge coup.d'envoi
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx tánkɔn
 \ps n
@@ -126990,11 +127174,18 @@ généreuses, avec bourrelets
 \ge escroquer
 \dt 25/Jun/2013
 
-\lx zántaramu
+\lx zándarameri
+\ps n
+\ge gendarmerie
+\dt 31/May/2016
+
+\lx zándaramu
+\va zándarama
+\va zántaramu
 \ps n
 \ge gendarme
 \nt kb 7/05 p.3
-\dt 11/Nov/2007
+\dt 31/May/2016
 
 \lx zánwuye
 \bw fr : janvier

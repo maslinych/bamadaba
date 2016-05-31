@@ -68,6 +68,15 @@
 \gv Amadou Toumani Touré
 \dt 09/Apr/2016
 
+\lx Banki Muni
+\ps n.prop
+\ge NOM.ETRG
+\gv Ban Ki-moon
+\ee
+\xv
+\xe
+\dt 31/May/2016
+
 \lx Baraki Obama
 \ps n.prop
 \ge NOM.ETRG
@@ -106,6 +115,15 @@
 \smf (1e président de la Côte d'Ivoire)
 \dt 03/Apr/2016
 
+\lx CAFO
+\ps n
+\ge ABR
+\gv CAFO
+\gv Coordination des Associations et ONG féminines du Mali
+\xv
+\xe
+\dt 31/May/2016
+
 \lx CEDEAO
 \ps n
 \ge CÉDÉAO
@@ -135,6 +153,15 @@
 \gv EDM
 \gv Électricité.du.Mali
 \dt 08/Feb/2016
+
+\lx Ereyali
+\ps n.prop
+\ge NOM.ETRG
+\gv AS Real Bamako
+\ee (club omnisports)
+\xv
+\xe
+\dt 31/May/2016
 
 \lx fakoyi
 \ps n
@@ -221,6 +248,15 @@
 \gv CAF
 \gv Confédération Africaine de Football
 \dt 05/Feb/2016
+
+\lx KANI
+\ps n
+\ge ABR
+\gv Coupe d'Afrique des Nations
+\ee (football)
+\xv
+\xe
+\dt 31/May/2016
 
 \lx Koli Tengela
 \ps n.prop
@@ -324,6 +360,15 @@ la stabilisation au Mali
 \gv Organisation de l'Unité africaine
 \dt 09/Apr/2016
 
+\lx pɔnze
+\ps n.prop
+\ge Point.G.hôpital
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
+
 \lx Real
 \ps n.prop
 \ge Réal
@@ -347,6 +392,15 @@ la stabilisation au Mali
 \ge Aigles.du.Mali
 \ee équipe du Mali de football
 \dt 15/May/2013
+
+\lx Samori
+\ps n.prop
+\ge NOM.M
+\gv Samory Touré
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx SEPAMA
 \ps n
