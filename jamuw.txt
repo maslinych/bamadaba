@@ -2068,10 +2068,9 @@ Sagone.
 \sn Jariso
 \sn Sumare
 \ms небракозаптретн.
-\ge
-\dt 06/May/2010
 \ps n.prop
 \ge NOM.CL
+\dt 01/Jun/2016
 
 \lx Màgasùba
 \di son
@@ -2098,10 +2097,9 @@ Sagone.
 \eq Koyita
 \ca jèli
 \ca garake
-\ge
-\dt 06/May/2010
 \ps n.prop
 \ge NOM.CL
+\dt 01/Jun/2016
 
 \lx Makangile
 \di son
@@ -2347,10 +2345,9 @@ Sagone.
 
 \lx Ɲamakansi
 \ms Один из kabili джаму Keyita.
-\ge
-\dt 06/May/2010
 \ps n.prop
 \ge NOM.CL
+\dt 01/Jun/2016
 
 \lx Ɲan
 \di diawambe
@@ -2764,10 +2761,9 @@ Sagone.
 \cm небракозаптретн.
 \sn Jaane
 \cm бракозапретн.
-\ge
-\dt 06/May/2010
 \ps n.prop
 \ge NOM.CL
+\dt 01/Jun/2016
 
 \lx Simaga
 \va Simaxa
@@ -2775,12 +2771,10 @@ Sagone.
 \di son
 \ca kusantage
 \ca garanke
-\ms Считается, что Simaga-garanke могут перевоплощаться в
-гиен.
-\ge
-\dt 06/May/2010
+\ms Считается, что Simaga-garanke могут перевоплощаться в гиен.
 \ps n.prop
 \ge NOM.CL
+\dt 01/Jun/2016
 
 \lx Simalo
 \di m

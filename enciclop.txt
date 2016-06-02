@@ -50,6 +50,15 @@
 \smf (club de football)
 \dt 05/Feb/2016
 
+\lx Arasita
+\ps n
+\ge rasta
+\gv mouvement rastafari
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx AS Mande
 \ps n.prop
 \ge AS Mandé
@@ -190,6 +199,15 @@
 \ps n
 \ge gaulois
 
+\lx Hayile Selase
+\ps n.prop
+\ge Haïlé Selassié
+\gv
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx Hilari Kilintɔni
 \ps n.prop
 \ge NOM.ETRG
@@ -242,6 +260,15 @@
 1591)
 \dt 06/Feb/2016
 
+\lx Kadafi
+\ps n.prop
+\ge Kadhafi
+\gv
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx Kafu
 \ps n
 \ge ABR
@@ -250,13 +277,14 @@
 \dt 05/Feb/2016
 
 \lx KANI
+\va Kani
 \ps n
 \ge ABR
 \gv Coupe d'Afrique des Nations
 \ee (football)
 \xv
 \xe
-\dt 31/May/2016
+\dt 01/Jun/2016
 
 \lx Koli Tengela
 \ps n.prop
@@ -359,6 +387,15 @@ la stabilisation au Mali
 \ge ABR
 \gv Organisation de l'Unité africaine
 \dt 09/Apr/2016
+
+\lx Ɔminisipɔri
+\ps n.prop
+\ge TOP
+\gv stade.omnisports.Modibo.Keïta
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx pɔnze
 \ps n.prop
@@ -488,6 +525,15 @@ la stabilisation au Mali
 \gv UEMOA
 \gv Union Economique et Monétaire Ouest-Africaine
 \dt 07/Feb/2016
+
+\lx Wɛnzɛn Kùlubàli
+\ps n.prop
+\ge stade.Ouezzin-Coulibaly
+\gv
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx wiski
 \ps n

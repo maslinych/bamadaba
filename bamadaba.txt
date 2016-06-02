@@ -626,6 +626,15 @@
 \sy tákala
 \dt 15/Aug/2006
 
+\lx amarini
+\ps n
+\ge Amhara
+\gv Amarinya
+\ee (groupe ethnique dominante en Éthiopie et sa langue)
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx ámerikɛn
 \ps n
 \ge Américain
@@ -911,7 +920,7 @@
 \sm (ajouté à un prénom d'homme, il sert à désigner ou interpeller un homme de la génération de votre père)
 \xv bàa Ngɔ̀lɔ
 \xe "père" Ngolo
-\dt 05/Apr/2016
+\dt 01/Jun/2016
 
 \lx báabu
 \ps n
@@ -6495,7 +6504,6 @@ en breuvage dans de l’eau pour l’anurie
 
 \lx bɛ̀lɛwɔyɔ
 \ps n
-\ge
 \sn 1
 \ge vipère.Cerastes.vipera(?)
 \ee au Nord du Mali
@@ -6505,7 +6513,7 @@ en breuvage dans de l’eau pour l’anurie
 \gv vipère.Causus.rhombeatus(?)
 \ee (petite vipère très venimeuse au Sénégal, en Guinée, CI, rare
 au Mali)
-\dt 03/Apr/2016
+\dt 01/Jun/2016
 
 \lx bɛ̀lɛwɔyɔdunan
 \mm bɛ̀lɛwɔyɔ:n: vipère 
@@ -6754,6 +6762,19 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gv décision.commune
 \lt (accord.parole)
 \dt 28/Mar/2014
+
+\lx bɛ̀nkansɛbɛn
+\mm bɛ̀nkan
+\mm bɛ̀n:n:accord
+\mm kán:n:cou
+\mm sɛ́bɛn:n:écrit
+\ps n
+\ge accord.écrit
+\gv traité
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx bɛ̀nkola
 \mm bɛ̀n:n:accord
@@ -10619,6 +10640,32 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \sm toute maladie attribuée à la malveillance humaine
 \sy dàbalibana
 \dt 26/Sep/2006
+
+\lx bólonɔbila
+\mm bólonɔ
+\mm bólo:n:bras
+\mm nɔ̀:n:trace
+\mm bìla:v:mettre
+\ps n
+\ge signature
+\gv
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
+
+\lx bólonɔbìla
+\mm bólonɔ
+\mm bólo:n:bras
+\mm nɔ̀:n:trace
+\mm bìla:v:mettre
+\ps v
+\ge signer
+\gv
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx bólontan
 \mm bólo:n:bras
@@ -20584,7 +20631,7 @@ rétribution mais à titre de réciprocité)
 \mm dàn:n:limite
 \mm kári:v:casser
 \ps v
-\vl vi
+\vl vt
 \ms 1
 \ge mettre.fin
 \gv annuler
@@ -20601,7 +20648,7 @@ rétribution mais à titre de réciprocité)
 \gv pénétrer avec force
 \nt construction facultative ? ex 2 / comment traduire quand il s'agit de personnes ? anéantir ?
 \cm plutôt 2 mots: ù yé dàn sɛ̀bɛkɔrɔ kári à lá - VV
-\dt 03/Apr/2016
+\dt 01/Jun/2016
 
 \lx dànkelen
 \mm dàn:n:dépassement
@@ -40958,9 +41005,11 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 
 \lx gofɛrɛnaman
 \va gɔfɛrɛnama
+\va gɔfɛrɛnaman
+\va gofɛrɛnama
 \ps n
 \ge gouvernement
-\dt 18/Feb/2015
+\dt 01/Jun/2016
 
 \lx gógoro
 \ps n
@@ -42947,6 +42996,18 @@ doigts par des fileuses du coton)
 \ge pèlerin
 \dt 04/Apr/2016
 
+\lx híjilataa
+\mm híji:n:pèlerinage
+\mm lá:pp:dans
+\mm táa:v:aller
+\ps n
+\ge hajj
+\gv pèlerinage à La Mecque
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx híjira
 \ps n
 \ge hégire
@@ -44675,8 +44736,7 @@ qqch ...)
 \ee (espace / temps)
 \xv ní  í sì jànfara...
 \xe si tu as vécu longtemps ...
-\ge
-\dt 28/Apr/2014
+\dt 01/Jun/2016
 
 \lx jànfanci
 \mm jànfa:v:trahir
@@ -55958,9 +56018,11 @@ prolapsus utérin
 \dt 26/Sep/2006
 
 \lx kɛ́lɛnwu
+\va kɛ́lɛwu
+\va kélenwu
 \ps adv
 \ge arrêt.brusque
-\dt 19/Jan/2015
+\dt 01/Jun/2016
 
 \lx kɛ́lɛnwu
 \va kɛ́wu
@@ -60980,6 +61042,16 @@ prolapsus utérin
 \ge de l'autre côté de
 \dt 23/Feb/2014
 
+\lx kɔ́kàn
+\mm kɔ́:n:dos
+\mm kàn:pp:sur
+\ps adv
+\ge à.l'extérieur
+\gv à l'étranger
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx kɔ́kankali
 \mm kɔ́:n:dos
 \mm kàn:pp:sur
@@ -65347,12 +65419,6 @@ ou une proposition)
 \dt 08/Nov/2012
 
 \lx kúlukùtu
-\ps
-\ge
-\gv
-\dt 25/Apr/2016
-
-\lx kúlukùtu
 \ps adj
 \ge nu
 \gv sans.ajout
@@ -68890,10 +68956,20 @@ Sahel)
 \ge coupe.d'Afrique
 \dt 23/Feb/2014
 
+\lx kupudimali
+\ps n
+\ge coupe.du.Mali
+\gv
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx kúpudimɔndi
+\va kupudimɔni
 \ps n
 \ge coupe.du.monde
-\dt 20/Feb/2013
+\dt 01/Jun/2016
 
 \lx kúra
 \ps adj
@@ -73088,7 +73164,12 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm sé:v:arriver
 \mm li:mrph:NMLZ
 \ps n
-\ge rapport
+\sn 1
+\ge acheminement
+\gv remise
+\sn 2
+\gv rapport
+\dt 01/Jun/2016
 
 \lx lasibaati
 \ps n
@@ -81642,12 +81723,6 @@ pour les jardins)
 \gv perturbation
 \dt 04/Feb/2016
 
-\lx mùɲukumɛɲɛkɛ
-\ps
-\ge
-\gv
-\dt 04/Feb/2016
-
 \lx múra
 \ps n
 \ge rhume
@@ -84843,6 +84918,18 @@ petits enfants)
 \rem l 89 + gn
 \dt 11/Nov/2007
 
+\lx nɛ̀gɛgirintala
+\mm nɛ̀gɛ:n:fer
+\mm gírin:adj:lourd
+\mm tà:v:prendre
+\mm la:mrph:AG.PRM
+\ps n
+\ge haltérophile
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx nɛ̀gɛhaya
 \mm nɛ̀gɛ:n:fer
 \ps n
@@ -85888,12 +85975,12 @@ petits enfants)
 \lt (anneau.poser.celui qui)
 \dt 16/Aug/2006
 
-\lx ngɔ̀ɔni
+\lx ngɔ̀ɔnɔ
+\va ngɔ̀nɔ
+\va ngɔ̀ɔni
 \va nkɔ̀ɔni
 \va ngɔ̀ni
 \ve (f)
-\va ngɔ̀ɔnɔ
-\va ngɔ̀nɔ
 \va ngɔ̀ki
 \va ntnɔ̀ki
 \ve (bk)
@@ -85902,7 +85989,7 @@ petits enfants)
 \gv amygdales
 \xv fɛ́n dɔ́ bálanna  à ngɔ̀ki lá
 \xe quelque chose s'est planté dans sa gorge
-\dt 16/Aug/2006
+\dt 01/Jun/2016
 
 \lx ngɔ̀ɔnɔdimi
 \mm ngɔ̀ɔnɔ:n:gorge
@@ -93443,12 +93530,14 @@ graines, sert d'instrument rythmique)
 \mm yɛ̀rɛ:dtm:même
 \mm lá:pp:dans
 \ps n
+\sn 1
 \ge vaniteux
-\ge prétentieux
-\ge homme d'honneur
-\ge vanité
-\ge
-\dt 27/Mar/2013
+\gv prétentieux
+\sn 2
+\gv homme d'honneur
+\sn 3
+\gv vanité
+\dt 01/Jun/2016
 
 \lx ɲàɲa
 \ve (f)
@@ -114497,16 +114586,20 @@ fiançailles
 \ee (sert d'offrande rituelle; préconisé tant par les devins que par les marabouts, ne peut être préparé par une femme qui a ses règles)
 \dt 16/Aug/2006
 
-\lx tákùrun
-\mm tá:n:feu
-\mm kùrun:n:boule 
-\vt tá.kurun
+\lx tákurun
 \mm tá:n:feu
 \mm kùrun:n:boule
 \ps n
+\sn 1
 \ge bûche
-\lt (feu.bloc)
-\dt 07/Mar/2014
+\sn 2
+\gv braise
+\gv tison
+\sn 3
+\gv personne apathique
+\gv mollasson
+\ee (qu'il faut constamment pousser comme une bûche)
+\dt 01/Jun/2016
 
 \lx tála
 \ps n
@@ -115652,8 +115745,12 @@ fiançailles
 
 \lx tétewu
 \ps adv
+\sn 1
 \ge pas.un.mot
-\dt 18/Apr/2014
+\sn 2
+\gv complètement
+\ee (remplir)
+\dt 01/Jun/2016
 
 \lx téwu
 \ps adv
