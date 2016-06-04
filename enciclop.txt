@@ -21,6 +21,24 @@
 \ee équipe de football à Gao
 \dt 03/May/2013
 
+\lx Alikayida
+\ps n.prop
+\ge Al-Qaïda
+\gv
+\ee (une organisation terroriste djihadiste)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Ansaridini
+\ps n
+\ge Ansar.Dine
+\gv Ansar Eddine
+\ee (un groupe armé salafiste djihadiste)
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Aradisɔni
 \ps n
 \ge Radisson
@@ -220,6 +238,15 @@
 \gv diable
 \dt 21/Dec/2014
 
+\lx Iyadi Agi Agali
+\ps n.prop
+\ge NOM.ETRG
+\gv Iyad Ag Ghali
+\ee (le fondateur du groupe salafiste djihadiste Ansar Dine)
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Iyemowa
 \ps n
 \ge ABR
@@ -326,6 +353,7 @@
 \dt 23/Feb/2014
 
 \lx MINUSMA
+\va Minusima
 \ps n
 \ge MINUSMA
 \gv Mission multidimensionnelle intégrée des Nations Unies pour
@@ -333,7 +361,7 @@ la stabilisation au Mali
 \ee
 \xv
 \xe
-\dt 28/May/2016
+\dt 04/Jun/2016
 
 \lx Miti Oromeneyi
 \ps n.prop
@@ -353,6 +381,15 @@ la stabilisation au Mali
 \ge Gnana
 \ee équipe de football à Koulikoro
 \dt 03/May/2013
+
+\lx Ɲɔna
+\ps n.prop
+\ge TOP
+\gv
+\ee (un village)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Ofisidinizɛri
 \ps n.prop
@@ -454,6 +491,16 @@ la stabilisation au Mali
 \lx sɛliti
 \ps n
 \ge celte
+
+\lx Sɛmudete
+\ps n
+\ge ABR
+\gv CMDT
+\gv Compagnie malienne pour le développement du textile
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx sɛ́nɛfɔ-gana
 \ps n

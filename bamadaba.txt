@@ -6886,6 +6886,19 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xe il s'en faut de peu
 \dt 26/Sep/2006
 
+\lx bɛ̀rɛbɛ̀n
+\mm bɛ̀rɛ:n:mesure
+\mm bɛ̀n:v:se.rencontrer
+\ps v
+\ge harmoniser
+\gv adapter
+\gv conformer
+\gv justifier
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx bɛ̀rɛbɛrɛ
 \ps v
 \vl vt
@@ -25686,7 +25699,7 @@ chefs religieux et représentants de l'administration
 \dt 26/Sep/2006
 
 \lx dɔ́
-\ps dtm
+\ps dtm/prn
 \sn 1
 \ge certain
 \xv tùma dɔ́ lá
@@ -25708,7 +25721,7 @@ chefs religieux et représentants de l'administration
 \xv dɔ́ yé  dén wólo, dɔ́ má  dén wólo
 \xe l'une a eu un enfant, l'autre non
 
-\dt 04/May/2015
+\dt 04/Jun/2016
 
 \lx dɔ́bɔlan
 \mm dɔ́:dtm:certain
@@ -28848,7 +28861,7 @@ quant à sa mère, elle prend de l'âge
 \lx ɛntɛrinɛti
 \ps n
 \ge Internet
-\dt 10/May/2013
+\dt 04/Jun/2016
 
 \lx ɛ̀rɛzɛn
 \ps n
@@ -44072,6 +44085,18 @@ qqch ...)
 \xe il y a éclipse de lune
 \dt 16/Aug/2006
 
+\lx jàkumadɔgɔ
+\mm jàkuma:n:chat
+\mm dɔ́gɔ:n:marché
+\ps n
+\ge affaire.imprévisible
+\gv affaire aléatoire
+\gv affaire improvisée
+\ee
+\xv
+\xe
+\dt 02/Jun/2016
+
 \lx jàkumajuru
 \mm jàkuma:n:chat
 \mm jùru:n:corde
@@ -46332,6 +46357,19 @@ nos libations "
 \gv arriver à l'eau
 \ee (puits)
 \dt 21/Jul/2014
+
+\lx jíbaranin
+\mm jí:n:eau
+\mm bàra:n:calebasse
+\mm nin:mrph:DIM
+\ps n
+\ge pommier-cajou
+\sm (---> 15 m)
+\lat Anacardium occidentale
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx jíbolisira
 \mm jí:n:eau
@@ -60390,6 +60428,15 @@ prolapsus utérin
 \xv sɛ̀nɛfɛn sí má ɲà, màlo kɔ́
 \xe aucune culture n'a réussi sauf le riz
 
+\lx kɔ́
+\ps adv
+\ge derrière
+\gv
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx kɔ̀ba
 \mm kɔ̀:n:bande.d'étoffe
 \mm ba:mrph:AUGM
@@ -63975,7 +64022,7 @@ ou une proposition)
 \gv économies
 \dt 15/Aug/2006
 
-\lx kɔ́rɔbɔ́
+\lx kɔ́rɔbɔ
 \mm kɔ́rɔ:n:dessous
 \mm bɔ́:v:sortir
 \ps v
@@ -63988,7 +64035,7 @@ ou une proposition)
 \gv mettre.à.l'épreuve
 \sn 3
 \gv travailler.autour.de
-\dt 26/Sep/2006
+\dt 04/Jun/2016
 
 \lx kɔ́rɔbɔ́bali
 \mm kɔ́rɔ.bɔ́:v:essayer
@@ -67791,6 +67838,30 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gv déranger.mentalement
 \lt (tête.changer)
 \dt 26/Sep/2006
+
+\lx kùnmayɛlɛn
+\mm kùn:n:tête
+\mm mà:mrph:SUPER
+\mm yɛ̀lɛn:v:monter
+\ps n
+\ge honneur
+\gv
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx kùnmayɛ̀lɛn
+\mm kùn:n:tête
+\mm mà:mrph:SUPER
+\mm yɛ̀lɛn:v:monter
+\ps v
+\ge honorer
+\gv
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx kùnmɔ
 \ve (bk)
@@ -76348,6 +76419,19 @@ jour, c'est une personne dépendante qu'il voit
 \ge malien
 \lt (Mali.enfant)
 \ee on s'attendait à màlìka ! qui ne se dit pas)
+
+\lx màlijirinin
+\mm Màli:n.prop:TOP
+\mm jíri:n:arbre
+\mm nin:mrph:DIM
+\ps n
+\ge nim
+\gv margousier
+\gv Azadirachta indica
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Malitɛl
 \ps n
@@ -92770,7 +92854,7 @@ graines, sert d'instrument rythmique)
 \gv aider (à -- mà)
 \xv ̀ɲa  à mà !
 \xe agrée sa demande !
-\dt 23/Sep/2014
+\dt 04/Jun/2016
 
 \lx ɲà
 \ps n
@@ -99990,14 +100074,18 @@ le pèlerinage (bk 1/06 p.5)
 \dt 19/Jan/2015
 
 \lx pòrokotó
+\va pòrogoto
 \ps v
 \vl vi
 \sn 1
 \ge trébucher
 \gv dégringoler
 \sn 2
-\gv s'enfuir.de.justesse
-\dt 26/Sep/2006
+\gv s'enfuir de justesse
+\sn 3
+\gv faire par hasard
+\gv arriver que
+\dt 04/Jun/2016
 
 \lx pòron
 \ps v
@@ -101617,6 +101705,15 @@ épuisés
 \ee (sans force, sans saveur ... se dit de la sauce,  de la bière, du sang, du sperme ...)
 \dt 25/Jun/2013
 
+\lx salati
+\ps n
+\ge salade
+\gv
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx sàlaya
 \mm sàla:vq:être.paresseux
 \mm ya:mrph:DEQU
@@ -102495,6 +102592,17 @@ épuisés
 \ps n
 \ge moustiquaire
 \dt 16/Aug/2006
+
+\lx sànkɛmɛ
+\mm sàn:n:année
+\mm kɛ̀mɛ:num:cent
+\ps n
+\ge siècle
+\gv
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx sànko
 \va sàngo
@@ -105608,7 +105716,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lt (importance.affaire.à l'aspect)
 \dt 26/Sep/2006
 
-\lx sɛ̀bɛkɔ̀rɔ
+\lx sɛ̀bɛkɔrɔ
 \mm sɛ̀bɛ:adj/n:sérieux
 \mm kɔ̀rɔ:vq/adj:vieux
 \lt (sérieux.âgé)
@@ -105623,7 +105731,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \xe il n'est pas très grand
 \xv ń sɛ̀bɛkɔrɔ tɛ́!
 \xe ke refuse catégoriquement !
-\dt 09/Jun/2015
+\dt 04/Jun/2016
 
 \lx sɛ̀bɛkuma
 \mm sɛ̀bɛ:adj/n:sérieux
@@ -111538,6 +111646,7 @@ euphémique)
 \dt 11/Nov/2007
 
 \lx súgunɛ
+\va súguna
 \va súuna
 \va súuma
 \ve (f)
@@ -111546,7 +111655,7 @@ euphémique)
 \sy ɲɛ́gɛnɛ
 \xv súgunɛ kɛ́
 \xe uriner, pisser, faire pipi
-\dt 26/Sep/2006
+\dt 04/Jun/2016
 
 \lx súgunɛbara
 \mm súgunɛ:n:urine
@@ -112431,6 +112540,15 @@ euphémique)
 \ps n
 \ge sous-préfet
 \dt 28/May/2016
+
+\lx supɔmu
+\ps n
+\ge choux-pomme
+\gv
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx súraka
 \ps n
@@ -114795,6 +114913,17 @@ fiançailles
 \ge tempe
 \dt 11/Nov/2007
 
+\lx tàmanfara
+\mm tàman:n:tempe
+\mm fára:v:diviser
+\ps n
+\ge scarification.sur.la.tempe.ou.la.joue
+\gv
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Tamasɛki
 \ps n
 \ge Bella
@@ -115496,10 +115625,11 @@ fiançailles
 \sm (poser ...)
 \dt 19/Jan/2015
 
-\lx tèlefoni
+\lx tèlefɔni
+\va tèlefoni
 \ps n
 \ge téléphone
-\dt 05/Apr/2016
+\dt 04/Jun/2016
 
 \lx tèlewisɔn
 \ps n
@@ -119867,6 +119997,24 @@ est due aux paysans (kib 3/05 p.9)
 \sm (anat)
 \lt (sexe.sachet)
 \dt 16/Aug/2006
+
+\lx tɔ́rɔrɛ
+\ps
+\ge
+\gv
+\ee
+\xv
+\xe
+\dt 02/Jun/2016
+
+\lx tɔrɔsi
+\ps n
+\ge torche
+\gv
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx tɔ̀tɔma
 \ve (f)
@@ -125533,6 +125681,7 @@ soient définitivement données à leur mari)
 \dt 26/Sep/2006
 
 \lx yé
+\va y'
 \ps pp
 \ee *ɲɛ ? = oeil --> devant
 \ge PP
@@ -125595,7 +125744,7 @@ soient définitivement données à leur mari)
 \xe Il s'appelle Nsan (son nom est : Nsan)
 \xv ...ò yé kó : wári tɛ́ ń fɛ̀
 \xe .... c'est que je n'ai pas d'argent
-\dt 20/Nov/2012
+\dt 04/Jun/2016
 
 \lx yé
 \va y'
