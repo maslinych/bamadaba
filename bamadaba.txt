@@ -3859,27 +3859,37 @@ Fleurs spectaculaires
 \dt 11/Nov/2007
 
 \lx bánban
+\va báman
 \ps n
 \ge effort
 \gv attention.soutenue
 \gv sérieux
 \xv í kà  nìn dòn bánban ná
 \xe prends cette affaire très au sérieux
-\dt 26/Sep/2006
+\dt 05/Jun/2016
 
 \lx bánban
+\va báman
 \ps v
 \sn 1
 \vl vt
 \ge enfoncer
 \gv fixer.solidement
 \sn 2
+\vl vt
+\gv tendre
+\gv déployer
+\gv hisser
+\sn 3
 \vl vr
 \gv s'efforcer.de
 \sy jíja
-\xv í bánban  kà táama
+\xv í bánban kà táama
 \xe efforce-toi de marcher
-\dt 26/Sep/2006
+\sn 4
+\gv centrer
+\gv concentrer
+\dt 05/Jun/2016
 
 \lx bànbe
 \va bàn.bali
@@ -11963,6 +11973,18 @@ toujours (pro)
 \ee plumage sombre, ailes pointues)
 \dt 16/Aug/2006
 
+\lx bɔ́nnɔ
+\mm bɔ́:v:sortir
+\mm ń:pers:1SG
+\mm nɔ́:pp:IN
+\ps n
+\ge dépense
+\gv
+\ee
+\xv
+\xe
+\dt 05/Jun/2016
+
 \lx bɔ́nɔgɔla
 \mm bɔ́:v:sortir
 \mm nɔ́gɔ:n:saleté
@@ -19987,13 +20009,12 @@ pas)
 \mm ma:mrph:COM
 \mm dɔ́:dtm:certain
 \ps dtm
-\lt compte-un peu
 \ge quelques
 \gv plusieurs
 \xv kà ŋɔ̀mi dánmadɔ jíran (gn 18, 6)
 \xe faire quelques galettes
 \rem du et gn : ton haut
-\dt 28/Nov/2012
+\dt 05/Jun/2016
 
 \lx dàmadɔnbali
 \mm dàma:n:limite
@@ -20349,6 +20370,19 @@ rétribution mais à titre de réciprocité)
 \ge chancre.mou
 \gv syphilis
 \dt 19/Feb/2013
+
+\lx dánan
+\ps n
+\sn 1
+\ge igname-Guinée
+\gv igname de Cayenne
+\gv Dioscorea cayennensis
+\sn 2
+\gv Dioscorea.bulbifera
+\ee
+\xv
+\xe
+\dt 05/Jun/2016
 
 \lx dánanjugu
 \mm júgu:vq/adj:mauvais
@@ -25623,10 +25657,24 @@ chefs religieux et représentants de l'administration
 
 \lx dóro
 \ps v
+\sn 1
 \vl vt
-\ge mettre.trop.de
+\ge concentrer
+\gv mettre trop de
 \sm (sel, eau, sauce ...)
-\dt 26/Sep/2006
+\sn 2
+\vl vi
+\gv être visqueux
+\dt 05/Jun/2016
+
+\lx dóro
+\ps n
+\ge pâte.épaisse
+\gv pâte concentré
+\ee (de tomate)
+\xv
+\xe
+\dt 05/Jun/2016
 
 \lx dórobara
 \mm dóro:n:bourses
@@ -28244,14 +28292,14 @@ quant à sa mère, elle prend de l'âge
 \dt 11/Nov/2007
 
 \lx dùnunkàla
-\ve (b)
+\va dùnukàlan
+\va dùnunkàlan
 \va dòni.kala
 \ps n
-\lt tambour- tige ? ou bigarré ?
 \ge guêpe-maçonne
 \sy dɛ̀nɛkirinti
 \rem bz, du, f
-\dt 04/Jun/2015
+\dt 05/Jun/2016
 
 \lx dùnya
 \mm dùn:vq:profond
@@ -45910,6 +45958,15 @@ qqch ...)
 \xe au lieu d'éventer le malade avec du "jɛgɛwala", fais le cuire et donne-le lui pour qu'il en boive le bouillon (prov)
 \dt 16/Aug/2006
 
+\lx jɛ́gɛwalan
+\ps n
+\ge poisson.séché.ouvert
+\ee (entier)
+\gv poisson boucané ouvert
+\xv
+\xe
+\dt 05/Jun/2016
+
 \lx jɛ̀-kà-báara
 \mm jɛ̀:v:assembler
 \mm kà:pm:INF
@@ -52807,6 +52864,17 @@ prolapsus utérin
 \sm à -- ...mà...yé
 \lt (voix.sortir)
 \dt 26/Sep/2006
+
+\lx káncɛ̀
+\mm kán:n:cou
+\mm cɛ̀:v:ramasser
+\ps v
+\ge attraper.au.collet
+\gv attraper
+\ee
+\xv
+\xe
+\dt 05/Jun/2016
 
 \lx kándi
 \mm kán:n:cou
@@ -68121,6 +68189,17 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \sy dálajate
 \rem du, Jos, kb
 \dt 11/Nov/2007
+
+\lx kùnnakali
+\mm kùn:n:tête
+\mm lákàli:v:raconter
+\ps v
+\ge raconter
+\gv rapporter
+\ee
+\xv
+\xe
+\dt 05/Jun/2016
 
 \lx kùnnala
 \mm kùn.na:pp:au.dessus
@@ -87485,9 +87564,12 @@ familiaux; viande très prisée, auladiculture)
 \dt 07/Mar/2014
 
 \lx nkàri
+\va ngàri
+\va nkɛ̀ru
 \ps n
-\ge poisson.sp
-\dt 07/Mar/2014
+\ge poisson.Schilbe.mystus
+\gv poisson Eutropius niloticus
+\dt 05/Jun/2016
 
 \lx nkàridɔlen
 \mm nkàri:n:poisson.sp
@@ -88151,6 +88233,15 @@ familiaux; viande très prisée, auladiculture)
 \lat Cephalophus.monticola
 \ee (toute petite antilope, 8 kg)
 \dt 16/Aug/2006
+
+\lx nkɔ̀lɛ
+\ps n
+\ge piège
+\gv
+\ee
+\xv
+\xe
+\dt 05/Jun/2016
 
 \lx nkɔ̀li
 \va kɔ̀li
@@ -100754,6 +100845,22 @@ s'en font un ennemi pour rien (Si 20, 23)
 \gv
 \dt 19/Dec/2014
 
+\lx sàasɔ
+\va sàaso
+\ps n
+\sn 1
+\ge période.des.basses.eaux
+\gv période d'étiage
+\ee (de mai à début juillet)
+\sn 2
+\gv réjouissance
+\gv festivités
+\gv fête
+\gv abondance
+\xv
+\xe
+\dt 05/Jun/2016
+
 \lx sàba
 \vc sába
 \ps num
@@ -109818,6 +109925,18 @@ donne d'excellentes fibres)
 \sy sòli-kà-wúli
 \lt (se lever tôt.et.sortir)
 \dt 16/Aug/2006
+
+\lx sòli-kà-wúli
+\mm sòli:v:être.matinal
+\mm kà:pm:INF
+\mm wúli:v:se.lever
+\ps n
+\ge réveil.matinal
+\gv
+\ee
+\xv
+\xe
+\dt 05/Jun/2016
 
 \lx sòlima
 \mm sòli:n:circoncision
@@ -125748,9 +125867,8 @@ soient définitivement données à leur mari)
 
 \lx yé
 \va y'
-\ee *ye = voir ?
 \ps pm
-\sn 1
+\sn
 \ge IMP
 \sm (auxiliaire 2ème pers.du pluriel de l'impératif)
 \ph [se dit d'une seule émission de voix avec le sujet a'ye]
@@ -125758,12 +125876,7 @@ soient définitivement données à leur mari)
 \xe Venez !
 \xv á' yé  wùlu fàtɔ kùn cì
 \xe assommez le chien enragé !
-\sn 2
-\sm quelquefois auxiliaire du présent
-\ve (f)
-\xv ò yé kɛ́ = ò bɛ́ kɛ́
-\xe ça se fait
-\dt 19/Feb/2014
+\dt 09/Jun/2016
 
 \lx yé
 \va y'
@@ -125796,6 +125909,16 @@ soient définitivement données à leur mari)
 \ps cop
 \ge BE
 \dt 15/May/2013
+
+\lx yé
+\ps pm
+\ge IPFV
+\ee (surtout avec le verbe sé; sinon, dans les textes influencés par
+le maninka, probablement dans quelques dialectes locaux
+bambara)
+\xv ò yé kɛ́ = ò bɛ́ kɛ́
+\xe ça se fait
+\dt 09/Jun/2016
 
 \lx yé kà
 \ps pm
