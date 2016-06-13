@@ -795,6 +795,15 @@
 \ge avril
 \dt 12/Aug/2006
 
+\lx áwiyɔn
+\ps n
+\ge avion
+\gv
+\ee
+\xv
+\xe
+\dt 11/Jun/2016
+
 \lx á-yé-fàli-bɛ̀n
 \mm á:pers:1PL
 \mm yé:mp:IMP
@@ -4010,10 +4019,13 @@ Fleurs spectaculaires
 \xv à bánginna  fìlanin ná
 \xe elle a mis au monde des jumeaux
 \sn 3
+\vl vi
+\gv apparaître
+\sn 4
 \vl vt
 \gv provoquer
 \gv être.cause.de
-\dt 26/Sep/2006
+\dt 11/Jun/2016
 
 \lx bángeba
 \mm bánge:v:naître
@@ -7182,6 +7194,15 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv k'à tà  sélifana ná  fɔ́ kà nà  à bìla  làansara lá
 \xe de 2h à 6h du soir
 \dt 16/Apr/2016
+
+\lx bíla
+\ps n
+\ge cache-sexe
+\gv pagne des enfants incirconcis
+\ee
+\xv
+\xe
+\dt 10/Jun/2016
 
 \lx bìlabaa
 \mm bìla:v:mettre
@@ -11542,10 +11563,19 @@ milieu des pierres
 \lx bɔ̀gɔfasa
 \mm bɔ̀gɔ:n:terre
 \mm fàsa:v:rendre.consistant
+\va bɔ̀gɔfasan
+\mm bɔ̀gɔ:n:terre
+\mm fàsan:v:rendre.consistant
+\va bɔ̀gɔpasa
+\mm bɔ̀gɔ:n:terre
+\mm pàsa:v:rendre.consistant
+\va bɔ̀gɔpasan
+\mm bɔ̀gɔ:n:terre
+\mm pàsan:v:rendre.consistant
 \ps n
 \ge argile
 \lt (terre.consistante)
-\dt 26/Sep/2006
+\dt 12/Jun/2016
 
 \lx bɔ́gɔji
 \mm bɔ́gɔ:n:argile
@@ -12598,8 +12628,11 @@ toujours (pro)
 \va búguninkaro
 \ps n
 \ge tissu
-\ee de diverses teintes et de divers motifs
-\dt 27/Jan/2016
+\ee (de diverses teintes et de divers motifs)
+\gv tissu de coton à motifs en forme de croix gammée
+\gv pagne ou vêtement en coton blanc écru et dont la bande
+centrale est de couleur sombre
+\dt 12/Jun/2016
 
 \lx búgunnama
 \mm búgun:vq:gris.clair
@@ -14242,8 +14275,9 @@ médicinales
 \ge bataille
 \sn 2
 \gv complot
-\lt (guerrier.rencontre)
-\dt 16/Aug/2006
+\sn 3
+\gv match
+\dt 10/Jun/2016
 
 \lx cɛ́bɛnbaa
 \mm cɛ̀:n:mâle
@@ -16179,6 +16213,15 @@ sur soi)
 \ge avec.souplesse
 \dt 19/Jan/2015
 
+\lx cómu
+\ps adv
+\ge bien.attraper
+\gv
+\ee
+\xv
+\xe
+\dt 12/Jun/2016
+
 \lx cònkoncanka
 \ps v
 \vl vt
@@ -17370,9 +17413,7 @@ sur soi)
 \lx dábɔlɔ
 \mm dá:n:bouche
 \mm bɔ̀lɔ:n:piquet 
-\vt dá.bɔ̀lɔ
-\mm dá:n:bouche
-\mm bɔ̀lɔ:n:piquet
+\vt dábɔ̀lɔ
 \ve (bn)
 \ps n
 \sn 1
@@ -17382,7 +17423,7 @@ sur soi)
 \sn 2
 \gv suçoir
 \sm des insectes (moustique, taon ...)
-\dt 26/Sep/2006
+\dt 10/Jun/2016
 
 \lx dábɔlɔwɔlɔsɔ
 \mm dá:n:bouche
@@ -19900,9 +19941,12 @@ pas)
 \gv nombre
 \gv caractère
 \gv caractéristique
-\dt 26/Mar/2014
+\xv à dàma ná
+\xe à part, séparement
+\dt 12/Jun/2016
 
 \lx dàma
+\va dànma
 \ps dtm
 \ge seulement
 \sy dɔ́rɔn
@@ -19912,7 +19956,7 @@ pas)
 \xe ce n'est pas seulement ça
 \xv fìla dàma tùn dòn
 \xe il n'y en avait que deux
-\dt 30/May/2016
+\dt 12/Jun/2016
 
 \lx dàma
 \ps adv
@@ -20339,6 +20383,14 @@ rétribution mais à titre de réciprocité)
 \ps n
 \ge mâle.solitaire
 \dt 18/Apr/2014
+
+\lx dàn
+\ps v
+\ge arriver.salutation
+\ee
+\xv í dàn kà sègin!
+\xe bonne arrivée!
+\dt 10/Jun/2016
 
 \lx dán
 \ve (bk)
@@ -23680,8 +23732,8 @@ assumant que l'interclocuteur pense autrement)
 \ps n
 \ge gril
 \sm (sorte de claie qui sert à retenir les noix de karité à griller)
-\lt (four.élément)
-\dt 16/Aug/2006
+\gv solive de four à karité
+\dt 12/Jun/2016
 
 \lx dìbidibi
 \ps n
@@ -23694,6 +23746,17 @@ assumant que l'interclocuteur pense autrement)
 \ge manigancer
 \gv fomenter
 \dt 19/Jul/2015
+
+\lx díbijiri
+\mm díbi:n:four
+\mm jíri:n:arbre
+\ps n
+\ge bois.de.traverse.du.four
+\gv
+\ee
+\xv
+\xe
+\dt 12/Jun/2016
 
 \lx dìbilan
 \mm dìbi:n:obscurité
@@ -24951,9 +25014,9 @@ chefs religieux et représentants de l'administration
 \ps onomat
 \ge pan!
 \sm bruit de détonation
-\xv à yé  múgu cì  dóloo !
+\xv à yé  múgu cì dóloo !
 \xe il a tiré  pan!
-\dt 16/Aug/2006
+\dt 12/Jun/2016
 
 \lx dóma
 \ps n
@@ -25672,9 +25735,10 @@ chefs religieux et représentants de l'administration
 \ge pâte.épaisse
 \gv pâte concentré
 \ee (de tomate)
+\gv confiture
 \xv
 \xe
-\dt 05/Jun/2016
+\dt 12/Jun/2016
 
 \lx dórobara
 \mm dóro:n:bourses
@@ -25689,7 +25753,8 @@ chefs religieux et représentants de l'administration
 \ps adv
 \ge rouge.et.mou
 \sm (fruit, personne ...)
-\dt 19/Jan/2015
+\gv rouge appétissant
+\dt 12/Jun/2016
 
 \lx dórogolen
 \mm dórogo:v:serrer
@@ -31474,6 +31539,7 @@ compagnie ...
 
 \lx fàsa
 \va pàsa
+\va fàsan
 \ps v
 \sn 1
 \vl vt
@@ -31489,7 +31555,7 @@ compagnie ...
 \gv s'obstiner.à.nier
 \xv ń'í y'í fàsa  ò lá...
 \xe si tu t'obstines à ... (nier, mal agir ...)
-\dt 19/Feb/2013
+\dt 12/Jun/2016
 
 \lx fàsaba
 \mm fàsa:n:tendon
@@ -35842,10 +35908,10 @@ de nos ancêtres
 \gv
 \dt 28/Sep/2014
 
-\lx fósi
-\va fóyi
-\va fúsi
-\va fúyi
+\lx fósì
+\va fóyì
+\va fúsì
+\va fúyì
 \ee fɛn.si* = chose aucune, rien
 \ps n
 \ge rien
@@ -35855,7 +35921,7 @@ de nos ancêtres
 \xe je ne possède rien
 \xv é fána tɛ́  fóyi ɲà !
 \xe Vraiment , tu n'es bon à rien !
-\dt 26/Sep/2006
+\dt 11/Jun/2016
 
 \lx fòto
 \bw fr : photo
@@ -38239,6 +38305,15 @@ forestières, fruit : long follicule de 50 cm)
 \ge plant
 \dt 16/Aug/2006
 
+\lx fyɛ́rufyɛru
+\ps onomat
+\ge peu.à.peu
+\gv par petites quantités
+\ee (prendre la nourriture)
+\xv
+\xe
+\dt 12/Jun/2016
+
 \lx gà
 \va gwà
 \ph [gw]
@@ -40081,29 +40156,29 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 
 \lx gèseda
 \mm gèse:n:fil
-\mm dá:v:poser
+\mm dá:v:créer
 \va gwèse.da
 \mm gwèse:n:fil
-\mm dá:v:poser
+\mm dá:v:créer
 \ph [gw]
 \ps n
 \ge tissage
 \lt (file de chaîne.tisser)
-\dt 12/Aug/2006
+\dt 12/Jun/2016
 
 \lx gèsedala
 \mm gèse:n:fil
-\mm dá:v:poser
+\mm dá:v:créer
 \mm la:mrph:AG.PRM
 \va gwèse.da.la
 \mm gwèse:n:fil
-\mm dá:v:poser
+\mm dá:v:créer
 \mm la:mrph:AG.PRM
 \ph [gw]
 \ps n
 \ge tisserand
 \lt (tisser.celui qui)
-\dt 12/Aug/2006
+\dt 12/Jun/2016
 
 \lx gèsekolo
 \mm gèse:n:fil
@@ -40440,6 +40515,25 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \gv garder.les.troupeaux
 \dt 26/Sep/2006
 
+\lx gɛ̀nɛn
+\va gɛ̀nɛ
+\ps v
+\sn 1
+\vl vi
+\ge serrer
+\ee (chaussure)
+\sn 2
+\vl vt
+\gv serrer
+\ee
+\sn 3
+\vl
+\gv dresser
+\ee (queue)
+\xv
+\xe
+\dt 12/Jun/2016
+
 \lx gɛ́ngɛn
 \va gwɛ́ngwɛn
 \ph [gwɛn-gwɛn]
@@ -40464,6 +40558,15 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \xv ntòrikulu gɛ́ngɛnbaa, í tɛ́ dùsu, ń'ó tɛ́, í nà tɛ̀mɛ  dɔ́ kàn
 \xe le pasteur d'un troupeau de crapauds ne doit pas s'énerver, sinon il va en oublier un (prov)
 \dt 08/Nov/2012
+
+\lx gɛ́nkɛgɛnkɛ
+\ps adv
+\ge lentement
+\gv doucement
+\ee
+\xv
+\xe
+\dt 10/Jun/2016
 
 \lx gɛ́nnikɛla
 \mm gɛ́n:v:chasser
@@ -41381,6 +41484,18 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \sm (couvrir une femelle)
 \dt 21/Jan/2015
 
+\lx gòsidenwɔɔrɔ
+\mm gòsi:v:battre
+\mm dén:n:enfant
+\mm wɔ́ɔrɔ:num:six
+\ps n
+\ge coiffure.à.six.tresses
+\gv
+\ee
+\xv
+\xe
+\dt 10/Jun/2016
+
 \lx gòsituma
 \mm gòsi:v:battre
 \mm tùma:n:moment
@@ -41579,6 +41694,17 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \sy gɔ̀nkɔrɔ
 \lt (babouin.mâle)
 \dt 16/Aug/2006
+
+\lx gɔ̀nkun
+\va gɔ̀nku
+\va gónkun
+\ps n
+\ge pédoncule
+\gv queue.d'un.fruit
+\ee
+\xv
+\xe
+\dt 12/Jun/2016
 
 \lx gɔ̀nkuru
 \mm gɔ̀n:n:babouin
@@ -43654,8 +43780,19 @@ provoqués par une plaie : adénopathie)
 \lx jáati
 \ps intj
 \ge exactement!
+\gv tout à fait
+\gv absolument
 \sy hátɛ
-\dt 26/Sep/2006
+\dt 12/Jun/2016
+
+\lx jáati
+\ps dtm
+\ge uniquement
+\gv seulement
+\ee
+\xv
+\xe
+\dt 12/Jun/2016
 
 \lx jàba
 \ps n
@@ -58011,6 +58148,7 @@ prolapsus utérin
 \lx kó
 \va k'
 \ps cop
+\sn 1
 \ge QUOT
 \sm prédicat.de.parole
 \xv kó...yé
@@ -58031,7 +58169,9 @@ prolapsus utérin
 \xe hein ! qu'est-ce que tu dis ?
 \xv ò kɔ́rɔ yé kó...
 \xe son sens en est :" ...
-\dt 03/Apr/2016
+\sn 2
+\gv comme
+\dt 12/Jun/2016
 
 \lx kóba
 \mm kó:n:affaire
@@ -59987,12 +60127,18 @@ prolapsus utérin
 
 \lx kòro
 \ps n
+\sn 1
 \ge arbre.Vitex
+\gv fruit rond et noir du Vitex
+\sn 2
+\gv chèvre toute noire
+\sn 3
+\gv noir
 \sd verb
 \cf kòroba
 \cf kòronin
 \cf kòronin-súmago
-\dt 19/Aug/2006
+\dt 12/Jun/2016
 
 \lx kóro
 \va kóoro
@@ -71406,10 +71552,9 @@ kúrunninle
 \mm láhara:n:vie.future
 \mm só:n:maison
 \ps n
-\lt au-delà-maison
 \ge l'au-delà
 \xv kà láharaso súma à yé !
-\dt 11/Nov/2007
+\dt 12/Jun/2016
 
 \lx láhawuta
 \ps adv.p
@@ -72856,9 +73001,10 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \dt 10/Jun/2013
 
 \lx lànpan
+\va lànpa
 \ps n
 \ge lampe
-\dt 27/Nov/2014
+\dt 10/Jun/2016
 
 \lx lánsiri
 \mm lan:mrph:dans
@@ -78107,6 +78253,22 @@ invulnérable aux serpents, aux fauves ...)
 \sy bàma
 \sy jírɔbasa
 \dt 12/Aug/2006
+
+\lx máribayasa
+\va móribayaasa
+\va márabayaasa
+\va mɔ́ribayasa
+\ps n
+\sn 1
+\ge marabayassa
+\ee (danse comique exécutée par une femme pour tenir les
+promesses à l'esprit)
+\sn 2
+\gv esprit d'un jeune garçon envers lequel les femmes prennent
+des engagements
+\xv
+\xe
+\dt 10/Jun/2016
 
 \lx màrifa
 \va màrfa
@@ -84656,6 +84818,19 @@ téter)
 \ee (odeur, fête ...)
 \dt 19/Jan/2015
 
+\lx ndégu
+\va ndèku
+\ps n
+\sn 1
+\ge sauce.très.visqueuse
+\sn 2
+\gv Chrozophora.brocchiara
+\gv Cerathoteca sesamoides
+\ee (plante herbacée à sève gluante)
+\xv
+\xe
+\dt 10/Jun/2016
+
 \lx ndére
 \ps adv
 \ge très
@@ -89628,18 +89803,22 @@ graines, sert d'instrument rythmique)
 \mm nɔ́rɔ:v:coller
 \mm lan:mrph:INSTR
 \mm ba:mrph:AUGM
+\va nɔ́rɔnna
+\mm nɔ́rɔ:v:coller
+\mm ń:pers:1SG
+\mm ná:pp:dans
 \ps n
 \sn 1
 \ge cram-cram
 \lat Cenchrus.barbatus / C.biflorus
 \sd gram
-\ee l'inflorescence porte des involucres épineux qui s'accrochent)
+\ee (l'inflorescence porte des involucres épineux qui s'accrochent)
 \sn 2
 \gv plante.Pupalia.lappacea
 \sd amara
 \lt (gratteron.grand)
 \ee plante herbacée, les glomérules de fleurs s'accrochent aux habits, feuilles veloutées)
-\dt 19/Aug/2006
+\dt 10/Jun/2016
 
 \lx nɔ́rɔńjùla
 \mm nɔ́rɔ:v:coller
@@ -94691,8 +94870,11 @@ graines, sert d'instrument rythmique)
 \mm ɲɛ́gɛnɛ:n:urine
 \mm kɛ́:n:action
 \ps n
-\ge énurésie
-\lt (uriner.maladie)
+\sn 1
+\ge urination
+\sn 2
+\gv énurésie
+\dt 10/Jun/2016
 
 \lx ɲɛ́gɛnɛkɛbaliya
 \mm ɲɛ́gɛnɛ:n:urine
@@ -101157,6 +101339,16 @@ épuisés
 \rem jos, bk
 \dt 11/Nov/2007
 
+\lx sàbɔgɔ
+\mm bɔ̀gɔ:n:terre fàsa
+\ps n
+\ge argile
+\gv
+\ee
+\xv
+\xe
+\dt 12/Jun/2016
+
 \lx sábu
 \va sáabu
 \va sábi
@@ -105579,9 +105771,12 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 16/Aug/2006
 
 \lx sérelen
+\va sérele
+\va sérete
 \ps adv
 \ge toujours.debout
-\dt 19/Jan/2015
+\gv debout sans bouger, longuement à l'arrêt
+\dt 12/Jun/2016
 
 \lx séremuso
 \mm sére:n:fruit.non-formé
@@ -108544,6 +108739,8 @@ donne d'excellentes fibres)
 \xe nous nous sommes trompés de route
 \xv án bɛ́  síra ɲíni
 \xe nous demandons l'autorisation de partir
+\xv kà síra dá
+\xe barrer la route
 \sn 2
 \gv rang
 \gv ligne
@@ -108562,7 +108759,7 @@ donne d'excellentes fibres)
 \xe on distingue les religions
 \xv díinɛsira táama
 \xe pratiquer une religion
-\dt 26/Sep/2006
+\dt 12/Jun/2016
 
 \lx sírabara
 \mm síra:n:tabac
@@ -108631,12 +108828,14 @@ donne d'excellentes fibres)
 
 \lx sìrakɔgɔma
 \vt sírakɔgɔma
-\vt sìraninkuwama
-\cf fìlakwama
+\va sìrakwàma
+\va sìraninkuwama
+\va fìlakɔ̀gɔma
+\va fìlakwàma
 \ps n
 \ge tortue.de.terre
 \lt (tortue.salée)
-\dt 04/Feb/2016
+\dt 10/Jun/2016
 
 \lx sírakun
 \mm síra:n:chemin
@@ -115720,6 +115919,16 @@ fiançailles
 \ge gros.margouillat.mâle
 \dt 30/Mar/2014
 
+\lx tègelen
+\ps v
+\ge être.en.équilibre.instable
+\gv marcher en équilibre instable
+\gv mettre en équilibre instable
+\ee
+\xv
+\xe
+\dt 10/Jun/2016
+
 \lx tègere
 \ps n
 \sn 1
@@ -115832,11 +116041,21 @@ fiançailles
 \dt 26/Sep/2006
 
 \lx téntegelema
+\va téntegema
+\va téntege
+\va téntegeluma
+\va nténtegema
 \ps v
+\sn
 \vl vi
 \ge être.en.équilibre.instable
-\lt (se hisser.suf)
-\dt 16/Aug/2006
+\sn 2
+\vl vt
+\gv porter en équilibre sur la tête
+\sn 3
+\gv hisser
+\gv hausser
+\dt 12/Jun/2016
 
 \lx téntegema
 \ps v
@@ -116361,6 +116580,15 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lt (main.partie charnue)
 \dt 16/Aug/2006
 
+\lx tɛ̀gwe
+\ps n
+\ge margouillat.mâle
+\gv
+\ee
+\xv
+\xe
+\dt 10/Jun/2016
+
 \lx tɛ́ka
 \va tɛ́k'
 \va tɛ́ga
@@ -116629,6 +116857,23 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ps n
 \ge tamis
 \lt (tamiser.ce qui sert à)
+
+\lx tɛ̀ntɛ̀rɛn
+\ps v
+\ge aplatir
+\gv
+\ee
+\xv
+\xe
+\dt 10/Jun/2016
+
+\lx tɛ́ntɛrɛn
+\ps adv
+\ge immobile
+\ee (en position assise)
+\xv
+\xe
+\dt 10/Jun/2016
 
 \lx tɛ̀rɛ
 \va cɛ̀rɛ
@@ -126111,6 +126356,14 @@ bambara)
 \sm (péj)
 \dt 26/Sep/2006
 
+\lx yélekuyeleku
+\ps adv
+\ge sans.bruit
+\ee (s'approcher)
+\xv
+\xe
+\dt 10/Jun/2016
+
 \lx yélenku
 \ps v
 \vl vi
@@ -126383,6 +126636,15 @@ comportement (LD p.5)
 \gv retrousser
 \sm (une manche ...)
 \dt 26/Sep/2006
+
+\lx yɛ̀lɛn
+\ps n
+\ge secret
+\gv
+\ee
+\xv
+\xe
+\dt 12/Jun/2016
 
 \lx yɛ̀lɛnbagan
 \mm yɛ̀lɛn:v:monter
@@ -127119,14 +127381,15 @@ comportement (LD p.5)
 \dt 26/Sep/2006
 
 \lx yírika
-\ps n
+\va yíriga
+\ps dtm
 \sn 1
 \ge plusieurs
 \gv quelques
 \sn 2
 \gv myriade
 \gv très grand nombre
-\dt 09/Apr/2016
+\dt 11/Jun/2016
 
 \lx yìrikiti
 \ps n
@@ -127362,6 +127625,14 @@ généreuses, avec bourrelets
 \ps adv
 \ge départ.furtif
 \dt 19/Jan/2015
+
+\lx yɔ́kɔyiyɔkɔyi
+\ps adv
+\ge sans.bruit
+\ee (s'approcher)
+\xv
+\xe
+\dt 10/Jun/2016
 
 \lx yɔ̀li
 \ve (-bk,-bn)
