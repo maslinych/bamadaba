@@ -6786,7 +6786,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 28/Mar/2014
 
 \lx bɛ̀nkansɛbɛn
-\mm bɛ̀nkan
+\mm bɛ̀nkan:n:accord
 \mm bɛ̀n:n:accord
 \mm kán:n:cou
 \mm sɛ́bɛn:n:écrit
@@ -6796,7 +6796,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ee
 \xv
 \xe
-\dt 01/Jun/2016
+\dt 14/Jun/2016
 
 \lx bɛ̀nkola
 \mm bɛ̀n:n:accord
@@ -10686,7 +10686,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 26/Sep/2006
 
 \lx bólonɔbila
-\mm bólonɔ
+\mm bólonɔ:n:signature
 \mm bólo:n:bras
 \mm nɔ̀:n:trace
 \mm bìla:v:mettre
@@ -10696,10 +10696,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ee
 \xv
 \xe
-\dt 01/Jun/2016
+\dt 14/Jun/2016
 
 \lx bólonɔbìla
-\mm bólonɔ
+\mm bólonɔ:n:signature
 \mm bólo:n:bras
 \mm nɔ̀:n:trace
 \mm bìla:v:mettre
@@ -10709,7 +10709,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ee
 \xv
 \xe
-\dt 01/Jun/2016
+\dt 14/Jun/2016
 
 \lx bólontan
 \mm bólo:n:bras
@@ -16685,8 +16685,6 @@ sur soi)
 \xe je suis né avec (cette infirmité)
 \xv Ála bɛ́  dén dá  mása yé
 \xe Dieu donne des enfants aux parents
-\xv nsíirin dá, ntàlen dá
-\xe raconter une histoire, dire un proverbe
 \sn 2
 \gv tisser
 \xv gèse dá
@@ -16709,7 +16707,7 @@ sur soi)
 \xe la forgeronne a fabriqué un canari
 \xv kóoro bɛ́  à mɔ̀yɔrɔ fàri dá :
 \xe l'iguane de terre prend la couleur de son terroir (prov)
-\dt 21/Apr/2014
+\dt 14/Jun/2016
 
 \lx dá
 \va d'
@@ -16730,6 +16728,8 @@ sur soi)
 \xe allons nous coucher !
 \xv í dá
 \xe mourir, décéder  [fig]
+\xv nsíirin dá, ntàlen dá
+\xe raconter une histoire, dire un proverbe
 \sn 2
 \vl vt
 \gv coucher
@@ -16771,7 +16771,7 @@ sur soi)
 \xe sois-en sûr !
 \xv né dálen b'á lá kó
 \xe je suis sûr que ...
-\dt 03/Apr/2016
+\dt 14/Jun/2016
 
 \lx dáaba
 \va dába
@@ -67352,6 +67352,17 @@ l'intérieur une ou deux graines)
 \fq (rare)
 \dt 19/Aug/2006
 
+\lx kúnji
+\mm kún:v:s'adapter
+\mm jí:n:eau
+\ps n
+\ge bénéfice.de.patience
+\gv
+\ee
+\xv
+\xe
+\dt 14/Jun/2016
+
 \lx kùnjugu
 \mm kùn:n:tête
 \mm júgu:vq/adj:mauvais
@@ -68128,6 +68139,18 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \xv à sìgitɔ fílɛ  dùgu kùnna
 \xe le voilà qu'on l'installe à la tête du village
 \dt 26/Sep/2006
+
+\lx kúnna
+\mm kún:v:s'adapter
+\mm ń:pers:1SG
+\mm ná:pp:dans
+\ps n
+\ge patience
+\gv
+\ee
+\xv
+\xe
+\dt 14/Jun/2016
 
 \lx kùnnabana
 \mm kùn:n:tête
@@ -102255,11 +102278,12 @@ épuisés
 
 \lx sàmiya
 \va sàmiyɛ
+\va sɔ̀miɲɛ
 \ps n
 \ge hivernage
 \xv sáni  sàmiya kà wó
 \xe avant que ne se termine l'hivernage
-\dt 26/Sep/2006
+\dt 14/Jun/2016
 
 \lx sàmiya
 \ps v
