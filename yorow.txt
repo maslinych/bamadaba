@@ -8,32 +8,50 @@
 \di b
 \di m
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Abidjan
 \ru Абиджан
 \dt 23/May/2010
+
+\lx Abuja
 \ps n.prop
+\ge TOP
+\gv Abuja
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx Adisabeba
 \di b
 \di m
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Addis-abeba
 \ru Аддис-Абеба
 \dt 23/May/2010
-\ps n.prop
 
 \lx Afiganisitan
 \va Áfugan
 \di b
 \di m
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Afghanistan
 \ru Афганистан
 \dt 23/May/2010
+
+\lx Afirikidisidi
 \ps n.prop
+\ge TOP
+\gv Afrique du Sud
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Áfriki
 \va Afrika
@@ -44,67 +62,67 @@
 \sy Fadafinna
 \di m
 \ty конт.
+\ps n.prop
 \ge TOP
 \gv Afrique
 \ru Африка
 \dt 23/Feb/2014
-\ps n.prop
 
 \lx Akkra
 \va Akra
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Akkra
 \ru Аккра
 \dt 23/May/2010
-\ps n.prop
 
 \lx Áliban
 \va Álibani
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Albanie
 \ru Албания
 \dt 05/Feb/2016
-\ps n.prop
 
 \lx Alimani
 \va Alimaɲi
 \va Aliman
 \et fr. Allemagne
+\ps n.prop
 \ge TOP
 \gv Allemagne
 \ru Германия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Álizeri
 \va Álize
 \di b
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Algérie
 \ru Алжир
 \dt 05/Apr/2016
-\ps n.prop
 
 \lx Ámdàláy
 \ty кв.
 \cm (в Сегу)
+\ps n.prop
 \ge TOP
 \gv quartier.à.Ségou
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Ameriki
 \va Lamerikɛnjamana
 \ty гос.
 \ty конт.
+\ps n.prop
 \ge TOP
 \gv Amerique
 \ru Америка
 \dt 05/Feb/2016
-\ps n.prop
 
 \lx Andalusi
 \ps n.prop
@@ -118,28 +136,28 @@
 \va Ankiletɛrɛ
 \va Angiletɛri
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Angleterre
 \ru Англия
 \dt 05/Feb/2016
-\ps n.prop
 
 \lx Angola
 \di b
 \di m
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Angola
 \ru Ангола
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ángolem
 \cm (в Бамако)
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Angulɛmu
 \ps n.prop
@@ -150,37 +168,37 @@
 \lx Ansongo
 \va Ansɔngɔ
 \va Ansɔngo
+\ps n.prop
 \ge TOP
 \gv Ansongo
 \ty г.
 \ru Ансонго
 \dt 05/Feb/2016
-\ps n.prop
 
 \lx Árabula
 \nk ߊߙߊߓߎߟߊ
-\ty мест.
+\ps n.prop
 \ge TOP
 \gv Arabie
 \ru Аравия
-\dt 08/Dec/2015
+\dt 01/Jun/2016
 
 \lx Arameni
 \va Arimeni
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Arménie
 \ru Армения
 \dt 23/May/2010
-\ps n.prop
 
 \lx Arizantini
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Argentine
 \ru Аргенина
 \dt 23/May/2010
-\ps n.prop
 
 \lx Aseyi demili
 \ps n.prop
@@ -191,64 +209,64 @@
 
 \lx Ashikabadi
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Achkhabad
 \ru Ашхабад
 \dt 23/May/2010
-\ps n.prop
 
 \lx Asi
 \va Azi
 \ty конт.
+\ps n.prop
 \ge TOP
 \gv Asie
 \ru Азия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Asimara
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Asmara
 \ru Асмера
 \dt 23/May/2010
-\ps n.prop
 
 \lx Atɛn
 \va Ahɛn
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Athènes
 \ru Афины
 \dt 23/May/2010
-\ps n.prop
 
 \lx Atilantiki
 \va Atlantiki
 \et fr. Atlantique
+\ps n.prop
 \ge TOP
 \gv Atlantique
 \ty ок.
 \ru Атлантический
 \dt 23/May/2010
-\ps n.prop
 
 \lx Azani
 \di b
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Azanie
 \ru Азания
 \dt 23/May/2010
-\ps n.prop
 
 \lx Baba
 \ty р.
+\ps n.prop
 \ge TOP
 \gv Niger
 \ru Нигер
 \dt 23/May/2010
-\ps n.prop
 
 \lx Babilen
 \va Babulen
@@ -256,45 +274,44 @@
 \va Bable
 \va Bawulen
 \ty р.
+\ps n.prop
 \ge TOP
 \gv Baoulé
 \ru Бавулен
 \cm (приток Нигера)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bádalabugu 
 \ty кв. 
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Bafilabɛn
 \et букв. "сплетение двух рек", т.е. Бакой и Бафин
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Bafoulabé
 \ru Бафулабе
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bafin
 \ty р.
+\ps n.prop
 \ge TOP
 \gv Bafing
 \ru Бафин
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bágadaji
-\ty кв. 
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
 \ps n.prop
+\ge TOP
+\gv Bagadadji
+\ee (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
 
 \lx Baginda
 \ps n.prop
@@ -303,11 +320,11 @@
 
 \lx Bájalana
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Bajɛ
 \di b
@@ -315,104 +332,122 @@
 \va Bagwɛ
 \di m
 \ty р.
+\ps n.prop
 \ge TOP
 \gv Bagoe
 \ru Багое
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bajiba
 \cm поэт.
 \ty р.
 \ru Нигер
+\ps n.prop
 \ge TOP
 \gv Niger
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bákaribugu
 \ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
 \ps n.prop
+\ge TOP
+\gv Bakaribougou
+\ee (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
 
 \lx Báko Jíkoroni
 \va Bakɔjikɔrɔnin
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 10/Jan/2013
-\ps n.prop
 
 \lx Bakoyi
 \ty р.
 \ru Бакой
+\ps n.prop
 \ge TOP
 \gv Bakoy
 \cm (приток Нигера)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bàmakɔ
 \va Bàmako
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Bamako
 \ru Бамако
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bámakɔkura
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Bámànángin
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Bánanisabakɔrɔ
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
+
+\lx Banankabugu
 \ps n.prop
+\ge TOP
+\gv Banankabougou
+\ee (un quartier dans la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Banga
+\ps n.prop
+\ge TOP
+\gv Banga
+\ee (un village, commune de Sabila, région de Ségou)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Bangi
 \ty р.
 \ru Банги
+\ps n.prop
 \ge TOP
 \gv Bangui
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bángɔni
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Ségou
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Baninfin
 \ty р.
 \ru Бани Чёрная
+\ps n.prop
 \ge TOP
 \gv Banifing
 \cm (приток Бани)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Baninsira
 \va Banisira
@@ -421,45 +456,63 @@
 \va Isirayɛli
 \et ar. bnu-sraa'il 'евреи'
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Israël
 \ru Израиль
 \dt 05/Feb/2016
-\ps n.prop
 
 \lx Bánjagara
 \ty плато
+\ps n.prop
 \ge TOP
 \gv Bandiagara
 \ru Бандиагара
 \dt 23/May/2010
-\ps n.prop
 
 \lx Banjulu
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Banjoul
 \ru Банджул
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bankasi
 \ty дер.
 \ru Банкаси
+\ps n.prop
 \ge TOP
 \gv Bankassi
 \cm (к северу от Бамако)
 \dt 23/May/2010
+
+\lx Bankɔnin
 \ps n.prop
+\ge TOP
+\gv Banconi
+\ee (un quartier de la Commune 1 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Bankumana
 \ty дер.
 \ru Банкумана
+\ps n.prop
 \ge TOP
 \gv Bankoumana
 \cm (деревня на р. Нигер между Бамако и Кангаба)
 \dt 23/May/2010
+
+\lx Baraselɔni
 \ps n.prop
+\ge TOP
+\gv Barcelone
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Barawuli
 \ps n.prop
@@ -470,49 +523,67 @@
 \lx Barazawil
 \va Barazaduu
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Brazzaville
 \ru Браззавиль
 \dt 23/May/2010
-\ps n.prop
 
 \lx Basutoland
 \va Basutola
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Basutoland
 \ru Басутоленд
 \dt 23/May/2010
-\ps n.prop
 
 \lx Batɔsi
 \ty г.
 \ru Батерст
+\ps n.prop
 \ge TOP
 \gv Bathurst
 \cm (с1973 г.  - Банджул)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Becuwanaduu
 \va Becuwanadugu
 \va Becuwanaland
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Betchouanaland 
 \ru Бечуаналенд
 \cm (с 1966 г. - Ботсвана)
 \dt 23/May/2010
+
+\lx Benɛn
+\va Bɛnɛn
+\ty гос.
 \ps n.prop
+\ge TOP
+\gv Bénin
+\ru Бенин
+\dt 31/May/2016
 
 \lx Beresili
 \va Berezili
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Brésil
 \ru Бразилия
 \dt 23/May/2010
-\ps n.prop
+
+\lx Bɛlɛdugu
+\ps n
+\ge TOP
+\gv Bélédougou
+\ee
+\xv
+\xe
+\dt 22/May/2016
 
 \lx Bɛliziki
 \ps n.prop
@@ -520,117 +591,128 @@
 \gv Belgique
 \dt 05/Feb/2016
 
-\lx Bɛnɛn
-\ty гос.
-\ge TOP
-\gv Bénin
-\ru Бенин
-\dt 23/May/2010
-\ps n.prop
-
 \lx Bɛngazi
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Benghazi
 \ru Бенгази
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bɛnuwɛ
 \ty р.
 \ru Бенуэ
+\ps n.prop
 \ge TOP
 \gv Bénoué
 \cm (в Нигерии, приток Нигера)
 \dt 23/May/2010
+
+\lx Birimani
 \ps n.prop
+\ge TOP
+\gv Birmanie
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Bìritan
 \va m
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Royaume-Uni
 \ru Британия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bisao
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Bissau
 \ru Бисау
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bófà
 \di m
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Bofa
 \ru Бофа
 \cm Гвинея
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bólibana
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Bózola
-\ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
 \ps n.prop
+\ge TOP
+\gv Bozola
+\ee (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Buguba
+\ps n.prop
+\ge TOP
+\gv Bougouba
+\ee (un quartier de la Commune 2 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Bujumbura
 \di b
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Bujumbura
 \ru Бужумбура
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bulantiya
 \ty г.
 \ru Блантайр
+\ps n.prop
 \ge TOP
 \gv Blantyre
 \cm (Малави)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bulbine
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Conakry
 \ru Бульбине
 \cm (В Конакри)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Bulgari
 \va Bíligari
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Bulgarie
 \ru Болгария
 \dt 23/May/2010
-\ps n.prop
 
-\lx Búlkasùnbugu
-\ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
+\lx Búlukasùnbugu
+\va Búlkasùnbugu
 \ps n.prop
+\ge TOP
+\gv Boulkassombougou
+\ee (un quartier de la Commune 1 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Burɛmu
 \ps n.prop
@@ -641,150 +723,189 @@
 \lx Búrukinafaso
 \va Búrukina
 \ty гос.
-\ge TOP
-\gv Burkina Faso
 \ps n.prop
-
 \ru Буркина Фасо
 \cm (до 1984 г. - Верхняя Вольта)
 \dt 24/Jan/2013
+\ge TOP
+\gv Burkina Faso
 
 \lx Burundi
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Bouroundi
 \ru Бурунди
 \dt 23/May/2010
-\ps n.prop
 
 \lx Busuunbura
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Bujumbura
 \ru Бужумбура
 \dt 23/May/2010
-\ps n.prop
 
 \lx Cadi
 \va Caadi
 \ty гос.
 \ty оз.
+\ps n.prop
 \ge TOP
 \gv Tchad
 \ru Чад
 \dt 23/May/2010
+
+\lx Dabanaani
 \ps n.prop
+\ge TOP
+\gv Dabanani
+\ee (marché dans la commune 3 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Dákar
 \va Dakaaru
 \va Dakari
 \va Dakaro
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Dakar
 \ru Дакар
 \dt 23/May/2010
-\ps n.prop
 
 \lx Dalaba
 \di m
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Dalaba
 \ru Далаба
 \dt 23/May/2010
-\ps n.prop
 
 \lx Damasi
 \ty г.
 \ru Дамаск
+\ps n.prop
 \ge TOP
 \gv Damas
 \dt 23/May/2010
-\ps n.prop
 
 \lx Dàomɛ
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Dahomey
 \ru Дагомея
 \cm (с 1972 г. - Бенин)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Darisalamu
 \va Daaru Salaami
 \va Darasalamu
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Dar es Salam
 \ru Дар-эс-Салам
 \dt 08/Feb/2016
-\ps n.prop
 
 \lx Dársàlám
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Debo
 \ty оз.
 \ru Дебо
+\ps n.prop
 \ge TOP
 \gv Debo
 \cm (в Мали, центр внутренний дельты Нигера)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Dɛ́rsàlám
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Ségou
 \dt 05/Dec/2010
+
+\lx Dibidanin
 \ps n.prop
+\ge TOP
+\gv Dibida
+\ee (marché dans la commune 3 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Dominiki
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Dominique
 \ru Доминикана
 \dt 23/May/2010
-\ps n.prop
 
 \lx Dràwela
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
+
+\lx Dumanzana
 \ps n.prop
+\ge TOP
+\gv Doumanzana
+\ee (un quartier de la Commune 1 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Dunfin
+\ps n.prop
+\ge TOP
 \ty др.
 \ru Дунфин
 \cm (один из порогов на Нигере между Бамако и Куликоро)
-\dt 23/May/2010
+\dt 01/Jun/2016
 \ps n.prop
 
 \lx Dúwazà
 \va Duwazan
 \ty г.
 \ru Дуэнца
+\ps n.prop
 \ge TOP
 \gv Douentza
 \dt 05/Feb/2016
+
+\lx Ecopi
+\va Ecupi
+\va Ɛcopi
+\va Ɛtiyopi
+\ty гос.
 \ps n.prop
+\ge TOP
+\gv Éthiopie
+\ru Эфиопия
+\dt 01/Jun/2016
 
 \lx Eritere
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Érithrée
 \ru Эритрея
 \dt 23/May/2010
-\ps n.prop
 
 \lx Erɔpu
 \ps n.prop
@@ -797,42 +918,32 @@
 \gv Égypte
 \dt 04/Apr/2016
 
-\lx Ɛcopi
-\va Ecupi
-\va Ɛtiyopi
-\ty гос.
-\ge TOP
-\gv Éthiopie
-\ru Эфиопия
-\dt 23/May/2010
-\ps n.prop
-
 \lx Ɛ̀ndu
 \va Híndi
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Inde
 \ru Индия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ɛ̀njen
 \et fr. Indien
 \ty ок.
+\ps n.prop
 \ge TOP
 \gv Océan.Indien
 \ru Индийский
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ɛ̀ropi
 \va Erɔpu
 \ty конт.
+\ps n.prop
 \ge TOP
 \gv Europe
 \ru Европа
 \dt 19/Dec/2012
-\ps n.prop
 
 \lx Ɛsipaɲi
 \ps n.prop
@@ -843,20 +954,38 @@
 \lx Fagibini
 \ty оз.
 \ru Фагибини
+\ps n.prop
 \ge TOP
 \gv Faguibini
 \cm (в Мали, к северу от внутренней дельты Нигера)
 \dt 23/May/2010
+
+\lx Fajigila
 \ps n.prop
+\ge TOP
+\gv Fadjiguila
+\ee (un quartier de la Commune 1 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
+
+\lx Falajɛ
+\ps n.prop
+\ge TOP
+\gv Faladié
+\ee (un quartier dans la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Faleme
 \ty р.
 \ru Фалеме
+\ps n.prop
 \ge TOP
 \gv Falémé
 \cm (левый приток р. Сенегал)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Fàrafinna
 \mm fàra:n:écorce
@@ -866,14 +995,32 @@
 \ge TOP
 \gv Afrique
 
+\lx Farakɔ
+\ps n.prop
+\ge TOP
+\gv Farako
+\ee (rivière à la limite des communes 3 et 4 à Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Fàransi
 \ty гос.
 \ru Франция
+\ps n.prop
 \ge TOP
 \gv France
 \sy Tubabula
 \dt 23/May/2010
+
+\lx Fàsokanu
 \ps n.prop
+\ge TOP
+\gv Fassokanou
+\ee (un quartier dans la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Fieyn
 \ty горы
@@ -887,29 +1034,29 @@
 \di m
 \ty г.
 \ru Фритаун
+\ps n.prop
 \ge TOP
 \gv Freetown
 \sy Hɔrɔyaso
 \dt 23/May/2010
-\ps n.prop
 
 \lx Fíriya
 \ty окр.
 \ru Фрия
+\ps n.prop
 \ge TOP
 \gv Fria
 \cm (в Гвинее)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Fɔrulami
 \ty г.
 \ru Форт-Лами
+\ps n.prop
 \ge TOP
 \gv Fort-Lamy
 \cm (с 1973 г. - Нджамена)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Fúlabugu
 \ps n.prop
@@ -925,54 +1072,64 @@
 \lx Futa Jalɔn
 \ty горы
 \ru Фута-Джалон
+\ps n.prop
 \ge TOP
 \gv Fouta.Djallon
 \cm (в Гвинее)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Futa Toro
 \ty горы
 \ru Фута Торо
+\ps n.prop
 \ge TOP
 \gv Fouta.Toro
 \cm (в Сенегале)
 \dt 23/May/2010
+
+\lx Gabakuru
 \ps n.prop
+\ge TOP
+\gv Gabakourou
+\ee (commune rurale au sud de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Gabon
 \va Gabɔ́n
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Gabon
 \ru Габон
 \dt 23/May/2010
-\ps n.prop
 
 \lx Gana
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Ghana
 \ru Гана
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ganbiya
+\va Ganbi
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Gambie
 \ru Гамбия
-\dt 23/May/2010
-\ps n.prop
+\dt 04/Jun/2016
 
 \lx Gangaran
 \ty горы
 \ru Гангаран
+\ps n.prop
 \ge TOP
 \gv Gangaran
 \cm (в Мали)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Gaɲiwa
 \ps n.prop
@@ -992,6 +1149,15 @@
 \cm (village à Buguni)
 \dt 01/Apr/2014
 
+\lx Garan Basamu
+\ps n.prop
+\ge TOP
+\gv Grand Bassam
+\ee
+\xv
+\xe
+\dt 22/May/2016
+
 \lx Garuwa
 \ps n.prop
 \ge Garoua
@@ -1000,33 +1166,42 @@
 
 \lx Gawo
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Gao
 \ru Гао
 \cm (на востоке Мали)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Gbékeduu
 \di m
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Gbekedou
 \ru Гекеду
 \cm (в Гвинее)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Gben Kɔɔjida
 \va Gbenkɔɔijida
 \di m
 \ty гос.
 \ru Кот-д'Ивуар
+\ps n.prop
 \ge TOP
 \gv Côte.d'Ivoire
 \sy Kɔ́nɔwari
 \dt 23/May/2010
+
+\lx Gɛrɛsi
 \ps n.prop
+\ge TOP
+\gv Grèce
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx Gíne
 \ps n.prop
@@ -1038,10 +1213,19 @@
 \va Ginebisawo
 \ty гос.
 \ru Гвинея-Бисау
+\ps n.prop
 \ge TOP
 \gv Guinée-Bissau
 \dt 23/May/2010
+
+\lx Gundamu
 \ps n.prop
+\ge TOP
+\gv Goundam
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Guruma
 \ps n.prop
@@ -1052,37 +1236,50 @@
 \lx Hámdalay
 \va Hámudalayi
 \ty кв.
+\ps n.prop
+\sn 1
 \ge TOP
 \gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 08/Feb/2016
-\ps n.prop
+\ee (в Бамако)
+\sn 2
+\gv Hamdallaye
+\ee (la capitale de l'Empire peule de Macina)
+\dt 11/Jun/2016
 
 \lx Haribomo
 \ty оз.
 \ru Харибомо
+\ps n.prop
 \ge TOP
 \gv Haribomo
 \cm (в Мали, к востоку от внутренней дельты Нигера)
 \dt 23/May/2010
+
+\lx Hipodɔrɔmu
 \ps n.prop
+\ge TOP
+\gv Hippodrome
+\ee (un quartier de la Commune 2 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Hòngiri
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Hongrie
 \ru Венгрия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Horo
 \ty оз.
 \ru Хоро
+\ps n.prop
 \ge TOP
 \gv Horo
 \cm (к северу от внутренней дельты Нигера)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Hɔnbori
 \ps n.prop
@@ -1095,11 +1292,21 @@
 \di m
 \ty г.
 \ru Фритаун
+\ps n.prop
 \ge TOP
 \gv Freetown
 \sy Firiton
 \dt 23/May/2010
+
+\lx Ifogasi
 \ps n.prop
+\ge TOP
+\gv Ifoghas
+\ee (un massif montagneux situé dans le Nord-Est du Mali et dans
+le Sud de l'Algérie)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Ikɛrɛni
 \ps n.prop
@@ -1109,19 +1316,19 @@
 
 \lx Ípɔdrɔm
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Iran
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Iran
 \ru Иран
 \dt 23/May/2010
-\ps n.prop
 
 \lx Irilandi
 \ps n.prop
@@ -1133,12 +1340,12 @@
 \va Irisila
 \va Rùsí
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Russie
 \ru Росcия
 \ru Советский Союз
 \dt 23/May/2010
-\ps n.prop
 
 \lx Isilandi
 \ps n.prop
@@ -1152,19 +1359,64 @@
 \gv Italie
 \dt 19/Dec/2012
 
+\lx Izinikin
+\ps n.prop
+\ge TOP
+\gv Zone industrielle
+\ee (un quartier de la Commune 2 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx Jadakuru
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Sierra Leone
 \ru Сьерра-Леоне
 \dt 23/May/2010
+
+\lx Jafaranakɔ
 \ps n.prop
+\ge TOP
+\gv Diafaranko
+\ee (rivière dans la commune 4 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Jaka
 \ps n.prop
 \ge TOP
 \gv Diaka
 \dt 05/Feb/2016
+
+\lx Jalakɔrɔji
+\ps n.prop
+\ge TOP
+\gv Dialakorodji
+\ee (commune au Cercle de Kati, au sud de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
+
+\lx Jannegala
+\ps n.prop
+\ge TOP
+\gv Djanékéla
+\ee (un quartier dans la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Jeda
+\ps n.prop
+\ge TOP
+\gv Jeddah
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Jeliba
 \di m
@@ -1174,56 +1426,66 @@
 \va Yólìba
 \di mF
 \ty р.
+\ps n.prop
 \ge TOP
 \gv Niger
 \ru Нигер
 \dt 23/May/2010
-\ps n.prop
 
 \lx Jelibaduu
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Niger
 \ru Нигер
 \dt 23/May/2010
-\ps n.prop
 
 \lx Jèlibugu
 \ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
 \ps n.prop
+\ge TOP
+\gv Djélibougou
+\ee (un quartier de la Commune 1 de Bamako)
+\dt 01/Jun/2016
 
 \lx Jene
 \di b
 \va Jɛ̀nɛ
 \di m
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Dienné
 \ru Дженне
 \dt 23/May/2010
-\ps n.prop
 
 \lx Jibuti
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Djibouti
 \ru Джибути
 \dt 23/May/2010
+
+\lx Jikɔrɔnin-Para
 \ps n.prop
+\ge TOP
+\gv Djikoroni-Para
+\ee (un quartier de la commune 4 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Jinɛ
 \va Lágìnɛ
 \va Láginɛ
+\va Lajinɛ
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Guinée
 \ru Гвинея
-\dt 23/May/2010
-\ps n.prop
+\dt 04/Jun/2016
 
 \lx Jitumu
 \ps n.prop
@@ -1235,19 +1497,25 @@
 \lx Joma
 \ty ист.
 \ru Джома
+\ps n.prop
 \ge TOP
 \gv Dioma
 \cm (историческая область в южной Гвинее)
 \dt 23/May/2010
+
+\lx Jɔ́nkɔlɔnin
 \ps n.prop
+\ge TOP
+\gv Dionkolonin
+\dt 12/May/2016
 
 \lx Júmanzana
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Kaaba
 \ps n.prop
@@ -1255,40 +1523,94 @@
 \gv
 \dt 07/Nov/2014
 
+\lx Kacɔrɔnin
+\ps n.prop
+\ge TOP
+\gv
+\ee (un village de la région de Sikasso)
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Kahera
 \va Kahira
 \va Kahiira
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Caire
 \ru Каир
 \dt 23/May/2010
+
+\lx Kajolo
 \ps n.prop
+\ge TOP
+\gv Kadiolo
+\ee (circle dans la province de Sikasso)
+\xv
+\xe
+\dt 01/Jun/2016
+
+\lx Kakolondugu
+\ps n.prop
+\ge TOP
+\gv
+\ee (une commune de la région de Sikasso)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Kalabanbugu
+\ps n.prop
+\ge TOP
+\gv Kalabambougou
+\ee (un quartier de la commune 4 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Kalabankɔrɔ
+\ps n.prop
+\ge TOP
+\gv Kalaban-Coro
+\ee (commune au sud du Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Kalabankura
+\ps n.prop
+\ge TOP
+\gv Kalaban-Coura
+\ee (un quartier dans la commune 5 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Kameruni
 \va Kamerun
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Cameroun
 \ru Камерун
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kanada
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Canada
 \ru Канада
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kanbiya
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Gambie
 \ru Гамбия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kangaba
 \ps n.prop
@@ -1309,57 +1631,66 @@
 \lx Kánkan
 \ty г.
 \ru Канкан
+\ps n.prop
 \ge TOP
 \gv Kankan
 \cm (в Гвинее)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kanpala
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Kampala
 \ru Кампала
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kapu Wɛri
 \va Kapuwɛri
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Cap-Vert
 \ru Кабо-Верде
 \dt 23/May/2010
-\ps n.prop
 
 \lx Karakoro
 \ty р.
 \ru Каракоро
+\ps n.prop
 \ge TOP
 \gv Karakoro
 \cm (правый приток р. Сенегал)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kàrata
 \ty ист.
 \ru Каарта
+\ps n.prop
 \ge TOP
 \gv Kaarta
 \cm (к северу от Бамако)
 \ge TOP
 \gv
 \dt 23/May/2010
+
+\lx Karicemali
 \ps n.prop
+\ge TOP
+\gv Quantrier Mali
+\ee (un quartier dans la commune 5 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Karitum
 \di m
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Khartoum
 \ru Хартум
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kati
 \ps n.prop
@@ -1369,11 +1700,11 @@
 
 \lx Kaveri
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Cap-Vert
 \ru Кабо-Верде
 \dt 23/May/2010
-\ps n.prop
 
 \lx Káwàya
 \di m
@@ -1384,50 +1715,58 @@
 \ps n.prop
 \ge TOP
 
+\lx Kawolaki
+\ps n.prop
+\ge TOP
+\gv Kaolack
+\ee (une ville portuaire au Sénégal)
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Káyì
 \ty г.
 \ru Каес
+\ps n.prop
 \ge TOP
 \gv Kayes
 \cm (на северо-западе Мали)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kazamansi
 \ty пров.
 \ru Казаманс
+\ps n.prop
 \ge TOP
 \gv Casamance
 \cm (в Сенегале)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Keniya
 \va Keninya
 \va Kenya
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Kenya
 \ru Кения
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kénzanbugu
-\ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
 \ps n.prop
+\ge TOP
+\gv Quinzambougou
+\ee (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
 
 \lx Keri
 \va Kɛri
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Caire
 \ru Каир
 \dt 04/Feb/2016
-\ps n.prop
 
 \lx Keruwanɛ
 \ps n.prop
@@ -1442,39 +1781,39 @@
 
 \lx Kigali
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Kigali
 \ru Кигали
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kinsasa
 \va Kinshasa
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Kinshassa
 \ru Киншаса
 \dt 04/Apr/2016
-\ps n.prop
 
 \lx Kìsiduu
 \di m
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Kisidou
 \ru Кисиду
 \cm (Гвинея)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kita
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Kita
 \ru Кита
 \cm (на северо-западе Мали)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kolama
 \ps n.prop
@@ -1483,11 +1822,21 @@
 \lx Kolinbinna
 \ty р.
 \ru Колинбинна
+\ps n.prop
 \ge TOP
 \gv Colimbiné
 \cm (правый приток реки Сенегал)
 \dt 23/May/2010
+
+\lx Kolokani
+\va Kolokanin
+\ve Kɔlɔkanin
 \ps n.prop
+\ge TOP
+\ee Kolokani
+\xv
+\xe
+\dt 22/May/2016
 
 \lx Kolongo
 \ps n.prop
@@ -1496,38 +1845,65 @@
 \smf (commune dans le cercle de Macina, région de Ségou)
 \dt 08/Feb/2016
 
+\lx Kolongotomo
+\ps n.prop
+\ge TOP
+\gv
+\ee (un village entre Ségou et Mopti)
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Kòngo
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Congo
 \ru Конго
 \dt 23/May/2010
+
+\lx Kongo Baraza
 \ps n.prop
+\ge TOP
+\gv Congo-Brazzaville
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx Kore
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Korea
 \ru Корея
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kotonu
 \va Kotonun
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Cotonou
 \ru Котону
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kówɛti
 \ty гос.
 \ru Кувейт
+\ps n.prop
 \ge TOP
 \gv Koweït
 \dt 05/Apr/2016
+
+\lx Kɔkuna
 \ps n.prop
+\ge TOP
+\gv
+\ee (un village dans la commune de Kakolondugu, Sikaso)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Kɔminɛ
 \ps n.prop
@@ -1538,20 +1914,29 @@
 \lx Kɔmɔri
 \va Kɔmɔɔru
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Comores
 \ru Коморские острова
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kɔ́nakiri
 \ty г.
 \ru Конакри
+\ps n.prop
 \ge TOP
 \gv Conakry
 \cm (столица Гвинеи)
 \dt 23/May/2010
+
+\lx Kɔnna
 \ps n.prop
+\ge TOP
+\gv Konna
+\ee (commune et village dans le cercle et la région de Mopti)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Kɔ́nɔwàri
 \va Kodiwari
@@ -1562,44 +1947,63 @@
 \va Kɔdiwari
 \va Kotiwari
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Côte.d'Ivoire
 \ru Кот-д'Ивуар
 \dt 17/Dec/2012
-\ps n.prop
 
 \lx Kɔ́rɔfina
-\ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Dec/2010
+\va Korofinna
 \ps n.prop
+\ge TOP
+\gv Korofina
+\ee (un quartier de la Commune 1 de Bamako)
+\cm (в Бамако)
+\dt 01/Jun/2016
 
 \lx Kucala
 \ps n.prop
 \ge TOP
 
+\lx Kùluba
+\ps n.prop
+\ge TOP
+\gv Koulouba
+\ee (résidence du Président du Mali)
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Kulukɔrɔ
 \va Kulikɔrɔ
 \ty г.
 \ru Куликоро
+\ps n.prop
 \ge TOP
 \gv Koulikoro
 \cm (на берегу Нигера, к востоку от Бамако)
 \dt 23/May/2010
+
+\lx Kuluninkɔ
 \ps n.prop
+\ge TOP
+\gv Koulouninko
+\ee (un quartier dans la commune 3 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Kùrankɔ
 \di m
 \ty обл.
 \ru Куранко
+\ps n.prop
 \ge TOP
 \gv Kouranko
 \cm (к западу от Кисидугу, на территории Гвинеи и
 Сьерра-Леоне; также одноимённый народ)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Kurukanfuga
 \ps n.prop
@@ -1609,11 +2013,11 @@
 \va Kodosa
 \ty г.
 \ru Куруса
+\ps n.prop
 \ge TOP
 \gv Kouroussa
 \cm (на северо-востоке Гвинеи)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Labezanga
 \ps n.prop
@@ -1623,19 +2027,19 @@
 
 \lx Láfìyábugu
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Lagine Bisawo
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Guinée-Bissau
 \ru Гвинея-Бисау
 \dt 23/May/2010
-\ps n.prop
 
 \lx Láginɛ
 \ps n.prop
@@ -1643,13 +2047,33 @@
 \gv Guinée
 
 \lx Lagɔsi
+\va Legɔsi
+\va Legosi
 \va Lagos
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Lagos
 \ru Лагос
-\dt 23/May/2010
+\dt 31/May/2016
+
+\lx Lasa
 \ps n.prop
+\ge TOP
+\gv Lassa
+\ee (un quartier de la commune 4 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Lasi Palimasi
+\ps n.prop
+\ge TOP
+\gv Lasi Palimasi
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Líbɛriya
 \va Lábiriya
@@ -1663,27 +2087,45 @@
 \lx Libi
 \ty гос.
 \ru Ливия
+\ps n.prop
 \ge TOP
 \gv Libye
 \dt 23/May/2010
+
+\lx Lituyani
 \ps n.prop
+\ge TOP
+\gv Lituanie
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Lomɛ
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Lomé
 \ru Ломе
 \dt 23/May/2010
-\ps n.prop
 
 \lx Lorenso-Marikɛs
 \ty г.
 \ru Лоренсу-Маркеш
+\ps n.prop
 \ge TOP
 \gv Lourenço.Marques
 \cm (c 1976 г. - Мапуту)
 \dt 23/May/2010
+
+\lx Lɔnduru
 \ps n.prop
+\ge TOP
+\gv Londre
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx Lukusanburugu
 \ps n.prop
@@ -1693,36 +2135,36 @@
 
 \lx Lusaka
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Lusaka
 \ru Лусака
 \dt 23/May/2010
-\ps n.prop
 
 \lx Luwanda
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Loanda
 \ru Луанда
 \dt 23/May/2010
-\ps n.prop
 
 \lx Madagasikari
 \va Madagaasi
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Madagascar
 \ru Мадагаскар
 \dt 23/May/2010
-\ps n.prop
 
 \lx Màdina
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Médine
 \ru Медина
 \dt 23/May/2010
-\ps n.prop
 
 \lx Madiridi
 \ps n.prop
@@ -1733,39 +2175,48 @@
 \lx Máka
 \va Mákan
 \ty г.
+\ps n.prop
 \ge TOP
 \gv La.Mecque
 \ru Мекка
 \dt 23/May/2010
-\ps n.prop
 
 \lx Malawi
 \ty гос.
 \ru Малави
+\ps n.prop
 \ge TOP
 \gv Malawi
 \dt 23/May/2010
-\ps n.prop
 
 \lx Màli
 \ty гос.
 \ru Мали
+\ps n.prop
 \ge TOP
 \gv Mali
 \dt 26/Mar/2014
-\ps n.prop
 
 \lx Mamun
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Mamou
 \ru Маму
 \dt 23/May/2010
-\ps n.prop
 
 \lx Mànden
 \ps n.prop
 \ge TOP
+
+\lx Maɲanbugu
+\ps n.prop
+\ge TOP
+\gv Magnambougou
+\ee (un quartier à la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Marakala
 \ps n.prop
@@ -1784,19 +2235,19 @@
 \va Màsantan
 \di m
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Masanta
 \ru Масента
 \dt 23/May/2010
-\ps n.prop
 
 \lx Maseru
 \ty г.
 \ru Масеру
+\ps n.prop
 \ge TOP
 \gv Maseru
 \dt 23/May/2010
-\ps n.prop
 
 \lx Masigi
 \ps n.prop
@@ -1809,20 +2260,29 @@
 \va Máasina
 \ty ист.
 \ru Масина
+\ps n.prop
 \ge TOP
 \gv Masina
 \smf (ville et cercle au Mali)
 \cm (в Мали, с центром в г. Мопти)
 \dt 08/Feb/2016
+
+\lx Medinakura
 \ps n.prop
+\ge TOP
+\gv Médina-coura
+\ee (un quartier de la Commune 2 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Mediterane
 \ty м.
+\ps n.prop
 \ge TOP
 \gv Méditerranée
 \ru Средиземное
 \dt 23/May/2010
-\ps n.prop
 
 \lx Menaka
 \ps n.prop
@@ -1832,54 +2292,89 @@
 
 \lx Mɛ́din
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Segou
 \cm (в Сегу)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Mɛ́dìnákura
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
+
+\lx Mɛ́ɛmà
 \ps n.prop
+\ge TOP
+\gv Mema
+\xv
+\xe
+\dt 13/May/2016
 
 \lx Mɛkisiki
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Mexique
 \ru Мексика
 \dt 23/May/2010
-\ps n.prop
 
 \lx Milo
 \ty р.
+\ps n.prop
 \ge TOP
 \gv Milo
 \ru Мило
 \cm (в Гвинее, приток Нигера)
 \dt 23/May/2010
+
+\lx Misabugu
 \ps n.prop
+\ge TOP
+\gv Missabougou
+\ee (un quartier dans la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Miseni
+\ps n.prop
+\ge TOP
+\gv Misséni
+\ee
+\xv
+\xe
+\dt 22/May/2016
+
+\lx Misira
+\ps n.prop
+\ge TOP
+\gv Missira
+\ee (un quartier de la Commune 2 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Mísìra
 \va Mísìran
 \va Mísɛ̀r
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Égypte
 \ru Египет
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Mogadisho
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Mogadiscio
 \ru Могадишо
 \dt 23/May/2010
-\ps n.prop
 
 \lx Molodo
 \ps n.prop
@@ -1888,55 +2383,64 @@
 
 \lx Móritani
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Mauritanie
 \ru Мавритания
 \dt 23/May/2010
-\ps n.prop
 
 \lx Móti
 \va Mɔ́ti
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Mopti
 \ru Мопти
 \dt 05/Feb/2016
-\ps n.prop
 
 \lx Mozanbik
 \va Mozambik
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Mozambique
 \ru Мозамбик
 \dt 23/May/2010
+
+\lx Mɔlidawi
 \ps n.prop
+\ge Moldavie
+\gv
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx Mɔ́ngoli
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Mongolie
 \ru Монголия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Mɔrɔbiya
 \va Mɔnrɔviya
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Monrovia
 \ru Монровия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Mɔ̀rɔkù
 \va Marɔku
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Maroc
 \ru Марокко
 \dt 23/May/2010
-\ps n.prop
 
 \lx Muruja
 \ps n.prop
@@ -1951,19 +2455,19 @@
 
 \lx Nairobi
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Nairobi
 \ru Найроби
 \dt 23/May/2010
-\ps n.prop
 
 \lx Namibi
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Namibie
 \ru Намибия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Nara
 \ps n.prop
@@ -1973,11 +2477,11 @@
 
 \lx Nbaban
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Mbaban
 \ru Мбабане
 \dt 23/May/2010
-\ps n.prop
 
 \lx Nbewani
 \ps n.prop
@@ -1994,47 +2498,56 @@
 
 \lx Nizɛri
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Niger
 \ru Нигер
 \dt 23/May/2010
-\ps n.prop
 
 \lx Nizɛriya
 \va Nizeriya
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Nigeria
 \ru Нигерия
 \dt 05/Feb/2016
+
+\lx Nɔriwɛzi
 \ps n.prop
+\ge TOP
+\gv Norvège
+\ee
+\xv
+\xe
+\dt 31/May/2016
 
 \lx Ntòmikɔrɔbugu
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Nuwashɔti
 \va Nuwakishot
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Nouakchott
 \ru Нуакшот
 \dt 23/May/2010
-\ps n.prop
 
 \lx Nzɛ́rɛkɔ̀rɛ
 \va Nsɛrɛgbɛ̀dɛ
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Nzérékoré
 \ru Нзерекоре
 \cm (в Гвинее)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ɲaamɛ
 \ps n.prop
@@ -2042,54 +2555,62 @@
 \gv Niamey
 \dt 05/Feb/2016
 
-\lx Ɲamina
+\lx Ɲamakɔrɔ
 \ps n.prop
 \ge TOP
-\dt 05/Feb/2016
+\gv Niamakoro
+\ee (un quartier dans la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Ɲámina
+\ps n.prop
+\ge TOP
+\dt 12/May/2016
 
 \lx Ɲangayi
 \ty оз.
+\ps n.prop
 \ge TOP
 \gv Niangay
 \ru Ниангай
 \cm (в Мали, к востоку от внутренней дельты Нигера)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ɲàni
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Niani
 \ru Ньяани
 \cm (столица древнего Мали)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ɲárɛla
 \va Ɲáarela
-\ty кв.
-\ge TOP
-\gv quartier.à.Bamako
-\cm (в Бамако)
-\dt 05/Feb/2016
 \ps n.prop
+\ge TOP
+\gv Niaréla
+\ee (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
 
 \lx Ɲòoro
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Nioro
 \ru Ниоро
 \cm (на северо-западе Мали)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ɲɔ̀miriyambugu
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Ɲɔnɔn
 \ps n.prop
@@ -2106,74 +2627,74 @@
 
 \lx Olandi
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Pays-Bas
 \ru Голландия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ositarali
 \ty гос.
 \ty конт.
+\ps n.prop
 \ge TOP
 \gv Australie
 \ru Австралия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Otirishi
 \va Otirisi
 \di (b)
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Autriche
 \ru Австрия
 \dt 05/Feb/2016
-\ps n.prop
 
 \lx Ɔtiwɔlita
 \va Otiwolita
 \va Hotu Wolita
 \va Walita Sandɔ
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Haute-Volta
 \ru Верхняя Вольта
 \cm (c 1984 г. - Буркина Фасо)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Pakistan
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Pakistan
 \ru Пакистан
 \dt 23/May/2010
-\ps n.prop
 
 \lx Palɛstini
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Palestine
 \ru Палестина
 \dt 23/May/2010
-\ps n.prop
 
 \lx Pàri
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Paris
 \ru Париж
 \dt 23/May/2010
-\ps n.prop
 
 \lx Pasifiki
 \ty ок.
+\ps n.prop
 \ge TOP
 \gv Pacifique
 \ru Тихий
 \dt 23/May/2010
-\ps n.prop
 
 \lx Pelengana
 \ps n.prop
@@ -2196,29 +2717,29 @@
 
 \lx Pɛ̀linŋana
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Porito Novo
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Porto-Novo
 \ru Порто-Ново
 \dt 23/May/2010
-\ps n.prop
 
 \lx Pɔ́lɔn
 \va Pɔ̀lɔnɛ
 \va Pɔlɔɲi
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Pologne
 \ru Польша
 \dt 05/Feb/2016
-\ps n.prop
 
 \lx Pɔritigali
 \ps n.prop
@@ -2228,61 +2749,62 @@
 
 \lx Pretoriya
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Pretoria
 \ru Претория
 \dt 23/May/2010
-\ps n.prop
 
 \lx Raba
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Rabat
 \ru Рабат
 \dt 23/May/2010
-\ps n.prop
 
 \lx Reniyɔn
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Réunion
 \ru Реюньон
 \dt 23/May/2010
-\ps n.prop
 
 \lx Riyo-Doro
 \ty обл.
 \ru Рио-до-Оро
+\ps n.prop
 \ge TOP
 \gv Río.de.Oro
 \cm (южная часть Западной Сахары)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Rodezi
 \ty гос.
 \ru Родезия
+\ps n.prop
 \ge TOP
 \gv Rhodésie
 \cm (с 1980 - Зимбабве)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ruwanda
+\va Uruwanda
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Rwanda
 \ru Руанда
-\dt 23/May/2010
-\ps n.prop
+\dt 31/May/2016
 
 \lx Sábalibugu
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Sabusire
 \ps n.prop
@@ -2291,11 +2813,11 @@
 
 \lx Sahara
 \ty пуст.
+\ps n.prop
 \ge TOP
 \gv Sahara
 \ru Сахара
 \dt 23/May/2010
-\ps n.prop
 
 \lx Sahara
 \ps n.prop
@@ -2305,12 +2827,12 @@
 
 \lx Samakɔ
 \ty дер.
+\ps n.prop
 \ge TOP
 \gv Samako
 \ru Самако
 \cm (вблизи Бамако)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Samiti
 \ps n.prop
@@ -2324,52 +2846,88 @@
 \gv San, ville au Mali
 \dt 02/May/2015
 
+\lx Sanankɔrɔba
+\ps n.prop
+\ge TOP
+\gv
+\ee
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Sanfili
+\ps n.prop
+\ge TOP
+\gv TSF
+\ee (un quartier de la Commune 2 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
+
+\lx Sangarebugu
+\ps n.prop
+\ge TOP
+\gv Sangarebougou
+\ee (commune rurale dans le Cercle de Kati, au sud de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx Sankaranin
 \ty р.
 \ru Санкарани
+\ps n.prop
 \ge TOP
 \gv Sanakarani
 \cm (в Гвинее, приток Нигера)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Santa Isabɛl
 \ty г.
 \ru Санта-Исабель
+\ps n.prop
 \ge TOP
 \gv Santa.Isabel
 \cm (c 1973 г. - Малабо, столица Экваториальной Гвинеи)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Santarafiriki
 \va Santarafrikɛn
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv République.centrafricaine
 \ru Центральноафриканская республика
 \dt 23/May/2010
-\ps n.prop
 
 \lx Sàrlon
 \va Saralon
 \va Siyera Lewɔni
 \va Jàdakuru
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Sierra.Leone
 \ru Сьерра-Леоне
 \dt 23/May/2010
+
+\lx Sebeninkɔrɔ
 \ps n.prop
+\ge TOP
+\gv Sébéninkoro
+\ee (un quartier de la commune 4 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Ségu
 \ty г.
 \ru Сегу
+\ps n.prop
 \ge TOP
 \gv Ségou
 \cm (в Мали)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Ségu Síkɔrɔ
 \ps n.prop
@@ -2389,28 +2947,56 @@
 
 \lx Ségukura
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
+
+\lx Selenge
 \ps n.prop
+\ge TOP
+\gv Sélingué
+\ee
+\xv
+\xe
+\dt 31/May/2016
+
+\lx Sema
+\ps n.prop
+\ge TOP
+\gv Sema
+\ee (un quartier dans la commune 5 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Seno
 \ty плато
 \ru Сено
+\ps n.prop
 \ge TOP
 \gv Sèno
 \cm (в Мали)
 \dt 23/May/2010
+
+\lx Senu
 \ps n.prop
+\ge TOP
+\gv Sénou
+\ee (un quartier dans la commune 6 de Bamako, l'aéroport
+international)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Sɛndeni
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Saint-Denis
 \ru Сен-Дени
 \dt 23/May/2010
-\ps n.prop
 
 \lx Sɛ̀nɛgali
 \va Senegali
@@ -2418,46 +3004,73 @@
 \va Sinagali
 \va Sɛnɛgal
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Sénégal
 \ru Сенегал
 \dt 17/Dec/2012
-\ps n.prop
 
 \lx Sɛnluwi
 \ty г.
 \ru Сен-Луи
+\ps n.prop
 \ge TOP
 \gv Saint-Louis
 \cm (в Сенегале)
 \dt 23/May/2010
+
+\lx Sibila
 \ps n.prop
+\ge TOP
+\gv Sibila
+\ee (une commune de la région de Ségou)
+\xv
+\xe
+\dt 04/Jun/2016
+
+\lx Sibiribugu
+\ps n.prop
+\ge TOP
+\gv Sibiribougou
+\ee (un quartier de la commune 4 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Sigiri
 \va Sigirin
 \va Síirin
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Siguiru
 \ru Сигири
 \dt 23/May/2010
-\ps n.prop
 
 \lx Sikaso
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Sikasso
 \ru Сикасо
 \dt 23/May/2010
-\ps n.prop
 
 \lx Síkɔrɔni
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
+
+\lx Sikɔrɔnin
 \ps n.prop
+\ge TOP
+\gv Sikoroni
+\ee (un quartier de la Commune 1 de Bamako)
+\xv
+\xe
+\dt 01/Jun/2016
 
 \lx Silowaki
 \ps n.prop
@@ -2474,89 +3087,116 @@
 \va Sinuwa
 \va Shinuwa
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Chine
 \ru Китай
 \dt 23/May/2010
+
+\lx Sirakɔrɔdunfin
 \ps n.prop
+\ge TOP
+\gv Sirakorodounfing
+\ee (un quartier dans la commune 3 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Sogbɛ
 \ty кв.
 \ru Согбе
+\ps n.prop
 \ge TOP
 \gv quartier.à.Kankan
 \cm (в Канкане)
 \dt 23/May/2010
+
+\lx Sogoninkɔ
 \ps n.prop
+\ge TOP
+\gv Sogoniko
+\ee (un quartier dans la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Sòkálakɔ̀nɔ
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
+
+\lx Sokɔrɔji
 \ps n.prop
+\ge TOP
+\gv Sokorodji
+\ee (un quartier dans la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Solsiburi
 \ty г.
 \ru Солсбери
+\ps n.prop
 \ge TOP
 \gv Salisbury
 \cm (c 1982 г. - Хараре)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Somali
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Somalie
 \ru Сомали
 \dt 23/May/2010
-\ps n.prop
 
 \lx Sotuba
 \ty порог
 \ru Сотуба
+\ps n.prop
 \ge TOP
 \gv Sotouba
 \cm (на Нигере, между Бамако и Куликоро)
 \ge TOP
 \gv
 \dt 23/May/2010
-\ps n.prop
 
 \lx Sowiyati
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv l’Union.Soviétique
 \ru Cоветский Союз
 \dt 05/Apr/2016
-\ps n.prop
 
 \lx Sɔ́mɔnɔso
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Sudan
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Soudan
 \ru Cудан
 \dt 23/May/2010
-\ps n.prop
 
 \lx Suwaziduu
 \va Suwaziland
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Swaziland
 \ru Свазиленд
 \dt 23/May/2010
-\ps n.prop
 
 \lx Suwɛdi
 \ps n.prop
@@ -2570,21 +3210,30 @@
 \gv Suisse
 \dt 05/Feb/2016
 
+\lx Talikɔ
+\ps n.prop
+\ge TOP
+\gv Taliko
+\ee (un quartier de la commune 4 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Tanzani
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Tanzanie
 \ru Танзания
 \dt 23/May/2010
-\ps n.prop
 
 \lx Tawudeni
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Taoudenni
 \ru Тауденни
 \dt 23/May/2010
-\ps n.prop
 
 \lx Tekururu
 \ps n.prop
@@ -2593,13 +3242,22 @@
 \smf (état ancien dans la vallée du Sénégal)
 \dt 05/Feb/2016
 
+\lx Tesaliti
+\ps n.prop
+\ge TOP
+\gv Tessalit
+\ee
+\xv
+\xe
+\dt 28/May/2016
+
 \lx Tɛmanbaa Jinɛ
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Guinée.équatoriale
 \ru Экваториальная Гвинея
 \dt 23/May/2010
-\ps n.prop
 
 \lx Tilemusi
 \ps n.prop
@@ -2607,6 +3265,15 @@
 \gv Tilemsi
 \smf (commune rurale pas loin de Gao)
 \dt 05/Feb/2016
+
+\lx Timisa
+\ps n.prop
+\ge TOP
+\gv
+\ee (nom d'un village)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Tiripoli
 \ps n.prop
@@ -2616,11 +3283,11 @@
 
 \lx Togo
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Togo
 \ru Того
 \dt 23/May/2010
-\ps n.prop
 
 \lx Tokɔrɔba
 \ps n.prop
@@ -2635,6 +3302,15 @@
 \smf (ville et cercle dans la région de Ségou)
 \dt 08/Feb/2016
 
+\lx Torokɔrɔbugu
+\ps n.prop
+\ge TOP
+\gv Torokorobougou
+\ee (un quartier dans la commune 5 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
+
 \lx Tɔndibi
 \ps n.prop
 \ge TOP
@@ -2645,52 +3321,52 @@ invahisseurs marocains et les Songhaï en 1591)
 
 \lx Tɔ́rɔkɔrɔbugu
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Tɔrɔn
 \ty ист.
 \ru Торон
+\ps n.prop
 \ge TOP
 \gv Toron
 \cm (область, включающая большую часть Верхней Гвинеи)
 \dt 23/May/2010
-\ps n.prop
 
 \lx Tripoli
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Tripolo
 \ru Триполи
 \dt 23/May/2010
-\ps n.prop
 
 \lx Tumutu
+\ps n.prop
 \ge TOP
 \gv Tombouctou
-\ps n.prop
 
 \lx Tunisi
 \va Tunusi
 \va Tunizi
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Tunisie
 \ru Тунис
 \dt 05/Feb/2016
-\ps n.prop
 
 \lx Tunusiya
 \va Tunisia
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Tunisie
 \ru Тунис
 \dt 23/May/2010
-\ps n.prop
 
 \lx Turaba
 \ps n.prop
@@ -2700,19 +3376,19 @@ invahisseurs marocains et les Songhaï en 1591)
 
 \lx Túruke
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Turquie
 \ru Турция
 \dt 23/May/2010
-\ps n.prop
 
 \lx Uganda
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Uganda
 \ru Уганда
 \dt 23/May/2010
-\ps n.prop
 
 \lx Urumani
 \ps n.prop
@@ -2736,11 +3412,11 @@ invahisseurs marocains et les Songhaï en 1591)
 \lx Wagadugu
 \va Wàadúu
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Ouagadougou
 \ru Уагадугу
 \dt 23/May/2010
-\ps n.prop
 
 \lx Walata
 \ps n.prop
@@ -2755,52 +3431,70 @@ invahisseurs marocains et les Songhaï en 1591)
 
 \lx Windɔk
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Windhoek
 \ru Виндхук
 \dt 23/May/2010
+
+\lx Woyowayankɔ
 \ps n.prop
+\ge TOP
+\gv
+\ee (rivière dans la commune 4 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Wɔ́lɔfɔbugu
 \ty кв.
+\ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
-\ps n.prop
 
 \lx Yámanin
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Yémen
 \ru Йемен
 \dt 23/May/2010
-\ps n.prop
 
 \lx Yaunde
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Yaoundé
 \ru Яунде
 \dt 23/May/2010
-\ps n.prop
 
 \lx Yelimani
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Yélimané
 \ru Елимане
 \cm (на  крайнем северо-западе Мали)
 \dt 23/May/2010
+
+\lx Yírimajɔ
 \ps n.prop
+\ge TOP
+\gv Yirimadio
+\ee (un quartier dans la commune 6 de Bamako)
+\xv
+\xe
+\dt 04/Jun/2016
 
 \lx Yugɔsilawi
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Yougoslavie
 \ru Югославия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Yuwaru
 \ps n.prop
@@ -2808,48 +3502,59 @@ invahisseurs marocains et les Songhaï en 1591)
 \gv
 \dt 05/Feb/2016
 
+\lx Zamayiki
+\ps n.prop
+\ge TOP
+\gv Jamaïque
+\ee
+\xv
+\xe
+\dt 01/Jun/2016
+
 \lx Zanbi
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Zambie
 \ru Замбия
 \dt 23/May/2010
-\ps n.prop
 
 \lx Zapɔn
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Japon
 \ru Япония
 \dt 23/May/2010
-\ps n.prop
 
 \lx Zayiri
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Zaïre
 \ru Заир
 \dt 23/May/2010
-\ps n.prop
 
 \lx Zigɛnshori
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Ziguichor
 \ru Зигиншор
 \dt 23/May/2010
-\ps n.prop
 
-\lx Zinbabwe
+\lx Zinbawe
+\va Zinbabwe
 \ty гос.
+\ps n.prop
 \ge TOP
 \gv Zimbabwe
 \ru Зимбабве
-\dt 23/May/2010
-\ps n.prop
+\dt 01/Jun/2016
 
 \lx Zonba
 \ty г.
+\ps n.prop
 \ge TOP
 \gv Zomba
 \ru Зомба
@@ -2857,4 +3562,3 @@ invahisseurs marocains et les Songhaï en 1591)
 \ge TOP
 \gv
 \dt 23/May/2010
-\ps n.prop
