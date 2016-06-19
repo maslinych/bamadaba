@@ -11536,7 +11536,7 @@ milieu des pierres
 \xe c'est un bon maçon
 \xv í ká kìsɛ tɛ́  bɔ̀gɔ dún
 \xe tu es un bon tireur
-\dt 24/Dec/2014
+\dt 19/Jun/2016
 
 \lx bɔ́gɔ
 \ps n
@@ -11603,13 +11603,14 @@ milieu des pierres
 
 \lx bɔ̀gɔlan
 \mm bɔ̀gɔ:n:terre
-\mm lan:mrph:INSTR
+\mm lá:pp:dans
 \ps n
-\ge pagne.des.excisées
-\ee teinture minérale et végétale
+\ge bogolan
+\gv pagne.des.excisées
+\ee (teinture minérale et végétale)
 \sy básiya
 \lt (argile. avec)
-\dt 16/Aug/2006
+\dt 19/Jun/2016
 
 \lx bɔ̀gɔlantɛbɛn
 \mm bɔ̀gɔ:n:terre
@@ -11656,6 +11657,14 @@ milieu des pierres
 \ge déraciner
 \gv arracher
 \sy bɔ̀
+
+\lx bɔ́gɔti
+\ps adv
+\ge violemment
+\ee (arracher)
+\xv
+\xe
+\dt 19/Jun/2016
 
 \lx bɔ̀gɔtoli
 \mm bɔ̀gɔ:n:terre
@@ -12227,7 +12236,7 @@ toujours (pro)
 \gv couvrir.d'insultes
 \dt 16/Aug/2006
 
-\lx bɔ̀rɔtɔ
+\lx bɔ́rɔtɔ
 \ps v
 \vl vt
 \sn 1
@@ -12237,9 +12246,17 @@ toujours (pro)
 \ee un contrat
 \sn 3
 \gv révéler
-\xv gùndo bɔ̀rɔtɔ
+\xv gùndo bɔ́rɔtɔ
 \xe révéler un secret
-\dt 16/Aug/2006
+\dt 19/Jun/2016
+
+\lx bɔ́rɔtɔtɔtɔ
+\ps adv
+\ge bruyamment
+\ee (déchirer)
+\xv
+\xe
+\dt 19/Jun/2016
 
 \lx bɔ́ta
 \mm bɔ́:v:sortir
@@ -13950,12 +13967,33 @@ médicinales
 \ee (avec détermination et adresse)
 \dt 16/Aug/2006
 
-\lx càwucawu
+\lx cáwucawu
+\ps v
+\ge aller.dans.tous.les.sens
+\gv troubler
+\ee (l'esprit)
+\gv affoler
+\ee
+\xv
+\xe
+\dt 19/Jun/2016
+
+\lx cáwucawu
 \ps n
-\ge dérangement.mental
-\xv càwucawu b'á lá
+\ge folie
+\gv dérangement mental
+\xv cáwucawu b'á lá
 \xe il est un peu dérangé
-\dt 16/Aug/2006
+\dt 19/Jun/2016
+
+\lx cáwucawu
+\ps adv
+\ge fou
+\gv
+\ee
+\xv
+\xe
+\dt 19/Jun/2016
 
 \lx cáya
 \mm cá:vq:nombreux
@@ -14278,6 +14316,19 @@ médicinales
 \sn 3
 \gv match
 \dt 10/Jun/2016
+
+\lx cɛ́bɛ̀n
+\mm cɛ́:n:milieu
+\mm bɛ̀n:v:se.rencontrer
+\ps v
+\sn 1
+\ge réunir
+\sn 2
+\gv réconcilier
+\ee
+\xv
+\xe
+\dt 19/Jun/2016
 
 \lx cɛ́bɛnbaa
 \mm cɛ̀:n:mâle
@@ -26891,7 +26942,7 @@ désorienter')
 \xe il s'en faut d'un tout petit peu
 \xv nà ní  jí dɔ́ɔnin yé
 \xe apporte un peu d'eau
-\dt 20/Jul/2014
+\dt 19/Jun/2016
 
 \lx dɔ́ɔnindɔɔnin
 \ps adv.p
@@ -91783,6 +91834,23 @@ graines, sert d'instrument rythmique)
 \gv douloureux
 \dt 19/Jan/2015
 
+\lx ntón
+\ps n
+\ge nœud.coulant
+\gv
+\ee
+\xv
+\xe
+\dt 19/Jun/2016
+
+\lx ntón
+\ps n
+\ge faire.nœud.coulant
+\ee
+\xv
+\xe
+\dt 19/Jun/2016
+
 \lx ntónda
 \mm ntón:n:noeud.coulant
 \mm dá:n:bouche
@@ -99772,6 +99840,19 @@ le pèlerinage (bk 1/06 p.5)
 \ge jet.brusque
 \gv coup.frappé
 \dt 19/Jan/2015
+
+\lx pás
+\va pási
+\va pánpasi
+\va páspas
+\ps adv
+\ge très.blanc
+\gv très.clair
+\gv très.propre
+\ee
+\xv
+\xe
+\dt 19/Jun/2016
 
 \lx pàsakantɛlɛ
 \mm pàsa:n:tendon
@@ -119950,12 +120031,26 @@ est due aux paysans (kib 3/05 p.9)
 \ps n
 \sn 1
 \ge radicelles
-\sm de la base d'un rônier
+\sm (de la base d'un rônier)
 \sn 2
 \gv racines aériennes
-\sm des branches de 'ficus'
+\sm (des branches de 'ficus')
 \sy bùnsan
-\dt 16/Aug/2006
+\dt 19/Jun/2016
+
+\lx tɔ́n
+\va tɔ́ɔn
+\va tɔ́yi
+\va tɔ́tɔ
+\va tɛ́tɛ
+\ps adv
+\ge très.frais
+\gv très froid
+\gv très calme
+\ee
+\xv
+\xe
+\dt 19/Jun/2016
 
 \lx tɔ́nba
 \mm tɔ́n:n:société
@@ -127644,6 +127739,14 @@ généreuses, avec bourrelets
 \gv être indistinct
 \ee (paroles)
 \dt 17/Jan/2015
+
+\lx yɔ́kɔkɔkɔ
+\ps adv
+\ge bruyamment
+\ee (rire)
+\xv
+\xe
+\dt 19/Jun/2016
 
 \lx yɔ́kɔyi
 \ps adv
