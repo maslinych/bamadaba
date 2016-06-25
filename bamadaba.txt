@@ -626,6 +626,16 @@
 \sy tákala
 \dt 15/Aug/2006
 
+\lx àluwa
+\va àliwa
+\ps n
+\ge bonbon
+\gv
+\ee
+\xv
+\xe
+\dt 23/Jun/2016
+
 \lx amarini
 \ps n
 \ge Amhara
@@ -13989,11 +13999,10 @@ médicinales
 \lx cáwucawu
 \ps adv
 \ge fou
-\gv
 \ee
 \xv
 \xe
-\dt 19/Jun/2016
+\dt 20/Jun/2016
 
 \lx cáya
 \mm cá:vq:nombreux
@@ -24008,8 +24017,8 @@ chefs religieux et représentants de l'administration
 \ge hydromel
 \lt (miel.lavé)
 
-\lx díla
-\va dílan
+\lx dílan
+\va díla
 \va bíla
 \va dlá
 \va dlán
@@ -24024,7 +24033,7 @@ chefs religieux et représentants de l'administration
 \gv réparer
 \xv à bɛ́  kà à ká nɛ̀gɛso díla
 \xe il est en train de réparer son vélo
-\dt 16/Aug/2006
+\dt 20/Jun/2016
 
 \lx díli
 \va gíli
@@ -45122,10 +45131,10 @@ qqch ...)
 \ge bruit.de pas
 \dt 01/May/2014
 
-\lx jànko
-\va jàngo
+\lx jǎnkó
+\va jǎngó
 \ph [*yàn n ko = ici je dis ?--> spécialement]
-\ps prt
+\ps conj
 \sn 1
 \ge surtout
 \gv à.plus.forte.raison
@@ -45137,7 +45146,7 @@ qqch ...)
 \ee particule conjonctive
 \xv wòro ɲími  jànko í kàna sìnɔgɔ
 \xe croque de la noix de kola pour ne pas dormir
-\dt 19/Jan/2015
+\dt 20/Jun/2016
 
 \lx jànkoci
 \mm cí:n:commission
@@ -71519,28 +71528,12 @@ kúrunninle
 \lt (préf.se précipiter)
 \dt 16/Aug/2006
 
-\lx lágoya
-\mm lá:mrph:CAUS
-\mm gó.ya:v:rendre.mauvais
-\mm gó:vq:désagréable
-\mm ya:mrph:DEQU
-\ps v
-\vl vt
-\sn 1
-\ge rendre.déplaisant
-\lt (préf.être mauvais)
-\sn 2
-\gv faire.détester
-\xv màaneni lágoya dénmisɛnnin ná
-\xe faire détester aux enfants les insultes
-\dt 26/Sep/2006
-
-\lx lágɔ̀si
-\mm lá:mrph:CAUS
-\mm gɔ̀si:v:battre
-\va lá.gòsi
+\lx lágòsi
 \mm lá:mrph:CAUS
 \mm gòsi:v:battre
+\va lá.gɔ̀si
+\mm lá:mrph:CAUS
+\mm gɔ̀si:v:battre
 \va rɔ́.gɔ̀si
 \mm rɔ́:mrph:IN
 \mm gɔ̀si:v:battre
@@ -71558,6 +71551,36 @@ kúrunninle
 \xe se rendre ridicule (par son comportement)
 \sn 2
 \gv réprimander
+\dt 21/Jun/2016
+
+\lx lágòsi
+\mm lá:mrph:CAUS
+\mm gòsi:v:battre
+\va lá.gɔ̀si
+\mm lá:mrph:CAUS
+\mm gɔ̀si:v:battre
+\ps n
+\ge réprimande
+\gv
+\ee
+\xv
+\xe
+\dt 21/Jun/2016
+
+\lx lágoya
+\mm lá:mrph:CAUS
+\mm gó.ya:v:rendre.mauvais
+\mm gó:vq:désagréable
+\mm ya:mrph:DEQU
+\ps v
+\vl vt
+\sn 1
+\ge rendre.déplaisant
+\lt (préf.être mauvais)
+\sn 2
+\gv faire.détester
+\xv màaneni lágoya dénmisɛnnin ná
+\xe faire détester aux enfants les insultes
 \dt 26/Sep/2006
 
 \lx làhaala
@@ -103008,19 +103031,19 @@ épuisés
 \xe
 \dt 04/Jun/2016
 
-\lx sànko
-\va sàngo
-\ps conj
-\ge surtout
-\gv pour que
-\gv afin de
-\sy jànko
-\dt 31/May/2016
-
 \lx sánkò
 \ps adv
 \ge l'année.dernière
 \dt 09/Jun/2014
+
+\lx sǎnkó
+\va sǎngó
+\ps conj
+\ge surtout
+\gv pour que
+\gv afin de
+\sy jǎnkó
+\dt 20/Jun/2016
 
 \lx sánkolo
 \mm sán:n:haut
@@ -125847,7 +125870,7 @@ Mali)
 \lx yála
 \va yáa
 \ve (f)
-\va yáli
+\va yálì
 \va yálima
 \va yálama
 \ps prt
@@ -125861,7 +125884,7 @@ Mali)
 \gv (pour voir) si
 \xv ń nàlen à lájɛ  yála né bɛ́  báara sɔ̀rɔ  í fɛ̀
 \xe je suis venu voir si je peux avoir du travail chez toi
-\dt 13/May/2015
+\dt 20/Jun/2016
 
 \lx yálakayalaka
 \ps adj
