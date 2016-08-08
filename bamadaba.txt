@@ -16938,15 +16938,6 @@ sur soi)
 \lt (tomate.petite)
 \dt 19/Aug/2006
 
-\lx dàankun
-\mm kùn:n:tête 
-\ps n
-\ge carrefour
-\gv angle.intérieur.d'une.bifurcation.de.route
-\ee (endroit privilégié de sacrifices)
-\lt (  ? . tête)
-\dt 16/Aug/2006
-
 \lx dàansɔgɔ
 \mm dàan:n:salutation
 \ps n
@@ -20879,6 +20870,14 @@ rétribution mais à titre de réciprocité)
 \rem ex 15, 11
 \dt 11/Nov/2007
 
+\lx dànkun
+\va dàankun
+\ps n
+\ge carrefour
+\gv angle intérieur d'une bifurcation de route
+\ee (endroit privilégié de sacrifices)
+\dt 26/Jun/2016
+
 \lx dànkunbere
 \mm dàn:n:limite
 \mm kúnbere:n:genou
@@ -21060,6 +21059,19 @@ génitales ...
 \ps n
 \ge confiance
 \lt (confiant.suf abs)
+
+\lx dànnaselen
+\mm dàn:n:limite
+\mm ná:pp:dans
+\mm sé:v:arriver
+\mm len:mrph:PTCP.RES
+\ps ptcp
+\ge décisif
+\gv
+\ee
+\xv
+\xe
+\dt 08/Aug/2016
 
 \lx dànnátìgɛ
 \mm dàn:n:limite
@@ -23336,13 +23348,32 @@ assumant que l'interclocuteur pense autrement)
 \va dɛ̀ndɛ
 \va dɛ̀ɛndɛɛn
 \ps v
+\sn 1
+\vl vi
+\ge se.démener
+\gv faire des efforts pénibles ou vains
+\sn 2
 \vl vt
 \ge aider.à.marcher
 \gv aider.à.porter
 \gv accompagner
+\sn 3
+\vl vi
+\gv se débrouiller
+\sn 4
+\vl vt
 \gv soutenir
 \sy sɛ̀ɛnsɛɛn
-\dt 26/Sep/2006
+\dt 29/Jun/2016
+
+\lx dɛ̀mɛdɛmɛ
+\ps n
+\ge effort
+\gv
+\ee
+\xv
+\xe
+\dt 29/Jun/2016
 
 \lx dɛ̀mɛnan
 \mm dɛ̀mɛ:v:aider
@@ -29900,6 +29931,16 @@ quant à sa mère, elle prend de l'âge
 \lt (qui aime son père.suf abs)
 \dt 16/Aug/2006
 
+\lx fàlankata
+\va fàlankatama
+\ps v
+\ge pencher.en.perte.d'équilibre
+\gv
+\ee
+\xv
+\xe
+\dt 09/Jul/2016
+
 \lx fálanko
 \va fálakɔ
 \ps n
@@ -34348,6 +34389,11 @@ de nos ancêtres
 \mm baa:mrph:AG.OCC
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
+\va fìsamantiya
+\mm fìsa:vq:mieux
+\mm ma:mrph:COM
+\mm nci:mrph:AG.EX
+\mm ya:mrph:ABSTR
 \ps n
 \sn 1
 \ge discrimination
@@ -34358,7 +34404,7 @@ de nos ancêtres
 \rem du
 \sn 3
 \gv amélioration.de.la.santé
-\dt 25/Jun/2013
+\dt 08/Aug/2016
 
 \lx fìsamandiya
 \mm fìsa:vq:mieux
@@ -35524,13 +35570,16 @@ de nos ancêtres
 \sn 1
 \ge détacher
 \sy fálen
-\xv táa  fàli fóni !
+\xv táa fàli fóni !
 \xe pars détacher l'âne !
 \sn 2
 \gv déplier
 \xv à b'á bólo kùru  k'à fóni
 \xe elle plie et déplie son bras
-\dt 26/Sep/2006
+\sn 3
+\vl vi
+\gv germer
+\dt 08/Aug/2016
 
 \lx fóni
 \ps v
@@ -66674,6 +66723,19 @@ il en contient dix
 \xe le remède (préventif) du paludisme c'est la nivaquine
 \dt 26/Sep/2006
 
+\lx kùnbɛnɲɔgɔnya
+\mm kùnbɛ̀n:v:rencontrer
+\mm kùn:n:tête
+\mm bɛ̀n:v:se.rencontrer
+\mm ɲɔ́gɔn:prn:RECP
+\mm ya:mrph:ABSTR
+\ps n
+\ge rencontre
+\ee (dans le contexte coranique: avec Dieu)
+\xv Ála kùnbɛnɲɔgɔnya, Ála ká kùnbɛnɲɔgɔnya
+\xe rencontre d'Allah, Jugement Dernier
+\dt 08/Aug/2016
+
 \lx kùnbɛnseli
 \mm kùn.bɛn:n:anniversaire
 \mm kùn:n:tête
@@ -71044,6 +71106,17 @@ kúrunninle
 \ge donner.à.manger
 \lt (préf.nourrir)
 \dt 16/Aug/2006
+
+\lx ládumuni
+\mm lá:mrph:CAUS
+\mm dúmuni:v:nourrir
+\ps n
+\ge alimentation
+\gv
+\ee
+\xv
+\xe
+\dt 08/Aug/2016
 
 \lx làfa
 \va làafa
@@ -80042,6 +80115,17 @@ nord-est
 \gv image
 \gv représentation
 \dt 21/Dec/2014
+
+\lx mìsaliya
+\mm mìsali:n:exemple
+\mm ya:mrph:ABSTR
+\ps v
+\ge montrer.l'exemple.à
+\gv
+\ee
+\xv Ála y'ù mìsaliya ní sùw yé
+\xe Dieu leur a montré l'exemple des défunts
+\dt 08/Aug/2016
 
 \lx mísɛli
 \bw ar: misalla = longue aiguille
@@ -109684,6 +109768,8 @@ donne d'excellentes fibres)
 \mm sò:n:cheval
 \ps n
 \ge cavalier.vaillant
+\gv champion
+\dt 26/Jun/2016
 
 \lx sòden
 \mm sò:n:cheval
@@ -118756,6 +118842,18 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xe ma voiture ne marche plus
 \dt 15/May/2013
 
+\lx tíɲɛnenya
+\mm tíɲɛ:v:gâter
+\mm nen:mrph:PTCP.RES
+\mm ya:mrph:ABSTR
+\ps n
+\ge mauvaise.éducation
+\gv état de ce qui est gâté
+\ee
+\xv
+\xe
+\dt 08/Aug/2016
+
 \lx tíɲɛnnikɛla
 \mm tíɲɛn:v:gâter
 \mm ni:mrph:NMLZ
@@ -122342,6 +122440,15 @@ bruyants, près du sol, dans les fourrés)
 \ge chenille.comestible
 \lt (grande herbe.noix de.cola blanche)
 \dt 16/Aug/2006
+
+\lx wàasɛ
+\va wàsɛ
+\ps intj
+\ge hélas
+\ee (marque la pitié, la surprise)
+\xv
+\xe
+\dt 08/Aug/2016
 
 \lx wáati
 \va wágati
