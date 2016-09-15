@@ -15,6 +15,16 @@
 \ge A
 \dt 03/May/2013
 
+\lx Akimi
+\ps n
+\ge ABR
+\gv AQMI
+\gv Al-Qaïda au Maghreb islamique
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Alfaru
 \ps n.prop
 \ge Alphare
@@ -29,6 +39,24 @@
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Alimorabitunu
+\ps n
+\ge Al-Mourabitoune
+\smf (un groupe armé salafiste djihadiste)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
+\lx Anibisi
+\ps n
+\ge Anubis
+\smf (dieu funéraire à l'Égypte antique)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx Ansaridini
 \ps n
@@ -110,6 +138,24 @@
 \gv Barak Obama
 \dt 12/Apr/2016
 
+\lx Barikani
+\ps n
+\ge Barkhane
+\smf (opération militaire française en Afrique de l'Ouest)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
+\lx Basitɛti
+\ps n
+\ge Bastet
+\smf (déesse du foyer et de maternité à l'Égypte antique)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Bewoyade
 \ps n
 \ge ABR
@@ -122,6 +168,15 @@
 \ge NOM.ETRG
 \gv Benjamin Netanyahu
 \dt 06/Feb/2016
+
+\lx Bilɛzi Kɔnpawore
+\ps n.prop
+\ge NOM.ETRG
+\gv Blaise Compaoré
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx Bitɔn
 \ps n.prop
@@ -190,6 +245,25 @@
 \xe
 \dt 31/May/2016
 
+\lx Erɛ
+\ps n
+\ge Rê
+\smf (dieu de soleil à l'Égypte antique)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
+\lx Ɛmɛnela
+\ps n
+\ge ABR
+\gv MNLA
+\gv Mouvement national pour la libération de l'Azawad
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx fakoyi
 \ps n
 \ge plat.songhaï
@@ -238,6 +312,16 @@
 \gv diable
 \dt 21/Dec/2014
 
+\lx Iburahimawisi
+\ps n.prop
+\ge NOM.ETRG
+\gv Zlatan Ibrahimović
+\smf (footballer français)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Iyadi Agi Agali
 \ps n.prop
 \ge NOM.ETRG
@@ -260,6 +344,15 @@
 \gv INPS
 \gv Institut.National.de.Prévoyance.Sociale
 \dt 08/Feb/2016
+
+\lx Izisi
+\ps n
+\ge Isis
+\smf (déesse funéraire de l'Égypte antique)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx jermani
 \va jɛrimani
@@ -313,6 +406,15 @@
 \xe
 \dt 01/Jun/2016
 
+\lx Katiba
+\ps n
+\ge katiba
+\smf (groupe de combat des djihadistes)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Koli Tengela
 \ps n.prop
 \ge NOM.ETRG
@@ -320,9 +422,27 @@
 \smf (chef de guerre des Peuls au XVI siècle)
 \dt 06/Feb/2016
 
+\lx Komatɛkisi
+\ps n
+\ge ABR
+\gv COMATEX
+\gv Compagnie Malienne du Textile
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx latɛn
 \ps n
 \ge latin
+
+\lx Lesɔri
+\ps n
+\ge l'Essor
+\smf (journal quotidien natinal au Mali)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx maani
 \ps n
@@ -368,6 +488,16 @@ la stabilisation au Mali
 \ge TOP
 \gv Mitt Romney
 \dt 05/Feb/2016
+
+\lx Muzawo
+\ps n
+\ge ABR
+\gv MUJAO
+\gv Mouvement pour l'unicité et le jihad en Afrique de l'Ouest
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx naba
 \ps n
@@ -425,6 +555,25 @@ la stabilisation au Mali
 \gv Organisation de l'Unité africaine
 \dt 09/Apr/2016
 
+\lx Oyeyi
+\ps n
+\ge ABR
+\gv OEI
+\gv Organisation de l'État Islamique
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
+\lx Ozirisi
+\ps n
+\ge Osiris
+\smf (dieu de Egypte antique)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Ɔminisipɔri
 \ps n.prop
 \ge TOP
@@ -462,10 +611,11 @@ la stabilisation au Mali
 \dt 04/Feb/2016
 
 \lx Sàmatasɛgɛw
+\va Sàmatasɛgɛ
 \ps n.prop
 \ge Aigles.du.Mali
 \ee équipe du Mali de football
-\dt 15/May/2013
+\dt 15/Sep/2016
 
 \lx Samori
 \ps n.prop
@@ -475,6 +625,15 @@ la stabilisation au Mali
 \xv
 \xe
 \dt 31/May/2016
+
+\lx Samuyɛli
+\ps n.prop
+\ge NOM.ETRG
+\gv Samuel
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx SEPAMA
 \ps n
@@ -512,6 +671,24 @@ la stabilisation au Mali
 \gv
 \dt 14/Sep/2015
 
+\lx Sɛriwali
+\ps n
+\ge Opération.Serval
+\smf
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
+\lx Sɛsikɔmu
+\ps n
+\ge ABR
+\gv CSCOM
+\gv Centres de santé communautaires
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Sigi
 \ps n.prop
 \ge Sigui
@@ -523,6 +700,15 @@ la stabilisation au Mali
 \ge Stade.Malien
 \smf (club de football)
 \dt 05/Feb/2016
+
+\lx Sobɛki
+\ps n
+\ge Sobek
+\smf (dieu de l'eau à l'Égypte antique)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx Soni
 \va Sonni
@@ -560,6 +746,15 @@ la stabilisation au Mali
 \gv Thora
 \dt 21/Dec/2014
 
+\lx Toti
+\ps n
+\ge Thot
+\smf (dieu lunaire à l'Égypte antique)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx UDPM
 \ps n
 \ge UDPM
@@ -592,3 +787,22 @@ la stabilisation au Mali
 \ps v
 \ge rouble
 \dt 03/May/2013
+
+\lx Yesu Kirisita
+\ps n.prop
+\ge N.ETRG
+\gv Jésus Christ
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
+\lx Zeyiya
+\ps n
+\ge ABR
+\gv GIA
+\gv Groupe ilamique armé
+\ee
+\xv
+\xe
+\dt 15/Sep/2016

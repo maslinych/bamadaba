@@ -68,6 +68,15 @@
 \ru Африка
 \dt 23/Feb/2014
 
+\lx Agɛlihɔki
+\ps n.prop
+\ge TOP
+\gv Aguelhok
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Akkra
 \va Akra
 \ty г.
@@ -260,6 +269,15 @@
 \ru Азания
 \dt 23/May/2010
 
+\lx Azawadi
+\ps n
+\ge TOP
+\gv Azawad
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Baba
 \ty р.
 \ps n.prop
@@ -317,6 +335,15 @@
 \ps n.prop
 \ge TOP
 \dt 10/Jan/2013
+
+\lx Baharɛni
+\ps n.prop
+\ge TOP
+\gv Bahrein
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx Bájalana
 \ty кв.
@@ -937,13 +964,13 @@
 \dt 23/May/2010
 
 \lx Ɛ̀ropi
-\va Erɔpu
+\va Èrɔpu
 \ty конт.
 \ps n.prop
 \ge TOP
 \gv Europe
 \ru Европа
-\dt 19/Dec/2012
+\dt 15/Sep/2016
 
 \lx Ɛsipaɲi
 \ps n.prop
@@ -1322,6 +1349,15 @@ le Sud de l'Algérie)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
+\lx Iraki
+\ps n.prop
+\ge TOP
+\gv Irak
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Iran
 \ty гос.
 \ps n.prop
@@ -1684,13 +1720,23 @@ le Sud de l'Algérie)
 \dt 04/Jun/2016
 
 \lx Karitum
+\va Karitumu
 \di m
 \ty г.
 \ps n.prop
 \ge TOP
 \gv Khartoum
 \ru Хартум
-\dt 23/May/2010
+\dt 15/Sep/2016
+
+\lx Katari
+\ps n.prop
+\ge TOP
+\gv Qatar
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx Kati
 \ps n.prop
@@ -2101,6 +2147,15 @@ le Sud de l'Algérie)
 \xe
 \dt 01/Jun/2016
 
+\lx Liwɛripuli
+\ps n.prop
+\ge TOP
+\gv Liverpool
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Lomɛ
 \ty г.
 \ps n.prop
@@ -2489,6 +2544,15 @@ le Sud de l'Algérie)
 \gv
 \dt 05/Feb/2016
 
+\lx Nili
+\ps n.prop
+\ge TOP
+\gv Nil
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Niyɔriki
 \va Niyɔrɔki
 \ps n
@@ -2825,6 +2889,15 @@ le Sud de l'Algérie)
 \gv Sahara
 \dt 05/Feb/2016
 
+\lx Sahara Ɔkisidantali
+\ps n.prop
+\ge TOP
+\gv Sahara Occidentale
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Samakɔ
 \ty дер.
 \ps n.prop
@@ -2991,6 +3064,15 @@ international)
 \xe
 \dt 04/Jun/2016
 
+\lx Sewiyi
+\ps n.prop
+\ge TOP
+\gv Seville
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx Sɛndeni
 \ty г.
 \ps n.prop
@@ -3102,6 +3184,15 @@ international)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Siri
+\ps n.prop
+\ge TOP
+\gv Syrie
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx Sogbɛ
 \ty кв.
@@ -3429,6 +3520,16 @@ invahisseurs marocains et les Songhaï en 1591)
 \ps n.prop
 \ge TOP
 \dt 21/Jan/2015
+
+\lx Wikitoriya
+\ps n.prop
+\ge TOP
+\gv Victoria
+\smf (lac)
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx Windɔk
 \ty г.

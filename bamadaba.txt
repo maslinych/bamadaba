@@ -3232,8 +3232,10 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \dt 11/Nov/2007
 
 \lx bálɔn
+\va bálon
 \ps n
-\ge balon
+\ge ballon
+\dt 15/Sep/2016
 
 \lx bàma
 \ps n
@@ -7062,6 +7064,15 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ee (terme général)
 \dt 26/Sep/2006
 
+\lx Bibulu
+\ps n
+\ge Bible
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx bìdenya
 \mm bì:n/adv:aujourd'hui
 \mm dén:n:enfant
@@ -9614,6 +9625,29 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xe si tu ouvres la main, ils se rassasient de bonnes choses (ps 104, 28)
 \dt 11/Nov/2007
 
+\lx bólogɛlɛn
+\mm bólo:n:main
+\mm gɛ̀lɛn:adj:difficile
+\ps adj
+\ge avare
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
+\lx bólogɛlɛya
+\mm bólo:n:main
+\mm gɛ̀lɛ:adj:difficile
+\mm ya:mrph:ABSTR
+\ps v
+\ge endurcir
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx bólojuru
 \mm bólo:n:branche
 \mm jùru:n:corde
@@ -11219,6 +11253,7 @@ milieu des pierres
 \dt 16/Aug/2006
 
 \lx bóso
+\va bóson
 \ps v
 \vl vt
 \sn 1
@@ -11227,7 +11262,7 @@ milieu des pierres
 \gv retrousser.la.peau
 \sm (dégager qc de son enveloppe naturelle)
 \sy ɲɛ́boso
-\dt 26/Sep/2006
+\dt 07/Sep/2016
 
 \lx bósobasa
 \va bósoboso
@@ -13274,14 +13309,14 @@ centrale est de couleur sombre
 \ve (maninka)
 \ps n
 \sn 1
-\ge beaux-parent
+\ge beau-parent
 \gv parent.par.alliance
 \gv belle-fille
 \gv gendre
 \sn 2
 \gv belle-famille
 \ee beaux-frères et belles-soeurs plus âgés que le conjoint
-\dt 24/Feb/2013
+\dt 15/Sep/2016
 
 \lx búranci
 \mm búran:n:beaux-parent
@@ -13492,10 +13527,13 @@ centrale est de couleur sombre
 \lx búruja
 \ve (-bk)
 \ps v
+\ms 1
 \vl vt
 \ge dénigrer
 \gv critiquer
-\dt 26/Sep/2006
+\ms 2
+\gv gaspiller
+\dt 15/Sep/2016
 
 \lx búrujali
 \mm búruja:v:dénigrer
@@ -23512,6 +23550,18 @@ assumant que l'interclocuteur pense autrement)
 \gv
 \dt 22/Sep/2015
 
+\lx dɛ́nkɛrɛfɛ
+\mm dɛ́n:v:mettre.à.l'écart
+\mm kɛ̀rɛ:n:côté
+\mm fɛ̀:pp:par
+\ps n
+\ge passivité
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx dɛ́nkuru
 \va dénkoro
 \ps n
@@ -29007,6 +29057,15 @@ quant à sa mère, elle prend de l'âge
 \xv ée ! cɛ̀ ! kàna  nìn kɛ́ dɛ́ !
 \xe eh (toi) là-bas ! Ne fais pas ça !
 \dt 26/Sep/2006
+
+\lx eresi
+\ps n
+\ge reçu
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx erezɔn
 \ps n
@@ -36275,12 +36334,13 @@ de nos ancêtres
 \dt 26/Sep/2006
 
 \lx fɔ́lɔ
-\ps adj
+\ps adj/n
 \ge premier
 \xv né dénkɛ fɔ́lɔ dòn
 \xe c'est mon fils aîné
 \xv fɔ́lɔ...fílanan...
 \xe en premier lieu ..., en second lieu ...
+\dt 15/Sep/2016
 
 \lx fɔ́lɔ
 \ps adv
@@ -37684,9 +37744,14 @@ forestières, fruit : long follicule de 50 cm)
 \mm fùran:n:distance
 \mm cɛ́:n:milieu
 \mm fànga:n:force
+\va fùrancɛfanga
+\mm fùran:n:distance
+\mm cɛ́:n:milieu
+\mm lá:pp:dans
+\mm fànga:n:force
 \ps n
 \ge régime.transitoire
-\dt 09/Apr/2016
+\dt 15/Sep/2016
 
 \lx fùrancɛkalo
 \mm fùran:n:distance
@@ -38997,18 +39062,26 @@ forestières, fruit : long follicule de 50 cm)
 
 \lx gále
 \ve (-f,-bn)
-\ps n
+\ps adj
 \ge premier
-\gv autrefois
 \gv d'abord
 \sy fɔ́lɔ
-\dt 26/Sep/2006
+\dt 15/Sep/2016
 
 \lx gále
 \ps n
 \ge ceinture
 \sm de grosses perles
 \dt 16/Aug/2006
+
+\lx gále
+\ps adv
+\ge autrefois
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx gálegale
 \mm gále:n:premier
@@ -39590,6 +39663,25 @@ forestières, fruit : long follicule de 50 cm)
 \lx gáranke
 \ps n
 \ge cordonnier
+
+\lx garanti
+\ps n
+\ge garantie
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
+\lx garanti
+\ps v
+\vl vt
+\ge garantir
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx gárawu
 \ps adv
@@ -40478,11 +40570,11 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \va gɛ̀lɛ
 \va gwɛ̀lɛ
 \ph [gw]
-\ps n
+\ps adj
 \ge difficile
-\xv à gɛ̀lɛn yé  nàfolontanya yé
+\xv à gɛ̀lɛn yé nàfolontanya yé
 \xe le pénible, c'est la pauvreté
-\dt 26/Sep/2006
+\dt 15/Sep/2016
 
 \lx gɛ̀lɛn
 \va gɛ̀nɛn
@@ -41975,9 +42067,12 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \lx gún
 \va gúnu
 \ps n
+\ms 1
 \ge île
 \sy gúnkun
-\dt 16/Aug/2006
+\ms 2
+\gv continent
+\dt 15/Sep/2016
 
 \lx gún
 \va gú
@@ -43218,8 +43313,8 @@ doigts par des fileuses du coton)
 \sm (marque de surprise)
 \dt 29/Apr/2014
 
-\lx hɛ́ra
-\va hɛ́rɛ
+\lx hɛ́rɛ
+\va hɛ́ra
 \va hɛ́ɛrɛ
 \va hɛ́ɛra
 \ps n
@@ -43228,15 +43323,15 @@ doigts par des fileuses du coton)
 \sy káyira
 \xv Ála m'í sɔ́nna  hɛ́ra lá !
 \xe que Dieu t'accorde le bonheur !
-\dt 24/Jun/2013
+\dt 16/Aug/2016
 
-\lx hɛ́ra
-\va hɛ́rɛ
+\lx hɛ́rɛ
+\va hɛ́ra
 \ps v
 \vl vi
 \ge être.dans.la.paix
 \ee (bonne santé, nourriture, habillement et descendance assurés)
-\dt 16/Aug/2006
+\dt 16/Aug/2016
 
 \lx hìdaya
 \ps n
@@ -43553,7 +43648,9 @@ doigts par des fileuses du coton)
 \gv égide
 \sn 2
 \gv cadre
-\dt 04/Apr/2016
+\sn 3
+\gv contexte
+\dt 15/Sep/2016
 
 \lx hùn
 \ps intj
@@ -57525,9 +57622,10 @@ prolapsus utérin
 \dt 22/May/2016
 
 \lx kílomɛtɛrɛ
+\va km
 \ps n
 \ge kilomètre
-\dt 13/Jul/2013
+\dt 15/Sep/2016
 
 \lx kílomɛtɛrɛkɛnɛ
 \mm kílomɛtɛrɛ:n:kilomètre
@@ -59219,7 +59317,7 @@ prolapsus utérin
 \ms 3
 \vl vr
 \gv s'habituer
-\dt 05/Feb/2016
+\dt 15/Sep/2016
 
 \lx kólokoto
 \ps adv
@@ -74672,6 +74770,15 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \xe les pays qui ne renforcent pas leur renom et ne font pas progresser leurs langues nationales ... (kb 9/05/ p.2)
 \dt 11/Nov/2007
 
+\lx lé
+\ps n
+\ge daron
+\gv père
+\smf (argotique)
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx lèbu
 \ps n
 \ge humiliation
@@ -87556,8 +87663,9 @@ sur soi, on les connaît
 \ee (du bout de la chaîne à tisser)
 \dt 16/Aug/2006
 
-\lx nkáani
-\va káani
+\lx nkáanì
+\va káanì
+\va nkáanìn
 \ps n
 \sn 1
 \ge poivre.d'Ethiopie
@@ -87570,7 +87678,7 @@ sur soi, on les connaît
 \ee fondé des berges
 \sd anno
 \ee arbre de 2 à 6 m au bord des rivières
-\dt 26/Sep/2006
+\dt 15/Sep/2016
 
 \lx nkáaniba
 \mm nkáani:n:poivre.d'Ethiopie
@@ -87582,14 +87690,17 @@ sur soi, on les connaît
 
 \lx nkáanifin
 \mm nkáani:n:poivre.d'Ethiopie
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
+\va nkáaninfin
+\mm nkáanìn:n:poivre.d'Ethiopie
+\mm fìn:adj:noir
 \ps n
 \ge poivre.d'Ethiopie
 \lat Xylopia.aethiopica
 \sd anno
 \ee arbre de 8 à 15 m (galeries forestières)
 \lt (poivre.noir)
-\dt 16/Aug/2006
+\dt 15/Sep/2016
 
 \lx nkába
 \va ntába
@@ -89190,13 +89301,27 @@ graines, sert d'instrument rythmique)
 \va nɔ́gɔsi
 \ve (bn, f)
 \vc nɔ́gɔsin
+\va nɔ́gɔfin
 \ps v
 \vl vt
 \sn 1
 \ge maltraiter
 \sn 2
 \gv endommager
-\dt 26/Sep/2006
+\gv affaiblir
+\dt 15/Sep/2016
+
+\lx nɔ́gɔfin
+\mm nɔ́gɔ:n:saleté
+\mm fìn:adj:noir
+\ps n
+\ge engrais
+\gv engrais phosphaté
+\gv fumier
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx nɔ́gɔji
 \mm nɔ́gɔ:n:saleté
@@ -91254,12 +91379,13 @@ graines, sert d'instrument rythmique)
 \dt 16/Aug/2006
 
 \lx ntámàró
+\va támàro
 \ps n
 \ge palmier-dattier
 \ee ---> 15 / 30 m
 \lat Phoenix.dactylifera
 \sd arec
-\dt 19/Aug/2006
+\dt 15/Sep/2016
 
 \lx ntàn
 \ps n
@@ -100121,6 +100247,15 @@ le pèlerinage (bk 1/06 p.5)
 \ee petit pagne de dessous, sorte de jupe
 \dt 26/Sep/2006
 
+\lx perefe
+\ps n
+\ge préfet
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx pérekete
 \ps adv
 \ge soudainement
@@ -100184,6 +100319,15 @@ le pèlerinage (bk 1/06 p.5)
 \gv tout.à.fait
 \sm (refus, échec ...)
 \dt 19/Jan/2015
+
+\lx pɛ́cɛkɛ
+\ps n
+\ge fric
+\gv argent
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx pɛ̀gɛ
 \ve (-f)
@@ -100252,6 +100396,18 @@ le pèlerinage (bk 1/06 p.5)
 \gv crier
 \sm sur qn ... kùnna, ... fɛ̀
 \dt 26/Sep/2006
+
+\lx pɛ́rɛnbaranin
+\mm pɛ́rɛn:v:fendre
+\mm bàra:n:calebasse
+\mm nin:mrph:DIM
+\ps n
+\ge engin.explosif
+\gv mine
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx pɛ́rɛnda
 \mm pɛ́rɛn:v:fendre
@@ -101059,10 +101215,11 @@ le pèlerinage (bk 1/06 p.5)
 
 \lx sáale
 \va ságale
+\va sáalen
 \ps n
 \ge droits.du.marché
 \gv taxe.de.douane
-\dt 26/Sep/2006
+\dt 15/Sep/2016
 
 \lx sáaleminɛbaa
 \mm sáale:n:droits.du.marché
@@ -103403,6 +103560,16 @@ épuisés
 \ge tonnerre
 \lt (foudre.voix)
 
+\lx sanpiɲɔna
+\va sanpiyɔna
+\ps n
+\ge championnat
+\gv
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx sánpɔ̀rɔn
 \mm npɔ̀rɔn:n:sifflement.de.mépris
 \va nsánpɔ̀rɔn
@@ -103446,6 +103613,31 @@ épuisés
 \xv Né bɛ́ à fɛ̀ kà ù sànsɔngɔ dáfalen dí wárijɛ lá
 \xe je veux le payer en argent à sa pleine valeur (1 Ch 21, 24)
 \dt 11/Nov/2007
+
+\lx sánsɔrɔbaliya
+\mm sán:n:ciel
+\mm sɔ̀rɔ:v:obtenir
+\mm bali:mrph:PRCP.PRIV
+\mm ya:mrph:ABSTR
+\ps n
+\ge échec
+\gv insuccès
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
+\lx sánsɔrɔli
+\mm sán:n:ciel
+\mm sɔ̀rɔ:v:obtenir
+\mm li:mrph:NMLZ
+\ps n
+\ge succès
+\gv réussite
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx sánsumaya
 \mm sán:n:haut
@@ -107110,10 +107302,11 @@ gouvernement le soutient (kb 5/06 p.7)
 \va shyɛ̀
 \ph [shyɛ]
 \va sɛ̀
-\ee *mal : sisɛ = id.
+\va sìsɛ
+\ve (maninka)
 \ps n
 \ge poule
-\dt 19/Oct/2014
+\dt 15/Sep/2016
 
 \lx shíya
 \ps intj
