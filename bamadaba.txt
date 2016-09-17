@@ -39664,16 +39664,16 @@ forestières, fruit : long follicule de 50 cm)
 \ps n
 \ge cordonnier
 
-\lx garanti
+\lx gáranti
 \ps n
 \ge garantie
 \gv
 \ee
 \xv
 \xe
-\dt 15/Sep/2016
+\dt 16/Sep/2016
 
-\lx garanti
+\lx gáranti
 \ps v
 \vl vt
 \ge garantir
@@ -39681,7 +39681,7 @@ forestières, fruit : long follicule de 50 cm)
 \ee
 \xv
 \xe
-\dt 15/Sep/2016
+\dt 16/Sep/2016
 
 \lx gárawu
 \ps adv
@@ -100247,14 +100247,14 @@ le pèlerinage (bk 1/06 p.5)
 \ee petit pagne de dessous, sorte de jupe
 \dt 26/Sep/2006
 
-\lx perefe
+\lx pérefe
 \ps n
 \ge préfet
 \gv
 \ee
 \xv
 \xe
-\dt 15/Sep/2016
+\dt 16/Sep/2016
 
 \lx pérekete
 \ps adv
@@ -100379,6 +100379,15 @@ le pèlerinage (bk 1/06 p.5)
 \ge terrasser
 \sm (lutteurs ...)
 \dt 26/Sep/2006
+
+\lx pɛ́rɛ
+\ps adv
+\ge parfaitement
+\gv
+\ee
+\xv
+\xe
+\dt 16/Sep/2016
 
 \lx pɛ́rɛn
 \ps v
@@ -101216,6 +101225,7 @@ le pèlerinage (bk 1/06 p.5)
 \lx sáale
 \va ságale
 \va sáalen
+\va ságalen
 \ps n
 \ge droits.du.marché
 \gv taxe.de.douane
@@ -101955,6 +101965,18 @@ épuisés
 \ee couscous de mil et d'arachides pilées
 \dt 16/Aug/2006
 
+\lx ságanyatabaga
+\mm tà:v:prendre
+\mm baga:mrph:AG.OCC
+\ps n
+\ge preneur.de.dépôt
+\gv preneur de garantie
+\syn ságayaminabaga
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
+
 \lx sàgasága
 \ve (bmk)
 \ps n
@@ -102003,6 +102025,18 @@ épuisés
 \lt ovin-par
 \ge bergerie
 \dt 11/Nov/2007
+
+\lx ságayaminabaga
+\mm mìna:v:attraper
+\mm baga:mrph:AG.OCC
+\ps n
+\ge preneur.de.dépôt
+\gv preneur de garantie
+\syn ságanyatabaga
+\ee
+\xv
+\xe
+\dt 15/Sep/2016
 
 \lx sàgo
 \ps n
@@ -103560,15 +103594,25 @@ épuisés
 \ge tonnerre
 \lt (foudre.voix)
 
-\lx sanpiɲɔna
-\va sanpiyɔna
+\lx sánpiɲɔna
+\va sánpiyɔna
 \ps n
 \ge championnat
 \gv
 \ee
 \xv
 \xe
-\dt 15/Sep/2016
+\dt 16/Sep/2016
+
+\lx sànpiyɔn
+\va sànpiɲɔn
+\ps n
+\ge champion
+\gv
+\ee
+\xv
+\xe
+\dt 16/Sep/2016
 
 \lx sánpɔ̀rɔn
 \mm npɔ̀rɔn:n:sifflement.de.mépris
@@ -110197,10 +110241,13 @@ donne d'excellentes fibres)
 \va sógoo
 \ve (bk)
 \ps v
+\ms 1
 \vl vt
 \ge entasser
 \ee (bois de cuisine, cailloux, vaisselle ...)
-\dt 26/Sep/2006
+\ms 2
+\gv monter de toutes pièces
+\dt 16/Sep/2016
 
 \lx sògonin
 \mm sògo:n:viande
