@@ -39390,6 +39390,18 @@ forestières, fruit : long follicule de 50 cm)
 \xe des mûres et des presque mûres
 \dt 16/Aug/2006
 
+\lx gánan
+\va gánan
+\va gwánan
+\va gwána
+\ps n
+\ge pièce.de.monnaie
+\gv
+\ee
+\xv
+\xe
+\dt 18/Sep/2016
+
 \lx gánaya
 \mm gána:adj:célibataire
 \mm ya:mrph:ABSTR
@@ -52849,6 +52861,19 @@ prolapsus utérin
 \ps n
 \ge poule.de.pharaon
 \dt 17/Apr/2016
+
+\lx kàmankun
+\mm kàman:n:épaule
+\mm kùn:n:tête
+\ps n
+\ms 1
+\ge épaule
+\ms 2
+\gv costaud
+\ee
+\xv
+\xe
+\dt 17/Sep/2016
 
 \lx kàmantan
 \mm kàma:n:épaule
@@ -75419,9 +75444,10 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \bw fr : louage
 \ps v
 \vl vt
-\ge louer
+\ge donner.en.location
+\gv louer
 \ee (appartement, voiture ...)
-\dt 26/Sep/2006
+\dt 18/Sep/2016
 
 \lx mà
 \va mɔ̀
@@ -88173,7 +88199,7 @@ familiaux; viande très prisée, auladiculture)
 \ge joue
 \gv pommette
 \lt (joue.pulpe)
-\dt 26/Sep/2006
+\dt 18/Sep/2016
 
 \lx nkénninji
 \mm nin:mrph:DIM
@@ -110068,9 +110094,9 @@ donne d'excellentes fibres)
 
 \lx sòfuru
 \ps v
-\ge louer
-\gv prendre en location
-\dt 24/Jun/2013
+\ge prendre.en.location
+\gv louer
+\dt 18/Sep/2016
 
 \lx sógan
 \mm só:n:maison
