@@ -695,6 +695,15 @@
 \xe
 \dt 01/Jun/2016
 
+\lx Bugunin
+\ps n.prop
+\ge TOP
+\gv Bougouni
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
+
 \lx Bujumbura
 \di b
 \ty г.
@@ -2577,6 +2586,15 @@ le Sud de l'Algérie)
 \ru Нигерия
 \dt 05/Feb/2016
 
+\lx Nɔnkɔn
+\ps n.prop
+\ge TOP
+\gv Nonkon
+\ee commune à Kolokanin
+\xv
+\xe
+\dt 09/Oct/2016
+
 \lx Nɔriwɛzi
 \ps n.prop
 \ge TOP
@@ -3547,6 +3565,15 @@ invahisseurs marocains et les Songhaï en 1591)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Wɔlɔdo
+\ps n.prop
+\ge TOP
+\gv commune de Kolokani
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx Wɔ́lɔfɔbugu
 \ty кв.

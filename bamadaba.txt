@@ -10609,11 +10609,22 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm ma:mrph:COM
 \mm gɛ́n:v:chasser
 \ps n
-\lt biens-secours
 \ge aide.en.vivres
 \xv sɔ́nnikɛla tùn bɛ́ bálo Fárawɔn ká bólomagɛn dè lá (47, 22)
 \xe les prêtres se nourrissaient des rations que leur donnait Pharaon
-\dt 11/Nov/2007
+\dt 09/Oct/2016
+
+\lx bólomagɛn
+\mm bólo:n:bras
+\mm ma:mrph:COM
+\mm gɛ́n:v:chasser
+\ps v
+\ge secourir
+\gv contribuer
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx bólomandi
 \mm bólo:n:bras
@@ -13743,6 +13754,15 @@ centrale est de couleur sombre
 \sd myrt
 \ee arbuste fruitier d'importation, bien cultivé dans les jardins)
 \dt 26/Sep/2006
+
+\lx buzi
+\ps n
+\ge bougie
+\gv
+\ee
+\xv
+\xe
+\dt 25/Sep/2016
 
 \lx bwà
 \ps n
@@ -34443,6 +34463,11 @@ de nos ancêtres
 \mm ma:mrph:COM
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
+\va fìsamannciya
+\mm fìsa:vq:mieux
+\mm ma:mrph:COM
+\mm nci:mrph:AG.EX
+\mm ya:mrph:ABSTR
 \va fùsa.baa.nci.ya
 \mm fùsa:vq:mieux
 \mm baa:mrph:AG.OCC
@@ -34463,7 +34488,36 @@ de nos ancêtres
 \rem du
 \sn 3
 \gv amélioration.de.la.santé
-\dt 08/Aug/2016
+\dt 27/Sep/2016
+
+\lx fìsamanciya
+\mm fìsa:vq:mieux
+\mm ma:mrph:COM
+\mm nci:mrph:AG.EX
+\mm ya:mrph:ABSTR
+\va fìsamannciya
+\mm fìsa:vq:mieux
+\mm ma:mrph:COM
+\mm nci:mrph:AG.EX
+\mm ya:mrph:ABSTR
+\va fùsa.baa.nci.ya
+\mm fùsa:vq:mieux
+\mm baa:mrph:AG.OCC
+\mm nci:mrph:AG.EX
+\mm ya:mrph:ABSTR
+\va fìsamantiya
+\mm fìsa:vq:mieux
+\mm ma:mrph:COM
+\mm nci:mrph:AG.EX
+\mm ya:mrph:ABSTR
+\ps v
+\vl vt
+\ge préférer
+\smf (à -- kàn)
+\ee
+\xv
+\xe
+\dt 27/Sep/2016
 
 \lx fìsamandiya
 \mm fìsa:vq:mieux
@@ -34479,13 +34533,17 @@ de nos ancêtres
 \mm fìsa:vq:mieux
 \mm man:mrph:ADJ
 \mm nci:mrph:AG.EX
+\va fìsamanci
+\mm fìsa:vq:mieux
+\mm man:mrph:ADJ
+\mm nci:mrph:AG.EX
 \ps n
 \ge meilleur
 \ee en meilleure santé, situation ; meilleur que les autres (qui se croit ...)
 \lt (meilleur.à l'excès)
 \xv ɲìnan ká fìsa  kàrisa mà, à fìsamannci dòn
 \xe cette année est meilleure pour un tel, sa situation est nettement meilleure
-\dt 26/Sep/2006
+\dt 27/Sep/2016
 
 \lx fìsaya
 \mm fìsa:vq:mieux
@@ -37744,14 +37802,14 @@ forestières, fruit : long follicule de 50 cm)
 \mm fùran:n:distance
 \mm cɛ́:n:milieu
 \mm fànga:n:force
-\va fùrancɛfanga
+\va fùrancɛlafanga
 \mm fùran:n:distance
 \mm cɛ́:n:milieu
 \mm lá:pp:dans
 \mm fànga:n:force
 \ps n
 \ge régime.transitoire
-\dt 15/Sep/2016
+\dt 09/Oct/2016
 
 \lx fùrancɛkalo
 \mm fùran:n:distance
@@ -58926,6 +58984,8 @@ prolapsus utérin
 \ge os
 \gv arête
 \gv dent
+\xv à yɛ̀rɛ̂ kólo lá
+\xe indépendamment, sans assistance externe
 \xv kàrisa kólo ká mìsɛn
 \xe un tel est de faible constitution
 \xv kólo b'á lá
@@ -58949,7 +59009,7 @@ prolapsus utérin
 \xe ce tissu est très solide
 \xv kà bálo  à kólo lá  kà ɲà  kà kɛ́  fɛ́n yé, ò ká gɛ̀lɛn
 \xe vivre de manière indépendante, bien, jusqu'à devenir qqn, c'est difficile
-\dt 03/Apr/2016
+\dt 09/Oct/2016
 
 \lx kólo
 \ps n
@@ -65973,6 +66033,17 @@ il en contient dix
 \lt (culotte.ouverture)
 \dt 16/Aug/2006
 
+\lx kúlusìgi
+\mm kúlu:n:bande
+\mm sìgi:v:asseoir
+\ps v
+\ge classer
+\gv ordonner
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
+
 \lx kùlusijala
 \mm kùlusi:n:culotte
 \mm jàla:n:cordon
@@ -66254,11 +66325,14 @@ il en contient dix
 \mm ɲɔ́gɔn:prn:RECP
 \mm ya:mrph:ABSTR
 \ps v
+\ms 1
 \vl vr
 \ge dialoguer
 \gv s'adresser.la.parole
-\lt (parler.associé.suf caus)
-\dt 26/Sep/2006
+\ms 2
+\vl vt
+\gv dialoguer avec
+\dt 09/Oct/2016
 
 \lx kúmasen
 \mm kúma:n:parole
@@ -100409,11 +100483,7 @@ le pèlerinage (bk 1/06 p.5)
 \lx pɛ́rɛ
 \ps adv
 \ge parfaitement
-\gv
-\ee
-\xv
-\xe
-\dt 16/Sep/2016
+\dt 21/Sep/2016
 
 \lx pɛ́rɛn
 \ps v
@@ -111138,6 +111208,16 @@ donne d'excellentes fibres)
 \xe c'est le tour d'une telle de passer la nuit
 \ee dans le système polygamique, chaque épouse passe une ou deux nuits  à tour de rôle avec le mari
 \dt 16/Aug/2006
+
+\lx sosiyalisimu
+\va sosiyalisumu
+\ps n
+\ge socialisme
+\gv
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx sòso
 \ps n

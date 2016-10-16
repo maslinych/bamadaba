@@ -12,18 +12,20 @@
 \lx Abdul
 \va Abdulaye
 \va Abdulayi
+\va Abudulayi
 \di b
 \va Abdlaye
 \va Ábudu
 \va Abilayi
 \ps n.prop
 \ge NOM.M
-\dt 05/Feb/2016
+\dt 09/Oct/2016
 
 \lx Abduraman
+\va Abudurahamani
 \ps n.prop
 \ge NOM.M
-\dt 02/May/2010
+\dt 09/Oct/2016
 
 \lx Àbú
 \ps n.prop
@@ -42,6 +44,15 @@
 \ge NOM.M
 \di b
 \dt 02/May/2010
+
+\lx Abudɛli Karimu
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx Ádama
 \ge NOM.MF
@@ -180,10 +191,17 @@
 \dt 02/May/2010
 
 \lx Aramata
-\di m
 \ps n.prop
 \ge NOM.F
-\dt 02/May/2010
+\dt 09/Oct/2016
+
+\lx Aramatulayi
+\ps n.prop
+\ge NOM.F
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx Àri
 \di was
@@ -210,13 +228,14 @@
 \va Ásitàn
 \va Aysata
 \va Sítàn
+\va Asetu
 \dm Asan
 \dm Asa
 \hn Basan
 \di (m)
 \ps n.prop
 \ge NOM.F
-\dt 03/May/2010
+\dt 09/Oct/2016
 
 \lx Àtiku
 \di m
@@ -237,6 +256,15 @@
 \ge NOM.F
 \dt 03/May/2010
 
+\lx Ayida
+\ps n.prop
+\ge NOM.F
+\gv
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
+
 \lx Baable
 \di b
 \ps n.prop
@@ -254,6 +282,15 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Babi
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx Bacɔ
 \di b
@@ -578,6 +615,15 @@
 \ge NOM.M
 \dt 03/May/2010
 
+\lx Bubu
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
+
 \lx Bufunɛ
 \di b
 \ps n.prop
@@ -724,6 +770,15 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Cɛrinɔ
+\ps n.prop
+\ge NOM.M
+\gv Tierno
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx Cɛ̀sama
 \ps n.prop
@@ -1234,11 +1289,12 @@
 \dt 03/May/2010
 
 \lx Huseni
+\va Huseyini
 \va Fuseni
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 09/Oct/2016
 
 \lx Ibrahima
 \va Ibarahimu
@@ -1248,10 +1304,11 @@
 \dt 08/Feb/2016
 
 \lx Ídrìsa
+\va Idirisa
 \di m
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 09/Oct/2016
 
 \lx Ísa
 \va Yisa
@@ -1348,10 +1405,11 @@
 \lx Jɛ̀nɛba
 \va Jɛ̀nɛbu
 \va Jainab
+\va Zeyinabu
 \di b, m
 \ps n.prop
 \ge NOM.F
-\dt 03/May/2010
+\dt 09/Oct/2016
 
 \lx Jɛ́nfà
 \di b
@@ -1798,6 +1856,15 @@
 \ge NOM.M
 \dt 03/May/2010
 
+\lx Maliki
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
+
 \lx Màlisájò
 \di b
 \ps n.prop
@@ -2003,6 +2070,15 @@
 \ge NOM.M
 \dt 06/Feb/2016
 
+\lx Múntàga
+\ps n
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
+
 \lx Murlaye
 \di b
 \ps n.prop
@@ -2132,6 +2208,14 @@
 \ps n.prop
 \ge NOM.F
 \dt 03/May/2010
+
+\lx Nango
+\ps n.prop
+\ge NOM.M
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx Nankɛɲɛ
 \ps n.prop
@@ -2876,10 +2960,9 @@
 \dt 03/May/2010
 
 \lx Sòliba
-\di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 09/Oct/2016
 
 \lx Sòlomani
 \va Sòlomana
@@ -2901,6 +2984,15 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Soyibajan
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx Sɔgɔna
 \di b
@@ -2929,13 +3021,14 @@
 \dt 03/May/2010
 
 \lx Sumayila
+\va Isimayɛli
 \ps n.prop
 \ge NOM.M
 \gv Soumaïla
 \ee
 \xv
 \xe
-\dt 31/May/2016
+\dt 09/Oct/2016
 
 \lx Súnba
 \di
@@ -3101,10 +3194,11 @@ de l'enfant qui survit à sa mère morte en couches
 \va Usmana
 \va Usumana
 \va Úsmàní
+\va Usumani
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 09/Oct/2016
 
 \lx Usubi
 \di

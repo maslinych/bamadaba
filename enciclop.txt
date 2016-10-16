@@ -10,6 +10,16 @@
 \gv Abraham
 \dt 05/Apr/2016
 
+\lx Adema
+\ps n
+\ge ABR
+\gv Adéma-PASJ
+\ee (Alliance pour la démocratie au Mali-Parti africain pour la
+solidarité et la justice)
+\xv
+\xe
+\dt 09/Oct/2016
+
 \lx Air Afrique
 \ps n.prop
 \ge A
@@ -211,6 +221,17 @@
 \ge CÉDÉAO
 \gv Communauté économique des États de l'Afrique de l'Ouest
 \dt 14/Sep/2015
+
+\lx CMA
+\ps n
+\ge ABR
+\gv CMA
+\gv Coordination des mouvements de l'Azawad
+\ee (une alliance de groupes rebelles créée à l'été 2014 au cours
+de la guerre du Mali)
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx COMATEX
 \ps n
@@ -536,6 +557,15 @@ la stabilisation au Mali
 \xe
 \dt 29/May/2016
 
+\lx omo
+\ps n
+\ge Omo
+\smf (nom commercial d'une poudre lessive)
+\ee
+\xv
+\xe
+\dt 25/Sep/2016
+
 \lx ONU
 \va ONI
 \ps n
@@ -582,6 +612,17 @@ la stabilisation au Mali
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Pilatifɔrɔmu
+\ps n
+\ge Platforme
+\gv Plateforme des mouvements du 14 juin 2014 d'Alger
+\gv Plateforme des mouvements d'autodéfense
+\ee (une alliance de groupes armés maliens pro-gouvernementaux
+formée pendant la guerre du Mali le 14 juin 2014 à Alger)
+\xv
+\xe
+\dt 09/Oct/2016
 
 \lx pɔnze
 \ps n.prop
