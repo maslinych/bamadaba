@@ -24,14 +24,15 @@
 \dt 31/May/2016
 
 \lx Adisabeba
+\va Adisi Abeba
 \di b
 \di m
 \ty г.
 \ps n.prop
 \ge TOP
-\gv Addis-abeba
+\gv Addis-Abeba
 \ru Аддис-Абеба
-\dt 23/May/2010
+\dt 24/Oct/2016
 
 \lx Afiganisitan
 \va Áfugan
@@ -612,6 +613,15 @@
 \xe
 \dt 22/May/2016
 
+\lx Bɛlɛkɔ
+\ps n.prop
+\ge TOP
+\gv
+\ee arrondissement
+\xv
+\xe
+\dt 23/Oct/2016
+
 \lx Bɛliziki
 \ps n.prop
 \ge TOP
@@ -792,6 +802,25 @@
 \ru Чад
 \dt 23/May/2010
 
+\lx Cegɔsilowaki
+\ps n.prop
+\ge TOP
+\gv Tchécoslovaquie
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
+
+\lx Cɛkijamana
+\ps n
+\ge TOP
+\gv Tchéquie
+\gv République Tchèque
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
+
 \lx Dabanaani
 \ps n.prop
 \ge TOP
@@ -828,6 +857,15 @@
 \ge TOP
 \gv Damas
 \dt 23/May/2010
+
+\lx Dandugu
+\ps n.prop
+\ge TOP
+\gv
+\ee village (rég. de Dioila)
+\xv
+\xe
+\dt 23/Oct/2016
 
 \lx Dàomɛ
 \ty гос.
@@ -1022,6 +1060,15 @@
 \gv Falémé
 \cm (левый приток р. Сенегал)
 \dt 23/May/2010
+
+\lx Fana
+\ps n.prop
+\ge TOP
+\gv Fana
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
 
 \lx Fàrafinna
 \mm fàra:n:écorce
@@ -1301,12 +1348,13 @@
 \dt 01/Jun/2016
 
 \lx Hòngiri
+\va Hɔ̀ngiri
 \ty гос.
 \ps n.prop
 \ge TOP
 \gv Hongrie
 \ru Венгрия
-\dt 23/May/2010
+\dt 24/Oct/2016
 
 \lx Horo
 \ty оз.
@@ -1376,10 +1424,11 @@ le Sud de l'Algérie)
 \dt 23/May/2010
 
 \lx Irilandi
+\va Ɛri
 \ps n.prop
 \ge TOP
 \gv Irlande
-\dt 04/Apr/2016
+\dt 24/Oct/2016
 
 \lx Irisi
 \va Irisila
@@ -1412,6 +1461,17 @@ le Sud de l'Algérie)
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Jabali
+\ps n.prop
+\ge TOP
+\gv Diabaly
+\gv Dyabaly
+\ee (une ville et commune dans le cercle de Niono, la région de
+Ségou)
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx Jadakuru
 \ty гос.
@@ -1851,6 +1911,15 @@ le Sud de l'Algérie)
 \ru Киншаса
 \dt 04/Apr/2016
 
+\lx Kiɲan
+\ps n.prop
+\ge TOP
+\gv Kignan
+\ee (une ville et commune à la circle de Sikasso)
+\xv
+\xe
+\dt 23/Oct/2016
+
 \lx Kìsiduu
 \di m
 \ty г.
@@ -1933,6 +2002,15 @@ le Sud de l'Algérie)
 \gv Korea
 \ru Корея
 \dt 23/May/2010
+
+\lx Korowasi
+\ps n.prop
+\ge TOP
+\gv Croatie
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx Kotonu
 \va Kotonun
@@ -2129,6 +2207,16 @@ le Sud de l'Algérie)
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Lere
+\ps n.prop
+\ge TOP
+\gv Léré
+\ee (ville et commune dans le cercle de Niafunké, région de
+Tombouctou)
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx Líbɛriya
 \va Lábiriya
@@ -2462,14 +2550,13 @@ le Sud de l'Algérie)
 \ru Мопти
 \dt 05/Feb/2016
 
-\lx Mozanbik
-\va Mozambik
+\lx Mozanbiki
 \ty гос.
 \ps n.prop
 \ge TOP
 \gv Mozambique
 \ru Мозамбик
-\dt 23/May/2010
+\dt 24/Oct/2016
 
 \lx Mɔlidawi
 \ps n.prop
@@ -2533,6 +2620,25 @@ le Sud de l'Algérie)
 \ru Намибия
 \dt 23/May/2010
 
+\lx Nangolo
+\ps n.prop
+\ge TOP
+\gv
+\ee une commune
+\xv
+\xe
+\dt 23/Oct/2016
+
+\lx Nanpala
+\ps n.prop
+\ge TOP
+\gv Nampala
+\ee (chef-lieu de commune de Nampalari dans le cercle de Niono,
+région de Ségou)
+\xv
+\xe
+\dt 24/Oct/2016
+
 \lx Nara
 \ps n.prop
 \ge TOP
@@ -2585,6 +2691,15 @@ le Sud de l'Algérie)
 \gv Nigeria
 \ru Нигерия
 \dt 05/Feb/2016
+
+\lx Nɔgɔlaso
+\ps n.prop
+\ge TOP
+\gv
+\ee (un village dans la commune de Sinzan, circle de Sikasso)
+\xv
+\xe
+\dt 23/Oct/2016
 
 \lx Nɔnkɔn
 \ps n.prop
@@ -2791,6 +2906,15 @@ le Sud de l'Algérie)
 \gv
 \dt 08/Feb/2016
 
+\lx Peyiba
+\ps n.prop
+\ge TOP
+\gv Pays-Bas
+\ru Нидерланды
+\xv
+\xe
+\dt 24/Oct/2016
+
 \lx Peyidegali
 \ps n.prop
 \ge TOP
@@ -2991,16 +3115,25 @@ le Sud de l'Algérie)
 \ru Центральноафриканская республика
 \dt 23/May/2010
 
-\lx Sàrlon
-\va Saralon
+\lx Sanzana
+\ps n.prop
+\ge TOP
+\gv Sanzana
+\ee (une village et commune à la circle de Sikasso)
+\xv
+\xe
+\dt 23/Oct/2016
+
+\lx Sàralon
 \va Siyera Lewɔni
+\va Seraliyɔni
 \va Jàdakuru
 \ty гос.
 \ps n.prop
 \ge TOP
 \gv Sierra.Leone
 \ru Сьерра-Леоне
-\dt 23/May/2010
+\dt 24/Oct/2016
 
 \lx Sebeninkɔrɔ
 \ps n.prop
@@ -3309,10 +3442,11 @@ international)
 \dt 23/May/2010
 
 \lx Suwɛdi
+\va Siyɛdi
 \ps n.prop
 \ge TOP
 \gv Suède
-\dt 05/Feb/2016
+\dt 24/Oct/2016
 
 \lx Suwisi
 \ps n.prop
@@ -3485,12 +3619,13 @@ invahisseurs marocains et les Songhaï en 1591)
 \dt 05/Feb/2016
 
 \lx Túruke
+\va Túruki
 \ty гос.
 \ps n.prop
 \ge TOP
 \gv Turquie
 \ru Турция
-\dt 23/May/2010
+\dt 23/Oct/2016
 
 \lx Uganda
 \ty гос.
@@ -3499,6 +3634,15 @@ invahisseurs marocains et les Songhaï en 1591)
 \gv Uganda
 \ru Уганда
 \dt 23/May/2010
+
+\lx Ukɛrɛni
+\ps n.prop
+\ge TOP
+\gv Ukraine
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx Urumani
 \ps n.prop

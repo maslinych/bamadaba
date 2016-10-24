@@ -16223,6 +16223,15 @@ sur soi)
 \ge lévirat
 \dt 11/Nov/2007
 
+\lx cm
+\ps n
+\ge ABR
+\gv centimètre
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
+
 \lx có
 \va cɔ́
 \ps adv
@@ -16768,7 +16777,10 @@ sur soi)
 \xe c'est bon marché
 \xv dá jìgin
 \xe baisser le prix
-\dt 26/Sep/2006
+\ms 13
+\gv tour
+\gv tour de rôle
+\dt 23/Oct/2016
 
 \lx dá
 \ps n
@@ -23236,6 +23248,15 @@ génitales ...
 \ge décentralisation
 \dt 12/Jan/2015
 
+\lx desimɛtɛrɛ
+\ps n
+\ge décimètre
+\gv
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
+
 \lx déwu
 \ps adv
 \sn 1
@@ -24441,6 +24462,15 @@ chefs religieux et représentants de l'administration
 \sy díɲɛlaban
 \dt 16/Aug/2006
 
+\lx dipulɔmu
+\ps n
+\ge diplôme
+\gv
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
+
 \lx díridara
 \ps v
 \vl vt
@@ -24966,6 +24996,15 @@ chefs religieux et représentants de l'administration
 \ve (Sikaso)
 \ps pm
 \ge SEQ
+
+\lx dm
+\ps n
+\ge ABR
+\gv décimentre
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
 
 \lx dó
 \ps n
@@ -32736,6 +32775,16 @@ bien (dicton)
 \lt (chose.connaître.absence)
 \dt 26/Sep/2006
 
+\lx fɛnɛtɛrɛ
+\va finɛtiri
+\ps n
+\ge fenêtre
+\gv
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
+
 \lx fɛ́ngɛ
 \va fɛ́gɛn
 \ve (f)
@@ -33877,6 +33926,14 @@ la virginité (pièce de monnaie sans trou)
 \xv ń'í kó : í bɛ́  fìn bɛ́ɛ bɔ́  dàtu lá, í nà  dàtu bɛ́ɛ bɔ̀n
 \xe si tu dis que tu vas enlever tous les noirs du "sunbala",tu vas les enlever tous (prov)
 \dt 26/Sep/2006
+
+\lx finali
+\ps n
+\ge final
+\ee (terme sportif)
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx fíndo
 \ps n
@@ -46473,6 +46530,19 @@ qqch ...)
 \lt (union.groupe)
 \dt 26/Sep/2006
 
+\lx jɛ̀kulutɔn
+\mm jɛ̀kulu:n:groupe
+\mm jɛ̀:n:assemblée
+\mm kúlu:n:bande
+\mm tɔ́n:n:société
+\ps m
+\ge association
+\gv
+\ee
+\xv
+\xe
+\dt 21/Oct/2016
+
 \lx jɛ̀lankùna
 \mm jɛ̀:n:porc
 \mm lá:pp:dans
@@ -49475,6 +49545,23 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \ee tout ce qui sert à essuyer ...
 \lt (essuyer.ce qui sert à)
 \dt 26/Sep/2006
+
+\lx jɔ̀ɔsilikɛpapiye
+\mm jɔ̀ɔsi:v:essuyer
+\mm li:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm papiye:n:papier
+\va jɔ̀silikɛpapiye
+\mm jɔ̀si:v:essuyer
+\mm li:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm papiye:n:papier
+\ps n
+\ge papier.de.toilette
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx jɔ̀rɛnanko
 \mm jɔ̀rɛ:n:inquiétude
@@ -54994,6 +55081,15 @@ prolapsus utérin
 \cm (sans intermédiaires)
 \dt 01/May/2014
 
+\lx karitɔn
+\ps n
+\ge carton
+\gv
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
+
 \lx kàro
 \ps n
 \ge surveillance
@@ -55411,9 +55507,12 @@ prolapsus utérin
 \mm kà:pm:INF
 \mm sɔ̀rɔ:v:obtenir
 \ps conj
+\ms 1
 \ge malgré
 \gv bien.que
-\dt 13/Jan/2015
+\ms 2
+\gv en effet
+\dt 24/Oct/2016
 
 \lx kàta
 \ps n
@@ -61720,6 +61819,17 @@ prolapsus utérin
 \lt (dos.dessous)
 \sy kɛ̀ɛ
 \dt 26/Sep/2006
+
+\lx kɔ́kɔrɔ
+\mm kɔ́:n:dos
+\mm kɔ́rɔ:pp:sous
+\ps pp
+\ge en.soutien.de
+\gv derrère
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
 
 \lx kɔ́kɔrɔmadon
 \mm kɔ́:n:dos
@@ -68598,13 +68708,14 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lt (informer.celui qui)
 
 \lx kùnnafonisɛbɛn
+\mm kùnnafoni:n:information
 \mm kùn:n:tête
 \mm ná:pp:dans
 \mm fóni:v:détacher
 \mm sɛbɛn:n:écrit
 \ps n
 \ge journal
-\dt 23/Apr/2013
+\dt 21/Oct/2016
 
 \lx kùnnafoniso
 \mm kùnnafoni:n:information
@@ -71713,6 +71824,20 @@ kúrunninle
 \gv imbécile
 \lt (apathie.sujet)
 \dt 26/Sep/2006
+
+\lx làgamu
+\va làgabu
+\va lágamu
+\va lágabu
+\ve (bk)
+\ps v
+\ge glorifier
+\gv louer
+\gv vanter
+\ee qqn (d'une manière déplaisante, irritante)
+\xv làgamusɛbɛnnin, làgamunikan
+\xe étiquette publicitaire
+\dt 24/Oct/2016
 
 \lx lágamu
 \va lágabu
@@ -75522,6 +75647,15 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gv louer
 \ee (appartement, voiture ...)
 \dt 18/Sep/2016
+
+\lx m
+\ps n
+\ge ABR
+\gv mètre
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
 
 \lx mà
 \va mɔ̀
@@ -80679,6 +80813,15 @@ nord-est
 \rem cf  à fleurs jaunes
 \dt 11/Nov/2007
 
+\lx mm
+\ps n
+\ge ABR
+\gv millimètre
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
+
 \lx móbilɛti
 \es {fr : mobylette}
 \ps n
@@ -81709,32 +81852,60 @@ homme
 \dt 16/Aug/2006
 
 \lx mɔ́ɔnɔ
+\va máana
 \ps n
 \ge fil.étiré
 \ee par la fileuse de coton
 \xv gáari mɔ́ɔnɔ bɔ́
 \xe étirer le fil
-\dt 16/Aug/2006
+\dt 24/Oct/2016
 
 \lx mɔ́ɔnɔ
+\va máana
 \ps v
 \vl vr
 \ge s'étirer
-\dt 16/Aug/2006
+\dt 24/Oct/2016
 
 \lx mɔ́ɔnɔbɔ
 \mm mɔ́ɔnɔ:n:fil.étiré
 \mm bɔ́:v:sortir
+\va máanabɔ
+\mm máana:n:fil.étiré
+\mm bɔ́:v:sortir
 \ps v
+\ms 1.1
 \vl vt
 \ge étirer
 \ee (comme on étire un fil)
 \xv í sèn mɔ́ɔnɔbɔ
 \xe allonger le pied
-\lt (fil.sortir)
+\ms 1.2
+\vl vr
+\gv s'étirer
 \xv à y'á mɔ́ɔnɔbɔ  jíriden nɔ̀ fɛ̀
 \xe il s'est étiré pour attraper le fruit
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gv allonger
+\gv prolonger
+\ms 3
+\vl vr
+\gv se détendre
+\dt 24/Oct/2016
+
+\lx mɔ́ɔnɔbɔ
+\mm mɔ́ɔnɔ:n:fil.étiré
+\mm bɔ́:v:sortir
+\va máanabɔ
+\mm máana:n:fil.étiré
+\mm bɔ́:v:sortir
+\ps n
+\ge prolongation
+\ee (d'un match)
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx mɔ́rɔkɔ
 \va mɔ́rɔnkɔ
@@ -88534,6 +88705,15 @@ familiaux; viande très prisée, auladiculture)
 \ps n
 \ge criquet
 \dt 16/Aug/2006
+
+\lx ńko
+\ps n
+\ge Nko
+\gv
+\ee (écriture alphabétique mandingue)
+\xv
+\xe
+\dt 23/Oct/2016
 
 \lx nkòba
 \ps n
@@ -100045,6 +100225,15 @@ le pèlerinage (bk 1/06 p.5)
 \xe il n'a absolument rien rapporté de son voyage
 \dt 24/Jun/2013
 
+\lx papiye
+\ps n
+\ge papier
+\gv
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
+
 \lx pàpulo
 \va pàplo
 \ph [paplo]
@@ -100308,11 +100497,10 @@ le pèlerinage (bk 1/06 p.5)
 \lx penaliti
 \ps n
 \ge penalty
-\gv
-\ee
+\ee (terme sportif)
 \xv
 \xe
-\dt 31/May/2016
+\dt 24/Oct/2016
 
 \lx pénpe
 \ps v
@@ -100881,6 +101069,15 @@ le pèlerinage (bk 1/06 p.5)
 \ps n
 \ge projet
 \dt 12/Jan/2015
+
+\lx poto
+\ps n
+\ge poteau
+\gv
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx pótopàtapoto
 \ps n
@@ -102955,6 +103152,36 @@ épuisés
 \lt (ciel.gravier.petit)
 \dt 26/Sep/2006
 
+\lx sànbɛsànbɛ
+\va sàmɛsàmɛ
+\ps v
+\ge souhaiter.la.nouvelle.année
+\gv
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
+
+\lx sànbɛsànbɛ
+\va sàmɛsàmɛ
+\ps n
+\ge vœux.de.nouvel.an
+\gv
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
+
+\lx sànbɛsànbɛ
+\va sàmɛsàmɛ
+\ps itj
+\ge bonne.année
+\gv
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
+
 \lx sànbonda
 \mm sàn:n:message.de.deuil
 \mm bón:n:case
@@ -103822,6 +104049,15 @@ épuisés
 \gv étrille
 \rem Mol
 \dt 11/Nov/2007
+
+\lx santimɛtɛrɛ
+\ps n
+\ge santimètre
+\gv
+\ee
+\xv
+\xe
+\dt 23/Oct/2016
 
 \lx sántiri
 \ps n
@@ -110022,7 +110258,10 @@ donne d'excellentes fibres)
 \ee (opposé aux hameaux de culture)
 \xv ń bɛ́ táa bɔ́ só
 \xe je vais au village (aux nouvelles)
-\dt 26/Sep/2006
+\sn 3
+\gv rang
+\gv colonne
+\dt 23/Oct/2016
 
 \lx sóba
 \mm só:n:maison
@@ -113141,10 +113380,14 @@ euphémique)
 
 \lx súna
 \ps n
+\ms 1
 \ge facultatif
 \ee non obligatoire, mais permis
+\ms 2
 \gv sounna
-\dt 01/Mar/2013
+\xv súnamɔgɔ
+\xe sunnite
+\dt 24/Oct/2016
 
 \lx sùnaabaatɔ
 \mm sùnaa:v:dormir
@@ -116157,6 +116400,15 @@ fiançailles
 \sn 2
 \gv crépitement
 \dt 15/Aug/2006
+
+\lx tapi
+\ps n
+\ge tapis
+\gv
+\ee
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx tàra
 \ps n

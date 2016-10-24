@@ -41,6 +41,24 @@ solidarité et la justice)
 \ee équipe de football à Gao
 \dt 03/May/2013
 
+\lx Ali Azari
+\ps n
+\ge Al-Azhar
+\gv
+\ee (mosquée et université à l'Égypte)
+\xv
+\xe
+\dt 24/Oct/2016
+
+\lx Alijazayira
+\ps n
+\ge Al.Jazeera
+\gv al-Jazira
+\ee (chaine de télévision basée au Qatar)
+\xv
+\xe
+\dt 24/Oct/2016
+
 \lx Alikayida
 \ps n.prop
 \ge Al-Qaïda
@@ -312,6 +330,15 @@ de la guerre du Mali)
 \ps n
 \ge gaulois
 
+\lx Harisi
+\ps n
+\ge Horus
+\gv
+\ee (dieu de ciel, guerre et chasse en Ancien Egypte)
+\xv
+\xe
+\dt 23/Oct/2016
+
 \lx Hayile Selase
 \ps n.prop
 \ge Haïlé Selassié
@@ -367,13 +394,14 @@ de la guerre du Mali)
 \dt 08/Feb/2016
 
 \lx Izisi
+\va Isisi
 \ps n
 \ge Isis
 \smf (déesse funéraire de l'Égypte antique)
 \ee
 \xv
 \xe
-\dt 15/Sep/2016
+\dt 23/Oct/2016
 
 \lx jermani
 \va jɛrimani
@@ -488,6 +516,16 @@ de la guerre du Mali)
 \ee équipe de football à Koulikoro
 \dt 03/May/2013
 
+\lx Masaba
+\ps n
+\ge Masaba
+\gv Massaba
+\ee (écriture syllabique en existence chez les bambara de Kaarta
+depuis 1930)
+\xv
+\xe
+\dt 23/Oct/2016
+
 \lx Mawo
 \ps n.prop
 \ge Mao.ZeDong
@@ -596,13 +634,14 @@ la stabilisation au Mali
 \dt 15/Sep/2016
 
 \lx Ozirisi
+\va Osirisi
 \ps n
 \ge Osiris
 \smf (dieu de Egypte antique)
 \ee
 \xv
 \xe
-\dt 15/Sep/2016
+\dt 23/Oct/2016
 
 \lx Ɔminisipɔri
 \ps n.prop
@@ -786,6 +825,15 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \ge Torah
 \gv Thora
 \dt 21/Dec/2014
+
+\lx Tifinari
+\ps n
+\ge Tifinagh
+\gv
+\ee (écriture pour les langues berbères)
+\xv
+\xe
+\dt 23/Oct/2016
 
 \lx Toti
 \ps n
