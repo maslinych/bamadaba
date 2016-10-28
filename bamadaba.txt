@@ -24462,14 +24462,14 @@ chefs religieux et représentants de l'administration
 \sy díɲɛlaban
 \dt 16/Aug/2006
 
-\lx dipulɔmu
+\lx dípulɔmu
 \ps n
 \ge diplôme
 \gv
 \ee
 \xv
 \xe
-\dt 24/Oct/2016
+\dt 25/Oct/2016
 
 \lx díridara
 \ps v
@@ -32775,15 +32775,15 @@ bien (dicton)
 \lt (chose.connaître.absence)
 \dt 26/Sep/2006
 
-\lx fɛnɛtɛrɛ
-\va finɛtiri
+\lx fɛ̀nɛtɛrɛ
+\va fìnɛtiri
 \ps n
 \ge fenêtre
 \gv
 \ee
 \xv
 \xe
-\dt 24/Oct/2016
+\dt 25/Oct/2016
 
 \lx fɛ́ngɛ
 \va fɛ́gɛn
@@ -33927,13 +33927,13 @@ la virginité (pièce de monnaie sans trou)
 \xe si tu dis que tu vas enlever tous les noirs du "sunbala",tu vas les enlever tous (prov)
 \dt 26/Sep/2006
 
-\lx finali
+\lx fínali
 \ps n
 \ge final
 \ee (terme sportif)
 \xv
 \xe
-\dt 24/Oct/2016
+\dt 25/Oct/2016
 
 \lx fíndo
 \ps n
@@ -55081,14 +55081,14 @@ prolapsus utérin
 \cm (sans intermédiaires)
 \dt 01/May/2014
 
-\lx karitɔn
+\lx kàritɔn
 \ps n
 \ge carton
 \gv
 \ee
 \xv
 \xe
-\dt 24/Oct/2016
+\dt 25/Oct/2016
 
 \lx kàro
 \ps n
@@ -100225,14 +100225,14 @@ le pèlerinage (bk 1/06 p.5)
 \xe il n'a absolument rien rapporté de son voyage
 \dt 24/Jun/2013
 
-\lx papiye
+\lx pápiye
 \ps n
 \ge papier
 \gv
 \ee
 \xv
 \xe
-\dt 24/Oct/2016
+\dt 25/Oct/2016
 
 \lx pàpulo
 \va pàplo
@@ -116401,14 +116401,14 @@ fiançailles
 \gv crépitement
 \dt 15/Aug/2006
 
-\lx tapi
+\lx tàpi
 \ps n
 \ge tapis
 \gv
 \ee
 \xv
 \xe
-\dt 24/Oct/2016
+\dt 25/Oct/2016
 
 \lx tàra
 \ps n
@@ -116687,6 +116687,14 @@ fiançailles
 \ps adv
 \ge complètement
 \dt 19/Jan/2015
+
+\lx tayikɔndo
+\ps n
+\ge taekwondo
+\ee (un art martial d'origine sud-coréenne)
+\xv
+\xe
+\dt 24/Oct/2016
 
 \lx te
 \ps n
