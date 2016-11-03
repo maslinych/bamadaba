@@ -24170,6 +24170,17 @@ chefs religieux et représentants de l'administration
 \ge racine
 \dt 09/Apr/2013
 
+\lx díli
+\mm di:v:donner
+\mm li:mrph:NMLZ
+\ps n
+\ge action.de.donner
+\gv
+\ee
+\xv
+\xe
+\dt 03/Nov/2016
+
 \lx dílisɛbɛn
 \ps n
 \lt don-écrit
@@ -33929,11 +33940,11 @@ la virginité (pièce de monnaie sans trou)
 
 \lx fínali
 \ps n
-\ge final
+\ge finale
 \ee (terme sportif)
 \xv
 \xe
-\dt 25/Oct/2016
+\dt 03/Nov/2016
 
 \lx fíndo
 \ps n
@@ -46535,13 +46546,13 @@ qqch ...)
 \mm jɛ̀:n:assemblée
 \mm kúlu:n:bande
 \mm tɔ́n:n:société
-\ps m
+\ps n
 \ge association
 \gv
 \ee
 \xv
 \xe
-\dt 21/Oct/2016
+\dt 03/Nov/2016
 
 \lx jɛ̀lankùna
 \mm jɛ̀:n:porc
@@ -103174,13 +103185,13 @@ épuisés
 
 \lx sànbɛsànbɛ
 \va sàmɛsàmɛ
-\ps itj
+\ps intj
 \ge bonne.année
 \gv
 \ee
 \xv
 \xe
-\dt 23/Oct/2016
+\dt 03/Nov/2016
 
 \lx sànbonda
 \mm sàn:n:message.de.deuil
@@ -105240,6 +105251,17 @@ paniers, sègi)
 \xv à sélila
 \xe il est passé à l'islam
 \dt 16/Aug/2006
+
+\lx séli
+\mm sé:v:arriver
+\mm li:mrph:NMLZ
+\ps n
+\ge action.d'arriver
+\gv
+\ee
+\xv
+\xe
+\dt 03/Nov/2016
 
 \lx séliba
 \mm séli:n:prière
@@ -118104,6 +118126,17 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gv passage
 \gv gué
 \dt 26/Sep/2006
+
+\lx tìgɛli
+\mm tìgɛ:v:couper
+\mm li:mrph:NMLZ
+\ps n
+\ge action.de.couper
+\gv
+\ee
+\xv
+\xe
+\dt 03/Nov/2016
 
 \lx tìgɛlibana
 \mm tìgɛ:v:couper
