@@ -22220,7 +22220,7 @@ génitales ...
 \lx dáyɛ̀lɛ
 \mm dá:n:bouche
 \mm yɛ̀lɛ:v:ouvrir
-\va dáyɛ̀lɛ
+\va dáyɛ̀lɛn
 \mm dá:n:bouche
 \mm yɛ̀lɛn:v:ouvrir
 \ps v
@@ -22228,7 +22228,7 @@ génitales ...
 \ge ouvrir
 \gv déboucher
 \lt (ouverture.ouvrir)
-\dt 20/Jul/2014
+\dt 06/Nov/2016
 
 \lx dáyɛlɛlan
 \mm dá:n:bouche
@@ -42753,8 +42753,9 @@ doigts par des fileuses du coton)
 \ps n
 \ge opinion
 \gv pensée
-\lt (esprit.contenu)
-\dt 26/Sep/2006
+\gv avis
+\gv impressions personnelles
+\dt 06/Nov/2016
 
 \lx hákililabana
 \mm hákili:n:esprit
@@ -42856,7 +42857,7 @@ doigts par des fileuses du coton)
 \ps n
 \ge avis
 \gv impressions.personnelles
-\dt 20/Feb/2013
+\dt 06/Nov/2016
 
 \lx hákilinata
 \mm hákili:n:esprit
@@ -98112,12 +98113,23 @@ graines, sert d'instrument rythmique)
 \lx ɲìninka
 \va ɲìninkan
 \ps v
+\ms 1
 \vl vt
 \ge interroger
 \ee demander qqch à qqn = lui poser une question
 \xv né b'í ɲìninka kó dɔ́ lá
 \xe je vais te poser une question
-\dt 05/Apr/2016
+\ms 2
+\vl vt
+\ge demander
+\ee (exprimer un souhait d'obtenir qqch)
+\xv kà mɔ̀gɔ ɲìninka wári lá
+\xe demander de l'argent à qqn
+\xv kà wári ɲìninka mɔ̀gɔ lá
+\xe demander de l'argent à qqn
+\ee (le deuxième modèle, avec l'adressé introduit par la
+postposition, n'est pas accepté par tous les locuteurs)
+\dt 05/Nov/2016
 
 \lx ɲìninkali
 \mm ɲìninka:v:interroger
