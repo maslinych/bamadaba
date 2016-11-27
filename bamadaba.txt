@@ -12292,6 +12292,15 @@ toujours (pro)
 \gv couvrir.d'insultes
 \dt 16/Aug/2006
 
+\lx bɔ̀rɔsi
+\ps n
+\ge brosse
+\gv
+\ee
+\xv
+\xe
+\dt 26/Nov/2016
+
 \lx bɔ́rɔtɔ
 \ps v
 \vl vt
@@ -12722,12 +12731,15 @@ centrale est de couleur sombre
 \mm ná:mrph:CAUS
 \mm tìgɛ:v:couper
 \ps n
-\lt multiplier-préciser
+\ms
 \ge précision
 \gv nombre.exact
 \xv ní jàmana t'á ká kàlatala búgunnatigɛ dɔ́n...
-\xe si le pays ne connaît pas exactement le nombre des électeurs ... (Kb 11/06 p.11)
-\dt 11/Nov/2007
+\xe si le pays ne connaît pas exactement le nombre des électeurs
+... (Kb 11/06 p.11)
+\ms 2
+\gv photo d'identité
+\dt 26/Nov/2016
 
 \lx bùguri
 \va bùgirin
@@ -42851,14 +42863,6 @@ doigts par des fileuses du coton)
 \lt (sage.suf abs)
 \dt 26/Sep/2006
 
-\lx hákilina
-\mm hákili:n:esprit
-\mm na:mrph:MNT1
-\ps n
-\ge avis
-\gv impressions.personnelles
-\dt 06/Nov/2016
-
 \lx hákilinata
 \mm hákili:n:esprit
 \mm nata:mrph:MNT2
@@ -55823,7 +55827,8 @@ prolapsus utérin
 \lx kèle
 \va cèle
 \ps vq
-\ge être.envieux
+\ge envieux
+\dt 23/Nov/2016
 
 \lx kèle
 \va cèle
@@ -84084,10 +84089,10 @@ pour les jardins)
 
 \lx nálon
 \ps vq
-\ge être.bête
+\ge bête
 \xv à ká nálon
 \xe il est bête
-\dt 26/Sep/2006
+\dt 23/Nov/2016
 
 \lx nálon
 \ps n
@@ -85150,10 +85155,7 @@ sorcières et leur élimination)
 \ge petit
 \gv jeune
 \gv le.plus.jeune
-\fq (rare)
-\xv à ká ncínin
-\xe il est tout petit
-\dt 20/Jul/2014
+\dt 22/Nov/2016
 
 \lx ncíninkùnba
 \mm ncínin:vq/adj:petit
@@ -97489,7 +97491,7 @@ graines, sert d'instrument rythmique)
 \ee (qn qui vient, qui s'en va ...)
 \dt 26/Sep/2006
 
-\lx ɲɛ́sín
+\lx ɲɛ́sin
 \mm ɲɛ́:n:oeil
 \mm sín:v:diriger
 \ps v
@@ -97498,7 +97500,7 @@ graines, sert d'instrument rythmique)
 \gv faire.face
 \xv lá / mà
 \lt (regard.diriger)
-\dt 26/Sep/2006
+\dt 14/Nov/2016
 
 \lx ɲɛ́siran
 \mm ɲɛ́:n:oeil
@@ -100684,6 +100686,24 @@ le pèlerinage (bk 1/06 p.5)
 \gv
 \dt 08/Feb/2016
 
+\lx pɛ̀ɲi
+\ps v
+\ge peigne
+\gv
+\ee
+\xv
+\xe
+\dt 26/Nov/2016
+
+\lx pɛ̀ɲi
+\ps v
+\ge pegner
+\gv
+\ee
+\xv
+\xe
+\dt 26/Nov/2016
+
 \lx pɛ́rɛ
 \ps v
 \vl vt
@@ -102355,6 +102375,7 @@ épuisés
 \dt 15/Sep/2016
 
 \lx sàgo
+\va sàko
 \ps n
 \ge volonté
 \gv désir
@@ -102365,7 +102386,7 @@ épuisés
 \xe laisse-moi faire comme je veux
 \xv dúden bɛ́ tó  dútigi sàgo kɔ́rɔ
 \xe les membres de la famille se soumettent à la volonté du chef de famille
-\dt 26/Sep/2006
+\dt 14/Nov/2016
 
 \lx sàgokɛbaga
 \mm sàgo:n:volonté
@@ -102659,10 +102680,10 @@ épuisés
 \lx sàla
 \ve (f)
 \ps vq
-\ge être.paresseux
+\ge paresseux
 \xv à ká sàla
 \xe il est paresseux (rare)
-\dt 16/Aug/2006
+\dt 23/Nov/2016
 
 \lx sàla
 \ve (f)
@@ -103463,9 +103484,9 @@ épuisés
 \va séni
 \ve (bn)
 \ps vq
-\ge être.propre
+\ge propre
 \ee (senu : forme employée par les chrétiens dans le sens de saint)
-\dt 26/Sep/2006
+\dt 23/Nov/2016
 
 \lx sáni
 \va sánti
@@ -103500,31 +103521,31 @@ épuisés
 \dt 06/Apr/2016
 
 \lx sániman
-\mm sáni:adj:être.propre
+\mm sáni:vq:propre
 \mm man:mrph:ADJ
-\ps vq
+\ps adj
 \ge sain
 \gv propre
 \gv pur
-\dt 21/Dec/2014
+\dt 23/Nov/2016
 
 \lx sániya
-\mm sáni:vq:être.propre
+\mm sáni:vq:propre
 \mm ya:mrph:DEQU
 \ps n
 \ge propreté
 \gv hygiène
 \lt (propre.suf abs)
-\dt 26/Sep/2006
+\dt 23/Nov/2016
 
 \lx sániya
-\mm sáni:vq:être.propre
+\mm sáni:vq:propre
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \ge nettoyer
 \lt (propre.suf caus)
-\dt 26/Sep/2006
+\dt 23/Nov/2016
 
 \lx sánjan
 \mm sán:n:haut
@@ -115384,11 +115405,15 @@ fiançailles
 \va tɔ́gɔma
 \ve (f)
 \ps n
+\ms 1
 \ge voyage
 \gv marche
 \xv à tɛ́  táama sà  à mà
 \xe ça ne l'empêche pas de marcher  (blessure)
-\dt 26/Sep/2006
+\ms 2
+\gv manifestation
+\smf (dans la rue)
+\dt 26/Nov/2016
 
 \lx táama
 \va tágama
@@ -119039,9 +119064,9 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tími
 \ps vq
-\ge être.savoureux
+\ge savoureux
 \sm (sucré ou même salé)
-\dt 26/Sep/2006
+\dt 23/Nov/2016
 
 \lx tími
 \ps v
@@ -119076,12 +119101,12 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 19/Aug/2006
 
 \lx tímiman
-\mm tími:vq:être.savoureux
+\mm tími:vq:savoureux
 \mm man:mrph:ADJ
 \ps adj
 \ge savoureux
 \lt (doux.suf adj)
-\dt 26/Sep/2006
+\dt 23/Nov/2016
 
 \lx tímina
 \mm tími:v:s'appliquer
@@ -119101,7 +119126,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lt (application.bonne)
 \dt 26/Sep/2006
 
-\lx tíminandiya
+\lx  tíminandiya
 \mm tími.nan.di:n:appliqué
 \mm tími:v:s'appliquer
 \mm nan:mrph:dans
@@ -119111,7 +119136,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ge bonne.application
 \xv ...kɛ́ ní  tíminandiya yé
 \xe s'ápplique à...
-\dt 05/Apr/2016
+\dt 23/Nov/2016
 
 \lx tíminandiya
 \mm tími.nan.di:n:appliqué
@@ -119200,23 +119225,23 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 11/Nov/2007
 
 \lx tímiya
-\mm tími:vq:être.savoureux
+\mm tími:vq:savoureux
 \mm ya:mrph:DEQU
 \ps n
 \ge douceur
 \sm (au goût)
 \lt (doux.suf abs)
-\dt 16/Aug/2006
+\dt 23/Nov/2016
 
 \lx tímiya
-\mm tími:vq:être.savoureux
+\mm tími:vq:savoureux
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \ge rendre.savoureux
 \sm (sucrer, saler, assaaisonner ...)
 \lt (savoureux.suf caus)
-\dt 26/Sep/2006
+\dt 23/Nov/2016
 
 \lx tìn
 \ps n
@@ -125983,11 +126008,15 @@ Mali)
 \mm wúli:v:se.lever
 \mm kà:pm:INF
 \mm jɔ̀:v:mettre.débout
+\va wúli-kà-jɔ̀
+\mm wúli:v:se.lever
+\mm kà:pm:INF
+\mm jɔ̀:v:mettre.débout
 \ps n
 \ge mobilisation
 \gv détermination
 \gv responsabilité
-\dt 04/May/2013
+\dt 26/Nov/2016
 
 \lx wùlu
 \ps n
