@@ -8817,7 +8817,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gv représentation
 \dt 08/Jul/2013
 
-\lx bisiki
+\lx bísiki
 \ps n
 \ge biscuit
 \gv
@@ -39997,7 +39997,7 @@ forestières, fruit : long follicule de 50 cm)
 \lt (élève-marabout.suf abs)
 \dt 26/Sep/2006
 
-\lx garidi
+\lx gáridi
 \ps n
 \ge garde
 \gv
@@ -54579,7 +54579,7 @@ prolapsus utérin
 \ee d'une clôture, d'un masque ...
 \dt 26/Sep/2006
 
-\lx kansɛri
+\lx kánsɛri
 \ps n
 \ge cancer
 \gv
@@ -114005,6 +114005,17 @@ euphémique)
 \ee ménagères
 \dt 18/Apr/2014
 
+\lx súɲɛ
+\mm sú:n:nuit
+\mm ɲɛ́:n:oeil
+\ps n
+\ge vue.nocturne
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx superefe
 \ps n
 \ge sous-préfet
@@ -116645,7 +116656,7 @@ fiançailles
 \xe un tel est au meilleur de sa forme
 \dt 26/Sep/2006
 
-\lx tansiyɔn
+\lx tánsiyɔn
 \ps n
 \ge tension
 \gv
