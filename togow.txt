@@ -135,6 +135,15 @@
 \ge NOM.M
 \dt 02/May/2010
 
+\lx Alimatu
+\ps n.prop
+\ge NOM.F
+\gv
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
+
 \lx Aluseni
 \di
 \ps n.prop
@@ -522,12 +531,6 @@
 \ge NOM.M
 \dt 03/May/2010
 
-\lx Béremà
-\di m
-\ps n.prop
-\ge NOM.M
-\dt 03/May/2010
-
 \lx Bɛnba
 \di
 \ps n.prop
@@ -666,10 +669,11 @@
 \lx Burayima
 \va Burayma
 \va Brɛyma
+\va Bureyima
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 31/Jan/2017
 
 \lx Bùrémàn
 \di m
@@ -1205,6 +1209,15 @@
 \ge NOM.F
 \dt 03/May/2010
 
+\lx Gaɲi
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx Gárabà
 \di b
 \ps n.prop
@@ -1298,10 +1311,13 @@
 
 \lx Ibrahima
 \va Ibarahimu
+\va Berehima
+\va Béremà
+\va Bírimà
 \di
 \ps n.prop
 \ge NOM.M
-\dt 08/Feb/2016
+\dt 31/Jan/2017
 
 \lx Ídrìsa
 \va Idirisa
@@ -1980,6 +1996,15 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Mayimuna
+\ps n.prop
+\ge NOM.F
+\gv Maïmouna
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx Mɛ
 \di b

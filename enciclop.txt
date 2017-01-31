@@ -35,6 +35,15 @@ solidarité et la justice)
 \xe
 \dt 15/Sep/2016
 
+\lx Alɛn Delɔsi
+\ps n.prop
+\ge Alain Deloche de Noyelle
+\ee (cofondateur de Médecins sans frontières puis de Médecins du
+Monde)
+\xv
+\xe
+\dt 30/Jan/2017
+
 \lx Alfaru
 \ps n.prop
 \ge Alphare
@@ -76,6 +85,16 @@ solidarité et la justice)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Amapu
+\ps n.prop
+\ge ABR
+\gv AMAP
+\gv Agence Malienne de Presse
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx Anibisi
 \ps n
@@ -275,6 +294,14 @@ de la guerre du Mali)
 \gv Électricité.du.Mali
 \dt 08/Feb/2016
 
+\lx Elena Kuyomo
+\ps n.prop
+\ge Maria Elena Cavallaro Cuomo
+\ee (propriétrice de la Fondation Cuomo)
+\xv
+\xe
+\dt 30/Jan/2017
+
 \lx Ereyali
 \ps n.prop
 \ge NOM.ETRG
@@ -292,6 +319,15 @@ de la guerre du Mali)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Esɔri
+\ps n.prop
+\ge Essor
+\gv
+\ee (le quotidien gouvernemental au Mali)
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx Ɛmɛnela
 \ps n
@@ -354,6 +390,15 @@ de la guerre du Mali)
 \gv Hillary Clinton
 \dt 06/Feb/2016
 
+\lx Hisɛni Habere
+\ps n.prop
+\ge Hissène Habré
+\smf (président du Tchad en 1982-1990)
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
+
 \lx Ibilisa
 \ps n.prop
 \ge Iblis
@@ -369,6 +414,17 @@ de la guerre du Mali)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Inɛsiko
+\ps n
+\ge ABR
+\gv UNESCO
+\gv Organisation des Nations unies pour l'éducation, la science et
+la culture
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx Iyadi Agi Agali
 \ps n.prop
@@ -402,6 +458,15 @@ de la guerre du Mali)
 \xv
 \xe
 \dt 23/Oct/2016
+
+\lx Jakarata
+\ps n
+\ge Djakarta
+\gv
+\ee (marque de moto)
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx jermani
 \va jɛrimani
@@ -732,6 +797,7 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \ge celte
 
 \lx Sɛmudete
+\va Sɛmɛdɛtɛ
 \ps n
 \ge ABR
 \gv CMDT
@@ -739,7 +805,7 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \ee
 \xv
 \xe
-\dt 04/Jun/2016
+\dt 30/Jan/2017
 
 \lx sɛ́nɛfɔ-gana
 \ps n
@@ -895,3 +961,11 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Zɔrɔzi Pɔnpidu
+\ps n.prop
+\ge Georges Pompidou
+\ee (président français en 1969-1974)
+\xv
+\xe
+\dt 30/Jan/2017

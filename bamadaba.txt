@@ -2524,12 +2524,17 @@ ramifié, donne des gousses
 \mm bá:n:mère
 \mm kùru:n:boule
 \mm ma:mrph:COM
+\va bákuruba
+\mm bá.kuru:n:tout
+\mm bá:n:mère
+\mm kùru:n:boule
+\mm ba:mrph:AUGM
 \ps adv.p
 \ge entièrement
 \lt (le tout.qui a)
 \xv à bákuruma jènina
 \xe il a brûlé entièrement
-\dt 26/Sep/2006
+\dt 31/Jan/2017
 
 \lx bàkurumasan
 \mm bá.kuru:n:tout
@@ -2847,6 +2852,15 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \sy álasɔsɔjirinin
 \ee grand arbre ---> 20 m, perd ses feuilles en saison des pluies, précieux par l'azote qu'il fournit par ses racines, ses fruits mangés par le petit bétail
 \dt 08/Sep/2006
+
+\lx bàlansi
+\ps n
+\ge balance
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx bàlaɲama
 \mm bàla:n:porc-épic
@@ -3976,6 +3990,17 @@ Fleurs spectaculaires
 \xe elle est enceinte d'au moins huit mois
 \rem du
 \dt 11/Nov/2007
+
+\lx bànderi
+\va bàndiri
+\va bàndari
+\ps n
+\ge bandeau
+\gv drapeau banderole
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx bàndigi
 \va bàdigi
@@ -7088,6 +7113,18 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps n
 \ge cinquante
 
+\lx bígaramu
+\mm bî:num:dizaine
+\mm gáramu:n:gramme
+\va big
+\ps n
+\ge décagramme
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx bígibigi
 \ps adv
 \ge avec.intensité
@@ -7450,11 +7487,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bìla:v:mettre
 \mm li:mrph:NMLZ
 \ps n
-\lt permettre-action
 \ge permission
 \ee congé, renvoi, abandon
 \sy lábilali
-\dt 11/Nov/2007
+\dt 31/Jan/2017
 
 \lx bìlali
 \mm bìla:v:mettre
@@ -8290,10 +8326,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps n
 \sn 1
 \ge agression
-\gv brigandage
 \sn 2
+\gv brigandage
+\gv banditisme
+\sn 3
 \gv viol
-\dt 20/Dec/2015
+\dt 30/Jan/2017
 
 \lx bínɲimi
 \mm bín:n:herbe
@@ -8778,6 +8816,15 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ge imaginaire
 \gv représentation
 \dt 08/Jul/2013
+
+\lx bisiki
+\ps n
+\ge biscuit
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx bìsimila
 \va bìsmila
@@ -18961,6 +19008,18 @@ sur soi)
 \lt (créer.manière)
 \dt 16/Aug/2006
 
+\lx dákobɔrɔsi
+\mm dá:n:bouche
+\mm kò:v:laver
+\mm bɔrɔsi:n:ETRG.FRA
+\ps n
+\ge brosse.à.dents
+\gv
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
+
 \lx dákojugu
 \mm dá:v:créer
 \mm kó:n:affaire
@@ -21454,6 +21513,41 @@ génitales ...
 \xv jàlibana y'á dántanya
 \xe la méningite l'a rendu muet
 \dt 16/Aug/2006
+
+\lx dàntɛmɛ
+\mm dàn:n:limite
+\mm tɛ̀mɛ:v:passer
+\ps n
+\ge affaire.excessive
+\gv
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
+
+\lx dàntɛmɛ
+\mm dàn:n:limite
+\mm tɛ̀mɛ:v:passer
+\ps adv.p
+\ge excessivement
+\gv
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
+
+\lx dàntɛ̀mɛ
+\mm dàn:n:limite
+\mm tɛ̀mɛ:v:passer
+\ps v
+\vl vi
+\ge exagérer
+\gv être excessif
+\gv
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx dàntigɛ
 \mm dàn:n:limite
@@ -25063,13 +25157,14 @@ chefs religieux et représentants de l'administration
 \dt 05/Apr/2016
 
 \lx dógi
+\va dógin
 \ps v
 \vl vt
 \sn 1
 \ge tanner
 \sn 2
 \gv pétrir
-\dt 16/Aug/2006
+\dt 30/Jan/2017
 
 \lx dógidogi
 \mm dógi:v:tanner
@@ -25219,10 +25314,11 @@ chefs religieux et représentants de l'administration
 \dt 12/Aug/2006
 
 \lx dòlo
+\va dòolo
 \ps n
 \ge étoile
 \gv planète
-\dt 26/Sep/2006
+\dt 30/Jan/2017
 
 \lx dólon
 \ps v
@@ -26326,6 +26422,16 @@ l'occasion d'une naissance)
 \lt (plus jeune.féminin)
 \dt 26/Sep/2006
 
+\lx dɔ̀gɔnɛ
+\ps n
+\ge longtemps
+\gv
+\ee
+\xv
+\xe
+\cm Kalilou Tera
+\dt 23/Jan/2017
+
 \lx dɔ́gɔnin
 \mm dɔ́gɔ:n:cadet
 \mm nin:mrph:DIM
@@ -27317,12 +27423,14 @@ désorienter')
 \va dúfalen
 \ve (f)
 \va ndúbalen
+\va dúgalen
+\va ntúfalen
 \ps n
 \ge figuier-palabres
 \lat Ficus thonningii
 \sd mora
 \ee ---> 15 m(arbre souvent planté sur les places publiques pour son ombrage)
-\dt 19/Aug/2006
+\dt 31/Jan/2017
 
 \lx dúdàdú
 \ps n
@@ -28310,6 +28418,17 @@ quant à sa mère, elle prend de l'âge
 \xv í yé  né dún
 \xe tu m'as roulé, tu m'as eu (sur le prix, le salaire ...)
 \dt 16/Aug/2006
+
+\lx dún
+\ps n
+\sn 1
+\ge cancer
+\sn 2
+\gv mammite
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx dúnan
 \va dnán
@@ -31992,15 +32111,17 @@ compagnie ...
 \dt 26/Sep/2006
 
 \lx fàsobaara
+\mm fàso:n:patrie
 \mm fà:n:père
 \mm só:n:maison 
 \mm báara:n:travail
 \ps n
 \ge construction.nationale
 \lt (patrie.travail)
-\dt 16/Aug/2006
+\dt 31/Jan/2017
 
 \lx fàsoden
+\mm fàso:n:patrie
 \mm fà:n:père
 \mm só:n:maison
 \mm dén:n:enfant
@@ -32008,9 +32129,10 @@ compagnie ...
 \ge citoyen
 \gv fils.du.pays
 \lt (patrie.enfant)
-\dt 26/Sep/2006
+\dt 31/Jan/2017
 
 \lx fàsodensɛbɛn
+\mm fàso:n:patrie
 \mm fà:n:père
 \mm só:n:maison
 \mm dén:n:enfant
@@ -32020,9 +32142,10 @@ compagnie ...
 \ge carte.d'identité.nationale
 \xv à fɔ́ra kó fàsodensɛbɛn fìla bɛ́ Fréderi Kánute bólo
 \xe on dit que Frédéric Kanute possède la double nationalité (kb 9/04 p.6
-\dt 11/Nov/2007
+\dt 31/Jan/2017
 
 \lx fàsodenya
+\mm fàso:n:patrie
 \mm fà:n:père
 \mm só:n:maison
 \mm dén:n:enfant
@@ -32030,27 +32153,43 @@ compagnie ...
 \ps n
 \ge condition.de.fils.du.pays
 \lt (fils du pays.suf abs)
-\dt 16/Aug/2006
+\dt 31/Jan/2017
 
 \lx fàsojama
+\mm fàso:n:patrie
 \mm fà:n:père
 \mm só:n:maison
 \mm dén:n:enfant
 \mm jàma:n:jàma
 \ps n
 \ge peuple
-\dt 26/Mar/2014
+\dt 31/Jan/2017
 
 \lx fàsokan
+\mm fàso:n:patrie
 \mm fà:n:père
 \mm só:n:maison
 \mm kán:n:cou
 \ps n
 \lt patrie-langue
 \ge langue.nationale
-\dt 11/Nov/2007
+\dt 31/Jan/2017
+
+\lx fàsokanu
+\mm fàso:n:patrie
+\mm fà:n:père
+\mm só:n:maison
+\mm kànu:n:amour
+\ps n
+\ge patriotisme
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx fàsolamɔgɔ
+\mm fàso:n:patrie
 \mm fà:n:père
 \mm só:n:maison
 \mm la:mrph:LOC
@@ -32062,9 +32201,10 @@ compagnie ...
 \sn 2
 \gv proche
 \sm personne de la famille (de telle personne ..., du mari ... de l'épouse ...)
-\dt 11/Nov/2007
+\dt 31/Jan/2017
 
 \lx fàsontanya
+\mm fàso:n:patrie
 \mm fà:n:père
 \mm só:n:maison
 \mm ntan:mrph:PRIV
@@ -32075,7 +32215,7 @@ compagnie ...
 \ge perdre.toute.sa.parenté
 \xv à bálima bɛ́ɛ sàra  k'à fàsontanya
 \xe tous ses parents sont morts et l'ont laissé sans famille
-\dt 16/Aug/2006
+\dt 31/Jan/2017
 
 \lx fásɔn
 \bw fr : façon
@@ -39857,6 +39997,15 @@ forestières, fruit : long follicule de 50 cm)
 \lt (élève-marabout.suf abs)
 \dt 26/Sep/2006
 
+\lx garidi
+\ps n
+\ge garde
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx gàrijɛgɛ
 \va gàrisɛgɛ
 \va gàrjɛgɛ
@@ -44271,6 +44420,15 @@ régions sont éloignés les uns des autres (kb 9/05 p.9)
 \xv jàbere jù yé  bwà yé
 \xe la base du taro est un "bulbe"  (prov) (pour rappeler à qqn qu'il n'est pas le premier, qu'il a des prédécesseurs)
 \dt 03/Apr/2016
+
+\lx jábɛti
+\ps n
+\ge diabète
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx jàbi
 \ps n
@@ -48889,8 +49047,9 @@ nos libations "
 \mm síra:n:chemin
 \ps n
 \ge vaisseau.sanguin
-\lt (sang.route)
-\dt 16/Aug/2006
+\xv kùnkolo jòlisira pɛ́rɛnni
+\xe accident vasculaire cérébral, AVC
+\dt 30/Jan/2017
 
 \lx jòlisu
 \mm jòli:n:sang
@@ -54381,12 +54540,12 @@ prolapsus utérin
 \gv perdre.la.voix
 \dt 26/Sep/2006
 
-\lx kánɲa
-\mm kán:n:cou
-\mm ɲá:n:fois
-\va kán.ɲɛ
+\lx kán.ɲɛ
 \mm kán:n:cou
 \mm ɲɛ́:n:fois
+\va kánɲa
+\mm kán:n:cou
+\mm ɲá:n:fois
 \ps n
 \sn 1
 \ge gorgée
@@ -54397,7 +54556,7 @@ prolapsus utérin
 \gv heure
 \xv nɛ̀gɛ kánɲɛ
 \xe heure
-\dt 22/May/2016
+\dt 23/Jan/2017
 
 \lx kánpasaja
 \mm kán:n:cou
@@ -54419,6 +54578,15 @@ prolapsus utérin
 \ge armature
 \ee d'une clôture, d'un masque ...
 \dt 26/Sep/2006
+
+\lx kansɛri
+\ps n
+\ge cancer
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx kánsi
 \mm kán:n:cou
@@ -56733,6 +56901,18 @@ prolapsus utérin
 \gv cinq.cents.francs
 \dt 26/Sep/2006
 
+\lx kɛ̀mɛgaramu
+\mm kɛ̀mɛ:num:cent
+\mm gáramu:n:gramme
+\va kɛg
+\ps n
+\ge hectogramme
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx kɛ̀mɛnan
 \mm kɛ̀mɛ:num:cent
 \mm nan:mrph:ORD
@@ -57103,7 +57283,7 @@ prolapsus utérin
 \sy dònnkɔnɔ
 \dt 16/Aug/2006
 
-\lx kɛ́nyɛ
+\lx `kɛ́nyɛ
 \ps v
 \vl vt
 \ge égaliser
@@ -57118,7 +57298,7 @@ prolapsus utérin
 \xe il a souhaité la mort
 \xv í kàna  mɔ̀gɔjugu ní  mɔ̀gɔ tílennen kɛ́nyɛ
 \xe ne mets pas sur le même plan le bon et le méchant
-\dt 24/Oct/2012
+\dt 30/Jan/2017
 
 \lx kɛ́nyɛlan
 \mm kɛ́nyɛ:v:égaliser
@@ -61842,11 +62022,12 @@ prolapsus utérin
 \mm kɔ́rɔ:pp:sous
 \ps pp
 \ge en.soutien.de
-\gv derrère
+\gv derrière
+\gv avec
 \ee
 \xv
 \xe
-\dt 23/Oct/2016
+\dt 30/Jan/2017
 
 \lx kɔ́kɔrɔmadon
 \mm kɔ́:n:dos
@@ -62432,6 +62613,15 @@ prolapsus utérin
 \gv isoler
 \gv écarter
 \dt 26/Mar/2014
+
+\lx kɔ́nbilen
+\ps n
+\ge complet
+\gv
+\ee (vêtement)
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx kɔ̀nɛrɛ
 \mm kɔ̀:n:marigot
@@ -66494,6 +66684,16 @@ il en contient dix
 \gv modérateur.d'une.conférence
 \dt 26/Sep/2006
 
+\lx kùme
+\ps n
+\ge fiérté
+\gv égo
+\ee
+\xv
+\xe
+\cm Kalilou Tera
+\dt 23/Jan/2017
+
 \lx kùmékùmé
 \ps n
 \ge vanneau
@@ -69433,6 +69633,21 @@ Sahel)
 \lt (bout.aller.ce qui)
 \xv à sàra  bàna kùntaala súrun fɛ̀
 \xe il est décédé après une courte maladie
+\dt 05/Dec/2016
+
+\lx kùntaalajan
+\mm kùntaala:n:durée
+\mm kùn:n:tête
+\mm táa:v:aller
+\mm la:mrph:AG.PRM
+\mm jàn:adj:long
+\ps adj
+\ge durable
+\gv à longue terme
+\ee
+\xv
+\xe
+\dt 05/Dec/2016
 
 \lx kúntan
 \mm kú:n:queue
@@ -70676,9 +70891,10 @@ kúrunninle
 \ps n
 \sn 1
 \ge l'après-midi
+\smf (entre 15 et 16 heures)
 \sn 2
 \gv troisième prière musulmane
-\dt 25/May/2016
+\dt 23/Jan/2017
 
 \lx lábaara
 \mm lá:mrph:CAUS
@@ -70924,10 +71140,10 @@ kúrunninle
 \dt 26/Sep/2006
 
 \lx làbitani
+\va lópitali
 \ps n
 \ge hôpital
-\rem l 89, du ... alf : ça se dit
-\dt 11/Nov/2007
+\dt 31/Jan/2017
 
 \lx lábòli
 \mm lá:mrph:CAUS
@@ -74131,8 +74347,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ge avoir.le.temps.de
 \sn 2
 \gv obtenir
-\lt (préf.obtenir)
-\dt 16/Aug/2006
+\sn 3
+\gv joindre
+\gv rejoindre
+\sn 4
+\gv comprendre
+\gv comporter
+\dt 30/Jan/2017
 
 \lx lásɔ̀sɔ
 \mm lá:mrph:CAUS
@@ -76675,11 +76896,14 @@ jour, c'est une personne dépendante qu'il voit
 \lx màgosa
 \mm màgo:n:besoin
 \mm sà:v:mourir
+\va màkosa
+\mm màko:n:besoin
+\mm sà:v:mourir
 \ps n
 \ge effort.inutile
 \gv perte.de.temps
 \lt (intérêt.mourir)
-\dt 26/Sep/2006
+\dt 30/Jan/2017
 
 \lx màgòsi
 \mm mà:mrph:SUPER
@@ -78674,6 +78898,17 @@ invulnérable aux serpents, aux fauves ...)
 \lt (sarakolé. ?)
 \dt 16/Aug/2006
 
+\lx màrakakan
+\mm màraka:n:soninké
+\mm kán:n:cou
+\ps n
+\ge langue.soninké
+\gv
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
+
 \lx márakamaraka
 \ps v
 \ge marcher.précipitamment
@@ -79792,6 +80027,11 @@ des engagements
 \ps n
 \ge mairie
 \dt 10/Jan/2013
+
+\lx mɛri
+\ps n
+\ge maire
+\dt 30/Jan/2017
 
 \lx mɛ̀sɛkɛ
 \ps n
@@ -94435,18 +94675,20 @@ graines, sert d'instrument rythmique)
 
 \lx ɲànkata
 \va ɲàngata
+\va ɲàgata
 \ps n
 \ge malheur
 \gv tourment.continuel
 \gv querelle
-\dt 10/Jun/2013
+\dt 31/Jan/2017
 
 \lx ɲànkata
 \va ɲàngata
+\va ɲàgata
 \ps v
 \vl vt
 \ge tourmenter
-\dt 26/Mar/2014
+\dt 31/Jan/2017
 
 \lx ɲànkoron
 \va ɲàngoron
@@ -96462,7 +96704,6 @@ graines, sert d'instrument rythmique)
 \sn 3
 \gv prendre.la.tête
 \gv conduire
-\lt (devant.prendre)
 \sn 4
 \gv satisfaire
 \xv fóyi t'á ɲɛ́minɛ
@@ -96472,7 +96713,7 @@ graines, sert d'instrument rythmique)
 \sn 6
 \gv diriger
 \gv conduire
-\dt 02/Apr/2014
+\dt 30/Jan/2017
 
 \lx ɲɛ́minɛbaa
 \mm ɲɛ́:n:oeil
@@ -97976,9 +98217,9 @@ graines, sert d'instrument rythmique)
 \lx ɲìna
 \va ɲìnan
 \va ɲìnɛn
-\ps n
+\ps adv/n
 \ge cette.année
-\dt 08/Jul/2013
+\dt 30/Jan/2017
 
 \lx ɲìnanama
 \mm ɲìna:n:cette.année
@@ -99922,13 +100163,12 @@ le pèlerinage (bk 1/06 p.5)
 \dt 24/Oct/2012
 
 \lx ópere
-\va ópereli
 \ps v
 \vl vt ?
 \ge opérer
 \xv bànabaatɔ dɔ́ fúrakɛra tèn, kà dɔ́ óperela
 \xe certains malades ont été soignés, mais d'autres ont été opérés (kb 2/06 p.3
-\dt 11/Nov/2007
+\dt 30/Jan/2017
 
 \lx ɔ̀
 \va ɛ̀
@@ -100054,6 +100294,16 @@ le pèlerinage (bk 1/06 p.5)
 \ge bruit.de.coup
 \sm (hache, pioche, houe ...)
 \dt 26/Sep/2006
+
+\lx pàla
+\ps n
+\ge dollar
+\gv
+\ee
+\xv
+\xe
+\cm Kalilou Tera
+\dt 23/Jan/2017
 
 \lx pàlan
 \ps n
@@ -101252,6 +101502,15 @@ le pèlerinage (bk 1/06 p.5)
 \sy ŋɔ́nijɛ
 \dt 26/Sep/2006
 
+\lx pɔ́siti
+\ps n
+\ge poste
+\gv
+\ee (service postale)
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx pɔ́sɔni
 \va pɔ́sɔn
 \ps v
@@ -102066,12 +102325,11 @@ épuisés
 \lx sábu
 \va sáabu
 \va sábi
-\rem l 89 / peu employé sous cette forme (alf, Jos)
 \ps conj
 \ge parce.que
 \gv en.effet
 \xv sábu...sábu lá...
-\dt 11/Nov/2007
+\dt 31/Jan/2017
 
 \lx sábu
 \ve (f)
@@ -102083,6 +102341,17 @@ épuisés
 \sn 2
 \gv frôler
 \dt 16/Aug/2006
+
+\lx sábula
+\mm sábu:n:cause
+\mm lá:pp:dans
+\ps conj
+\ge parce.que
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx sábulafɛn
 \mm sábu:n:cause
@@ -108402,6 +108671,30 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sìgini
 \ps n
 \ge alphabet
+
+\lx sìginidasigi
+\mm sìgini:n:alphabet
+\mm dá:n:bouche
+\mm sìgi:n:position.assise
+\ps n
+\ge ordre.alphabétique
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
+\lx sìginidasigi
+\mm sìgini:n:alphabet
+\mm dá:n:bouche
+\mm sìgi:v:asseoir
+\ps v
+\ge mettre.en.ordre.alphabétique
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx sìginiden
 \mm sìgini:n:alphabet
@@ -116352,6 +116645,15 @@ fiançailles
 \xe un tel est au meilleur de sa forme
 \dt 26/Sep/2006
 
+\lx tansiyɔn
+\ps n
+\ge tension
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx tàntan
 \va tɛ̀ntɛn
 \ve (bn)
@@ -122843,6 +123145,15 @@ bruyants, près du sol, dans les fourrés)
 \ge bruit.de.chute
 \dt 29/Mar/2014
 
+\lx tùntun
+\ps v
+\ge bousculer
+\gv se bousculer
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx ù
 \ps pers
 \ge 3PL
@@ -124610,6 +124921,15 @@ la Justice (kb 12/05 p.4)
 \sm (dans les moindres détails)
 \sy sɛ́gɛsɛgɛ
 \dt 16/Aug/2006
+
+\lx wɛ́si
+\ps n
+\ge veste
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx wɛ̀tɛ
 \ps v
@@ -127294,6 +127614,8 @@ bambara)
 \dt 10/Jun/2016
 
 \lx yélenku
+\va yélekeyeleke
+\va yélekuyeleku
 \ps v
 \vl vi
 \ge scintiller
@@ -127301,7 +127623,7 @@ bambara)
 \vl vt
 \gv faire briller
 \gv cirer
-\dt 26/Sep/2006
+\dt 30/Jan/2017
 
 \lx yéleyele
 \ps v

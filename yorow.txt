@@ -69,6 +69,17 @@
 \ru Африка
 \dt 23/Feb/2014
 
+\lx Agelɔgi
+\va Agelɔki
+\va Agelihɔgi
+\ps n.prop
+\ge TOP
+\gv Aguel'hoc
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
+
 \lx Agɛlihɔki
 \ps n.prop
 \ge TOP
@@ -184,6 +195,15 @@
 \ty г.
 \ru Ансонго
 \dt 05/Feb/2016
+
+\lx Arabi Sawuditi
+\ps n.prop
+\ge TOP
+\gv Arabie Saoudite
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx Árabula
 \nk ߊߙߊߓߎߟߊ
@@ -550,12 +570,13 @@
 
 \lx Barazawil
 \va Barazaduu
+\va Barazawili
 \ty г.
 \ps n.prop
 \ge TOP
 \gv Brazzaville
 \ru Браззавиль
-\dt 23/May/2010
+\dt 30/Jan/2017
 
 \lx Basutoland
 \va Basutola
@@ -709,10 +730,10 @@
 \ps n.prop
 \ge TOP
 \gv Bougouni
-\ee
+\ee (une ville et un cercle dans la région de Sikasso)
 \xv
 \xe
-\dt 09/Oct/2016
+\dt 31/Jan/2017
 
 \lx Bujumbura
 \di b
@@ -927,6 +948,15 @@
 \ru Доминикана
 \dt 23/May/2010
 
+\lx Dɔyila
+\ps n.prop
+\ge TOP
+\gv Dioïla
+\ee (une ville et un cercle dans la région de Koulikoro)
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx Dràwela
 \ty кв.
 \ps n.prop
@@ -953,14 +983,25 @@
 \dt 01/Jun/2016
 \ps n.prop
 
-\lx Dúwazà
-\va Duwazan
+\lx Duwanza
+\ps
+\ge
+\gv
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
+\lx Dúwanzà
+\va Dúwazà
+\va Dúwazàn
 \ty г.
 \ru Дуэнца
 \ps n.prop
 \ge TOP
 \gv Douentza
-\dt 05/Feb/2016
+\ee (une ville et commune urbaine dans la région de Mompti)
+\dt 31/Jan/2017
 
 \lx Ecopi
 \va Ecupi
@@ -1366,11 +1407,12 @@
 \dt 23/May/2010
 
 \lx Hɔnbori
+\va Honbori
 \ps n.prop
 \ge TOP
 \gv Hombori
 \smf (une ville, commune et montagnes dans le cercle de Douentza)
-\dt 05/Feb/2016
+\dt 31/Jan/2017
 
 \lx Hɔrɔyaso
 \di m
@@ -1564,6 +1606,15 @@ Ségou)
 \ru Дженне
 \dt 23/May/2010
 
+\lx Jɛma
+\ps n.prop
+\ge TOP
+\gv Diéma
+\ee (une ville et un cercle dans la région de Kayes)
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx Jibuti
 \ty гос.
 \ps n.prop
@@ -1571,6 +1622,15 @@ Ségou)
 \gv Djibouti
 \ru Джибути
 \dt 23/May/2010
+
+\lx Jijɛnin
+\ps n.prop
+\ge TOP
+\gv Didieni
+\ee (une commune rurale, cercle de Kolokani)
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx Jikɔrɔnin-Para
 \ps n.prop
@@ -1580,6 +1640,15 @@ Ségou)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Jikɔrɔnipara
+\ps n.prop
+\ge TOP
+\gv Jikoroni Para
+\ee (un quartier de Bamako)
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx Jinɛ
 \va Lágìnɛ
@@ -1622,6 +1691,16 @@ Ségou)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
+\lx Jura
+\ps n.prop
+\ge TOP
+\gv Dioura
+\ee (centre de la commune de Karéri dans le cercle de Ténenkou,
+région de Mopti)
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx Kaaba
 \ps n.prop
 \ge TOP
@@ -1655,6 +1734,15 @@ Ségou)
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Kajolondugu
+\ps n.prop
+\ge TOP
+\gv Kadiolo
+\ee (centre d'un circle dans la province de Sikasso)
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx Kakolondugu
 \ps n.prop
@@ -1721,7 +1809,8 @@ Ségou)
 \ps n.prop
 \ge TOP
 \gv Kangaba
-\dt 05/Feb/2016
+\ee (une ville et un cercle dans la région de Koulikoro)
+\dt 31/Jan/2017
 
 \lx Kanina
 \ps n.prop
@@ -1749,6 +1838,15 @@ Ségou)
 \gv Kampala
 \ru Кампала
 \dt 23/May/2010
+
+\lx Kapolondugu
+\ps n.prop
+\ge TOP
+\gv Kapolondougou
+\ee (un commune rurale, cercle de Sikasso, région de Sikasso)
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx Kapu Wɛri
 \va Kapuwɛri
@@ -1778,6 +1876,15 @@ Ségou)
 \ge TOP
 \gv
 \dt 23/May/2010
+
+\lx Kareri
+\ps n.prop
+\ge TOP
+\gv Karéri
+\ee (une commune dans le cercle de Ténenkou, région de Mopti)
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx Karicemali
 \ps n.prop
@@ -1811,7 +1918,8 @@ Ségou)
 \ps n.prop
 \ge TOP
 \gv Kati
-\dt 10/Apr/2014
+\ee (une ville et un cercle dans la région de Koulikoro)
+\dt 31/Jan/2017
 
 \lx Kaveri
 \ty гос.
@@ -1889,6 +1997,15 @@ Ségou)
 \gv Kerouané
 \dt 05/Feb/2016
 
+\lx Kɛɲɛba
+\ps n.prop
+\ge TOP
+\gv Kéniéba
+\ee (une ville et un cercle dans la région de Kayes)
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx Kidali
 \ps n.prop
 \ge TOP
@@ -1952,16 +2069,6 @@ Ségou)
 \cm (правый приток реки Сенегал)
 \dt 23/May/2010
 
-\lx Kolokani
-\va Kolokanin
-\ve Kɔlɔkanin
-\ps n.prop
-\ge TOP
-\ee Kolokani
-\xv
-\xe
-\dt 22/May/2016
-
 \lx Kolongo
 \ps n.prop
 \ge TOP
@@ -1999,9 +2106,27 @@ Ségou)
 \ty гос.
 \ps n.prop
 \ge TOP
-\gv Korea
+\gv Corée
 \ru Корея
-\dt 23/May/2010
+\dt 31/Jan/2017
+
+\lx Koredisidi
+\ps n.prop
+\ge TOP
+\gv Corée du Sud
+\ee
+\xv
+\xe
+\dt 31/Jan/2017
+
+\lx Koro
+\ps n.prop
+\ge TOP
+\gv Koro
+\ee (cercle dans la région de Mopti)
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx Korowasi
 \ps n.prop
@@ -2037,6 +2162,17 @@ Ségou)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Kɔlɔkanin
+\va Kolokanin
+\ve Kolokani
+\ps n.prop
+\ge TOP
+\gv Kolokani
+\ee (une ville et un cercle dans la région de Koulikoro)
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx Kɔminɛ
 \ps n.prop
@@ -2115,8 +2251,9 @@ Ségou)
 \ps n.prop
 \ge TOP
 \gv Koulikoro
+\ee (une ville et un région)
 \cm (на берегу Нигера, к востоку от Бамако)
-\dt 23/May/2010
+\dt 31/Jan/2017
 
 \lx Kuluninkɔ
 \ps n.prop
@@ -2151,6 +2288,15 @@ Ségou)
 \gv Kouroussa
 \cm (на северо-востоке Гвинеи)
 \dt 23/May/2010
+
+\lx Kuwala
+\ps n.prop
+\ge TOP
+\gv
+\ee (une ville, pas trop loin de Mourdiah?)
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx Labezanga
 \ps n.prop
@@ -2533,6 +2679,15 @@ Tombouctou)
 \ge TOP
 \dt 05/Feb/2016
 
+\lx Monako
+\ps n.prop
+\ge TOP
+\gv Monaco
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
+
 \lx Móritani
 \ty гос.
 \ps n.prop
@@ -2556,7 +2711,7 @@ Tombouctou)
 \ge TOP
 \gv Mozambique
 \ru Мозамбик
-\dt 24/Oct/2016
+\dt 31/Jan/2017
 
 \lx Mɔlidawi
 \ps n.prop
@@ -2718,6 +2873,15 @@ région de Ségou)
 \xv
 \xe
 \dt 31/May/2016
+
+\lx Ntarala
+\ps n.prop
+\ge TOP
+\gv
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx Ntòmikɔrɔbugu
 \ty кв.
@@ -3055,11 +3219,11 @@ région de Ségou)
 \smf (localité près de Gao où on extrait l'uranium)
 \dt 05/Feb/2016
 
-\lx San
+\lx Sàn
 \ps n.prop
 \ge TOP
 \gv San, ville au Mali
-\dt 02/May/2015
+\dt 27/Jan/2017
 
 \lx Sanankɔrɔba
 \ps n.prop
@@ -3214,6 +3378,15 @@ international)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Seware
+\ps n.prop
+\ge TOP
+\gv Sévaré
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx Sewiyi
 \ps n.prop
@@ -3397,6 +3570,15 @@ international)
 \ru Сомали
 \dt 23/May/2010
 
+\lx Soninkɛɲi
+\ps n.prop
+\ge TOP
+\gv
+\ee (un village dans le cercle de Kati, province de Koulikoro)
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx Sotuba
 \ty порог
 \ru Сотуба
@@ -3503,6 +3685,13 @@ international)
 \ru Экваториальная Гвинея
 \dt 23/May/2010
 
+\lx Tɛnɛnkun
+\ps n.prop
+\ge TOP
+\gv Ténenkou
+\smf (une cercle dans la région de Mopti)
+\dt 31/Jan/2017
+
 \lx Tilemusi
 \ps n.prop
 \ge TOP
@@ -3596,12 +3785,13 @@ invahisseurs marocains et les Songhaï en 1591)
 \lx Tunisi
 \va Tunusi
 \va Tunizi
+\va Tinizi
 \ty г.
 \ps n.prop
 \ge TOP
 \gv Tunisie
 \ru Тунис
-\dt 05/Feb/2016
+\dt 31/Jan/2017
 
 \lx Tunusiya
 \va Tunisia
@@ -3678,6 +3868,15 @@ invahisseurs marocains et les Songhaï en 1591)
 \gv Oualata
 \dt 05/Feb/2016
 
+\lx Wasingitɔni
+\ps n.prop
+\ge TOP
+\gv Washington
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
+
 \lx Welesebugu
 \ps n.prop
 \ge TOP
@@ -3700,6 +3899,15 @@ invahisseurs marocains et les Songhaï en 1591)
 \gv Windhoek
 \ru Виндхук
 \dt 23/May/2010
+
+\lx Wiyɛtinamu
+\ps n.prop
+\ge TOP
+\gv Vietnam
+\ee
+\xv
+\xe
+\dt 30/Jan/2017
 
 \lx Woyowayankɔ
 \ps n.prop
@@ -3735,6 +3943,15 @@ invahisseurs marocains et les Songhaï en 1591)
 \ru Йемен
 \dt 23/May/2010
 
+\lx Yanfolila
+\ps n.prop
+\ge TOP
+\gv Yanfolila
+\ee (une ville et un cercle dans la région de Sikasso)
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx Yaunde
 \ty г.
 \ps n.prop
@@ -3742,6 +3959,15 @@ invahisseurs marocains et les Songhaï en 1591)
 \gv Yaoundé
 \ru Яунде
 \dt 23/May/2010
+
+\lx Yelimane
+\ps n.prop
+\ge TOP
+\gv Yélimané
+\ee (une ville et un cercle dans la région de Kayes)
+\xv
+\xe
+\dt 31/Jan/2017
 
 \lx Yelimani
 \ty г.
@@ -3761,6 +3987,15 @@ invahisseurs marocains et les Songhaï en 1591)
 \xe
 \dt 04/Jun/2016
 
+\lx Yɔrɔso
+\ps n.prop
+\ge TOP
+\gv Yorosso
+\ee (cercle dans la région de Sikasso)
+\xv
+\xe
+\dt 31/Jan/2017
+
 \lx Yugɔsilawi
 \ty гос.
 \ps n.prop
@@ -3772,8 +4007,9 @@ invahisseurs marocains et les Songhaï en 1591)
 \lx Yuwaru
 \ps n.prop
 \ge TOP
-\gv
-\dt 05/Feb/2016
+\gv Youwarou
+\ee (cercle dans la région de Mopti)
+\dt 31/Jan/2017
 
 \lx Zamayiki
 \ps n.prop
