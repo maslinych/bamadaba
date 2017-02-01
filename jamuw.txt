@@ -20,6 +20,11 @@
 \xe
 \dt 31/May/2016
 
+\lx Babi
+\ps n.prop
+\ge NOM.CL
+\dt 01/Feb/2017
+
 \lx Bacili
 \ps n.prop
 \ge NOM.CL
@@ -228,12 +233,13 @@
 \ps n.prop
 \ge NOM.CL
 
-\lx Bɔarɛ
+\lx Bwarɛ
 \va Bɔrɛ
-\va Bwarɛ
+\va Bɔarɛ
+\va Buware
 \di b
 \di mny
-\dt 03/May/2010
+\dt 01/Feb/2017
 \ps n.prop
 \ge NOM.CL
 
@@ -504,6 +510,11 @@
 \dt 30/Jan/2017
 \ps n.prop
 \ge NOM.CL
+
+\lx Denɔn
+\ps n.prop
+\ge NOM.CL
+\dt 01/Feb/2017
 
 \lx Deteba
 \di kag
@@ -1844,6 +1855,16 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \ps n.prop
 \ge NOM.CL
 
+\lx Kɔnpawore
+\ps n.prop
+\ge NOM.CL
+\gv Compaoré
+\sn Moosi
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Kɔ́ntawò
 \di som
 \sn kagoro
@@ -2115,6 +2136,11 @@ Sagone.
 \dt 06/May/2010
 \ps n.prop
 \ge NOM.CL
+
+\lx Male
+\ps n.prop
+\ge NOM.CL
+\dt 01/Feb/2017
 
 \lx Mandakunu
 \ms Почётное имя для Tunkara у сонинке.
@@ -2476,6 +2502,7 @@ Sagone.
 \ge NOM.CL
 
 \lx Sako
+\va Sakɔ
 \va Sagɔ
 \va Saakɔ
 \va Saxo
@@ -2492,7 +2519,7 @@ Sagone.
 \cm у сонинке
 \tn dankala tutu
 \tn nkaana
-\dt 06/May/2010
+\dt 01/Feb/2017
 \ps n.prop
 \ge NOM.CL
 
@@ -3035,8 +3062,9 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \dt 02/Apr/2015
 
 \lx Tal
+\va Tali
 \di tou
-\dt 06/May/2010
+\dt 01/Feb/2017
 \ps n.prop
 \ge NOM.CL
 

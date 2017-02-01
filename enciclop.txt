@@ -90,11 +90,11 @@ Monde)
 \ps n.prop
 \ge ABR
 \gv AMAP
-\gv Agence Malienne de Presse
+\gv Agence Malienne de Presse et de Publicité
 \ee
 \xv
 \xe
-\dt 30/Jan/2017
+\dt 01/Feb/2017
 
 \lx Anibisi
 \ps n
@@ -170,6 +170,16 @@ Monde)
 \gv Amadou Toumani Touré
 \dt 09/Apr/2016
 
+\lx Badenma Nasiyonali
+\ps n
+\ge Badema National
+\gv
+\ee (groupe mousical fondée en 1969 sous le nom La Maravillas
+del Mali, prend le nom de Badema National en 1976)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Banki Muni
 \ps n.prop
 \ge NOM.ETRG
@@ -215,6 +225,16 @@ Monde)
 \ge NOM.ETRG
 \gv Benjamin Netanyahu
 \dt 06/Feb/2016
+
+\lx Bilɛzi
+\va Bɛlɛsi
+\ps n.prop
+\ge Blaise
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Bilɛzi Kɔnpawore
 \ps n.prop
@@ -301,6 +321,15 @@ de la guerre du Mali)
 \xv
 \xe
 \dt 30/Jan/2017
+
+\lx Enisupu
+\ps n
+\ge ABR
+\gv ENSUP
+\gv École Normale Supérieure
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Ereyali
 \ps n.prop
@@ -529,6 +558,15 @@ la culture
 \xe
 \dt 15/Sep/2016
 
+\lx Kofi
+\ps n.prop
+\ge NOM.ETRG
+\gv Koffi
+\ee (un prénom akan)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Koli Tengela
 \ps n.prop
 \ge NOM.ETRG
@@ -568,6 +606,17 @@ la culture
 \ge Madougou
 \smf (palais royal à Tombouktou)
 \dt 04/Feb/2016
+
+\lx Màliba
+\mm Màli:n.prop:TOP
+\mm ba:mrph:AUGM
+\ps n
+\ge Empire du Mali
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Malitɛli
 \ps n
@@ -613,7 +662,28 @@ la stabilisation au Mali
 \gv Mitt Romney
 \dt 05/Feb/2016
 
-\lx Muzawo
+\lx Modɛki
+\ps n
+\ge ABR
+\gv MODEC
+\gv Mouvement pour un destin commun
+\ee (un parti politique au Mali, depuis 2013)
+\xv
+\xe
+\dt 01/Feb/2017
+
+\lx Morasima
+\ps n
+\ge ABR
+\gv MORASMA
+\gv Mouvement des Rasta du Mali
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
+
+\lx Mujawo
+\va Muzawo
 \ps n
 \ge ABR
 \gv MUJAO
@@ -621,7 +691,7 @@ la stabilisation au Mali
 \ee
 \xv
 \xe
-\dt 15/Sep/2016
+\dt 01/Feb/2017
 
 \lx naba
 \ps n
@@ -717,6 +787,15 @@ la stabilisation au Mali
 \xe
 \dt 01/Jun/2016
 
+\lx Parena
+\ps n
+\ge ABR
+\gv Parti pour la renaissance nationale
+\ee (un parti politique au Mali)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Pilatifɔrɔmu
 \ps n
 \ge Platforme
@@ -779,6 +858,18 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Senidi
+\va CNID
+\ps n
+\ge ABR
+\gv CNID
+\gv Congrès national d'initiative démocratique
+\syn Fàso yíriwa tɔ́n
+\ee (parti politique au Mali)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx SEPAMA
 \ps n

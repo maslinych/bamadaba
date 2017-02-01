@@ -346,12 +346,12 @@
 \dt 16/Aug/2006
 
 \lx álamani
-\bw fr : à l'amende
+\va álimani
 \ps n
 \ge amende
 \xv álamani bìn  mɔ̀gɔ kàn
 \xe imposer une amende à qqn
-\dt 03/Apr/2016
+\dt 01/Feb/2017
 
 \lx álamata
 \mm ála:n:God
@@ -752,6 +752,15 @@
 \ps n
 \ge radio
 
+\lx arasa
+\ps n
+\ge rasta
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx àrayeda
 \ps n
 \ge bord.de.rails
@@ -783,6 +792,17 @@
 \ge Arma
 \sm (descendants des invahisseurs marocains de 16 siècle)
 \dt 05/Feb/2016
+
+\lx arɔndisiman
+\va arɔndiseman
+\ps n
+\ge arrondissement
+\gv
+\ee (une ancienne division administrative, maintenant correspond
+à cercle, sɛ́rikili)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx ásipirini
 \ps n
@@ -1226,6 +1246,18 @@
 \ge outil
 \lt (travail.faire.instrument)
 \dt 26/Sep/2006
+
+\lx báarakɛnafolo
+\mm báara:n:travail
+\mm kɛ́:v:faire
+\mm nàfolo:n:biens
+\ps n
+\ge budget
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx báarakɛɲɔgɔn
 \mm báara:n:travail
@@ -3504,15 +3536,6 @@ fabrication de meubles, chaises, lits...)
 \dt 26/Sep/2006
 
 \lx bàna
-\va bànan
-\ps n
-\ge fromager
-\lat Ceiba.pentandra
-\sd bomb
-\ee de 20  ---> 50m fût très droit, avec de larges contreforts à la base, le kapok du fruit sert  à rembourrer les coussins, les oreillers
-\dt 19/Aug/2006
-
-\lx bàna
 \va bàana
 \ps n
 \ge médius
@@ -3798,6 +3821,15 @@ Fleurs spectaculaires
 \gv biaiser
 \gv répondre.en.normand
 \dt 26/Sep/2006
+
+\lx bànan
+\va bàna
+\ps n
+\ge fromager
+\lat Ceiba.pentandra
+\sd bomb
+\ee de 20  ---> 50m fût très droit, avec de larges contreforts à la base, le kapok du fruit sert  à rembourrer les coussins, les oreillers
+\dt 01/Feb/2017
 
 \lx bànángòló
 \ps n
@@ -5585,11 +5617,21 @@ furoncles, inf. urinaires
 \dt 11/Nov/2007
 
 \lx baton
-\va baton
 \ps n
 \ge bateau
 \gv
-\dt 07/Feb/2016
+\dt 01/Feb/2017
+
+\lx batondankan
+\mm baton:n:bateau
+\mm dánkan:n:berge
+\ps n
+\ge port
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx bátu
 \mm bá:n:fleuve
@@ -10107,12 +10149,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólolabaara
 \mm bólo:n:bras
-\mm la:mrph:POSS
+\mm lá:pp:dans
 \mm báara:n:travail 
 \ps n
 \ge travail.manuel
 \lt (bras.de.travail)
-\dt 16/Aug/2006
+\dt 01/Feb/2017
 
 \lx bólolabaarakɛla
 \mm bólo.la.baara:n:travail.manuel
@@ -12787,6 +12829,19 @@ centrale est de couleur sombre
 \ms 2
 \gv photo d'identité
 \dt 26/Nov/2016
+
+\lx búgunnatigɛ
+\mm búgun:n:moisissure
+\mm ná:mrph:CAUS
+\mm tìgɛ:v:couper
+\ps v
+\vl vt
+\ge éclaircir
+\gv identifier
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx bùguri
 \va bùgirin
@@ -20326,6 +20381,26 @@ rétribution mais à titre de réciprocité)
 \gv coutume
 \dt 07/Mar/2014
 
+\lx dàmana
+\mm dàn:n:limite
+\mm mà:n:endroit
+\mm na:mrph:MNT1
+\va dànmana
+\mm dàn:n:limite
+\mm mà:n:endroit
+\mm na:mrph:MNT1
+\va dànmanata
+\mm dàn:n:limite
+\mm mà:n:endroit
+\mm nata:mrph:MNT2
+\ps n
+\lt à part-endroit-celui
+\ge particulier
+\gv exceptionnel
+\xv bólocifura mín bɛ́ kɛ́ mɔ̀gɔ lá, sènfaabana dànmanata sɔ̀rɔla, ò ká ɲì kosɛbɛ ni kɔ̀rɔ̀len ye
+\xe pour la vaccination un remède spécial contre la polio a été découvert qui est bien meilleur que l'ancien (Kb 4/06 p.4)
+\dt 01/Feb/2017
+
 \lx dámango
 \mm dá:n:bouche
 \mm màn:mrph:SUPER
@@ -20893,7 +20968,8 @@ rétribution mais à titre de réciprocité)
 \ps n
 \ge berge
 \gv bord
-\dt 26/Sep/2006
+\gv quai
+\dt 01/Feb/2017
 
 \lx dánkan
 \mm dá:v:poser
@@ -21087,18 +21163,6 @@ rétribution mais à titre de réciprocité)
 \sm quelque chose de spécial
 \lt (à part.affaire)
 \dt 26/Sep/2006
-
-\lx dànmanata
-\mm dàn:n:limite
-\mm mà:n:endroit
-\mm nata:mrph:MNT2
-\ps n
-\lt à part-endroit-celui
-\ge particulier
-\gv exceptionnel
-\xv bólocifura mín bɛ́ kɛ́ mɔ̀gɔ lá, sènfaabana dànmanata sɔ̀rɔla, ò ká ɲì kosɛbɛ ni kɔ̀rɔ̀len ye
-\xe pour la vaccination un remède spécial contre la polio a été découvert qui est bien meilleur que l'ancien (Kb 4/06 p.4)
-\dt 11/Nov/2007
 
 \lx dànna
 \mm dàn:n:limite
@@ -24428,6 +24492,18 @@ chefs religieux et représentants de l'administration
 \lt (miel.pollen)
 \xv díkisɛ dɔ́ bɛ́ táa  nkàmo tà, án b'á fɔ́  ò mà kó : "dínkamo"
 \xe certaines abeilles vont chercher du pollen que nous appelons "dinkamo"
+
+\lx dínma
+\mm dí:v:donner
+\mm ń:pers:1SG
+\mm mà:pp:à
+\ps n
+\ge don
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx dínɔnɔ
 \mm dí:n:miel
@@ -29250,6 +29326,16 @@ quant à sa mère, elle prend de l'âge
 \xv ń bɛ́ ê dè mà !
 \xe c'est à toi que je parle !
 \dt 04/Apr/2016
+
+\lx ebola
+\ps n
+\ge Ebola
+\gv fièvre d’Ebola
+\gv virus d'Ebola
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx ée
 \ps intj
@@ -39806,8 +39892,10 @@ forestières, fruit : long follicule de 50 cm)
 \ps v
 \vl vt
 \ge publier
-\gv faire.savoir
-\dt 26/Sep/2006
+\gv faire savoir
+\gv annoncer
+\gv faire de la publicité
+\dt 01/Feb/2017
 
 \lx gànso
 \mm gàn:n:fourneau
@@ -50846,7 +50934,7 @@ l'eau est prête
 \dt 28/Dec/2014
 
 \lx ká
-\ps conj
+\ps pp
 \ge POSS
 \ee particule copulative (reliant possesseur et objet possédé)
 \xv à ká dàba dòn
@@ -50854,7 +50942,7 @@ l'eau est prête
 \ee (elle relie aussi le nom d'action à son agent)
 \xv kàrisa ká bònya fílɛ
 \xe voici le cadeau d'un tel (celui qu'il a fait)
-\dt 16/Aug/2006
+\dt 01/Feb/2017
 
 \lx ká
 \ps pm
@@ -52332,6 +52420,17 @@ l'eau est prête
 \ge analphabétisme
 \lt (instruire.absence)
 \dt 16/Aug/2006
+
+\lx kàlanbila
+\mm kàlan:n:lecture
+\mm bìla:n:abandon
+\ps n
+\ge vacances
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx kàlanden
 \mm kàlan:n:lecture
@@ -55534,6 +55633,15 @@ prolapsus utérin
 \xe engueuler qqn
 \dt 03/Apr/2016
 
+\lx kasɛti
+\ps n
+\ge cassette
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx kàsi
 \ps n
 \ge pleurs
@@ -55731,6 +55839,15 @@ prolapsus utérin
 \xv à kàta-kàtara  fɔ́ kà kása bɔ́
 \xe il est devenu blanc de crasse jusqu'à puer
 \dt 19/Dec/2012
+
+\lx katakatanin
+\ps n
+\ge moto.à.trois.roues
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx káti
 \ps n
@@ -56125,6 +56242,19 @@ prolapsus utérin
 \gv exclusion
 \rem l 89
 \dt 11/Nov/2007
+
+\lx kélensigi
+\mm kélen:num:un
+\mm sìgi:v:asseoir
+\ps n
+\sn 1
+\ge sédentaire
+\sn 2
+\gv vie sédentaire
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx kélenya
 \mm kélen:num:un
@@ -57283,7 +57413,8 @@ prolapsus utérin
 \sy dònnkɔnɔ
 \dt 16/Aug/2006
 
-\lx `kɛ́nyɛ
+\lx kɛ́nyɛ
+\va kɛ́ɲɛ
 \ps v
 \vl vt
 \ge égaliser
@@ -57298,7 +57429,7 @@ prolapsus utérin
 \xe il a souhaité la mort
 \xv í kàna  mɔ̀gɔjugu ní  mɔ̀gɔ tílennen kɛ́nyɛ
 \xe ne mets pas sur le même plan le bon et le méchant
-\dt 30/Jan/2017
+\dt 01/Feb/2017
 
 \lx kɛ́nyɛlan
 \mm kɛ́nyɛ:v:égaliser
@@ -57825,6 +57956,20 @@ prolapsus utérin
 \vl vt
 \ge estimer
 \dt 26/Sep/2006
+
+\lx kíisa
+\ps n
+\sn 1
+\ge quantité
+\gv proportion
+\gv mesure
+\gv niveau
+\sn 2
+\gv preuve
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx kíisikaasa
 \ps adv
@@ -61574,6 +61719,15 @@ prolapsus utérin
 \xv ń y'á sàn kɛ̀mɛ  k'à kɔ́fili
 \xe je l'ai acheté à 500 francs pour le revendre
 \dt 16/Aug/2006
+
+\lx kɔfuru
+\ps n
+\ge coffre
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx kɔ́fyɛ
 \mm kɔ́:n:dos
@@ -73016,6 +73170,17 @@ kúrunninle
 \rem l 89 / du : ton haut !
 \dt 11/Nov/2007
 
+\lx làkɔlita
+\mm làkɔli:n:école
+\mm tà:v:prendre
+\ps n
+\ge rentrée.scolaire
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx lákɔ̀lɔsi
 \mm lá:mrph:CAUS
 \mm kɔ̀lɔsi:v:surveiller
@@ -73983,8 +74148,10 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \dt 11/Nov/2007
 
 \lx làrabu
+\va arabu
 \ps n
 \ge arabe
+\dt 01/Feb/2017
 
 \lx làrabukan
 \mm làrabu:n:arabe
@@ -75872,10 +76039,16 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \dt 11/Nov/2007
 
 \lx lúwanse
+\va lúwanze
 \ps n
-\ge locataire
+\sn 1
+\ge location
+\sn 2
+\gv loyer
+\sn 3
+\gv locataire
 \sy lúwanselikɛla
-\dt 16/Aug/2006
+\dt 01/Feb/2017
 
 \lx lúwanse
 \bw fr : louage
@@ -80029,9 +80202,10 @@ des engagements
 \dt 10/Jan/2013
 
 \lx mɛri
+\va mɛrɛ
 \ps n
 \ge maire
-\dt 30/Jan/2017
+\dt 01/Feb/2017
 
 \lx mɛ̀sɛkɛ
 \ps n
@@ -95550,6 +95724,18 @@ graines, sert d'instrument rythmique)
 \xe
 \dt 31/May/2016
 
+\lx ɲɛ́fɛmɔgɔ
+\mm ɲɛ́:n:oeuil
+\mm fɛ̀:pp:avec
+\mm mɔ̀gɔ:n:personne
+\ps n
+\ge attaquant
+\gv avant
+\ee (poste au football)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx ɲɛ́fɛtaa
 \mm ɲɛ́:n:oeil
 \mm fɛ̀:pp:par
@@ -100162,6 +100348,15 @@ le pèlerinage (bk 1/06 p.5)
 \xe elle a gardé en mémoire toutes les paroles qu'elle a entendues
 \dt 24/Oct/2012
 
+\lx operasɔn
+\ps n
+\ge opération
+\ee (entreprise commerciale, industrielle ou agricole de grande
+envergure)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx ópere
 \ps v
 \vl vt ?
@@ -103487,13 +103682,14 @@ épuisés
 
 \lx sànbɛsànbɛ
 \va sàmɛsàmɛ
+\va sànbɛɛ-sànbɛɛ
 \ps intj
 \ge bonne.année
 \gv
 \ee
 \xv
 \xe
-\dt 03/Nov/2016
+\dt 01/Feb/2017
 
 \lx sànbonda
 \mm sàn:n:message.de.deuil
@@ -109469,9 +109665,13 @@ trompe)
 \mm ɲɛ́:pp:devant
 \mm sìgi:v:asseoir
 \ps n
-\ge épargne
+\sn 1
+\ge avenir
+\gv futur
+\sn 2
+\gv épargne
 \ee (tout ce qu'on garde en réserve pour l'avenir)
-\lt (avenir.préparer)
+\dt 01/Feb/2017
 
 \lx sìnitile
 \mm sìni:n:matinée
@@ -111836,6 +112036,16 @@ donne d'excellentes fibres)
 \ge produit.insecticide
 \lt (moustique.tuer.ce qui sert à)
 \dt 16/Aug/2006
+
+\lx sotarama
+\va sotrama
+\ps n
+\ge minibus
+\gv SOTRAMA
+\ee (moyen de transport public, de Société de Transport du Mali)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx sòtigi
 \mm sò:n:cheval
@@ -129098,10 +129308,11 @@ généreuses, avec bourrelets
 \dt 31/May/2016
 
 \lx zánwuye
+\va zánwiye
 \bw fr : janvier
 \ps n
 \ge janvier
-\dt 12/Aug/2006
+\dt 01/Feb/2017
 
 \lx zènerali
 \bw fr : général

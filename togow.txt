@@ -13,19 +13,21 @@
 \va Abdulaye
 \va Abdulayi
 \va Abudulayi
+\va Abudɛli
 \di b
 \va Abdlaye
 \va Ábudu
 \va Abilayi
 \ps n.prop
 \ge NOM.M
-\dt 09/Oct/2016
+\dt 01/Feb/2017
 
 \lx Abduraman
 \va Abudurahamani
+\va Abudarahamani
 \ps n.prop
 \ge NOM.M
-\dt 09/Oct/2016
+\dt 01/Feb/2017
 
 \lx Àbú
 \ps n.prop
@@ -44,15 +46,6 @@
 \ge NOM.M
 \di b
 \dt 02/May/2010
-
-\lx Abudɛli Karimu
-\ps n.prop
-\ge NOM.M
-\gv
-\ee
-\xv
-\xe
-\dt 09/Oct/2016
 
 \lx Ádama
 \ge NOM.MF
@@ -168,7 +161,8 @@
 \va Ámadi
 \va Ámàdu
 \va Ámɛ̀di
-\dt 12/Mar/2014
+\va Ahamadi
+\dt 01/Feb/2017
 \ps n.prop
 \ge NOM.M
 
@@ -198,6 +192,11 @@
 \ps n.prop
 \ge NOM.M
 \dt 02/May/2010
+
+\lx Araki
+\ps n.prop
+\ge NOM.F
+\dt 01/Feb/2017
 
 \lx Aramata
 \ps n.prop
@@ -479,10 +478,11 @@
 \dt 03/May/2010
 
 \lx Baseri
+\va Basiru
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 01/Feb/2017
 
 \lx Basi
 \di b
@@ -495,6 +495,15 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Basiru
+\ps
+\ge
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Bátùru
 \di m
@@ -776,13 +785,14 @@
 \dt 03/May/2010
 
 \lx Cɛrinɔ
+\va Cɛrino
 \ps n.prop
 \ge NOM.M
 \gv Tierno
 \ee
 \xv
 \xe
-\dt 09/Oct/2016
+\dt 01/Feb/2017
 
 \lx Cɛ̀sama
 \ps n.prop
@@ -904,10 +914,11 @@
 \dt 03/May/2010
 
 \lx Dirisa
+\va Idirisa
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 01/Feb/2017
 
 \lx Dose
 \di b
@@ -1082,6 +1093,11 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Farankali
+\ps n.prop
+\ge NOM.M
+\dt 01/Feb/2017
 
 \lx Fárima
 \di b
@@ -1285,6 +1301,16 @@
 \gv
 \dt 05/Feb/2016
 
+\lx Hasi
+\ps n.prop
+\ge NOM
+\dt 01/Feb/2017
+
+\lx Hasimu
+\ps n.prop
+\ge NOM.F
+\dt 01/Feb/2017
+
 \lx Háwa
 \va Máwa
 \va Áwa
@@ -1304,10 +1330,11 @@
 \lx Huseni
 \va Huseyini
 \va Fuseni
+\va Useyni
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 09/Oct/2016
+\dt 01/Feb/2017
 
 \lx Ibrahima
 \va Ibarahimu
@@ -1376,6 +1403,15 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Janginɛ
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Jara
 \di m
@@ -2067,6 +2103,15 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Mórikɛ
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Morlaye
 \di b
@@ -2832,10 +2877,11 @@
 \va Sek
 \va Sheku
 \va Sékì
+\va Sɛ́kù
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 06/Feb/2016
+\dt 01/Feb/2017
 
 \lx Séni
 \di b
@@ -2879,13 +2925,14 @@
 \dt 03/May/2010
 
 \lx Sɛkina
+\va Sekinɛ
 \ps n.prop
 \ge NOM.M
 \gv Sekhna
 \ee
 \xv
 \xe
-\dt 28/May/2016
+\dt 01/Feb/2017
 
 \lx Sɛnɛ
 \di b
@@ -3033,10 +3080,11 @@
 \dt 03/May/2010
 
 \lx Sulemani
+\va Suleyimani
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 01/Feb/2017
 
 \lx Sumana
 \va Zumana
@@ -3209,12 +3257,6 @@ de l'enfant qui survit à sa mère morte en couches
 \ge NOM.F
 \dt 03/May/2010
 
-\lx Useyni
-\di
-\ps n.prop
-\ge NOM.M
-\dt 03/May/2010
-
 \lx Usmane
 \va Usmana
 \va Usumana
@@ -3223,7 +3265,7 @@ de l'enfant qui survit à sa mère morte en couches
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 09/Oct/2016
+\dt 01/Feb/2017
 
 \lx Usubi
 \di
@@ -3274,10 +3316,11 @@ de l'enfant qui survit à sa mère morte en couches
 \dt 03/May/2010
 
 \lx Wòrokíà
+\va Òrokíyà
 \di
 \ps n.prop
 \ge NOM.F
-\dt 03/May/2010
+\dt 01/Feb/2017
 
 \lx Yaama
 \di m

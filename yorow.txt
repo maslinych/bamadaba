@@ -4,6 +4,15 @@
 \name yorow
 \ver 0.3
 
+\lx Abeyibara
+\ps n.prop
+\ge TOP
+\gv Abeïbara
+\ee (cercle, région de Kidal)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Ábijàn
 \di b
 \di m
@@ -230,6 +239,15 @@
 \ru Аргенина
 \dt 23/May/2010
 
+\lx Aselari
+\ps n.prop
+\ge TOP
+\gv Asselar
+\ee (une localité dans la région de Kidal)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Aseyi demili
 \ps n.prop
 \ge TOP
@@ -430,13 +448,14 @@
 \ru Бамако
 \dt 23/May/2010
 
-\lx Bámakɔkura
+\lx Bàmakɔkura
+\va Bàmakɔ-kura
 \ty кв.
 \ps n.prop
 \ge TOP
 \gv quartier.à.Bamako
 \cm (в Бамако)
-\dt 05/Dec/2010
+\dt 01/Feb/2017
 
 \lx Bámànángin
 \ty кв.
@@ -462,6 +481,15 @@
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Bànankɔro
+\ps n.prop
+\ge TOP
+\gv Banankoro
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Banga
 \ps n.prop
@@ -666,6 +694,15 @@
 \cm (в Нигерии, приток Нигера)
 \dt 23/May/2010
 
+\lx Bila
+\ps n.prop
+\ge TOP
+\gv Bla
+\ee (cercle, région de Ségou)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Birimani
 \ps n.prop
 \ge TOP
@@ -781,6 +818,15 @@
 \xe
 \dt 01/Jun/2016
 
+\lx Bunjali
+\ps n.prop
+\ge TOP
+\gv Boundiali
+\ee (ville et département au nord de Côte d'Ivoire)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Burɛmu
 \ps n.prop
 \ge TOP
@@ -789,11 +835,12 @@
 
 \lx Búrukinafaso
 \va Búrukina
+\va Búrikina
 \ty гос.
 \ps n.prop
 \ru Буркина Фасо
 \cm (до 1984 г. - Верхняя Вольта)
-\dt 24/Jan/2013
+\dt 01/Feb/2017
 \ge TOP
 \gv Burkina Faso
 
@@ -949,13 +996,14 @@
 \dt 23/May/2010
 
 \lx Dɔyila
+\va Doyila
 \ps n.prop
 \ge TOP
 \gv Dioïla
 \ee (une ville et un cercle dans la région de Koulikoro)
 \xv
 \xe
-\dt 31/Jan/2017
+\dt 01/Feb/2017
 
 \lx Dràwela
 \ty кв.
@@ -964,6 +1012,17 @@
 \gv quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
+
+\lx Dubabugu
+\va Dugabugu
+\ps n.prop
+\ge TOP
+\gv Doubabougou
+\ee (village et commune rurale, cercle de Kati, région de
+Koulikoro)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Dumanzana
 \ps n.prop
@@ -1026,6 +1085,16 @@
 \ps n.prop
 \ge Europe
 \dt 21/Feb/2013
+
+\lx Esuki
+\ps n.prop
+\ge TOP
+\gv Essouk
+\ee (village commune rurale, région de Kidal, près de ruines de
+Tadmekka)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Eziputi
 \ps n.prop
@@ -1145,6 +1214,15 @@
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Fekola
+\ps n.prop
+\ge TOP
+\gv Fékola
+\ee (ville et mine d'or, région de Kayes)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Fieyn
 \ty горы
@@ -1915,11 +1993,12 @@ région de Mopti)
 \dt 15/Sep/2016
 
 \lx Kati
+\va Katibugu
 \ps n.prop
 \ge TOP
 \gv Kati
 \ee (une ville et un cercle dans la région de Koulikoro)
-\dt 31/Jan/2017
+\dt 01/Feb/2017
 
 \lx Kaveri
 \ty гос.
@@ -2056,6 +2135,16 @@ région de Mopti)
 \cm (на северо-западе Мали)
 \dt 23/May/2010
 
+\lx Kofi
+\ps n.prop
+\ge TOP
+\gv Kofi
+\ee (un village et mine d'or, commune rurale de Sitakili, cercle de
+Kéniéba)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Kolama
 \ps n.prop
 \ge TOP
@@ -2154,6 +2243,16 @@ région de Mopti)
 \gv Koweït
 \dt 05/Apr/2016
 
+\lx Kɔdugu
+\ps n.prop
+\ge TOP
+\gv Kodougou
+\ee (village, commune rurale de Doubabougou, cercle de Kati,
+région de Koulikoro)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Kɔkuna
 \ps n.prop
 \ge TOP
@@ -2173,6 +2272,15 @@ région de Mopti)
 \xv
 \xe
 \dt 31/Jan/2017
+
+\lx Kɔlɔnjɛba
+\ps n.prop
+\ge TOP
+\gv Kolondiéba
+\ee (ville et cercle, région de Sikasso)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Kɔminɛ
 \ps n.prop
@@ -2539,6 +2647,16 @@ Tombouctou)
 \ru Масента
 \dt 23/May/2010
 
+\lx Masantɔla
+\ps n.prop
+\ge TOP
+\gv Massantola
+\ee (petite ville et commune, cercle de Kolokani, région de
+Koulikoro)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Maseru
 \ty г.
 \ru Масеру
@@ -2874,6 +2992,16 @@ région de Ségou)
 \xe
 \dt 31/May/2016
 
+\lx Npeserebugu
+\ps n.prop
+\ge TOP
+\gv N'Pesserébougou
+\ee (village, commune de Massantola, cercle de Kolokani, région
+de Koulikoro)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Ntarala
 \ps n.prop
 \ge TOP
@@ -2899,6 +3027,15 @@ région de Ségou)
 \gv Nouakchott
 \ru Нуакшот
 \dt 23/May/2010
+
+\lx Nuwɛlizelandi
+\ps n.prop
+\ge TOP
+\gv Nouvelle-Zélande
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Nzɛ́rɛkɔ̀rɛ
 \va Nsɛrɛgbɛ̀dɛ
@@ -3261,6 +3398,15 @@ région de Ségou)
 \cm (в Гвинее, приток Нигера)
 \dt 23/May/2010
 
+\lx San-Pedoro
+\ps n.prop
+\ge TOP
+\gv San Pedro
+\ee (une ville portuaire en Côte d'Ivoire)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Santa Isabɛl
 \ty г.
 \ru Санта-Исабель
@@ -3479,6 +3625,15 @@ international)
 \xe
 \dt 01/Jun/2016
 
+\lx Sili
+\ps n.prop
+\ge TOP
+\gv Chili
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Silowaki
 \ps n.prop
 \ge TOP
@@ -3517,6 +3672,15 @@ international)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Sitakili
+\ps n.prop
+\ge TOP
+\gv Sitakili
+\ee (commune rurale, cercle de Kéniéba)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Sogbɛ
 \ty кв.
@@ -3636,6 +3800,17 @@ international)
 \gv Suisse
 \dt 05/Feb/2016
 
+\lx Tadimakatati
+\ps n.prop
+\ge TOP
+\gv Tadmekka
+\gv Tadmakka
+\ee (ancienne ville commerciale, les rouines se trouvent près du
+village d'Essouk, région de Kidal)
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Talikɔ
 \ps n.prop
 \ge TOP
@@ -3644,6 +3819,15 @@ international)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Tamarasɛti
+\ps n.prop
+\ge TOP
+\gv Tamanrasset
+\ee (centre de prvince au sud d'Algérie)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Tanzani
 \ty гос.
@@ -3672,10 +3856,10 @@ international)
 \ps n.prop
 \ge TOP
 \gv Tessalit
-\ee
+\ee (village et cercle, région de Kidal)
 \xv
 \xe
-\dt 28/May/2016
+\dt 01/Feb/2017
 
 \lx Tɛmanbaa Jinɛ
 \ty гос.
@@ -3707,6 +3891,26 @@ international)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Tinisako
+\ps n.prop
+\ge TOP
+\gv Tin-Essako
+\ee (cercle, région de Kidal)
+\xv
+\xe
+\dt 01/Feb/2017
+
+\lx Tinizawatɛni
+\ps n.prop
+\ge TOP
+\gv Tinzaouaten
+\gv Tinzawatene
+\gv Tin-Zaouatene
+\ee (commune rurale, cercle d'Abeïbara, région de Kidal)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Tiripoli
 \ps n.prop
@@ -3960,6 +4164,16 @@ invahisseurs marocains et les Songhaï en 1591)
 \ru Яунде
 \dt 23/May/2010
 
+\lx Yawunde
+\va Yaunde
+\ps n.prop
+\ge TOP
+\gv Yaoundé
+\ee
+\xv
+\xe
+\dt 01/Feb/2017
+
 \lx Yelimane
 \ps n.prop
 \ge TOP
@@ -3988,13 +4202,14 @@ invahisseurs marocains et les Songhaï en 1591)
 \dt 04/Jun/2016
 
 \lx Yɔrɔso
+\va Yoroso
 \ps n.prop
 \ge TOP
 \gv Yorosso
 \ee (cercle dans la région de Sikasso)
 \xv
 \xe
-\dt 31/Jan/2017
+\dt 01/Feb/2017
 
 \lx Yugɔsilawi
 \ty гос.
@@ -4027,6 +4242,15 @@ invahisseurs marocains et les Songhaï en 1591)
 \gv Zambie
 \ru Замбия
 \dt 23/May/2010
+
+\lx Zancɛbugu
+\ps n.prop
+\ge TOP
+\gv Zantiébougou
+\ee (ville et commune, cercle de Bougouni, région de Sikasso)
+\xv
+\xe
+\dt 01/Feb/2017
 
 \lx Zapɔn
 \ty гос.
