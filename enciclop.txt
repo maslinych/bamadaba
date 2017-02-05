@@ -10,6 +10,15 @@
 \gv Abraham
 \dt 05/Apr/2016
 
+\lx ACALAN
+\ps n
+\ge ABR
+\gv Académi des Langues Nationales
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Adema
 \ps n
 \ge ABR
@@ -320,6 +329,15 @@ del Mali, prend le nom de Badema National en 1976)
 \xv
 \xe
 \dt 31/May/2016
+
+\lx CALAN
+\ps n
+\ge ABR
+\gv Club Des Amis Des Langues Nationales Du Mali
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx CEDEAO
 \ps n
@@ -862,6 +880,15 @@ céréalière
 \xe
 \dt 25/Sep/2016
 
+\lx Onisida
+\ps n
+\ge ABR
+\gv ONUSIDA
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx ONU
 \va ONI
 \ps n
@@ -1170,6 +1197,15 @@ Gbagbo)
 \ge Toucouleur
 \gv
 \ee
+\xv
+\xe
+\dt 05/Feb/2017
+
+\lx Tupisan
+\ps n
+\ge le.Tout.Puissant.Mazembe
+\gv
+\ee (club de football de RD Congo)
 \xv
 \xe
 \dt 05/Feb/2017

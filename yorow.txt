@@ -44,6 +44,7 @@
 \dt 24/Oct/2016
 
 \lx Afiganisitan
+\va Afuganisitan
 \va Áfugan
 \di b
 \di m
@@ -52,7 +53,7 @@
 \ge TOP
 \gv Afghanistan
 \ru Афганистан
-\dt 23/May/2010
+\dt 05/Feb/2017
 
 \lx Afirikidisidi
 \ps n.prop
@@ -805,12 +806,13 @@ Comoé, Burkina Faso)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
-\lx Bózola
+\lx Bósola
+\va Bózola
 \ps n.prop
 \ge TOP
 \gv Bozola
 \ee (un quartier de la Commune 2 de Bamako)
-\dt 01/Jun/2016
+\dt 05/Feb/2017
 
 \lx Bɔbɔjulaso
 \va Bɔbɔ Julaso
@@ -1067,6 +1069,15 @@ Comoé, Burkina Faso)
 \xe
 \dt 05/Feb/2017
 
+\lx Direyi
+\ps n.prop
+\ge TOP
+\gv Diré
+\ee (commune et cercle, région de Tombouctou)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Dominiki
 \ty гос.
 \ps n.prop
@@ -1184,12 +1195,13 @@ Tadmekka)
 
 \lx Ɛ̀ndu
 \va Híndi
+\va Èndu
 \ty гос.
 \ps n.prop
 \ge TOP
 \gv Inde
 \ru Индия
-\dt 23/May/2010
+\dt 05/Feb/2017
 
 \lx Ɛ̀njen
 \et fr. Indien
@@ -1422,6 +1434,15 @@ Tadmekka)
 \ru Гана
 \dt 23/May/2010
 
+\lx Ganadugu
+\ps n.prop
+\ge TOP
+\gv Ganadugu
+\ee (villege, commune de Niéna, cercle et région de Sikasso)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Ganbiya
 \va Ganbi
 \ty гос.
@@ -1527,6 +1548,15 @@ Tadmekka)
 \gv Guinée-Bissau
 \dt 23/May/2010
 
+\lx Gomakura
+\ps n.prop
+\ge TOP
+\gv Gomakoura
+\ee (village, cercle de Niono, région de Ségou)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Gumankɔ
 \ps n.prop
 \ge TOP
@@ -1550,6 +1580,16 @@ Tadmekka)
 \ge TOP
 \gv Gourma
 \dt 05/Feb/2016
+
+\lx Guyani
+\va Guwani
+\ps n.prop
+\ge TOP
+\gv Guyane
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx Hámdalay
 \va Hámudalayi
@@ -2280,6 +2320,15 @@ Sikasso)
 \xe
 \dt 23/Oct/2016
 
+\lx Kirikizi
+\ps n.prop
+\ge TOP
+\gv Kirghizie
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Kìsiduu
 \di m
 \ty г.
@@ -2427,6 +2476,16 @@ région de Koulikoro)
 \xe
 \dt 01/Feb/2017
 
+\lx Kɔjalanda
+\ps n.prop
+\ge TOP
+\gv Kodialanda
+\ee (lieu de culte, commune Nonsonbougou, cercle de Kolokani,
+région de Koulikoro)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Kɔkuna
 \ps n.prop
 \ge TOP
@@ -2437,6 +2496,7 @@ région de Koulikoro)
 \dt 04/Jun/2016
 
 \lx Kɔlɔkanin
+\va Kɔlɔkani
 \va Kolokanin
 \ve Kolokani
 \ps n.prop
@@ -2445,7 +2505,7 @@ région de Koulikoro)
 \ee (une ville et un cercle dans la région de Koulikoro)
 \xv
 \xe
-\dt 31/Jan/2017
+\dt 05/Feb/2017
 
 \lx Kɔlɔnjɛba
 \ps n.prop
@@ -3176,6 +3236,17 @@ région de Ségou)
 \xe
 \dt 09/Oct/2016
 
+\lx Nɔnsɔnbugu
+\va Nɔsɔnbugu
+\ps n.prop
+\ge TOP
+\gv Nonsonbougou
+\gv Nonssonbougou
+\ee (commune, cercle de Kolokani, région de Koulikoro)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Nɔriwɛzi
 \ps n.prop
 \ge TOP
@@ -3256,6 +3327,17 @@ de Koulikoro)
 \gv Niamey
 \dt 05/Feb/2016
 
+\lx Ɲafunke
+\ps n.prop
+\ge TOP
+\gv Niafunké
+\gv Niafounké
+\ee (chef-lieu de la commune de Soboundou et du cercle de
+Niafunké, région de Tombouctou)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Ɲamakɔrɔ
 \ps n.prop
 \ge TOP
@@ -3295,6 +3377,15 @@ de Koulikoro)
 \gv Niaréla
 \ee (un quartier de la Commune 2 de Bamako)
 \dt 01/Jun/2016
+
+\lx Ɲɛna
+\ps n.prop
+\ge TOP
+\gv Niéna
+\ee (commune rurale dans le cercle et région de Sikasso)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx Ɲòoro
 \ty г.
@@ -3344,6 +3435,15 @@ Koulikoro)
 \ru Голландия
 \dt 23/May/2010
 
+\lx Oseyani
+\ps n.prop
+\ge TOP
+\gv Océanie
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Ositarali
 \ty гос.
 \ty конт.
@@ -3376,12 +3476,13 @@ Koulikoro)
 \dt 23/May/2010
 
 \lx Pakistan
+\va Pakisitan
 \ty гос.
 \ps n.prop
 \ge TOP
 \gv Pakistan
 \ru Пакистан
-\dt 23/May/2010
+\dt 05/Feb/2017
 
 \lx Palɛstini
 \ty гос.
@@ -3899,12 +4000,13 @@ international)
 \va Shinuwala
 \va Sinuwa
 \va Shinuwa
+\va Siniwa
 \ty гос.
 \ps n.prop
 \ge TOP
 \gv Chine
 \ru Китай
-\dt 23/May/2010
+\dt 05/Feb/2017
 
 \lx Sipariti
 \ps n.prop
@@ -4089,6 +4191,15 @@ village d'Essouk, région de Kidal)
 \xe
 \dt 01/Feb/2017
 
+\lx Tahiti
+\ps n.prop
+\ge TOP
+\gv Tahiti
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Talikɔ
 \ps n.prop
 \ge TOP
@@ -4251,6 +4362,24 @@ village d'Essouk, région de Kidal)
 \smf (ville près de Gao, place de la bataille décisive entre les
 invahisseurs marocains et les Songhaï en 1591)
 \dt 05/Feb/2016
+
+\lx Tɔnga
+\ps n.prop
+\ge TOP
+\gv Tonga
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
+\lx Tɔnka
+\ps n.prop
+\ge TOP
+\gv Tonka
+\ee (commune du cercle de Goundam, région de Tombouctou)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx Tɔ́rɔkɔrɔbugu
 \ty кв.
@@ -4610,3 +4739,12 @@ cercle de Kati)
 \ge TOP
 \gv
 \dt 23/May/2010
+
+\lx Zuwanɛsiburugi
+\ps n.prop
+\ge TOP
+\gv Johannesbourg
+\ee
+\xv
+\xe
+\dt 05/Feb/2017

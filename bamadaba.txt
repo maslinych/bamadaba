@@ -12462,6 +12462,7 @@ toujours (pro)
 \dt 26/Sep/2006
 
 \lx bù
+\va bùn
 \ps v
 \vl vt
 \sn 1
@@ -12470,8 +12471,10 @@ toujours (pro)
 \xe un seul pied ne rend pas la route poudreuse
 \sn 2
 \gv rendre.difficile
-\ee le règlement d'une affaire
-\dt 26/Sep/2006
+\ee (le règlement d'une affaire)
+\gv chauffer
+\gv barder
+\dt 05/Feb/2017
 
 \lx bù
 \ps n
@@ -14579,11 +14582,13 @@ médicinales
 \ps n
 \sn 1
 \ge recrutement.de.militaires
-\lt (guerrier.sortir)
 \sn 2
-\gv appel.aux.armes
-\sm envoi de soldats au front
-\dt 16/Aug/2006
+\gv appel aux armes
+\sm (envoi de soldats au front)
+\sn 2
+\gv candidat
+\gv représentant
+\dt 05/Feb/2017
 
 \lx cɛ́bɔ
 \mm cɛ́:n:milieu
@@ -20078,10 +20083,10 @@ pas)
 \mm dá:v:poser
 \mm li:mrph:NMLZ
 \ps n
-\lt se coucher-action
-\ge action.de.se.coucher
+\ge action.de.poser
 \xv dáli b'í mà, kà sùnɔgɔ t'í mà
 \xe tu peux te coucher, mais tu ne peux dormir (kb (12/05 p.7)
+\dt 05/Feb/2017
 
 \lx dáli
 \mm dá:v:créer
@@ -23064,6 +23069,19 @@ génitales ...
 \lt (enfant.mâle)
 \dt 26/Sep/2006
 
+\lx dénko
+\mm dén:n:enfant
+\mm kó:n:affaire
+\ps n
+\sn 1
+\ge récolte
+\sn 2
+\gv désir d'enfant
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx dénkun
 \mm dén:n:enfant
 \mm kùn:n:tête
@@ -25400,6 +25418,18 @@ chefs religieux et représentants de l'administration
 \ge bobine
 \sm (pour enrouler le fil)
 \dt 16/Aug/2006
+
+\lx dolari
+\va dolariwari
+\mm dolari:n:dollar
+\mm wári:n:argent
+\ps n
+\ge dollar
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx dólen
 \va ndólen
@@ -29432,14 +29462,17 @@ quant à sa mère, elle prend de l'âge
 \ge région
 \dt 10/Apr/2014
 
-\lx erowari
+\lx ero
+\va erowari
+\mm ero:n:euro
+\mm wári:n:argent
 \ps n
 \ge euro
 \gv
 \ee (monnaie de l'Union Européenne)
 \xv
 \xe
-\dt 03/Feb/2017
+\dt 05/Feb/2017
 
 \lx éwe
 \ps intj
@@ -38890,6 +38923,7 @@ forestières, fruit : long follicule de 50 cm)
 \dt 16/Aug/2006
 
 \lx fyɛ̀
+\va fìyɛ
 \ee fɛ̀rɛ*?
 \ps n
 \sn 1
@@ -38902,7 +38936,7 @@ forestières, fruit : long follicule de 50 cm)
 \xe mon champ a une grande superficie
 \sn 3
 \gv largeur
-\dt 12/Aug/2006
+\dt 05/Feb/2017
 
 \lx fyɛ́
 \va fíyɛ
@@ -40193,6 +40227,15 @@ forestières, fruit : long follicule de 50 cm)
 \xe ils ont attrapé le voleur "garawu"!
 \dt 19/Jan/2015
 
+\lx garɛ
+\ps n
+\ge gare
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx gàribu
 \va gèrebu
 \ps n
@@ -40219,6 +40262,7 @@ forestières, fruit : long follicule de 50 cm)
 \dt 31/Jan/2017
 
 \lx gàrijɛgɛ
+\va gàrijigɛ
 \va gàrisɛgɛ
 \va gàrjɛgɛ
 \va gɛ̀rɛsɛgɛ
@@ -40234,9 +40278,12 @@ forestières, fruit : long follicule de 50 cm)
 \gv grossesse
 \xv ní  mùso mɛ́na ń'á má  gàrijɛgɛ sɔ̀rɔ...
 \xe si l'épouse reste longtemps sans entrer en grossesse...
-\dt 08/Jun/2014
+\dt 05/Feb/2017
 
 \lx gàrijɛgɛ
+\va gàrijigɛ
+\va gàrisɛgɛ
+\va gɛ̀rɛsɛgɛ
 \ps v
 \vl vi
 \sn 1
@@ -40248,7 +40295,7 @@ forestières, fruit : long follicule de 50 cm)
 \ee (femme)
 \xv à mùso gàrijɛgɛra
 \xe sa femme est tombée enceinte
-\dt 16/Aug/2006
+\dt 05/Feb/2017
 
 \lx gàrijɛgɛfolofolo
 \mm gàrijɛgɛ:n:chance
@@ -42832,6 +42879,15 @@ doigts par des fileuses du coton)
 \xv ábada káma
 \xe pour l'éternité,  pour toujours
 \dt 16/Aug/2006
+
+\lx hadisa
+\ps n
+\ge Hadith
+\gv
+\ee (communication de Prophète Mouhammad)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx hádiya
 \bw ar: hadiya
@@ -46542,9 +46598,8 @@ qqch ...)
 \sn 1
 \ge occasion.à.saisir
 \sn 2
-\gv sitôt.gagné.sitôt.dépensé
-\lt (griller-et-manger)
-\dt 16/Aug/2006
+\gv sitôt gagné sitôt dépensé
+\dt 05/Feb/2017
 
 \lx jɛ̀
 \ps v
@@ -50297,6 +50352,23 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \ge 'hérisson
 \lat Atelerix albiventris, Erinaceus albiventris
 \dt 06/Apr/2015
+
+\lx júguninsɛ
+\mm júgunin:n:hérisson
+\mm sɛ̀:n:poule
+\va júguninshɛ
+\mm júgunin:n:hérisson
+\mm shɛ̀:n:poule
+\va júguninsyɛ
+\mm júgunin:n:hérisson
+\mm syɛ̀:n:poule
+\ps n
+\ge poule.au.plumage.ébouriffé
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx júgusago
 \mm júgu:n:ennemi
@@ -56520,10 +56592,11 @@ prolapsus utérin
 \ge clitoris
 
 \lx kèrecɛn
+\va kèretiɲɛn
 \ps n
 \ge chrétien
 \sy krístaden
-\dt 05/Apr/2016
+\dt 05/Feb/2017
 
 \lx kèrejigi
 \mm jigi:adj:mâle
@@ -60576,6 +60649,7 @@ prolapsus utérin
 \dt 10/Jan/2013
 
 \lx kómitɛrɛ
+\va kɔ́mitɛrɛ
 \va kómitɛri
 \va kómutɛri
 \va pɔ́mitɛrɛ
@@ -60583,7 +60657,7 @@ prolapsus utérin
 \va kɔ́mitɛri
 \ps n
 \ge pomme.de.terre
-\dt 03/Feb/2017
+\dt 05/Feb/2017
 
 \lx kòn
 \va nkòn
@@ -79576,6 +79650,20 @@ des engagements
 \ge converser
 \dt 26/Sep/2006
 
+\lx másalabolo
+\mm másala:n:causerie
+\mm bólo:n:branche
+\ps n
+\sn 1
+\ge texte
+\gv article
+\sn 2
+\gv émission
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx màsalenfiyen
 \mm fíyen:n:aveugle
 \ps n
@@ -81499,10 +81587,9 @@ nord-est
 
 \lx móbili
 \va mɔ́bili
-\bw fr : id.
 \ps n
 \ge automobile
-\dt 19/Mar/2015
+\dt 05/Feb/2017
 
 \lx móbilibolila
 \mm móbili:n:automobile
@@ -90278,6 +90365,17 @@ graines, sert d'instrument rythmique)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx nɔ́gɔjɛ
+\mm nɔ́gɔ:n:saleté
+\mm jɛ́:adj:blanc
+\ps n
+\ge engrais
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx nɔ́gɔji
 \mm nɔ́gɔ:n:saleté
@@ -103410,6 +103508,15 @@ épuisés
 \lt (lézard.haricot)
 \dt 16/Aug/2006
 
+\lx saki
+\ps n
+\ge sac
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx sàkolo
 \mm sà:n:serpent
 \mm kólo:n:os
@@ -104272,13 +104379,14 @@ épuisés
 \lx sáni
 \va sánni
 \va sán'
+\va sánn'
 \ps conj
 \ge avant.de
 \gv au lieu de
 \lt (maintenant.suf)
 \xv sáni kà kàsi, í k'í fúra kɛ́
 \xe au lieu de pleurer, soigne-toi !
-\dt 20/Feb/2014
+\dt 05/Feb/2017
 
 \lx sáni
 \ve (-f,-bk)
@@ -104641,7 +104749,7 @@ épuisés
 \xv sànni kɛ́'ń tɛ́ án fɛ̀ fɔ́lɔ
 \xe la traite (des arachides) n' a pas encore commencé chez nous
 \rem Bz, l 89
-\dt 11/Nov/2007
+\dt 05/Feb/2017
 
 \lx sànnifeere
 \mm sàn:v:acheter
@@ -108072,6 +108180,17 @@ gouvernement le soutient (kb 5/06 p.7)
 \ge se.reposer
 \lt (fatigue.alléger)
 \dt 16/Aug/2006
+
+\lx sɛ̀gɛnsara
+\mm sɛ̀gɛn:n:fatigue
+\mm sàra:n:paie
+\ps n
+\ge prime
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx sɛ́gɛrɛ
 \ps v
@@ -113643,10 +113762,13 @@ euphémique)
 \lx súgufyɛ
 \mm súgu:n:marché
 \mm fyɛ̀:n:place
+\va súgufiyɛ
+\mm súgu:n:marché
+\mm fiyɛ̀:n:place
 \ps n
 \ge place.du.marché
 \lt (marché.surface)
-\dt 16/Aug/2006
+\dt 05/Feb/2017
 
 \lx súguladen
 \mm súgu:n:marché
@@ -115720,12 +115842,13 @@ fiançailles
 
 \lx syɛ̀n
 \va shyɛ̀n
+\va sìɲɛn
 \ve (bn)
 \ph [shyɛn]
 \ve (f)
 \ps n
 \ge plant.à.repiquer
-\dt 26/Sep/2006
+\dt 05/Feb/2017
 
 \lx syɛ́n
 \ps n
@@ -129772,6 +129895,15 @@ généreuses, avec bourrelets
 \ps adj
 \ge général
 \dt 09/Jan/2015
+
+\lx zido
+\ps n
+\ge judo
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx ziɲɔri
 \ps n
