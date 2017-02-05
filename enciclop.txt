@@ -114,6 +114,16 @@ Monde)
 \xe
 \dt 04/Jun/2016
 
+\lx Apekamu
+\ps n
+\ge ABT
+\gv APECAM
+\gv Assemblée permanente des Chambres d'agriculture du Mali
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Aradisɔni
 \ps n
 \ge Radisson
@@ -152,6 +162,15 @@ Monde)
 \xe
 \dt 01/Jun/2016
 
+\lx Arisinari
+\ps n.prop
+\ge Archinard.Louis
+\gv
+\ee (colonisateur français)
+\xv
+\xe
+\dt 04/Feb/2017
+
 \lx AS Mande
 \ps n.prop
 \ge AS Mandé
@@ -163,6 +182,16 @@ Monde)
 \ge Askia
 \smf (titre royal à l'Empire Songhaï)
 \dt 05/Feb/2016
+
+\lx Asiseyuya
+\ps n
+\ge ABR
+\gv HCUA
+\gv Haut conseil pour l'unité de l'Azawad
+\ee (créé en mai 2013)
+\xv
+\xe
+\dt 04/Feb/2017
 
 \lx ATT
 \ps n.prop
@@ -226,6 +255,15 @@ del Mali, prend le nom de Badema National en 1976)
 \gv Benjamin Netanyahu
 \dt 06/Feb/2016
 
+\lx Bɛnzɛri
+\ps n.prop
+\ge Louis Gustave Binger
+\gv
+\ee (officier français, explorateur de l’Afrique de l'Ouest)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Bilɛzi
 \va Bɛlɛsi
 \ps n.prop
@@ -250,6 +288,16 @@ del Mali, prend le nom de Badema National en 1976)
 \ge Biton
 \ee équipe de football
 \dt 15/May/2013
+
+\lx BNDA
+\ps n
+\ge ABR
+\gv BNDA
+\gv Banque Nationale de Développement Agricole
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx Bɔnga
 \ps n.prop
@@ -367,6 +415,16 @@ de la guerre du Mali)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Ɛmiya
+\ps n
+\ge ABR
+\gv MIA
+\gv Mouvement islamique de l'Azawad
+\ee (existait en janvier -- mai 2013)
+\xv
+\xe
+\dt 04/Feb/2017
 
 \lx fakoyi
 \ps n
@@ -558,6 +616,24 @@ la culture
 \xe
 \dt 15/Sep/2016
 
+\lx Kɛnkandɔn
+\ps n.prop
+\ge Fernand Quinquandon
+\gv
+\ee (explorateur français)
+\xv
+\xe
+\dt 05/Feb/2017
+
+\lx Kirisitɔfu
+\ps n.prop
+\ge NOM.ETRG
+\gv Christophe
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Kofi
 \ps n.prop
 \ge NOM.ETRG
@@ -574,6 +650,15 @@ la culture
 \smf (chef de guerre des Peuls au XVI siècle)
 \dt 06/Feb/2016
 
+\lx Kolonbu
+\ps n.prop
+\ge Colomb
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Komatɛkisi
 \ps n
 \ge ABR
@@ -582,6 +667,16 @@ la culture
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx koperatifu
+\va koperatiwu
+\ps n
+\ge coopérative
+\gv
+\ee
+\xv
+\xe
+\dt 03/Feb/2017
 
 \lx latɛn
 \ps n
@@ -595,6 +690,15 @@ la culture
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Loran Gubagubo
+\ps n.prop
+\ge Laurent Gbagbo
+\gv
+\ee (président de Côte d'Ivoire en 2001-2011)
+\xv
+\xe
+\dt 03/Feb/2017
 
 \lx maani
 \ps n
@@ -715,6 +819,25 @@ la stabilisation au Mali
 \xe
 \dt 04/Jun/2016
 
+\lx Odewudi
+\ps n.prop
+\ge Audéoud René
+\gv
+\ee (officier, explorateur français)
+\xv
+\xe
+\dt 05/Feb/2017
+
+\lx ODIPAC
+\ps n
+\ge ABR
+\gv Office Développement Intégré production Arachidière et
+céréalière
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Ofisidinizɛri
 \ps n.prop
 \ge Office.du.Niger
@@ -787,6 +910,16 @@ la stabilisation au Mali
 \xe
 \dt 01/Jun/2016
 
+\lx Ɔtiwale
+\va Ɔtuwale
+\ps n
+\ge Opération Haute Vallée du Niger
+\gv OHVH
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Parena
 \ps n
 \ge ABR
@@ -815,6 +948,15 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xv
 \xe
 \dt 31/May/2016
+
+\lx Pusini
+\ps n
+\ge NOM.ETRG
+\gv Putin
+\ee (président de la Russie)
+\xv
+\xe
+\dt 03/Feb/2017
 
 \lx Real
 \ps n.prop
@@ -859,6 +1001,16 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xe
 \dt 15/Sep/2016
 
+\lx Sarili Bile Gude
+\ps n.prop
+\ge Charles Blé Goudé
+\gv
+\ee (leader des "jeunes patriots" en RCI à l'époque de Laurent
+Gbagbo)
+\xv
+\xe
+\dt 03/Feb/2017
+
 \lx Senidi
 \va CNID
 \ps n
@@ -889,6 +1041,7 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 
 \lx Sɛmudete
 \va Sɛmɛdɛtɛ
+\va CMDT
 \ps n
 \ge ABR
 \gv CMDT
@@ -896,7 +1049,7 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \ee
 \xv
 \xe
-\dt 30/Jan/2017
+\dt 02/Feb/2017
 
 \lx sɛ́nɛfɔ-gana
 \ps n
@@ -937,6 +1090,17 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \ge Stade.Malien
 \smf (club de football)
 \dt 05/Feb/2016
+
+\lx Siyagiri
+\va SIYAGRI
+\ps n
+\ge ABR
+\gv SIAGRI
+\gv Salon International de l'Agriculture
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx Sobɛki
 \ps n
@@ -1001,6 +1165,15 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xe
 \dt 15/Sep/2016
 
+\lx Tukulɛri
+\ps n
+\ge Toucouleur
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx UDPM
 \ps n
 \ge UDPM
@@ -1022,6 +1195,15 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Wiladimir
+\ps n.prop
+\ge NOM.ETRG
+\gv Vladimir
+\ee
+\xv
+\xe
+\dt 03/Feb/2017
 
 \lx wiski
 \ps n

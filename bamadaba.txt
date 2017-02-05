@@ -8179,6 +8179,17 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \sy dáɲɛkun
 \dt 16/Aug/2006
 
+\lx bìnbiri
+\va bìnbirin
+\ps n
+\lat Sorgum bicolor, Sorghum gambicum, Andropogon sorghum
+\ge sorgho.blanc
+\gv
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx bínduun
 \ps adv
 \ge très.touffu
@@ -11152,6 +11163,19 @@ milieu des pierres
 \xe chez nous ici, on appelle les cancers : bonnibanaw (kb 1/06 p.5)
 \dt 11/Nov/2007
 
+\lx bónnin
+\mm bón:n:charbon
+\mm nin:mrph:DIM
+\ps n
+\ge pasteurellose
+\gv
+\syn kóyengeli`
+\ee
+\xv
+\xe
+\cm Kalilou Téra
+\dt 05/Feb/2017
+
 \lx bònya
 \mm bòn:vq:ample
 \mm ya:mrph:DEQU
@@ -12149,13 +12173,12 @@ toujours (pro)
 \lx bɔ́nningɛlɛn
 \mm bɔ́n:n:aigle.ravisseur
 \mm nin:mrph:DIM
-\mm gɛ̀lɛn:vq/adj:dur 
+\mm gɛ̀lɛn:adj:dur 
 \ps n
 \ge faucon.des.chauves-souris
 \lat Macheiramphus alcinus
-\lt (aigle.petit.dur)
-\ee plumage sombre, ailes pointues)
-\dt 16/Aug/2006
+\ee (plumage sombre, ailes pointues)
+\dt 02/Feb/2017
 
 \lx bɔ́nnɔ
 \mm bɔ́:v:sortir
@@ -12864,6 +12887,17 @@ centrale est de couleur sombre
 \ge ramasse-poussière
 \gv pelle.à.cendres
 \dt 11/Nov/2007
+
+\lx bùgurida
+\mm bùguri:n:poussière
+\mm dá:v:poser
+\ps n
+\ge géomancie
+\gv
+\ee (divination par la poussière)
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx bùguridala
 \mm bùguri:n:poussière
@@ -15440,6 +15474,16 @@ sur soi)
 \ge grand.devin
 \lt (géomancie.roi)
 \dt 16/Aug/2006
+
+\lx cɛ́nɔrɔ
+\mm cɛ́:n:milieu
+\mm nɔ́rɔ:v:coller
+\ps n
+\ge infixe
+\ee (néologisme)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx cɛ̀nruncɛnrun
 \va cɛ̀ɛnruncɛɛnrun
@@ -18129,17 +18173,6 @@ sur soi)
 \lt (abords.lieu)
 \dt 07/Feb/2016
 
-\lx dáfɛn
-\mm dá:n:création
-\mm fɛ́n:n:chose
-\va dán.fɛn
-\mm dán:n:création
-\mm fɛ́n:n:chose
-\ps n
-\ge créature
-\lt (création.être)
-\dt 15/Aug/2006
-
 \lx dáfila
 \mm dá:n:bouche
 \mm fìla:num:deux
@@ -20363,12 +20396,37 @@ pas)
 \lx dàmakɛnyɛ
 \mm dàma:n:limite
 \mm kɛ́nyɛ:v:égaliser
+\va dàmakɛɲɛ
+\mm dàma:n:limite
+\mm kɛ́ɲɛ:v:égaliser
 \va dànmakɛnyɛ
 \mm dànma:n:limite
 \mm kɛ́nyɛ:v:égaliser
 \ps v
+\sn 1
+\vl vi
 \ge être.égal
-\dt 26/Mar/2014
+\sn 2
+\vl vt
+\gv rendre égal
+\dt 05/Feb/2017
+
+\lx dàmakɛnyɛ
+\mm dàma:n:limite
+\mm kɛ́nyɛ:v:égaliser
+\va dàmakɛɲɛ
+\mm dàma:n:limite
+\mm kɛ́ɲɛ:v:égaliser
+\va dànmakɛnyɛ
+\mm dànma:n:limite
+\mm kɛ́nyɛ:v:égaliser
+\ps n
+\ge égalité
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx dáman
 \va ntáma
@@ -20792,12 +20850,15 @@ rétribution mais à titre de réciprocité)
 \dt 26/Sep/2006
 
 \lx dánfɛn
-\mm dán:v:créer
+\mm dán:n:création
+\mm fɛ́n:n:chose
+\va dá.fɛn
+\mm dá:n:création
 \mm fɛ́n:n:chose
 \ps n
-\ge créature
+\ge créature
 \gv être
-\dt 07/Nov/2014
+\dt 02/Feb/2017
 
 \lx dànfin
 \ps n
@@ -24858,7 +24919,7 @@ chefs religieux et représentants de l'administration
 \dt 26/Sep/2006
 
 \lx díya
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \va já
 \lt (bon.suf caus)
@@ -24891,7 +24952,7 @@ chefs religieux et représentants de l'administration
 \gv jouer.avec.ardeur
 \xv ù yé  fɔ́li díya
 \xe ils ont joué avec plus d'ardeur
-\dt 26/Sep/2006
+\dt 05/Feb/2017
 
 \lx díyabaatɔ
 \mm dí.ya:v:rendre.agréable
@@ -28611,6 +28672,18 @@ quant à sa mère, elle prend de l'âge
 \lt (manger.ne pas)
 \dt 16/Aug/2006
 
+\lx dúndala
+\mm dún:v:manger
+\mm dá:n:bouche
+\mm lá:pp:dans
+\ps n
+\ge consommable
+\gv part d'aliment consommable immédiatement
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx dúnden
 \ps n
 \ge bouteille
@@ -29359,6 +29432,15 @@ quant à sa mère, elle prend de l'âge
 \ge région
 \dt 10/Apr/2014
 
+\lx erowari
+\ps n
+\ge euro
+\gv
+\ee (monnaie de l'Union Européenne)
+\xv
+\xe
+\dt 03/Feb/2017
+
 \lx éwe
 \ps intj
 \ge ça.alors!
@@ -29408,10 +29490,20 @@ quant à sa mère, elle prend de l'âge
 \smf (musulman qui a fait le pélerinage à la Mecque)
 \dt 04/Feb/2016
 
+\lx ɛndiyɛn
+\ps adj/n
+\ge indien
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx ɛntɛrinɛti
+\va ɛntɛrɛnɛti
 \ps n
 \ge Internet
-\dt 04/Jun/2016
+\dt 05/Feb/2017
 
 \lx ɛ̀rɛzɛn
 \ps n
@@ -30465,6 +30557,18 @@ quant à sa mère, elle prend de l'âge
 \ge ceinture.de.cuir
 \lt (mulet.cuir)
 \dt 16/Aug/2006
+
+\lx fàlibokaba
+\mm fàli:n:âne
+\mm bò:n:excrément
+\mm kàba:n:maïs
+\ps n
+\ge maïs.sorte
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx fàliden
 \mm fàli:n:âne
@@ -34472,11 +34576,18 @@ de nos ancêtres
 \mm fìni:n:tissu
 \mm tìgi:n:maître
 \ps n
+\sn 1
 \ge circoncis
 \gv excisée
 \sm (femme déjà mariée)
-\lt (habit.qui a)
-\dt 26/Sep/2006
+\sn 2
+\gv corps habillé
+\ee (ceux qui portent les uniformes: militaires, gendarmes,
+policiers, gardes nationaux, gardiens de préfectures, gardes
+frontières, forestiers, sapeurs)
+\sn 3
+\gv vendeur de tissus ou de vêtements
+\dt 02/Feb/2017
 
 \lx fìnman
 \mm fìn:vq/adj:noir
@@ -36852,6 +36963,15 @@ de nos ancêtres
 \ge front
 \lt (front.contenant)
 \dt 26/Sep/2006
+
+\lx fɔndasɔn
+\ps n
+\ge fondation
+\gv
+\ee
+\xv
+\xe
+\dt 03/Feb/2017
 
 \lx fɔ́nfɔn
 \ps n
@@ -39846,10 +39966,14 @@ forestières, fruit : long follicule de 50 cm)
 \dt 16/Aug/2006
 
 \lx gánke
+\va gánge
 \ps n
+\sn 1
 \ge utérus
 \ee organes féminins (spécialement : utérus et trompes)
-\dt 16/Aug/2006
+\sn 2
+\gv maux de ventre d'origine génitale
+\dt 05/Feb/2017
 
 \lx gánkedimi
 \mm gánke:n:utérus
@@ -46761,6 +46885,18 @@ qqch ...)
 \lt (réunion.parole)
 \dt 16/Aug/2006
 
+\lx jɛ̀kawuli
+\mm jɛ̀:v:assembler
+\mm kà:pm:INF
+\mm wúli:v:se.lever
+\ps n
+\ge mobilisation
+\gv
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx jɛ́kɛnɛ
 \mm jɛ́:n:le.blanc
 \mm kɛ́nɛ:n:clarté
@@ -50324,9 +50460,13 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \va jùra
 \ve (bl)
 \ps n
+\sn 1
 \ge commerçant
 \gv colporteur
-\dt 26/Sep/2006
+\sn 2
+\gv Dioula
+\ee (groupe ethnique et langue)
+\dt 04/Feb/2017
 
 \lx jùla
 \mm jù:n:derrière
@@ -51290,7 +51430,9 @@ l'eau est prête
 \lat Zea.mays
 \sd gram
 \sy máaɲɔ
-\dt 19/Aug/2006
+\xv kàba tóntigi
+\xe maïs à deux ou plusieurs tiges
+\dt 05/Feb/2017
 
 \lx kàba
 \ps n
@@ -57510,6 +57652,18 @@ prolapsus utérin
 \lt (cire.bâtonnet)
 \dt 26/Sep/2006
 
+\lx kɛ̀ɲɛkayànfan
+\mm kɛ̀ɲɛka:n:nord
+\mm yàn:n:ici
+\mm fàn:n:côté
+\ps n
+\ge nord
+\gv partie norde
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx kɛ́ɲɛkɛ
 \mm kɛ́ɲɛ:v:empêcher
 \mm kɛ́:v:faire
@@ -60425,10 +60579,11 @@ prolapsus utérin
 \va kómitɛri
 \va kómutɛri
 \va pɔ́mitɛrɛ
+\va pɔ́mutɛrɛ
 \va kɔ́mitɛri
 \ps n
 \ge pomme.de.terre
-\dt 22/May/2016
+\dt 03/Feb/2017
 
 \lx kòn
 \va nkòn
@@ -61242,11 +61397,14 @@ prolapsus utérin
 \ee (arbre toujours en feuilles, terrains rocailleux)
 \dt 19/Aug/2006
 
-\lx koyengeli
+\lx kóyengeli
+\va kóngɛli
+\va kéngeli
 \ps n
 \ge maladie.de.bétail
-\gv
-\dt 27/Jan/2016
+\gv pasteurellose (?)
+\syn bónnin
+\dt 05/Feb/2017
 
 \lx kóyi
 \va kɔ́yi
@@ -64261,6 +64419,16 @@ ou une proposition)
 \lt (grossesse.première.enfant)
 \dt 26/Sep/2006
 
+\lx kɔ́nɔrɔ
+\mm kɔ́:n:dos
+\mm nɔ́rɔ:v:coller
+\ps n
+\ge sufffixe
+\sm (néologisme)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx kɔ́nɔrɔfɛn
 \mm kɔ́nɔ:n:ventre
 \mm rɔ́:pp:IN
@@ -66339,7 +66507,7 @@ ou une proposition)
 \ps n
 \ge montagne
 \gv colline
-\dt 26/Sep/2006
+\dt 05/Feb/2017
 
 \lx kúlu
 \bw ar: kull = totalité
@@ -67626,6 +67794,17 @@ il en contient dix
 \xv bɛ́ɛ ń'í tá kùnda : bámana, fúla...
 \xe à chacun son groupe ethnique : les bambara, les peuls ...
 \dt 05/Apr/2016
+
+\lx kùnda
+\mm kùn:n:tête
+\mm dá:v:poser
+\ps pp
+\ge parmi
+\gv au niveau de
+\ee
+\xv
+\xe
+\dt 03/Feb/2017
 
 \lx kùndama
 \mm kùn:n:tête
@@ -70500,16 +70679,19 @@ Sahel)
 \lx kùrunbokari
 \mm kùrunbo:adj:neuf
 \mm kári:v:casser
-\va kùrunbon.kari
+\va kùrunbonkari
 \mm kùrunbo:adj:neuf
 \mm kári:v:casser
-\va kòronbo.kari
+\va kòronbokari
+\mm kùrunbo:adj:neuf
+\mm kári:v:casser
+\va kòronbonkari
 \mm kùrunbo:adj:neuf
 \mm kári:v:casser
 \ps n
 \ge inauguration
 \gv premier lavage
-\dt 18/Jan/2015
+\dt 03/Feb/2017
 
 \lx kúrunbolila
 \mm kúrun:n:pirogue
@@ -70745,6 +70927,16 @@ kúrunninle
 \ps v
 \ge émpoussierer
 \dt 25/May/2014
+
+\lx kúuru
+\ps adj
+\ge entier
+\gv total
+\gv tout
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx kúusu
 \va kúus
@@ -73331,6 +73523,24 @@ kúrunninle
 \gv faire.revenir
 \dt 26/Sep/2006
 
+\lx lálaga
+\di (Segu)
+\ps v
+\sn 1
+\vl vt
+\ge réparer
+\gv arranger
+\sn 2
+\vl vt
+\gv préparer
+\ee (de la nourriture)
+\sn 3
+\vl vt
+\gv racler
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx lámàga
 \mm lá:mrph:CAUS
 \mm màga:v:toucher
@@ -74181,6 +74391,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \dt 05/Apr/2016
 
 \lx láriwe
+\va lárawe
 \va lárawi
 \ve (bk)
 \va nárawi
@@ -74189,10 +74400,17 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \vl vt
 \sn 1
 \ge fouiller
+\gv palper
+\gv tâter
 \sn 2
+\gv déshabiller
+\sn 3
+\gv examiner
+\ee (par un médecin)
+\sn 4
 \gv réprimander
 \ve (bk)
-\dt 16/Aug/2006
+\dt 03/Feb/2017
 
 \lx láro
 \ps n
@@ -76220,18 +76438,17 @@ famille)
 \mm màa:n:homme
 \mm fɛ̀:pp:par
 \mm màa:n:homme
-\va mɔ̀gɔ.fɛ.mɔgɔ
+\va mɔ̀gɔfɛmɔgɔ
 \mm mɔ̀gɔ:n:homme
 \mm fɛ̀:pp:par
 \mm mɔ̀gɔ:n:homme
 \ps n
-\lt homme-avec-homme
 \ge dépendant
 \ee personne qui dépend d'une autre (esclave, captif (du), orphelin ...)
 \xv màatigiba lában kɛ́ra màafɛmaa yé
 \xe le chef d'une grande famille a fini par vivre dans la famille d'autrui (chant)
 \rem du, f
-\dt 07/Feb/2016
+\dt 03/Feb/2017
 
 \lx màájá
 \mm màa:n:homme
@@ -76393,13 +76610,14 @@ jour, c'est une personne dépendante qu'il voit
 \va mɔ́ɔɲɔ
 \mm ɲɔ̀:n:mil
 \ve (f)
+\va máɲɔ
 \ps n
 \ge maïs
 \lat Zea.mays
 \sd gram
 \lt ( ?. mil)
 \sy kàba
-\dt 19/Aug/2006
+\dt 05/Feb/2017
 
 \lx máaɲɔkuru
 \mm máaɲɔ:n:maïs
@@ -80158,12 +80376,32 @@ des engagements
 
 \lx mɛ̀rɛ
 \va mɛ̀ɛrɛ
-\ps adj
+\ps n
 \sn 1
 \ge herbe.naissante
 \sn 2
 \gv jeune.pousse
-\dt 26/Sep/2006
+\dt 05/Feb/2017
+
+\lx mɛ̀rɛ
+\va mɛ̀ɛrɛ
+\va mɛ̀rɛn
+\ps adj
+\ge non.mûr
+\gv tendre
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
+\lx mɛ́rɛ
+\ps adv
+\ge qui.fait.des.repousses
+\gv qui bourgeonne
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx mɛ́rɛkɛ
 \bw fr : américain
@@ -85065,6 +85303,16 @@ sorcières et leur élimination)
 \sd capp
 \ee parfois cultivée : comme épinards après longue cuisson, ou condiment)
 \dt 19/Aug/2006
+
+\lx nàntan
+\mm ntan:mrph:PRIV
+\ps adj/n
+\ge vaurien
+\gv bon à rien, 
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx nàra
 \ps n
@@ -92007,6 +92255,7 @@ graines, sert d'instrument rythmique)
 \dt 16/Aug/2006
 
 \lx ntàlen
+\va ntàalen
 \ps n
 \ge parabole
 \gv conte
@@ -92014,7 +92263,7 @@ graines, sert d'instrument rythmique)
 \gv proverbe
 \xv ntàlen dá
 \xe dire des proverbes
-\dt 26/Sep/2006
+\dt 02/Feb/2017
 
 \lx ntàlendala
 \mm ntàlen:n:parabole
@@ -93310,6 +93559,18 @@ graines, sert d'instrument rythmique)
 \xv ní  sìlantumu má jìgin, myɛ̀tɔ nà yɛ̀lɛn
 \xe (prov)si la chenille du karité ne descend pas, le gourmand va monter
 \dt 26/Sep/2006
+
+\lx ntùmukala
+\mm ntùmu:n:ver
+\mm kàla:n:tige
+\ps n
+\lat Habrobracon hebetor, Bracon hebetor
+\ge guêpe.Bracon.hebetor
+\gv
+\ee (insecte spécial qui mange les larves des mineuses de mil)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx ntùmuma
 \mm ntùmu:n:ver
@@ -96574,9 +96835,9 @@ graines, sert d'instrument rythmique)
 \mm mà:pp:à
 \ps pp
 \ge devant
-\xv bɔ́ ń ɲɛ́ mà !
+\xv bɔ́ ń ɲɛ́mà !
 \xe ne me bouche pas la vue !(sans impatience)
-\dt 12/Aug/2006
+\dt 02/Feb/2017
 
 \lx ɲɛ́mabòli
 \mm ɲɛ́:n:oeil
@@ -97687,6 +97948,17 @@ graines, sert d'instrument rythmique)
 \ee (en tiges de grandes graminées ..., sert de lit, de porte ...)
 \dt 16/Aug/2006
 
+\lx ɲɛ́ngo
+\mm ɲɛ́:n:oeuil
+\mm gó:adj:désagréable
+\ps n/adj
+\ge jaloux
+\gv égoïste
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx ɲɛ́ni
 \va ɲáni
 \ps v
@@ -98772,6 +99044,18 @@ postposition, n'est pas accepté par tous les locuteurs)
 \xv ń'í bɛ́  ɲɔ̀tigɛ lá, í bólo máa fá, ò yé  ɲɔ̀bolola yé
 \xe quand tu coupes le mil et que ta main est pleine, c'est ça une poignée de mil
 \dt 16/Aug/2006
+
+\lx ɲɔ̀dunntumu
+\mm ɲɔ̀:n:mil
+\mm dún:v:manger
+\mm ntùmu:n:ver
+\ps n
+\ge mite.alimentaire
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx ɲɔ̀falen
 \mm ɲɔ̀:n:mil
@@ -100490,6 +100774,15 @@ envergure)
 \sm (hache, pioche, houe ...)
 \dt 26/Sep/2006
 
+\lx Pákì
+\ps n
+\ge Pâques
+\gv
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx pàla
 \ps n
 \ge dollar
@@ -101666,6 +101959,15 @@ envergure)
 \ge forage
 \nt kb 2/05 p.2
 \dt 11/Nov/2007
+
+\lx pɔnpiye
+\ps n
+\ge pompier
+\gv
+\ee
+\xv
+\xe
+\dt 04/Feb/2017
 
 \lx pɔ̀pɔ
 \ps n
@@ -103459,11 +103761,12 @@ épuisés
 \lx sàmiya
 \va sàmiyɛ
 \va sɔ̀miɲɛ
+\va sàmiɲɛ
 \ps n
 \ge hivernage
 \xv sáni  sàmiya kà wó
 \xe avant que ne se termine l'hivernage
-\dt 14/Jun/2016
+\dt 02/Feb/2017
 
 \lx sàmiya
 \ps v
@@ -104561,12 +104864,12 @@ épuisés
 
 \lx santimɛtɛrɛ
 \ps n
-\ge santimètre
+\ge centimètre
 \gv
 \ee
 \xv
 \xe
-\dt 23/Oct/2016
+\dt 05/Feb/2017
 
 \lx sántiri
 \ps n
@@ -106278,10 +106581,12 @@ paniers, sègi)
 \dt 11/Nov/2007
 
 \lx sènfɛ̀
+\mm sèn:n:jambe
+\mm fɛ̀:pp:avec
 \ps pp
 \ge au.cours.de
 \gv à l'occasion de
-\dt 15/Jun/2015
+\dt 02/Feb/2017
 
 \lx sènfɛbila
 \mm sèn:n:jambe
@@ -107198,6 +107503,18 @@ gouvernement le soutient (kb 5/06 p.7)
 \ps n
 \ge eczéma.sp
 \dt 16/Aug/2006
+
+\lx sé-tɛ-n-fa
+\mm sé:n:arrivée
+\mm tɛ́:pm:IPFV.NEG
+\mm ń:pers:1SG
+\mm fá:v:remplir
+\ps n
+\ge chaussures
+\ee (une espèce, très durables)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx sétigi
 \mm sé:n:arrivée
@@ -108409,6 +108726,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \lt (passer la nuit.case)
 \dt 16/Aug/2006
 
+\lx sida
+\ps n
+\ge sida
+\gv syndrome immunodéficitaire acquis
+\ee
+\xv
+\xe
+\dt 03/Feb/2017
+
 \lx sídɛgɛn
 \mm sí:n:semence
 \mm dɛ́gɛn:v:goûter
@@ -108587,9 +108913,11 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 29/Nov/2012
 
 \lx sigareti
+\va sikarati
+\va sigarati
 \ps n
 \ge cigarette
-\dt 16/May/2013
+\dt 03/Feb/2017
 
 \lx sígasiga
 \mm síga:n:doute
@@ -109218,6 +109546,19 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \ge personne.au.teint.clair
 \lt (noix de karité.à.personne)
 \dt 16/Aug/2006
+
+\lx sílakolokolo
+\mm sí:n:semence
+\mm lá:mrph:CAUS
+\mm kólokolo:v:inciter
+\ps v
+\vl vt
+\ge élever
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx sìlamɛ
 \va àlisilamɛ
@@ -113101,6 +113442,19 @@ euphémique)
 \sy tómotigi
 \dt 27/sept./2006
 
+\lx súbagakaba
+\mm súbaga
+\mm sú:v:inciter
+\mm baga:mrph:AG.OCC
+\mm kàba:n:maïs
+\ps n
+\ge maïse.sorte
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx súbagaya
 \mm sú.baga:n:sorcier
 \mm sú:v:inciter
@@ -116398,6 +116752,18 @@ fiançailles
 \ee (sert d'offrande rituelle; préconisé tant par les devins que par les marabouts, ne peut être préparé par une femme qui a ses règles)
 \dt 16/Aug/2006
 
+\lx tákulu
+\mm tá:n:feu
+\mm kúlu:n:montagne
+\ps n
+\ge volcan
+\cm néologisme
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx tákurun
 \mm tá:n:feu
 \mm kùrun:n:boule
@@ -118609,9 +118975,14 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tìgɛ
 \ps n
-\ge salaire
+\sn 1
+\ge partie
+\sn 2
+\gv intérêt
+\gv commission
+\gv salaire
 \gv pourboire
-\dt 26/Sep/2006
+\dt 05/Feb/2017
 
 \lx tìgɛ
 \va tìkɛ
@@ -122912,6 +123283,18 @@ arrière grand-père est mort
 \rem Mol
 \dt 11/Nov/2007
 
+\lx túlutìgɛ
+\mm túlu:n:huile
+\mm tìgɛ:v:couper
+\ps v
+\vl vi
+\ge être.facile
+\gv être un jeu d'enfant
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx tùma
 \va tùmana
 \ps n
@@ -123049,6 +123432,21 @@ arrière grand-père est mort
 \xv kúrun dáfirila ní túngalataala cáman yé
 \xe la barque s'est renversée avec beaucoup d'émigrés (kb 11/05 p.3)
 \dt 07/Feb/2016
+
+\lx túnga-ma-diya-n-na
+\mm túnga:n:pays.étranger
+\mm má:mp:PFV.NEG
+\mm díya:v:rendre.agréable
+\mm dí:vq:agréable
+\mm ya:mrph:DEQU
+\mm ń:pers:1SG
+\mm ná:pp:dans
+\ps n
+\ge sac.en.plastique
+\ee (une espèce de)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx túngarankɛ
 \mm túnga:n:pays.étranger
@@ -123222,9 +123620,10 @@ responsabilité sur le dos de qqn')
 
 \lx tùtaan
 \ve (f)
+\va tùtan
 \ps n
 \ge jeune.épi.de.maïs
-\dt 16/Aug/2006
+\dt 05/Feb/2017
 
 \lx tùtaan
 \ve (f)
@@ -123935,11 +124334,12 @@ bruyants, près du sol, dans les fourrés)
 \lx wàlankata
 \va wàlankatan
 \va wàlakata
+\va wàlangata
 \va wàrankata
 \ps v
 \vl vt
 \ge faire.déborder
-\dt 20/Jan/2015
+\dt 04/Feb/2017
 
 \lx wálanpara
 \ps intj
@@ -125603,6 +126003,15 @@ la Justice (kb 12/05 p.4)
 \ee statut spécial
 \dt 16/Aug/2006
 
+\lx wolowala
+\ps adj
+\ge incomplet
+\gv
+\ee (épi de maïs)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx wòlowolo
 \ps v
 \sn 1
@@ -125740,6 +126149,20 @@ la Justice (kb 12/05 p.4)
 \ee (le pays des kolatiers : spécialement la Côte d'Ivoire au sud du
 Mali)
 \dt 05/Apr/2016
+
+\lx wòroduguyànfan
+\mm wòrodugu:n:sud
+\mm wòro:n:kola
+\mm dùgu:n:terre
+\mm yàn:n:ici
+\mm fàn:n:côté
+\ps n
+\ge sud
+\gv partie sud
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx wòrofyɛn
 \lt (brun ?  .  ? )
@@ -126588,6 +127011,18 @@ Mali)
 \lt (sexe masculin.bâton)
 \dt 26/Sep/2006
 
+\lx wùlubokaba
+\mm wùlu:n:chien
+\mm bò:n:excrément
+\mm kàba:n:maïs
+\ps n
+\ge maïs.sorte
+\gv
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx wúludaforoko
 \mm wúlu:n:sexe.masculin
 \mm dá:n:bouche
@@ -127384,6 +127819,18 @@ soient définitivement données à leur mari)
 \gv grimper
 \sm (sur -- kàn, sánfɛ̀)
 \dt 29/Mar/2015
+
+\lx yánkan
+\va yánga
+\ps n
+\ge envergure
+\gv dimension
+\gv importance
+\gv valeur
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx yànni
 \mm yàn:n:ici

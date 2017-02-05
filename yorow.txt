@@ -90,13 +90,14 @@
 \dt 30/Jan/2017
 
 \lx Agɛlihɔki
+\va Agelihɔku
 \ps n.prop
 \ge TOP
 \gv Aguelhok
 \ee
 \xv
 \xe
-\dt 15/Sep/2016
+\dt 04/Feb/2017
 
 \lx Akkra
 \va Akra
@@ -289,6 +290,15 @@
 \ru Афины
 \dt 23/May/2010
 
+\lx Atɛni
+\ps n.prop
+\ge TOP
+\gv Athènes
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Atilantiki
 \va Atlantiki
 \et fr. Atlantique
@@ -347,13 +357,15 @@
 \dt 05/Dec/2010
 
 \lx Bafilabɛn
+\va Bafulabe
 \et букв. "сплетение двух рек", т.е. Бакой и Бафин
 \ty г.
 \ps n.prop
 \ge TOP
 \gv Bafoulabé
+\ee (ville et commune, chef-lieu de cercle, région de Kayes)
 \ru Бафулабе
-\dt 23/May/2010
+\dt 04/Feb/2017
 
 \lx Bafin
 \ty р.
@@ -439,6 +451,15 @@
 \cm (приток Нигера)
 \dt 23/May/2010
 
+\lx Balanzan
+\ps n.prop
+\ge TOP
+\gv Balansan
+\ee (villace, cercle de Kangaba, Région de Koulikoro)
+\xv
+\xe
+\dt 04/Feb/2017
+
 \lx Bàmakɔ
 \va Bàmako
 \ty г.
@@ -491,6 +512,25 @@
 \xe
 \dt 01/Feb/2017
 
+\lx Bandama
+\ps n.prop
+\ge TOP
+\gv Bandama
+\ee (fleuve en Côte d'Ivoire)
+\xv
+\xe
+\dt 05/Feb/2017
+
+\lx Banfora
+\ps n.prop
+\ge TOP
+\gv Banfora
+\ee (centre de la région des Cascades et de la province de la
+Comoé, Burkina Faso)
+\xv
+\xe
+\dt 04/Feb/2017
+
 \lx Banga
 \ps n.prop
 \ge TOP
@@ -524,6 +564,15 @@
 \gv Banifing
 \cm (приток Бани)
 \dt 23/May/2010
+
+\lx Báninkɔ
+\ps n.prop
+\ge TOP
+\gv Baninko
+\ee (zone historique au sud-est de Mali, au sud de rivière de Bani)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx Baninsira
 \va Banisira
@@ -604,7 +653,16 @@
 \ge TOP
 \gv Brazzaville
 \ru Браззавиль
-\dt 30/Jan/2017
+\dt 05/Feb/2017
+
+\lx Basabugu
+\ps n.prop
+\ge TOP
+\gv Bassabougou
+\ee (village, cercle de Kati, région de Koulikoro)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx Basutoland
 \va Basutola
@@ -754,6 +812,18 @@
 \ee (un quartier de la Commune 2 de Bamako)
 \dt 01/Jun/2016
 
+\lx Bɔbɔjulaso
+\va Bɔbɔ Julaso
+\va Bobojulaso
+\va Bobo Julaso
+\ps n.prop
+\ge TOP
+\gv Bobo-Dioulasso
+\ee
+\xv
+\xe
+\dt 04/Feb/2017
+
 \lx Buguba
 \ps n.prop
 \ge TOP
@@ -764,13 +834,14 @@
 \dt 01/Jun/2016
 
 \lx Bugunin
+\va Buguni
 \ps n.prop
 \ge TOP
 \gv Bougouni
 \ee (une ville et un cercle dans la région de Sikasso)
 \xv
 \xe
-\dt 31/Jan/2017
+\dt 05/Feb/2017
 
 \lx Bujumbura
 \di b
@@ -986,6 +1057,15 @@
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Dinbali
+\ps m.prop
+\ge TOP
+\gv
+\ee (un village au Mali)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx Dominiki
 \ty гос.
@@ -1224,6 +1304,15 @@ Tadmekka)
 \xe
 \dt 01/Feb/2017
 
+\lx Ferekesedugu
+\ps n.prop
+\ge TOP
+\gv Ferkessédougou
+\ee (une ville du District des Savanes au nord de Côte d'Ivoire)
+\xv
+\xe
+\dt 04/Feb/2017
+
 \lx Fieyn
 \ty горы
 \ru Фиен
@@ -1250,6 +1339,15 @@ Tadmekka)
 \gv Fria
 \cm (в Гвинее)
 \dt 23/May/2010
+
+\lx Folona
+\ps n.prop
+\ge TOP
+\gv Folona
+\ee (zone historique dont le centre est Kadiolo)
+\xv
+\xe
+\dt 04/Feb/2017
 
 \lx Fɔrulami
 \ty г.
@@ -1288,6 +1386,15 @@ Tadmekka)
 \gv Fouta.Toro
 \cm (в Сенегале)
 \dt 23/May/2010
+
+\lx Futuba
+\ps n.prop
+\ge TOP
+\gv Foutouba
+\ee (ville, région de Kayes)
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx Gabakuru
 \ps n.prop
@@ -1419,6 +1526,15 @@ Tadmekka)
 \ge TOP
 \gv Guinée-Bissau
 \dt 23/May/2010
+
+\lx Gumankɔ
+\ps n.prop
+\ge TOP
+\gv Goumanko
+\ee (cercle de Kita, région de Kayes)
+\xv
+\xe
+\dt 04/Feb/2017
 
 \lx Gundamu
 \ps n.prop
@@ -1761,6 +1877,15 @@ Ségou)
 \gv Dionkolonin
 \dt 12/May/2016
 
+\lx Julafundo
+\ps n.prop
+\ge TOP
+\gv Dioulafoundo
+\ee (village, région de Kayes)
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Júmanzana
 \ty кв.
 \ps n.prop
@@ -1888,7 +2013,17 @@ région de Mopti)
 \ge TOP
 \gv Kangaba
 \ee (une ville et un cercle dans la région de Koulikoro)
-\dt 31/Jan/2017
+\dt 04/Feb/2017
+
+\lx Kangura
+\ps n.prop
+\ge TOP
+\gv Kangoura
+\ee (commune rurale, département de Loumana, province de
+Léraba, région des Cascades, Burkina Faso)
+\xv
+\xe
+\dt 04/Feb/2017
 
 \lx Kanina
 \ps n.prop
@@ -1908,6 +2043,15 @@ région de Mopti)
 \gv Kankan
 \cm (в Гвинее)
 \dt 23/May/2010
+
+\lx Kano
+\ps n.propo
+\ge TOP
+\gv Kano
+\ee (capitale de l'État de Kano, Nigeria)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx Kanpala
 \ty г.
@@ -1982,6 +2126,15 @@ région de Mopti)
 \gv Khartoum
 \ru Хартум
 \dt 15/Sep/2016
+
+\lx Karo
+\ps n.prop
+\ge TOP
+\gv Karo
+\ee (village, cercle de Kita, région de Kayes)
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx Katari
 \ps n.prop
@@ -2075,6 +2228,17 @@ région de Mopti)
 \ge TOP
 \gv Kerouané
 \dt 05/Feb/2016
+
+\lx Kɛnɛdugu
+\va Kenedugu
+\ps n.prop
+\ge TOP
+\gv Kénédougou
+\ee (royaume sénoufo en XVIII-XIX siècles, avec le centre à
+Sikasso)
+\xv
+\xe
+\dt 04/Feb/2017
 
 \lx Kɛɲɛba
 \ps n.prop
@@ -2217,6 +2381,16 @@ Kéniéba)
 \xe
 \dt 31/Jan/2017
 
+\lx Korogo
+\ps n.prop
+\ge TOP
+\gv Korhogo
+\ee (4e ville de Côte d'Ivoire, chef-lieu du District des Savanes et
+de la Région du Poro)
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Korowasi
 \ps n.prop
 \ge TOP
@@ -2323,12 +2497,13 @@ région de Koulikoro)
 \va Konowari
 \va Kɔdiwari
 \va Kotiwari
+\va Kɔdɔwari
 \ty гос.
 \ps n.prop
 \ge TOP
 \gv Côte.d'Ivoire
 \ru Кот-д'Ивуар
-\dt 17/Dec/2012
+\dt 03/Feb/2017
 
 \lx Kɔ́rɔfina
 \va Korofinna
@@ -2615,6 +2790,15 @@ Tombouctou)
 \ps n.prop
 \ge TOP
 
+\lx Manta
+\ps n.prop
+\ge TOP
+\gv Manta
+\ee (village, cercle de Kolokani, région de Koulikoro)
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Maɲanbugu
 \ps n.prop
 \ge TOP
@@ -2866,6 +3050,15 @@ Koulikoro)
 \ru Марокко
 \dt 23/May/2010
 
+\lx Mɔsuku
+\ps n.prop
+\ge TOP
+\gv Moscou
+\ee
+\xv
+\xe
+\dt 03/Feb/2017
+
 \lx Muruja
 \ps n.prop
 \ge TOP
@@ -2991,6 +3184,16 @@ région de Ségou)
 \xv
 \xe
 \dt 31/May/2016
+
+\lx Npedugu
+\ps n.prop
+\ge TOP
+\gv M'Pêdougou
+\ee (village, commune de Farakala, cercle de Sikasso, région de
+Sikasso)
+\xv
+\xe
+\dt 05/Feb/2017
 
 \lx Npeserebugu
 \ps n.prop
@@ -3123,6 +3326,16 @@ de Koulikoro)
 \gv Nioro
 \dt 05/Feb/2016
 
+\lx Ɲumala
+\ps n.prop
+\ge TOP
+\gv Gnoumala
+\ee (village, commune de Siby, cercle de Kati, région de
+Koulikoro)
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Olandi
 \ty гос.
 \ps n.prop
@@ -3248,6 +3461,15 @@ de Koulikoro)
 \ru Польша
 \dt 05/Feb/2016
 
+\lx Pɔri Zanti
+\ps n.prop
+\ge TOP
+\gv Port-Gentil
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Pɔritigali
 \ps n.prop
 \ge TOP
@@ -3341,6 +3563,17 @@ de Koulikoro)
 \xe
 \dt 15/Sep/2016
 
+\lx Sajola
+\va Sajɔla
+\ps n.prop
+\ge TOP
+\gv Sadiola
+\ee (commune rurale, cerce de Kayes, région de Kayes; mine
+d'or)
+\xv
+\xe
+\dt 04/Feb/2017
+
 \lx Samakɔ
 \ty дер.
 \ps n.prop
@@ -3379,6 +3612,15 @@ de Koulikoro)
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Sangarankɔ
+\ps n.prop
+\ge TOP
+\gv
+\ee (rivière au sud du Mali, affluent de Baninfin)
+\xv
+\xe
+\dt 04/Feb/2017
 
 \lx Sangarebugu
 \ps n.prop
@@ -3572,6 +3814,15 @@ international)
 \cm (в Сенегале)
 \dt 23/May/2010
 
+\lx Sibi
+\ps n.prop
+\ge TOP
+\gv Siby
+\ee (village et commune, cercle de Kati, région de Koulikoro)
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Sibila
 \ps n.prop
 \ge TOP
@@ -3655,6 +3906,15 @@ international)
 \ru Китай
 \dt 23/May/2010
 
+\lx Sipariti
+\ps n.prop
+\ge TOP
+\gv Sparte
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Sirakɔrɔdunfin
 \ps n.prop
 \ge TOP
@@ -3663,6 +3923,15 @@ international)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Sirakɔrɔla
+\ps n.prop
+\ge TOP
+\gv Sirakorola
+\ee (ville, cercle de Koulikoro, région de Koulikoro)
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx Siri
 \ps n.prop
@@ -3778,6 +4047,15 @@ international)
 \ru Cудан
 \dt 23/May/2010
 
+\lx Sugula
+\ps n.prop
+\ge TOP
+\gv Sougoula
+\ee (village, région de Koulikoro; village, région de Sikasso)
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Suwaziduu
 \va Suwaziland
 \ty гос.
@@ -3875,6 +4153,24 @@ village d'Essouk, région de Kidal)
 \gv Ténenkou
 \smf (une cercle dans la région de Mopti)
 \dt 31/Jan/2017
+
+\lx Tɛngɛrɛla
+\ps n.prop
+\ge TOP
+\gv Tengréla
+\ee (ville, région de Savannes, Côte d'Ivoire)
+\xv
+\xe
+\dt 04/Feb/2017
+
+\lx Tibi
+\ps n.prop
+\ge TOP
+\gv Tibi
+\ee (village, région de Sikasso; village, région de Mopti)
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx Tilemusi
 \ps n.prop
@@ -4081,10 +4377,29 @@ invahisseurs marocains et les Songhaï en 1591)
 \xe
 \dt 30/Jan/2017
 
+\lx Wasolon
+\ps n.prop
+\ge TOP
+\gv Ouassoulou
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Welesebugu
 \ps n.prop
 \ge TOP
 \dt 21/Jan/2015
+
+\lx Wɛnzɛndugu
+\ps n.prop
+\ge TOP
+\gv Ouenzenbougou
+\ee (chef-lieu de la commune du Mandé, districte de Bamako,
+cercle de Kati)
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx Wikitoriya
 \ps n.prop

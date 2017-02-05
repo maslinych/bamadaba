@@ -1469,6 +1469,15 @@
 \ge NOM.M
 \dt 03/May/2010
 
+\lx Jibirili
+\ps n.prop
+\ge NOM.M
+\gv Djibril
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Jígi
 \di b
 \ps n.prop
@@ -2060,6 +2069,15 @@
 \ge NOM.F
 \dt 03/May/2010
 
+\lx Minanba
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
+
 \lx Mìsi
 \di b
 \ps n.prop
@@ -2396,10 +2414,12 @@
 
 \lx Ngɔ̀lɔ
 \va Ŋɔ̀lɔ
+\va Ngòlo
+\va Ŋòlo
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 05/Feb/2017
 
 \lx Nitiye
 \di
@@ -3214,8 +3234,8 @@
 \lx Tijani
 \di
 \ps n.prop
-\ge NOM
-\dt 03/May/2010
+\ge NOM.M
+\dt 04/Feb/2017
 
 \lx Tiramagan
 \di b
@@ -3339,6 +3359,15 @@ de l'enfant qui survit à sa mère morte en couches
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Yalam
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 02/Feb/2017
 
 \lx Yámusa
 \di b
