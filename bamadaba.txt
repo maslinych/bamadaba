@@ -29580,14 +29580,14 @@ quant à sa mère, elle prend de l'âge
 \smf (musulman qui a fait le pélerinage à la Mecque)
 \dt 04/Feb/2016
 
-\lx ɛndiyɛn
+\lx ɛ́ndiyɛn
 \ps adj/n
 \ge indien
 \gv
 \ee
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 06/Feb/2017
 
 \lx ɛntɛrinɛti
 \va ɛntɛrɛnɛti
@@ -60140,8 +60140,14 @@ prolapsus utérin
 \ve (f)
 \va kɔ́lɔkɔlɔ
 \ps n
+\sn 1
 \ge tambour
-\dt 16/Aug/2006
+\ee (de bois, pour chasser les singes et autres animaux des
+champs)
+\sn 2
+\gv tuyau
+\gv bobine
+\dt 06/Feb/2017
 
 \lx kólokolo
 \ps v
@@ -60150,19 +60156,22 @@ prolapsus utérin
 \dt 16/Aug/2006
 
 \lx kólokolo
+\va kólonkolon
+\va gólogolo
 \ps v
 \vl vt
 \sn 1
 \ge mettre.en.boule
 \sn 2
-\gv façonner.au.tour
-\gv donner.une.forme.cylindrique
-\dt 16/Aug/2006
-
-\lx kólokolo
-\ps v
-\ge rassembler
-\dt 28/Feb/2013
+\gv façonner au tour
+\gv donner une forme cylindrique
+\sn 3
+\gv rassembler
+\gv entasser
+\gv concentrer
+\sn 3
+\gv canaliser
+\dt 06/Feb/2017
 
 \lx kólokolo
 \ps v
@@ -88607,6 +88616,18 @@ sur soi, on les connaît
 \ps n
 \ge paroles.inutiles
 
+\lx nìnkini
+\va ɲìnkini
+\ps n
+\sn 1
+\ge part
+\ee (de la nourriture)
+\sn 2
+\gv intérêt
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx nìnnin
 \mm nìn:dtm/prn:DEM
 \mm nin:mrph:DIM
@@ -89619,11 +89640,12 @@ familiaux; viande très prisée, auladiculture)
 \ee pâte de beurre de karité
 \dt 16/Aug/2006
 
-\lx nkísinkàsá
+\lx nkísinkàsa
+\va gísingàsan
 \ve (-bn,-bk)
 \ps n
 \ge fleur.mâle.du.maïs
-\dt 16/Aug/2006
+\dt 06/Feb/2017
 
 \lx nkísinkàsá
 \ps v
@@ -102256,14 +102278,14 @@ envergure)
 \nt kb 2/05 p.2
 \dt 11/Nov/2007
 
-\lx pɔnpiye
+\lx pɔ́npiye
 \ps n
 \ge pompier
 \gv
 \ee
 \xv
 \xe
-\dt 04/Feb/2017
+\dt 06/Feb/2017
 
 \lx pɔ̀pɔ
 \ps n
@@ -109871,12 +109893,12 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \mm kólokolo:v:inciter
 \ps v
 \vl vt
-\ge élever
-\gv
+\ge maîtriser
+\gv contrôler
 \ee
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 06/Feb/2017
 
 \lx sìlamɛ
 \va àlisilamɛ
@@ -126382,14 +126404,14 @@ la Justice (kb 12/05 p.4)
 \ee statut spécial
 \dt 16/Aug/2006
 
-\lx wolowala
+\lx wólowala
 \ps adj
-\ge incomplet
+\ge clairsémé
 \gv
-\ee (épi de maïs)
-\xv
-\xe
-\dt 05/Feb/2017
+\ee
+\xv kùnsigi wólonwalalen
+\xe cheveux clairsemés
+\dt 06/Feb/2017
 
 \lx wòlowolo
 \ps v
