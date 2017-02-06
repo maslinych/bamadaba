@@ -13,11 +13,11 @@
 \lx ACALAN
 \ps n
 \ge ABR
-\gv Académi des Langues Nationales
+\gv Académie africaine des langues
 \ee
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 06/Feb/2017
 
 \lx Adema
 \ps n
@@ -94,6 +94,16 @@ Monde)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx AMALAN
+\ps n
+\ge ABR
+\gv AMALAN
+\gv Académie malienne des langues
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Amapu
 \ps n.prop
@@ -217,6 +227,16 @@ del Mali, prend le nom de Badema National en 1976)
 \xv
 \xe
 \dt 01/Feb/2017
+
+\lx Badi
+\ps n
+\ge ABT
+\gv BAD
+\gv Banque africaine de développement
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Banki Muni
 \ps n.prop
@@ -462,6 +482,15 @@ de la guerre du Mali)
 \ge pharaon
 \dt 05/Feb/2016
 
+\lx Fenisi
+\ps n
+\ge TOP
+\gv Phénicie
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Goli
 \ps n.prop
 \ge TOP
@@ -519,6 +548,14 @@ de la guerre du Mali)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Imowa
+\va UEMOA
+\ps n
+\ge ABR
+\gv UEMOA
+\gv Union Economique et Monétaire Ouest-Africaine
+\dt 06/Feb/2017
 
 \lx Inɛsiko
 \ps n
@@ -598,6 +635,15 @@ la culture
 \smf (chef de l'armée marocaine ayant vaincu l'armée songhaï en
 1591)
 \dt 06/Feb/2016
+
+\lx Kabili
+\ps n
+\ge Kabyle
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Kadafi
 \ps n.prop
@@ -1192,6 +1238,15 @@ Gbagbo)
 \xe
 \dt 15/Sep/2016
 
+\lx Tɔrɔnpu
+\ps n.prop
+\ge NOM.ETRG
+\gv Trump
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Tukulɛri
 \ps n
 \ge Toucouleur
@@ -1215,13 +1270,6 @@ Gbagbo)
 \ge UDPM
 \gv Union démocratique du peuple malien
 \dt 14/Sep/2015
-
-\lx UEMOA
-\ps n
-\ge ABR
-\gv UEMOA
-\gv Union Economique et Monétaire Ouest-Africaine
-\dt 07/Feb/2016
 
 \lx Wɛnzɛn Kùlubàli
 \ps n.prop

@@ -157,10 +157,11 @@
 \dt 05/Feb/2016
 
 \lx Andalusi
+\va Andalu
 \ps n.prop
 \ge TOP
 \gv Andalousie
-\dt 19/Dec/2012
+\dt 06/Feb/2017
 
 \lx Angleteri
 \va Ankili
@@ -232,6 +233,28 @@
 \gv Arménie
 \ru Армения
 \dt 23/May/2010
+
+\lx Ararusi
+\va Arawurusi
+\ps n.prop
+\ge TOP
+\gv Rharous
+\ee (commune, chef-lieu du cercle de Gourma-Rharous, région de
+Tombouctou)
+\xv
+\xe
+\dt 06/Feb/2017
+
+\lx Arawan
+\ps n.prop
+\ge TOP
+\gv Araouane
+\gv Arawan
+\ee (village 260 km au nord de Tombouktou, communauté
+Salam, Cercle de Tombouctou)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Arizantini
 \ty гос.
@@ -487,6 +510,15 @@
 \cm (в Сегу)
 \dt 05/Dec/2010
 
+\lx Bananba
+\ps n.prop
+\ge TOP
+\gv Banamba
+\ee (ville, centre de cercle, région de Koulikoro)
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Bánanisabakɔrɔ
 \ty кв.
 \ps n.prop
@@ -512,6 +544,17 @@
 \xv
 \xe
 \dt 01/Feb/2017
+
+\lx Banbara Mawude
+\ps n.prop
+\ge TOP
+\gv Bambara Maoudé
+\gv Bambara Maoundé
+\ee (commune dans le cercle de Gourma-Rharous, région de
+Tombouctou)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Bandama
 \ps n.prop
@@ -641,10 +684,11 @@ Comoé, Burkina Faso)
 \dt 01/Jun/2016
 
 \lx Barawuli
+\va Barawili
 \ps n.prop
 \ge TOP
 \gv Barouéli
-\dt 08/Feb/2016
+\dt 06/Feb/2017
 
 \lx Barazawil
 \va Barazaduu
@@ -682,6 +726,16 @@ Comoé, Burkina Faso)
 \gv Bathurst
 \cm (с1973 г.  - Банджул)
 \dt 23/May/2010
+
+\lx Báwulen
+\va Báwule
+\ps n.prop
+\ge TOP
+\gv Baoulé
+\ee (fleuve)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Becuwanaduu
 \va Becuwanadugu
@@ -1361,6 +1415,15 @@ Tadmekka)
 \xe
 \dt 04/Feb/2017
 
+\lx Fororifemayi
+\ps n.prop
+\ge TOP
+\gv Forori-Femaye
+\ee (village, région de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Fɔrulami
 \ty г.
 \ru Форт-Лами
@@ -1416,6 +1479,15 @@ Tadmekka)
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Gabera
+\ps n.prop
+\ge TOP
+\gv Gabera
+\ee (une localité au Nord du Mali)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Gabon
 \va Gabɔ́n
@@ -1524,6 +1596,15 @@ Tadmekka)
 \sy Kɔ́nɔwari
 \dt 23/May/2010
 
+\lx Gerenadi
+\ps n.prop
+\ge TOP
+\gv Grenade
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Gɛrɛsi
 \ps n.prop
 \ge TOP
@@ -1532,6 +1613,15 @@ Tadmekka)
 \xv
 \xe
 \dt 31/May/2016
+
+\lx Gidime
+\ps n.prop
+\ge TOP
+\gv Guidimé
+\ee (commune dans le cercle de Yélimané, région de Kayes)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Gíne
 \ps n.prop
@@ -1749,6 +1839,15 @@ Ségou)
 \xe
 \dt 24/Oct/2016
 
+\lx Ja-Bozo
+\ps n.prop
+\ge TOP
+\gv Diabozo
+\ee (village, cercle de Ténenkou, région de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Jadakuru
 \ty гос.
 \ps n.prop
@@ -1756,6 +1855,15 @@ Ségou)
 \gv Sierra Leone
 \ru Сьерра-Леоне
 \dt 23/May/2010
+
+\lx Jafarabe
+\ps n.prop
+\ge TOP
+\gv Diafarabé
+\ee (commune au cercle de Ténenkou, région de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Jafaranakɔ
 \ps n.prop
@@ -1765,6 +1873,16 @@ Ségou)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Jafunu
+\va Jafunun
+\ps n.prop
+\ge TOP
+\gv Diafounou
+\ee (zone historique dans le cercle de Yélimané, région de Kayes)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Jaka
 \ps n.prop
@@ -1780,6 +1898,15 @@ Ségou)
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Jalube
+\ps n.prop
+\ge TOP
+\gv Dialloubé
+\ee (commune dans le cercle et région de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Jannegala
 \ps n.prop
@@ -1860,11 +1987,11 @@ Ségou)
 \lx Jijɛnin
 \ps n.prop
 \ge TOP
-\gv Didieni
+\gv Didiéni
 \ee (une commune rurale, cercle de Kolokani)
 \xv
 \xe
-\dt 31/Jan/2017
+\dt 06/Feb/2017
 
 \lx Jikɔrɔnin-Para
 \ps n.prop
@@ -1950,6 +2077,15 @@ région de Mopti)
 \gv
 \dt 07/Nov/2014
 
+\lx Kabiyo
+\ps n.prop
+\ge TOP
+\gv Kabio
+\ee (village, région de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Kacɔrɔnin
 \ps n.prop
 \ge TOP
@@ -2022,6 +2158,16 @@ région de Mopti)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Kalana
+\ps n.prop
+\ge TOP
+\gv Kalana
+\ee (chef-lieu de la commune de Gouandiaka, cercle de Yanfolila,
+région de Sikasso)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Kameruni
 \va Kamerun
@@ -2100,6 +2246,15 @@ Léraba, région des Cascades, Burkina Faso)
 \gv Kampala
 \ru Кампала
 \dt 23/May/2010
+
+\lx Kaɲaga Kirane
+\ps n.prop
+\ge TOP
+\gv Kirané Kaniaga
+\ee (une commune dans le cercle de Yélimané, de Kayes)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Kapolondugu
 \ps n.prop
@@ -2565,6 +2720,15 @@ région de Koulikoro)
 \ru Кот-д'Ивуар
 \dt 03/Feb/2017
 
+\lx Kɔrɔdu
+\ps n.prop
+\ge TOP
+\gv Cordoue
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Kɔ́rɔfina
 \va Korofinna
 \ps n.prop
@@ -2573,6 +2737,16 @@ région de Koulikoro)
 \ee (un quartier de la Commune 1 de Bamako)
 \cm (в Бамако)
 \dt 01/Jun/2016
+
+\lx Kubi
+\ps n.prop
+\ge TOP
+\gv Koubi
+\ee (chef-lieu de la commune de Ouro Guiré, cercle de
+Ténenkou, région de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Kucala
 \ps n.prop
@@ -2875,6 +3049,16 @@ Tombouctou)
 \smf (commune dans le cercle de Ségou)
 \dt 08/Feb/2016
 
+\lx Marenna
+\ps n.prop
+\ge TOP
+\gv Marena
+\ee (village, centre de commune Tringa, cercle de Yélimané,
+région de Kayes)
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Masabugu
 \ps n.prop
 \ge TOP
@@ -2926,6 +3110,15 @@ Koulikoro)
 \smf (ville et cercle au Mali)
 \cm (в Мали, с центром в г. Мопти)
 \dt 08/Feb/2016
+
+\lx Maso
+\ps n.prop
+\ge TOP
+\gv Masso
+\ee (village, cercle de Ténenkou, région de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Medinakura
 \ps n.prop
@@ -3238,6 +3431,8 @@ région de Ségou)
 
 \lx Nɔnsɔnbugu
 \va Nɔsɔnbugu
+\va Nɔsɔnbugu
+\va Nosɔnbugu
 \ps n.prop
 \ge TOP
 \gv Nonsonbougou
@@ -3245,7 +3440,7 @@ région de Ségou)
 \ee (commune, cercle de Kolokani, région de Koulikoro)
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 06/Feb/2017
 
 \lx Nɔriwɛzi
 \ps n.prop
@@ -3485,12 +3680,13 @@ Koulikoro)
 \dt 05/Feb/2017
 
 \lx Palɛstini
+\va Palɛsitini
 \ty гос.
 \ps n.prop
 \ge TOP
 \gv Palestine
 \ru Палестина
-\dt 23/May/2010
+\dt 06/Feb/2017
 
 \lx Pàri
 \ty г.
@@ -3561,6 +3757,15 @@ Koulikoro)
 \gv Pologne
 \ru Польша
 \dt 05/Feb/2016
+
+\lx Pɔndori
+\ps n.prop
+\ge TOP
+\gv Pondori
+\ee (une commune dans le cercle de Djenné, région de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Pɔri Zanti
 \ps n.prop
@@ -3640,6 +3845,24 @@ Koulikoro)
 \ps n.prop
 \ge TOP
 \dt 07/Nov/2014
+
+\lx Safo
+\ps n.prop
+\ge TOP
+\gv Safo
+\ee (une commune dans le Cercle de Kati, région de Koulikoro)
+\xv
+\xe
+\dt 06/Feb/2017
+
+\lx Sagabala
+\ps n.prop
+\ge TOP
+\gv Sagabala
+\ee (commune dans le cercle de Kolokani, région de Koulikoro)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Sahara
 \ty пуст.
@@ -3877,14 +4100,15 @@ international)
 \xe
 \dt 30/Jan/2017
 
-\lx Sewiyi
+\lx Sewili
+\va Sewiyi
 \ps n.prop
 \ge TOP
 \gv Seville
 \ee
 \xv
 \xe
-\dt 15/Sep/2016
+\dt 06/Feb/2017
 
 \lx Sɛndeni
 \ty г.
@@ -4053,6 +4277,17 @@ international)
 \xe
 \dt 01/Feb/2017
 
+\lx Sofala
+\ps n.prop
+\ge TOP
+\gv Sofala
+\gv Kaka
+\ee (chef-lieu de la commune de Fakala, cercle de Djenné, région
+de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Sogbɛ
 \ty кв.
 \ru Согбе
@@ -4149,6 +4384,15 @@ international)
 \ru Cудан
 \dt 23/May/2010
 
+\lx Sudandisidi
+\ps n.prop
+\ge TOP
+\gv Sudan du Sud
+\ee
+\xv
+\xe
+\dt 05/Feb/2017
+
 \lx Sugula
 \ps n.prop
 \ge TOP
@@ -4208,6 +4452,16 @@ village d'Essouk, région de Kidal)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Tamanin
+\va Tamani
+\ps n.prop
+\ge TOP
+\gv Tamani
+\ee (commune au cercle de Baraouéli, région de Ségou)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Tamarasɛti
 \ps n.prop
@@ -4318,6 +4572,15 @@ village d'Essouk, région de Kidal)
 \xv
 \xe
 \dt 01/Feb/2017
+
+\lx Tiringa
+\ps n.prop
+\ge Tringa
+\gv
+\ee (commune dans le cercle de Yélimané, région de Kayes)
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx Tiripoli
 \ps n.prop
@@ -4645,6 +4908,15 @@ cercle de Kati)
 \xe
 \dt 04/Jun/2016
 
+\lx Yɔngari
+\ps n.prop
+\ge TOP
+\gv Yongari
+\ee (village, région de Mopti)
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Yɔrɔso
 \va Yoroso
 \ps n.prop
@@ -4694,7 +4966,7 @@ cercle de Kati)
 \ee (ville et commune, cercle de Bougouni, région de Sikasso)
 \xv
 \xe
-\dt 01/Feb/2017
+\dt 06/Feb/2017
 
 \lx Zapɔn
 \ty гос.

@@ -5520,6 +5520,19 @@ furoncles, inf. urinaires
 \sm (au sens sacramentel chez les chrétiens)
 \dt 16/Aug/2006
 
+\lx bátigɛba
+\mm bá:n:fleuve
+\mm tìgɛ:v:couper
+\mm ba:mrph:AUGM
+\ps n
+\ge traversée.de.Diafarabé
+\gv
+\ee (traversée annuelle du Niger par les troupes de bovins, une
+grande fête peule)
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx bátigɛbaa
 \mm bá:n:fleuve
 \mm tìgɛ:v:couper
@@ -5751,6 +5764,15 @@ feu
 \ps onomat
 \ge avec.fracas.et.subitement
 \dt 16/Aug/2006
+
+\lx bawule
+\ps n
+\ge Baoulé
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx báwuli
 \ps n
@@ -19271,7 +19293,6 @@ sur soi)
 \ps n
 \sn 1
 \ge endroit
-\lt (endroit.bout)
 \xv ...dákun ná
 \xe en ce qui concerne, sous le rapport de...
 \xv í tɛ́nɛmuso, í tɛ́ sé  kà ɲɛ́bɔ  ò fɛ̀  cɛ̀nimusoya dákun ná
@@ -19285,9 +19306,9 @@ sur soi)
 \xe elle est arrivée à la ménopause
 \sn 4
 \gv tour
-\lt (tour.unité)
 \xv dɔ̀lɔdon dákun bɛ́  kàrisa lá
 \xe c'est le tour d'un telle de faire de la bière
+\dt 06/Feb/2017
 
 \lx dákun
 \mm dá:v:créer
@@ -22753,6 +22774,16 @@ génitales ...
 \xv né déliɲɔgɔn...òlu ɲìnɛna né kɔ́
 \xe mes amis intimes ... m'ont tous oubliés (Job 19, 14)
 \dt 11/Nov/2007
+
+\lx demifinali
+\va demi-finali
+\ps n
+\ge démi-finale
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx démokarasi
 \ps n
@@ -26379,6 +26410,19 @@ chefs religieux et représentants de l'administration
 \ge épier
 \dt 26/Sep/2006
 
+\lx dɔ́farankan
+\mm dɔ́:prn:certain
+\mm fàra:v:ajouter
+\mm ń:pers:1SG
+\mm kàn:pp:sur
+\ps n
+\ge augmentation
+\gv rajout
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx dɔ́gɔ
 \va dwá
 \va jwá
@@ -28132,7 +28176,10 @@ désorienter')
 
 \lx dùgusɛjɛ
 \mm dùgu:n:terre
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
+\va dùgusajɛ
+\mm dùgu:n:terre
+\mm jɛ́:adj:blanc
 \ps n
 \sn 1
 \ge aurore
@@ -28140,7 +28187,7 @@ désorienter')
 \gv lendemain.matin
 \sy dùgujɛ
 \lt (sol. ?. blanc)
-\dt 26/Sep/2006
+\dt 06/Feb/2017
 
 \lx dùgutaa
 \mm dùgu:n:terre
@@ -29456,6 +29503,16 @@ quant à sa mère, elle prend de l'âge
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx eretɛrɛti
+\va ɛrɛtɛrɛti
+\ps n
+\ge retraite
+\gv pension
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx erezɔn
 \ps n
@@ -34764,7 +34821,18 @@ frontières, forestiers, sapeurs)
 \sn 2
 \gv faire.chavirer
 \ee (une embarcation ...)
-\dt 26/Sep/2006
+\sn 3
+\gv tout perdre
+\gv perdre sa situation
+\gv faire faillite
+\sn 4
+\gv s'abattre
+\gv se précipiter
+\sn 5
+\gv se déverser
+\gv être nombreux
+\gv venir en nombre
+\dt 06/Feb/2017
 
 \lx fírifiri
 \va fŕifri
@@ -52161,6 +52229,15 @@ l'eau est prête
 \lt (débauché.suf abs)
 \dt 26/Sep/2006
 
+\lx kakawo
+\ps n
+\ge cacao
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx kàko
 \ps n
 \ge noix.de.coco
@@ -56415,6 +56492,18 @@ prolapsus utérin
 \xe mieux vaut "déjà!" que "trop tard!" (dicton)
 \dt 16/Aug/2006
 
+\lx kélennajɔ
+\mm kélen:num:un
+\mm ná:pp:dans
+\mm jɔ̀:v:mettre.debout
+\ps adj
+\ge isolé
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx kèlennakuma
 \mm kélen:num:un
 \mm ná:pp:dans
@@ -58003,16 +58092,24 @@ prolapsus utérin
 
 \lx kɛ́rɛnkɛrɛn
 \ps v
-\sn 1
+\sn 1.1
+\vl vi
+\ge être.à.part
+\sn 1.2
 \vl vt
-\ge mettre.de.côté
+\gv faire à part
+\sn 2
+\vl vt
+\gv mettre.de.côté
+\gv réserver
+\gv économiser
 \xv ń bɛ́ ń bólo kɛ́rɛnkɛrɛn  nìn wári kàn
 \xe je vais m'efforcer de garder soigneusement cet argent
-\sn 2
+\sn 3
 \vl v ?
 \gv se.garder
 \ee (de toute mauvaise action)
-\dt 08/Nov/2012
+\dt 06/Feb/2017
 
 \lx kɛ́rɛnkɛrɛnnenya
 \mm kɛ́rɛnkɛrɛn:v:mettre.de.côté
@@ -59425,6 +59522,15 @@ prolapsus utérin
 \ee (d'une action bonne ou mauvaise...)
 \lt (action.faire.absence)
 
+\lx kòkò
+\ps n
+\ge hémorroïdes
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx kòkoroko
 \ps n
 \ge griot.peul
@@ -60636,12 +60742,13 @@ prolapsus utérin
 \dt 16/Aug/2006
 
 \lx kómi
+\va kómin
 \bw fr : comme = id
 \ps prep/conj
 \ge comme
 \gv puisque
 \cf íkomi
-\dt 18/Jan/2015
+\dt 06/Feb/2017
 
 \lx komini
 \ps n
@@ -63562,6 +63669,17 @@ ou une proposition)
 \lt (ventre.gonflement)
 \dt 26/Sep/2006
 
+\lx kɔ́nɔfuru
+\mm kɔ́nɔ:n:ventre
+\mm fùru:n:estomac
+\ps n
+\ge ventre
+\gv panse
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx kɔ́nɔgan
 \mm kɔ́nɔ:n:ventre
 \mm gàn:v:chauffer
@@ -65997,6 +66115,16 @@ ou une proposition)
 \ge se.détourner
 \lt (dos.diriger)
 \dt 26/Sep/2006
+
+\lx kɔ̀sɔ
+\va kɔ̀sɔn
+\ps n
+\ge gerçure
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx kɔ́sɔkɔsɔ
 \ps adv
@@ -72306,6 +72434,47 @@ kúrunninle
 \xe sa vue avait tellement baissé qu'il n'y voyait plus / mes yeux sont usés de chagrin (Ps 88, 10)
 \dt 11/Nov/2007
 
+\lx láfiɲɛ
+\mm lá:mrph:CAUS
+\mm fíɲɛ:v:sécher
+\va láfiyɛn
+\mm lá:mrph:CAUS
+\mm fíyɛn:v:sécher
+\va rɔ́fiyɛn
+\mm rɔ́:mrph:IN
+\mm fíyɛn:v:sécher
+\ps v
+\sn 1
+\vl vr
+\ge se.reposer
+\gv se.calmer
+\xv cɛ̀ !  í t'í láfiyɛn ?
+\xe eh ! tu ne pourrais pas rester tranquille ?
+\sn 2
+\vl vt
+\gv diminuer
+\gv alléger
+\xv í sɛ̀gɛn láfiyɛn !
+\xe repose-toi !
+\dt 06/Feb/2017
+
+\lx láfiɲɛ
+\mm lá:mrph:CAUS
+\mm fíɲɛ:v:sécher
+\va láfiyɛn
+\mm lá:mrph:CAUS
+\mm fíyɛn:v:sécher
+\va rɔ́fiyɛn
+\mm rɔ́:mrph:IN
+\mm fíyɛn:v:sécher
+\ps n
+\ge repos
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx làfiri
 \va lèfiri
 \ps n
@@ -72367,31 +72536,6 @@ kúrunninle
 \sm (sabbat des juifs, dimanche des chrétiens, vendredi des musulmans)
 \sy láfiyɛndon
 \dt 11/Nov/2007
-
-\lx láfiyɛn
-\mm lá:mrph:CAUS
-\mm fíyɛn:v:sécher
-\va lá.fiɲɛ
-\mm lá:mrph:CAUS
-\mm fíɲɛ:v:sécher
-\va rɔ́.fiyɛn
-\mm rɔ́:mrph:IN
-\mm fíyɛn:v:sécher
-\lt (préf.alléger)
-\ps v
-\sn 1
-\vl vr
-\ge se.reposer
-\gv se.calmer
-\xv cɛ̀ !  í t'í láfiyɛn ?
-\xe eh ! tu ne pourrais pas rester tranquille ?
-\sn 2
-\vl vt
-\gv diminuer
-\gv alléger
-\xv í sɛ̀gɛn láfiyɛn !
-\xe repose-toi !
-\dt 26/Sep/2006
 
 \lx láfoni
 \mm lá:mrph:CAUS
@@ -73140,6 +73284,17 @@ kúrunninle
 \xv dén lákana ká gɛ̀lɛn  wólo yé
 \xe élever un enfant est plus difficile que de le mettre au monde
 \dt 26/Sep/2006
+
+\lx lákana
+\mm lá:mrph:CAUS
+\mm kána:v:protéger
+\ps n
+\ge sécurité
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx lákanabaliya
 \mm lá.kana:v:protéger
@@ -79470,10 +79625,13 @@ invulnérable aux serpents, aux fauves ...)
 \mm màra:v:garder
 \mm yɔ́rɔ:n:lieu
 \ps n
+\sn 1
 \ge entrepôt
+\gv dépôt
 \gv magasin
-\lt (garder.endroit)
-\dt 26/Sep/2006
+\sn 2
+\gv région
+\dt 06/Feb/2017
 
 \lx màri
 \ps n
@@ -80152,6 +80310,7 @@ des engagements
 \lt (préf.secouer)
 
 \lx méleke
+\va mélege
 \ps v
 \sn 1
 \vl vt
@@ -80165,7 +80324,7 @@ des engagements
 \gv faire.un.détour
 \xv í tílen  síra mà, kàna táa méleke  síra wɛ́rɛ fɛ̀
 \xe prends directement cette route, ne fais pas de détour par un autre chemin
-\dt 26/Sep/2006
+\dt 06/Feb/2017
 
 \lx mère
 \ps n
@@ -80684,6 +80843,15 @@ des engagements
 \ps n
 \ge microphone
 \dt 25/Jan/2013
+
+\lx miligaramu
+\ps n
+\ge milligrame
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx mìlikimálaka
 \ps n
@@ -100896,6 +101064,15 @@ envergure)
 \ge récipient
 \ee (pour le transport des liquides : seau, bidon ...)
 
+\lx palɛ
+\ps n
+\ge palais
+\gv
+\ee (résidence d'un souverain ou un noble)
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx pàlonpálon
 \ps n
 \ge vagabondage
@@ -101665,6 +101842,27 @@ envergure)
 \ge piqûre
 \gv
 \dt 05/Feb/2016
+
+\lx pikiri
+\ps v
+\vl vt
+\ge faire.piqûre
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
+\lx pikiribara
+\mm pikiri:n:piqûre
+\mm bàra:n:calebasse
+\ps n
+\ge seringue
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx pílili
 \ps n
@@ -103628,11 +103826,12 @@ épuisés
 \lx sàlaya
 \mm sàla:vq:être.paresseux
 \mm ya:mrph:DEQU
+\va sàliya
 \ps n
 \ge paresse
 \gv fainéantise
 \lt (paresse.suf abs)
-\dt 26/Sep/2006
+\dt 06/Feb/2017
 
 \lx sàlaya
 \mm sàla:vq:être.paresseux
@@ -108755,13 +108954,13 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 16/Aug/2006
 
 \lx sí
-\ps dtm
+\ps dtm/prn
 \ge aucun
 \xv mɔ̀gɔ sí
 \xe personne, aucune personne
 \xv ù sí má sé  kà sí láse  sí mà
 \xe aucun d'eux n'a pu attirer l'autre à soi(aucun n'a pu attirer aucun à aucun !)
-\dt 12/Aug/2006
+\dt 06/Feb/2017
 
 \lx sí
 \ps v
@@ -111388,6 +111587,18 @@ donne d'excellentes fibres)
 \ge mulet
 \lt (cheval.âne)
 
+\lx sofɛri
+\va sofɛrikɛ
+\mm sofɛri:n:chauffeur
+\mm kɛ:adj:mâle
+\ps n
+\ge chauffeur
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx sófìlawùlunin
 \mm só:n:maison
 \mm fìla:num:deux
@@ -113940,6 +114151,18 @@ euphémique)
 \ps n
 \ge sucre
 \dt 12/Aug/2006
+
+\lx súkarodunbana
+\mm súkaro:n:sucre
+\mm dún:v:manger
+\mm bàna:n:maladie
+\ps n
+\ge diabète
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx sùkasi
 \mm sù:n:cadavre
@@ -116961,12 +117184,14 @@ fiançailles
 \mm tà:v:prendre
 \mm li:mrph:NMLZ
 \ps n
-\ge vol
-\gv action de prendre
+\sn 1
+\ge action de prendre
+\sn 2
+\gv vol
 \lt (prendre.action)
 \xv tàli kɛ́
 \xe voler
-\dt 26/Sep/2006
+\dt 06/Feb/2017
 
 \lx táli
 \ps onomat
@@ -117356,13 +117581,14 @@ fiançailles
 \dt 26/Sep/2006
 
 \lx tánsiyɔn
+\va tánsɔn
 \ps n
 \ge tension
 \gv
 \ee
 \xv
 \xe
-\dt 31/Jan/2017
+\dt 06/Feb/2017
 
 \lx tàntan
 \va tɛ̀ntɛn
@@ -117482,10 +117708,11 @@ fiançailles
 \dt 25/Oct/2016
 
 \lx tàra
+\va tàta
 \ps n
 \ge forteresse
 \gv rempart
-\dt 26/Sep/2006
+\dt 06/Feb/2017
 
 \lx tàra
 \ve (bn)
@@ -120570,6 +120797,32 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gv saboteur
 \sm personne qui gâte, fait échouer ...
 \dt 05/Apr/2016
+
+\lx tìɲɛtigiya
+\mm tìɲɛ:n:vérité
+\mm tigi:n:maître
+\mm ya:mrph:ABSTR
+\ps v
+\vl vt
+\ge confirmer
+\gv reconnaître pour vrai
+\gv donner raison à
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
+\lx tìɲɛtigiya
+\mm tìɲɛ:n:vérité
+\mm tigi:n:maître
+\mm ya:mrph:ABSTR
+\ps n
+\ge confirmation
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
 
 \lx tìri
 \va ntìiri
@@ -123937,10 +124190,13 @@ bruyants, près du sol, dans les fourrés)
 \dt 05/Jan/2015
 
 \lx wà
-\ps prt
-\ge bon
-\gv alors !
-\dt 16/Aug/2006
+\ps conj
+\ge alors
+\gv et puis
+\gv pourtant
+\gv mais
+\gv or
+\dt 06/Feb/2017
 
 \lx wà
 \ps v
