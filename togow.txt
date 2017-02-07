@@ -14,13 +14,14 @@
 \va Abdulayi
 \va Abudulayi
 \va Abudɛli
+\va Abuduli
 \di b
 \va Abdlaye
 \va Ábudu
 \va Abilayi
 \ps n.prop
 \ge NOM.M
-\dt 01/Feb/2017
+\dt 06/Feb/2017
 
 \lx Abduraman
 \va Abudurahamani
@@ -1872,6 +1873,15 @@
 \ge NOM.M
 \dt 03/May/2010
 
+\lx Madani
+\ps n.prop
+\ge NOM
+\gv Madani
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Mádi
 \va Màdú
 \di b
@@ -3278,7 +3288,8 @@ de l'enfant qui survit à sa mère morte en couches
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\gv Oumar
+\dt 07/Feb/2017
 
 \lx Úmù
 \di b

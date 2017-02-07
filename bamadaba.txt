@@ -590,6 +590,15 @@
 \ge l'au-delà
 \dt 16/Aug/2006
 
+\lx alikɔli
+\ps n
+\ge alcool
+\gv
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx àlimami
 \bw ar: al-imam = id.
 \ps n
@@ -15155,9 +15164,12 @@ sur soi)
 \lx cɛ́la
 \mm cɛ́:n:milieu
 \mm la:mrph:LOC
+\va cɛ́rɔ
+\mm cɛ́:n:milieu
+\mm rɔ́:pp:IN
 \ps n
 \ge relations
-\dt 23/Apr/2013
+\dt 07/Feb/2017
 
 \lx cɛ́lajala
 \mm cɛ́:n:milieu
@@ -23964,15 +23976,15 @@ assumant que l'interclocuteur pense autrement)
 \ge échouer
 \gv défaillir
 \sy kɛ́ɲɛ
-\xv ù ná dɛ́sɛ  síra lá
+\xv ù ná dɛ́sɛ síra lá
 \xe ils vont défaillir en route
-\xv Ála tɛ́ dɛ́sɛ  fóyi lá
+\xv Ála tɛ́ dɛ́sɛ fóyi lá
 \xe rien n'est impossible à Dieu
 \sn 2
 \gv manquer.en.quantité
 \xv síramugu dɛ́sɛlen  né dá
 \xe je n'ai presque plus de tabac en bouche
-\dt 26/Sep/2006
+\dt 07/Feb/2017
 
 \lx dɛ́sɛ
 \va dɛ́sɛn
@@ -32467,6 +32479,20 @@ compagnie ...
 \xv
 \xe
 \dt 31/Jan/2017
+
+\lx fàsokanunci
+\mm fàso:n:patrie
+\mm fà:n:père
+\mm só:n:maison
+\mm kànu:n:amour
+\mm nci:mrph:AG.EX
+\ps n
+\ge patriote
+\gv
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx fàsolamɔgɔ
 \mm fàso:n:patrie
@@ -41361,6 +41387,17 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \xe
 \dt 12/Jun/2016
 
+\lx gɛ̀nɛngɛnɛn
+\va gɛ̀nɛgɛnɛ
+\va ngɛ̀nɛngɛnɛ
+\ps n
+\ge ganglion
+\gv
+\ee (du à une plaie)
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx gɛ́ngɛn
 \va gwɛ́ngwɛn
 \ph [gwɛn-gwɛn]
@@ -45493,6 +45530,17 @@ qqch ...)
 \gv faire l'important
 \dt 05/Apr/2016
 
+\lx jàmaden
+\mm jàma:n:foule
+\mm dén:n:enfant
+\ps n
+\ge citoyen
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx jàmadonfini
 \mm jàma:n:foule
 \mm dón:n:jour
@@ -47129,6 +47177,17 @@ qqch ...)
 \rem l 89 porte-feuille / du : sacoche, giberne / traditionnel, vérifier fabrication
 \dt 11/Nov/2007
 
+\lx jɛ̀mufanga
+\mm jɛ̀mu:n:parole
+\mm fànga:n:force
+\ps n
+\ge démocratie
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx jɛ̀n
 \va dìɲɛ
 \ps v
@@ -47700,12 +47759,18 @@ nos libations "
 \lx jìgin
 \vc jìgi
 \ps v
-\sn 1
+\sn 1.1
 \vl vi
 \ge descendre
 \gv atterrir
 \xv à jìginna ń kɔ́nɔ
 \xe je m'en suis souvenu
+\sn 1.2
+\vl vt
+\ge descendre de
+\xv ù tùn bɛ́ ɲɔ́gɔn gɛ́nna kà bón bíli yɛ̀lɛn, k'à jìgin
+\xe ils étaient en train de courir l'un après l'autre, il montaient sur
+le toit de la maison et descendaient
 \sn 2
 \vl vt
 \gv déposer
@@ -47738,7 +47803,7 @@ nos libations "
 \gv rappeler
 \xv í kà  né hákili jìgin  ò lá !
 \xe rappelle-le moi !
-\dt 16/Nov/2014
+\dt 07/Feb/2017
 
 \lx jìginda
 \mm jìgin:v:descendre
@@ -52994,6 +53059,33 @@ l'eau est prête
 \ge archer
 \dt 11/Nov/2007
 
+\lx kálaya
+\mm kála:vq:chaud
+\mm ya:mrph:ABSTR
+\ps v
+\sn 1
+\vl vi
+\ge chauffer
+\gv faire chauffer
+\sn 1
+\vl vi
+\gv se dépêcher
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
+\lx kálaya
+\mm kála:vq:chaud
+\mm ya:mrph:ABSTR
+\ps n
+\ge chaleur
+\gv
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx kále
 \bw ar: kuhl = id.
 \ps n
@@ -56199,6 +56291,15 @@ prolapsus utérin
 \lt (têtu.suf abs)
 \dt 26/Sep/2006
 
+\lx katoliki
+\ps n
+\ge catholique
+\gv
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx kàtugu
 \ps conj
 \ge parce.que
@@ -58281,6 +58382,35 @@ prolapsus utérin
 \ge estimer
 \dt 26/Sep/2006
 
+\lx kíiri
+\va kíri
+\va kíiti
+\va kíti
+\ps n
+\ge jugement
+\gv procès
+\xv kíri tɛ́  dùgakɔrɔ ní  wùlusu cɛ́
+\xe il n'y a pas de procès entre un vautour et un cadavre de chien (prov)
+\xv kíri tìgɛ  màa kàn
+\xe juger qqn en justice
+\xv kíri bìn  màa kàn
+\xe juger coupable qqn, le punir
+\dt 06/Feb/2017
+
+\lx kíiriso
+\mm kíiri:n:jugement
+\mm só:n:maison
+\va kíriso
+\mm kíri:n:jugement
+\mm só:n:maison
+\ps n
+\ge tribunal
+\gv
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx kíisa
 \ps n
 \sn 1
@@ -58601,21 +58731,6 @@ prolapsus utérin
 \gv prophétie
 \lt (prophète.suf abs)
 \dt 04/Apr/2016
-
-\lx kíri
-\va kíiri
-\va kíti
-\va kíiti
-\ps n
-\ge jugement
-\gv procès
-\xv kíri tɛ́  dùgakɔrɔ ní  wùlusu cɛ́
-\xe il n'y a pas de procès entre un vautour et un cadavre de chien (prov)
-\xv kíri tìgɛ  màa kàn
-\xe juger qqn en justice
-\xv kíri bìn  màa kàn
-\xe juger coupable qqn, le punir
-\dt 03/Apr/2016
 
 \lx kíri
 \va kíiri
@@ -63081,11 +63196,12 @@ champs)
 \ps v
 \vl vi
 \ge devancer
+\gv précéder
 \xv dɔ́ bɛ́ kɔ̀n ń ɲɛ́
 \xe quelqu'un me devance
 \xv án nà kɔ̀n  kà dúmuni kɛ́ bì
 \xe aujourd'hui nous dînerons avant l'heure
-\dt 26/Sep/2006
+\dt 07/Feb/2017
 
 \lx kɔ́n
 \ps n
@@ -106213,6 +106329,24 @@ paniers, sègi)
 \lt (panier.petit)
 \dt 19/Aug/2006
 
+\lx sèginkanni
+\mm sègin:v:revenir
+\mm ń:pers:1SG
+\mm kàn:pp:sur
+\mm ni:mrph:NMLZ
+\va sèginnkanni
+\mm sègi:v:revenir
+\mm ń:pers:1SG
+\mm kàn:pp:sur
+\mm ni:mrph:NMLZ
+\ps n
+\ge répétition
+\gv
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx sèginmaatɔ
 \mm sègin:v:revenir
 \mm màa:n:homme
@@ -109227,21 +109361,21 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm síga:n:doute
 \mm ń:pers:je
 \mm ná:pp:dans
-\va sígi.ń.ná
+\va sígińná
 \mm sígi:n:doute
 \mm ń:pers:je
 \mm ná:pp:dans
-\va síga.na
+\va sígana
 \mm síga:n:doute
 \mm ná:pp:dans
-\va sígi.na
+\va sígina
 \mm sígi:n:doute
 \mm ná:pp:dans
 \ps n
 \ge soupçon
-\lt (doute.moi.en)
 \xv síginna t'á lá, sán bɛ́ nà bì
 \xe il n'y a pas de doute, il va pleuvoir aujourd'hui
+\dt 07/Feb/2017
 
 \lx síga-ń-yɛ̀rɛ-lá
 \mm síga:n:doute
@@ -111011,8 +111145,11 @@ donne d'excellentes fibres)
 \mm tìgɛ:v:couper
 \mm la:mrph:AG.PRM
 \ps n
+\sn 1
 \ge brigand
-\lt (route.couper.celui qui)
+\sn 2
+\gv celui qui traverse la route
+\dt 07/Feb/2017
 
 \lx sìratu
 \bw ar: sirat = voie (terme musulman)
@@ -128185,6 +128322,7 @@ Mali)
 
 \lx yánkan
 \va yánga
+\va ɲánga
 \ve bS
 \ps v
 \sn 1
@@ -128219,7 +128357,7 @@ soient définitivement données à leur mari)
 \gv monter
 \gv grimper
 \sm (sur -- kàn, sánfɛ̀)
-\dt 29/Mar/2015
+\dt 07/Feb/2017
 
 \lx yánkan
 \va yánga
@@ -128935,12 +129073,15 @@ comportement (LD p.5)
 
 \lx yɛ̀lɛn
 \ps v
-\sn 1
+\sn 1.1
 \vl vi
 \ge monter
 \gv grimper
 \xv à yɛ̀lɛnna  sò kàn
 \xe il est monté sur le cheval
+\sn 1.2
+\vl vt
+\gv monter sur
 \sn 2
 \vl vi
 \gv s'élever
@@ -128955,7 +129096,7 @@ comportement (LD p.5)
 \vl vt
 \gv retrousser
 \sm (une manche ...)
-\dt 26/Sep/2006
+\dt 07/Feb/2017
 
 \lx yɛ̀lɛn
 \ps n
@@ -129607,6 +129748,15 @@ comportement (LD p.5)
 \vl vi
 \ge trembler
 \dt 26/Sep/2006
+
+\lx yɛ́rɛyɛrɛ
+\ps n
+\ge tremblement
+\gv
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx yɛ́rɛyɛrɛbaatɔ
 \mm yɛ́rɛyɛrɛ:v:trembler

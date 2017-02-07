@@ -181,6 +181,15 @@ Monde)
 \xe
 \dt 01/Jun/2016
 
+\lx Arawulu
+\ps n.prop
+\ge NOM.ETRG
+\gv Raul
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx Arisinari
 \ps n.prop
 \ge Archinard.Louis
@@ -270,6 +279,15 @@ del Mali, prend le nom de Badema National en 1976)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Benuwa
+\ps n.prop
+\ge NOM.ETRG
+\gv Benoît
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Bewoyade
 \ps n
@@ -444,6 +462,15 @@ de la guerre du Mali)
 \xe
 \dt 30/Jan/2017
 
+\lx Ɛli Besiri
+\ps n.prop
+\ge NOM.ETRG
+\gv  Omar al-Bashir
+\ee (président du Sudan)
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx Ɛmɛnela
 \ps n
 \ge ABR
@@ -482,6 +509,15 @@ de la guerre du Mali)
 \ge pharaon
 \dt 05/Feb/2016
 
+\lx Felikisi
+\ps n.prop
+\ge NOM.ETRG
+\gv Félix
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx Fenisi
 \ps n
 \ge TOP
@@ -491,6 +527,34 @@ de la guerre du Mali)
 \xe
 \dt 06/Feb/2017
 
+\lx Fidɛli
+\ps n.prop
+\ge NOM.ETRG
+\gv Fidel
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
+\lx FLASH
+\ps n
+\ge ABR
+\gv FLASH
+\gv Faculté des Lettres Langues Arts et Sciences Humaines
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
+\lx Gereguwari
+\ps n.prop
+\ge NOM.ETRG
+\gv Grégoire
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx Goli
 \ps n.prop
 \ge TOP
@@ -499,6 +563,15 @@ de la guerre du Mali)
 \lx goluwa
 \ps n
 \ge gaulois
+
+\lx Gubagubo
+\ps n.prop
+\ge Gbagbo
+\gv
+\ee (Laurent Gbagbo, le président de Côte d'Ivoire en 2001-2011)
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Harisi
 \ps n
@@ -532,6 +605,19 @@ de la guerre du Mali)
 \xv
 \xe
 \dt 30/Jan/2017
+
+\lx Hufuyɛti Buwaɲi
+\va Hufuyeti Buwaɲi
+\va Hufuwɛti Buwaɲi
+\va Ufuwɛti Buwaɲi
+\va Huyɛti Buwaɲi
+\ps n.prop
+\ge NOM.ETRG
+\gv Félix Houphouët-Boigny
+\ee (le premier président de Côte d'Ivoire)
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Ibilisa
 \ps n.prop
@@ -636,6 +722,15 @@ la culture
 1591)
 \dt 06/Feb/2016
 
+\lx Kabarali
+\ps n.prop
+\ge NOM
+\gv Cabral
+\ee
+\xv
+\xe
+\dt 06/Feb/2017
+
 \lx Kabili
 \ps n
 \ge Kabyle
@@ -670,6 +765,15 @@ la culture
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Kasitoro
+\ps n.prop
+\ge NOM.ETRG
+\gv Castro
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Katiba
 \ps n
@@ -755,14 +859,14 @@ la culture
 \xe
 \dt 15/Sep/2016
 
-\lx Loran Gubagubo
+\lx Loran
 \ps n.prop
-\ge Laurent Gbagbo
-\gv
-\ee (président de Côte d'Ivoire en 2001-2011)
+\ge NOM.ETRG
+\gv Laurent
+\ee
 \xv
 \xe
-\dt 03/Feb/2017
+\dt 07/Feb/2017
 
 \lx maani
 \ps n
@@ -1074,6 +1178,15 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xe
 \dt 15/Sep/2016
 
+\lx Sarili
+\ps n.prop
+\ge NOM.ETRG
+\gv Charles
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx Sarili Bile Gude
 \ps n.prop
 \ge Charles Blé Goudé
@@ -1083,6 +1196,15 @@ Gbagbo)
 \xv
 \xe
 \dt 03/Feb/2017
+
+\lx Selɛsitɛn
+\ps n.prop
+\ge NOM.ETRG
+\gv Sélestin
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Senidi
 \va CNID
@@ -1220,6 +1342,15 @@ Gbagbo)
 \gv Thora
 \dt 21/Dec/2014
 
+\lx Tayilɔri
+\ps n.prop
+\ge NOM.ETRG
+\gv Taylor
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx Tifinari
 \ps n
 \ge Tifinagh
@@ -1246,6 +1377,16 @@ Gbagbo)
 \xv
 \xe
 \dt 06/Feb/2017
+
+\lx TPI
+\ps n
+\ge ABR
+\gv TPI
+\gv Tribunal Pénal International
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Tukulɛri
 \ps n
@@ -1308,6 +1449,15 @@ Gbagbo)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Zan Poli
+\ps n.prop
+\ge NOM.M
+\gv Jean-Paul
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Zeyiya
 \ps n

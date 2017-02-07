@@ -32,6 +32,16 @@
 \xe
 \dt 31/May/2016
 
+\lx Adarari-dɛ-ziforasi
+\ps n.prop
+\ge TOP
+\gv Adrar des Ifoghas
+\ee (un massif montagneux au Nord-Est du Mali et dans le Sud
+de l'Algérie)
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx Adisabeba
 \va Adisi Abeba
 \di b
@@ -332,6 +342,15 @@ Salam, Cercle de Tombouctou)
 \ty ок.
 \ru Атлантический
 \dt 23/May/2010
+
+\lx Awiɲɔn
+\ps n.prop
+\ge TOP
+\gv Avignon
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Azani
 \di b
@@ -860,6 +879,15 @@ Comoé, Burkina Faso)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
+\lx Bolivi
+\ps n.prop
+\ge TOP
+\gv Bolivie
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx Bósola
 \va Bózola
 \ps n.prop
@@ -879,6 +907,15 @@ Comoé, Burkina Faso)
 \xv
 \xe
 \dt 04/Feb/2017
+
+\lx Bɔsuwana
+\ps n.prop
+\ge TOP
+\gv Botswana
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Buguba
 \ps n.prop
@@ -2738,6 +2775,15 @@ région de Koulikoro)
 \cm (в Бамако)
 \dt 01/Jun/2016
 
+\lx Kuba
+\ps n.prop
+\ge TOP
+\gv Cuba
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx Kubi
 \ps n.prop
 \ge TOP
@@ -3657,6 +3703,15 @@ Koulikoro)
 \gv Autriche
 \ru Австрия
 \dt 05/Feb/2016
+
+\lx Ɔrɔmu
+\ps n.prop
+\ge TOP
+\gv Rome
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Ɔtiwɔlita
 \va Otiwolita
@@ -4777,6 +4832,15 @@ invahisseurs marocains et les Songhaï en 1591)
 \xv
 \xe
 \dt 02/Feb/2017
+
+\lx Watikan
+\ps n.prop
+\ge TOP
+\gv Vatican
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Welesebugu
 \ps n.prop
