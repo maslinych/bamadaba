@@ -1493,6 +1493,16 @@
 \lt (vaut rien.personne)
 \dt 16/Aug/2006
 
+\lx báaya
+\ps n
+\ge serment
+\gv
+\ee (de ne pas enfreindre les règles de la religion)
+\xv
+\xe
+\cm bay` 'marché, transaction'
+\dt 08/Feb/2017
+
 \lx bàba
 \va bàaba
 \va bwà
@@ -21064,11 +21074,12 @@ rétribution mais à titre de réciprocité)
 \dt 26/Sep/2006
 
 \lx dánkan
+\va dángan
 \ps n
 \ge berge
 \gv bord
 \gv quai
-\dt 01/Feb/2017
+\dt 08/Feb/2017
 
 \lx dánkan
 \mm dá:v:poser
@@ -27213,9 +27224,9 @@ l'occasion d'une naissance)
 \mm kɔ̀nɔ:v:attendre
 \ps n
 \ge Safar
-\sm deuxième mois de l'année lunaire
+\sm (deuxième mois de l'année lunaire)
 \lt (3ème mois.attente)
-\dt 16/Aug/2006
+\dt 08/Feb/2017
 
 \lx dɔ̀ndɔrɔnin
 \ps n
@@ -28063,12 +28074,16 @@ désorienter')
 \mm dùgu:n:terre
 \mm ma:mrph:COM
 \mm na:mrph:LOC
+\va dùgumala
+\mm dùgu:n:terre
+\mm ma:mrph:COM
+\mm la:mrph:LOC
 \ps n
 \ge sol
 \gv niveau.du.sol
 \gv plancher
 \lt (par terre.lieu)
-\dt 26/Sep/2006
+\dt 08/Feb/2017
 
 \lx dùgumanaso
 \mm dùgu:n:terre
@@ -36004,14 +36019,14 @@ frontières, forestiers, sapeurs)
 \lx fòfo
 \ps v
 \sn 1
+\vl vi/vr
+\ge ramper
+\sn 2
 \vl vt
-\ge traîner.par.terre
+\gv traîner par terre
 \xv né bɛ́  bɔ̀rɔ fòfo  dùgu mà, né tɛ́ sé  à kɔ́rɔ
 \xe je tire le sac par terre (car) je suis incapable de le porter
-\sn 2
-\vl vi/vr
-\gv ramper
-\dt 16/Aug/2006
+\dt 08/Feb/2017
 
 \lx fòfofɛn
 \mm fòfo:v:traîner.par.terre
@@ -51857,13 +51872,24 @@ l'eau est prête
 \lx kábakuru
 \mm kába:n:pierre
 \mm kùru:n:boule
-\va kába.kurun
+\va kábakurun
 \mm kába:n:pierre
-\mm kùrun:vq/adj:court
+\mm kùrun:n:boule
 \ps n
 \ge bloc.de.pierre
 \lt (pierre.bloc)
-\dt 16/Aug/2006
+\dt 08/Feb/2017
+
+\lx kàbakurun
+\mm kàba:n:ciel
+\mm kùrun:n:boule
+\ps n
+\ge nuage
+\gv
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
 
 \lx kábalitomi
 \mm kába:v:s'étonner
@@ -63083,6 +63109,52 @@ champs)
 \gv répondre
 \dt 30/Mar/2014
 
+\lx kɔ́mayɛ̀lɛma
+\mm kɔ́:n:dos
+\mm mà:pp:à
+\mm yɛ̀lɛma:v:changer
+\ps v
+\sn 1
+\vl vr
+\ge se.tourner
+\gv tourner le dos
+\sn 2
+\vl vr
+\gv repartir
+\gv retourner
+\sn 3.1
+\vl vi
+\gv s'éloigner
+\gv se séparer
+\sn 3.2
+\vl vt
+\gv faire s'éloigner
+\sn 3.2
+\vl vr
+\gv s'éloigner
+\gv se séparer
+\sm (faire exprès)
+\sn 2
+\vl vt
+\gv traduire
+\ee (d'une langue à l'autre)
+\sn 3
+\vl vr
+\gv
+\sn
+\vl
+\gv
+\sn
+\vl
+\gv
+\sn
+\vl
+\gv
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx kɔ́mi
 \ps v
 \vl vt
@@ -69285,6 +69357,18 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lt (personne.échanger)
 \dt 26/Sep/2006
 
+\lx kùnmafili
+\mm kùn:n:tête
+\mm mà:pp:à
+\mm fìli:v:jeter
+\ps n
+\ge désordre
+\gv confusion
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx kùnmajìgin
 \mm kùn:n:tête
 \mm mà:mrph:SUPER
@@ -69994,6 +70078,20 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \vl vr
 \gv baisser.la.tête
 \dt 26/Sep/2006
+
+\lx kùnnasúmaya
+\mm kùn:n:tête
+\mm ná:mrph:CAUS
+\mm súmaya:v:rafraîchir
+\mm súma:vq:lent
+\mm ya:mrph:DEQU
+\ps v
+\ge rendre.lent
+\gv rendre calme
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
 
 \lx kùnnatà
 \mm kùn:n:tête
@@ -71557,7 +71655,16 @@ kúrunninle
 \vl vr
 \gv se.moquer
 \sm de ...la
-\dt 26/Sep/2006
+\dt 08/Feb/2017
+
+\lx láafu
+\ps n
+\ge faiblesse
+\gv
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
 
 \lx láahawula
 \va láayilaa
@@ -72359,6 +72466,19 @@ kúrunninle
 \lt (préf.faire savoir)
 \dt 26/Sep/2006
 
+\lx ládɔnniya
+\mm lá:mrph:CAUS
+\mm dɔ́n:v:connaître
+\mm ni:mrph:NMLZ
+\mm ya:mrph:ABSTR
+\ps n
+\ge notification
+\gv information
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx ládumuni
 \mm lá:mrph:CAUS
 \mm dúmuni:v:nourrir
@@ -72892,6 +73012,16 @@ kúrunninle
 \lt (préf.se précipiter)
 \dt 16/Aug/2006
 
+\lx lagolago
+\ps v
+\vl vi
+\ge haleter
+\gv
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx lágòsi
 \mm lá:mrph:CAUS
 \mm gòsi:v:battre
@@ -73145,10 +73275,14 @@ kúrunninle
 \mm lá:mrph:CAUS
 \mm jàrabi:v:se.passionner
 \ps v
+\sn 1
 \vl vt
 \ge rendre.éperdu.d'amour
-\lt (préf.se passionner)
-\dt 16/Aug/2006
+\sn 2
+\vl vt
+\gv éprouver
+\gv tenter
+\dt 08/Feb/2017
 
 \lx lájɛ
 \mm lá:mrph:CAUS
@@ -73665,6 +73799,15 @@ kúrunninle
 \gv connaître.personnellement
 \dt 26/Sep/2006
 
+\lx lakolako
+\ps
+\ge
+\gv
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx lákolo
 \mm lá:mrph:CAUS
 \mm kólo:v:éduquer
@@ -73788,6 +73931,21 @@ kúrunninle
 \sn 2
 \gv bien.examiner
 \dt 26/Sep/2006
+
+\lx lákɔmayɛ̀lɛma
+\mm lá:mrph:CAUS
+\mm kɔ́:n:dos
+\mm mà:pp:à
+\mm yɛ̀lɛma:v:changer
+\ps v
+\vl vt
+\ge faire.se.séparer
+\gv faire s'éloigner
+\gv brouiller
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
 
 \lx lákɔmi
 \mm lá:mrph:CAUS
@@ -74394,6 +74552,18 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lt (préf.flatter)
 \dt 26/Sep/2006
 
+\lx lánɛnɛ
+\mm lá:mrph:CAUS
+\mm nɛ́nɛ:v:goûter
+\ps v
+\vl vt
+\ge éprouver
+\gv tester
+\ee (avec des souffrances; un mot coranique)
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx lánɛ̀rɛmugu
 \mm lá:mrph:CAUS
 \mm nɛ̀rɛ:n:nèrè.de.Gambie
@@ -74545,12 +74715,21 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm ɲága:v:activer.le.feu
 \ps v
 \vl vt
-\sn 1
+\sn
 \ge activer
-\sn 2
-\gv divertir
-\lt (préf.divertir)
-\dt 16/Aug/2006
+\gv attiser
+\gv raviver
+\dt 08/Feb/2017
+
+\lx láɲàga
+\va láɲàa
+\ps v
+\ge divertir
+\gv faire se réjouir
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
 
 \lx láɲagali
 \mm lá:mrph:CAUS
@@ -77422,7 +77601,7 @@ jour, c'est une personne dépendante qu'il voit
 \lx màgan
 \va màga
 \va màa
-\ps vq
+\ps vq/adj
 \sn 1
 \ge mou
 \gv souple
@@ -77431,7 +77610,7 @@ jour, c'est une personne dépendante qu'il voit
 \sn 2
 \gv grave
 \sm (en parlant d'une voix)
-\dt 26/Sep/2006
+\dt 08/Feb/2017
 
 \lx màgan
 \ps n
@@ -81461,11 +81640,11 @@ nord-est
 \dt 24/Oct/2012
 
 \lx mínnu
-\mm mín:prn:REL
+\mm mín:dtm:REL
 \mm nú:mrph:PL2
 \ps dtm
 \ge REL.PL2
-\dt 04/Feb/2016
+\dt 08/Feb/2017
 
 \lx mínsigi
 \va fínsigi
@@ -95058,25 +95237,55 @@ graines, sert d'instrument rythmique)
 \gv argent
 
 \lx ɲàga
+\va ɲàa
 \ps n
 \ge réjouissance
+\gv fête
 \gv spectacle
-\dt 26/Sep/2006
+\dt 08/Feb/2017
 
 \lx ɲàga
+\va ɲàa
 \ps v
+\sn
 \vl vi
 \ge se.réjouir
+\sn 2
+\vl vi
+\gv être satisfait
 \xv né ɲàgara  báarakɛla nɔ̀ ná
 \xe je fus content du travail des ouvriers
-\dt 16/Aug/2006
+\sn 3
+\vl vi
+\gv être vaniteux
+\gv faire l'important
+\dt 08/Feb/2017
 
 \lx ɲága
 \va ɲáka
 \ps v
+\sn 1.1
 \vl vt
-\ge activer.le.feu
-\dt 16/Aug/2006
+\ge activer
+\gv animer
+\sn 1.2
+\vl vi
+\gv bien prendre
+\sn 2
+\vl vi
+\gv envenimer
+\ee (dispute)
+\sn 3
+\vl vt
+\gv attirer
+\ee (regard)
+\sn 4.1
+\vl vi
+\gv proliférer
+\sn 4.2
+\vl vt
+\gv faire proliférer
+\dt 08/Feb/2017
 
 \lx ɲàgajilama
 \mm ɲàga:n:résidu
@@ -95151,9 +95360,10 @@ graines, sert d'instrument rythmique)
 
 \lx ɲàgari
 \va ɲànkari
+\va ɲàngari
 \ps n
 \ge moquerie
-\dt 22/Mar/2015
+\dt 08/Feb/2017
 
 \lx ɲàgaribɔ
 \mm ɲàgari:n:moquerie
@@ -98704,12 +98914,17 @@ graines, sert d'instrument rythmique)
 \mm ɲɛ́:n:oeil
 \mm síran.yɛ:n:peur
 \mm síran:v:craindre
+\va ɲɛ́siranɲɛ
+\mm ɲɛ́:n:oeil
+\mm síran:v:craindre
+\mm ń:pers:1SG
+\mm ɲɛ́:pp:devant
 \ps n
 \ge peur
 \gv crainte.respectueuse
 \lt (regard.avoir peur.suf abs)
 \ee ɲɛsiran.n.ɲɛ ?
-\dt 21/Dec/2014
+\dt 08/Feb/2017
 
 \lx ɲɛ́sìri
 \mm ɲɛ́:n:oeil
@@ -104039,20 +104254,25 @@ épuisés
 \mm sàla:vq:être.paresseux
 \mm ya:mrph:DEQU
 \va sàliya
+\mm sàla:vq:être.paresseux
+\mm ya:mrph:DEQU
 \ps n
 \ge paresse
 \gv fainéantise
 \lt (paresse.suf abs)
-\dt 06/Feb/2017
+\dt 08/Feb/2017
 
 \lx sàlaya
+\mm sàla:vq:être.paresseux
+\mm ya:mrph:DEQU
+\va sàliya
 \mm sàla:vq:être.paresseux
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \ge rendre.paresseux
 \lt (paresse.suf caus)
-\dt 16/Aug/2006
+\dt 08/Feb/2017
 
 \lx sàlogoni
 \ps n
@@ -106631,8 +106851,8 @@ paniers, sègi)
 \mm kálo:n:lune
 \ps n
 \ge 12e.mois.lunaire
-\lt (Tabaski.mois)
-\dt 16/Aug/2006
+\gv mois de la Tabaski
+\dt 08/Feb/2017
 
 \lx sélibali
 \mm séli:v:prier
@@ -106641,6 +106861,22 @@ paniers, sègi)
 \ge non-musulman
 \lt (prier.ne pas)
 \dt 16/Aug/2006
+
+\lx sélibamakɔnɔkalo
+\mm séli.ba:n:Tabaski
+\mm séli:n:prière
+\mm ba:mrph:AUGM
+\mm màkɔ̀nɔ:v:attendre
+\mm mà:mrph:SUPER
+\mm kɔ̀nɔ:v:attendre
+\mm kálo:n:lune
+\ps n
+\ge 11e.mois.lunaire
+\gv dou-l-qa’da
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
 
 \lx sélidenninkalo
 \mm séli:n:prière
@@ -108379,6 +108615,19 @@ gouvernement le soutient (kb 5/06 p.7)
 \sn 2
 \gv filtrer
 \dt 30/Oct/2014
+
+\lx sɛ̀fancɛkalo
+\mm sɛ̀:n:poule
+\mm fàn:n:côté
+\mm cɛ̀:v:ramasser
+\mm kálo:n:lune
+\ps n
+\ge 7e.mois.lunaire
+\gv Rajab
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
 
 \lx sɛ́gɛ
 \ps n
@@ -114756,7 +115005,7 @@ euphémique)
 \dt 26/Sep/2006
 
 \lx súmaya
-\mm súma:vq/adj:lent
+\mm súma:vq:lent
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -114775,7 +115024,7 @@ euphémique)
 \xe la pluie m'a retardé dans les semis
 \xv ò làada bɛ́ kà súmaya
 \xe ces coutumes sont en train de se perdre (elles ralentissent)
-\dt 26/Sep/2006
+\dt 08/Feb/2017
 
 \lx súmesunsun
 \mm sùnsun:n:kaki.de.brousse
@@ -129941,6 +130190,15 @@ comportement (LD p.5)
 \gv avoir peur
 \dt 26/Sep/2006
 
+\lx yíranyiran
+\ps n
+\ge hésitation
+\gv perplexité
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx yíranyirannci
 \mm yíranyiran:v:hésiter
 \mm nci:mrph:AG.EX
@@ -130281,6 +130539,20 @@ généreuses, avec bourrelets
 \xv í nà  yɔ́rɔ sɔ̀rɔ  kà nà wá ?
 \xe trouveras-tu le temps de venir ?
 \dt 26/Sep/2006
+
+\lx yɔ́rɔjanya
+\mm yɔ́rɔ:n:lieu
+\mm jànya:v:allonger
+\mm jàn:vq:long
+\mm ya:mrph:DEQU
+\ps v
+\vl vt
+\ge éloigner
+\gv placer loin de
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
 
 \lx yɔ́rɔjumɛka
 \mm yɔ́rɔ:n:lieu
