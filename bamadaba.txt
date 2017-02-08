@@ -4341,9 +4341,9 @@ Fleurs spectaculaires
 \lx bánki
 \ps n
 \ge banque
-\sy wáriso
+\sy wáriso, wárimaraso
 \sy wáribon
-\dt 05/Apr/2016
+\dt 08/Feb/2017
 
 \lx bànkómà
 \mm bàn:v:refuser
@@ -25397,13 +25397,17 @@ chefs religieux et représentants de l'administration
 
 \lx dògodogo
 \ps v
+\sn 1
 \vl vt
-\ge (se).cacher
+\ge cacher
 \xv ɲɔ́gɔn dògodogo
 \xe garder un secret entrer entre nous
 \xv màa dògodogo  kó dɔ́ lá
 \xe parler d'une affaire à qqn en secret
-\dt 03/Apr/2016
+\sn 2
+\vl vi
+\gv se cacher
+\dt 08/Feb/2017
 
 \lx dógodogo
 \ps n
@@ -45433,6 +45437,27 @@ qqch ...)
 \lt (ceinture.faire échouer)
 \dt 16/Aug/2006
 
+\lx jálatigɛ
+\ps n
+\sn 1
+\ge arbitre
+\sn 2
+\gv responsable de l'association de classe d'âge
+\ee (celui qui inflige les amendes)
+\xv
+\xe
+\dt 07/Feb/2017
+
+\lx jálatìgɛ
+\ps v
+\vl vt
+\ge arbitrer
+\gv
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx jàlatigɛbaa
 \mm jàla:n:cordon
 \mm tìgɛ:v:couper
@@ -58679,9 +58704,20 @@ prolapsus utérin
 \xe en beaucoup d'endroits, la porte de la case s'ouvre du côté droit
 \dt 07/Feb/2016
 
-\lx kínikini
+\lx kìnikini
+\va kìninkinin
 \ps n
+\sn 1
 \ge pitié
+\sn 2
+\gv plainte
+\gv lamentation
+\sn 3
+\gv idées noires
+\sn 4
+\gv dénué de sens, 
+\gv confus
+\dt 08/Feb/2017
 
 \lx kínima
 \mm kíni:n:droite
@@ -68698,6 +68734,17 @@ l'intérieur une ou deux graines)
 \gv préoccupation
 \dt 21/Dec/2014
 
+\lx kùnkàn
+\mm kùn:n:tête
+\mm kàn:pp:sur
+\ps pp
+\ge à.propos.de
+\gv
+\ee
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx kùnkanko
 \mm kùn:n:tête
 \mm kàn:pp:sur
@@ -76504,6 +76551,16 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ge teinture.bleu.foncé
 \ee (brillant)
 \dt 16/Aug/2006
+
+\lx lònbolanba
+\ps v
+\ge se.balancer
+\ee (pour une personne bien en chair)
+\gv se déhancher
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx lònkan
 \ps n
@@ -91058,10 +91115,9 @@ graines, sert d'instrument rythmique)
 \gv poursuivre
 \sn 2
 \gv imiter
-\lt (trace.prendre)
 \xv ń'í táara, ń ń'í nɔ̀minɛ
 \xe si tu t'en vas, je te suivrai
-\dt 26/Sep/2006
+\dt 08/Feb/2017
 
 \lx nɔ̀mitɔ
 \mm nɔ̀mi:n:bec
@@ -101616,6 +101672,15 @@ envergure)
 \sm d'un geste fort et sec
 \dt 19/Jan/2015
 
+\lx payasi
+\ps n
+\ge paillasse
+\gv
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
+
 \lx páyi
 \bw fr: paillette
 \ps n
@@ -101711,6 +101776,15 @@ envergure)
 \ee petit pagne de dessous, sorte de jupe
 \dt 26/Sep/2006
 
+\lx pépewu
+\ps adv
+\ge complètement
+\gv tout à fait
+\ee (refus, échec; une forme intensive de péwu)
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx pérefe
 \ps n
 \ge préfet
@@ -101780,9 +101854,9 @@ envergure)
 \lx péwu
 \ps adv
 \ge complètement
-\gv tout.à.fait
+\gv tout à fait
 \sm (refus, échec ...)
-\dt 19/Jan/2015
+\dt 08/Feb/2017
 
 \lx pɛ́cɛkɛ
 \ps n
@@ -113189,6 +113263,26 @@ euphémique)
 \nt trouver une meilleure traduction
 \dt 03/Apr/2016
 
+\lx sɔ̀minɛ
+\mm sɔ̀:mrph:EN
+\mm mìnɛ:v:attraper
+\ps v
+\sn 1
+\vl vr
+\ge supporter
+\gv endurer
+\sn 2
+\vl vr
+\gv patienter
+\gv se retenir
+\ee (de -- lá)
+\sn 3
+\vl vr
+\gv s'abstenir
+\xv
+\xe
+\dt 08/Feb/2017
+
 \lx sɔ̀miniminɛn
 \mm sɔ̀mi:v:soupçonner
 \mm ni:mrph:NMLZ
@@ -121437,10 +121531,11 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tómo
 \va tómon
+\va tónbon
 \ps n
 \ge ruines
 \sm (de maisons, de villages ...)
-\dt 26/Sep/2006
+\dt 07/Feb/2017
 
 \lx tómongɔyin
 \mm tómo:n:ruines
@@ -125255,6 +125350,7 @@ aîné ... (Kb 11/06 p.4)
 
 \lx wáraka
 \va wálaka
+\va wáranga
 \ps v
 \vl vt
 \sn 1
@@ -125266,7 +125362,7 @@ aîné ... (Kb 11/06 p.4)
 \sm (un par un)
 \sn 3
 \gv dépecer
-\dt 21/Feb/2014
+\dt 07/Feb/2017
 
 \lx wárakata
 \mm wáraka:v:démonter
@@ -125493,6 +125589,19 @@ aîné ... (Kb 11/06 p.4)
 \xv wárimarala dánkan
 \xe trésorier adjoint
 \dt 11/Nov/2007
+
+\lx wárimaraso
+\mm wári:n:argent
+\mm màra:v:garder
+\mm só:n:maison
+\ps n
+\ge banque
+\gv
+\ee
+\syn bánki, wáribon, wáriso
+\xv
+\xe
+\dt 08/Feb/2017
 
 \lx wárimisɛn
 \mm wári:n:argent

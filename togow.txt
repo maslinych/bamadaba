@@ -15,13 +15,14 @@
 \va Abudulayi
 \va Abudɛli
 \va Abuduli
+\va Abudulu
 \di b
 \va Abdlaye
 \va Ábudu
 \va Abilayi
 \ps n.prop
 \ge NOM.M
-\dt 06/Feb/2017
+\dt 07/Feb/2017
 
 \lx Abduraman
 \va Abudurahamani
@@ -579,13 +580,6 @@
 \ge NOM.M
 \dt 03/May/2010
 
-\lx Birahima
-\va Brahima
-\di
-\ps n.prop
-\ge NOM.M
-\dt 03/May/2010
-
 \lx Biratigɛ
 \di b
 \ps n.prop
@@ -667,41 +661,17 @@
 \ge NOM.M
 \dt 03/May/2010
 
-\lx Bùrama
-\va Bùrema
-\va Buram
-\va Bram
-\di b
-\ps n.prop
-\ge NOM.M
-\dt 05/Feb/2016
-
-\lx Burayima
-\va Burayma
-\va Brɛyma
-\va Bureyima
-\di b
-\ps n.prop
-\ge NOM.M
-\dt 31/Jan/2017
-
-\lx Bùrémàn
-\di m
-\ps n.prop
-\ge NOM.M
-\dt 03/May/2010
-
 \lx Buru
 \di
 \ps n.prop
 \ge NOM
 \dt 03/May/2010
 
-\lx Bùruláyi
+\lx Bùrulayì
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 08/Feb/2017
 
 \lx Bwàlì
 \di b
@@ -1342,10 +1312,22 @@
 \va Berehima
 \va Béremà
 \va Bírimà
+\va Birama
+\va Birahima
+\va Brahima
+\va Bùrama
+\va Bùrema
+\va Bùremàn
+\va Buram
+\va Bram
+\va Burayima
+\va Burayma
+\va Brɛyma
+\va Bureyima
 \di
 \ps n.prop
 \ge NOM.M
-\dt 31/Jan/2017
+\dt 08/Feb/2017
 
 \lx Ídrìsa
 \va Idirisa
@@ -3204,6 +3186,15 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Tɛnɛman
+\ps n.prop
+\ge NOM.M
+\gv
+\ee
+\xv
+\xe
+\dt 07/Feb/2017
 
 \lx Tɛ̀nɛn
 \di m
