@@ -590,14 +590,14 @@
 \ge l'au-delà
 \dt 16/Aug/2006
 
-\lx alikɔli
+\lx álikɔli
 \ps n
 \ge alcool
 \gv
 \ee
 \xv
 \xe
-\dt 07/Feb/2017
+\dt 09/Feb/2017
 
 \lx àlimami
 \bw ar: al-imam = id.
@@ -761,14 +761,14 @@
 \ps n
 \ge radio
 
-\lx arasa
+\lx àrasa
 \ps n
 \ge rasta
 \gv
 \ee
 \xv
 \xe
-\dt 01/Feb/2017
+\dt 13/Feb/2017
 
 \lx àrayeda
 \ps n
@@ -5648,11 +5648,11 @@ grande fête peule)
 \xe personne qui vénère les fétiches / prosélyte, nouveau converti .... (kb 8/05 p.3)
 \dt 11/Nov/2007
 
-\lx baton
+\lx bàton
 \ps n
 \ge bateau
 \gv
-\dt 01/Feb/2017
+\dt 13/Feb/2017
 
 \lx batondankan
 \mm baton:n:bateau
@@ -9482,7 +9482,9 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gv modèle
 \xv ó bólo kàn
 \xe dé cétte manière
-\dt 03/Apr/2016
+\xv kà táa í bólo fɛ̀
+\xe suivre son cours
+\dt 09/Feb/2017
 
 \lx bólo
 \ps pp
@@ -21546,6 +21548,15 @@ génitales ...
 \ge sillon
 \lt (semis.ligne)
 
+\lx dànnkuntan
+\ps adj
+\ge sans.limites
+\gv sans.bornes
+\ee
+\xv
+\xe
+\dt 14/Feb/2017
+
 \lx dánɔgɔ
 \mm dá:n:bouche
 \mm nɔ̀gɔ:vq:facile
@@ -24626,7 +24637,7 @@ chefs religieux et représentants de l'administration
 \xv díkisɛ dɔ́ bɛ́ táa  nkàmo tà, án b'á fɔ́  ò mà kó : "dínkamo"
 \xe certaines abeilles vont chercher du pollen que nous appelons "dinkamo"
 
-\lx dínma
+\lx díńmà
 \mm dí:v:donner
 \mm ń:pers:1SG
 \mm mà:pp:à
@@ -24636,7 +24647,7 @@ chefs religieux et représentants de l'administration
 \ee
 \xv
 \xe
-\dt 01/Feb/2017
+\dt 13/Feb/2017
 
 \lx dínɔnɔ
 \mm dí:n:miel
@@ -25028,7 +25039,7 @@ chefs religieux et représentants de l'administration
 
 \lx díyabaatɔ
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -25044,16 +25055,16 @@ chefs religieux et représentants de l'administration
 \lt (jouir.sujet)
 \sn 2
 \gv aimant.la.vie
-\dt 07/Feb/2016
+\dt 11/Feb/2017
 
 \lx díyabɔ
 \mm díya:n:bon.goût
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \ps v
 \ge jouir.de
 \gv profiter de
-\dt 27/Mar/2014
+\dt 11/Feb/2017
 
 \lx díyagoya
 \mm dí.ya:n:bon.goût
@@ -32939,7 +32950,7 @@ bien (dicton)
 \xe dans l'après-midi
 \xv sàgoma fɛ̀
 \xe le matin
-\dt 25/Apr/2016
+\dt 11/Feb/2017
 
 \lx fɛ̀
 \ps n
@@ -37110,14 +37121,14 @@ frontières, forestiers, sapeurs)
 \lt (front.contenant)
 \dt 26/Sep/2006
 
-\lx fɔndasɔn
+\lx fɔ́ndasɔn
 \ps n
 \ge fondation
 \gv
 \ee
 \xv
 \xe
-\dt 03/Feb/2017
+\dt 14/Feb/2017
 
 \lx fɔ́nfɔn
 \ps n
@@ -40340,14 +40351,14 @@ forestières, fruit : long follicule de 50 cm)
 \xe ils ont attrapé le voleur "garawu"!
 \dt 19/Jan/2015
 
-\lx garɛ
+\lx gárɛ
 \ps n
 \ge gare
 \gv
 \ee
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 13/Feb/2017
 
 \lx gàribu
 \va gèrebu
@@ -41590,20 +41601,22 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 
 \lx gɛ̀rɛngɛrɛnnin
 \mm nin:mrph:DIM
+\va gwɛ̀rɛngwɛrɛnnin
+\mm nin:mrph:DIM
 \ps n
 \sn 1
 \ge coeurs-volants
 \sy sìfilɛjirinin
-\lt ('gɛrɛngɛrɛn'.petit)
 \sn 2
 \gv plante.Hymenocardia.acida
 \sd euph
-\ee arbuste ---> 5 / 6 m, graine en forme de coeur, caractéristique)
+\ee (arbuste ---> 5 / 6 m, graine en forme de coeur,
+caractéristique, réputé pour faciliter la procréation)
 \sn 3
 \gv plante.Hymenocardia.lyrata
 \sd euph
 \ee arbre ---> 10 / 15 m, graine en forme de lyre
-\dt 19/Aug/2006
+\dt 10/Feb/2017
 
 \lx gɛ̀rɛn-kà-dá
 \mm gɛ̀rɛn:v:faire.évaporer
@@ -47101,12 +47114,12 @@ qqch ...)
 \mm kà:pm:INF
 \mm wúli:v:se.lever
 \ps n
-\ge mobilisation
+\ge soulevement
 \gv
 \ee
 \xv
 \xe
-\dt 02/Feb/2017
+\dt 14/Feb/2017
 
 \lx jɛ́kɛnɛ
 \mm jɛ́:n:le.blanc
@@ -48484,6 +48497,17 @@ le toit de la maison et descendaient
 \sn 2
 \gv frire
 \dt 26/Sep/2006
+
+\lx jìranko
+\mm jìra:v:montrer
+\mm kó:n:affaire
+\ps n
+\ge action.importante
+\gv action significative
+\ee
+\xv
+\xe
+\dt 13/Feb/2017
 
 \lx jíri
 \va yíri
@@ -52345,14 +52369,14 @@ l'eau est prête
 \lt (débauché.suf abs)
 \dt 26/Sep/2006
 
-\lx kakawo
+\lx kàkawo
 \ps n
 \ge cacao
 \gv
 \ee
 \xv
 \xe
-\dt 06/Feb/2017
+\dt 13/Feb/2017
 
 \lx kàko
 \ps n
@@ -53810,14 +53834,6 @@ prolapsus utérin
 \lt (pintade.crête)
 \dt 16/Aug/2006
 
-\lx kan
-\ps n
-\ge camp.militaire
-\ee
-\xv
-\xe
-\dt 22/May/2016
-
 \lx kàn
 \ps pp
 \sn 1
@@ -53868,6 +53884,14 @@ prolapsus utérin
 \gv tondre
 \ee (couper les cheveux)
 \dt 26/Sep/2006
+
+\lx kàn
+\ps n
+\ge camp.militaire
+\ee
+\xv
+\xe
+\dt 13/Feb/2017
 
 \lx kán
 \ps n
@@ -56067,14 +56091,14 @@ prolapsus utérin
 \xe engueuler qqn
 \dt 03/Apr/2016
 
-\lx kasɛti
+\lx kásɛti
 \ps n
 \ge cassette
 \gv
 \ee
 \xv
 \xe
-\dt 01/Feb/2017
+\dt 13/Feb/2017
 
 \lx kàsi
 \ps n
@@ -56261,7 +56285,9 @@ prolapsus utérin
 \gv bataille.violente
 \gv bagarre
 \gv dispute
-\dt 08/Apr/2014
+\xv kátaba náani
+\xe rude combat; chose très difficile
+\dt 09/Feb/2017
 
 \lx kàta-kàta
 \mm kàta:v:être.gris
@@ -56274,14 +56300,14 @@ prolapsus utérin
 \xe il est devenu blanc de crasse jusqu'à puer
 \dt 19/Dec/2012
 
-\lx katakatanin
+\lx kátakatanin
 \ps n
 \ge moto.à.trois.roues
 \gv
 \ee
 \xv
 \xe
-\dt 01/Feb/2017
+\dt 13/Feb/2017
 
 \lx káti
 \ps n
@@ -61962,6 +61988,18 @@ champs)
 \lt (derrière.placer)
 \dt 16/Aug/2006
 
+\lx kɔ́bìla
+\mm kɔ́:n:dos
+\mm bìla:v:mettre
+\ps v
+\vl vt
+\ge ne.pas.coopérer.avec
+\gv ne pas soutenir
+\ee
+\xv
+\xe
+\dt 13/Feb/2017
+
 \lx kɔ́bilakulu
 \mm kɔ́.bila:n:postposition
 \mm kɔ́:n:dos
@@ -62245,14 +62283,14 @@ champs)
 \xe je l'ai acheté à 500 francs pour le revendre
 \dt 16/Aug/2006
 
-\lx kɔfuru
+\lx kɔ́furu
 \ps n
 \ge coffre
 \gv
 \ee
 \xv
 \xe
-\dt 01/Feb/2017
+\dt 13/Feb/2017
 
 \lx kɔ́fyɛ
 \mm kɔ́:n:dos
@@ -65041,6 +65079,14 @@ ou une proposition)
 \ge conseiller
 \gv
 \dt 05/Feb/2016
+
+\lx kɔ̀nsɛyi
+\ps n
+\ge conseil
+\ee (assemblée)
+\xv
+\xe
+\dt 11/Feb/2017
 
 \lx kɔ̀nsɔgɔ
 \va gɔ̀nsɔrɔ
@@ -68348,6 +68394,15 @@ il en contient dix
 \lt (unité.échanger)
 \dt 26/Sep/2006
 
+\lx kùnfɛ̀
+\ps pp
+\ge au.gré.de
+\gv propre
+\ee
+\xv
+\xe
+\dt 13/Feb/2017
+
 \lx kùnfɛjati
 \mm kùn:n:tête
 \mm fɛ̀:pp:par
@@ -68811,11 +68866,11 @@ l'intérieur une ou deux graines)
 \mm kàn:pp:sur
 \ps pp
 \ge à.propos.de
-\gv
+\gv concernant
 \ee
 \xv
 \xe
-\dt 08/Feb/2017
+\dt 13/Feb/2017
 
 \lx kùnkanko
 \mm kùn:n:tête
@@ -80693,6 +80748,11 @@ des engagements
 \ee de petite taille (race)
 \dt 16/Aug/2006
 
+\lx mèri
+\ps n
+\ge mairie
+\dt 13/Feb/2017
+
 \lx mèru
 \ps v
 \vl vt
@@ -81042,16 +81102,11 @@ des engagements
 \ge longue.durée
 \dt 19/Jan/2015
 
-\lx mɛri
-\ps n
-\ge mairie
-\dt 10/Jan/2013
-
-\lx mɛri
-\va mɛrɛ
+\lx mɛ́ri
+\va mɛ́rɛ
 \ps n
 \ge maire
-\dt 01/Feb/2017
+\dt 13/Feb/2017
 
 \lx mɛ̀sɛkɛ
 \ps n
@@ -85200,11 +85255,22 @@ pour les jardins)
 \ee (en tiges de "nkɔ̀lɔ̀bɛ" pour le transport des kolas ... )
 \dt 16/Aug/2006
 
+\lx nàgakɔrɔ
+\mm nàga:n:ventre
+\mm kɔ́rɔ:n:dessous
+\ps pp
+\ge à.proximité
+\gv
+\ee
+\xv nàgakɔrɔjɛgɛ
+\xe poisson d'élevage
+\dt 14/Feb/2017
+
 \lx nàgakɔrɔla
 \mm nàga:n:ventre
 \mm kɔ́rɔ:n:dessous
 \mm la:mrph:LOC
-\va nàa.kɔrɔ.la
+\va nàakɔrɔla
 \mm nàa:n:ventre
 \mm kɔ́rɔ:n:dessous
 \mm la:mrph:LOC
@@ -85216,7 +85282,7 @@ pour les jardins)
 \gv parties.sexuelles
 \sn 3
 \gv proximité
-\dt 16/Aug/2006
+\dt 14/Feb/2017
 
 \lx nàgalo
 \va nàalo
@@ -97412,6 +97478,17 @@ graines, sert d'instrument rythmique)
 \lt (devant.couper)
 \dt 16/Aug/2006
 
+\lx ɲɛ́kulu
+\mm ɲɛ́:n:oeil
+\mm kúlu:n:bande
+\ps n
+\ge direction
+\gv
+\ee
+\xv
+\xe
+\dt 13/Feb/2017
+
 \lx ɲɛ́kumuni
 \mm ɲɛ́:n:oeil
 \mm kùmu:v:aigrir
@@ -101473,14 +101550,14 @@ envergure)
 \ge récipient
 \ee (pour le transport des liquides : seau, bidon ...)
 
-\lx palɛ
+\lx pàlɛ
 \ps n
 \ge palais
 \gv
 \ee (résidence d'un souverain ou un noble)
 \xv
 \xe
-\dt 06/Feb/2017
+\dt 13/Feb/2017
 
 \lx pàlonpálon
 \ps n
@@ -101887,14 +101964,14 @@ envergure)
 \sm d'un geste fort et sec
 \dt 19/Jan/2015
 
-\lx payasi
+\lx pàyasi
 \ps n
 \ge paillasse
 \gv
 \ee
 \xv
 \xe
-\dt 07/Feb/2017
+\dt 13/Feb/2017
 
 \lx páyi
 \bw fr: paillette
@@ -102264,13 +102341,13 @@ envergure)
 \sm ancienne pièce de vingt-cinq centimes (vx)
 \dt 16/Aug/2006
 
-\lx pikiri
+\lx píkiri
 \ps n
 \ge piqûre
 \gv
-\dt 05/Feb/2016
+\dt 13/Feb/2017
 
-\lx pikiri
+\lx píkiri
 \ps v
 \vl vt
 \ge faire.piqûre
@@ -102278,7 +102355,7 @@ envergure)
 \ee
 \xv
 \xe
-\dt 06/Feb/2017
+\dt 13/Feb/2017
 
 \lx pikiribara
 \mm pikiri:n:piqûre
@@ -104133,14 +104210,14 @@ épuisés
 \lt (lézard.haricot)
 \dt 16/Aug/2006
 
-\lx saki
+\lx sáki
 \ps n
 \ge sac
 \gv
 \ee
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 13/Feb/2017
 
 \lx sàkolo
 \mm sà:n:serpent
@@ -107961,7 +108038,9 @@ gouvernement le soutient (kb 5/06 p.7)
 \xe il court vite
 \xv ù yé sèntɛgɛ bɔ́
 \xe ils se sont mis à courir
-\dt 26/Sep/2006
+\xv kà à sìgi à sèntɛgɛ kɔ́nɔ
+\xe mettre à genoux, rendre impuissant
+\dt 13/Feb/2017
 
 \lx sèntɛgɛninjɛ
 \mm sèn.tɛgɛ:n:pied
@@ -109709,12 +109788,12 @@ gouvernement le soutient (kb 5/06 p.7)
 \ge manque.d’assurance
 \dt 29/Nov/2012
 
-\lx sigareti
-\va sikarati
-\va sigarati
+\lx sìgareti
+\va sìkarati
+\va sìgarati
 \ps n
 \ge cigarette
-\dt 03/Feb/2017
+\dt 14/Feb/2017
 
 \lx sígasiga
 \mm síga:n:doute
@@ -112069,9 +112148,9 @@ donne d'excellentes fibres)
 \ge mulet
 \lt (cheval.âne)
 
-\lx sofɛri
-\va sofɛrikɛ
-\mm sofɛri:n:chauffeur
+\lx sófɛri
+\va sófɛrikɛ
+\mm sófɛri:n:chauffeur
 \mm kɛ:adj:mâle
 \ps n
 \ge chauffeur
@@ -112079,7 +112158,7 @@ donne d'excellentes fibres)
 \ee
 \xv
 \xe
-\dt 06/Feb/2017
+\dt 13/Feb/2017
 
 \lx sófìlawùlunin
 \mm só:n:maison
@@ -113190,15 +113269,15 @@ donne d'excellentes fibres)
 \lt (moustique.tuer.ce qui sert à)
 \dt 16/Aug/2006
 
-\lx sotarama
-\va sotrama
+\lx sótarama
+\va sótrama
 \ps n
 \ge minibus
 \gv SOTRAMA
 \ee (moyen de transport public, de Société de Transport du Mali)
 \xv
 \xe
-\dt 01/Feb/2017
+\dt 13/Feb/2017
 
 \lx sòtigi
 \mm sò:n:cheval
@@ -120866,13 +120945,13 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tíminandi
 \mm tími:v:s'appliquer
 \mm nan:mrph:dans
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \ps adj/n
 \ge appliqué
 \lt (application.bonne)
-\dt 26/Sep/2006
+\dt 11/Feb/2017
 
-\lx  tíminandiya
+\lx tíminandiya
 \mm tími.nan.di:n:appliqué
 \mm tími:v:s'appliquer
 \mm nan:mrph:dans
@@ -120882,7 +120961,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ge bonne.application
 \xv ...kɛ́ ní  tíminandiya yé
 \xe s'ápplique à...
-\dt 23/Nov/2016
+\dt 11/Feb/2017
 
 \lx tíminandiya
 \mm tími.nan.di:n:appliqué
