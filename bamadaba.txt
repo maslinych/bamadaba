@@ -49668,7 +49668,8 @@ d'arrière-saison
 \ps v
 \sn 1
 \vl vt/vr
-\ge mettre.debout
+\ge dresser
+\gv mettre.debout
 \xv wúli k'ì jɔ̀ !
 \xe debout ! lève-toi !
 \xv só jɔ̀
@@ -49719,7 +49720,7 @@ d'arrière-saison
 \gv accepter
 \xv mɔ̀gɔ tɛ́ jɔ̀  bɛ́ɛ séereya kɔ́rɔ
 \xe on n'accepte pas tous les témoignages
-\dt 03/Apr/2016
+\dt 17/Feb/2017
 
 \lx jɔ̀
 \ps n
@@ -50983,10 +50984,9 @@ composante des adjectifs séparables)
 \ve (f)
 \ps prn
 \ge lequel
-\pl jùmɛw
 \xv wáati jùmɛ ná ?
 \xe à quel moment ?
-\dt 10/Jul/2013
+\dt 17/Feb/2017
 
 \lx jùminɛ
 \mm jù:n:derrière
@@ -72898,17 +72898,18 @@ kúrunninle
 \bw ar: al-'afia = repos
 \ps n
 \sn 1
-\ge paix
+\ge repos
+\gv loisir
 \sn 2
 \gv calme
+\gv aise
+\xv wáasa  à kà bángen làfiya lá...
+\xe pour qu'elle accouche tranquillement
 \sn 3
 \gv libération
 \sn 4
-\gv repos
-\gv loisir
-\xv wáasa  à kà bángen làfiya lá...
-\xe pour qu'elle accouche tranquillement
-\dt 26/Mar/2014
+\gv paix
+\dt 17/Feb/2017
 
 \lx làfiya
 \va làfya
@@ -81535,6 +81536,15 @@ nord-est
 \ge procédé
 \gv relation.sexuelle
 \dt 19/Feb/2014
+
+\lx mìnɛbàra
+\ps n
+\ge manoeuvre
+\gv
+\ee
+\xv
+\xe
+\dt 17/Feb/2017
 
 \lx mìnɛbolo
 \mm mìnɛ:v:attraper
@@ -109653,14 +109663,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \lt (passer la nuit.case)
 \dt 16/Aug/2006
 
-\lx sida
+\lx sída
 \ps n
 \ge sida
 \gv syndrome immunodéficitaire acquis
 \ee
 \xv
 \xe
-\dt 03/Feb/2017
+\dt 17/Feb/2017
 
 \lx sídɛgɛn
 \mm sí:n:semence
@@ -113487,18 +113497,6 @@ donne d'excellentes fibres)
 \dt 26/Sep/2006
 
 \lx sɔ̀gɔma
-\va sàgoma
-\ve (f)
-\ee sɔ̀gɔ = matin + mà = moment,
-\cf í ní sɔ̀gɔ mà
-\ce bonjour !
-\ps n
-\ge matin
-\xv sɔ̀gɔma fɛ̀
-\xe le matin
-\dt 16/Aug/2006
-
-\lx sɔ̀gɔma
 \fq r
 \va sàgoma
 \ps v
@@ -113508,6 +113506,18 @@ donne d'excellentes fibres)
 \xv í má né sàgoma
 \xe tu ne m'as pas dit bonjour ce matin
 \dt 26/Sep/2006
+
+\lx sɔ̀gɔmà
+\va sàgomà
+\ve (f)
+\ee sɔ̀gɔ = matin + mà = moment,
+\cf í ní sɔ̀gɔ mà
+\ce bonjour !
+\ps n
+\ge matin
+\xv sɔ̀gɔmà fɛ̀
+\xe le matin
+\dt 17/Feb/2017
 
 \lx sɔ̀gɔmada
 \mm sɔ̀gɔma:n:matin
@@ -125781,18 +125791,18 @@ aîné ... (Kb 11/06 p.4)
 \ps n
 \ge véranda
 
-\lx wáraninkalan
+\lx wáranìnkalan
 \mm wára:n:fauve
 \mm nin:mrph:DIM
 \mm kálan:vq:bariolé
-\va wára.kalan
+\va wárakàlan
 \mm wára:n:fauve
 \mm kálan:vq:bariolé
 \ps n
 \ge panthère
 \lat Panthera pardus
 \lt (fauve.petit.tacheté)
-\dt 26/Sep/2006
+\dt 17/Feb/2017
 
 \lx wáraɲama
 \mm wára:n:fauve
@@ -128448,12 +128458,15 @@ Mali)
 \lx yàada
 \va yàda
 \ps v
+\sn 1.1
 \vl vi
-\sn 1
 \ge être.arrogant
+\sn 1.2
+\gv rendre arrogant
 \sn 2
+\vl vi
 \gv se vanter
-\dt 26/Sep/2006
+\dt 17/Feb/2017
 
 \lx yàada
 \ps n
@@ -128495,9 +128508,11 @@ Mali)
 \ps v
 \sn 1
 \vl vi
-\ge se.promener
-\sm (sens péj : draguer)
+\ge errer
 \sn 2
+\gv se.promener
+\sm (sens péj : draguer)
+\sn 3
 \vl vt
 \gv parcourir
 \sm en se promenant
@@ -128505,7 +128520,7 @@ Mali)
 \xe il a parcouru deux pays
 \xv à yé  sò fóni  kà sò yáala
 \xe il a détaché le cheval pour une promenade
-\dt 16/Aug/2006
+\dt 17/Feb/2017
 
 \lx yáala
 \ve (-bk,-bn)
