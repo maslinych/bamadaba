@@ -635,6 +635,18 @@
 \sy tákala
 \dt 15/Aug/2006
 
+\lx àlimukayikayi
+\va àlimukayikǎyí
+\va káyikayi
+\ps n
+\lat Datura innoxia
+\ge datura
+\gv trompette des anges
+\ee (plante très courante, aux propriétés excitantes)
+\xv
+\xe
+\dt 14/Feb/2017
+
 \lx àluwa
 \va àliwa
 \ps n
@@ -4461,6 +4473,19 @@ Fleurs spectaculaires
 \ge femme.du.même.âge.que.la.mère
 \lt (mère.semblable)
 \dt 16/Aug/2006
+
+\lx bàɲumankɛtɔn
+\mm bà:n:papa
+\mm ɲùman:adj:bon
+\mm kɛ́:v:faire
+\mm tɔ́n:n:société
+\ps n
+\ge organisation.non.gouvernementale
+\gv
+\ee
+\xv
+\xe
+\dt 15/Feb/2017
 
 \lx báɲuwari
 \ps n
@@ -9466,6 +9491,8 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xe se mettre à ..., s'initier à ...
 \xv fɛ́n ɲíni  sèn ní  bólo
 \xe faire des pieds et des mains pour avoir qqch
+\xv X ká bólo kàn
+\xe dans la disposition de X, aux soins de X
 \sn 3
 \gv biens
 \gv ressources
@@ -9484,7 +9511,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xe dé cétte manière
 \xv kà táa í bólo fɛ̀
 \xe suivre son cours
-\dt 09/Feb/2017
+\dt 16/Feb/2017
 
 \lx bólo
 \ps pp
@@ -18416,18 +18443,18 @@ sur soi)
 \ps n
 \sn 1
 \ge canari
-\sm vase en terre cuite
+\sm (vase en terre cuite)
 \sn 2
-\gv contenu.magique.du.canari
+\gv contenu magique du canari
 \ee (amènerait un résultat favorable : match, examen, naissance...)
 \xv dàga dòn  bànabaatɔ yé
 \xe ... en faveur d'un malade
 \sn 3
-\gv poche.des.eaux
+\gv poche des eaux
 \ee d'une femme en travail
 \xv ní  dàa cìra, mùn bɛ́ bɔ́ dé ?
 \xe quand la poche des eaux se déchire, qu'est ce qui vient ?
-\dt 03/Apr/2016
+\dt 15/Feb/2017
 
 \lx dàga
 \ps v
@@ -40713,17 +40740,8 @@ forestières, fruit : long follicule de 50 cm)
 \ph [gw]
 \ps n
 \ge surface
-\sm d'un champ
-\dt 16/Aug/2006
-
-\lx gélu
-\va gwélu
-\ph [gw]
-\ps n
-\ge petit.duc.africain
-\lat Otus scops
-\ee (le plus petit des hiboux,18cm !, aigrettes très développées)
-\dt 16/Aug/2006
+\sm (d'un champ)
+\dt 14/Feb/2017
 
 \lx gélu
 \va gwélu
@@ -40734,6 +40752,17 @@ forestières, fruit : long follicule de 50 cm)
 \gv trancher.en.morceaux
 \sy pélu
 \dt 26/Sep/2006
+
+\lx gélù
+\va gwélù
+\ph [gw]
+\va gèlù 
+\va ngèlu
+\ps n
+\ge petit.duc.africain
+\lat Otus scops
+\ee (le plus petit des hiboux,18cm !, aigrettes très développées)
+\dt 14/Feb/2017
 
 \lx gén
 \va gwén
@@ -43619,21 +43648,21 @@ doigts par des fileuses du coton)
 \gv mépriser.l'autorité
 \dt 26/Sep/2006
 
-\lx háli
+\lx hálì
 \va hál'
 \bw ar: `ala kullihal = de toutes façons
 \ps prt
 \sn 1
 \ge même
-\xv háli bì
+\xv hálì bì
 \xe même maintenant, encore maintenant
-\xv háli ní ...
+\xv hálì ní ...
 \xe même si ..., bien que ...,
 \sn 2
-\gv au.point.que
-\xv à mán kɛ́nɛ, háli  à tɛ́ sé kà táama
+\gv au point que
+\xv à mán kɛ́nɛ, hálì à tɛ́ sé kà táama
 \xe il est malade au point de ne pas pouvoir marcher
-\dt 04/Apr/2016
+\dt 14/Feb/2017
 
 \lx hálisà
 \va hálìsa
@@ -45466,6 +45495,7 @@ qqch ...)
 \dt 16/Aug/2006
 
 \lx jálatigɛ
+\va járatìgɛ
 \ps n
 \sn 1
 \ge arbitre
@@ -45474,9 +45504,10 @@ qqch ...)
 \ee (celui qui inflige les amendes)
 \xv
 \xe
-\dt 07/Feb/2017
+\dt 15/Feb/2017
 
 \lx jálatìgɛ
+\va járatìgɛ
 \ps v
 \vl vt
 \ge arbitrer
@@ -45484,11 +45515,10 @@ qqch ...)
 \ee
 \xv
 \xe
-\dt 07/Feb/2017
+\dt 15/Feb/2017
 
 \lx jàlatigɛbaa
-\mm jàla:n:cordon
-\mm tìgɛ:v:couper
+\mm jálatìgɛ:v:arbitrer
 \mm baa:mrph:AG.OCC
 \ps n
 \lt ? décider - celui qui
@@ -45496,15 +45526,15 @@ qqch ...)
 \sy jàlatigɛla
 \xv jàlatigɛbaa ká báara yé jùmɛn yé ?
 \xe quels sont les rôles de l'arbitre ? (kb 2/05 p.6)
-\dt 11/Nov/2007
+\dt 15/Feb/2017
 
 \lx jàlatigɛla
-\mm jàla:n:cordon
-\mm tìgɛ:v:couper
+\mm jálatìgɛ:v:arbitrer
 \mm la:mrph:AG.PRM
 \ps n
 \ge arbitre
 \sy jàlatigɛla
+\dt 15/Feb/2017
 
 \lx jàlatigi
 \mm jàla:n:cordon
@@ -46648,6 +46678,24 @@ qqch ...)
 \lat Cucurbita.pepo
 \sd cucu
 \dt 26/Sep/2006
+
+\lx jèferelen
+\va jèburunin
+\va jèkurunin
+\va jèfurulen
+\va jìbirilen
+\va njèfurulen
+\va ncìfèrelen
+\va jɔ̀kɔ̀ɔnin
+\ps n
+\lat Lagonosticta senegala
+\ge amarante commun
+\gv moineau
+\gv petit sénégalais
+\ee
+\xv
+\xe
+\dt 14/Feb/2017
 
 \lx jéle
 \ps n
@@ -63406,6 +63454,15 @@ champs)
 \lt ( ? . chose)
 \dt 16/Aug/2006
 
+\lx kɔ́ngɛrɛ
+\ps n
+\ge congrès
+\gv
+\ee
+\xv
+\xe
+\dt 15/Feb/2017
+
 \lx kɔ́ngɔ
 \va kmɔ́
 \ph [kmɔ]
@@ -68396,12 +68453,14 @@ il en contient dix
 
 \lx kùnfɛ̀
 \ps pp
-\ge au.gré.de
-\gv propre
+\ge à.l'aveugle
+\gv sans compter
+\gv sans précaution
+\gv au hasard
 \ee
 \xv
 \xe
-\dt 13/Feb/2017
+\dt 15/Feb/2017
 
 \lx kùnfɛjati
 \mm kùn:n:tête
@@ -71533,29 +71592,21 @@ kúrunninle
 \xe mettre de l'eau dans le canari
 \xv kɔ́ngɔ bɛ́ ń ná
 \xe j'ai faim (faim est en moi)emplois particuliers
+\xv à lá só
+\xe sa maison
+\xv ń ná mùru
+\xe mon couteau ( = à ka so / n ka mùru)
 \sn 2
 \gv d'entre
 \sm connectif de la construction superlative
 \xv ù bɛ́ɛ lá jànmanjan
 \xe le plus grand d'entre eux
-\dt 26/Sep/2006
+\dt 16/Feb/2017
 
 \lx lá
 \ps intj
 \ge ce.n'est.pas.vrai
 \dt 28/Mar/2013
-
-\lx lá
-\va rá
-\va ná
-\ps conj
-\ge POSS
-\ee connectif de la construction possessive = ka
-\xv à lá só
-\xe sa maison
-\xv ń ná mùru
-\xe mon couteau ( = à ka so / n ka mùru)
-\dt 21/Dec/2014
 
 \lx láa
 \ps adv
@@ -97961,7 +98012,7 @@ graines, sert d'instrument rythmique)
 \ge grand.dirigeant
 \gv personnalité
 \lt (chef.grand)
-\dt 26/Sep/2006
+\dt 15/Feb/2017
 
 \lx ɲɛ́mɔ̀gɔnin
 \mm ɲɛ́:n:oeil
