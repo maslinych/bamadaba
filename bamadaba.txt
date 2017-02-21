@@ -6352,8 +6352,9 @@ rhume, toux
 \dt 28/May/2016
 
 \lx bɛ́ɛ
-\ps adv
-\ge seulement
+\ps conj
+\ge aussitôt.que
+\dt 19/Feb/2017
 
 \lx bɛ́ɛjɛfanga
 \mm bɛ́ɛ:dtm:tout
@@ -20316,12 +20317,12 @@ pas)
 \dt 12/Jun/2016
 
 \lx dàma
-\ps adv
-\ge seulement
-\ee
+\ps conj
+\ge une.fois.que
+\gv aussitôt que
 \xv
 \xe
-\dt 28/May/2016
+\dt 19/Feb/2017
 
 \lx dáma
 \ve (-f)
@@ -25809,6 +25810,21 @@ chefs religieux et représentants de l'administration
 \sm (maladie du mil)
 \dt 16/Aug/2006
 
+\lx dòndòn
+\va dòndò
+\ps v
+\sn 1
+\ge hisser
+\gv aider à monter
+\gv pousser pour aider
+\sn 2
+\gv soutenir
+\gv accompagner 
+\ee
+\xv
+\xe
+\dt 20/Feb/2017
+
 \lx dóndonnin
 \ps n
 \ge margouillat.femelle
@@ -27556,10 +27572,10 @@ désorienter')
 \dt 05/Apr/2015
 
 \lx dɔ́rɔn
-\ps adv
-\ge aussitôt
-\gv
-\dt 05/Apr/2015
+\ps conj
+\ge aussitôt.que
+\gv une fois que
+\dt 19/Feb/2017
 
 \lx dɔ̀surun
 \mm dɔ̀:n:longueur
@@ -82232,9 +82248,10 @@ nord-est
 
 \lx móbili
 \va mɔ́bili
+\va mɔ̀bili
 \ps n
 \ge automobile
-\dt 05/Feb/2017
+\dt 19/Feb/2017
 
 \lx móbilibolila
 \mm móbili:n:automobile
@@ -102418,8 +102435,8 @@ envergure)
 \xe
 \dt 13/Feb/2017
 
-\lx pikiribara
-\mm pikiri:n:piqûre
+\lx píkiribara
+\mm píkiri:n:piqûre
 \mm bàra:n:calebasse
 \ps n
 \ge seringue
@@ -102427,7 +102444,7 @@ envergure)
 \ee
 \xv
 \xe
-\dt 06/Feb/2017
+\dt 21/Feb/2017
 
 \lx pílili
 \ps n
@@ -105326,11 +105343,18 @@ épuisés
 \lx sǎnkó
 \va sǎngó
 \ps conj
+\sn 1
 \ge surtout
+\gv à plus fort raison
+\sn 2
 \gv pour que
 \gv afin de
+\sn 3
+\gv pourvu que
+\sn 4
+\gv parce que
 \sy jǎnkó
-\dt 20/Jun/2016
+\dt 18/Feb/2017
 
 \lx sánkolo
 \mm sán:n:haut
@@ -114390,7 +114414,7 @@ euphémique)
 \lx súbaga
 \mm sú:v:inciter
 \mm baga:mrph:AG.OCC
-\va sú.baa
+\va súbaa
 \mm sú:v:inciter
 \mm baa:mrph:AG.OCC
 \ve (f)
@@ -114398,7 +114422,7 @@ euphémique)
 \ge sorcier
 \ee malfaisant
 \lt (exciter ? celui qui)
-\dt 26/Sep/2006
+\dt 21/Feb/2017
 
 \lx súbagabana
 \mm sú.baga:n:sorcier
@@ -114415,17 +114439,17 @@ euphémique)
 \dt 27/sept./2006
 
 \lx súbagakaba
-\mm súbaga
+\mm sú.baga:n:sorcier
 \mm sú:v:inciter
 \mm baga:mrph:AG.OCC
 \mm kàba:n:maïs
 \ps n
-\ge maïse.sorte
+\ge maïs.sorte
 \gv
 \ee
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 21/Feb/2017
 
 \lx súbagaya
 \mm sú.baga:n:sorcier
@@ -114936,6 +114960,7 @@ euphémique)
 \ps n
 \sn 1
 \ge récolte
+\gv culture vivrière
 \xv sùma ládon
 \xe rentrer les récoltes
 \sn 2
@@ -114943,7 +114968,7 @@ euphémique)
 \gv repas
 \sy bálo
 \sy dáhirimɛ
-\dt 26/Sep/2006
+\dt 19/Feb/2017
 
 \lx súma
 \bw ar: ̀amm = id.
@@ -127041,12 +127066,12 @@ la Justice (kb 12/05 p.4)
 
 \lx wólowala
 \ps adj
-\ge clairsémé
+\ge clairsemé
 \gv
 \ee
 \xv kùnsigi wólonwalalen
 \xe cheveux clairsemés
-\dt 06/Feb/2017
+\dt 21/Feb/2017
 
 \lx wòlowolo
 \ps v

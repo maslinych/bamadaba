@@ -1171,13 +1171,13 @@ Comoé, Burkina Faso)
 \dt 04/Jun/2016
 
 \lx Dinbali
-\ps m.prop
+\ps n.prop
 \ge TOP
 \gv
 \ee (un village au Mali)
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 21/Feb/2017
 
 \lx Direyi
 \ps n.prop
@@ -2352,13 +2352,13 @@ Léraba, région des Cascades, Burkina Faso)
 \dt 23/May/2010
 
 \lx Kano
-\ps n.propo
+\ps n.prop
 \ge TOP
 \gv Kano
 \ee (capitale de l'État de Kano, Nigeria)
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 21/Feb/2017
 
 \lx Kanpala
 \ty г.
@@ -4623,13 +4623,13 @@ village d'Essouk, région de Kidal)
 \dt 01/Feb/2017
 
 \lx Tafilale
-\ps n.propo
+\ps n.prop
 \ge TOP
 \gv Tafilalet
 \ee (une région historique au Sud-Est du Maroc)
 \xv
 \xe
-\dt 07/Feb/2017
+\dt 21/Feb/2017
 
 \lx Tahiti
 \ps n.prop
