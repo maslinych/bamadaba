@@ -22840,12 +22840,12 @@ génitales ...
 \lx demifinali
 \va demi-finali
 \ps n
-\ge démi-finale
+\ge demi-finale
 \gv
 \ee
 \xv
 \xe
-\dt 06/Feb/2017
+\dt 21/Feb/2017
 
 \lx démokarasi
 \ps n
@@ -46705,13 +46705,13 @@ qqch ...)
 \va jɔ̀kɔ̀ɔnin
 \ps n
 \lat Lagonosticta senegala
-\ge amarante commun
+\ge amarante.commun
 \gv moineau
 \gv petit sénégalais
 \ee
 \xv
 \xe
-\dt 14/Feb/2017
+\dt 21/Feb/2017
 
 \lx jéle
 \ps n
@@ -47178,12 +47178,12 @@ qqch ...)
 \mm kà:pm:INF
 \mm wúli:v:se.lever
 \ps n
-\ge soulevement
+\ge soulèvement
 \gv
 \ee
 \xv
 \xe
-\dt 14/Feb/2017
+\dt 21/Feb/2017
 
 \lx jɛ́kɛnɛ
 \mm jɛ́:n:le.blanc
@@ -64959,11 +64959,11 @@ ou une proposition)
 \mm kɔ́:n:dos
 \mm nɔ́rɔ:v:coller
 \ps n
-\ge sufffixe
+\ge suffixe
 \sm (néologisme)
 \xv
 \xe
-\dt 05/Feb/2017
+\dt 21/Feb/2017
 
 \lx kɔ́nɔrɔfɛn
 \mm kɔ́nɔ:n:ventre
@@ -67562,13 +67562,13 @@ il en contient dix
 
 \lx kùme
 \ps n
-\ge fiérté
+\ge fierté
 \gv égo
 \ee
 \xv
 \xe
 \cm Kalilou Tera
-\dt 23/Jan/2017
+\dt 21/Feb/2017
 
 \lx kùmékùmé
 \ps n
@@ -73136,6 +73136,7 @@ kúrunninle
 \dt 16/Aug/2006
 
 \lx lagolago
+\va lakolako
 \ps v
 \vl vi
 \ge haleter
@@ -73143,7 +73144,7 @@ kúrunninle
 \ee
 \xv
 \xe
-\dt 08/Feb/2017
+\dt 21/Feb/2017
 
 \lx lágòsi
 \mm lá:mrph:CAUS
@@ -73921,15 +73922,6 @@ kúrunninle
 \sn 2
 \gv connaître.personnellement
 \dt 26/Sep/2006
-
-\lx lakolako
-\ps
-\ge
-\gv
-\ee
-\xv
-\xe
-\dt 08/Feb/2017
 
 \lx lákolo
 \mm lá:mrph:CAUS
@@ -117852,13 +117844,12 @@ fiançailles
 \mm li:mrph:NMLZ
 \ps n
 \sn 1
-\ge action de prendre
+\ge action.de.prendre
 \sn 2
 \gv vol
-\lt (prendre.action)
 \xv tàli kɛ́
 \xe voler
-\dt 06/Feb/2017
+\dt 21/Feb/2017
 
 \lx táli
 \ps onomat
