@@ -6762,14 +6762,14 @@ au Mali)
 
 \lx bɛ́nà
 \va bɛ́n'
-\va bɛ́ na
+\va bɛ́ nà
 \ps pm
 \ge FUT
 \sm (prédicatif du futur)
 \ee au négatif : tɛ nà
 \xv síni, í bɛ́ nà táa  súgu jɔ̀
 \xe tu iras au marché demain
-\dt 13/Jan/2015
+\dt 22/Feb/2017
 
 \lx bɛ́nba
 \ps n
@@ -7215,6 +7215,15 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ge moeurs.actuelles
 \lt (aujourd'hui.enfant.état)
 \dt 16/Aug/2006
+
+\lx bidɔn
+\ps n
+\ge bidon
+\gv
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx bíduuru
 \mm bí:num:dizaine
@@ -15348,10 +15357,9 @@ sur soi)
 \va cámancɛ
 \ps n
 \ge milieu
-\lt (milieu.lieu.milieu)
 \xv jí cɛ́mancɛ lá
 \xe au beau milieu de l'eau
-\dt 03/May/2013
+\dt 22/Feb/2017
 
 \lx cɛ́mancɛmɔgɔ
 \mm cɛ́mancɛ:n:milieu
@@ -21962,6 +21970,15 @@ génitales ...
 \xe il m'a joué un sale tour
 \dt 26/Sep/2006
 
+\lx Darafuri
+\ps n.prop
+\ge TOP
+\gv Darfour
+\ee (région du Sudan)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx dáraja
 \bw ar: daraga : degré, grade ?)
 \ps n
@@ -27356,6 +27373,7 @@ désorienter')
 \dt 26/Sep/2006
 
 \lx dɔ̀nkilidala
+\mm dɔ̀nkili:n:chant
 \mm dɔ̀n:n:danse
 \mm kíli:v:appeler
 \mm dá:v:poser
@@ -27364,7 +27382,7 @@ désorienter')
 \ge chanteuse
 \gv chanteur
 \lt (chant.poser.celle qui)
-\dt 26/Sep/2006
+\dt 23/Feb/2017
 
 \lx dɔ́nko
 \mm dɔ́n:n:connaissance
@@ -29579,6 +29597,15 @@ quant à sa mère, elle prend de l'âge
 \xv ée ! cɛ̀ ! kàna  nìn kɛ́ dɛ́ !
 \xe eh (toi) là-bas ! Ne fais pas ça !
 \dt 26/Sep/2006
+
+\lx Enedi
+\ps n.prop
+\ge TOP
+\gv Ennedi
+\ee (région nord-est du Tchad)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx eresi
 \ps n
@@ -32927,6 +32954,8 @@ bien (dicton)
 
 \lx féwu
 \va fyéwu
+\va fíyewu
+\va fíyɛwu
 \ps adv
 \ge complètement
 \sm (au positif)
@@ -32934,7 +32963,7 @@ bien (dicton)
 \sm (au négatif)
 \xv ń m'á yé féwu !
 \xe je ne l'ai pas vu du tout, je ne l'ai jamais vu !
-\dt 26/Sep/2006
+\dt 22/Feb/2017
 
 \lx fɛ̀
 \mr fɛ̀n*--> fàn = côté, direction, fɛ̀n*--> fɛ̀
@@ -41375,7 +41404,7 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \lx gɛ̀lɛya
 \mm gɛ̀lɛn:vq:dur
 \mm ya:mrph:DEQU
-\va gwɛ̀lɛ.ya
+\va gwɛ̀lɛya
 \mm gwɛ̀lɛ:vq:dur
 \mm ya:mrph:DEQU
 \ph [gw]
@@ -41401,7 +41430,7 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \sm le prix de ...
 \xv à y'á sɔ̀ngɔ gɛ̀lɛya
 \xe il a rendu le prix inabordable
-\dt 13/Jan/2015
+\dt 23/Feb/2017
 
 \lx gɛ̀lɛyalan
 \mm gɛ̀lɛ:vq/adj:dur
@@ -44495,6 +44524,15 @@ doigts par des fileuses du coton)
 \lt (tu.aux fut.ceci.dire)
 \dt 18/Jan/2015
 
+\lx irigibi
+\ps n
+\ge rugby
+\gv
+\ee
+\xv
+\xe
+\dt 23/Feb/2017
+
 \lx irisi
 \ps n
 \ge russe
@@ -45535,6 +45573,9 @@ qqch ...)
 
 \lx jàlatigɛbaa
 \mm jálatìgɛ:v:arbitrer
+\mm baga:mrph:AG.OCC
+\va jàlatigɛbaa
+\mm jálatìgɛ:v:arbitrer
 \mm baa:mrph:AG.OCC
 \ps n
 \lt ? décider - celui qui
@@ -45542,7 +45583,7 @@ qqch ...)
 \sy jàlatigɛla
 \xv jàlatigɛbaa ká báara yé jùmɛn yé ?
 \xe quels sont les rôles de l'arbitre ? (kb 2/05 p.6)
-\dt 15/Feb/2017
+\dt 23/Feb/2017
 
 \lx jàlatigɛla
 \mm jálatìgɛ:v:arbitrer
@@ -53525,7 +53566,7 @@ prolapsus utérin
 \lx kámà
 \mm kán:n:cou
 \mm mà:pp:à
-\va kán.mà
+\va kánmà
 \mm kán:n:cou
 \mm mà:pp:à
 \ee kan mà*
@@ -53540,7 +53581,7 @@ prolapsus utérin
 \gv contre
 \xv à wúlila né káma
 \xe il s'est levé pour m'attaquer
-\dt 28/Nov/2012
+\dt 23/Feb/2017
 
 \lx Kámabulon
 \mm bùlon:n:antichambre
@@ -55161,7 +55202,7 @@ prolapsus utérin
 \gv perdre.la.voix
 \dt 26/Sep/2006
 
-\lx kán.ɲɛ
+\lx kánɲɛ
 \mm kán:n:cou
 \mm ɲɛ́:n:fois
 \va kánɲa
@@ -55177,7 +55218,16 @@ prolapsus utérin
 \gv heure
 \xv nɛ̀gɛ kánɲɛ
 \xe heure
-\dt 23/Jan/2017
+\dt 22/Feb/2017
+
+\lx kanpaɲi
+\ps n
+\ge campagne
+\gv
+\ee (ensemble des travaux)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx kánpasaja
 \mm kán:n:cou
@@ -56313,9 +56363,11 @@ prolapsus utérin
 \dt 15/Aug/2006
 
 \lx kàsonka
+\va kàsɔnka
 \ps n
 \ge khassonké
 \ee (ethnie de l'ouest du Mali et de langue mandé)
+\dt 23/Feb/2017
 
 \lx kàsɔrɔ
 \mm kà:pm:INF
@@ -67413,14 +67465,13 @@ il en contient dix
 \ps n
 \sn 1
 \ge son.de.la.voix
-\lt (parole.son)
 \sn 2
 \gv manière.de.parler
 \gv langage
 \sn 3
 \gv avis.exprimé
 \gv assertion
-\dt 26/Sep/2006
+\dt 23/Feb/2017
 
 \lx kúmakɛla
 \mm kúma:n:parole
@@ -70565,10 +70616,10 @@ Sahel)
 \mm la:mrph:AG.PRM
 \ps n
 \ge durée
-\lt (bout.aller.ce qui)
+\gv longueur
 \xv à sàra  bàna kùntaala súrun fɛ̀
 \xe il est décédé après une courte maladie
-\dt 05/Dec/2016
+\dt 23/Feb/2017
 
 \lx kùntaalajan
 \mm kùntaala:n:durée
@@ -78809,6 +78860,15 @@ jour, c'est une personne dépendante qu'il voit
 \gv calomnier
 \dt 16/Aug/2006
 
+\lx Mamara
+\ps n
+\ge mamara
+\gv minianka
+\ee (nom de langue)
+\xv
+\xe
+\dt 23/Feb/2017
+
 \lx màmarikanjɛ
 \mm kán:n:cou
 \mm jɛ́:vq/adj:blanc
@@ -80785,6 +80845,15 @@ des engagements
 \ge secouer
 \lt (préf.secouer)
 
+\lx megawati
+\ps n
+\ge mégawatt
+\gv
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx méleke
 \va mélege
 \ps v
@@ -80838,6 +80907,15 @@ des engagements
 \ge couper
 \ee (des petits morceaux)
 \dt 16/Aug/2006
+
+\lx metewo
+\ps n
+\ge météo
+\gv service météorologique
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx mɛ́
 \bw fr : mai
@@ -81798,10 +81876,11 @@ nord-est
 \dt 26/Sep/2006
 
 \lx míɲanka
+\va míyanka
 \ps n
 \ge minyanka
 \ee ethnie du Mali (zone de Bla, Koutiala, San ...)
-\dt 19/Aug/2006
+\dt 23/Feb/2017
 
 \lx mìri
 \ps n
@@ -82948,15 +83027,14 @@ homme
 \lx mɔ̀gɔɲɔgɔn
 \mm mɔ̀gɔ:n:homme
 \mm ɲɔ̀gɔn:n:pareil
-\va màa.ɲɔgɔn
+\va màaɲɔgɔn
 \mm màa:n:homme
 \mm ɲɔ̀gɔn:n:pareil
 \ps n
-\lt personne-semblable
 \ge prochain
 \ee ton semblable (frère humain), autrui
 \rem f 81
-\dt 11/Nov/2007
+\dt 23/Feb/2017
 
 \lx mɔ̀gɔsɛbɛ
 \mm mɔ̀gɔ:n:homme
@@ -83177,6 +83255,15 @@ homme
 \ee (taille du caracal)
 \dt 26/Sep/2006
 
+\lx mɔnsɔn
+\ps n
+\ge maçon
+\gv
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx mɔ́ntɔn
 \va mɔ́ntɔ
 \ps v
@@ -83192,6 +83279,15 @@ homme
 \gv se.tapir
 \sm (pour bondir ...)
 \dt 26/Sep/2006
+
+\lx mɔntɔrɔ
+\ps n
+\ge montre
+\gv
+\ee
+\xv
+\xe
+\dt 23/Feb/2017
 
 \lx mɔ̀ɲɔ
 \va mɔ̀ɲɔn
@@ -87408,14 +87504,13 @@ petits enfants)
 \mm nɛ́gɛn:v:leurrer
 \mm ni:mrph:NMLZ
 \ps n
-\lt tromper-action
 \ge tromperie
 \gv flatterie
 \gv séduction
 \xv ní nɛ́gɛnni má fɛ́n ó fɛ́n ɲɛ̀, díyagoya t'ò ɲɛ̀  (2340)
 \xe ce qu'on n'a pu obtenir en essayant d'amadouer une personne, la contrainte ne l'obtiendra pas
 \rem l 89
-\dt 11/Nov/2007
+\dt 23/Feb/2017
 
 \lx nɛ̀gɛsen
 \mm nɛ̀gɛ:n:fer
@@ -101443,6 +101538,15 @@ le pèlerinage (bk 1/06 p.5)
 \sm admiration ; tristesse ...
 \dt 26/Sep/2006
 
+\lx olɛnpiki
+\ps n
+\ge olympique
+\gv
+\ee
+\xv
+\xe
+\dt 23/Feb/2017
+
 \lx òlú
 \mm ò:prn:ce
 \mm lú:mrph:PL2
@@ -104170,6 +104274,17 @@ épuisés
 \ps v
 \ge se.reposer
 
+\lx saharakungo
+\mm sahara:n.prop:TOP
+\mm kúngo:n:brousse
+\ps n
+\ge désert
+\gv
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx sáheli
 \bw ar: sahil = littoral (du désert)
 \ps n
@@ -106324,6 +106439,30 @@ composition de l'encens
 \xe le 10ème article de la loi a été abrogé (kb 1/05 p.4) / cet article de loi est devenu caduc (kb 8/05 p.1)
 \nt Kb 11/06 p.2
 \dt 11/Nov/2007
+
+\lx sàriyasun
+\mm sàriya:n:loi
+\mm sún:n:tronc
+\ps n
+\ge grammaire
+\gv
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
+
+\lx sàriyasunba
+\mm sàriyasun:n:grammaire
+\mm sàriya:n:loi
+\mm sún:n:tronc
+\mm ba:mrph:AUGM
+\ps n
+\ge Constitution
+\gv
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx sàriyatigɛ
 \mm sàriya:n:loi
@@ -109865,12 +110004,13 @@ gouvernement le soutient (kb 5/06 p.7)
 \ge manque.d’assurance
 \dt 29/Nov/2012
 
-\lx sìgareti
+\lx sìgarɛti
+\va sìgareti
 \va sìkarati
 \va sìgarati
 \ps n
 \ge cigarette
-\dt 14/Feb/2017
+\dt 22/Feb/2017
 
 \lx sígasiga
 \mm síga:n:doute
@@ -114270,8 +114410,7 @@ euphémique)
 \mm fɛ́n:n:chose
 \ps n
 \ge richesses
-\lt (acquérir.chose)
-\dt 26/Sep/2006
+\dt 23/Feb/2017
 
 \lx sɔ́rɔkɔ
 \ve (f)
@@ -117377,6 +117516,17 @@ fiançailles
 \lt (marcher.manière)
 \dt 26/Sep/2006
 
+\lx táamasɛbɛn
+\mm táama:n:marche
+\mm sɛ́bɛn:n:écrit
+\ps n
+\ge passeport
+\gv
+\ee
+\xv
+\xe
+\dt 25/Feb/2017
+
 \lx tàamashyɛn
 \va tàamasyɛn
 \va tàamasiyɛn
@@ -117740,6 +117890,24 @@ fiançailles
 \ge braise.ardente
 \lt (feu.morceau)
 \dt 12/Aug/2006
+
+\lx takisi
+\ps n
+\ge taxe
+\gv
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
+
+\lx takisi
+\ps n
+\ge taxi
+\gv
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx tàko
 \mm tà:v:prendre
@@ -119792,6 +119960,15 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ps adv
 \ge très.lourd
 \dt 24/Jun/2013
+
+\lx Tibɛsiti
+\ps n.prop
+\ge TOP
+\gv Tibesti
+\ee (région nord-ouest du Tchad)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx tìbitaba
 \va tìibitaaba
@@ -123207,15 +123384,6 @@ est due aux paysans (kib 3/05 p.9)
 \lt (sexe.sachet)
 \dt 16/Aug/2006
 
-\lx tɔ́rɔrɛ
-\ps
-\ge
-\gv
-\ee
-\xv
-\xe
-\dt 02/Jun/2016
-
 \lx tɔrɔsi
 \ps n
 \ge torche
@@ -126540,14 +126708,14 @@ la Justice (kb 12/05 p.4)
 \dt 26/Sep/2006
 
 \lx wɛ́rɛ
-\ps adj
+\ps dtm
 \ge autre
 \sm (différent ou en plus; ne s'emploie jamais seul)
 \xv ò tɛ́  dɔ́ wɛ́rɛ yé  nìn kɔ́
 \xe ce n'est rien d'autre que ceci
 \xv kálo wɛ́rɛ
 \xe le mois prochain, à la prochaine lune
-\dt 26/Sep/2006
+\dt 23/Feb/2017
 
 \lx wɛ́rɛ
 \ps n
@@ -129784,13 +129952,13 @@ comportement (LD p.5)
 \dt 24/Dec/2014
 
 \lx yɛ̀rɛdɔn
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm dɔ́n:n:connaissance
 \lt (soi-même.connaître)
 \ps n
 \ge connaissance.de.soi-même
 \sm de sa place dans la société, de sa dignité, de ses limites ...
-\dt 26/Sep/2006
+\dt 23/Feb/2017
 
 \lx yɛ̀rɛdɔnbali
 \mm yɛ̀rɛ:dtm:même

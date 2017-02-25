@@ -498,15 +498,6 @@
 \ge NOM.M
 \dt 03/May/2010
 
-\lx Basiru
-\ps
-\ge
-\gv
-\ee
-\xv
-\xe
-\dt 01/Feb/2017
-
 \lx Bátùru
 \di m
 \ps n.prop
@@ -1488,6 +1479,15 @@
 \ge NOM.F
 \dt 03/May/2010
 
+\lx Jɔ̀nkunda
+\ps n.prop
+\ge NOM.M
+\gv Dioncounda
+\ee
+\xv
+\xe
+\dt 23/Feb/2017
+
 \lx Jùba
 \di m
 \ps n.prop
@@ -1826,10 +1826,11 @@
 \va Lansana
 \va Lánsìnɛ
 \va Làsana
+\va Lasinɛ
 \di b, m
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\dt 23/Feb/2017
 
 \lx Lemu
 \di son
@@ -2145,10 +2146,11 @@
 \lx Muktari
 \va Mukutar
 \va Mukutari
+\va Mɔkutari
 \di
 \ps n.prop
 \ge NOM.M
-\dt 06/Feb/2016
+\dt 23/Feb/2017
 
 \lx Múntàga
 \ps n

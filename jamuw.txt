@@ -1158,6 +1158,7 @@
 
 \lx Jɛbatɛ
 \va Jabatɛ
+\va Jabate
 \va Jubatɛ
 \va Jabagatɛ
 \va Jɛbaatɛ
@@ -1173,7 +1174,7 @@
 \tn panthère
 \sn Jara
 \sn Kone
-\dt 06/May/2010
+\dt 23/Feb/2017
 \ps n.prop
 \ge NOM.CL
 
@@ -3117,7 +3118,8 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ps n.prop
 \ge NOM.CL
 
-\lx Tàrawéle
+\lx Tàrawele
+\va Tràwele
 \va Traore
 \va Taraore
 \fm Dansira
@@ -3146,7 +3148,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \pr Dansɔkɔ
 \tt ndaba kunba
 \tt nkaana
-\dt 06/May/2010
+\dt 23/Feb/2017
 \ps n.prop
 \ge NOM.CL
 

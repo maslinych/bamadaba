@@ -1017,13 +1017,14 @@ Comoé, Burkina Faso)
 \dt 05/Feb/2016
 
 \lx Búrukinafaso
+\va Búrukina Faso
 \va Búrukina
 \va Búrikina
 \ty гос.
 \ps n.prop
 \ru Буркина Фасо
 \cm (до 1984 г. - Верхняя Вольта)
-\dt 01/Feb/2017
+\dt 23/Feb/2017
 \ge TOP
 \gv Burkina Faso
 
@@ -1071,6 +1072,16 @@ Comoé, Burkina Faso)
 \xv
 \xe
 \dt 24/Oct/2016
+
+\lx Cɛkumala
+\ps n.prop
+\ge TOP
+\gv
+\ee (village, commune de Garalo, cercle de Bougouni, région de
+Sikasso)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx Dabanaani
 \ps n.prop
@@ -1170,6 +1181,16 @@ Comoé, Burkina Faso)
 \xe
 \dt 04/Jun/2016
 
+\lx Diboli
+\ps n.prop
+\ge TOP
+\gv Diboli
+\ee (un village, commune de Falémé, cercle et région de Kayes,
+à la frontière avec le Sénégal)
+\xv
+\xe
+\dt 25/Feb/2017
+
 \lx Dinbali
 \ps n.prop
 \ge TOP
@@ -1187,6 +1208,15 @@ Comoé, Burkina Faso)
 \xv
 \xe
 \dt 05/Feb/2017
+
+\lx Dogo
+\ps n.prop
+\ge TOP
+\gv Dogo
+\ee (commune, cercle de Bougouni, région de Sikasso)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx Dominiki
 \ty гос.
@@ -1298,10 +1328,11 @@ Tadmekka)
 \dt 15/Feb/2017
 
 \lx Eziputi
+\va Ezipiti
 \ps n.prop
 \ge TOP
 \gv Égypte
-\dt 04/Apr/2016
+\dt 22/Feb/2017
 
 \lx Ɛ̀ndu
 \va Híndi
@@ -1521,6 +1552,15 @@ Tadmekka)
 \ge TOP
 \dt 07/Nov/2014
 
+\lx Fúladugu
+\ps n.prop
+\ge TOP
+\gv Fouladougou
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Futa
 \ps n.prop
 \ge TOP
@@ -1643,6 +1683,15 @@ Tunisie et de l’Algérie)
 \ge TOP
 \cm (village à Buguni)
 \dt 01/Apr/2014
+
+\lx Garalo
+\ps n.prop
+\ge TOP
+\gv Garalo
+\ee (commune, cercle de Bougouni, région de Ségou)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx Garan Basamu
 \ps n.prop
@@ -1857,6 +1906,25 @@ le Sud de l'Algérie)
 \gv Ukraine
 \dt 05/Feb/2016
 
+\lx Inajatafani
+\ps n.prop
+\ge TOP
+\gv Inadiatafane
+\ee (commune, cercle de Gourma-Rharous, région de
+Tombouctou)
+\xv
+\xe
+\dt 22/Feb/2017
+
+\lx Indelimani
+\ps n.prop
+\ge TOP
+\gv Indelimane
+\ee (un village, 75 km d'Ansongo)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Ípɔdrɔm
 \ty кв.
 \ps n.prop
@@ -1992,6 +2060,15 @@ Ségou)
 \xe
 \dt 08/Feb/2017
 
+\lx Jalakɔrɔba
+\ps n.prop
+\ge TOP
+\gv Dialakoroba
+\ee (une commune dans le cercle de Kati, région de Koulikoro)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Jalakɔrɔji
 \ps n.prop
 \ge TOP
@@ -2000,6 +2077,15 @@ Ségou)
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Jalasagu
+\ps n.prop
+\ge TOP
+\gv Dialassagou
+\ee (localité près de Bankas)
+\xv
+\xe
+\dt 23/Feb/2017
 
 \lx Jalube
 \ps n.prop
@@ -2028,9 +2114,12 @@ Ségou)
 \xe
 \dt 01/Jun/2016
 
-\lx Jeliba
+\lx Jèliba
 \di m
-\va Joliba
+\va Jòliba
+\va Bájoliba
+\mm bá:n:fleuve
+\mm Jòliba:n.prop:TOP
 \di b
 \va Yálìba
 \va Yólìba
@@ -2040,7 +2129,7 @@ Ségou)
 \ge TOP
 \gv Niger
 \ru Нигер
-\dt 23/May/2010
+\dt 22/Feb/2017
 
 \lx Jelibaduu
 \ty гос.
@@ -2452,6 +2541,24 @@ Léraba, région des Cascades, Burkina Faso)
 \xe
 \dt 02/Feb/2017
 
+\lx Kasamansi
+\ps n.prop
+\ge TOP
+\gv Casamance
+\ee (région sud du Sénégal)
+\xv
+\xe
+\dt 22/Feb/2017
+
+\lx Kasaro
+\ps n.prop
+\ge TOP
+\gv Kassaro
+\ee (ville et commune, cercle de Kita, région de Kayes)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Katari
 \ps n.prop
 \ge TOP
@@ -2530,6 +2637,16 @@ Léraba, région des Cascades, Burkina Faso)
 \ee (un quartier de la Commune 2 de Bamako)
 \dt 01/Jun/2016
 
+\lx Kerekumala
+\ps n.prop
+\ge TOP
+\gv
+\ee (village, commune de Garalo, cercle de Bougouni, région de
+Sikasso)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Keri
 \va Kɛri
 \ty г.
@@ -2586,6 +2703,15 @@ Sikasso)
 \gv Kigali
 \ru Кигали
 \dt 23/May/2010
+
+\lx Kilela
+\ps n.prop
+\ge TOP
+\gv Kilela
+\ee (localité, région de Sikasso)
+\xv
+\xe
+\dt 23/Feb/2017
 
 \lx Kinsasa
 \va Kinshasa
@@ -2681,13 +2807,23 @@ Kéniéba)
 \dt 23/May/2010
 
 \lx Kongo Baraza
+\va Kongo Barazawili
 \ps n.prop
 \ge TOP
 \gv Congo-Brazzaville
 \ee
 \xv
 \xe
-\dt 31/May/2016
+\dt 22/Feb/2017
+
+\lx Kòngo Demokaratiki
+\ps n.prop
+\ge TOP
+\gv République Démocratique du Congo
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx Kore
 \ty гос.
@@ -2868,6 +3004,15 @@ région de Koulikoro)
 \cm (в Бамако)
 \dt 01/Jun/2016
 
+\lx Kɔtuba
+\ps n.prop
+\ge TOP
+\gv Kotouba
+\ee (commune dans le cercle de Kita, région de Kayes)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Kuba
 \va Kiba
 \ps n.prop
@@ -2932,6 +3077,15 @@ Ténenkou, région de Mopti)
 Сьерра-Леоне; также одноимённый народ)
 \dt 23/May/2010
 
+\lx Kuruba
+\ps n.prop
+\ge TOP
+\gv Kourouba
+\ee (commune, cercle de Kati, région de Koulikoro)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Kurukanfuga
 \ps n.prop
 \ge TOP
@@ -2954,6 +3108,15 @@ Ténenkou, région de Mopti)
 \xv
 \xe
 \dt 30/Jan/2017
+
+\lx Kuworo
+\ps n.prop
+\ge TOP
+\gv Kouoro
+\ee (commune, cercle et région de Sikasso)
+\xv
+\xe
+\dt 23/Feb/2017
 
 \lx Labezanga
 \ps n.prop
@@ -3066,12 +3229,12 @@ Tombouctou)
 \dt 15/Sep/2016
 
 \lx Lomɛ
-\ty г.
+\va Lome
 \ps n.prop
 \ge TOP
 \gv Lomé
 \ru Ломе
-\dt 23/May/2010
+\dt 23/Feb/2017
 
 \lx Lorenso-Marikɛs
 \ty г.
@@ -3152,6 +3315,16 @@ Tombouctou)
 \ge TOP
 \gv Malawi
 \dt 23/May/2010
+
+\lx Malɛzi
+\va Malezi
+\ps n.prop
+\ge TOP
+\gv Malaisie
+\ee
+\xv
+\xe
+\dt 23/Feb/2017
 
 \lx Màli
 \ty гос.
@@ -3535,6 +3708,15 @@ région de Ségou)
 \xv
 \xe
 \dt 07/Feb/2017
+
+\lx N'daki
+\ps n.prop
+\ge TOP
+\gv N'Daki
+\ee (une localité, région de Gao)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx Nili
 \ps n.prop
@@ -3944,6 +4126,15 @@ Koulikoro)
 \xe
 \dt 06/Feb/2017
 
+\lx Pɔrisayidi
+\ps n.prop
+\ge TOP
+\gv Port-Saïd
+\ee
+\xv
+\xe
+\dt 23/Feb/2017
+
 \lx Pɔritigali
 \ps n.prop
 \ge TOP
@@ -4041,14 +4232,6 @@ Koulikoro)
 \xv
 \xe
 \dt 06/Feb/2017
-
-\lx Sahara
-\ty пуст.
-\ps n.prop
-\ge TOP
-\gv Sahara
-\ru Сахара
-\dt 23/May/2010
 
 \lx Sahara
 \ps n.prop
@@ -4554,6 +4737,16 @@ de Mopti)
 \cm (в Сегу)
 \dt 05/Dec/2010
 
+\lx Sɔrɔna
+\ps n.prop
+\ge TOP
+\gv Sorona
+\ee (village, commune de Garalo, cercle de Bougouni, région de
+Sikasso)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Sudan
 \ty гос.
 \ps n.prop
@@ -4648,6 +4841,15 @@ village d'Essouk, région de Kidal)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Talo
+\ps n.prop
+\ge TOP
+\gv Talo
+\ee (localité au cercle de Ségou où un barrage a été érigé)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx Tamanin
 \va Tamani

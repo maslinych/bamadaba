@@ -4,6 +4,15 @@
 \name enciclop
 \ver 0.3
 
+\lx Abarahamu
+\ps n.prop
+\ge NOM.ETRG
+\gv Abraham
+\ee
+\xv
+\xe
+\dt 23/Feb/2017
+
 \lx Ábrahamu
 \ps n.prop
 \ge NOM.M
@@ -180,6 +189,16 @@ Monde)
 \xv
 \xe
 \dt 01/Jun/2016
+
+\lx Arawɛki
+\ps n.prop
+\ge ABR
+\gv RAVEC
+\gv Recensement administratif à vocation d’état-civil
+\ee (au Mali)
+\xv
+\xe
+\dt 25/Feb/2017
 
 \lx Arawulu
 \ps n.prop
@@ -363,6 +382,15 @@ eu lieu en 624)4
 \smf (roi des Mossi au XVe siècle)
 \dt 06/Feb/2016
 
+\lx Busi
+\ps n.prop
+\ge NOM.ETRG
+\gv Bush
+\ee (president des États-Unis)
+\xv
+\xe
+\dt 23/Feb/2017
+
 \lx Buwaɲi
 \ps n.prop
 \ge Houphouët-Boigny, Félix
@@ -409,6 +437,15 @@ de la guerre du Mali)
 \ge COMATEX
 \gv Compagnie Malienne de Textile
 \dt 14/Sep/2015
+
+\lx Denisi Sasu Ngesu
+\ps n.prop
+\ge NOM.ETRG
+\gv Denis Sassou-Nguesso
+\ee (président de la République Populaire du Congo)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx dinari
 \ps n
@@ -556,6 +593,25 @@ de la guerre du Mali)
 \xe
 \dt 07/Feb/2017
 
+\lx Ganda Izo
+\ps n.prop
+\ge Ganda Izo
+\gv
+\ee (une milice songhaï et peule formée en 2012)
+\xv
+\xe
+\dt 22/Feb/2017
+
+\lx Gatiya
+\ps n.prop
+\ge ABR
+\gv GATIA
+\gv Groupe autodéfense touareg Imghad et alliés
+\ee (groupe armé créé le 14 août 2014)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Gereguwari
 \ps n.prop
 \ge NOM.ETRG
@@ -645,6 +701,15 @@ de la guerre du Mali)
 \xe
 \dt 15/Sep/2016
 
+\lx Idirisi Debi Itino
+\ps n.prop
+\ge NOM.ETRG
+\gv Idriss Déby Itno
+\ee (Président du Tchad dès 1991)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Imowa
 \va UEMOA
 \ps n
@@ -674,11 +739,11 @@ la culture
 \dt 04/Jun/2016
 
 \lx Iyemowa
-\ps n
+\ps n.prop
 \ge ABR
 \gv UEMOA
 \gv Union Economique et Monétaire Ouest-Africaine
-\dt 05/Feb/2016
+\dt 25/Feb/2017
 
 \lx Iyɛnipeyɛsi
 \ps n
@@ -741,6 +806,15 @@ la culture
 \xe
 \dt 06/Feb/2017
 
+\lx Kabila
+\ps n.prop
+\ge NOM.ETRG
+\gv Laurent Désiré Kabila
+\ee (président de la République Démocratique du Congo)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Kabili
 \ps n
 \ge Kabyle
@@ -793,6 +867,15 @@ la culture
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Keyopusi
+\ps n.prop
+\ge NOM.ETRG
+\gv Khéops
+\ee (un pharaon)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx Kɛnkandɔn
 \ps n.prop
@@ -868,6 +951,15 @@ la culture
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Linkɔlini
+\ps n.prop
+\ge NOM.ETRG
+\gv Lincoln
+\ee (president des États-Unis)
+\xv
+\xe
+\dt 23/Feb/2017
 
 \lx Loran
 \ps n.prop
@@ -981,6 +1073,25 @@ la stabilisation au Mali
 \smf (titre royal chez les Mossi)
 \gv
 \dt 05/Feb/2016
+
+\lx NINA
+\ps n
+\ge ABR
+\gv carte NINA
+\gv Numéro d'Identification Nationale
+\ee (au Mali)
+\xv
+\xe
+\dt 25/Feb/2017
+
+\lx Nina
+\ps n.prop
+\ge NOM.ETRG
+\gv Nina
+\ee
+\xv
+\xe
+\dt 25/Feb/2017
 
 \lx Ɲana
 \ps n.prop
@@ -1126,6 +1237,25 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xv
 \xe
 \dt 09/Oct/2016
+
+\lx Pinudi
+\ps n.prop
+\ge ABR
+\gv PNUD
+\gv Programme des Nations unies pour le développement
+\ee
+\xv
+\xe
+\dt 22/Feb/2017
+
+\lx Poli Biya
+\ps n.prop
+\ge NOM.ETRG
+\gv Paule Biya
+\ee (président du Cameroun)
+\xv
+\xe
+\dt 22/Feb/2017
 
 \lx pɔnze
 \ps n.prop
@@ -1370,6 +1500,15 @@ Gbagbo)
 \xe
 \dt 07/Feb/2017
 
+\lx Tewodoro Obiyangi Ngema
+\ps n.prop
+\ge NOM.ETRG
+\gv Teodoro Obiang Nguema Mbasogo
+\ee (président de la Guinée Équatoriale)
+\xv
+\xe
+\dt 22/Feb/2017
+
 \lx Tifinari
 \ps n
 \ge Tifinagh
@@ -1488,10 +1627,37 @@ Gbagbo)
 \xe
 \dt 15/Sep/2016
 
+\lx Zidani
+\ps n.prop
+\ge NOM.ETRG
+\gv Zinédine Zidane
+\ee (footballer)
+\xv
+\xe
+\dt 23/Feb/2017
+
+\lx Zoze Eduwarado Dɔsi Santɔsi
+\ps n.prop
+\ge NOM.ETRG
+\gv José Eduardo dos Santos
+\ee (président d'Angola)
+\xv
+\xe
+\dt 22/Feb/2017
+
+\lx Zɔrɔzi
+\ps n.prop
+\ge NOM.ETRG
+\gv George
+\ee
+\xv
+\xe
+\dt 23/Feb/2017
+
 \lx Zɔrɔzi Pɔnpidu
 \ps n.prop
-\ge Georges Pompidou
+\ge Georges.Pompidou
 \ee (président français en 1969-1974)
 \xv
 \xe
-\dt 30/Jan/2017
+\dt 21/Feb/2017
