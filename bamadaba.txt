@@ -7216,14 +7216,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lt (aujourd'hui.enfant.état)
 \dt 16/Aug/2006
 
-\lx bidɔn
+\lx bìdɔn
 \ps n
 \ge bidon
 \gv
 \ee
 \xv
 \xe
-\dt 22/Feb/2017
+\dt 25/Feb/2017
 
 \lx bíduuru
 \mm bí:num:dizaine
@@ -26970,14 +26970,14 @@ l'occasion d'une naissance)
 \lx dɔ̀kɔtɔrɔso
 \mm dɔ̀kɔtɔrɔ:n:infirmier
 \mm só:n:maison
-\va dɔ̀gɔtɔrɔ.so
+\va dɔ̀gɔtɔrɔso
 \mm dɔ̀gɔtɔrɔ:n:infirmier
 \mm só:n:maison
 \ps n
 \ge hôpital
 \gv centre.de.soins
 \lt (docteur.maison)
-\dt 11/May/2013
+\dt 25/Feb/2017
 
 \lx dɔ̀kɔtɔrɔya
 \mm dɔ̀kɔtɔrɔ:n:infirmier
@@ -55220,14 +55220,14 @@ prolapsus utérin
 \xe heure
 \dt 22/Feb/2017
 
-\lx kanpaɲi
+\lx kànpaɲi
 \ps n
 \ge campagne
 \gv
 \ee (ensemble des travaux)
 \xv
 \xe
-\dt 22/Feb/2017
+\dt 25/Feb/2017
 
 \lx kánpasaja
 \mm kán:n:cou
@@ -80908,14 +80908,14 @@ des engagements
 \ee (des petits morceaux)
 \dt 16/Aug/2006
 
-\lx metewo
+\lx métewo
 \ps n
 \ge météo
 \gv service météorologique
 \ee
 \xv
 \xe
-\dt 22/Feb/2017
+\dt 25/Feb/2017
 
 \lx mɛ́
 \bw fr : mai
@@ -83255,14 +83255,14 @@ homme
 \ee (taille du caracal)
 \dt 26/Sep/2006
 
-\lx mɔnsɔn
+\lx mɔ̀nsɔn
 \ps n
 \ge maçon
 \gv
 \ee
 \xv
 \xe
-\dt 22/Feb/2017
+\dt 25/Feb/2017
 
 \lx mɔ́ntɔn
 \va mɔ́ntɔ
@@ -83280,14 +83280,15 @@ homme
 \sm (pour bondir ...)
 \dt 26/Sep/2006
 
-\lx mɔntɔrɔ
+\lx mɔ́ntɔrɔ
+\va mɔ́nturu
 \ps n
 \ge montre
 \gv
 \ee
 \xv
 \xe
-\dt 23/Feb/2017
+\dt 25/Feb/2017
 
 \lx mɔ̀ɲɔ
 \va mɔ̀ɲɔn
@@ -104274,8 +104275,8 @@ épuisés
 \ps v
 \ge se.reposer
 
-\lx saharakungo
-\mm sahara:n.prop:TOP
+\lx sáharakungo
+\mm sáhara:n.prop:TOP
 \mm kúngo:n:brousse
 \ps n
 \ge désert
@@ -104283,7 +104284,7 @@ épuisés
 \ee
 \xv
 \xe
-\dt 22/Feb/2017
+\dt 25/Feb/2017
 
 \lx sáheli
 \bw ar: sahil = littoral (du désert)
@@ -117891,23 +117892,23 @@ fiançailles
 \lt (feu.morceau)
 \dt 12/Aug/2006
 
-\lx takisi
-\ps n
-\ge taxe
-\gv
-\ee
-\xv
-\xe
-\dt 22/Feb/2017
-
-\lx takisi
+\lx tàkisi
 \ps n
 \ge taxi
 \gv
 \ee
 \xv
 \xe
-\dt 22/Feb/2017
+\dt 25/Feb/2017
+
+\lx tákisi
+\ps n
+\ge taxe
+\gv
+\ee
+\xv
+\xe
+\dt 25/Feb/2017
 
 \lx tàko
 \mm tà:v:prendre
