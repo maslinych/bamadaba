@@ -814,8 +814,8 @@
 \sm (descendants des invahisseurs marocains de 16 siècle)
 \dt 05/Feb/2016
 
-\lx arɔndisiman
-\va arɔndiseman
+\lx árɔndisiman
+\va árɔndiseman
 \ps n
 \ge arrondissement
 \gv
@@ -823,7 +823,7 @@
 à cercle, sɛ́rikili)
 \xv
 \xe
-\dt 01/Feb/2017
+\dt 26/Feb/2017
 
 \lx ásipirini
 \ps n
@@ -24234,9 +24234,9 @@ assumant que l'interclocuteur pense autrement)
 \xe il est devenu aveugle
 \sn 2
 \gv « dibi »
-\sm nom d'un des fétiches du "kɔmɔ"
+\sm nom d'un des fétiches du Kɔ̀mɔ
 \sy kɔ̀mɔsuruku
-\dt 26/Sep/2006
+\dt 26/Feb/2017
 
 \lx dìbi
 \ps v
@@ -68519,6 +68519,8 @@ il en contient dix
 \dt 26/Sep/2006
 
 \lx kùnfɛ̀
+\mm kùn:n:tête
+\mm fɛ̀:pp:par
 \ps pp
 \ge à.l'aveugle
 \gv sans compter
@@ -68527,7 +68529,7 @@ il en contient dix
 \ee
 \xv
 \xe
-\dt 15/Feb/2017
+\dt 25/Feb/2017
 
 \lx kùnfɛjati
 \mm kùn:n:tête
@@ -77033,15 +77035,6 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ee (appartement, voiture ...)
 \dt 18/Sep/2016
 
-\lx m
-\ps n
-\ge ABR
-\gv mètre
-\ee
-\xv
-\xe
-\dt 23/Oct/2016
-
 \lx mà
 \va mɔ̀
 \ve (f)
@@ -81268,11 +81261,11 @@ des engagements
 \lx mɛ́tɛrɛ
 \va mɛ́trɛ
 \va mɛ́tiri
+\va m
 \es {fr : mètre}
 \ps n
 \ge mètre
-\rem du
-\dt 03/May/2013
+\dt 26/Feb/2017
 
 \lx mɛ́tɛrɛkɛnɛ
 \mm mɛ́tɛrɛ:n:mètre
@@ -81489,7 +81482,7 @@ des engagements
 \dt 04/Apr/2016
 
 \lx mín
-\va míni
+\va mínì
 \ps adv
 \ge où
 \xv í bɔ́ra mín ?
@@ -81498,7 +81491,7 @@ des engagements
 \xe où est partie ta mère ?
 \xv í bɛ́ táa míni ?
 \xe où vas-tu ?
-\dt 10/Apr/2015
+\dt 26/Feb/2017
 
 \lx mîn
 \va mun
@@ -105271,7 +105264,15 @@ épuisés
 \dt 26/Sep/2006
 
 \lx sáni
-\va sánni
+\ve (-f,-bk)
+\va séni
+\ve (bn)
+\ps adj
+\ge propre
+\dt 06/Apr/2016
+
+\lx sánì
+\va sánnì
 \va sán'
 \va sánn'
 \ps conj
@@ -105280,15 +105281,7 @@ épuisés
 \lt (maintenant.suf)
 \xv sáni kà kàsi, í k'í fúra kɛ́
 \xe au lieu de pleurer, soigne-toi !
-\dt 05/Feb/2017
-
-\lx sáni
-\ve (-f,-bk)
-\va séni
-\ve (bn)
-\ps adj
-\ge propre
-\dt 06/Apr/2016
+\dt 26/Feb/2017
 
 \lx sániman
 \mm sáni:vq:propre

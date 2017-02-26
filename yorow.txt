@@ -539,6 +539,15 @@ Salam, Cercle de Tombouctou)
 \cm (в Сегу)
 \dt 05/Dec/2010
 
+\lx Bànakolo
+\ps n.prop
+\ge TOP
+\gv Banakolo
+\ee (village, région de Koulikoro)
+\xv
+\xe
+\dt 26/Feb/2017
+
 \lx Bananba
 \ps n.prop
 \ge TOP
@@ -917,6 +926,16 @@ Comoé, Burkina Faso)
 \xv
 \xe
 \dt 04/Feb/2017
+
+\lx Bɔ̀rɔ
+\ps n.prop
+\ge TOP
+\gv Boron
+\ee (centre de la commune de Boron, cercle de Banamba, région
+de Koulikoro)
+\xv
+\xe
+\dt 26/Feb/2017
 
 \lx Bɔsuwana
 \ps n.prop
@@ -2158,6 +2177,15 @@ Ségou)
 \ru Дженне
 \dt 23/May/2010
 
+\lx Jɛ́bùgu
+\ps n.prop
+\ge TOP
+\gv Diebougou
+\ee (village, région de Koulikoro)
+\xv
+\xe
+\dt 26/Feb/2017
+
 \lx Jɛma
 \ps n.prop
 \ge TOP
@@ -2239,11 +2267,21 @@ Ségou)
 \cm (историческая область в южной Гвинее)
 \dt 23/May/2010
 
+\lx Jɔ̀maaji
+\ps n.prop
+\ge TOP
+\gv Diamadji
+\ee (village dans le cercle de Banamba, région de Koulikoro)
+\xv
+\xe
+\dt 26/Feb/2017
+
 \lx Jɔ́nkɔlɔnin
 \ps n.prop
 \ge TOP
 \gv Dionkolonin
-\dt 12/May/2016
+\ee (village près de Mourdiah)
+\dt 26/Feb/2017
 
 \lx Julafundo
 \ps n.prop
@@ -2961,6 +2999,15 @@ région de Koulikoro)
 \cm (столица Гвинеи)
 \dt 23/May/2010
 
+\lx Kɔ̀nmi
+\ps n.prop
+\ge TOP
+\gv Koumbi-Saleh
+\ee (la capitale de l'Ancien Ghana)
+\xv
+\xe
+\dt 26/Feb/2017
+
 \lx Kɔnna
 \ps n.prop
 \ge TOP
@@ -3275,6 +3322,15 @@ Tombouctou)
 \gv Loanda
 \ru Луанда
 \dt 23/May/2010
+
+\lx Màafɛya
+\ps n.prop
+\ge TOP
+\gv Mafeya
+\ee (village, 12 km au nord de Koulikoro)
+\xv
+\xe
+\dt 26/Feb/2017
 
 \lx Madagasikari
 \va Madagaasi
@@ -3886,7 +3942,10 @@ Niafunké, région de Tombouctou)
 \lx Ɲámina
 \ps n.prop
 \ge TOP
-\dt 12/May/2016
+\gvf Nyamina
+\ee (village dans le cercle et région de Koulikoro, à la rive
+gauche du Niger)
+\dt 26/Feb/2017
 
 \lx Ɲangayi
 \ty оз.
@@ -4710,6 +4769,25 @@ de Mopti)
 \xe
 \dt 31/Jan/2017
 
+\lx Sóorò
+\ps n.prop
+\ge TOP
+\gv Soro
+\ee (une ancienne ville, pussante dans 13-14 siècles, à la rive
+droite du Niger, 23 km à l'ouest de Ségou)
+\xv
+\xe
+\dt 26/Feb/2017
+
+\lx Sòso
+\ps n.prop
+\ge TOP
+\gv Soso
+\ee (village, région de Koulikoro)
+\xv
+\xe
+\dt 26/Feb/2017
+
 \lx Sotuba
 \ty порог
 \ru Сотуба
@@ -4851,15 +4929,15 @@ village d'Essouk, région de Kidal)
 \xe
 \dt 22/Feb/2017
 
-\lx Tamanin
-\va Tamani
+\lx Tàmanin
+\va Tàmani
 \ps n.prop
 \ge TOP
 \gv Tamani
 \ee (commune au cercle de Baraouéli, région de Ségou)
 \xv
 \xe
-\dt 06/Feb/2017
+\dt 26/Feb/2017
 
 \lx Tamarasɛti
 \ps n.prop
@@ -5006,6 +5084,15 @@ village d'Essouk, région de Kidal)
 \gv Tominian
 \smf (ville et cercle dans la région de Ségou)
 \dt 08/Feb/2016
+
+\lx Tòrodo
+\ps n.prop
+\ge TOP
+\gv Torodo
+\ee (village, cercle de Kati, 10 km au nord de Bamako)
+\xv
+\xe
+\dt 26/Feb/2017
 
 \lx Torokɔrɔbugu
 \ps n.prop
@@ -5156,11 +5243,12 @@ Grand Erg Occidental, dans la wilaya d'Adrar)
 \dt 05/Feb/2016
 
 \lx Wagadu
+\va Wàhadù
 \ps n.prop
 \ge Ouagadou
 \gv Ghana
 \smf (le premier des grands empires de l'Afrique Occidentale)
-\dt 05/Feb/2016
+\dt 26/Feb/2017
 
 \lx Wagadugu
 \va Wàadúu
