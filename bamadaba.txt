@@ -7737,12 +7737,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bìlanyɛrɛma
 \mm bìla:v:mettre
 \mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm mà:pp:à
 \va blà.n.yɛrɛ.ma
 \mm blà:v:mettre
 \mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm mà:pp:à
 \ps adj
 \lt laisser-moi-même -à
@@ -7750,7 +7750,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \sm libre de tout faire
 \xv dénmisɛn bìlanyɛrɛma
 \xe les jeunes laissés à leur propre volonté (kb 9/04 p.7)
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx bìlaɲɛ
 \mm bìla:v:mettre
@@ -21830,7 +21830,7 @@ génitales ...
 \lx dányɛ̀rɛla
 \mm dá:v:poser
 \mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \ps n
 \lt confiance-soi-même-en
@@ -21840,7 +21840,7 @@ génitales ...
 \gv personne.présomptueuse
 \xv dányɛrɛla kójugu dòn
 \xe (le voleur) se croyait trop sûr de lui (kb 3/05 p.4)
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx dáɲɛ
 \mm dá:v:poser
@@ -24100,7 +24100,7 @@ assumant que l'interclocuteur pense autrement)
 \lx dɛ́sɛnyɛrɛkɔrɔ
 \mm dɛ́sɛ:v:échouer
 \mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm kɔ́rɔ:pp:sous
 \ps n
 \sn 1
@@ -24110,7 +24110,7 @@ assumant que l'interclocuteur pense autrement)
 \sn 2
 \gv incapable
 \gv indigent
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx dì
 \ps prn
@@ -25329,17 +25329,17 @@ chefs religieux et représentants de l'administration
 \dt 26/Sep/2006
 
 \lx díyanyɛrɛlamaa
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
+\mm díya:v:rendre.agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \mm màa:n:homme
-\va já.n.yɛrɛ.la.maa
+\va jányɛrɛ.la.maa
 \mm já:v:rendre.agréable
 \mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \mm màa:n:homme
 \ph [ja.]
@@ -25347,7 +25347,7 @@ chefs religieux et représentants de l'administration
 \ge lambin
 \ee personne qui prend tout son temps
 \lt (plaire.moi-même.à.personne)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx díyaɲɔgɔn
 \mm dí.ya:v:rendre.agréable
@@ -46196,7 +46196,7 @@ qqch ...)
 \mm jàn:n:attention
 \mm tó:v:rester
 \mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \ps n
 \lt veiller-moi-même-sur
@@ -46207,7 +46207,7 @@ qqch ...)
 \sm celui qui prend soin de soi-même
 \xv jàntonyɛrɛla kɔ̀rɔko ká ɲì (2145)
 \xe l'homme prudent a une heureuse vieillesse
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx jànya
 \mm jàn:vq:long
@@ -50230,7 +50230,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \lx jɔ̀nńyɛ̀rɛlá
 \mm jɔ̀n:v:estimer.insuffisant
 \mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \ps n
 \sn 1
@@ -50238,7 +50238,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \sn 2
 \gv complexé
 \lt (maugréer.moi.même.sur)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx jɔ̀nsɔnna
 \mm jɔ̀:v:dresser
@@ -58046,25 +58046,25 @@ prolapsus utérin
 \lx kɛ́nyɛrɛla
 \mm kɛ́:v:faire
 \mm ń:pers:1SG
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \ps n
 \ge vilain
 \lt (faire.moi-même.endroit)
 \xv kɛ́nyɛrɛla dàn yé  kɔ̀lɔnkɔnɔboci yé
 \xe le comble de l' "égoïsme" est de péter au fond d'un puits (prov)
-\dt 19/Feb/2015
+\dt 28/Feb/2017
 
 \lx kɛ́nyɛrɛye
 \mm kɛ́:v:faire
-\mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm ń:pers:1SG
+\mm yɛ̀rɛ̂:dtm:même
 \mm yé:pp:PP
 \ps n
 \ge entrepreneur
 \gv secteur.privé
 \lt (agir.moi-même.pour)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx kɛ̀ɲɛ
 \ps n
@@ -108367,25 +108367,25 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sényɛrɛkɔrɔ
 \mm sé:v:arriver
 \mm ń:prn:1SG
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm kɔ́rɔ:pp:sous
 \ps n
 \ge autosuffisance
-\dt 23/Nov/2012
+\dt 28/Feb/2017
 
 \lx sé-ń-yɛ̀rɛ-kɔ̀rɔ
 \mm sé:v:arriver
 \mm ń:prn:1SG
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm kɔ̀rɔ:pp:sous
 \ps n
 \ge autosuffisance
-\dt 18/Jun/2014
+\dt 28/Feb/2017
 
 \lx séńyɛ̀rɛlá
 \mm sé:n:arrivée
-\mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm ń:pers:1SG
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \ps n
 \lt pouvoir-soi-même-sur
@@ -108399,7 +108399,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \xe la continence est la première prévention du sida (donniya 5/6 p.42)
 \xv mùso ká sényɛrɛla tùn ɲíninen dòn kósɛbɛ à jógoɲuman tɔ̀ lá
 \xe parmi les qualités de la femme on prisait spécialement sa vertu (kb 1/06 p.8)
-\dt 05/Apr/2016
+\dt 28/Feb/2017
 
 \lx sére
 \ps n
@@ -123885,14 +123885,14 @@ est due aux paysans (kib 3/05 p.9)
 \lx túlobɔ́ńyɛ́rɛlɔ́
 \mm túlo:n:oreille
 \mm bɔ́:v:sortir
-\mm ń:pers:je
-\mm yɛ̀rɛ:dtm:même
+\mm ń:pers:1SG
+\mm yɛ̀rɛ̂:dtm:même
 \mm lɔ́:pp:IN
 \ps n
 \ge cuiller.en.bois
 \sy sònkala
 \lt (oreille.sortir.moi-même.de)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx túlobu
 \mm túlo:n:oreille
@@ -129897,27 +129897,27 @@ comportement (LD p.5)
 \dt 20/Dec/2015
 
 \lx yɛ̀rɛbakun
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm ba:mrph:AUGM
 \mm kùn:n:tête
 \ps n
 \ge soi-même
 \gv tout entier
 \lt (soi-même.tête)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛbaya
-\mm yɛ̀rɛ.ba:n:fat
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛba:n:fat
+\mm yɛ̀rɛ̂:dtm:même
 \mm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \ge orgueil.et.égoïsme
 \lt (vantard.suf abs)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛbonya
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \ps n
@@ -129929,21 +129929,21 @@ comportement (LD p.5)
 \dt 28/Feb/2017
 
 \lx yɛ̀rɛbɔ
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm bɔ́:v:sortir
 \ps n
 \lt soi-même-égaler
 \ge auto-suffisance
 \rem l 89 : alimentaire ?
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛci
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm cí:v:envoyer
 \ps n
 \ge but.fixé.à.soi-même
 \lt (soi-même.envoyer)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛdama
 \mm yɛ̀rɛ̂:dtm:même
@@ -129962,7 +129962,7 @@ comportement (LD p.5)
 \dt 23/Feb/2017
 
 \lx yɛ̀rɛdɔnbali
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
@@ -129970,11 +129970,11 @@ comportement (LD p.5)
 \ge indigne
 \gv mal éduqué
 \rem l 89 : refuse de travailler par orgueil ...
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛdɔnbaliya
-\mm yɛ̀rɛ.dɔn.bali:ptcp:indigne
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂dɔnbali:ptcp:indigne
+\mm yɛ̀rɛ̂:dtm:même
 \mm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
@@ -129982,27 +129982,27 @@ comportement (LD p.5)
 \ge méconnaissance.de.sa.place
 \sm (proche de la suffisance ...)
 \lt (soi-même.connaître.ne pas.suf abs)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛdulon
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm dúlon:v:suspendre
 \ps n
 \ge pendaison
 \sm (volontaire)
 \lt soi-même- pendre
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛfaga
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm fàga:v:tuer
 \va yɛ̀rɛfaa
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm fàa:v:tuer
 \ps n
 \ge suicide
 \lt (soi-même.tuer)
-\dt 06/Nov/2014
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛfaganci
 \mm yɛ̀rɛ̂:dtm:même
@@ -130018,12 +130018,12 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛfagasu
 \mm yɛ̀rɛ.faga:n:suicide
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm fàga:v:tuer
 \mm sù:n:cadavre
 \va yɛ̀rɛfaasu
-\mm yɛ̀rɛ.faa:n:suicide
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛfaa:n:suicide
+\mm yɛ̀rɛ̂:dtm:même
 \mm fàa:v:tuer
 \mm sù:n:cadavre
 \ps n
@@ -130033,49 +130033,49 @@ comportement (LD p.5)
 \sn 2
 \gv risque-tout
 \sy sì bántɔ
-\dt 06/Nov/2014
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛjirako
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm jìra:v:montrer
 \mm kó:n:affaire
-\va yɛ̀rɛ.yira.ko
-\mm yɛ̀rɛ:dtm:même
+\va yɛ̀rɛyira.ko
+\mm yɛ̀rɛ̂:dtm:même
 \mm yìra:v:montrer
 \mm kó:n:affaire
 \ps n
 \ge action.ostentatoire
 \sm faite pour la galerie
 \lt (soi-même.montrer.action)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛjiranci
-\mm yɛ̀rɛ.jira:n:vanité
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛjira:n:vanité
+\mm yɛ̀rɛ̂:dtm:même
 \mm jìra:v:montrer
 \mm nci:mrph:AG.EX
-\va yɛ̀rɛ.yira.nci
-\mm yɛ̀rɛ.yira:n:vanité
-\mm yɛ̀rɛ:dtm:même
+\va yɛ̀rɛyira.nci
+\mm yɛ̀rɛyira:n:vanité
+\mm yɛ̀rɛ̂:dtm:même
 \mm yìra:v:montrer
 \mm nci:mrph:AG.EX
 \ps n
 \ge vaniteux
 \gv m'as-tu-vu
 \lt (soi-même.montrer.à l'excès)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛjiranciya
-\mm yɛ̀rɛ.jira.nci:n:vaniteux
-\mm yɛ̀rɛ.jira:n:vanité
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛjiranci:n:vaniteux
+\mm yɛ̀rɛjira:n:vanité
+\mm yɛ̀rɛ̂:dtm:même
 \mm jìra:v:montrer
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
-\va yɛ̀rɛ.yira.nci.ya
-\mm yɛ̀rɛ.yira.nci:n:vaniteux
-\mm yɛ̀rɛ.yira:n:vanité
-\mm yɛ̀rɛ:dtm:même
+\va yɛ̀rɛyiranci.ya
+\mm yɛ̀rɛyiranci:n:vaniteux
+\mm yɛ̀rɛyira:n:vanité
+\mm yɛ̀rɛ̂:dtm:même
 \mm yìra:v:montrer
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
@@ -130083,10 +130083,10 @@ comportement (LD p.5)
 \ge vanité
 \gv ostentation
 \lt (vantard.suf abs)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛkalan
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm kàlan:v:lire
 \ps n
 \sn 1
@@ -130094,18 +130094,18 @@ comportement (LD p.5)
 \sn 2
 \gv étude personnelle
 \lt (soi-même.étudier)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛkalanden
-\mm yɛ̀rɛ.kalan:n:autodidacte
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛkalan:n:autodidacte
+\mm yɛ̀rɛ̂:dtm:même
 \mm kàlan:v:lire
 \mm dén:n:enfant
 \ps n
 \ge autodidacte
 \lt soi-même-instruire-fils
 \rem l 89
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx yɛ́rɛkɛ
 \ps v
@@ -130116,15 +130116,15 @@ comportement (LD p.5)
 \dt 26/Sep/2006
 
 \lx yɛ̀rɛko
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm kó:n:affaire
 \ps n
 \ge affaire.personnelle
 \lt (soi-même;affaire)
-\dt 13/Oct/2013
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛkun
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm kùn:n:tête
 \lt (soi-même.tête)
 \ps n
@@ -130133,112 +130133,108 @@ comportement (LD p.5)
 \gv totalité
 \xv à yé  à yɛ̀rɛkun bɔ́  dìngɛn nɔ́
 \xe il est sorti complètement du trou
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛkunfeere
-\mm yɛ̀rɛ.kun:n:soi-même
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛkun:n:soi-même
+\mm yɛ̀rɛ̂:dtm:même
 \mm kùn:n:tête
 \mm fèere:v:vendre
 \ps n
-\lt soi-même-vendre
 \ge prostitution
 \xv òlu bɛ́ sɔ̀n kà lában yɛ̀rɛkunfeere lá
 \xe elles acceptent finalement de se prostituer (kb 1/06 p..8)
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛkunfeerela
-\mm yɛ̀rɛ.kun:n:soi-même
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛkun:n:soi-même
+\mm yɛ̀rɛ̂:dtm:même
 \mm kùn:n:tête
 \mm fèere:v:vendre
 \mm la:mrph:AG.PRM
 \ps n
-\lt sa personne-celle qui
 \ge prostituée
 \nt Kb 6/05 p.5
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛlabila
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:mrph:CAUS
 \mm bìla:v:mettre
 \ps n
 \ge vie.désordonnée
 \ee (sur tous les plans)
 \lt (soi-même.laisser aller)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛlagosi
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:mrph:CAUS
 \mm gòsi:v:battre
-\va yɛ̀rɛ.la.gɔsi
-\mm yɛ̀rɛ:dtm:même
+\va yɛ̀rɛlagɔsi
+\mm yɛ̀rɛ̂:dtm:même
 \mm lá:mrph:CAUS
 \mm gɔ̀si:v:battre
 \ps n
 \ge qui.prête.le.flanc.aux.critiques
 \lt (soi-même.critiquer)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛlakalila
-\mm yɛ̀rɛ:dtm:même
-\mm lákàlí:v:raconter
+\mm yɛ̀rɛ̂:dtm:même
+\mm lákàli:v:raconter
 \mm la:mrph:AG.PRM
 \ps n
 \lt vanter-celui qui
 \ge vantard
 \rem Mol
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛmabila
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm mà:mrph:SUPER
 \mm bìla:v:mettre
 \ps n
 \ge laisser-aller
 \ee conduite relâchée (dans tous les sens)
 \lt (soi-même.laisser-aller)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛmahɔrɔn
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm mà:pp:à
-\mm hɔ́rɔn:adj/n:libre
+\mm hɔ́rɔn:adj:libre
 \ps n
 \ge homme.libre
 \gv homme indépendant
-\lt (de soi-même.libre)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛmahɔrɔnya
-\mm yɛ̀rɛ.ma.hɔrɔn:n:homme.libre
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛmahɔrɔn:n:homme.libre
+\mm yɛ̀rɛ̂:dtm:même
 \mm mà:pp:à
-\mm hɔ́rɔn:adj/n:libre
+\mm hɔ́rɔn:adj:libre
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \ge devenir.libre
 \gv devenir indépendant
 \lt (libre.suf caus)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛmahɔrɔnya
-\mm yɛ̀rɛ.ma.hɔrɔn:n:homme.libre
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛmahɔrɔn:n:homme.libre
+\mm yɛ̀rɛ̂:dtm:même
 \mm mà:pp:à
-\mm hɔ́rɔn:adj/n:libre
+\mm hɔ́rɔn:adj:libre
 \mm ya:mrph:ABSTR
 \ps n
 \ge liberté
 \gv indépendance
-\lt (libre.suf abs)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛmajigin
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm mà:mrph:SUPER
 \mm jìgin:v:descendre
 \ps n
@@ -130246,40 +130242,40 @@ comportement (LD p.5)
 \gv modestie
 \lt (soi-même.abaisser)
 \sy yɛ̀rɛmajigilenya
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛmajira
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm mà:mrph:SUPER
 \mm jìra:v:montrer
-\va yɛ̀rɛ.ma.yira
-\mm yɛ̀rɛ:dtm:même
+\va yɛ̀rɛmayira
+\mm yɛ̀rɛ̂:dtm:même
 \mm mà:mrph:SUPER
 \mm yìra:v:montrer
 \ps n
 \ge ostentation
 \lt (soi-même.montrer)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛmandiya
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm màn:mrph:SUPER
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \ps n
 \ge zèle.intéressé
 \sm (pour se faire valoir)
 \lt (soi-même.plaire)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛminɛ
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm mìnɛ:v:attraper
 \ps n
 \ge retenue
 \ee (dans tous les sens)
 \lt (soi-même.prendre)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ́rɛnɛ
 \ps n
@@ -130290,69 +130286,67 @@ comportement (LD p.5)
 \dt 16/Aug/2006
 
 \lx yɛ̀rɛnɛgɛn
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm nɛ́gɛn:n:flatterie
 \ps n
 \ge illusion.sur.soi-même
-\lt (soi-même.tromper)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛnimadanga
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm ní:n:âme
 \mm mà:mrph:SUPER
 \mm dánga:v:maudire
 \ps n
 \ge malédiction.contre.soi-même
-\lt (soi-même.vie.maudire)
-\dt 19/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛɲani
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm ɲáni:v:réduire.à.la.misère
-\va yɛ̀rɛ.ɲɛni
-\mm yɛ̀rɛ:dtm:même
+\va yɛ̀rɛɲɛni
+\mm yɛ̀rɛ̂:dtm:même
 \mm ɲɛ́ni:v:réduire.à.la.misère
 \ps n
 \ge masochisme
 \lt (soi-même.maltraiter)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛɲaninci
-\mm yɛ̀rɛ.ɲani:n:masochisme
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛɲani:n:masochisme
+\mm yɛ̀rɛ̂:dtm:même
 \mm ɲáni:v:réduire.à.la.misère
 \mm nci:mrph:AG.EX
-\va yɛ̀rɛ.ɲɛni.nci
-\mm yɛ̀rɛ.ɲɛni:n:masochisme
-\mm yɛ̀rɛ:dtm:même
+\va yɛ̀rɛɲɛninci
+\mm yɛ̀rɛɲɛni:n:masochisme
+\mm yɛ̀rɛ̂:dtm:même
 \mm ɲɛ́ni:v:réduire.à.la.misère
 \mm nci:mrph:AG.EX
 \ps n
 \ge masochiste
 \lt (soi-même.maltraiter.à l'excès)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛɲini
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm ɲíni:v:chercher
 \ps n
 \ge sauve-qui-peut
 \gv propre salut
 \lt (soi-même.chercher)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛsagokɛ
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm sàgo:n:volonté
 \mm kɛ́:v:faire
 \ps n
 \ge qui.agit.à.sa.tête
 \lt (soi-même.volonté.faire)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛsagokɛla
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm sàgo:n:volonté
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
@@ -130360,45 +130354,42 @@ comportement (LD p.5)
 \ge libertin
 \ee (qui fait ce qui lui plaît, libertin dans tous les sens)
 \lt (soi-même.volonté.faire.celui qui)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛsagon
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm sàgon:v:sauter.par.dessus
 \ps n
 \ge infatué.de.sa.personne
-\dt 05/Apr/2016
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛsɔrɔ
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm sɔ̀rɔ:v:obtenir
 \ps n
 \ge salut
-\ee fait d'échapper à un mal...
-\lt (soi-même.gagner)
-\dt 26/Sep/2006
+\ee (fait d'échapper à un mal)
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛta
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm tà:v:prendre
 \ps n
 \ge indépendance
-\ee prise en charge de soi-même, indépendance économique
-\lt (soi-même.prendre)
-\dt 26/Sep/2006
+\ee (prise en charge de soi-même, indépendance économique)
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛtangalan
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm tànga:v:protéger
 \mm lan:mrph:INSTR
 \ps n
 \ge arme.défensive
 \gv gri-gri protecteur
-\lt (soi-même.protéger.ce qui sert à)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛwolo
-\mm yɛ̀rɛ:n:légitime
+\mm yɛ̀rɛ̂:n:légitime
 \mm wólo:v:accoucher
 \ps adj/n
 \sn 1
@@ -130407,15 +130398,15 @@ comportement (LD p.5)
 \lt (soi-même.naître)
 \sn 2
 \gv autochtone
-\sm issu de la lignée du fondateur du village
+\ee (issu de la lignée du fondateur du village)
 \xv Fàlajɛ yɛ̀rɛwolo yé  Tàrawele yé
 \xe les autochtones de Falajɛ sont les Tarawele
 \sn 3
 \gv superbe
-\sm d'excellente qualité
+\ee (d'excellente qualité)
 \xv sánu yɛ̀rɛwolo
 \xe de l'or pur
-\dt 05/Apr/2016
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛ-yé-yɛ̀rɛ-bólo
 \mm yɛ̀rɛ̂:dtm:même
@@ -130460,17 +130451,17 @@ comportement (LD p.5)
 \dt 16/Aug/2006
 
 \lx yɛ̀rɛyira
-\mm yɛ̀rɛ:dtm:même
+\mm yɛ̀rɛ̂:dtm:même
 \mm yìra:v:montrer
-\va yɛ̀rɛ.jira
-\mm yɛ̀rɛ:dtm:même
+\va yɛ̀rɛjira
+\mm yɛ̀rɛ̂:dtm:même
 \mm jìra:v:montrer
 \ps n
 \ge vanité
 \gv ostentation
 \gv fatuité
 \lt (soi-même.montrer)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx yìgiyaga
 \ps v
