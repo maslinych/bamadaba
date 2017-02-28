@@ -18475,6 +18475,7 @@ sur soi)
 \dt 10/Jun/2013
 
 \lx dága
+\va dáha
 \ps n
 \sn 1
 \ge campement
@@ -18485,17 +18486,17 @@ sur soi)
 \xe ils ont assiégé le village
 \xv dága sìgi  kàrisa dá lá
 \xe assiéger qqn, l'importuner sans cesse
-\dt 03/Apr/2016
+\dt 27/Feb/2017
 
 \lx dága
+\va dáha
 \ps v
 \vl vi
 \sn 1
 \ge assiéger
 \sn 2
 \gv camper
-\ee (rare)
-\dt 26/Sep/2006
+\dt 27/Feb/2017
 
 \lx dàgadilala
 \mm dàga:n:canari
@@ -18969,13 +18970,13 @@ sur soi)
 
 \lx dájɔ̀
 \mm dá:n:bouche
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ps v
 \vl vr
 \ge s'arrêter
 \ee (avant de faire demi-tour ...)
 \lt (lieu.arrêter)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx dájugu
 \mm dá:n:bouche
@@ -41911,11 +41912,11 @@ caractéristique, réputé pour faciliter la procréation)
 \lx gírin-kà-jɔ̀
 \mm gírin:v:se.précipiter
 \mm kà:pm:INF
-\mm jɔ́:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ps n
 \ge émeute
 \lt (se précipiter-et-s'arrêter)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx gírinman
 \mm gírin:vq/adj:lourd
@@ -48252,14 +48253,14 @@ le toit de la maison et descendaient
 
 \lx jílajà
 \mm jí:n:eau
-\mm la:mrph:CAUS
+\mm lá:mrph:CAUS
 \mm jà:v:sécher
 \ps v
 \vl vr
 \ge s'efforcer
 \lt (eau.sécher)
 \sy jíja
-\dt 12/Aug/2006
+\dt 28/Feb/2017
 
 \lx jílama
 \mm jí:n:eau
@@ -48692,11 +48693,11 @@ le toit de la maison et descendaient
 \mm jíri:n:arbre
 \mm dùgu:n:terre
 \mm mà:mrph:SUPER
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ps n
 \ge jeunes.plants.au.pied.d'un.arbre
 \lt (arbre.au sol.dresser)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx jírifara
 \mm jíri:n:arbre
@@ -49982,7 +49983,7 @@ d'arrière-saison
 \dt 26/Sep/2006
 
 \lx jɔ̀lan
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm lan:mrph:INSTR
 \ps n
 \ee instrument pour mettre debout
@@ -49993,7 +49994,7 @@ d'arrière-saison
 \gv fourche.d'un.deux.roues
 \gv béquille
 \lt (mettre debout.ce qui sert à)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx jɔ̀len
 \ve (f,bn)
@@ -50006,14 +50007,14 @@ d'arrière-saison
 \dt 26/Sep/2006
 
 \lx jɔ̀lenya
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ge stabilité
 \gv station.debout
 \lt (être debout.suf part.passé.suf abs)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx jɔ̀lɔ
 \ps n
@@ -50166,14 +50167,14 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \dt 16/Aug/2006
 
 \lx jɔ̀nkunna
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm ń:pers:1SG
 \mm kùn:n:tête
 \mm ná:pp:dans
 \ps n
 \ge garde.du.corps
 \gv garde personnel
-\dt 21/Jul/2014
+\dt 28/Feb/2017
 
 \lx jɔ̀nmaya
 \mm jɔ̀n:v:estimer.insuffisant
@@ -50240,13 +50241,13 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \dt 16/Aug/2006
 
 \lx jɔ̀nsɔnna
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm ń:pers:je
 \mm sɔ̀n:n:cœur
 \mm ná:pp:dans
 \ps n
 \ge aveu.d'une.faute
-\dt 23/Nov/2012
+\dt 28/Feb/2017
 
 \lx jɔ́ntɛfin
 \mm jɔ́ntɛ:n:paludisme
@@ -50365,13 +50366,13 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \dt 16/Aug/2006
 
 \lx jɔ̀serelenmɔgɔ
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm sérelen:onomat:toujours.debout
 \mm mɔ̀gɔ:n:homme
 \ps n
 \ge sentinelle
 \lt (tenir debout.toujours !personne)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx jɔ́sɔn
 \ps v
@@ -50389,14 +50390,14 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 
 \lx jɔ̀surun
 \mm jɔ̀:n:station.debout
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \va dɔ̀.surun
 \mm dɔ̀:n:station.debout
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \ps n
 \ge largeur
 \lt (côté.court)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx jɔ̀tɛ
 \va jɔ̀ntɛya
@@ -50734,7 +50735,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 
 \lx jùjɔ̀
 \mm jù:n:derrière
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \va jùjɔ̀n
 \mm jù:n:derrière
 \ps v
@@ -50748,7 +50749,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \sy jùbɔ
 \sy dábɔ
 \sy dáminɛ
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx jùjɔn
 \mm jù:n:derrière
@@ -55863,13 +55864,18 @@ prolapsus utérin
 \xv à táara  fúra kári
 \xe elle est allée cueillir des feuilles
 \sn 3
+\vl vr
+\gv faire irruption
+\ee (dans -- kɔ́nɔ)
+\gv forcer la porte
+\sn 3
 \vl vi/vr
 \gv agir.soudainement
-\xv nɛ́nɛ kárila  à lá
+\xv nɛ́nɛ kárila à lá
 \xe le froid l'a pris brusquement
 \xv à y'í kári  só kɔ́nɔ
 \xe il s'est précipité dans la maison
-\dt 26/Sep/2006
+\dt 27/Feb/2017
 
 \lx káridon
 \mm kári:n:dimanche
@@ -56789,14 +56795,14 @@ prolapsus utérin
 \lx kélennajɔ
 \mm kélen:num:un
 \mm ná:pp:dans
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ps adj
 \ge isolé
 \gv
 \ee
 \xv
 \xe
-\dt 06/Feb/2017
+\dt 28/Feb/2017
 
 \lx kèlennakuma
 \mm kélen:num:un
@@ -56908,17 +56914,17 @@ prolapsus utérin
 \dt 06/Jun/2014
 
 \lx kèleyabaatɔ
-\mm kèle:vq:être.envieux
+\mm kèle:vq:envieux
 \mm ya:mrph:DEQU
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va kèle.ya.baga.tɔ
-\mm kèle:vq:être.envieux
+\va kèleyabagatɔ
+\mm kèle:vq:envieux
 \mm ya:mrph:DEQU
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va cèle.ya.baa.tɔ
-\mm cèle:vq:être.envieux
+\va cèleyabaatɔ
+\mm cèle:vq:`envieux
 \mm ya:mrph:DEQU
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -56926,7 +56932,7 @@ prolapsus utérin
 \lt être jaloux-sujet
 \ge jaloux
 \rem l 89, du
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx kènde
 \va nkène
@@ -73600,7 +73606,7 @@ kúrunninle
 
 \lx lájɔ̀
 \mm lá:mrph:CAUS
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ps v
 \vl vt
 \sn 1
@@ -73611,7 +73617,7 @@ kúrunninle
 \sn 3
 \gv devenir.enceinte
 \ee (arrêter les règles)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx lájuguya
 \mm lá:mrph:CAUS
@@ -75273,13 +75279,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \dt 26/Sep/2006
 
 \lx lásaniya
-\mm sáni.ya:v:nettoyer
-\mm sáni:vq:être.propre
+\mm sániya:v:nettoyer
+\mm sáni:vq:propre
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \ge nettoyer
-\dt 16/May/2013
+\dt 28/Feb/2017
 
 \lx láse
 \mm lá:mrph:CAUS
@@ -75559,15 +75565,15 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 
 \lx lásùrunya
 \mm lá:mrph:CAUS
-\mm sùrun.ya:v:raccourcir
-\mm sùrun:vq:être.court
+\mm sùrunya:v:raccourcir
+\mm sùrun:vq:court
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \ge rendre.court
 \gv raccourcir
 \lt (préf.rendre petit)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx látà
 \mm lá:mrph:CAUS
@@ -75653,23 +75659,23 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lt (préf.tenir debout)
 \dt 26/Sep/2006
 
-\lx látɛliya
+\lx láteliya
+\mm lá:mrph:CAUS
+\mm téliya:v:accélérer
+\mm téli:vq:rapide
+\mm ya:mrph:DEQU
+\va lá.tɛli.ya
 \mm lá:mrph:CAUS
 \mm tɛ́li.ya:v:accélérer
-\mm tɛ́li:vq:être.rapide
-\mm ya:mrph:DEQU
-\va lá.teli.ya
-\mm lá:mrph:CAUS
-\mm téli.ya:v:accélérer
-\mm téli:vq:être.rapide
+\mm tɛ́li:vq:rapide
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \ge accélérer
 \lt (préf.aller vite)
-\xv í k'í bólo látɛliya  báara lá !
+\xv í k'í bólo láteliya  báara lá !
 \xe accélère le mouvement au travail
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx látɛ̀mɛ
 \mm lá:mrph:CAUS
@@ -75840,13 +75846,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx látimiya
 \mm lá:mrph:CAUS
 \mm tími.ya:v:rendre.savoureux
-\mm tími:vq:être.savoureux
+\mm tími:vq:savoureux
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \ge rendre.sucré
 \lt (préf.rendre sucré)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx látìson
 \mm lá:mrph:CAUS
@@ -78148,7 +78154,7 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màjɔ̀
 \mm mà:mrph:SUPER
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ps v
 \vl vt
 \ge mettre.droit
@@ -78156,7 +78162,7 @@ jour, c'est une personne dépendante qu'il voit
 \lt (préf.être debout)
 \xv í túlo màjɔ !
 \xe écoute bien ! (dresse l'oreille !)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx màjɔ̀ɔsi
 \mm mà:mrph:SUPER
@@ -80640,7 +80646,7 @@ des engagements
 
 \lx màsurun
 \mm mà:mrph:SUPER
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \ps adj
 \lt contact-proche
 \ge proche
@@ -80650,24 +80656,24 @@ des engagements
 \xv fálenfɛn màsurun fìla báyɛlɛmani bɛ́ sé kà kɛ́ ù féere fɛ̀...
 \xe deux plantes voisines peuvent se croiser par leurs fleurs (donniya 5/6 p.53)
 \rem jos, du
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx màsurunna
 \mm mà.surun:adj:proche
 \mm mà:mrph:SUPER
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \mm na:mrph:LOC
 \ps n
 \ge les.abords
 \gv proximité
 \gv voisinage
 \lt (préf.proche.lieu)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx màsurunya
 \mm mà.surun:adj:proche
 \mm mà:mrph:SUPER
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \mm ya:mrph:ABSTR
 \ps n
 \lt préf-proche-suf
@@ -80675,11 +80681,11 @@ des engagements
 \gv voisinage
 \xv ní kɔ̀lɔn sònina ɲɛ́gɛn màsurunya ná...
 \rem du, Jos, bk
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx màsùrunya
 \mm mà:mrph:SUPER
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -80687,7 +80693,7 @@ des engagements
 \xv sánnakurun yé  yɔ́rɔ màsurunya  ɲɔ́gɔn ná :
 \lt (préf.proche.suf caus)
 \xe l'avion a rapproché les lieux
-\dt 15/Aug/2006
+\dt 28/Feb/2017
 
 \lx màtaama
 \mm mà:mrph:SUPER
@@ -82339,14 +82345,14 @@ nord-est
 
 \lx móbilijɔyɔrɔ
 \mm móbili:n:automobile
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm yɔ́rɔ:n:lieu
 \ps n
 \lt auto-arrêter-endroit
 \ge parc.à.autos
 \xv kà kɛ́nɛlankolon dɔ́ bìla àni mɔ́bilijɔyɔrɔ 400 ɲɔ̀gɔnna
 \xe ils prévoient des parcs pour environ 400 voitures (kb 3/05 p.5
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx móbilisen
 \mm móbili:n:automobile
@@ -97310,13 +97316,13 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́jɔ̀
 \mm ɲɛ́:n:oeil
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ps v
 \vl vr
 \ge fixer.regard
 \sm sur ... la
 \lt (oeil.arrêter)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx ɲɛ́jugu
 \mm ɲɛ́:n:oeil
@@ -97820,7 +97826,7 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́majɔ̀
 \mm ɲɛ́:n:oeil
 \mm mà:pp:à
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ps v
 \sn 1
 \vl vi/vr
@@ -97839,33 +97845,33 @@ graines, sert d'instrument rythmique)
 \xe l'eau s'est décantée
 \xv ní  kɛ́nɛtigɛda séra, jàma bɛ́ ɲɛ́majɔ
 \xe à l'aube, la foule se calme
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx ɲɛ́majɔbali
 \mm ɲɛ́.ma.jɔ̀:v:être.prudent
 \mm ɲɛ́:n:oeil
 \mm mà:pp:à
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \ge inattentif
 \gv étourdi
 \lt (être attentif.ne pas)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx ɲɛ́majɔbaliya
 \mm ɲɛ́.ma.jɔ.bali:ptcp:inattentif
 \mm ɲɛ́.ma.jɔ̀:v:être.prudent
 \mm ɲɛ́:n:oeil
 \mm mà:pp:à
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ge inattention
 \gv étourderie
 \lt (attention.absence)
-\dt 05/Apr/2016
+\dt 28/Feb/2017
 
 \lx ɲɛ́makala
 \mm ɲɛ́:n:oeil
@@ -104269,7 +104275,7 @@ épuisés
 \ge se.reposer
 
 \lx sáharakungo
-\mm sáhara:n.prop:TOP
+\mm Sáhara:n.prop:TOP
 \mm kúngo:n:brousse
 \ps n
 \ge désert
@@ -104277,13 +104283,13 @@ épuisés
 \ee
 \xv
 \xe
-\dt 25/Feb/2017
+\dt 28/Feb/2017
 
 \lx sáheli
 \bw ar: sahil = littoral (du désert)
 \ps n
 \ge Nord
-\dt 16/Aug/2006
+\dt 27/Feb/2017
 
 \lx sáhelikungo
 \mm sáheli:n:Nord
@@ -104519,16 +104525,16 @@ épuisés
 \dt 08/Feb/2017
 
 \lx sàlaya
-\mm sàla:vq:être.paresseux
+\mm sàla:vq:paresseux
 \mm ya:mrph:DEQU
 \va sàliya
-\mm sàla:vq:être.paresseux
+\mm sàla:vq:paresseux
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \ge rendre.paresseux
 \lt (paresse.suf caus)
-\dt 08/Feb/2017
+\dt 28/Feb/2017
 
 \lx sàlogoni
 \ps n
@@ -104556,14 +104562,14 @@ épuisés
 \lx sàlogoni-kánsurunnin
 \mm sàlogoni:n:oiseau.anhinga.d'Afrique
 \mm kán:n:cou
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \mm nin:mrph:DIM
 \lt (cormoran.au petit cou)
 \ps n
 \ge oiseau.cormoran.africain
 \lat Phalocrocorax africanus
 \ee (joues et gorge blanches)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx sálon
 \va sánwo
@@ -107642,11 +107648,11 @@ paniers, sègi)
 
 \lx sènfɛ̀
 \mm sèn:n:jambe
-\mm fɛ̀:pp:avec
+\mm fɛ̀:pp:par
 \ps pp
 \ge au.cours.de
 \gv à l'occasion de
-\dt 02/Feb/2017
+\dt 28/Feb/2017
 
 \lx sènfɛbila
 \mm sèn:n:jambe
@@ -108329,25 +108335,25 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 22/Mar/2015
 
 \lx sénuman
-\mm sénu:vq:être.saint
+\mm sénu:vq:saint
 \mm man:mrph:ADJ
 \ps adj
 \ge saint
 \sm (sens chrétien)
 \lt (saint.suf)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx sénuya
-\mm sénu:vq:être.saint
+\mm sénu:vq:saint
 \mm ya:mrph:DEQU
 \ps n
 \ge sainteté
 \sm (sens chrétien)
 \lt (saint.suf abs)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx sénuya
-\mm sénu:vq:être.saint
+\mm sénu:vq:saint
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -108355,7 +108361,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gv sanctifier
 \sm (sens chrétien)
 \lt (saint.suf caus)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx sényɛrɛkɔrɔ
 \mm sé:v:arriver
@@ -113670,21 +113676,21 @@ donne d'excellentes fibres)
 \dt 17/Feb/2017
 
 \lx sɔ̀gɔmada
-\mm sɔ̀gɔma:n:matin
+\mm sɔ̀gɔmà:n:matin
 \mm dá:n:bouche
 \ps n
 \ge début.de.matinée
 \lt (matin.début)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx sɔ̀gɔmafo
-\mm sɔ̀gɔma:n:matin
+\mm sɔ̀gɔmà:n:matin
 \mm fò:v:saluer
 \ps v
 \vl vt
 \ge saluer.le.matin
 \lt (le matin.saluer)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx sɔ̀gɔsɔgɔ
 \va swàswa
@@ -116057,7 +116063,7 @@ fiançailles
 \dt 05/Apr/2016
 
 \lx sùrunman
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \mm man:mrph:ADJ
 \ps adj
 \sn 1
@@ -116067,7 +116073,7 @@ fiançailles
 \sn 3
 \gv ressemblant
 \lt (court.suf adj)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx sùruntu
 \va sùrundu
@@ -116076,7 +116082,7 @@ fiançailles
 \dt 16/Aug/2006
 
 \lx sùrunya
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \mm ya:mrph:DEQU
 \ps n
 \sn 1
@@ -116086,10 +116092,10 @@ fiançailles
 \lt (court.suf abs)
 \sn 3
 \gv proximité
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx sùrunya
-\mm sùrun:vq:être.court
+\mm sùrun:vq:court
 \mm ya:mrph:DEQU
 \ps v
 \sn 1
@@ -116106,7 +116112,7 @@ fiançailles
 \gv s'approcher
 \xv fìnita sùrunyana
 \xe la circoncision approche
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx sùsa
 \va sòsa
@@ -118920,6 +118926,21 @@ fiançailles
 \xe il est très probable qu'on va jouer du balafon ce soir
 \dt 22/Mar/2015
 
+\lx téliya
+\mm téli:vq:rapide
+\mm ya:mrph:DEQU
+\va tɛ́liya
+\mm tɛ́li:vq:rapide
+\mm ya:mrph:DEQU
+\ps n
+\ge rapidité
+\gv agilité
+\lt (rapide.suf abs)
+\xv téliya lá
+\xv ní téliya yé
+\xe vite, rapidement, en vitesse...
+\dt 28/Feb/2017
+
 \lx télu
 \ve (-bk)
 \ps n
@@ -119586,21 +119607,6 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lt (rapide.suf adj)
 \xv ù kó : ù kà  ɲɔ́gɔn nɔ́ tɛ́liman lájɛ
 \xe ils ont dit de vérifier qui est le plus rapide d'entre eux
-\dt 26/Sep/2006
-
-\lx tɛ́liya
-\mm tɛ́li:vq:être.rapide
-\mm ya:mrph:DEQU
-\va téli.ya
-\mm téli:vq:être.rapide
-\mm ya:mrph:DEQU
-\ps n
-\ge rapidité
-\gv agilité
-\lt (rapide.suf abs)
-\xv tɛ́liya lá
-\xv ní tɛ́liya yé
-\xe vite, rapidement, en vitesse...
 \dt 26/Sep/2006
 
 \lx tɛ́liya
@@ -121162,7 +121168,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 05/Apr/2016
 
 \lx tímikàla
-\mm tími:vq:être.savoureux
+\mm tími:vq:savoureux
 \mm kàla:n:tige
 \ps n
 \ge canne.à.sucre
@@ -121171,7 +121177,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lt (sucré.tige)
 \sy mánkala
 \sy háwusakala
-\dt 19/Aug/2006
+\dt 28/Feb/2017
 
 \lx tímiman
 \mm tími:vq:savoureux
@@ -124194,11 +124200,11 @@ yé
 \lx túlomajɔ
 \mm túlo:n:oreille
 \mm mà:mrph:SUPER
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ps n
 \ge fait.d'écouter
 \gv attention
-\dt 03/May/2013
+\dt 28/Feb/2017
 
 \lx túlomàjɔ
 \mm túlo:n:oreille
@@ -130533,12 +130539,14 @@ comportement (LD p.5)
 
 \lx yíri
 \ve (f,bn)
+\va yíli
 \ps n
 \ge esprit
 \gv pensée
+\gv intellect
 \xv í k'í yíri tó ń ná !
 \xe ne m'oublies pas !
-\dt 26/Sep/2006
+\dt 27/Feb/2017
 
 \lx yírika
 \va yíriga
