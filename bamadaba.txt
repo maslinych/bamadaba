@@ -1593,7 +1593,7 @@ traîne sur le fond des eaux
 
 \lx bábonya
 \mm bá:n:mère
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:ABSTR
 \ps n
 \sn 1
@@ -1601,7 +1601,7 @@ traîne sur le fond des eaux
 \lt (mère.cadeau)
 \sn 2
 \gv cadeau.fait.à.la.(future).belle-mère
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx bàboonsi
 \mm bà:n:chèvre
@@ -11095,12 +11095,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 21/Jul/2014
 
 \lx bònba
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ba:mrph:AUGM
 \ps adj
 \ge grand
 \gv
-\dt 15/Jun/2015
+\dt 28/Feb/2017
 
 \lx bònboli
 \ps n
@@ -11257,7 +11257,7 @@ milieu des pierres
 \dt 05/Feb/2017
 
 \lx bònya
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \lt (gros.suf abs)
 \ps n
@@ -11284,13 +11284,13 @@ milieu des pierres
 \xe voici le cadeau qu'on te fait
 \xv í ká bònya díyara ń yé
 \xe ton cadeau m'a bien fait plaisir
-\dt 03/Apr/2016
+\dt 28/Feb/2017
 
 \lx bònya
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \va bònyɛ
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \ps v
 \sn 1
@@ -11314,11 +11314,11 @@ milieu des pierres
 \gv faire.des.cadeaux.à
 \xv ù yé  án bònya kósɛbɛ
 \xe ils nous ont fait beaucoup de cadeaux
-\dt 19/Feb/2013
+\dt 28/Feb/2017
 
 \lx bònyabali
-\mm bòn.ya:v:grossir
-\mm bòn:vq:ample
+\mm bònya:v:grossir
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \mm bali:mrph:PTCP.PRIV
 \lt (honneur.sans)
@@ -11330,11 +11330,11 @@ milieu des pierres
 \gv impoli
 \sn 3
 \gv pas.grossi
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx bònyabaliya
-\mm bòn.ya.bali:ptcp:non.honoré
-\mm bòn:vq:ample
+\mm bònya.bali:ptcp:non.honoré
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
@@ -11345,11 +11345,11 @@ milieu des pierres
 \gv manque.de.croissance
 \sm fait de n'avoir pas grossi
 \lt (honneur.absence)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx bònyali
-\mm bòn.ya:v:grossir
-\mm bòn:vq:ample
+\mm bònya:v:grossir
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \mm li:mrph:NMLZ
 \ps n
@@ -11361,7 +11361,7 @@ milieu des pierres
 \rem f
 \sn 2
 \gv grossissement
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx bòɲɛɲɛ
 \mm bò:n:excrément
@@ -30165,12 +30165,12 @@ quant à sa mère, elle prend de l'âge
 
 \lx fàbonya
 \mm fà:n:père
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:ABSTR
 \ps n
 \ge cadeau.fait.au.père.de.la.fiancée
 \lt (père.cadeau)
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx fàbulonda
 \mm fà:n:folie
@@ -33486,7 +33486,7 @@ bien (dicton)
 \lx fɛ́nnabonyalan
 \mm fɛ́n:n:chose
 \mm na:mrph:CAUS
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \mm lan:mrph:INSTR
 \ps n
@@ -33495,7 +33495,7 @@ bien (dicton)
 \gv jumelles
 \gv loupe
 \lt (chose.grossir.ce qui sert)
-\dt 04/Apr/2016
+\dt 28/Feb/2017
 
 \lx fɛ́nnabɔnɔ
 \mm fɛ́n:n:chose
@@ -45782,7 +45782,7 @@ qqch ...)
 \ge président
 \sy jàmanatigi
 \nt Kb 11/06 p.3
-\dt 13/Jul/2013
+\dt 28/Feb/2017
 
 \lx jàmanatigi
 \mm jàmana:n:pays
@@ -68308,11 +68308,12 @@ il en contient dix
 \mm kùn.cɛ:n:sommet
 \mm kùn:n:tête
 \mm cɛ́:n:milieu
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \ps n
 \ge orgueil
 \lt (tête.grosse.suf abs)
+\dt 28/Feb/2017
 
 \lx kùncɛdɔgɔ
 \mm kùn.cɛ:n:sommet
@@ -72173,7 +72174,7 @@ kúrunninle
 \lx lábònya
 \mm lá:mrph:CAUS
 \mm bòn.ya:v:grossir
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -72184,20 +72185,20 @@ kúrunninle
 \lt (préf.grossir)
 \sn 3
 \gv honorer
-\dt 16/Aug/2006
+\dt 28/Feb/2017
 
 \lx lábonyalan
-\mm lá.bòn.ya:v:faire.grossir
+\mm lábònya:v:faire.grossir
 \mm lá:mrph:CAUS
-\mm bòn.ya:v:grossir
-\mm bòn:vq:ample
+\mm bònya:v:grossir
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \mm lan:mrph:INSTR
 \ps n
 \ge loupe
 \gv microscope
 \lt (grossir.ce qui sert à)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx lábɔ
 \mm lá:mrph:CAUS
@@ -79509,8 +79510,8 @@ invulnérable aux serpents, aux fauves ...)
 \mm màn.kan:n:bruit
 \mm màn:mrph:SUPER
 \mm kán:n:cou
-\mm bòn.ya:v:grossir
-\mm bòn:vq:ample
+\mm bònya:v:grossir
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \mm nan:mrph:INSTR
 \ps n
@@ -79518,7 +79519,7 @@ invulnérable aux serpents, aux fauves ...)
 \ge amplificateur
 \gv micro
 \nt kb 10/04 p.9
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx mànkankɛla
 \mm màn.kan:n:bruit
@@ -100073,16 +100074,16 @@ postposition, n'est pas accepté par tous les locuteurs)
 
 \lx ɲɔ́gɔnbonya
 \mm ɲɔ́gɔn:prn:RECP
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \va ɲwánbonya
 \mm ɲwán:prn:RECP
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \ps n
 \ge honneurs.réciproques
 \lt (l'un l'autre.respect)
-\dt 06/Nov/2014
+\dt 28/Feb/2017
 
 \lx ɲɔ́gɔndan
 \mm ɲɔ́gɔn:prn:RECP
@@ -112682,13 +112683,13 @@ donne d'excellentes fibres)
 
 \lx sójɔla
 \mm só:n:maison
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm la:mrph:AG.PRM
 \ps n
 \ge maçon
 \gv constructeur de maison
 \lt (maison.bâtir.celui qui)
-\dt 26/Sep/2006
+\dt 28/Feb/2017
 
 \lx sóju
 \mm só:n:maison
@@ -129917,7 +129918,7 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛbonya
 \mm yɛ̀rɛ:dtm:même
-\mm bòn:vq:ample
+\mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \ps n
 \lt soi-même-grossir
@@ -129925,7 +129926,7 @@ comportement (LD p.5)
 \sy yɛ̀rɛbonyali
 \xv Hálakili sábu yé yɛ̀rɛbonyali yé
 \xe avant la ruine, il y a l'orgueil (Pr 16, 18) l'orgueil conduit à la faillite
-\dt 11/Nov/2007
+\dt 28/Feb/2017
 
 \lx yɛ̀rɛbɔ
 \mm yɛ̀rɛ:dtm:même
