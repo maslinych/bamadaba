@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+﻿\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -9290,7 +9290,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bòlakolonkolon
 \mm bò:n:excrément
-\mm la:mrph:CAUS
+\mm lá:mrph:CAUS
 \mm kòlonkolon:v:faire.rouler
 \ps n
 \lt crotte-rouler
@@ -10777,7 +10777,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólomagɛlɛn
 \mm bólo:n:bras
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm gɛ̀lɛn:adj:dur
 \ps adj/n
 \ge avare
@@ -10865,7 +10865,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \va bólo.ma.jugu.ya
 \mm bólo.ma.jugu:adj/n:mauvais.travailleur
 \mm bólo:n:bras
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm júgu:vq/adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
@@ -19575,7 +19575,7 @@ sur soi)
 \va dámagɛlɛn
 \mm dáma:n:bouche.active
 \mm dá:n:bouche
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm gɛ̀lɛn:adj:dur
 \va dárɔgɛlɛn
 \mm dárɔ:n:bouche.active
@@ -20360,7 +20360,7 @@ pas)
 
 \lx dáma
 \mm dá:n:bouche
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \ps n
 \ge bouche.active
 \sm (partie initiale des adjectifs décomposables)
@@ -29398,7 +29398,7 @@ quant à sa mère, elle prend de l'âge
 
 \lx dùsulaminkuma
 \mm dùsu:n:coeur
-\mm la:mrph:CAUS
+\mm lá:mrph:CAUS
 \mm mìn:v:boire
 \mm kúma:n:parole
 \ps n
@@ -40582,12 +40582,12 @@ forestières, fruit : long follicule de 50 cm)
 
 \lx gásabalabankolo
 \mm gásaba:n:côte
-\mm la:mrph:CAUS
+\mm lá:mrph:CAUS
 \mm bán:v:terminer
 \mm kólo:n:os
 \va gwásaba.la.ban.kolo
 \mm gwásaba:n:côte
-\mm la:mrph:CAUS
+\mm lá:mrph:CAUS
 \mm bán:v:terminer
 \mm kólo:n:os
 \ph [gw]
@@ -43453,7 +43453,7 @@ doigts par des fileuses du coton)
 
 \lx hákililatigɛ
 \mm hákili:n:esprit
-\mm la:mrph:CAUS
+\mm lá:mrph:CAUS
 \mm tìgɛ:v:couper
 \ps n
 \ge soulagement
@@ -47890,7 +47890,7 @@ nos libations "
 
 \lx jìgilatigɛ
 \mm jìgi:v:espérer
-\mm la:mrph:CAUS
+\mm lá:mrph:CAUS
 \mm tìgɛ:v:couper
 \ps n
 \ge grande.déception
@@ -47899,7 +47899,7 @@ nos libations "
 
 \lx jìgilatìgɛ
 \mm jìgi:v:espérer
-\mm la:mrph:CAUS
+\mm lá:mrph:CAUS
 \mm tìgɛ:v:couper
 \ps v
 \ge désespérer
@@ -60599,7 +60599,7 @@ champs)
 
 \lx kóloma
 \mm kólo:n:os
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \ps n
 \ge texture
 \sm (la première composante des adjectifs séparables)
@@ -60608,7 +60608,7 @@ champs)
 \lx kólomadɔgɔ
 \mm kóloma:n:texture
 \mm kólo:n:os
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm dɔ́gɔ:vq:petit
 \ps adj
 \ge malingre
@@ -60618,7 +60618,7 @@ champs)
 \lx kólomagɛlɛn
 \mm kóloma:n:texture
 \mm kólo:n:os
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm gɛ̀lɛn:adj:dur
 \ps n
 \ge résistant
@@ -60632,7 +60632,7 @@ champs)
 \lx kólomamisɛn
 \mm kóloma:n:texture
 \mm kólo:n:os
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm mìsɛn:adj:petit
 \ps adj
 \sn 1
@@ -69416,7 +69416,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnma
 \mm kùn:n:tête
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \ps n
 \sn 1
 \ge vitalité
@@ -69509,7 +69509,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lx kùnmadɔgɔ
 \mm kùnma:n:vitalité
 \mm kùn:n:tête
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm dɔ́gɔ:vq:étroit
 \ps adj/n
 \sn 1
@@ -69522,7 +69522,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lx kùnmadɔgɔya
 \mm kùnma:n:vitalité
 \mm kùn:n:tête
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm dɔ́gɔ:vq:petit
 \mm ya:mrph:ABSTR
 \ps v
@@ -119455,7 +119455,7 @@ fiançailles
 
 \lx tɛ́gɛma
 \mm tɛ́gɛ:n:paume
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \ps n
 \ge main
 \lt (main.contact)
@@ -119468,7 +119468,7 @@ fiançailles
 \lx tɛ́gɛmagɛlɛn
 \mm tɛ́gɛ.ma:n:main
 \mm tɛ́gɛ:n:paume
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm gɛ̀lɛn:adj:dur
 \ps adj/n
 \ge avare
@@ -119478,7 +119478,7 @@ fiançailles
 \lx tɛ́gɛmagɛlɛya
 \mm tɛ́gɛ.ma:n:main
 \mm tɛ́gɛ:n:paume
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm gɛ̀lɛ:adj:dur
 \mm ya:mrph:ABSTR
 \ps n
@@ -119489,7 +119489,7 @@ fiançailles
 \lx tɛ́gɛmagɛlɛya
 \mm tɛ́gɛ.ma:n:main
 \mm tɛ́gɛ:n:paume
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm gɛ̀lɛ:adj:dur
 \mm ya:mrph:DEQU
 \ps v
@@ -124174,11 +124174,11 @@ yé
 
 \lx túlomagɛlɛn
 \mm túlo:n:oreille
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm gɛ̀lɛn:adj:dur
 \va túlomagwɛlɛn
 \mm túlo:n:oreille
-\mm ma:mrph:SUPER
+\mm mà:mrph:SUPER
 \mm gwɛ̀lɛn:adj:dur
 \ph [tlomagwɛlɛn]
 \ps adj/n
