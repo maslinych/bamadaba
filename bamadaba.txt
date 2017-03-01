@@ -220,7 +220,7 @@
 \lx álafàrańkàn
 \mm Ála:n:Dieu
 \mm fára:v:ajouter
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \ps n
 \ge providence
@@ -242,28 +242,28 @@
 
 \lx ála-ká-mìsi
 \mm Ála:n:Dieu
-\mm ká:conj:POSS
+\mm ká:p:POSS
 \mm mìsi:n:bovidé
 \ps n
 \ge araignée.rouge
 \ee petite "araignée rouge" du début de l'hivernage
 \lt (Dieu.de.vache)
-\dt 16/Aug/2006
+\dt 01/Mar/2017
 
 \lx ála-ká-mùru
 \mm Ála:n:Dieu
-\mm ká:conj:POSS
+\mm ká:pp:POSS
 \mm mùru:n:couteau
 \va ála-ká-mùru.jan
 \mm Ála:n:Dieu
-\mm ká:conj:POSS
+\mm ká:pp:POSS
 \mm mùru:n:couteau
 \mm jàn:vq:long
 \ps n
 \ge arc-en-ciel
 \lt (Dieu.de.couteau) (... grand couteau)
 \sy sánmurubilen
-\dt 16/Aug/2006
+\dt 01/Mar/2017
 
 \lx álakira
 \mm ála:n:Dieu
@@ -4291,7 +4291,7 @@ Fleurs spectaculaires
 
 \lx bàninkɔ̀nɔ-ká-tìgá
 \mm bàninkɔ̀nɔ:n:cigogne.d'Abdim 
-\mm ká:conj:POSS
+\mm ká:pp:POSS
 \mm tìga:n:arachide
 \ps n
 \ge plante.casse.fétide
@@ -4304,7 +4304,7 @@ Fleurs spectaculaires
 \sy nsèlu
 \lt (cigogne.de.arachide)
 \ee plante herbacée suffrutescente, ---> 1 à 3 m
-\dt 03/Apr/2016
+\dt 01/Mar/2017
 
 \lx báninncinin
 \mm bá:n:mère
@@ -6969,7 +6969,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bɛ̀nńsènmà
 \mm bɛ̀n:v:se.rencontrer
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sèn:n:jambe
 \mm mà:pp:à
 \va bɛ̀nsenma
@@ -7651,11 +7651,11 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bìlańkɔ́
 \mm bìla:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:n:dos
 \va blà.ń.kɔ́
 \mm blà:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:n:dos
 \ph [bla]
 \ps n
@@ -7666,11 +7666,11 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bìlańkɔ́rɔ
 \mm bìla:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́rɔ:pp:sous
 \va blà.ń.kɔ́rɔ
 \mm blà:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́rɔ:pp:sous
 \ph [bla]
 \ps n
@@ -7685,12 +7685,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bìlansenfɛ
 \mm bìla:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sèn:n:jambe
 \mm fɛ̀:pp:par
 \va blà.n.sen.fɛ
 \mm blà:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sèn:n:jambe
 \mm fɛ̀:pp:par
 \ph [bla]
@@ -7705,14 +7705,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bìlansenfɛya
 \mm bìla.n.sen.fɛ:n:vagabond
 \mm bìla:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sèn:n:jambe
 \mm fɛ̀:pp:par
 \mm ya:mrph:ABSTR
 \va blà.n.sen.fɛ.ya
 \mm blà.n.sen.fɛ:n:vagabond
 \mm blà:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sèn:n:jambe
 \mm fɛ̀:pp:par
 \mm ya:mrph:ABSTR
@@ -7736,12 +7736,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bìlanyɛrɛma
 \mm bìla:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm mà:pp:à
 \va blà.n.yɛrɛ.ma
 \mm blà:v:mettre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm mà:pp:à
 \ps adj
@@ -8426,7 +8426,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm la:mrph:AG.PRM
 \va bìnnkannikɛla
 \mm bìn:v:tomber
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \mm ni:mrph:NMLZ
 \mm kɛ́:v:faire
@@ -8775,11 +8775,11 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bírinkan
 \mm bíri:v:courber
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \va brí.n.kan
 \mm brí:v:courber
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \ph [br]
 \ps n
@@ -8792,13 +8792,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bírinkanfini
 \mm bíri.n.kan:n:couverture
 \mm bíri:v:courber
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \mm fìni:n:tissu
 \va brí.n.kan.fini
 \mm brí.n.kan:n:couverture
 \mm brí:v:courber
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \mm fìni:n:tissu
 \ph [br]
@@ -12172,7 +12172,7 @@ toujours (pro)
 
 \lx bɔ́nfɛ
 \mm bɔ́:v:sortir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm fɛ̀:pp:par
 \ps n
 \ge analogue
@@ -12217,7 +12217,7 @@ toujours (pro)
 
 \lx bɔ́nkɔnɔ
 \mm bɔ́:v:sortir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́nɔ:pp:à.l'intérieur
 \ps n
 \ge oubli
@@ -12238,7 +12238,7 @@ toujours (pro)
 
 \lx bɔ́nna
 \mm bɔ́:v:sortir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \ps n
 \sn 1
@@ -12293,7 +12293,7 @@ toujours (pro)
 
 \lx bɔ́nsɔn
 \mm bɔ́:v:sortir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sɔ̀n:n:moment
 \ps n
 \ge descendant
@@ -12303,7 +12303,7 @@ toujours (pro)
 
 \lx bɔ́nyeli
 \mm bɔ́:v:sortir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:v:voir
 \mm li:mrph:NMLZ
 \ps n
@@ -16889,7 +16889,7 @@ sur soi)
 
 \lx cúnnkan
 \mm cún:v:se.laisser.tomber
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \ps n
 \ge événement.imprévu
@@ -21136,7 +21136,7 @@ rétribution mais à titre de réciprocité)
 
 \lx dánkanna
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kán:n:cou
 \mm ná:pp:dans
 \ps n
@@ -21324,7 +21324,7 @@ rétribution mais à titre de réciprocité)
 
 \lx dánna
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \ps n
 \sn 1
@@ -21341,7 +21341,7 @@ génitales ...
 
 \lx dánnabaa
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm baa:mrph:AG.OCC
 \ps n
@@ -21354,7 +21354,7 @@ génitales ...
 
 \lx dánnabali
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
@@ -21367,7 +21367,7 @@ génitales ...
 
 \lx dánnabaliya
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
@@ -21381,12 +21381,12 @@ génitales ...
 
 \lx dánnamaa
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm màa:n:homme
 \va dá.n.na.mɔgɔ
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm mɔ̀gɔ:n:homme
 \ps n
@@ -21396,7 +21396,7 @@ génitales ...
 
 \lx dánnaɲɔgɔn
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm ɲɔ̀gɔn:n:pareil
 \ps n
@@ -21406,7 +21406,7 @@ génitales ...
 
 \lx dánnaɲɔgɔnya
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm ɲɔ̀gɔn:n:pareil
 \mm ya:mrph:ABSTR
@@ -21452,7 +21452,7 @@ génitales ...
 
 \lx dánnaya
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm ya:mrph:ABSTR
 \ps n
@@ -21463,13 +21463,13 @@ génitales ...
 
 \lx dánnayamɔgɔ
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans 
 \mm ya:mrph:ABSTR
 \mm mɔ̀gɔ:n:homme
 \va dá.n.na.ya.maa
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans 
 \mm ya:mrph:ABSTR
 \mm màa:n:homme
@@ -21817,7 +21817,7 @@ génitales ...
 
 \lx dánye
 \mm dá:v:créer
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \ps n
 \ge don
@@ -21829,7 +21829,7 @@ génitales ...
 
 \lx dányɛ̀rɛla
 \mm dá:v:poser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \ps n
@@ -24099,7 +24099,7 @@ assumant que l'interclocuteur pense autrement)
 
 \lx dɛ́sɛnyɛrɛkɔrɔ
 \mm dɛ́sɛ:v:échouer
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm kɔ́rɔ:pp:sous
 \ps n
@@ -25213,11 +25213,11 @@ chefs religieux et représentants de l'administration
 \mm dí.ya:v:rendre.agréable
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \va já.n.ye
 \mm já:v:rendre.agréable
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \ph [janye]
 \ps n
@@ -25238,12 +25238,12 @@ chefs religieux et représentants de l'administration
 \mm dí.ya:v:rendre.agréable
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm baa:mrph:AG.OCC
 \va já.n.ye.baa
 \mm já:v:rendre.agréable
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm baa:mrph:AG.OCC
 \ph [ja.]
@@ -25256,13 +25256,13 @@ chefs religieux et représentants de l'administration
 \mm dí.ya:v:rendre.agréable
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \va já.n.ye.baa.tɔ
 \mm já:v:rendre.agréable
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -25278,12 +25278,12 @@ chefs religieux et représentants de l'administration
 \mm dí.ya:v:rendre.agréable
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm kó:n:affaire
 \va já.n.ye.ko
 \mm já:v:rendre.agréable
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm kó:n:affaire
 \ph [ja.]
@@ -25299,24 +25299,24 @@ chefs religieux et représentants de l'administration
 \mm dí.ya:v:rendre.agréable
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm mɔ̀gɔ:n:homme
 \va já.n.ye.mɔgɔ
 \mm já:v:rendre.agréable
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm mɔ̀gɔ:n:homme
 \va dí.ya.n.ye.maa
 \mm dí.ya:v:rendre.agréable
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm màa:n:homme
 \va já.n.ye.maa
 \mm já:v:rendre.agréable
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yé:pp:PP
 \mm màa:n:homme
 \ph [ja.]
@@ -25332,13 +25332,13 @@ chefs religieux et représentants de l'administration
 \mm díya:v:rendre.agréable
 \mm dí:vq:agréable
 \mm ya:mrph:DEQU
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \mm màa:n:homme
 \va jányɛrɛ.la.maa
 \mm já:v:rendre.agréable
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \mm màa:n:homme
@@ -25508,7 +25508,7 @@ chefs religieux et représentants de l'administration
 
 \lx dògonna
 \mm dògo:v:cacher
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \ps n
 \ge cachotterie
@@ -26110,7 +26110,7 @@ chefs religieux et représentants de l'administration
 
 \lx dònnbolo
 \mm dòn:v:entrer
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm bólo:n:bras
 \ps n
 \sn 1
@@ -26125,7 +26125,7 @@ chefs religieux et représentants de l'administration
 
 \lx dònnkɔnɔ
 \mm dòn:v:entrer
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́nɔ:pp:dans
 \ps n
 \ge poison.violent
@@ -26135,7 +26135,7 @@ chefs religieux et représentants de l'administration
 
 \lx dònńkùnnabàna
 \mm dòn:v:entrer
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kùn:n:tête
 \mm ná:pp:dans
 \mm bàna:n:maladie
@@ -35017,11 +35017,11 @@ frontières, forestiers, sapeurs)
 
 \lx fírinna
 \mm fíri:v:renverser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \va fíri.n.kan
 \mm fíri:v:renverser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \ve (bk)
 \ps n
@@ -36393,7 +36393,7 @@ frontières, forestiers, sapeurs)
 
 \lx fònna
 \mm fò:v:frôler
-\mm ń:pers:je 
+\mm ń:pers:1SG 
 \mm ná:pp:dans
 \ps n
 \ge accident.involontaire
@@ -41933,7 +41933,7 @@ caractéristique, réputé pour faciliter la procréation)
 
 \lx gírinńkàn
 \mm gírin:v:se.précipiter
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \ps n
 \ge talisman
@@ -46195,7 +46195,7 @@ qqch ...)
 \lx jàntońyɛ̀rɛla
 \mm jàn:n:attention
 \mm tó:v:rester
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \ps n
@@ -47989,11 +47989,11 @@ le toit de la maison et descendaient
 
 \lx jìginna
 \mm jìgin:v:descendre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \va jìginnna
 \mm jìgin:v:descendre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \ps n
 \sn 1
@@ -50229,7 +50229,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 
 \lx jɔ̀nńyɛ̀rɛlá
 \mm jɔ̀n:v:estimer.insuffisant
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:dans
 \ps n
@@ -50242,7 +50242,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 
 \lx jɔ̀nsɔnna
 \mm jɔ̀:v:dresser
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sɔ̀n:n:cœur
 \mm ná:pp:dans
 \ps n
@@ -52673,7 +52673,7 @@ l'eau est prête
 \lx kàlafɔnna
 \mm kàla:n:tige
 \mm fɔ́:v:dire
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \ps n
 \lt (à l'insu.être.moi.endroit)
@@ -58009,7 +58009,7 @@ prolapsus utérin
 
 \lx kɛ́nkɔnɔ
 \mm kɛ́:v:faire
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́nɔ:pp:à.l’intérieur
 \ps n
 \ge poison
@@ -62273,7 +62273,7 @@ champs)
 \lx kɔ́farankan
 \mm kɔ́:n:dos
 \mm fàra:v:ajouter
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \ps n
 \ge suffixe
@@ -64878,7 +64878,7 @@ ou une proposition)
 \lx kɔ̀nɔnin-ká-dɔ̀lɔ
 \mm kɔ̀nɔ:n:oiseau
 \mm nin:mrph:DIM
-\mm ká:conj:POSS
+\mm ká:pp:POSS
 \mm dɔ̀lɔ:n:bière.de.mil
 \ps n
 \sn 1
@@ -64890,18 +64890,18 @@ ou une proposition)
 \gv plante.Nelsonia.canescens
 \sd acan
 \ee plante adventice, de port prostré s'étalant en rond sur le sol)
-\dt 19/Aug/2006
+\dt 01/Mar/2017
 
 \lx kɔ̀nɔnin-ká-fíni
 \mm kɔ̀nɔ:n:oiseau
 \mm nin:mrph:DIM
-\mm ká:conj:POSS
+\mm ká:pp:POSS
 \mm fíni:n:fonio
 \lt (petit oiseau.du. fonio)
 \ps n
 \ge herbe.Digitaria.argillacea
 \ee herbe ---> 60 / 90 cm (feuilles linéaires effilées)
-\dt 19/Aug/2006
+\dt 01/Mar/2017
 
 \lx kɔ̀nɔninsyɔ
 \mm kɔ̀nɔ:n:oiseau
@@ -65919,7 +65919,7 @@ ou une proposition)
 \lx kɔ́rɔfɔ́ńkɔ́li
 \mm kɔ́rɔ:n:dessous
 \mm fɔ́:v:dire
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:pp:après
 \mm li:mrph:NMLZ
 \ps n
@@ -67546,6 +67546,16 @@ il en contient dix
 \ge bavard
 \lt (parler.à l'excès)
 \dt 12/Aug/2006
+
+\lx kúmandan
+\ps n
+\ge commandant
+\gv gouverneur
+\ee (d'une façon générale celui qui dans une zone donnée exerce
+le pouvoir administratif suprême)
+\xv
+\xe
+\dt 01/Mar/2017
 
 \lx kúmaɲɔgɔn
 \mm kúma:n:parole
@@ -71270,7 +71280,7 @@ Sahel)
 \lx kùrumankɔ
 \mm kùru:v:plier
 \mm ma:mrph:DIR
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:pp:après
 \ps v
 \vl vi
@@ -71402,7 +71412,7 @@ Sahel)
 
 \lx kùrunkɔ
 \mm kùru:v:plier
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:pp:après
 \ve (f)
 \ps v
@@ -71415,7 +71425,7 @@ Sahel)
 
 \lx kùrunkɔrɔ
 \mm kùru:v:plier
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́rɔ:pp:sous
 \ps n
 \ge deuxième.sarclage
@@ -77165,7 +77175,7 @@ famille)
 \lx màá-bɛ́-ń-fɛ̀
 \mm màa:n:homme
 \mm bɛ́:pm:IPFV
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm fɛ̀:pp:par
 \ps n
 \ge haricots
@@ -85992,7 +86002,7 @@ sorcières et leur élimination)
 
 \lx nàńbìla
 \mm nà:v:venir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm bìla:v:mettre
 \ps n
 \ge plante.Monechma.ciliatum
@@ -86023,7 +86033,7 @@ sorcières et leur élimination)
 
 \lx nàńkáraba
 \mm nà:v:venir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm káraba:v:forcer
 \ps adj/n
 \sn 1
@@ -86037,7 +86047,7 @@ sorcières et leur élimination)
 \lx nànkarabaya
 \mm nà.ń.káraba:adj/n:effronté
 \mm nà:v:venir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm káraba:v:forcer
 \mm ya:mrph:ABSTR
 \ps n
@@ -86047,7 +86057,7 @@ sorcières et leur élimination)
 
 \lx nàńkɛ́
 \mm nà:v:venir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɛ́:v:faire
 \ps n
 \ge putain
@@ -86057,14 +86067,14 @@ sorcières et leur élimination)
 
 \lx nàńkɔ̀rɔdén
 \mm nà:v:venir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:n:dos
 \mm rɔ́:pp:IN
 \mm dén:n:enfant
 \ve (f)
 \va nà.n.kɔ.ra.den
 \mm nà:v:venir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:n:dos
 \mm rá:pp:dans
 \mm dén:n:enfant
@@ -86146,7 +86156,7 @@ sorcières et leur élimination)
 
 \lx nàńsège
 \mm nà:v:venir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \ps n
 \ge plante.Gynandropsis.gynandra
 \sd capp
@@ -86380,9 +86390,9 @@ sorcières et leur élimination)
 
 \lx nbɛ́ndiyanci
 \mm n.bɛ́.n.di.ya:n:jouissance
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm bɛ́:pm:IPFV
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
 \mm nci:mrph:AG.EX
@@ -90827,7 +90837,7 @@ graines, sert d'instrument rythmique)
 \dt 19/Jan/2015
 
 \lx ń-màgo-tɛ́-kó-lá
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm màgo:n:besoin
 \mm tɛ́:cop:COP.NEG
 \mm kó:n:affaire
@@ -91955,7 +91965,7 @@ graines, sert d'instrument rythmique)
 
 \lx nɔ́rɔńjùla
 \mm nɔ́rɔ:v:coller
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm jù:n:derrière
 \mm lá:pp:dans
 \ps n
@@ -91975,7 +91985,7 @@ graines, sert d'instrument rythmique)
 
 \lx nɔ́rɔńná
 \mm nɔ́rɔ:v:coller
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \ps n
 \ge affixe.dérivationnel
@@ -93641,7 +93651,7 @@ graines, sert d'instrument rythmique)
 \dt 16/Aug/2006
 
 \lx ń-tìn-kà-dɔ́n
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm tìn:n:compassion
 \mm kà:pm:INF
 \mm dɔ́n:n:connaissance
@@ -96818,7 +96828,7 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́-fara-n-kan
 \mm ɲɛ́:n:oeil
 \mm fàra:v:ajouter
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \vt ɲɛ́farankan
 \ps n
@@ -100616,12 +100626,12 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲɔ̀-tɛ́-ń-tɔ̀lɔ
 \mm ɲɔ̀:n:mil
 \mm tɛ́:pm:IPFV.NEG
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm tɔ̀lɔ:v:engraisser
 \va ɲɔ̀-tɛ́-ń-tlɔ̀
 \mm ɲɔ̀:n:mil
 \mm tɛ́:pm:IPFV.NEG
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm tlɔ̀:v:engraisser
 \ph [tlɔ]
 \ps n
@@ -100802,7 +100812,7 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲùman-fɔ̀-ń-ɲɛ́-ná
 \mm ɲùman:adj:bon
 \mm fɔ́:v:dire
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ɲɛ́:n:oeil
 \mm ná:pp:dans
 \ps n
@@ -102085,7 +102095,7 @@ envergure)
 
 \lx pàsa-ń-sèn-ná
 \mm pàsa:v:rendre.consistant
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sèn:n:jambe
 \mm ná:pp:dans
 \ps n
@@ -104654,13 +104664,13 @@ épuisés
 
 \lx sàma-ká-bín
 \mm sàma:n:éléphant
-\mm ká:conj:POSS
+\mm ká:pp:POSS
 \mm bín:n:herbe
 \ps n
 \ge herbe.Eragrostis.major
 \sd gram
 \lt (éléphant-de-l'herbe)
-\dt 19/Aug/2006
+\dt 01/Mar/2017
 
 \lx sàmalemuru
 \mm sàma:n:éléphant
@@ -106279,7 +106289,7 @@ composition de l'encens
 
 \lx sàrańnàbáli
 \mm sàra:v:avertir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
@@ -106290,7 +106300,7 @@ composition de l'encens
 
 \lx sàrannani
 \mm sàra:v:avertir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm ni:mrph:NMLZ
 \ps n
@@ -106956,7 +106966,7 @@ paniers, sègi)
 
 \lx sèginńkànni
 \mm sègin:v:revenir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \mm ni:mrph:NMLZ
 \ps n
@@ -106968,7 +106978,7 @@ paniers, sègi)
 
 \lx sèginńkɔ́
 \mm sègin:v:revenir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́:pp:après
 \ps n
 \ge retour
@@ -107946,7 +107956,7 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sénnamɔgɔ
 \mm sé:n:arrivée
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm mɔ̀gɔ:n:homme
 \ps n
@@ -109978,11 +109988,11 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sígańná
 \mm síga:n:doute
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \va sígińná
 \mm sígi:n:doute
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \va sígana
 \mm síga:n:doute
@@ -110240,7 +110250,7 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sìgińbólomà
 \mm sìgi:v:asseoir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm bólo:n:bras
 \mm mà:pp:à
 \ps n
@@ -110256,7 +110266,7 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sìginfɛ
 \mm sìgi:v:asseoir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm fɛ̀:pp:par
 \ps n
 \ge voisinage
@@ -110265,7 +110275,7 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sìgi-ń-fɛ̀
 \mm sìgi:v:asseoir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm fɛ̀:pp:par
 \ps n
 \ge étranger
@@ -110278,7 +110288,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sìginfɛya
 \mm sìgi.n.fɛ:n:étranger
 \mm sìgi:v:asseoir
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm fɛ̀:pp:par
 \mm ya:mrph:ABSTR
 \ps n
@@ -118360,7 +118370,7 @@ fiançailles
 
 \lx tà-ń-kɔ́rɔ
 \mm tà:v:prendre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́rɔ:pp:sous
 \ps n
 \ge tabac.à.priser
@@ -118372,7 +118382,7 @@ fiançailles
 \lx tànkɔrɔmugu
 \mm tà-ń-kɔ́rɔ:n:tabac.à.priser
 \mm tà:v:prendre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kɔ́rɔ:pp:sous
 \mm múgu:n:poudre
 \ps n
@@ -118458,7 +118468,7 @@ fiançailles
 
 \lx tà-ń-tɛ́gɛ-má
 \mm tà:v:prendre
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm tɛ́gɛ:n:paume
 \mm mà:pp:à
 \ps n
@@ -118574,7 +118584,7 @@ fiançailles
 
 \lx táranna
 \mm tára:v:coller
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \ps n
 \ge plaisanterie
@@ -118941,6 +118951,22 @@ fiançailles
 \xv ní téliya yé
 \xe vite, rapidement, en vitesse...
 \dt 28/Feb/2017
+
+\lx téliya
+\mm téli:vq:rapide
+\mm ya:mrph:DEQU
+\va tɛ́liya
+\mm tɛ́li:vq:rapide
+\mm ya:mrph:DEQU
+\ps v
+\vl vt
+\ge accélérer
+\lt (rapide.suf caus)
+\vl vr ?
+\gv se dépêcher
+\xv í tɛ́liya !
+\xe presse-toi !, dépêche-toi !, vite !
+\dt 01/Mar/2017
 
 \lx télu
 \ve (-bk)
@@ -119610,22 +119636,6 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xe ils ont dit de vérifier qui est le plus rapide d'entre eux
 \dt 26/Sep/2006
 
-\lx tɛ́liya
-\mm tɛ́li:vq:être.rapide
-\mm ya:mrph:DEQU
-\va téli.ya
-\mm téli:vq:être.rapide
-\mm ya:mrph:DEQU
-\ps v
-\vl vt
-\ge accélérer
-\lt (rapide.suf caus)
-\vl vr ?
-\gv se dépêcher
-\xv í tɛ́liya !
-\xe presse-toi !, dépêche-toi !, vite !
-\dt 26/Sep/2006
-
 \lx tɛ̀mɛ
 \ps n
 \ge oubli
@@ -120290,16 +120300,16 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tìgɛ-ń-ná
 \mm tìgɛ:v:couper
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \va làtigɛ-ń-ná
 \mm lá:mrph:CAUS
 \mm tìgɛ:v:couper
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \va tìgɛ-ń-nɔ́
 \mm tìgɛ:v:couper
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm nɔ́:pp:IN
 \ve (f)
 \ps n
@@ -120310,7 +120320,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tìgɛnsɔnya
 \mm tìgɛ:v:couper
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sɔ̀n:pp:IN
 \mm ya:mrph:ABSTR
 \ps n
@@ -120320,7 +120330,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tìgɛ-ń-sɔ̀n-ya
 \mm tìgɛ:v:couper
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm sɔ̀n:pp:IN
 \mm ya:mrph:ABSTR
 \lt (se défier.moi.endroit.suf abs)
@@ -121117,7 +121127,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tìlɛnńnàkó
 \mm tìlɛn:v:être.surpris
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm ná:pp:dans
 \mm kó:n:affaire
 \ps n
@@ -122229,7 +122239,7 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tóńkán
 \mm tó:v:rester
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \ps n
 \ge maladie.tenace
@@ -127168,7 +127178,7 @@ la Justice (kb 12/05 p.4)
 
 \lx wólonkama
 \mm wólo:v:accoucher
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kámà:pp:pour
 \ps n
 \ge prédestiné
@@ -127275,7 +127285,7 @@ la Justice (kb 12/05 p.4)
 
 \lx wóńbádɛ́
 \mm wó:prt:hé
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm bá:n:mère
 \mm dɛ́:prt:tiens
 \ps intj
@@ -127722,7 +127732,7 @@ Mali)
 \lx wɔ̀lɔtónńkàn
 \mm wɔ̀lɔ:n:francolin
 \mm tón:v:enfiler
-\mm ń:pers:je
+\mm ń:pers:1SG
 \mm kàn:pp:sur
 \lt (francolin.fondre.moi.sur)
 \ps n
