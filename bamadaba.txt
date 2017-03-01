@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+﻿\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -10223,7 +10223,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólola
 \mm bólo:n:bras
-\mm la:mrph:dans
+\mm lá:pp:dans
 \va bólolan
 \mm bólo:n:bras
 \mm lan:mrph:dans
@@ -10313,7 +10313,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bóloladɛsɛtɔ
 \mm bólo:n:
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm dɛ́sɛ:v:échouer
 \mm tɔ:mrph:PTCP.PROG
 \ps adj
@@ -10323,7 +10323,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bólolafɛgɛn
 \mm bólola:n:action.de.main
 \mm bólo:n:bras
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm fɛ́gɛn:adj:léger
 \va bólolanfɛgɛn
 \mm bólola:n:action.de.main
@@ -10333,12 +10333,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \va bólolafiɲɛ
 \mm bólola:n:action.de.main
 \mm bólo:n:bras
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm fíɲɛ:adj:léger
 \va bólolafiyɛn
 \mm bólola:n:action.de.main
 \mm bólo:n:bras
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm fíyɛn:adj:léger
 \ps adj
 \ge qui.vole.facilement
@@ -10427,7 +10427,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bólolamisɛn
 \mm bólola:n:action.de.main
 \mm bólo:n:bras
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm mìsɛn:adj:petit
 \ps adj/n
 \sn 1
@@ -10442,7 +10442,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólolamisɛn:adj:chapardeur
 \mm bólola:n:action.de.main
 \mm bólo:n:bras
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm mìsɛn:adj:petit
 \mm ya:mrph:ABSTR
 \ps n
@@ -10602,7 +10602,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bólolasuma
 \mm bólola:n:action.de.main
 \mm bólo:n:bras
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm súma:adj:lent
 \ps adj/n
 \ge lent
@@ -10612,12 +10612,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bólolateli
 \mm bólola:n:action.de.main
 \mm bólo:n:bras
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm téli:adj:rapide
 \va bólolatelin
 \mm bólola:n:action.de.main
 \mm bólo:n:bras
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm télin:adj:rapide
 \ps adj/n
 \sn 1
@@ -19428,7 +19428,7 @@ sur soi)
 
 \lx dála
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \va dárɔ
 \mm dá:n:bouche
 \mm rɔ:mrph:IN
@@ -19473,7 +19473,7 @@ sur soi)
 \lx dálacaman
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm cáman:adj:nombreux
 \mm cá:vq:nombreux
 \mm man:mrph:ADJ
@@ -19497,7 +19497,7 @@ sur soi)
 
 \lx dáladiya
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm dí:adj:agréable
 \mm ya:mrph:ABSTR
 \ps n
@@ -19530,22 +19530,22 @@ sur soi)
 \lx dálafɛgɛn
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm fɛ́gen:adj:léger
 \va dálafiɲɛ
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm fíɲɛ:adj:léger
 \va dálafiyɛn
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm fíyɛn:adj:léger
 \va dálafyɛn
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm fyɛ́n:adj:léger
 \ps adj/n
 \ge indiscret
@@ -19569,7 +19569,7 @@ sur soi)
 \lx dálagɛlɛn
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm gɛ̀lɛn:adj:dur
 \va dámagɛlɛn
 \mm dáma:n:bouche.active
@@ -19590,7 +19590,7 @@ sur soi)
 \lx dálagirin
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm gírin:adj:lourd
 \ph [gr]
 \ps adj/n
@@ -19631,7 +19631,7 @@ sur soi)
 \lx dálajugu
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm júgu:adj:mauvais
 \ps adj/n
 \sn 1
@@ -19762,12 +19762,12 @@ sur soi)
 \lx dálakuna
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm kúna:adj:amer
 \va dálakunan
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm kúnan:adj:amer
 \ps adj/n
 \ge médisant
@@ -19880,7 +19880,7 @@ désobligeantes)
 \lx dálamisɛn
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm mìsɛn:adj:petit
 \ps adj/n
 \sn 1
@@ -19903,7 +19903,7 @@ désobligeantes)
 \mm dálamisɛn:adj/n:bavard
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm mìsɛn:adj:petit
 \mm ya:mrph:ABSTR
 \ps v
@@ -20115,7 +20115,7 @@ pas)
 \lx dálasuma
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm súma:adj:lent
 \ps adj/n
 \sn 1
@@ -20129,7 +20129,7 @@ pas)
 \lx dálateli
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm téli:adj:rapide
 \ps adj/n
 \sn 1
@@ -20143,7 +20143,7 @@ pas)
 \lx dálateliya
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm téli:adj:rapide
 \mm ya:mrph:ABSTR
 \ps v
@@ -20153,7 +20153,7 @@ pas)
 \lx dálateliya
 \mm dála:n:bouche.active
 \mm dá:n:bouche
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm téli:adj:rapide
 \mm ya:mrph:ABSTR
 \ps n
@@ -45337,7 +45337,7 @@ qqch ...)
 
 \lx jàlafarin
 \mm jà:n:ombre
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm fárin:adj:ardent
 \ps adj/n
 \ge téméraire
@@ -45347,11 +45347,11 @@ qqch ...)
 
 \lx jàlagɛlɛn
 \mm jà:n:ombre
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm gɛ̀lɛn:adj:dur
 \va jàlagwɛlɛn
 \mm jà:n:ombre
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm gwɛ̀lɛn:adj:dur
 \ph [gw]
 \ps n
@@ -45464,7 +45464,7 @@ qqch ...)
 
 \lx jàlamisɛn
 \mm jà:n:ombre
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm mìsɛn:adj:petit
 \ps adj/n
 \ge peureux
@@ -50845,7 +50845,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 
 \lx jùla
 \mm jù:n:derrière
-\mm la:mrph:dans
+\mm lá:pp:dans
 \ps n
 \ge maîtrise.de.cul
 \sm (maîtrise des réflexes défécatoires ou sexuels; première
@@ -50870,7 +50870,7 @@ composante des adjectifs séparables)
 \lx jùlajugu
 \mm jùla:n:maîtrise.de.cul
 \mm jù:n:derrière
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm júgu:adj:mauvais
 \ps adj/n
 \sn 1
@@ -50886,7 +50886,7 @@ composante des adjectifs séparables)
 \mm jùlajugu:n:impudique
 \mm jùla:n:maîtrise.de.cul
 \mm jù:n:derrière
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
@@ -64565,7 +64565,7 @@ ou une proposition)
 
 \lx kɔ́nɔnafin
 \mm kɔ́nɔ:n:ventre
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm fìn:adj:noir
 \ps adj/n
 \ge hypocrite
@@ -64576,7 +64576,7 @@ ou une proposition)
 
 \lx kɔ́nɔnafinya
 \mm kɔ́nɔ:n:ventre
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm fìn:adj:noir
 \mm ya:mrph:ABSTR
 \ps n
@@ -64602,7 +64602,7 @@ ou une proposition)
 
 \lx kɔ́nɔnajɛ
 \mm kɔ́nɔ:n:ventre
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm jɛ́:adj:blanc
 \va kɔ́nɔnanjɛ
 \mm kɔ́nɔ:n:ventre
@@ -64620,7 +64620,7 @@ ou une proposition)
 
 \lx kɔ́nɔnajɛya
 \mm kɔ́nɔ:n:ventre
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm jɛ́:adj:blanc
 \mm ya:mrph:ABSTR
 \va kɔ́nɔnanjɛya
@@ -64637,7 +64637,7 @@ ou une proposition)
 
 \lx kɔ́nɔnajɛya
 \mm kɔ́nɔ:n:ventre
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm jɛ́:adj:blanc
 \mm ya:mrph:ABSTR
 \va kɔ́nɔnanjɛya
@@ -64652,7 +64652,7 @@ ou une proposition)
 
 \lx kɔ́nɔnajugu
 \mm kɔ́nɔ:n:ventre
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm júgu:adj:mauvais
 \va kɔ́nɔnanjugu
 \mm kɔ́nɔ:n:ventre
@@ -64667,7 +64667,7 @@ ou une proposition)
 
 \lx kɔ́nɔnajuguya
 \mm kɔ́nɔ:n:ventre
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm júgu:vq/adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
@@ -69743,7 +69743,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnna
 \mm kùn:n:tête
-\mm na:mrph:dans
+\mm ná:pp:dans
 \ps n
 \sn
 \ge contenu.de.tête
@@ -69936,7 +69936,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lx kùnnagɛlɛn
 \mm kùnna:n:contenu.de.tête
 \mm kùn:n:tête
-\mm na:mrph:dans
+\mm ná:pp:dans
 \ps adj/n
 \ge récalcitrant
 \gv
@@ -70057,7 +70057,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \mm kùn.na.di:adj:chanceux
 \mm kùnna:n:contenu.de.tête
 \mm kùn:n:tête
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps n
@@ -70076,7 +70076,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \mm kùn.na.di:adj:chanceux
 \mm kùnna:n:contenu.de.tête
 \mm kùn:n:tête
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps v
@@ -90942,15 +90942,6 @@ graines, sert d'instrument rythmique)
 \xe j'écris nettement au crayon
 \dt 05/Apr/2016
 
-\lx nɔ̀fɛ
-\mm nɔ̀:n:trace
-\mm fɛ̀:pp:par
-\ps n
-\ge suivant
-\xv ò nɔ̀fɛsan
-\xe l'année suivante
-\dt 07/Feb/2016
-
 \lx nɔ̀fɛ̀
 \mm nɔ̀:n:trace
 \mm fɛ̀:pp:par
@@ -90971,7 +90962,6 @@ graines, sert d'instrument rythmique)
 \dt 07/Feb/2016
 
 \lx nɔ̀fɛgɛn
-\mm nɔ̀.fɛ:mrph:suivant
 \mm nɔ̀:n:trace
 \mm fɛ̀:pp:par
 \mm gɛ́n:v:chasser
@@ -90980,7 +90970,7 @@ graines, sert d'instrument rythmique)
 \ge poursuivre
 \gv pourchasser
 \lt (derrière.poursuivre)
-\dt 07/Feb/2016
+\dt 01/Mar/2017
 
 \lx nɔ̀fɛta
 \mm nɔ̀.fɛ:mrph:suivant
@@ -98203,7 +98193,7 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́na
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \ps n
 \sn
 \ge vue
@@ -98327,12 +98317,12 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́nagɛlɛn
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm gɛ̀lɛn:adj:dur
 \va ɲɛ́.na.gwɛlɛn
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm gwɛ̀lɛn:adj:dur
 \ph [gw]
 \ps adj/n
@@ -98455,7 +98445,7 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́najugu
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm júgu:adj:mauvais
 \ps adj/n
 \sn 1
@@ -98477,12 +98467,12 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́nakegun
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm kègun:adj:malin
 \va ɲɛ́nakekun
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm kèkun:adj:malin
 \ps adj/n
 \lt regard-malin
@@ -98494,7 +98484,7 @@ graines, sert d'instrument rythmique)
 \mm ɲɛ́nakegun:adj:adroit.de.ses.mains
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm kègun:adj:malin
 \mm ya:mrph:ABSTR
 \ps n
@@ -98529,12 +98519,12 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́nakuna
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm kúna:adj:amer
 \va ɲɛ́nakunan
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm kúnan:adj:amer
 \ps adj
 \sn 1
@@ -98552,14 +98542,14 @@ graines, sert d'instrument rythmique)
 \mm ɲɛ́nakuna:adj:effronté
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm kúna:adj:amer
 \mm ya:mrph:ABSTR
 \va ɲɛ́nakunanya
 \mm ɲɛ́nakunan:adj:effronté
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm kúnan:adj:amer
 \mm ya:mrph:ABSTR
 \ps v
@@ -98649,7 +98639,7 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́namisɛn
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm mìsɛn:adj:petit
 \ps adj/n
 \ge minutieux
@@ -98674,7 +98664,7 @@ graines, sert d'instrument rythmique)
 \mm ɲɛ́nadi:adj/n:gai
 \mm ɲɛ́na:n:vue
 \mm ɲɛ́:n:oeil
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm dí:vq:agréable
 \ps adj/n
 \sn 1
@@ -107895,7 +107885,7 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sènna
 \mm sèn:n:jambe
-\mm na:mrph:dans
+\mm ná:pp:dans
 \ps n
 \ge allure
 \gv marche
@@ -108067,7 +108057,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sènnateli
 \mm sèn.na:n:allure
 \mm sèn:n:jambe
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm téli:adj:rapide
 \ps adj
 \ge pressé
@@ -108078,7 +108068,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sènnateli:adj:pressé
 \mm sèn.na:n:allure
 \mm sèn:n:jambe
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm téli:adj:rapide
 \mm ya:mrph:ABSTR
 \ps v
@@ -119345,7 +119335,7 @@ fiançailles
 
 \lx tɛ́gɛla
 \mm tɛ́gɛ:n:paume
-\mm la:mrph:dans
+\mm lá:pp:dans
 \va tɛ́gɛrɔ
 \mm tɛ́gɛ:n:paume
 \mm rɔ:mrph:IN
@@ -119362,7 +119352,7 @@ fiançailles
 \lx tɛ́gɛlamisɛn
 \mm tɛ́gɛla:n:main.active
 \mm tɛ́gɛ:n:paume
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm mìsɛn:adj:petit
 \ps adj/n
 \ge touche-à-tout
@@ -119418,12 +119408,12 @@ fiançailles
 \lx tɛ́gɛlateli
 \mm tɛ́gɛla:n:main.active
 \mm tɛ́gɛ:n:paume
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm téli:adj:rapide
 \va tɛ́gɛlatelin
 \mm tɛ́gɛla:n:main.active
 \mm tɛ́gɛ:n:paume
-\mm la:mrph:dans
+\mm lá:pp:dans
 \mm télin:adj:rapide
 \va tɛ́gɛlanteli
 \mm tɛ́gɛla:n:main.active
@@ -119511,7 +119501,7 @@ fiançailles
 \lx tɛ́gɛnasuma
 \mm tɛ́gɛla:n:main.active
 \mm tɛ́gɛ:n:paume
-\mm na:mrph:dans
+\mm ná:pp:dans
 \mm súma:adj:lent
 \ps adj/n
 \ge lent
