@@ -1,4 +1,4 @@
-﻿\_sh v3.0  400  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -10264,14 +10264,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bólolabalɔntan
 \mm bólo:n:bras
 \mm lá:pp:dans
-\mm bálɔn:n:balon
+\mm bálɔn:n:ballon
 \mm tán:v:frapper
 \ps n
 \ge basket-ball
 \gv handball
 \gv volley-ball
-\lt (main.à.ballon.taper)
-\dt 26/Sep/2006
+\dt 01/Mar/2017
 
 \lx bólolaban
 \mm bólo:n:bras
@@ -12891,7 +12890,7 @@ toujours (pro)
 \dt 27/Jan/2016
 
 \lx bùguninka
-\mm bùgu:n:paillotte
+\mm bùgu:n:paillote
 \mm nin:mrph:DIM
 \mm ka:mrph:GENT
 \ps n
@@ -13004,9 +13003,9 @@ centrale est de couleur sombre
 \dt 30/Nov/2012
 
 \lx bùgutúrubùgubɔ́
-\mm bùgu:n:paillotte
+\mm bùgu:n:paillote
 \mm túru:v:planter
-\mm bùgu:n:paillotte
+\mm bùgu:n:paillote
 \mm bɔ́:v:sortir
 \ps n
 \sn 1
@@ -13561,7 +13560,7 @@ centrale est de couleur sombre
 \dt 15/Sep/2016
 
 \lx búranci
-\mm búran:n:beaux-parent
+\mm búran:n:beau-parent
 \mm cí:n:commission
 \ps n
 \ge travail.du.gendre.chez.ses.beaux-parents
@@ -13569,7 +13568,7 @@ centrale est de couleur sombre
 \dt 24/Feb/2013
 
 \lx búrangosidibi
-\mm búran:n:beaux-parent
+\mm búran:n:beau-parent
 \mm gòsi:v:battre
 \mm dìbi:n:obscurité
 \ps n
@@ -13578,7 +13577,7 @@ centrale est de couleur sombre
 \dt 24/Feb/2013
 
 \lx búrankɛ
-\mm búran:n:beaux-parent
+\mm búran:n:beau-parent
 \mm kɛ:adj:mâle
 \ps n
 \ge parent.par.alliance
@@ -13595,7 +13594,7 @@ centrale est de couleur sombre
 \dt 24/Feb/2013
 
 \lx búranmuso
-\mm búran:n:beaux-parent
+\mm búran:n:beau-parent
 \mm mùso:adj:femme
 \ps n
 \ge parente.par.alliance
@@ -13611,7 +13610,7 @@ centrale est de couleur sombre
 \dt 24/Feb/2013
 
 \lx búranna
-\mm búran:n:beaux-parent
+\mm búran:n:beau-parent
 \mm na:mrph:LOC
 \ps n
 \ge lieu.d'origine.de.l'épouse
@@ -13619,7 +13618,7 @@ centrale est de couleur sombre
 \dt 24/Feb/2013
 
 \lx búranya
-\mm búran:n:beaux-parent
+\mm búran:n:beau-parent
 \mm ya:mrph:ABSTR
 \ps n
 \ge affinité
@@ -14697,7 +14696,7 @@ médicinales
 
 \lx cɛ̀dancɛ
 \mm cɛ̀:n:mâle
-\mm dàn:v:dépasser
+\mm dàn:v:s'arrêter
 \mm cɛ̀:n:mâle
 \ps n
 \ge homme.courageux
@@ -16279,7 +16278,7 @@ sur soi)
 \lx cíkɛbugu
 \mm cí:n:commission
 \mm kɛ́:v:faire
-\mm bùgu:n:paillotte
+\mm bùgu:n:paillote
 \ps n
 \ge village.de.culture
 \lt (culture.hameau)
@@ -21266,7 +21265,7 @@ rétribution mais à titre de réciprocité)
 \dt 20/Jun/2014
 
 \lx dànkunnayeelenbɔlan
-\mm dàn:v:dépasser
+\mm dàn:v:s'arrêter
 \mm kùn:n:tête
 \mm ná:pp:dans
 \mm yéelen:n:lumière
@@ -21568,7 +21567,7 @@ génitales ...
 \lx dànnisanji
 \mm dàn:v:semer
 \mm ni:mrph:NMLZ
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm jí:n:eau
 \ps n
 \ge pluie.qui.permet.de.semer
@@ -22130,7 +22129,7 @@ génitales ...
 
 \lx dásanfɛla
 \mm dá:n:bouche
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm fɛ̀:pp:par
 \mm lá:pp:dans 
 \ps n
@@ -34617,7 +34616,7 @@ la virginité (pièce de monnaie sans trou)
 
 \lx fìnibugu
 \mm fìni:n:tissu
-\mm bùgu:n:paillotte
+\mm bùgu:n:paillote
 \ps n
 \lt tissu-maison
 \ge tente
@@ -45833,10 +45832,10 @@ qqch ...)
 
 \lx jámurubugu
 \mm jámuru:n:débauché
-\mm bùgu:n:paillotte
+\mm bùgu:n:paillote
 \va jánburu.bugu
 \mm jánburu:n:débauché
-\mm bùgu:n:paillotte
+\mm bùgu:n:paillote
 \ps n
 \lt débauché-maison
 \sn 1
@@ -60340,7 +60339,7 @@ prolapsus utérin
 \lx kólojɛbugu
 \mm kólo:n:os
 \mm jɛ́:vq/adj:blanc
-\mm bùgu:n:paillotte
+\mm bùgu:n:paillote
 \ps n
 \ge cimetière
 \lt (os.blanc.village)
@@ -68242,16 +68241,15 @@ le pouvoir administratif suprême)
 \mm bɔ́:v:sortir
 \ps v
 \sn 1
-\vl vi
-\gv apparaître
-\sn 2
 \vl vt
 \ge dévier
 \ee (une arme, des paroles ...)
-\lt (tête.sortir)
 \xv à kùnbɔ ń kàn
 \xe ne t'adresse pas à moi (ça ne me regarde pas)
-\dt 01/Mar/2013
+\sn 2
+\vl vi
+\gv apparaître
+\dt 01/Mar/2017
 
 \lx kùnbɔkola
 \mm kùn:n:tête
@@ -72777,7 +72775,7 @@ kúrunninle
 \dt 05/Feb/2016
 
 \lx láfasalikɛla
-\mm láfasa:v:louer
+\mm láfàsa:v:louer
 \mm lá:mrph:CAUS
 \mm fàsa:v:rendre.consistant
 \mm li:mrph:NMLZ
@@ -72786,7 +72784,7 @@ kúrunninle
 \ps n
 \ge défenseur
 \gv avocat
-\dt 29/Nov/2015
+\dt 01/Mar/2017
 
 \lx làfe
 \ve (-bk)
@@ -104952,7 +104950,7 @@ épuisés
 \dt 26/Sep/2006
 
 \lx sánbalaɲɔ
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm bála:pp:sur
 \mm ɲɔ̀:n:mil
 \ps n
@@ -104966,7 +104964,7 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sánbɛ̀lɛnin
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm bɛ̀lɛ:n:gravier
 \mm nin:mrph:DIM
 \ps n
@@ -105022,7 +105020,7 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sánfa
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm fá:v:remplir
 \ps adj
 \ge grand.et.fort
@@ -105061,7 +105059,7 @@ épuisés
 \dt 07/Feb/2016
 
 \lx sánfɛla
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
@@ -105079,7 +105077,7 @@ épuisés
 \dt 11/Nov/2007
 
 \lx sánfin
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm fìn:vq/adj:noir
 \ps n
 \ge nuage.de.pluie
@@ -105088,10 +105086,10 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sánfiyɛn
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm fíyɛn:n:vent
 \va sán.fiɲɛ
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm fíɲɛ:n:vent
 \ps n
 \ge bourrasque
@@ -105117,7 +105115,7 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sánfɔli
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm fɔ́:v:dire
 \mm li:mrph:NMLZ
 \ps n
@@ -105328,7 +105326,7 @@ épuisés
 \dt 23/Nov/2016
 
 \lx sánjan
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm jàn:vq:long
 \ps n
 \ge très.haut
@@ -105336,7 +105334,7 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sánji
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm jí:n:eau
 \ps n
 \sn 1
@@ -105354,7 +105352,7 @@ épuisés
 
 \lx sánjiba
 \mm sán.ji:n:pluie
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm jí:n:eau
 \mm ba:mrph:AUGM
 \ps n
@@ -105365,7 +105363,7 @@ épuisés
 
 \lx sánjidɛsɛ
 \mm sán.ji:n:pluie
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm jí:n:eau
 \mm dɛ́sɛ:v:échouer
 \ps n
@@ -105377,7 +105375,7 @@ épuisés
 
 \lx sánjikɔrɔwɔsi
 \mm sán.ji:n:pluie
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm jí:n:eau
 \mm kɔ́rɔ:pp:sous
 \mm wɔ̀si:n:sueur
@@ -105388,7 +105386,7 @@ épuisés
 
 \lx sánjikuna
 \mm sán.ji:n:pluie
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm jí:n:eau
 \mm kúna:vq:amer
 \ps n
@@ -105420,15 +105418,15 @@ épuisés
 \dt 17/Apr/2016
 
 \lx sánkanso
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm kàn:pp:sur
 \mm só:n:maison
 \va sánkaso
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm kàn:pp:sur
 \mm só:n:maison
 \va sángaso
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm kàn:pp:sur
 \mm só:n:maison
 \ps n
@@ -105475,7 +105473,7 @@ épuisés
 \dt 18/Feb/2017
 
 \lx sánkolo
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm kólo:n:os
 \ps n
 \ge firmament
@@ -105526,10 +105524,10 @@ épuisés
 \dt 17/Apr/2016
 
 \lx sánkulu
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm kúlu:v:gronder
 \va sánkulukan
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm kúlu:v:gronder
 \mm kán:n:cou
 \ps n
@@ -105546,11 +105544,11 @@ épuisés
 \lt (année.rencontre)
 
 \lx sánminɛdulɔki
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm mìnɛ:v:attraper
 \mm dùlɔki:n:chemise
 \va sán.minɛ.dlɔki
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm mìnɛ:v:attraper
 \mm dlɔ̀ki:n:chemise
 \ph [dl]
@@ -105560,7 +105558,7 @@ épuisés
 \dt 12/Aug/2006
 
 \lx sánminɛna
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm mìnɛ:v:attraper
 \mm na:mrph:AG.PRM
 \ps n
@@ -105570,7 +105568,7 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sánminɛnan
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm mìnɛ:v:attraper
 \mm nan:mrph:INSTR
 \ps n
@@ -105579,11 +105577,11 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sánmùrubílen
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm mùru:n:couteau
 \mm bìlen:vq/adj:rouge
 \va sán.mùru.blén
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm mùru:n:couteau
 \mm blèn:vq/adj:rouge
 \ph [bl]
@@ -105607,7 +105605,7 @@ épuisés
 \gv qui annonce un décès
 
 \lx sánnafɛn
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm ná:pp:dans
 \mm fɛ́n:n:chose
 \ps n
@@ -105618,7 +105616,7 @@ épuisés
 \dt 07/Dec/2014
 
 \lx sánnakalansoba
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm ná:pp:dans
 \mm kàlan:n:lecture
 \mm só:n:maison
@@ -105631,7 +105629,7 @@ épuisés
 \dt 11/Nov/2007
 
 \lx sánnakolo
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm ná:pp:dans
 \mm kólo:n:os
 \va sáankolo
@@ -105643,7 +105641,7 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sánnakurun
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm ná:pp:dans
 \mm kúrun:n:pirogue
 \ps n
@@ -105717,7 +105715,7 @@ épuisés
 \dt 26/Sep/2006
 
 \lx sánpɛrɛn
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm pɛ́rɛn:v:fendre
 \ps n
 \ge foudre
@@ -105728,7 +105726,7 @@ épuisés
 
 \lx sánpɛrɛnjiri
 \mm sán.pɛrɛn:n:foudre
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm pɛ́rɛn:v:fendre
 \mm jíri:n:arbre
 \ps n
@@ -105741,7 +105739,7 @@ épuisés
 
 \lx sánpɛrɛnkan
 \mm sán.pɛrɛn:n:foudre
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm pɛ́rɛn:v:fendre
 \mm kán:n:cou
 \ps n
@@ -105838,7 +105836,7 @@ épuisés
 \dt 15/Sep/2016
 
 \lx sánsumaya
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm súma.ya:n:froid
 \mm súma:vq/adj:lent
 \mm ya:mrph:DEQU
@@ -105863,7 +105861,7 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sántigi
-\mm sán:n:haut
+\mm sán:n:ciel
 \mm tìgi:n:maître
 \ps n
 \ge haut-maître
@@ -112332,7 +112330,7 @@ donne d'excellentes fibres)
 
 \lx sòdanso
 \mm sò:n:cheval
-\mm dàn:v:dépasser
+\mm dàn:v:s'arrêter
 \mm sò:n:cheval
 \ps n
 \ge cavalier.vaillant
@@ -116317,13 +116315,13 @@ fiançailles
 \dt 04/Jan/2015
 
 \lx súurutala
-\mm súuru:v:faire.couler
+\mm súuru:v:verser
 \mm tá:n:feu
 \mm lá:pp:dans
 \ps n
 \ge riz.au.gras
 \lt (verser.feu.sur)
-\dt 16/Aug/2006
+\dt 01/Mar/2017
 
 \lx súutɛ
 \ps v
