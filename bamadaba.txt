@@ -31065,7 +31065,7 @@ quant à sa mère, elle prend de l'âge
 \gv l'essentiel
 \gv la majorité de
 \gv
-\dt 06/Feb/2013
+\dt 01/Mar/2017
 
 \lx fánda
 \mm fán:n:forge
@@ -108924,7 +108924,7 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sɛ̀fancɛkalo
 \mm sɛ̀:n:poule
-\mm fàn:n:côté
+\mm fán:n:oeuf
 \mm cɛ̀:v:ramasser
 \mm kálo:n:lune
 \ps n
@@ -108933,7 +108933,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \ee
 \xv
 \xe
-\dt 08/Feb/2017
+\dt 01/Mar/2017
 
 \lx sɛ́gɛ
 \ps n
@@ -124220,11 +124220,11 @@ yé
 \lx túlomàjɔ
 \mm túlo:n:oreille
 \mm mà:mrph:SUPER
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \va tló.mà.jɔ
 \mm tló:n:oreille
 \mm mà:mrph:SUPER
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \ph [tl]
 \ps v
 \vl vr
@@ -124234,43 +124234,42 @@ yé
 \lt (oreille.dresser)
 \xv à b'í túlomajɔ  ò fɛ̀
 \xe il l'écoute bien
-\dt 26/Sep/2006
+\dt 01/Mar/2017
 
 \lx túlomajɔbali
 \mm túlo:n:oreille
 \mm mà:mrph:SUPER
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.PRIV
 \va tló.ma.jɔ.bali
 \mm tló:n:oreille
 \mm mà:mrph:SUPER
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.PRIV
 \ph [tl]
 \ps ptcp
 \ge inattentif
 \lt (être attentif.ne pas)
-\dt 12/Aug/2006
+\dt 01/Mar/2017
 
 \lx túlomajɔbaliya
-\mm túlo.ma.jɔ.bali:ptcp:inattentif
+\mm túlomajɔbali:ptcp:inattentif
 \mm túlo:n:oreille
 \mm mà:mrph:SUPER
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
-\va tló.ma.jɔ.bali.ya
-\mm tló.ma.jɔ.bali:ptcp:inattentif
+\va tlómajɔbaliya
+\mm tlómajɔbali:ptcp:inattentif
 \mm tló:n:oreille
 \mm mà:mrph:SUPER
-\mm jɔ̀:v:mettre.debout
+\mm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ph [tl]
 \ps n
 \ge inattention
-\lt (inattentif.suf abs)
-\dt 26/Sep/2006
+\dt 01/Mar/2017
 
 \lx túlomasama
 \mm túlo:n:oreille
