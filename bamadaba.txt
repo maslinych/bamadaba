@@ -1,4 +1,4 @@
-﻿\_sh v3.0  400  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -9828,6 +9828,17 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xe
 \dt 15/Sep/2016
 
+\lx bólojigin
+\mm bólo:n:bras
+\mm jìgin:v:descendre
+\ps n
+\ge musulman.soufi
+\gv
+\ee
+\xv
+\xe
+\dt 03/Mar/2017
+
 \lx bólojuru
 \mm bólo:n:branche
 \mm jùru:n:corde
@@ -10901,6 +10912,17 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv ń yé ń bólomayɛlɛma  táyɛriya lá
 \xe je suis devenu tailleur
 \dt 26/Sep/2006
+
+\lx bólominɛ
+\mm bólo:n:bras
+\mm mìnɛ:v:attraper
+\ps n
+\ge wahhabite
+\gv
+\ee
+\xv
+\xe
+\dt 03/Mar/2017
 
 \lx bólonɔ
 \mm bólo:n:bras
@@ -19032,8 +19054,8 @@ sur soi)
 \mm na:mrph:AG.PRM
 \va dákamana
 \ps adv.p
-\ge par.extraordinaire
-\dt 02/May/2015
+\ge étonnamment
+\dt 05/Mar/2017
 
 \lx dákabanamɔgɔ
 \mm dá:n:bouche
@@ -34243,6 +34265,7 @@ la virginité (pièce de monnaie sans trou)
 \lx fílɛ
 \va flɛ́
 \ph [fl ]
+\va fíl'
 \ps v
 \vl vt
 \sn 1
@@ -34261,7 +34284,7 @@ la virginité (pièce de monnaie sans trou)
 \sn 4
 \gv prendre
 \ee (pour -- yé)
-\dt 18/Dec/2014
+\dt 05/Mar/2017
 
 \lx fílɛli
 \mm fílɛ:v:regarder
@@ -34332,6 +34355,7 @@ la virginité (pièce de monnaie sans trou)
 \lx fìli
 \va flì
 \ph [fl]
+\va fìl'
 \ps v
 \sn 1
 \vl vt
@@ -34350,7 +34374,7 @@ la virginité (pièce de monnaie sans trou)
 \sn 3
 \vl vi
 \gv manquer.aux.règles.de.la.société
-\dt 26/Sep/2006
+\dt 05/Mar/2017
 
 \lx fíli
 \bw fr :fil
@@ -44336,14 +44360,14 @@ doigts par des fileuses du coton)
 \lx hɔ́n
 \ps v
 \vl vi
-\ge prends !
+\ge prends!
 \sm prendre ce qu'on présente (de main à main) - verbe défectif
-\xv hɔ́n !
-\xv í kà hɔ́n !
-\xe prends !
-\xv hɔ́n  à lá !
-\xe prends ! prends-en !
-\dt 16/Aug/2006
+\xv hɔ́n!
+\xv í kà hɔ́n!
+\xe prends!
+\xv hɔ́n  à lá!
+\xe prends! prends-en!
+\dt 05/Mar/2017
 
 \lx hɔ́rɔn
 \bw ar: hurr = id.
@@ -63547,8 +63571,13 @@ champs)
 
 \lx kɔ́ngɔ
 \ps v
-\vl vi ?
+\ms 1
+\vl vt
 \ge affamer
+\ms 2
+\vl vi
+\gv avoir faim
+\dt 04/Mar/2017
 
 \lx kɔ́ngɔba
 \mm kɔ́ngɔ:n:faim
@@ -70177,18 +70206,6 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \sn 3
 \gv multiple
 \ee (math.)
-\dt 31/May/2016
-
-\lx kùnnasigi
-\mm kùn:n:tête
-\mm ná:pp:dans
-\mm sìgi:v:asseoir
-\ps n
-\ge
-\gv
-\ee
-\xv
-\xe
 \dt 31/May/2016
 
 \lx kùnnasìgi
@@ -109966,13 +109983,14 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx síga
 \va sígi
+\va síg'
 \ps v
 \vl vi
 \ge douter
 \gv se défier de
 \xv ń bɛ́ síga  à ká kúma ná
 \xe je ne crois pas beaucoup à ses paroles
-\dt 26/Sep/2006
+\dt 05/Mar/2017
 
 \lx sígańná
 \mm síga:n:doute
@@ -110060,6 +110078,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 16/Aug/2006
 
 \lx sìgi
+\va sìg'
 \ps v
 \sn 1
 \vl vt
@@ -110097,7 +110116,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gv habiter
 \xv à sìgilen bɛ́ Bàmakɔ
 \xe il est domicilié à Bamako
-\dt 03/Apr/2016
+\dt 05/Mar/2017
 
 \lx sígi
 \ps n
@@ -120169,6 +120188,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 05/Feb/2017
 
 \lx tìgɛ
+\va tìg'
 \va tìkɛ
 \vc tìgɛn
 \ve (f)
@@ -120226,7 +120246,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \sn 9
 \vl vr
 \gv éclater de rire
-\dt 19/Oct/2014
+\dt 05/Mar/2017
 
 \lx tìgɛda
 \mm tìgɛ:v:couper
