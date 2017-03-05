@@ -23779,18 +23779,21 @@ assumant que l'interclocuteur pense autrement)
 \dt 19/Jan/2015
 
 \lx dɛ̀mɛ
+\va dɛ̀mɛn
 \ps n
 \ge aide
 \xv dɛ̀mɛ ɲíni
 \xe demander de l'aide
 \xv dɛ̀mɛ dòn
 \xe aider
+\dt 05/Mar/2017
 
 \lx dɛ̀mɛ
+\va dɛ̀mɛn
 \ps v
 \vl vt
 \ge aider
-\dt 12/Aug/2006
+\dt 05/Mar/2017
 
 \lx dɛ̀mɛbaa
 \mm dɛ̀mɛ:v:aider
@@ -27546,13 +27549,14 @@ désorienter')
 \dt 16/Aug/2006
 
 \lx dɔ́ɔnin
+\va dɔ́ɔni
 \ps adv/n
 \ge un.peu
 \xv dɔ́ɔnin b'á jɛ̀
 \xe il s'en faut d'un tout petit peu
 \xv nà ní  jí dɔ́ɔnin yé
 \xe apporte un peu d'eau
-\dt 19/Jun/2016
+\dt 05/Mar/2017
 
 \lx dɔ́ɔnindɔɔnin
 \ps adv.p
@@ -27592,11 +27596,12 @@ désorienter')
 \dt 11/Nov/2007
 
 \lx dɔ́rɔmɛ
+\va d.
 \bw ar: dirham = drachme
 \ps n
 \ge cinq.francs.CFA
 \sy dálasi
-\dt 16/Aug/2006
+\dt 05/Mar/2017
 
 \lx dɔ́rɔn
 \ps dtm
@@ -56869,6 +56874,17 @@ prolapsus utérin
 \rem l 89
 \dt 11/Nov/2007
 
+\lx kélenpe
+\mm kélen:num:un
+\mm pé:dtm:seulement
+\ps num
+\ge un.seul
+\gv
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
+
 \lx kélensigi
 \mm kélen:num:un
 \mm sìgi:v:asseoir
@@ -61111,6 +61127,15 @@ champs)
 \ps n
 \ge commune
 \dt 10/Jan/2013
+
+\lx komite
+\ps n
+\ge comité
+\gv
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
 
 \lx kómitɛrɛ
 \va kɔ́mitɛrɛ
@@ -85954,6 +85979,15 @@ sorcières et leur élimination)
 \gv personne.d'humeur.égale
 \dt 26/Sep/2006
 
+\lx nan
+\ps mrph
+\ge ORD
+\gv
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
+
 \lx nàna
 \ps n
 \ge poisson.mormoridé
@@ -101546,6 +101580,15 @@ le pèlerinage (bk 1/06 p.5)
 \xe vient-il ? ne vient-il pas ? Je n'en sais rien
 \dt 09/Mar/2014
 
+\lx ofisi
+\ps n
+\ge office
+\gv
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
+
 \lx ófu
 \va óf
 \ph [of]
@@ -102311,6 +102354,15 @@ envergure)
 \gv bien.préciser
 \lt (clairement.décider)
 \dt 26/Sep/2006
+
+\lx peresidan
+\ps n
+\ge président
+\gv
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
 
 \lx pérewu
 \ps adv
@@ -109222,6 +109274,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \ps n
 \ge enquêteur
 \lt (enquête.faire.celui qui)
+
+\lx sɛkitɛri
+\ps n
+\ge secteur
+\gv
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
 
 \lx sɛ̀lɛ
 \va sàle

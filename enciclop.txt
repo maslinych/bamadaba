@@ -438,6 +438,15 @@ de la guerre du Mali)
 \gv Compagnie Malienne de Textile
 \dt 14/Sep/2015
 
+\lx Dawidi
+\ps n.prop
+\ge NOM.ETRG
+\gv David
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
+
 \lx Denisi Sasu Ngesu
 \ps n.prop
 \ge NOM.ETRG
@@ -719,6 +728,7 @@ de la guerre du Mali)
 \dt 06/Feb/2017
 
 \lx Inɛsiko
+\va UNESCO
 \ps n
 \ge ABR
 \gv UNESCO
@@ -727,7 +737,7 @@ la culture
 \ee
 \xv
 \xe
-\dt 31/Jan/2017
+\dt 05/Mar/2017
 
 \lx Iyadi Agi Agali
 \ps n.prop
@@ -1056,6 +1066,15 @@ la stabilisation au Mali
 \xe
 \dt 01/Feb/2017
 
+\lx Moyizi
+\ps n.pers
+\ge NOM.ETRG
+\gv Moïse
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
+
 \lx Mujawo
 \va Muzawo
 \ps n
@@ -1292,6 +1311,15 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \ge Sagamandjan
 \smf (chef de guerre de Mansa Moussa, 14e siècle)
 \dt 04/Feb/2016
+
+\lx Salomɔn
+\ps n.prop
+\ge NOM.ETRG
+\gv Salomon
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
 
 \lx Sàmatasɛgɛw
 \va Sàmatasɛgɛ
@@ -1619,6 +1647,15 @@ Gbagbo)
 \xe
 \dt 15/Sep/2016
 
+\lx Zakɔbu
+\ps n.prop
+\ge NOM.ETRG
+\gv Jacob
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
+
 \lx Zan Poli
 \ps n.prop
 \ge NOM.M
@@ -1637,6 +1674,15 @@ Gbagbo)
 \xv
 \xe
 \dt 15/Sep/2016
+
+\lx Zida
+\ps n.prop
+\ge NOM.ETRG
+\gv Judas
+\ee
+\xv
+\xe
+\dt 05/Mar/2017
 
 \lx Zidani
 \ps n.prop
