@@ -10918,11 +10918,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm mìnɛ:v:attraper
 \ps n
 \ge wahhabite
-\gv
-\ee
+\ee (un terme neutre, cf. wàhabiya et súnamɔgɔ)
 \xv
 \xe
-\dt 03/Mar/2017
+\dt 06/Mar/2017
 
 \lx bólonɔ
 \mm bólo:n:bras
@@ -110944,13 +110943,11 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \dt 26/Sep/2006
 
 \lx sìna
-\va sùma
-\va sùna
 \ps n
 \ge un.tel
 \xv nìn ntàlen bɛ́ dá  ò dénmisɛn sìna lá
 \xe ce proverbe s'adresse à cette catégorie d'enfants
-\dt 26/Sep/2006
+\dt 06/Mar/2017
 
 \lx sìna
 \ps n
@@ -115515,13 +115512,11 @@ euphémique)
 \lx súna
 \ps n
 \ms 1
-\ge facultatif
-\ee non obligatoire, mais permis
+\ge sounna
 \ms 2
-\gv sounna
-\xv súnamɔgɔ
-\xe sunnite
-\dt 24/Oct/2016
+\gv facultatif
+\ee non obligatoire, mais permis
+\dt 06/Mar/2017
 
 \lx sùnaabaatɔ
 \mm sùnaa:v:dormir
@@ -115536,6 +115531,17 @@ euphémique)
 \gv endormi
 \lt (dormir.sujet)
 \dt 26/Sep/2006
+
+\lx súnamɔgɔ
+\mm súna:n:sounna
+\mm mɔ̀gɔ:n:homme
+\ps n
+\sn 1
+\ge sunnite
+\sn 2
+\gv wahhabite
+\ee (un terme neutre, cf. wàhabiya et súnamɔgɔ)
+\dt 06/Mar/2017
 
 \lx súnbala
 \ps n
@@ -125449,7 +125455,9 @@ bruyants, près du sol, dans les fourrés)
 \lx wàhabiya
 \ps n
 \ge wahhabite
-\dt 05/Apr/2016
+\ee (un terme péjoratif, impliquant le djihadisme, par rapport aux
+termes plus neutres bólominɛ et súnamɔgɔ)
+\dt 06/Mar/2017
 
 \lx wàkali
 \bw ar: wakala = confier à
