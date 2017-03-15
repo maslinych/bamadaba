@@ -40237,6 +40237,13 @@ forestières, fruit : long follicule de 50 cm)
 \ge sac.de.selle
 \dt 26/Sep/2006
 
+\lx gàngan
+\va gòngo
+\ps n
+\gv tambour.d'annonce
+\ee (à deux faces, frappé avec des baguettes)
+\dt 15/Mar/2017
+
 \lx gàngara
 \va gwàngwàra
 \ph [gwàngwara]
@@ -42395,10 +42402,7 @@ caractéristique, réputé pour faciliter la procréation)
 \ps n
 \sn 1
 \ge touque
-\sn 2
-\gv tambour de convocation
 \dt 15/Mar/2017
-\zame ton à vérifier pour 'tambour'
 
 \lx gòni
 \ps n
