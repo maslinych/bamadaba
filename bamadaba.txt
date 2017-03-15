@@ -657,6 +657,15 @@
 \xe
 \dt 23/Jun/2016
 
+\lx ámardi
+\bw Fulfulde aamare 'vache blanche ayant des points rouges ou noirs sur
+les deux flancs'
+\ps n
+\ge vache.blanche.tachetée
+\ee (à des points rouges ou noires sur les flancs)
+\dt 15/Mar/2017
+\zame ton à vérifier
+
 \lx amarini
 \ps n
 \ge Amhara
@@ -2831,6 +2840,13 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \sy báladen
 \dt 08/Sep/2006
 
+\lx bálamini
+\va bánamini
+\bw Fr. barre à mine
+\ps n
+\ge barre.à.mine
+\dt 15/Mar/2017
+
 \lx bálamɔ
 \mm bá:n:mère
 \mm la:mrph:LOC
@@ -3024,6 +3040,13 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \ps n
 \ge ingratitude
 \lt (gratitude.absence)
+
+\lx báldi
+\bw Fulfulde ɓale-wol 'noirceur'
+\ps n
+\ge vache.noir
+\dt 15/Mar/2017
+\zame ton à vérifier
 
 \lx bàlema
 \ps n
@@ -3996,12 +4019,12 @@ Fleurs spectaculaires
 \ps n
 \sn 1
 \ge terre-plein
-\gv seuil.relevé
+\gv seuil relevé
 \ee (anti-crapaud)
 \sn 2
-\gv banquette.en.banco
+\gv banquette en banco
 \ph [banbali --> banbei --> banbe ?]
-\dt 26/Sep/2006
+\dt 15/Mar/2017
 
 \lx bàncimala
 \mm bàn:v:refuser
@@ -4681,11 +4704,11 @@ Fleurs spectaculaires
 \dt 26/Sep/2006
 
 \lx bárama
-\vt baràmá
+\vt báràma
 \ps n
 \ge marmite
-\ee en métal à trois pieds
-\dt 16/Aug/2006
+\ee (en métal, parfois à trois pieds)
+\dt 15/Mar/2017
 
 \lx báramɔgɔ
 \mm bára:pp:chez
@@ -6498,13 +6521,6 @@ rhume, toux
 \ps n
 \ge démocratie
 
-\lx bɛ̀gɛn
-\va bɛ̀ngɛ
-\ps n
-\ge terrine
-\ee pour ablution
-\dt 16/Aug/2006
-
 \lx bɛ́gu
 \ps adv
 \ge complètement
@@ -6920,6 +6936,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ge huile.de.sésame
 \lt (sésame.huile)
 \dt 16/Aug/2006
+
+\lx bɛ̀ngɛ
+\va bɛ̀gɛn
+\ps n
+\ge terrine
+\ee pour ablution
+\dt 15/Mar/2017
 
 \lx bɛ̀nkan
 \mm bɛ̀n:n:accord
@@ -13868,6 +13891,25 @@ centrale est de couleur sombre
 \ee d'un panier ...
 \dt 16/Aug/2006
 
+\lx bùrunusi
+\va bùrumusi
+\va gùrumusi
+\va gòronbosi
+\ps n
+\sn 1
+\ge foulard.islamique
+\gv niqab
+\sn 2
+\gv burnous
+\gv djellaba
+\sn 3
+\gv membrane enveloppant à la naissance le corps de certains
+enfants
+\ee
+\xv
+\xe
+\dt 08/Mar/2017
+
 \lx burusi
 \ps n
 \ge brousse
@@ -17219,7 +17261,9 @@ sur soi)
 \gv joie.durable
 \xv jɛ̀-k'à-fɔ́ yé  dàamu yé
 \xe c'est un plaisir de dialoguer
-\dt 26/Sep/2006
+\xv í ní dàamu! -- á, dɔ́ɔnin
+\xe le bonheur soit avec toi! - merci
+\dt 15/Mar/2017
 
 \lx dàamu
 \ps v
@@ -17355,12 +17399,15 @@ sur soi)
 \lx dàbacɛ
 \mm dàba:n:houe
 \mm cɛ̀:n:mâle
+\va dàbacɛman
+\mm dàba:n:houe
+\mm cɛ̀:n:mâle
+\mm man:mrph:ADJ
 \ps n
-\ge houe
-\sm (à lame arrondie dont l'embout sort du manche)
-\lt (houe.mâle)
+\ge houe.à.lame.arrondie
+\sm (l'embout de la lame sort du manche; la tête a une saillie)
 \sy dàbadamɔ
-\dt 16/Aug/2006
+\dt 15/Mar/2017
 
 \lx dàbadaba
 \mm ba:mrph:AUGM
@@ -17561,10 +17608,15 @@ sur soi)
 \lx dàbamuso
 \mm dàba:n:houe
 \mm mùso:adj:femme
+\va dàbamusoman
+\mm dàba:n:houe
+\mm mùso:n:femme
+\mm man:mrph:ADJ
 \ps n
 \ge houe.à.bout.non.arrondi
-\lt (houe.femelle)
-\dt 16/Aug/2006
+\sm (l'embout de la lame ne sort pas du manche; la tête n'a pas de
+saillie)
+\dt 15/Mar/2017
 
 \lx dàbaninkurun
 \mm dàba:n:houe
@@ -20238,7 +20290,7 @@ pas)
 \ge cause
 \gv raison
 \sn 2
-\gv manière.de.faire
+\gv manière de faire
 \xv nìn tɔ́nsigi dàlilu ká bòn
 \xe l'importance de cette réunion est grande
 \sn 3
@@ -20248,7 +20300,7 @@ pas)
 \xe qui t'a donné le droit de le faire ?
 \sn 4
 \gv puissance.occulte
-\dt 20/Dec/2015
+\dt 09/Mar/2017
 
 \lx dàliluma
 \mm dàlilu:n:cause
@@ -24276,9 +24328,11 @@ assumant que l'interclocuteur pense autrement)
 \ge four
 \ee (spécialement celui des noix de karité)
 \gv gril
+\xv kɔ́lɔdibi
+\xe four à karité
 \sn 2
 \gv maigreur
-\dt 26/Sep/2006
+\dt 15/Mar/2017
 
 \lx díbida
 \mm díbi:n:four
@@ -24905,7 +24959,9 @@ chefs religieux et représentants de l'administration
 \ps n
 \ge turban
 \gv foulard
-\dt 26/Sep/2006
+\gv foulard islamique
+\gv hijab
+\dt 08/Mar/2017
 
 \lx dìsi
 \ps n
@@ -29063,6 +29119,13 @@ quant à sa mère, elle prend de l'âge
 \rem bz, du, f
 \dt 05/Jun/2016
 
+\lx dùnunkɔrɔ
+\mm dùnun:n:tambour
+\mm kɔ́rɔ:n:dessous
+\ps n
+\ge nasse
+\dt 15/Mar/2017
+
 \lx dùnya
 \mm dùn:vq:profond
 \mm ya:mrph:ABSTR
@@ -29732,6 +29795,12 @@ quant à sa mère, elle prend de l'âge
 \ps n
 \ge Internet
 \dt 05/Feb/2017
+
+\lx ɛ́rɛsi
+\ps n
+\ge herse
+\dt 15/Mar/2017
+\zame ton à vérifier
 
 \lx ɛ̀rɛzɛn
 \ps n
@@ -30570,8 +30639,11 @@ quant à sa mère, elle prend de l'âge
 \dt 16/Aug/2006
 
 \lx fàlamu
+\va fàramu
+\va fàlamɛ
 \ps n
 \ge bride
+\dt 15/Mar/2017
 
 \lx fálan
 \ps n
@@ -37598,7 +37670,8 @@ forestières, fruit : long follicule de 50 cm)
 \lx fúfu
 \ps n
 \ge panier.à.kolas
-\dt 16/Aug/2006
+\gv paquet de kolas
+\dt 15/Mar/2017
 
 \lx fúfu
 \va fúgu
@@ -41173,10 +41246,12 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \mm kólo:n:os
 \ph [gw]
 \ps n
+\sn 1
 \ge rouleau.de.tissu
 \ee (une seule bande)
-\lt (tissu.essentiel)
-\dt 16/Aug/2006
+\sn 2
+\gv bobine de fil
+\dt 15/Mar/2017
 
 \lx gésenbe
 \ps n
@@ -41774,7 +41849,7 @@ caractéristique, réputé pour faciliter la procréation)
 \ps n
 \ge brosse.à.dents
 \ee (faite avec des branchettes de bois vert)
-\dt 16/Aug/2006
+\dt 15/Mar/2017
 
 \lx gɛ̀sɛngɛsɛn
 \va gwɛ̀sɛngwɛsɛn
@@ -41925,6 +42000,8 @@ caractéristique, réputé pour faciliter la procréation)
 \gv fort.en
 \xv jùmɛn ká gírin  jùmɛn mà  bámanankan ná ?
 \xe qui est le plus fort en langue bambara ?
+\xv à kɔ́ ká gírin
+\xe il a de soutien, il a des protecteurs derrière lui
 \sn 5
 \gv tardif
 \sm (à long cycle de végétation)
@@ -41934,7 +42011,10 @@ caractéristique, réputé pour faciliter la procréation)
 \gv cher
 \xv à dá ká gírin
 \xe son prix est élevé
-\dt 05/Apr/2016
+\sn 7
+\gv avoir un posture sociale solide
+\ee (avoir des connections, exercer de l'influence)
+\dt 14/Mar/2017
 
 \lx gírin-kà-jɔ̀
 \mm gírin:v:se.précipiter
@@ -42313,8 +42393,12 @@ caractéristique, réputé pour faciliter la procréation)
 
 \lx góngon
 \ps n
+\sn 1
 \ge touque
-\dt 26/Sep/2006
+\sn 2
+\gv tambour de convocation
+\dt 15/Mar/2017
+\zame ton à vérifier pour 'tambour'
 
 \lx gòni
 \ps n
@@ -44157,8 +44241,11 @@ doigts par des fileuses du coton)
 \ve (-f,-bk)
 \bw ar: hijab = charme, talisman protecteur
 \ps n
+\sn 1
 \ge protection.divine
-\dt 16/Aug/2006
+\sn 2
+\gv bénédiction
+\dt 08/Mar/2017
 
 \lx híji
 \bw ar: hagg = id.
@@ -51601,9 +51688,10 @@ l'eau est prête
 \lx káana
 \va kána
 \ps n
+\lat Varanus niloticus
 \ge iguane.d'eau
 \gv varan.du.Nil
-\dt 26/Sep/2006
+\dt 07/Mar/2017
 
 \lx káana
 \ps v
@@ -52726,8 +52814,8 @@ l'eau est prête
 \lx kálaka
 \ps n
 \ge lit
-\ee (en côtes de raphia, en tiges de "jun", de "nkɔ̀lɔ̀bɛ"...)
-\dt 16/Aug/2006
+\ee (en pétioles de raphia, en tiges de "jun", de "nkɔ̀lɔ̀bɛ"...)
+\dt 15/Mar/2017
 
 \lx kála-kà-dúlon
 \mm kála:v:coudre
@@ -52769,6 +52857,14 @@ l'eau est prête
 \ge poisson.Synodontis.ocellifer
 \ee ---> 40 cm (taches ocellées sur le corps et l'adipeuse)
 \dt 08/Nov/2012
+
+\lx kálakanin
+\mm kálaka:n:lit
+\mm nin:mrph:DIM
+\ps n
+\ge siège
+\ee (en pétioles de raphia ou tiges de quinquéliba)
+\dt 15/Mar/2017
 
 \lx kálakari
 \mm kála:n:arc
@@ -53603,13 +53699,13 @@ prolapsus utérin
 \ge pour
 \gv en.vue.de
 \gv à.cause.de
-\xv Ála káma
+\xv Ála kámà
 \xe pour (l'amour de) Dieu
 \sn 2
 \gv contre
-\xv à wúlila né káma
+\xv à wúlila né kámà
 \xe il s'est levé pour m'attaquer
-\dt 23/Feb/2017
+\dt 07/Mar/2017
 
 \lx Kámabulon
 \mm bùlon:n:antichambre
@@ -73019,6 +73115,7 @@ kúrunninle
 \dt 27/Jan/2016
 
 \lx làfiya
+\va làafiya
 \va làfya
 \ph [fy]
 \bw ar: al-'afia = repos
@@ -73035,7 +73132,9 @@ kúrunninle
 \gv libération
 \sn 4
 \gv paix
-\dt 17/Feb/2017
+\xv í ní làfiya! -- á, dɔ́ɔnin
+\xe le paix soit avec toi! - merci
+\dt 15/Mar/2017
 
 \lx làfiya
 \va làfya
@@ -94002,8 +94101,7 @@ graines, sert d'instrument rythmique)
 \mm kùn:n:tête
 \ps n
 \ge termitière
-\lt (termitière.tête)
-\dt 11/Apr/2014
+\dt 15/Mar/2017
 
 \lx ntòntùluma
 \mm ntòn:n:termitière
@@ -94457,7 +94555,7 @@ graines, sert d'instrument rythmique)
 \lx ntúloma
 \mm ntúlo:n:barbillon
 \mm ma:mrph:COM
-\va ntló.ma
+\va ntlóma
 \mm ntló:n:barbillon
 \mm ma:mrph:COM
 \ph [ntloma]
@@ -94470,7 +94568,7 @@ graines, sert d'instrument rythmique)
 \gv soutien
 \sm (sens fig)
 \sy ntúlomajiri
-\dt 26/Sep/2006
+\dt 15/Mar/2017
 
 \lx ntùmu
 \ps n
@@ -95233,6 +95331,12 @@ graines, sert d'instrument rythmique)
 \gv taquin
 \ee (qui taquine méchamment)
 \dt 23/Mar/2015
+
+\lx nùrdi
+\ps n
+\ge vache.blanche.à.taches.brunes
+\ee (avec un dessin large)
+\dt 15/Mar/2017
 
 \lx núsɔgɔtɔ
 \mm nú:n:nez
@@ -102222,6 +102326,13 @@ envergure)
 \ge seulement
 \ee (emploi rare en dehors de kelen pe un seul)
 \dt 28/May/2016
+
+\lx pèleden
+\mm dén:n:enfant
+\ps n
+\ge perches.du.plafond
+\dt 15/Mar/2017
+\zame ton à vérifier
 
 \lx pélenkete
 \va pélenketenwu
@@ -117676,9 +117787,11 @@ fiançailles
 
 \lx táaran
 \va táara
+\va táaranan
+\va táaralan
 \ps n
 \ge gouttière
-\dt 26/Sep/2006
+\dt 15/Mar/2017
 
 \lx tàare
 \ps n
@@ -118647,6 +118760,12 @@ fiançailles
 \sm (Dieu sur une offrande, vx)
 \sy déli
 \dt 26/Sep/2006
+
+\lx tárakali
+\ps n
+\ge vache.blanche
+\dt 15/Mar/2017
+\zame ton à vérifier
 
 \lx tarakitɛri
 \va tarakitri
@@ -126009,6 +126128,13 @@ aîné ... (Kb 11/06 p.4)
 \rem (f)
 \dt 11/Nov/2007
 
+\lx wárajakuma
+\mm wára:n:fauve
+\mm jàkuma:n:chat
+\ps n
+\ge chat.bariolé
+\dt 15/Mar/2017
+
 \lx wáraka
 \va wálaka
 \va wáranga
@@ -129176,6 +129302,14 @@ soient définitivement données à leur mari)
 \nt kb 7/05 p.8
 \dt 11/Nov/2007
 
+\lx yáriyari
+\va ɲáriɲari
+\ps v
+\vl vt
+\ge herser
+\ee (pour couvrir les semences)
+\dt 15/Mar/2017
+
 \lx yàtiimɛ
 \bw ar: yatim = id.
 \ps n
@@ -129916,10 +130050,9 @@ comportement (LD p.5)
 \mm nan:mrph:INSTR
 \ps n
 \ge échelle
-\lt (monter.monter.ce qui sert à)
 \xv ní  yɛ̀lɛnyɛlɛnnan tùn bɛ́  Ála lá, né tùn ná yɛ̀lɛn  kà bárika dá
 \xe s'il y avait un escalier pour monter vers Dieu, j'y monterais pour le remercier (chant de maman)
-\dt 08/Nov/2012
+\dt 15/Mar/2017
 
 \lx yɛ́lɛɲi
 \mm yɛ́lɛ:v:rire
