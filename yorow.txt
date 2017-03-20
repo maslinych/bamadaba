@@ -786,6 +786,13 @@ Comoé, Burkina Faso)
 \cm (с 1966 г. - Ботсвана)
 \dt 23/May/2010
 
+\lx Belendugu
+\ps n.prop
+\ge TOP
+\gv Bellen
+\ee (commune rurale, cercle de Ségou)
+\dt 20/Mar/2017
+
 \lx Benɛn
 \va Bɛnɛn
 \ty гос.
@@ -1304,6 +1311,14 @@ Koulikoro)
 \dt 01/Jun/2016
 \ps n.prop
 
+\lx Dura
+\ps n.prop
+\ge TOP
+\gv Doura
+\ee (villace, cetre de la commune de N'Koumandougou, cercle de
+Ségou)
+\dt 20/Mar/2017
+
 \lx Dúwanzà
 \va Dúwazà
 \va Dúwazàn
@@ -1434,6 +1449,13 @@ Tadmekka)
 \gv Falémé
 \cm (левый приток р. Сенегал)
 \dt 23/May/2010
+
+\lx Famisabugu
+\ps n.prop
+\ge TOP
+\gv Famissabougou
+\ee (village, commune de Monimpébougou, cercle de Macina)
+\dt 20/Mar/2017
 
 \lx Fana
 \ps n.prop
@@ -2136,6 +2158,13 @@ Ségou)
 \xe
 \dt 04/Jun/2016
 
+\lx Jawaribugu
+\ps n.prop
+\ge TOP
+\gv
+\ee (une localité à 5 km de Macina)
+\dt 20/Mar/2017
+
 \lx Jeda
 \ps n.prop
 \ge TOP
@@ -2542,6 +2571,13 @@ Léraba, région des Cascades, Burkina Faso)
 \gv Karakoro
 \cm (правый приток р. Сенегал)
 \dt 23/May/2010
+
+\lx Karangaso
+\ps n.prop
+\ge TOP
+\gv Karangasso
+\ee (village, province de Sikasso)
+\dt 20/Mar/2017
 
 \lx Kàrata
 \ty ист.
@@ -2978,6 +3014,13 @@ région de Koulikoro)
 \xe
 \dt 05/Feb/2017
 
+\lx Kɔlɔnbi
+\ps n.prop
+\ge TOP
+\gv Colombie
+\ee
+\dt 20/Mar/2017
+
 \lx Kɔlɔnjɛba
 \ps n.prop
 \ge TOP
@@ -3115,6 +3158,13 @@ Ténenkou, région de Mopti)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Kumantun
+\ps n.prop
+\ge TOP
+\gv Koumantou
+\ee (commune et ville, cercle de Bougouni, région de Sikasso)
+\dt 20/Mar/2017
 
 \lx Kùnbi
 \va Kɔ̀nmi
@@ -3678,6 +3728,13 @@ royaumes successeurs de l'Ancien Ghana)
 \ru Монголия
 \dt 23/May/2010
 
+\lx Mɔninpebugu
+\ps n.prop
+\ge TOP
+\gv Monimpébougou
+\ee (commune, cercle de Macina)
+\dt 20/Mar/2017
+
 \lx Mɔrɔbiya
 \va Mɔnrɔviya
 \ty г.
@@ -3821,6 +3878,13 @@ région de Ségou)
 \gv Nigeria
 \ru Нигерия
 \dt 05/Feb/2016
+
+\lx Nkamandugu
+\ps n.prop
+\ge TOP
+\gv N'Koumandougou
+\ee (commune, cercle de Ségou)
+\dt 20/Mar/2017
 
 \lx Nɔgɔlaso
 \ps n.prop
@@ -4804,15 +4868,14 @@ droite du Niger, 23 km à l'ouest de Ségou)
 \dt 26/Feb/2017
 
 \lx Sotuba
-\ty порог
-\ru Сотуба
+\va Sotiba
 \ps n.prop
 \ge TOP
 \gv Sotouba
+\ee (un rapide, entre Bamako et Koulikoro; un quartier à Bamako)
+\ru Сотуба
 \cm (на Нигере, между Бамако и Куликоро)
-\ge TOP
-\gv
-\dt 23/May/2010
+\dt 20/Mar/2017
 
 \lx Sowiyati
 \ty гос.
@@ -5043,6 +5106,13 @@ village d'Essouk, région de Kidal)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Tinesako
+\ps n.prop
+\ge TOP
+\gv Tenessako
+\ee (une localité dans la province de Kidal)
+\dt 20/Mar/2017
 
 \lx Tinisako
 \ps n.prop

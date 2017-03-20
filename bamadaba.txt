@@ -703,6 +703,14 @@ les deux flancs'
 \xe c'est le nôtre, c'est la nôtre, c'est à nous
 \dt 26/Sep/2006
 
+\lx anbilansi
+\va anbilanzi
+\ps n
+\ge ambulance
+\gv
+\ee
+\dt 20/Mar/2017
+
 \lx ángɛrɛ
 \ps n
 \ge engrais
@@ -4571,8 +4579,7 @@ Fleurs spectaculaires
 \ps n
 \ge théière
 \gv cafetière
-\lt ( ?.récipient)
-\dt 26/Sep/2006
+\dt 16/Mar/2017
 
 \lx bàraden
 \mm bàra:n:calebasse
@@ -5950,9 +5957,11 @@ feu
 \mm yɛ̀lɛma:v:changer
 \mm ni:mrph:NMLZ
 \ps n
-\lt changer-action
-\ge traduction
-\dt 11/Nov/2007
+\ms 1
+\ge transformation
+\ms 2
+\gv traduction
+\dt 20/Mar/2017
 
 \lx bèete
 \va bèé
@@ -15056,10 +15065,11 @@ sur soi)
 \dt 16/Aug/2006
 
 \lx cɛ̀kɛ
+\va cɛ̀gɛ
 \ps n
 \ge attiéké
 \sm plat ivoirien (à base de manioc)
-\dt 03/Apr/2016
+\dt 20/Mar/2017
 
 \lx cɛ̀kɛcɛkɛ
 \ps v
@@ -16323,6 +16333,13 @@ sur soi)
 \xv à y'á ká fòro cíkɛ
 \xe il a cultivé son champ
 \dt 16/Aug/2006
+
+\lx cíkɛ
+\mm cí:n:commission 
+\mm kɛ́:v:faire
+\ps n
+\ge culture
+\dt 20/Mar/2017
 
 \lx cíkɛbali
 \mm cí:n:commission
@@ -19238,7 +19255,9 @@ saillie)
 \lx dákɛnyɛ
 \mm dá:n:bouche
 \mm kɛ́nyɛ:v:égaliser
-\mr kɛn* > kan : égal + yɛ* (= ya . suf)
+\va dákɛɲɛ
+\mm dá:n:bouche
+\mm kɛ́nyɛ:v:égaliser
 \ps v
 \vl vt
 \ge niveler
@@ -19246,7 +19265,7 @@ saillie)
 \lt (bord.égal.suf caus)
 \xv màa dákɛnyɛlen
 \xe un homme accompli  (un saint homme)
-\dt 26/Sep/2006
+\dt 20/Mar/2017
 
 \lx dáko
 \mm dá:v:créer
@@ -24494,6 +24513,11 @@ assumant que l'interclocuteur pense autrement)
 \ps n
 \ge digue
 \dt 20/Feb/2013
+
+\lx dígi
+\ps n
+\ge pression
+\dt 20/Mar/2017
 
 \lx dìgon
 \ps n
@@ -30820,6 +30844,13 @@ quant à sa mère, elle prend de l'âge
 \xe gros phacochère mâle
 \dt 26/Sep/2006
 
+\lx fáli
+\mm fá:v:remplir
+\mm li:mrph:NMLZ
+\ps n
+\ge action.de.remplir
+\dt 19/Mar/2017
+
 \lx fàliba
 \mm fàli:n:âne
 \mm ba:mrph:AUGM
@@ -30974,9 +31005,10 @@ quant à sa mère, elle prend de l'âge
 
 \lx fálo
 \ps n
-\ge pioche
-\ee variété de houe au fer plutôt étroit et court
-\dt 16/Aug/2006
+\ge pioche.à.lame.large
+\ee (variété de houe au fer plutôt court et plus étroit que dàba,
+mais plus large que sóli; pour sarcler en profondeur)
+\dt 15/Mar/2017
 
 \lx fálo
 \va fálon
@@ -40240,9 +40272,9 @@ forestières, fruit : long follicule de 50 cm)
 \lx gàngan
 \va gòngo
 \ps n
-\gv tambour.d'annonce
+\ge tambour.d'annonce
 \ee (à deux faces, frappé avec des baguettes)
-\dt 15/Mar/2017
+\dt 17/Mar/2017
 
 \lx gàngara
 \va gwàngwàra
@@ -40432,6 +40464,19 @@ forestières, fruit : long follicule de 50 cm)
 \ge intervalle.entre.les.pierres.du.foyer
 \lt (foyer.devant)
 \dt 16/Aug/2006
+
+\lx gàrabasu
+\va gàrabasa
+\va gàrabaso
+\ps v
+\sn 1
+\vl vi
+\ge agir.brusquement
+\sn 2
+\vl vt
+\gv frapper brusquement
+\ee
+\dt 20/Mar/2017
 
 \lx garadi
 \ps n
@@ -46598,6 +46643,82 @@ qqch ...)
 \ge appareil.photographique
 \dt 24/Jun/2013
 
+\lx jàte
+\va jàti
+\ps n
+\sn 1
+\ge compte
+\gv nombre
+\xv jàti mìnɛ
+\xe faire les comptes, calculer
+\sn 2
+\gv estimation
+\gv avis
+\xv ù tá jàti lá...
+\xe à leur avis ...
+\dt 20/Mar/2017
+
+\lx jàte
+\va jàti
+\ps v
+\vl vt
+\sn 1
+\ge compter
+\sn 2
+\gv tenir.compte
+\gv considérer
+\xv à t'á jàti
+\xe il n'en tient pas compte, il s'en moque
+\dt 20/Mar/2017
+
+\lx jàtebali
+\mm jàte:v:compters
+\mm bali:mrph:PTCP.PRIV
+\va jàtibali
+\mm jàti:v:compters
+\mm bali:mrph:PTCP.PRIV
+\ps ptcp
+\ge négligé
+\sm dont.on.ne.tient.pas.compte
+\lt (compter.ne pas)
+\dt 20/Mar/2017
+
+\lx jàtebaliya
+\mm jàte:v:compters
+\mm bali:mrph:PTCP.PRIV
+\mm ya:mrph:ABSTR
+\va jàtibaliya
+\mm jàti:v:compters
+\mm bali:mrph:PTCP.PRIV
+\mm ya:mrph:ABSTR
+\ps n
+\ge abstraction
+\lt (non compté.suf abs)
+\dt 20/Mar/2017
+
+\lx jàtebɔ
+\mm jàte:n:compte
+\mm bɔ́:v:sortir
+\va jàtibɔ
+\mm jàti:n:compte
+\mm bɔ́:v:sortir
+\ps n
+\ge décompte
+\gv
+\ee
+\dt 20/Mar/2017
+
+\lx jàtekalan
+\mm jàte:n:compte
+\mm kàlan:n:lecture
+\va jàti.kalan
+\mm jàti:n:compte
+\mm kàlan:n:lecture
+\ps n
+\ge arithmétique
+\lt (calcul.étude)
+\dt 20/Mar/2017
+
 \lx jàteminɛ
 \mm jàte:n:compte
 \mm mìnɛ:v:attraper
@@ -46619,59 +46740,6 @@ qqch ...)
 \vl vt
 \ge calculer
 \dt 28/May/2016
-
-\lx jàti
-\va jàte
-\ps n
-\sn 1
-\ge compte
-\gv nombre
-\xv jàti mìnɛ
-\xe faire les comptes, calculer
-\sn 2
-\gv estimation
-\gv avis
-\xv ù tá jàti lá...
-\xe à leur avis ...
-\dt 26/Sep/2006
-
-\lx jàti
-\va jàte
-\ps v
-\vl vt
-\sn 1
-\ge compter
-\sn 2
-\gv tenir.compte
-\gv considérer
-\xv à t'á jàti
-\xe il n'en tient pas compte, il s'en moque
-\dt 26/Sep/2006
-
-\lx jàtibali
-\mm jàti:v:compters
-\mm bali:mrph:PTCP.PRIV
-\va jàtebali
-\mm jàte:v:compters
-\mm bali:mrph:PTCP.PRIV
-\ps ptcp
-\ge négligé
-\sm dont.on.ne.tient.pas.compte
-\lt (compter.ne pas)
-\dt 23/Feb/2014
-
-\lx jàtibaliya
-\mm jàti:v:compters
-\mm bali:mrph:PTCP.PRIV
-\mm ya:mrph:ABSTR
-\va jàtebaliya
-\mm jàte:v:compters
-\mm bali:mrph:PTCP.PRIV
-\mm ya:mrph:ABSTR
-\ps n
-\ge abstraction
-\lt (non compté.suf abs)
-\dt 23/Feb/2014
 
 \lx jàtiden
 \mm jàti:n:compte
@@ -46769,17 +46837,6 @@ qqch ...)
 \lt (logeur.suf abs)
 \xv bɛ́ɛ bɛ́ táa  í jàtigiya lá
 \xe chacun va chez son logeur
-\dt 16/Aug/2006
-
-\lx jàtikalan
-\mm jàti:n:compte
-\mm kàlan:n:lecture
-\va jàte.kalan
-\mm jàte:n:compte
-\mm kàlan:n:lecture
-\ps n
-\ge arithmétique
-\lt (calcul.étude)
 \dt 16/Aug/2006
 
 \lx játɔ
@@ -54371,8 +54428,7 @@ prolapsus utérin
 \mm díli:n:racine
 \ps n
 \ge tendons.du.cou
-\lt (cou.racine)
-\dt 16/Aug/2006
+\dt 20/Mar/2017
 
 \lx kándimi
 \mm kán:n:cou
@@ -57399,6 +57455,15 @@ prolapsus utérin
 \sy bínɲimi
 \dt 19/Aug/2006
 
+\lx kɛ́fɛn
+\mm kɛ́:v:faire
+\mm fɛ́n:n:chose
+\ps n
+\ge additif
+\gv
+\ee
+\dt 20/Mar/2017
+
 \lx kɛ́ko
 \mm kɛ́:n:action
 \mm kó:n:affaire
@@ -58520,6 +58585,15 @@ prolapsus utérin
 \gv danser.en.se.balançant
 \dt 16/Aug/2006
 
+\lx kɛ̀rɛnáani
+\mm kɛ́rɛ:n:côté
+\mm náani:num:quatre
+\ps n
+\ge carré
+\gv
+\ee
+\dt 20/Mar/2017
+
 \lx kɛ̀rɛnkɛrɛn
 \ps n
 \ge abords
@@ -58769,6 +58843,13 @@ prolapsus utérin
 \gv de.façon.ondoyante
 \ee (reptile)
 \dt 19/Jan/2015
+
+\lx kile
+\ps n
+\ge clé
+\gv
+\ee
+\dt 20/Mar/2017
 
 \lx kíli
 \ps n
@@ -63646,7 +63727,7 @@ champs)
 \sn 2
 \gv isoler
 \gv écarter
-\dt 26/Mar/2014
+\dt 19/Mar/2017
 
 \lx kɔ́nbilen
 \ps n
@@ -67701,6 +67782,7 @@ il en contient dix
 \dt 12/Aug/2006
 
 \lx kúmandan
+\va kómandan
 \ps n
 \ge commandant
 \gv gouverneur
@@ -67708,7 +67790,7 @@ il en contient dix
 le pouvoir administratif suprême)
 \xv
 \xe
-\dt 01/Mar/2017
+\dt 20/Mar/2017
 
 \lx kúmaɲɔgɔn
 \mm kúma:n:parole
@@ -68573,12 +68655,15 @@ le pouvoir administratif suprême)
 \mm kùn:n:tête
 \mm dá:v:poser
 \ps pp
+\sn 1
 \ge parmi
 \gv au niveau de
+\sn 2
+\gv selon
 \ee
 \xv
 \xe
-\dt 03/Feb/2017
+\dt 20/Mar/2017
 
 \lx kùndama
 \mm kùn:n:tête
@@ -70182,11 +70267,10 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \mm ná:pp:dans
 \mm míni:v:enrouler
 \ps n
-\lt tête-sur-entourer
 \ge turban
 \xv à yé  sánujala dɔ́ dòn  à kùn ná  kùnnamini sán fɛ̀
 \xe un diadème d'or par-dessus le turban (Si 45, 12)
-\dt 11/Nov/2007
+\dt 16/Mar/2017
 
 \lx kùnnandi
 \mm kùnna:n:contenu.de.tête
@@ -71076,6 +71160,13 @@ Sahel)
 \ge nain
 \gv nabot
 \dt 26/Sep/2006
+
+\lx kúpu
+\ps n
+\ge coupe
+\gv
+\ee (trophée sportif)
+\dt 20/Mar/2017
 
 \lx kúpudafiriki
 \ps n
@@ -75440,6 +75531,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \vl vt
 \ge nettoyer
 \dt 28/Feb/2017
+
+\lx làsasi
+\ps n
+\ge fusil
+\gv fusil de chasse
+\ee
+\dt 20/Mar/2017
 
 \lx láse
 \mm lá:mrph:CAUS
@@ -81430,11 +81528,12 @@ des engagements
 \lx mɛ́tɛrɛkɛnɛ
 \mm mɛ́tɛrɛ:n:mètre
 \mm kɛ́nɛ:n:clarté
-\bw fr :mètre
+\va mk
+\va m2
 \ps n
 \ge mètre.carré
 \lt (mètre.surface)
-\dt 16/Aug/2006
+\dt 20/Mar/2017
 
 \lx mɛ́tɛrɛkibu
 \mm mɛ́tɛrɛ:n:mètre
@@ -100826,9 +100925,9 @@ le pèlerinage (bk 1/06 p.5)
 \sn 1
 \ge sauce.de.feuilles
 \sn 2
-\gv couleur.vert
+\gv couleur vert
 \sy bínkɛnɛ
-\dt 16/Aug/2006
+\dt 20/Mar/2017
 
 \lx ɲùgujilama
 \mm ɲùgu.ji:n:sauce.de.feuilles
@@ -101446,8 +101545,8 @@ le pèlerinage (bk 1/06 p.5)
 
 \lx ŋɔ̀mi
 \ps n
-\ge galette
-\dt 16/Aug/2006
+\ge beignet
+\dt 16/Mar/2017
 
 \lx ŋɔ̀mɔ
 \ve (-bn)
@@ -102747,6 +102846,13 @@ envergure)
 \xv í pín nìn bùtɔn kàn
 \xe appuie sur ce bouton
 \dt 08/Nov/2012
+
+\lx pinɛ
+\ps n
+\ge pneu
+\gv
+\ee
+\dt 20/Mar/2017
 
 \lx píntin
 \ps n
@@ -109608,6 +109714,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \ge non-cultivateur
 \dt 05/Apr/2016
 
+\lx sɛ̀nɛkɛfɛn
+\mm sɛ̀nɛ:n:culture
+\mm kɛ́:v:faire
+\mm fɛ́n:n:chose
+\ps n
+\ge additif.agricole
+\ee (engrais, pesticides, etc.)
+\dt 20/Mar/2017
+
 \lx sɛ̀nɛkɛko
 \mm sɛ̀nɛ:n:culture
 \mm kɛ́:v:faire
@@ -113073,9 +113188,9 @@ donne d'excellentes fibres)
 \va sóyi
 \ve (f)
 \ps n
-\ge pioche
-\sm à manche court (pour creuser les puits ...)
-\dt 16/Aug/2006
+\ge pioche.à.lame.étroit
+\ee (pour creuser les puits, planter les grains)
+\dt 15/Mar/2017
 
 \lx sòlibaa
 \mm sòli:v:être.matinal
@@ -113822,7 +113937,13 @@ donne d'excellentes fibres)
 \sn 2
 \gv déboucher
 \sm (pipe ...)
-\dt 05/Apr/2016
+\sn 3
+\gv creuser
+\gv fouiller en profondeur
+\sn 4
+\gv compliquer
+\ee (une affaire qui est supposée déjà reglée)
+\dt 20/Mar/2017
 
 \lx sɔ̀gɔlan
 \mm sɔ̀gɔ:v:percer
@@ -116220,15 +116341,14 @@ fiançailles
 \va súuru
 \ps v
 \vl vt
-\ge tchiper
-\gv siffler.avec.mépris
-\ee exprimer son dégoût pour qqn (en sifflant entre les dents)
+\ge siffler.avec.mépris
+\ee (exprimer son dégoût pour qqn en sifflant entre les dents)
 \xv ń'í yé né súrundu  nìn kɔ́...
 \xe si tu me fais encore ça ...! (sifflement)
 \xv á má ɲɔ́gɔn súuru
 \xe vous ne vous êtes pas disputés
 \xe
-\dt 05/Apr/2016
+\dt 17/Mar/2017
 
 \lx súrundu
 \va súuru
@@ -116856,6 +116976,30 @@ fiançailles
 \xv í sèn tɛ́  syɛ̀kilifara cì
 \xe tu n'es bon à rien (tu n'es même pas capable de briser une coquille d'oeuf avec ton pied)
 \dt 19/Oct/2014
+
+\lx syɛ̀kilisabasiri
+\mm syɛ̀kili:n:oeuf.de.poule
+\mm syɛ̀:n:poule
+\mm kíli:n:oeuf
+\mm sàba:num:trois
+\mm sìri:v:attacher
+\va sɛ̀kilisabasiri
+\mm sɛ̀kili:n:oeuf.de.poule
+\mm sɛ̀:n:poule
+\mm kíli:n:oeuf
+\mm sàba:num:trois
+\mm sìri:v:attacher
+\va shɛ̀kilisabasiri
+\mm shɛ̀kili:n:oeuf.de.poule
+\mm shɛ̀:n:poule
+\mm kíli:n:oeuf
+\mm sàba:num:trois
+\mm sìri:v:attacher
+\ps n
+\ge casse-tête
+\gv
+\ee
+\dt 20/Mar/2017
 
 \lx syɛ̀kɔ̀gɔ
 \mm syɛ́:n:poule
@@ -118922,6 +119066,18 @@ fiançailles
 \ps n
 \ge feu
 \lt (feu. ?)
+
+\lx tásumafagala
+\mm tásuma:n:feu
+\mm tá:n:feu
+\mm súma:n:odeur
+\mm fàga:v:tuer
+\mm la:mprh:AG.PRM
+\ps n
+\ge pompier
+\gv
+\ee
+\dt 20/Mar/2017
 
 \lx tátiɲɛ
 \mm tá:n:propriété
@@ -123772,6 +123928,14 @@ est due aux paysans (kib 3/05 p.9)
 \lt (européen.'nèrè')
 \ee arbre d'ornement introduit pour la beauté de ses fleurs)
 \dt 19/Aug/2006
+
+\lx tùbabunɔgɔ
+\mm tùbabu:n:Européen
+\mm nɔ́gɔ:n:saleté
+\ps n
+\ge engrais
+\ee (moderne)
+\dt 19/Mar/2017
 
 \lx tùbabunpegu
 \mm tùbabu:n:Européen
@@ -128767,11 +128931,10 @@ Mali)
 \mm lan:mrph:INSTR
 \mm dàga:n:canari
 \ps n
-\lt encens-vase
-\ge cassolette
+\ge encensoir.en.terre.cuite
 \sm (vase brûle-parfum)
 \rem lév 16, 12
-\dt 11/Nov/2007
+\dt 16/Mar/2017
 
 \lx wúsuru
 \ps n
@@ -130837,6 +131000,15 @@ comportement (LD p.5)
 \ge puissance
 \gv toute-puissance
 \dt 05/Apr/2016
+
+\lx yíriwali
+\mm yíriwa:v:accroître
+\mm li:mrph:NMLZ
+\ps n
+\ge développement
+\gv croissance
+\ee
+\dt 20/Mar/2017
 
 \lx yìriyiri
 \va yìrikiyiriki
