@@ -703,8 +703,8 @@ les deux flancs'
 \xe c'est le nôtre, c'est la nôtre, c'est à nous
 \dt 26/Sep/2006
 
-\lx anbilansi
-\va anbilanzi
+\lx ánbilansi
+\va ánbilanzi
 \ps n
 \ge ambulance
 \gv
@@ -20816,10 +20816,12 @@ rétribution mais à titre de réciprocité)
 \vl vt
 \ge dépasser
 \ee (laisser derrière)
+\xv kà táa kà mɔ̀gɔ bólo dàn
+\xe dépasser la compétence de qqn, sortir du contrôle de qqn.
 \sn 3
 \vl vt
 \ge échapper
-\dt 20/Dec/2015
+\dt 20/Mar/2017
 
 \lx dàn
 \ps v
@@ -24829,7 +24831,9 @@ chefs religieux et représentants de l'administration
 \xe jamais de la vie !
 \xv díyɛn látigɛ
 \xe traverser le monde, vivre
-\dt 21/Apr/2014
+\xv díɲɛ lában
+\xe ces derniers temps, ces temps-ci
+\dt 20/Mar/2017
 
 \lx díɲɛden
 \mm díɲɛ:n:monde
@@ -24986,6 +24990,18 @@ chefs religieux et représentants de l'administration
 \gv foulard islamique
 \gv hijab
 \dt 08/Mar/2017
+
+\lx dìsakunkurunnin
+\mm dìsa:n:turban
+\mm kùnkurun:n:morceau
+\mm kùn:n:tête
+\mm kùrun:adj:court
+\mm nin:mrph:DIM
+\ps n
+\ge insecte.piquant
+\gv
+\ee
+\dt 21/Mar/2017
 
 \lx dìsi
 \ps n
@@ -29738,6 +29754,13 @@ quant à sa mère, elle prend de l'âge
 \xv
 \xe
 \dt 06/Feb/2017
+
+\lx erewolisɔn
+\ps n
+\ge révolution
+\gv
+\ee
+\dt 21/Mar/2017
 
 \lx erezɔn
 \ps n
@@ -58844,7 +58867,7 @@ prolapsus utérin
 \ee (reptile)
 \dt 19/Jan/2015
 
-\lx kile
+\lx kíle
 \ps n
 \ge clé
 \gv
@@ -69640,7 +69663,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnkurun
 \mm kùn:n:tête
-\mm kùrun:vq/adj:court
+\mm kùrun:adj:court
 \ps n
 \ge morceau
 \gv bout
@@ -69649,7 +69672,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \xe j'ai un petit mot à te dire
 \xv ń yé  tìle bɛ́ɛ kɛ́  sùnɔgɔ lá  ká sú kùnkurun kɛ́
 \xe j'ai passé toute la journée et un bout de la nuit à dormir
-\dt 26/Sep/2006
+\dt 21/Mar/2017
 
 \lx kùnma
 \mm kùn:n:tête
@@ -102847,7 +102870,7 @@ envergure)
 \xe appuie sur ce bouton
 \dt 08/Nov/2012
 
-\lx pinɛ
+\lx pínɛ
 \ps n
 \ge pneu
 \gv
@@ -119072,12 +119095,12 @@ fiançailles
 \mm tá:n:feu
 \mm súma:n:odeur
 \mm fàga:v:tuer
-\mm la:mprh:AG.PRM
+\mm la:mrph:AG.PRM
 \ps n
 \ge pompier
 \gv
 \ee
-\dt 20/Mar/2017
+\dt 21/Mar/2017
 
 \lx tátiɲɛ
 \mm tá:n:propriété
