@@ -6194,6 +6194,15 @@ soutien durable de protection des terres
 \sy bére
 \dt 12/Aug/2006
 
+\lx bèrekete
+\va pèrekete
+\va npèrekete
+\ps adv.p
+\ge exorbitamment
+\xv bèrekete yɛ̀lɛma
+\xe se révulser, se retourner, s'exorbiter
+\dt 25/Mar/2017
+
 \lx bèrekuna
 \mm bère:n:plante.Boscia.sp.
 \mm kúna:vq:amer
@@ -6872,6 +6881,19 @@ au Mali)
 \xv ù yé  syɛ̀ dòn  bɛ̀nbɛnbɛn ná
 \xe ils ont coincé la poule
 \dt 26/Sep/2006
+
+\lx bɛ̀ndɛgɛ
+\mm bɛ̀nɛ:n:sésame
+\mm dɛ̀gɛ:n:brouet
+\va bɛ̀nɛdɛgɛ
+\mm bɛ̀nɛ:n:sésame
+\mm dɛ̀gɛ:n:brouet
+\va bɛ̀lɛnɛgɛ
+\ps n
+\ge boulettes.sucrées
+\ee (friandise mets de farine de mil et d'arachides pilées avec des
+condiments)
+\dt 25/Mar/2017
 
 \lx bɛ̀nɛ
 \ps n
@@ -29669,7 +29691,9 @@ quant à sa mère, elle prend de l'âge
 \xv dɛ̀gɛkun kélen yé  báji dùuru
 \xe une seule boulette de "dɛgɛ" a troublé la rivière (rép: le savon, "sàfunɛ") (devinette)
 \sy bùruburu
-\dt 26/Sep/2006
+\sn 3
+\gv être en effervescence
+\dt 25/Mar/2017
 
 \lx dúuru
 \ps num
@@ -31610,7 +31634,14 @@ mais plus large que sóli; pour sarcler en profondeur)
 \gv cesser
 \xv fára sá !
 \xe arrête donc !
-\dt 26/Sep/2006
+\sn 4
+\vl vt
+\gv briser
+\gv fracasser
+\sn 5
+\vl vt
+\gv fendre
+\dt 25/Mar/2017
 
 \lx fàrabilen
 \mm fàra:n:écorce.d'arbre
@@ -56031,10 +56062,21 @@ prolapsus utérin
 \ge marchandise
 \dt 16/Aug/2006
 
+\lx kare
+\ps n
+\ge car
+\gv bus
+\dt 25/Mar/2017
+
 \lx kàre
 \ps adj
 \ge carré
 \dt 13/Jul/2013
+
+\lx kàre
+\ps n
+\ge carré
+\dt 25/Mar/2017
 
 \lx kàri
 \va kàari
@@ -65673,6 +65715,16 @@ ou une proposition)
 \sy kɔ̀kisa
 \dt 26/Sep/2006
 
+\lx kɔ̀ɔkɛ
+\mm kè:adj:mâle
+\ps n
+\sn 1
+\ge frêre.aîné
+\gv grand frêre
+\sn 2
+\gv mari
+\dt 25/Mar/2017
+
 \lx kɔ̀ɔlɔ
 \ps n
 \ge étamine
@@ -65700,6 +65752,13 @@ ou une proposition)
 \ge poisson.Brycinus.macrolepidotus
 \ee ---> 53 cm, ---> 2,9 kg  (nage lente, en surface, près des rives, démarrages foudroyants; écailles assez grosses)
 \dt 16/Aug/2006
+
+\lx kɔ̀ɔmuso
+\mm mùso:adj:femme
+\ps n
+\ge soeur.aînée
+\ee (forme d'adresse pour une ainée)
+\dt 25/Mar/2017
 
 \lx kɔ́ɔri
 \va kwɔ́ɔri
@@ -85074,13 +85133,14 @@ pour les jardins)
 \dt 26/Sep/2006
 
 \lx mùsɔrɔ
+\va mìnsɔrɔ
 \bw fr : mouchoir
 \ps n
 \ge foulard
 \sm de tête
 \xv mùsɔrɔ bɛ́ sìri  mùso kùn ná
 \xe les femmes attachent le foulard sur leur tête
-\dt 26/Sep/2006
+\dt 25/Mar/2017
 
 \lx músumusu
 \ps n
@@ -86524,7 +86584,8 @@ sorcières et leur élimination)
 \lx násɔn
 \ps n
 \ge espèce
-\dt 26/Sep/2006
+\gv variété
+\dt 25/Mar/2017
 
 \lx násɔngɔ
 \mm ná:n:sauce
@@ -86544,6 +86605,13 @@ sorcières et leur élimination)
 \gv sorte
 \lt (sorte.suf abs)
 \dt 26/Sep/2006
+
+\lx násugu
+\mm súgu:n:espèce
+\ps n
+\ge sorte
+\gv espèce
+\dt 25/Mar/2017
 
 \lx násuguya
 \mm súgu:n:espèce

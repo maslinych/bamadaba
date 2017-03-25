@@ -2320,6 +2320,13 @@ Ségou)
 \cm (историческая область в южной Гвинее)
 \dt 23/May/2010
 
+\lx Joro
+\ps n.prop
+\ge TOP
+\gv Dioro
+\ee (village et commune, cercle et région de Ségou)
+\dt 25/Mar/2017
+
 \lx Jɔ̀maaji
 \ps n.prop
 \ge TOP
@@ -3082,6 +3089,13 @@ région de Koulikoro)
 \xe
 \dt 04/Jun/2016
 
+\lx Kɔnɔbugu
+\ps n.prop
+\ge TOP
+\gv Konobougou
+\ee (village et commune, cercle de Barouéli, région de Ségou)
+\dt 25/Mar/2017
+
 \lx Kɔ́nɔdiminin
 \ps n.prop
 \ge TOP
@@ -3123,6 +3137,13 @@ région de Ségou)
 \ee (un quartier de la Commune 1 de Bamako)
 \cm (в Бамако)
 \dt 01/Jun/2016
+
+\lx Kɔsabugu
+\ps n.prop
+\ge TOP
+\gv Kossabougou
+\ee (village, région de Ségou)
+\dt 25/Mar/2017
 
 \lx Kɔtuba
 \ps n.prop
@@ -5190,6 +5211,13 @@ village d'Essouk, région de Kidal)
 \ge TOP
 \gv Tripoli
 \dt 05/Feb/2016
+
+\lx Tisala
+\ps n.prop
+\ge TOP
+\gv Tissala
+\ee (village, cercle de Barouéli, région de Ségou)
+\dt 25/Mar/2017
 
 \lx Togo
 \ty гос.
