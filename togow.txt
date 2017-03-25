@@ -169,11 +169,12 @@
 \ge NOM.M
 
 \lx Áminàta
-\di m
-\dm Minata
+\va Minata
+\va Minɛta
 \ps n.prop
 \ge NOM.F
-\dt 03/May/2010
+\gv Aminata
+\dt 24/Mar/2017
 
 \lx Ansumani
 \va Ansmane

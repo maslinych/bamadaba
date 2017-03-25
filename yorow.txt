@@ -436,9 +436,12 @@ Salam, Cercle de Tombouctou)
 \dt 01/Jun/2016
 
 \lx Baginda
+\va Bagineda
 \ps n.prop
 \ge TOP
-\dt 10/Jan/2013
+\gv Baginda
+\ee (village à l'est de Bamako, à la rive droite du Niger)
+\dt 24/Mar/2017
 
 \lx Baharɛni
 \ps n.prop
@@ -1292,6 +1295,15 @@ Koulikoro)
 \xv
 \xe
 \dt 01/Feb/2017
+
+\lx Dùgukuna
+\va Dùgukunan
+\ps n.prop
+\gf TOP
+\ge Dougoukouna
+\ee (village, environ 10 km à l'ouest de Ségou, province de
+Ségou)
+\dt 24/Mar/2017
 
 \lx Dumanzana
 \ps n.prop
@@ -2448,6 +2460,13 @@ région de Mopti)
 \xe
 \dt 04/Jun/2016
 
+\lx Kalabugu
+\ps n.prop
+\ge TOP
+\gv Kalabougou
+\ee (village à 10 km de Ségou connu pas sa potterie)
+\dt 24/Mar/2017
+
 \lx Kalana
 \ps n.prop
 \ge TOP
@@ -3062,6 +3081,14 @@ région de Koulikoro)
 \xv
 \xe
 \dt 04/Jun/2016
+
+\lx Kɔ́nɔdiminin
+\ps n.prop
+\ge TOP
+\gv Konodimini
+\ee (village et commune rurale à l'ouest de Ségou, cercle et
+région de Ségou)
+\dt 24/Mar/2017
 
 \lx Kɔ́nɔwàri
 \va Kodiwari
@@ -3947,6 +3974,13 @@ de Koulikoro)
 \xe
 \dt 01/Feb/2017
 
+\lx Nsensana
+\ps n.prop
+\ge TOP
+\gv Cinzana
+\ee (village et commune rurale, cercle et région de Ségou)
+\dt 24/Mar/2017
+
 \lx Ntarala
 \ps n.prop
 \ge TOP
@@ -4417,6 +4451,14 @@ d'or)
 \ge TOP
 \gv San, ville au Mali
 \dt 27/Jan/2017
+
+\lx Sanando
+\ps n.prop
+\ge TOP
+\gv Sanando
+\ee (village et commune rurale, cercle de Barouéli, région de
+Ségou)
+\dt 24/Mar/2017
 
 \lx Sanankɔrɔba
 \ps n.prop

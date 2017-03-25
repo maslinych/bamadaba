@@ -29700,6 +29700,13 @@ quant à sa mère, elle prend de l'âge
 \lt (25 francs.petit)
 \dt 16/Aug/2006
 
+\lx duwaɲɛ
+\va duwayɛn
+\ps n
+\ge douanier
+\gr
+\dt 24/Mar/2017
+
 \lx ê
 \ps pers
 \ge 2SG.EMPH
@@ -39463,7 +39470,9 @@ forestières, fruit : long follicule de 50 cm)
 \ve (bn)
 \ps n
 \ge fil
-\dt 16/Aug/2006
+\gv fil à coudre
+\gv fil à tisser
+\dt 24/Mar/2017
 
 \lx gàban
 \ve (-f)
@@ -51915,13 +51924,6 @@ l'eau est prête
 \lx káari
 \ps intj
 \ge pas.du.tout
-\dt 16/Aug/2006
-
-\lx káari
-\ve (bn)
-\va gáari
-\ps n
-\ge fil.à.coudre
 \dt 16/Aug/2006
 
 \lx káari
@@ -72160,6 +72162,7 @@ kúrunninle
 \dt 16/Aug/2006
 
 \lx làansàra
+\va làgansàra
 \bw ar: al -`asr = id.
 \ps n
 \sn 1
@@ -72167,7 +72170,7 @@ kúrunninle
 \smf (entre 15 et 16 heures)
 \sn 2
 \gv troisième prière musulmane
-\dt 23/Jan/2017
+\dt 24/Mar/2017
 
 \lx lábaara
 \mm lá:mrph:CAUS
@@ -81144,6 +81147,12 @@ des engagements
 \xv í tílen  síra mà, kàna táa méleke  síra wɛ́rɛ fɛ̀
 \xe prends directement cette route, ne fais pas de détour par un autre chemin
 \dt 06/Feb/2017
+
+\lx melesi
+\ps prn
+\ge quoi.exactement?
+\ee (une forme focalisé, plutôt dialectale)
+\dt 24/Mar/2017
 
 \lx mère
 \ps n
@@ -102693,12 +102702,12 @@ envergure)
 
 \lx pɛ̀ɲi
 \ps v
-\ge pegner
+\ge peigner
 \gv
 \ee
 \xv
 \xe
-\dt 26/Nov/2016
+\dt 24/Mar/2017
 
 \lx pɛ́rɛ
 \ps v
