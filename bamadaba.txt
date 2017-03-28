@@ -20839,11 +20839,12 @@ rétribution mais à titre de réciprocité)
 \ge dépasser
 \ee (laisser derrière)
 \xv kà táa kà mɔ̀gɔ bólo dàn
-\xe dépasser la compétence de qqn, sortir du contrôle de qqn.
+\xe dépasser la compétence de qqn, sortir du contrôle de qqn.,
+devenir incontrôlable
 \sn 3
 \vl vt
 \ge échapper
-\dt 20/Mar/2017
+\dt 26/Mar/2017
 
 \lx dàn
 \ps v
@@ -29693,7 +29694,9 @@ quant à sa mère, elle prend de l'âge
 \sy bùruburu
 \sn 3
 \gv être en effervescence
-\dt 25/Mar/2017
+\sn 4
+\gv suffoquer
+\dt 26/Mar/2017
 
 \lx dúuru
 \ps num
@@ -33607,11 +33610,11 @@ bien (dicton)
 \ps v
 \vl vt
 \sn 1
-\ge travailler.qan/qqch
+\ge travailler.qqn/qqch
 \sn 2
 \gv trafiquer
 \sm ('choser' expression vague)
-\dt 04/Apr/2016
+\dt 28/Mar/2017
 
 \lx fɛ́nkɛbali
 \mm fɛ́n:n:chose
@@ -47664,16 +47667,6 @@ qqch ...)
 \ge drapeau
 \rem l 89, bn, bk  + armoirie, symbole
 \dt 11/Nov/2007
-
-\lx jɛ́nni
-\ve (f)
-\ps prn
-\ge qui?
-\sy jɛ́n
-\sy jɔ́n
-\sy jɔ́nni
-\lt (qui.suf)
-\dt 12/Aug/2006
 
 \lx jɛ́nsɛn
 \va jɛ́njɛn
