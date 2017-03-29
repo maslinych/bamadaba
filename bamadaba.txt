@@ -11333,7 +11333,9 @@ milieu des pierres
 \lx bònya
 \mm bòn:vq:grand
 \mm ya:mrph:DEQU
-\lt (gros.suf abs)
+\va bònyɛ
+\mm bòn:vq:grand
+\mm ya:mrph:DEQU
 \ps n
 \sn 1
 \ge grosseur
@@ -11358,7 +11360,7 @@ milieu des pierres
 \xe voici le cadeau qu'on te fait
 \xv í ká bònya díyara ń yé
 \xe ton cadeau m'a bien fait plaisir
-\dt 28/Feb/2017
+\dt 29/Mar/2017
 
 \lx bònya
 \mm bòn:vq:grand
@@ -14480,31 +14482,42 @@ médicinales
 
 \lx cɛ̀
 \ps v
-\sn 1
+\sn 1.1
 \vl vt
 \ge ramasser
-\gv confisquer
-\gv piller
-\xv syɛ̀fan cɛ̀
-\xe ramasser des oeufs de poule
+\gv recueillir
 \xv ɲɛ́ji cɛ̀
 \xe essuyer ses larmes
 \xv dùlɔki cɛ̀
 \xe retrousser un habit
+\sn 1.2
+\gv confisquer
+\gv piller
+\xv syɛ̀fan cɛ̀
+\xe ramasser des oeufs de poule
+\sn 1.3
+\gv s'emparer de
 \sn 2.1
-\vl vr
-\gv reprendre (ses paroles)
+\gv se presser
+\gv affluer
 \sn 2.2
+\gv être nombreux
+\gv faire qqch. en groupe
+\sn 3
 \vl vr
 \gv nier
+\gv retirer
+\gv annuler
+\gv rétracter
+\gv se dédire
 \xv à y'á cɛ̀ à ká kúma fɔ́len ná
 \xe il a repris ses paroles
-\sn 3
+\sn 4
 \vl vr
 \gv changer.de.direction
 \xv mùso y'á cɛ̀  kà múnu
 \xe la femme a changé de direction
-\dt 26/Sep/2006
+\dt 29/Mar/2017
 
 \lx cɛ̀
 \va kɛ̀
@@ -40643,13 +40656,15 @@ forestières, fruit : long follicule de 50 cm)
 \dt 19/Jan/2015
 
 \lx gárɛ
+\va gára
+\va gári
 \ps n
 \ge gare
 \gv
 \ee
 \xv
 \xe
-\dt 13/Feb/2017
+\dt 29/Mar/2017
 
 \lx gàribu
 \va gèrebu
@@ -77838,10 +77853,11 @@ jour, c'est une personne dépendante qu'il voit
 \lx mádarasa
 \ve (dú)
 \va mándarasa
+\va mádarisa
 \ps n
 \ge médersa
 \rem l 89
-\dt 11/Nov/2007
+\dt 29/Mar/2017
 
 \lx màdèenkun
 \mm mà:mrph:SUPER
@@ -86335,6 +86351,16 @@ sorcières et leur élimination)
 \xv námara tɛ́  kàrisa lá
 \xe c'est un homme droit
 \dt 05/May/2015
+
+\lx nánbara
+\va námara
+\ps v
+\vl vt
+\ge tromper
+\gv tricher
+\gv frauder
+\gv être malhonnête envers qqn.
+\dt 29/Mar/2017
 
 \lx nàńbìla
 \mm nà:v:venir
@@ -110145,8 +110171,10 @@ gouvernement le soutient (kb 5/06 p.7)
 \ee (mil, arachide, riz, sel, piment ...)
 \sn 2
 \vl vr
-\ge glisser
-\dt 28/Sep/2014
+\gv glisser
+\sn 3
+\ve scier
+\dt 29/Mar/2017
 
 \lx sìbantɔ
 \mm sì:n:vie
@@ -119166,11 +119194,17 @@ fiançailles
 \mm súma:n:odeur
 \mm fàga:v:tuer
 \mm la:mrph:AG.PRM
+\va tásumafaaala
+\mm tásuma:n:feu
+\mm tá:n:feu
+\mm súma:n:odeur
+\mm fàa:v:tuer
+\mm la:mrph:AG.PRM
 \ps n
 \ge pompier
 \gv
 \ee
-\dt 21/Mar/2017
+\dt 29/Mar/2017
 
 \lx tátiɲɛ
 \mm tá:n:propriété
@@ -119472,6 +119506,11 @@ fiançailles
 \xv só téngunnen dòn  ɲɔ́gɔn ná
 \xe les maisons sont côte à côte
 \dt 26/Sep/2006
+
+\lx tènninnɔ̀
+\ps adv
+\ge exactement.comme.ça
+\dt 29/Mar/2017
 
 \lx téntegelema
 \va téntegema
@@ -126412,6 +126451,15 @@ aîné ... (Kb 11/06 p.4)
 \gv dépecer
 \dt 07/Feb/2017
 
+\lx wárakan
+\mm wára:n:fauve
+\mm kán:n:cou
+\ps n
+\gf langue.secrète
+\ge
+\gr
+\dt 29/Mar/2017
+
 \lx wárakata
 \mm wáraka:v:démonter
 \mm ta:mrph:PTCP.POT
@@ -131532,11 +131580,13 @@ généreuses, avec bourrelets
 \dt 15/May/2013
 
 \lx zipu
+\va jupu
+\va jipu
 \ps n
 \ge jupe
 \gv
 \cm fr. jupe
-\dt 17/Sep/2015
+\dt 29/Mar/2017
 
 \lx zú
 \bw fr : joug

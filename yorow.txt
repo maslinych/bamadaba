@@ -267,6 +267,14 @@ Salam, Cercle de Tombouctou)
 \xe
 \dt 07/Feb/2017
 
+\lx Arayida
+\va Rayeda
+\ps n.prop
+\ge TOP
+\gv Bord de Rails
+\ee (quartier du Bamako)
+\dt 29/Mar/2017
+
 \lx Aritizana
 \ps n.prop
 \ge TOP
@@ -428,6 +436,13 @@ Salam, Cercle de Tombouctou)
 \ru Бафин
 \dt 23/May/2010
 
+\lx Bafo
+\ps n.prop
+\ge TOP
+\gv Bafou
+\ee (village, région de Ségou)
+\dt 29/Mar/2017
+
 \lx Bágadaji
 \ps n.prop
 \ge TOP
@@ -586,6 +601,12 @@ Salam, Cercle de Tombouctou)
 \xe
 \dt 26/Mar/2017
 
+\lx Banankɔrɔba
+\ps n.prop
+\ge TOP
+\gv Banankoroba
+\dt 29/Mar/2017
+
 \lx Banbara Mawude
 \ps n.prop
 \ge TOP
@@ -640,6 +661,13 @@ Comoé, Burkina Faso)
 \gv quartier.à.Ségou
 \cm (в Бамако)
 \dt 05/Dec/2010
+
+\lx Bánin
+\ps n.prop
+\ge TOP
+\gv Bani
+\ee (rivière, affluent de Niger)
+\dt 29/Mar/2017
 
 \lx Baninfin
 \ty р.
@@ -1295,6 +1323,13 @@ Koulikoro)
 \xv
 \xe
 \dt 01/Feb/2017
+
+\lx Dùguba
+\ps n.prop
+\ge TOP
+\gv Dougouba
+\ee (village à 20 km de Ségou)
+\dt 29/Mar/2017
 
 \lx Dùgukuna
 \va Dùgukunan
@@ -2588,6 +2623,13 @@ Léraba, région des Cascades, Burkina Faso)
 \gv Cap-Vert
 \ru Кабо-Верде
 \dt 23/May/2010
+
+\lx Karako
+\ps n.prop
+\ge TOP
+\gv Karako
+\ee (village, région de Ségou)
+\dt 29/Mar/2017
 
 \lx Karakoro
 \ty р.
@@ -4582,6 +4624,13 @@ Ségou)
 \xe
 \dt 04/Jun/2016
 
+\lx Segɛla
+\ps n.prop
+\ge TOP
+\gv Séguéla
+\ee (ville en Côte d'Ivoire, centre de la région de Worodougou)
+\dt 29/Mar/2017
+
 \lx Ségu
 \ty г.
 \ru Сегу
@@ -4875,6 +4924,13 @@ de Mopti)
 \gv quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
+
+\lx Sokobiya
+\ps n.prop
+\ge TOP
+\gv Sokobia
+\ee (un village à la rive gauche du Niger, en face de Ségou)
+\dt 29/Mar/2017
 
 \lx Sokɔrɔji
 \ps n.prop

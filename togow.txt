@@ -179,10 +179,11 @@
 \lx Ansumani
 \va Ansmane
 \va Ànsumánà
+\va Nsumanɛ
 \di m
 \ps n.prop
 \ge NOM
-\dt 02/May/2010
+\dt 29/Mar/2017
 
 \lx Araba
 \di
@@ -600,6 +601,11 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Boroma
+\ps n.prop
+\ge NOM.M
+\dt 29/Mar/2017
 
 \lx Buba
 \di b
@@ -1818,6 +1824,12 @@
 \ps n.prop
 \ge NOM.M
 \dt 03/May/2010
+
+\lx Làji
+\ps n.prop
+\ge NOM.M
+\gv Ladji
+\dt 29/Mar/2017
 
 \lx Lala
 \di b
@@ -3402,8 +3414,8 @@ de l'enfant qui survit à sa mère morte en couches
 \lx Yáya
 \di
 \ps n.prop
-\ge NOM.M
-\dt 03/May/2010
+\ge NOM.MF
+\dt 29/Mar/2017
 
 \lx Yaye
 \di b
@@ -3426,10 +3438,12 @@ de l'enfant qui survit à sa mère morte en couches
 \lx Yusufu
 \va Yusuf
 \va Yúsu
+\va Yísu
 \di b
 \ps n.prop
 \ge NOM.M
-\dt 03/May/2010
+\gv Youssouf
+\dt 29/Mar/2017
 
 \lx Zanke
 \ps n.prop
