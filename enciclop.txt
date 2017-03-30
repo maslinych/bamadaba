@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+﻿\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name enciclop
@@ -6,679 +6,679 @@
 
 \lx Abarahamu
 \ps n.prop
-\ge NOM.ETRG
-\gv Abraham
-\ee
+\gf NOM.ETRG
+\gvf Abraham
+\smf
 \xv
-\xe
+\xf
 \dt 23/Feb/2017
 
 \lx Ábrahamu
 \ps n.prop
-\ge NOM.M
-\gv Abraham
+\gf NOM.M
+\gvf Abraham
 \dt 05/Apr/2016
 
 \lx ACALAN
 \ps n
-\ge ABR
-\gv Académie africaine des langues
-\ee
+\gf ABR
+\gvf Académie africaine des langues
+\smf
 \xv
-\xe
+\xf
 \dt 06/Feb/2017
 
 \lx Adema
 \ps n
-\ge ABR
-\gv Adéma-PASJ
-\ee (Alliance pour la démocratie au Mali-Parti africain pour la
+\gf ABR
+\gvf Adéma-PASJ
+\smf (Alliance pour la démocratie au Mali-Parti africain pour la
 solidarité et la justice)
 \xv
-\xe
+\xf
 \dt 09/Oct/2016
 
 \lx Air Afrique
 \ps n.prop
-\ge A
+\gf A
 \dt 03/May/2013
 
 \lx Akimi
 \ps n
-\ge ABR
-\gv AQMI
-\gv Al-Qaïda au Maghreb islamique
-\ee
+\gf ABR
+\gvf AQMI
+\gvf Al-Qaïda au Maghreb islamique
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Alɛn Delɔsi
 \ps n.prop
-\ge Alain.Deloche.de.Noyelle
-\ee (cofondateur de Médecins sans frontières puis de Médecins du
+\gf Alain.Deloche.de.Noyelle
+\smf (cofondateur de Médecins sans frontières puis de Médecins du
 Monde)
 \xv
-\xe
+\xf
 \dt 21/Feb/2017
 
 \lx Alfaru
 \ps n.prop
-\ge Alphare
-\ee équipe de football à Gao
+\gf Alphare
+\smf équipe de football à Gao
 \dt 03/May/2013
 
 \lx Ali Azari
 \ps n
-\ge Al-Azhar
-\gv
-\ee (mosquée et université à l'Égypte)
+\gf Al-Azhar
+\gvf
+\smf (mosquée et université à l'Égypte)
 \xv
-\xe
+\xf
 \dt 24/Oct/2016
 
 \lx Alijazayira
 \ps n
-\ge Al.Jazeera
-\gv al-Jazira
-\ee (chaine de télévision basée au Qatar)
+\gf Al.Jazeera
+\gvf al-Jazira
+\smf (chaine de télévision basée au Qatar)
 \xv
-\xe
+\xf
 \dt 24/Oct/2016
 
 \lx Alikayida
 \ps n.prop
-\ge Al-Qaïda
-\gv
-\ee (une organisation terroriste djihadiste)
+\gf Al-Qaïda
+\gvf
+\smf (une organisation terroriste djihadiste)
 \xv
-\xe
+\xf
 \dt 04/Jun/2016
 
 \lx Alimorabitunu
 \ps n
-\ge Al-Mourabitoune
+\gf Al-Mourabitoune
 \smf (un groupe armé salafiste djihadiste)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx AMALAN
 \ps n
-\ge ABR
-\gv AMALAN
-\gv Académie malienne des langues
-\ee
+\gf ABR
+\gvf AMALAN
+\gvf Académie malienne des langues
+\smf
 \xv
-\xe
+\xf
 \dt 06/Feb/2017
 
 \lx Amapu
 \ps n.prop
-\ge ABR
-\gv AMAP
-\gv Agence Malienne de Presse et de Publicité
-\ee
+\gf ABR
+\gvf AMAP
+\gvf Agence Malienne de Presse et de Publicité
+\smf
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Anibisi
 \ps n
-\ge Anubis
+\gf Anubis
 \smf (dieu funéraire à l'Égypte antique)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Ansaridini
 \ps n
-\ge Ansar.Dine
-\gv Ansar Eddine
-\ee (un groupe armé salafiste djihadiste)
+\gf Ansar.Dine
+\gvf Ansar Eddine
+\smf (un groupe armé salafiste djihadiste)
 \xv
-\xe
+\xf
 \dt 04/Jun/2016
 
 \lx Apekamu
 \ps n
-\ge ABT
-\gv APECAM
-\gv Assemblée permanente des Chambres d'agriculture du Mali
-\ee
+\gf ABT
+\gvf APECAM
+\gvf Assemblée permanente des Chambres d'agriculture du Mali
+\smf
 \xv
-\xe
+\xf
 \dt 02/Feb/2017
 
 \lx Aradisɔni
 \ps n
-\ge Radisson
+\gf Radisson
 \smf (réseau des hôtels)
 \dt 07/Feb/2016
 
 \lx Àrajomali
 \ps n.prop
-\ge Radio.Mali
+\gf Radio.Mali
 \dt 15/Oct/2014
 
 \lx Aramusɛsi
 \ps n.prop
-\ge NOM.ETRG
-\gv Ramsès
+\gf NOM.ETRG
+\gvf Ramsès
 \dt 06/Feb/2016
 
 \lx Àrasɛli
 \ps n.prop
-\ge NOM.F
-\gv Rachel
+\gf NOM.F
+\gvf Rachel
 \dt 05/Apr/2016
 
 \lx Arasingikilɔbu
 \ps n
-\ge Racing.Club
+\gf Racing.Club
 \smf (club de football)
 \dt 05/Feb/2016
 
 \lx Arasita
 \ps n
-\ge rasta
-\gv mouvement rastafari
-\ee
+\gf rasta
+\gvf mouvement rastafari
+\smf
 \xv
-\xe
+\xf
 \dt 01/Jun/2016
 
 \lx Arawɛki
 \ps n.prop
-\ge ABR
-\gv RAVEC
-\gv Recensement administratif à vocation d’état-civil
-\ee (au Mali)
+\gf ABR
+\gvf RAVEC
+\gvf Recensement administratif à vocation d’état-civil
+\smf (au Mali)
 \xv
-\xe
+\xf
 \dt 25/Feb/2017
 
 \lx Arawulu
 \ps n.prop
-\ge NOM.ETRG
-\gv Raul
-\ee
+\gf NOM.ETRG
+\gvf Raul
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Arisinari
 \ps n.prop
-\ge Archinard.Louis
-\gv
-\ee (colonisateur français)
+\gf Archinard.Louis
+\gvf
+\smf (colonisateur français)
 \xv
-\xe
+\xf
 \dt 04/Feb/2017
 
 \lx AS Mande
 \ps n.prop
-\ge AS Mandé
-\ee équipe de football à Kayes
+\gf AS Mandé
+\smf équipe de football à Kayes
 \dt 03/May/2013
 
 \lx Asikiya
 \ps n
-\ge Askia
+\gf Askia
 \smf (titre royal à l'Empire Songhaï)
 \dt 05/Feb/2016
 
 \lx Asiseyuya
 \ps n
-\ge ABR
-\gv HCUA
-\gv Haut conseil pour l'unité de l'Azawad
-\ee (créé en mai 2013)
+\gf ABR
+\gvf HCUA
+\gvf Haut conseil pour l'unité de l'Azawad
+\smf (créé en mai 2013)
 \xv
-\xe
+\xf
 \dt 04/Feb/2017
 
 \lx ATT
 \ps n.prop
-\ge ABR
-\gv Amadou Toumani Touré
+\gf ABR
+\gvf Amadou Toumani Touré
 \dt 09/Apr/2016
 
 \lx Badenma Nasiyonali
 \ps n
-\ge Badema National
-\gv
-\ee (groupe mousical fondée en 1969 sous le nom La Maravillas
+\gf Badema National
+\gvf
+\smf (groupe mousical fondée en 1969 sous le nom La Maravillas
 del Mali, prend le nom de Badema National en 1976)
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Badi
 \ps n
-\ge ABT
-\gv BAD
-\gv Banque africaine de développement
-\ee
+\gf ABT
+\gvf BAD
+\gvf Banque africaine de développement
+\smf
 \xv
-\xe
+\xf
 \dt 06/Feb/2017
 
 \lx Badiri
 \ps n.prop
-\ge TOP
-\gv Badr
-\ee (localité où la première bataille victorieuse des musulmans a
+\gf TOP
+\gvf Badr
+\smf (localité où la première bataille victorieuse des musulmans a
 eu lieu en 624)4
 \xv
-\xe
+\xf
 \dt 15/Feb/2017
 
 \lx Banki Muni
 \ps n.prop
-\ge NOM.ETRG
-\gv Ban Ki-moon
-\ee
+\gf NOM.ETRG
+\gvf Ban Ki-moon
+\smf
 \xv
-\xe
+\xf
 \dt 31/May/2016
 
 \lx Baraki Obama
 \ps n.prop
-\ge NOM.ETRG
-\gv Barak Obama
+\gf NOM.ETRG
+\gvf Barak Obama
 \dt 12/Apr/2016
 
 \lx Barikani
 \ps n
-\ge Barkhane
+\gf Barkhane
 \smf (opération militaire française en Afrique de l'Ouest)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Basitɛti
 \ps n
-\ge Bastet
+\gf Bastet
 \smf (déesse du foyer et de maternité à l'Égypte antique)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Benuwa
 \ps n.prop
-\ge NOM.ETRG
-\gv Benoît
-\ee
+\gf NOM.ETRG
+\gvf Benoît
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Bewoyade
 \ps n
-\ge ABR
-\gv BOAD
-\gv Banque.Ouest-Africaine.de.Développement
+\gf ABR
+\gvf BOAD
+\gvf Banque.Ouest-Africaine.de.Développement
 \dt 08/Feb/2016
 
 \lx Bɛnizamini Nataɲawu
 \ps n.prop
-\ge NOM.ETRG
-\gv Benjamin Netanyahu
+\gf NOM.ETRG
+\gvf Benjamin Netanyahu
 \dt 06/Feb/2016
 
 \lx Bɛnzɛri
 \ps n.prop
-\ge Louis.Gustave.Binger
-\gv
-\ee (officier français, explorateur de l’Afrique de l'Ouest)
+\gf Louis.Gustave.Binger
+\gvf
+\smf (officier français, explorateur de l’Afrique de l'Ouest)
 \xv
-\xe
+\xf
 \dt 21/Feb/2017
 
 \lx Bilɛzi
 \va Bɛlɛsi
 \ps n.prop
-\ge Blaise
-\gv
-\ee
+\gf Blaise
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Bilɛzi Kɔnpawore
 \ps n.prop
-\ge NOM.ETRG
-\gv Blaise Compaoré
-\ee
+\gf NOM.ETRG
+\gvf Blaise Compaoré
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Bitɔn
 \ps n.prop
-\ge Biton
-\ee équipe de football
+\gf Biton
+\smf équipe de football
 \dt 15/May/2013
 
 \lx BNDA
 \ps n
-\ge ABR
-\gv BNDA
-\gv Banque Nationale de Développement Agricole
-\ee
+\gf ABR
+\gvf BNDA
+\gvf Banque Nationale de Développement Agricole
+\smf
 \xv
-\xe
+\xf
 \dt 02/Feb/2017
 
 \lx Bɔnga
 \ps n.prop
-\ge NOM.ETRG
-\gv Bonga
+\gf NOM.ETRG
+\gvf Bonga
 \smf (roi des Mossi au XVe siècle)
 \dt 06/Feb/2016
 
 \lx Busi
 \ps n.prop
-\ge NOM.ETRG
-\gv Bush
-\ee (president des États-Unis)
+\gf NOM.ETRG
+\gvf Bush
+\smf (president des États-Unis)
 \xv
-\xe
+\xf
 \dt 23/Feb/2017
 
 \lx Buwaɲi
 \ps n.prop
-\ge Houphouët-Boigny, Félix
+\gf Houphouët-Boigny, Félix
 \smf (1e président de la Côte d'Ivoire)
 \dt 03/Apr/2016
 
 \lx CAFO
 \ps n
-\ge ABR
-\gv CAFO
-\gv Coordination des Associations et ONG féminines du Mali
+\gf ABR
+\gvf CAFO
+\gvf Coordination des Associations et ONG féminines du Mali
 \xv
-\xe
+\xf
 \dt 31/May/2016
 
 \lx CALAN
 \ps n
-\ge ABR
-\gv Club Des Amis Des Langues Nationales Du Mali
-\ee
+\gf ABR
+\gvf Club Des Amis Des Langues Nationales Du Mali
+\smf
 \xv
-\xe
+\xf
 \dt 05/Feb/2017
 
 \lx CEDEAO
 \ps n
-\ge CÉDÉAO
-\gv Communauté économique des États de l'Afrique de l'Ouest
+\gf CÉDÉAO
+\gvf Communauté économique des États de l'Afrique de l'Ouest
 \dt 14/Sep/2015
 
 \lx CMA
 \ps n
-\ge ABR
-\gv CMA
-\gv Coordination des mouvements de l'Azawad
-\ee (une alliance de groupes rebelles créée à l'été 2014 au cours
+\gf ABR
+\gvf CMA
+\gvf Coordination des mouvements de l'Azawad
+\smf (une alliance de groupes rebelles créée à l'été 2014 au cours
 de la guerre du Mali)
 \xv
-\xe
+\xf
 \dt 09/Oct/2016
 
 \lx COMATEX
 \ps n
-\ge COMATEX
-\gv Compagnie Malienne de Textile
+\gf COMATEX
+\gvf Compagnie Malienne de Textile
 \dt 14/Sep/2015
 
 \lx Dawidi
 \ps n.prop
-\ge NOM.ETRG
-\gv David
-\ee
+\gf NOM.ETRG
+\gvf David
+\smf
 \xv
-\xe
+\xf
 \dt 05/Mar/2017
 
 \lx Denisi Sasu Ngesu
 \ps n.prop
-\ge NOM.ETRG
-\gv Denis Sassou-Nguesso
-\ee (président de la République Populaire du Congo)
+\gf NOM.ETRG
+\gvf Denis Sassou-Nguesso
+\smf (président de la République Populaire du Congo)
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx dinari
 \ps n
-\ge dinar
+\gf dinar
 \dt 04/Feb/2016
 
 \lx Donali Turanpu
 \ps n.prop
-\ge NOM.ETRG
-\gv Donald Trump
+\gf NOM.ETRG
+\gvf Donald Trump
 \dt 06/Feb/2016
 
 \lx Edeyɛmu
 \ps n
-\ge ABR
-\gv EDM
-\gv Électricité.du.Mali
+\gf ABR
+\gvf EDM
+\gvf Électricité.du.Mali
 \dt 08/Feb/2016
 
 \lx Elena Kuyomo
 \ps n.prop
-\ge Maria.Elena.Cavallaro.Cuomo
-\ee (propriétrice de la Fondation Cuomo)
+\gf Maria.Elena.Cavallaro.Cuomo
+\smf (propriétrice de la Fondation Cuomo)
 \xv
-\xe
+\xf
 \dt 21/Feb/2017
 
 \lx Enisupu
 \ps n
-\ge ABR
-\gv ENSUP
-\gv École Normale Supérieure
+\gf ABR
+\gvf ENSUP
+\gvf École Normale Supérieure
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Ereyali
 \ps n.prop
-\ge NOM.ETRG
-\gv AS Real Bamako
-\ee (club omnisports)
+\gf NOM.ETRG
+\gvf AS Real Bamako
+\smf (club omnisports)
 \xv
-\xe
+\xf
 \dt 31/May/2016
 
 \lx Erɛ
 \ps n
-\ge Rê
+\gf Rê
 \smf (dieu de soleil à l'Égypte antique)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Esɔri
 \ps n.prop
-\ge Essor
-\gv
-\ee (le quotidien gouvernemental au Mali)
+\gf Essor
+\gvf
+\smf (le quotidien gouvernemental au Mali)
 \xv
-\xe
+\xf
 \dt 30/Jan/2017
 
 \lx Ɛli Besiri
 \ps n.prop
-\ge NOM.ETRG
-\gv  Omar al-Bashir
-\ee (président du Sudan)
+\gf NOM.ETRG
+\gvf  Omar al-Bashir
+\smf (président du Sudan)
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Ɛmɛnela
 \ps n
-\ge ABR
-\gv MNLA
-\gv Mouvement national pour la libération de l'Azawad
-\ee
+\gf ABR
+\gvf MNLA
+\gvf Mouvement national pour la libération de l'Azawad
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Ɛmiya
 \ps n
-\ge ABR
-\gv MIA
-\gv Mouvement islamique de l'Azawad
-\ee (existait en janvier -- mai 2013)
+\gf ABR
+\gvf MIA
+\gvf Mouvement islamique de l'Azawad
+\smf (existait en janvier -- mai 2013)
 \xv
-\xe
+\xf
 \dt 04/Feb/2017
 
 \lx fakoyi
 \ps n
-\ge plat.songhaï
-\gv
+\gf plat.songhaï
+\gvf
 \dt 05/Feb/2016
 
 \lx Faransuwa Holandi
 \ps n.prop
-\ge NOM.ETRG
-\gv François Hollande
+\gf NOM.ETRG
+\gvf François Hollande
 \dt 06/Feb/2016
 
 \lx farawona
 \va farawuna
 \ps n
-\ge pharaon
+\gf pharaon
 \dt 05/Feb/2016
 
 \lx Felikisi
 \ps n.prop
-\ge NOM.ETRG
-\gv Félix
-\ee
+\gf NOM.ETRG
+\gvf Félix
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Fenisi
 \ps n
-\ge TOP
-\gv Phénicie
-\ee
+\gf TOP
+\gvf Phénicie
+\smf
 \xv
-\xe
+\xf
 \dt 06/Feb/2017
 
 \lx Fidɛli
 \ps n.prop
-\ge NOM.ETRG
-\gv Fidel
-\ee
+\gf NOM.ETRG
+\gvf Fidel
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx FLASH
 \ps n
-\ge ABR
-\gv FLASH
-\gv Faculté des Lettres Langues Arts et Sciences Humaines
-\ee
+\gf ABR
+\gvf FLASH
+\gvf Faculté des Lettres Langues Arts et Sciences Humaines
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Ganda Izo
 \ps n.prop
-\ge Ganda Izo
-\gv
-\ee (une milice songhaï et peule formée en 2012)
+\gf Ganda Izo
+\gvf
+\smf (une milice songhaï et peule formée en 2012)
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx Gatiya
 \ps n.prop
-\ge ABR
-\gv GATIA
-\gv Groupe autodéfense touareg Imghad et alliés
-\ee (groupe armé créé le 14 août 2014)
+\gf ABR
+\gvf GATIA
+\gvf Groupe autodéfense touareg Imghad et alliés
+\smf (groupe armé créé le 14 août 2014)
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx Gereguwari
 \ps n.prop
-\ge NOM.ETRG
-\gv Grégoire
-\ee
+\gf NOM.ETRG
+\gvf Grégoire
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Goli
 \ps n.prop
-\ge TOP
-\gv Gaule
+\gf TOP
+\gvf Gaule
 
 \lx goluwa
 \ps n
-\ge gaulois
+\gf gaulois
 
 \lx Gubagubo
 \ps n.prop
-\ge Gbagbo
-\gv
-\ee (Laurent Gbagbo, le président de Côte d'Ivoire en 2001-2011)
+\gf Gbagbo
+\gvf
+\smf (Laurent Gbagbo, le président de Côte d'Ivoire en 2001-2011)
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Harisi
 \ps n
-\ge Horus
-\gv
-\ee (dieu de ciel, guerre et chasse en Ancien Egypte)
+\gf Horus
+\gvf
+\smf (dieu de ciel, guerre et chasse en Ancien Egypte)
 \xv
-\xe
+\xf
 \dt 23/Oct/2016
 
 \lx Hayile Selase
 \ps n.prop
-\ge Haïlé Selassié
-\gv
-\ee
+\gf Haïlé Selassié
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 01/Jun/2016
 
 \lx Hilari Kilintɔni
 \ps n.prop
-\ge NOM.ETRG
-\gv Hillary Clinton
+\gf NOM.ETRG
+\gvf Hillary Clinton
 \dt 06/Feb/2016
 
 \lx Hisɛni Habere
 \ps n.prop
-\ge Hissène.Habré
+\gf Hissène.Habré
 \smf (président du Tchad en 1982-1990)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 21/Feb/2017
 
 \lx Hufuyɛti Buwaɲi
@@ -687,307 +687,307 @@ de la guerre du Mali)
 \va Ufuwɛti Buwaɲi
 \va Huyɛti Buwaɲi
 \ps n.prop
-\ge NOM.ETRG
-\gv Félix Houphouët-Boigny
-\ee (le premier président de Côte d'Ivoire)
+\gf NOM.ETRG
+\gvf Félix Houphouët-Boigny
+\smf (le premier président de Côte d'Ivoire)
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Ibilisa
 \ps n.prop
-\ge Iblis
-\gv diable
+\gf Iblis
+\gvf diable
 \dt 21/Dec/2014
 
 \lx Iburahimawisi
 \ps n.prop
-\ge NOM.ETRG
-\gv Zlatan Ibrahimović
+\gf NOM.ETRG
+\gvf Zlatan Ibrahimović
 \smf (footballer français)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Idirisi Debi Itino
 \ps n.prop
-\ge NOM.ETRG
-\gv Idriss Déby Itno
-\ee (Président du Tchad dès 1991)
+\gf NOM.ETRG
+\gvf Idriss Déby Itno
+\smf (Président du Tchad dès 1991)
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx Imowa
 \va UEMOA
 \ps n
-\ge ABR
-\gv UEMOA
-\gv Union Economique et Monétaire Ouest-Africaine
+\gf ABR
+\gvf UEMOA
+\gvf Union Economique et Monétaire Ouest-Africaine
 \dt 06/Feb/2017
 
 \lx Inɛsiko
 \va UNESCO
 \ps n
-\ge ABR
-\gv UNESCO
-\gv Organisation des Nations unies pour l'éducation, la science et
+\gf ABR
+\gvf UNESCO
+\gvf Organisation des Nations unies pour l'éducation, la science et
 la culture
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 05/Mar/2017
 
 \lx Iyadi Agi Agali
 \ps n.prop
-\ge NOM.ETRG
-\gv Iyad Ag Ghali
-\ee (le fondateur du groupe salafiste djihadiste Ansar Dine)
+\gf NOM.ETRG
+\gvf Iyad Ag Ghali
+\smf (le fondateur du groupe salafiste djihadiste Ansar Dine)
 \xv
-\xe
+\xf
 \dt 04/Jun/2016
 
 \lx Iyemowa
 \ps n.prop
-\ge ABR
-\gv UEMOA
-\gv Union Economique et Monétaire Ouest-Africaine
+\gf ABR
+\gvf UEMOA
+\gvf Union Economique et Monétaire Ouest-Africaine
 \dt 25/Feb/2017
 
 \lx Iyɛnipeyɛsi
 \ps n
-\ge ABR
-\gv INPS
-\gv Institut.National.de.Prévoyance.Sociale
+\gf ABR
+\gvf INPS
+\gvf Institut.National.de.Prévoyance.Sociale
 \dt 08/Feb/2016
 
 \lx Izisi
 \va Isisi
 \ps n
-\ge Isis
+\gf Isis
 \smf (déesse funéraire de l'Égypte antique)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 23/Oct/2016
 
 \lx Jakarata
 \ps n
-\ge Djakarta
-\gv
-\ee (marque de moto)
+\gf Djakarta
+\gvf
+\smf (marque de moto)
 \xv
-\xe
+\xf
 \dt 30/Jan/2017
 
 \lx jermani
 \va jɛrimani
 \ps n
-\ge germanique
+\gf germanique
 
 \lx Jibirila
 \ps n.prop
-\ge Djibril
-\gv Gabriel
-\ee l'archange
+\gf Djibril
+\gvf Gabriel
+\smf l'archange
 \dt 21/Dec/2014
 
 \lx Jingarebɛri
 \ps n.prop
-\ge Djingarber
+\gf Djingarber
 \smf (ancienne mosquée à Tombouktou)
 \dt 04/Feb/2016
 
 \lx Judɛri
 \ps n.prop
-\ge NOM.ETRG
-\gv Djouder
+\gf NOM.ETRG
+\gvf Djouder
 \smf (chef de l'armée marocaine ayant vaincu l'armée songhaï en
 1591)
 \dt 06/Feb/2016
 
 \lx Kabarali
 \ps n.prop
-\ge NOM
-\gv Cabral
-\ee
+\gf NOM
+\gvf Cabral
+\smf
 \xv
-\xe
+\xf
 \dt 06/Feb/2017
 
 \lx Kabila
 \ps n.prop
-\ge NOM.ETRG
-\gv Laurent Désiré Kabila
-\ee (président de la République Démocratique du Congo)
+\gf NOM.ETRG
+\gvf Laurent Désiré Kabila
+\smf (président de la République Démocratique du Congo)
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx Kabili
 \ps n
-\ge Kabyle
-\gv
-\ee
+\gf Kabyle
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 06/Feb/2017
 
 \lx Kadafi
 \ps n.prop
-\ge Kadhafi
-\gv
-\ee
+\gf Kadhafi
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 01/Jun/2016
 
 \lx Kafu
 \ps n
-\ge ABR
-\gv CAF
-\gv Confédération Africaine de Football
+\gf ABR
+\gvf CAF
+\gvf Confédération Africaine de Football
 \dt 05/Feb/2016
 
 \lx KANI
 \va Kani
 \ps n
-\ge ABR
-\gv Coupe d'Afrique des Nations
-\ee (football)
+\gf ABR
+\gvf Coupe d'Afrique des Nations
+\smf (football)
 \xv
-\xe
+\xf
 \dt 01/Jun/2016
 
 \lx Kasitoro
 \ps n.prop
-\ge NOM.ETRG
-\gv Castro
-\ee
+\gf NOM.ETRG
+\gvf Castro
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Katiba
 \ps n
-\ge katiba
+\gf katiba
 \smf (groupe de combat des djihadistes)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Keyopusi
 \ps n.prop
-\ge NOM.ETRG
-\gv Khéops
-\ee (un pharaon)
+\gf NOM.ETRG
+\gvf Khéops
+\smf (un pharaon)
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx Kɛnkandɔn
 \ps n.prop
-\ge Fernand.Quinquandon
-\gv
-\ee (explorateur français)
+\gf Fernand.Quinquandon
+\gvf
+\smf (explorateur français)
 \xv
-\xe
+\xf
 \dt 21/Feb/2017
 
 \lx Kirisitɔfu
 \ps n.prop
-\ge NOM.ETRG
-\gv Christophe
-\ee
+\gf NOM.ETRG
+\gvf Christophe
+\smf
 \xv
-\xe
+\xf
 \dt 05/Feb/2017
 
 \lx Kofi
 \ps n.prop
-\ge NOM.ETRG
-\gv Koffi
-\ee (un prénom akan)
+\gf NOM.ETRG
+\gvf Koffi
+\smf (un prénom akan)
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Koli Tengela
 \ps n.prop
-\ge NOM.ETRG
-\gv Koly Tengela
+\gf NOM.ETRG
+\gvf Koly Tengela
 \smf (chef de guerre des Peuls au XVI siècle)
 \dt 06/Feb/2016
 
 \lx Kolonbu
 \ps n.prop
-\ge Colomb
-\gv
-\ee
+\gf Colomb
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 05/Feb/2017
 
 \lx Komatɛkisi
 \ps n
-\ge ABR
-\gv COMATEX
-\gv Compagnie Malienne du Textile
+\gf ABR
+\gvf COMATEX
+\gvf Compagnie Malienne du Textile
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx koperatifu
 \va koperatiwu
 \ps n
-\ge coopérative
-\gv
-\ee
+\gf coopérative
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 03/Feb/2017
 
 \lx latɛn
 \ps n
-\ge latin
+\gf latin
 
 \lx Lesɔri
 \ps n
-\ge l'Essor
+\gf l'Essor
 \smf (journal quotidien natinal au Mali)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Linkɔlini
 \ps n.prop
-\ge NOM.ETRG
-\gv Lincoln
-\ee (president des États-Unis)
+\gf NOM.ETRG
+\gvf Lincoln
+\smf (president des États-Unis)
 \xv
-\xe
+\xf
 \dt 23/Feb/2017
 
 \lx Loran
 \ps n.prop
-\ge NOM.ETRG
-\gv Laurent
-\ee
+\gf NOM.ETRG
+\gvf Laurent
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx maani
 \ps n
-\ge manne
+\gf manne
 \dt 21/Dec/2014
 
 \lx Madugu
 \ps n.prop
-\ge Madougou
+\gf Madougou
 \smf (palais royal à Tombouktou)
 \dt 04/Feb/2016
 
@@ -995,726 +995,726 @@ la culture
 \mm Màli:n.prop:TOP
 \mm ba:mrph:AUGM
 \ps n
-\ge Empire du Mali
-\gv
-\ee
+\gf Empire du Mali
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Malitɛli
 \ps n
-\ge Malitel
-\ee (compagnie téléphonique)
+\gf Malitel
+\smf (compagnie téléphonique)
 \dt 07/Nov/2014
 
 \lx Mamayira
 \ps n.prop
-\ge Mamayira
-\ee équipe de football à Koulikoro
+\gf Mamayira
+\smf équipe de football à Koulikoro
 \dt 03/May/2013
 
 \lx Masaba
 \ps n
-\ge Masaba
-\gv Massaba
-\ee (écriture syllabique en existence chez les bambara de Kaarta
+\gf Masaba
+\gvf Massaba
+\smf (écriture syllabique en existence chez les bambara de Kaarta
 depuis 1930)
 \xv
-\xe
+\xf
 \dt 23/Oct/2016
 
 \lx Mawo
 \ps n.prop
-\ge Mao.ZeDong
+\gf Mao.ZeDong
 \dt 23/Feb/2014
 
 \lx MINUSMA
 \va Minusima
 \ps n
-\ge MINUSMA
-\gv Mission multidimensionnelle intégrée des Nations Unies pour
+\gf MINUSMA
+\gvf Mission multidimensionnelle intégrée des Nations Unies pour
 la stabilisation au Mali
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 04/Jun/2016
 
 \lx Miti Oromeneyi
 \ps n.prop
-\ge TOP
-\gv Mitt Romney
+\gf TOP
+\gvf Mitt Romney
 \dt 05/Feb/2016
 
 \lx Modɛki
 \ps n
-\ge ABR
-\gv MODEC
-\gv Mouvement pour un destin commun
-\ee (un parti politique au Mali, depuis 2013)
+\gf ABR
+\gvf MODEC
+\gvf Mouvement pour un destin commun
+\smf (un parti politique au Mali, depuis 2013)
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Morasima
 \ps n
-\ge ABR
-\gv MORASMA
-\gv Mouvement des Rasta du Mali
-\ee
+\gf ABR
+\gvf MORASMA
+\gvf Mouvement des Rasta du Mali
+\smf
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Moyizi
 \ps n.prop
-\ge NOM.ETRG
-\gv Moïse
-\ee
+\gf NOM.ETRG
+\gvf Moïse
+\smf
 \xv
-\xe
+\xf
 \dt 06/Mar/2017
 
 \lx Mujawo
 \va Muzawo
 \ps n
-\ge ABR
-\gv MUJAO
-\gv Mouvement pour l'unicité et le jihad en Afrique de l'Ouest
-\ee
+\gf ABR
+\gvf MUJAO
+\gvf Mouvement pour l'unicité et le jihad en Afrique de l'Ouest
+\smf
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx naba
 \ps n
-\ge Naba
+\gf Naba
 \smf (titre royal chez les Mossi)
-\gv
+\gvf
 \dt 05/Feb/2016
 
 \lx NINA
 \ps n
-\ge ABR
-\gv carte NINA
-\gv Numéro d'Identification Nationale
-\ee (au Mali)
+\gf ABR
+\gvf carte NINA
+\gvf Numéro d'Identification Nationale
+\smf (au Mali)
 \xv
-\xe
+\xf
 \dt 25/Feb/2017
 
 \lx Nina
 \ps n.prop
-\ge NOM.ETRG
-\gv Nina
-\ee
+\gf NOM.ETRG
+\gvf Nina
+\smf
 \xv
-\xe
+\xf
 \dt 25/Feb/2017
 
 \lx Ɲana
 \ps n.prop
-\ge Gnana
-\ee équipe de football à Koulikoro
+\gf Gnana
+\smf équipe de football à Koulikoro
 \dt 03/May/2013
 
 \lx Ɲɔna
 \ps n.prop
-\ge TOP
-\gv
-\ee (un village)
+\gf TOP
+\gvf
+\smf (un village)
 \xv
-\xe
+\xf
 \dt 04/Jun/2016
 
 \lx Odewudi
 \ps n.prop
-\ge Audéoud.René
-\gv
-\ee (officier, explorateur français)
+\gf Audéoud.René
+\gvf
+\smf (officier, explorateur français)
 \xv
-\xe
+\xf
 \dt 21/Feb/2017
 
 \lx ODIPAC
 \ps n
-\ge ABR
-\gv Office Développement Intégré production Arachidière et
+\gf ABR
+\gvf Office Développement Intégré production Arachidière et
 céréalière
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 02/Feb/2017
 
 \lx Ofisidinizɛri
 \ps n.prop
-\ge Office.du.Niger
+\gf Office.du.Niger
 \dt 24/Apr/2013
 
 \lx Omɛsi
 \ps n
-\ge ABR
-\gv OMS
-\gv Organisation Mondiale de Santé
-\ee
+\gf ABR
+\gvf OMS
+\gvf Organisation Mondiale de Santé
+\smf
 \xv
-\xe
+\xf
 \dt 29/May/2016
 
 \lx omo
 \ps n
-\ge Omo
+\gf Omo
 \smf (nom commercial d'une poudre lessive)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 25/Sep/2016
 
 \lx Onisida
 \ps n
-\ge ABR
-\gv ONUSIDA
-\ee
+\gf ABR
+\gvf ONUSIDA
+\smf
 \xv
-\xe
+\xf
 \dt 05/Feb/2017
 
 \lx ONU
 \va ONI
 \ps n
-\ge ABR
-\gv Organisation des Nations Unies
+\gf ABR
+\gvf Organisation des Nations Unies
 \dt 29/May/2016
 
 \lx oranzimɔnɛ
 \ps n
-\ge Orange.Money
-\gv
+\gf Orange.Money
+\gvf
 \dt 05/Feb/2016
 
 \lx OUA
 \ps n
-\ge ABR
-\gv Organisation de l'Unité africaine
+\gf ABR
+\gvf Organisation de l'Unité africaine
 \dt 09/Apr/2016
 
 \lx Oyeyi
 \ps n
-\ge ABR
-\gv OEI
-\gv Organisation de l'État Islamique
-\ee
+\gf ABR
+\gvf OEI
+\gvf Organisation de l'État Islamique
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Ozirisi
 \va Osirisi
 \ps n
-\ge Osiris
+\gf Osiris
 \smf (dieu de Egypte antique)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 23/Oct/2016
 
 \lx Ɔminisipɔri
 \ps n.prop
-\ge TOP
-\gv stade.omnisports.Modibo.Keïta
-\ee
+\gf TOP
+\gvf stade.omnisports.Modibo.Keïta
+\smf
 \xv
-\xe
+\xf
 \dt 01/Jun/2016
 
 \lx Ɔtiwale
 \va Ɔtuwale
 \ps n
-\ge Opération.Haute.Vallée.du.Niger
-\gv OHVH
-\ee
+\gf Opération.Haute.Vallée.du.Niger
+\gvf OHVH
+\smf
 \xv
-\xe
+\xf
 \dt 21/Feb/2017
 
 \lx Parena
 \ps n
-\ge ABR
-\gv Parti pour la renaissance nationale
-\ee (un parti politique au Mali)
+\gf ABR
+\gvf Parti pour la renaissance nationale
+\smf (un parti politique au Mali)
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Pilatifɔrɔmu
 \ps n
-\ge Platforme
-\gv Plateforme des mouvements du 14 juin 2014 d'Alger
-\gv Plateforme des mouvements d'autodéfense
-\ee (une alliance de groupes armés maliens pro-gouvernementaux
+\gf Platforme
+\gvf Plateforme des mouvements du 14 juin 2014 d'Alger
+\gvf Plateforme des mouvements d'autodéfense
+\smf (une alliance de groupes armés maliens pro-gouvernementaux
 formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xv
-\xe
+\xf
 \dt 09/Oct/2016
 
 \lx Pinudi
 \ps n.prop
-\ge ABR
-\gv PNUD
-\gv Programme des Nations unies pour le développement
-\ee
+\gf ABR
+\gvf PNUD
+\gvf Programme des Nations unies pour le développement
+\smf
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx Poli Biya
 \ps n.prop
-\ge NOM.ETRG
-\gv Paule Biya
-\ee (président du Cameroun)
+\gf NOM.ETRG
+\gvf Paule Biya
+\smf (président du Cameroun)
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx pɔnze
 \ps n.prop
-\ge Point.G.hôpital
-\gv
-\ee
+\gf Point.G.hôpital
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 31/May/2016
 
 \lx Pusini
 \ps n
-\ge NOM.ETRG
-\gv Putin
-\ee (président de la Russie)
+\gf NOM.ETRG
+\gvf Putin
+\smf (président de la Russie)
 \xv
-\xe
+\xf
 \dt 03/Feb/2017
 
 \lx Real
 \ps n.prop
-\ge Réal
-\ee équipe de football à Bamako
+\gf Réal
+\smf équipe de football à Bamako
 \dt 03/May/2013
 
 \lx saabina
 \va saabiina
 \ps n
-\ge Sabéen
+\gf Sabéen
 \dt 06/Apr/2016
 
 \lx Sagamanjan
 \ps n.prop
-\ge Sagamandjan
+\gf Sagamandjan
 \smf (chef de guerre de Mansa Moussa, 14e siècle)
 \dt 04/Feb/2016
 
 \lx Salomɔn
 \ps n.prop
-\ge NOM.ETRG
-\gv Salomon
-\ee
+\gf NOM.ETRG
+\gvf Salomon
+\smf
 \xv
-\xe
+\xf
 \dt 05/Mar/2017
 
 \lx Sàmatasɛgɛw
 \va Sàmatasɛgɛ
 \ps n.prop
-\ge Aigles.du.Mali
-\ee équipe du Mali de football
+\gf Aigles.du.Mali
+\smf équipe du Mali de football
 \dt 15/Sep/2016
 
 \lx Samori
 \ps n.prop
-\ge NOM.M
-\gv Samory Touré
-\ee
+\gf NOM.M
+\gvf Samory Touré
+\smf
 \xv
-\xe
+\xf
 \dt 31/May/2016
 
 \lx Samuyɛli
 \ps n.prop
-\ge NOM.ETRG
-\gv Samuel
-\ee
+\gf NOM.ETRG
+\gvf Samuel
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Sanili
 \ps n
-\ge Sanili
-\gv
-\ee (marque de moto)
+\gf Sanili
+\gvf
+\smf (marque de moto)
 \xv
-\xe
+\xf
 \dt 08/Feb/2017
 
 \lx Sarili
 \ps n.prop
-\ge NOM.ETRG
-\gv Charles
-\ee
+\gf NOM.ETRG
+\gvf Charles
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Sarili Bile Gude
 \ps n.prop
-\ge Charles.Blé.Goudé
-\gv
-\ee (leader des "jeunes patriots" en RCI à l'époque de Laurent
+\gf Charles.Blé.Goudé
+\gvf
+\smf (leader des "jeunes patriots" en RCI à l'époque de Laurent
 Gbagbo)
 \xv
-\xe
+\xf
 \dt 21/Feb/2017
 
 \lx Selɛsitɛn
 \ps n.prop
-\ge NOM.ETRG
-\gv Sélestin
-\ee
+\gf NOM.ETRG
+\gvf Sélestin
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Senidi
 \va CNID
 \ps n
-\ge ABR
-\gv CNID
-\gv Congrès national d'initiative démocratique
+\gf ABR
+\gvf CNID
+\gvf Congrès national d'initiative démocratique
 \syn Fàso yíriwa tɔ́n
-\ee (parti politique au Mali)
+\smf (parti politique au Mali)
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx SEPAMA
 \ps n
-\ge ABR
-\gv Societe d'Exploitation des Produits Arachidiers du Mali
+\gf ABR
+\gvf Societe d'Exploitation des Produits Arachidiers du Mali
 \dt 24/Mar/2015
 
 \lx Seyisebe
 \ps n
-\ge ABR
-\gv CICB
+\gf ABR
+\gvf CICB
 \dt 04/Feb/2016
 
 \lx sɛliti
 \ps n
-\ge celte
+\gf celte
 
 \lx Sɛmudete
 \va Sɛmɛdɛtɛ
 \va CMDT
 \ps n
-\ge ABR
-\gv CMDT
-\gv Compagnie malienne pour le développement du textile
-\ee
+\gf ABR
+\gvf CMDT
+\gvf Compagnie malienne pour le développement du textile
+\smf
 \xv
-\xe
+\xf
 \dt 02/Feb/2017
 
 \lx sɛ́nɛfɔ-gana
 \ps n
-\ge groupe.de.sénoufo
+\gf groupe.de.sénoufo
 
 \lx Sɛngɔri
 \ps n.prop
-\ge Léopold Sédar Senghor
-\gv
+\gf Léopold Sédar Senghor
+\gvf
 \dt 14/Sep/2015
 
 \lx Sɛriwali
 \ps n
-\ge Opération.Serval
+\gf Opération.Serval
 \smf
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Sɛsikɔmu
 \ps n
-\ge ABR
-\gv CSCOM
-\gv Centres de santé communautaires
+\gf ABR
+\gvf CSCOM
+\gvf Centres de santé communautaires
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Sigi
 \ps n.prop
-\ge Sigui
-\ee équipe de football à Kayes
+\gf Sigui
+\smf équipe de football à Kayes
 \dt 03/May/2013
 
 \lx Sitadi Maliyɛn
 \ps n
-\ge Stade.Malien
+\gf Stade.Malien
 \smf (club de football)
 \dt 05/Feb/2016
 
 \lx Siyagiri
 \va SIYAGRI
 \ps n
-\ge ABR
-\gv SIAGRI
-\gv Salon International de l'Agriculture
-\ee
+\gf ABR
+\gvf SIAGRI
+\gvf Salon International de l'Agriculture
+\smf
 \xv
-\xe
+\xf
 \dt 02/Feb/2017
 
 \lx Sobɛki
 \ps n
-\ge Sobek
+\gf Sobek
 \smf (dieu de l'eau à l'Égypte antique)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Soni
 \va Sonni
 \ps n
-\ge Sonni.roi.Songhaï
+\gf Sonni.roi.Songhaï
 
 \lx Sonin
 \ps n.prop
-\ge Sonny
-\ee équipe de football à Gao
+\gf Sonny
+\smf équipe de football à Gao
 \dt 03/May/2013
 
 \lx Soweto
 \ps n.prop
-\ge TOP
-\gv Sowete
-\gv South Western Township
+\gf TOP
+\gvf Sowete
+\gvf South Western Township
 \dt 09/Apr/2016
 
 \lx Stade
 \ps n.prop
-\ge Stade
-\ee équipe de football à Bamako
+\gf Stade
+\smf équipe de football à Bamako
 \dt 03/May/2013
 
 \lx Súmanguru
 \va Súmanguru
 \ps n.prop
-\ge NOM.M
-\gv Soumangourou
-\gv Soumaoro
-\ee (roi du royaume de Sosso, antagoniste de Soundiata Keïta)
+\gf NOM.M
+\gvf Soumangourou
+\gvf Soumaoro
+\smf (roi du royaume de Sosso, antagoniste de Soundiata Keïta)
 \xv
-\xe
+\xf
 \dt 27/Feb/2017
 
 \lx Taganba
 \ps n
-\ge musique.Songhaï
-\gv
+\gf musique.Songhaï
+\gvf
 \dt 05/Feb/2016
 
 \lx Tawureta
 \ps n
-\ge Torah
-\gv Thora
+\gf Torah
+\gvf Thora
 \dt 21/Dec/2014
 
 \lx Tayilɔri
 \ps n.prop
-\ge NOM.ETRG
-\gv Taylor
-\ee
+\gf NOM.ETRG
+\gvf Taylor
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Tewodoro Obiyangi Ngema
 \ps n.prop
-\ge NOM.ETRG
-\gv Teodoro Obiang Nguema Mbasogo
-\ee (président de la Guinée Équatoriale)
+\gf NOM.ETRG
+\gvf Teodoro Obiang Nguema Mbasogo
+\smf (président de la Guinée Équatoriale)
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx Tifinari
 \ps n
-\ge Tifinagh
-\gv
-\ee (écriture pour les langues berbères)
+\gf Tifinagh
+\gvf
+\smf (écriture pour les langues berbères)
 \xv
-\xe
+\xf
 \dt 23/Oct/2016
 
 \lx Toti
 \ps n
-\ge Thot
+\gf Thot
 \smf (dieu lunaire à l'Égypte antique)
-\ee
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Tɔrɔnpu
 \ps n.prop
-\ge NOM.ETRG
-\gv Trump
-\ee
+\gf NOM.ETRG
+\gvf Trump
+\smf
 \xv
-\xe
+\xf
 \dt 06/Feb/2017
 
 \lx TPI
 \ps n
-\ge ABR
-\gv TPI
-\gv Tribunal Pénal International
-\ee
+\gf ABR
+\gvf TPI
+\gvf Tribunal Pénal International
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Tukulɛri
 \ps n
-\ge Toucouleur
-\gv
-\ee
+\gf Toucouleur
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 05/Feb/2017
 
 \lx Tupisan
 \ps n
-\ge le.Tout.Puissant.Mazembe
-\gv
-\ee (club de football de RD Congo)
+\gf le.Tout.Puissant.Mazembe
+\gvf
+\smf (club de football de RD Congo)
 \xv
-\xe
+\xf
 \dt 05/Feb/2017
 
 \lx UDPM
 \ps n
-\ge UDPM
-\gv Union démocratique du peuple malien
+\gf UDPM
+\gvf Union démocratique du peuple malien
 \dt 14/Sep/2015
 
 \lx Wɛnzɛn Kùlubàli
 \ps n.prop
-\ge stade.Ouezzin-Coulibaly
-\gv
-\ee
+\gf stade.Ouezzin-Coulibaly
+\gvf
+\smf
 \xv
-\xe
+\xf
 \dt 01/Jun/2016
 
 \lx Wiladimir
 \ps n.prop
-\ge NOM.ETRG
-\gv Vladimir
-\ee
+\gf NOM.ETRG
+\gvf Vladimir
+\smf
 \xv
-\xe
+\xf
 \dt 03/Feb/2017
 
 \lx wiski
 \ps n
-\ge ETRG.FRA
-\gv whisky
+\gf ETRG.FRA
+\gvf whisky
 \dt 05/Apr/2016
 
 \lx wurubulu
 \ps v
-\ge rouble
+\gf rouble
 \dt 03/May/2013
 
 \lx Yesu Kirisita
 \ps n.prop
-\ge N.ETRG
-\gv Jésus Christ
-\ee
+\gf N.ETRG
+\gvf Jésus Christ
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Zakɔbu
 \ps n.prop
-\ge NOM.ETRG
-\gv Jacob
-\ee
+\gf NOM.ETRG
+\gvf Jacob
+\smf
 \xv
-\xe
+\xf
 \dt 05/Mar/2017
 
 \lx Zan Poli
 \ps n.prop
-\ge NOM.M
-\gv Jean-Paul
-\ee
+\gf NOM.M
+\gvf Jean-Paul
+\smf
 \xv
-\xe
+\xf
 \dt 07/Feb/2017
 
 \lx Zeyiya
 \ps n
-\ge ABR
-\gv GIA
-\gv Groupe ilamique armé
-\ee
+\gf ABR
+\gvf GIA
+\gvf Groupe ilamique armé
+\smf
 \xv
-\xe
+\xf
 \dt 15/Sep/2016
 
 \lx Zida
 \ps n.prop
-\ge NOM.ETRG
-\gv Judas
-\ee
+\gf NOM.ETRG
+\gvf Judas
+\smf
 \xv
-\xe
+\xf
 \dt 05/Mar/2017
 
 \lx Zidani
 \ps n.prop
-\ge NOM.ETRG
-\gv Zinédine Zidane
-\ee (footballer)
+\gf NOM.ETRG
+\gvf Zinédine Zidane
+\smf (footballer)
 \xv
-\xe
+\xf
 \dt 23/Feb/2017
 
 \lx Zoze Eduwarado Dɔsi Santɔsi
 \ps n.prop
-\ge NOM.ETRG
-\gv José Eduardo dos Santos
-\ee (président d'Angola)
+\gf NOM.ETRG
+\gvf José Eduardo dos Santos
+\smf (président d'Angola)
 \xv
-\xe
+\xf
 \dt 22/Feb/2017
 
 \lx Zɔrɔzi
 \ps n.prop
-\ge NOM.ETRG
-\gv George
-\ee
+\gf NOM.ETRG
+\gvf George
+\smf
 \xv
-\xe
+\xf
 \dt 23/Feb/2017
 
 \lx Zɔrɔzi Pɔnpidu
 \ps n.prop
-\ge Georges.Pompidou
-\ee (président français en 1969-1974)
+\gf Georges.Pompidou
+\smf (président français en 1969-1974)
 \xv
-\xe
+\xf
 \dt 21/Feb/2017

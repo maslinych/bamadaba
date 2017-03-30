@@ -1,37 +1,37 @@
-\_sh v3.0  400  MDF 4.0
+﻿\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name jamuw
 \ver 0.3
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Angontinbe
 \di dog
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ba
 \ps n.prop
-\ge NOM.CL
-\gv Ba
-\ee
+\gf NOM.CL
+\gvf Ba
+\smf
 \xv
-\xe
+\xf
 \dt 31/May/2016
 
 \lx Babi
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \dt 01/Feb/2017
 
 \lx Bacili
 \ps n.prop
-\ge NOM.CL
-\gv Bathily
-\ee
+\gf NOM.CL
+\gvf Bathily
+\smf
 \xv
-\xe
+\xf
 \dt 28/May/2016
 
 \lx Bàgayɔgɔ
@@ -44,31 +44,31 @@
 \ca hɔ̀rɔn
 \eq Sisoko
 \eq Dunbiya
-\sn Jalo
-\sn Sidibɛ
-\sn Sangarɛ
-\sn Balo
-\sn Jakitɛ
-\sn Fɔnba
-\sn Togola
+\ms Jalo
+\ms Sidibɛ
+\ms Sangarɛ
+\ms Balo
+\ms Jakitɛ
+\ms Fɔnba
+\ms Togola
 \fm Danba
 \ms bula
 \tt bàga
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Balo
 \va Baalo
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \dt 17/Dec/2012
 
 \lx Bamiya
 \di dog
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bánbà
 \di snf
@@ -76,9 +76,9 @@
 \re Sikasso
 \ca nùmu
 \ca hɔ́rɔn
-\sn Kane
-\sn ful
-\sn son
+\ms Kane
+\ms ful
+\ms son
 \mr Kulubali
 \mr ful
 \mr son
@@ -87,7 +87,7 @@
 \tn nkɔ̀rɔngɔ
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bánbèrá
 \va Bamera
@@ -98,7 +98,7 @@
 \re Segu
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Banbo
 \di b
@@ -107,36 +107,36 @@
 \ca hɔ́rɔn
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bàngura
 \di m
 \di sou
-\sn Suma
+\ms Suma
 \ms bula
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Banjugusi
 \di mK
 \ms kabila
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Baraga
 \di son
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Baraji
 \di son
 \di kag
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bari
 \di fulF
@@ -144,27 +144,27 @@
 \eq Si
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Barola
 \di dK
 \ms kabila
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Basum
 \di diog
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Baxaga
 \di son
 \ca griot-geseru
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bàyo
 \di b
@@ -173,7 +173,7 @@
 \ms bula
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Benkali
 \di son
@@ -181,7 +181,7 @@
 \re Sikaso
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bèrete
 \va Bèrte
@@ -190,48 +190,48 @@
 \di snf
 \di son
 \ca hɔ̀rɔn
-\sn Jane
+\ms Jane
 \fa Sùwanún (m)
 \ms Марабуты или (в неисламизированных районах)
 колдуны-знахари (bolotigiw). У манден - земледельцы.
 Относят к числу "первых пяти мусульман".
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bí
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bíibà
 \di son
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bíibà
 \di son
 \ms Деревня Madina, рядом с Guissimbine.
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bokum
 \di ful
 \di tou
-\sn nùmu
+\ms nùmu
 \ms Пастухи.
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Boyigille
 \di kag
 \di son
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Bwarɛ
 \va Bɔrɛ
@@ -241,7 +241,7 @@
 \di mny
 \dt 01/Feb/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Camu
 \di b
@@ -250,7 +250,7 @@
 \ca nùmu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Cɛɛrɔ
 \di b
@@ -261,32 +261,32 @@
 \cm у бобо
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Cɛnta
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Cokari
 \di diawambe
 \di diogorana
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Cùlentà
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Cun
 \di gaulo
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Daabo
 \va Dabo
@@ -297,43 +297,43 @@
 \fa Sonka (mdk)
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dáfe
 \cf Daw
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dakuwo
 \di bob
 \ca hɔ́rɔn
-\sn Dɛna
+\ms Dɛna
 \ms Земледельцы. Многие - христиане.
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Danba
 \ca jèli
 \eq Sakiliba
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dàngo
 \di son
 \ca jèli
 \tn nkòrongofin
 \eq Kuwate
-\sn Keyita
-\sn Kante
-\sn Konate
-\sn Makalu
+\ms Keyita
+\ms Kante
+\ms Konate
+\ms Makalu
 \ms Предок - Kabala Sinbon, внук Ase Bilali.
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dansira
 \eq Denbele
@@ -341,7 +341,7 @@
 \ms Женское джаму.
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dansoko
 \va Dansogo
@@ -357,20 +357,20 @@
 \eq Magasa
 \fm Danbe
 \fa Danfaga
-\sn Keyita
-\sn Sangare
-\sn Sidibe
-\sn Jakite
-\sn Jalo
+\ms Keyita
+\ms Sangare
+\ms Sidibe
+\ms Jakite
+\ms Jalo
 \ms Родоначальник - Jatra Dansogo.
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dànsúba
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dante
 \va Dantɛ
@@ -381,7 +381,7 @@
 \eq Sisoko
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dányò
 \di son
@@ -391,7 +391,7 @@
 \ca nùmu (kag)
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Danyɔkɔ
 \va Danyɔgɔ
@@ -405,19 +405,19 @@
 \re Sagabari (Kita)
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Daɲon
 \ms =Dáɲɔ?
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dara
 \di dog
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Daramera
 \va Dramera
@@ -425,13 +425,13 @@
 \ms Пастухи.
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Daramerra
 \cf Dramera
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Daramɛ
 \di son
@@ -441,7 +441,7 @@
 \di jgr
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Daw
 \va Ndaw
@@ -454,7 +454,7 @@
 \tn lɛ̀
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dawu
 \va Dawo
@@ -464,31 +464,31 @@
 \re Segu
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dèna
 \di bob
 \ca hɔ́rɔn
-\sn Dako
-\sn Kamate
+\ms Dako
+\ms Kamate
 \ms Земледельцы.
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Denba
 \di dia
 \ms Пастухи.
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dènbága
 \di son
 \ca garanke
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dènbele
 \va Dànbɛlɛ
@@ -509,18 +509,18 @@
 \tt miniɲan (Buguni)
 \dt 30/Jan/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Denɔn
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \dt 01/Feb/2017
 
 \lx Deteba
 \di kag
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dikko
 \va Dikɔ
@@ -532,14 +532,14 @@
 \ms Включает в себя Ɲalibuli.
 \dt 06/Feb/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dolo
 \di dog
 \tt nkaana
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Draba
 \di b
@@ -547,7 +547,7 @@
 \re Segu
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dramɛ
 \cf Daramɛ
@@ -565,18 +565,18 @@
 (кожевенники).
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dukansi
 \va Dùwansí
 \va Dugansi
 \di son
 \di xas
-\sn Sisigo
+\ms Sisigo
 \ms Родом из Wuluma (к северу от Kayi). Кузнецы (tagu).
 \dt 04/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dukare
 \di son
@@ -585,7 +585,7 @@
 \re Yelimane
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dúkùre
 \di son
@@ -595,14 +595,14 @@
 \ms Tɔntigi. Земледельцы.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dumasi
 \di son
 \ca tagu
 \dt 05/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dunbiya
 \va Dunbuya
@@ -616,26 +616,26 @@
 \eq Sisoko
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dúnɔ
 \di m
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dunu
 \di koranko (?)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Dunyo
 \di dog
 \re Sanga
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Fáanɛ
 \va Fánɛ
@@ -647,7 +647,7 @@
 \tn bama
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Fàdiga
 \va Fàdika
@@ -655,14 +655,14 @@
 \di m
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Fal
 \di wlf
 \di tou
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Famanta
 \va Pámàntà
@@ -673,20 +673,20 @@
 \tn miniɲan
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Fasa
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Fisuru
 \di son
 \ca wage
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Fófana
 \eq Fònba
@@ -699,11 +699,11 @@
 \di kag
 \di xas
 \di was
-\sn Kamara
-\sn Keyita
-\sn Ture
-\sn Kante
-\sn Kulibali
+\ms Kamara
+\ms Keyita
+\ms Ture
+\ms Kante
+\ms Kulibali
 \tn sàga
 \tn lèlame
 \cm исходно
@@ -715,41 +715,41 @@
 \fa Kànunjɔ́n
 \dt 17/Feb/2013
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Fònba
 \va Fɔ̀nba
 \di bob
-\sn Bagayogo
-\sn Balo
-\sn Kulibal
-\sn Sidibɛ
-\sn все фульбе
+\ms Bagayogo
+\ms Balo
+\ms Kulibal
+\ms Sidibɛ
+\ms все фульбе
 \tt janfin (сорока?)
 \tt маленькая полевая мышь
 \dt 08/Feb/2016
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Funɛmuso
 \ms Джаму у maabɔ. Часто - кузнецы. Женщины часто занимаются
 попрошайничеством; земледелем занимаются, но неохотно!
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gajigo
 \di tou
 \ca laabe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gaku
 \di mau
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Galedu
 \di wlf
@@ -757,13 +757,13 @@
 \ca hɔ̀rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ganbi
 \di diawambe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gandeega
 \di son
@@ -771,54 +771,54 @@
 \ms Возводят к сыну Diŋa.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gasama
 \di son
 \ca wage
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gboɛta
 \di son
 \ca jèli
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gey
 \di wlf
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gèyita
 \di m
 \re Bafin
-\sn Daabɔ
-\sn не бракозапретный
+\ms Daabɔ
+\ms не бракозапретный
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gigilay
 \ca garanke
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gilawogi
 \di looma
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ginbaira
 \di diawambe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gìndo
 \di dog
@@ -828,22 +828,22 @@
 территории.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gise
 \di ful
 \ca maabube (ткачи)
 \tn питон
-\sn nùmu
+\ms nùmu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Golfa
 \di diawambe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gologo
 \va Galogo
@@ -851,14 +851,14 @@
 \di son (?)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Goyta
 \va Goyita
 \di mny
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gumane
 \di son
@@ -866,20 +866,20 @@
 \re Banamba
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Gunbala
 \di tou
 \ms Тукулёры-столяры (laobe), изготовители лодок.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Haba
 \di kpelle
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Haydara
 \va Háyidara
@@ -891,20 +891,20 @@
 Марабуты. Не имеют tana и брачныз запретов.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Honomu
 \di kpelle
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ja
 \di tou
 \ca hɔ̀rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jaabi
 \di son
@@ -915,7 +915,7 @@
 \ms Возводят к сыну Diŋa.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jàanɛ
 \di son
@@ -928,14 +928,14 @@
 \cm из сонинке maka remme 'ребёнок из Мекки'
 \fa Sámɛkà
 \cm 'сириец' (в Гвинее)
-\sn Keita
-\sn Berete
-\sn Sila
+\ms Keita
+\ms Berete
+\ms Sila
 \tn jifa
 \cm мясо животного, зарезанного не по мусульманскому обряду
 \dt 17/Feb/2013
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jabira
 \di son
@@ -943,7 +943,7 @@
 \eq Yatabere
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jágàraga
 \di son
@@ -951,7 +951,7 @@
 \tn houtarde
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jagate
 \di m
@@ -961,15 +961,15 @@
 \re Ba
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jahune
 \di son
 \ca garanke
-\sn Makalu
+\ms Makalu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jàkite
 \di was
@@ -979,12 +979,12 @@
 \eq Kaba
 \eq Jagate
 \eq Ja
-\sn Kyta
-\sn Sidibɛ
+\ms Kyta
+\ms Sidibɛ
 \fa Kaba
 \dt 17/Feb/2013
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jàlo
 \di ful
@@ -997,28 +997,28 @@
 \eq Ka
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Janbisi
 \di son
 \ca garanke
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jánka
 \di son
 \ca nùmu
 \re Kayi_
-\sn Jalo
-\sn Sidibɛ
-\sn Sangare
-\sn Jakite
+\ms Jalo
+\ms Sidibɛ
+\ms Sangare
+\ms Jakite
 \fa nùmu
 \fa dɔ̀nkili
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jàra
 \di b
@@ -1031,33 +1031,33 @@
 \tt ntɔɔroden
 \tt wòndon
 \tn waraninkalan
-\sn Tarawele
-\sn Denbele
-\sn Sanogo
-\sn Kone
-\sn Kanute
-\sn Dunbuya
-\sn Bagayogo
+\ms Tarawele
+\ms Denbele
+\ms Sanogo
+\ms Kone
+\ms Kanute
+\ms Dunbuya
+\ms Bagayogo
 \ms Jàra не должны смотреть на младенца первые 8 дней после
 его рождения (иначе тот умрёт).
 \fa Jàra kòloba kári!
 \fa í jàra mín? í yé kɔ̀` tìgɛ, í jàra ò dá` lá!
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jaraga
 \di kag
 \ca nùmu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jarasuba
 \di b
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jariso
 \di son
@@ -1066,19 +1066,19 @@
 \ca wage
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jaruma
 \di son
 \ms Kusa. Прародитель - Kantiakabe.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jasarɛ
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jaw
 \di xas
@@ -1090,7 +1090,7 @@
 \tt kolokani
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jáwara
 \di son
@@ -1102,59 +1102,59 @@
 \ca jèli
 \ca garanke
 \tn трёхцветная коза (чёрная, белая, рыжая)
-\sn garanke
+\ms garanke
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jàwunɛ
 \ca garanke
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jebikile
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jefaga
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jemen
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jenepo
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jeng
 \di tou
 \ms Субалбе (тукурёры-рыболовы), гауло.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jenta
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jeye
 \di tou
 \ms Субалбе (тукурёры-рыболовы).
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jɛbatɛ
 \va Jabatɛ
@@ -1172,23 +1172,23 @@
 \ca gesere
 \cm у сонинке
 \tn panthère
-\sn Jara
-\sn Kone
+\ms Jara
+\ms Kone
 \dt 23/Feb/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jige
 \di diawambe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jigibe
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jime
 \va Njim
@@ -1196,14 +1196,14 @@
 \di diogorame
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jinbiya
 \di son (?)
 \tt tunbi (garinarium excelsum)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jire
 \va Jirɛ
@@ -1215,7 +1215,7 @@
 \cm в Сегу
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jonbana
 \di son
@@ -1224,20 +1224,20 @@
 \ca nùmu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jong
 \ca maabube
 \tn питон
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jonu
 \ms Болон.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jop
 \va Juf
@@ -1246,17 +1246,17 @@
 \di wlf
 \eq Tarawele
 \eq Denbele
-\sn Njayi
+\ms Njayi
 \dt 09/Oct/2016
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jɔ́mànde
 \eq Fɔfana
 \ms Народная этимология: "сын манден".
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jɔnfaga
 \di dia
@@ -1264,14 +1264,14 @@
 \re Boke
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jɔnsan
 \di dia
 \ca hɔ̀rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Juhara
 \di son
@@ -1279,13 +1279,13 @@
 \ca garanke
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jukanci
 \di b
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jum
 \di ful
@@ -1293,34 +1293,34 @@
 \ca столяры
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jumasi
 \di b
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Jwàra
 \di son
 \ca hɔ̀rɔn
-\sn Kamara
-\sn Jawara
-\sn Sanɔgɔ
+\ms Kamara
+\ms Jawara
+\ms Sanɔgɔ
 \tn nkaana
 \fa Mùsamàkan
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kaane
 \eq Kante
 \di b
 \di tou
-\sn Banba
+\ms Banba
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kàba
 \di m
@@ -1333,7 +1333,7 @@
 \fa kàbjàyitɛ
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kalapo
 \va Kalafo
@@ -1341,19 +1341,19 @@
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kale
 \di somono
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kalle
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kaloga
 \va Kálɔkà
@@ -1364,7 +1364,7 @@
 \ca garanke
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kama
 \di son
@@ -1372,13 +1372,13 @@
 \ca tagu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kamagate
 \di dK
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kàmara
 \va Kámala
@@ -1397,10 +1397,10 @@
 \ca finɛ
 \ca nùmu
 \cm (Wasulu)
-\sn Kuruma
-\sn Fofana
-\sn Sila
-\sn Wulare
+\ms Kuruma
+\ms Fofana
+\ms Sila
+\ms Wulare
 \tt jebrelen
 \tt sama
 \cm у коньянка
@@ -1409,7 +1409,7 @@
 \di som
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kàmisoko
 \va Kàmisogo
@@ -1425,26 +1425,26 @@
 \fa Sataba
 \dt 26/Feb/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kamiyan
 \di marka
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kan
 \di diawambe
 \re Segu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kanakomo
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Káne
 \di boz
@@ -1452,7 +1452,7 @@
 \re Segu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kàni
 \di b
@@ -1461,14 +1461,14 @@
 \re Beledugu (?)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kanisi
 \di mK
 \ms Один из kabila, входящих в джаму Keita.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kankama
 \di dia
@@ -1477,26 +1477,26 @@
 \fa Ɲagaso
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kanpo
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kansai
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kantara
 \di m
 \eq Kamara
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kántɛ
 \va Kánte
@@ -1516,16 +1516,16 @@
 \pr Bamagana
 \fa nùmuna kúlunba, súbagaya tɛ́ sà!
 \fa Súya tɛ sànfɛn yé, nùmuya` tɛ́ kɔ́rɔbɔ
-\sn Kulibali
-\sn Keyita
-\sn Kamara
-\sn Samakɛ
-\sn Jabo
-\sn Jakitɛ
-\sn фульбе
+\ms Kulibali
+\ms Keyita
+\ms Kamara
+\ms Samakɛ
+\ms Jabo
+\ms Jakitɛ
+\ms фульбе
 \dt 07/Feb/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kanute
 \va Kanutɛ
@@ -1535,38 +1535,38 @@
 \cm у кагоро
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kanyasi
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Karabɛnta
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Karanbe
 \di dog
 \re Bandiagara
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Karanyara
 \di diawambe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Karo
 \ms Одно из трёх больших подразделений сонинке.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kásanbàra
 \eq Kulibali
@@ -1574,40 +1574,40 @@
 \cm в Бандиагара
 \di b
 \cm в Мопти
-\sn Keyita
-\sn Ture
-\sn Mayiga
-\sn Samokɛ
-\sn Jara
+\ms Keyita
+\ms Ture
+\ms Mayiga
+\ms Samokɛ
+\ms Jara
 \tn голод (?)
 \ms Народная этимология: kásaa ń bàra 'от меня пахнет рыбой'.
 Младший брат - Кулибали, съевший сома npɔlyɔ.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kase
 \di ful
 \ca maabɔ
 \ms в Мопти
 \tn nkɔrɔngɔ
-\sn nùmu
+\ms nùmu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kasoge
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kasumasi
 \di mK
 \ms Один из kabila джаму Keyita.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kàtile
 \di b
@@ -1618,7 +1618,7 @@
 \cm одежда, крашенная индиго
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kèbe
 \di m
@@ -1629,13 +1629,13 @@
 \cm у тукулёров
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kelefeli
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kelem
 \di ful
@@ -1643,14 +1643,14 @@
 \tn питон
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Keren
 \di dK
 \ms Один из kabila в Конге.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kéyità
 \va Kétà
@@ -1668,14 +1668,14 @@
 \re Farana
 \tn jàra
 \tn nonsi
-\sn Turɛ
-\sn Kulibali
-\sn Sisɛ
-\sn Sidibɛ
-\sn Kaba
-\sn Wulare
-\sn Jane
-\sn Màriko
+\ms Turɛ
+\ms Kulibali
+\ms Sisɛ
+\ms Sidibɛ
+\ms Kaba
+\ms Wulare
+\ms Jane
+\ms Màriko
 \fm Sugo
 \fm Suko
 \cm брачные партнёры
@@ -1683,59 +1683,59 @@
 \ms Общее происхождение с Kulibali.
 \dt 04/Jun/2014
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kɛ̀mɛnaani
 \di b
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kiabu
 \di dia
 \ca hɔ̀rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kide
 \di diawambe
 \di diogorame
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kindibilba
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kirigun
 \di dK
 \ms Один из kabila в Конге.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kobara
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kojo
 \di dog
 \re Sanga
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kolo
 \eq Samake (?)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kòma
 \va Komma
@@ -1745,14 +1745,14 @@
 мусульман".
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kómàra
 \di m
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Konare
 \di b
@@ -1764,7 +1764,7 @@
 \tn nɔ́nsin
 \dt 18/Feb/2013
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kónatɛ̀
 \va Kɔnatɛ
@@ -1775,11 +1775,11 @@
 \di b
 \di kag
 \tn wùlu
-\sn Màriko
+\ms Màriko
 \ms в Беледугу
 \dt 13/May/2016
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kònde
 \va Kɔ́ndɛ
@@ -1792,7 +1792,7 @@
 \re Kankan
 \dt 29/Mar/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kone
 \va Kɔ́ndɛ
@@ -1811,34 +1811,34 @@
 \ms Jèli у Kamara (kagoro).
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Konipo
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kònta
 \va Kɔ̀nta
 \di boz
 \dt 06/Feb/2016
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Korkosi
 \di son
 \ca tagu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Korora
 \di dK
 \ms Один из kábila Конга.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Koyita
 \va Koyta
@@ -1857,28 +1857,28 @@
 Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kɔnpawore
 \ps n.prop
-\ge NOM.CL
-\gv Compaoré
-\sn Moosi
-\ee
+\gf NOM.CL
+\gvf Compaoré
+\ms Moosi
+\smf
 \xv
-\xe
+\xf
 \dt 01/Feb/2017
 
 \lx Kɔ́ntawò
 \di som
-\sn kagoro
-\sn soninke
-\sn dogon
+\ms kagoro
+\ms soninke
+\ms dogon
 \cm бракозапретные
 \ms Восходят к сонинке.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kɔrɛ
 \di b
@@ -1886,14 +1886,14 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \re Segu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kuɛyta
 \di son
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kùlibàli
 \va Kùlubàli
@@ -1919,13 +1919,13 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \cm = Bitɔn Kulibali fasa
 \dt 18/Jun/2014
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kuma
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kumare
 \di b
@@ -1934,14 +1934,14 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \cm в Сегу
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kumate
 \di bobo
 \eq Samake
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kume
 \di fil
@@ -1949,14 +1949,14 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \tn питон
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kunbare
 \di son
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kundur
 \di ful
@@ -1964,7 +1964,7 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \tn питон
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kuruma
 \va Koroma
@@ -1978,26 +1978,26 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \ca hɔ́rɔn
 \ca garanke
 \ca nùmu
-\sn Kamara
+\ms Kamara
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kusa
 \ms Одно из трёх подразделений сонинке, включающее джаму:
 Jaruma, Tunkara, Dukure. По традиции, не должны носить
 одежду, крашенную индиго, и шлёпанцы. Гриоты - Simaxa,
 Sagone.
-\sn Wago
+\ms Wago
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kuwate
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Kúyate
 \va Kúwate
@@ -2012,59 +2012,59 @@ Sagone.
 \tn sege
 \tn babi
 \tn nkaana
-\sn Keyita
-\sn Konate
-\sn Nakalu
+\ms Keyita
+\ms Konate
+\ms Nakalu
 \fa jèli hɔ́rɔn
 \fa jàli tɛ́ Kúyate bɔ́!
 \ms "Дружеское согласие"с Keyita (не senankuya)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx La
 \di diawambe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Lam
 \di gaulo
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Landure
 \di diawambe
 \di diogorame
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Lé
 \di tou
 \di ful
-\sn Sow
-\sn Kante
-\sn nùmu
+\ms Sow
+\ms Kante
+\ms nùmu
 \ms Нет tana.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Lelenta
 \va Lilenta
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Maale
 \di b
 \re Segu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Maane
 \di mdk
@@ -2072,13 +2072,13 @@ Sagone.
 сословие nyanco.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Magaji
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Magasa
 \di kag
@@ -2089,14 +2089,14 @@ Sagone.
 \ca hɔ́rɔn
 \ca tontigi
 \tn jala
-\sn фулбье
+\ms фулбье
 \ms бракозапретн.
-\sn Dugure
-\sn Jariso
-\sn Sumare
+\ms Dugure
+\ms Jariso
+\ms Sumare
 \ms небракозаптретн.
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \dt 01/Jun/2016
 
 \lx Màgasùba
@@ -2106,16 +2106,16 @@ Sagone.
 \ca hɔ́rɔn
 \ca tontigi
 \tn bànba
-\sn Kùruma
+\ms Kùruma
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Magiraga
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Màkalu
 \di son
@@ -2125,32 +2125,32 @@ Sagone.
 \ca jèli
 \ca garake
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \dt 01/Jun/2016
 
 \lx Makangile
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Makkaji
 \di son
 \ca wage
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Male
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \dt 01/Feb/2017
 
 \lx Mandakunu
 \ms Почётное имя для Tunkara у сонинке.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Mangala
 \di kag
@@ -2158,20 +2158,20 @@ Sagone.
 \di son
 \di xas
 \ca nùmu
-\sn фульбе
+\ms фульбе
 \cm бракозапретн.
-\sn Sàko
+\ms Sàko
 \cm бракозапретн.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Mànju
 \di m
 \eq Ture
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Mansaren
 \fm Mansarena
@@ -2179,14 +2179,14 @@ Sagone.
 вождя".
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Mara
 \va Máara
 \di kuranko
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Màriko
 \di b
@@ -2197,37 +2197,37 @@ Sagone.
 \re Segu
 \re Sikaso
 \tt bàma
-\sn nùmu; Sikaso: Kéyità, Samakɛ, Kónatɛ̀
+\ms nùmu; Sikaso: Kéyità, Samakɛ, Kónatɛ̀
 \dt 04/Jun/2014
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Markus
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Masasi
 \ms "Почётное имя" для Kulubali у бамана. Букв., "потомство
 вождя".
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Mayga
 \va Mayiga
 \di sng
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Mɛnta
 \di boz
 \di som
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Mònekata
 \di m
@@ -2239,7 +2239,7 @@ Sagone.
 Сигири. Не ужился там, переправился через Falema в Kanieba.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Mukɔrɔ
 \di bob
@@ -2247,72 +2247,72 @@ Sagone.
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Nabo
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Nafo
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Nàmɔgɔ
 \di m-bage
 \di mK
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Náyitɛ
 \di m
 \ms редк.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Nbayi
 \va Nbay
-\sn Nyang
+\ms Nyang
 \dt 03/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Nbo
 \ca garanke
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ngalingo
 \di mdk
 \ms Одно из джаму Bula, потомков Fakoli
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ngoni
 \di wlf
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Nimaga
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Njade
 \di diawambe
 \di diogorame
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Njayi
 \va Njay
@@ -2320,42 +2320,42 @@ Sagone.
 \di wlf
 \ca hɔ̀rɔn
 \ca gawulo
-\sn Jop
+\ms Jop
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Njim
 \cf Jime
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Nmub
 \di gaulo
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Nomogo
 \di m
 \ca tontigi
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Numansana
 \di son
 \re Kayi
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲagaso
 \ms Почётное имя у джаму Kankana (dialonke).
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲákàte
 \di son
@@ -2366,19 +2366,19 @@ Sagone.
 \pr Jula
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲalibuli
 \di ful
 \ms Входят в Dikko.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲamakansi
 \ms Один из kabili джаму Keyita.
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \dt 01/Jun/2016
 
 \lx Ɲan
@@ -2386,25 +2386,25 @@ Sagone.
 \di diogorame
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲanbali
 \di
 \eq Tarawele
 \eq Danbɛlɛ
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲanbele
 \di b
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲang
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲangandu
 \va Ɲangado
@@ -2412,20 +2412,20 @@ Sagone.
 \di diawambe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲangi
 \di tua
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲaraxi
 \di son
 \re Kaarta
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲarɛ
 \va Ɲàre
@@ -2433,36 +2433,36 @@ Sagone.
 \di som
 \dt 04/Jun/2016
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Ɲɛ́ntaò
 \di som
-\sn догоны
+\ms догоны
 \ms Дают своих женщин в жёны кузнецам, но в жёны кузнечих
 не берут. Не имеют tàna.
 \fa Juber Alwatar!
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Odraogo
 \di mosi
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Pamanta
 \va Pamante
 \cf Famanta
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Pujugu
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Saane
 \di mdk
@@ -2470,7 +2470,7 @@ Sagone.
 состав ɲanco, "рыцарского сословия".
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sagango
 \va Sakanoko
@@ -2480,30 +2480,30 @@ Sagone.
 \di son
 \di snf
 \di sng
-\sn Jàra
+\ms Jàra
 \tn miɲinan
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sagara
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sagone
 \di son
 \ca jèli
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sakiliba
 \ms Женское джаму, соотв. Dunbuya
 \dt 25/Dec/2014
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sako
 \va Sakɔ
@@ -2525,7 +2525,7 @@ Sagone.
 \tn nkaana
 \dt 01/Feb/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sal
 \di tpu
@@ -2533,27 +2533,27 @@ Sagone.
 \ca maabube
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Salu
 \di son
 \ca mòri
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sam
 \di gaulo
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Samagana
 \di dK
 \ms Один из kabila в Конге.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sàmakɛ
 \va Sàmake
@@ -2566,7 +2566,7 @@ Sagone.
 \eq Kamate
 \ca hɔ́rɔn
 \tt sàma
-\sn Kùlibàli, Màriko (Sikaso)
+\ms Kùlibàli, Màriko (Sikaso)
 \re Segu
 \re Sikaso
 \re Buguni
@@ -2574,14 +2574,14 @@ Sagone.
 \ms Гриоты у сонгаев.
 \dt 14/Sep/2015
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Samasa
 \di son
 \ca wage
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Samaseku
 \di dog
@@ -2589,14 +2589,14 @@ Sagone.
 \ca nùmu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Same
 \di diawambe
 \di diogorame
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Samura
 \di son
@@ -2604,20 +2604,20 @@ Sagone.
 \ms По происхождение - фульбе с Фута-Джалона.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sanarkua
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sanbaxe
 \di son
 \ca tagu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sàngare
 \va Sankare
@@ -2627,12 +2627,12 @@ Sagone.
 \eq Bari
 \eq Si
 \eq Ba
-\sn Sidibɛ
-\sn nùmu
+\ms Sidibɛ
+\ms nùmu
 \ms Шутливое прозвище: Kàngare.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sangone
 \di ful
@@ -2640,7 +2640,7 @@ Sagone.
 \tn питон
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sanogo
 \va Sánɔ̀ɔ
@@ -2650,39 +2650,39 @@ Sagone.
 \di mny
 \di son
 \di kuranko
-\sn Jàra
+\ms Jàra
 \tn miniɲa
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sanpi
 \di son
 \ca geseru
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Santara
 \di b
 \di bob
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sanu
 \di d
 \re Burkina-Faso
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Saɲɔ
 \di m
 \di kny
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sar
 \di ful
@@ -2693,7 +2693,7 @@ Sagone.
 \cm тукулёры-рыболовы
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sare
 \di ful
@@ -2701,44 +2701,44 @@ Sagone.
 \tn питон
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sarisi
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sawadogo
 \di mos
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sek
 \di wlf
 \di tou
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sekem
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Serefu
 \di m
 \ms Джаму?
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sɛnpara
 \va Simpara
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \ca hɔ́rɔn
 \dt 12/Jun/2014
 
@@ -2748,7 +2748,7 @@ Sagone.
 \ca maabube
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sibi
 \di mau
@@ -2756,21 +2756,21 @@ Sagone.
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sídìbe
 \di ful
 \di was
 \eq So
 \eq Sow
-\sn Jakitɛ
-\sn Keyita
-\sn Fɔ̀nba
-\sn Sangare
+\ms Jakitɛ
+\ms Keyita
+\ms Fɔ̀nba
+\ms Sangare
 \tn fɛ́rɛtɛnin
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sídimɛ̀
 \va Sìdimɛ
@@ -2779,7 +2779,7 @@ Sagone.
 \ms Режут статуи из дерева.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sìla
 \va Silla
@@ -2791,12 +2791,12 @@ Sagone.
 \ca mori
 \ca geseru
 \ca garanke
-\sn Kamara
+\ms Kamara
 \cm небракозаптретн.
-\sn Jaane
+\ms Jaane
 \cm бракозапретн.
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \dt 01/Jun/2016
 
 \lx Simaga
@@ -2807,25 +2807,25 @@ Sagone.
 \ca garanke
 \ms Считается, что Simaga-garanke могут перевоплощаться в гиен.
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \dt 01/Jun/2016
 
 \lx Simalo
 \di m
 \re Kangaba
 \tt tutu
-\sn Sumaworo
-\sn Kante
-\sn Konate
+\ms Sumaworo
+\ms Kante
+\ms Konate
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sinaba
 \cf Sinayɔgɔ
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sinayɔgɔ
 \va Sineyogo
@@ -2837,19 +2837,19 @@ Sagone.
 \ms Относятся к bula, потомкам Fakoli.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sineba
 \di m
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sinenta
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Singare
 \di sam
@@ -2857,7 +2857,7 @@ Sagone.
 \ms Восходят к фульбе-Bangare.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sìsɛ
 \va Sise
@@ -2871,14 +2871,14 @@ Sagone.
 \eq Sengor
 \ca hɔ́rɔn
 \ca wage
-\sn Keyita
+\ms Keyita
 \ms Возводят к сыну Diŋa. У маден - один из "первых пяти
 мусульман".
 \tn lɛ̀
 \tn wɔ̀lɔ
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sisɔkɔ
 \va Sisoko
@@ -2900,13 +2900,13 @@ Sagone.
 \tn nkaana
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sisuma
 \di mny
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx So
 \va Sow
@@ -2917,12 +2917,12 @@ Sagone.
 \ca laabe
 \tn страус
 \tn заяц
-\sn Bari
-\sn Sangare
-\sn nùmu
+\ms Bari
+\ms Sangare
+\ms nùmu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sogoba
 \di mny
@@ -2934,26 +2934,26 @@ Sagone.
 \tn sàma
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sogoxe
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sok
 \di gawulo
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Somaso
 \di dK
 \ms Один из kabila в Конге.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Somono
 \va Sumano
@@ -2964,13 +2964,13 @@ Sagone.
 \ms Предок - Kani Sinbon, внук Bilali.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Soropɔgi
 \di looma
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Soxuna
 \va Suxuna
@@ -2980,7 +2980,7 @@ Sagone.
 \ms Возводят к сыну Diŋa.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Suko
 \va Sogo
@@ -2990,12 +2990,12 @@ Sagone.
 Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Suma
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sumaoro
 \va Sumaworo
@@ -3010,7 +3010,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \tn ɲuma tutu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sumare
 \va Sumarɛ
@@ -3019,7 +3019,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ca tontigi
 \dt 05/Feb/2016
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sunbunu
 \di son
@@ -3027,7 +3027,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ms Tagedimmanu - гриоты гриотов, кузнецов, кожевенников.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Suntura
 \di ful
@@ -3035,20 +3035,20 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \eq Jalo
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Susogo
 \di xas
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sùwanun
 \di m
 \ms Хвалебное имя Berete. Редко - как особое джаму.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Sùware
 \di m
@@ -3057,11 +3057,11 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \di dia
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tabure
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 \ca Maures
 \dt 02/Apr/2015
 
@@ -3070,7 +3070,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \di tou
 \dt 01/Feb/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tanbura
 \va Tammbura
@@ -3084,20 +3084,20 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ca рабы фульбе
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tangara
 \di b-jonka
 \di m
-\sn Kulibali
-\sn fula
+\ms Kulibali
+\ms fula
 \re Segu
 \re Sikaso
 \re Kulikoro
 \tt waraninkala
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tanja
 \di son
@@ -3105,19 +3105,19 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ca wage
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tapili
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tapo
 \di boz
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tàrawele
 \va Tràwele
@@ -3142,23 +3142,23 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \eq Gilawogi
 \eq Honomu
 \eq Zogbelemu
-\sn Jàra
-\sn Kɔ́nɛ
-\sn Jawara
-\sn Turɛ
+\ms Jàra
+\ms Kɔ́nɛ
+\ms Jawara
+\ms Turɛ
 \pr Dansɔkɔ
 \tt ndaba kunba
 \tt nkaana
 \dt 23/Feb/2017
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tel
 \va Teli
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tembelu
 \va Tembeli
@@ -3166,13 +3166,13 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \re Bandiagara
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tembine
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tera
 \di bob
@@ -3181,14 +3181,14 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tigana
 \di m
 \ms Ювелиры?
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tirera
 \di son
@@ -3197,35 +3197,35 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ca jèli
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tisugem
 \di dog
 \tn bàma
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Togo
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tògola
 \di b
 \di mny
 \di snf
 \eq Jàra
-\sn Tarawele
-\sn Denbele
+\ms Tarawele
+\ms Denbele
 \tt jàra
 \re Sikaso
 \re Baninko
 \re Cendugu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Treta
 \va Tereta
@@ -3233,7 +3233,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tùnkara
 \va Tùngara
@@ -3249,7 +3249,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ms У кагоро - jèli при Fofana.
 \dt 12/May/2016
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Tùre
 \di m
@@ -3266,10 +3266,10 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \tn sàma
 \pr Mànju
 \pr Sirimanka
-\sn Tarawele
+\ms Tarawele
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Wago
 \di son
@@ -3281,33 +3281,33 @@ Janisemega, Yatabere, Makkaji, Tunkara, Fisuru, Ɲakate, Fofana,
 Baygille, Drame, Yaresi, Markus.
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Wakannesaxo
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Walikalo
 \di diawambe
 \di diogorame
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Wane
 \di ful (?)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Waɲe
 \di tou
 \ca laobe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Watara
 \di dK
@@ -3315,34 +3315,34 @@ Baygille, Drame, Yaresi, Markus.
 \tn miniɲan
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Wederawogo
 \di mos
 \eq Kuruma (?)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Woge
 \di son
 \eq Wage (?)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Wologem
 \di dog
 \re Bandiagara
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Worote
 \ca nùmu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Wùlalɛ
 \di m
@@ -3350,34 +3350,34 @@ Baygille, Drame, Yaresi, Markus.
 \eq Wùlare (?)
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Wùlare
 \di m
 \ca hɔ́rɔn
 \re Farana
 \re Sankaran
-\sn Keyita
+\ms Keyita
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Xomme
 \di son
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Yansane
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Yarangore
 \di diawambe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Yaresi
 \di son
@@ -3385,7 +3385,7 @@ Baygille, Drame, Yaresi, Markus.
 \ca tagu
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Yatabare
 \va Yatabere
@@ -3395,35 +3395,35 @@ Baygille, Drame, Yaresi, Markus.
 \eq Jabira
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Yatara
 \di ful
 \di tua
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Yatasay
 \di diawambe
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Yebese
 \di dog
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Zerbo
 \di mos
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
 
 \lx Zogbelemu
 \di kpelle
 \dt 06/May/2010
 \ps n.prop
-\ge NOM.CL
+\gf NOM.CL
