@@ -1,4 +1,4 @@
-﻿\_sh v3.0  400  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name yorow
@@ -496,6 +496,13 @@ Salam, Cercle de Tombouctou)
 \gvf Niger
 \dt 23/May/2010
 
+\lx Bajugunin
+\ps n.prop
+\gf TOP
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Bákaribugu
 \ty кв.
 \ps n.prop
@@ -557,6 +564,13 @@ Salam, Cercle de Tombouctou)
 \cm (в Сегу)
 \dt 05/Dec/2010
 
+\lx Bamanula
+\ps n.prop
+\gf TOP
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Bànakolo
 \ps n.prop
 \gf TOP
@@ -606,6 +620,13 @@ Salam, Cercle de Tombouctou)
 \gf TOP
 \gvf Banankoroba
 \dt 29/Mar/2017
+
+\lx Banankɔrɔnin
+\ps n.prop
+\gf TOP
+\gvf Banankoroni
+\smf
+\dt 09/Apr/2017
 
 \lx Banbara Mawude
 \ps n.prop
@@ -953,6 +974,13 @@ Comoé, Burkina Faso)
 \smf (un quartier de la Commune 2 de Bamako)
 \dt 05/Feb/2017
 
+\lx Boyi
+\ps n.prop
+\gf TOP
+\gvf Boyi
+\smf (village, cercle de Bougouni, région de Sikasso)
+\dt 09/Apr/2017
+
 \lx Bɔbɔjulaso
 \va Bɔbɔ Julaso
 \va Bobojulaso
@@ -1260,6 +1288,13 @@ Kirina, lieu de bataille entre Soundiata et Soumangourou)
 \xf
 \dt 25/Feb/2017
 
+\lx Dikani
+\ps n.prop
+\gf TOP
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Dinbali
 \ps n.prop
 \gf TOP
@@ -1339,6 +1374,13 @@ Koulikoro)
 \smf (village, environ 10 km à l'ouest de Ségou, province de
 Ségou)
 \dt 24/Mar/2017
+
+\lx Dùgutigibugu
+\ps n.prop
+\gf TOP
+\gvf Dougoutiguibougou
+\smf (village, commune de Soignébougou, cercle et région de Ségou)
+\dt 01/Apr/2017
 
 \lx Dumanzana
 \ps n.prop
@@ -1461,6 +1503,13 @@ Tadmekka)
 \gvf Espagne
 \dt 19/Dec/2012
 
+\lx Fabugu
+\ps n.prop
+\gf TOP
+\gvf Fabougou
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
 \lx Fagibini
 \ty оз.
 \ru Фагибини
@@ -1508,10 +1557,11 @@ Tadmekka)
 \ps n.prop
 \gf TOP
 \gvf Fana
-\smf
+\smf (ville, chef-lieu de la commune de Guégnéka, région de
+Koulikoro)
 \xv
 \xf
-\dt 23/Oct/2016
+\dt 09/Apr/2017
 
 \lx Fàrafinna
 \mm fàra:n:écorce
@@ -1778,6 +1828,13 @@ Tunisie et de l’Algérie)
 \gvf Gao
 \dt 05/Apr/2016
 
+\lx Garala
+\ps n.prop
+\gf TOP
+\gvf Garala
+\smf (village, région de Mopti)
+\dt 09/Apr/2017
+
 \lx Garali
 \ps n.prop
 \gf TOP
@@ -1808,14 +1865,14 @@ Tunisie et de l’Algérie)
 \smf (une ville au nord de Cameroun)
 \dt 05/Feb/2016
 
-\lx Gawo
+\lx Gàwó
 \ty г.
 \ps n.prop
 \gf TOP
 \gvf Gao
 \ru Гао
 \cm (на востоке Мали)
-\dt 23/May/2010
+\dt 07/Apr/2017
 
 \lx Gbékeduu
 \di m
@@ -2475,6 +2532,13 @@ région de Mopti)
 \xf
 \dt 04/Jun/2016
 
+\lx Kala
+\ps n.prop
+\gf TOP
+\gvf Kala
+\smf (village, cercle de Niono, région de Ségou)
+\dt 09/Apr/2017
+
 \lx Kalabanbugu
 \ps n.prop
 \gf TOP
@@ -2816,6 +2880,13 @@ Sikasso)
 \gvf Kerouané
 \dt 05/Feb/2016
 
+\lx Kɛlɛku
+\ps n.prop
+\gf TOP
+\gvf Kélékou
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
 \lx Kɛnɛdugu
 \va Kenedugu
 \ps n.prop
@@ -3061,6 +3132,13 @@ région de Koulikoro)
 \xf
 \dt 05/Feb/2017
 
+\lx Kɔkɛbugu
+\ps n.prop
+\gf TOP
+\gvf Kokebougou
+\smf (village, cercle et région de Ségou)
+\dt 01/Apr/2017
+
 \lx Kɔkuna
 \ps n.prop
 \gf TOP
@@ -3152,7 +3230,7 @@ région de Ségou)
 \va Kontuware
 \va Kɔ́ntɔwàri
 \va Konowari
-\va Kɔdiwari
+\va Kɔ́dìwari
 \va Kotiwari
 \va Kɔdɔwari
 \ty гос.
@@ -3160,7 +3238,7 @@ région de Ségou)
 \gf TOP
 \gvf Côte.d'Ivoire
 \ru Кот-д'Ивуар
-\dt 03/Feb/2017
+\dt 07/Apr/2017
 
 \lx Kɔrɔdu
 \ps n.prop
@@ -3219,6 +3297,9 @@ Ténenkou, région de Mopti)
 \lx Kucala
 \ps n.prop
 \gf TOP
+\gvf Koutiala
+\smf (ville et cercle, région de Sikasso)
+\dt 09/Apr/2017
 
 \lx Kùluba
 \ps n.prop
@@ -3556,6 +3637,13 @@ Tombouctou)
 \ps n.prop
 \gf TOP
 
+\lx Manɛ
+\ps n.prop
+\gf TOP
+\gvf Mane
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
 \lx Manta
 \ps n.prop
 \gf TOP
@@ -3578,8 +3666,8 @@ Tombouctou)
 \ps n.prop
 \gf TOP
 \gvf Markala
-\smf (commune dans le cercle de Ségou)
-\dt 08/Feb/2016
+\smf (commune, cercle de Ségou)
+\dt 09/Apr/2017
 
 \lx Marenna
 \ps n.prop
@@ -3786,12 +3874,13 @@ royaumes successeurs de l'Ancien Ghana)
 
 \lx Móti
 \va Mɔ́ti
+\va Mɔputi
 \ty г.
 \ps n.prop
 \gf TOP
 \gvf Mopti
 \ru Мопти
-\dt 05/Feb/2016
+\dt 09/Apr/2017
 
 \lx Mozanbiki
 \ty гос.
@@ -4299,11 +4388,12 @@ Koulikoro)
 \dt 23/May/2010
 
 \lx Pelengana
+\va Pelegana
 \ps n.prop
 \gf TOP
 \gvf Pelengana
 \smf (commune au cercle de Ségou)
-\dt 08/Feb/2016
+\dt 09/Apr/2017
 
 \lx Pelengana-Wɛrɛ
 \ps n.prop
@@ -4494,6 +4584,13 @@ d'or)
 \xf
 \dt 04/Feb/2017
 
+\lx Sakoyiba
+\ps n.prop
+\gf TOP
+\gvf Sakoyiba
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
 \lx Samakɔ
 \ty дер.
 \ps n.prop
@@ -4531,6 +4628,13 @@ Ségou)
 \xv
 \xf
 \dt 04/Jun/2016
+
+\lx Sando
+\ps n.prop
+\gf TOP
+\gvf Sando
+\smf (village, cercle de Ségou)
+\dt 01/Apr/2017
 
 \lx Sanfili
 \ps n.prop
@@ -4977,6 +5081,13 @@ droite du Niger, 23 km à l'ouest de Ségou)
 \xf
 \dt 26/Feb/2017
 
+\lx Soroba
+\ps n.prop
+\gf TOP
+\gvf Soroba
+\smf (village, cercle de Ségou)
+\dt 01/Apr/2017
+
 \lx Sòso
 \ps n.prop
 \gf TOP
@@ -5003,6 +5114,13 @@ droite du Niger, 23 km à l'ouest de Ségou)
 \gvf l’Union.Soviétique
 \ru Cоветский Союз
 \dt 05/Apr/2016
+
+\lx Sɔmɔnɔdugunin
+\ps n.prop
+\gf TOP
+\gvf Somonodougouni
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
 
 \lx Sɔ́mɔnɔso
 \ty кв.
@@ -5513,10 +5631,19 @@ d'Ouargla)
 \xf
 \dt 07/Feb/2017
 
+\lx Wedebugu
+\ps n.prop
+\gf TOP
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Welesebugu
 \ps n.prop
 \gf TOP
-\dt 21/Jan/2015
+\gvf Ouélessébougou
+\smf (commune, cercle de Kati, région de Koulikoro)
+\dt 09/Apr/2017
 
 \lx Wɛnzɛndugu
 \ps n.prop
@@ -5580,6 +5707,13 @@ cercle de Kati)
 \gvf quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
+
+\lx Wɔsila
+\ps n.prop
+\gf TOP
+\gvf Ouossila
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
 
 \lx Yámanin
 \ty гос.

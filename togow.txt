@@ -1,4 +1,4 @@
-﻿\_sh v3.0  400  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name togow
@@ -13,6 +13,7 @@
 \va Abdulaye
 \va Abdulayi
 \va Abudulayi
+\va Abudulaye
 \va Abudɛli
 \va Abuduli
 \va Abudulu
@@ -20,9 +21,11 @@
 \va Abdlaye
 \va Ábudu
 \va Abilayi
+\va Abulo
+\cm dim.
 \ps n.prop
 \gf NOM.M
-\dt 07/Feb/2017
+\dt 09/Apr/2017
 
 \lx Abduraman
 \va Abudurahamani
@@ -96,6 +99,13 @@
 \gf NOM.MF
 \dt 03/May/2010
 
+\lx Alase
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Alfa
 \di son, ful
 \ps n.prop
@@ -103,13 +113,13 @@
 \dt 02/May/2010
 
 \lx Àli
-\va Aliu
-\va Aliyu
+\va Àliù
+\va Àliyù
 \va Àlu
 \di m
 \ps n.prop
 \gf NOM.M
-\dt 05/Feb/2016
+\dt 07/Apr/2017
 
 \lx Álifàa
 \di m
@@ -176,6 +186,13 @@
 \gvf Aminata
 \dt 24/Mar/2017
 
+\lx Anatu
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Ansumani
 \va Ansmane
 \va Ànsumánà
@@ -234,21 +251,6 @@
 \gf NOM.M
 \dt 27/Jan/2016
 
-\lx Asita
-\va Asta
-\di b
-\va Ásitàn
-\va Aysata
-\va Sítàn
-\va Asetu
-\dm Asan
-\dm Asa
-\hn Basan
-\di (m)
-\ps n.prop
-\gf NOM.F
-\dt 09/Oct/2016
-
 \lx Àtiku
 \di m
 \ps n.prop
@@ -260,6 +262,13 @@
 \ps n.prop
 \gf NOM.F
 \dt 03/May/2010
+
+\lx Aya
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Ayi
 \di m
@@ -277,11 +286,45 @@
 \xf
 \dt 09/Oct/2016
 
+\lx Ayisata
+\va Asta
+\di b
+\va Ásitàn
+\va Ásità
+\va Sítàn
+\va Asetu
+\va Satu
+\va Sata
+\va Asan
+\cm forme diminutive
+\va Asa
+\cm forme diminutive
+\va Basan
+\cm forme honorifique
+\di (m)
+\ps n.prop
+\gf NOM.F
+\dt 09/Apr/2017
+
+\lx Ayo
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Baable
 \di b
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Baarɔ
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Baba
 \di
@@ -322,6 +365,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Baduka
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Bafaraji
 \di b
 \ps n.prop
@@ -334,6 +384,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Bafu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Bagi
 \di
 \ps n.prop
@@ -345,6 +402,13 @@
 \ps n.prop
 \gf NOM.F
 \dt 03/May/2010
+
+\lx Bajini
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Bakanmɛn
 \di b
@@ -372,11 +436,25 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Bakaye
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Bakɔrɔba
 \di b
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Bakuba
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Bakun
 \di
@@ -425,6 +503,20 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Bamoye
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Bamutu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Banba
 \ps n.prop
 \ps n.prop
@@ -436,6 +528,13 @@
 \ps n.prop
 \gf NOM.F
 \dt 03/May/2010
+
+\lx Banɛsa
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Banfali
 \di b
@@ -506,6 +605,13 @@
 \gf NOM.F
 \dt 03/May/2010
 
+\lx Baya
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Baydi
 \di b
 \ps n.prop
@@ -530,16 +636,24 @@
 \dt 03/May/2010
 
 \lx Békayi
+\va Békaye
 \di m
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 09/Apr/2017
 
 \lx Bɛnba
 \di
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Bibi
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Bineta
 \di m
@@ -548,10 +662,11 @@
 \dt 03/May/2010
 
 \lx Binɛfu
+\va Binafu
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 09/Apr/2017
 
 \lx Bíntà
 \va Bíntu
@@ -607,6 +722,14 @@
 \gf NOM.M
 \dt 29/Mar/2017
 
+\lx Boyi
+\va Baboyi
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Buba
 \di b
 \ps n.prop
@@ -658,6 +781,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Bunu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Buru
 \di
@@ -815,6 +945,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Dada
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Daliba
 \di m
 \ps n.prop
@@ -852,12 +989,13 @@
 \dt 03/May/2010
 
 \lx Dansɛnɛ
+\va Dansɛni
 \di b
 \va Dasɛnɛ
 \di bBel
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 09/Apr/2017
 
 \lx Daramani
 \va Daramane
@@ -891,12 +1029,33 @@
 \gf NOM.F
 \dt 03/May/2010
 
+\lx Dilaye
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Dirisa
 \va Idirisa
 \di b
 \ps n.prop
 \gf NOM.M
 \dt 01/Feb/2017
+
+\lx Diyasana
+\ps n.prop
+\gf NOM
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Doboda
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Dose
 \di b
@@ -1016,6 +1175,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Fakara
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Fakoli
 \di b
 \gf NOM.M
@@ -1107,23 +1273,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
-\lx Fatimata
-\di
-\ps n.prop
-\gf NOM.F
-\dt 03/May/2010
-
-\lx Fàtú
-\di m
-\ps n.prop
-\gf NOM.F
-\dt 03/May/2010
-
 \lx Fátuma
-\di b
+\va Fàtú
+\va Fatimata
+\va Fati
 \ps n.prop
 \gf NOM.F
-\dt 03/May/2010
+\dt 09/Apr/2017
 
 \lx Fɛntɛalabɔ
 \di b
@@ -1142,6 +1298,13 @@
 \ps n.prop
 \gf NOM.MF
 \dt 03/May/2010
+
+\lx Finɛ
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Fódè
 \va Fòdé
@@ -1181,6 +1344,13 @@
 \ps n.prop
 \gf NOM.F
 \dt 03/May/2010
+
+\lx Gandiki
+\ps n.prop
+\gf NOM
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Gansenin
 \va Gwansenin
@@ -1230,6 +1400,13 @@
 \ps n.prop
 \gf NOM
 \dt 03/May/2010
+
+\lx Gwatiya
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Hábì
 \di m
@@ -1322,6 +1499,9 @@
 \va Birama
 \va Birahima
 \va Brahima
+\va Barahima
+\va Barayima
+\va Barima
 \va Bùrama
 \va Bùrema
 \va Bùremàn
@@ -1331,10 +1511,10 @@
 \va Burayma
 \va Brɛyma
 \va Bureyima
-\di
+\va Bereyima
 \ps n.prop
 \gf NOM.M
-\dt 08/Feb/2017
+\dt 09/Apr/2017
 
 \lx Ídrìsa
 \va Idirisa
@@ -1353,10 +1533,11 @@
 \lx Ìsiaka
 \va Siaka
 \va Siyaka
+\va Syaka
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 11/May/2013
+\dt 09/Apr/2017
 
 \lx Jàaká
 \di m
@@ -1403,6 +1584,13 @@
 \xf
 \dt 01/Feb/2017
 
+\lx Janjiki
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Jara
 \di m
 \ps n.prop
@@ -1432,11 +1620,25 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Jelika
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Jelimakan
 \di
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Jɛjɛ
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Jɛ̀nɛ
 \di m
@@ -1446,12 +1648,13 @@
 
 \lx Jɛ̀nɛba
 \va Jɛ̀nɛbu
+\va Jènebu
 \va Jainab
 \va Zeyinabu
 \di b, m
 \ps n.prop
 \gf NOM.F
-\dt 09/Oct/2016
+\dt 09/Apr/2017
 
 \lx Jɛ́nfà
 \di b
@@ -1474,6 +1677,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Jigibi
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Jòkolon
 \va Jòkolo
 \va Jókolo
@@ -1488,6 +1698,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Jɔngɔbaba
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Jɔngɔlɔn
 \di b
@@ -1559,6 +1776,19 @@
 \gf NOM.F
 \dt 03/May/2010
 
+\lx Kajatu
+\va Kaja
+\va Kadija
+\va Kadiyatu
+\va Kariatu
+\va Kariatu
+\ps n.prop
+\gf NOM.M
+\gvf Kadidjatou
+\gve
+\smf
+\dt 09/Apr/2017
+
 \lx Kalifa
 \di
 \ps n.prop
@@ -1609,13 +1839,6 @@
 \gf NOM.F
 \dt 04/Feb/2016
 
-\lx Kariatu
-\va Kariatu
-\di
-\ps n.prop
-\gf NOM.F
-\dt 03/May/2010
-
 \lx Káriba
 \di
 \ps n.prop
@@ -1649,10 +1872,11 @@
 
 \lx Kasimu
 \va Kasumu
+\va Kasime
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 04/Jun/2016
+\dt 09/Apr/2017
 
 \lx Kásun
 \di b
@@ -1733,6 +1957,20 @@
 \gf NOM.F
 \dt 03/May/2010
 
+\lx Kɔbaba
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Kɔjɔrɔ
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Kɔmɔko
 \di b
 \ps n.prop
@@ -1753,6 +1991,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Kɔnu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Kɔ̀ɔkɛ
 \va Kɔ̀kɛ
 \di b
@@ -1760,12 +2005,26 @@
 \gf NOM.M
 \dt 26/Mar/2017
 
+\lx Kɔrɔnababa
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Kɔ̀rɔtumu
 \dm Kɔ̀rɔ́
 \di b
 \ps n.prop
 \gf NOM.F
 \dt 03/May/2010
+
+\lx Kɔsyan
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Kɔtyatu
 \di m
@@ -1838,22 +2097,26 @@
 \dt 03/May/2010
 
 \lx Làmíni
+\va Làmíne
 \di b
-\va Làmínìn
+\va Làminìn
 \di m
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 09/Apr/2017
 
 \lx Lanseni
 \va Lansana
 \va Lánsìnɛ
 \va Làsana
 \va Lasinɛ
+\va Lasine
+\va Laseni
+\va Lansenu
 \di b, m
 \ps n.prop
 \gf NOM.M
-\dt 23/Feb/2017
+\dt 09/Apr/2017
 
 \lx Lemu
 \di son
@@ -1895,17 +2158,25 @@
 \gf NOM.M
 \dt 17/Feb/2017
 
+\lx Mafinɛ
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Magansire
 \di b
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
 
-\lx Mahamani
+\lx Màhamani
+\va Màhaman
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 07/Apr/2017
 
 \lx Majugu
 \di b
@@ -1919,6 +2190,20 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Makaja
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Makotimi
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Makɔnɔ
 \di
@@ -2001,11 +2286,25 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Mamutu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Managama
 \di
 \ps n.prop
 \gf NOM
 \dt 03/May/2010
+
+\lx Mangɔrɔ
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Mánjù
 \va Mànjú
@@ -2026,12 +2325,27 @@
 \gf NOM
 \dt 03/May/2010
 
+\lx Mari
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Marifu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Máriyamu
+\va Mariyama
 \va Márìam
 \di b
 \ps n.prop
 \gf NOM.F
-\dt 03/May/2010
+\dt 09/Apr/2017
 
 \lx Másarka
 \va Másàran
@@ -2169,11 +2483,20 @@
 \lx Muktari
 \va Mukutar
 \va Mukutari
+\va Mukitari
 \va Mɔkutari
-\di
+\va Mɔ̀ktar
 \ps n.prop
 \gf NOM.M
-\dt 23/Feb/2017
+\dt 09/Apr/2017
+
+\lx Mulayi
+\va Mulaye
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Múntàga
 \ps n
@@ -2485,6 +2808,20 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Nsɛnɛbu
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Nsumayira
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Ntifɛ
 \di b
 \ps n.prop
@@ -2502,6 +2839,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Nukumani
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Numan
 \di b
@@ -2589,6 +2933,13 @@
 \gf NOM.F
 \dt 03/May/2010
 
+\lx Nuru
+\ps n.prop
+\gf NOM.M
+\gvf Nour
+\smf
+\dt 09/Apr/2017
+
 \lx Nuwa
 \di m
 \ps n.prop
@@ -2650,6 +3001,13 @@
 \ps n.prop
 \gf NOM.MF
 \dt 30/Nov/2014
+
+\lx Ɲaminɛma
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Ɲamodi
 \ps n.prop
@@ -2720,10 +3078,12 @@
 
 \lx Sáajɔ̀
 \va Sàajɔ
+\va Sajɔ
+\va Sajo
 \di b
 \ps n.prop
 \gf NOM.MF
-\dt 03/May/2010
+\dt 09/Apr/2017
 
 \lx Sabali
 \di b
@@ -2776,6 +3136,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Salika
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Saliya
 \ps n.prop
 \gf NOM.M
@@ -2820,6 +3187,13 @@
 \ps n.prop
 \gf NOM.F
 \dt 03/May/2010
+
+\lx Sanata
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Sànba
 \di m, ful
@@ -2919,6 +3293,13 @@
 \gf NOM.MF
 \dt 03/May/2010
 
+\lx Seko
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Sékù
 \va Sek
 \va Sheku
@@ -2972,13 +3353,14 @@
 
 \lx Sɛkina
 \va Sekinɛ
+\va Syɛkinɛ
 \ps n.prop
 \gf NOM.M
 \gvf Sekhna
 \smf
 \xv
 \xf
-\dt 01/Feb/2017
+\dt 09/Apr/2017
 
 \lx Sɛnɛ
 \di b
@@ -3127,17 +3509,11 @@
 
 \lx Sulemani
 \va Suleyimani
+\va Suleyimane
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 01/Feb/2017
-
-\lx Sumana
-\va Zumana
-\di b
-\ps n.prop
-\gf NOM.M
-\dt 03/May/2010
+\dt 09/Apr/2017
 
 \lx Sumayila
 \va Isimayɛli
@@ -3198,13 +3574,48 @@
 \gf NOM.F
 \dt 03/May/2010
 
+\lx Tajini
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Taso
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Tata
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Tati
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Táyiru
 \di m
 \va Tahiru
 \di m
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 09/Apr/2017
+
+\lx Tɛnɛgata
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Tɛnɛmagan
 \di b
@@ -3213,13 +3624,14 @@
 \dt 03/May/2010
 
 \lx Tɛnɛman
+\va Tɛnɛma
 \ps n.prop
-\gf NOM.M
+\gf NOM.MF
 \gvf
 \smf
 \xv
 \xf
-\dt 07/Feb/2017
+\dt 09/Apr/2017
 
 \lx Tɛ̀nɛn
 \di m
@@ -3293,6 +3705,13 @@ de l'enfant qui survit à sa mère morte en couches
 \gf NOM
 \dt 03/May/2010
 
+\lx Tuba
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Túmani
 \va Tumaane
 \di b
@@ -3318,10 +3737,13 @@ de l'enfant qui survit à sa mère morte en couches
 \va Usumana
 \va Úsmàní
 \va Usumani
+\va Sumana
+\va Zumana
+\va Sumanɛ
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 01/Feb/2017
+\dt 09/Apr/2017
 
 \lx Usubi
 \di
@@ -3378,6 +3800,14 @@ de l'enfant qui survit à sa mère morte en couches
 \gf NOM.F
 \dt 01/Feb/2017
 
+\lx Ya
+\va Yaa
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Yaama
 \di m
 \ps n.prop
@@ -3405,11 +3835,25 @@ de l'enfant qui survit à sa mère morte en couches
 \xf
 \dt 02/Feb/2017
 
+\lx Yama
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx Yámusa
 \di b
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Yawu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Yáya
 \di

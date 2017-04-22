@@ -1,8 +1,11 @@
-﻿\_sh v3.0  400  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name bamadaba
 \ver 0.5.4
+
+\lx
+\dt 13/Apr/2017
 
 \lx à
 \ms 1
@@ -105,6 +108,13 @@
 \sy mɔ̀gɔya
 \sy màaninfinya
 \dt 08/Sep/2006
+
+\lx adɛrɛsi
+\ps n
+\gf adresse
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx adw
 \mm àní:conj:ainsi.que
@@ -790,6 +800,13 @@ les deux flancs'
 \ps n
 \gf radio
 
+\lx áraka
+\va árakan
+\ps n
+\gf rak'ah
+\smf (une unité de prière chez les musulmans)
+\dt 22/Apr/2017
+
 \lx àrasa
 \ps n
 \gf rasta
@@ -985,7 +1002,7 @@ les deux flancs'
 \va bà
 \smf *bàba = papa
 \ps n
-\gf "papa"
+\gf papa
 \sm terme de respect
 \ms 1
 \sm (ajouté à un qualificatif, il sert à désigner ou interpeller un des "pères" de la grande famille)
@@ -997,7 +1014,7 @@ les deux flancs'
 \sm (ajouté à un prénom d'homme, il sert à désigner ou interpeller un homme de la génération de votre père)
 \xv bàa Ngɔ̀lɔ
 \xf "père" Ngolo
-\dt 01/Jun/2016
+\dt 09/Apr/2017
 
 \lx báabu
 \ps n
@@ -2930,6 +2947,19 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \sy túrukabala
 \lt (xylophone.petit)
 \dt 16/Aug/2006
+
+\lx bàlańna
+\mm bàla:v:surprendre
+\mm ń:pers:1SG
+\mm ná:pp:dans
+\va bàlana
+\mm bàla:v:surprendre
+\mm ná:pp:dans
+\ps n
+\gf inattendu
+\ge surprise
+\gr
+\dt 22/Apr/2017
 
 \lx bálansan
 \ps n
@@ -7311,6 +7341,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv kɔ̀nɔ bɛ́ɛ lájɛlen bɛ́ "bíi" fɔ́
 \xf une foule d'oiseaux font "biiii" (prov)
 \dt 31/Jan/2016
+
+\lx biki
+\ps n
+\gf bic
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx bíkɔ̀nɔntɔn
 \ps num
@@ -32477,10 +32514,13 @@ compagnie ...
 \lx fàsa
 \va pàsa
 \ps n
+\ms 1
 \gf tendon
 \gvf nerf
 \gvf muscle
-\dt 26/Sep/2006
+\ms 2
+\gvf amaigrissement
+\dt 09/Apr/2017
 
 \lx fàsa
 \va fàsan
@@ -36577,27 +36617,34 @@ frontières, forestiers, sapeurs)
 \dt 24/Dec/2014
 
 \lx fónisire
+\va fúnuseere
 \ps n
 \gf généreux
 \gvf libéral
-\dt 26/Sep/2006
+\dt 22/Apr/2017
 
 \lx fónisireya
 \mm fónisire:n:généreux
-\mm ya:mrph:ABSTR 
+\mm ya:mrph:ABSTR
+\va fúnuseereya
+\mm fúnuseere:n:généreux
+\mm ya:mrph:ABSTR
 \ps n
 \gf générosité
 \lt (généreux.suf abs)
-\dt 26/Sep/2006
+\dt 22/Apr/2017
 
 \lx fónisireya
 \mm fónisire:n:généreux
+\mm ya:mrph:ABSTR
+\va fúnuseereya
+\mm fúnuseere:n:généreux
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \gf être.généreux
 \lt (généreux.suf caus)
-\dt 16/Aug/2006
+\dt 22/Apr/2017
 
 \lx fònna
 \mm fò:v:frôler
@@ -39138,9 +39185,14 @@ forestières, fruit : long follicule de 50 cm)
 \mm sìri:v:lier
 \lt (mariage.lier)
 \ps n
+\ms 1
 \gf mariage.officiel
 \smf (devant les autorités administratives ou religieuses)
-\dt 16/Aug/2006
+\ms 2
+\gvf seconde ou troisième épouse
+\ms 3
+\gvf épouse non officielle
+\dt 09/Apr/2017
 
 \lx fúrusìri
 \mm fúru:n:mariage
@@ -44734,6 +44786,7 @@ doigts par des fileuses du coton)
 \dt 18/Jan/2015
 
 \lx íkomi
+\va íkɔmi
 \smf amalgame ? de iko + komi
 \bw fr : comme
 \ps prep/conj
@@ -44743,7 +44796,7 @@ doigts par des fileuses du coton)
 \sy í ń'á fɔ́
 \xv à bɛ́  íkomi fàtɔ
 \xf il est comme fou
-\dt 18/Jan/2015
+\dt 22/Apr/2017
 
 \lx íkɔrɔ
 \ps adv
@@ -49527,6 +49580,13 @@ le toit de la maison et descendaient
 \xv jógo b'á lá
 \xf il se conduit mal
 \dt 26/Sep/2006
+
+\lx jógodon
+\mm jógo:n:conduite
+\mm dòn:v:entrer
+\ps n
+\gf éducation
+\dt 22/Apr/2017
 
 \lx jógojogo
 \ps v
@@ -61371,12 +61431,13 @@ champs)
 
 \lx kómi
 \va kómin
+\va kɔ́mi
 \bw fr : comme = id
 \ps prep/conj
 \gf comme
 \gvf puisque
 \cf íkomi
-\dt 06/Feb/2017
+\dt 22/Apr/2017
 
 \lx kómini
 \ps n
@@ -67472,6 +67533,26 @@ ou une proposition)
 \gf gronder
 \dt 26/Sep/2006
 
+\lx kúlu
+\ps v
+\ms 1
+\vl vt
+\gf frapper.violemment
+\gvf flanquer
+\ms 2
+\vl vt
+\gvf faire tomber avec force
+\ms 3
+\vl vr
+\gvf se précipiter
+\ms 4
+\vl vt
+\gvf engouffrer
+\ms 5
+\vl vi
+\gvf plonger
+\dt 01/Apr/2017
+
 \lx kùluba
 \mm kùlu:n:montagne
 \mm ba:mrph:AUGM
@@ -71407,10 +71488,11 @@ Sahel)
 \gf plier
 \xv à y'á nɔ̀nkɔn kùru
 \xf il a plié le coude
-\ms 2
+\ms 2.1
 \vl vt
 \gvf mettre.en.boule
 \gvf nouer
+\ms 2.1
 \vl vr
 \gvf se.lover
 \xv sà y'í kùru
@@ -71420,7 +71502,7 @@ Sahel)
 \gvf répéter
 \xv ń tɛ́ kùru  à kàn
 \xf je ne reviens pas dessus, je ne le répète pas
-\dt 26/Sep/2006
+\dt 01/Apr/2017
 
 \lx kùruba
 \ps v
@@ -73860,6 +73942,19 @@ kúrunninle
 \xf le chef de village réunit (son conseil)
 \dt 26/Sep/2006
 
+\lx lájɛli
+\mm lájɛ:v:regarder
+\mm lá:mrph:CAUS
+\mm jɛ́:v:blanchir
+\ps n
+\ms 1
+\gf acte.de.regarder
+\ms 2
+\gvf consultation divinatoire
+\ms 3
+\gvf consultation médicale
+\dt 09/Apr/2017
+
 \lx lájɛlikɛla
 \mm lá.jɛ:v:regarder
 \mm lá:mrph:CAUS
@@ -74412,11 +74507,14 @@ kúrunninle
 \lx làkɔliso
 \mm làkɔli:n:école
 \mm só:n:maison
+\va ɛkɔliso
+\mm làkɔli:n:école
+\mm só:n:maison
 \ps n
 \lt école-maison
 \gf école
 \rem l 89 / du : ton haut !
-\dt 11/Nov/2007
+\dt 09/Apr/2017
 
 \lx làkɔlita
 \mm làkɔli:n:école
@@ -75776,6 +75874,14 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \vl vi
 \gvf être enceinte
 \dt 21/Feb/2014
+
+\lx lásirikalo
+\mm kálo:n:mois
+\ps n
+\gf 4e.mois.traditionnelle
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx làso
 \va lɛ̀so
@@ -82094,6 +82200,15 @@ nord-est
 \smf * l'étymologie à partir du relatif min et de kɛ (faire) présente des difficultés concernant l'ordre des mots
 \dt 08/Dec/2014
 
+\lx mìnkɛyɔrɔ
+\mm mìn:v:boire
+\mm kɛ́:v:faire
+\mm yɔ́rɔ:n:lieu
+\ps n
+\gf bar
+\smf (où on boit l'acool)
+\dt 09/Apr/2017
+
 \lx mìnkɔn
 \ps n
 \gf prunier.mombin
@@ -82147,9 +82262,13 @@ nord-est
 \mm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
+\va mìnkɛla
+\mm mìn:v:boire
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
 \ps n
 \gf buveur
-\lt (boire.action.faire.celui qui)
+\dt 09/Apr/2017
 
 \lx mínnin
 \mm mín:prn:REL
@@ -86721,6 +86840,14 @@ sorcières et leur élimination)
 \gf semer.à.sec
 \gvf semer sur un champ non préparé
 \dt 27/Jan/2016
+
+\lx nbàraden
+\mm den:n:enfant
+\ps n
+\gf petit.carpe
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx nbáwudi
 \ve (bmk)
@@ -93557,17 +93684,24 @@ graines, sert d'instrument rythmique)
 
 \lx ntámakunba
 \mm ntáma:n:détar
-\mm kùn.ba:vq:gros
+\mm kùnba:vq:gros
 \mm kùn:n:tête
 \mm ba:mrph:AUGM
-\lt ('ntama'.gros)
+\va ntábakunba
+\mm kùnba:vq:gros
+\mm kùn:n:tête
+\mm ba:mrph:AUGM
+\va tábakunba
+\mm kùnba:vq:gros
+\mm kùn:n:tête
+\mm ba:mrph:AUGM
 \ps n
 \gf grand.détar
 \smf arbre ---> 15 / 30 m
 \lat Detarium.senegalense
 \sd césa
 \smf (la pulpe du fruit est très riche en vitamine C, il existe des variétés de fruit amer,  toxique))
-\dt 26/Sep/2006
+\dt 22/Apr/2017
 
 \lx ntàmakuru
 \mm kùru:n:boule
@@ -98663,7 +98797,7 @@ graines, sert d'instrument rythmique)
 \mm ɲɛ́.na:n:regard
 \mm ɲɛ́:n:oeil
 \mm na:mrph:MNT1
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \ms 1
 \gf nostalgie
@@ -98677,7 +98811,18 @@ graines, sert d'instrument rythmique)
 \gvf baisse.de.vision 
 \gvf amaurose
 \cf ɲɛ́goya
-\dt 26/Sep/2006
+\dt 22/Apr/2017
+
+\lx ɲɛ́nafin
+\mm ɲɛ́.na:n:regard
+\mm ɲɛ́:n:oeil
+\mm na:mrph:MNT1
+\mm fìn:adj:noir
+\ps v
+\vl vi
+\gf être.triste
+\gvf être nostalgique
+\dt 22/Apr/2017
 
 \lx ɲɛ́nafɔ
 \mm ɲɛ́:n:oeil
@@ -101891,7 +102036,8 @@ le pèlerinage (bk 1/06 p.5)
 \dt 05/Apr/2016
 
 \lx ô
-\va ôo
+\va ôô
+\va wô
 \ps conj
 \ph [surélevé, allongé et enclitique]
 \gf DISTR
@@ -101904,7 +102050,7 @@ le pèlerinage (bk 1/06 p.5)
 \xf chaque fois qu'on te voit, tu portes une ceinture (sur ton "boubou")
 \xv à bɛ́ nà ô, à tɛ́ nà ô, né má  ò dɔ́n
 \xf vient-il ? ne vient-il pas ? Je n'en sais rien
-\dt 09/Mar/2014
+\dt 09/Apr/2017
 
 \lx ofisi
 \ps n
@@ -103164,6 +103310,13 @@ envergure)
 \xf mentir
 \dt 16/Aug/2006
 
+\lx porokirɛri
+\ps n
+\gf procureur
+\gvf
+\smf
+\dt 09/Apr/2017
+
 \lx pórokoporoko
 \ps adv
 \gf grand.galop
@@ -103380,6 +103533,13 @@ envergure)
 \sy nsòfaraŋɔni
 \sy ŋɔ́nijɛ
 \dt 26/Sep/2006
+
+\lx pɔsi
+\ps n
+\gf poche
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx pɔ́siti
 \ps n
@@ -107882,6 +108042,17 @@ paniers, sègi)
 \lt (pied.rouge.petit)
 \dt 12/Aug/2006
 
+\lx sèndabanin
+\mm sèn:n:jambe
+\mm dá:n:bouche
+\mm ba:mrph:AUGM
+\mm nin:mrph:DIM
+\ps n
+\gf culotte.large
+\smf (qui descend aux genoux)
+\cm un mot de Dougouna
+\dt 09/Apr/2017
+
 \lx sèndalan
 \mm sèn:n:jambe
 \mm dá:v:poser
@@ -110605,6 +110776,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \lt (duel . habit)
 \dt 26/Sep/2006
 
+\lx sìgifɛn
+\mm sìgi:v:asseoir
+\mm fɛ́n:n:chose
+\ps n
+\gf esprit
+\ge
+\gr
+\dt 22/Apr/2017
+
 \lx sìgikafɔ
 \mm sìgi:v:asseoir
 \mm kà:pm:INF
@@ -113125,10 +113305,9 @@ donne d'excellentes fibres)
 \ms 1
 \gf fondations
 \gvf soubassement
-\lt (maison.base)
 \ms 2
 \gvf base d'une famille
-\dt 26/Sep/2006
+\dt 01/Apr/2017
 
 \lx sókala
 \mm só:n:maison
@@ -125939,13 +126118,13 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 
 \lx wála
 \va wálama
-\va wálima
+\va wálìma
 \va wáli
 \ps conj
 \gf ou.bien
 \xv cɛ̀ dòn, wálima mùso ?
 \xf c'est un garçon ou une fille ?...
-\dt 13/Feb/2015
+\dt 07/Apr/2017
 
 \lx wála
 \va wúla
@@ -131587,6 +131766,12 @@ généreuses, avec bourrelets
 \gvf
 \cm fr. jupe
 \dt 29/Mar/2017
+
+\lx zoni
+\ps n
+\gf zone
+\gv
+\dt 01/Apr/2017
 
 \lx zú
 \bw fr : joug

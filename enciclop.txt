@@ -1,4 +1,4 @@
-﻿\_sh v3.0  400  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name enciclop
@@ -1075,8 +1075,8 @@ la stabilisation au Mali
 \xf
 \dt 06/Mar/2017
 
-\lx Mujawo
-\va Muzawo
+\lx Mújawo
+\va Múzawo
 \ps n
 \gf ABR
 \gvf MUJAO
@@ -1084,7 +1084,7 @@ la stabilisation au Mali
 \smf
 \xv
 \xf
-\dt 01/Feb/2017
+\dt 07/Apr/2017
 
 \lx naba
 \ps n

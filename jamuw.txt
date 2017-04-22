@@ -1,4 +1,4 @@
-﻿\_sh v3.0  400  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name jamuw
@@ -253,13 +253,15 @@
 \gf NOM.CL
 
 \lx Cɛɛrɔ
+\va Cɛrɔ
+\va Cɛro
 \di b
 \di boz
 \di son
 \di som
 \eq Tera
 \cm у бобо
-\dt 06/May/2010
+\dt 09/Apr/2017
 \ps n.prop
 \gf NOM.CL
 
@@ -510,6 +512,13 @@
 \dt 30/Jan/2017
 \ps n.prop
 \gf NOM.CL
+
+\lx Dende
+\ps n.prop
+\gf NOM.CL
+\gvf
+\smf
+\dt 09/Apr/2017
 
 \lx Denɔn
 \ps n.prop
@@ -1447,12 +1456,13 @@
 \gf NOM.CL
 
 \lx Káne
+\va Kánɛ
 \di boz
 \di somono
 \re Segu
-\dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
+\dt 09/Apr/2017
 
 \lx Kàni
 \di b
@@ -2910,6 +2920,7 @@ Sagone.
 
 \lx So
 \va Sow
+\va Sɔ
 \di tou
 \eq Sidibɛ
 \ca jèli
@@ -2920,7 +2931,7 @@ Sagone.
 \ms Bari
 \ms Sangare
 \ms nùmu
-\dt 06/May/2010
+\dt 09/Apr/2017
 \ps n.prop
 \gf NOM.CL
 
