@@ -54957,6 +54957,14 @@ prolapsus utérin
 \xf il a maigri
 \dt 16/Aug/2006
 
+\lx kànkaran
+\ps v
+\vl vr
+\gf se.planter
+\gvf se poste immobile
+\smf (en attente)
+\dt 23/Apr/2017
+
 \lx kànkari
 \va kàngari
 \ps n
@@ -108953,12 +108961,12 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sé-ń-yɛ̀rɛ-kɔ̀rɔ
 \mm sé:v:arriver
-\mm ń:prn:1SG
+\mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm kɔ̀rɔ:pp:sous
 \ps n
 \gf autosuffisance
-\dt 28/Feb/2017
+\dt 24/Apr/2017
 
 \lx séńyɛ̀rɛlá
 \mm sé:n:arrivée
@@ -119290,12 +119298,12 @@ fiançailles
 \lt (cuvette.fond)
 \dt 16/Aug/2006
 
-\lx tásàlén
+\lx tásàlen
 \vt tásalen
 \ps n
 \gf bouilloire
 \smf (sert pour les ablutions musulmanes)
-\dt 16/Aug/2006
+\dt 23/Apr/2017
 
 \lx tásanin
 \mm tása:n:cuvette
