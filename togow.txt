@@ -1493,6 +1493,7 @@
 
 \lx Ibrahima
 \va Ibarahimu
+\va Iburahimu
 \va Berehima
 \va Béremà
 \va Bírimà
@@ -1514,7 +1515,7 @@
 \va Bereyima
 \ps n.prop
 \gf NOM.M
-\dt 09/Apr/2017
+\dt 30/Apr/2017
 
 \lx Ídrìsa
 \va Idirisa
@@ -1779,6 +1780,7 @@
 \lx Kajatu
 \va Kaja
 \va Kadija
+\va Kadiya
 \va Kadiyatu
 \va Kariatu
 \va Kariatu
@@ -1787,7 +1789,7 @@
 \gvf Kadidjatou
 \gve
 \smf
-\dt 09/Apr/2017
+\dt 30/Apr/2017
 
 \lx Kalifa
 \di
@@ -1838,6 +1840,13 @@
 \ps n.prop
 \gf NOM.F
 \dt 04/Feb/2016
+
+\lx Karanba
+\ps n.prop
+\gf NOM.M
+\gvf Karamba
+\smf
+\dt 30/Apr/2017
 
 \lx Káriba
 \di
@@ -2249,8 +2258,8 @@
 \va Màmá
 \di m
 \ps n.prop
-\gf NOM.F
-\dt 03/May/2010
+\gf NOM.MF
+\dt 30/Apr/2017
 
 \lx Mamadi
 \va Mamadu
@@ -3581,6 +3590,13 @@
 \smf
 \dt 09/Apr/2017
 
+\lx Tara
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 30/Apr/2017
+
 \lx Taso
 \ps n.prop
 \gf NOM.F
@@ -3784,8 +3800,8 @@ de l'enfant qui survit à sa mère morte en couches
 \lx Wàsá
 \di b
 \ps n.prop
-\gf NOM.M
-\dt 03/May/2010
+\gf NOM.MF
+\dt 30/Apr/2017
 
 \lx Wobana
 \di bobo

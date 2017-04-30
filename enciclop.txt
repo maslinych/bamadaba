@@ -648,6 +648,13 @@ de la guerre du Mali)
 \xf
 \dt 07/Feb/2017
 
+\lx Hanpate
+\ps n.prop
+\gf NOM.ETRG
+\gvf Hampaté
+\smf (Amadou Hampâté Ba)
+\dt 30/Apr/2017
+
 \lx Harisi
 \ps n
 \gf Horus
@@ -1664,6 +1671,13 @@ Gbagbo)
 \xv
 \xf
 \dt 07/Feb/2017
+
+\lx Zesi
+\ps n.prop
+\gf Zeus
+\gvf
+\smf (dieu suprême de la Grèce ancienne)
+\dt 30/Apr/2017
 
 \lx Zeyiya
 \ps n

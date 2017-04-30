@@ -4851,6 +4851,14 @@ Fleurs spectaculaires
 \gf mais
 \dt 18/Jan/2015
 
+\lx bàri
+\va bàridunun
+\ps n
+\gf tambour.fait.d'un.fut.métallique
+\gvf
+\smf
+\dt 30/Apr/2017
+
 \lx bárì
 \ps conj
 \gf car
@@ -11963,6 +11971,25 @@ milieu des pierres
 \lt (terre.boule)
 \dt 16/Aug/2006
 
+\lx bɔ̀gɔladɔ́n
+\mm bɔ̀gɔ:n:terre
+\mm lá:pp:dans
+\mm dɔ̀n:v:danser
+\va bɔ̀gɔradɔ́n
+\mm bɔ̀gɔ:n:terre
+\mm rá:pp:dans
+\mm dɔ̀n:v:danser
+\va bɔ̀gɔrɔdɔ́n
+\mm bɔ̀gɔ:n:terre
+\mm rɔ́:pp:IN
+\mm dɔ̀n:v:danser
+\ps v
+\vl vt
+\gf insister
+\gvf (dire) sans ambages
+\xv kà à fɔ́ k'à bɔ̀gɔladɔ́n
+\dt 30/Apr/2017
+
 \lx bɔ̀gɔlan
 \mm bɔ̀gɔ:n:terre
 \mm lá:pp:dans
@@ -12187,6 +12214,15 @@ milieu des pierres
 \xf (LD p.66)
 \dt 07/Feb/2016
 
+\lx bɔ̀lɔti
+\ps n
+\ms 1
+\gf écheveau
+\gvf pelote de coton
+\ms 2
+\gvf fil de coton industriel
+\dt 30/Apr/2017
+
 \lx bɔmu
 \ps n
 \gf bombe
@@ -12234,6 +12270,13 @@ toujours (pro)
 \gf tam-tam
 \lt (tambour.grand)
 \dt 16/Aug/2006
+
+\lx bɔnbɔn
+\ps n
+\gf bonbon
+\gvf
+\smf
+\dt 30/Apr/2017
 
 \lx bɔ̀nɛ
 \va bùnɛ
@@ -12873,12 +12916,13 @@ toujours (pro)
 \dt 03/Apr/2016
 
 \lx bùgubaga
+\va bùgubagabugu
 \ps v
 \vl vr
 \gf tomber.mollement
 \xv ń bɛ́ táa ń bùgubaga
 \xf je pars m'étendre, me coucher
-\dt 16/Aug/2006
+\dt 30/Apr/2017
 
 \lx bùgubugu
 \ps n
@@ -26845,9 +26889,13 @@ l'occasion d'une naissance)
 \mm dɔ́gɔ:n:marché
 \mm fùran:n:distance
 \mm cɛ́:n:milieu
+\va dwáfurancɛ
+\mm dwá:n:marché
+\mm fùran:n:distance
+\mm cɛ́:n:milieu
 \ps n
 \gf semaine
-\dt 04/Jul/2013
+\dt 30/Apr/2017
 
 \lx dɔ́gɔkɛ
 \mm dɔ́gɔ:n:cadet
@@ -54141,10 +54189,16 @@ prolapsus utérin
 \mm kàmana:n:PREV
 \mm gàn:v:chauffer
 \ps v
+\ms 1
+\vl vt
+\gf angoisser
+\gvf inquiéter
+\gvf préoccuper
+\gvf tracasser
+\ms 2
 \vl vi
-\gf être.angoissé
-\lt ( ? . chauffer)
-\dt 26/Sep/2006
+\gvf être.angoissé
+\dt 30/Apr/2017
 
 \lx kàmanjɛ
 \mm kàman:n:épaule
@@ -68281,12 +68335,12 @@ le pouvoir administratif suprême)
 \ms 1
 \vl vi
 \gf s'adapter
-\xv ɲɔ̀ má kún  jìginɛ kɔ́nɔ
+\xv ɲɔ̀ má kún jìginɛ kɔ́nɔ
 \xf (tout) le mil n'a pu entrer dans le grenier
 \ms 2
 \vl vi
 \gvf rattraper
-\xv í tɛ́ kún  à lá bìlen
+\xv í tɛ́ kún à lá bìlen
 \xf tu ne le rattraperas plus
 \ms 3
 \vl vt
@@ -68300,7 +68354,7 @@ le pouvoir administratif suprême)
 \vl vr
 \gvf se résigner
 \smf (à -- ní à yé)
-\dt 19/Feb/2014
+\dt 30/Apr/2017
 
 \lx kúna
 \ps n
@@ -75210,6 +75264,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx lánkolon
 \mm lan:mrph:dans
 \mm kólon:adj:vide
+\va nánkolon
+\mm nan:mrph:dans
+\mm kólon:adj:vide
 \ps adj
 \sy kólon
 \lt (endroit.vide)
@@ -75226,7 +75283,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf négligeable
 \xv ù tɛ́  mɔ̀gɔ lánkolon yé
 \xf ce ne sont pas des gens de rien
-\dt 26/Sep/2006
+\dt 30/Apr/2017
 
 \lx lánkolonya
 \mm lán.kolon:adj:vide
@@ -80953,6 +81010,16 @@ des engagements
 \gf état.de.parent
 \lt (parent.suf abs)
 \dt 16/Aug/2006
+
+\lx màsègin
+\mm mà:mrph:SUPER
+\mm sègin:v:revenir
+\ps v
+\vl vt
+\gf rendre
+\gvf
+\smf
+\dt 30/Apr/2017
 
 \lx màsiba
 \va màasiba
@@ -108559,11 +108626,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sèn:n:jambe
 \mm nan:mrph:dans
 \mm kólon:adj:vide
+\va sènnakolon
+\mm sèn:n:pied
+\mm na:mrph:dans
+\mm kólon:adj:vide
 \ps adj/n
 \gf va-nu-pieds
-\sm (au sens propre ...)
-\lt (pied.nu)
-\dt 16/Aug/2006
+\smf (au sens propre ...)
+\gvf nu-pieds
+\dt 30/Apr/2017
 
 \lx sènnantolatan
 \mm sèn:n:jambe
@@ -112033,6 +112104,47 @@ trompe)
 \gvf
 \dt 18/Feb/2015
 
+\lx sìɲɛ
+\va shyɛ̀n
+\ph [shyɛn]
+\va syɛ̀n
+\ps n
+\gf lutte
+\sy báari
+\xv shyɛ̀n bɔ́
+\xv shyɛ̀n tà
+\xf faire la lutte, lutter
+\dt 30/Apr/2017
+
+\lx síɲɛ
+\va síɲɛn
+\va síyɛn
+\va shyɛ́n
+\va syɛ́n
+\ph [shyɛn]
+\ps v
+\vl vr
+\gf jurer
+\smf sur l'honneur (devant Dieu)
+\gvf prêter serment
+\smf s'engager par serment à ...
+\dt 30/Apr/2017
+
+\lx sìɲɛbɔ
+\mm sìɲɛ:n:lutte
+\mm bɔ́:v:sortir
+\va shyɛ̀nbɔ
+\mm shyɛ̀n:n:lutte
+\mm bɔ́:v:sortir
+\va syɛ̀nbɔ
+\mm syɛ̀n:n:lutte
+\mm bɔ́:v:sortir
+\ph [shyɛnbɔ]
+\ps n
+\gf lutte
+\lt (lutte.sortir)
+\dt 30/Apr/2017
+
 \lx sìɲɛna
 \mm sì:v:passer.la.nuit
 \mm ɲɛ́:n:oeil
@@ -112062,6 +112174,38 @@ trompe)
 \xv Sìɲɛnakɛla bɛ́ dùgujɛ màkɔ́nɔ
 \xf le veilleur désire voir poindre l'aube (ps 130, 6)
 \dt 11/Nov/2007
+
+\lx sìɲɛta
+\mm sìɲɛ:n:lutte
+\mm tà:v:prendre
+\va shyɛ̀nta
+\mm shyɛ̀n:n:lutte
+\mm tà:v:prendre
+\va syɛ̀nta
+\mm syɛ̀n:n:lutte
+\mm tà:v:prendre
+\ps n
+\gf lutte
+\smf (sportive)
+\dt 30/Apr/2017
+
+\lx sìɲɛtala
+\mm sìɲɛ:n:lutte
+\mm tà:v:prendre
+\mm la:mrph:AG.PRM
+\va shyɛ̀n.ta.la
+\mm shyɛ̀n:n:lutte
+\mm tà:v:prendre
+\mm la:mrph:AG.PRM
+\va syɛ̀ntala
+\mm syɛ̀n:n:lutte
+\mm tà:v:prendre
+\mm la:mrph:AG.PRM
+\ph [shy ...]
+\ps n
+\gf lutteur
+\lt (lutte.prendre.celui qui)
+\dt 30/Apr/2017
 
 \lx síɲɔgɔn
 \mm sí:n:semence
@@ -117504,18 +117648,6 @@ fiançailles
 
 \lx syɛ̀n
 \va shyɛ̀n
-\ph [shyɛn]
-\va sìɲɛ
-\ps n
-\gf lutte
-\sy báari
-\xv shyɛ̀n bɔ́
-\xv shyɛ̀n tà
-\xf faire la lutte, lutter
-\dt 21/Feb/2014
-
-\lx syɛ̀n
-\va shyɛ̀n
 \va sìɲɛn
 \ve (bn)
 \ph [shyɛn]
@@ -117533,20 +117665,6 @@ fiançailles
 \dt 19/Aug/2006
 
 \lx syɛ́n
-\va síyɛn
-\va shyɛ́n
-\va síɲɛ
-\va síɲɛn
-\ph [shyɛn]
-\ps v
-\vl vr
-\gf jurer
-\smf sur l'honneur (devant Dieu)
-\gvf prêter serment
-\smf s'engager par serment à ...
-\dt 06/Apr/2016
-
-\lx syɛ́n
 \va sɛ́n
 \ps n
 \gf bouture
@@ -117558,18 +117676,6 @@ fiançailles
 \ps v
 \gf faire.repousses
 \dt 01/Oct/2013
-
-\lx syɛ̀nbɔ
-\mm syɛ̀n:n:lutte
-\mm bɔ́:v:sortir
-\va shyɛ̀n.bɔ
-\mm shyɛ̀n:n:lutte
-\mm bɔ́:v:sortir
-\ph [shyɛnbɔ]
-\ps n
-\gf lutte
-\lt (lutte.sortir)
-\dt 12/Aug/2006
 
 \lx syɛ̀nma
 \mm syɛ̀n:n:miel.pur
@@ -117596,20 +117702,6 @@ fiançailles
 \lt (poule.gratteron)
 \sy ɲínɛminɛnan
 \dt 19/Aug/2006
-
-\lx syɛ̀ntala
-\mm syɛ̀n:n:lutte
-\mm tà:v:prendre
-\mm la:mrph:AG.PRM
-\va shyɛ̀n.ta.la
-\mm shyɛ̀n:n:lutte
-\mm tà:v:prendre
-\mm la:mrph:AG.PRM
-\ph [shy ...]
-\ps n
-\gf lutteur
-\lt (lutte.prendre.celui qui)
-\dt 12/Aug/2006
 
 \lx syɛ̀ɲimi
 \mm syɛ̀:n:poule
@@ -118727,8 +118819,10 @@ fiançailles
 \dt 26/Sep/2006
 
 \lx tàma
+\va tàman
 \ps n
 \gf lance
+\dt 30/Apr/2017
 
 \lx tàma
 \va tàman
@@ -119900,6 +119994,7 @@ fiançailles
 
 \lx tɛ́
 \va té
+\va tí
 \va t'
 \ps cop
 \gf COP.NEG
@@ -119913,7 +120008,7 @@ fiançailles
 \xf non !, je refuse
 \xv à nɔ́gɔlen tɛ́
 \xf il n'est pas sale
-\dt 23/Apr/2014
+\dt 30/Apr/2017
 
 \lx tɛ̀ɛ
 \ps n
@@ -126100,6 +126195,13 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 \sm (dans ses propos ...)
 \dt 16/Aug/2006
 
+\lx wàkilu
+\ps n
+\gf témoin
+\gvf garant
+\smf
+\dt 30/Apr/2017
+
 \lx wàkiya
 \mm wàki:adj:généreux
 \mm ya:mrph:ABSTR
@@ -126196,8 +126298,11 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 \bw ar: lawha = id. avec métathèse
 \ps n
 \gf planchette
-\sm planchette utilisée dans les écoles coraniques / toute planchette
-\dt 16/Aug/2006
+\sm (planchette utilisée dans les écoles coraniques / toute
+planchette)
+\xv kà wàlan sɛ̀mɛ
+\xe démissionner, se retirer
+\dt 30/Apr/2017
 
 \lx wálan
 \va wála

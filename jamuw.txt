@@ -445,6 +445,13 @@
 \ps n.prop
 \gf NOM.CL
 
+\lx Darawe
+\ps n.prop
+\gf NOM.CL
+\gvf Drawé
+\smf
+\dt 30/Apr/2017
+
 \lx Daw
 \va Ndaw
 \va Dafe
@@ -1435,6 +1442,13 @@
 \dt 26/Feb/2017
 \ps n.prop
 \gf NOM.CL
+
+\lx Kamite
+\ps n.prop
+\gf NOM.CL
+\gvf
+\smf
+\dt 30/Apr/2017
 
 \lx Kamiyan
 \di marka
@@ -2440,8 +2454,9 @@ Sagone.
 \lx Ɲarɛ
 \va Ɲàre
 \va Ɲàare
+\va Ɲaarɛ
 \di som
-\dt 04/Jun/2016
+\dt 30/Apr/2017
 \ps n.prop
 \gf NOM.CL
 
