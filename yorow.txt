@@ -645,6 +645,13 @@ Tombouctou)
 \xf
 \dt 06/Feb/2017
 
+\lx Banbuguwɛrɛ
+\ps n.prop
+\gf TOP
+\gvf Bambougouwere
+\smf (village, région de Ségou)
+\dt 01/May/2017
+
 \lx Bandama
 \ps n.prop
 \gf TOP
@@ -944,6 +951,13 @@ Comoé, Burkina Faso)
 \gvf Bissau
 \ru Бисау
 \dt 23/May/2010
+
+\lx Bla
+\ps n.prop
+\gf TOP
+\gvf Bla
+\smf (commune et cercle, région de Ségou)
+\dt 01/May/2017
 
 \lx Bófà
 \di m
@@ -2231,6 +2245,13 @@ Ségou)
 \xf
 \dt 08/Feb/2017
 
+\lx Jakɔ
+\ps n.prop
+\gf TOP
+\gvf Diako
+\smf (un village, région de Ségou)
+\dt 01/May/2017
+
 \lx Jalakɔrɔba
 \ps n.prop
 \gf TOP
@@ -2613,6 +2634,13 @@ région de Sikasso)
 \xv
 \xf
 \dt 06/Feb/2017
+
+\lx Kamama
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx Kameruni
 \va Kamerun
@@ -3849,6 +3877,14 @@ royaumes successeurs de l'Ancien Ghana)
 \cm (в Гвинее, приток Нигера)
 \dt 23/May/2010
 
+\lx Mimana
+\ps n.prop
+\gf TOP
+\gvf Mimana
+\smf (village dans la commune de Farako, cercle et région de
+Ségou)
+\dt 01/May/2017
+
 \lx Misabugu
 \ps n.prop
 \gf TOP
@@ -3990,13 +4026,6 @@ royaumes successeurs de l'Ancien Ghana)
 \gf TOP
 \gvf Mountougoula
 \smf (village et commune, cercle de Kati, cercle de Koulikoro)
-\dt 30/Apr/2017
-
-\lx Muɲiri
-\ps
-\gf
-\gvf
-\smf
 \dt 30/Apr/2017
 
 \lx Muruja
@@ -4337,12 +4366,13 @@ gauche du Niger)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
-\lx Ɲɔnɔn
+\lx Ɲɔnɔ
+\va Ɲɔnɔn
 \ps n.prop
 \gf TOP
 \gvf Niono
 \smf (ville et cercle dana la région de Ségou)
-\dt 08/Feb/2016
+\dt 01/May/2017
 
 \lx Ɲɔrɔn
 \ps n.prop
@@ -4968,6 +4998,14 @@ international)
 \gvf Siguiru
 \ru Сигири
 \dt 23/May/2010
+
+\lx Sigo
+\ps n.prop
+\gf TOP
+\gvf Singo
+\smf (village dans la commune de Sanando, cercle de Barouéli,
+région de Ségou)
+\dt 01/May/2017
 
 \lx Sikaso
 \ty г.

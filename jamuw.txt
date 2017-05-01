@@ -3436,6 +3436,14 @@ Baygille, Drame, Yaresi, Markus.
 \ps n.prop
 \gf NOM.CL
 
+\lx Yatura
+\ps n.prop
+\gf NOM.CL
+\gvf Yattoura
+\smf (village de Singo, commune de Sanando, cercle de Barouéli,
+région de Ségou)
+\dt 01/May/2017
+
 \lx Yebese
 \di dog
 \dt 06/May/2010

@@ -109,12 +109,12 @@
 \sy màaninfinya
 \dt 08/Sep/2006
 
-\lx adɛrɛsi
+\lx ádɛrɛsi
 \ps n
 \gf adresse
 \gvf
 \smf
-\dt 09/Apr/2017
+\dt 01/May/2017
 
 \lx adw
 \mm àní:conj:ainsi.que
@@ -5164,13 +5164,17 @@ Fleurs spectaculaires
 \mm bàro:n:conversation
 \mm sìgi:n:position.assise
 \ps n
-\lt converser-s'asseoir
-\gf conférence.de.presse
+\ms 1
+\gf conférence
+\gvf conférence.de.presse
 \xv jàmana kùntigi ká bàrosigi nìnnu látɛmɛna  àrajo ní  tèlewisɔnsoba lá
 \xf ces conférences de presse du chef de l'état ont été retransmises en direct par la radio et la télévision (kb 6/05/p.1)
 \xv làada dòn jàmanakuntigi ní kùnnafonidila kà bàrosigi kɛ́...
 \xf c'est une coutume pour le président de faire une conférence de presse (au nouvel an) (kb 6/06 p.2)
-\dt 11/Nov/2007
+\ms 2
+\gvf réjouissance des femmes
+\smf (une causerie de l'après-midi d'une noce)
+\dt 01/May/2017
 
 \lx bàrotigi
 \mm bàro:n:conversation
@@ -12271,12 +12275,12 @@ toujours (pro)
 \lt (tambour.grand)
 \dt 16/Aug/2006
 
-\lx bɔnbɔn
+\lx bɔ̀nbɔn
 \ps n
 \gf bonbon
 \gvf
 \smf
-\dt 30/Apr/2017
+\dt 01/May/2017
 
 \lx bɔ̀nɛ
 \va bùnɛ
@@ -16953,10 +16957,18 @@ sur soi)
 \va ncɔ́ɔlɔ
 \ve (bn)
 \ps v
+\ms 1
 \vl vt
 \gf affaiblir
 \gvf faire.dépérir
-\dt 26/Sep/2006
+\ms 2
+\vl vi
+\gvf s'affaiblir
+\ms 3
+\vl vt
+\gvf élaguer
+\smf (couper les branches d'un arbre)
+\dt 01/May/2017
 
 \lx cɔ́ri
 \va córi
@@ -21352,6 +21364,14 @@ devenir incontrôlable
 \ps n
 \gf foulard
 \lt (poser.mon.cou.sur)
+
+\lx dankari
+\ps n
+\sn Acacia penata
+\gf arbre.esp
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx dànkari
 \mm dàn:n:limite
@@ -26954,6 +26974,15 @@ l'occasion d'une naissance)
 \ps n
 \gf humiliation
 \lt (petit.suf abs)
+
+\lx dɔ́gɔmɔ
+\mm dɔ́gɔ:n:marché
+\mm mɔ̀:n:croissance
+\ps n
+\gf cadeau.amené.du.marché
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx dɔ́gɔmuso
 \mm dɔ́gɔ:n:cadet
@@ -37800,10 +37829,13 @@ frontières, forestiers, sapeurs)
 \dt 04/Jul/2013
 
 \lx fú
+\va fúu
 \ps n
 \gf zéro
+\dt 01/May/2017
 
 \lx fú
+\va fúu
 \ps adv
 \ms 1
 \gf inutilement
@@ -37813,13 +37845,15 @@ frontières, forestiers, sapeurs)
 \gvf gratis
 \xv à díra  é mà fú
 \xf on te le donne gratis
+\dt 01/May/2017
 
 \lx fú
+\va fúu
 \ps adj
 \gf inutile
 \xv kúma fu
 \xf parole sans valeur
-\dt 23/Jan/2015
+\dt 01/May/2017
 
 \lx fúfafu
 \ps n
@@ -37835,6 +37869,20 @@ frontières, forestiers, sapeurs)
 \xv màa fúfafu yé  báataramɔgɔ yé
 \xf un "fufafu" est un vaurien
 \dt 26/Sep/2006
+
+\lx fúfalaki
+\mm fú:adv:inutilement
+\mm fálaki:adv:à.vive.allure
+\va fúufalaki
+\mm fúu:adv:inutilement
+\mm fálaki:adv:à.vive.allure
+\ps adv
+\ms 1
+\gf inutilement
+\gvf sans résultat
+\ms 2
+\gvf gratuitement
+\dt 01/May/2017
 
 \lx fúfɔ
 \mm fú:n:zéro
@@ -55963,6 +56011,14 @@ prolapsus utérin
 \xf quand le moment n'est pas arrivé, on ne peut le contraindre
 (dicton)
 \dt 05/Apr/2016
+
+\lx kàrabini
+\ps n
+\gf carbure.de.calcium
+\smf (produit.utilisé.par.les.chasseurs.pour.s'éclairer et également
+employé pour faire mûrir les fruits plus vite; il peut s'agit
+probablement de chaux vive)
+\dt 01/May/2017
 
 \lx kárada
 \bw fr : id
@@ -87411,14 +87467,6 @@ téter)
 \smf (mêmes sens pour le verbe simple)
 \dt 20/Jan/2015
 
-\lx ncɔ́ɔlɔ
-\ve (bn)
-\va cɔ́ɔlɔ
-\ps v
-\vl vi
-\gf s'affaiblir
-\dt 16/Aug/2006
-
 \lx ncɔ́ɔnɔ
 \ps n
 \gf source
@@ -90389,14 +90437,6 @@ familiaux; viande très prisée, auladiculture)
 \gf enflure
 \smf enflure des jambes (maladie)
 \dt 16/Aug/2006
-
-\lx nkàraki
-\ve (f,bn)
-\va ntàraki
-\ps v
-\vl vt
-\gf érafler
-\dt 26/Sep/2006
 
 \lx nkàranfunu
 \mm fúnu:n:gonflement
@@ -93906,6 +93946,8 @@ graines, sert d'instrument rythmique)
 
 \lx ntàraki
 \va ntàragi
+\va nkàraki
+\ve (f,bn)
 \ps v
 \ms 1
 \gf écorcher
@@ -93915,7 +93957,7 @@ graines, sert d'instrument rythmique)
 \gvf arracher
 \ms 3
 \gvf soutirer
-\dt 04/Feb/2016
+\dt 01/May/2017
 
 \lx ntáyin
 \ps adv
@@ -102974,6 +103016,14 @@ envergure)
 \cm fr. épingle
 \dt 16/Sep/2015
 
+\lx pɛ́lɛ
+\va pɛ́lɛden
+\ps n
+\gf solive
+\gvf
+\smf
+\dt 01/May/2017
+
 \lx pɛ́npɛrɛn
 \va pánparan
 \ve (bn)
@@ -103385,12 +103435,12 @@ envergure)
 \xf mentir
 \dt 16/Aug/2006
 
-\lx porokirɛri
+\lx pórokirɛri
 \ps n
 \gf procureur
 \gvf
 \smf
-\dt 09/Apr/2017
+\dt 01/May/2017
 
 \lx pórokoporoko
 \ps adv
@@ -103609,12 +103659,12 @@ envergure)
 \sy ŋɔ́nijɛ
 \dt 26/Sep/2006
 
-\lx pɔsi
+\lx pɔ́si
 \ps n
 \gf poche
 \gvf
 \smf
-\dt 09/Apr/2017
+\dt 01/May/2017
 
 \lx pɔ́siti
 \ps n
@@ -109414,8 +109464,14 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sɛ́bɛn
 \ps v
+\ms 1
 \vl vt
 \gf écrire
+\ms 2
+\vl vt
+\gvf préscrire
+\smf (à -- kùn)
+\dt 01/May/2017
 
 \lx sɛ́bɛnden
 \mm sɛ́bɛn:n:écrit
@@ -112996,6 +113052,8 @@ donne d'excellentes fibres)
 \xf la jeune fille a été trouvée vierge
 \xv só màyɛ́lɛma
 \xf mourir
+\xv kà mɔ̀gɔ só sɔ̀gɔ
+\xe ruiner la santer de qqn.
 \ms 2
 \gvf village
 \gvf localité
@@ -113006,7 +113064,7 @@ donne d'excellentes fibres)
 \ms 3
 \gvf rang
 \gvf colonne
-\dt 23/Oct/2016
+\dt 01/May/2017
 
 \lx sóba
 \mm só:n:maison
@@ -115296,7 +115354,8 @@ euphémique)
 \xf il a trempé la boulette de "to" dans la sauce
 \ms 2
 \gvf inciter
-\dt 16/Aug/2006
+\gvf exciter
+\dt 01/May/2017
 
 \lx sùba
 \mm sù:n:cadavre
@@ -127980,6 +128039,14 @@ la Justice (kb 12/05 p.4)
 \gf septième
 \dt 08/Feb/2016
 
+\lx wòlonin
+\va wɔ̀lɔnin
+\ps n
+\gf amorce
+\gvf capsule de fusil
+\smf
+\dt 01/May/2017
+
 \lx wólonkama
 \mm wólo:v:accoucher
 \mm ń:pers:1SG
@@ -131880,11 +131947,11 @@ généreuses, avec bourrelets
 \cm fr. jupe
 \dt 29/Mar/2017
 
-\lx zoni
+\lx zóni
 \ps n
 \gf zone
 \gv
-\dt 01/Apr/2017
+\dt 01/May/2017
 
 \lx zú
 \bw fr : joug

@@ -347,6 +347,15 @@
 \xf
 \dt 09/Oct/2016
 
+\lx Bábilen
+\mm bá:n:mère
+\mm bìlen:adj:rouge
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 01/May/2017
+
 \lx Bacɔ
 \di b
 \ps n.prop
@@ -427,14 +436,14 @@
 \di b
 \va Bwakarijan
 \di bS
-\dm Bwàján
-\dm Bàján
-\dm Bwari
-\dm Bakari
-\dm Bwakari
+\va Bwàjan
+\va Bàjan
+\va Bwari
+\va Bakari
+\va Bwakari
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 01/May/2017
 
 \lx Bakaye
 \ps n.prop
@@ -442,6 +451,13 @@
 \gvf
 \smf
 \dt 09/Apr/2017
+
+\lx Bakolo
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx Bakɔrɔba
 \di b
@@ -530,11 +546,12 @@
 \dt 03/May/2010
 
 \lx Banɛsa
+\va Banɛyisa
 \ps n.prop
 \gf NOM.F
 \gvf
 \smf
-\dt 09/Apr/2017
+\dt 01/May/2017
 
 \lx Banfali
 \di b
@@ -574,6 +591,13 @@
 \gf NOM.F
 \dt 03/May/2010
 
+\lx Barɔ
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 01/May/2017
+
 \lx Bàru
 \di b
 \ps n.prop
@@ -598,6 +622,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Bati
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx Bátùru
 \di m
@@ -647,6 +678,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Bɛnu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx Bibi
 \ps n.prop
@@ -815,6 +853,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Bwatu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx Cɛ̀bá
 \di b, m
@@ -999,10 +1044,11 @@
 
 \lx Daramani
 \va Daramane
-\di
+\va Dara
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\smf (Dara est une forme diminutive)
+\dt 01/May/2017
 
 \lx Dáuda
 \va Dáwuda
@@ -1042,6 +1088,20 @@
 \ps n.prop
 \gf NOM.M
 \dt 01/Feb/2017
+
+\lx Disa
+\ps n.prop
+\gf NOM
+\gvf
+\smf
+\dt 01/May/2017
+
+\lx Disilame
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx Diyasana
 \ps n.prop
@@ -1273,6 +1333,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Fatine
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 01/May/2017
+
 \lx Fátuma
 \va Fàtú
 \va Fatimata
@@ -1347,10 +1414,10 @@
 
 \lx Gandiki
 \ps n.prop
-\gf NOM
+\gf NOM.M
 \gvf
 \smf
-\dt 09/Apr/2017
+\dt 01/May/2017
 
 \lx Gansenin
 \va Gwansenin
@@ -1960,6 +2027,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Koso
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 01/May/2017
+
 \lx Kóyan
 \di b
 \ps n.prop
@@ -2067,6 +2141,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Kumufa
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx Kùnadi
 \di m
@@ -2844,17 +2925,18 @@
 \dt 03/May/2010
 
 \lx Nuhun
-\di
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 01/May/2017
 
-\lx Nukumani
+\lx Nukumane
+\va Nukumani
+\va Nuhumane
 \ps n.prop
 \gf NOM.M
 \gvf
 \smf
-\dt 09/Apr/2017
+\dt 01/May/2017
 
 \lx Numan
 \di b
@@ -2980,6 +3062,14 @@
 \ps n.prop
 \gf NOM.F
 \dt 03/May/2010
+
+\lx Ɲaci
+\va Ɲaciya
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx Ɲàgalen
 \di b
@@ -3436,6 +3526,13 @@
 \gf NOM.F
 \dt 03/May/2010
 
+\lx Sirama
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 01/May/2017
+
 \lx Siriba
 \dm Seri
 \di b
@@ -3445,10 +3542,11 @@
 
 \lx Síriman
 \va Sirman
+\va Sirimamanu
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 01/May/2017
 
 \lx Sìtafa
 \di b
@@ -3509,20 +3607,16 @@
 \gf NOM.F
 \dt 03/May/2010
 
-\lx Sule
-\va Sulaye
-\di b
-\ps n.prop
-\gf NOM
-\dt 03/May/2010
-
 \lx Sulemani
 \va Suleyimani
 \va Suleyimane
+\va Sulaye
+\va Suleye
+\va Sule
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 09/Apr/2017
+\dt 01/May/2017
 
 \lx Sumayila
 \va Isimayɛli
@@ -3721,6 +3815,13 @@ de l'enfant qui survit à sa mère morte en couches
 \gf NOM
 \dt 03/May/2010
 
+\lx Tɔma
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 01/May/2017
+
 \lx Tuba
 \ps n.prop
 \gf NOM.F
@@ -3736,11 +3837,12 @@ de l'enfant qui survit à sa mère morte en couches
 \dt 03/May/2010
 
 \lx Úmarù
+\va Ómarù
 \di b
 \ps n.prop
 \gf NOM.M
 \gvf Oumar
-\dt 07/Feb/2017
+\dt 01/May/2017
 
 \lx Úmù
 \di b
@@ -3756,10 +3858,11 @@ de l'enfant qui survit à sa mère morte en couches
 \va Sumana
 \va Zumana
 \va Sumanɛ
+\va Nsumanɛ
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 09/Apr/2017
+\dt 01/May/2017
 
 \lx Usubi
 \di
@@ -3797,11 +3900,16 @@ de l'enfant qui survit à sa mère morte en couches
 \gf NOM.M
 \dt 03/May/2010
 
-\lx Wàsá
+\lx Wàsa
 \di b
 \ps n.prop
 \gf NOM.MF
-\dt 30/Apr/2017
+\dt 01/May/2017
+
+\lx Woba
+\ps n.prop
+\gf NOM.M
+\dt 01/May/2017
 
 \lx Wobana
 \di bobo
@@ -3863,6 +3971,13 @@ de l'enfant qui survit à sa mère morte en couches
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Yaranga
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 01/May/2017
 
 \lx Yawu
 \ps n.prop
