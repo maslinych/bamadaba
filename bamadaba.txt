@@ -46410,6 +46410,13 @@ qqch ...)
 \sm (partie.de.la.personne.humaine qui demeure après la mort)
 \dt 04/Apr/2016
 
+\lx jánjali
+\ps adv
+\gf gros.et.lourd
+\gvf
+\smf
+\dt 02/May/2017
+
 \lx jánjigi
 \ps n
 \gf personne.élégante
@@ -113052,8 +113059,6 @@ donne d'excellentes fibres)
 \xf la jeune fille a été trouvée vierge
 \xv só màyɛ́lɛma
 \xf mourir
-\xv kà mɔ̀gɔ só sɔ̀gɔ
-\xe ruiner la santer de qqn.
 \ms 2
 \gvf village
 \gvf localité
@@ -113064,7 +113069,7 @@ donne d'excellentes fibres)
 \ms 3
 \gvf rang
 \gvf colonne
-\dt 01/May/2017
+\dt 02/May/2017
 
 \lx sóba
 \mm só:n:maison
@@ -114302,6 +114307,18 @@ donne d'excellentes fibres)
 \gf produit.insecticide
 \lt (moustique.tuer.ce qui sert à)
 \dt 16/Aug/2006
+
+\lx sosɔgɔ
+\ps v
+\ms 1
+\vl vt
+\gf affaiblir
+\gvf endommager la santé
+\ms 2
+\vl vt
+\gvf ruiner
+\gvf mettre sur paille
+\dt 02/May/2017
 
 \lx sótarama
 \va sótrama
