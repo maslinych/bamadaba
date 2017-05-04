@@ -267,13 +267,13 @@ Salam, Cercle de Tombouctou)
 \xf
 \dt 07/Feb/2017
 
-\lx Arayida
+\lx Àrayida
 \va Rayeda
 \ps n.prop
 \gf TOP
 \gvf Bord de Rails
 \smf (quartier du Bamako)
-\dt 29/Mar/2017
+\dt 04/May/2017
 
 \lx Aritizana
 \ps n.prop
@@ -380,13 +380,13 @@ Salam, Cercle de Tombouctou)
 \dt 23/May/2010
 
 \lx Azawadi
-\ps n
+\ps n.prop
 \gf TOP
 \gvf Azawad
 \smf
 \xv
 \xf
-\dt 15/Sep/2016
+\dt 04/May/2017
 
 \lx Baba
 \ty р.
@@ -877,13 +877,13 @@ Comoé, Burkina Faso)
 \dt 23/May/2010
 
 \lx Bɛlɛdugu
-\ps n
+\ps n.prop
 \gf TOP
 \gvf Bélédougou
 \smf
 \xv
 \xf
-\dt 22/May/2016
+\dt 04/May/2017
 
 \lx Bɛlɛkɔ
 \ps n.prop
@@ -1169,14 +1169,14 @@ de Koulikoro)
 \dt 24/Oct/2016
 
 \lx Cɛkijamana
-\ps n
+\ps n.prop
 \gf TOP
 \gvf Tchéquie
 \gvf République Tchèque
 \smf
 \xv
 \xf
-\dt 24/Oct/2016
+\dt 04/May/2017
 
 \lx Cɛkumala
 \ps n.prop
