@@ -12985,6 +12985,16 @@ toujours (pro)
 \gf hameau.de.culture
 \dt 03/Apr/2016
 
+\lx bùgumuso
+\mm bùgu:n:paillote
+\mm mùso:adj:femme
+\ps n
+\gf case.ronde
+\gvf
+\smf
+\src Salif Sy
+\dt 06/May/2017
+
 \lx bùgun
 \va bùgu
 \ps v
@@ -15162,8 +15172,9 @@ sur soi)
 \gf herbe.Andropogon.caniculatus
 \sd gram
 \lt (ramasser? tige)
-\smf (grande herbe dont on fait paillassons,nattes grossières, fermetures de portes ...)
-\dt 22/Sep/2014
+\smf (grande herbe dont on fait paillassons,nattes grossières,
+fermetures de portes, palissades; on l'utilise pour la toiture)
+\dt 06/May/2017
 
 \lx cɛ̀kan
 \mm cɛ̀:n:mâle
@@ -33748,7 +33759,7 @@ bien (dicton)
 
 \lx fɛ́nkɛbali
 \mm fɛ́n:n:chose
-\mm kɛ́:n:action
+\mm kɛ́:v:faire
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \lt qc-faire-nég
@@ -33757,11 +33768,11 @@ bien (dicton)
 \xv fɛ́nkɛbali ɲɛ́sigi yé  kɔ́ngɔ yé
 \xf l'inactif doit s'attendre à la faim (Pr 19, 15)
 \rem du
-\dt 11/Nov/2007
+\dt 08/May/2017
 
 \lx fɛ́nkɛbaliya
 \mm fɛ́n:n:chose
-\mm kɛ́:n:action
+\mm kɛ́:v:faire
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
@@ -33769,7 +33780,7 @@ bien (dicton)
 \gf inaction
 \xv Sálaya bɛ́ fɛ́nkɛbaliya dúsu dón mɔ́gɔ lá
 \xf la paresse plonge l'être humain dans l'inaction (Pr 19, 15)
-\dt 11/Nov/2007
+\dt 08/May/2017
 
 \lx fɛ́nko
 \ps n
@@ -60274,12 +60285,13 @@ probablement de chaux vive)
 \lx kójugu
 \mm kó:n:affaire
 \mm júgu:adj:mauvais
+\va kójùgu
 \ps intj
 \gf assurément
 \gvf parfaitement
 \xv kójugu ! ń dára  ò lá
 \xf parfaitement ! je le crois
-\dt 23/Nov/2012
+\dt 10/May/2017
 
 \lx kójugukɛla
 \mm kó:n:affaire
@@ -65931,6 +65943,17 @@ ou une proposition)
 \ps n
 \gf séquelle.de.maladie
 \dt 16/Aug/2006
+
+\lx kɔ̀ɔlɔ
+\ps n
+\gf herbe.de.savanne
+\gvf
+\smf (à tige long, qu'on utilise pour la toiture: on fait la charpante
+sur le sol, on la couvre avec kɔ̀ɔlɔ, puis monte le toit sur la
+maison; ce type de toit est moins joli que le toit de cɛ̀kala, mais
+plus solide)
+\src Salif Sy
+\dt 06/May/2017
 
 \lx kɔ̀ɔlɔma
 \mm kɔ̀ɔlɔ:n:étamine
@@ -81892,6 +81915,13 @@ des engagements
 \smf (péj. imitation d'une expression courante en peul o bimi = je dis)
 \dt 16/Aug/2006
 
+\lx mídi
+\ps n
+\gf midi
+\gvf
+\smf
+\dt 09/May/2017
+
 \lx míiri
 \ps n
 \gf idée
@@ -90218,6 +90248,7 @@ sur soi, on les connaît
 \dt 05/Apr/2016
 
 \lx nkàlon
+\va ngàlon
 \ps n
 \gf mensonge
 \smf (en exclamation de ton haut nkalon ! menteur ! )
@@ -90225,7 +90256,7 @@ sur soi, on les connaît
 \xf mentir
 \xv nkàlon dá  màa (ná / kàn)
 \xf raconter des mensonges sur qqn
-\dt 03/Apr/2016
+\dt 07/May/2017
 
 \lx nkàlonncì
 \mm nkàlon:n:mensonge
@@ -107588,6 +107619,14 @@ paniers, sègi)
 \xf rends-lui cet objet
 \dt 26/Sep/2006
 
+\lx sègin
+\va sègi
+\ps n
+\gf retour
+\gvf
+\smf
+\dt 05/May/2017
+
 \lx ségin
 \va séegin
 \ps num
@@ -108141,6 +108180,51 @@ paniers, sègi)
 \sy bíli
 \dt 26/Sep/2006
 
+\lx sènankun
+\va sɛ̀nɛnkun
+\va sìnankun
+\va sènenkun
+\va sànankun
+\ps n
+\gf cousin.de.plaisanterie
+\smf membre de la famille liée à la vôtre par des relations traditionnelles d'entr'aide et de plaisanterie (ex : les 'Tarawele' et les 'Jara' sont des 'senenkun' de même que les'Kulubali' et les 'Konare' ...)
+\dt 07/May/2017
+
+\lx sènankunma
+\mm sènankun:n:cousin.de.plaisanterie
+\mm ma:mrph:RECP.PRN
+\va sɛ̀nɛnkunma
+\mm sɛ̀nɛnkun:n:cousin.de.plaisanterie
+\mm ma:mrph:RECP.PRN
+\va sìnankunma
+\mm sìnankun:n:cousin.de.plaisanterie
+\mm ma:mrph:RECP.PRN
+\va sènenkunma
+\mm sènenkun:n:cousin.de.plaisanterie
+\mm ma:mrph:RECP.PRN
+\ps adj/n
+\gf cousin.de.plaisanterie
+\lt ('senenkun'.suf adj)
+\dt 07/May/2017
+
+\lx sènankunya
+\mm sènankun:n:cousin.de.plaisanterie
+\mm ya:mrph:ABSTR
+\va sɛ̀nɛnkun.ya
+\mm sɛ̀nɛnkun:n:cousin.de.plaisanterie
+\mm ya:mrph:ABSTR
+\va sìnankun.ya
+\mm sìnankun:n:cousin.de.plaisanterie
+\mm ya:mrph:ABSTR
+\va sànankun.ya
+\mm sànankun:n:cousin.de.plaisanterie
+\mm ya:mrph:ABSTR
+\ps n
+\gf cousinage.de.plaisanterie
+\smf relation traditionnelle de plaisanterie et de service
+\lt ('senenkun'.suf abs)
+\dt 07/May/2017
+
 \lx sènba
 \mm sèn:n:jambe
 \mm ba:mrph:AUGM
@@ -108295,39 +108379,6 @@ paniers, sègi)
 \gf aux.pieds.tordus
 \lt (pied.tordre)
 \dt 16/Aug/2006
-
-\lx sènenkun
-\va sìnankun
-\va sènankun
-\va sànankun
-\va sɛ̀nɛnkun
-\ps n
-\gf cousin.de.plaisanterie
-\smf membre de la famille liée à la vôtre par des relations traditionnelles d'entr'aide et de plaisanterie (ex : les 'Tarawele' et les 'Jara' sont des 'senenkun' de même que les'Kulubali' et les 'Konare' ...)
-\dt 02/Apr/2015
-
-\lx sènenkunma
-\mm sènenkun:n:cousin.de.plaisanterie
-\mm ma:mrph:RECP.PRN
-\ps adj/n
-\gf cousin.de.plaisanterie
-\lt ('senenkun'.suf adj)
-\dt 02/Apr/2015
-
-\lx sènenkunya
-\mm sènenkun:n:cousin.de.plaisanterie
-\mm ya:mrph:ABSTR
-\va sìnankun.ya
-\mm sìnankun:n:cousin.de.plaisanterie
-\mm ya:mrph:ABSTR
-\va sènankun.ya
-\mm sènankun:n:cousin.de.plaisanterie
-\mm ya:mrph:ABSTR
-\ps n
-\gf cousinage.de.plaisanterie
-\smf relation traditionnelle de plaisanterie et de service
-\lt ('senenkun'.suf abs)
-\dt 02/Apr/2015
 
 \lx sènfá
 \mm sèn:n:jambe
@@ -113866,13 +113917,13 @@ donne d'excellentes fibres)
 \lx sóma
 \ps n
 \ms 1
-\gf sorcier
-\sm (bienfaisant ou malfaisant)
+\gf connaisseur
+\gvf maître féticheur
 \ms 2
 \gvf guérisseur
 \gvf jeteur de mauvais sorts
 \smf (qui connaissent beaucoup de choses secrètes : remèdes, poisons ...)
-\dt 16/Aug/2006
+\dt 10/May/2017
 
 \lx sómaden
 \mm sóma:n:sorcier
@@ -119230,6 +119281,22 @@ fiançailles
 \xv kàrisa bɛ́ à tánnifilafili lá
 \xf un tel est au meilleur de sa forme
 \dt 26/Sep/2006
+
+\lx tánpɔ
+\ps v
+\vl vt
+\gf conger
+\gvf tamponner
+\smf (accident routier)
+\dt 06/May/2017
+
+\lx tánpɔlima
+\ps n
+\gf accident.routier
+\gvf tamponnement
+\smf (deux moyens de transport, ou un moyen de transport avec un
+pieton)
+\dt 06/May/2017
 
 \lx tánsiyɔn
 \va tánsɔn
