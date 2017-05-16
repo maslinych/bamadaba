@@ -10513,12 +10513,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólola:n:action.de.main
 \mm bólo:n:bras
 \mm lá:pp:dans
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj/n
 \gf mauvais.travailleur
 \sy bólomanjugu
 \lt (travail.mauvais)
-\dt 22/Mar/2015
+\dt 16/May/2017
 
 \lx bólolakaran
 \ps n
@@ -49208,11 +49208,15 @@ le toit de la maison et descendaient
 \mm kúna:vq:amer
 \mm nin:mrph:DIM
 \ps n
-\gf arbre.Azadarichta.indica
-\smf arbre, pousse encore avec juste 150 mm de pluie, originaire des Indes, mais adopté partout; il a des propriétés insectifuges et insecticides)
 \sd méli
-\lt (arbre.amer.très)
-\dt 19/Aug/2006
+\gf nim
+\gvf margousier
+\gvf arbre.Azadarichta.indica
+\smf (arbre, pousse encore avec juste 150 mm de pluie, originaire
+des Indes, mais adopté partout; il a des propriétés insectifuges
+et insecticides)
+\sd méli
+\dt 16/May/2017
 
 \lx jírikuru
 \mm jíri:n:arbre
@@ -62813,6 +62817,15 @@ champs)
 \xv ù bɛ́ kɔ́  kà nà
 \xf ils sont par derrière, ils arrivent
 \dt 07/Feb/2016
+
+\lx kɔ́fɛ̀
+\mm kɔ́:n:dos
+\mm fɛ̀:pp:par
+\ps adv
+\gf puis
+\gvf ensuite
+\smf
+\dt 16/May/2017
 
 \lx kɔ́fɛla
 \mm kɔ́:n:dos
@@ -79784,6 +79797,15 @@ jour, c'est une personne dépendante qu'il voit
 \gf capital.de.départ
 \gvf
 \dt 05/Feb/2016
+
+\lx mánawolo
+\mm mána:n:substance.collante
+\mm wòlo:n:peau
+\ps n
+\gf fouet.en.peau
+\gvf courroie en matière synthétique
+\smf
+\dt 16/May/2017
 
 \lx mánaya
 \mm mána:n:substance.collante
@@ -108053,22 +108075,28 @@ paniers, sègi)
 \lx sélininncinin
 \mm séli:n:prière
 \mm nin:mrph:DIM
-\mm ncínin:vq/adj:petit
+\mm ncínin:adj:petit
+\va sélincinin
+\mm séli:n:prière
+\mm ncínin:adj:petit
+\va sálincinin
+\mm séli:n:prière
+\mm ncínin:adj:petit
 \ps n
 \gf fête.de.fin.de.ramadan
 \lt (fête.petite.petite)
-\dt 16/Aug/2006
+\dt 16/May/2017
 
 \lx sélininncininkalo
 \mm séli:n:prière
 \mm nin:mrph:DIM
-\mm ncínin:vq/adj:petit
+\mm ncínin:adj:petit
 \mm kálo:n:lune
 \ps n
 \gf 10ème.mois.lunaire
 \sy sélikalo
 \lt (petite fête.mois)
-\dt 16/Aug/2006
+\dt 16/May/2017
 
 \lx séliwolo
 \mm séli:n:prière
@@ -121450,7 +121478,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tíla
 \va tlá
-\ph [tla]
+\va tílan
 \ps n
 \ms 1
 \gf moitié
@@ -121468,14 +121496,14 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xf quand c'est fini ...
 \ms 5
 \gvf fuite
-\dt 26/Sep/2006
+\dt 16/May/2017
 
 \lx tíla
 \va tlá
 \va flá
 \ph [tla, fla]
 \ve (f)
-\vc tílan
+\va tílan
 \ps v
 \ms 1
 \vl vt
@@ -121508,7 +121536,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xf ensuite, je vais examiner ça
 \xv dùgu tílara
 \xf il est minuit passé
-\dt 26/Sep/2006
+\dt 16/May/2017
 
 \lx tílada
 \mm tíla:v:diviser
