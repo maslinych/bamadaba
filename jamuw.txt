@@ -540,13 +540,14 @@
 
 \lx Dikko
 \va Dikɔ
+\va Diko
 \di tou
 \di ful
 \di dog
 \ca hɔ́rɔn
 \eq Jalo (?)
 \ms Включает в себя Ɲalibuli.
-\dt 06/Feb/2017
+\dt 17/May/2017
 \ps n.prop
 \gf NOM.CL
 
@@ -2082,6 +2083,13 @@ Sagone.
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
+
+\lx Li
+\ps n.prop
+\gf NOM.CL
+\gvf Ly
+\smf (clan toucouleur)
+\dt 17/May/2017
 
 \lx Maale
 \di b

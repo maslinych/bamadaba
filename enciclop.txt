@@ -300,6 +300,13 @@ eu lieu en 624)4
 \xf
 \dt 15/Sep/2016
 
+\lx Baritolome Jazi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Bartholomé Diaz
+\smf
+\dt 17/May/2017
+
 \lx Basitɛti
 \ps n
 \gf Bastet
@@ -474,6 +481,13 @@ de la guerre du Mali)
 \gvf Électricité.du.Mali
 \dt 08/Feb/2016
 
+\lx Eduwari Zenɛri
+\ps n.prop
+\gf NOM.ETRG
+\gvf Edward Jenner
+\smf (médecin anglais qui a inventé le vaccin contre la variole)
+\dt 17/May/2017
+
 \lx Elena Kuyomo
 \ps n.prop
 \gf Maria.Elena.Cavallaro.Cuomo
@@ -552,6 +566,13 @@ de la guerre du Mali)
 \gf plat.songhaï
 \gvf
 \dt 05/Feb/2016
+
+\lx Farankilɛn Orosiwɛliti
+\ps n.prop
+\gf NOM.ETRG
+\gvf Franklin Roosevelt
+\smf
+\dt 17/May/2017
 
 \lx Faransuwa Holandi
 \ps n.prop
@@ -706,6 +727,13 @@ de la guerre du Mali)
 \gf Iblis
 \gvf diable
 \dt 21/Dec/2014
+
+\lx Ibunu Batuta
+\ps n.prop
+\gf NOM.ETRG
+\gvf Ibn Batuta
+\smf
+\dt 17/May/2017
 
 \lx Iburahimawisi
 \ps n.prop
@@ -919,6 +947,20 @@ la culture
 \xf
 \dt 05/Feb/2017
 
+\lx Kirisitɔfu Kolonbu
+\ps n.prop
+\gf NOM.ETRG
+\gvf Christophe Columb
+\smf
+\dt 17/May/2017
+
+\lx Kiyan Zangi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Zhang Qian
+\smf
+\dt 17/May/2017
+
 \lx Kofi
 \ps n.prop
 \gf NOM.ETRG
@@ -962,6 +1004,13 @@ la culture
 \xv
 \xf
 \dt 03/Feb/2017
+
+\lx Kuki
+\ps n.prop
+\gf NOM.ETRG
+\gvf Cook
+\smf
+\dt 17/May/2017
 
 \lx latɛn
 \ps n
@@ -1028,6 +1077,13 @@ la culture
 \smf équipe de football à Koulikoro
 \dt 03/May/2013
 
+\lx Mariko Polo
+\ps n.prop
+\gf NOM.ETRG
+\gvf Marco Polo
+\smf
+\dt 17/May/2017
+
 \lx Masaba
 \ps n
 \gf Masaba
@@ -1042,6 +1098,13 @@ depuis 1930)
 \ps n.prop
 \gf Mao.ZeDong
 \dt 23/Feb/2014
+
+\lx Mazelan
+\ps n.prop
+\gf NOM.ETRG
+\gvf Magellan
+\smf
+\dt 17/May/2017
 
 \lx MINUSMA
 \va Minusima
@@ -1205,6 +1268,13 @@ céréalière
 \gf Orange.Money
 \gvf
 \dt 05/Feb/2016
+
+\lx Otoman
+\ps n.prop
+\gf Ottoman
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx OUA
 \ps n
@@ -1388,6 +1458,20 @@ Gbagbo)
 \xf
 \dt 21/Feb/2017
 
+\lx Sarili Dariwini
+\ps n.prop
+\gf NOM.ETRG
+\gvf Charles Darwin
+\smf
+\dt 17/May/2017
+
+\lx Saworigan da Baraza
+\ps n.prop
+\gf NOM.ETRG
+\gvf Savorgnan de Brazza
+\smf
+\dt 17/May/2017
+
 \lx Selɛsitɛn
 \ps n.prop
 \gf NOM.ETRG
@@ -1553,6 +1637,13 @@ Gbagbo)
 \xf
 \dt 07/Feb/2017
 
+\lx Tehuwagan
+\ps n.prop
+\gf TOP
+\gvf Tehuacán
+\smf (ancienne ville au Mexico)
+\dt 17/May/2017
+
 \lx Tewodoro Obiyangi Ngema
 \ps n.prop
 \gf NOM.ETRG
@@ -1622,6 +1713,13 @@ Gbagbo)
 \gf UDPM
 \gvf Union démocratique du peuple malien
 \dt 14/Sep/2015
+
+\lx Wasikodegama
+\ps n.prop
+\gf NOM.ETRG
+\gvf Vasco de Gama
+\smf
+\dt 17/May/2017
 
 \lx Wɛnzɛn Kùlubàli
 \ps n.prop

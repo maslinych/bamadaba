@@ -173,6 +173,13 @@ de l'Algérie)
 \gvf Andalousie
 \dt 06/Feb/2017
 
+\lx Anderabukani
+\ps n.prop
+\gf TOP
+\gvf Andéramboukane
+\smf (une petite ville, commune de Ménaka, région de Gao)
+\dt 17/May/2017
+
 \lx Angleteri
 \va Ankili
 \va Angletɛrɛ
@@ -1893,6 +1900,14 @@ Tunisie et de l’Algérie)
 \xv
 \xf
 \dt 22/May/2016
+
+\lx Garigando
+\ps n.prop
+\gf TOP
+\gvf Gargando
+\smf (village et commune, cercle de Goundam, région de
+Tombouctou)
+\dt 17/May/2017
 
 \lx Garuwa
 \ps n.prop
@@ -4323,6 +4338,13 @@ de Koulikoro)
 \ru Нуакшот
 \dt 23/May/2010
 
+\lx Nuwɛlikalidoni
+\ps n.prop
+\gf TOP
+\gvf Nouvelle-Calédonie
+\smf
+\dt 17/May/2017
+
 \lx Nuwɛlizelandi
 \ps n.prop
 \gf TOP
@@ -4475,12 +4497,13 @@ Koulikoro)
 \dt 02/Feb/2017
 
 \lx Olandi
+\va Holandi
 \ty гос.
 \ps n.prop
 \gf TOP
 \gvf Pays-Bas
 \ru Голландия
-\dt 23/May/2010
+\dt 17/May/2017
 
 \lx Olɛnpi
 \ps n.prop
@@ -4499,13 +4522,14 @@ Koulikoro)
 \dt 05/Feb/2017
 
 \lx Ositarali
+\va Ɔsitarali
 \ty гос.
 \ty конт.
 \ps n.prop
 \gf TOP
 \gvf Australie
 \ru Австралия
-\dt 23/May/2010
+\dt 17/May/2017
 
 \lx Otirishi
 \va Otirisi
@@ -4594,6 +4618,13 @@ Koulikoro)
 \gf TOP
 \gvf
 \dt 08/Feb/2016
+
+\lx Peru
+\ps n.prop
+\gf TOP
+\gvf Pérou
+\smf
+\dt 17/May/2017
 
 \lx Peyiba
 \ps n.prop
@@ -5956,6 +5987,13 @@ cercle de Kati)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
+\lx Wɔlɔjɛdo
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, commune de Nonkon, cercle et région de Kolokani)
+\dt 17/May/2017
+
 \lx Wɔsila
 \ps n.prop
 \gf TOP
@@ -6108,6 +6146,13 @@ cercle de Kati)
 \smf (village dans la commune de Ouelessébougou, cercle de Kati,
 région de Koulikoro)
 \dt 30/Apr/2017
+
+\lx Zelandiya
+\ps n.prop
+\gf  Zaelandia
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx Zerusalɛmu
 \ps n.prop

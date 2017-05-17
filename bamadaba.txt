@@ -1857,12 +1857,21 @@ mauvais
 \lx bàga
 \va bàa
 \ps v
+\ms 1
 \vl vi
 \gf offenser
 \sm qn -- mà
 \xv í bàgara  màakɔrɔ mà, ò mán ɲì
 \xf tu as outragé une vieille personne, ce n'est pas bien
-\dt 26/Sep/2006
+\ms 2
+\vl vi
+\gvf attaquer
+\smf (qqn. -- mà)
+\ms 3
+\vl vi
+\gvf arriver
+\smf (d'une maladie, malchance; à qqn. -- mà)
+\dt 17/May/2017
 
 \lx bága
 \ps n
@@ -4241,6 +4250,15 @@ Fleurs spectaculaires
 \ms 2
 \gvf accouchement.difficile
 \dt 16/Aug/2006
+
+\lx bángejɔ
+\mm bánge:n:accouchement
+\mm jɔ̀:v:dresser
+\ps n
+\gf ménopause
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx bángemuso
 \mm bánge:n:accouchement
@@ -7280,6 +7298,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gf cinquante
 \lt (dizaine.cinq)
 \dt 16/Aug/2006
+
+\lx biberon
+\va biberɔn
+\ps n
+\gf biberon
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx bìbi
 \mm bì:n/adv:aujourd'hui
@@ -23814,11 +23840,14 @@ génitales ...
 \va dényɛ̀nin
 \mm dén:n:enfant
 \mm nin:mrph:DIM
+\va dénɲinɛnin
+\mm dén:n:enfant
+\mm nin:mrph:DIM
 \ps n
 \gf bébé
 \lt (enfant.rouge.petit)
 \smf peut se dire d'un bébé jusqu'à ce qu'il puisse dire 'papa','maman')
-\dt 26/Sep/2006
+\dt 17/May/2017
 
 \lx dépite
 \ps n
@@ -44220,6 +44249,12 @@ doigts par des fileuses du coton)
 \gvf à la hâte
 \dt 17/Apr/2016
 
+\lx hàrabaharaba
+\ps adv.p
+\gf précipitamment
+\gvf à la hâte
+\dt 17/May/2017
+
 \lx hàraki
 \bw ar: harik = qui se refuse à faire ou à rendre ce qu'il doit
 \ps n
@@ -50523,6 +50558,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 
 \lx jɔ̂n
 \va jɔ́nni
+\va jɔ́nnin
 \va jɔ́ni
 \va jɛ́n
 \va jɛ́nni
@@ -50534,7 +50570,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \xv jɔ̂n ní  jɔ̂n ?
 \xf qui et qui ? (dans le détail)
 \pl jɔnw
-\dt 06/Nov/2014
+\dt 17/May/2017
 
 \lx jɔ̀nfeere
 \mm jɔ̀n:n:esclave
@@ -52921,6 +52957,15 @@ l'eau est prête
 \sm ethnie mandé du Kaarta
 \dt 04/Apr/2016
 
+\lx kàkɔrɔ
+\ps adv
+\ms 1
+\gf autrefois
+\gvf jadis
+\ms 2
+\gvf déjà
+\dt 17/May/2017
+
 \lx kàla
 \ps n
 \ms 1
@@ -54863,9 +54908,23 @@ prolapsus utérin
 
 \lx kánfyelu
 \mm kán:n:cou
+\va kánfyele
+\mm kán:n:cou
+\va kánfile
+\mm kán:n:cou
+\mm fíle:n:flûte
+\va kánfilenin
+\mm kán:n:cou
+\mm fíle:n:flûte
+\mm nin:mrph:DIM
+\va kánfereke
+\mm kán:n:cou
 \ps n
-\gf trachée-artère
+\gf œsophage
+\gvf trachée
+\gvf trachée-artère
 \lt (cou. ? )
+\dt 17/May/2017
 
 \lx kànga
 \va kàan
@@ -55998,6 +56057,13 @@ prolapsus utérin
 \gf oesophage
 \lt (cou. ?)
 
+\lx kapitɛni
+\ps n
+\gf capitain
+\gvf
+\smf
+\dt 17/May/2017
+
 \lx kàra
 \bw fr : carte ?
 \ps n
@@ -56056,6 +56122,14 @@ probablement de chaux vive)
 \gf carde
 \smf affinoir pour le coton
 \dt 26/Sep/2006
+
+\lx karadante
+\va karidante
+\ps n
+\gf carte.d'identité
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx káradaɲi
 \mm kárada:n:carde
@@ -71103,21 +71177,25 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnpa
 \va kùnfa
+\va kùnpan
+\va kùnfan
 \ps n
 \gf attente.d'une.nouvelle
 \xv màa kùnpa bɔ́
 \xf avertir qqn
-\dt 03/Apr/2016
+\dt 17/May/2017
 
 \lx kùnpa
 \va kùnfa
+\va kùnpan
+\va kùnfan
 \ps v
 \vl vi
 \gf être.dans.l'attente
 \fq (rare)
 \xv né kùnpalen tóra tèn
 \xf je suis resté dans l'attente
-\dt 16/Aug/2006
+\dt 17/May/2017
 
 \lx kùnsalenya
 \mm kùn:n:tête
@@ -71564,6 +71642,15 @@ Sahel)
 \xv kó kɔ́rɔ tɛ́  kó tíɲɛ, kó kúra dè bɛ́  kó tíɲɛ
 \xf (dicton)les vieilles coutumes ne gâtent rien, ce sont les nouveautés qui gâtent (tout)
 \dt 26/Sep/2006
+
+\lx kúra
+\ps n
+\gf nouveau
+\gvf
+\smf
+\xv kà à jò kúra yé
+\xe rebâtir qqch
+\dt 17/May/2017
 
 \lx kùraba
 \ps n
@@ -72318,6 +72405,15 @@ kúrunninle
 \xv à má  à ká làada yé
 \xf elle n'a pas "vu" ses règles
 \dt 26/Sep/2006
+
+\lx làadajoli
+\mm làada:n:coutume
+\mm jòli:n:sang
+\ps n
+\gf règles
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx làadalatɔnsigi
 \mm làada:n:coutume
@@ -73571,12 +73667,12 @@ kúrunninle
 \ps v
 \ms 1
 \vl vr
-\gf se.réposer
+\gf se.reposer
 \ms 2
 \vl vr
 \gvf se calmer
 \smf
-\dt 16/May/2017
+\dt 17/May/2017
 
 \lx làfiri
 \va lèfiri
@@ -84275,6 +84371,16 @@ homme
 \xf il s'est faufilé entre nous
 \dt 26/Sep/2006
 
+\lx mɔ̀yalan
+\mm mɔ̀:v:mûrir
+\mm ya:mrph:ABSTR
+\mm lan:mrph:INSTR
+\ps n
+\gf hormone
+\gvf hormone antimullérienne
+\smf
+\dt 17/May/2017
+
 \lx mù
 \va mùn
 \ps v
@@ -85201,6 +85307,15 @@ pour les jardins)
 \sy mùsojiginso
 \rem du, jos
 \dt 11/Nov/2007
+
+\lx mùsokalo
+\mm mùso:n:femme
+\mm kálo:n:lune
+\ps n
+\gf règles
+\gvf cycle ovarien
+\smf
+\dt 17/May/2017
 
 \lx mùsokandonna
 \mm mùso:n:femme
@@ -88950,13 +89065,15 @@ petits enfants)
 \dt 16/Aug/2006
 
 \lx ngómi
+\mm nkómi
+\mm nkɔ́mi
 \ps n
 \gf rosée
 \xv ngómi dára sàgoma ìn ná
 \xf il y avait de la rosée ce matin
 \xv sán bɛ́ nà  k'á kɔ́ tó  ngómi yé
 \xf la pluie vient et laisse le reste à la rosée
-\dt 12/Aug/2006
+\dt 17/May/2017
 
 \lx ngónìnjɛ́
 \mm nin:mrph:DIM
@@ -90138,6 +90255,13 @@ sur soi, on les connaît
 \gvf parler.sans.cesse
 \smf à tort et à travers
 \dt 08/Nov/2012
+
+\lx njànkili
+\ps n
+\gf liquide
+\gvf
+\smf (qui sort d'un corps vivant par pression)
+\dt 17/May/2017
 
 \lx njáɲi
 \va njáyin
@@ -115546,7 +115670,7 @@ euphémique)
 
 \lx sú
 \ps v
-\gf souler
+\gf soûler
 \gvf
 \smf
 \dt 17/May/2017
@@ -119510,6 +119634,17 @@ pieton)
 \gf succès
 \lt (part.réussir)
 \dt 26/Sep/2006
+
+\lx táɲinina
+\mm tá:n:propriété
+\mm ɲíni:v:chercher
+\mm na:mrph:AG.PRM
+\ps n
+\gf intermédiaire
+\gvf revendeur
+\gvf personne qui cherche son profit
+\smf
+\dt 17/May/2017
 
 \lx táɲɔgɔnbɔ
 \mm tá:n:propriété
@@ -128479,10 +128614,11 @@ la Justice (kb 12/05 p.4)
 
 \lx worobinɛ
 \va orobinɛ
+\va ɔrɔbinɛ
 \ps n
 \gf robinet
 \gvf
-\dt 08/Feb/2016
+\dt 17/May/2017
 
 \lx wòrocimuso
 \mm wòro:n:kola
@@ -130722,12 +130858,18 @@ bambara)
 
 \lx yéri
 \ps v
+\ms 1
 \vl vt
 \gf disperser
 \gvf semer à la volée
 \xv kòlon yéri
 \xf faire la divination par les cauris (en les jetant)
-\dt 26/Sep/2006
+\ms 2
+\ms vi
+\gvf s'ouvrir
+\gvf s'épanouir 
+\smf (une fleure)
+\dt 17/May/2017
 
 \lx yɛ́
 \ps intj
