@@ -7313,13 +7313,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bìdɔn
+\va bìdon
 \ps n
 \gf bidon
 \gvf
 \smf
 \xv
 \xf
-\dt 25/Feb/2017
+\dt 17/May/2017
 
 \lx bíduuru
 \mm bí:num:dizaine
@@ -42588,6 +42589,13 @@ caractéristique, réputé pour faciliter la procréation)
 \smf arbre ---> 6 / 12 m, feuilles et fruits mangés par le bétail, écorce riche en tannin)
 \dt 19/Aug/2006
 
+\lx gólogala
+\ps adv
+\gf à.toute.allure
+\gvf
+\smf (aller)
+\dt 16/May/2017
+
 \lx gólogolo
 \va kólokolo
 \va kúlukulu
@@ -59235,6 +59243,12 @@ probablement de chaux vive)
 \nt LD p.14
 \dt 11/Nov/2007
 
+\lx kìlikilima
+\ps v
+\gf tituber
+\smf (risquant de tomber sur la face)
+\dt 17/May/2017
+
 \lx kílinkalan
 \va klínklan
 \ph [klinklan]
@@ -60256,6 +60270,19 @@ probablement de chaux vive)
 \ve (bk)
 \xv à wúlila kógoso
 \dt 19/Jan/2015
+
+\lx kógoyanye
+\mm kó:n:affaire
+\mm góya:n:mauvais.goût
+\mm gó:vq:désagréable
+\mm ya:mrph:ABSTR
+\mm ń:pers:1SG
+\mm yé:pp:PP
+\ps n
+\gf détestation
+\gvf haine
+\smf
+\dt 16/May/2017
 
 \lx kòji
 \mm kò:v:laver
@@ -71478,10 +71505,11 @@ Sahel)
 \dt 18/Dec/2014
 
 \lx kúnuwò
+\va kúnunwò
 \smf *kunu ò = cet hier là
 \ps n
 \gf hier
-\dt 12/Aug/2006
+\dt 17/May/2017
 
 \lx kúɲara
 \ps n
@@ -72780,7 +72808,7 @@ kúrunninle
 \lx lábɔ
 \mm lá:mrph:CAUS
 \mm bɔ́:v:sortir
-\va ná.bɔ
+\va nábɔ
 \mm ná:mrph:CAUS
 \mm bɔ́:v:sortir
 \va rɔ́.bɔ
@@ -72821,7 +72849,7 @@ kúrunninle
 \gvf être.fatigué
 \xv né lábɔlen
 \xf je suis fatigué
-\dt 23/Nov/2012
+\dt 16/May/2017
 
 \lx lábɔ̀ɔsí
 \mm lá:mrph:CAUS
@@ -73488,6 +73516,9 @@ kúrunninle
 \lx láfiɲɛ
 \mm lá:mrph:CAUS
 \mm fíɲɛ:v:sécher
+\va náfiɲɛ
+\mm ná:mrph:CAUS
+\mm fíɲɛ:v:sécher
 \va láfiyɛn
 \mm lá:mrph:CAUS
 \mm fíyɛn:v:sécher
@@ -73507,10 +73538,13 @@ kúrunninle
 \gvf alléger
 \xv í sɛ̀gɛn láfiyɛn !
 \xf repose-toi !
-\dt 06/Feb/2017
+\dt 16/May/2017
 
 \lx láfiɲɛ
 \mm lá:mrph:CAUS
+\mm fíɲɛ:v:sécher
+\va náfiɲɛ
+\mm ná:mrph:CAUS
 \mm fíɲɛ:v:sécher
 \va láfiyɛn
 \mm lá:mrph:CAUS
@@ -73524,7 +73558,25 @@ kúrunninle
 \smf
 \xv
 \xf
-\dt 06/Feb/2017
+\dt 16/May/2017
+
+\lx láfiɲɛbɔ
+\mm lá:mrph:CAUS
+\mm fíɲɛ:v:sécher
+\mm bɔ́:v:sortir
+\va náfiɲɛbɔ́
+\mm ná:mrph:CAUS
+\mm fíɲɛ:v:sécher
+\mm bɔ́:v:sortir
+\ps v
+\ms 1
+\vl vr
+\gf se.réposer
+\ms 2
+\vl vr
+\gvf se calmer
+\smf
+\dt 16/May/2017
 
 \lx làfiri
 \va lèfiri
@@ -77654,7 +77706,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gf donner.en.location
 \gvf louer
 \smf (appartement, voiture ...)
-\dt 18/Sep/2016
+\dt 17/May/2017
 
 \lx mà
 \va mɔ̀
@@ -102371,10 +102423,11 @@ envergure)
 
 \lx pàara
 \va pàra
+\va pàran
 \ps n
 \gf enjambée
 \gvf pas
-\dt 24/Jan/2013
+\dt 16/May/2017
 
 \lx pàaraɲɛ
 \mm pàara:n:enjambée
@@ -105173,6 +105226,13 @@ épuisés
 \lt (  ? . originaire)
 \dt 16/Aug/2006
 
+\lx sàkɔ̌rɔ́
+\ps n
+\gf femme.entre.deux.âges
+\gvf femme d'un âge moyen
+\smf
+\dt 16/May/2017
+
 \lx sàkɔsi
 \ps n
 \gf sacoche
@@ -105288,6 +105348,15 @@ épuisés
 \gf rendre.paresseux
 \lt (paresse.suf caus)
 \dt 28/Feb/2017
+
+\lx sàli
+\mm sà:v:mourir
+\mm li:mrph:NMLZ
+\ps n
+\gf mort
+\gvf action de mourir
+\smf
+\dt 16/May/2017
 
 \lx sàlogoni
 \ps n
@@ -106376,13 +106445,16 @@ épuisés
 \mm sán:n:ciel
 \mm ná:pp:dans
 \mm kólo:n:os
+\va nsɛ́nɛkolo
+\mm kólo:n:os
+\va sánankolo
+\mm kólo:n:os
 \va sáankolo
 \mm kólo:n:os
 \ve (f)
 \ps n
 \gf tibia
-\lt ( ? . os)
-\dt 16/Aug/2006
+\dt 17/May/2017
 
 \lx sánnakurun
 \mm sán:n:ciel
@@ -107000,12 +107072,21 @@ composition de l'encens
 \ms 1
 \gf faufiler
 \ms 2
+\ms vt
 \gvf passer à travers
+\gvf faire s'étrangler
 \xv jí y'á sáran
 \xf il a avalé l'eau de travers
 \xv án k'án sáran  bín fɛ̀
 \xf passons à travers les herbes
-\dt 26/Sep/2006
+\ms 3
+\vl vi
+\gvf piquer en s'enfonçant
+\smf (qqch -- lá)
+\gvf enchevêtrer
+\gvf mêler
+\gvf enfoncer
+\dt 17/May/2017
 
 \lx sárana
 \ps v
@@ -107301,6 +107382,14 @@ composition de l'encens
 \gf réjouir
 \gvf satisfaire
 \dt 26/Sep/2006
+
+\lx sàwu
+\ps v
+\vl vt
+\gf rebondir.sur
+\gvf ricocher.sur
+\smf
+\dt 17/May/2017
 
 \lx sáwura
 \ps n
@@ -114387,7 +114476,9 @@ donne d'excellentes fibres)
 \lt (moustique.tuer.ce qui sert à)
 \dt 16/Aug/2006
 
-\lx sosɔgɔ
+\lx sósɔ̀gɔ
+\mm só:n:maison
+\mm sɔ̀gɔ:v:percer
 \ps v
 \ms 1
 \vl vt
@@ -114397,7 +114488,7 @@ donne d'excellentes fibres)
 \vl vt
 \gvf ruiner
 \gvf mettre sur paille
-\dt 02/May/2017
+\dt 17/May/2017
 
 \lx sótarama
 \va sótrama
@@ -115452,6 +115543,13 @@ euphémique)
 \gvf inciter
 \gvf exciter
 \dt 01/May/2017
+
+\lx sú
+\ps v
+\gf souler
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx sùba
 \mm sù:n:cadavre
@@ -121792,10 +121890,9 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ph [tlegwan]
 \ps n
 \gf grand.soleil
-\sm période la plus chaude de la journée (de midi à 14h)
-\lt (soleil.chaud)
+\smf (période la plus chaude de la journée, de midi à 14h)
 \sy tílegantuma
-\dt 16/Aug/2006
+\dt 17/May/2017
 
 \lx tìleganfɛsunɔgɔ
 \mm tìle.gan:n:grand.soleil
@@ -121807,6 +121904,17 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lt à midi-sommeil
 \gf sieste
 \dt 07/Feb/2016
+
+\lx tìlegankawuli
+\mm tìle:n:soleil
+\mm gàn:vq:chaud
+\mm kà:pm:INF
+\mm wúli:v:se.lever
+\ps n
+\gf matin.avant.le.midi
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx tíleku
 \va tléku
@@ -122670,6 +122778,13 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ps n
 \gf four
 \smf (creusé dans la terre, fosse de méchoui des chasseurs ...)
+
+\lx tiyatiri
+\ps n
+\gf théâtre
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx tíyɛnda
 \mm tíyɛn:v:gâter
@@ -123563,6 +123678,15 @@ est due aux paysans (kib 3/05 p.9)
 \ps n
 \gf talisman.de.poche
 \dt 07/Feb/2016
+
+\lx tɔ́gɔjɛ
+\mm tɔ́gɔ:n:nom
+\mm jɛ́:adj:blanc
+\ps n
+\gf nom.propre
+\gvf prénom personnel
+\smf
+\dt 17/May/2017
 
 \lx tɔ̀gɔkelen
 \mm tɔ̀gɔ:n:hanche
@@ -127365,6 +127489,13 @@ aîné ... (Kb 11/06 p.4)
 \gvf se disperser
 \dt 16/Aug/2006
 
+\lx wayasi
+\ps n
+\gf voyage
+\gvf
+\smf
+\dt 17/May/2017
+
 \lx wàyi
 \va wàye
 \ps n
@@ -127778,6 +127909,14 @@ la Justice (kb 12/05 p.4)
 \gf villa
 \gvf
 \dt 22/Feb/2015
+
+\lx winɛgiri
+\va vinɛgiri
+\ps n
+\gf vinaigre
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx wítɛri
 \ps n
@@ -130606,6 +130745,19 @@ bambara)
 \ps intj
 \gf admiration
 \dt 28/Mar/2013
+
+\lx yɛ̀gɛbɛ
+\ps adj
+\gf joli
+\gvf de belle apparence
+\smf
+\dt 16/May/2017
+
+\lx yɛ́gɛbɛ
+\ps adv
+\gf très
+\smf (joli)
+\dt 16/May/2017
 
 \lx yɛ́gɛn
 \ps v

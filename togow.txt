@@ -122,10 +122,11 @@
 \dt 07/Apr/2017
 
 \lx Álifàa
+\va Álifà
 \di m
 \ps n.prop
 \gf NOM.M
-\dt 02/May/2010
+\dt 16/May/2017
 
 \lx Alikawu
 \va Alkaw
@@ -141,13 +142,28 @@
 \dt 02/May/2010
 
 \lx Alimatu
+\va Alimata
 \ps n.prop
 \gf NOM.F
 \gvf
 \smf
 \xv
 \xf
-\dt 30/Jan/2017
+\dt 16/May/2017
+
+\lx Alimin
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 17/May/2017
+
+\lx Alimu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 16/May/2017
 
 \lx Aluseni
 \di
@@ -250,6 +266,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 27/Jan/2016
+
+\lx Asimu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 16/May/2017
 
 \lx Àtiku
 \di m
@@ -630,6 +653,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Bata
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 17/May/2017
+
 \lx Bati
 \ps n.prop
 \gf NOM.F
@@ -649,6 +679,13 @@
 \gvf
 \smf
 \dt 09/Apr/2017
+
+\lx Bayan
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx Baydi
 \di b
@@ -1098,17 +1135,18 @@
 
 \lx Dirisa
 \va Idirisa
+\va Diri
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 01/Feb/2017
+\dt 17/May/2017
 
 \lx Disa
 \ps n.prop
-\gf NOM
+\gf NOM.M
 \gvf
 \smf
-\dt 01/May/2017
+\dt 16/May/2017
 
 \lx Disilame
 \ps n.prop
@@ -1586,6 +1624,7 @@
 \va Barima
 \va Bùrama
 \va Bùrema
+\va Bùremu
 \va Bùremàn
 \va Buram
 \va Bram
@@ -1596,7 +1635,7 @@
 \va Bereyima
 \ps n.prop
 \gf NOM.M
-\dt 30/Apr/2017
+\dt 17/May/2017
 
 \lx Ídrìsa
 \va Idirisa
@@ -1753,6 +1792,13 @@
 \xf
 \dt 02/Feb/2017
 
+\lx Jibiru
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 16/May/2017
+
 \lx Jígi
 \di b
 \ps n.prop
@@ -1862,15 +1908,16 @@
 \va Kaja
 \va Kadija
 \va Kadiya
+\va Kadidiya
 \va Kadiyatu
 \va Kariatu
 \va Kariatu
 \ps n.prop
-\gf NOM.M
+\gf NOM.F
 \gvf Kadidjatou
 \gve
 \smf
-\dt 30/Apr/2017
+\dt 16/May/2017
 
 \lx Kalifa
 \di
@@ -2229,6 +2276,13 @@
 \gf NOM.M
 \dt 09/Apr/2017
 
+\lx Lawu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 17/May/2017
+
 \lx Lemu
 \di son
 \ps n.prop
@@ -2371,7 +2425,7 @@
 \di b, m
 \ps n.prop
 \gf NOM.M
-\dt 02/Apr/2014
+\dt 16/May/2017
 
 \lx Mamaniɲuman
 \di
@@ -2453,10 +2507,11 @@
 \lx Máriyamu
 \va Mariyama
 \va Márìam
+\va Mariya
 \di b
 \ps n.prop
 \gf NOM.F
-\dt 09/Apr/2017
+\dt 16/May/2017
 
 \lx Masanata
 \ps n.prop
@@ -2510,6 +2565,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Mɛta
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx Mìna
 \di was
@@ -2584,6 +2646,13 @@
 \ps n.prop
 \gf NOM
 \dt 03/May/2010
+
+\lx Moru
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 16/May/2017
 
 \lx Mówamèd
 \di mF
@@ -3154,6 +3223,13 @@
 \gf NOM
 \dt 03/May/2010
 
+\lx Ɲanti
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 17/May/2017
+
 \lx Ɲèle
 \va Ɲèlen
 \di b
@@ -3291,6 +3367,13 @@
 \ps n.prop
 \gf NOM
 \dt 03/May/2010
+
+\lx Saminɛ
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx Sámu
 \di b
@@ -3468,6 +3551,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Seyibu
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 16/May/2017
+
 \lx Seyidu
 \ps n.prop
 \gf NOM.M
@@ -3561,6 +3651,13 @@
 \gvf
 \smf
 \dt 01/May/2017
+
+\lx Siramama
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx Siriba
 \dm Seri
@@ -3773,10 +3870,11 @@
 \dt 09/Apr/2017
 
 \lx Tɛ̀nɛn
+\va Tɛ̀nɛ
 \di m
 \ps n.prop
 \gf NOM.F
-\dt 03/May/2010
+\dt 16/May/2017
 
 \lx Tɛ̀nɛnba
 \di b
@@ -3795,6 +3893,13 @@
 \ps n.prop
 \gf NOM.F
 \dt 03/May/2010
+
+\lx Tɛta
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx Tíbù
 \di m
@@ -3822,6 +3927,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 04/Feb/2017
+
+\lx Tikani
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 17/May/2017
 
 \lx Tiramagan
 \di b
@@ -3948,10 +4060,11 @@ de l'enfant qui survit à sa mère morte en couches
 
 \lx Wòrokíà
 \va Òrokíyà
+\va Marokiya
 \di
 \ps n.prop
 \gf NOM.F
-\dt 01/Feb/2017
+\dt 17/May/2017
 
 \lx Ya
 \va Yaa
@@ -4032,6 +4145,13 @@ de l'enfant qui survit à sa mère morte en couches
 \ps n.prop
 \gf NOM
 \dt 03/May/2010
+
+\lx Yisa
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 16/May/2017
 
 \lx Yúba
 \di b

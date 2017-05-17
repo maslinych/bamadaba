@@ -2209,6 +2209,13 @@ Ségou)
 \ru Сьерра-Леоне
 \dt 23/May/2010
 
+\lx Jado
+\ps n.prop
+\gf TOP
+\gvf Diado
+\smf (village, commune de N'Gara, cercle et région de Ségou)
+\dt 16/May/2017
+
 \lx Jafarabe
 \ps n.prop
 \gf TOP
@@ -2641,6 +2648,13 @@ région de Sikasso)
 \xv
 \xf
 \dt 06/Feb/2017
+
+\lx Kamale
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, région de Ségou)
+\dt 16/May/2017
 
 \lx Kamama
 \ps n.prop
@@ -3116,6 +3130,13 @@ Kéniéba)
 \xf
 \dt 22/Feb/2017
 
+\lx Konu
+\ps n.prop
+\gf TOP
+\gvf Konou
+\smf (un village)
+\dt 17/May/2017
+
 \lx Kore
 \ty гос.
 \ps n.prop
@@ -3582,6 +3603,13 @@ Tombouctou)
 \xf
 \dt 15/Sep/2016
 
+\lx Lolonin
+\ps n.prop
+\gf TOP
+\gvf
+\smf
+\dt 17/May/2017
+
 \lx Lomɛ
 \va Lome
 \ps n.prop
@@ -3715,6 +3743,13 @@ Tombouctou)
 \gvf Mane
 \smf (village, région de Ségou)
 \dt 09/Apr/2017
+
+\lx Mani
+\ps n.prop
+\gf TOP
+\gvf Mani
+\smf (un village)
+\dt 17/May/2017
 
 \lx Manta
 \ps n.prop
@@ -3875,6 +3910,13 @@ royaumes successeurs de l'Ancien Ghana)
 \ru Мексика
 \dt 23/May/2010
 
+\lx Mɛlɛwɛrɛ
+\ps n.prop
+\gf TOP
+\gvf Mèlèwèrè
+\smf (un village peul, à l'ouest de Ségou)
+\dt 17/May/2017
+
 \lx Milo
 \ty р.
 \ps n.prop
@@ -3950,6 +3992,13 @@ Ségou)
 \xv
 \xf
 \dt 30/Jan/2017
+
+\lx Mórila
+\ps n.prop
+\gf TOP
+\gvf Morila
+\smf (mine d'or, région de Sikasso)
+\dt 16/May/2017
 
 \lx Móritani
 \ty гос.
@@ -4166,6 +4215,13 @@ région de Ségou)
 \ru Нигерия
 \dt 05/Feb/2016
 
+\lx Njela
+\ps n.prop
+\gf TOP
+\gvf Ndiéla
+\smf (village, région de Ségou)
+\dt 17/May/2017
+
 \lx Nkamandugu
 \ps n.prop
 \gf TOP
@@ -4353,6 +4409,13 @@ gauche du Niger)
 \gvf Niaréla
 \smf (un quartier de la Commune 2 de Bamako)
 \dt 30/Apr/2017
+
+\lx Ɲaro
+\ps n.prop
+\gf TOP
+\gvf Niaro
+\smf (village, région de Ségou)
+\dt 16/May/2017
 
 \lx Ɲatiya
 \ps n.prop
@@ -4671,6 +4734,13 @@ Koulikoro)
 \gf TOP
 \dt 07/Nov/2014
 
+\lx Safiyedala
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un zone de Ségou?)
+\dt 16/May/2017
+
 \lx Safo
 \ps n.prop
 \gf TOP
@@ -4897,6 +4967,13 @@ Ségou)
 \gvf quartier.à.Ségou
 \cm (в Сегу)
 \dt 05/Dec/2010
+
+\lx Sekɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Sekoro
+\smf (village, cercle et région de Ségou)
+\dt 16/May/2017
 
 \lx Selenge
 \ps n.prop
@@ -5340,6 +5417,13 @@ Sikasso)
 \gvf Suisse
 \dt 05/Feb/2016
 
+\lx Syanro
+\ps n.prop
+\gf TOP
+\gvf
+\smf (quartier Bozo à Ségou)
+\dt 16/May/2017
+
 \lx Tadimakatati
 \ps n.prop
 \gf TOP
@@ -5582,6 +5666,13 @@ village d'Essouk, région de Kidal)
 \xf
 \dt 04/Jun/2016
 
+\lx Tɔkɔ
+\ps n.prop
+\gf TOP
+\gvf
+\smf
+\dt 17/May/2017
+
 \lx Tɔndibi
 \ps n.prop
 \gf TOP
@@ -5794,6 +5885,13 @@ d'Ouargla)
 \gvf Ouélessébougou
 \smf (commune, cercle de Kati, région de Koulikoro)
 \dt 09/Apr/2017
+
+\lx Weta
+\ps n.prop
+\gf TOP
+\gvf Ouéta
+\smf (village, région de Ségou)
+\dt 16/May/2017
 
 \lx Wɛnzɛndugu
 \ps n.prop

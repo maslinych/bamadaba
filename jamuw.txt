@@ -3047,6 +3047,13 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \ps n.prop
 \gf NOM.CL
 
+\lx Sumunu
+\ps n.prop
+\gf NOM.CL
+\gvf
+\smf (sans doute, variante de Sunbunu)
+\dt 16/May/2017
+
 \lx Sunbunu
 \di son
 \ca garanke
