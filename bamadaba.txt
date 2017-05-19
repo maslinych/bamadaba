@@ -7299,13 +7299,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lt (dizaine.cinq)
 \dt 16/Aug/2006
 
-\lx biberon
-\va biberɔn
+\lx bíberɔn
 \ps n
 \gf biberon
 \gvf
 \smf
-\dt 17/May/2017
+\dt 18/May/2017
 
 \lx bìbi
 \mm bì:n/adv:aujourd'hui
@@ -43615,7 +43614,10 @@ doigts par des fileuses du coton)
 \gvf moment
 \xv táali hákɛ séra
 \xf c'est l'heure de partir
-\dt 12/Aug/2006
+\ms 6
+\gvf droit
+\smf (de l'homme)
+\dt 18/May/2017
 
 \lx hàkɛkɛla
 \mm hàkɛ:n:tort
@@ -56057,12 +56059,12 @@ prolapsus utérin
 \gf oesophage
 \lt (cou. ?)
 
-\lx kapitɛni
+\lx kàpitɛni
 \ps n
 \gf capitain
 \gvf
 \smf
-\dt 17/May/2017
+\dt 18/May/2017
 
 \lx kàra
 \bw fr : carte ?
@@ -56123,13 +56125,13 @@ probablement de chaux vive)
 \smf affinoir pour le coton
 \dt 26/Sep/2006
 
-\lx karadante
-\va karidante
+\lx káradante
+\va káridante
 \ps n
 \gf carte.d'identité
 \gvf
 \smf
-\dt 17/May/2017
+\dt 18/May/2017
 
 \lx káradaɲi
 \mm kárada:n:carde
@@ -59112,12 +59114,9 @@ probablement de chaux vive)
 \bw ar: habar = id.
 \va kìbaro
 \ps n
-\ms 1
+\ms
 \gf nouvelle
-\ms 2
-\gvf Kibaru
-\smf journal en langue bambara
-\dt 04/Apr/2016
+\dt 19/May/2017
 
 \lx kìbaruya
 \mm kìbaru:n:nouvelle
@@ -89065,15 +89064,15 @@ petits enfants)
 \dt 16/Aug/2006
 
 \lx ngómi
-\mm nkómi
-\mm nkɔ́mi
+\va nkómi
+\va nkɔ́mi
 \ps n
 \gf rosée
 \xv ngómi dára sàgoma ìn ná
 \xf il y avait de la rosée ce matin
 \xv sán bɛ́ nà  k'á kɔ́ tó  ngómi yé
 \xf la pluie vient et laisse le reste à la rosée
-\dt 17/May/2017
+\dt 18/May/2017
 
 \lx ngónìnjɛ́
 \mm nin:mrph:DIM
@@ -93116,6 +93115,13 @@ graines, sert d'instrument rythmique)
 \gf tabatière
 \smf (petite, de formes et matériaux variés : bois, cuir, coque...)
 \dt 16/Aug/2006
+
+\lx npinpɛ
+\ps n
+\gf n'importe.qui
+\gvf qui que ce soit
+\smf
+\dt 18/May/2017
 
 \lx npíri
 \bw wolof = lutteur de profession ?
@@ -98516,6 +98522,18 @@ graines, sert d'instrument rythmique)
 \xv
 \xf
 \dt 13/Feb/2017
+
+\lx ɲɛ́kumu
+\mm ɲɛ́:n:oeil
+\mm kùmu:adj:aigre
+\va ɲɛ́kumun
+\mm ɲɛ́:n:oeil
+\mm kùmun:adj:aigre
+\ps n
+\gf mécontentement
+\gvf
+\smf
+\dt 18/May/2017
 
 \lx ɲɛ́kumuni
 \mm ɲɛ́:n:oeil
@@ -120229,6 +120247,9 @@ pieton)
 \smf (bonne ou mauvaise : même des qualités ou défauts  considérés comme non volontaires)
 \xv mùso tèrejugu dòn
 \xf c'est une femme malchanceuse (par ex : elle perd tous ses maris)
+\xv kà mɔ̀gɔ tère dòn à dá
+\xe dire à qqn. ce qu'il déteste
+\dt 18/May/2017
 
 \lx tèrege
 \va tèregwe
@@ -122914,12 +122935,12 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf four
 \smf (creusé dans la terre, fosse de méchoui des chasseurs ...)
 
-\lx tiyatiri
+\lx tìyatiri
 \ps n
 \gf théâtre
 \gvf
 \smf
-\dt 17/May/2017
+\dt 18/May/2017
 
 \lx tíyɛnda
 \mm tíyɛn:v:gâter
@@ -127624,12 +127645,12 @@ aîné ... (Kb 11/06 p.4)
 \gvf se disperser
 \dt 16/Aug/2006
 
-\lx wayasi
+\lx wàyasi
 \ps n
 \gf voyage
 \gvf
 \smf
-\dt 17/May/2017
+\dt 18/May/2017
 
 \lx wàyi
 \va wàye
@@ -128045,13 +128066,13 @@ la Justice (kb 12/05 p.4)
 \gvf
 \dt 22/Feb/2015
 
-\lx winɛgiri
-\va vinɛgiri
+\lx wìnɛgiri
+\va vìnɛgiri
 \ps n
 \gf vinaigre
 \gvf
 \smf
-\dt 17/May/2017
+\dt 18/May/2017
 
 \lx wítɛri
 \ps n

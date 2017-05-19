@@ -821,6 +821,12 @@ la culture
 \ps n
 \gf germanique
 
+\lx Jɛ̀kabaara
+\ps n.prop
+\gf Jekabaara
+\smf (un mensuel en langue bambara)
+\dt 19/May/2017
+
 \lx Jibirila
 \ps n.prop
 \gf Djibril
@@ -937,6 +943,12 @@ la culture
 \xv
 \xf
 \dt 21/Feb/2017
+
+\lx Kìbaru
+\ps n.prop
+\gf Kibaru
+\smf (journal en langue bambara)
+\dt 19/May/2017
 
 \lx Kirisitɔfu
 \ps n.prop
