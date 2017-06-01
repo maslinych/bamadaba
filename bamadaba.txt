@@ -934,7 +934,7 @@ les deux flancs'
 
 \lx bà
 \va bàa
-\ps num
+\ps n
 \gf mille
 \smf 1.000 qqf 800 (à Ségou)
 \sy wáa
@@ -942,7 +942,7 @@ les deux flancs'
 \xf 5.000 francs
 \xv (dɔ́rɔmɛ) bà fìla
 \xf 10.000 francs
-\dt 27/Nov/2014
+\dt 01/Jun/2017
 
 \lx bá
 \ps n
@@ -12665,10 +12665,10 @@ toujours (pro)
 \gvf tuer
 \sm (en grand nombre)
 \ms 3
-\gvf effeuiller.complètement
+\gvf effeuiller complètement
 \ms 4
 \gvf couvrir.d'insultes
-\dt 16/Aug/2006
+\dt 22/May/2017
 
 \lx bɔ̀rɔsi
 \ps n
@@ -15435,9 +15435,12 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \lx cɛ́la
 \mm cɛ́:n:milieu
 \mm lá:pp:dans
+\va cɛ́rɔ
+\mm cɛ́:n:milieu
+\mm rɔ́:pp:IN
 \ps pp
 \gf parmi
-\dt 22/Nov/2012
+\dt 23/May/2017
 
 \lx cɛ́la
 \mm cɛ́:n:milieu
@@ -18800,10 +18803,11 @@ saillie)
 \va dànga
 \ps n
 \gf arbre.Afzelia.africana
-\smf arbre --->  20 m
+\gvf lingué
+\smf arbre --->  35 m
 \sd césa
-\sy dàganba
-\dt 19/Aug/2006
+\sy dàganba, lènge
+\dt 31/May/2017
 
 \lx dàgan
 \mm dà:n:chanvre
@@ -21196,15 +21200,15 @@ devenir incontrôlable
 \dt 26/Sep/2006
 
 \lx dánfɛn
-\mm dán:n:création
+\mm dán:v:creer
 \mm fɛ́n:n:chose
 \va dá.fɛn
-\mm dá:n:création
+\mm dá:v:creer
 \mm fɛ́n:n:chose
 \ps n
 \gf créature
 \gvf être
-\dt 02/Feb/2017
+\dt 01/Jun/2017
 
 \lx dànfin
 \ps n
@@ -22961,6 +22965,20 @@ génitales ...
 \xf les développements et les exercices de ce livre s'appuient sur les leçons ...
 \rem du / donniya 5/6 p 3
 \dt 11/Nov/2007
+
+\lx dègelibaga
+\mm dège:v:enseigner
+\mm li:mrph:NMLZ
+\mm baga:mrph:AG.OCC
+\va dègelibaa
+\mm dège:v:enseigner
+\mm li:mrph:NMLZ
+\mm baa:mrph:AG.OCC
+\ps n
+\gf entraîneur
+\gvf
+\smf
+\dt 23/May/2017
 
 \lx dègelikaramɔgɔ
 \mm dège:v:enseigner
@@ -25410,13 +25428,13 @@ chefs religieux et représentants de l'administration
 
 \lx díyagoya
 \mm dí.ya:n:bon.goût
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \mm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \va díyakoya
 \mm dí.ya:n:bon.goût
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \mm kó:vq:désagréable
 \mm ya:mrph:DEQU
@@ -25435,7 +25453,7 @@ chefs religieux et représentants de l'administration
 \xv díyagoya lá
 \xv díyagoya rɔ́
 \xf bon gré, mal gré (de force)
-\dt 27/Mar/2014
+\dt 31/May/2017
 
 \lx díyagoya
 \mm dí.ya:v:rendre.agréable
@@ -25443,31 +25461,40 @@ chefs religieux et représentants de l'administration
 \mm ya:mrph:DEQU
 \mm gó:vq:désagréable
 \mm ya:mrph:DEQU
-\va dí.ya.ko.ya
+\va díyakoya
 \mm dí.ya:v:rendre.agréable
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
 \mm kó:vq:désagréable
 \mm ya:mrph:DEQU
-\va já.ko.ya
+\va jákoya
 \mm já:v:rendre.agréable
 \mm kó:vq:désagréable
+\mm ya:mrph:DEQU
+\va jágoya
+\mm já:n:bon.goût
+\mm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \ph [jakoya]
 \ps v
 \vl vt
 \gf contraindre
 \lt (plaire.déplaire)
-\dt 26/Sep/2006
+\dt 31/May/2017
 
 \lx díyagoya
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
+\mm gó:vq:désagréable
+\mm ya:mrph:DEQU
+\va jágoya
+\mm já:n:bon.goût
 \mm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \ps adv.p
 \gf de.force
+\dt 31/May/2017
 
 \lx díyagoyabaara
 \mm dí:vq/adj:agréable
@@ -26995,7 +27022,7 @@ l'occasion d'une naissance)
 \dt 01/Dec/2015
 
 \lx dɔ́gɔman
-\mm dɔ́gɔ:vq:petit
+\mm dɔ́gɔ:vq:étroit
 \mm man:mrph:ADJ
 \ps adj
 \ms 1
@@ -27005,15 +27032,16 @@ l'occasion d'une naissance)
 \gvf un.peu
 \gvf quelques
 \lt (petit.suf adj)
-\dt 26/Sep/2006
+\dt 01/Jun/2017
 
 \lx dɔ́gɔmaya
-\mm dɔ́gɔ:vq:petit
+\mm dɔ́gɔ:vq:étroit
 \mm ma:mrph:DIR
 \mm ya:mrph:ABSTR
 \ps n
 \gf humiliation
 \lt (petit.suf abs)
+\dt 01/Jun/2017
 
 \lx dɔ́gɔmɔ
 \mm dɔ́gɔ:n:marché
@@ -27117,13 +27145,13 @@ l'occasion d'une naissance)
 \dt 11/Nov/2007
 
 \lx dɔ́gɔya
-\mm dɔ́gɔ:vq:petit
+\mm dɔ́gɔ:vq:étroit
 \mm ya:mrph:DEQU
 \va dwá.ya
-\mm dwá:vq:petit
+\mm dwá:vq:étroit
 \mm ya:mrph:DEQU
 \va jwá.ya
-\mm jwá:vq:petit
+\mm jwá:vq:étroit
 \mm ya:mrph:DEQU
 \ph [jwa.]
 \ps n
@@ -27139,16 +27167,16 @@ l'occasion d'une naissance)
 \ms 4
 \gvf humiliation
 \smf [fig]
-\dt 26/Sep/2006
+\dt 01/Jun/2017
 
 \lx dɔ́gɔya
-\mm dɔ́gɔ:vq:petit
+\mm dɔ́gɔ:vq:étroit
 \mm ya:mrph:DEQU
 \va dwá.ya
-\mm dwa:vq:petit
+\mm dwa:vq:étroit
 \mm ya:mrph:DEQU
 \va jwá.ya
-\mm jwá:vq:petit
+\mm jwá:vq:étroit
 \mm ya:mrph:DEQU
 \ph [jwa ]
 \ps v
@@ -27162,10 +27190,10 @@ l'occasion d'une naissance)
 \gvf rendre.plus.rare
 \ms 3
 \gvf humilier
-\dt 26/Sep/2006
+\dt 01/Jun/2017
 
 \lx dɔ́gɔyalenba
-\mm dɔ́gɔ:vq:petit
+\mm dɔ́gɔ:vq:étroit
 \mm ya:mrph:ABSTR
 \mm len:mrph:PTCP.RES
 \mm ba:mrph:AUGM
@@ -27174,18 +27202,18 @@ l'occasion d'une naissance)
 \gf au.moins
 \xv à dɔ́gɔyalenba...
 \nt kb 7/05 p.8
-\dt 11/Nov/2007
+\dt 01/Jun/2017
 
 \lx dɔ́gɔyama
-\mm dɔ́gɔ:vq:petit
+\mm dɔ́gɔ:vq:étroit
 \mm ya:mrph:DEQU
 \mm ma:mrph:COM
 \va dwá.ya.ma
-\mm dwá:vq:petit
+\mm dwá:vq:étroit
 \mm ya:mrph:DEQU
 \mm ma:mrph:COM
 \va jwá.ya.ma
-\mm jwá:vq:petit
+\mm jwá:vq:étroit
 \mm ya:mrph:DEQU
 \mm ma:mrph:COM
 \ph [jwa.]
@@ -27196,7 +27224,7 @@ l'occasion d'une naissance)
 \lt (humiliation.qui a)
 \xv ń'í yé  "bàancinin" mɛ́n, dɔ́ b'á míiri kó : dɔ́gɔyama dòn, dɔ́gɔyama tɛ́ :
 \xf si tu entends dire "petit papa", certains pensent que c'est une manière de dire humiliante, non, ce n'en est pas une
-\dt 03/Apr/2016
+\dt 01/Jun/2017
 
 \lx dɔ̀jan
 \mm dɔ̀:n:longueur
@@ -28510,10 +28538,13 @@ désorienter')
 
 \lx dùgura
 \ps n
-\gf arbre.Cordyla.pennata
-\sd césa
-\smf arbre, dim ---> 15 m(la pulpe du fruit est comestible, le bois fait de bonnes poutres)
-\dt 16/Aug/2006
+\sn Cordyla.pennata, Cordyla africana
+\gf dim
+\gvf poirier du Cayor
+\gvf cordyla penné
+\smf (arbre, dim ---> 15 m, la pulpe du fruit est comestible, le bois
+fait de bonnes poutres)
+\dt 31/May/2017
 
 \lx dùgure
 \ps n
@@ -30877,6 +30908,13 @@ quant à sa mère, elle prend de l'âge
 \gvf pour rien
 \dt 08/Apr/2016
 
+\lx fálaki
+\ps n
+\gf zéro
+\gvf
+\smf (compte dans un jeu)
+\dt 23/May/2017
+
 \lx fàlako
 \ps v
 \vl vt
@@ -32179,6 +32217,13 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \gvf remplaçant
 \sy jɛ̀ɲɔgɔn
 \dt 20/Dec/2015
+
+\lx faransɛ
+\ps adj
+\gf français
+\gvf
+\smf
+\dt 23/May/2017
 
 \lx fàransi
 \ps n
@@ -33974,14 +34019,17 @@ bien (dicton)
 \ps n
 \gf oiseau.Indicator.indicator
 \smf (guide l'homme vers les ruches sauvages par ses petits cris)
-\dt 26/Sep/2006
+\dt 31/May/2017
 
 \lx fɛ̀rɛ
 \ps n
+\ms 1
 \gf place.publique
 \xv fɛ̀rɛ bɛ́  dùgu bɛ́ɛ lá
 \xf dans chaque village il y a une place publique
-\dt 26/Sep/2006
+\ms 2
+\gvf surface
+\dt 31/May/2017
 
 \lx fɛ́rɛ
 \bw ar: farah = joie, bonheur
@@ -34243,11 +34291,11 @@ bien (dicton)
 \mm fìla:num:deux
 \mm nan:mrph:ORD
 \ph [fl]
-\ps adj
+\ps adj/n
 \gf deuxième
 \ph [remarque : on s'attendrait à un ton bas]
 \lt (deux.suf ord)
-\dt 08/Feb/2016
+\dt 31/May/2017
 
 \lx fílanbolo
 \mm fílan:n:camarade.d’âge
@@ -36734,14 +36782,22 @@ frontières, forestiers, sapeurs)
 \dt 24/Dec/2014
 
 \lx fónisire
+\va fónisere
+\va fóniseere
 \va fúnuseere
 \ps n
 \gf généreux
 \gvf libéral
-\dt 22/Apr/2017
+\dt 01/Jun/2017
 
 \lx fónisireya
 \mm fónisire:n:généreux
+\mm ya:mrph:ABSTR
+\va fónisereya
+\mm fónisere:n:généreux
+\mm ya:mrph:ABSTR
+\va fóniseereya
+\mm fóniseere:n:généreux
 \mm ya:mrph:ABSTR
 \va fúnuseereya
 \mm fúnuseere:n:généreux
@@ -36749,10 +36805,16 @@ frontières, forestiers, sapeurs)
 \ps n
 \gf générosité
 \lt (généreux.suf abs)
-\dt 22/Apr/2017
+\dt 01/Jun/2017
 
 \lx fónisireya
 \mm fónisire:n:généreux
+\mm ya:mrph:ABSTR
+\va fónisereya
+\mm fónisere:n:généreux
+\mm ya:mrph:ABSTR
+\va fóniseereya
+\mm fóniseere:n:généreux
 \mm ya:mrph:ABSTR
 \va fúnuseereya
 \mm fúnuseere:n:généreux
@@ -36761,7 +36823,7 @@ frontières, forestiers, sapeurs)
 \vl vi
 \gf être.généreux
 \lt (généreux.suf caus)
-\dt 22/Apr/2017
+\dt 01/Jun/2017
 
 \lx fònna
 \mm fò:v:frôler
@@ -41526,12 +41588,13 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \va gwèse
 \ph [gwjèse]
 \ve (bn)
+\va gèese
 \ps n
 \gf fil
 \smf de chaîne
 \xv fàama ká gèse yé  fàantan yé
 \xf le fil de chaîne du riche c'est le pauvre (prov)
-\dt 19/Aug/2006
+\dt 23/May/2017
 
 \lx gèseda
 \mm gèse:n:fil
@@ -42823,6 +42886,14 @@ caractéristique, réputé pour faciliter la procréation)
 \gf prendre.de.force
 \smf et par surprise
 \dt 19/Jan/2015
+
+\lx góro
+\ps n
+\sn Dicrostachys glomerata, Dichrostachys cinerea
+\gf mimosa clochette
+\gvf
+\smf (un arbuste 4-7 m)
+\dt 31/May/2017
 
 \lx góroba
 \mm góro:n:bouton
@@ -45649,7 +45720,7 @@ qqch ...)
 \dt 04/Apr/2016
 
 \lx jákabɔ
-\mm jáka:n:dîme
+\mm jáka:n:dîme
 \mm bɔ́:v:sortir
 \ps v
 \ms 1
@@ -45658,7 +45729,7 @@ qqch ...)
 \ms 2
 \gvf exercer
 \smf seulement dans l'expression k'í hákili jákabɔ
-\dt 08/Jul/2013
+\dt 01/Jun/2017
 
 \lx jàki
 \va jɛ̀ki
@@ -46226,12 +46297,12 @@ qqch ...)
 \lx jàmanakuntigi
 \mm jàmana:n:pays
 \mm kùn:n:tête
-\mm tìgi:n:maître
+\mm tìgi:n:maître
 \ps n
 \gf président
 \sy jàmanatigi
 \nt Kb 11/06 p.3
-\dt 28/Feb/2017
+\dt 01/Jun/2017
 
 \lx jàmanatigi
 \mm jàmana:n:pays
@@ -47343,6 +47414,16 @@ qqch ...)
 \ms 2
 \gvf sitôt gagné sitôt dépensé
 \dt 05/Feb/2017
+
+\lx jèniyɔrɔ
+\mm jèni:v:brûler
+\mm yɔ́rɔ:n:lieu
+\ps n
+\gf place.de.cuite
+\smf (là où on cuit ou grille)
+\xv k'í jèniyɔrɔ fìn
+\xe bien remplir son rôle, tenir sa place, s'acquitter de sa tâche
+\dt 01/Jun/2017
 
 \lx jɛ̀
 \ps v
@@ -48774,6 +48855,14 @@ le toit de la maison et descendaient
 \ms 3
 \gvf liquide
 \dt 26/Sep/2006
+
+\lx jimijama
+\ps n
+\gf arbre.entada
+\lt (éléphant.'nèrè')
+\lat Entada africana
+\syn sàmanɛ̀rɛ
+\dt 31/May/2017
 
 \lx jíminkàla
 \mm jí:n:eau
@@ -51565,8 +51654,8 @@ composante des adjectifs séparables)
 \va dún
 \ps n
 \gf canari
-\smf pour le transport de l'eau
-\dt 16/Aug/2006
+\smf (pour le transport de l'eau)
+\dt 23/May/2017
 
 \lx jún
 \ps n
@@ -53871,6 +53960,13 @@ l'eau est prête
 \rem l 89, du
 \dt 11/Nov/2007
 
+\lx kalite
+\ps n
+\gf qualité
+\gvf
+\smf
+\dt 31/May/2017
+
 \lx káliya
 \va kɛ́liya
 \ps n
@@ -54426,6 +54522,14 @@ prolapsus utérin
 \gf crête.de.pintade
 \lt (pintade.crête)
 \dt 16/Aug/2006
+
+\lx kamiyɔn
+\va kamiɲɔn
+\ps n
+\gf camion
+\gvf
+\smf
+\dt 28/May/2017
 
 \lx kàn
 \ps pp
@@ -58523,7 +58627,7 @@ probablement de chaux vive)
 \dt 16/Aug/2006
 
 \lx kɛ́nɛya
-\mm kɛ́nɛ:vq/adj:en.bonne.santé
+\mm kɛ́nɛ:vq:sain
 \mm ya:mrph:DEQU
 \ps n
 \ms 1
@@ -58533,15 +58637,16 @@ probablement de chaux vive)
 \ms 2
 \gvf bonne.qualité
 \smf (denrée)
-\dt 26/Sep/2006
+\dt 01/Jun/2017
 
 \lx kɛ́nɛya
-\mm kɛ́nɛ:vq/adj:en.bonne.santé
+\mm kɛ́nɛ:vq:sain
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf guérir
 \lt (sain.suf caus)
+\dt 01/Jun/2017
 
 \lx kɛ́nɛyabali
 \mm kɛ́nɛ:vq/adj:en.bonne.santé
@@ -58983,7 +59088,7 @@ probablement de chaux vive)
 \dt 06/Feb/2017
 
 \lx kɛ́rɛnkɛrɛnnenya
-\mm kɛ́rɛnkɛrɛn:v:mettre.de.côté
+\mm kɛ́rɛnkɛrɛn:v:être.à.part
 \mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \lt (mis à part.suf abs)
@@ -58994,7 +59099,7 @@ probablement de chaux vive)
 \xf en particulier ..., spécialement ...
 \ms 2
 \gvf honnêteté
-\dt 08/Nov/2012
+\dt 01/Jun/2017
 
 \lx kɛ̀rɛsàba
 \mm kɛ́rɛ:n:côté
@@ -59391,7 +59496,7 @@ probablement de chaux vive)
 \ps n
 \gf kilomètre.carré
 \gvf
-\dt 05/Feb/2016
+\dt 01/Jun/2017
 
 \lx kìn
 \ps n
@@ -64814,7 +64919,7 @@ ou une proposition)
 \lx kɔ̀nɔgɛn
 \mm kɔ̀nɔ:n:oiseau
 \mm gɛ́n:v:chasser
-\va kɔ̀nɔ.gwɛn
+\va kɔ̀nɔgwɛn
 \mm kɔ̀nɔ:n:oiseau
 \mm gwɛ́n:v:chasser
 \ph [gw]
@@ -64822,7 +64927,22 @@ ou une proposition)
 \lt oiseau-chasse
 \gf chasse.aux.oiseaux
 \rem l 89, bk
-\dt 11/Nov/2007
+\dt 23/May/2017
+
+\lx kɔ̀nɔgɛn
+\mm kɔ̀nɔ:n:oiseau
+\mm gɛ́n:v:chasser
+\va kɔ̀nɔgwɛn
+\mm kɔ̀nɔ:n:oiseau
+\mm gwɛ́n:v:chasser
+\ph [gw]
+\ps v
+\vl vt
+\gf protéger
+\gvf garder
+\ge guard
+\gr охранять
+\dt 23/May/2017
 
 \lx kɔ̀nɔgɛnnan
 \mm kɔ̀nɔ:n:oiseau
@@ -71486,8 +71606,6 @@ Sahel)
 
 \lx kúntùrú
 \va kúturu
-\va kúuru
-\va kúru
 \ps adj
 \ms 1
 \gf entier
@@ -71502,7 +71620,7 @@ Sahel)
 \gvf véritable
 \xv àle màsakɛ kùnturu...
 \xf lui, le roi en personne ...
-\dt 26/Sep/2006
+\dt 28/May/2017
 
 \lx kùnu
 \va kùnun
@@ -72281,6 +72399,7 @@ kúrunninle
 \dt 25/May/2014
 
 \lx kúuru
+\va kúru
 \ps adj
 \gf entier
 \gvf total
@@ -72288,7 +72407,7 @@ kúrunninle
 \smf
 \xv
 \xf
-\dt 02/Feb/2017
+\dt 28/May/2017
 
 \lx kúusu
 \va kúus
@@ -72979,6 +73098,21 @@ kúrunninle
 \lt (labourer.taureau)
 \dt 16/Aug/2006
 
+\lx laburu
+\ps n
+\gf labour
+\gvf
+\smf
+\dt 29/May/2017
+
+\lx laburu
+\ps v
+\vl vt
+\gf labourer
+\gvf
+\smf
+\dt 31/May/2017
+
 \lx lábùrun
 \mm lá:mrph:CAUS
 \mm bùrun:v:tomber
@@ -73541,8 +73675,14 @@ kúrunninle
 \lx láfili
 \mm lá:mrph:CAUS
 \mm fìli:v:jeter
-\va lá.fli
+\va láfli
 \mm lá:mrph:CAUS
+\mm flì:v:jeter
+\va náfili
+\mm ná:mrph:CAUS
+\mm fìli:v:jeter
+\va náfli
+\mm ná:mrph:CAUS
 \mm flì:v:jeter
 \ph [fl]
 \lt (préf.égarer)
@@ -73560,7 +73700,7 @@ kúrunninle
 \gvf angoisser
 \xv sɛ̀nɛkɛla láfililen  sánji kó lá
 \xf les paysans sont angoissés au sujet de la pluie
-\dt 26/Sep/2006
+\dt 01/Jun/2017
 
 \lx láfilibaatɔ
 \mm lá.fili:v:tromper
@@ -74425,11 +74565,13 @@ kúrunninle
 \lt (préf.enseigner)
 
 \lx lákali
+\va lákale
 \ps n
 \gf compte-rendu
-\dt 12/Jul/2013
+\dt 23/May/2017
 
 \lx lákàli
+\va lákàle
 \bw ar: haka = raconter
 \ps v
 \vl vt
@@ -74437,7 +74579,7 @@ kúrunninle
 \gvf divulguer
 \xv ...lákali...yé
 \xf annoncer qqch à qqn
-\dt 03/Apr/2016
+\dt 23/May/2017
 
 \lx làkalita
 \mm lákàlí:v:raconter
@@ -77285,6 +77427,18 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \sy pánpulimusi
 \dt 26/Sep/2006
 
+\lx lènge
+\va lènke
+\va lɛ̀ngɛ
+\ps n
+\sn Afzelia africana
+\gf arbre.Afzelia.africana
+\gvf lingué
+\smf arbre --->  35 m
+\sd césa
+\sy dàgan, dàganba
+\dt 31/May/2017
+
 \lx léwu
 \ps adv
 \gf complètement
@@ -79299,12 +79453,13 @@ jour, c'est une personne dépendante qu'il voit
 \dt 16/Aug/2006
 
 \lx màliden
-\mm màli:n:Mali
+\mm màli:n:TOP
 \mm dén:n:enfant
 \ps n
 \gf malien
 \lt (Mali.enfant)
 \smf on s'attendait à màlìka ! qui ne se dit pas)
+\dt 01/Jun/2017
 
 \lx màlijirinin
 \mm Màli:n.prop:TOP
@@ -79663,11 +79818,11 @@ jour, c'est une personne dépendante qu'il voit
 \vl vt
 \ms 1
 \gf retenir
-\smf d'avance qqch ...
+\smf (d'avance)
+\gvf réserver
 \ms 2
 \gvf fiancer
-\lt (préf.prendre)
-\dt 04/Apr/2016
+\dt 28/May/2017
 
 \lx màminɛcɛ
 \mm mà.minɛ:n:fiançailles
@@ -82195,12 +82350,12 @@ des engagements
 
 \lx miligaramu
 \ps n
-\gf milligrame
+\gf milligramme
 \gvf
 \smf
 \xv
 \xf
-\dt 06/Feb/2017
+\dt 01/Jun/2017
 
 \lx mìlikimálaka
 \ps n
@@ -82222,6 +82377,22 @@ des engagements
 \xv
 \xf
 \dt 31/May/2016
+
+\lx milisɛn
+\ps n
+\gf milicien
+\gvf
+\smf
+\dt 01/Jun/2017
+
+\lx milisi
+\ps n
+\ms 1
+\gf milice
+\ms 2
+\gvf milicien
+\smf
+\dt 01/Jun/2017
 
 \lx míliyari
 \ps n
@@ -82643,18 +82814,18 @@ nord-est
 \dt 16/Aug/2006
 
 \lx mínnu
-\mm mín:prn:REL
+\mm mîn:prn:REL
 \mm nú:mrph:PL2
 \ps prn
 \gf REL.PL2
-\dt 24/Oct/2012
+\dt 01/Jun/2017
 
 \lx mínnu
-\mm mín:dtm:REL
+\mm mîn:dtm:REL
 \mm nú:mrph:PL2
 \ps dtm
 \gf REL.PL2
-\dt 08/Feb/2017
+\dt 01/Jun/2017
 
 \lx mínsigi
 \va fínsigi
@@ -91429,11 +91600,16 @@ familiaux; viande très prisée, auladiculture)
 \dt 21/Jul/2014
 
 \lx nkɔ̀ni
+\va ngɔ̀ni
 \ps n
 \gf guitare-harpe
+\dt 23/May/2017
 
 \lx nkɔ̀nifɔ
 \mm nkɔ̀ni:n:guitare-harpe
+\mm fɔ́:n:action.de.dire
+\va ngɔ̀nifɔ
+\mm ngɔ̀ni:n:guitare-harpe
 \mm fɔ́:n:action.de.dire
 \ps n
 \ms 1
@@ -91442,7 +91618,7 @@ familiaux; viande très prisée, auladiculture)
 \ms 2
 \gvf joueur.de.guitare-harpe
 \sy nkɔ̀nifɔla
-\dt 16/Aug/2006
+\dt 23/May/2017
 
 \lx nkɔ̀nɔ
 \ps n
@@ -91822,17 +91998,15 @@ graines, sert d'instrument rythmique)
 \dt 01/Mar/2017
 
 \lx nɔ̀fɛta
-\mm nɔ̀.fɛ:mrph:suivant
 \mm nɔ̀:n:trace
 \mm fɛ̀:pp:par
 \mm ta:mrph:PTCP.POT
 \ps n
 \gf le.suivant
 \lt (après.celui)
-\dt 07/Feb/2016
+\dt 01/Jun/2017
 
 \lx nɔ̀fɛtaama
-\mm nɔ̀.fɛ:mrph:suivant
 \mm nɔ̀:n:trace
 \mm fɛ̀:pp:par
 \mm táama:v:marcher
@@ -91844,7 +92018,7 @@ graines, sert d'instrument rythmique)
 \lt (à la suite.marcher)
 \ms 2
 \gvf aller.derrière
-\dt 07/Feb/2016
+\dt 01/Jun/2017
 
 \lx nɔ̀gɛn
 \mm nɔ̀:n:trace
@@ -99508,6 +99682,11 @@ graines, sert d'instrument rythmique)
 \mm ɲɛ́:n:oeil
 \mm na:mrph:MNT1
 \mm míni:v:enrouler
+\va ɲánamini
+\mm ɲá.na:n:regard
+\mm ɲá:n:oeil
+\mm na:mrph:MNT1
+\mm míni:v:enrouler
 \ps n
 \gf vertige
 \gvf étourdissement
@@ -99515,11 +99694,16 @@ graines, sert d'instrument rythmique)
 \lt (vue.tourner)
 \xv à ɲɛ́namini bɔ́ra  à lá
 \xf il n'a plus de vertiges, il est sorti de son ivresse
-\dt 26/Sep/2006
+\dt 28/May/2017
 
 \lx ɲɛ́namini
 \mm ɲɛ́.na:n:regard
 \mm ɲɛ́:n:oeil
+\mm na:mrph:MNT1
+\mm míni:v:enrouler
+\va ɲánamini
+\mm ɲá.na:n:regard
+\mm ɲá:n:oeil
 \mm na:mrph:MNT1
 \mm míni:v:enrouler
 \ps v
@@ -99527,7 +99711,7 @@ graines, sert d'instrument rythmique)
 \gf donner.des.vertiges
 \sm (pr. et fig)
 \lt (vue.tourner)
-\dt 16/Aug/2006
+\dt 28/May/2017
 
 \lx ɲɛ́namisɛn
 \mm ɲɛ́na:n:vue
@@ -100921,6 +101105,16 @@ postposition, n'est pas accepté par tous les locuteurs)
 \ps adv
 \gf très.léger
 \dt 19/Jan/2015
+
+\lx ɲɔ́gɔlɔnbɔla
+\mm ɲɔ́gɔlɔn:n:ornement
+\mm bɔ́:v:sortir
+\mm la:mrph:AG.PRM
+\ps n
+\gf acteur
+\gvf
+\smf (de théâtre traditionnel)
+\dt 23/May/2017
 
 \lx ɲɔ̀gɔn
 \va ɲɔ̀ɔn
@@ -103469,6 +103663,13 @@ envergure)
 \xf
 \dt 21/Feb/2017
 
+\lx pili
+\ps n
+\gf pile.électrique
+\gvf
+\smf
+\dt 28/May/2017
+
 \lx pílili
 \ps n
 \ms 1
@@ -105650,8 +105851,9 @@ épuisés
 \lat Entada abyssinica
 \lat Entada sudanica
 \sd mimo
-\smf ---> 3 / 7 m (les différences ne sont pas évidentes d'où le même nom)
-\dt 26/Sep/2006
+\smf ( 3 à 7;  les différences ne sont pas évidentes d'où le même nom)
+\syn jimijama
+\dt 31/May/2017
 
 \lx sàmaɲin
 \mm sàma:n:éléphant
@@ -106215,10 +106417,11 @@ épuisés
 \ve (-f,-bk)
 \va séni
 \ve (bn)
+\va sánu
 \ps vq
 \gf propre
 \smf (senu : forme employée par les chrétiens dans le sens de saint)
-\dt 23/Nov/2016
+\dt 31/May/2017
 
 \lx sáni
 \va sánti
@@ -106256,29 +106459,38 @@ épuisés
 \lx sániman
 \mm sáni:vq:propre
 \mm man:mrph:ADJ
+\va sánuman
+\mm sánu:vq:propre
+\mm man:mrph:ADJ
 \ps adj
 \gf sain
 \gvf propre
 \gvf pur
-\dt 23/Nov/2016
+\dt 31/May/2017
 
 \lx sániya
 \mm sáni:vq:propre
+\mm ya:mrph:DEQU
+\va sánuya
+\mm sánu:vq:propre
 \mm ya:mrph:DEQU
 \ps n
 \gf propreté
 \gvf hygiène
 \lt (propre.suf abs)
-\dt 23/Nov/2016
+\dt 31/May/2017
 
 \lx sániya
 \mm sáni:vq:propre
+\mm ya:mrph:DEQU
+\va sánuya
+\mm sánu:vq:propre
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf nettoyer
 \lt (propre.suf caus)
-\dt 23/Nov/2016
+\dt 31/May/2017
 
 \lx sánjan
 \mm sán:n:ciel
@@ -109397,14 +109609,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf autosuffisance
 \dt 28/Feb/2017
 
-\lx sé-ń-yɛ̀rɛ-kɔ̀rɔ
+\lx sé-ń-yɛ̀rɛ̂-kɔ́rɔ
 \mm sé:v:arriver
 \mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
-\mm kɔ̀rɔ:pp:sous
+\mm kɔ́rɔ:pp:sous
 \ps n
 \gf autosuffisance
-\dt 24/Apr/2017
+\dt 01/Jun/2017
 
 \lx séńyɛ̀rɛlá
 \mm sé:n:arrivée
@@ -121972,12 +122184,12 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 08/Feb/2016
 
 \lx tìlebinda
-\mm tìle.bin:n:coucher.du.soleil
+\mm tìle.bin:n:occident
 \mm tìle:n:soleil
 \mm bìn:v:tomber
 \mm dá:n:bouche
 \va tlè.bin.da
-\mm tlè.bin:n:coucher.du.soleil
+\mm tlè.bin:n:occident
 \mm tlè:n:soleil
 \mm bìn:v:tomber
 \mm dá:n:bouche
@@ -121986,28 +122198,28 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf soir
 \gvf coucher du soleil
 \lt (coucher de soleil.début)
-\dt 26/Sep/2006
+\dt 01/Jun/2017
 
 \lx tìlebinyànfan
-\mm tìle.bin:n:coucher.du.soleil
+\mm tìle.bin:n:occident
 \mm tìle:n:soleil
 \mm bìn:v:tomber
 \mm yàn:n:ici
 \mm fàn:n:côté
 \va tìlebiyànfan
-\mm tìle.bi:n:coucher.du.soleil
+\mm tìle.bi:n:occident
 \mm tìle:n:soleil
 \mm bì:v:tomber
 \mm yàn:n:ici
 \mm fàn:n:côté
 \va tlè.bin.yàn.fan
-\mm tlè.bin:n:coucher.du.soleil
+\mm tlè.bin:n:occident
 \mm tlè:n:soleil
 \mm bìn:v:tomber
 \mm yàn:n:ici
 \mm fàn:n:côté
 \va tlè.bi.yàn.fan
-\mm tlè.bi:n:coucher.du.soleil
+\mm tlè.bi:n:occident
 \mm tlè:n:soleil
 \mm bì:v:tomber
 \mm yàn:n:ici
@@ -122015,9 +122227,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ph [tl]
 \ps n
 \gf ouest
-\lt (ouest.du côté)
-\sy tìlebi
-\dt 08/Feb/2016
+\dt 01/Jun/2017
 
 \lx tìlebɔtuma
 \mm tìle:n:soleil
@@ -130892,6 +131102,14 @@ bambara)
 \smf (une fleure)
 \dt 17/May/2017
 
+\lx yetinan
+\va yetenan
+\ps n
+\gf lieutenant
+\gvf
+\smf
+\dt 01/Jun/2017
+
 \lx yɛ́
 \ps intj
 \gf hou.la
@@ -132373,6 +132591,16 @@ généreuses, avec bourrelets
 \gvf
 \cm fr. jupe
 \dt 29/Mar/2017
+
+\lx zoforɛ
+\va zofɔrɛ
+\va zofore
+\va zoforɛ
+\ps n
+\gf Administration.des.Eaux.et.Forêts
+\gvf
+\smf
+\dt 31/May/2017
 
 \lx zóni
 \ps n

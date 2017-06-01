@@ -325,6 +325,7 @@
 \va Asetu
 \va Satu
 \va Sata
+\va Ayisa
 \va Asan
 \cm forme diminutive
 \va Asa
@@ -334,7 +335,7 @@
 \di (m)
 \ps n.prop
 \gf NOM.F
-\dt 09/Apr/2017
+\dt 23/May/2017
 
 \lx Ayo
 \ps n.prop
@@ -1357,6 +1358,14 @@
 \lx Fántà
 \ps n.prop
 \gf NOM.F
+
+\lx Faɲɛnama
+\va Nfaɲanama
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 23/May/2017
 
 \lx Fáraban
 \di m
@@ -2479,6 +2488,13 @@
 \gf NOM
 \dt 03/May/2010
 
+\lx Manbi
+\ps n.prop
+\gf NOM.M
+\gvf Mamby
+\smf
+\dt 23/May/2017
+
 \lx Mangɔrɔ
 \ps n.prop
 \gf NOM.M
@@ -2628,12 +2644,13 @@
 \dt 01/Jun/2016
 
 \lx Mohamɛdi
+\va Mohamadu
 \ps n.prop
 \gf NOM.M
 \gvf Mouhammad
 \gvf Mahomet
 \gvf Mohammed
-\dt 04/Apr/2016
+\dt 31/May/2017
 
 \lx Mòri
 \di b, m
@@ -3284,6 +3301,13 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Pate
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf (prénom peul)
+\dt 23/May/2017
+
 \lx Patɛ
 \di ful
 \ps n.prop
@@ -3433,6 +3457,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Sanbala
+\ps n.propo
+\gf NOM.M
+\gvf
+\smf
+\dt 23/May/2017
 
 \lx Sànbu
 \di b, m
@@ -4068,6 +4099,13 @@ de l'enfant qui survit à sa mère morte en couches
 \ps n.prop
 \gf NOM.MF
 \dt 01/May/2017
+
+\lx Wɛnzɛn
+\ps n.prop
+\gf NOM.M
+\gvf Ouezzin
+\smf
+\dt 23/May/2017
 
 \lx Woba
 \ps n.prop

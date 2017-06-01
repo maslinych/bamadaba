@@ -481,13 +481,22 @@ Salam, Cercle de Tombouctou)
 \xf
 \dt 15/Sep/2016
 
-\lx Bájalana
+\lx Bájalan
+\va Bajalana
 \ty кв.
 \ps n.prop
 \gf TOP
 \gvf quartier.à.Bamako
 \cm (в Бамако)
-\dt 05/Dec/2010
+\dt 28/May/2017
+
+\lx Bajangara
+\va Bajankara
+\ps n.prop
+\gf TOP
+\gvf Badiangara
+\smf (ville et commune, région de Mopti)
+\dt 31/May/2017
 
 \lx Bajɛ
 \di b
@@ -1210,6 +1219,13 @@ Sikasso)
 \xv
 \xf
 \dt 04/Jun/2016
+
+\lx Dahomɛ
+\ps n.prop
+\gf TOP
+\gvf Dahomey
+\smf (l'ancien nom du Benin)
+\dt 23/May/2017
 
 \lx Dákajaalà
 \va Dákajaalàn
@@ -2325,6 +2341,14 @@ Koulikoro)
 \xf
 \dt 06/Feb/2017
 
+\lx Janikɔrɔ
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, commune de Ouélessébougou, cercle de Kati, région
+de Koulikouro)
+\dt 23/May/2017
+
 \lx Jannegala
 \ps n.prop
 \gf TOP
@@ -2872,6 +2896,13 @@ Léraba, région des Cascades, Burkina Faso)
 \xf
 \dt 22/Feb/2017
 
+\lx Kasela
+\ps n.prop
+\gf TOP
+\gvf Kaséla
+\smf (cerce de Banamba, région de Koulikoro)
+\dt 23/May/2017
+
 \lx Katari
 \ps n.prop
 \gf TOP
@@ -3092,6 +3123,14 @@ Kéniéba)
 \lx Kolama
 \ps n.prop
 \gf TOP
+
+\lx Kolinbine
+\ps n.propo
+\gf TOP
+\gvf Kolimbiné
+\gvf Colimbiné
+\smf (village et commune, cercle et région de Kayes)
+\dt 23/May/2017
 
 \lx Kolinbinna
 \ty р.
@@ -4321,6 +4360,13 @@ de Koulikoro)
 \xf
 \dt 30/Jan/2017
 
+\lx Ntarla
+\ps n.prop
+\gf TOP
+\gvf N'Tarla
+\smf (station de recherche agronomique au sud du Mali)
+\dt 23/May/2017
+
 \lx Ntòmikɔrɔbugu
 \ty кв.
 \ps n.prop
@@ -4561,6 +4607,7 @@ Koulikoro)
 
 \lx Ɔtiwɔlita
 \va Otiwolita
+\va Ɔtiwɔluta
 \va Hotu Wolita
 \va Walita Sandɔ
 \ty гос.
@@ -4569,7 +4616,7 @@ Koulikoro)
 \gvf Haute-Volta
 \ru Верхняя Вольта
 \cm (c 1984 г. - Буркина Фасо)
-\dt 23/May/2010
+\dt 23/May/2017
 
 \lx Pakistan
 \va Pakisitan
@@ -5198,6 +5245,13 @@ région de Koulikoro)
 \ru Китай
 \dt 05/Feb/2017
 
+\lx Sinzana
+\ps n.prop
+\gf TOP
+\gvf Sinzana
+\smf (cerce de Banamba, région de Koulikoro)
+\dt 23/May/2017
+
 \lx Sipariti
 \ps n.prop
 \gf TOP
@@ -5416,6 +5470,14 @@ Sikasso)
 \xv
 \xf
 \dt 02/Feb/2017
+
+\lx Sugunba
+\ps n.prop
+\gf TOP
+\gvf Sougoumba
+\smf (village, chef-lieu de la commune de Koningué, cercle de
+Koutiala, région de Sikasso)
+\dt 28/May/2017
 
 \lx Susi
 \ps n.prop
@@ -5666,11 +5728,12 @@ village d'Essouk, région de Kidal)
 
 \lx Tomiɲan
 \va Tomiɲa
+\va Tomiyan
 \ps n.prop
 \gf TOP
 \gvf Tominian
 \smf (ville et cercle dans la région de Ségou)
-\dt 08/Feb/2016
+\dt 23/May/2017
 
 \lx Tori
 \ps n.prop
@@ -6138,6 +6201,13 @@ cercle de Kati)
 \gvf Zaïre
 \ru Заир
 \dt 23/May/2010
+
+\lx Zebala
+\ps n.prop
+\gf TOP
+\gvf Zébala
+\smf (village et commune, cercle de Koutiala, région de Sikasso)
+\dt 23/May/2017
 
 \lx Zelabugu
 \ps n.prop

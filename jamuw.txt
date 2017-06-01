@@ -1819,25 +1819,6 @@
 \ps n.prop
 \gf NOM.CL
 
-\lx Kone
-\va Kɔ́ndɛ
-\va Konte
-\va Kɔ́nɛ
-\va Kɔ́ntɛ
-\di m
-\di b
-\eq Jàra
-\eq Ndyay
-\eq Tamura
-\ca jèli
-\cm у манинка
-\ca hɔ́rɔn
-\tn jàra
-\ms Jèli у Kamara (kagoro).
-\dt 06/May/2010
-\ps n.prop
-\gf NOM.CL
-
 \lx Konipo
 \di boz
 \dt 06/May/2010
@@ -1881,6 +1862,25 @@
 \ms Многие Koyita-сонинке - коневоды. Главное место - Saroma
 Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kɔ́nɛ
+\va Kɔ́ndɛ
+\va Konte
+\va Kone
+\va Kɔ́ntɛ
+\di m
+\di b
+\eq Jàra
+\eq Ndyay
+\eq Tamura
+\ca jèli
+\cm у манинка
+\ca hɔ́rɔn
+\tn jàra
+\ms Jèli у Kamara (kagoro).
+\dt 23/May/2017
 \ps n.prop
 \gf NOM.CL
 
@@ -3128,6 +3128,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \gf NOM.CL
 
 \lx Tangara
+\va Tankara
 \di b-jonka
 \di m
 \ms Kulibali
@@ -3136,7 +3137,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \re Sikaso
 \re Kulikoro
 \tt waraninkala
-\dt 06/May/2010
+\dt 31/May/2017
 \ps n.prop
 \gf NOM.CL
 

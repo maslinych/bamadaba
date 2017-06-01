@@ -950,6 +950,13 @@ la culture
 \smf (journal en langue bambara)
 \dt 19/May/2017
 
+\lx Kirisita
+\ps n.prop
+\gf N.ETRG
+\gvf Jésus Christ
+\smf
+\dt 31/May/2017
+
 \lx Kirisitɔfu
 \ps n.prop
 \gf NOM.ETRG
@@ -1023,6 +1030,13 @@ la culture
 \gvf Cook
 \smf
 \dt 17/May/2017
+
+\lx Kuwame Nkuruma
+\ps n.prop
+\gf NOM.ETRG
+\gvf Kwame Nkrumah
+\smf
+\dt 01/Jun/2017
 
 \lx latɛn
 \ps n
@@ -1762,14 +1776,14 @@ Gbagbo)
 \gf rouble
 \dt 03/May/2013
 
-\lx Yesu Kirisita
+\lx Yesu
 \ps n.prop
 \gf N.ETRG
 \gvf Jésus Christ
 \smf
 \xv
 \xf
-\dt 15/Sep/2016
+\dt 31/May/2017
 
 \lx Zakɔbu
 \ps n.prop
