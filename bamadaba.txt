@@ -4,9 +4,6 @@
 \name bamadaba
 \ver 0.5.4
 
-\lx
-\dt 13/Apr/2017
-
 \lx à
 \ms 1
 \ps pers
@@ -11315,11 +11312,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps n
 \ms 1
 \gf porte
-\smf de maison à terrasse
+\smf (de maison à terrasse)
 \ms 2
 \gvf famille.d'origine
-\lt (maison.porte)
-\dt 26/Sep/2006
+\ms 3
+\gvf administration
+\dt 03/Jun/2017
 
 \lx bóndadimi
 \mm bón:n:charbon
@@ -11332,10 +11330,11 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 03/Apr/2016
 
 \lx bòndon
+\va bònton
 \ps n
 \gf grenier.en.pisé
 \smf (réservé aux femmes)
-\dt 20/Oct/2014
+\dt 03/Jun/2017
 
 \lx bóndonson
 \ps v
@@ -20487,8 +20486,10 @@ pas)
 \xv jɔ́n yé  dàlilu d'í mà  kà nìn kɛ́ ?
 \xf qui t'a donné le droit de le faire ?
 \ms 4
+\gvf critère
+\ms 5
 \gvf puissance.occulte
-\dt 09/Mar/2017
+\dt 03/Jun/2017
 
 \lx dàliluma
 \mm dàlilu:n:cause
@@ -21436,6 +21437,15 @@ devenir incontrôlable
 \nt construction facultative ? ex 2 / comment traduire quand il s'agit de personnes ? anéantir ?
 \cm plutôt 2 mots: ù yé dàn sɛ̀bɛkɔrɔ kári à lá - VV
 \dt 01/Jun/2016
+
+\lx dànkari
+\mm dàn:n:limite
+\mm kári:v:casser
+\ps n
+\gf préjudice
+\gvf dommage
+\smf
+\dt 03/Jun/2017
 
 \lx dànkelen
 \mm dàn:n:dépassement
@@ -23999,6 +24009,13 @@ assumant que l'interclocuteur pense autrement)
 \gvf entrelacer
 \dt 26/Sep/2006
 
+\lx dɛfu
+\ps n
+\gf diplome.d'études.fondamentales
+\gvf
+\smf
+\dt 03/Jun/2017
+
 \lx dɛ̀gɛ
 \ps n
 \gf brouet
@@ -25115,6 +25132,16 @@ chefs religieux et représentants de l'administration
 \lt (monde.traverser)
 \sy díɲɛsosigi
 \dt 09/Jun/2013
+
+\lx díɲɛselekenaani
+\mm díɲɛ:n:monde
+\mm séleke:n:angle
+\mm náani:num:quatre
+\ps n
+\gf Communauté.internationale
+\gvf
+\cm néol., benkansebɛn_min_bora
+\dt 03/Jun/2017
 
 \lx díɲɛsosigi
 \mm díɲɛ:n:monde
@@ -37390,10 +37417,9 @@ frontières, forestiers, sapeurs)
 \mm ká:pm:INF
 \mm bɛ̀n:v:se.rencontrer
 \mm na:mrph:AG.PRM
-\ps n 
-\lt dire-et-accorder-celui qui
+\ps n
 \gf modérateur
-\dt 11/Nov/2007
+\dt 03/Jun/2017
 
 \lx fɔ́len
 \mm fɔ́:v:dire
@@ -41182,6 +41208,22 @@ forestières, fruit : long follicule de 50 cm)
 \smf classe de griots ( effrontés, n'hésitent pas à maudire ...)
 \dt 16/Aug/2006
 
+\lx gazi
+\ps n
+\gf gaz
+\gvf
+\smf
+\dt 03/Jun/2017
+
+\lx gazuwali
+\va gasuwali
+\va gasiwali
+\ps n
+\gf gasoil
+\gvf
+\smf
+\dt 03/Jun/2017
+
 \lx gédewu
 \ps onomat
 \gf bruit.d'un.objet.lourd.qui.tombe
@@ -42889,11 +42931,11 @@ caractéristique, réputé pour faciliter la procréation)
 
 \lx góro
 \ps n
-\sn Dicrostachys glomerata, Dichrostachys cinerea
-\gf mimosa clochette
+\lat Dicrostachys glomerata, Dichrostachys cinerea
+\gf mimosa.clochette
 \gvf
 \smf (un arbuste 4-7 m)
-\dt 31/May/2017
+\dt 01/Jun/2017
 
 \lx góroba
 \mm góro:n:bouton
@@ -44277,13 +44319,17 @@ doigts par des fileuses du coton)
 \mm hámi:n:souci
 \mm na:mrph:MNT1
 \mm kó:n:affaire
+\va háminako
+\mm hámi:n:souci
+\mm na:mrph:MNT1
+\mm kó:n:affaire
 \ps n
 \ms 1
 \gf souci
 \lt (souci.affaire)
 \ms 2
 \gvf désir
-\dt 21/Nov/2012
+\dt 03/Jun/2017
 
 \lx hámu
 \ps n
@@ -45044,6 +45090,14 @@ doigts par des fileuses du coton)
 \sy íkomi
 \lt (tu.aux fut.ceci.dire)
 \dt 18/Jan/2015
+
+\lx iniwɛrisite
+\va iniwɛrɛsite
+\ps n
+\gf université
+\gvf
+\smf
+\dt 03/Jun/2017
 
 \lx irigibi
 \ps n
@@ -48201,6 +48255,18 @@ nos libations "
 \xv Jíbolisira mín bɛ́ kà dílan Kála kɔ́rɔnyanfan fɛ̀
 \xf le canal qu'on est en train de creuser à l'est de Kala (kb  7/05 p.4)
 \dt 11/Nov/2007
+
+\lx jíbondon
+\mm jí:n:eau
+\mm bòndon:n:grenier.en.pisé
+\va jíbonton
+\mm jí:n:eau
+\mm bònton:n:grenier.en.pisé
+\ps n
+\gf chateau.d'eau
+\gvf tour réservoir
+\smf
+\dt 03/Jun/2017
 
 \lx jíbɔla
 \mm jí:n:eau
@@ -53439,12 +53505,16 @@ l'eau est prête
 \gvf étude
 \xv màa tɛ́ kɔ̀rɔ  kàlan mà
 \xf on n'est jamais trop âgé pour étudier
+\xv kàlan kùn fɔ́lɔ
+\xe enseignement primaire
+\xv kàlan kùn fílanan
+\xe enseignement secondaire
 \ms 3
 \gvf classe
 \gvf cours
 \xv à bɛ́ kàlan kɛ́  dénmisɛn kùn
 \xf il fait la classe aux enfants
-\dt 26/Sep/2006
+\dt 03/Jun/2017
 
 \lx kàlan
 \ps v
@@ -54732,6 +54802,14 @@ prolapsus utérin
 \gvf policier
 \lt (protéger.celui qui)
 \dt 26/Sep/2006
+
+\lx kanali
+\va kanare
+\ps n
+\gf canal
+\gvf
+\smf
+\dt 03/Jun/2017
 
 \lx kánba
 \mm kán:n:cou
@@ -58077,6 +58155,15 @@ probablement de chaux vive)
 \sy kɛ̀lɛcɛ
 \lt (armée.élément)
 \dt 26/Sep/2006
+
+\lx kɛ̀lɛjama
+\mm kɛ̀lɛ:n:querelle
+\mm jàma:n:foule
+\ps n
+\gf armée
+\gvf forces armées
+\smf
+\dt 03/Jun/2017
 
 \lx kɛ̀lɛjeli
 \mm kɛ̀lɛ:n:querelle
@@ -62208,6 +62295,13 @@ champs)
 \gf chaussures.fermées
 \lt (varan de terre.trou)
 \dt 16/Aug/2006
+
+\lx koperatifu
+\ps n
+\gf coopératif
+\gvf
+\smf
+\dt 03/Jun/2017
 
 \lx kórakora
 \va kúrakura
@@ -70697,6 +70791,19 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lt (tête.délier)
 \dt 26/Sep/2006
 
+\lx kunnafonidiso
+\mm kùnnafoni
+\mm kùn:n:tête
+\mm ná:pp:dans
+\mm fóni:v:détacher
+\mm dí:v:donner
+\mm só:n:maison
+\ps n
+\gf média
+\gvf massmedia
+\smf
+\dt 03/Jun/2017
+
 \lx kùnnafonina
 \mm kùn:n:tête
 \mm ná:pp:dans
@@ -75655,6 +75762,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \va nánkolon
 \mm nan:mrph:dans
 \mm kólon:adj:vide
+\va lákolon
+\mm la:mrph:dans
+\mm kólon:adj:vide
 \ps adj
 \sy kólon
 \lt (endroit.vide)
@@ -75671,10 +75781,15 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf négligeable
 \xv ù tɛ́  mɔ̀gɔ lánkolon yé
 \xf ce ne sont pas des gens de rien
-\dt 30/Apr/2017
+\dt 03/Jun/2017
 
 \lx lánkolonya
 \mm lán.kolon:adj:vide
+\mm lan:mrph:dans
+\mm kólon:adj:vide
+\mm ya:mrph:ABSTR
+\va lákolonya
+\mm lá.kolon:adj:vide
 \mm lan:mrph:dans
 \mm kólon:adj:vide
 \mm ya:mrph:ABSTR
@@ -75682,10 +75797,15 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gf nudité
 \gvf vide
 \lt (nu.suf abs)
-\dt 26/Sep/2006
+\dt 03/Jun/2017
 
 \lx lánkolonya
-\mm lán.kolon:adj:vide
+\mm lánkolon:adj:vide
+\mm lan:mrph:dans
+\mm kólon:adj:vide
+\mm ya:mrph:ABSTR
+\va lákolonya
+\mm lákolon:adj:vide
 \mm lan:mrph:dans
 \mm kólon:adj:vide
 \mm ya:mrph:ABSTR
@@ -75696,7 +75816,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \gvf dénuder
 \lt (nu.suf caus)
-\dt 26/Sep/2006
+\dt 03/Jun/2017
 
 \lx lánɔ
 \mm lá:mrph:CAUS
@@ -77431,13 +77551,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \va lènke
 \va lɛ̀ngɛ
 \ps n
-\sn Afzelia africana
+\lat Afzelia africana
 \gf arbre.Afzelia.africana
 \gvf lingué
 \smf arbre --->  35 m
 \sd césa
 \sy dàgan, dàganba
-\dt 31/May/2017
+\dt 01/Jun/2017
 
 \lx léwu
 \ps adv
@@ -103891,6 +104011,13 @@ envergure)
 \xf mentir
 \dt 16/Aug/2006
 
+\lx porogaramu
+\ps n
+\gf programme
+\gvf
+\smf
+\dt 03/Jun/2017
+
 \lx pórokirɛri
 \ps n
 \gf procureur
@@ -103963,9 +104090,10 @@ envergure)
 \sm effrayer par des menaces ou des coups superficiels
 
 \lx póroze
+\va pórozɛ
 \ps n
 \gf projet
-\dt 12/Jan/2015
+\dt 03/Jun/2017
 
 \lx poto
 \ps n
@@ -107621,12 +107749,11 @@ composition de l'encens
 \mm sàriya:n:loi
 \mm sèn:n:jambe
 \ps n
-\lt loi-élément
 \gf article.de.loi
 \xv sàriyasen 10nán bìnna / ò sàriyasen bìnna
 \xf le 10ème article de la loi a été abrogé (kb 1/05 p.4) / cet article de loi est devenu caduc (kb 8/05 p.1)
 \nt Kb 11/06 p.2
-\dt 11/Nov/2007
+\dt 03/Jun/2017
 
 \lx sàriyasun
 \mm sàriya:n:loi

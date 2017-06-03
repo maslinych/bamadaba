@@ -110,6 +110,13 @@ de l'Algérie)
 \xf
 \dt 04/Feb/2017
 
+\lx Aka
+\ps n.prop
+\gf TOP
+\gvf Aka
+\smf (village, région de Mopti)
+\dt 03/Jun/2017
+
 \lx Akkra
 \va Akra
 \ty г.
@@ -173,12 +180,34 @@ de l'Algérie)
 \gvf Andalousie
 \dt 06/Feb/2017
 
+\lx Andelimani
+\ps n.prop
+\gf TOP
+\gvf Indelimane
+\smf (village, 75 km d'Ansongo)
+\dt 03/Jun/2017
+
 \lx Anderabukani
 \ps n.prop
 \gf TOP
 \gvf Andéramboukane
 \smf (une petite ville, commune de Ménaka, région de Gao)
 \dt 17/May/2017
+
+\lx Anderanbukani
+\ps n.prop
+\gf TOP
+\gvf Andéramboukane
+\smf (ville et commune, cercle et région de Ménaka)
+\dt 03/Jun/2017
+
+\lx Anefisi
+\ps n.prop
+\gf TOP
+\gvf Anefis
+\gvf Anéfis
+\smf (village et commune, dans le cercle et rétion de Kidal)
+\dt 03/Jun/2017
 
 \lx Angleteri
 \va Ankili
@@ -253,6 +282,7 @@ de l'Algérie)
 
 \lx Ararusi
 \va Arawurusi
+\va Ararusu
 \ps n.prop
 \gf TOP
 \gvf Rharous
@@ -260,7 +290,7 @@ de l'Algérie)
 Tombouctou)
 \xv
 \xf
-\dt 06/Feb/2017
+\dt 03/Jun/2017
 
 \lx Arawan
 \va Arawani
@@ -1009,6 +1039,14 @@ Comoé, Burkina Faso)
 \xf
 \dt 07/Feb/2017
 
+\lx Bore
+\ps n.prop
+\gf TOP
+\gvf Boré
+\smf (village, chef-lieu de la commune Dangol Boré, cerce de
+Douentza, région de Mopti)
+\dt 03/Jun/2017
+
 \lx Bósola
 \va Bózola
 \ps n.prop
@@ -1045,6 +1083,14 @@ de Koulikoro)
 \xv
 \xf
 \dt 26/Feb/2017
+
+\lx Bɔrɔdizi Bazi Mɔkutari
+\ps n.prop
+\gf TOP
+\gvf Bordj Badji Mokhtar
+\smf (commune de la wilaya d'Adrar, en Algérie, à la frontière
+malienne)
+\dt 03/Jun/2017
 
 \lx Bɔsuwana
 \ps n.prop
@@ -1362,6 +1408,13 @@ Koulikoro)
 \xf
 \dt 21/Feb/2017
 
+\lx Dire
+\ps n.prop
+\gf TOP
+\gvf Diré
+\smf (ville, commune et cercle, région de Tombouctou)
+\dt 03/Jun/2017
+
 \lx Direyi
 \ps n.prop
 \gf TOP
@@ -1511,6 +1564,13 @@ Tadmekka)
 \xf
 \dt 01/Feb/2017
 
+\lx Esuku
+\ps n.prop
+\gf TOP
+\gvf Essouk
+\smf (village et commune, région de Kidal)
+\dt 03/Jun/2017
+
 \lx Etazini
 \ps n.prop
 \gf TOP
@@ -1655,6 +1715,13 @@ Koulikoro)
 \xv
 \xf
 \dt 08/Feb/2017
+
+\lx Fasala
+\ps n.prop
+\gf TOP
+\gvf Fassala
+\smf (village à l'Est de Mali)
+\dt 03/Jun/2017
 
 \lx Fàsokanu
 \ps n.prop
@@ -2011,6 +2078,14 @@ Tombouctou)
 \xv
 \xf
 \dt 05/Feb/2017
+
+\lx Gosi
+\ps n.prop
+\gf TOP
+\gvf Gossi
+\smf (ville et commune, cercle de Gourma-Rharous, région de
+Tombouctou)
+\dt 03/Jun/2017
 
 \lx Gumankɔ
 \ps n.prop
@@ -3125,12 +3200,12 @@ Kéniéba)
 \gf TOP
 
 \lx Kolinbine
-\ps n.propo
+\ps n.prop
 \gf TOP
 \gvf Kolimbiné
 \gvf Colimbiné
 \smf (village et commune, cercle et région de Kayes)
-\dt 23/May/2017
+\dt 01/Jun/2017
 
 \lx Kolinbinna
 \ty р.
@@ -3207,6 +3282,14 @@ Kéniéba)
 \xv
 \xf
 \dt 31/Jan/2017
+
+\lx Koriyanze
+\ps n.prop
+\gf TOP
+\gvf Korientzé
+\smf (village, chef-lieu de la commune de Korombana, cercle et
+région de Mopti)
+\dt 03/Jun/2017
 
 \lx Koro
 \ps n.prop
@@ -4130,6 +4213,13 @@ Ségou)
 \xv
 \xf
 \dt 03/Feb/2017
+
+\lx Muniya
+\ps n.prop
+\gf TOP
+\gvf Mounia
+\smf (village, région de Mopti)
+\dt 03/Jun/2017
 
 \lx Muntugula
 \ps n.prop
@@ -5599,6 +5689,14 @@ village d'Essouk, région de Kidal)
 \ru Тауденни
 \dt 23/May/2010
 
+\lx Tawusa
+\ps n.prop
+\gf TOP
+\gvf Taoussa
+\smf (un barrage hydroélectrique en construction sur le fleuve
+Niger, près de Bourem, 130 km à l'ouest de Gao)
+\dt 03/Jun/2017
+
 \lx Tekururu
 \ps n.prop
 \gf TOP
@@ -5615,6 +5713,13 @@ village d'Essouk, région de Kidal)
 \xf
 \dt 01/Feb/2017
 
+\lx Tesiti
+\ps n.prop
+\gf TOP
+\gvf Tessit
+\smf (village et commune, cercle d'Ansongo, région de Gao)
+\dt 03/Jun/2017
+
 \lx Tɛmanbaa Jinɛ
 \ty гос.
 \ps n.prop
@@ -5624,11 +5729,13 @@ village d'Essouk, région de Kidal)
 \dt 23/May/2010
 
 \lx Tɛnɛnkun
+\va Tɛnɛnku
+\va Tenenku
 \ps n.prop
 \gf TOP
 \gvf Ténenkou
 \smf (une cercle dans la région de Mopti)
-\dt 31/Jan/2017
+\dt 03/Jun/2017
 
 \lx Tɛngɛrɛla
 \ps n.prop
@@ -5663,6 +5770,16 @@ village d'Essouk, région de Kidal)
 \xv
 \xf
 \dt 04/Jun/2016
+
+\lx Timiyawini
+\ps n.prop
+\gf TOP
+\gvf Timiaouine
+\gvf Timéiaouine
+\gvf Timéiawine
+\smf (commune au sud de l'Algérie, wilaya d'Adrar, près de la
+frontière malienne)
+\dt 03/Jun/2017
 
 \lx Tinesako
 \ps n.prop
