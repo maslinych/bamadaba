@@ -3100,13 +3100,14 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \dt 16/Aug/2006
 
 \lx bàlen
-\va bale
+\va bàle
+\va bàron
 \ps n
 \gf fourche
-\smf d'un arbre
+\smf (d'un arbre)
 \xv ń'í yé  ntàma tù  k'à bìla  sòlo kɛ̀rɛ lá, à bɛ́ fɔ́  jíriba cáman bàlen ná
 \xf si tu fabriques un tambourin et le mets  en bandoulière à la perruche,elle le jouera sur la fourche de beaucoup de grands arbres (prov)
-\dt 16/Aug/2006
+\dt 04/Jun/2017
 
 \lx bàlenbo
 \va bàle.mo
@@ -24009,12 +24010,12 @@ assumant que l'interclocuteur pense autrement)
 \gvf entrelacer
 \dt 26/Sep/2006
 
-\lx dɛfu
+\lx dɛ̀fu
 \ps n
 \gf diplome.d'études.fondamentales
 \gvf
 \smf
-\dt 03/Jun/2017
+\dt 04/Jun/2017
 
 \lx dɛ̀gɛ
 \ps n
@@ -26044,7 +26045,12 @@ chefs religieux et représentants de l'administration
 \sm (de la bière ...)
 \xv mùso bɛ́  dɔ̀lɔ dòn
 \xf la femme fabrique de la bière de mil
-\dt 03/Apr/2016
+\ms 5
+\vl vi
+\gvf émerger
+\gvf apparaître
+\sm (une nation, un état)
+\dt 05/Jun/2017
 
 \lx dòn
 \va dò
@@ -28564,6 +28570,7 @@ désorienter')
 \dt 16/Aug/2006
 
 \lx dùgura
+\va dògora
 \ps n
 \sn Cordyla.pennata, Cordyla africana
 \gf dim
@@ -28571,7 +28578,7 @@ désorienter')
 \gvf cordyla penné
 \smf (arbre, dim ---> 15 m, la pulpe du fruit est comestible, le bois
 fait de bonnes poutres)
-\dt 31/May/2017
+\dt 04/Jun/2017
 
 \lx dùgure
 \ps n
@@ -34366,7 +34373,7 @@ bien (dicton)
 \lx fìlanin
 \mm fìla:num:deux
 \mm nin:mrph:DIM
-\va flà.nin
+\va flànin
 \mm flà:num:deux
 \mm nin:mrph:DIM
 \ph [fl]
@@ -34374,7 +34381,7 @@ bien (dicton)
 \gf jumeau
 \gvf jumelle
 \lt (deux.petits)
-\dt 26/Sep/2006
+\dt 04/Jun/2017
 
 \lx fìlaninbin
 \mm fìla.nin:n:jumeau
@@ -41208,21 +41215,21 @@ forestières, fruit : long follicule de 50 cm)
 \smf classe de griots ( effrontés, n'hésitent pas à maudire ...)
 \dt 16/Aug/2006
 
-\lx gazi
+\lx gázi
 \ps n
 \gf gaz
 \gvf
 \smf
-\dt 03/Jun/2017
+\dt 04/Jun/2017
 
-\lx gazuwali
-\va gasuwali
-\va gasiwali
+\lx gázuwali
+\va gásuwali
+\va gásiwali
 \ps n
 \gf gasoil
 \gvf
 \smf
-\dt 03/Jun/2017
+\dt 04/Jun/2017
 
 \lx gédewu
 \ps onomat
@@ -45350,10 +45357,11 @@ provoqués par une plaie : adénopathie)
 \ps dtm
 \gf uniquement
 \gvf seulement
+\gvf exactement
 \smf
 \xv
 \xf
-\dt 12/Jun/2016
+\dt 04/Jun/2017
 
 \lx jàba
 \ps n
@@ -54030,12 +54038,12 @@ l'eau est prête
 \rem l 89, du
 \dt 11/Nov/2007
 
-\lx kalite
+\lx kálite
 \ps n
 \gf qualité
 \gvf
 \smf
-\dt 31/May/2017
+\dt 04/Jun/2017
 
 \lx káliya
 \va kɛ́liya
@@ -54593,13 +54601,13 @@ prolapsus utérin
 \lt (pintade.crête)
 \dt 16/Aug/2006
 
-\lx kamiyɔn
-\va kamiɲɔn
+\lx kámiyɔn
+\va kámiɲɔn
 \ps n
 \gf camion
 \gvf
 \smf
-\dt 28/May/2017
+\dt 04/Jun/2017
 
 \lx kàn
 \ps pp
@@ -54803,13 +54811,13 @@ prolapsus utérin
 \lt (protéger.celui qui)
 \dt 26/Sep/2006
 
-\lx kanali
-\va kanare
+\lx kánali
+\va kánare
 \ps n
 \gf canal
 \gvf
 \smf
-\dt 03/Jun/2017
+\dt 04/Jun/2017
 
 \lx kánba
 \mm kán:n:cou
@@ -62296,12 +62304,12 @@ champs)
 \lt (varan de terre.trou)
 \dt 16/Aug/2006
 
-\lx koperatifu
+\lx kóperatifu
 \ps n
-\gf coopératif
+\gf coopérative
 \gvf
 \smf
-\dt 03/Jun/2017
+\dt 05/Jun/2017
 
 \lx kórakora
 \va kúrakura
@@ -70791,8 +70799,8 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lt (tête.délier)
 \dt 26/Sep/2006
 
-\lx kunnafonidiso
-\mm kùnnafoni
+\lx kùnnafonidiso
+\mm kùnnafoni:n:information
 \mm kùn:n:tête
 \mm ná:pp:dans
 \mm fóni:v:détacher
@@ -70802,7 +70810,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gf média
 \gvf massmedia
 \smf
-\dt 03/Jun/2017
+\dt 05/Jun/2017
 
 \lx kùnnafonina
 \mm kùn:n:tête
@@ -73205,20 +73213,20 @@ kúrunninle
 \lt (labourer.taureau)
 \dt 16/Aug/2006
 
-\lx laburu
+\lx láburu
 \ps n
 \gf labour
 \gvf
 \smf
-\dt 29/May/2017
+\dt 04/Jun/2017
 
-\lx laburu
+\lx láburu
 \ps v
 \vl vt
 \gf labourer
 \gvf
 \smf
-\dt 31/May/2017
+\dt 04/Jun/2017
 
 \lx lábùrun
 \mm lá:mrph:CAUS
@@ -80936,10 +80944,9 @@ invulnérable aux serpents, aux fauves ...)
 \mm kó:n:affaire
 \ps n
 \gf sujet.de.pitié
-\gvf situation.pitoyable
-\lt (avoir pitié.affaire)
+\gvf situation pitoyable
 \sy màkariko
-\dt 26/Sep/2006
+\dt 04/Jun/2017
 
 \lx màɲumankotɔ
 \mm mà.ɲuman.ko:n:sujet.de.pitié
@@ -82498,21 +82505,21 @@ des engagements
 \xf
 \dt 31/May/2016
 
-\lx milisɛn
+\lx mílisɛn
 \ps n
 \gf milicien
 \gvf
 \smf
-\dt 01/Jun/2017
+\dt 04/Jun/2017
 
-\lx milisi
+\lx mílisi
 \ps n
 \ms 1
 \gf milice
 \ms 2
 \gvf milicien
 \smf
-\dt 01/Jun/2017
+\dt 04/Jun/2017
 
 \lx míliyari
 \ps n
@@ -103783,12 +103790,12 @@ envergure)
 \xf
 \dt 21/Feb/2017
 
-\lx pili
+\lx píli
 \ps n
 \gf pile.électrique
 \gvf
 \smf
-\dt 28/May/2017
+\dt 04/Jun/2017
 
 \lx pílili
 \ps n
@@ -104011,12 +104018,12 @@ envergure)
 \xf mentir
 \dt 16/Aug/2006
 
-\lx porogaramu
+\lx pòrogaramu
 \ps n
 \gf programme
 \gvf
 \smf
-\dt 03/Jun/2017
+\dt 04/Jun/2017
 
 \lx pórokirɛri
 \ps n
@@ -112953,6 +112960,7 @@ donne d'excellentes fibres)
 \dt 16/Aug/2006
 
 \lx síra
+\va nsíra
 \ps n
 \gf tabac
 \lat Nicotiana rustica
@@ -112961,7 +112969,7 @@ donne d'excellentes fibres)
 \xf chiquer
 \xv síra fòron
 \xf priser
-\dt 19/Aug/2006
+\dt 04/Jun/2017
 
 \lx síra
 \ps n
@@ -116782,7 +116790,7 @@ euphémique)
 \dt 11/Nov/2007
 
 \lx súmaya
-\mm súma:vq/adj:lent
+\mm súma:vq:lent
 \mm ya:mrph:DEQU
 \ps n
 \ms 1
@@ -116797,7 +116805,7 @@ euphémique)
 \sm (froid)
 \ms 3
 \gvf ralentissement
-\dt 26/Sep/2006
+\dt 04/Jun/2017
 
 \lx súmaya
 \mm súma:vq:lent
@@ -119030,10 +119038,11 @@ fiançailles
 \vl vt
 \gf marquer
 \smf (d'un signe, d'un repère)
+\gvf indiquer
 \lt ( ? .signe ?)
 \xv à yé  síra tàamasyɛn  à yé
 \xf il lui a indiqué la route
-\dt 05/Feb/2016
+\dt 05/Jun/2017
 
 \lx tàanga
 \ps n
@@ -128513,10 +128522,15 @@ la Justice (kb 12/05 p.4)
 \ms 3
 \vl vi
 \gvf naître
+\ms 4
 \vl vt
 \gvf mettre au monde
 \sm (un garçon, une fille ...)
-\dt 26/Sep/2006
+\ms 5
+\vl vt
+\gvf délivrer
+\gvf accoucher qqn
+\dt 05/Jun/2017
 
 \lx wóloba
 \mm wólo:v:accoucher
@@ -131229,13 +131243,13 @@ bambara)
 \smf (une fleure)
 \dt 17/May/2017
 
-\lx yetinan
-\va yetenan
+\lx yètinan
+\va yètenan
 \ps n
 \gf lieutenant
 \gvf
 \smf
-\dt 01/Jun/2017
+\dt 04/Jun/2017
 
 \lx yɛ́
 \ps intj
