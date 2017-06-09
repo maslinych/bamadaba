@@ -1441,6 +1441,14 @@ Koulikoro)
 \ru Доминикана
 \dt 23/May/2010
 
+\lx Dɔ́
+\ps n.prop
+\gf TOP
+\gvf Do
+\smf (un ancien pays d'où vient la mère de Soundianta Keïta,
+Sogolon Koné)
+\dt 07/Jun/2017
+
 \lx Dɔyila
 \va Doyila
 \ps n.prop
@@ -4038,6 +4046,14 @@ Koulikoro)
 royaumes successeurs de l'Ancien Ghana)
 \xf
 \dt 27/Feb/2017
+
+\lx Mɛ́ɛmà
+\ps n.prop
+\gf TOP
+\gvf Méma
+\smf (zone au nord de Massina, une province importante de l'Ancien
+Ghana)
+\dt 07/Jun/2017
 
 \lx Mɛkisiki
 \ty гос.

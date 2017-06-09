@@ -74,19 +74,19 @@
 \xf baisse le prix ! (au cours d'un marchandage, quand la somme paraît trop élevée)
 \dt 16/Aug/2006
 
-\lx ádamaden
+\lx ádàmaden
 \mm dén:n:enfant
-\va hádamaden
+\va hádàmaden
 \mm dén:n:enfant
-\sy mɔ̀gɔ
-\sy màaninfin
-\lt (Adam.fils)
 \ps n
 \gf humain
-\smf homme (en général, opposé aux animaux, à Dieu)
-\xv ádamaden bɛ́ɛ ká kán
+\gvf homme
+\smf (en général, opposé aux animaux, à Dieu)
+\sy mɔ̀gɔ
+\sy màaninfin
+\xv ádàmaden bɛ́ɛ ká kán
 \xf tous les hommes sont égaux
-\dt 26/Sep/2006
+\dt 06/Jun/2017
 
 \lx ádamadenya
 \mm ádamaden:n:humain
@@ -4565,10 +4565,11 @@ Fleurs spectaculaires
 \dt 15/Feb/2017
 
 \lx báɲuwari
+\va bɛ́ɲuwari
 \ps n
 \gf grande.bassine
 \gvf baquet à teinture
-\dt 02/Apr/2014
+\dt 08/Jun/2017
 
 \lx bàra
 \ps n
@@ -56251,10 +56252,10 @@ prolapsus utérin
 
 \lx kàpitɛni
 \ps n
-\gf capitain
+\gf capitaine
 \gvf
 \smf
-\dt 18/May/2017
+\dt 07/Jun/2017
 
 \lx kàra
 \bw fr : carte ?
@@ -92006,12 +92007,13 @@ graines, sert d'instrument rythmique)
 
 \lx n'ó tɛ́
 \va n'ó ntɛ́
-\va nɔ́ntɛ
+\va nɔ́ntɛ̀
+\va nóntɛ̀
 \smf *xas : ntɛ = tɛ
 \ps conj
 \lt (si.cela.n'est pas)
 \gf sinon
-\dt 13/Jul/2013
+\dt 07/Jun/2017
 
 \lx nòwanburu
 \bw fr : novembre
