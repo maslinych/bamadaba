@@ -2399,6 +2399,14 @@
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Makuruni
+\va Makurunin
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 15/Jun/2017
+
 \lx Maladɔ
 \va Màaládɔ
 \di ful
@@ -2935,6 +2943,13 @@
 \ps n.prop
 \gf NOM.M
 \dt 03/May/2010
+
+\lx Nɛba
+\ps n.prop
+\gf NOM
+\gvf
+\smf
+\dt 15/Jun/2017
 
 \lx Nɛgɛ
 \di b
@@ -4125,6 +4140,13 @@ de l'enfant qui survit à sa mère morte en couches
 \ps n.prop
 \gf NOM.F
 \dt 17/May/2017
+
+\lx Wuye
+\ps n.prop
+\gf NOM
+\gvf
+\smf
+\dt 15/Jun/2017
 
 \lx Ya
 \va Yaa

@@ -654,18 +654,6 @@
 \ps n.prop
 \gf NOM.CL
 
-\lx Fáanɛ
-\va Fánɛ
-\di was
-\di b
-\di m
-\di mny
-\ca nùmu
-\tn bama
-\dt 06/May/2010
-\ps n.prop
-\gf NOM.CL
-
 \lx Fàdiga
 \va Fàdika
 \di b
@@ -689,6 +677,19 @@
 \ca hɔ̀rɔn
 \tn miniɲan
 \dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Fánɛ
+\va Fáne
+\va Fáanɛ
+\di was
+\di b
+\di m
+\di mny
+\ca nùmu
+\tn bama
+\dt 15/Jun/2017
 \ps n.prop
 \gf NOM.CL
 
@@ -1705,8 +1706,8 @@
 \fm Suko
 \cm брачные партнёры
 \pr Manasaren
-\ms Общее происхождение с Kulibali.
-\dt 04/Jun/2014
+\cm Общее происхождение с Kulibali.
+\dt 14/Jun/2017
 \ps n.prop
 \gf NOM.CL
 

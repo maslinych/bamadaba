@@ -691,6 +691,14 @@ Tombouctou)
 \xf
 \dt 06/Feb/2017
 
+\lx Banbugu
+\va Baamugu
+\ps n.prop
+\gf TOP
+\gvf Bambougou
+\smf (village, région de Ségou, sur le bord de Niger à l'est de Ségou)
+\dt 15/Jun/2017
+
 \lx Banbuguwɛrɛ
 \ps n.prop
 \gf TOP
@@ -1322,6 +1330,13 @@ Kirina, lieu de bataille entre Soundiata et Soumangourou)
 \xf
 \dt 23/Oct/2016
 
+\lx Danemariki
+\ps n.prop
+\gf TOP
+\gvf Danemark
+\smf
+\dt 15/Jun/2017
+
 \lx Dàomɛ
 \ty гос.
 \ps n.prop
@@ -1688,6 +1703,20 @@ Koulikoro)
 \xv
 \xf
 \dt 09/Apr/2017
+
+\lx Fanafiyɛkoro
+\ps n.prop
+\gf TOP
+\gvf Fanafiè Koro
+\smf (village, cercle de Kati, région de Koulikoro)
+\dt 15/Jun/2017
+
+\lx Fangaso
+\ps n.prop
+\gf TOP
+\gvf Fangasso
+\smf (village et commune, cercle de Tominian, région de Ségou)
+\dt 15/Jun/2017
 
 \lx Fàrafinna
 \mm fàra:n:écorce
@@ -2441,6 +2470,13 @@ de Koulikouro)
 \xf
 \dt 04/Jun/2016
 
+\lx Jaramana
+\ps n.prop
+\gf TOP
+\gvf Diaramana
+\smf (village et commune, cercle de Bla, région de Ségou)
+\dt 15/Jun/2017
+
 \lx Jawaribugu
 \ps n.prop
 \gf TOP
@@ -2607,6 +2643,13 @@ région de Koulikoro)
 \smf (village et commune, cercle et région de Ségou)
 \dt 25/Mar/2017
 
+\lx Joyila
+\ps n.prop
+\gf TOP
+\gvf Dioïla
+\smf (ville et cercle, région de Koulikoro)
+\dt 15/Jun/2017
+
 \lx Jɔ̀maaji
 \ps n.prop
 \gf TOP
@@ -2655,6 +2698,13 @@ région de Mopti)
 \gf TOP
 \gvf
 \dt 07/Nov/2014
+
+\lx Kababugu
+\ps n.prop
+\gf TOP
+\gvf Kababougou
+\smf (village de potières, cercle de Kati, région de Koulikoro)
+\dt 15/Jun/2017
 
 \lx Kabara
 \ps n.prop
@@ -3203,6 +3253,20 @@ Kéniéba)
 \xf
 \dt 01/Feb/2017
 
+\lx Kogoni
+\ps n.prop
+\gf TOP
+\gvf Kogoni
+\smf (station agricole, région de Ségou, vers le nord de Banamba)
+\dt 15/Jun/2017
+
+\lx Kokiri
+\ps n.prop
+\gf TOP
+\gvf Kokiri
+\smf (village, au nord de Ségou)
+\dt 15/Jun/2017
+
 \lx Kolama
 \ps n.prop
 \gf TOP
@@ -3239,6 +3303,13 @@ Kéniéba)
 \xv
 \xf
 \dt 04/Jun/2016
+
+\lx Kolonina
+\ps n.prop
+\gf TOP
+\gvf Kolonina
+\smf (village, région de Sikasso)
+\dt 15/Jun/2017
 
 \lx Kòngo
 \ty гос.
@@ -4087,6 +4158,13 @@ Ghana)
 Ségou)
 \dt 01/May/2017
 
+\lx Miniyanbalandugu
+\ps n.prop
+\gf TOP
+\gvf Minianbalandougou
+\smf (village, préfecture de Kérouané)
+\dt 15/Jun/2017
+
 \lx Misabugu
 \ps n.prop
 \gf TOP
@@ -4794,6 +4872,13 @@ Koulikoro)
 \gvf Pays de Galles
 \dt 05/Feb/2016
 
+\lx Pɛkɛna
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village)
+\dt 15/Jun/2017
+
 \lx Pɛ̀linŋana
 \ty кв.
 \ps n.prop
@@ -4984,6 +5069,13 @@ d'or)
 \ru Самако
 \cm (вблизи Бамако)
 \dt 23/May/2010
+
+\lx Samaɲana
+\ps n.prop
+\gf TOP
+\gvf Samaniana
+\smf (village, région de Koulikoro)
+\dt 15/Jun/2017
 
 \lx Samiti
 \ps n.prop
@@ -5447,6 +5539,13 @@ de Mopti)
 \smf (un village à la rive gauche du Niger, en face de Ségou)
 \dt 29/Mar/2017
 
+\lx Sokolonbugu
+\ps n.prop
+\gf TOP
+\gvf Sokolombougou
+\smf (village, cercle de Kati, région de Koulikoro)
+\dt 15/Jun/2017
+
 \lx Sokɔrɔji
 \ps n.prop
 \gf TOP
@@ -5868,6 +5967,13 @@ frontière malienne)
 \smf (ville et cercle dans la région de Ségou)
 \dt 23/May/2017
 
+\lx Tona
+\ps n.prop
+\gf TOP
+\gvf Touna
+\smf (village et commune, cercle de Bla, région de Ségou)
+\dt 15/Jun/2017
+
 \lx Tori
 \ps n.prop
 \gf TOP
@@ -5950,6 +6056,20 @@ invahisseurs marocains et les Songhaï en 1591)
 \gvf Tripolo
 \ru Триполи
 \dt 23/May/2010
+
+\lx Tukɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Toukoro
+\smf (village, région de Ségou, au bord du Niger à l'ouest de Ségou)
+\dt 15/Jun/2017
+
+\lx Tumunba
+\ps n.prop
+\gf TOP
+\gvf Toumoumba
+\smf (village, commune de Badia, cercle de Kita, région de Kayes)
+\dt 15/Jun/2017
 
 \lx Tumutu
 \ps n.prop
@@ -6213,6 +6333,13 @@ cercle de Kati)
 \xv
 \xf
 \dt 31/Jan/2017
+
+\lx Yangaso
+\ps n.prop
+\gf TOP
+\gvf Yangasso
+\smf (ville et commune, cercle de Bla, région de Ségou)
+\dt 15/Jun/2017
 
 \lx Yaunde
 \ty г.

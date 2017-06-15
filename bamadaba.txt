@@ -3185,10 +3185,10 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \mm kàlan:n:lecture
 \mm dén:n:enfant
 \ps n
-\gf adulte.alphabétisé
-\gvf adulte.qui.suit.les.cours.d'alphabétisation
+\gf adulte.alphabétisé
+\gvf adulte qui suit les cours d'alphabétisation
 \lt (cours pour adultes.membre)
-\dt 14/Nov/2012
+\dt 14/Jun/2017
 
 \lx bálikukalanso
 \mm báliku.kalan:n:alphabétisation.des.adultes
@@ -3424,21 +3424,21 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \dt 04/May/2013
 
 \lx bámanakɔɔri
-\mm bámana:n:bambara.(ethnie)
+\mm bámana:n:bambara
 \mm kɔ́ɔri:n:coton
 \ps n
 \ms 1
 \gf cotonnier.créole
-\gvf plante.Gossypium.barbadense
+\gvf plante Gossypium barbadense
 \smf coton à fibre extra-longue
 \sd malv
 \sy kɔ́ɔriba
 \ms 2
-\gvf plante.Gossypium.hirsutum
+\gvf plante Gossypium hirsutum
 \sd (malv)
 \sm coton cultivé traditionnellement
 \sy kɔ́ɔrinin
-\dt 03/Apr/2016
+\dt 14/Jun/2017
 
 \lx bámanana
 \mm bámana:n:bambara.(ethnie)
@@ -4277,9 +4277,11 @@ Fleurs spectaculaires
 \dt 26/Sep/2006
 
 \lx bángeso
+\mm bánge:n:accouchement
+\mm só:n:maison
 \ps n
 \gf utérus
-\dt 19/Feb/2013
+\dt 14/Jun/2017
 
 \lx bàngɛyɛ
 \va bàngɔyɔ
@@ -6308,8 +6310,8 @@ rhume, toux
 
 \lx béretuduma
 \ps n
-\gf tresses.enchêvetrés
-\dt 30/Nov/2012
+\gf tresses.enchêvetrées
+\dt 14/Jun/2017
 
 \lx bèse
 \ps n
@@ -9832,7 +9834,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm dí:v:donner
 \mm ɲɔ́gɔn:prn:RECP
 \mm mà:pp:à
-\va bólo.di.ɲwan.ma
+\va bólodiɲwanma
 \mm bólo:n:bras
 \mm dí:v:donner
 \mm ɲwán:prn:RECP
@@ -9844,7 +9846,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv bólidiɲɔgɔnma yé fàantanya kɛ̀lɛlan yé
 \xf la coopération permet de combattre la pauvreté (kb 4/05 p.7)
 \rem l 89, du
-\dt 24/Jun/2013
+\dt 15/Jun/2017
 
 \lx bólodòn
 \mm bólo:n:bras
@@ -13323,13 +13325,13 @@ centrale est de couleur sombre
 \mm cɛ̀:n:mâle
 \ph [blencɛ]
 \ps n
-\gf gardénia.mâle
+\gf gardénia.mâle
 \smf petit arbre ---> 5 m
 \lat Gardenia ternifolia
 \sd rubi
 \smf fruits non comestibles, restant sur les rameaux.
 \sy nbúrencɛ
-\dt 03/Apr/2016
+\dt 14/Jun/2017
 
 \lx búlenmuso
 \mm búlen:n:gardénia
@@ -15981,6 +15983,15 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \gf orchite
 \lt (homme.enflure)
 
+\lx cɛ́sira
+\mm cɛ́:n:milieu
+\mm síra:n:chemin
+\ps n
+\gf relation
+\gvf liaison
+\smf
+\dt 15/Jun/2017
+
 \lx cɛ́siri
 \mm cɛ́:n:milieu
 \mm sìri:v:lier
@@ -17854,6 +17865,16 @@ saillie)
 \gf pauvre
 \sm qui n'est pas considéré [fig]
 \dt 05/Apr/2015
+
+\lx dábɛ̀n
+\mm dá:n:bouche
+\ms bɛ̀n:v:se.rencontrer
+\ps v
+\vl vt
+\gf régler
+\gvf mettre en ordre
+\smf
+\dt 15/Jun/2017
 
 \lx dábɛrɛbɛrɛma
 \ve (-f,-bk)
@@ -27168,6 +27189,14 @@ l'occasion d'une naissance)
 \xv dɔ́gɔsiri bònyana  à mà
 \xf le fagot est trop lourd pour elle
 \dt 16/Aug/2006
+
+\lx dɔgɔsɔ
+\ps n
+\gf dogon
+\gvf
+\smf (nom de la langue, dans les documents officiels; plus rarement,
+le nom du groupe ethnique)
+\dt 15/Jun/2017
 
 \lx dɔ́gɔton
 \mm dɔ́gɔ:n:fagot
@@ -63530,6 +63559,19 @@ champs)
 \gvf muscles.dorsaux
 \dt 16/Aug/2006
 
+\lx kɔ́k
+\va kɔ́ki
+\ps adv
+\ms 1
+\gf très.sec
+\gvf très dur
+\gvf très rigide
+\ms 2
+\gvf très serré
+\gvf très sérieux
+\smf
+\dt 15/Jun/2017
+
 \lx kɔ́kan
 \mm kɔ́:n:dos
 \mm kán:n:cou
@@ -74571,14 +74613,14 @@ kúrunninle
 \ms 1
 \gf rendre.propre
 \lt (préf.blanchir)
-\xv ń'í yé  ò yɔ́rɔ bɛ́ɛ lájɛya, sòsoko bɛ́ nɔ̀<yá
+\xv n'í yé  ò yɔ́rɔ bɛ́ɛ lájɛya, sòsoko bɛ́ nɔ̀gɔya
 \xf si tu nettoies tous ces endroits, l'affaire des moustiques ira mieux
 \ms 2
 \gvf justifier
 \ms 3
 \gvf rendre.clair
 \sm (propos ...)
-\dt 13/Jan/2015
+\dt 15/Jun/2017
 
 \lx lájìgin
 \mm lá:mrph:CAUS
@@ -78551,13 +78593,13 @@ jour, c'est une personne dépendante qu'il voit
 \dt 26/Sep/2006
 
 \lx mádarasa
-\ve (dú)
 \va mándarasa
 \va mádarisa
+\va mɛ́dɛrɛsa
 \ps n
 \gf médersa
 \rem l 89
-\dt 29/Mar/2017
+\dt 15/Jun/2017
 
 \lx màdèenkun
 \mm mà:mrph:SUPER
@@ -78808,6 +78850,14 @@ jour, c'est une personne dépendante qu'il voit
 \xv í bólo màga  fɛ́n ná
 \xf toucher qqch de la main
 \dt 03/Apr/2016
+
+\lx màga
+\va màa
+\ps n
+\gf attouchement
+\gvf atteinte
+\smf
+\dt 15/Jun/2017
 
 \lx màgan
 \va màga
@@ -87252,6 +87302,8 @@ sorcières et leur élimination)
 
 \lx nànsara
 \va nàsara
+\va nànzara
+\va nàzara
 \bw ar: nasara = nazaréen
 \ps n
 \ms 1
@@ -87261,7 +87313,7 @@ sorcières et leur élimination)
 \ms 2
 \gvf chrétien
 \fq rare
-\dt 23/Feb/2014
+\dt 15/Jun/2017
 
 \lx nànsaradɔn
 \mm nànsara:n:européen
@@ -87273,12 +87325,15 @@ sorcières et leur élimination)
 \lx nànsarala
 \mm nànsara:n:européen
 \mm la:mrph:LOC
+\va nànzarala
+\mm nànzara:n:européen
+\mm la:mrph:LOC
 \ps n
 \lt européen-endroit
 \gf pays.des.blancs
 \xv à kɛ́len kɔ́ kà fàrafinna ní nànsarala bɛ́ɛ kòlonkolon...
 \xf après avoir parcouru toute l'Afrique et l' Occident ... (kb 3/06 p.2)
-\dt 11/Nov/2007
+\dt 15/Jun/2017
 
 \lx nànsaraya
 \mm nànsara:n:européen
@@ -93163,6 +93218,13 @@ graines, sert d'instrument rythmique)
 \ms 3
 \gvf s'affaler
 \dt 05/Apr/2016
+
+\lx npáki
+\ps adv
+\gf paf
+\gvf
+\smf (imitation d'un coup)
+\dt 15/Jun/2017
 
 \lx npálako
 \ve (f)
@@ -102864,9 +102926,13 @@ envergure)
 \lx pá
 \va pán
 \ps adv
+\ms 1
 \gf complètement
-\sm dévoré complètement et rapidement
-\dt 19/Jan/2015
+\sm (dévoré complètement et rapidement)
+\ms 2
+\gvf paf
+\sm (son de coup ou de craquement)
+\dt 15/Jun/2017
 
 \lx pá
 \va pán
@@ -105549,16 +105615,16 @@ épuisés
 \dt 26/Sep/2006
 
 \lx sáha
+\ps v
+\gf se.reposer
+
+\lx sáhà
 \ve (bmk)
 \smf sihha = santé
 \ps intj
 \gf merci
 \smf (réponse à un souhait de bienvenue)
-\dt 19/Aug/2006
-
-\lx sáha
-\ps v
-\gf se.reposer
+\dt 15/Jun/2017
 
 \lx sáharakungo
 \mm Sáhara:n.prop:TOP
@@ -112164,6 +112230,13 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \lt (race.faire disparaître)
 \dt 12/Mar/2014
 
+\lx silo
+\ps n
+\gf silo
+\gvf
+\smf
+\dt 15/Jun/2017
+
 \lx sìma
 \va sùmɛ
 \ps n
@@ -112949,7 +113022,7 @@ trompe)
 en fer donnent un mucilage recherché pour les sauces, la
 pulpe des fruits est riche en vitamines B 1 et C, l'écorce
 donne d'excellentes fibres)
-\dt 05/Apr/2016
+\dt 15/Jun/2017
 
 \lx sìra
 \mm sì:v:passer.la.nuit
@@ -114362,9 +114435,9 @@ donne d'excellentes fibres)
 \va sóyi
 \ve (f)
 \ps n
-\gf pioche.à.lame.étroit
+\gf pioche.à.lame.étroite
 \smf (pour creuser les puits, planter les grains)
-\dt 15/Mar/2017
+\dt 14/Jun/2017
 
 \lx sòlibaa
 \mm sòli:v:être.matinal
@@ -114610,6 +114683,13 @@ donne d'excellentes fibres)
 \xv à bìlen  jí rɔ́, à sónina  sìyɛn sàba
 \xf tombé à l'eau, il est reparu trois fois à la surface
 \dt 26/Sep/2006
+
+\lx soninke
+\ps n
+\gf soninké
+\gvf
+\smf (groupe ethnique, membre de ce groupe, et la langue)
+\dt 15/Jun/2017
 
 \lx sònkala
 \mm kàla:n:tige
@@ -122730,18 +122810,6 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xf avant que tu ne t'habitues au froid, c'est pénible (avant que le froid ne te devienne supportable ...)
 \dt 05/Apr/2016
 
-\lx tímikàla
-\mm tími:vq:savoureux
-\mm kàla:n:tige
-\ps n
-\gf canne.à.sucre
-\lat Saccharum officinarum
-\sd gram
-\lt (sucré.tige)
-\sy mánkala
-\sy háwusakala
-\dt 28/Feb/2017
-
 \lx tímiman
 \mm tími:vq:savoureux
 \mm man:mrph:ADJ
@@ -122843,6 +122911,21 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf manquer.d'assiduité
 \lt (application.être mauvaise)
 \dt 16/Aug/2006
+
+\lx tíminkàla
+\mm tími:vq:savoureux
+\mm kàla:n:tige
+\va tímikàla
+\mm tími:vq:savoureux
+\mm kàla:n:tige
+\ps n
+\gf canne.à.sucre
+\lat Saccharum officinarum
+\sd gram
+\lt (sucré.tige)
+\sy mánkala
+\sy háwusakala
+\dt 15/Jun/2017
 
 \lx tìmitimi
 \ve (f)
@@ -127220,9 +127303,12 @@ planchette)
 \lx wálebaa
 \mm wále:n:acte
 \mm baa:mrph:AG.OCC
+\va wálebaga
+\mm wále:n:acte
+\mm baga:mrph:AG.OCC
 \ps n
 \gf auteur
-\dt 23/Jun/2013
+\dt 15/Jun/2017
 
 \lx wáledɛmɛnan
 \mm wále:n:acte
@@ -132397,7 +132483,7 @@ l'intention)
 \ps v
 \vl vi
 \ms 1
-\gf manifester.une.lente.élégance
+\gf manifester.une.lente.élégance
 \sm marcher ou danser avec une lente élégance
 \smf (se dit des fortes femmes grasses)
 \ms 2
@@ -132405,7 +132491,7 @@ l'intention)
 \gvf être très gras
 \sm en parlant du corps féminin dont les formes sont amples et
 généreuses, avec bourrelets
-\dt 05/Apr/2016
+\dt 14/Jun/2017
 
 \lx yóron
 \va ɲóron
