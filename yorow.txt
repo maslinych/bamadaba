@@ -454,6 +454,13 @@ Salam, Cercle de Tombouctou)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
+\lx Badogo
+\ps n.prop
+\gf TOP
+\gvf Badogo
+\smf (village, cerce de Yanfolila, région de Sikasso)
+\dt 15/Jun/2017
+
 \lx Bafilabɛn
 \va Bafulabe
 \et букв. "сплетение двух рек", т.е. Бакой и Бафин
@@ -1464,6 +1471,14 @@ Koulikoro)
 Sogolon Koné)
 \dt 07/Jun/2017
 
+\lx Dɔgɔfiri
+\ps n.prop
+\gf TOP
+\gvf Dogofiri
+\gvf Dogofry
+\smf (village et commune, cercle de Niono, région de Ségou)
+\dt 15/Jun/2017
+
 \lx Dɔyila
 \va Doyila
 \ps n.prop
@@ -1650,6 +1665,14 @@ Tadmekka)
 \gvf Fabougou
 \smf (village, région de Ségou)
 \dt 09/Apr/2017
+
+\lx Fabula
+\ps n.prop
+\gf TOP
+\gvf Faboula
+\smf (village, cerce de Yanfolila, région de Sikasso; un gisement
+d'or)
+\dt 15/Jun/2017
 
 \lx Fagibini
 \ty оз.
@@ -2665,6 +2688,13 @@ région de Koulikoro)
 \gvf Dionkolonin
 \smf (village près de Mourdiah)
 \dt 26/Feb/2017
+
+\lx Julafondo
+\ps n.prop
+\gf TOP
+\gvf Dioulafondo
+\smf (village, commune de Siby, cercle de Kati, région de Koulikoro)
+\dt 15/Jun/2017
 
 \lx Julafundo
 \ps n.prop
@@ -3776,13 +3806,14 @@ Tombouctou)
 \dt 24/Oct/2016
 
 \lx Liberewili
+\va Liberewuli
 \ps n.prop
 \gf TOP
 \gvf Libreville
 \smf
 \xv
 \xf
-\dt 08/Feb/2017
+\dt 16/Jun/2017
 
 \lx Líbɛriya
 \va Lábiriya
@@ -3940,6 +3971,13 @@ Tombouctou)
 \gf TOP
 \gvf Mali
 \dt 26/Mar/2014
+
+\lx Malikila
+\ps n.prop
+\gf TOP
+\gvf Malikila
+\smf (village, cerce de Yanfolila, région de Sikasso)
+\dt 15/Jun/2017
 
 \lx Mamun
 \ty г.
@@ -5554,6 +5592,13 @@ de Mopti)
 \xv
 \xf
 \dt 04/Jun/2016
+
+\lx Solona
+\ps n.prop
+\gf TOP
+\gvf Solona
+\smf (village, cerce de Yanfolila, région de Sikasso)
+\dt 15/Jun/2017
 
 \lx Solsiburi
 \ty г.

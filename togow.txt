@@ -178,6 +178,14 @@
 \gf NOM.M
 \dt 02/May/2010
 
+\lx Amadu
+\va Ahamadu
+\ps n.prop
+\gf NOM.M
+\gvf Ahmad
+\smf
+\dt 16/Jun/2017
+
 \lx Ámara
 \di b
 \ps n.prop
@@ -1571,6 +1579,13 @@
 \xf
 \dt 01/Jun/2016
 
+\lx Haji
+\ps n.prop
+\gf NOM.M
+\gvf Hadji
+\smf
+\dt 16/Jun/2017
+
 \lx Halifa
 \di
 \ps n.prop
@@ -1675,13 +1690,14 @@
 \dt 21/Dec/2014
 
 \lx Ìsiaka
+\va Ìsaka
 \va Siaka
 \va Siyaka
 \va Syaka
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 09/Apr/2017
+\dt 15/Jun/2017
 
 \lx Jàaká
 \di m
@@ -3417,6 +3433,13 @@
 \xf
 \dt 06/Feb/2017
 
+\lx Salo
+\ps n.prop
+\gf TOP
+\gvf Salo
+\smf (village, au nord de Kati, région de Koulikoro)
+\dt 15/Jun/2017
+
 \lx Sama
 \di b
 \ps n.prop
@@ -3814,13 +3837,14 @@
 
 \lx Sumayila
 \va Isimayɛli
+\va Isumayila
 \ps n.prop
 \gf NOM.M
 \gvf Soumaïla
 \smf
 \xv
 \xf
-\dt 09/Oct/2016
+\dt 15/Jun/2017
 
 \lx Súnba
 \di

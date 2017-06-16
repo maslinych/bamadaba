@@ -709,6 +709,13 @@ de la guerre du Mali)
 \xf
 \dt 21/Feb/2017
 
+\lx Hitilɛri
+\ps n.prop
+\gf NOM.ETRG
+\gvf Hitler
+\smf
+\dt 16/Jun/2017
+
 \lx Hufuyɛti Buwaɲi
 \va Hufuyeti Buwaɲi
 \va Hufuwɛti Buwaɲi
@@ -1249,10 +1256,27 @@ céréalière
 \xf
 \dt 02/Feb/2017
 
+\lx ODIPAC
+\ps n.prop
+\gf ABR
+\gvf Office de Développement Intégré des Productions
+Arachidières et Céréalières
+\smf
+\dt 16/Jun/2017
+
 \lx Ofisidinizɛri
 \ps n.prop
 \gf Office.du.Niger
 \dt 24/Apr/2013
+
+\lx OHVN
+\va Ohasiwɛni
+\va Ohasiweyɛni
+\ps n.prop
+\gf ABR
+\gvf Office de developpement de la Haute Vallee du Niger
+\smf
+\dt 16/Jun/2017
 
 \lx Omɛsi
 \ps n
@@ -1341,11 +1365,12 @@ céréalière
 \va Ɔtuwale
 \ps n
 \gf Opération.Haute.Vallée.du.Niger
+\gvf Office de developpement de la Haute Vallee du Niger
 \gvf OHVH
 \smf
 \xv
 \xf
-\dt 21/Feb/2017
+\dt 16/Jun/2017
 
 \lx Parena
 \ps n
@@ -1784,6 +1809,13 @@ Gbagbo)
 \xv
 \xf
 \dt 31/May/2017
+
+\lx zafu
+\ps n.prop
+\gf ABR
+\gvf Zone d’Alphabétisation Fonctionnelle
+\smf
+\dt 16/Jun/2017
 
 \lx Zakɔbu
 \ps n.prop

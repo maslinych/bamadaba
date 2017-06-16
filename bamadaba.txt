@@ -17866,16 +17866,6 @@ saillie)
 \sm qui n'est pas considéré [fig]
 \dt 05/Apr/2015
 
-\lx dábɛ̀n
-\mm dá:n:bouche
-\ms bɛ̀n:v:se.rencontrer
-\ps v
-\vl vt
-\gf régler
-\gvf mettre en ordre
-\smf
-\dt 15/Jun/2017
-
 \lx dábɛrɛbɛrɛma
 \ve (-f,-bk)
 \ps v
@@ -19733,6 +19723,21 @@ saillie)
 \gf auprès
 \lt (bord.au)
 \dt 16/Aug/2006
+
+\lx dálabɛ̀n
+\mm dá:n:bouche
+\mm lá:mrph:CAUS
+\ms bɛ̀n:v:se.rencontrer
+\va dábɛ̀n
+\mm dá:n:bouche
+\ms bɛ̀n:v:se.rencontrer
+\ps v
+\vl vt
+\gf régler
+\gvf régulariser
+\gvf mettre en ordre
+\smf
+\dt 16/Jun/2017
 
 \lx dálabi
 \mm dá:n:bouche
@@ -28589,6 +28594,17 @@ désorienter')
 \gf roi
 \smf (dans les contes)
 \lt (pays.roi)
+
+\lx dùgumasara
+\mm dùgu:n:terre
+\mm mà:pp:à
+\mm sàra:n:paie
+\ps n
+\gf défaite
+\smf
+\xv kà dùgumasara cɛ̀ / sɔ̀rɔ
+\xe être vaincu
+\dt 16/Jun/2017
 
 \lx dùgumɛnɛ
 \mm dùgu:n:terre
@@ -54912,16 +54928,22 @@ prolapsus utérin
 \gf dialecte
 \lt (langue.bifurcation)
 
-\lx kánbɔ́
+\lx kánbɔ
 \mm kán:n:cou
 \mm bɔ́:v:sortir
 \ps v
+\ms 1
 \vl vr
-\gf parler
+\gf déclarer
+\ms 2
+\vl vr
 \gvf s'adresser
-\sm à -- ...mà...yé
-\lt (voix.sortir)
-\dt 26/Sep/2006
+\sm (à -- mà, yé)
+\ms 3
+\vl vr
+\gvf se présenter
+\sm (à un poste -- nɔ̀fɛ̀)
+\dt 16/Jun/2017
 
 \lx káncɛ̀
 \mm kán:n:cou
@@ -63912,9 +63934,15 @@ champs)
 
 \lx kɔ́lɔ
 \ps n
-\gf noyau.de.karité
+\ms 1
+\gf coque.de.karité
 \smf (dont on extrait l'huile, dite 'beurre de karité'
-\dt 16/Aug/2006
+\ms 2
+\gvf coquille d'arachide
+\ms 3
+\gvf comprimé de drogue
+\smf (pop.)
+\dt 16/Jun/2017
 
 \lx kɔ́lɔ
 \ps n
@@ -64221,10 +64249,18 @@ champs)
 \ps n
 \ms 1
 \gf successeur
-\lt (derrière.personne)
+\gvf descendant
+\gvf héritier
 \ms 2
-\gvf personne.laissée.derrière
-\dt 16/Aug/2006
+\gvf le dernier
+\gvf le plus jeune
+\ms 3
+\gvf dépendant
+\gvf sujet
+\ms 4
+\gvf parents
+\gvf famille
+\dt 16/Jun/2017
 
 \lx kɔ̀mɔjan
 \mm kɔ̀mɔ:n:société.initiatique
@@ -65403,10 +65439,15 @@ ou une proposition)
 \ps n
 \ms 1
 \gf entrailles
-\lt (intérieur.choses)
+\gvf abats
 \ms 2
 \gvf pensées
-\dt 16/Aug/2006
+\ms 3
+\gvf nourriture
+\ms 4
+\gvf contenu
+\smf (ce qui est à l'intérieur)
+\dt 16/Jun/2017
 
 \lx kɔ́nɔnafili
 \mm kɔ́nɔ:n:ventre
@@ -71572,13 +71613,13 @@ Sahel)
 \lx kùntaala
 \mm kùn:n:tête
 \mm táa:v:aller
-\mm la:mrph:AG.PRM
+\mm la:mrph:LOC
 \ps n
 \gf durée
 \gvf longueur
 \xv à sàra  bàna kùntaala súrun fɛ̀
 \xf il est décédé après une courte maladie
-\dt 23/Feb/2017
+\dt 15/Jun/2017
 
 \lx kùntaalajan
 \mm kùntaala:n:durée
@@ -72057,10 +72098,24 @@ Sahel)
 
 \lx kùruba
 \ps v
+\ms 1
 \vl vt
 \gf remuer
 \gvf mélanger
-\dt 26/Sep/2006
+\gvf tourner
+\smf (la bouillie)
+\ms 2
+\vl vt
+\gvf préparer à la va-vite
+\smf (repas)
+\gvf labourer à la va-vite
+\ms 3
+\vl vt
+\gvf parcourir
+\ms 4
+\gvf s'ébattre dans
+\smf (l'eau)
+\dt 16/Jun/2017
 
 \lx kùruba
 \mm kùru:n:cuiller
@@ -77790,6 +77845,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf jeu de petits chevaux
 \dt 27/Nov/2014
 
+\lx ligi
+\ps n
+\gf ligue
+\gvf
+\smf
+\dt 16/Jun/2017
+
 \lx lílɔntamɛ
 \va lílɔntami
 \ps n
@@ -79097,6 +79159,8 @@ jour, c'est une personne dépendante qu'il voit
 \xf j'en ai besoin
 \xv ní  à màgo jɔ̀ra  fɛ́n mín ná...
 \xf s'il a un besoin pressant de qqch ...
+\xv kà mɔ̀gɔ màgo tó
+\xe épargner qqn.
 \ms 2
 \gvf occupation
 \gvf affaires
@@ -79110,7 +79174,7 @@ jour, c'est une personne dépendante qu'il voit
 \xf servir qqn, lui être utile
 \xv màa màgo sà
 \xf nuire aux intérêts de qqn, le desservir
-\dt 03/Apr/2016
+\dt 15/Jun/2017
 
 \lx màgoɲɛfɛn
 \mm màgo:n:besoin
@@ -86330,6 +86394,15 @@ pour les jardins)
 \gf quatrième
 \lt (quatre.énième)
 \dt 08/Feb/2016
+
+\lx náaninin
+\mm náani:num:quatre
+\mm nin:mrph:DIM
+\ps n
+\gf quadruplé
+\gvf un des quadruplés
+\smf
+\dt 16/Jun/2017
 
 \lx nàansanaansa
 \ps n
@@ -105616,7 +105689,15 @@ épuisés
 
 \lx sáha
 \ps v
+\usf Islam
+\ms 1
+\vl vi
 \gf se.reposer
+\ms 2
+\vl vi
+\gvf devenir correct
+\gvf devenir convenable
+\dt 16/Jun/2017
 
 \lx sáhà
 \ve (bmk)
@@ -106567,13 +106648,46 @@ épuisés
 \mm sánga:v:comparer
 \mm ɲɔ́gɔn:prn:RECP
 \mm ma:mrph:COM
-\ps adj
+\ps n
+\ms 1
 \gf égal
 \gvf comparable
-\lt (émule.suf adj)
 \xv sù ní  ɲɛ́nama tɛ́  sángaɲɔgɔnma yé
 \xf un mort et un vivant ne sont pas comparables
-\dt 26/Sep/2006
+\ms 2
+\gvf concurrent
+\gvf rival
+\dt 16/Jun/2017
+
+\lx sángaɲɔgɔnma
+\mm sánga:v:comparer
+\mm ɲɔ́gɔn:prn:RECP
+\mm mà:pp:à
+\ps n
+\gf émulation
+\gvf concurrence
+\gvf rivalité
+\smf
+\dt 16/Jun/2017
+
+\lx sángaɲɔgɔnmali
+\mm sánga:v:comparer
+\mm ɲɔ́gɔn:prn:RECP
+\mm mà:pp:à
+\mm li:mrph:NMLZ
+\vl sángaɲɔgɔnmani
+\mm sánga:v:comparer
+\mm ɲɔ́gɔn:prn:RECP
+\mm mà:pp:à
+\mm ni:mrph:NMLZ
+\ps n
+\ms 1
+\gf rivalité
+\gvf compétition
+\ms 2
+\gvf comparaison
+\smf
+\dt 16/Jun/2017
 
 \lx sàngara
 \va sànkaran
@@ -109308,7 +109422,7 @@ paniers, sègi)
 \xv háli ní 'póroze' nìn b'án ká làada sɔ̀sɔ, gófɛrɛnaman b'ó sènkɔ̀rɔ̀màdon
 \xf même si le projet va contre nos coutumes (excision), le
 gouvernement le soutient (kb 5/06 p.7)
-\dt 06/Apr/2016
+\dt 16/Jun/2017
 
 \lx sènkuru
 \mm sèn:n:jambe
@@ -112230,12 +112344,12 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \lt (race.faire disparaître)
 \dt 12/Mar/2014
 
-\lx silo
+\lx sílo
 \ps n
 \gf silo
 \gvf
 \smf
-\dt 15/Jun/2017
+\dt 16/Jun/2017
 
 \lx sìma
 \va sùmɛ
@@ -119137,6 +119251,15 @@ fiançailles
 \gf bain.de.teinture
 \sm (des peaux tannées)
 \dt 16/Aug/2006
+
+\lx táaɲɛ
+\mm táa:v:aller
+\mm ɲɛ́:pp:devant
+\ps n
+\gf progrès
+\gvf avancement
+\smf
+\dt 16/Jun/2017
 
 \lx tàara
 \va tàra
