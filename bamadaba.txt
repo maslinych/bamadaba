@@ -4623,6 +4623,21 @@ Fleurs spectaculaires
 \xf viens chez moi
 \dt 19/Aug/2006
 
+\lx bárabɔ
+\mm bára:n:dancing
+\mm bɔ́:v:sortir
+\ps v
+\ms 1
+\vl vt
+\gf flatter
+\gvf dire du bien à propos de
+\smf (pour amadouer)
+\ms 2
+\vl vt
+\gvf promouvoir
+\cm Kalilou Téra
+\dt 17/Jun/2017
+
 \lx báradaa
 \va bárada
 \ps n
@@ -13303,14 +13318,6 @@ centrale est de couleur sombre
 \smf (difficilement en raison du poids)
 \dt 16/Aug/2006
 
-\lx búlen
-\va blén
-\va búren
-\va nbúren
-\ps n
-\gf gardénia
-\dt 03/Apr/2016
-
 \lx búlencɛ
 \mm búlen:n:gardénia
 \mm cɛ̀:n:mâle
@@ -14423,9 +14430,9 @@ médicinales
 \va cápu
 \va cáp
 \ps n
-\gf bière de mil
+\gf bière.de.mil
 \gvf
-\dt 04/Nov/2015
+\dt 16/Jun/2017
 
 \lx cápùrucá
 \ps n
@@ -19730,7 +19737,7 @@ saillie)
 \ms bɛ̀n:v:se.rencontrer
 \va dábɛ̀n
 \mm dá:n:bouche
-\ms bɛ̀n:v:se.rencontrer
+\mm bɛ̀n:v:se.rencontrer
 \ps v
 \vl vt
 \gf régler
@@ -27023,6 +27030,16 @@ l'occasion d'une naissance)
 \lt (un peu.un peu.petit)
 \dt 25/Jun/2013
 
+\lx dɔ́gɔdɔgɔninfeerela
+\mm dɔ́gɔdɔgɔnin:adv.p:doucement
+\mm fèere:v:vendre
+\mm la:mrph:AG.PRM
+\ps n
+\gf vendeur.en.détail
+\gvf
+\smf
+\dt 16/Jun/2017
+
 \lx dɔ́gɔdugu
 \mm dɔ́gɔ:n:marché
 \mm dùgu:n:terre
@@ -32277,12 +32294,12 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \ps v
 \vl vt
 \gf bien.préciser
-\gvf faire.comprendre.à
+\gvf faire comprendre à
 \gvf distinguer
 \lt (distinction.suf caus)
 \xv né bɛ́ nà  í fáranfasiya
 \xf je vais bien te l'indiquer
-\dt 26/Sep/2006
+\dt 17/Jun/2017
 
 \lx fàrankan
 \mm fàra:v:ajouter
@@ -44912,8 +44929,8 @@ doigts par des fileuses du coton)
 
 \lx hírii
 \ps adv
-\gf attaque.éclaire
-\dt 19/Jan/2015
+\gf attaque.éclair
+\dt 16/Jun/2017
 
 \lx híye
 \ps intj
@@ -45904,7 +45921,7 @@ qqch ...)
 \smf
 \xv
 \xf
-\dt 02/Jun/2016
+\dt 16/Jun/2017
 
 \lx jàkumajuru
 \mm jàkuma:n:chat
@@ -46430,7 +46447,7 @@ qqch ...)
 \mm tɔ́n:n:société
 \ps n
 \gf association
-\dt 24/Jun/2013
+\dt 16/Jun/2017
 
 \lx jàmu
 \ps n
@@ -50837,6 +50854,13 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \gvf captif
 \dt 02/May/2015
 
+\lx jɔ̀n-kó-Ála
+\ps intj
+\gf pardon
+\gvf c'est de ma faute
+\smf
+\dt 17/Jun/2017
+
 \lx jɔ̀nkɔ̀mí
 \va jànkamu
 \ve (f)
@@ -51331,10 +51355,20 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \dt 26/Sep/2006
 
 \lx júgunin
+\mm júgu:n:ennemi
+\mm nin:mrph:DIM
+\va njúgunin
+\mm nin:mrph:DIM
+\ve (bn)
+\va
 \ps n
-\gf 'hérisson
-\lat Atelerix albiventris, Erinaceus albiventris
-\dt 06/Apr/2015
+\gf hérisson
+\lat Atelerix.albiventris
+\gvf hérisson.à.ventre.blanc
+\lat Erinaceus.albiventris
+\smf mammifère insectivore de la taille d'un rat)
+\ve (bn)
+\dt 18/Jun/2017
 
 \lx júguninsɛ
 \mm júgunin:n:hérisson
@@ -54563,7 +54597,7 @@ prolapsus utérin
 \smf
 \xv
 \xf
-\dt 17/Sep/2016
+\dt 16/Jun/2017
 
 \lx kàmantan
 \mm kàma:n:épaule
@@ -55280,7 +55314,7 @@ prolapsus utérin
 \mm ya:mrph:ABSTR
 \ps v
 \gf libérer
-\dt 22/Dec/2014
+\dt 16/Jun/2017
 
 \lx káni
 \ps v
@@ -57575,6 +57609,15 @@ probablement de chaux vive)
 \xv kélen ká fìsa  bìlen yé !
 \xf mieux vaut "déjà!" que "trop tard!" (dicton)
 \dt 16/Aug/2006
+
+\lx kélenna
+\mm kélen:num:un
+\mm ná:pp:dans
+\ps num
+\gf
+\gvf
+\smf dans l'expression: kélen-kélenna bɛ́ɛ 'tout et chacun'
+\dt 18/Jun/2017
 
 \lx kélennajɔ
 \mm kélen:num:un
@@ -62170,14 +62213,13 @@ champs)
 \lx kónnɛgɛ
 \mm kón:n:porte
 \mm nɛ̀gɛ:n:fer
-\lt (porte.fer)
 \ps n
 \ms 1
-\gf clef
+\gf clé
 \ms 2
 \gvf fétiche.de.chasseur
 \smf (sorte de croix X, prive de ses règles la femme qui touche à leur gibier !)
-\dt 16/Aug/2006
+\dt 16/Jun/2017
 
 \lx kónɲin
 \mm kón:n:porte
@@ -62357,11 +62399,11 @@ champs)
 \dt 16/Aug/2006
 
 \lx kóperatifu
+\va kóperatiwu
 \ps n
 \gf coopérative
-\gvf
 \smf
-\dt 05/Jun/2017
+\dt 16/Jun/2017
 
 \lx kórakora
 \va kúrakura
@@ -66344,11 +66386,11 @@ ou une proposition)
 \mm kè:adj:mâle
 \ps n
 \ms 1
-\gf frêre.aîné
-\gvf grand frêre
+\gf frère.aîné
+\gvf grand frère
 \ms 2
 \gvf mari
-\dt 25/Mar/2017
+\dt 16/Jun/2017
 
 \lx kɔ̀ɔlɔ
 \ps n
@@ -66391,10 +66433,11 @@ plus solide)
 
 \lx kɔ̀ɔmuso
 \mm mùso:adj:femme
+\va kɔ̀so
 \ps n
 \gf soeur.aînée
 \smf (forme d'adresse pour une ainée)
-\dt 25/Mar/2017
+\dt 16/Jun/2017
 
 \lx kɔ́ɔri
 \va kwɔ́ɔri
@@ -66939,15 +66982,12 @@ plus solide)
 \lx kɔ̀rɔkɛ
 \mm kɔ̀rɔ:n:aîné
 \mm kɛ:adj:mâle
-\va kɔ̀ɔ.kɛ
-\mm kɔ̀ɔ:n:aîné
-\mm kɛ:adj:mâle
 \ps n
 \ms
 \gf frère.aîné
 \gvf cousin.germain.aîné
 \sm (une femme peut le dire pour s'adresser à son mari)
-\dt 02/May/2015
+\dt 16/Jun/2017
 
 \lx kɔ́rɔkɔrɔ
 \ps v
@@ -67053,16 +67093,12 @@ plus solide)
 \lx kɔ̀rɔmuso
 \mm kɔ̀rɔ:n:aîné
 \mm mùso:adj:femme
-\va kɔ̀ɔ.muso
-\mm kɔ̀ɔ:n:aîné
-\mm mùso:adj:femme
-\va kɔ̀so
 \ps n
 \gf grande.soeur
 \gvf cousine.aînée
 \lt (aîné.féminin)
 \sm (la jeune coépouse peut le dire à son aînée)
-\dt 16/Aug/2006
+\dt 16/Jun/2017
 
 \lx kɔ́rɔn
 \ps n
@@ -70637,9 +70673,9 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \mm mà:pp:à
 \mm tó:v:rester
 \ps v
-\gf mettre.en.gâge
+\gf mettre.en.gage
 \smf (une personne)
-\dt 27/Dec/2014
+\dt 16/Jun/2017
 
 \lx kùnmatu
 \mm kùn:n:tête
@@ -72608,8 +72644,8 @@ kúrunninle
 
 \lx kúuru
 \ps v
-\gf émpoussierer
-\dt 25/May/2014
+\gf empoussiérer
+\dt 16/Jun/2017
 
 \lx kúuru
 \va kúru
@@ -74042,8 +74078,8 @@ kúrunninle
 \ms 1
 \gf rendre.meilleur
 \ms 2
-\gvf reconnaître.comme.meilleur
-\dt 27/Jan/2016
+\gvf reconnaître.comme.meilleur
+\dt 16/Jun/2017
 
 \lx làfiya
 \va làafiya
@@ -74149,7 +74185,7 @@ kúrunninle
 \gvf avilir
 \ms 2
 \gvf se moquer de
-\dt 19/Dec/2014
+\dt 16/Jun/2017
 
 \lx lágabo
 \mm bò:n:excrément
@@ -75188,7 +75224,7 @@ kúrunninle
 \smf
 \xv
 \xf
-\dt 01/Feb/2017
+\dt 16/Jun/2017
 
 \lx lákɔ̀lɔsi
 \mm lá:mrph:CAUS
@@ -76247,12 +76283,6 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lt arabe-endroit
 \gf les.pays.arabes
 \dt 11/Nov/2007
-
-\lx laramɛ
-\ps n
-\gf armée
-\gvf
-\dt 06/Feb/2016
 
 \lx láramɛ
 \ps n
@@ -77845,7 +77875,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf jeu de petits chevaux
 \dt 27/Nov/2014
 
-\lx ligi
+\lx lígi
 \ps n
 \gf ligue
 \gvf
@@ -78916,10 +78946,10 @@ jour, c'est une personne dépendante qu'il voit
 \lx màga
 \va màa
 \ps n
-\gf attouchement
+\gf contacte
 \gvf atteinte
 \smf
-\dt 15/Jun/2017
+\dt 16/Jun/2017
 
 \lx màgan
 \va màga
@@ -87753,9 +87783,12 @@ sorcières et leur élimination)
 
 \lx nbúren
 \va nbrén
+\va búren
+\va búlen
+\va blén
 \ps n
 \gf gardénia
-\dt 03/Apr/2016
+\dt 16/Jun/2017
 
 \lx nbúrencɛ
 \mm nbúren:n:gardénia
@@ -90704,22 +90737,6 @@ sur soi, on les connaît
 \ps intj
 \gf parfaitement
 
-\lx njúgunin
-\mm nin:mrph:DIM
-\ve (bn)
-\va júgu.nin
-\mm júgu:n:ennemi
-\mm nin:mrph:DIM
-\ps n
-\gf hérisson
-\lat Atelerix.albiventris
-\gvf hérisson.à.ventre.blanc
-\lat Erinaceus.albiventris
-\lt (méchant.petit)
-\smf mammifère insectivore de la taille d'un rat)
-\ve (bn)
-\dt 16/Aug/2006
-
 \lx nká
 \va nk'
 \ps conj
@@ -92177,11 +92194,13 @@ graines, sert d'instrument rythmique)
 \vl vt
 \gf lécher
 \gvf laper
-\xv jàkuma bɛ́  à fàri nɔ́
-\xf le chat se lèche le corps
 \sy nɛ́mu
 \sy lánɔ
-\dt 26/Sep/2006
+\xv k'í tɛ́gɛ nɔ́
+\xe se lécher les mains; jouir des fonds détournés
+\xv jàkuma bɛ́  à fàri nɔ́
+\xf le chat se lèche le corps
+\dt 16/Jun/2017
 
 \lx nɔ́
 \fq r
@@ -94874,7 +94893,7 @@ graines, sert d'instrument rythmique)
 \ps n
 \gf zébu
 \gvf boeuf
-\dt 05/Apr/2016
+\dt 16/Jun/2017
 
 \lx ntɛ̀nɛ
 \va ntɛ̀nɛn
@@ -97360,9 +97379,9 @@ graines, sert d'instrument rythmique)
 \lx ɲánsanfari
 \va ɲánsanfaari
 \ps n
-\gf femme.potélée
+\gf femme.potelée
 \gvf femme bien en chair
-\dt 16/Sep/2015
+\dt 16/Jun/2017
 
 \lx ɲànsànin
 \mm nin:mrph:DIM
@@ -102665,7 +102684,8 @@ le pèlerinage (bk 1/06 p.5)
 \mm bɔ̀:n:arracher
 \mm lan:mrph:INSTR
 \ps n
-\gf aspérité
+\gf aspérité
+\dt 16/Jun/2017
 
 \lx ŋɔ́nifin
 \mm ŋɔ́ni:n:épine
@@ -105697,7 +105717,21 @@ épuisés
 \vl vi
 \gvf devenir correct
 \gvf devenir convenable
-\dt 16/Jun/2017
+\ms 3
+\vl vt
+\gvf faire proprement
+\gvf faire sans erreur
+\cm Kalilou Téra
+\dt 17/Jun/2017
+
+\lx sáha
+\ps n
+\usf Islam
+\gf santé
+\gvf
+\smf
+\cm Kalilou Téra
+\dt 17/Jun/2017
 
 \lx sáhà
 \ve (bmk)
@@ -109415,6 +109449,10 @@ paniers, sègi)
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
 \mm mà:mrph:SUPER
+\mm dòn:v:entrer
+\va sènkɔrɔdon
+\mm sèn:n:jambe
+\mm kɔ́rɔ:pp:sous
 \mm dòn:v:entrer
 \ps v
 \vl vt
@@ -119717,7 +119755,7 @@ fiançailles
 \lx táli
 \ps onomat
 \gf bruit.de.chute
-\dt 21/Feb/2014
+\dt 16/Jun/2017
 
 \lx tàlitali
 \va tàlontàlon
@@ -119879,13 +119917,6 @@ fiançailles
 \gf tamis
 \sm (importé)
 \dt 16/Aug/2006
-
-\lx tàmɛ
-\va tɛ̀mɛ
-\va ntɛ̀mɛ
-\ps n
-\gf zébu
-\dt 26/Sep/2006
 
 \lx támugu
 \mm tá:n:feu
@@ -120568,11 +120599,6 @@ pieton)
 \xf
 \dt 24/Oct/2016
 
-\lx te
-\ps n
-\gf thé
-\dt 15/May/2013
-
 \lx téenkun
 \ps v
 \vl vi
@@ -120767,6 +120793,13 @@ pieton)
 \ps adv
 \gf exactement.comme.ça
 \dt 29/Mar/2017
+
+\lx téntàntén
+\ps intj
+\gf
+\gvf
+\smf
+\dt 16/Jun/2017
 
 \lx téntegelema
 \va téntegema
@@ -123736,19 +123769,18 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 05/Apr/2016
 
 \lx tòbiɲɛ
-\mm tò:n:“to”
+\mm tò:n:“tô”
 \mm biɲɛ:adj:sans.sauce
 \va tòbɛngɛ
-\mm tò:n:“to”
+\mm tò:n:“tô”
 \mm bɛngɛ:adj:sans.sauce
 \ve (f)
 \va tòbɛɲɛ
-\mm tò:n:“to”
+\mm tò:n:“tô”
 \mm bɛɲɛ:adj:sans.sauce
 \ps n
-\gf “to".sans.sauce
-\lt ('to'.pâte brute)
-\dt 05/Apr/2016
+\gf “tô".sans.sauce
+\dt 16/Jun/2017
 
 \lx tòden
 \mm tò:n:“to”
@@ -126475,6 +126507,15 @@ arrière grand-père est mort
 \sm (pour...ma, rare)
 \dt 19/Oct/2014
 
+\lx tùntun
+\ps v
+\gf bousculer
+\gvf se bousculer
+\smf
+\xv
+\xf
+\dt 16/Jun/2017
+
 \lx túnu
 \va túnun
 \ve (f,bk)
@@ -126759,15 +126800,6 @@ bruyants, près du sol, dans les fourrés)
 \ps adv
 \gf bruit.de.chute
 \dt 29/Mar/2014
-
-\lx tùntun
-\ps v
-\gf bousculer
-\gvf se bousculer
-\smf
-\xv
-\xf
-\dt 31/Jan/2017
 
 \lx ù
 \ps pers
@@ -131470,8 +131502,8 @@ bambara)
 
 \lx yɛ́bɛru
 \ps adv
-\gf rapidement.comme.éclaire
-\dt 18/Apr/2014
+\gf rapidement.comme.l'éclaire
+\dt 16/Jun/2017
 
 \lx yɛ́ɛ
 \va yée

@@ -1021,16 +1021,6 @@ la culture
 \xf
 \dt 15/Sep/2016
 
-\lx koperatifu
-\va koperatiwu
-\ps n
-\gf coopérative
-\gvf
-\smf
-\xv
-\xf
-\dt 03/Feb/2017
-
 \lx Kuki
 \ps n.prop
 \gf NOM.ETRG
@@ -1795,6 +1785,13 @@ Gbagbo)
 \gf ETRG.FRA
 \gvf whisky
 \dt 05/Apr/2016
+
+\lx Wizɔn Mɔnjali
+\ps n.prop
+\gf Vision.Mondiale
+\gvf
+\smf (organisation canadienne de développement)
+\dt 16/Jun/2017
 
 \lx wurubulu
 \ps v
