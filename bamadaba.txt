@@ -51360,7 +51360,6 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \va njúgunin
 \mm nin:mrph:DIM
 \ve (bn)
-\va
 \ps n
 \gf hérisson
 \lat Atelerix.albiventris
@@ -51368,7 +51367,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \lat Erinaceus.albiventris
 \smf mammifère insectivore de la taille d'un rat)
 \ve (bn)
-\dt 18/Jun/2017
+\dt 19/Jun/2017
 
 \lx júguninsɛ
 \mm júgunin:n:hérisson
@@ -57614,7 +57613,7 @@ probablement de chaux vive)
 \mm kélen:num:un
 \mm ná:pp:dans
 \ps num
-\gf 
+\gf
 \gvf
 \smf dans l'expression: kélen-kélenna bɛ́ɛ 'tout et chacun'
 \dt 18/Jun/2017
@@ -120795,9 +120794,9 @@ flaques d'eau)
 \lx téntànten
 \ps n
 \gf dilemme
-\gvf
-\smf (dans les devinettes)
-\dt 18/Jun/2017
+\gvf problème insoluble
+\smf
+\dt 19/Jun/2017
 
 \lx téntegelema
 \va téntegema
@@ -127786,9 +127785,8 @@ aîné ... (Kb 11/06 p.4)
 \mm kán:n:cou
 \ps n
 \gf langue.secrète
-\gf 
 \gr
-\dt 29/Mar/2017
+\dt 22/Jun/2017
 
 \lx wárakata
 \mm wáraka:v:démonter
