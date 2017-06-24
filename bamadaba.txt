@@ -17932,6 +17932,22 @@ saillie)
 \xf ta colère ne dura pas toujours (Mi 7, 18)
 \dt 11/Nov/2007
 
+\lx dàbilen
+\mm dà:n:chanvre
+\mm bìlen:adj:rouge
+\va dàbilennin
+\mm dà:n:chanvre
+\mm bìlen:adj:rouge
+\mm nin:mrph:DIM
+\ps n
+\ms 1
+\lat Hibiscus sabdariffa
+\gf oseille de Guinée
+\ms 2
+\gvf bissap
+\smf (boisson préparée à partir des feuilles de cette plante)
+\dt 22/Jun/2017
+
 \lx dàbiɲama
 \mm dàbi:n:engoulevent.porte-étendard
 \mm ɲàma:n:force.occulte
@@ -29390,14 +29406,14 @@ quant à sa mère, elle prend de l'âge
 \dt 26/Sep/2006
 
 \lx dún-kà-fá
-\mm dún:v:manger\
+\mm dún:v:manger
 \mm kà:pm:INF
 \mm fá:v:remplir
 \ps n
 \gf manger.à.sa.faim
 \smf à satiété
 \lt (manger-et-remplir)
-\dt 26/Sep/2006
+\dt 24/Jun/2017
 
 \lx dúnta
 \mm dún:v:manger
@@ -89536,6 +89552,14 @@ petits enfants)
 \xf la pluie vient et laisse le reste à la rosée
 \dt 18/May/2017
 
+\lx ngòngon
+\ps n
+\lt Vetiveria nigritana, Vetiveria fulvibarbis
+\gf vétiver
+\gvf
+\smf
+\dt 22/Jun/2017
+
 \lx ngónìnjɛ́
 \mm nin:mrph:DIM
 \mm jɛ́:vq/adj:blanc
@@ -91983,10 +92007,11 @@ familiaux; viande très prisée, auladiculture)
 \ph [nkw]
 \ps n
 \gf tomate.amère
+\gvf aubergine africaine
 \lat Solanum.aethiopicum
 \sd sola
 \cf jàgaro
-\dt 19/Aug/2006
+\dt 22/Jun/2017
 
 \lx nkúgo
 \va nkógo
