@@ -1,0 +1,4780 @@
+\_sh v3.0  400  MDF 4.0
+
+\lang bam
+\name jamuw
+\ver 0.3
+\ge NOM.CL
+
+\lx Angontinbe
+\di догоны
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL   
+
+\lx Bàgayɔgɔ
+\va Bagayoko
+\va Bagayogo
+\di бамбара
+\di was
+\di кагоро
+\ca nùmu
+\ca hɔ̀rɔn
+\ca Первоначально Багайого принадлежали к сословию hɔrɔn,
+Багайого из Джитуму до сих пор остаются hɔrɔn. Большая же
+часть Багайого были порабощены и работали на своих хозяев
+-- кузнецов, в следствие чего и сами стали относиться к касте
+кузнецов. [MO]
+\eq Sisɔkɔ
+\eq Dunbiya
+\eq Bari [MO]
+\eq Gueye [MO]
+\eq Sila (у сусу) [MO]
+\eq Sangare (регион Wasulu) [MO]
+\sn Jàlo
+\sn Sídìbɛ
+\sn Sàngare
+\sn Balo
+\sn Jàkite
+\sn Fònba
+\sn Tògola
+\sn bula (Sinayoko, Kamara, Dunbia, Sisiko, Damba, Kuruma) [MO]
+\eq Ture [MO]
+\sn Samakɛ [MO]
+\sn Jara
+\sn Drave
+\sn Fonba
+\fm Danba
+\cm bula
+\tn bàga
+\tn Ящерица агама (margouillat) [MO]
+\tn Водная игуана (káana) [MO]
+\tn Бегемот (màli) [MO]
+\tn Багайого запрещено носить одежду зеленого цвета. [Molinie
+1959]
+\tn Cверчки [MO]
+\fety Ba (коза) + ga/gwa (очаг, дом, семья) + yoro/yoko (место) =
+Bagayoko (тот, у чьей семьи есть коза) [MO]
+\or Большинство була происходят из Siendugu региона Сиби,
+округа Бамако. [MO]
+\or Один из предков Багайоко получил однажды на сохранение
+козу, за которой должен был присматривать. Согласно
+предсказанию, когда коза умрет, тот, кто ее кормил,
+станет вождем. Так Багайого получили свое джаму.
+[MO]
+\sety Название джаму произошло, возможно, от локального
+наименования для сословий кузнецов или гриотов.
+\dt 28/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Balo
+\va Baalo
+\eq Tiam
+\eq Sisɛ
+\eq Siama
+\eq Balo
+\sn Drame
+\sn кузнецы Balo и Diallo, Diakite, Sidibe, Sangare. Бракозапретно
+[MO]. 
+\sn кузнецы и фульбе
+\sn Fonba
+\ca Бало были свободными земледельцами (hɔrɔn), но в настоящее
+время почти все относятся к ремесленному сословию
+кузнецов. В регионах Бугуни и Сикассо остается небольшое
+количество Бало hɔrɔn. [MO].
+\ca Говорят, что Бало -- кочевники, торговцы и кузнецы, они всегда
+в дороге, переезжают с места на место, из деревни в деревню,
+у них нет дома. Поэтому они живут, как правило, за пределами
+деревни, среди приезжих (dunan) [MO].
+\geo Бугуни (Bougouni) , Сикассо (Sikasso)
+\geo “An analysis of Kong’s lineages reveals a dual origin: first, Bambara
+dyamou which apparently came from the Segou-San area, namely
+Baro, Daou, Balo, Cissé, Touré. Second, Mande dyamou like Kanté,
+Konaté, Kone who seem to have taken the detour via Guinea and
+the northwestern Ivory Coast through the Korodougou, Boron and
+Korhogo.” [Massing 2000: 298]
+\tn Черная обезьяна
+\tn Сокол
+\tn Пантера (wáraninkalan)
+\tn Яйца
+\ps n.prop
+\ge NOM.CL
+\dt 17/Dec/2012
+
+\lx Bamiya
+\di догоны
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Bánbà
+\di сенуфо
+\di бамбара (в Sikasso)
+\ca nùmu
+\ca hɔ́rɔn
+\ca Бамба, которые являются потомками воинов, считаются
+свободными земледельцами (hɔ́rɔn) [MO].
+\sn Káne
+\sn фульбе
+\mr Kulubali
+\mr фульбе
+\mr сонинке
+\tn Крокодил (bàma)
+\tn Ящерица (bása)
+\tn Плюющаяся кобра (nkɔ̀rɔngɔ, naja)
+\tn Бегемот (màli)
+\fety Bamba = bama -- крокодил
+\sn сонинке
+\sn Jara
+\sn Denbele
+\sn кузнецы Banba и фульбе
+\or Один из Кейта был спасен крокодилом, в память о чем он и его
+потомки получили джаму Бамба, а тотемом Бамба стал
+крокодил [MO].
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Bánbèrá
+\va Bamera
+\va Bamere
+\di бамбара
+\ca jèli
+\geo Kulikoro, Segu
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Banbo
+\di бамбара
+\di daf
+\ca jèli
+\ca hɔ́rɔn
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Bàngura
+\di манинка
+\di сусу
+\sn Suma
+\cm bula
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Banjugusi
+\di мандинка
+\cm kabila
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Baraga
+\di сонинке
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Baraji
+\di сонинке
+\di кагоро
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Bari
+\di фульбе
+\eq Sàngare
+\eq Si
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Baro
+\ps n.prop
+\geo Сейчас в области мандинг дисперсно проживает крайне
+небольшое количество Барро [MO].
+\geo Небольшое количество Барро проживает в Бобо-Дила, но их
+традиции значительно отличаются от традиций остальных
+Барро [MO].
+\or “An analysis of Kong’s lineages reveals a dual origin: first,
+Bambara dyamou which apparently came from the Segou-San
+area, namely Baro, Daou, Balo, Cissé, Touré. Second, Mande
+dyamou like Kanté, Konaté, Kone who seem to have taken the
+detour via Guinea and the northwestern Ivory Coast through
+the Korodougou, Boron and Korhogo.” (Massing 2000: 298)
+\or Некоторые утверждают, что Baro - дальние родственники
+Simaga [MO]
+\or Предками Барро были фульбе, Барро раньше были
+кочевниками [MO].
+\eq Kantɛ
+\eq Jabatɛ
+\sn Keyita
+\ca БОльшая часть Баро -- гриоты [MO].
+\ca Некоторые Баро относятся к сословию свободных
+земледельцев (hɔrɔn) [MO]
+\ge NOM.CL
+\dt 21/May/2017
+
+\lx Barola
+\di dK
+\cm kabila
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Basum
+\di джогораме
+\dt 21/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Baxaga
+\di сонинке
+\ca griot-geseru
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Bàyo
+\di бамбара
+\di сонинке
+\eq Bàgayɔgɔ  (?)
+\cm bula
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Benkali
+\di сонинке
+\di фульбе (?)
+\geo Sikaso
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Bèrete
+\va Bèrte
+\va Bérete
+\di манинка
+\di сенуфо
+\di сонинке. Все Берете сонинке -- мусульмане [MO].
+\ca hɔ̀rɔn
+\ca Berete -- марабуты или (в неисламизированных районах)
+колдуны-знахари (bolotigiw). У манден - земледельцы. Относят
+к числу "первых пяти мусульман".
+\ca Некоторые Берете -- кузнецы. Другие -- свободные
+земледельцы [MO].
+\sn Jàanɛ
+\sn Fane
+\sn Balo
+\sn Kantɛ
+\sn Sisɔkɔ
+\fa Sùwanún (m). От suwandi - выбирать [BK]
+\fa I bɛ furakisenin min feere, i kan'o ta tugun!
+\fa Manden mori [BK]
+\cm Марабуты или (в неисламизированных районах)
+колдуны-знахари (bolotigiw). У манден - земледельцы.
+Относят к числу "первых пяти мусульман".
+\geo Berete проживают в провинциях Сикассо, Кучала и Бугуни, а
+также на юге заны Сахеля [MO]. 
+\geo Manfaran. Yerekuda ("столица"), Kobadula, Kobasando, Sunkulun
+[BK]
+\fety Berete = bere (палка) + te = тот, кто несет палку
+\or Часть Берете относится к группе Кейта -- Конате --
+Кулибали [MO].
+\or Другая часть Берете (возможно, только гриоты) -- к
+Джабате [MO].
+\or Согласно легендам о происхождении, Берете родом из
+одной деревни в провинции Сикассо [MO].
+\or Bérete раньше были Mànsarén. Один из них стал
+правителем [Страны] Манден (с 760 года до Рождества
+Христова до 240 года после Рождества Христова). После
+его смерти у него остался наследник – Mànján. Но он не
+подходил для правления, так как ему еще не исполнилось
+семи лет. Тогда старейшины, посовещавшись, решили, что
+раз Mànján пока не подходит, правителем станет его дядя
+{bɛ́nɔɔ}. А про Mànján'а стали говорить, что тот «bɛ́dɛ tɛ́»
+[«не хорош»]. Так и стали его с тех пор всегда называть:
+Mànján bɛ́dɛ tɛ́, что от многократного произнесения
+превратилось в Mànján Bérete. Его потомки никогда не
+находились у власти. Есть три вещи, которые не
+соглашаются одалживать: это жена, гость и власть. И
+так получилось, что после дяди Mànján'а власть осталась
+в руках его детей. Bérete же стали марабутами [Страны]
+Манден [SK]
+\tn Осел
+\tn Фрукты дерева Cенегальский анакорд (caïlcédrat).
+\tn Куропатка
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Bí
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Bíibà
+\di сонинке [Деревня Madina, рядом с Guissimbine]
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Bokum
+\di фульбе
+\di тукулер
+\sn nùmu
+\ca Пастухи.
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Boyigille
+\di кагоро
+\di сонинке
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Bɔarɛ
+\va Bɔrɛ
+\va Bwarɛ
+\di бамбара
+\di миньянка
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Camu
+\di бамбара
+\va Cam
+\di тукулер
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Cɛɛrɔ
+\di бамбара
+\di бозо
+\di сонинке
+\di сомоно
+\eq Tera (у бобо)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Cɛnta
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Cokari
+\di диавамбе
+\di diogorana
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Cùlentà
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Cun
+\di gaulo
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Daabo
+\va Dabo
+\di манинка
+\di кагоро
+\di мандинка
+\ca hɔ́rɔn (кагоро)
+\fa sonka (мандинка)
+\or Это второй bábon Jáwara. Первый – это Sàgonɛ́. Они
+разделились в ходе междоусобной войны в 300 с чем-то
+году, причинив друг другу много неприятностей.  Эта
+война изгнала часть Dábo из их вотчины Bǎkùnu и
+заставила их направиться в страну Санга {Sánan}, что
+между Каесом {Kàyé} и Kínkin. Там их имя стало Dábo, а
+их джаму – Sángan или Sánganjan. Некоторые Dábo ушли
+оттуда и переселились на Fúta Jàlón. Затем они захватят
+[Fúta] Jàlón в битве при Tálansa около 1727 года (491
+после Собрания на Курукан Фуга). Dábo и манинка помогли
+фульбе в борьбе за веру. Во время джихада 12 солдат
+фульбе и 10 солдат манинка всегда воевали вместе,
+благодаря чему могущество фульбе было велико, и когда
+жители [Fúta] обрели силу, фульбе помогли им подчинить
+все родственные си, но вся власть осталась в руках
+настоящих фульбе.   Правители Канкана {Kánkan},
+которые отправились на войну с Kɔ́ndɛ Bóroma из Tìnbó, в
+войне, нацеленной на изгнание [фульбе], в 1763 году (537
+после Собрания на Курукан Фуга), столкнулись с
+неприязнью фульбе к манинка. Этими людьми были Cɛ̀mɔ́ɔ̀
+Mànfín и Álifa Kàabinɛ́. Когда они покинули Fúta [Jàlón] в
+1770 году, у манинка Fúta не было хвороста. Так как
+сейчас запрет си Kɔ́ndɛ Mánsaboroma в Стране Sènkɔ́ – это
+sùlafinsá . Эта история изложена на последней странице
+первой книги [издания 2000 года]. Неприязнь фульбе ко
+всем си, за исключением Dábo, послужила причиной того,
+что около 1810 года (534 после Собрания на Курукан Фуга)
+14 деревень манинка покинули Fúta [Jàlón]. Они сказали,
+что подождут остальных манинка на границе саванны с
+тем, чтобы пойти вместе в [Страну] Манден. Однако
+пуритански настроенные фульбе, которые не хотели,
+чтобы они с другими си сосуществовали на Fúta [Jàlón],
+то есть hubus [?] . Они выгнали манинка на окраины Fúta
+[Jàlón] в 1860 году. Это отрезало их от реки Tínkiso, и они
+поселились в области между Tínkiso и Нигером. Они
+больше не были на краю саванны. Однако эту местность
+продолжили называть Wúlada . После изгнания Dábo из
+одного из основанных ими городов, Dábola, они
+переселились в Kùrukɔ́dɔ . Примечание: Пуритане – это
+люди, которые проявляют излишнее усердие, вплоть до
+чрезмерности. [В вопросах] религии, традиции, языка,
+национальности. По-французски: puritain  [SK]
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dáfe
+\cf Daw
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dakuwo
+\di бобо
+\ca hɔ́rɔn
+\sn Dèna
+\cm Земледельцы. Многие - христиане.
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dànbá
+\ca jèli
+\eq Sakiliba
+\eq Женское джаму для Sìsɔ́ɔ̀ – Dànbá [SK]
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dàngo
+\di сонинке
+\ca jèli
+\tn nkòrongofin
+\eq Kuwate
+\sn Kéyità
+\sn Kánte
+\sn Kónatɛ̀
+\sn Makalu
+\or Предок - Kabala Sinbon, внук Ase Bilali.
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dansira
+\eq Denbele
+\eq Tàrawéle
+\eq Diop [MO]
+\eq Denbele [MO]
+\eq Watara [MO]
+\eq Gilavogi [MO]
+\eq Wedragogo [MO]
+\eq Haidara  (Соблюдается в регионе Томбокту и в отношении
+Дансира, принявших активное участие в исламизации региона)
+[MO]
+\cm Женское джаму.
+\geo Большинство Дансира проживает в Беледугу и Каарта, округах
+Бамако, Сегу, Куликоро и Кита [MO].
+\sn Jara
+\sn Jata
+\sn Jarasoba
+\sn Kone
+\sn Togola
+\sn Kondɛ
+\tn Пантера (wáraninkalan)
+\tn Плюющаяся кобра (nkòrongo, naja) (local)
+\tn Крокодил (bàma)
+\tn Игуана (koro) Волоклюй (буйволовая птица) (local)
+\or Дансира происходят из Маркала, округ Сегу [MO].
+\dt 28/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Dansoko
+\va Dansogo
+\va Donsogo
+\va Dancogo
+\di манинка
+\di dia
+\ca hɔrɔn
+\geo Kita, Bafing, Koɲa
+\eq Kàmara
+\eq Fófana
+\eq Magasa
+\fm Danbe
+\fa Danfaga
+\sn Kéyità
+\sn Sàngare
+\sn Sídìbɛ
+\sn Jàkite
+\sn Jàlo
+\or Родоначальник - Jatra Dansoko.
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dànsúba
+\eq Мужское джаму для Tárawele – Dúmuya [SK]
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dante
+\va Dantɛ
+\di бамбара
+\ca jèli
+\geo Segu
+\geo Tumunde (Kita)
+\eq Sisɔkɔ
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dányò
+\di сонинке
+\di кагоро
+\di бамбара
+\ca jèli
+\ca nùmu (kag)
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Danyɔkɔ
+\va Danyɔgɔ
+\di dK
+\di бамбара
+\di dia
+\di кагоро
+\ca jèli (dK, b)
+\ca hɔ́rɔn (dia)
+\geo Birigo
+\geo Sagabari (Kita)
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Daɲon
+\eq Dáɲɔ?
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dara
+\di догоны
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Daramera
+\va Dramera
+\di dia
+\cm Пастухи.
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Daramɛ
+\di сонинке
+\di dia
+\di фульбе
+\di бамбара
+\di джогораме
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Daw
+\va Ndaw
+\va Dafe
+\di волоф
+\di фульбе
+\di тукулер
+\di dia
+\di mrk
+\tn lɛ̀
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dawu
+\va Dawo
+\di миньянка
+\ca jèli (?)
+\geo Sikaso
+\geo Segu
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dèna
+\di бобо
+\ca hɔ́rɔn
+\sn Dako
+\sn Kamate
+\ca Земледельцы.
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Denba
+\di dia
+\ca Пастухи.
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dènbága
+\di сонинке
+\ca garanke
+\dt 22/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Denbele
+\fr Dembélé, Dembele, Denbele, Denbélé, Dambélé, Dambele,
+Danbele, Danbélé
+\va Danbɛlɛ
+\di бамбара
+\di манинка
+\di хасонке
+\di сомоно
+\di сенуфо
+\di миньянка
+\eq Traore
+\eq Juf
+\eq Mukɔrɔ  
+\eq Diarra
+\eq Diop (у волоф) [MO]
+\eq Watara (у сенуфо) [MO]
+\eq Guillavogui (у тома) [MO]
+\eq Ouedraogo (у мосси) [MO]
+\eq Jabate
+\sn Kon [MO] [Jones, 2007: 60]
+\sn Diarra [MO] [Jones, 2007: 60]
+\sn Kantɛ [Jones, 2007: 60]
+\sn Kondɛ [Jones, 2007: 60] "Traores, Dambeles, and Diabates are
+considered brothers, and all three are the sinankuw of another set of
+brothers: the Kones, Diarras, Kantes, and Condes (Doumbia
+2002:33). While not everyone I talked to was aware of these
+“brotherhoods,” some informants did know of their existence and
+the history behind these relationships" [Jones, 2007: 60].
+\sn Banba [MO]
+\sn Diatta [MO]
+\sn Diarrasoba [MO]
+\sn Togola [MO]
+\sn Fonba [MO]
+\sn Kamissoko [MO]
+\fm Dansira (у волоф, у малинке) [MO]
+\ca hɔrɔn
+\ca numu (Buguni)
+\tn гриф (tuga)
+\tn питон (miniɲan) (Buguni)
+\tn пантера (waraninkalan) [MO]
+\geo Происходят из деревни Баланза в регионе Кангаба, округ
+Бамако [MO].  20е по распространенности джаму в Мали (1996)
+\fety Den (ребенок) + bele (змея) = Dembele -- сын змеи [Molinie
+1959].
+\sety Слово Дембеле (Dembele), возможно, происходит из
+вольтийских языков. В языке сенуфо есть слова fonombele –
+«кузнецы», kpembele – «резчики по дереву», kwombele –
+«юноши, прошедшие инициацию, молодые воины» – то есть
+окончание -mbele свойственно обозначениям социальных групп,
+причем характерно, что соционимы на -mbele у сенуфо
+обозначают неродственные группирования, в то время как
+«кланы» у них носят имена животных. В пользу гипотезы о
+вольтийском происхождении Dembele свидетельствует также
+высокий статус сходного джаму Тембеле (Tembele, Tembeli) у
+догонов (ср. Griaule M., Dieu d'eau: Entretiens avec Ogotemmёli.
+P., 1948).
+\dt 21/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Deteba
+\di кагоро
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Diko
+\di тукулер
+\di фульбе
+\di догоны
+\ca hɔ́rɔn
+\eq Jàlo (?)
+\cm Включает в себя Ɲalibuli.
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dolo
+\di догоны
+\tn nkaana
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Draba
+\di бамбара
+\ca jèli
+\geo Segu
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dramɛ
+\va Daramɛ
+\di сонинке
+\di фульбе
+\di dia
+\di snb
+\di джогораме
+\di wag
+\ca hɔ̀rɔn
+\ca gesere
+\ca mòri
+\ca nùmu
+\ca jèli [MO]
+\ca dióli у мавров (soraka) [MO]
+\ca Часто Драме - марабуты (mòri) [MO] 
+\ca У догонов относятся к касте janbu (кожевенники).
+\or Возводят свое происхождениек сыну Diŋa. 
+\or Каарта [MO]
+\geo Ньоро, Кита, Бамако [MO]
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Drave
+\di бамбара
+\di манинка
+\ca hɔ́rɔn
+\eq Ture [MO]
+\eq Драве принадлежат группе Toure - Samake [MO]. 
+\sn Keyita [MO]
+\sn Bagayɔkɔ [MO]
+\sn Kante [MO]
+\or Бамако [MO]
+\ps n.prop
+\ge NOM.CL
+\dt 22/May/2017
+
+\lx Dugumale
+\fr Dougoumale
+\ca nùmu
+\eq Kante [MO]
+\eq Согласно общепринятому мнению, Дугумале связаны с группой
+[Фане, Канте, Бало, Сиама] через Канте [MO].
+\geo Бугуни, Сикассо, Верхняя Гвинея [MO]
+\geo Джаму Дугумале находится под угрозой полного исчезновения
+[MO].
+\or Бугуни 
+\tn Крокодил (bàma)
+\tn Игуана (koro)
+\ps n.prop
+\ge NOM.CL
+\dt 22/May/2017
+
+\lx Dukansi
+\va Dùwansí
+\va Dugansi
+\di сонинке
+\di хасонке
+\sn Sisigo
+\or Родом из Wuluma (к северу от Kayi). 
+\ca Кузнецы (tagu).
+\dt 04/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dukare
+\di сонинке
+\ca nùmu
+\geo Kayi
+\geo Yelimane
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dúkùre
+\di сонинке
+\ca hɔ̀rɔn
+\geo Yelimane
+\geo Jafunu
+\ca Tɔntigi. Земледельцы.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dumasi
+\di сонинке
+\ca tagu
+\dt 05/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dunbiya
+\va Dunbuya
+\va Dumuya
+\va Dunmuya
+\di бамбара
+\di манинка
+\di was
+\di кагоро
+\ca numu
+\ca гриоты (у бамбара, особенно в регионе Бугуни)
+\ca hɔ́rɔn (у малинке) [MO]
+\eq Kùruma
+\eq Sisɔkɔ Сиссоко и Думбия происходят из одной семьи, эти
+джаму взаимозаменяемы (в зависимости от региона) [Molinie
+1959]. Мужское джаму для Sìsɔ́ɔ̀ – Dúmuya. [SK]
+\eq Sall
+\eq Gueye
+\eq Danba (fem)
+\sn Sidibɛ
+\sn Dunmuya
+\sn bula
+\sn Kuyatɛ (local)
+\geo В отличие от таких джаму, как, например, Кулибали, Уатара
+или Сангаре, имя Думбия одно из самых дисперсных. "Своим"
+оно является для не менее 5 стран, примерно 10 языков и
+многих регионов. Имя Думбия распространено в Мали (11
+место в 1996 году), Гвинее, Кот-дИвуаре, других странах. По
+языку Думбия манинка, бамана, диула, но также темне, лимба
+и др. Распространено и среди немандеязычных народов, за
+пределами Мали. Например, у лимба Сьерра-Леоне. 
+\geo Сигири, Куруса, Бугуни, Бамако [MO]
+\or Предки Бакайоко, Камисоко, Синайоко, Камара и Думбия
+считаются родственниками [MO].
+\or Относятся к bula (Sinayoko, Bagayoko, Camara, [Dounbia,
+Sisiko, Damba], Kourouma). Большинство була происходят
+из Siendugu региона Сиби, округа Бамако. [MO].
+\or Своим предком считают Факоли.
+\fa Fakoli
+\tn Пантера (wáraninkalan)
+\dt 22/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Dúnɔ
+\va Dùnɔ́ [SK]
+\di манинка
+\or Bérete, Dùnɔ́ и Kònatɛ́ произошли от Mànsarén [SK]
+\or Это [Dùnɔ́] значит «покорение деревни », всех людей
+деревни . Один правитель из Mànsarén понял, что не
+может своих детей и младших братьев и сестер
+воспитать силой, только лишь при помощи ума и
+хитрости. Он   хорошо умел ублажать людей, а хорошо
+работать ему не удавалось. И вот поэтому если кто-то из
+его младших братьев или сестер делал какое-то дело, он
+их восхвалял, пока им не овладевало совершенное
+удовольствие. Он покорил таким образом всех жителей
+деревни. И его си стало «dùu nɔ́», и впоследствии это
+превратилось в «Dùnɔ́». Поэтому же их джаму стало
+Sómanɔ. Потому что «покорить деревню», «покорить
+город », «подчинить город » – все это значит одно и то
+же. Все потомки этого правителя настолько искусно
+произносили хвалебные речи, что в конце концов стали
+гриотами. И стали главными среди все bábon Mànsarén
+[SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dunu
+\di куранко (?)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Dunyo
+\di догоны
+\geo Sanga
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Fáanɛ
+\va Fánɛ
+\di was
+\di бамбара
+\di манинка
+\di миньянка
+\ca nùmu
+\tn bama
+\or Все [Fánɛ] –  кузнецы. Все [Fánɛ] занимаются кузнечным
+делом. Как среди Kúyatɛ нет никого, кто не был бы
+гриотом, так и среди [Fánɛ] никого кроме кузнецов нет.
+Так как они работали с железом в кузнице, про них
+говорили: «Fánnɛ́ɛ̀» , что впоследствии превратилось в
+Fánɛ. Как бы ни было много других си кузнецов, Fánɛ
+оставались во главе всех кузнецов. Но когда Сундьята
+передал власть над кузнецами Fàkolí и его остальным
+Kòromá {Kòromaɲɔ́ɔ̀n}  при Курукан Фуга в 1235 году. Fánɛ
+разгневались, покинули [Страну] Манден и отправились
+на восток к бамана. И по сей день Fánɛ продолжают там
+заниматься кузнечным делом [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Fàdiga
+\va Fàdika
+\di бамбара
+\di манинка
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Fal
+\di волоф
+\di тукулер
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Famanta
+\va Pámàntà
+\va Pamante
+\va Kamanta
+\di бозо
+\ca hɔ̀rɔn
+\tn miniɲan
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Fàró
+\or Их предок {bénba} Bégan Kòrɛí  был правителем сонинке в
+Гао. Он был третьим аскией  [Импреии сонинке] и
+находился у власти шесть лет, с 1531 по 1537 годы. Kafo
+Jason (?) назвали это «coup d' état ». И сбежал поэтому на
+юг [Страны] Манден к куранко  и стал там марабутом,
+так как был очень хорошо образован. Его имя Kòrɛí стало
+джаму его потомков: Kòrɛisí . Так же как, например:
+Túramansi, Dàntumansí, Dàmansí, Músasi. Впоследствии
+Kòrɛisí превратилось в Kùreisí [SK]
+\ps n.prop
+\ge NOM.CL
+\dt 25/May/2017
+
+\lx Fasa
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Fisuru
+\di сонинке
+\ca wage
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Fófana
+\eq Fònba
+\eq Magasa
+\eq Dansoko
+\eq Kàmara
+\eq Jɔ́mànde
+\di манинка
+\di сонинке
+\di кагоро
+\di хасонке
+\di was
+\sn Kàmara
+\sn Kéyità
+\sn Tùre
+\sn Kánte
+\tn sàga
+\tn lèlame (исходно)
+\tn sùruku
+\tn wáranìnkála  (у кагоро)
+\ca hɔ̀rɔn
+\ca wage
+\fa Kànunjɔ́n
+\dt 17/Feb/2013
+\ps n.prop
+\ge NOM.CL
+
+\lx Fònba
+\di бобо
+\sn Bàgayɔgɔ
+\sn Balo
+\sn Kùlibàli
+\sn Sídìbɛ
+\sn фульбе
+\tn janfin (сорока?)
+\tn маленькая полевая мышь
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Funɛmuso
+\ca Джаму у maabɔ. Часто - кузнецы. Женщины часто занимаются
+попрошайничеством; земледелем занимаются, но неохотно!
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gajigo
+\di тукулер
+\ca laabe
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gaku
+\di mau
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Galedu
+\di волоф
+\di джавара
+\ca hɔ̀rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ganbi
+\di диавамбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gandeega
+\di сонинке
+\ca wage
+\or Возводят свое проихождение к сыну Diŋa.
+\dt 28/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Gasama
+\di сонинке
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gboɛta
+\di сонинке
+\ca jèli
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gey
+\di волоф
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gèyita
+\di манинка
+\geo Bafin
+\sn Daabɔ (не бракозапретно)
+\dt 28/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Gigilay
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gilawogi
+\di looma
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ginbaira
+\di диавамбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gìndo
+\di догоны
+\geo Bandiagara
+\cm Одно из самыз распространённых догонских джаму. Так
+обычно называют себя догоны, находясь за пределами своей
+территории.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gise
+\di фульбе
+\ca maabube (ткачи)
+\tn питон
+\sn nùmu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Golfa
+\di диавамбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gologo
+\va Galogo
+\di фульбе
+\di сонинке (?)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Goyta
+\va Goyita
+\di миньянка
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gumane
+\di сонинке
+\geo Tenemala
+\geo Banamba
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Gunbala
+\di тукулер
+\ca Тукулёры-столяры (laobe), изготовители лодок.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Haba
+\di кпелле
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Haydara
+\va Háyidara
+\di сонинке
+\di mau
+\di сонгаи
+\ca hɔ̀rɔn
+\or Считаются потомками пророка Мухаммеда - шарифами.
+Марабуты. 
+\tn Не имеют tana и брачныx запретов.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Honomu
+\di кпелле
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ja
+\di тукулер
+\ca hɔ̀rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jaabi
+\di сонинке
+\di хасонке
+\di манинка
+\ca mòri
+\ca wage
+\or Возводят свое происхождение к сыну Diŋa.
+\or Помощь, которую оказал марабутский город Jàgán
+Sònjadá в битве при Kírinà, позволила Сундьяте победить
+в этой битве. Súmaoro не смог его победить при Kírinà, и
+все закончилось тем, что он пошел отплатить долг городу
+Jàgán, разбил его, разграбил и опустошил. Это привело к
+тому, что большая часть марабутов ушла от нового
+рабства побоев и унижений и направилась в другие места.
+Марабутов, которые ушли из Jàgán , стали называть
+«Jàgan bí lù ». В быстрой речи это превратилось в
+«Jàabí». Им говорили: «Mɔ̀ɔ ká s'à mà dè ». Это стало
+[именем] их джаму: «Ká s'à mà». Что впоследствии
+превратилось в «Kàsamá». Jàabí, рассеявшись, начали
+объединяться. Вот названия тех мест, где они основали
+новые города:   • Во-первых, Túba в стране Jàlón. Их
+называют Jàgan Túba. • Во-вторых, тоже Túba, около
+слияния двух рек, Jàgan Túba. Это имя сократилось до
+Jàgabá. • В-третьих, Bànisirailá в республике Сенегал. Они
+проживают в двух bùndu между Tànbakundá и Kìdirá. Они
+сократили свое имя до Bàní. А сами жители [города]
+Jàgán называют их настоящим именем. • В-четвертых,
+Sàmatilá в Òjɛnɛ́ в Кот-д'Ивуаре [SK].
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Jàanɛ
+\va Jàanɛ
+\fr Diané
+\di сонинке, манинка, мандинка
+\ca hɔ̀rɔn, mòri
+\fa Makarɛmɛ (Maharɛmɛ) из сонинке maka remme 'ребёнок из
+Мекки'
+\fa Sámɛkà 'сириец' (в Гвинее)
+\sn Kéyità
+\sn Bèrete
+\sn Sìla
+\sn Jawara
+\tn jifa (мясо животного, зарезанного не по мусульманскому
+обряду)
+\or Предком {bénba} Jàanɛ́ был Ábu Bákari Jàanɛ́. Он пришел
+вместе с торговцами листьями баобаба, шедшими из
+Měmà* в 1235 году. Он имел семитское {sámin}
+происхождение, за что получил джаму Sáminka, которое
+стало произноситься как Sámɛka [SK].
+\dt 24/Feb/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Jabira
+\di сонинке
+\ca wage
+\eq Yatabare
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jágàraga
+\di сонинке
+\ca wage
+\tn houtarde
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jagate
+\di манинка
+\geo Banbuku
+\eq Jàkite
+\eq Kàba
+\geo Ba
+\dt 21/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Jahune
+\di сонинке
+\ca garanke
+\sn Makalu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jàkite
+\di was
+\di фульбе
+\ca hɔ̀rɔn
+\eq Ba
+\eq Kàba
+\eq Jagate
+\eq Ja
+\sn Kéyità
+\sn Sídìbɛ
+\fa Kàba
+\tn Маленькая мышь n'guoka
+\tn Лев (jàra) (local)
+\or Джаките родом из Фута-Джалона, изначально проживали
+в Гуанане, Уасулю, и округе Бугуни [MO]. 
+\dt 17/Feb/2013
+\ps n.prop
+\ge NOM.CL
+
+\lx Jàlo
+\fr Diallo, Dialo, Jallo
+\di фульбе
+\di was
+\di хасонке
+\tn wɔlɔ
+\eq Suntura (среди фетишистов, сохранивших культ Jo) [Molinie
+1959]
+\eq Diko (?)
+\eq Káne
+\eq Ka
+\sn кузнецы
+\sn Jakite
+\sn Fane
+\or Плато Фута-Джаллон, переселились в Джалон Фула,
+Уасулю, округ Бугуни [MO].
+\or Jálo, Jàkité, Sìdibé и Sánkare произошли от джатара
+{jàtará}. А джатара произошли от фульбе [Kanté 2004]
+\or Jalo, Jakite, Sidibe, Sangare - дети одной матери-фульбе.
+Sidibe был хранителем богатств, Jakite был вождем,
+Sangare - ученым, Sidibe - воином [BK]
+\sety Так называлась одна из (субэтнических, локальных,
+фиктивно-родственных?) групп фульбе с плато Фута-Джалон. 
+\geo Большинство Дьялло проживает в Уасулю, (Янфолиля, округ
+Бугуни) и Дьола (округ Бамако). Дьялло проживают также на
+плато Фута-Джаллон [MO].
+\tn Куропатка
+\tn Турач (francolin, Francolinus bicalcaratus -- wɔ̀lɔ)
+\fa Si naani [BK], [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Janbisi
+\di сонинке
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jánka
+\di сонинке
+\ca nùmu
+\geo Kayi_
+\sn Jàlo
+\sn Sídìbɛ
+\sn Sàngare
+\sn Jàkite
+\fa nùmu
+\fa dɔ̀nkili
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jàra
+\fr Diarra, Diara
+\di бамбара
+\di манинка
+\ca hɔrɔn
+\ca Некоторые Дьярра являются потомками правителей Сегу
+[MO].
+\eq Kone
+\eq Njayi
+\eq Kone
+\eq Denbele
+\eq Drabo
+\sn Kamisɔkɔ. Камисосоко -- младшие братья Джара [Molinie
+1959].
+\eq Tamora
+\eq Savanɔgɔ
+\eq Kante
+\eq Jara <eq/br> Kone <eq/br> Togola <eq/br> Jarasuba <eq/br>
+Conde [MO]
+\tn jàra
+\tn wáraba
+\tn ntɔɔroden
+\tn Шимпанзе (Pan troglodytes verus. Бам. wòndon)
+\tn waraninkalan
+\tn Листья Fícus sycómorus (Сикомор, "библейская смоковница")
+\tn Куропатка (local)
+\tn В регионе Сан Джара запрещено носить головные уборы
+красного цвета [MO]. 
+\tn Jàra не должны смотреть на младенца первые 8 дней после его
+рождения. Иначе тот умрёт.
+\sn Tàrawéle
+\sn Denbele
+\sn Sagango
+\sn Kone
+\sn Kanute
+\sn Dunbuya
+\sn Bàgayɔgɔ
+\sn Banba
+\sn Dansira
+\sn Jabate
+\cm Jàra не должны смотреть на младенца первые 8 дней после
+его рождения (иначе тот умрёт).
+\fa Jàra kòloba kári!
+\fa í jàra mín? í yé kɔ̀` tìgɛ, í jàra ò dá` lá!
+\geo Джаму распространено cреди бамана в районе Сегу и в
+Манден от Куликоро до гвинейской границы и у мандинка (в
+форме Джата) – в Гамбии и Сенегале. 
+\geo Большинство Дьярра проживает в округах Сегу, Сан, Сикассо,
+Бамако [MO].
+\sety Слово, вероятно, восходит к топониму - названию
+раннеполитической общности. Одно из наиболее ранних
+свидетельств об этой области - в источнике на португальском
+языке: «Король Мандинга [...] - сеньор многочисленных
+вассалов, кои платят ему большие дани. Этот король живет в
+700 лиг внутри страны, в окруженном глиняной стеной городе,
+ко-торый называется Жага» [Фернандиш 1979: 336] -
+свидетельство не позднее 1510 г. В ТФ (Махмуд Кати) есть
+целая глава об области Джара, подчиненной сонгаям.
+\or Происходят из области До, состоящей из двенадцати
+деревень. Точное расположение До не известно [Molinie
+1959].
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jaraga
+\di кагоро
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jarasuba
+\fr Diarrasoba
+\va Jarasoba
+\di бамбара
+\or Diarrasoba -- Дьярра, которые возводят свое
+происхождение к Сун Дьятте [MO].
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jariso
+\di сонинке
+\di кагоро (?)
+\ca hɔ̀rɔn
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jaruma
+\di сонинке
+\cm Kusa. Прародитель - Kantiakabe.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jasarɛ
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jaw
+\di хасонке
+\di тукулер
+\di фульбе
+\ca nùmu (у фульбе и тукулеров)
+\tn nporongofin
+\tn kolokani
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jáwara
+\fr Diawarra, Diawara, Jawarra, Jawara
+\di сонинке
+\di dia
+\di kur
+\di фульбе
+\di манинка
+\di сонинке
+\geo Большинство Джавара проживает в округах Ньоро и Нема
+[MO].
+\ca hɔ̀rɔn
+\ca jèli
+\ca garanke
+\sn Kàmara
+\sn Sagango
+\sn Samakɛ
+\sn garanke
+\tn nkaana
+\tn трёхцветная коза (чёрная, белая, рыжая)
+\tn Черная антилопа Ориби (nkóloninfin) 
+\sn garanke
+\fa Mùsamàkan
+\fa Джаму Jáwara – Kírimin [SK]
+\fa У Traoré и Jawara одно и то же хвалебное имя (nom d'honneur) :
+Dikko. [ http://fr.wikipedia.org/wiki/Sonink%C3%A9s ]
+\sety Бокар Ндиай [N'Diaye 1970a: 347-376] пишет о Джавара как об
+отдельной этнической группе («Contairement а се qu'on a
+coutume de dire, les Diawara n'appartiennent pas au groupe
+ethnique des сонинкеinke... Leur peuple tire сонинке nom generique du
+diamou...»: «вопреки принятому мнению, Джавара не
+принадлежат к этнической группе сонинке... Их народ берет
+свое название от джаму...». Ценно приводимое далее Ндиаем
+свидетельство о том, что Джавара считают себя не сонинке, а
+джавара, несмотря на язык («les Diawara pratiquent la langue
+saracolle... les Diawara repliquent... quand on leur dit etre des
+Soninke, qu'ils сонинкеt Diawara et non сонинкеinke...» [N'Diaye 1970a].
+Далее Ндиай пересказывает устное предание о происхождении
+Джавара от охотника Дамана Гийе (Daman Guille) [N'Diaye
+1970a: 349-351]. Видимо, возникновение
+социально-территориального объединения Джавара стоит
+относить еще ко времени доминирования предков сонинке в
+верхнем течении Нигера. У ал-Бакри (ум. 487/1094) в «Китаб
+ал-масалик ва-л-мамалик» встречаем описание города
+Гайавара в Древней Гане: «Лучшее золото в его стране [Гана -
+AM] то, которое находится в городе Гайавара, между этим
+городом и столицей царя восемнадцать дней пути по стране
+[...] Между городом Гайавара и Нилом двенадцать миль, а в
+этом городе множество мусульман» [АИ-2: 183] и далее
+описывается маршрут Гана - Самаканда - Така - Гарантал -
+Гайавара [АИ-2: 183], а затем - соседние с Гайавара страны ду
+(титул правителя) и Маллал [АИ-2: 184]. У ал-Идриси (XII в.)
+уже более развернутое описание местности (страны), которую
+мы считаем возможным сопоставить с современным
+этнонимом-джаму Джавара: «Жители Гийары многочисленны,
+храбры и обладают знаниями. Они совершают набеги на
+страны Ламлам, забирают в плен их жителей, уводят их и
+продают ганским купцам...» [АИ-2: 288].
+\sety Les Diawara (les fauves de Dia) n’étaient pas à l’origine des
+Soninké. Youssouf Tata CISSE nous informe que « les Diawara de
+Tounoufou et Sambouya seraient parmi les premiers occupants du
+Mandé. Comme la plupart des clans malinké, notamment les Boula,
+(Camara, Kamissokho, Bagayokho, Doumbia), ils auraient quitté le
+Ouagadou à la suite des grandes sécheresses qui ravagèrent ce
+pays. De Tounoufou à Sambouya, leurs premières fondations, ils
+émigrèrent à Samaya, gros village fortifié en ruines sis à cinq
+kilomètres de Sélinkégni (Sélingué). Ils abandonnèrent ce lieu au
+moment des premières guerres que connut le Mandé pour l’actuel
+Samaya situé sur la rive droite du Djoliba, près de la frontière
+guinéenne. Enfin, les Diawara kokoroko (Bougouni) et les Diawara
+(griots de Kèla) près de Kangaba seraient eux aussi originaires de
+Tounoufou et Sambouya »
+\or Устная традиция помещает прародину Джавара в
+деревню Кинки округа Ньоро [MO].
+\or Jáwara – это си в провинции Ɲɔ́rɔn . Давным-давно Jáwara
+были завоеваны сонинке, вследствие чего они перестали
+говорить на своем собственном языке и перешли на язык
+сонинке. У [Jáwara] есть два bábon: Sàgonɛ́, они живут в
+Kínkin , и Dábo, они живут в Bákùnu. Первыми ɲàmakalá,
+пришедшими в [Страну] Манден, были кузнецы и гриоты.
+Поэтому они все были ɲàmakalá. Итак, [вернемся к]
+значению [имени] Jáwara, оно не однозначно, некоторые
+говорят, что на языке сонинке «Ja_wara » значит «Эй!
+Пошла вон!». Человеческое джаму в языке манинка
+оказалось созвучно окрику, которым выгоняют собак.
+Другие говорят, что их сила стала столь велика, что
+парализовала всю столицу. Они так кончились этим, что
+их прозвали «Jà wáda» . Что впоследствии превратилось в
+«Jáwara» [SK].
+\cm Большинство Джавара страдает от завышенной самооценки и
+желания доминировать. Они грубы, горды и пытаются
+доказать всему миру свое превосходство [MO].
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jàwunɛ
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jebikile
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jefaga
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jemen
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jenepo
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jeng
+\di тукулер
+\cm Субалбе (тукурёры-рыболовы), гауло.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jenta
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jeye
+\di тукулер
+\ca Субалбе (тукурёры-рыболовы).
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jɛbatɛ
+\fr Diabaté, Diabate, Diébaté, Diebate, Diabagate, Diabagaté
+\va Jabatɛ
+\va Jubatɛ
+\va Jabagatɛ
+\va Jɛbaatɛ
+\va Jɛbagatɛ
+\di манинка
+\di куранко
+\ca jèli
+\ca hɔ̀rɔn (на Ю.-В. Мали. Бугуни, Сикассо [MO])
+\ca nùmu
+\ca gesere (у сонинке)
+\tn panthère
+\tn Джабате не должны никаким образом иметь дело с Барро:
+разговаривать с ними, совместно принимать пишу, садиться на
+одну циновку и т. п. [MO].
+\sn Jàra
+\sn Kone
+\sn Jata [MO]
+\sn Jarasoba [MO]
+\sn Togola [MO]
+\sn Dunbiya [MO]
+\sn Mariko [MO]
+\sn Daɲon [MO]
+\sn фульбеasinaani и jeli (гриоты) 
+\sn Fonba
+\sn Kamisɔkɔ
+\eq Traorés, Dambélés, and Diabatés are considered brothers, and all
+three are the sinankuw of another set of brothers: the Konés,
+Diarras, Kantés, and Condés (Doumbia 2002:33). While not
+everyone I talked to was aware of these “brotherhoods,” some
+informants did know of their existence and the history behind these
+relationships" [Jones, 2007: 60].
+\eq Diop
+\eq Watara 
+\eq Traore
+\eq Jabatɛ
+\geo Большинство Джабате проживает в горах Мандинг и округах
+Кита, Каес и Сан [MO].
+\or Сураката, один из предков Джабате, был правоверным
+мусульманином, распространявшим ислам, за что Пророк
+сказал ему: "Никто ни в чем тебе не сможет отказать". Die
+(отказывать) + baga (AG OCC -- суффикс имени деятеля) + te
+(NEG -- отрицание) = Diebagate [MO].
+\or Kогда на Манден напал буйвол, никто из охотников не мог его
+убить, тогда позвали братьев Траоре, когда они увидели
+буйвола, старший от страха забрался на дерево и буйвола убил
+младший. Такой поступок младшего являлся неуважительным
+по отношению к брату, во избежание этого, ему дали новое
+джаму "Джабате", что переводится как "тот, кому нельзя ни в
+чем отказать", он стал гриотом. Поэтому считается, что все
+Джабате -- это Траоре.
+\cm Изначально Джабате были известны своей откровенностью и
+прямотой, они всегда говорили только правду, не скрывая от
+собеседника своего мнения. Но с тех пор, как они стали
+гриотами, c'est tout le contraire qui se passe de leur propre aveux
+(?) [MO]
+\or Происходят из деревни Баланза в регионе(?) Кангаба,
+округ Бамако [MO].
+\or Jàbaatɛ́ произошли от Wátara [SK]
+\or Jàbaatɛ́ раньше были Tárawele. Двое братьев Tárawele,
+которые убили страшного буйвола в саванне около 1189
+года. Их звали Wùlanín и Wùlanbá. Младший брат,
+Wùlanbá, проявил отвагу и убил буйвола, за что старший
+брат, Wùlannín произнес ему хвалебную речь. Тогда
+Wùlanín сказал: «Брат мой, твоя речь превосходна! Ты
+должен бы стать гриотом». Ты щедр, ни в чем не
+отказываешь. Wùlanbá стал гриотом, и с тех пор его си –
+Jànbaatɛ́. Впоследствии «Jànbaatɛ́» стало произноситься
+«Jàbaatɛ́» или «Jùbaatɛ́». Jàbaatɛ́ однако сохранили
+прежнее джаму Tárawele – Túraman или Túramansi [Kante
+2004].
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jige
+\di диавамбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jigibe
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jime
+\va Njim
+\di диавамбе
+\di джогораме
+\dt 28/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Jinbiya
+\di сонинке (?)
+\tn tunbi (garinarium excelsum)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jire
+\va Jirɛ
+\di сомоно
+\di бозо
+\di сонинке
+\di догоны
+\ca jèli (в Сегу)
+\ca hɔ́rɔn [MO]
+\ca рыбаки [MO]
+\sn догоны
+\geo Джире можно встретить на берегах Нигера от Сигири (Siguiri)
+до Масины (Masina) [MO].
+\tn Крокодил (bàma) [MO]
+\or Сегу [MO]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jonbana
+\di сонинке
+\di кагоро
+\ca tagu
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jong
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jonu
+\cm Болон.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jop
+\va Juf
+\va Juuf
+\di волоф
+\eq Tàrawéle
+\eq Denbele
+\sn Njayi
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jɔ́mànde
+\eq Fófana
+\fety "сын манден".
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jɔnfaga
+\di dia
+\ca hɔ̀rɔn
+\geo Boke
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jɔnsan
+\di dia
+\ca hɔ̀rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Juhara
+\di сонинке
+\ca mòri
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jukanci
+\di бамбара
+\dt 22/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Jum
+\di фульбе
+\di тукулер
+\ca столяры
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Jumasi
+\di бамбара
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kaane
+\eq Kánte
+\di бамбара
+\di тукулер
+\sn Bánbà
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kàba
+\di манинка
+\di сонинке
+\eq Jàkite
+\eq Jasimunka
+\eq Ba
+\geo Kankan
+\ca hɔ̀rɔn
+\fa kàbajàyitɛ
+\or Kàbá Предка {bénba} марабутов сонинке звали Kàbá.
+Поэтому сейчас людям с таким си говорят: «отец Kàbá».
+Однако на языке манинка это имя звучит иначе: «Kàba».
+Так как предок марабутов сонинке был черным, его звали:
+«Kàbá Bìnɛ ». На языке сараколе  это значит «черный
+камень». «Kàbá Bìnɛ́» на устах манинка превратилось в
+«Kǎbìnɛ́». Имя их предка Kàbá стало именем их си. Их
+предок Kàba Làayí взял в жены дочь правителя Tínkala
+Jàkaté, который является правителем Jára fila, по имени
+Bɔ́nkɔ Jàkaté, около 1380 года. У них родилось двое детей –
+дочь Máriyama и сын Mùramanín.  Эти дети взяли себе ее
+девичье си Jàkaté и сделали его своим джаму. В речи
+«Jàkaté» упростилось до «Jàyité». Kàbá Mùramanín и его
+старшая сестра Kàbá Máriyama Gbɛ́  вместе покинули
+Jàfunún  и пришли в Bátɛ  около 1643 года. В Bátɛ их
+потомки – это два bábon Kàbá: Kánara (это потомки
+девушки) и Bánara (это потомки юноши). Когда Kàbá
+пришли в Страну Манден, они подписали союзное
+соглашение с Kúyatɛ, и родственницы со стороны бабки
+называли их тогда Jàyité, их джаму стало Tànbakaará –
+это название их первого города в Jàfunún. [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kàkɔrɔ́
+\or Kàkɔrɔ́  – главные {kìná} среди всех fàbón Kàmará.
+Название их си Kàkɔrɔ́ значит: Kàkɔdɔ́ [«раньше,
+издревле»]. Те, которые давно имеют имя Kàmará. Главные
+Kàmará были свергнуты в [Стране] Манден, когда Kàmará
+были свергнуты в Wùduma и Mànsarén пришли к власти в
+Ɲàninbá  в 760 году от Рождества Христова. Kàkɔrɔ́
+поселились около Kàratá   на окраине Kàsón  давным-давно.
+Джаму Kàkɔrɔ́ – Mákasa. Один его bábon был свергнут в
+первой половине XVII века в Kàrataa. И они поселились у
+kàwu в Bátɛ около 160 года. Этот bábon – это Jànkará.
+Город, принадлежащий Kàwu и сам получил свое название
+от их bábon: Jànkaná. Сейчас этот город находится
+недалеко от Канкана на 14-ом километре новой дороги на
+Сигири [SK]
+\ps n.prop
+\ge NOM.CL
+\dt 25/May/2017
+
+\lx Kalapo
+\va Kalafo
+\di бозо
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kale
+\di сомоно
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kalle
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kaloga
+\va Kálɔkà
+\va Kálɔ̀
+\di манинка
+\di сонинке
+\di джаханка
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kama
+\di сонинке
+\di диавамбе
+\ca tagu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kamagate
+\di dK
+\or "We will see this conflict between traditional local lineages
+holding the imamate and new, more educated muallim reappear
+in the section on the Volta basin Wangara, for instance between
+the Kamaghate and the Fofana and Cissé (the latter seem to
+have accused the former of tolerating animist traditions and
+practices and resorting to fetichism, which indeed established
+their success with the animist chiefs and populations)."
+(Massing, 2000: 287)  
+\or “The Kama(gh)até held the imamate in Begho and in other
+settlements of Begho descent, and were a major element of
+Islamization in the area between the Black and White Volta.
+They held the title Shehuwangara and established the Sakpare
+imams among the Gonja. (Massing 2000: 297)  
+\or “The Friday imam of Bouna, nowadays from the Cissé clan,
+told me that formerly the Kamaté held the imamate in many
+Diula settlements but were replaced by those who had received
+special instruction in Islam. He categorized the earlier imams as
+“marabouts”. Whoever is familiar with the connotations of the
+term “maraboutage” will understand that this implies the
+making of charms and magic.” (Massing 2000: 297)  
+\or “According to Y. PERSON (1968 vol. I: 30) Kamaghate is a
+Mande or сонинкеinke dyamou, among others that of the founders
+of Odienné—named after Djenné—who pushed back the
+Senoufo and imposed Moslem authority on the Bambara
+animists (Kourouma, Bamba, Fane, Kone and Fondya)”
+(Massing 2000: 297)
+\geo “my own research reveals Kamaté and Timité to be dyamou
+prevalent in Fangasso, Ouan, Tene and Sofara, within 60 km of
+Djenné, called Marka or Bobo-Dioula (reputedly converted to Islam
+in Poromo near Fangasso).” (Massing 2000: 297) 
+\geo “The dyamou Diabaghaté, Kamaghaté, Timité, Kanté, Bamba also
+occur in the Korodougou, in the west of Côte-d’Ivoire.” (Massing
+2000: 297)  
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kàmara
+\fr Camara, Kamara
+\va Kámala
+\di манинка
+\di куранко
+\di dia
+\di кагоро
+\di kny
+\di сусу
+\di сомоно
+\eq Koiwogi (у лоома)
+\eq Dansoko
+\eq Fófana
+\eq Magasa
+\eq Mara
+\eq Sekonho (У сенуфо  – Секонхо (Sekonho, Sekongo) – земляная
+белка)
+\eq Камара остаются Камара на большей части территории
+Западного Судана [MO].
+\ca hɔ̀rɔn +[BK] За предком Камараба следовали Ньяни Манса
+лече-Манса, Канинба-Манса Бирима - Табу Ньяра Манса
+Карама или Храбрый вождь Табу - Манса Ньяра Фран Камара
+Манса Дьома etc [Konde 2015]
+\ca finɛ. Искусные ораторы, которые были приняты при
+королевском дворе [Konde 2015] 
+\ca nùmu (Wasulu) +[BK] 
+\ca somono (рыбаки) [BK] Сомоно - это различные касты
+ремесленников. Они занимаются изготовлением военного
+оружия, музыкальных инструментов. Среди них выделяются
+гончарщики, те, кто занимается плетением корзин etc. Их
+предком был Дали-Манса [Konde 2015]
+\ca jeli [BK] Они произошли от того же предка, что и фина Ман
+Даба [Konde 2015]
+\sn Kùruma +[BK]
+\sn Fófana +[BK] Бракозапретно [BK]
+\sn Sìla
+\sn Wùlare
+\sn bula 
+\sn Keyita. Камара - основатели и первые воины-правители Кита.
+Сундьята («Кейта») подчинил Кита и заключил ритуальный
+альянс с Камара, которые остались в области (jamana) Кита
+«хозяевами земли» (dugukolotigi) и оказались с Кейта в
+отношениях «шуточного родства». [Cisse 1970: 19-20]
+\sn Kamara finɛ и Jalo, Jakitɛ, Sidibɛ, Sangare
+\sn Konatɛ [BK]
+\sn Sanɔɔ [BK]
+\tn jebrelen
+\tn Слон - sama (у коньянка)
+\tn Водный варан (у кагоро)
+\tn Черепаха [MO]
+\tn Крокодил (bàma) [MO]
+\tn Игуана (koro) [MO]
+\tn Маленькая пестрая мышка (Lemniscomys) [MO]
+\geo Верхняя Гвинея, горы Мандинг [MO]
+\or Большинство була происходят из Siendugu региона Сиби,
+округа Бамако. [MO] 
+\or Считается, что Камара происходят из самого Сиби
+[MO].
+\or Камара утверждают, что происходят от Фассуна и
+Баджуба Нассари. Фассуна была любимой наложницей
+пророка Мухаммада. Fasuna = a ka fsa ne na. [Molinie
+1959] 
+\or Имя Камара, скорее всего, появилось первоначально у
+(предков) сонинке, на что может указывать более высокий
+статус Камара-сонинке по отношению к Камара-бамбара и
+другим Камара в наше время. Затем, возможно, часть Камара
+стали говорить не на сонинке, а на «языке победителей» -
+бамана или манинка, и, возможно, такие Камара принадлежали
+уже не к свободным воинам-земледельцам, а к ремесленникам
+или гриотам, отсюда и могла появится интерпретация
+«Камара» как «кастового» джаму у бамана и манинка и
+«благородного» - у сонинке в [N'Diaye 1970a: 104, 181, 183]. На
+север Кот-д'Ивуара джаму Камара проникло, видимо, вместе с
+вангара и диула Конга.   
+\geo Зафиксировано у лимба, темне, ялунка в Сьерра-Леоне, у coco
+в Гвинее. 
+\geo Tabori, Sibi, Baliya, Siribure, Farana, Kiriwani [BK]
+\or Все государства Sànkarán объединились в одну большую
+страну и поставили во главе всех объединенных
+государств одного-единственного правителя. Этому
+первому всеобщему правителю говорили: «Пусть он
+правит! » Пусть он правит всеми объединенными
+государствами. И это стало си потомков первого
+правителя. Сейчас у Kàmará есть шесть bábon: 1. Tábon
+Kàmará 2. Sìbí Kàmará 3. Gbákundɔ Kàmará 4. Kídimàgá
+Kàmará 5. Sɔ̀mɔnɔ́ Kàmará 6. Fìná Kàmará Полный список
+джаму приведен на 11-й странице [Издания 2000 года].
+Kàwú Их предок – марабут сонинке из Jàfunún. Он прожил
+очень долгую жизнь, больше ста лет. Его звали Móri Bínɛ .
+На языке сонинке это значит: «Черный марабут». Он,
+занимаясь марабутством, вышел из Màrakadúu  в конце
+XVI века (около 1590 года), направляясь в Страну Jàlón . В
+то время фульбе Tɔ́ɔrɔ переселялись туда со своим скотом.
+И он [Móri Bínɛ] стал стал там единственным марабутом,
+так как был очень востребован. Тогда он ушел из Страны
+Jàlón. В то время эта местность еще не стала владением
+Fúta. Он поселился недалеко от Сигири {Síirin} в Tìibirí. Там
+он также стал известным марабутом. И тот баобаб,
+который он посадил в Tìibirí, теперь стал большим. Все
+жители манинка слышали о Móri Bínɛ из Tìibirí. Однажды
+в Ámaana пришел разбушевавшийся лев, [который]
+доставлял жителям многочисленные неудобства, вплоть
+до того, что убивал людей и животных. Ни один охотник
+не мог его поймать. Все мечты и чаяния людей сводились к
+тому, чтобы одолеть этого зверя. И жители Kùmáan
+позвали марабута Bínɛ, [чтобы он избавил их] от этого
+людоеда. Умелый марабут отправился на поиски льва и
+искал его, пока не нашел и не убил в Sánkidan.
+Старейшины Kùmáan возрадовались и забрали всю семью
+и имущество знаменитого учителя из Tìibirí и перевезли к
+себе, в Kùnmaaná. После этого на берегу Mílo был город
+под названием Gbéleban. Сейчас он называется Jànkaaná.
+Язычники Tárawele и этого города отправились к жителям
+Kùmaaná на поиски марабута Bínɛ. [Так как] в их городе
+появился злой крокодил, который им досаждал. Дело
+дошло до того, что он средь бела дня хватал ткачей за
+ткацкими станками. Не говоря уже об убитых им
+животных и стиральщиках белья в реке. Великий марабут
+пошел и победил для них эту не знающую границ
+рептилию. Марабут связал этого злого крокодила и
+положил к ногам жителей Gbéleban. Они тоже
+обрадовались и были так признательны ему, что не хотели
+его отпускать. Жители же Kùmaaná говорили в ответ,
+что если он не вернется к ним, то больше никогда не
+получит назад своего младшего брата [или сестру],
+оставшегося у них в городе. И сегодня потомки его брата
+(сестры) по джаму Kàwú {Kàwulaká} живут там. Он
+объявил, что останется с жителями Gbéleban, обратит их
+в ислам и детей их отправит в школу. Это стало причиной
+ссоры между ним и местными жителями, обстоятельно
+поразмыслив об этом, они все же не поняли ислама. Они
+боялись, что их предки-язычники будут рассержены и
+проклянут их. Этот спор о введении религии [ПРОПУСК].
+Правитель Kàratá Kàkɔrɔ́ и марабут Sìtɔrɔ́ остановились у
+марабута Bínɛ, так как были мусульманами. Он поселил их
+рядом с собой и распределил между ними своих
+многочисленных незамужних дочерей. Он и эти Kàkɔrɔ́
+объединились против своих хозяев-язычников, сразиись с
+ними и прогнали их прочь. Они пошли и основали новый
+Gbéleban у подножия гор неподалеку от Mákɔnɔn.
+Поэтому потомки {bɔ́nsɔn} язычников Tárawele
+проживают сейчас в Gbéleban Kúda [Новый Gbéleban].
+Марабут Bínɛ и Kàkɔrɔ́ ушли из Gbéleban на восток. И
+назвали его именем bábon'а Kàkɔrɔ́ – Jànkaná. Ребенка
+сестры марабута Bínɛ звали Káwu. На языках сонинке и
+фула [пулар] это значит: «мой дядя» {ń bárin}. Все
+называли его в честь его дяди, и это стало его си и джаму.
+Это были сами Kàbá из Jàfunún. Они не были Bànará. Они
+не были Kànará. Они были потомками Mùramanín и
+Máriyamagbɛ. И их предки жили в Bátɛ [SK] 
+\or Предком Камара был Кела Манса Субри, он был воином,
+родом из Джида. Его сыном был Манса Джида. Манса
+Джида пришел в Африку, убивая по дороге духов и
+совершая жертвоприношения. Сыном Манса Джида был
+Та Манса Билинба. Сыном Та Манса был Нени Манса Кара.
+Сыном Нени Манса Кара был Каманджан Боро. Потомки
+Каманджана Боро первыми стали называться Камара.
+Позже Каманджан Боро поселился в Танбон [BK]
+\fa Tabonka; Tabon Kamara; Sibi Kamara; Sibika [BK]
+\dt 27/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Kàmisoko
+\fr Kamissoko
+\va Kamisogo
+\di манинка
+\di сонинке
+\di кагоро
+\eq Jàra
+\tn káana
+\eq Njayi
+\sn Jabate
+\sn Traore
+\sn Denbɛlɛ
+\ca hɔ̀rɔn (у сонинке)
+\ca jèli (Знак - три продольных шрама на висках.)
+\ca numu [MO]
+\fa Sataba
+\or Саманьяна (Samanyana, неподалеку от Bankouna, округ
+Бамако)
+\geo Канкан, Сигири, Банкумана, Фарана, Джабакоро, Коли,
+Тигибери [MO]
+\tn Лев (jàra) [MO]
+\tn Яйца [MO]
+\tn Водная игуана (káana) [MO]
+\cm Большинство Камисоко -- мусульмане [Milinie 1959].
+\dt 28/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Kamiyan
+\di marka
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kan
+\di диавамбе
+\geo Segu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kanakomo
+\di бозо
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Káne
+\di бозо
+\di сомоно
+\geo Segu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kàni
+\di бамбара
+\ca hɔ́rɔn
+\ca nùmu
+\geo Beledugu (?)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kanisi
+\di мандинка
+\cm Один из kabila, входящих в джаму Kéyità.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kankama
+\di dia
+\ca hɔ́rɔn
+\geo Boke
+\fa Ɲagaso
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kanpo
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kansai
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kantara
+\di манинка
+\eq Kàmara
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kánte
+\va Kándɛ
+\va Káane
+\eq Súmàoro
+\di манинка
+\di was
+\di бамбара
+\di кагоро
+\ca nùmu
+\ca jèli
+\tn белая курица
+\tn bàma
+\tn búbunin (в Бугуни)
+\pr Bamagana
+\fa nùmuna kúlunba, súbagaya tɛ́ sà!
+\fa Súya tɛ sànfɛn yé, nùmuya` tɛ́ kɔ́rɔbɔ
+\sn Kéyità
+\sn Kàmara
+\sn Sàmakɛ
+\sn Jabo
+\sn Jàkite
+\sn фульбе
+\sety “An analysis of Kong’s lineages reveals a dual origin: first, Bambara
+dyamou which apparently came from the Segou-San area, namely
+Baro, Daou, Balo, Cissé, Touré. Second, Mande dyamou like Kanté,
+Konaté, Kone who seem to have taken the detour via Guinea and
+the northwestern Ivory Coast through the Korodougou, Boron and
+Korhogo.” [Massing 2000: 298]
+\fa Мужское джаму для Kántɛ – Bánmaana. Женское джаму –
+Súmaoro [SK]
+\or Это си правителя сосо. Раньше их си было Jàrisɔ́. [Так
+случилось] потому, что по причине своей сильной
+приверженности колдовству они втыкали в обе свои щеки
+иглы дикобраза и подвешивали к ним колчаны так, чтобы
+все могли это видеть. Поэтому ему говорили: Júurukanke.
+Это значит: «житель места, где есть иглы дикобраза».
+Потому что júuru – это название дикобраза на языке
+манинка. Поэтому Bàlá Sísɛ говорили: Júuru Sísɛ . Второго
+сына Súmaoro все называли: Màan Jàrá Súmaoro dén .
+Впоследствии это превратилось в Màan Jàrá Súmaoro.
+«Dén» не произносилось для быстроты. Это и имя его
+отца стало именем его си: Màan Jàrá Súmaoro. Об этом
+говорилось ранее, в конце четвертой страницы [издания
+2004 года]: «Си всех людей – это имена их предков,
+качество, их характеризующее». Сын великого правителя
+Jàrá Wòrobá отказался подчиняться правителю Kùnbí и
+стал независим от него. Поэтому ему говорили:
+Bànmaanná . Это значит: «тот, кто перестал подчиняться
+правителю» . Это стало джаму Wòrobá и его потомков.
+Третий Súmaoro никогда никого не слушал на собраниях,
+кроме себя самого. Поэтому про него говорили: Súmaoro
+стал kántɛ . Потому что ничей голос ему был не слышен,
+он никого не слушал, лишь самого себя. Нежелание
+слушать других стало речью гордости у гриотов на
+больших собраниях. И это стало [именем] его джаму и си.
+Когда Súmaoro лишился власти в битве при Kírina в 1236
+году, люди стали отплачивать всем детям правителя
+Kántɛ за его злодеяния. В страхе перед это расплатой
+некоторые Kántɛ говорили, что они Kándɛ. Они не Kántɛ.
+Но они все равно все оставались Kántɛ. Нет такого си
+Kándɛ. Некоторые Kándɛ относятся к аристократии
+{lànpaasí}, некоторые – к сословию ремесленников
+{ɲàmakalá}, они гриоты или кузнецы. Те, которые
+ɲàmakalá, – сказители {ɲàrá}. И даже если они
+становятся Sèrefú, те, кто занимается серьезной работой
+– это аристократия. Даже если они Kàmará Fìsaaná (?). У
+манден принято разделять ɲàmakalá в зависимости от
+рода их занятий: ремесленная работа и искусства
+{kùsanya} [SK]
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Kanute
+\va Kanutɛ
+\di бамбара
+\di кагоро
+\ca jèli (у кагоро)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kanyasi
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Karabɛnta
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Karanbe
+\di догоны
+\geo Bandiagara
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Karanyara
+\di диавамбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Karo
+\cm Одно из трёх больших подразделений сонинке.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kásanbàra
+\eq Kùlibàli
+\di догоны (в Бандиагара)
+\di бамбара(в Мопти)
+\sn Kéyità
+\sn Tùre
+\sn Mayga
+\sn Sàmakɛ
+\sn Jàra
+\tn голод (?)
+\fety Народная этимология: kásaa ń bàra 'от меня пахнет рыбой'.
+Младший брат - Кулибали, съевший сома npɔlyɔ.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kase
+\di фульбе
+\ca maabɔ (в Мопти)
+\tn nkɔrɔngɔ
+\sn nùmu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kasoge
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kasumasi
+\di мандинка
+\cm Один из kabila джаму Kéyità.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kàtile
+\di бамбара
+\geo Segu
+\eq Bware
+\or Пришли из Масина.
+\tn gàrafini (одежда, крашенная индиго)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kèbe
+\di манинка
+\di тукулер
+\ca hɔ̀rɔn (у манинка)
+\ca laobe (у тукулёров)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kelefeli
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kelem
+\di фульбе
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Keren
+\di dK
+\cm Один из kabila в Конге.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kéyità
+\va Kétà
+\va Kɛ́yità
+\gr Keita
+\di манинка
+\di dia
+\di бобо
+\eq Suma
+\eq Kone
+\eq Mayga (?)
+\eq Beawɔgi
+\geo Kita, Manding, Farana
+\tn jàra
+\tn nonsi
+\sn Tùre
+\sn Kùlibàli
+\sn Sìsɛ
+\sn Sídìbɛ
+\sn Kàba
+\sn Wùlare
+\sn Jàanɛ
+\sn Màriko
+\sn Drave
+\fm Sugo
+\fm Suko (брачные партнёры)
+\pr Manasaren
+\cm  Общее происхождение сKùlibàli.
+\or Конате, Кулибали и Кейта являются потомками Махамаду
+Кану и Мариату, у которых было трое детей, каждый из
+которых стал родоначальником нового клана (джаму). Далее
+легенда существует в двух версиях: 1. Старший брат –
+Кулибали отдал власть младшему Кейта в обмен на пищу. 2.
+Трое братьев -- Кану Симбо, Кануньоро Симбо и Лауали
+Симбо жили вместе в одной деревне, Старший, Кану, был
+вождем деревни. Однажды, во время сильного голода, Кану
+неравномерно растпределил дичь, убитую на охоте, и забрал
+большую часть себе. На следующий день Лауали Симбо
+исправил ситуацию, поделив добычу поровну, чем заслужил
+расположение жителей деревни. Они решили сделать его
+вождем деревни, для предания легитимности своим действиям,
+они устроили собрание, на котором Бог и предки должны были
+определить, кто станет новым вождем. И посадили одного
+человека на дерево, а другого в могилу, в нужный момент они
+высказались в пользу Лауали, который был избран вождем. Но
+у него не было детей, поэтому следующий по старшенству
+брат, Кануньоро взял себе псевдоним Konate = Kona (тот, кто
+не имеет, не может иметь детей) + te (отрицание), то есть тот,
+у кого дети есть. Однако вскоре у Лауали родились дети, в
+связи с чем он получил имя Keyita = ke (наследство) + ta
+(брать).
+\sety Возможно, происходит от названия поселения (ныне город)
+Кита, хотя убедительных доказательств такой этимологии нет. 
+\sety Environ un siècle après la conversion de Baramandana, vers 1150,
+le trône du Mali était occupé par un nommé Hamama, le plus ancien
+souverain dont la tradition purement indigène ait conservé le nom
+exact. Il mourut vers 1175 et eut pour successeur сонинке fils
+Djigui-Bilali auquel succéda, vers 1200, сонинке fils Moussa. Moussa est
+presque toujours cité dans les traditions indigènes sous le surnom
+d'AIIakoî: ce surnom lui aurait été donné parce qu'il avait l'habitude,
+chaque fois qu'on l'interrogeait sur la cause d'un événement, de
+répondre Alla koï c'est-à-dire Dieu, certes voulant indiquer par là
+que Dieu était la cause première de toutes choses. Certains ajoutent
+que sa descendance reçut le nom d'Alla Kolta, « ceux d'Alla-koï »,
+nom qui aurait été abrégé, plus tard, en Koïta ou Keïta [Delafosse
+1912, t. II: 175] 
+\sety Ш. Монтей [Monteuil 1977 [1924]: 14] ссылается на устную
+традицию, согласно которой, основатели «империи» Мали
+прибыли с востока (из Конга, территория нынешнего
+Кот-д'Ивуара) под предводительством Кабаля Симбо Кейта,
+предка Сундьяты (то есть речь идет о X-XI вв.) Они, якобы,
+обосновались в До (Додугу, Ду), чьей столицей был Табу. В
+Табу (до прихода Кейта? – A.M.) вождем был «бамбара» по
+джаму Конате, а жили там люди, которые назывались на
+сонинке «Mandinke». Область Кири (Кирина, Кри), соседняя с
+Додугу, была населена бамбара «independants»
+(«независимыми»). Империя Мали сформировалась в
+результате войн между Сумангуру Канте и Сун Джата
+(Сундьята) Кейта. По версии Монтея и его информантов, Кита
+не является прародиной Кейта: Сундьята покорил область,
+победив Камара. После победы над Суман-гуру Сундьята
+принес жертвы духам-покровителям (protecteurs des lieux)
+Китаба-Динга, после чего деревня сдалась без боя, и ее
+жители стали союзниками Сундьяты. Более того, Кита
+превратилась во вторую (после Кангаба) столицу Кейта. Не
+исключено, однако, что версия о происхождении Кейта из Конга
+была придумана в Конге, а о происхождении из Кангаба - в
+Кангабе. Причем много позднее X-XIII вв., о которых идет
+речь. Так или иначе, основные святилища Кейта расположены
+ныне в Канагаба и Кеньеро, то есть существенно южнее
+Кита.  
+\dt 22/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Kɛ̀mɛnaani
+\di бамбара
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kiabu
+\di dia
+\ca hɔ̀rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kide
+\di диавамбе
+\di джогорамеorame
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kindibilba
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kirigun
+\di dK
+\cm Один из kabila в Конге.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kobara
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kojo
+\di догоны
+\geo Sanga
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kolo
+\eq Sàmakɛ 
+\cm (?)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kòma
+\va Komma
+\di сонинке
+\ca wage
+\cm У манден иногда называются в числе "пяти первых
+мусульман".
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kómàra
+\di манинка
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Konare
+\di бамбара
+\va Konarɛ
+\va Konantɛ 
+\cm (?)
+\eq
+\ca hɔ́rɔn
+\geo Kayi
+\tn nɔ́nsin
+\dt 18/Feb/2013
+\ps n.prop
+\ge NOM.CL
+
+\lx Kónatɛ̀
+\va Kɔnatɛ
+\va Konate
+\va Kònatɛ́ [SK]
+\eq Kéyità
+\eq Konare (?)
+\di манинка
+\di бамбара
+\di кагоро
+\tn wùlu
+\sn Màriko (в Беледугу)
+\or см. Kulibali
+\or Kona tè, (il n'est pas stérile), kona en vieux mandinhue voulant dire
+stérile, l'histoire dit qu'une femme repectable n'arrivait pas à
+concevoir d'enfants et tous le village les disaient "kona mousso" et
+lorsqu'elle le pût, l'enfant pris le nom de Konatè en mémoire de la
+situation précédent sa naissance car désormais au lieu de Kona
+mousso, sa mère était dite "k"ona tè". Konaté et Soucko semblent
+être des noms de substitution à Keita, ils ont été donnés en raison de
+certaines circonstances. Soucko (celles qui attendent le mort" était
+le nom donné aux femmes de Keita partis aux champs de batailles
+et en mémoire des engagements militaires des époux dire encore
+aujourd'hui à une Keita "Soucko" est le signe du respect profond que
+l'on a pour сонинке mari, pour elle et pour les Keita en général. Encore
+aujourd'hui lorsque certaines femmes font un enfant tardivement, les
+vieilles personnes en la saluant disent "i konatè", le nom est
+prononcé pour non seulement se moquer des mauvaises langues
+mais aussi pour glorifier la femme. 
+\or Конате (или Кунате) происходят из города Куна (Кона) на
+востоке Масины, на юге и недалеко от Дебо [Delafosse
+1912:260].
+\or Kònatɛ́ произошли от Mànsarén [SK]
+\or Kònatɛ́ - это bábon младших братьев и сестер Mànsarén.
+Правитель Mànsarén выдал свою дочь Síyara Kétà замуж
+ха мужчину из Tɔ̀rɔ́n. Ей очень понравилось в доме ее
+мужа. Потому что к ней относились с уважением, как к
+дочери правителя. Ей ни в чем не было нужды. Потому
+что ее отец был очень богатым человеком. Но по причине
+ее бесплодия и связанных с этим неприятностей – печали,
+грусти, неспокойствия и тоски по дому, когда умер ее
+отец, его родственники {màkɛ́}, которые пришли к власти,
+стали делать все, чтобы проявлять к ней щедрость. Но ни
+уважение к ней, ни молитвы не могли унять душевную
+боль Síyara Kétà. Ее сожена назвала ее «Kòna móso» .  На
+языке манинка Kòná – это женщина, которая не может
+иметь детей, дети которой умирают. Она неполноценна.
+Síyara Kétà пожаловалась на свое бесплодие своим
+родственникам. Она сказала, что несмотря на то, что они
+все для нее сделали, она все равно страдает. Потому что
+ее сожена говорит ей постоянно: «Kòna móso». «И это
+мне не нравится. Поэтому я пришла к вам, чтобы вы
+отдали мне ребенка, девочку. Она бы стала моим
+ребенком, и ребенок сделал бы так, что я берестану
+перестану быть бездетна». «Хорошо, но если мы дадим
+тебе девочку, то она перейдет в дом своего мужа, а ты
+снова станешь бездетна, поэтому мы дадим тебе
+мальчика, насовсем». Мальчика, которого ей отдали, звали
+Kòmán. По причине того, что было сделано для нее в доме
+ее мужа, люди говорили ей: «Теперь ты не бездетна.
+Теперь у тебя есть ребенок». Те, кто называл ее
+бездетной, устыдились и стали называть ее «Kòna tɛ̀ móso
+». Ребенок Kòmán, которого отдали ее родственники, имел
+так много детей, как мышь kùdugbén  . Этих детей стали
+называть потомками женщины Kònatɛ́ . В быстрой речи
+это превратилось в Kònatɛ́ lú. И это стало [именем] их си.
+А имя Síyara стало их джаму. Даже сейчас к Kònatɛ́
+можно обратиться по джаму Kétà, это они и есть [Kétà]
+[SK]
+\fa Мужское джаму для Kònatɛ́ – Síyara. Женское джаму – Sùwɔ́
+[SK]
+\dt 27/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Kònde
+\va Kɔ́ndɛ [SK]
+\di бамбара
+\ca hɔ́rɔn. Все без исключения [MO]
+\ca tontigi
+\geo Kurusa
+\geo Sanakaran
+\geo Farana
+\geo Kankan
+\eq Kone. Конде -- особая форма джаму Коне в области Сангара
+[MO].
+\eq см Konde [MO].
+\sn см Konde [MO].
+\geo Большинство Конде проживает в области Сангара округа
+Курусса в Верхней Гвинее [MO].
+\tn Лев (jàra)
+\tn Листья Fícus sycómorus (Сикомор, "библейская смоковница")
+\or Происходят из области До, состоящей из двенадцати
+деревень. Точное расположение До не известно [Molinie
+1959].
+\or Kɔ́ndɛ. По-другому: Kɔ̀n dén. Одну зрелую
+колдунью-властительницу джиннов , звали Kɔ̌n. И по
+причине ее необычайной силы, кто бы ни выстрелил в ее
+ребенка при помощи магического приспособления {kɔ̀rɔtɛ́}
+или колдовского средства, или же выступил против него
+при помощи колдовства {súya}, или совершил какую-то
+порчу – кто бы это ни сделал, с его ребенком ничего не
+происходило. Сам же тот, кто это делал, умирал. Потому
+что это происходило с ребенком этой искусной женщины,
+которая не причинила никогда никому вреда кроме тех, кто
+обижал ее или ее ребенка. У нее родился один сын,
+которого назвали Támura, и много дочерей. У ее сына
+родилось несколько десятков сыновей. Весь этот выводок
+внуков воспитывала его старшая сестра. Ее ребенок
+прожил очень долгую жизнь, вплоть до того, что стал
+глубоким старцем. Их всех называли Kɔ̀n dén nù . 
+Впоследствии это превратилось в Kɔ́ndɛ lù. И с тем,
+чтобы люди перестали нацеливать злые дела на его детей,
+Kɔ̌n повесила на шею всех его потомков амулет {kìdín}  . И
+это стало их [отличительным] признаком. Если кто видел
+амулет на шее, его тотчас оставляли, потому что это был
+ребенок Kɔ̌n. Старуха передала все свои колдовские
+навыки и умения своему сыну Támura. Он стал самым
+знаменитым колдуном {sóma} среди всех. Если кто-то
+могущественный с ним играл, он [Támura] издавал дурной
+запах, и это означало, что он брал свою колдовскую
+рубашку, брал все свои колдовства {súya} в руки. Поэтому
+ему говорили: Kásawura [«вонючка»]. И это стало его
+джаму. И имя Támura тоже стало их джаму. Тогда к ним
+также обращались Kɔ̀nden. Это стало именем их си. И по
+сей день это так [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kone
+\va Kɔ́ndɛ
+\va Konte
+\va Kɔ́nɛ
+\va Kɔ́ntɛ
+\di манинка
+\di бамбара
+\eq Jàra
+\eq Njayi
+\eq Tanbura
+\ca jèli
+\cm у манинка
+\ca hɔ́rɔn
+\tn jàra
+\cm Jèli у Kàmara (kagoro).
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Konipo
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kònta
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Korkosi
+\di сонинке
+\ca tagu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Korora
+\di dK
+\cm Один из kábila Конга.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Koyita
+\va Koyta
+\di сонинке
+\di бамбара
+\di тукулер
+\di кагоро
+\di диавамбе (?)
+\di манинка
+\di миньянка
+\ca jèli
+\cm в Сегу
+\ca hɔ́rɔn
+\cm у сонинке
+\cm Многие Koyita-сонинке - коневоды. Главное место - Saroma
+Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
+\or Это марабуты сонинке, пришедшие [в страну Манден].
+Они выдавали своих дочерей замуж за гриотов и женились
+на их детях, потому что те были мусульманами. Поэтому
+манинка сделали их гриотами. Так как запретом многих из
+них были гриоты или те, кто берет в жены гриоток:
+Fédekariya, bábila [?] [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kɔ́ntawò
+\di сомоно
+\sn kagoro
+\sn сонинкеinke
+\sn догоныonw
+\cm бракозапретные
+\cm Восходят к сонинке.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kɔrɛ
+\di бамбара
+\ca jèli
+\geo Segu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kuɛyta
+\di сонинке
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kùlibàli
+\fr Coulibaly. В некоторых случаях французское (оно же
+паспротное) написание фамилии имеет значение для
+определения статуса. Есть мнение, что правильные Кулибали
+пишутся в паспорте только Coulibaly, все остальные - позднее
+примкнувшие, "недавно только" Кулибали
+\va Kùlubàli
+\di бамбара
+\di манинка
+\di миньянка
+\di фульбе
+\di кагоро
+\di сонинке
+\ca hɔ́rɔn
+\ca tontigi
+\cm у бамана, манинка, миньянка
+\ca numuw
+\cm в Васулу
+\sn Tàrawéle
+\sn Sàmakɛ
+\sn Jàra
+\sn Kéyità
+\sn Kónatɛ̀
+\sn Fófana
+\eq Watara
+\pr Díko
+\pr Masasi
+\tn npolyɔ
+\tn jàra, màli
+\cm у старшей ветви (Nyangolo)
+\tn waraninkala; Dugukunna - bìnimini
+\cm у Kùlubàli-nùmu
+\fa Masa Kuru ni Masa Donde!
+\cm = BitɔnKùlibàli fasa
+\geo Большая часть Кулибали проживает в округах Бугуни, Сегу,
+Кита, Бамако, а также в Сигири и Куруса в Гвинее [Molinie
+1959]
+\sety наиболее ранее упоминание "Кулибали" в источниках стоит
+отнести к середине 18 века. В 17 веке происходит возвышение
+династии Кулибали в Каарта, а затем в Сегу, в связи с чем
+джаму, вероятно, получает значительное распространение
+среди бамбара. Характерно, что Сегу и Каарта соперничали
+между собой. Первым известным Кулибали был, по всей
+видимости, Sounsa Coulibaly, правивший в Каарта в 1633-1650,
+отец Massa Coulibaly, основателя династии Масаси (Massassi).
+[Источник!] Катя, не поможешь с источниками? Дедом Сунса
+называется Niangolo, легендарный (?) предок Кулибали,
+основатель г. Sounsana, соперничавшего с Сегу. В Сегу с 1652
+по 1682 г. правил Kaladjan Coulibaly, основатель "королевства"
+бамбара Сегу [источник?], охотник и колдун. Его сыном был
+Битон Мамари Кулибали, чья могила и сейчас почитается в
+Сегу. Возвышение и распространение Кулибали происходит
+позже, чем у остальных джаму "большой двадцатки", чем,
+возможно, обусловлена открытость семей Кулибали к
+установлению все новых и новых отношений шуточного
+родства и эквивалентностей. И Куликоро, и Сегукоро, и Сегу, и
+Бамако, и Каарта все находятся на левом, северном берегу
+Нигера, исторически Кулибали связаны именно с этим
+берегом. Есть ряд легенд, которые говорят о том, что
+Кулибали пришли с южного берега (даже из Конга) и
+переправились через реку - например, на соме. Но, возможно,
+что этимология "без.лодки" как раз указывает на обратное - на
+группу предков бамана, которые _не_ переправлялись через
+реку и оставались на её северном берегу. Кулибали происходят
+из Дього -- деревни неподалеку от Сегу [MO].
+Название однозначно не возводится к какому-либо топониму.
+Как отмечает М. Перинбэм [Perinbam, 1997: 164], в XIX веке
+«Niare-Kulibali marriage alliances provided the ritual and historical
+basis for the Bamako state formation» - «брачный союз (альянс)
+Ниаре и Кулибали предоставил ритуальную и историческую
+основу для формирования государства в [области] Бамако». -
+интересно, на какие источники она опирается? надо проверить,
+откуда у нее этот вывод. Заметим, что Ниаре-ла - название
+другого (наряду с Кулуба) района столицы Мали. Варианты
+джаму - Кудубали (Курубали) - содержат Kuduba- (Kuluba-),
+что вполне достоверно можно перевести с бамана/манинка как
+«большой (ba) холм (kulu)». Не слишком «большая» «гора» с
+таким названием - священное место в столице Мали Бамако,
+на Кулуба находится президентский дворец. Уже позднее
+(XVIII-XX вв.) джаму распространяется за пределы ареала
+манден и встречается у бобо, сенуфо, других народов
+Западного Судана. между тем, Нзан Кулибали - небольшая
+коммуна (кафо) и одноименное поселение по старой дороге
+Сегу-Бамако (правый берег Нигера), что почти ни о чем не
+говорит.
+\cm Среди Кулибали много христиан, больше, чем среди других
+джаму. Часто можно встретить Кулибали, которых зовут
+Андре, Пьер, Поль, а то и вовсе языческими именами - Нчи,
+Нзан или Полкан. Tiéman Hubert Coulibaly - министр обороны
+(2016), а до этого (2012) - иностранных дел - характерный
+пример. 
+\dt 22/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Kuma
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kumare
+\di бамбара
+\ca nùmu
+\ca kule
+\cm в Сегу
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kumate
+\di бобоo
+\eq Sàmakɛ
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kume
+\di fil
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kunbare
+\di сонинке
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kundur
+\di фульбе
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kùruma
+\va Koroma
+\va Kuruba
+\cm мандинка
+\di манинка
+\di куранко
+\eq Dunbiya +[BK]. Встарину они были целителями, они лечили
+больных, но не на виду у посторонних. Они проводили лечение
+скрытно, что на малинке называется dumbu (делать что-то
+тайно). [BK]
+\eq Sakuwɔgi
+\eq Hamuteamu
+\ca hɔ́rɔn +[BK]
+\ca garanke
+\ca nùmu +[BK]
+\ca jeli [BK]
+\sn Kàmara +[BK]
+\sn Keta, Sisɛ, Jaanɛ, Konatɛ [BK]
+\eq Sìisɔ́ɔ̀ [SK]
+\or Раньше говорили: Kòrimá. На языке охотников-колдунов
+{sóma} манден Kòrimá значит «могущественный человек».
+Которого нельзя заколдовать. Который хоть и не знает
+колдовства {súya} и фетишей {bási}, бог его сделал таким,
+что колдун {súbaa} не может его заколдовать {súbaaya}.
+Магическое средство {kɔ̀rɔtɛ́} бессильно против него, не
+говоря уже о яде {kólo}. Никакое злое средство {dàbari
+júù} не может причинить ему никакого вреда. Предок
+Kòromá был из таких людей. Все называли его Kòrimá. Пока
+это не стало именем его си. Впоследствии он стал
+колдуном и был в этом весьма успешен. Он настолько
+поднаторел в этом деле, что стал продавать магические
+средства {súya fère} невежественным. В старом Манден
+kùnfín  – это человек, у которого не было колдовство и
+никаких магических средств {súya и dàbári}. Однажды
+внук одного Kòrimá отправился совершать хадж в Мекку.
+На пути из Страны Манден в Мекку он зашел в город, в
+котором были одни только колдовство {súbaaya}, фетиши
+{jǒ}, колдовские обряды {bóli} и вещи {bási} – кругом одна
+лишь магия. Это все так увлекло этого хаджи из
+[Страны] Манден, что он остался там и принялся с
+усердием их изучать. И вернулся с этими колдовскими
+вещами {súbaaya fén} в Страну Манден. Его называли
+Kòrimá. При быстром произнесении это превращается в
+Kòromá. По возвращении он стал очень знаменит, потому
+что он совсем созрел в колдовстве. Весь народ стал за ним
+ходить ради его колдовства. Он с ними разговаривал, они
+объясняли ему свои нужды, он проводил много таких
+встреч, пока не стали называть его Dúnbula . Если
+«йекать» , это превращается в Dúnbuya. И теперь это их
+джаму [SK]
+\or Седна Умару принял ислам, отрубив голову своему отцу.
+Все си сформировались вследствие сложных испытаний.
+Ни одно си не появилось в мире. Отцом Абдулаи Зизи был
+Седна Умару. Он сказал отцу, что смог завершить свою
+миссию, поэтому может отдохнуть. И родил Абдулаи Зизи
+сына Мамади. Когда он пришел в Страну Манден, то
+нашел инструмент под названием Je. Он был отлит из
+серебра. Имя Мамади перестало употребляться и его все
+стали называть с тех пор Je. И родил Дже сына Джесе. И
+родил Джесе сына Кателе. И родил Кателе Сумантале. И
+родил Сумантале Реленко. И родил Реленко Факоли. Таково
+происхождение семьи Курума. [BK] 
+\fety Имя Курума появилось, когда Абдулаи Зизи хотел принять
+ислам, а его отец воспротивился этому решению, за что ему
+была отрублена голова. Откуда имя Korima, что на малинке
+означает "он не смог егоо переубедить", впоследствии Korima
+превратилось в Kuruma. [BK]
+\fety На самом деле, на манинка [Koroma] это Korima, что значит
+тот, кто остается непобежденным. Все попытки его покорить
+окончились неудачей. Так что Корома - страшные люди,
+знаменитые колдуны, великие фетишеры. Испокон веков они
+были непобедимы в Манден. Все попытки взять их в плен
+оказывались тщетны. Так все их потомки стали Корима, что в
+впоследствии стало произноситься как Корома [Konde 2015]
+\fa Fakoli; Dunbiya [BK]. Факоли Корома, армейский генерал на
+службе у Сундьяты, искусный колдун, стал главным при
+Сундьята Кейта, великого колдуна, короля королей,
+считавшегося непобедидым во всей огромной Стране Манден
+[Konde 2015]
+\geo Bambu (Mali), Norasoba, Sabaduu, Koma, Baranam, Balimana,
+Fɔdɛkariya, Dalaba, Nandan (около Jelibakɔrɔ), Wurenbaya [BK]
+\tn Пантера (soli) [BK]
+\dt 27/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Kusa
+\cm Одно из трёх подразделений сонинке, включающее джаму:
+Jaruma, Tùnkara, Dukure. По традиции, не должны носить
+одежду, крашенную индиго, и шлёпанцы. Гриоты - Simaxa,
+Sagone.
+\sn Wago
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kuwate
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Kúyate
+\va Kúwate
+\va Kúyatɛ
+\di манинка
+\di куранко
+\di манинкаb
+\di хасонке
+\ca jèli
+\cm у Кейта
+\ca garanke
+\tn sege
+\tn babi
+\tn nkaana
+\sn Kéyità
+\sn Kónatɛ̀
+\sn Nakalu
+\fa jèli hɔ́rɔn
+\fa jàli tɛ́ Kúyate bɔ́!
+\cm "Дружеское согласие"с Kéyità (не senankuya)
+\or Раньше говорили: Kója tɛ́ . [Так им говорили] по причине их
+выдающейся изобретательности. Потому что где бы они
+ни были, в них никогда не было недостатка и там они всем
+досаждали. Поэтому им стали говорить: «нет в вас
+недостатка» и Kójatɛ́ стало именем их си. И в быстрой
+речи это превратилось в Kóyatɛ, а затем в Kúyatɛ. Их
+джаму – Jèlihɔ́rɔn . Все Kúyatɛ стали гриотами. Никого
+нет среди них другого, кроме гриотов. Kúyatɛ также
+называют Kóatɛ [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx La
+\di диавамбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Lam
+\di gaulo
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Landure
+\di диавамбе
+\di джогораме
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Lé
+\di тукулер
+\di фульбе
+\sn So
+\sn Kánte
+\sn nùmu
+\cm Нет tana.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Lelenta
+\va Lilenta
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Maale
+\di бамбара
+\geo Segu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Maane
+\di манинкаdk
+\cm Имя родственной группы. В Кабу входили в рыцарское
+сословие nyanco.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Magaji
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Magasa
+\di кагоро
+\geo Kaarta
+\eq Dansoko
+\eq Fófana
+\eq Kàmara
+\ca hɔ́rɔn
+\ca tontigi
+\tn jala
+\sn фульбеaw
+\cm бракозапретн.
+\sn Dugure
+\sn Jariso
+\sn Sumare
+\cm небракозаптретн.
+\ge
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Màgasùba
+\di сонинке
+\di кагоро
+\di манинка
+\ca hɔ́rɔn
+\ca tontigi
+\tn bànba
+\sn Kùruma
+\or Màkasubá Иначе: Màyika Súbaa. Так как их предок Áli
+Màyiká был большим ученым в Стране сонинке. Сейчас про
+сонинке говорят, что они Kɔ́rɔbɔrɛ. Это люди саванны. И
+Gàjibɔrɛ́. Это люди большого города – Гао, Томбукту и
+Дженне. Кое-где их также называют Jɛ̀nɛka fín .
+Правителя сонинке, во время чьего правления жил Áli
+Màyiká, также звали Áli. Его называли: Áli Pɛ́ɛri . Это
+значит: «большой Áli». И к его имени добавлялся титул
+правителя Sóni  Áli . Этот правитель испытывал страх
+перед выплатой дани Áli Màyiká. Он его поймал около 1470
+года, заковал и бросил в темницу на одном острове на
+Нигере. И сказал, что не будет давать ему еды и
+спального места, пока тот не погибнет сам от голода.
+Потому что он был плохим человеком. Его союзники
+изыскали способ и вытащили его ночью [из тюрьмы] и
+посадили его, связанного, на коня. И помогли ему бежать.
+Они оставили всякую дорогу и пошли наугад в саванну.
+Они кормили Áli Màyiká с ложки, потому что обе его руки
+были скованы. Они преодолели Страну сонинке и достигли
+места, которое не было подвластно Sóni Áli. Они стали
+заходить в города и заставлять кузнецов распилить оковы
+и снять их с рук Áli Màyiká. Пока не дошли до Сигири
+{Síirin} в стране Манден. [Подразумевая] рассказ об одном
+из способов его освобождения – это отделение, которое
+произошло на глазах у манинка, они говорили, что зрелый
+колдун – это Áli, потому что он смог себя освободить. И
+его стали называть «Màyika súbaa» [«Колдун Màyika]».
+Что в итоге превратилось в Màkasubaá. И это стало
+именем си его потомков. А Màyiká стало их джаму.
+Однако большинство Màasubá не знают происхождения
+своего джаму Màkasubaá. В 1930 году [была/будет]
+500-летняя годовщина того, как их предок Áli Màyiká
+скрывался в стране Манден. После собрания на Курукан
+Фуга в Манден пришло множество си марабутов. Одни из
+них – это Dàfé . Первыми стали для них хозяевами {jètíì}
+Màasubá. Они [Dàfé] переняли джаму у своих хозяев. Свое
+собственное джаму Dàfé – Dàfekɔrɛ́. Отношения
+гостеприимства {jètíìya} стали той причиной, по которой
+Dàfé получили джаму Dàfekɔrɛ́ . На языке сонинке Dàfekɔrɛ́
+значит: «большие Dàfé». То, как Áli Màyiká снял с себя
+оковы, и по сей день остается в памяти его потомков. В
+память об этой истории освобождения им говорят:
+Jɔ̀lɔkɔmajíì lú [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Magiraga
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Màkalu
+\di сонинке
+\di кагоро
+\di манинка
+\eq Koyita
+\ca jèli
+\ca garake
+\ge
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Makangile
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Makkaji
+\di сонинке
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Mandakunu
+\cm Почётное имя для Tùnkara у сонинке.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Mangala
+\di кагоро
+\va Màngara
+\di сонинке
+\di хасонке
+\ca nùmu
+\sn фульбеaw
+\cm бракозапретн.
+\sn Sàko
+\cm бракозапретн.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Mànju
+\di манинка
+\eq Tùre
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Mànsaren
+\fm Mansarena
+\cm Почётное имя для Kéyità  у манинка. Буквально "ребёнок
+вождя".
+\or Иначе: Mànsadén . Согласно закону, по которому построен
+язык манинка, вместо dùudén , tùnbudén , nɛ̀ɛdén 
+говорится: dùurén , tùnburén, nɛ̀ɛrén. И это заставило
+вместо Mànsarén говорить Mànsadén. Власть в Wùdumá,
+которая была в руках Kàmará на берегах Нигера, перешла
+к жителям Sánkarannin области Jòmawaɲ́a. И детей тех,
+кто получили там власть и стал всеобщими правителями,
+называли Mànsadén nù. Впоследствии это стало именем их
+си. И в быстрой речи это превратилось в Mànsarén.
+Джаму Mànsarén стало Kɛ́ tǎ . Его сын должен был взять
+наследство. С тем чтобы в отсутствии единственного
+претендента борьба за власть междоусобные войны не
+начались в стране после смерти правителя. При быстром
+произнесении Kɛ́ tǎ превратилось в Kéta. Вот таким
+образом члены правящего дома получили имена си и
+джаму [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Mara
+\va Máara
+\di куранко
+\fa Nomo (в Лесной Гвинее, женское) [BK]
+\geo У джалонке, в Санкаран, в Лесной Гвинее [BK]
+\or Мара принадлежат к тому же fabon, что и Траоре. У них
+общий предок Mansa Yurukara Nayni. Они из той же семьи
+(bon), что и Sakɔ и Kuyatɛ [BK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Màriko
+\di бамбара
+\di сонинке
+\eq Tàrawéle
+\eq Jariso
+\ca hɔ́rɔn
+\geo Segu
+\geo Sikaso
+\tn bàma
+\sn nùmu; 
+\sn Kéyità
+\sn Sàmakɛ
+\sn Kónatɛ̀
+\cm Sikaso
+\dt 04/Jun/2014
+\ps n.prop
+\ge NOM.CL
+
+\lx Markus
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Masasi
+\cm "Почётное имя" для Kulubali у бамана. Букв., "потомство
+вождя".
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Mayga
+\va Mayiga
+\di сонгаи
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Mɛnta
+\di бозо
+\di сомоно
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Mònekata
+\di манинка
+\ca hɔ́rɔn
+\cm Произовшли от Tàrawéle, но сейчвс не равнозначны им.
+Прародитель - младший сые в 7-м поколении потомков
+Тирамагана. Поссорился с братьями, когда вернулся с охоты
+и ему не оставили еды. Обиделся и ушёл за приключениями в
+Сигири. Не ужился там, переправился через Falema в Kanieba.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Mukɔrɔ
+\di бобо
+\eq Tàrawéle
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Nàabé
+\or Раньше ученые люди рассказывали, что Nàabé – это си
+сонинке. На сонинке это произносится как Nàgabé. А их
+джаму Jàaná произносится как Jàganá. Произносимые на
+языке манинка эти имена превратились в Nàabé и Jàaná.
+По рассказам многих знатоков lànbé, первый, старший
+сын предка {bénba} Nàabé старше него [Nàabé]. Он
+воспитывался у его старшего брата. Поэтому по ошибке
+многие стали считать его одним из детей старшего
+брата. Когда его старшие братья и сестры отправлялись
+на поиски хвороста или выполняли другую сыновнюю
+работу для своих матерей, он [тоже] выполнял ее для
+этих женщин. Но они были его nìmɔɔmóso . Поэтому его
+старшие братья говорили ему: «Ты не должен выполнять
+никакую сыновнюю работу для наших женщин. Потому
+что они не твои матери – они твои жены ». Он отвечал
+своим старшим братьям и сестрам: «Мне ничто не
+мешает выполнять для них сыновнюю работу». Счет
+моего возраста заставляет меня делать детскую работу
+для них. Потому что пока человек находится в детском
+возрасте, он должен заниматься детской работой». И
+каждый день он тщательно и усердно собирал хворост.
+Потому что он знал, что обрести благословения
+родителей – это то же, что получить его от старших
+братьев. И искал эти многие благословения. Когда видела
+его приходящим nìmɔɔmóso, она говорила ему: «N'à bè yàn
+n nùmɔ́ɔ ». В другой раз он сказал ей: «N'à bè yàn kéle cɛ̀ á
+sà» . Так и стали говорить: «N'à bè, n'à bè». С тех пор его
+стали так называть, пока это не превратилось в имя его
+си и ланбе: Nàabé. Когда его старшие братья умерли, их
+жены стали его женами, которые считали его ребенком
+его старших братьев. Когда их мужья, [оставшиеся в
+живых] увидели их [классификаторных] жен замужем за
+ним, они воскликнули: «Èeée!! Jà á ná tɛ́ ɲìn nù dí» . Это же
+его nìmɔ́ɔ. И это превратилось в «Jàa á ná tɛ́». И это
+умножило благословение [SK]
+\ps n.prop
+\ge NOM.CL
+\dt 25/May/2017
+
+\lx Nabo
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Nafo
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Nàmɔgɔ
+\di манинка-bage
+\di мандинка
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Náyitɛ
+\va Nàyité [SK]
+\di манинка
+\cm редк.
+\or Nàyité произошли от Wátara [SK]
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Nbayi
+\va Nbay
+\sn Nyang
+\dt 03/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Nbo
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ngalingo
+\di манинкаdk
+\cm Одно из джаму Bula, потомков Fakoli
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Ngoni
+\di волоф
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Nimaga
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Njade
+\di диавамбе
+\di джогорамеorame
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Njayi
+\va Njay
+\di dia
+\di волоф
+\ca hɔ̀rɔn
+\ca gawulo
+\sn Jop
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Njim
+\cf Jime
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Nmub
+\di gaulo
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Nomogo
+\di манинка
+\ca tontigi
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Numansana
+\di сонинке
+\geo Kayi
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲagaso
+\cm Почётное имя у джаму Kankana (dialonke).
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲákàte
+\di сонинке
+\di кагоро
+\ca wage
+\geo Kaarta
+\geo Beledugu
+\pr Jula
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲalibuli
+\di фульбе
+\cm Входят в Dikko.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲamakansi
+\cm Один из kabili джаму Kéyità.
+\ge
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲan
+\di диавамбе
+\di джогорамеorame
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲanbali
+\eq Tàrawéle
+\eq Denbele
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲanbele
+\di бамбара
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲang
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲangandu
+\va Ɲangado
+\va Ɲàxando
+\di диавамбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲangi
+\di tua
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲaraxi
+\di сонинке
+\geo Kaarta
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲarɛ
+\va Ɲàre
+\di сомоно
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Ɲɛ́ntaò
+\di сомоно
+\sn догоны
+\cm Дают своих женщин в жёны кузнецам, но в жёны кузнечих
+не берут. Не имеют tàna.
+\fa Juber Alwatar!
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Odraogo
+\di мосиi
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Pamanta
+\va Pamante
+\cf Famanta
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Pujugu
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Saane
+\di манинкаdk
+\cm Имя у родственной группы мандинка; в Каабу входили в
+состав ɲanco, "рыцарского сословия".
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sagango
+\va Sakanoko
+\va Sanogo
+\va Sanɔgɔ
+\va Sánɔ̀ɔ
+\va Saganogo
+\di dK ? 
+\di сонинке
+\di сенуфо
+\di манинка
+\di бамбара
+\di миньянка
+\di куранко
+\sn Jàra
+\tn miɲinan
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sagara
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sagone
+\di сонинке
+\ca jèli
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sakiliba
+\cm Женское джаму, соотв. Dunbuya
+\dt 25/Dec/2014
+\ps n.prop
+\ge NOM.CL
+
+\lx Sako
+\va Sagɔ
+\va Saakɔ
+\va Saxo
+\va Sàkɔ́
+\di сонинке
+\di манинка
+\di бамбара
+\ca hɔ́rɔn
+\ca tontigi
+\ca jèli
+\cm у сонинке
+\ca mori
+\cm у сонинке
+\ca jɔn
+\cm у сонинке
+\tn dankala tutu
+\tn nkaana
+\or Sàkɔ́ раньше были Sìsé. Однако правители Wàadúu
+поклонялись духу в столице Kùnbí. И приносили ему в
+жертву каждый год по одной девушке. Так случилось, что
+девушка была помолвлена с одним храбрым юношей.
+Этого юношу звали Ámàdu Заика. Это значит: Ámàdu,
+который не умеет хорошо говорить. Отважный юноша
+собрал всю свою храбрость, пошел на страшного змея и
+убил его, то есть Wàaduu Bída, забрал с собой красивую
+девушку, посадил ее сзади себя на коня и увез прочь. Его
+люди, испуганные и пристыженные, отправились вслед за
+ним. Они поселились у Kòromá на юге [Страны] Манден и
+стали марабутами. Затем они перестали заниматься
+марабутской деятельностью  и стали воевать. Они стали
+настолько сильны, что смогли превзойти своих
+гостеприимцев {jètíì}. И название деревни Kòromá
+изменилось, и деревня стала называться «деревня Sàkɔ́». И
+по этой причине они стали Sàkɔ́. В память об их предке,
+убившем змею, Sàkɔ́ стало их си и джаму [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sal
+\di tpu
+\ca hɔ́rɔn
+\ca maabube
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Salu
+\di сонинке
+\ca mòri
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sam
+\di gaulo
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Samagana
+\di dK
+\cm Один из kabila в Конге.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sàmakɛ
+\di бамбара
+\di манинка
+\ca hɔ́rɔn
+\eq Tangara
+\eq Tùre
+\eq Sogoba
+\eq Bonba
+\eq Kamate
+\tn sàma
+\sn Kùlibàli
+\geo Segu
+\geo Sikaso
+\sn Màriko
+\geo Sikaso
+\fa Sàma sènkanba, sàma bólokanba
+\cm Гриоты у сонгаев.
+\or Sámàkɛ́  - это значит: «самец слона» . Подобно тому, как
+правители сонинке, создавали войско из «слонов», так же
+и правители [Страны] Манден создавали отряды из
+подобных крепких юношей. И называли их «самцы слонов
+», это значит «слоны ». По этой причине все их потомки
+стали зваться Sàmakɛ́  [SK]
+\dt 04/Jun/2014
+\ps n.prop
+\ge NOM.CL
+
+
+\lx Samasa
+\di сонинке
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Samaseku
+\di догоны
+\di манинка
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Same
+\di диавамбе
+\di джогорамеorame
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Samura
+\di сонинке
+\geo Bumbu
+\cm По происхождение - фульбе с Фута-Джалона.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sanarkua
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sanbaxe
+\di сонинке
+\ca tagu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sàngare
+\va Sankare
+\di фульбе
+\di was
+\di манинка
+\eq Bari
+\eq Si
+\eq Ba
+\sn Sídìbɛ
+\sn nùmu
+\cm Шутливое прозвище: Kàngare.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sangone
+\di фульбе
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sanpi
+\di сонинке
+\ca geseru
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Santara
+\di бамбара
+\di бобо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sanu
+\di d
+\geo Burkina-Faso
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Saɲɔ
+\di манинка
+\di kny
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sar
+\di фульбе
+\di тукулер
+\di бамбара(?)
+\di сенуфо (?)
+\ca subalbe
+\cm тукулёры-рыболовы
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sare
+\di фульбе
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sarisi
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sawaдогоныo
+\di моси
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sek
+\di волоф
+\di тукулер
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sekem
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Serefu
+\va Sèrifú
+\di манинка
+\cm Джаму?
+\or Sèrifú.  На арабском языке это значит: kàamaranké [ЕБ:
+Заимствование из арабского كريم – щедрый. В манинка
+приобрело значение «священный». ]. Так как они потомки
+пророка Мухаммада (Да благословит Его Аллах и
+приветствует!). Они потомки дочери Мухаммада Fátùmata
+. Потомки Lánsìnɛ – это Sèrifú. Потомки ее сына Lònsenín
+– это Tárawele.  Оба эти си – ее потомки – сананку Kɔ́ndɛ.
+И подобно тому, как шарифы  получили свое си со
+стороны своей матери, они получили свое си от Пророка.
+Свое джаму они получили от предка по имени Bádàrá  Àlí. 
+Мать Bádàrá называла его «Лев». По-арабски: Ásadun
+[أسد]. Отец Bádàrá называл сына «Àlí». Ребенок
+откликался на оба эти имени. Но в арабском языке 25
+[различных] названий для льва . Например, в языке
+манинка их [всего] четыре: jàdá, wàdabá , ɲánfen, wúlatiì .
+Арабские названия:  asadun [أسد], hayidara [حيدر‎],
+layisu [ليث], ḍiriġamu [ضرغام], ḍayiqamu, hayitalu,
+gaḍanfuru, hizaburu [هزبر], shibulu [شبل], labuwa .
+Однако Bádàrá называли двумя именами: Ásadun и
+Háyidara. И вот поэтому джаму Sèrifú – Háyidara [Kante
+2004]
+\or Имя Шериф арабского происхождения. Шерифы -
+потомки пророка Мохамеда. Псоле смерти отца Абдулаи
+из семьи Гурей-ши, пророк Мухамед был воспитан дядей
+Абу Талебом, который был четвертым халифом после
+Мухамеда. Аиша, дочь первого халифа Абубакара Сидики,
+которая вышла замуж за пророка Мухамеда, родила дочь,
+которая стала седьмым ребенком своего отца, она
+единственная осталась в живых после его смерти. Она
+была воспитана кузеном Алия и родила двоих сыновей,
+один из которых умер в возрасте 15 лет. Второй же сын
+стал предком шерифов Хайдара. Вторая жена Алия
+родила детей, которые стали носить имя Траоре-Хайдара.
+Шерифы, арабские принцы, приходятся родственниками
+пророку Мухамеду через его дочь и ее кузена [Konde 2015] 
+\dt 27/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Sɛnpara
+\va Simpara
+\ps n.prop
+\ge NOM.CL
+\ca hɔ́rɔn
+\dt 12/Jun/2014
+
+\lx Sí
+\di тукулер
+\ca nùmu
+\ca maabube
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sibi
+\di манинкаau
+\di сонинке
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sídìbɛ
+\di фульбе
+\di was
+\eq So
+\eq So
+\sn Jàkite
+\sn Kéyità
+\sn Fònba
+\sn Sàngare
+\tn fɛ́rɛtɛnin
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sídimɛ̀
+\va Sìdimɛ
+\di манинка
+\geo Kankan
+\cm Режут статуи из дерева.
+\sn Kɔ́nde [SK]
+\or Это Tárawele, ставшие кузнецами. Sídimɛ раньше называли
+Sìdimá. Это значит «привязавшийся к делу» . Один умелый
+ювелир жил у предка [Sídimɛ], выдающегося [ювелира]. Он
+к нему очень привязался, пока не разузнал всех
+премудростей ювелирного мастерства. И поэтому ему
+говорили: «Хозяин {jètíì}, да ты сам «Sìdimá». И,
+произнесенное многократно, Sìdimá превратилось в Sídimɛ.
+И это стало [именем] их си [SK]
+\fa Они сохранили джаму Tárawele – Túraman [SK]
+\fa Хотя Tárawele и Serefu – дети одной матери, джаму Sídimɛ –
+Háyidara. [SK]
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Sìla
+\va Silla
+\di сонинке
+\di манинка
+\di сусу
+\ca hɔ́rɔn
+\ca wage
+\ca mori
+\ca geseru
+\ca garanke
+\sn Kàmara
+\cm небракозаптретн.
+\sn Jàanɛ
+\cm бракозапретн.
+\or Есть пять kàndá  марабутов: Sìlá – это сказители, они
+преуспели в изучении различных наук. Когда наступает
+27-й день Рамадана ,  они везде читают зикр в [Стране
+Манден]. Поэтому о них говорили «wùduba sìlá» . Что
+впоследствии превратилось в Sìlá и это стало [именем] их
+си [SK].
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Simaga
+\va Simaxa
+\va Simakan
+\di сонинке
+\ca kusantage
+\ca garanke
+\cm Считается, что Simaga-garanke могут перевоплощаться в
+гиен.
+\ge
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Simalo
+\di манинка
+\geo Kangaba
+\tn tutu
+\sn Súmàoro
+\sn Kánte
+\sn Kónatɛ̀
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sinaba
+\cf Sinayɔgɔ
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sinayɔgɔ
+\va Sineyogo
+\va Senayong
+\cm мандинка
+\eq Sinaba
+\di was
+\ca nùmu
+\cm Относятся к bula, потомкам Fakoli.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sineba
+\di манинка
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Sinenta
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Singare
+\di sam
+\geo Kulikoro
+\cm Восходят к фульбе-Bangare.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sìsɛ
+\va Sise
+\di сонинке
+\di манинка
+\di сонгаи
+\eq Woniwogi
+\eq Teworo
+\eq Gumu
+\eq Gbilimu
+\eq Sengor
+\ca hɔ́rɔn
+\ca wage
+\sn Kéyità
+\tn lɛ̀
+\tn wɔ̀lɔ
+\geo Bakonko (Bate) - прародина. Поэтому их называют [Bakonko
+Sisɛla]. Bayila, Yakoiduu [BK]
+\or На языке сонинке «Síse » значит «хозяин белой лошади».
+«Si» значит «лошадь», имеется в виду хозяин этой
+лошади. А сказать на сонинке «sò ɲɛ̀ɛn tí» – [это сказать]
+«лошадиное дело», впоследствии это стало
+произноситься как Sùwaré на языке манинка. Предки
+{bénba} этих двух си были единоутробными братьями
+{bádenma}. Старший брат был хозяином белой лошади –
+Síse, а младший брат – хозяином стойла – Sùwaré.
+Альморавиды  обратили правителей Síse в мусульманство
+в 1077 году (158 до Собрания на Курукан Фуга). Таким
+образов Síse стало си марабутов. И по сей день Síse
+принадлежат к «сословию» {mɔ̀lɔ́n} марабутов в Дженне
+{Jɛ̀nɛ́}, Мопти {Móbutì} и Масине {Másina}. Например,
+Fóde , Cɛ́rinɔ̀, Módibɔ̀, Ràfán и Kàranmɔ́ɔ  относятся к
+«сословию» марабутов в разных частях Африки [Kante
+2004]
+\or Возводят свое происхождние к сыну Diŋa. У маден - один
+из "первых пяти мусульман".
+\or Предками Сисе были Nfalefin и Nfawulen (-gbɛ). Nfalefin
+поселился в Bayi, он родил Serebrema, который был воином.
+Nfalefin был марабутом, Nfawulen был земледельцем [BK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sisɔkɔ
+\va Sisoko
+\di манинка
+\di бамбара
+\di кагоро
+\ca jèli
+\ca nùmu
+\cm у маниника
+\ca tontigi
+\cm у бамана
+\eq Dante
+\eq Dunbiya
+\eq Kùruma
+\fm Danba
+\cm у jèli
+\fm Sakiliba
+\cm у hɔ́rɔn
+\tn nkaana
+\fa Мужское джаму для Sìsɔ́ɔ̀ – Dúmuya. Женское джаму – Dànbá.
+[SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sisuma
+\di миньянка
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Síyara
+\eq Мужское джаму для Kònatɛ́ [SK]
+\ps n.prop
+\ge NOM.CL
+\dt 25/May/2017
+
+\lx So
+\va Sow
+\di тукулер
+\eq Sídìbɛ
+\ca jèli
+\cm гриоты при марабутах-сонинке (saku)
+\ca laabe
+\tn страус
+\tn заяц
+\sn Bari
+\sn Sàngare
+\sn nùmu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sogoba
+\di миньянка
+\di сенуфо (?)
+\di манинка (?)
+\di бамбара(?)
+\eq Tùre
+\eq Sàmakɛ
+\tn sàma
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sogoxe
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sok
+\di gawulo
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Somaso
+\di dK
+\cm Один из kabila в Конге.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Somono
+\va Sumano
+\va Sumono
+\di мандинка
+\ca jèli
+\tn tutu mankaran
+\cm Предок - Kani Sinbon, внук Bilali.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Soropɔgi
+\di looma
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Soxuna
+\va Suxuna
+\va Suguna
+\di сонинке
+\ca mòri
+\cm Возводят к сыну Diŋa.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Suko
+\va Sogo
+\va Súkɔ
+\di бамбара
+\cm При обращении к женщинам - синонима джаму Kéyità; Suko
+Suko Sinbon (b) - одно из восхвалений Сундьяты.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Suma
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Súmàoro
+\va Sumaworo
+\di бамбара
+\va Sumanguru
+\di манинка
+\eq Soropɔgi
+\eq Haba
+\ca nùmu
+\geo Buguni
+\tn janba tutu
+\tn ɲuma tutu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sumare
+\di сонинке
+\ca hɔ́rɔn
+\ca tontigi
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sunbunu
+\di сонинке
+\ca garanke
+\cm Tagedimmanu - гриоты гриотов, кузнецов, кожевенников.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Suntura
+\di фульбе
+\di was
+\eq Jàlo
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Susogo
+\di хасонке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sùwanun
+\di манинка
+\cm Хвалебное имя Bèrete. Редко - как особое джаму.
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Sùware
+\di манинка
+\di сонинке
+\di куранко
+\di dia
+\or Sùwaré произошли от Sìsé [SK]
+\or На языке сонинке «Síse » значит «хозяин белой лошади».
+«Si» значит «лошадь», имеется в виду хозяин этой
+лошади. А сказать на сонинке «sò ɲɛ̀ɛn tí» – [это сказать]
+«лошадиное дело», впоследствии это стало
+произноситься как Sùwaré на языке манинка. Предки
+{bénba} этих двух си были единоутробными братьями
+{bádenma}. Старший брат был хозяином белой лошади –
+Síse, а младший брат – хозяином стойла – Sùwaré.
+Альморавиды  обратили правителей Síse в мусульманство
+в 1077 году (158 до Собрания на Курукан Фуга). Таким
+образов Síse стало си марабутов. И по сей день Síse
+принадлежат к «сословию» {mɔ̀lɔ́n} марабутов в Дженне
+{Jɛ̀nɛ́}, Мопти {Móbutì} и Масине {Másina}. Например,
+Fóde , Cɛ́rinɔ̀, Módibɔ̀, Ràfán и Kàranmɔ́ɔ  относятся к
+«сословию» марабутов в разных частях Африки [Kante
+2004]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Sùwɔ́
+\eq Женское джаму для Kònatɛ́ [SK]
+\ps n.prop
+\ge NOM.CL
+\dt 25/May/2017
+
+\lx Tabure
+\ps
+\ge Maures
+\dt 25/Feb/2013
+
+\lx Tal
+\di тукулер
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tanbura
+\va Tammbura
+\va Támura
+\eq Kone
+\di манинка
+\di сонинке
+\di фульбе
+\cm в Масина, Мопти
+\ca mor̀i
+\ca рабы фульбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tangara
+\di бамбара-jonka
+\di манинка
+\sn Kùlibàli
+\sn фульбеa
+\geo Segu
+\geo Sikaso
+\geo Kulikoro
+\tn waraninkala
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tanja
+\di сонинке
+\ca hɔ́rɔn
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tapili
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tapo
+\di бозо
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tàrawéle
+\va Traore
+\va Taraore
+\fm Dansira
+\di бамбара
+\di манинка
+\ca hɔ́rɔn
+\ca tontigi (у бамана, манинка)
+\ca nùmu (у кагоро и васулунка)
+\eq Saane
+\eq Maane
+\eq Mukɔrɔ
+\eq Uedraogo
+\eq Denbele
+\eq Juf
+\eq Tùre (в Сегу)
+\eq Gilawogi
+\eq Honomu
+\eq Zogbelemu
+\sn Jàra
+\sn Kone
+\sn Jáwara
+\sn Tùre
+\pr Dansɔkɔ
+\tn ndaba kunba
+\tn nkaana
+\or Сперва говорили: «À taá dá wéele ». Предок Tárawele
+генерал Túraman был могущественным человеком, под его
+началом армия одерживала многочисленные победы над
+врагами. И после того как он, состарившись, оставил
+военную службу, в Cтране Манден началась
+кровопролитная война. Эта война едва не стала
+поражением для Mанден. И тогда люди сказали: «Если мы
+сейчас не пошлем за Túraman'ом, враги нас одолеют».
+Túraman оседлал коня и отправился к врагам, и победив их
+всех до единого, он спас Страну Манден от этой
+разрушительной войны. И принес мир в Страну Манден.
+Сказители воспевали его потомков, говоря, что их пращур
+{bénba} Túraman был позван и отправился на ужасную
+войну. На это они отвечали: «Если бы его не позвали, то
+пропала бы Страна Манден». Вот так их си стали
+называть Tárawele, а имя их пращура Túraman'а стало их
+джаму. Старого Túraman'а тоже звали Túraman, это было
+во времена Сундьяты. Си Tárawele делится на несколько
+bábon: Dàamasí, Nàyité, Sídimɛ и Jàbaatɛ́. Также говорят,
+что Tárawele – это потомки Lònsanín . А Sèrefú – это
+потомок Lánsìnɛn. Это сделало оба этих джаму сананку
+Kɔ́ndɛ. (Я же однако не верю в наше арабское
+происхождение). [SK]
+\dt 27/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Tel
+\va Teli
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tembelu
+\va Tembeli
+\di догоны
+\geo Bandiagara
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tembine
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tera
+\di бобо
+\di манинкаrk
+\eq Cɛɛrɔ
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tigana
+\di манинка
+\cm Ювелиры?
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tirera
+\di сонинке
+\di кагоро
+\geo Kaarta
+\ca jèli
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tisugem
+\di догоны
+\tn bàma
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Togo
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tògola
+\di бамбара
+\di миньянка
+\di сенуфо
+\eq Jàra
+\sn Tàrawéle
+\sn Denbele
+\tn jàra
+\geo Sikaso
+\geo Baninko
+\geo Cendugu
+\dt 25/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Treta
+\va Tereta
+\di бозо
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tùnkara
+\va Tungara
+\di сонинке
+\di кагоро
+\di манинка
+\di бозо
+\ca hɔ́rɔn
+\ca tontigi
+\ca wage
+\ca mòri
+\ca jèli
+\cm У кагоро - jèli при Fófana.
+\or На языке сонинке «tùnká» значит «правитель». «Tùnkará»
+значит «принадлежащие к роду правителя» {mànsalaká}
+(его дети, его младшие братья и сестры и единоутробные
+братья и сестры {báden}). Поэтому общественное
+положение {mɔ̀lɔn} Tùnkará – это потомки родственников
+{màmɔ́ɔ̀} правителя. Их общественное положение –
+правители сонинке области Mémà в Bákɛ̌, раскладыватели
+циновок на Нигере. И поэтому джаму Tùnkará – Mɛ́maka,
+так как они были жителями Měmà [SK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Tùre
+\di манинка
+\di бамбара
+\di сонинке
+\di сонгаи
+\di кагоро
+\di dia
+\eq Mànju
+\eq Bangura
+\eq Sàmakɛ
+\eq Sogoba
+\eq Gonepogi
+\tn sàma
+\pr Mànju
+\pr Sirimanka
+\sn Tàrawéle
+\sn Mansaren [BK]
+\or На языке сонинке Tùré значит «слон». Правители Уагадугу
+{Wàadúu}, столица которого была в городе Kùnbí,
+отбирали здоровых крепких юношей и из них составляли
+отдельное военное подразделение. Солдат этого
+подразделения называли «слонами», на языке сонинке:
+«Tùré». Эти слоны были телохранителями правителей. В
+сражениях с врагами их заставляли идти в первых рядах.
+Их вид устрашал врагов и обращал в бегство. За это
+потомков этих солдат стали называть Tùré, впоследствии
+это имя превратилось в их джаму, которое означает
+«слон, его сила». Он [слон] не злой, потому что, если бы
+слон разозлился, саванна осталась бы пустой. И ни одно
+животное не могло бы остаться там [жить] [SK].
+\dt 27/May/2017
+\ps n.prop
+\ge NOM.CL
+
+\lx Wago
+\di сонинке
+\cm Одно из трёх больших подразделений сонинке, прародиной
+которого считается Уагаду. Включает джаму: Sìsɛ, Jaabi,
+Drame, Jaguraga, Gandeega, Soxuna, Jabira, Xomme, Samasa,
+Silla, Tanja, Gasama, Jariso, Bèrete, Bacili, Wakannesaxo,
+Janisemega, Yatabare, Makkaji, Tùnkara, Fisuru, Ɲakate, Fófana,
+Baygille, Drame, Yaresi, Markus.
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Wakannesaxo
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Walikalo
+\di диавамбе
+\di джогорамеorame
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Wane
+\di фульбе (?)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Waɲe
+\di тукулер
+\ca laobe
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Watara
+\di dK
+\di сенуфо
+\tn miniɲan
+\eq Watara - это джаму Tarawele [BK]
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Wederawogo
+\di моси
+\eq Kùruma
+\cm ?
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Woge
+\di сонинке
+\eq Wage 
+\cm (?)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Wologem
+\di догоны
+\geo Bandiagara
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Worote
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Wùlalɛ
+\di манинка
+\ca jèli (?)
+\eq Wùlare
+\cm (?)
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Wùlare
+\di манинка
+\ca hɔ́rɔn
+\geo Farana
+\geo Sankaran
+\sn Kéyità
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Xomme
+\di сонинке
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Yansane
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Yarangore
+\di диавамбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Yaresi
+\di сонинке
+\ca gesere
+\ca tagu
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Yatabare
+\va Yatabere
+\di сонинке
+\ca wage
+\ca mòri
+\eq Jabira
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Yatara
+\di фульбе
+\di tua
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Yatasay
+\di диавамбе
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Yebese
+\di догоны
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Zerbo
+\di моси
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
+
+\lx Zogbelemu
+\di кпелле
+\dt 06/May/2010
+\ps n.prop
+\ge NOM.CL
