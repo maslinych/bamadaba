@@ -6409,23 +6409,24 @@ rhume, toux
 \smf de petite taille
 \dt 26/Sep/2006
 
-\lx bɛ́
-\va bé
-\va bí
+\lx bɛ
+\va be
+\va bi
 \va b'
 \smf variante du prédicatif positif du présent (fréquent quand le verbe commence par p t k n f ) 
 \ps pm
 \gf IPFV.AFF
 \smf (auxiliaire du présent positif des verbes)
-\xv ń bɛ́ táa só
+\xv ń bɛ táa só
 \xf je pars à la maison
-\xv à bɛ́ sàn Bàmakɔ
+\xv à bɛ sàn Bàmakɔ
 \xf ça se vend à Bamako
 \smf pfs: sens de futur
-\xv ní  ò má kɛ́, né bí fàa
+\xv ní  ò má kɛ́, nê bi fàa
 \xf si cela n'a pas lieu, on va me tuer
-\xv ò bí kɛ́
+\xv ò bi kɛ́
 \xf ça se fait, on le fera
+\dt 22/Sep/2017
 
 \lx bɛ́
 \va b'
@@ -52697,6 +52698,37 @@ composante des adjectifs séparables)
 \smf (un lieu saint, une tombe...; terme strictement musulman)
 \dt 16/Aug/2006
 
+\lx ka
+\ps pp
+\gf POSS
+\smf particule copulative (reliant possesseur et objet possédé)
+\xv à ka dàba dòn
+\xf c'est sa houe (la houe de lui)
+\smf (elle relie aussi le nom d'action à son agent)
+\xv kàrisa ka bònya fílɛ
+\xf voici le cadeau d'un tel (celui qu'il a fait)
+\dt 22/Sep/2017
+
+\lx ka
+\ps pm
+\gf QUAL.AFF
+\smf (reliant l'adjectif prédicat à son sujet)
+\xv à ka bòn
+\xf il est gros
+\dt 22/Sep/2017
+
+\lx ka
+\va k'
+\ps pm
+\gf SBJV
+\smf marque d’optatif
+\smf dans ce cas on peut avoir un ton haut de même dans les bénédictions et les souhaits
+\xv á ka táa  fòro lá !
+\xf partez au champ !
+\xv Ála ka tìle hɛ́rɛ cáya !
+\xf Que Dieu (nous) accorde une bonne journée !
+\dt 22/Sep/2017
+
 \lx kà
 \va k'
 \ps pm
@@ -52722,37 +52754,6 @@ l'eau est prête
 \xv ù y'ú kà à lá
 \xf ils ont nié
 \dt 28/Dec/2014
-
-\lx ká
-\ps pp
-\gf POSS
-\smf particule copulative (reliant possesseur et objet possédé)
-\xv à ká dàba dòn
-\xf c'est sa houe (la houe de lui)
-\smf (elle relie aussi le nom d'action à son agent)
-\xv kàrisa ká bònya fílɛ
-\xf voici le cadeau d'un tel (celui qu'il a fait)
-\dt 01/Feb/2017
-
-\lx ká
-\ps pm
-\gf QUAL.AFF
-\smf (reliant l'adjectif prédicat à son sujet)
-\xv à ká bòn
-\xf il est gros
-\dt 16/Aug/2006
-
-\lx ká
-\va k'
-\ps pm
-\gf SBJV
-\smf marque d’optatif
-\smf dans ce cas on peut avoir un ton haut de même dans les bénédictions et les souhaits
-\xv á ká táa  fòro lá !
-\xf partez au champ !
-\xv Ála ká tìle hɛ́rɛ cáya !
-\xf Que Dieu (nous) accorde une bonne journée !
-\dt 18/Dec/2014
 
 \lx ká
 \ps adv
@@ -55413,7 +55414,7 @@ prolapsus utérin
 \xf oindre qqn
 \dt 03/Apr/2016
 
-\lx kàna
+\lx kànâ
 \vt kánà
 \va kàn'
 \ve (jula : ton inversé)
@@ -55430,7 +55431,7 @@ prolapsus utérin
 \smf après les verbes de sens négatif : siran, jɔ̀rɔ, bàli
 \xv à bɛ́ síran  à kàna sà
 \xf il a peur qu'il ne meure
-\dt 10/Apr/2014
+\dt 22/Sep/2017
 
 \lx kána
 \ps v
@@ -79125,6 +79126,17 @@ personne)
 \smf (appartement, voiture ...)
 \dt 17/May/2017
 
+\lx ma
+\va m'
+\ps pm
+\gf PFV.NEG
+\smf auxiliaire verbal inaccompli_(marque de l')
+\xv à ma bán fɔ́lɔ
+\xf ce n'est pas encore fini
+\xv à ma nà
+\xf il n'est pas venu
+\dt 22/Sep/2017
+
 \lx mà
 \va mɔ̀
 \ve (f)
@@ -79207,17 +79219,6 @@ famille)
 \xv májɛ
 \xf maman-blanche (de teint clair)
 \dt 16/Apr/2016
-
-\lx má
-\va m'
-\ps pm
-\gf PFV.NEG
-\smf auxiliaire verbal inaccompli_(marque de l')
-\xv à má bán fɔ́lɔ
-\xf ce n'est pas encore fini
-\xv à má nà
-\xf il n'est pas venu
-\dt 30/Jan/2014
 
 \lx màa
 \va mà
@@ -87190,7 +87191,7 @@ pour les jardins)
 \dt 23/Nov/2012
 
 \lx nà
-\vt ná
+\vt na
 \va n'
 \smf *nà = venir
 \ps pm
@@ -87204,7 +87205,7 @@ pour les jardins)
 \smf marqueur inférentiel 
 \xv à má  báara kɛ́ bì, bàna nà kɛ́  à lá
 \xf il n'a pas travaillé aujourd'hui, peut-être est-il malade
-\dt 05/Apr/2016
+\dt 22/Sep/2017
 
 \lx nà
 \ps n
@@ -90825,6 +90826,24 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \smf teinte générale verdâtre, caudale à mailles jaunes ou rouges)
 \dt 16/Aug/2006
 
+\lx ni
+\va n'
+\ps prep/conj
+\gf et
+\ph [enclitique : se prononce avec le mot qui précède]
+\xv à yé  màlo ni  tìga sàn
+\xf elle a acheté du riz et des arachides
+\xv à ni nɛ̀gɛso táara
+\xf il est parti à vélo (lui et le vélo sont partis)
+\xv à ni Nsàn táara
+\xf il est parti avec Nsan (lui et Nsan sont
+partis)
+\xv nê ni bàna ìn dára
+\xf je suis née avec cette infirmité (moi et cette infirmité ont été créés)
+\xv á ni sú !
+\xf bonsoir ! (vous et le soir !)
+\dt 22/Sep/2017
+
 \lx nì
 \ps v
 \vl vt
@@ -90872,29 +90891,6 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 
 \lx ní
 \va n'
-\ps prep/conj
-\gf et
-\ph [enclitique : se prononce avec le mot qui précède]
-\xv à yé  màlo ní  tìga sàn
-\xf elle a acheté du riz et des arachides
-\xv à ní  nɛ̀gɛso táara
-\xf il est parti à vélo (lui et le vélo sont partis)
-\xv à ní  Nsàn táara
-\xf il est parti avec Nsan (lui et Nsan sont partis)
-\xv à tɛ́ mɛ́n ní  à má nà
-\xf il ne va pas tarder à venir (il ne reste pas longtemps et il n'est pas venu)
-\xv né ní  bàna ìn dára
-\xf je suis née avec cette infirmité (moi et cette infirmité ont été créés)
-\xv á' ní  sú !
-\xf bonsoir ! (vous et le soir !)
-\xv ní  ò yé...yé
-\xf il s'agit de ..., c'est à dire ..., je veux dire (et c'est ...) (coordonnant d'une relative)
-\xv í ɲɛ́ bɛ́  mùso mín ná, ń'ó yé  Ɲéle yé...
-\xf la femme que tu vois  (et) dont le nom est "Ɲele" ...
-\dt 13/Jan/2015
-
-\lx ní
-\va n'
 \ps conj
 \gf si
 \smf conjonction introduisant une proposition hypothético-temporelle
@@ -90903,11 +90899,17 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \xf s'il vient ..., quand il sera venu ...
 \xv ní mín bɛ́ nà...
 \xf celui qui vient..., si quelqu'un vient ...
-\xv ní...tɛ́
+\xv ní ... tɛ́
 \xf excepté ..., sauf ...
 \xv ń'ó tɛ́
 \xf sinon ...
-\dt 26/Sep/2006
+\xv ní ò yé...yé
+\xf il s'agit de ..., c'est à dire ..., je veux dire (et c'est ...) (coordonnant d'une relative)
+\xv í ɲɛ́ bɛ́ mùso mín ná, ń'ó yé  Ɲéle
+yé...
+\xf la femme que tu vois  (et) dont le nom
+est "Ɲele" ...
+\dt 22/Sep/2017
 
 \lx nídegun
 \mm ní:n:âme
@@ -103994,16 +103996,16 @@ le pèlerinage (bk 1/06 p.5)
 \xf
 \dt 23/Feb/2017
 
-\lx òlú
+\lx òlû
 \mm ò:prn:ce
-\mm lú:mrph:PL2
+\mm lu:mrph:PL2
 \lt (celui-là.pl)
 \ps pers
 \gf ce.PL2
 \smf pronom démonstratif pluriel (sert de pronom de rappel au relatif : minnu) : ceux-là ; celles-là, eux, elles, leur
 \xv à yé  kúma mínnu lámɛ, à yé  òlu bɛ́ɛ màra  à kɔ́nɔ
 \xf elle a gardé en mémoire toutes les paroles qu'elle a entendues
-\dt 24/Oct/2012
+\dt 22/Sep/2017
 
 \lx operasɔn
 \ps n
@@ -122173,15 +122175,15 @@ flaques d'eau)
 \xf il s'est complètement calmé
 \dt 20/Dec/2015
 
-\lx tɛ́
-\va té
-\va tí
+\lx tɛ
+\va te
+\va ti
 \va t'
-\ph [te / ti dans certains contextes phonétiques]
 \ps pm
 \gf IPFV.NEG
-\xv à tɛ́ táa
+\xv à tɛ táa
 \xf il ne part pas
+\dt 22/Sep/2017
 
 \lx tɛ́
 \va té
@@ -132275,6 +132277,15 @@ soient définitivement données à leur mari)
 \lt (femme affable? forte)
 \dt 26/Sep/2006
 
+\lx ye
+\va y'
+\ps pm
+\gf PFV.TR
+\smf (auxiliaire de l'accompli positif des verbes transitifs)
+\xv ù ye  ɲɔ̀ gòsi
+\xf ils ont battu le mil
+\dt 22/Sep/2017
+
 \lx yé
 \va y'
 \ps pp
@@ -132358,15 +132369,6 @@ soient définitivement données à leur mari)
 \va y'
 \ps cop
 \gf EQU
-
-\lx yé
-\va y'
-\ps pm
-\gf PFV.TR
-\smf (auxiliaire de l'accompli positif des verbes transitifs)
-\xv ù yé  ɲɔ̀ gòsi
-\xf ils ont battu le mil
-\dt 16/Aug/2006
 
 \lx yé
 \ps v
