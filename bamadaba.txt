@@ -85793,14 +85793,17 @@ cause
 \dt 18/Mar/2015
 
 \lx mùgan
+\va mùgân
 \ps num
 \ms 1
 \gf vingt
-\xv mùgan ní  tán = bí sàba
+\smf (mùgân dans les numéraux
+composés, suivi de ni)
+\xv mùgân ni tán = bí sàba
 \xf trente (20 et 10 = 30)
 \ms 2
 \gvf cent.francs
-\dt 13/Jul/2013
+\dt 23/Sep/2017
 
 \lx múgan
 \ps v
@@ -121123,13 +121126,16 @@ fiançailles
 \xf arrête ! ça suffit  (laisse-le ainsi!)
 
 \lx tán
+\va tân
 \ps num
 \gf dix
-\xv tán ní  dúuru
+\smf (tân dans les numéraux composés,
+suivi de ni)
+\xv tân ni dúuru
 \xf quinze (dix et cinq = quinze)
-\xv mùgan ní  tán
+\xv mùgân ni tán
 \xf trente (vingt et dix = trente)
-\dt 16/Aug/2006
+\dt 23/Sep/2017
 
 \lx tán
 \ps v

@@ -90899,7 +90899,7 @@ partis)
 \xf s'il vient ..., quand il sera venu ...
 \xv ní mín bɛ́ nà...
 \xf celui qui vient..., si quelqu'un vient ...
-\xv ní...tɛ́
+\xv ní ... tɛ́
 \xf excepté ..., sauf ...
 \xv ń'ó tɛ́
 \xf sinon ...
@@ -121123,13 +121123,16 @@ fiançailles
 \xf arrête ! ça suffit  (laisse-le ainsi!)
 
 \lx tán
+\va tân
 \ps num
 \gf dix
-\xv tán ní  dúuru
+\smf (tân dans les numéraux composés,
+suivi de ni)
+\xv tân ni dúuru
 \xf quinze (dix et cinq = quinze)
-\xv mùgan ní  tán
+\xv mùgân ni tán
 \xf trente (vingt et dix = trente)
-\dt 16/Aug/2006
+\dt 23/Sep/2017
 
 \lx tán
 \ps v
