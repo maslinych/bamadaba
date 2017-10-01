@@ -1,4 +1,4 @@
-﻿\_sh v3.0  231  MDF 4.0
+\_sh v3.0  231  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -755,16 +755,16 @@ les deux flancs'
 \smf un constat fait avec de la joie méchante
 \dt 27/Nov/2014
 
-\lx àni
+\lx àní
 \va àn'
 \ps prep/conj
 \gf ainsi.que
 \smf (mise en relief )
 \lt cela.et
 \smf sert dans les énumérations, peut aussi coordonner des phrases
-\xv à yé  ɲɔ́ d'á mà  àni  wòro
+\xv à yé  ɲɔ́ d'á mà  àní wòro
 \xf il lui a donné du mil et (aussi) des kolas (souvent employé avant le dernier mot d'une série)
-\dt 18/Jan/2015
+\dt 01/Oct/2017
 
 \lx ànkɛ
 \mr ɔ̀nhɔn kɛ̀
@@ -52701,13 +52701,14 @@ composante des adjectifs séparables)
 \lx ka
 \ps pp
 \gf POSS
-\smf particule copulative (reliant possesseur et objet possédé)
+\smf (marqueur de relation entre le
+possesseur et l'objet possédé, mais
+aussi le nom d'action à son agent)
 \xv à ka dàba dòn
 \xf c'est sa houe (la houe de lui)
-\smf (elle relie aussi le nom d'action à son agent)
 \xv kàrisa ka bònya fílɛ
 \xf voici le cadeau d'un tel (celui qu'il a fait)
-\dt 22/Sep/2017
+\dt 01/Oct/2017
 
 \lx ka
 \ps pm
