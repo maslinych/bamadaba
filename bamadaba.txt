@@ -1,4 +1,4 @@
-\_sh v3.0  231  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -340,7 +340,7 @@
 
 \lx álamadi
 \mm Ála:n:Dieu
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm dí:v:donner
 \ps n
 \ms 1
@@ -376,7 +376,7 @@
 
 \lx álamata
 \mm ála:n:God
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm tá:n:propriété
 \ps n
 \gf le.moindre
@@ -2244,7 +2244,7 @@ urinaires, rhume, toux...
 
 \lx bàjan
 \mm bà:n:chèvre
-\mm jàn:vq:haut
+\mm jàn:adj:long
 \ps n
 \gf grande.chèvre.du.Sahel
 \lt (chèvre.grande)
@@ -2253,7 +2253,7 @@ urinaires, rhume, toux...
 \lx bàjanbila
 \mm bà.jan:n:grande.chèvre.du.Sahel
 \mm bà:n:chèvre
-\mm jàn:vq:haut
+\mm jàn:adj:long
 \mm bìla:v:mettre
 \ps v
 \vl vi
@@ -2262,27 +2262,26 @@ urinaires, rhume, toux...
 \lt (comme une chèvre.laisser aller)
 \xv kàrisa b'í yɛ̀rɛ bàjanbila
 \xf une telle court  comme elle le veut
-\dt 16/Aug/2006
+\dt 08/Oct/2017
 
 \lx bàjanbilaya
 \mm bà.jan.bila:v:vagabonder
 \mm bà:n:chèvre
-\mm jàn:vq:haut
+\mm jàn:adj:long
 \mm bìla:v:mettre
 \mm ya:mrph:ABSTR
 \ps n
-\lt grande chèvre-laisser aller-suf abs
 \gf vagabondage
 \gvf liberté.sans.limite
 \xv dɔ́ kà bɔ́ dénmisɛn ká bàjanbilaya lá
 \xf qu'on enlève aux jeunes un peu de leur liberté sans limité (kb 9/04 p.7)
 \rem du, jos
-\dt 11/Nov/2007
+\dt 08/Oct/2017
 
 \lx bàjanyaala
 \mm bà.jan:n:grande.chèvre.du.Sahel
 \mm bà:n:chèvre
-\mm jàn:vq:haut
+\mm jàn:adj:long
 \mm yáala:n:promenade
 \ps n
 \gf vagabondage
@@ -3496,7 +3495,7 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \dt 26/Sep/2006
 
 \lx bámanankan
-\mm bámana:n:bambara.(ethnie)
+\mm bámanan:n:bambara.(ethnie)
 \mm kán:n:cou
 \va bámana.kan
 \mm bámana:n:bambara.(ethnie)
@@ -3504,7 +3503,7 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \ps n
 \gf langue.bambara
 \lt (bambara.langue)
-\dt 07/Nov/2014
+\dt 08/Oct/2017
 
 \lx bámanaya
 \mm bámana:n:bambara.(ethnie)
@@ -4502,7 +4501,7 @@ Fleurs spectaculaires
 \lx bànkómà
 \mm bàn:v:refuser
 \mm kó:n:affaire
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \gf entêté
 \smf personne qui refuse (qui a le pouvoir de décision)
@@ -6078,7 +6077,7 @@ feu
 \dt 21/Dec/2014
 
 \lx báyɛlɛmabaga
-\mm bá:n:mère
+\mm bá:n:base
 \mm yɛ̀lɛma:v:changer
 \mm baga:mrph:AG.OCC
 \ps n
@@ -6086,14 +6085,14 @@ feu
 \gf traducteur
 \xv báyɛlɛmabaga : Dɔ́kala Yúsufu Jàra
 \xf traducteur : Dokala Yousouf Jara (kb 5/06 p.10)
-\dt 11/Nov/2007
+\dt 08/Oct/2017
 
 \lx báyɛlɛmali
-\mm bá:n:mère
+\mm bá:n:base
 \mm yɛ̀lɛma:v:changer
 \mm li:mrph:NMLZ
 \va bá.yɛlɛma.ni
-\mm bá:n:mère
+\mm bá:n:base
 \mm yɛ̀lɛma:v:changer
 \mm ni:mrph:NMLZ
 \ps n
@@ -6101,7 +6100,7 @@ feu
 \gf transformation
 \ms 2
 \gvf traduction
-\dt 20/Mar/2017
+\dt 08/Oct/2017
 
 \lx bèete
 \va bèé
@@ -7184,11 +7183,11 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bɛ̀n:v:se.rencontrer
 \mm ń:pers:1SG
 \mm sèn:n:jambe
-\mm mà:pp:à
+\mm mà:pp:ADR
 \va bɛ̀nsenma
 \mm bɛ̀n:v:se.rencontrer
 \mm sèn:n:jambe
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \lt s'accorder-à mon pied
 \ms 1
@@ -7864,11 +7863,11 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bìlangalama
 \mm bìla:v:mettre
 \mm Ngála:n:Dieu
-\mm mà:pp:à
+\mm mà:pp:ADR
 \va blà.ngala.ma
 \mm blà:v:mettre
 \mm Ngála:n:Dieu
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ph [bla]
 \ps n
 \gf résignation
@@ -7966,12 +7965,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bìla:v:mettre
 \mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
-\mm mà:pp:à
+\mm mà:pp:ADR
 \va blà.n.yɛrɛ.ma
 \mm blà:v:mettre
 \mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps adj
 \lt laisser-moi-même -à
 \gf laissé.à.soi-même
@@ -9949,12 +9948,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo:n:bras
 \mm dí:v:donner
 \mm ɲɔ́gɔn:prn:RECP
-\mm mà:pp:à
+\mm mà:pp:ADR
 \va bólodiɲwanma
 \mm bólo:n:bras
 \mm dí:v:donner
 \mm ɲwán:prn:RECP
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \lt main-donner-l'un l'autre-à
 \gf entr'aide
@@ -10302,7 +10301,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo.kɔni:n:doigt
 \mm bólo:n:bras
 \mm kɔni:n:doigt
-\mm jàn:vq:haut
+\mm jàn:adj:long
 \ps n
 \gf médius
 \lt (doigt.grand)
@@ -12158,7 +12157,7 @@ milieu des pierres
 \mm dɔ̀n:v:danser
 \va bɔ̀gɔradɔ́n
 \mm bɔ̀gɔ:n:terre
-\mm rá:pp:dans
+\mm rá:pp:à
 \mm dɔ̀n:v:danser
 \va bɔ̀gɔrɔdɔ́n
 \mm bɔ̀gɔ:n:terre
@@ -14713,7 +14712,7 @@ médicinales
 
 \lx cáya
 \mm cá:vq:nombreux
-\mm ya:mrph:ABSTR
+\mm ya:mrph:DEQU
 \ps n
 \ms 1
 \gf grand.nombre
@@ -14727,7 +14726,7 @@ médicinales
 \ms 4
 \gvf pluriel
 \smf (néologisme)
-\dt 26/Sep/2006
+\dt 08/Oct/2017
 
 \lx cáya
 \mm cá:vq:nombreux
@@ -15326,7 +15325,7 @@ sur soi)
 
 \lx cɛ́jànya
 \mm cɛ́:n:milieu
-\mm jàn:vq:haut
+\mm jàn:adj:long
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -15778,7 +15777,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ́mà
 \mm cɛ́:n:milieu
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps pp
 \gf parmi
 \gvf au milieu de
@@ -15797,7 +15796,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ́makolo
 \mm cɛ́:n:milieu
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm kólo:n:os
 \va cɛ́.kolo
 \mm cɛ́:n:milieu
@@ -15859,7 +15858,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ́mata
 \mm cɛ́:n:milieu
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm tá:n:propriété
 \ps adj
 \gf moyen
@@ -18351,7 +18350,7 @@ saillie)
 \mm ń:pers:1SG
 \mm kámà:pp:pour
 \mm kán:n:cou
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \gf action.intentionnelle
 \gvf action volontaire
@@ -19362,7 +19361,7 @@ saillie)
 
 \lx dàjan
 \mm dà:n:chanvre
-\mm jàn:vq:haut
+\mm jàn:adj:long
 \ps n
 \gf chanvre
 \smf dont on tire les fibres
@@ -20909,10 +20908,10 @@ pas)
 
 \lx dàma
 \mm dàn:n:limite
-\mm mà:pp:à
+\mm mà:pp:ADR
 \va dànma
 \mm dàn:n:limite
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \gf limite
 \gvf taille
@@ -21819,7 +21818,7 @@ devenir incontrôlable
 \lx dánkɛnɛmaya
 \mm dá:v:poser
 \mm kɛ́nɛ:n:clarté
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm ya:mrph:ABSTR
 \ps v
 \ms 1
@@ -21923,7 +21922,7 @@ devenir incontrôlable
 
 \lx dànma
 \mm dàn:n:limite
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \gf spécial
 \gvf à.part
@@ -21940,7 +21939,7 @@ devenir incontrôlable
 
 \lx dànmako
 \mm dàn:n:limite
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm kó:n:affaire
 \ps n
 \gf cas.à.part
@@ -22434,13 +22433,15 @@ génitales ...
 \ps n
 \lt préciser-action
 \ms 1
-\gf s'expliquer.NMLZ
+\gf explication
+\gvf déclaration
+\gvf exposé
 \ms 2
 \gvf introduction
 \smf (d'une narration, d'une rédaction ...)
 \xv dàntigɛli kɔ́nɔ, í bɛ́na kó mín lákali, í b'ó péreperelatigɛ
 \xf dans une introduction, tu précises ce que tu vas raconter ... (kb 2/06 p.8)
-\dt 11/Nov/2007
+\dt 08/Oct/2017
 
 \lx dàntɔ
 \mm dàn:n:limite
@@ -25373,7 +25374,7 @@ chefs religieux et représentants de l'administration
 \lx díńmà
 \mm dí:v:donner
 \mm ń:pers:1SG
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \gf don
 \gvf
@@ -26701,7 +26702,7 @@ chefs religieux et représentants de l'administration
 
 \lx dónjan
 \mm dón:n:jour
-\mm jàn:vq:haut
+\mm jàn:adj:long
 \ps n
 \ms 1
 \gf avenir.lointain
@@ -26821,11 +26822,11 @@ chefs religieux et représentants de l'administration
 
 \lx dónmafila
 \mm dón:n:jour
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm fìla:num:deux
 \va dón.ma.fla
 \mm dón:n:jour
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm flà:num:deux
 \lt (jour.bisser)
 \ph [mafla]
@@ -27688,23 +27689,11 @@ le nom du groupe ethnique)
 \xf si tu entends dire "petit papa", certains pensent que c'est une manière de dire humiliante, non, ce n'en est pas une
 \dt 01/Jun/2017
 
-\lx dɔ̀jan
-\mm dɔ̀:n:longueur
-\mm jàn:vq:haut
-\va jɔ̀.jan
-\mm jɔ̀:n:station.debout
-\mm jàn:vq:haut
-\ps n
-\gf longueur
-\lt (côté.long)
-\dt 16/Aug/2006
-
 \lx dɔ́kɛbali
 \mm dɔ́:dtm:certain
 \mm kɛ́:v:faire
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
-\lt un peu-faire-nég
 \gf inactif
 \gvf fainéant
 \gvf paresseux
@@ -28397,14 +28386,6 @@ désorienter')
 \gvf une fois que
 \dt 19/Feb/2017
 
-\lx dɔ̀surun
-\mm dɔ̀:n:longueur
-\mm sùrun:vq:être.court
-\ps n
-\gf largeur
-\lt (côté.court)
-\dt 12/Aug/2006
-
 \lx dɔ́wɛrɛ
 \mm dɔ́:dtm:certain
 \mm wɛ́rɛ:adj:autre
@@ -28885,7 +28866,7 @@ désorienter')
 
 \lx dùgumadagannin
 \mm dùgu:n:terre
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm dàgan:n:arbre.Afzelia.africana
 \mm nin:mrph:DIM
 \ps n
@@ -28900,7 +28881,7 @@ désorienter')
 
 \lx dùgumadawolo
 \mm dùgu:n:terre
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm dá:n:bouche
 \mm wòlo:n:peau
 \ps n
@@ -28910,7 +28891,7 @@ désorienter')
 
 \lx dùgumafɛn
 \mm dùgu:n:terre
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm fɛ́n:n:chose
 \ps n
 \gf reptile
@@ -28922,7 +28903,7 @@ désorienter')
 
 \lx dùgumakalan
 \mm dùgu:n:terre
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm kàlan:n:lecture
 \ps n
 \lt à terre-enseignement
@@ -28934,7 +28915,7 @@ désorienter')
 
 \lx dùgumakɛlɛcɛ
 \mm dùgu:n:terre
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm kɛ̀lɛ:v:combattre
 \mm cɛ̀:n:mâle
 \ps n
@@ -28972,7 +28953,7 @@ désorienter')
 
 \lx dùgumaɲamaku
 \mm dùgu:n:terre
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm ɲámaku:n:gingimbre
 \ps n
 \gf gingembre
@@ -28991,7 +28972,7 @@ désorienter')
 
 \lx dùgumasara
 \mm dùgu:n:terre
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm sàra:n:paie
 \ps n
 \gf défaite
@@ -29692,7 +29673,7 @@ quant à sa mère, elle prend de l'âge
 
 \lx dùnduguma
 \mm dùgu:n:terre
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \gf privé
 \gvf propriété privé
@@ -33039,16 +33020,16 @@ compagnie ...
 
 \lx fàrimasyan
 \mm fàri:n:corps
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm syán:v:gratter
 \va fàri.ma.syɛn
 \mm fàri:n:corps
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm syɛ́n:v:gratter
 \ve (bk)
 \va fàri.ma.san
 \mm fàri:n:corps
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm sán:v:gratter
 \ps n
 \gf démangeaison
@@ -37910,18 +37891,18 @@ frontières, forestiers, sapeurs)
 
 \lx fɔ́-kà-bɛ̀n
 \mm fɔ́:v:dire
-\mm ká:pm:INF
+\mm kà:pm:INF
 \mm bɛ̀n:v:se.rencontrer
 \va fɔ́kabɛn
 \mm fɔ́:v:dire
-\mm ká:pm:INF
+\mm kà:pm:INF
 \mm bɛ̀n:v:se.rencontrer
 \ps n
 \gf accord
 \gvf décision
 \gvf déclaration.commune
 \lt (dire-et-s'entendre)
-\dt 15/Aug/2017
+\dt 08/Oct/2017
 
 \lx fɔ́kabɛnna
 \mm fɔ́:v:dire
@@ -38077,12 +38058,12 @@ frontières, forestiers, sapeurs)
 \gf vacarme
 
 \lx fɔ́lɔmɔgɔ
-\mm fɔ́lɔ:adv:autrefois
+\mm fɔ́lɔ:n:autrefois
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf homme.préhistorique
 \lt (jadis.homme)
-\dt 16/Aug/2006
+\dt 08/Oct/2017
 
 \lx fɔ̀lɔn
 \va fɔ̀lɔ
@@ -46215,7 +46196,7 @@ régions sont éloignés les uns des autres (kb 9/05 p.9)
 
 \lx jàgomafila
 \mm jàgo:n:commerce
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm fìla:num:deux
 \ps n
 \gf achat.et.vente
@@ -48506,7 +48487,7 @@ qqch ...)
 
 \lx jɛ̀makan
 \mm jɛ̀:n:assemblée
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm kán:n:cou
 \ps n
 \lt union-endroit-parole
@@ -51125,10 +51106,9 @@ d'arrière-saison
 \mm jàn:vq:long
 \ps n
 \gf longueur
-\lt (côté.grand)
 \xv síra jɔ̀jan fɛ̀
 \xf le long du chemin, sur le bord du chemin
-\dt 16/Aug/2006
+\dt 08/Oct/2017
 
 \lx jɔ̀jiri
 \mm jɔ̀:n:station.debout
@@ -51652,8 +51632,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \mm sùrun:vq:court
 \ps n
 \gf largeur
-\lt (côté.court)
-\dt 28/Feb/2017
+\dt 08/Oct/2017
 
 \lx jɔ̀tɛ
 \va jɔ̀ntɛya
@@ -51744,20 +51723,16 @@ fusil)
 
 \lx jùbaatɔ
 \mm tɔ:mrph:ST
-\va jùbaatɔ
-\mm tɔ:mrph:ST
 \va jùbagatɔ
 \mm tɔ:mrph:ST
 \va jìbaatɔ
 \mm tɔ:mrph:ST
 \va jòbaatɔ
 \mm tɔ:mrph:ST
-\smf jiginbaatɔ* = qui vient d'accoucher ?
-\lt (mettre bas.sujet)
 \ps adj/n
 \gf nouvelle.accouchée
-\smf femelle qui vient de mettre bas...
-\dt 20/Dec/2015
+\smf (femelle qui vient de mettre bas)
+\dt 08/Oct/2017
 
 \lx jùbara
 \mm jù:n:derrière
@@ -52713,10 +52688,10 @@ aussi le nom d'action à son agent)
 \lx ka
 \ps pm
 \gf QUAL.AFF
-\smf (reliant l'adjectif prédicat à son sujet)
+\smf (reliant le verbe qualitatif à son sujet)
 \xv à ka bòn
 \xf il est gros
-\dt 22/Sep/2017
+\dt 08/Oct/2017
 
 \lx ka
 \va k'
@@ -54106,7 +54081,7 @@ l'eau est prête
 
 \lx kàlamà
 \mm kàla:n:tige
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps pp
 \gf au.courant.de
 \gvf
@@ -54875,11 +54850,10 @@ prolapsus utérin
 
 \lx kámà
 \mm kán:n:cou
-\mm mà:pp:à
+\mm mà:pp:ADR
 \va kánmà
 \mm kán:n:cou
-\mm mà:pp:à
-\smf kan mà*
+\mm mà:pp:ADR
 \ps pp
 \ms 1
 \gf pour
@@ -54891,7 +54865,7 @@ prolapsus utérin
 \gvf contre
 \xv à wúlila né kámà
 \xf il s'est levé pour m'attaquer
-\dt 07/Mar/2017
+\dt 08/Oct/2017
 
 \lx Kámabulon
 \mm bùlon:n:antichambre
@@ -55772,11 +55746,11 @@ prolapsus utérin
 \va kánfereke
 \mm kán:n:cou
 \ps n
-\gf œsophage
+\gf oesophage
 \gvf trachée
 \gvf trachée-artère
 \lt (cou. ? )
-\dt 17/May/2017
+\dt 04/Oct/2017
 
 \lx kànga
 \va kàan
@@ -59303,7 +59277,7 @@ probablement de chaux vive)
 
 \lx kɛ́nɛmana
 \mm kɛ́nɛ:n:clarté
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm na:mrph:LOC
 \ps n
 \ms 1
@@ -59786,7 +59760,7 @@ probablement de chaux vive)
 
 \lx kɛ̀rɛmatìgɛ
 \mm kɛ̀rɛ:n:côté
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm tìgɛ:v:couper
 \ps v
 \vl vt
@@ -64433,7 +64407,7 @@ champs)
 \mm dá:v:poser
 \va kɔ́rada
 \mm kɔ́:n:dos
-\mm rá:pp:dans
+\mm rá:pp:à
 \mm dá:v:poser
 \ve (bn)
 \va kɔ́rɔda
@@ -64452,7 +64426,7 @@ champs)
 \mm dén:n:enfant
 \va kɔ́.ra.den
 \mm kɔ́:n:dos
-\mm rá:pp:dans
+\mm rá:pp:à
 \mm dén:n:enfant
 \ve (bn)
 \va kɔ́.rɔ.den
@@ -64803,7 +64777,7 @@ champs)
 
 \lx kɔ́mayɛ̀lɛma
 \mm kɔ́:n:dos
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm yɛ̀lɛma:v:changer
 \ps v
 \ms 1
@@ -65118,11 +65092,11 @@ champs)
 
 \lx kɔ́ngɔ́-bɛ́-ń-ná-bò-bɛ́-ń-ná
 \mm kɔ́ngɔ́:n:faim
-\mm bɛ́:cop:BE
+\mm bɛ́:cop:être
 \mm ń:pers:1SG
 \mm ná:pp:à
 \mm bò:n:excrément
-\mm bɛ́:cop:BE
+\mm bɛ́:cop:être
 \mm ń:pers:1SG
 \mm ná:pp:à
 \ps n
@@ -68165,14 +68139,22 @@ plus solide)
 \gvf mourir
 \dt 26/Sep/2006
 
+\lx kɔ̀sen
+\mm kɔ̀:n:marigot
+\mm sén:n:pont
+\ps n
+\gf pont.sur.marigot
+\gvf
+\smf
+\dt 08/Oct/2017
+
 \lx kɔ́sen
 \mm kɔ́:n:dos
 \mm sèn:n:jambe
 \ps n
 \gf patte.arrière
-\gvf roué.arrière
-\lt (arrière.pied)
-\dt 26/Sep/2006
+\gvf roué arrière
+\dt 08/Oct/2017
 
 \lx kɔ́sin
 \mm kɔ́:n:dos
@@ -71239,7 +71221,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnmafili
 \mm kùn:n:tête
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm fìli:v:jeter
 \ps n
 \gf désordre
@@ -71271,7 +71253,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnmasicɛ
 \mm kùn:n:tête
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm sí:n:poil
 \mm cɛ̀:v:ramasser
 \ps n
@@ -71284,7 +71266,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnmasícɛ̀
 \mm kùn:n:tête
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm sí:n:poil
 \mm cɛ̀:v:ramasser
 \ps v
@@ -71297,7 +71279,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnmasìri
 \mm kùn:n:tête
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm sìri:v:attacher
 \ps v
 \gf inquiéter
@@ -71337,7 +71319,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnmato
 \mm kùn:n:tête
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm tó:v:rester
 \ps v
 \gf mettre.en.gage
@@ -71346,7 +71328,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnmatu
 \mm kùn:n:tête
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm tú:n:touffe
 \ps n
 \gf indemnité
@@ -71356,7 +71338,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 
 \lx kùnmatu
 \mm kùn:n:tête
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm tú:v:être.touffu
 \ps v
 \gf indemniser
@@ -73453,8 +73435,8 @@ kúrunninle
 \ps v
 \vl vt
 \gf remplacer
-\smf qqn au travail
-\dt 04/Apr/2016
+\smf (qqn au travail)
+\dt 02/Oct/2017
 
 \lx làada
 \bw ar: al-`ada = habitude, coutume
@@ -74666,7 +74648,7 @@ kúrunninle
 \gvf angoisser
 \xv sɛ̀nɛkɛla láfililen  sánji kó lá
 \xf les paysans sont angoissés au sujet de la pluie
-\dt 01/Jun/2017
+\dt 01/Oct/2017
 
 \lx láfilibaatɔ
 \mm lá.fili:v:tromper
@@ -75988,7 +75970,7 @@ kúrunninle
 \lx lákɔmayɛ̀lɛma
 \mm lá:mrph:CAUS
 \mm kɔ́:n:dos
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm yɛ̀lɛma:v:changer
 \ps v
 \vl vt
@@ -78605,8 +78587,8 @@ personne)
 \ps adv
 \gf complètement
 \gvf parfaitement
-\smf (nombreux verbes et adjectifs prédicats)
-\dt 19/Jan/2015
+\smf (nombreux verbes et verbes qualitatifs)
+\dt 08/Oct/2017
 
 \lx lɛ̀
 \va jɛ̀
@@ -79086,11 +79068,18 @@ personne)
 \gvf situation pénible
 
 \lx lújuratɔ
+\mm lújura:n:difficulté
+\mm tɔ:mrph:ST
 \va lájuratɔ
+\mm lájura:n:difficulté
+\mm tɔ:mrph:ST
 \va lɔ́juratɔ
+\mm lɔ́jura:n:difficulté
+\mm tɔ:mrph:ST
 \ps n
 \gf handicapé
 \gvf personne défavorisée
+\dt 08/Oct/2017
 
 \lx lúulu
 \bw ar: lu'lu' = perle
@@ -81251,10 +81240,12 @@ jour, c'est une personne dépendante qu'il voit
 \dt 11/Nov/2007
 
 \lx mánanin
+\mm mánan:n:substance.collante
+\mm nin:mrph:DIM
 \ps n
 \gf sac.plastique
 \gvf préservatif
-\dt 19/Feb/2013
+\dt 08/Oct/2017
 
 \lx mánaninkun
 \mm mána:n:substance.collante
@@ -88333,7 +88324,7 @@ sorcières et leur élimination)
 \mm nà:v:venir
 \mm ń:pers:1SG
 \mm kɔ́:n:dos
-\mm rá:pp:dans
+\mm rá:pp:à
 \mm dén:n:enfant
 \ps n
 \gf bâtard
@@ -88571,8 +88562,7 @@ sorcières et leur élimination)
 \mm ba:mrph:AUGM
 \ps n
 \gf avide
-\lt (cupidité.grande)
-\dt 26/Sep/2006
+\dt 08/Oct/2017
 
 \lx nàtabaya
 \mm nàta.ba:n:avide
@@ -92674,10 +92664,10 @@ familiaux; viande très prisée, auladiculture)
 \lx nkónsonkansan
 \ps n
 \gf pangolin.géant
-\lat Manis/Smutsia.gigantea
+\lat Manis/Smutsia gigantea
 \smf (très rare)
 \sy gɛ́tɛrɛ
-\dt 16/Aug/2006
+\dt 07/Oct/2017
 
 \lx nkòrongo
 \ps n
@@ -93901,7 +93891,7 @@ graines, sert d'instrument rythmique)
 \mm dá:v:poser
 \va nɔ̀.ra.da
 \mm nɔ̀:n:trace
-\mm rá:pp:dans
+\mm rá:pp:à
 \mm dá:v:poser
 \va nwàna
 \ve (f)
@@ -100136,7 +100126,7 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́mà
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps pp
 \gf devant
 \xv bɔ́ ń ɲɛ́mà !
@@ -100145,7 +100135,7 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́mabòli
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm bòli:v:courir
 \ps v
 \vl vi
@@ -100193,7 +100183,7 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́madògo
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm dògo:v:cacher
 \ps v
 \vl vr
@@ -100217,7 +100207,7 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́majɔ̀
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm jɔ̀:v:dresser
 \ps v
 \ms 1
@@ -100242,7 +100232,7 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́majɔbali
 \mm ɲɛ́.ma.jɔ̀:v:être.prudent
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
@@ -100255,7 +100245,7 @@ graines, sert d'instrument rythmique)
 \mm ɲɛ́.ma.jɔ.bali:ptcp:inattentif
 \mm ɲɛ́.ma.jɔ̀:v:être.prudent
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
@@ -100281,7 +100271,7 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́makɔniya
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm kɔ́niya:n:envie
 \ps n
 \gf jalousie
@@ -100289,7 +100279,7 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́makɔniya
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm kɔ́niya:v:envier
 \ps v
 \vl vt
@@ -100381,7 +100371,7 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́masaamɛya
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm sáamɛ:v:être.confus
 \mm ya:mrph:ABSTR
 \ps n
@@ -100402,11 +100392,11 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́matiyɛn
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm tíyɛn:v:gâter
 \va ɲɛ́.ma.tiɲɛ
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm tíɲɛ:v:gâter
 \lt (devant.gâter)
 \ps v
@@ -100418,11 +100408,11 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́matunu
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm túnu:v:perdre
 \va ɲɛ́.ma.tunun
 \mm ɲɛ́:n:oeil
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm túnun:v:perdre
 \ps v
 \vl vi
@@ -107796,7 +107786,7 @@ épuisés
 \lx sángaɲɔgɔnma
 \mm sánga:v:comparer
 \mm ɲɔ́gɔn:prn:RECP
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \gf émulation
 \gvf concurrence
@@ -107807,12 +107797,12 @@ épuisés
 \lx sángaɲɔgɔnmali
 \mm sánga:v:comparer
 \mm ɲɔ́gɔn:prn:RECP
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm li:mrph:NMLZ
 \va sángaɲɔgɔnmani
 \mm sánga:v:comparer
 \mm ɲɔ́gɔn:prn:RECP
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm ni:mrph:NMLZ
 \ps n
 \ms 1
@@ -107951,22 +107941,22 @@ épuisés
 \lt (ciel.loin)
 \dt 16/Aug/2006
 
-\lx sànji
+\lx sánji
 \mm sán:n:ciel
 \mm jí:n:eau
 \ps n
 \ms 1
 \gf pluie
 \lt (ciel.eau)
-\xv sànji jɔ̀ra  kà mɛ́ dɔ́ɔnin
+\xv sánji jɔ̀ra kà mɛ́ dɔ́ɔnin
 \xf la pluie s'est arrêtée un petit moment
-\xv sànji tìgɛra / wóra
+\xv sánji tìgɛra / wóra
 \xf la pluie s'est arrêtée
 \ms 2
 \gvf saison des pluies
 \ms 3
 \gvf année
-\dt 10/Jul/2017
+\dt 08/Oct/2017
 
 \lx sánjiba
 \mm sán.ji:n:pluie
@@ -109967,7 +109957,7 @@ paniers, sègi)
 
 \lx sélimafo
 \mm séli:n:prière
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm fò:v:saluer
 \ps v
 \vl vt
@@ -109977,7 +109967,7 @@ paniers, sègi)
 
 \lx sélimakini
 \mm séli:n:prière
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm kíni:n:ruz.cuit
 \ps n
 \gf repas.de.fête
@@ -111421,14 +111411,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf sérieusement
 \gvf fortement
 \gvf consciencieusement
-\smf (en composition avec un adjectif prédicat ou un verbe)
+\smf (en composition avec un verbes qualitatifs ou un verbe)
 \xv ù y'á sɛ̀bɛkɔrɔ-déli
 \xf ils l'ont supplié instamment
 \xv à mán sɛ̀bɛkɔrɔ-ján
 \xf il n'est pas très grand
 \xv ń sɛ̀bɛkɔrɔ tɛ́!
 \xf ke refuse catégoriquement !
-\dt 04/Jun/2016
+\dt 08/Oct/2017
 
 \lx sɛ̀bɛkuma
 \mm sɛ̀bɛ:adj/n:sérieux
@@ -112989,12 +112979,12 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sìgi:v:asseoir
 \mm ń:pers:1SG
 \mm bólo:n:bras
-\mm mà:pp:à
+\mm mà:pp:ADR
 \va  sìgi-ń-bólo-mà
 \mm sìgi:v:asseoir
 \mm ń:pers:1SG
 \mm bólo:n:bras
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \ms 1
 \gf tranquille
@@ -113198,7 +113188,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sìgiyɔrɔma
 \mm sìgi:v:asseoir
 \mm yɔ́rɔ:n:lieu
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps v
 \lt poser-lieu-suf
 \vl vt
@@ -113214,7 +113204,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sìgiyɔrɔma
 \mm sìgi:v:asseoir
 \mm yɔ́rɔ:n:lieu
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \ms 1
 \gf endroit
@@ -113842,7 +113832,7 @@ trompe)
 
 \lx sínimasini
 \mm síni:n:demain
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm síni:n:demain
 \ps n
 \lt demain-endroit-demain
@@ -116985,7 +116975,7 @@ euphémique)
 \lx sɔ̀nkómà
 \mm sɔ̀n:v:accepter
 \mm kó:n:affaire
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps adj/n
 \gf complaisant
 \gvf facile
@@ -118688,7 +118678,7 @@ euphémique)
 \mm fàna:n:repas
 \va sú.ra.fana
 \mm sú:n:nuit
-\mm rá:pp:dans
+\mm rá:pp:à
 \mm fàna:n:repas
 \ps n
 \ms 1
@@ -120290,6 +120280,22 @@ fiançailles
 \xf ce qui nous fait progresser, c'est la solidarité
 \dt 16/Aug/2006
 
+\lx táalan
+\mm táa:v:aller
+\mm lan:mrph:INSTR
+\ps n
+\ms 1
+\gf ce.qui.fait.marcher
+\gvf ce qui va avec
+\ms 2
+\gvf nécessité
+\ms 3
+\gvf habitude
+\ms 4
+\gvf condition
+\smf
+\dt 08/Oct/2017
+
 \lx táalibɛ
 \bw ar: talib = id.
 \ps n
@@ -121397,7 +121403,7 @@ pieton)
 \mm tà:v:prendre
 \mm ń:pers:1SG
 \mm tɛ́gɛ:n:paume
-\mm mà:pp:à
+\mm mà:pp:ADR
 \ps n
 \gf flagrant.délit
 \lt (prendre.ma.main.à)
@@ -122736,7 +122742,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tɛ̀nɛmako
 \mm tɛ̀nɛ:n:tabou
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm kó:n:affaire
 \ps n
 \lt interdit-action
@@ -124123,7 +124129,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tímafatu
 \mm tí:n:chaume
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm fá:v:fill
 \mm tú:n:touffe
 \ps n
@@ -127196,12 +127202,12 @@ yé
 
 \lx túlomagɛlɛya
 \mm túlo:n:oreille
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm gɛ̀lɛ:vq/adj:dur
 \mm ya:mrph:ABSTR
 \va túlo.ma.gwɛlɛ.ya
 \mm túlo:n:oreille
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm gwɛ̀lɛ:vq/adj:dur
 \mm ya:mrph:ABSTR
 \ph [gw]
@@ -127278,11 +127284,11 @@ yé
 
 \lx túlomasama
 \mm túlo:n:oreille
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm sàma:v:tirer.à.soi
 \va tló.ma.sama
 \mm tló:n:oreille
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm sàma:v:tirer.à.soi
 \ph [tl]
 \ps n
@@ -127308,7 +127314,7 @@ yé
 \ph [tl]
 \va túlomaminɛ
 \mm túlo:n:oreille
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm mìnɛ:v:attraper
 \ps n
 \gf arrière.grand-père
@@ -133324,7 +133330,7 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛmahɔrɔn
 \mm yɛ̀rɛ̂:dtm:même
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm hɔ́rɔn:adj:libre
 \ps n
 \gf homme.libre
@@ -133334,7 +133340,7 @@ comportement (LD p.5)
 \lx yɛ̀rɛmahɔrɔnya
 \mm yɛ̀rɛmahɔrɔn:n:homme.libre
 \mm yɛ̀rɛ̂:dtm:même
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm hɔ́rɔn:adj:libre
 \mm ya:mrph:ABSTR
 \ps v
@@ -133347,7 +133353,7 @@ comportement (LD p.5)
 \lx yɛ̀rɛmahɔrɔnya
 \mm yɛ̀rɛmahɔrɔn:n:homme.libre
 \mm yɛ̀rɛ̂:dtm:même
-\mm mà:pp:à
+\mm mà:pp:ADR
 \mm hɔ́rɔn:adj:libre
 \mm ya:mrph:ABSTR
 \ps n
@@ -133532,7 +133538,7 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛ-yé-yɛ̀rɛ-bólo
 \mm yɛ̀rɛ̂:dtm:même
-\mm yé:cop:BE
+\mm yé:cop:être
 \mm bólo:pp:poss
 \ps n
 \gf personne.libre
