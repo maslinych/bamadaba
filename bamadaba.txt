@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+﻿\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -15985,7 +15985,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ̀nímùsoya
 \mm cɛ̀:n:mâle
-\mm ní:prep/conj:et
+\mm ni:prep/conj:et
 \mm mùso:n:femme
 \mm ya:mrph:ABSTR
 \ps n
@@ -55365,21 +55365,25 @@ prolapsus utérin
 \ms 1
 \gf égal
 \gvf pareil
-\xv ù ká kán
+\xv ù ka kán
 \xf ils sont égaux, identiques
 \ms 2
 \gvf convenable
 \gvf nécessaire
 \gvf dû
-\xv ò ní  kɛ́ ká kán
+\xv ò ni kɛ́ ka kán
 \xf il faut le faire
-\xv à ká kán ní...yé
+\xv à ka kán ní...yé
 \xf il mérite ...
-\xv ò tùn mán kán  kà kɛ́
+\xv ò tùn man kán  kà kɛ́
 \xf il ne fallait pas le faire
-\xv né ká kán  kà mùn kɛ́ ?
+\xv nê ka kán  kà mùn kɛ́ ?
 \xf que dois-je faire ?
-\dt 26/Sep/2006
+\xv à man kán tɛ́ kà...
+\xe il ne doit pas...
+\smf (Boubacar Diarra: une tournure non-consacrée, utilisée par les
+jeunes)
+\dt 09/Oct/2017
 
 \lx kán
 \ps v
@@ -79435,7 +79439,7 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màanú
 \mm màa:n:homme
-\mm nú:mrph:PL2
+\mm nu:mrph:PL2
 \smf *mɔ̀gɔ-lu = les gens en malinké
 \ps intj
 \gf bonnes.gens!
@@ -84007,14 +84011,14 @@ nord-est
 
 \lx mínnu
 \mm mîn:prn:REL
-\mm nú:mrph:PL2
+\mm nu:mrph:PL2
 \ps prn
 \gf REL.PL2
-\dt 01/Jun/2017
+\dt 10/Oct/2017
 
 \lx mínnu
 \mm mîn:dtm:REL
-\mm nú:mrph:PL2
+\mm nu:mrph:PL2
 \ps dtm
 \gf REL.PL2
 \dt 01/Jun/2017
@@ -91535,10 +91539,10 @@ sur soi, on les connaît
 
 \lx nìnnú
 \mm nìn:dtm/prn:DEM
-\mm nú:mrph:PL2
+\mm nu:mrph:PL2
 \va nùnu
 \mm nìn:dtm/prn:DEM
-\mm nú:mrph:PL2
+\mm nu:mrph:PL2
 \ps dtm/prn
 \gf DEM.PL
 \dt 03/Dec/2014
@@ -95240,7 +95244,7 @@ graines, sert d'instrument rythmique)
 
 \lx nsǒn`-ní-fànà
 \mm nsòn:n:voleur
-\mm ní:prep/conj:et
+\mm ni:prep/conj:et
 \mm fàna:n:rapporteur
 \ps n
 \gf canaille
@@ -95251,7 +95255,7 @@ graines, sert d'instrument rythmique)
 \lx nsònnifanaya
 \mm nsǒn`-ní-fànà
 \mm nsòn:n:voleur
-\mm ní:prep/conj:et
+\mm ni:prep/conj:et
 \mm fàna:n:rapporteur
 \mm ya:mrph:ABSTR
 \ps n
@@ -102090,7 +102094,7 @@ graines, sert d'instrument rythmique)
 
 \lx ɲínɛ̂-ní-jàkuma
 \mm ɲínɛ:n:souris
-\mm ní:prep/conj:et
+\mm ni:prep/conj:et
 \mm jàkuma:n:chat
 \ps n
 \gf forfanterie
@@ -108273,7 +108277,7 @@ épuisés
 
 \lx sànnifeere
 \mm sàn:v:acheter
-\mm ní:prep/conj:et
+\mm ni:prep/conj:et
 \mm fèere:v:vendre
 \ps n
 \gf commerce
@@ -115987,7 +115991,7 @@ donne d'excellentes fibres)
 
 \lx sònnifana
 \mm sòn:n:voleur
-\mm ní:prep/conj:et
+\mm ni:prep/conj:et
 \mm fàna:n:rapporteur
 \ps n
 \gf rapporteur
@@ -121312,7 +121316,7 @@ suivi de ni)
 
 \lx tánnifilafili
 \mm tán:num:dix
-\mm ní:prep/conj:et
+\mm ni:prep/conj:et
 \mm fìla:num:deux
 \mm fìli:v:jeter
 \ps n
@@ -126838,7 +126842,7 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx túgunni
 \va túguni
-\mm ní:prep/conj:et
+\mm ni:prep/conj:et
 \ps adv
 \gf encore
 \lt (encore.suf)
@@ -132155,7 +132159,7 @@ soient définitivement données à leur mari)
 
 \lx yànni
 \mm yàn:n:ici
-\mm ní:prep/conj:et
+\mm ni:prep/conj:et
 \va yànn'
 \va yàli
 \ps conj
@@ -132168,7 +132172,7 @@ soient définitivement données à leur mari)
 \xf avant que ce jour n'arrive
 \ms 2
 \gvf au lieu de
-\dt 20/Feb/2014
+\dt 10/Oct/2017
 
 \lx yànnɔ̀
 \va yànninnɔ̀
