@@ -1828,9 +1828,9 @@
 \ps n.prop
 \gf NOM.CL
 
-\lx Kónatɛ̀
+\lx Kònate
+\va Kónatɛ̀
 \va Kɔnatɛ
-\va Kònate
 \eq Kéyità
 \eq Konare (?)
 \di m
@@ -1839,7 +1839,7 @@
 \tn wùlu
 \ms Màriko
 \ms в Беледугу
-\dt 13/May/2016
+\dt 10/Sep/2017
 \ps n.prop
 \gf NOM.CL
 

@@ -1360,6 +1360,15 @@ Kirina, lieu de bataille entre Soundiata et Soumangourou)
 \cm (с 1972 г. - Бенин)
 \dt 23/May/2010
 
+\lx Darafuri
+\ps n.prop
+\gf TOP
+\gvf Darfour
+\smf (région du Sudan)
+\xv
+\xf
+\dt 14/Oct/2017
+
 \lx Darisalamu
 \va Daaru Salaami
 \va Darasalamu
@@ -2322,8 +2331,8 @@ Tombouctou)
 \gvf Irlande
 \dt 24/Oct/2016
 
-\lx Irisi
-\va Irisila
+\lx Ìrisi
+\va Ìrisila
 \va Rùsí
 \ty гос.
 \ps n.prop
@@ -2331,7 +2340,7 @@ Tombouctou)
 \gvf Russie
 \ru Росcия
 \ru Советский Союз
-\dt 23/May/2010
+\dt 05/Sep/2017
 
 \lx Isilandi
 \ps n.prop
@@ -2439,6 +2448,13 @@ Ségou)
 \smf (un village, région de Ségou)
 \dt 01/May/2017
 
+\lx Jakɔrɔla
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village, région de Sikasso)
+\dt 15/Oct/2017
+
 \lx Jalakɔrɔba
 \ps n.prop
 \gf TOP
@@ -2522,6 +2538,13 @@ de Koulikouro)
 \xv
 \xf
 \dt 01/Jun/2016
+
+\lx Jefale
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village)
+\dt 15/Oct/2017
 
 \lx Jèliba
 \di m
@@ -2769,6 +2792,13 @@ région de Mopti)
 \xv
 \xf
 \dt 04/Jun/2016
+
+\lx Kafuzera
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village, région de Sikasso)
+\dt 15/Oct/2017
 
 \lx Kahera
 \va Kahira
@@ -4472,6 +4502,13 @@ région de Ségou)
 \xf
 \dt 07/Feb/2017
 
+\lx Ncila
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village, commune de Niéna, cercle et région de Sikasso)
+\dt 15/Oct/2017
+
 \lx N'daki
 \ps n.prop
 \gf TOP
@@ -4480,6 +4517,13 @@ région de Ségou)
 \xv
 \xf
 \dt 22/Feb/2017
+
+\lx Nɛgɛkɔ
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village)
+\dt 15/Oct/2017
 
 \lx Ngara
 \ps n.prop
@@ -5066,6 +5110,13 @@ Koulikoro)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
+\lx Sabaribugu
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom de village)
+\dt 15/Oct/2017
+
 \lx Sabusire
 \ps n.prop
 \gf TOP
@@ -5158,6 +5209,13 @@ d'or)
 \smf (localité près de Gao où on extrait l'uranium)
 \dt 05/Feb/2016
 
+\lx Samɔgɔsoni
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village)
+\dt 15/Oct/2017
+
 \lx Sàn
 \ps n.prop
 \gf TOP
@@ -5171,6 +5229,13 @@ d'or)
 \smf (village et commune rurale, cercle de Barouéli, région de
 Ségou)
 \dt 24/Mar/2017
+
+\lx Sanankɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Sanankoro
+\smf (village, 40 km au sud de Sikasso)
+\dt 15/Oct/2017
 
 \lx Sanankɔrɔba
 \ps n.prop
@@ -6527,6 +6592,13 @@ cercle de Kati)
 \xv
 \xf
 \dt 06/Feb/2017
+
+\lx Zanikɔdugu
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village, région de Sikasso)
+\dt 15/Oct/2017
 
 \lx Zapɔn
 \ty гос.

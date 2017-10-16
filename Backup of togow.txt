@@ -17,6 +17,13 @@
 \gf NOM.M
 \dt 14/Jul/2017
 
+\lx
+\ps
+\gf
+\gvf
+\smf
+\dt 15/Oct/2017
+
 \lx Ábà
 \ps n.prop
 \gf NOM.M
@@ -679,10 +686,11 @@ forme d'adresse à n'importe quel homme)
 \dt 03/May/2010
 
 \lx Bánkàli
+\va Bángàli
 \di m
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 10/Oct/2017
 
 \lx Baramanin
 \di b

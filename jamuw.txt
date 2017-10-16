@@ -2571,10 +2571,11 @@ Sagone.
 \gf NOM.CL
 
 \lx Sakiliba
-\ms Женское джаму, соотв. Dunbuya
-\dt 25/Dec/2014
 \ps n.prop
 \gf NOM.CL
+\gvf Sakiliba
+\smf (un nom clanique féminin, correspond à Dunbuya)
+\dt 12/Oct/2017
 
 \lx Sako
 \va Sakɔ

@@ -1,4 +1,4 @@
-﻿\_sh v3.0  400  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -6138,6 +6138,13 @@ nager
 \gvf considérable
 \gvf important
 \dt 26/Sep/2006
+
+\lx bèlebele
+\ps n
+\gf chose.importante
+\gvf grand objet
+\smf
+\dt 15/Oct/2017
 
 \lx bélebele
 \ps n
@@ -19923,8 +19930,7 @@ saillie)
 \ps n
 \gf charge
 \gvf devoir
-\lt (créer.raison)
-\dt 26/Sep/2006
+\dt 15/Oct/2017
 
 \lx dákurun
 \mm dá:n:bouche
@@ -21280,6 +21286,13 @@ rétribution mais à titre de réciprocité)
 \gvf couper.la.retraite
 \dt 21/Feb/2014
 
+\lx dàmiyo
+\ps n
+\gf couverture.en.coton
+\smf (à carreaux noirs et blancs)
+\bw {Fr. damier}
+\dt 15/Oct/2017
+
 \lx dámɔ
 \mm dá:n:bouche
 \mm mɔ̀:v:fouiller
@@ -21552,6 +21565,14 @@ devenir incontrôlable
 \xv á'yé  ù kɔ́rɔ dànfara !
 \xf distinguez bien leur sens !
 \dt 26/Sep/2006
+
+\lx dànfaransi
+\ps n
+\gf différence
+\gvf distinction
+\smf
+\bw {contamination de dànfara et fr. différence}
+\dt 15/Oct/2017
 
 \lx dánfɛn
 \mm dán:v:creer
@@ -22600,21 +22621,12 @@ génitales ...
 \bw fr : mettre dans de beaux draps ?
 \ps n
 \gf crasse
-\smf mauvais tour, sale coup
+\smf (mauvais tour, sale coup)
 \xv dàra b'á lá
 \xf c'est risqué
 \xv à yé  dàra kɛ́ ń ná
 \xf il m'a joué un sale tour
-\dt 26/Sep/2006
-
-\lx Darafuri
-\ps n.prop
-\gf TOP
-\gvf Darfour
-\smf (région du Sudan)
-\xv
-\xf
-\dt 22/Feb/2017
+\dt 14/Oct/2017
 
 \lx dáraja
 \bw ar: daraga : degré, grade ?)
@@ -25235,10 +25247,11 @@ chefs religieux et représentants de l'administration
 \gf bon.de.livraison
 \dt 11/Nov/2007
 
-\lx dimasi
+\lx dimansi
 \bw fr.
 \ps n
 \gf dimanche
+\dt 14/Oct/2017
 
 \lx dími
 \va dímin
@@ -26113,11 +26126,11 @@ chefs religieux et représentants de l'administration
 \lx dm
 \ps n
 \gf ABR
-\gvf décimentre
+\gvf décimètre
 \smf
 \xv
 \xf
-\dt 23/Oct/2016
+\dt 14/Oct/2017
 
 \lx dó
 \ps n
@@ -28337,8 +28350,8 @@ désorienter')
 \lx dɔ̀ɔntin
 \ps n
 \gf gaule
-\smf dont une extrémité est en forme de 1
-\dt 16/Aug/2006
+\smf (dont une extrémité est en forme de 1)
+\dt 14/Oct/2017
 
 \lx dɔ́rɔgu
 \va drɔ́gu
@@ -56310,10 +56323,10 @@ jeunes)
 \xf un "kannabɔ" est un nouveau qui se trouve auprès des anciens
 \dt 15/Aug/2006
 
-\lx kánnabɔ́
+\lx kánnabɔ
 \mm kán:n:cou
 \mm ná:mrph:CAUS
-\mm bɔ́:n:sortie
+\mm bɔ́:v:sortir
 \ps v
 \ms 1
 \vl vt
@@ -56328,8 +56341,11 @@ jeunes)
 \ms 3
 \vl vr
 \gvf adresser.la.parole
-\smf à ... mà
-\dt 01/Mar/2013
+\smf (à - mà)
+\ms 4
+\vl vr
+\gvf se porter candidat
+\dt 13/Oct/2017
 
 \lx kánnajala
 \mm kán:n:cou
@@ -63530,12 +63546,12 @@ champs)
 
 \lx kɔ́
 \ps adv
-\gf derrière
+\gf en.arrière
 \gvf
 \smf
 \xv
 \xf
-\dt 04/Jun/2016
+\dt 15/Oct/2017
 
 \lx kɔ̀ba
 \mm kɔ̀:n:bande.d'étoffe
@@ -76443,12 +76459,18 @@ kúrunninle
 \lx làmɔ
 \mm lá:mrph:CAUS
 \mm mɔ̀:v:mûrir
+\va nàmɔ
+\mm ná:mrph:CAUS
+\mm mɔ̀:v:mûrir
 \ps n
 \gf éducation
-\dt 20/Aug/2017
+\dt 15/Oct/2017
 
 \lx lámɔ̀
 \mm lá:mrph:CAUS
+\mm mɔ̀:v:mûrir
+\va námɔ̀
+\mm ná:mrph:CAUS
 \mm mɔ̀:v:mûrir
 \ps v
 \vl vt
@@ -76463,7 +76485,7 @@ kúrunninle
 \xv ntòmoden bɛ́  ɲɔ́gɔn námɔ  ò cógo lá
 \xf les initiés au fétiche du 'ntomo' s'entre-éduquent de cette
 manière (les aînés fouettent les cadets nouvellement initiés)
-\dt 04/Apr/2016
+\dt 15/Oct/2017
 
 \lx lámɔba
 \mm lá.mɔ̀:v:faire.mûrir
@@ -77933,7 +77955,10 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx látɔ̀lɔ
 \mm lá:mrph:CAUS
 \mm tɔ̀lɔ:v:engraisser
-\va lá.tlɔ̀
+\va látùlɔ
+\mm lá:mrph:CAUS
+\mm tùlɔ:v:engraisser
+\va látlɔ̀
 \mm lá:mrph:CAUS
 \mm tlɔ̀:v:engraisser
 \ph [latlɔ]
@@ -77941,7 +77966,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \vl vt
 \gf engraisser
 \lt (préf.engraisser)
-\dt 12/Aug/2006
+\dt 15/Oct/2017
 
 \lx làtɔmɔ
 \mm lá:mrph:CAUS
@@ -83055,6 +83080,14 @@ des engagements
 \xf
 \dt 25/Feb/2017
 
+\lx mɛ
+\ps conj
+\gf mais
+\gvf
+\smf
+\bw {Fr. mais}
+\dt 15/Oct/2017
+
 \lx mɛ̀
 \bw fr : mai
 \ps n
@@ -83383,6 +83416,15 @@ des engagements
 \ps n
 \gf maire
 \dt 13/Feb/2017
+
+\lx mɛ́risigi
+\mm mɛ́ri:n:maire
+\mm sìgi:n:position.assise
+\ps n
+\gf élections.municipales
+\gvf élections de maire
+\smf
+\dt 13/Oct/2017
 
 \lx mɛ̀sɛkɛ
 \ps n
@@ -89076,12 +89118,13 @@ sorcières et leur élimination)
 \dt 26/Sep/2006
 
 \lx ncɔ̀kɔn
+\va ncɔ̀gɔn
 \ps n
 \gf souchet.comestible
 \lat Cyperus.esculentus
 \sd cypé
 \smf (tubercule de I cm à odeur suave et goût sucré)
-\dt 19/Aug/2006
+\dt 15/Oct/2017
 
 \lx ncɔ́lɔ
 \ps n
@@ -102653,10 +102696,13 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲɔ̀gɔntuma
 \mm ɲɔ̀gɔn:n:pareil
 \mm tùma:n:moment
-\va ɲɔ̀ɔn.tuma
+\va ɲɔ̀ɔntuma
 \mm ɲɔ̀ɔn:n:pareil
 \mm tùma:n:moment
-\va ɲwàn.tuma
+\va ɲwàntuma
+\mm ɲwàn:n:pareil
+\mm tùma:n:moment
+\va ɲàantuma
 \mm ɲwàn:n:pareil
 \mm tùma:n:moment
 \ph [ɲùàntuma]
@@ -102665,7 +102711,7 @@ le pèlerinage (bk 1/06 p.5)
 \lt (similitude.moment)
 \xv síni ɲɔ̀gɔntuma
 \xf demain à la même heure
-\dt 06/Nov/2014
+\dt 13/Oct/2017
 
 \lx ɲɔ́gɔnye
 \mm ɲɔ́gɔn:prn:RECP
@@ -104016,11 +104062,16 @@ envergure)
 
 \lx ópere
 \ps v
-\vl vt ?
+\ms 1
+\vl vt
 \gf opérer
 \xv bànabaatɔ dɔ́ fúrakɛra tèn, kà dɔ́ óperela
-\xf certains malades ont été soignés, mais d'autres ont été opérés (kb 2/06 p.3
-\dt 30/Jan/2017
+\xf certains malades ont été soignés, mais d'autres ont été opérés (kb
+2/06 p.3)
+\ms 2
+\vl vi
+\gvf subir une opération
+\dt 14/Oct/2017
 
 \lx ɔ̀
 \va ɛ̀
@@ -104563,6 +104614,13 @@ envergure)
 \ps adv
 \gf blanc.immaculé
 \dt 19/Jan/2015
+
+\lx pasipɔri
+\ps n
+\gf passeport
+\gvf
+\smf
+\dt 14/Oct/2017
 
 \lx páta
 \ps adv
@@ -110037,19 +110095,19 @@ paniers, sègi)
 \gvf roue
 \xv à sèn ká dí
 \xf il court vite, il est venu au bon moment
-\xv à táara  à sèn fɛ̀
+\xv à táara à sèn fɛ̀
 \xf il est parti à l'aventure
-\xv bá tìgɛ  sèn ná
+\xv bá tìgɛ sèn ná
 \xf traverser la rivière à gué
 \xv à b'á sèn ná
 \xf il est à pied
-\xv fɛ́n ɲíni  sèn ní  bólo
+\xv fɛ́n ɲíni sèn ní  bólo
 \xf faire des pieds et des mains pour obtenir qqch, mettre le paquet pour ...
-\xv í bɛ́  wùluku kàn  k'á sèn dòn
+\xv í bɛ́ wùluku kàn  k'á sèn dòn
 \xf tu coupes à la faucille (l'herbe "queue-de-chien") et tu la tresses en commençant par la base
 \xv né sèn t'á lá
 \xf je n'y participe pas, cela ne me regarde pas
-\xv à y'í sèn dòn  báara lá
+\xv à y'í sèn dòn báara lá
 \xf il a mis la main à la pâte, il a participé
 \xv màa sèn dòn
 \xf compromettre qqn dans une affaire, le dénoncer
@@ -110085,7 +110143,7 @@ paniers, sègi)
 \xf manière de chanter  (oiseau)
 \xv kòlonninfilila ní  cɛ̀ndala bɛ́ɛ ká kán, à báarakɛsen tɛ́  kélen yé ń'ó tɛ́, ù bɛ́ɛ yé  dɔ́nnikɛla yé
 \xf les jeteurs de cauris et les géomanciens, c'est tout pareil ; leurs techniques sont différentes, sinon, ce sont tous des devins
-\dt 03/Apr/2016
+\dt 15/Oct/2017
 
 \lx sèn
 \va sègin
@@ -110612,6 +110670,21 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf maladie.du.pied
 \lt (pied.au.maladie)
 \dt 16/Aug/2006
+
+\lx sènnabɔ́
+\mm sèn:n:jambe
+\mm nábɔ:v:faire.sortir
+\mm ná:mrph:CAUS
+\mm bɔ́:v:sortir
+\ps v
+\ms 1
+\vl vt
+\gf accompagner 
+\ms 2
+\vl vr
+\gvf se promener
+\smf
+\dt 15/Oct/2017
 
 \lx sènnagoni
 \mm sènna:n:allure
@@ -112866,15 +112939,19 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm dá:n:bouche
 \ps n
 \ms 1
-\gf logement
+\gf localité
+\gvf village
 \ms 2
+\gvf logement
+\ms 3
+\gvf situation d'un lieu
+\ms 4
 \gvf groupe
 \gvf catégorie
-\lt (poser.endroit)
-\ms 3
+\ms 5
 \gvf partie du discours
 \gvf chapitre du livre
-\dt 26/Sep/2006
+\dt 13/Oct/2017
 
 \lx sìgidama
 \mm sìgi:v:asseoir
@@ -117280,6 +117357,13 @@ euphémique)
 \smf (industriel léger, teint à l'indigo)
 \dt 18/Aug/2017
 
+\lx sɔ̀rɔmu
+\ps n
+\gf sérum
+\gvf
+\smf
+\dt 14/Oct/2017
+
 \lx sɔ̀sɔ
 \ps v
 \vl vt
@@ -119778,10 +119862,11 @@ fiançailles
 
 \lx syɛ́n
 \va sɛ́n
+\va síɲɛ
 \ps n
 \gf bouture
 \gvf pousse.de.plante
-\dt 01/Oct/2013
+\dt 15/Oct/2017
 
 \lx syɛ́n
 \va sɛ́n
@@ -129340,6 +129425,29 @@ aîné ... (Kb 11/06 p.4)
 \mm dén:n:enfant
 \ps n
 \gf député
+
+\lx wàsadon
+\mm wàsa:n:satisfaction
+\mm dòn:v:entrer
+\ps n
+\gf satisfaction
+\gvf
+\smf
+\dt 15/Oct/2017
+
+\lx wàsadòn
+\mm wàsa:n:satisfaction
+\mm dòn:v:entrer
+\ps v
+\ms 1
+\vl vr
+\gf se.contenter
+\smf (de -- lá)
+\ms 2
+\vl vr
+\gvf prendre le dessus
+\smf (sur -- lá)
+\dt 15/Oct/2017
 
 \lx wásaki
 \ps v

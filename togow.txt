@@ -5,17 +5,17 @@
 \ver 0.3
 
 \lx
-\ps
-\gf
-\gvf
-\smf
-\dt 06/Jul/2017
-
-\lx
 \di
 \ps n.prop
 \gf NOM.M
 \dt 14/Jul/2017
+
+\lx
+\ps
+\gf
+\gvf
+\smf
+\dt 15/Oct/2017
 
 \lx Ábà
 \ps n.prop
@@ -3634,6 +3634,13 @@ forme francaise: Berehima
 \ps n.prop
 \gf NOM.MF
 \dt 14/Jul/2017
+
+\lx Sayɔn
+\ps n.prop
+\gf NOM.M
+\gvf Sayon
+\smf
+\dt 15/Oct/2017
 
 \lx Sébu
 \di b
