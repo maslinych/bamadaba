@@ -669,10 +669,14 @@ Salam, Cercle de Tombouctou)
 \lx Bànankɔrɔ
 \ps n.prop
 \gf TOP
+\ms 1
 \gvf Banankoro
 \smf (village dans la commune de Ouelessébougou, cercle de Kati,
 région de Koulikoro)
-\dt 30/Apr/2017
+\ms 2
+\gvf Banankoro
+\smf (village près de Ségou)
+\dt 16/Oct/2017
 
 \lx Banankɔrɔba
 \ps n.prop
@@ -1250,6 +1254,13 @@ malienne)
 \ru Чад
 \dt 23/May/2010
 
+\lx Cala
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village)
+\dt 16/Oct/2017
+
 \lx Cegɔsilowaki
 \ps n.prop
 \gf TOP
@@ -1278,6 +1289,20 @@ Sikasso)
 \xv
 \xf
 \dt 22/Feb/2017
+
+\lx Cɛkurala
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village)
+\dt 16/Oct/2017
+
+\lx Cicɛnna
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village de la commune de Niéna, cercle et région de Sikasso)
+\dt 18/Oct/2017
 
 \lx Dabanaani
 \ps n.prop
@@ -1386,6 +1411,13 @@ Kirina, lieu de bataille entre Soundiata et Soumangourou)
 \gvf quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
+
+\lx Dawulabugu
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, région de Sikasso)
+\dt 16/Oct/2017
 
 \lx Debo
 \ty оз.
@@ -1851,6 +1883,13 @@ Koulikoro)
 \dt 27/Jan/2016
 \ps n.prop
 \gf TOP
+
+\lx Filipini
+\ps n.prop
+\gf TOP
+\gvf Philippines
+\smf
+\dt 20/Oct/2017
 
 \lx Firitɔn
 \di m
@@ -2499,6 +2538,13 @@ Koulikoro)
 \xf
 \dt 06/Feb/2017
 
+\lx Janbugu
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village de la commune de Niéna, cercle et région de Sikasso)
+\dt 18/Oct/2017
+
 \lx Janikɔrɔ
 \ps n.prop
 \gf TOP
@@ -2522,6 +2568,13 @@ de Koulikouro)
 \gvf Diaramana
 \smf (village et commune, cercle de Bla, région de Ségou)
 \dt 15/Jun/2017
+
+\lx Jasadeni
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village)
+\dt 16/Oct/2017
 
 \lx Jawaribugu
 \ps n.prop
@@ -2579,6 +2632,13 @@ de Koulikouro)
 \smf (un quartier de la Commune 1 de Bamako)
 \dt 01/Jun/2016
 
+\lx Jema
+\ps n.prop
+\gf TOP
+\gvf Diéma
+\smf (ville, centre d'une commune et cercle, région de Kayes)
+\dt 16/Oct/2017
+
 \lx Jene
 \di b
 \va Jɛ̀nɛ
@@ -2598,6 +2658,13 @@ de Koulikouro)
 \xv
 \xf
 \dt 26/Feb/2017
+
+\lx Jɛki
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, près de Dioïla)
+\dt 16/Oct/2017
 
 \lx Jɛma
 \ps n.prop
@@ -3220,6 +3287,13 @@ Sikasso)
 \smf (village, région de Ségou)
 \dt 09/Apr/2017
 
+\lx Kɛlɛkunmana
+\ps n.prop
+\gf TOP
+\gvf
+\smf (rivière, près de Dioïla)
+\dt 16/Oct/2017
+
 \lx Kɛnɛdugu
 \va Kenedugu
 \ps n.prop
@@ -3281,13 +3355,14 @@ Sikasso)
 \dt 04/Apr/2016
 
 \lx Kiɲan
+\va Kinɲan
 \ps n.prop
 \gf TOP
 \gvf Kignan
 \smf (une ville et commune à la circle de Sikasso)
 \xv
 \xf
-\dt 23/Oct/2016
+\dt 18/Oct/2017
 
 \lx Kirikizi
 \ps n.prop
@@ -3747,6 +3822,13 @@ de Bamako)
 \xv
 \xf
 \dt 27/Feb/2017
+
+\lx Kunɲa
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village)
+\dt 16/Oct/2017
 
 \lx Kùrankɔ
 \di m
@@ -4620,6 +4702,20 @@ Koulikoro)
 \xf
 \dt 31/May/2016
 
+\lx Npakurun
+\ps n.prop
+\gf TOP
+\gvf
+\smf (nom d'un village)
+\dt 16/Oct/2017
+
+\lx Npankunkurun
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village de la commune de Niéna, cercle et région de Sikasso)
+\dt 18/Oct/2017
+
 \lx Npedugu
 \ps n.prop
 \gf TOP
@@ -5213,7 +5309,7 @@ d'or)
 \ps n.prop
 \gf TOP
 \gvf
-\smf (nom d'un village)
+\smf (nom d'un village, région de Sikasso)
 \dt 15/Oct/2017
 
 \lx Sàn
@@ -5234,8 +5330,9 @@ Ségou)
 \ps n.prop
 \gf TOP
 \gvf Sanankoro
-\smf (village, 40 km au sud de Sikasso)
-\dt 15/Oct/2017
+\smf (village de la commune de Niéna, cercle et région de Sikasso,
+40 km au sud de Sikasso)
+\dt 18/Oct/2017
 
 \lx Sanankɔrɔba
 \ps n.prop
@@ -6178,6 +6275,13 @@ invahisseurs marocains et les Songhaï en 1591)
 \xv
 \xf
 \dt 05/Feb/2017
+
+\lx Tɔnɔkalakura
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village de la commune de Niéna, cercle et région de Sikasso)
+\dt 18/Oct/2017
 
 \lx Tɔ́rɔkɔrɔbugu
 \ty кв.

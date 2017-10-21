@@ -7442,6 +7442,16 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lt (aujourd'hui.enfant.état)
 \dt 16/Aug/2006
 
+\lx bídonna
+\mm bí:n:but
+\mm dòn:v:entrer
+\mm na:mrph:AG.PRM
+\ps n
+\gf buteur
+\gvf
+\smf
+\dt 21/Oct/2017
+
 \lx bìdɔn
 \va bìdon
 \ps n
@@ -18602,6 +18612,8 @@ saillie)
 \dt 11/Nov/2007
 
 \lx dáfa
+\mm dá:n:bouche
+\mm fá:v:remplir
 \ps v
 \vl vt
 \gf compléter
@@ -18609,7 +18621,16 @@ saillie)
 \lt (nombre.remplir)
 \xv à bɛ́ɛ kámalen dáfalen
 \xf ce sont tous des jeunes gens en pleine force
-\dt 26/Sep/2006
+\dt 19/Oct/2017
+
+\lx dáfa
+\mm dá:n:bouche
+\mm fá:v:remplir
+\ps n
+\gf complément
+\gvf
+\smf (terme syntaxique, un néologisme)
+\dt 19/Oct/2017
 
 \lx dáfabali
 \mm dáfa:v:compléter
@@ -21052,6 +21073,17 @@ pas)
 \gf innombrable
 \lt (nombre.savoir.ne pas)
 \dt 12/Aug/2006
+
+\lx dámadɔnin
+\mm dán:n:compte
+\mm ma:mrph:COM
+\mm dɔ́:dtm:certain
+\mm nin:mrph:DIM
+\ps dtm
+\gf quelques
+\gvf plusieurs
+\smf
+\dt 20/Oct/2017
 
 \lx dámajalan
 \mm jàlan:adj:sec
@@ -24753,6 +24785,17 @@ assumant que l'interclocuteur pense autrement)
 \xv fára dɛ́sɛ
 \xf tailler la pierre
 \dt 26/Sep/2006
+
+\lx dɛ́sɛ
+\ps n
+\ms 1
+\gf manque
+\gvf pauvreté
+\ms 2
+\gvf impuissance
+\gvf incapacité
+\smf
+\dt 18/Oct/2017
 
 \lx dɛ́sɛbaatɔ
 \mm dɛ́sɛ:v:échouer
@@ -28801,6 +28844,16 @@ désorienter')
 \smf plante annuelle en touffes denses ---> 10 / 20 cm)
 \cf dùgukunsigi
 \dt 19/Aug/2006
+
+\lx dùgukolonɔn
+\mm dùgu:n:terre
+\mm kólo:n:os
+\mm nɔ́n:v:lécher
+\ps n
+\gf érosion
+\gvf
+\smf
+\dt 16/Oct/2017
 
 \lx dùgukolosànin
 \mm dùgu:n:terre
@@ -44211,6 +44264,18 @@ doigts par des fileuses du coton)
 \xv né háju ɲàna
 \xf mon problème est réglé
 \dt 30/Nov/2014
+
+\lx hákàjá
+\ps conj
+\ms 1
+\gf certes
+\gvf disons même
+\ms 2
+\gvf pourquoi pas?
+\ms 3
+\gvf y compris
+\smf
+\dt 17/Oct/2017
 
 \lx hàkɛ
 \bw ar: didd al-haqq = à tort
@@ -61913,10 +61978,10 @@ probablement de chaux vive)
 \gvf dépenaillé
 \ms 3
 \gvf imberbe
-\smf à qui les poils ne poussent pas
+\smf (à qui les poils ne poussent pas)
 \xv í bònbo kòlokolo dòn
 \xf tu n'as pas de poils au menton
-\dt 26/Sep/2006
+\dt 19/Oct/2017
 
 \lx kòlokolo
 \ps n
@@ -68515,7 +68580,9 @@ plus solide)
 \gvf administration
 \ms 2
 \gvf coupole
-\dt 04/Apr/2016
+\ms 3
+\gvf commune (?)
+\dt 18/Oct/2017
 
 \lx kúbeda
 \mm kúbe:n:batiment.administratif
@@ -72273,9 +72340,9 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \ps v
 \vl vr
 \gf se.diriger
-\smf vers ... mà, ... la
+\smf (vers - mà, la)
 \lt (tête.diriger)
-\dt 26/Sep/2006
+\dt 18/Oct/2017
 
 \lx kùnsirilan
 \mm kùn:n:tête
@@ -76459,9 +76526,12 @@ kúrunninle
 \lx làmɔ
 \mm lá:mrph:CAUS
 \mm mɔ̀:v:mûrir
+\va nàmɔ
+\mm ná:mrph:CAUS
+\mm mɔ̀:v:mûrir
 \ps n
 \gf éducation
-\dt 20/Aug/2017
+\dt 15/Oct/2017
 
 \lx lámɔ̀
 \mm lá:mrph:CAUS
@@ -96102,9 +96172,11 @@ graines, sert d'instrument rythmique)
 \mm ntòla:n:balle
 \mm tán:v:frapper
 \ps n
+\ms 1
 \gf football
-\lt (ballon.taper)
-\dt 22/Jul/2017
+\ms 2
+\gvf match de football
+\dt 21/Oct/2017
 
 \lx ntòlatankɛnɛ
 \mm ntòla.tan:n:football
@@ -105511,6 +105583,14 @@ envergure)
 \lx pɔ́npe
 \ps n
 \gf pompe
+
+\lx pɔ́npe
+\ps v
+\vl vt
+\gf asperger
+\gvf
+\smf
+\dt 18/Oct/2017
 
 \lx pɔ́npekɔlɔn
 \mm pɔ́npe:n:pompe
@@ -115322,10 +115402,11 @@ donne d'excellentes fibres)
 
 \lx sògin
 \va sɔ̀gin
+\va sɔ̀gi
 \ps v
 \vl vt
 \gf picorer
-\dt 08/Jun/2014
+\dt 16/Oct/2017
 
 \lx sógin
 \ps n
@@ -121499,11 +121580,12 @@ pieton)
 
 \lx tànu
 \va tànun
+\va tànto
 \ps v
 \vl vt
 \gf louer
 \gvf féliciter
-\dt 03/Oct/2013
+\dt 16/Oct/2017
 
 \lx tànu
 \va tànun
@@ -129053,18 +129135,26 @@ aîné ... (Kb 11/06 p.4)
 \lx wáraka
 \va wálaka
 \va wáranga
+\va wáranka
+\va wálanka
 \ps v
 \vl vt
 \ms 1
+\vl vt
 \gf démonter
 \smf (les pièces de ...)
 \ms 2
+\vl vt
 \gvf déshabiller
 \gvf enlever ses habits
 \smf (un par un)
 \ms 3
+\vl vt
 \gvf dépecer
-\dt 07/Feb/2017
+\ms 4
+\vl vt
+\gvf dévoiler
+\dt 19/Oct/2017
 
 \lx wárakan
 \mm wára:n:fauve
@@ -131958,6 +132048,16 @@ Mali)
 \xv án bɔ́ ó bɔ́ yáalasen fɛ̀, án ká kán k'án tɛ́gɛ kò...
 \xf à chaque retour de promenade ..., il faut se laver les mains avant de manger (donniya 5/6 p.32)
 \dt 11/Nov/2007
+
+\lx yáala-yaalafura
+\mm yáala:n:promenade
+\mm yáala:n:promenade
+\mm fúra:n:feuille
+\ps n
+\gf médicaments.de.la.rue
+\gvf
+\smf
+\dt 21/Oct/2017
 
 \lx yàara
 \ps v

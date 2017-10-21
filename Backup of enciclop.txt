@@ -596,13 +596,13 @@ de la guerre du Mali)
 \dt 07/Feb/2017
 
 \lx Fenisi
-\ps n
+\ps n.prop
 \gf TOP
 \gvf Phénicie
 \smf
 \xv
 \xf
-\dt 06/Feb/2017
+\dt 08/Oct/2017
 
 \lx Fidɛli
 \ps n.prop
@@ -956,6 +956,13 @@ la culture
 \gf Kibaru
 \smf (journal en langue bambara)
 \dt 19/May/2017
+
+\lx Kilisitɛni
+\ps n.prop
+\gf NOM.ETRG
+\gvf Clisthène
+\smf (env. -500, Grèce Ancienne)
+\dt 19/Oct/2017
 
 \lx Kirisita
 \ps n.prop
@@ -1363,6 +1370,13 @@ céréalière
 \xf
 \dt 01/Feb/2017
 
+\lx Perikilɛsi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Périclès
+\smf (-495 > -429)
+\dt 19/Oct/2017
+
 \lx Pilatifɔrɔmu
 \ps n
 \gf Platforme
@@ -1373,6 +1387,13 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xv
 \xf
 \dt 09/Oct/2016
+
+\lx Pilatɔn
+\ps n.prop
+\gf NOM.ETRG
+\gvf Platon
+\smf
+\dt 19/Oct/2017
 
 \lx Pinudi
 \ps n.prop
@@ -1613,6 +1634,13 @@ Gbagbo)
 \xv
 \xf
 \dt 15/Sep/2016
+
+\lx Sokarati
+\ps n.prop
+\gf NOM.ETRG
+\gvf Socrate
+\smf
+\dt 19/Oct/2017
 
 \lx Soni
 \va Sonni

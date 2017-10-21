@@ -2796,6 +2796,13 @@ forme francaise: Berehima
 \xf
 \dt 01/Feb/2017
 
+\lx Mɔnbana
+\ps n.prop
+\gf NOM.F
+\gvf
+\smf
+\dt 16/Oct/2017
+
 \lx Mɔ̀nsɔn
 \va Mɔ̀nzɔn
 \di b
@@ -4205,6 +4212,13 @@ de l'enfant qui survit à sa mère morte en couches
 \gf NOM.MF
 \smf (nom d'une jumelle)
 \dt 14/Jul/2017
+
+\lx Watɛni
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 16/Oct/2017
 
 \lx Wɛnzɛn
 \ps n.prop
