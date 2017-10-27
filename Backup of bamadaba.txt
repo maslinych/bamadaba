@@ -36981,9 +36981,9 @@ frontières, forestiers, sapeurs)
 \xf Ils l'entendront !
 \ms 2
 \gvf remercier
-\xv à fò  à ká bònya ná !
+\xv à fò à ká bònya ná !
 \xf remercie-le pour son cadeau !
-\dt 12/Aug/2006
+\dt 21/Oct/2017
 
 \lx fò
 \va fòn
@@ -73986,12 +73986,14 @@ kúrunninle
 \lx lábiri
 \mm lá:mrph:CAUS
 \mm bíri:v:courber
+\va nábiri
+\mm ná:mrph:CAUS
+\mm bíri:v:courber
 \ps v
 \vl vt
 \gf abaisser
-\gvf mettre.face.au.sol
-\lt (préf.mettre face au sol)
-\dt 26/Sep/2006
+\gvf mettre face au sol
+\dt 22/Oct/2017
 
 \lx làbitani
 \va lópitali
@@ -92127,6 +92129,13 @@ sur soi, on les connaît
 \gvf acné
 \dt 26/Sep/2006
 
+\lx nkanga
+\ps
+\gf
+\gvf
+\smf
+\dt 25/Oct/2017
+
 \lx nkàniya
 \va nkɛ̀rɛɲɛ
 \ve (bn)
@@ -97620,6 +97629,17 @@ graines, sert d'instrument rythmique)
 \gvf mil tardif
 \smf Pennicularia spicata
 \dt 27/Jan/2016
+
+\lx núnnabiri
+\mm nún:n:nez
+\mm lábiri:v:abaisser
+\mm ná:mrph:CAUS
+\mm bíri:v:courber
+\ps n
+\gf cache-nez
+\gvf
+\smf
+\dt 22/Oct/2017
 
 \lx núnnango
 \mm nún:n:nez
@@ -109531,9 +109551,10 @@ composition de l'encens
 \dt 19/Aug/2006
 
 \lx sèele
+\va sèelen
 \ps n
-\gf petit.tambour
-\dt 28/Sep/2014
+\gf petit.tambour.d'aisselle
+\dt 25/Oct/2017
 
 \lx séere
 \va syére
