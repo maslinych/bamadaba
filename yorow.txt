@@ -1304,6 +1304,13 @@ Sikasso)
 \smf (village de la commune de Niéna, cercle et région de Sikasso)
 \dt 18/Oct/2017
 
+\lx Cɔribugu
+\ps n.prop
+\gf TOP
+\gvf Tioribougou
+\smf (village et commune, cercle de Kolokani, région de Koulikoro)
+\dt 28/Oct/2017
+
 \lx Dabanaani
 \ps n.prop
 \gf TOP
@@ -2697,10 +2704,10 @@ de Koulikouro)
 \ps n.prop
 \gf TOP
 \gvf Didiéni
-\smf (une commune rurale, cercle de Kolokani)
+\smf (village et commune, cercle de Kolokani, région de Koulikoro)
 \xv
 \xf
-\dt 06/Feb/2017
+\dt 28/Oct/2017
 
 \lx Jikɔrɔnin-Para
 \ps n.prop
@@ -5244,10 +5251,10 @@ Koulikoro)
 \ps n.prop
 \gf TOP
 \gvf Sagabala
-\smf (commune dans le cercle de Kolokani, région de Koulikoro)
+\smf (une commune rurale, cercle de Kolokani, région de Koulikoro)
 \xv
 \xf
-\dt 06/Feb/2017
+\dt 28/Oct/2017
 
 \lx Sáhara
 \ps n.prop
@@ -6546,11 +6553,11 @@ cercle de Kati)
 \lx Wɔlɔdo
 \ps n.prop
 \gf TOP
-\gvf commune de Kolokani
-\smf
+\gvf Ouolodo
+\smf (village et commune, cercle de Kolokani, région de Koulikoro)
 \xv
 \xf
-\dt 09/Oct/2016
+\dt 28/Oct/2017
 
 \lx Wɔ́lɔfɔbugu
 \ty кв.
@@ -6709,6 +6716,14 @@ cercle de Kati)
 \gvf
 \smf (nom d'un village, région de Sikasso)
 \dt 15/Oct/2017
+
+\lx Zankɛbugu
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, commune de Didiéni, cercle de Kolokani, région de
+Koulikoro)
+\dt 28/Oct/2017
 
 \lx Zapɔn
 \ty гос.

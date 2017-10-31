@@ -13560,9 +13560,12 @@ centrale est de couleur sombre
 \mm bùlon:v:antichambre
 \mm ba:mrph:AUGM
 \ps n
+\ms 1
 \gf case.à.palabres
-\lt (vestibule.grand)
-\dt 16/Aug/2006
+\ms 2
+\gvf chambre
+\smf (de parlement)
+\dt 28/Oct/2017
 
 \lx bùlonda
 \mm bùlon:n:antichambre
@@ -28849,11 +28852,15 @@ désorienter')
 \mm dùgu:n:terre
 \mm kólo:n:os
 \mm nɔ́n:v:lécher
+\va dùgukolonɔ
+\mm dùgu:n:terre
+\mm kólo:n:os
+\mm nɔ́:v:lécher
 \ps n
 \gf érosion
 \gvf
 \smf
-\dt 16/Oct/2017
+\dt 28/Oct/2017
 
 \lx dùgukolosànin
 \mm dùgu:n:terre
@@ -32116,6 +32123,15 @@ mais plus large que sóli; pour sarcler en profondeur)
 \gvf palais.présidentiel
 \lt (pouvoir.maison)
 \dt 26/Sep/2006
+
+\lx fàngabulon
+\mm fànga:n:force
+\mm bùlon:n:antichambre
+\ps n
+\gf administration
+\gvf organe d'administration
+\smf
+\dt 28/Oct/2017
 
 \lx fàngafin
 \mm fànga:n:force
@@ -76226,7 +76242,7 @@ kúrunninle
 
 \lx lámadòn
 \mm lá:mrph:CAUS
-\mm màdòn
+\mm màdòn:v:approcher
 \mm mà:mrph:SUPER
 \mm dòn:v:entrer
 \ps v
@@ -76234,7 +76250,7 @@ kúrunninle
 \gf faire.s'approcher
 \gvf pousser
 \smf (pour faire s'approcher)
-\dt 17/Aug/2017
+\dt 30/Oct/2017
 
 \lx lámàga
 \mm lá:mrph:CAUS
@@ -79813,7 +79829,7 @@ jour, c'est une personne dépendante qu'il voit
 \gf approcher
 \ms 2
 \gvf conduire.chez
-\dt 19/Sep/2017
+\dt 30/Oct/2017
 
 \lx màdɔgɔya
 \mm mà:mrph:SUPER
@@ -83545,6 +83561,14 @@ des engagements
 \gf peul
 \smf (péj. imitation d'une expression courante en peul o bimi = je dis)
 \dt 16/Aug/2006
+
+\lx midi
+\ps n
+\gf midi
+\gvf
+\smf
+\bw Fr. mid
+\dt 28/Oct/2017
 
 \lx mídi
 \ps n
@@ -90486,6 +90510,15 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \gvf
 \dt 27/Jan/2016
 
+\lx nganka
+\va nganga
+\ps n
+\gf petit.tambour.cylindrique
+\gvf
+\smf
+\src Esger Duintjer
+\dt 25/Oct/2017
+
 \lx ngánunganu
 \va ŋánuŋanu
 \ps v
@@ -92128,13 +92161,6 @@ sur soi, on les connaît
 \gf dermatose
 \gvf acné
 \dt 26/Sep/2006
-
-\lx nkanga
-\ps
-\gf
-\gvf
-\smf
-\dt 25/Oct/2017
 
 \lx nkàniya
 \va nkɛ̀rɛɲɛ
@@ -95372,7 +95398,7 @@ graines, sert d'instrument rythmique)
 \dt 18/Aug/2017
 
 \lx nsònnifanaya
-\mm nsǒn`-ní-fànà
+\mm nsǒn`-ní-fànà:n:canaille
 \mm nsòn:n:voleur
 \mm ni:prep/conj:et
 \mm fàna:n:rapporteur
@@ -95381,7 +95407,7 @@ graines, sert d'instrument rythmique)
 \gf vol.et.mensonge
 \smf (deux vices souvent associés)
 \lt (voleur.et menteur.suf abs)
-\dt 18/Aug/2017
+\dt 30/Oct/2017
 
 \lx nsónson
 \ps n
@@ -117607,7 +117633,7 @@ euphémique)
 \dt 19/Sep/2017
 
 \lx súbagabana
-\mm sú.baga:n:sorcier
+\mm súbaga:n:sorcier
 \mm sú:v:inciter
 \mm baga:mrph:AG.OCC
 \mm bàna:n:fromager
@@ -117618,7 +117644,7 @@ euphémique)
 \lt (sorcier.fromager)
 \smf arbuste ou arbre ---> 12 m, l'enveloppe des graines est très toxique)
 \sy tómotigi
-\dt 27/sept./2006
+\dt 30/Oct/2017
 
 \lx súbagakaba
 \mm sú.baga:n:sorcier
@@ -117634,13 +117660,14 @@ euphémique)
 \dt 21/Feb/2017
 
 \lx súbaganamansin
-\mm súbaga
+\mm súbaga:n:sorcier
+\mm lá:pp:à
 \mm
 \ps n
 \gf ordinateur
 \gvf
 \smf
-\dt 30/Jun/2017
+\dt 30/Oct/2017
 
 \lx súbagaya
 \mm sú.baga:n:sorcier
