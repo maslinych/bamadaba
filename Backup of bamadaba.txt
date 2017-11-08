@@ -11051,9 +11051,8 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \vl vt
 \gf se.cotiser
 \gvf venir.en.aide.à
-\lt (biens.ajouter)
 \sy bólolajɛ
-\dt 28/Nov/2012
+\dt 01/Nov/2017
 
 \lx bólomafara
 \mm bólo:n:bras
@@ -18193,11 +18192,11 @@ saillie)
 \ps n
 \ms 1
 \lat Hibiscus sabdariffa
-\gf oseille de Guinée
+\gf oseille.de.Guinée
 \ms 2
 \gvf bissap
 \smf (boisson préparée à partir des feuilles de cette plante)
-\dt 22/Jun/2017
+\dt 06/Nov/2017
 
 \lx dàbiɲama
 \mm dàbi:n:engoulevent.porte-étendard
@@ -27472,10 +27471,10 @@ l'occasion d'une naissance)
 \mm fèere:v:vendre
 \mm la:mrph:AG.PRM
 \ps n
-\gf vendeur.en.détail
+\gf vendeur.au.détail
 \gvf
 \smf
-\dt 16/Jun/2017
+\dt 07/Nov/2017
 
 \lx dɔ́gɔdugu
 \mm dɔ́gɔ:n:marché
@@ -64646,17 +64645,23 @@ champs)
 \lx kɔ́lɔ
 \ps n
 \ms 1
-\gf noyau.de.karité
+\gf noix.de.karité
 \smf (dont on extrait l'huile, dite 'beurre de karité')
 \ms 2
-\gvf noix d'arachide
+\gvf gousse d'arachide
+\gvf coque d'arachide
 \xv kàbakɔlɔ
 \di (Sikasso)
 \xe épi de maïs
 \ms 3
 \gvf comprimé de drogue
 \smf (pop.)
-\dt 16/Jul/2017
+\ms 4
+\gvf sexe masculin
+\gvf testicules
+\gvf gland
+\smf (de verge; pop.)
+\dt 08/Nov/2017
 
 \lx kɔ́lɔ
 \ps n
@@ -74740,20 +74745,26 @@ kúrunninle
 \ph [fl]
 \lt (préf.égarer)
 \ps v
-\vl vt
 \ms 1
+\vl vt
 \gf tromper
 \gvf égarer
 \ms 2
+\vl vt
 \gvf peiner
 \xv à yé  à bɛ́ɛnkɛ láfili kósɛbɛ
 \xf il a peiné profondément son oncle
-\ms 3
+\ms 3.1
+\vl vt
 \gvf ennuyer
 \gvf angoisser
 \xv sɛ̀nɛkɛla láfililen  sánji kó lá
 \xf les paysans sont angoissés au sujet de la pluie
-\dt 01/Oct/2017
+\ms 3.2
+\vl vi
+\gvf être angoissé
+\gvf être ennuyer
+\dt 06/Nov/2017
 
 \lx láfilibaatɔ
 \mm lá.fili:v:tromper
@@ -77307,7 +77318,6 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \vl vt
 \ms 1
 \gf garder
-\lt (préf. ?)
 \xv ń bɛ́  ɲɔ̀ lásago  dón gɛ́lɛn ɲɛ́
 \xf je garde du mil en réserve pour les mauvais jours
 \ms 2
@@ -77316,7 +77326,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf rester.chaste
 \xv npògotigi yé  à yɛ̀rɛ lásago
 \xf la jeune fille s'est gardée chaste
-\dt 26/Sep/2006
+\dt 01/Nov/2017
 
 \lx lásáha
 \mm lá:mrph:CAUS
@@ -100753,21 +100763,22 @@ graines, sert d'instrument rythmique)
 \xf je t'ai déjà vu quelque part
 \dt 23/Mar/2015
 
-\lx ɲɛ́nabɔ́
+\lx ɲɛ́nabɔ
 \mm ɲɛ́:n:oeil
+\mm ná.bɔ:v:faire.sortir
 \mm ná:mrph:CAUS
 \mm bɔ́:v:sortir
 \ps v
 \vl vt
 \gf démêler
 \gvf régler
-\smf une.affaire
-\lt (manière.faire sortir)
-\dt 26/Sep/2006
+\smf (une.affaire)
+\dt 07/Nov/2017
 
 \lx ɲɛ́nabɔbaa
 \mm ɲɛ́.na.bɔ́:v:démêler
 \mm ɲɛ́:n:oeil
+\mm ná.bɔ:v:faire.sortir
 \mm ná:mrph:CAUS
 \mm bɔ́:v:sortir
 \mm baa:mrph:AG.OCC
@@ -100775,11 +100786,12 @@ graines, sert d'instrument rythmique)
 \gf le.responsable
 \smf qui règle une affaire
 \lt (régler.celui qui)
-\dt 26/Sep/2006
+\dt 07/Nov/2017
 
 \lx ɲɛ́nabɔla
 \mm ɲɛ́.na.bɔ́:v:démêler
 \mm ɲɛ́:n:oeil
+\mm ná.bɔ:v:faire.sortir
 \mm ná:mrph:CAUS
 \mm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
@@ -100787,7 +100799,7 @@ graines, sert d'instrument rythmique)
 \gf le.responsable
 \smf qui règle une affaire
 \lt (régler.celui qui)
-\dt 26/Sep/2006
+\dt 07/Nov/2017
 
 \lx ɲɛ́nacì
 \mm ɲɛ́:n:oeil
@@ -110797,7 +110809,7 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sènnabɔ́
 \mm sèn:n:jambe
-\mm nábɔ:v:faire.sortir
+\mm ná.bɔ:v:faire.sortir
 \mm ná:mrph:CAUS
 \mm bɔ́:v:sortir
 \ps v
@@ -110808,7 +110820,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \vl vr
 \gvf se promener
 \smf
-\dt 15/Oct/2017
+\dt 07/Nov/2017
 
 \lx sènnagoni
 \mm sènna:n:allure
@@ -117662,7 +117674,7 @@ euphémique)
 \lx súbaganamansin
 \mm súbaga:n:sorcier
 \mm lá:pp:à
-\mm
+\mm mànsin:n:machine
 \ps n
 \gf ordinateur
 \gvf
@@ -119199,15 +119211,14 @@ fiançailles
 \ms 2
 \vl vt
 \gvf abréger
-\smf la durée de ...
-\lt (court.suf caus)
+\smf (la durée de ...)
 \ms 3
 \vl vi
 \gvf approcher
 \gvf s'approcher
 \xv fìnita sùrunyana
 \xf la circoncision approche
-\dt 28/Feb/2017
+\dt 01/Nov/2017
 
 \lx sùsa
 \va sòsa
@@ -119968,16 +119979,6 @@ fiançailles
 \xf la ruche est remplie de miel
 \dt 26/Sep/2006
 
-\lx syɛ̀n
-\va shyɛ̀n
-\va sìɲɛn
-\ve (bn)
-\ph [shyɛn]
-\ve (f)
-\ps n
-\gf plant.à.repiquer
-\dt 05/Feb/2017
-
 \lx syɛ́n
 \ps n
 \gf herbe.Rottboellia.exaltata
@@ -119989,10 +119990,18 @@ fiançailles
 \lx syɛ́n
 \va sɛ́n
 \va síɲɛ
+\va syɛ̀n
+\va shyɛ̀n
+\va sìɲɛn
+\ve (bn)
+\ph [shyɛn]
+\ve (f)
+\ps n
 \ps n
 \gf bouture
+\gf plant.à.repiquer
 \gvf pousse.de.plante
-\dt 15/Oct/2017
+\dt 07/Nov/2017
 
 \lx syɛ́n
 \va sɛ́n
@@ -120683,7 +120692,7 @@ fiançailles
 \gf progrès
 \gvf avancement
 \smf
-\dt 16/Jun/2017
+\dt 08/Nov/2017
 
 \lx tàara
 \va tàra
@@ -122204,6 +122213,13 @@ flaques d'eau)
 \ps adv
 \gf exactement.comme.ça
 \dt 29/Mar/2017
+
+\lx tèntanten
+\ps adv
+\gf
+\gvf
+\smf
+\dt 08/Nov/2017
 
 \lx téntànten
 \ps n
