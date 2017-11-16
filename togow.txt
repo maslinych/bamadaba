@@ -2128,6 +2128,13 @@ forme francaise: Berehima
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Karunga
+\ps n.prop
+\gf NOM.M
+\gvf
+\smf
+\dt 15/Nov/2017
+
 \lx Kàsímù
 \va Kàsúmù
 \va Kasime
@@ -2543,6 +2550,13 @@ forme francaise: Berehima
 \ps n.prop
 \gf NOM.M
 \dt 14/Jul/2017
+
+\lx Malamini
+\ps
+\gf
+\gvf
+\smf
+\dt 16/Nov/2017
 
 \lx Málìki
 \ps n.prop

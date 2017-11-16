@@ -3489,10 +3489,9 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \gf société.bambara
 \gvf milieu.bambara
 \gvf coutumes.bambara
-\lt (bambara.lieu)
-\xv án fɛ̀  bámanana
+\xv án fɛ̀ bámanana
 \xf chez nous, dans la société bambara ...
-\dt 26/Sep/2006
+\dt 09/Nov/2017
 
 \lx bámanankan
 \mm bámanan:n:bambara.(ethnie)
@@ -3504,6 +3503,24 @@ fébrifuge post-accouchement, potentiel anti-malaria
 \gf langue.bambara
 \lt (bambara.langue)
 \dt 08/Oct/2017
+
+\lx bámananya
+\mm bámànan:n:bambara
+\mm ya:mrph:ABSTR
+\va bámanaya
+\mm bámàna:n:bambara
+\mm ya:mrph:ABSTR
+\ps n
+\ms 1.1
+\gf mode.de.vie.non-musulmane
+\ms 1.2
+\gvf mode de vie traditionnelle
+\smf (des Bambara)
+\ms 2
+\gvf réligion traditionnelle
+\gvf pratiques fétichistes
+\smf
+\dt 09/Nov/2017
 
 \lx bámanaya
 \mm bámana:n:bambara.(ethnie)
@@ -8448,14 +8465,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bìn
 \ps n
 \ms 1
-\gf agression
+\gf chute
 \ms 2
-\gvf chute
-\ms 3
 \gvf perte
+\ms 3
+\gvf agression
 \ms 4
 \gvf accusation
-\dt 02/May/2015
+\dt 16/Nov/2017
 
 \lx bín
 \ps n
@@ -9906,8 +9923,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \vl vt
 \ms 1
 \gf signer
-\smf poser son doigt pour les empreintes digitales
-\lt (main.poser)
+\smf (poser son doigt pour les empreintes digitales)
 \ms 2
 \gvf mesurer
 \smf (tissu)
@@ -9917,7 +9933,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ms 4
 \gvf prévoir
 \gvf planifier
-\dt 05/Feb/2016
+\dt 15/Nov/2017
 
 \lx bólodafa
 \mm bólo:n:bras
@@ -27609,9 +27625,11 @@ l'occasion d'une naissance)
 \lt (plus jeune.petit)
 \dt 26/Sep/2006
 
-\lx Dɔ̀gɔnɔ
+\lx dɔ̀gɔnɔ
+\va dɔ̀nkɔnɔ
 \ps n
 \gf Dogon
+\dt 15/Nov/2017
 
 \lx dɔ́gɔɲinina
 \mm dɔ́gɔ:n:fagot
@@ -31182,10 +31200,9 @@ gens)
 \ps n
 \gf rivalité
 \smf (entre demi-frères)
-\lt (jaloux.suf abs)
-\xv fàdenya wúlila  ù ní  ɲɔ́gɔn cɛ́
+\xv fàdenya wúlila ù ní  ɲɔ́gɔn cɛ́
 \xf la jalousie les dressa l'un contre l'autre
-\dt 26/Sep/2006
+\dt 08/Nov/2017
 
 \lx fàdu
 \mm fà:n:père
@@ -44031,10 +44048,10 @@ douanier, milicien, etc.)
 \va gìndo
 \ps n
 \gf secret
-\xv gìndo fára
+\xv gùndo fára
 \xv bɔ̀rɔtɔ
 \xf dévoiler un secret
-\dt 21/Feb/2014
+\dt 09/Nov/2017
 
 \lx gùndo
 \fq r
@@ -44170,6 +44187,13 @@ douanier, milicien, etc.)
 \smf (un mollusque dont la coquille est utilisée pour secher les
 doigts par des fileuses du coton)
 \dt 20/Jun/2014
+
+\lx hà
+\ps intj
+\gf pas.possible
+\gvf
+\smf
+\dt 16/Nov/2017
 
 \lx háali
 \bw ar: haali = exact
@@ -46328,7 +46352,10 @@ régions sont éloignés les uns des autres (kb 9/05 p.9)
 \ms 2
 \gvf guerre sainte
 \smf (pour les musulmans)
-\dt 27/Dec/2014
+\ms 3
+\gvf objet magique
+\gvf fétiche
+\dt 09/Nov/2017
 
 \lx jàhanama
 \va jàhanamɛ
@@ -52830,10 +52857,11 @@ l'eau est prête
 \dt 19/Jan/2015
 
 \lx káadɔ
+\va kádɔ
 \ps n
 \gf dogon
 \smf (ethnie) (le terme est plutôt péjoratif : dɔgɔn est meilleur)
-\dt 16/Aug/2006
+\dt 15/Nov/2017
 
 \lx káafiri
 \va káfiri
@@ -68405,8 +68433,7 @@ plus solide)
 \gf terminer
 \gvf interrompre
 \smf (bruit, pluie ...)
-\lt (dos.couper)
-\dt 26/Sep/2006
+\dt 16/Nov/2017
 
 \lx kɔ́tigɛbali
 \mm kɔ́:n:dos
@@ -69340,13 +69367,12 @@ le pouvoir administratif suprême)
 \mm ɲɔ́gɔn:prn:RECP
 \mm ya:mrph:ABSTR
 \ps n
-\lt parler-associé-suf abs
 \gf entretien
 \gvf dialogue
 \sy kúmafalenfalen
 \xv tɔ́gɔ bɛ́ sɔ́rɔ  à ká kúmaɲɔgɔnya ná,
 \xf la renommée s'acquiert en s'entretenant avec (la Sagesse) (Sg 8, 18)
-\dt 11/Nov/2007
+\dt 16/Nov/2017
 
 \lx kúmaɲɔgɔnya
 \mm kúma:v:parler
@@ -105792,6 +105818,13 @@ envergure)
 \xf l'antilope est en train de faire des cabrioles
 \dt 26/Sep/2006
 
+\lx pùsuku
+\ps n
+\gf jaillissement
+\gvf
+\smf
+\dt 16/Nov/2017
+
 \lx pútukuputuku
 \ps adv
 \gf resplendissant.de.santé
@@ -108292,9 +108325,12 @@ épuisés
 \mm kɔ́rɔ:pp:sous
 \mm tà:v:prendre
 \ps n
+\ms 1
 \gf gloire
 \gvf éloge
-\dt 17/Apr/2016
+\ms 2
+\gvf mise en valeur
+\dt 16/Nov/2017
 
 \lx sánkɔrɔtà
 \mm sán:n:ciel
@@ -110256,7 +110292,7 @@ paniers, sègi)
 \ms 2
 \smf *sèn na = à pied --> en route --> en cours ?
 \gvf en cours
-\xv kó bɛ́  à sèn ná
+\xv kó bɛ́ à sèn ná
 \xf l'affaire suit son cours
 \xv kó bɛ́  sèn ná  kàbi  sàn tán
 \xf ça fait dix ans que ça dure
@@ -110279,7 +110315,7 @@ paniers, sègi)
 \xf manière de chanter  (oiseau)
 \xv kòlonninfilila ní  cɛ̀ndala bɛ́ɛ ká kán, à báarakɛsen tɛ́  kélen yé ń'ó tɛ́, ù bɛ́ɛ yé  dɔ́nnikɛla yé
 \xf les jeteurs de cauris et les géomanciens, c'est tout pareil ; leurs techniques sont différentes, sinon, ce sont tous des devins
-\dt 15/Oct/2017
+\dt 15/Nov/2017
 
 \lx sèn
 \va sègin
@@ -119990,9 +120026,8 @@ fiançailles
 \lx syɛ́n
 \va sɛ́n
 \va síɲɛ
-\va syɛ̀n
-\va shyɛ̀n
-\va sìɲɛn
+\va shyɛ́n
+\va síɲɛn
 \ve (bn)
 \ph [shyɛn]
 \ve (f)
@@ -120001,7 +120036,8 @@ fiançailles
 \gf bouture
 \gf plant.à.repiquer
 \gvf pousse.de.plante
-\dt 07/Nov/2017
+\cm Kalilou Tera: ton bas
+\dt 16/Nov/2017
 
 \lx syɛ́n
 \va sɛ́n

@@ -5756,6 +5756,14 @@ de Mopti)
 \xf
 \dt 06/Feb/2017
 
+\lx Sofara
+\ps n.prop
+\gf TOP
+\gvf Sofara
+\smf (une ville, chef-lieu de la commune de Fakala, cercle de
+Djenné, région de Mopti)
+\dt 15/Nov/2017
+
 \lx Sogbɛ
 \ty кв.
 \ru Согбе
@@ -6099,6 +6107,13 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \gvf Guinée.équatoriale
 \ru Экваториальная Гвинея
 \dt 23/May/2010
+
+\lx Tɛnɛ
+\ps n.prop
+\gf TOP
+\gvf Téné
+\smf (commune, cercle de San, région de Ségou)
+\dt 15/Nov/2017
 
 \lx Tɛnɛnkun
 \va Tɛnɛnku
@@ -6716,6 +6731,14 @@ cercle de Kati)
 \gvf
 \smf (nom d'un village, région de Sikasso)
 \dt 15/Oct/2017
+
+\lx Zankɛbugu
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, commune de Didiéni, cercle de Kolokani, région de
+Koulikoro)
+\dt 28/Oct/2017
 
 \lx Zapɔn
 \ty гос.

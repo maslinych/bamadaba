@@ -624,6 +624,14 @@ Salam, Cercle de Tombouctou)
 \cm (в Сегу)
 \dt 05/Dec/2010
 
+\lx Bamandugu
+\ps n.prop
+\gf TOP
+\gvf Bamandougou
+\smf (un village de commune de Téné, cercle de San, région de
+Ségou)
+\dt 15/Nov/2017
+
 \lx Bamanula
 \ps n.prop
 \gf TOP
@@ -5756,6 +5764,14 @@ de Mopti)
 \xf
 \dt 06/Feb/2017
 
+\lx Sofara
+\ps n.prop
+\gf TOP
+\gvf Sofara
+\smf (une ville, chef-lieu de la commune de Fakala, cercle de
+Djenné, région de Mopti)
+\dt 15/Nov/2017
+
 \lx Sogbɛ
 \ty кв.
 \ru Согбе
@@ -6099,6 +6115,13 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \gvf Guinée.équatoriale
 \ru Экваториальная Гвинея
 \dt 23/May/2010
+
+\lx Tɛnɛ
+\ps n.prop
+\gf TOP
+\gvf Téné
+\smf (commune, cercle de San, région de Ségou)
+\dt 15/Nov/2017
 
 \lx Tɛnɛnkun
 \va Tɛnɛnku
