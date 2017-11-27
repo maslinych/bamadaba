@@ -6490,11 +6490,11 @@ rhume, toux
 \ps pm
 \gf PROG.AFF
 \smf (prédicatif de présent progressif (positif)
-\xv ù bɛ́  kà dlɔ́ mìn
+\xv ù bɛ́ kà dlɔ́ mìn
 \xf ils sont en train de boire de la bière de mil
 \xv ù bɛ́ kàn  kà dɔ̀lɔ mìn
 \xf ils sont en train de boire de la bière de mil
-\dt 25/Jun/2013
+\dt 24/Nov/2017
 
 \lx bɛ̀dɛbɛdɛ
 \va bèrebere
@@ -20711,7 +20711,8 @@ pas)
 \gf cinq.francs.CFA
 \smf (pièce)
 \sy dɔ́rɔmɛ
-\dt 16/Aug/2006
+\cm Amadu Mariko (Beledugu): dálasi et dárasi, dáasi
+\dt 17/Nov/2017
 
 \lx dálasi
 \mm dá:n:bouche
@@ -25503,10 +25504,11 @@ chefs religieux et représentants de l'administration
 \ps n
 \ms 1
 \gf initié.à.tout
-\lt (monde.fils)
 \ms 2
+\gvf bon vivant
+\gvf jouisseur
 \gvf libertin
-\dt 26/Sep/2006
+\dt 17/Nov/2017
 
 \lx díɲɛdenya
 \mm díɲɛ:n:monde
@@ -26352,10 +26354,11 @@ chefs religieux et représentants de l'administration
 
 \lx dólen
 \va ndólen
+\va dóolen
 \ps n
 \gf hameçon
 \gvf ligne
-\dt 26/Sep/2006
+\dt 17/Nov/2017
 
 \lx dólendala
 \mm dólen:n:hameçon
@@ -28617,12 +28620,6 @@ désorienter')
 \smf (personne résidant dans la concession)
 \lt (famille.enfant)
 \dt 16/Aug/2006
-
-\lx dúfa
-\ve (bn)
-\ps n
-\gf poche
-\dt 12/Aug/2006
 
 \lx dúfa
 \ve (f)
@@ -35293,10 +35290,9 @@ la virginité (pièce de monnaie sans trou)
 \ps n
 \ms 1
 \gf divination
-\lt (regarder.action)
 \ms 2
 \gvf observation
-\dt 16/Aug/2006
+\dt 20/Nov/2017
 
 \lx fílɛlifɛn
 \mm fílɛ:v:regarder
@@ -36446,11 +36442,15 @@ frontières, forestiers, sapeurs)
 \ph [fy]
 \va fíɲe
 \ps v
+\ms 1
+\vl vi
+\gvf devenir.aveugle
+\ms 2
 \vl vt
-\gf rendre.aveugle
+\gvf rendre aveugle
 \xv màra bɛ́  màa fíyen
 \xf l'onchocercose rend les gens aveugles
-\dt 23/Jan/2015
+\dt 25/Nov/2017
 
 \lx fíyenkɛ
 \mm fíyen:n:aveugle
@@ -37319,18 +37319,18 @@ frontières, forestiers, sapeurs)
 \dt 18/Aug/2017
 
 \lx fólonkòto
+\ps v
+\vl vi
+\gf s'engouffrer
+\dt 26/Sep/2006
+
+\lx fólônkóto
 \ps n
 \gf tourbillon
 \gvf cyclone
 \gvf ouragan
 \sy fúnufunu
-\dt 26/Sep/2006
-
-\lx fólonkòto
-\ps v
-\vl vi
-\gf s'engouffrer
-\dt 26/Sep/2006
+\dt 17/Nov/2017
 
 \lx fónɛnɛ
 \mm fó:n:saison.froide
@@ -39119,7 +39119,11 @@ forestières, fruit : long follicule de 50 cm)
 \gvf se.fâcher
 \xv í kàna fúnu  né kɔ́rɔ !
 \xf ne te fâche pas contre moi !
-\dt 26/Sep/2006
+\ms 3
+\vl vt
+\gvf lancer à grande vitesse
+\smf (véhicule)
+\dt 25/Nov/2017
 
 \lx fúnuba
 \mm fúnu:n:gonflement
@@ -42432,7 +42436,7 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \va gɛ̀lɛ
 \va gwɛ̀lɛn
 \ph [gw]
-\ps vq/adj
+\ps vq
 \ms 1
 \gf dur
 \xv dùgukolo ká gɛ̀lɛn
@@ -42456,7 +42460,7 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \xf il est avare
 \xv à ɲɛ́ ká gɛ̀lɛn
 \xf il est effronté
-\dt 26/Sep/2006
+\dt 25/Nov/2017
 
 \lx gɛ̀lɛn
 \va gwɛ̀lɛn
@@ -43309,6 +43313,14 @@ caractéristique, réputé pour faciliter la procréation)
 \vl vi
 \gf se.précipiter
 \dt 26/Sep/2006
+
+\lx gólobasa
+\ps v
+\vl vi
+\gf se.précipiter
+\gvf
+\smf
+\dt 25/Nov/2017
 
 \lx gòlo-bɛ́-ń-sèn-ná
 \va gòlobɛnsenna
@@ -64622,30 +64634,42 @@ champs)
 
 \lx kɔ̀li
 \ps n
+\ms 1
 \gf échec
-\gvf misère
 \gvf ruine
 \gvf faillite
 \xv sɛ̀gɛn jùjɔ yé  kɔ̀li yé
 \xf la racine de la misère est l'échec
-\dt 26/Sep/2006
+\ms 2
+\gvf dénuement
+\gvf misère
+\dt 23/Nov/2017
 
 \lx kɔ̀li
 \va kɔ̀yi
 \ve (f)
 \ps v
+\ms 1.1
+\vl vi
+\gf échouer
+\gvf être incapable
+\smf (de -- lá)
+\ms 1.1
 \vl vt
-\ms 1
-\gf faire.échouer
-\smf empêcher qqn d'obtenir qqch ...
+\gvf faire échouer
+\smf (par rapport à -- lá)
+\gvf empêcher
+\gvf priver
+\smf (de -- lá)
 \ms 2
+\vl vt
 \gvf réduire.à.la.misère
 \gvf ruiner
 \xv sàlaya bɛ́ mɔ̀gɔ kɔ̀li
 \xf la paresse réduit les gens à la misère
 \xv à kɔ̀lila móbilisɔngɔ lá
 \xf il n'a pas réussi à acheter la voiture (il n'a pas trouvé l'argent)
-\dt 04/Apr/2016
+\dt 23/Nov/2017
 
 \lx kɔ̀libaatɔ
 \mm kɔ̀li:v:faire.échouer
@@ -68433,8 +68457,7 @@ plus solide)
 \gf terminer
 \gvf interrompre
 \smf (bruit, pluie ...)
-\lt (dos.couper)
-\dt 26/Sep/2006
+\dt 16/Nov/2017
 
 \lx kɔ́tigɛbali
 \mm kɔ́:n:dos
@@ -74791,7 +74814,7 @@ kúrunninle
 \vl vi
 \gvf être angoissé
 \gvf être ennuyer
-\dt 06/Nov/2017
+\dt 16/Nov/2017
 
 \lx láfilibaatɔ
 \mm lá.fili:v:tromper
@@ -75275,9 +75298,9 @@ kúrunninle
 \lx láhara
 \bw ar: al-uhra = id.
 \ps n
-\gf vie.future
-\gvf l'autre.monde
-\dt 26/Sep/2006
+\gf l'au-delà
+\gvf l'autre monde
+\dt 16/Nov/2017
 
 \lx láharaka
 \mm láhara:n:vie.future
@@ -95539,6 +95562,7 @@ graines, sert d'instrument rythmique)
 \dt 26/Sep/2006
 
 \lx ntába
+\va tába
 \ps n
 \gf cola.ntaba
 \smf ---> 15 m (arbre)
@@ -95546,7 +95570,7 @@ graines, sert d'instrument rythmique)
 \sd ster
 \sy ntábanɔgɔ
 \sy wɔ́nflɔ
-\dt 19/Aug/2006
+\dt 25/Nov/2017
 
 \lx ntábanɔgɔ
 \mm ntába:n:cola.ntaba
@@ -96130,7 +96154,7 @@ graines, sert d'instrument rythmique)
 \va ntílɛku
 \ps n
 \gf plomb
-\dt 16/Aug/2006
+\dt 18/Nov/2017
 
 \lx ntìlen
 \ps n
@@ -100792,52 +100816,50 @@ graines, sert d'instrument rythmique)
 
 \lx ɲɛ́nabɔ
 \mm ɲɛ́:n:oeil
-\mm ná.bɔ:v:faire.sortir
-\mm ná:mrph:CAUS
+\mm ná:pp:à
 \mm bɔ́:v:sortir
 \ps v
 \vl vt
 \gf démêler
 \gvf régler
 \smf (une.affaire)
-\dt 07/Nov/2017
+\dt 25/Nov/2017
 
 \lx ɲɛ́nabɔbaa
 \mm ɲɛ́.na.bɔ́:v:démêler
 \mm ɲɛ́:n:oeil
-\mm ná.bɔ:v:faire.sortir
-\mm ná:mrph:CAUS
+\mm ná:pp:à
 \mm bɔ́:v:sortir
 \mm baa:mrph:AG.OCC
 \ps n
 \gf le.responsable
-\smf qui règle une affaire
+\smf (qui règle une affaire)
 \lt (régler.celui qui)
-\dt 07/Nov/2017
+\dt 25/Nov/2017
 
 \lx ɲɛ́nabɔla
 \mm ɲɛ́.na.bɔ́:v:démêler
 \mm ɲɛ́:n:oeil
 \mm ná.bɔ:v:faire.sortir
-\mm ná:mrph:CAUS
+\mm ná:pp:à
 \mm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
 \ps n
 \gf le.responsable
 \smf qui règle une affaire
 \lt (régler.celui qui)
-\dt 07/Nov/2017
+\dt 25/Nov/2017
 
 \lx ɲɛ́nacì
 \mm ɲɛ́:n:oeil
-\mm ná:mrph:CAUS
+\mm ná:pp:à
 \mm cì:v:frapper
 \ps v
 \vl vt
 \gf taquiner
 \smf faire bisquer en montrant ce qu'on possède
 \lt (regard.briser)
-\dt 16/Aug/2006
+\dt 25/Nov/2017
 
 \lx ɲɛ́nafɛn
 \mm ɲɛ́:n:oeil
@@ -100869,7 +100891,7 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́nafin
 \mm ɲɛ́.na:n:regard
 \mm ɲɛ́:n:oeil
-\mm na:mrph:MNT1
+\mm ná:pp:à
 \mm fìn:adj:noir
 \ps n
 \ms 1
@@ -100884,18 +100906,18 @@ graines, sert d'instrument rythmique)
 \gvf baisse.de.vision 
 \gvf amaurose
 \cf ɲɛ́goya
-\dt 22/Apr/2017
+\dt 25/Nov/2017
 
 \lx ɲɛ́nafin
 \mm ɲɛ́.na:n:regard
 \mm ɲɛ́:n:oeil
-\mm na:mrph:MNT1
+\mm ná:pp:à
 \mm fìn:adj:noir
 \ps v
 \vl vi
 \gf être.triste
 \gvf être nostalgique
-\dt 22/Apr/2017
+\dt 25/Nov/2017
 
 \lx ɲɛ́nafɔ
 \mm ɲɛ́:n:oeil
@@ -100957,11 +100979,10 @@ graines, sert d'instrument rythmique)
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
-\lt regard-durcir
 \gf rendre.obstiné
 \xv à fílɛ, né yé í ɲɛ́nagɛlɛya ù ká ɲɛ́nagɛlɛya káma
 \xf je vais te rendre aussi obstiné qu'eux (Ez 3, 8) [rendre ton visage aussi dur que le leur]
-\dt 11/Nov/2007
+\dt 25/Nov/2017
 
 \lx ɲɛ́najà
 \mm ɲɛ́.na:n:regard
@@ -101299,8 +101320,7 @@ graines, sert d'instrument rythmique)
 \ps v
 \vl vt
 \gf chercher.des.yeux
-\lt (regard.chercher)
-\dt 16/Aug/2006
+\dt 25/Nov/2017
 
 \lx ɲɛ́nasago
 \mm ɲɛ́:n:oeil
@@ -101354,10 +101374,9 @@ graines, sert d'instrument rythmique)
 \ps n
 \gf choix
 \gvf préférence
-\lt (choix.prendre)
 \xv jùmɛ yé í ɲɛ́nata yé ?
 \xf lequel préfères-tu ?
-\dt 21/Jan/2015
+\dt 25/Nov/2017
 
 \lx ɲɛ́natà
 \mm ɲɛ́:n:oeil

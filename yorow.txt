@@ -2794,6 +2794,14 @@ région de Koulikoro)
 \xf
 \dt 26/Feb/2017
 
+\lx  Jɔ́nkala
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village de la commune de Sanso, cercle de Bougouni,
+région de Sikasso)
+\dt 16/Nov/2017
+
 \lx Jɔ́nkɔlɔnin
 \ps n.prop
 \gf TOP
@@ -5413,6 +5421,13 @@ Ségou)
 \xv
 \xf
 \dt 01/Feb/2017
+
+\lx Sánso
+\ps n.prop
+\gf TOP
+\gvf Sanso
+\smf (village et commune, cercle de Bougouni, région de Sikasso)
+\dt 16/Nov/2017
 
 \lx Santa Isabɛl
 \ty г.
