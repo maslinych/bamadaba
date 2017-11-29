@@ -25502,13 +25502,11 @@ chefs religieux et représentants de l'administration
 \mm díyɛn:n:monde
 \mm dén:n:enfant
 \ps n
-\ms 1
-\gf initié.à.tout
-\ms 2
-\gvf bon vivant
+\ms
+\gf bon.vivant
 \gvf jouisseur
 \gvf libertin
-\dt 17/Nov/2017
+\dt 28/Nov/2017
 
 \lx díɲɛdenya
 \mm díɲɛ:n:monde
@@ -59966,6 +59964,14 @@ probablement de chaux vive)
 \smf (de toute mauvaise action)
 \dt 06/Feb/2017
 
+\lx kɛ́rɛnkɛrɛnnen
+\mm kɛ́rɛnkɛrɛn:v:
+\ps ptcp
+\gf spécial
+\gvf
+\smf
+\dt 28/Nov/2017
+
 \lx kɛ́rɛnkɛrɛnnenya
 \mm kɛ́rɛnkɛrɛn:v:être.à.part
 \mm nen:mrph:PTCP.RES
@@ -64983,12 +64989,12 @@ champs)
 \ps v
 \vl vt
 \gf branler
-\smf faire un mouvement de va-et-vient
+\smf (faire un mouvement de va-et-vient)
 \xv ɲɛ́ kɔ́mi
 \xf ciller,cligner des yeux
 \xv kùn kɔ́mi
 \xf branler la tête
-\dt 16/Aug/2006
+\dt 25/Nov/2017
 
 \lx kɔ̀mɔ
 \va kɔ̀ma

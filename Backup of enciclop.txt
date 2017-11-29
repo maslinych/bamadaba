@@ -40,8 +40,8 @@ solidarité et la justice)
 
 \lx Air Afrique
 \ps n.prop
-\gf A
-\dt 03/May/2013
+\gf Air.Afrique
+\dt 07/Nov/2017
 
 \lx Akimi
 \ps n
@@ -445,6 +445,13 @@ de la guerre du Mali)
 \xv
 \xf
 \dt 09/Oct/2016
+
+\lx CMDT
+\ps
+\gf
+\gvf
+\smf
+\dt 28/Nov/2017
 
 \lx COMATEX
 \ps n
