@@ -6900,13 +6900,13 @@ au Mali)
 \dt 01/Jun/2016
 
 \lx bɛ̀lɛwɔyɔdunan
-\mm bɛ̀lɛwɔyɔ:n: vipère
+\mm bɛ̀lɛwɔyɔ:n:vipère
 \mm dúnan:n:étranger
 \ps n
 \gf serpent.Causus.rhombeatus(?)
 \smf (petite vipère très venimeuse au Sénégal, en Guinée, CI, rare
 au Mali)
-\dt 03/Apr/2016
+\dt 17/Dec/2017
 
 \lx bɛ̀n
 \ps v
@@ -10605,13 +10605,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 11/Nov/2007
 
 \lx bóloladɛsɛtɔ
-\mm bólo:n:
+\mm bólo:n:bras
 \mm lá:pp:à
 \mm dɛ́sɛ:v:échouer
 \mm tɔ:mrph:PTCP.PROG
 \ps adj
 \gf impuissant
-\dt 04/Dec/2012
+\dt 17/Dec/2017
 
 \lx bólolafɛgɛn
 \mm bólola:n:action.de.main
@@ -40567,31 +40567,33 @@ forestières, fruit : long follicule de 50 cm)
 \lx gáfelasagonna
 \mm gáfe:n:livre
 \mm lá:mrph:CAUS
-\mm ságon:v: devenir.fade
+\mm ságon:v:devenir.fade
 \mm na:mrph:AG.PRM
 \ps n
 \gf bibliothécaire
 \lt (livre.garder.celui qui)
+\dt 17/Dec/2017
 
 \lx gáfelasagonso
 \mm gáfe:n:livre
 \mm lá:mrph:CAUS
-\mm ságon:v: devenir.fade
+\mm ságon:v:devenir.fade
 \mm só:n:maison
 \ps n
 \gf bibliothèque
 \lt (livre.garder.maison)
+\dt 17/Dec/2017
 
 \lx gáfelasagonyɔrɔ
 \mm gáfe:n:livre
 \mm lá:mrph:CAUS
-\mm ságon:v: devenir.fade
+\mm ságon:v:devenir.fade
 \mm yɔ́rɔ:n:lieu
 \ps n
 \lt livre-garder-endroit
 \gf bibliothèque
 \sy gáfelamarayɔrɔ
-\dt 11/Nov/2007
+\dt 17/Dec/2017
 
 \lx gáfemarayɔrɔ
 \mm gáfe:n:livre
@@ -50228,12 +50230,12 @@ et insecticides)
 
 \lx jíripanparan
 \mm jíri:n:arbre
-\mm pánparan:n: surface.plane
+\mm pánparan:n:surface.plane
 \ps n
 \lt bois-planche
 \gf planche
 \gvf traverse
-\dt 11/Nov/2007
+\dt 17/Dec/2017
 
 \lx jírisen
 \mm jíri:n:arbre
@@ -52411,12 +52413,12 @@ composante des adjectifs séparables)
 \dt 26/Sep/2006
 
 \lx jùmɛfin
-\mm jùmɛ:n: oiseau.marabout
-\mm fìn:vq/adj:noir
+\mm jùmɛ:n:oiseau.marabout
+\mm fìn:adj:noir
 \ps n
 \gf oiseau.Anastomus.lamelligerus
 \smf 'bec ouvert' (espèce aquatique, avec un grand bec dont les mandibules ne joignent pas)
-\dt 26/Sep/2006
+\dt 17/Dec/2017
 
 \lx jùmɛn
 \va jùmɛ
@@ -59381,12 +59383,13 @@ probablement de chaux vive)
 
 \lx kɛ́nɛjɛnda
 \mm kɛ́nɛ:n:clarté
-\mm jɛ́n:v: blanchir
+\mm jɛ́n:v:blanchir
 \mm dá:n:bouche
 \ps n
 \gf aurore
 \lt (clarté.blanche.début)
 \sy kɛ́nɛbɔnda
+\dt 17/Dec/2017
 
 \lx kɛ́nɛkanda
 \mm kɛ́nɛ:n:clarté
@@ -63249,12 +63252,12 @@ champs)
 \dt 16/Aug/2006
 
 \lx kòrókòrobá
-\mm kòrókòro:n: masque.léonin
+\mm kòrókòro:n:masque.léonin
 \mm ba:mrph:AUGM
 \ps n
 \gf mélange.de.boissons.alcoolisées
 \lt (boisson ? grande)
-\dt 16/Aug/2006
+\dt 17/Dec/2017
 
 \lx kòrokòrokùnba
 \mm kòrókòro:n: masque.léonin
@@ -72285,7 +72288,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \dt 16/Aug/2006
 
 \lx kùnnawolosɛbɛn
-\mm kùn.na.wolo:v: faire.l'honneur
+\mm kùn.na.wolo:v:faire.l'honneur
 \mm kùn:n:tête
 \mm ná:pp:à
 \mm wólo:v:accoucher
@@ -72296,7 +72299,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gvf prix
 \xv ń yé bálikukalan kɛ́ fɔ́ kà kùnnawolosɛbɛn sɔ̀rɔ ò lá fáasi !
 \rem f
-\dt 11/Nov/2007
+\dt 17/Dec/2017
 
 \lx kùnndɛgɛn
 \mm kùn:n:tête
@@ -74498,7 +74501,7 @@ catastrophe)
 \dt 28/Mar/2013
 
 \lx ládiyalifɛn
-\mm lá.di.ya:v: récompenser
+\mm lá.di.ya:v:récompenser
 \mm lá:mrph:CAUS
 \mm dí.ya:v:rendre.agréable
 \mm dí:vq/adj:agréable
@@ -74511,7 +74514,7 @@ catastrophe)
 \gvf récompense
 \xv mɔ̀gɔ 6 yé ládiyalifɛn sɔ̀rɔ :
 \xf Six personnes ont obtenu des prix : ... (Kb 10/06 p.10)
-\dt 11/Nov/2007
+\dt 17/Dec/2017
 
 \lx ládògo
 \mm lá:mrph:CAUS
@@ -107962,7 +107965,7 @@ épuisés
 \dt 26/Sep/2006
 
 \lx sànfola
-\mm sàn:n: message.de.deuil
+\mm sàn:n:message.de.deuil
 \mm fò:v:saluer
 \mm la:mrph:AG.PRM
 \va sànga.fo.la
@@ -107975,7 +107978,7 @@ épuisés
 \lt (présenter cond.celui qui)
 \ms 2
 \gvf pleureuse
-\dt 16/Aug/2006
+\dt 17/Dec/2017
 
 \lx sánfɔli
 \mm sán:n:ciel
