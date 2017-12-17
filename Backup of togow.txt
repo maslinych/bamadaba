@@ -2552,9 +2552,9 @@ forme francaise: Berehima
 \dt 14/Jul/2017
 
 \lx Malamini
-\ps
-\gf
-\gvf
+\ps n.prop
+\gf NOM.M
+\gvf Malamine
 \smf
 \dt 16/Nov/2017
 

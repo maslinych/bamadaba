@@ -7549,7 +7549,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \sy kàlifa
 \xv án bɛ́  í ká bìla lá
 \xf nous sommes à ta disposition
-\dt 26/Sep/2006
+\ms 3
+\gvf dispositio
+\gve
+\xv ń bɛ́ í ka bìla lá
+\xe je suis à ta disposition
+\dt 04/Dec/2017
 
 \lx bìla
 \va blà
@@ -7665,8 +7670,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ph [bla]
 \ps n
 \gf ajournement
-\lt (laisser-et-refroidir)
-\dt 26/Sep/2006
+\dt 11/Dec/2017
 
 \lx bìlako
 \mm bìla:v:mettre
@@ -11801,7 +11805,7 @@ milieu des pierres
 \sy ɲɛ́boso
 \dt 07/Sep/2016
 
-\lx bósobasa
+\lx bòsobasa
 \va bósoboso
 \ps v
 \vl vt
@@ -11811,7 +11815,7 @@ milieu des pierres
 \ms 2
 \gvf mal.disposer
 \smf (chaume)
-\dt 26/Sep/2006
+\dt 29/Nov/2017
 
 \lx bósobasa
 \ps n
@@ -17725,24 +17729,32 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 16/Aug/2006
 
 \lx dàamu
-\bw ar: adama = faire durer
+\bw (ar. da:ma 'durer')
 \ps n
 \gf bonheur
-\gvf joie.durable
+\gvf joie durable
+\gvf félicité
+\gvf jouissance
 \xv jɛ̀-k'à-fɔ́ yé  dàamu yé
 \xf c'est un plaisir de dialoguer
 \xv í ní dàamu! -- á, dɔ́ɔnin
 \xf le bonheur soit avec toi! - merci
-\dt 15/Mar/2017
+\dt 04/Dec/2017
 
 \lx dàamu
+\bw (ar. da:ma 'durer')
 \ps v
+\ms 1
 \vl vt
 \gf profiter
-\gvf jouir.longtemps.de
+\gvf jouir longtemps de
 \xv à dàamu
 \xf puisses-tu en profiter longtemps !
-\dt 26/Sep/2006
+\ms 2
+\vl vt
+\gvf combler de bonheur
+\gvf rendre heureux
+\dt 04/Dec/2017
 
 \lx dàan
 \va dànga
@@ -45625,7 +45637,7 @@ doigts par des fileuses du coton)
 \dt 20/Jul/2014
 
 \lx húkumu
-\bw ar: hukm = autorité, gouvernement, pouvoir
+\bw (ar: hụkm 'autorité, gouvernement, pouvoir')
 \ps n
 \ms 1
 \gf autorité
@@ -45634,7 +45646,7 @@ doigts par des fileuses du coton)
 \gvf cadre
 \ms 3
 \gvf contexte
-\dt 15/Sep/2016
+\dt 04/Dec/2017
 
 \lx hùn
 \ps intj
@@ -58292,9 +58304,9 @@ probablement de chaux vive)
 \lx kélèn
 \ps intj
 \gf déjà
-\xv kélen ká fìsa  bìlen yé !
+\xv kélèn ká fìsa  bìlen yé !
 \xf mieux vaut "déjà!" que "trop tard!" (dicton)
-\dt 16/Aug/2006
+\dt 12/Dec/2017
 
 \lx kélenna
 \mm kélen:num:un
@@ -59965,7 +59977,8 @@ probablement de chaux vive)
 \dt 06/Feb/2017
 
 \lx kɛ́rɛnkɛrɛnnen
-\mm kɛ́rɛnkɛrɛn:v:
+\mm kɛ́rɛnkɛrɛn:v:être.à.part
+\mm nen:mrph:PRCP.RES
 \ps ptcp
 \gf spécial
 \gvf
@@ -60793,13 +60806,15 @@ probablement de chaux vive)
 \xv bànakisɛ
 \xf germe de maladie : microbe, bactérie, virus ...
 \ms 2
-\smf élément solide en forme de grain
+\smf (élément solide en forme de grain)
 \gvf projectile
 \gvf balle
 \xv bɛ̀lɛkisɛ
 \xf grain de gravier
 \xv nɛ̀gɛkisɛ
 \xf plomb de fusil
+\xv màrifakisɛ
+\xf balle de fusil
 \xv tákisɛ
 \xv gònikisɛ
 \xf braise
@@ -60826,7 +60841,7 @@ probablement de chaux vive)
 \xf lien
 \xv jùrukisɛ
 \xf une corde
-\dt 26/Sep/2006
+\dt 05/Dec/2017
 
 \lx kìsɛ
 \ps v
@@ -72677,9 +72692,16 @@ Sahel)
 
 \lx kúnu
 \va kúnun
-\ps adv/n
+\ps n
 \gf hier
-\dt 20/May/2013
+\smf
+\dt 03/Dec/2017
+
+\lx kúnù
+\va kúnùn
+\ps adv
+\gf hier
+\dt 03/Dec/2017
 
 \lx kúnubaatɔ
 \mm kúnu:v:se.réveiller
@@ -73761,12 +73783,13 @@ kúrunninle
 
 \lx láahawula
 \va láayilaa
-\bw ar: la ilaha = il n'y a pas de divinité en dehors de Dieu ...
+\bw (ar: la ilaha = il n'y a pas de divinité en dehors de Dieu)
 \ps intj
 \gf catastrophe!
 \gvf phénoménal!
-\smf exclamation.d'étonnement (admiration, joie, ou même : catastrophe)
-\dt 16/Aug/2006
+\smf (exclamation.d'étonnement: admiration, joie, ou même :
+catastrophe)
+\dt 04/Dec/2017
 
 \lx làáji
 \va làhaji
@@ -77175,8 +77198,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ps v
 \vl vt
 \gf interroger
-\lt (préf.questionner)
-\dt 26/Sep/2006
+\dt 04/Dec/2017
 
 \lx láɲɔ
 \mm lá:mrph:CAUS
@@ -77287,6 +77309,15 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gf plat.de.mil
 \smf mijoté dans la sauce
 \dt 16/Aug/2006
+
+\lx larusi
+\ps n
+\bw (arab. 'al-ʕarš, n'apparaît que dans les textes religieux)
+\gf trône
+\gvf
+\smf
+\cm
+\dt 04/Dec/2017
 
 \lx lásà
 \mm lá:mrph:CAUS
@@ -106775,6 +106806,17 @@ épuisés
 \smf produit qui protège contre les piqûres de serpent
 \dt 16/Aug/2006
 
+\lx sàfuruláyi
+\ps intj
+\bw (arab. ʔstaɣfiru lla:h 'je cherche pardon à Dieu')
+\ms 1
+\gf pardon
+\ms 2
+\gvf Dieu m'en garde
+\gvf Dieu m'en préserve
+\smf
+\dt 04/Dec/2017
+
 \lx sàga
 \ps n
 \gf ovin
@@ -107081,11 +107123,11 @@ épuisés
 
 \lx sáhà
 \ve (bmk)
-\smf sihha = santé
+\bw (ar. sihha 'santé')
 \ps intj
 \gf merci
 \smf (réponse à un souhait de bienvenue)
-\dt 15/Jun/2017
+\dt 04/Dec/2017
 
 \lx sáharakungo
 \mm Sáhara:n.prop:TOP
@@ -109934,9 +109976,8 @@ paniers, sègi)
 \ps n
 \gf arbuste.Stylosanthes.fruticosa
 \smf plante sous-arbustive ---> 1 / 1, 5 m
-\lt (  ?  . âne ?)
 \sd papi
-\dt 26/Sep/2006
+\dt 04/Dec/2017
 
 \lx séleke
 \ps n
@@ -117769,12 +117810,13 @@ euphémique)
 \xf (par ex : enfant qui passe toute la nuit à pleurer)
 \dt 26/Sep/2006
 
-\lx sùbahanalayi
-\bw ar:
+\lx sùbahánalayi
+\bw (ar: subḥa:n alla:h 'Dieu est glorieux')
 \ps intj
 \gf zut.alors
-\smf excl.d'impatience (événement contrariant, un casse-pied qui s'amène ...)
-\dt 16/Aug/2006
+\smf (excl.d'impatience événement contrariant, un casse-pied qui
+s'amène ...)
+\dt 04/Dec/2017
 
 \lx sùbon
 \mm sù:n:cadavre
@@ -125728,8 +125770,12 @@ est due aux paysans (kib 3/05 p.9)
 \dt 26/Sep/2006
 
 \lx tòro
+\va ntòro
+\va tòoro
 \ps n
+\lat Ficus gnaphalocarpa
 \gf figuier
+\dt 03/Dec/2017
 
 \lx tóron
 \ps v
@@ -131882,11 +131928,25 @@ Mali)
 \dt 26/Sep/2006
 
 \lx wúrudi
-\bw ar: wird = prière que l'on dit avec le chapelet
+\bw (ar. wird 'prière que l'on dit avec le chapelet')
 \ps v
+\ms 1
 \vl vt
 \gf égrener.chapelet
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gvf faire litanie
+\dt 04/Dec/2017
+
+\lx wúrudi
+\bw (ar. wird 'prière que l'on dit avec le chapelet')
+\ps n
+\ms 1
+\gf chapelet
+\ms 2
+\gvf litanie
+\smf
+\dt 04/Dec/2017
 
 \lx wùrukuyi
 \va ùrukuyi
