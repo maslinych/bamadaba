@@ -447,9 +447,10 @@ de la guerre du Mali)
 \dt 09/Oct/2016
 
 \lx CMDT
-\ps
-\gf
-\gvf
+\ps n
+\gf ABR
+\gvf CMDT
+\gvf Compagnie malienne pour le développement du textile
 \smf
 \dt 28/Nov/2017
 
@@ -784,6 +785,7 @@ de la guerre du Mali)
 \dt 06/Feb/2017
 
 \lx Inɛsiko
+\va Inesiko
 \va UNESCO
 \ps n
 \gf ABR
@@ -793,7 +795,7 @@ la culture
 \smf
 \xv
 \xf
-\dt 05/Mar/2017
+\dt 27/Jan/2018
 
 \lx Iyadi Agi Agali
 \ps n.prop
@@ -928,6 +930,12 @@ la culture
 \xv
 \xf
 \dt 01/Jun/2016
+
+\lx Karanta
+\ps n
+\gf Karante
+\smf (fondation chargée de la promotion des langues nationales)
+\dt 27/Jan/2018
 
 \lx Kasitoro
 \ps n.prop

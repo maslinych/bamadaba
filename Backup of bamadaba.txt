@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+\_sh v3.0  1302 MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -268,9 +268,8 @@
 \mm jàn:adj:long
 \ps n
 \gf arc-en-ciel
-\lt (Dieu.de.couteau) (... grand couteau)
 \sy sánmurubilen
-\dt 18/Aug/2017
+\dt 24/Dec/2017
 
 \lx álâ-ká-ɲɔ̀
 \mm ála:n:Dieu
@@ -2676,10 +2675,9 @@ ramifié, donne des gousses
 \mm ba:mrph:AUGM
 \ps adv.p
 \gf entièrement
-\lt (le tout.qui a)
 \xv à bákuruma jènina
 \xf il a brûlé entièrement
-\dt 31/Jan/2017
+\dt 27/Jan/2018
 
 \lx bàkurumasan
 \mm bá.kuru:n:tout
@@ -11784,8 +11782,8 @@ milieu des pierres
 \lx bórowu
 \ps onomat
 \gf plouf
-\smf chute dans l'eau
-\dt 24/Nov/2014
+\smf (chute dans l'eau)
+\dt 14/Jan/2018
 
 \lx bòso
 \ps n
@@ -18583,11 +18581,11 @@ saillie)
 \xf attise le feu ! (concentre les braises !)
 \ms 2
 \gvf prendre part
-\smf à une conversation, une discussion
+\smf (à une conversation, une discussion)
 \lt (parole/bord.entrer)
 \ms 3
 \gvf concentrer
-\dt 26/Sep/2006
+\dt 25/Dec/2017
 
 \lx dádonkan
 \mm dá:n:bouche
@@ -22507,8 +22505,7 @@ génitales ...
 \vl vr
 \gf s'expliquer
 \gvf dire.le.motif.de.la.venue
-\lt (limite.couper)
-\dt 24/Oct/2012
+\dt 27/Jan/2018
 
 \lx dàntigɛli
 \mm dàn:n:limite
@@ -24331,7 +24328,7 @@ génitales ...
 \lt député-salle de palabre
 \gf chambre.des.députés
 \nt kb 10/04 p.2
-\dt 11/Nov/2007
+\dt 25/Dec/2017
 
 \lx déren
 \ps v
@@ -28808,7 +28805,11 @@ désorienter')
 
 \lx dùgujɛ
 \mm dùgu:n:terre
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
+\va dùgusejɛ
+\mm dùgu:n:terre
+\mm sé:v:arriver
+\mm jɛ́:adj:blanc
 \ps n
 \ms 1
 \gf aube
@@ -28821,7 +28822,7 @@ désorienter')
 \xf le lendemain soir
 \xv ù bɛ́ táa  syɔ̀ bɔ́  dón ní  dùgujɛ
 \xf ils vont tous les jours cueillir les haricots
-\dt 26/Sep/2006
+\dt 02/Jan/2018
 
 \lx dùgujɛnda
 \mm dùgu:n:terre
@@ -33034,17 +33035,19 @@ compagnie ...
 \lx fàrikoloɲɛnajɛ
 \mm fàri:n:corps
 \mm kólo:n:os
+\mm ɲɛ́najɛ:n:réjouissance
 \mm ɲɛ́:n:oeil
 \mm ná:mrph:CAUS
 \mm jɛ́:v:blanchir
 \ps n
 \gf sport
 \lt (corps.amusement)
-\dt 29/Nov/2012
+\dt 27/Jan/2018
 
 \lx fàrikoloɲɛnajɛkɛnɛ
 \mm fàri:n:corps
 \mm kólo:n:os
+\mm ɲɛ́najɛ:n:réjouissance
 \mm ɲɛ́:n:oeil
 \mm ná:mrph:CAUS
 \mm jɛ́:v:blanchir
@@ -33052,7 +33055,7 @@ compagnie ...
 \ps n
 \gf stade.de.sport
 \lt (sport.aire)
-\dt 29/Nov/2012
+\dt 27/Jan/2018
 
 \lx fàrikumu
 \mm fàri:n:corps
@@ -33562,9 +33565,8 @@ compagnie ...
 \mm só:n:maison
 \mm kán:n:cou
 \ps n
-\lt patrie-langue
 \gf langue.nationale
-\dt 31/Jan/2017
+\dt 27/Jan/2018
 
 \lx fàsokanu
 \mm fàso:n:patrie
@@ -38518,6 +38520,18 @@ frontières, forestiers, sapeurs)
 \gvf se rider
 \gvf se faner
 \dt 30/Jun/2017
+
+\lx fɔ́sɔn
+\ps v
+\gf v
+\ms 1
+\vl vt
+\gf attacher.fortement
+\ms 2
+\vl vi
+\gvf être solide
+\smf
+\dt 02/Jan/2018
 
 \lx fɔ́ta
 \mm fɔ́:dire:dire
@@ -46539,9 +46553,9 @@ qqch ...)
 \mm jùru:n:corde
 \ps n
 \gf garde-manger.suspendu
-\smf (petite vannerie en herbe tressée pour suspendre les calebasses)
-\lt (chat.corde)
-\dt 30/Nov/2012
+\smf (petite vannerie en herbe tressée pour suspendre les
+calebasses)
+\dt 13/Jan/2018
 
 \lx jàkumakun
 \mm jàkuma:n:chat
@@ -53482,7 +53496,7 @@ l'eau est prête
 \lt (ciel.sale)
 \xv kàbanɔgɔ kólogirinyana bì
 \xf les nuages sont lourds aujourd'hui
-\dt 16/Aug/2006
+\dt 02/Jan/2018
 
 \lx kàbanɔgɔlama
 \mm kàba:n:ciel
@@ -54548,7 +54562,7 @@ l'eau est prête
 \mm sèn:n:jambe
 \ps n
 \gf leçon
-\lt (cours.unité de temps)
+\dt 27/Jan/2018
 
 \lx kàlanso
 \mm kàlan:n:lecture
@@ -59337,17 +59351,16 @@ probablement de chaux vive)
 \dt 26/Sep/2006
 
 \lx kɛ́nɛbaatɔ
-\mm kɛ́nɛ:vq/adj:en.bonne.santé
+\mm kɛ́nɛ:vq:en.bonne.santé
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \va kɛ́nɛ.baga.tɔ
-\mm kɛ́nɛ:vq/adj:en.bonne.santé
+\mm kɛ́nɛ:vq:en.bonne.santé
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj/n
 \gf personne.bien.portante
-\lt (en santé.sujet)
-\dt 16/Aug/2006
+\dt 27/Jan/2018
 
 \lx kɛ́nɛbɔnda
 \mm kɛ́nɛ:n:clarté
@@ -62345,6 +62358,13 @@ champs)
 \sy lánkolon
 \dt 16/Aug/2006
 
+\lx kòlonɛli
+\ps n
+\gf colonel
+\ge
+\gr
+\dt 27/Jan/2018
+
 \lx kòlongale
 \mm kòlon:n:cauris
 \mm gále:n:ceinture
@@ -63885,8 +63905,8 @@ champs)
 \sy kɔ́di
 \lt (dos.faire entrer)
 \ms 2
-\gvf laisser.tomber
-\dt 26/Sep/2006
+\gvf laisser tomber
+\dt 02/Jan/2018
 
 \lx kɔ́fàlen
 \mm kɔ́:n:dos
@@ -69328,10 +69348,9 @@ il en contient dix
 \ps n
 \ms 1
 \gf celui.qui.parle
-\lt (parole.faire.celui qui)
 \ms 2
 \gvf beau.parleur
-\dt 16/Aug/2006
+\dt 27/Jan/2018
 
 \lx kúma-kúma
 \mm kúma:v:parler
@@ -74501,7 +74520,7 @@ catastrophe)
 \dt 28/Mar/2013
 
 \lx ládiyalifɛn
-\mm lá.di.ya:v: récompenser
+\mm lá.di.ya:v:récompenser
 \mm lá:mrph:CAUS
 \mm dí.ya:v:rendre.agréable
 \mm dí:vq/adj:agréable
@@ -74514,7 +74533,7 @@ catastrophe)
 \gvf récompense
 \xv mɔ̀gɔ 6 yé ládiyalifɛn sɔ̀rɔ :
 \xf Six personnes ont obtenu des prix : ... (Kb 10/06 p.10)
-\dt 11/Nov/2007
+\dt 17/Dec/2017
 
 \lx ládògo
 \mm lá:mrph:CAUS
@@ -79802,6 +79821,13 @@ jour, c'est une personne dépendante qu'il voit
 \xv í màda  màa yé
 \xf se taire en présence de ...
 \dt 26/Sep/2006
+
+\lx màdamu
+\ps n
+\gf madame
+\ge
+\gr
+\dt 27/Jan/2018
 
 \lx mádarasa
 \va mándarasa
@@ -85214,33 +85240,31 @@ nord-est
 
 \lx mɔ̀gɔkɔrɔba
 \mm mɔ̀gɔ:n:homme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
 \va màa.kɔrɔ.ba
 \mm màa:n:homme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
 \ps n
 \gf vieux
-\lt (vieux.très)
-\dt 16/Aug/2006
+\dt 27/Jan/2018
 
 \lx mɔ̀gɔkɔrɔbaya
 \mm mɔ̀gɔ.kɔrɔ.ba:n:vieux
 \mm mɔ̀gɔ:n:homme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \va màa.kɔrɔ.ba.ya
 \mm màa.kɔrɔ.ba:n:vieux
 \mm màa:n:homme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
-\lt vieille personne-suf abs
 \gf vieillesse
-\dt 11/Nov/2007
+\dt 27/Jan/2018
 
 \lx mɔ̀gɔlandi
 \mm mɔ̀gɔ:n:homme
@@ -86179,6 +86203,14 @@ pour les jardins)
 \gf poisson.Synodontis.gobroni
 \lt (mugu.bariolé)
 \dt 08/Nov/2012
+
+\lx múgukan
+\mm múgu:n:poudre
+\mm kán:n:cou
+\ps n
+\gf coup.de.feu
+\gv détonation
+\dt 27/Jan/2018
 
 \lx múgukɛlan
 \mm múgu:n:poudre
@@ -100748,7 +100780,7 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́mɔgɔ
 \mm ɲɛ́:n:oeil
 \mm mɔ̀gɔ:n:homme
-\va ɲɛ́.maa
+\va ɲɛ́maa
 \mm ɲɛ́:n:oeil
 \mm màa:n:homme
 \ps n
@@ -100760,7 +100792,7 @@ graines, sert d'instrument rythmique)
 \gvf aîné
 \xv kàmi bɛ́  à ɲɛ́mɔgɔ tɔ̀n fílɛ
 \xf (prov) la pintade regarde la nuque de celle qui la précède
-\dt 26/Sep/2006
+\dt 27/Jan/2018
 
 \lx ɲɛ́mɔgɔba
 \mm ɲɛ́.mɔgɔ:n:dirigeant
@@ -104456,8 +104488,8 @@ envergure)
 \lx pán
 \ps onomat
 \gf pan!
-\smf bruit de coup de fusil ...
-\dt 16/Aug/2006
+\smf (bruit de coup de fusil)
+\dt 14/Jan/2018
 
 \lx pán
 \ps v
@@ -104977,8 +105009,8 @@ envergure)
 \lx péntèlú
 \ps n
 \gf jupe.sp
-\smf petit pagne de dessous, sorte de jupe
-\dt 26/Sep/2006
+\smf (petit pagne de dessous, sorte de jupe)
+\dt 13/Jan/2018
 
 \lx pépewu
 \ps adv
@@ -104992,11 +105024,9 @@ envergure)
 \lx pérefe
 \ps n
 \gf préfet
-\gvf
-\smf
 \xv
 \xf
-\dt 16/Sep/2016
+\dt 27/Jan/2018
 
 \lx pérekete
 \ps adv
@@ -105381,7 +105411,8 @@ envergure)
 \lx pípii
 \ps onomat
 \gf tut!tut!
-\smf bruit du klaxon
+\smf (bruit du klaxon)
+\dt 14/Jan/2018
 
 \lx pípii
 \ps n
@@ -107131,6 +107162,14 @@ épuisés
 \gf merci
 \smf (réponse à un souhait de bienvenue)
 \dt 04/Dec/2017
+
+\lx sàhaba
+\ps n
+\gf réalisation
+\smf (d'un événement, d'une prédiction, d'une nouvelle)
+\gvf satisfaction
+\smf (le fait de remplir l'attente)
+\dt 25/Dec/2017
 
 \lx sáharakungo
 \mm Sáhara:n.prop:TOP
@@ -109954,12 +109993,11 @@ paniers, sègi)
 \mm kó:n:affaire
 \ps n
 \gf le.maximum
-\lt (pouvoir.affaire)
 \xv ù y'ú séko kɛ́
 \xf ils ont fait ce qu'ils ont pu, ils ont fait tous leurs efforts
 \xv jìginnimuso b'ú séko  dàmajira kɛ́  fɔ́  fílan kà nà
 \xf les matrones font tout ce qu'elles peuvent pour que vienne le placenta
-\dt 26/Sep/2006
+\dt 27/Jan/2018
 
 \lx sékola
 \mm sé:n:arrivée
@@ -112382,11 +112420,13 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sɛ́mɛntiya:v:consolider
 \mm lan:mrph:INSTR
 \ps n
-\lt confirmer-ce qui sert à
-\gf adverbe
-\smf (néo)
+\ms 1
+\gf renforcement
+\ms 2
+\gv adverbe
+\smf (néologisme)
 \nt kb
-\dt 11/Nov/2007
+\dt 27/Jan/2018
 
 \lx sɛ̀nɛ
 \ps n
@@ -116027,7 +116067,7 @@ donne d'excellentes fibres)
 \ps n
 \gf pioche.à.lame.étroite
 \smf (pour creuser les puits, planter les grains)
-\dt 14/Jun/2017
+\dt 16/Jan/2018
 
 \lx sòlibaa
 \mm sòli:v:être.matinal
@@ -116749,20 +116789,23 @@ donne d'excellentes fibres)
 \ps v
 \va swà
 \va shwà
-\vl vt
 \ms 1
+\vl vt
 \gf percer
 \gvf piquer
 \xv ŋɔ́ni yé  à bólo sɔ̀gɔ
 \xf l'épine lui a percé la main
 \ms 2
+\vl vt
 \gvf fermer à clé
 \xv sóda sɔ̀gɔra
 \xf on a fermé la porte à clé
 \ms 3
+\vl vt
 \gvf renforcer les bords
 \smf (d'un panier ...)
 \ms 4
+\vl vt
 \gvf broder
 \gvf entrecroiser
 \xv à y'í bólo sɔ̀gɔ  ɲɔ́gɔn ná
@@ -116771,6 +116814,7 @@ donne d'excellentes fibres)
 \gvf fabriquer
 \smf un filet
 \ms 6
+\vl vt
 \gvf détremper
 \smf (sol ...)
 \xv dùgukolo swàlen dòn
@@ -116778,7 +116822,10 @@ donne d'excellentes fibres)
 \ms 7
 \vl vr
 \gf s'agripper
-\dt 19/Oct/2014
+\ms 8
+\vl vt
+\gvf vacciner
+\dt 21/Dec/2017
 
 \lx sɔ́gɔbɛ
 \va sɔ́gɔmɛ
@@ -120648,7 +120695,7 @@ fiançailles
 \ms 2
 \gvf manifestation
 \smf (dans la rue)
-\dt 26/Nov/2016
+\dt 25/Dec/2017
 
 \lx táama
 \va tágama
@@ -120980,10 +121027,10 @@ fiançailles
 \lx tàfo
 \ps n
 \gf gri-gri
-\smf ficelle à noeuds (remède magique)
+\smf (ficelle à noeuds, remède magique)
 \xv tàfo sìri (díla) (kùru)
 \xf fabriquer un "tafo"
-\dt 26/Sep/2006
+\dt 16/Jan/2018
 
 \lx táfyenke
 \mm tá:n:feu
@@ -126017,12 +126064,10 @@ est due aux paysans (kib 3/05 p.9)
 \mm lá:pp:à
 \mm dón:n:jour
 \ps n
-\lt nom-au-jour
 \gf jour.consacré.à
 \xv bálikukalan tɔ́gɔladon kɛ́rɛnkɛrɛnnen
 \xf jour de l'alphabétisation des adultes
-\nt Kb 10/06 p.10
-\dt 06/Nov/2014
+\dt 27/Jan/2018
 
 \lx tɔ́gɔma
 \mm tɔ́gɔ:n:nom
@@ -126351,8 +126396,7 @@ est due aux paysans (kib 3/05 p.9)
 \mm dén:n:enfant
 \ps n
 \gf membre.d'association
-\lt (association.affilié)
-\dt 16/Aug/2006
+\dt 18/Jan/2018
 
 \lx tɔ́nfa
 \mm tɔ́n:n:société
@@ -127074,10 +127118,10 @@ est due aux paysans (kib 3/05 p.9)
 \ms 3
 \vl vi
 \gvf suivre
-\smf (... la, ... kɔ, ... kàn, ... nɔ̀ fɛ̀)
+\smf (qqn --  lá,  kɔ́, kàn, nɔ̀ fɛ̀)
 \xv ù bɛ́ tùgu  ɲɔ́gɔn ná
 \xf ils se suivent les uns les autres
-\dt 26/Sep/2006
+\dt 27/Jan/2018
 
 \lx túgu
 \ps v
@@ -132347,6 +132391,13 @@ Mali)
 \ps n
 \gf Juif
 \dt 12/Aug/2006
+
+\lx yàkubaya
+\ps v
+\vl vt
+\gf rendre.grand
+\bw ar. yakbi:r
+\dt 27/Jan/2018
 
 \lx yálà
 \va yáa
