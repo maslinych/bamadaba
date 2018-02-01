@@ -58523,6 +58523,14 @@ probablement de chaux vive)
 \sd gram
 \dt 19/Aug/2006
 
+\lx kènken
+\ve (bk)
+\va nkènken
+\ps n
+\gf joue.intérieur
+\gv abajoue de singe
+\dt 28/Jan/2018
+
 \lx kènkenkɔ̀gɔyɔ
 \ps n
 \gf oreillons
@@ -92538,13 +92546,6 @@ familiaux; viande très prisée, auladiculture)
 \ph [on s'attendrait au ton haut !]
 \dt 16/Aug/2006
 
-\lx nkènken
-\ve (bk)
-\va kènken
-\ps n
-\gf joue.intérieur
-\dt 16/Aug/2006
-
 \lx nkènkenfuru
 \mm nkènken:n:joue.intérieur
 \mm fùru:n:pulpe.des.fruits
@@ -123201,7 +123202,8 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tɛ́rɛ
 \ps n
 \gf tique
-\dt 16/Aug/2006
+\syn npɛ́rɛ
+\dt 01/Feb/2018
 
 \lx tɛ́rɛbɔkɔnɔnin
 \mm tɛ́rɛ:n:tique
