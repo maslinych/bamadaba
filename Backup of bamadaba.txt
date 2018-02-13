@@ -1916,12 +1916,11 @@ mauvais
 \mm bàga:n:poison
 \mm jí:n:eau
 \ps n
-\lt poison-eau
 \gf insecticide.liquide
 \xv háli ní dɔ́ bɔ́ra  bàgaji sɔ̀ngɔ lá...
 \xf même si le prix de l'insecticide liquide a diminué (2/06 p.7)
 \nt trouver une meilleure traduction (Kb 6/05 p.1)
-\dt 11/Nov/2007
+\dt 08/Feb/2018
 
 \lx bàgama
 \mm bàga:n:poison
@@ -15248,6 +15247,14 @@ sur soi)
 \gf bravoure
 \dt 25/Apr/2016
 
+\lx cɛ́fɛ̀
+\mm cɛ́:n:milieu
+\mm fɛ̀:pp:par
+\ps pp
+\gf parmi
+\gv au milieu de
+\dt 08/Feb/2018
+
 \lx cɛ́fɛɛrɛn
 \mm cɛ́:n:milieu
 \mm fɛ́ɛrɛn:n:morceau
@@ -28474,10 +28481,10 @@ désorienter')
 
 \lx dɔ́wɛrɛ
 \mm dɔ́:dtm:certain
-\mm wɛ́rɛ:adj:autre
+\mm wɛ́rɛ:dtm:autre
 \ps dtm
 \gf autre
-\dt 19/Feb/2013
+\dt 13/Feb/2018
 
 \lx dɔ́yi
 \ps adv
@@ -55628,8 +55635,7 @@ jeunes)
 \ps v
 \vl vt
 \gf mettre.d'accord
-\lt (parole.accorder)
-\dt 16/Aug/2006
+\dt 07/Feb/2018
 
 \lx kánbìla
 \mm kán:n:cou
@@ -63427,13 +63433,12 @@ champs)
 \va kósɔbɛ
 \mm kó:n:affaire
 \mm sɔ̀bɛ:adj:sérieux
-\ph [kosɔbɛ]
 \ps adv
 \gf très.bien
 \gvf parfaitement
 \gvf beaucoup
 \lt (manière.importante)
-\dt 17/Jul/2017
+\dt 13/Feb/2018
 
 \lx kósikosi
 \ps v
@@ -94812,11 +94817,10 @@ graines, sert d'instrument rythmique)
 
 \lx npɛ́rɛ
 \va nfɛ́rɛ
-\va tɛ́rɛ
-\ve (bn)
 \ps n
 \gf tique
-\dt 16/Aug/2006
+\syn tɛ́rɛ
+\dt 01/Feb/2018
 
 \lx npɛ́rɛnpɛrɛ
 \ps n
@@ -134458,6 +134462,11 @@ généreuses, avec bourrelets
 \xv í nà  yɔ́rɔ sɔ̀rɔ  kà nà wá ?
 \xf trouveras-tu le temps de venir ?
 \dt 26/Sep/2006
+
+\lx yɔ́rɔ
+\ps pp
+\gf chez
+\dt 08/Feb/2018
 
 \lx yɔ́rɔjanya
 \mm yɔ́rɔ:n:lieu
