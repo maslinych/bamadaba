@@ -20183,9 +20183,9 @@ saillie)
 \mm fyɛ́n:adj:léger
 \ps adj/n
 \gf indiscret
-\smf qui ne tient pas sa langue
+\smf (qui ne tient pas sa langue)
 \lt (parole.légère)
-\dt 23/Mar/2015
+\dt 17/Feb/2018
 
 \lx dálafiɲɛ
 \mm dá:n:bouche
@@ -20273,9 +20273,8 @@ saillie)
 \gvf ordurier
 \ms 2
 \gvf goinfre
-\lt (bouche.mauvaise)
 \sy dájugu
-\dt 05/Apr/2016
+\dt 17/Feb/2018
 
 \lx dálákà
 \mm dá:n:bouche
@@ -63437,7 +63436,7 @@ champs)
 \gf très.bien
 \gvf parfaitement
 \gvf beaucoup
-\dt 13/Feb/2018
+\dt 14/Feb/2018
 
 \lx kósikosi
 \ps v
@@ -72010,6 +72009,14 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gvf porter malchance
 \gvf avoir la guigne
 \dt 23/Mar/2015
+
+\lx kùnnankolon
+\mm kùn:n:tête
+\mm nan:mrph:à
+\mm kólon:adj:vide
+\ps adj
+\gf tête.nue
+\dt 14/Feb/2018
 
 \lx kùnnankolonbila
 \mm kùn:n:tête
@@ -101563,13 +101570,13 @@ graines, sert d'instrument rythmique)
 \lx ɲɛ́ngo
 \mm ɲɛ́:n:oeuil
 \mm gó:adj:désagréable
-\ps n/adj
+\ps adj/n
 \gf jaloux
 \gvf égoïste
 \smf
 \xv
 \xf
-\dt 05/Feb/2017
+\dt 17/Feb/2018
 
 \lx ɲɛ́ni
 \va ɲáni
@@ -110989,6 +110996,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf rapide
 \gvf véloce
 \dt 23/Mar/2015
+
+\lx sènnakolon
+\mm sèn:n:jambe
+\mm nan:mrph:dans
+\mm kólon:adj:vide
+\ps adj
+\gf nu-pieds
+\gv déchaussé
+\dt 17/Feb/2018
 
 \lx sènnamɔgɔ
 \mm sèn:n:jambe
