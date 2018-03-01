@@ -15585,7 +15585,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \ps n
 \gf vieillard
 \lt (homme âgé.très)
-\dt 26/Sep/2006
+\dt 18/Feb/2018
 
 \lx cɛ̀kɔrɔbaya
 \mm cɛ̀:n:mâle
@@ -18021,10 +18021,17 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx dàbali
 \ps v
+\ms 1
 \vl vt
 \gf ensorceler
+\gvf pratiquer un malifice
 \xv à yé  ù dàbali
 \xf il les a ensorcelés
+\ms 2
+\vl vt
+\gvf préparer
+\gvf apprêter
+\dt 24/Feb/2018
 
 \lx dàbaliban
 \mm dàbali:n:moyen
@@ -19565,6 +19572,7 @@ saillie)
 \mm dá:n:bouche
 \mm yìra:v:montrer
 \ps v
+\ms 1
 \vl vt
 \gf exposer
 \gvf expliquer
@@ -19573,7 +19581,11 @@ saillie)
 \lt (début.montrer)
 \xv ń kɔ́nɔgannen  kó dɔ́ lá, ń nàlen  à dájira  é lá
 \xf j'ai une difficulté, je suis venu te l'exposer
-\dt 26/Sep/2006
+\ms 2
+\vl vt
+\gvf proposer
+\smf (à -- lá)
+\dt 18/Feb/2018
 
 \lx dájɔ̀
 \mm dá:n:bouche
@@ -40629,7 +40641,14 @@ forestières, fruit : long follicule de 50 cm)
 \ps v
 \vl vt
 \gf retirer
-\dt 26/Sep/2006
+\gvf enlever
+\ms 2
+\vl vt
+\gvf arracher
+\ms 3
+\vl vt
+\gvf renverser avec violence
+\dt 28/Feb/2018
 
 \lx gága
 \va gwága
@@ -61157,7 +61176,7 @@ probablement de chaux vive)
 \ps cop
 \ms 1
 \gf QUOT
-\smf prédicat.de.parole
+\smf prédicat de parole
 \xv kó...yé
 \xv kó...mà
 \xf dire à qqn
@@ -61178,7 +61197,7 @@ probablement de chaux vive)
 \xf son sens en est :" ...
 \ms 2
 \gvf comme
-\dt 12/Jun/2016
+\dt 27/Feb/2018
 
 \lx kóba
 \mm kó:n:affaire
@@ -65453,11 +65472,12 @@ ou une proposition)
 \dt 16/Aug/2006
 
 \lx kɔ́nkɔn
+\va nkɔ́nkɔn
 \lt (Syno. bariolé)
 \ps n
 \gf poisson.Synodontis.ocellifer
 \smf ---> 40 cm (taches ocellées sur le corps et l'adipeuse ; corps nu, trois épines, régime omnivore, poisson de fond, peuvent nager sur le dos)
-\dt 16/Aug/2006
+\dt 28/Feb/2018
 
 \lx kɔ́nkɔ́n
 \va kɔ́n-kɔ́n-kɔ́n
@@ -94140,17 +94160,17 @@ graines, sert d'instrument rythmique)
 \lt (ensuite.lieu)
 \dt 26/Sep/2006
 
-\lx nɔ̀na
+\lx nɔ̀ná
 \mm nɔ̀:n:trace
 \mm ná:pp:à
 \ps pp
 \ms 1
 \gf à.la.place.de
-\xv í bɛ́ kɛ́  fàantan yé  í nɔ̀ ná
+\xv í bɛ́ kɛ́  fàantan yé  í nɔ̀ná
 \xf tu redeviens pauvre
 \ms 2
 \gvf en.échange.de
-\dt 26/Sep/2006
+\dt 28/Feb/2018
 
 \lx nɔ̀nabila
 \mm nɔ̀:n:trace
@@ -111000,7 +111020,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sènnakolon
 \mm sèn:n:jambe
 \mm nan:mrph:dans
-\mm kólon:adj:nu
+\mm kólon:adj:vide
 \ps adj
 \gf nu-pieds
 \gv déchaussé
