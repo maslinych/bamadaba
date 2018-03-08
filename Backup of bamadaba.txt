@@ -1724,7 +1724,7 @@ traîne sur le fond des eaux
 \ms 3
 \gvf frère
 \smf toute personne que l'on considère comme un frère ; une soeur (sens plus large, affectueux)
-\dt 26/Sep/2006
+\dt 08/Mar/2018
 
 \lx bádenma
 \mm báden:n:frère/soeur.utérin(e)
@@ -1928,7 +1928,7 @@ mauvais
 \ps adj
 \gf vénéneux
 \gvf toxique
-\lt (poison.qui a)
+\gvf venimeux
 \dt 26/Sep/2006
 
 \lx bágama
@@ -7329,13 +7329,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 22/Feb/2015
 
 \lx bɛ̀sɛ
+\va bɛ̀ɛsɛ
 \ps adj/n
 \ms 1
 \gf coquet
 \ms 2
 \gvf très.propre
 \sy bùga
-\dt 26/Sep/2006
+\dt 08/Mar/2018
 
 \lx bɛ̀sɛya
 \mm bɛ̀sɛ:adj/n:coquet
@@ -7890,10 +7891,9 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps adj
 \gf actuel
 \gvf d'aujourd'hui
-\lt (aujourd'hui.en l'état)
 \xv à bìlama, à tɛ́ sé kà tìgɛ
 \xf tel qu'il est aujourd'hui, on ne peut le traverser (marigot en crue)
-\dt 26/Sep/2006
+\dt 08/Mar/2018
 
 \lx bìlangalama
 \mm bìla:v:mettre
@@ -10924,11 +10924,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf preste
 \ms 2
 \gvf adroit
+\gvf habile
 \ms 3
 \gvf qui touche à tout
 \ms 4
 \gvf qui frappe facilement
-\dt 22/Mar/2015
+\dt 08/Mar/2018
 
 \lx bólolatigɛ
 \mm bólo:n:bras
@@ -11162,9 +11163,8 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm júgu:vq/adj:mauvais
 \ps adj/n
 \gf mauvais.travailleur
-\lt (travail.mauvais)
 \sy bólolajugu
-\dt 21/Nov/2012
+\dt 08/Mar/2018
 
 \lx bólomanjuguya
 \mm bólo.man.jugu:adj/n:mauvais.travailleur
@@ -17190,17 +17190,22 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx córon
 \ps v
+\ms 1
 \vl vt
 \gf enfoncer
 \xv màa córon
 \xf couler qqn (justice, politique, commerce ...)
 \xf créer des problèmes, des ennuis à ...
-\gvf écarquiller les yeux
+\ms 2
+\vl vt
+\gvf écarquiller
+\smf (les yeux)
+\ms 3
 \vl vi
 \gvf s’embourber
-\xv móbili córonna  bɔ̀gɔ rɔ́
+\xv móbili córonna bɔ̀gɔ rɔ́
 \xf la voiture s'est embourbée
-\dt 03/Apr/2016
+\dt 02/Mar/2018
 
 \lx cóyi
 \ps adv
@@ -27287,9 +27292,13 @@ chefs religieux et représentants de l'administration
 \mm dóso:n:gros.chien
 \mm kɔrɔ:adj:mâle.adulte
 \ps n
+\ms 1
 \gf gros.chien
-\lt (chien.mâle)
-\dt 26/Sep/2006
+\smf (mâle)
+\gvf molosse
+\ms 2
+\gvf grand gaillard vigoureux
+\dt 03/Mar/2018
 
 \lx dóyi
 \ps onomat
@@ -32851,6 +32860,12 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \smf
 \dt 15/Aug/2017
 
+\lx farasaba
+\ps adj
+\gf ignorant
+\smf (très péjoratif et vulgaire, surtout d'un garçon non-initié)
+\dt 02/Mar/2018
+
 \lx fárasù
 \mm fára:n:pierre
 \mm sù:n:cadavre
@@ -34281,9 +34296,11 @@ bien (dicton)
 \dt 28/Jan/2016
 
 \lx fɛ̀lɛkɛ
+\va fàlaka
 \ps n
 \gf fanon
 \smf (du boeuf, du mouton, du lion ...)
+\dt 07/Mar/2018
 
 \lx fɛ́lɛku
 \va fyɛ́ku
@@ -36021,17 +36038,17 @@ frontières, forestiers, sapeurs)
 \va frífri
 \ph [frifri]
 \ps v
-\vl vt
 \ms 1
+\vl vt
 \gf agiter
 \gvf secouer.de.droite.et.de.gauche
 \xv kàn'í kùn fírifiri !
 \xf ne secoue pas la tête ! (en signe de dénégation)
 \ms 2
+\vl vt
 \gvf labourer
-\smf retourner le sol à la charrue
-\lt (renverser-renverser)
-\dt 26/Sep/2006
+\smf (retourner le sol à la charrue)
+\dt 01/Mar/2018
 
 \lx fírikiti
 \ps adv
@@ -40717,11 +40734,11 @@ forestières, fruit : long follicule de 50 cm)
 \ps n
 \ms 1
 \gf mirador
-\gvf affût.en.haut.d'un.arbre
+\gvf affût en haut d'un arbre
 \ms 2
 \gvf sente.de.gibier
-\smf lieu fréquenté par le gibier : sente, point d'eau ...
-\dt 26/Sep/2006
+\smf (lieu fréquenté par le gibier : sente, point d'eau ...)
+\dt 02/Mar/2018
 
 \lx gàla
 \ps v
@@ -42429,10 +42446,12 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \ms 1
 \gf plate-forme
 \smf (sur les places des villages)
+\gvf estrade publique
+\smf (en rondins rapprochés posés sur des pieux)
 \ms 2
 \gvf mirador
 \smf (dans les champs)
-\dt 23/Aug/2017
+\dt 02/Mar/2018
 
 \lx gɛ́lɛ
 \va gwɛ́lɛ
@@ -44915,17 +44934,26 @@ doigts par des fileuses du coton)
 
 \lx hàlala
 \bw ar: halal = possession légitime
-\ps adj/n
+\ps adj
 \ms 1
-\gf propriété.légitime
-\xv nìn móbili yé  né hàlala yé
-\xf cette automobile m'appartient
+\gf légitime
 \ms 2
 \gvf authentique
 \gvf vrai.de.vrai
 \xv bámana hàlala tɛ́  nìn yé
 \xf ce n'est pas un vrai bambara
-\dt 26/Sep/2006
+\dt 08/Mar/2018
+
+\lx hàlala
+\bw ar: halal = possession légitime
+\ps n
+\ms 1
+\gf propriété.légitime
+\xv nìn móbili yé  né hàlala yé
+\xf cette automobile m'appartient
+\ms 2
+\gvf descendant légitime
+\dt 08/Mar/2018
 
 \lx hàlalaya
 \mm hàlala:adj/n:propriété.légitime
@@ -52061,7 +52089,6 @@ fusil)
 \ms 2
 \gvf maléfique
 \gvf grave
-\lt (mauvais.suf adj)
 \xv án sélen yànni nɔ́, júguman tɛ́...
 \xf nous sommes venus ici, ce n'est pas pour une affaire grave
 \dt 26/Sep/2006
@@ -53477,7 +53504,7 @@ l'eau est prête
 \gf déjà
 \xv ò táara kàban
 \xf il est déjà parti
-\dt 16/Aug/2006
+\dt 08/Mar/2018
 
 \lx kábanɛgɛlen
 \mm kába:n:pierre
@@ -62369,13 +62396,14 @@ champs)
 \ms 1
 \gf usagé
 \gvf usé
+\ms 2
 \gvf bon.à.rien
 \xv fìnikolon
 \xf vieux linge, chiffon
-\ms 2
+\ms 3
 \gvf mauvais
 \gvf violent
-\dt 04/Feb/2016
+\dt 08/Mar/2018
 
 \lx kólon
 \vc kólo
@@ -65473,11 +65501,14 @@ ou une proposition)
 
 \lx kɔ́nkɔn
 \va nkɔ́nkɔn
+\va kɔ́ɔnkɔn
+\va kɔ̀nkɔ̀n
 \lt (Syno. bariolé)
 \ps n
 \gf poisson.Synodontis.ocellifer
-\smf ---> 40 cm (taches ocellées sur le corps et l'adipeuse ; corps nu, trois épines, régime omnivore, poisson de fond, peuvent nager sur le dos)
-\dt 28/Feb/2018
+\gvf silure
+\smf (ples de 40 cm, taches ocellées sur le corps et l'adipeuse ; corps nu, trois épines, régime omnivore, poisson de fond, peuvent nager sur le dos)
+\dt 01/Mar/2018
 
 \lx kɔ́nkɔ́n
 \va kɔ́n-kɔ́n-kɔ́n
@@ -65873,10 +65904,11 @@ ou une proposition)
 \vl vt
 \gf angoisser
 \gvf tracasser
+\gvf embarrasser
 \lt (intérieur.chauffer)
 \sy kɔ́nɔnagan
 \sy kàmanagan
-\dt 26/Sep/2006
+\dt 03/Mar/2018
 
 \lx kɔ́nɔganbaa
 \mm kɔ́nɔ:n:ventre
@@ -70981,7 +71013,6 @@ l'intérieur une ou deux graines)
 \ps adj
 \gf dégourdi
 \gvf ardent
-\lt (tête.pleine forme)
 \sy gálabukɛnɛ
 \dt 26/Sep/2006
 
@@ -78739,6 +78770,11 @@ personne)
 \xf il s'est haussé pour attraper la branche
 \dt 26/Sep/2006
 
+\lx légelege
+\ps adj
+\gf très.haut
+\dt 02/Mar/2018
+
 \lx légelegema
 \mm légelege:v:hausser
 \mm ma:mrph:DIR
@@ -81456,10 +81492,10 @@ jour, c'est une personne dépendante qu'il voit
 \gvf adhésif
 \gvf collant
 \gvf gluant
-\lt (brillant.qui a)
 \ms 3
 \gvf en.plastique.souple
 \gvf en.caoutchouc
+\dt 08/Mar/2018
 
 \lx mánama
 \mm mána:n:substance.collante
@@ -86860,7 +86896,7 @@ pour les jardins)
 
 \lx mùso
 \ps adj
-\gf femme
+\gf féminin
 \gvf femelle
 \smf (surtout en composition)
 \xv mùso síya bɛ́ tíla  náani yé : mìnamuso, fàlimuso, wùlumuso, jàkumamuso
@@ -87804,10 +87840,13 @@ pour les jardins)
 \mm nàfa:n:profit
 \mm ma:mrph:COM
 \ps adj
-\gf profitable
+\ms 1
+\gf utile
+\ms 2
+\gvf profitable
 \gvf rentable
 \lt (profit.qui a)
-\dt 26/Sep/2006
+\dt 08/Mar/2018
 
 \lx nàfamaya
 \mm nàfa.ma:adj:profitable
@@ -93890,8 +93929,8 @@ graines, sert d'instrument rythmique)
 \va nwánaa
 \ps n
 \gf arbuste.Grewia.sp
-\smf les fibres d'écorce servent d'attache
-\dt 19/Aug/2006
+\smf (les fibres d'écorce servent d'attache)
+\dt 03/Mar/2018
 
 \lx nɔ́gɔnɔgɔ
 \ps v
@@ -98603,8 +98642,7 @@ graines, sert d'instrument rythmique)
 \mm dén:n:enfant
 \ps n
 \gf bâtard
-\lt (amant.enfant)
-\dt 06/Nov/2014
+\dt 02/Mar/2018
 
 \lx ɲàmɔgɔkɛ
 \mm ɲà.mɔgɔ:n:amant
@@ -103481,10 +103519,11 @@ le pèlerinage (bk 1/06 p.5)
 \ps adj
 \ms 1
 \gf bon
+\ms 2
 \gvf beau
+\ms 3
 \gvf utile
-\lt (bon.suf adj)
-\dt 23/Feb/2014
+\dt 08/Mar/2018
 
 \lx ɲùman
 \ps n
@@ -109664,13 +109703,15 @@ composition de l'encens
 \xf aucun d'entre eux n'a vu arriver son tour
 \ms 3
 \gvf pouvoir
-\gvf victoire
 \gvf moyens
 \xv ò sé tɛ́  à dá rɔ́
 \xf il ne contrôle pas ses paroles
 \xv ò sé t'án yé
 \xf nous n'en avons pas les  moyens
-\dt 26/Sep/2006
+\ms 4
+\gvf victoire
+\smf (en sport)
+\dt 28/Feb/2018
 
 \lx sé
 \va s'
@@ -118526,18 +118567,12 @@ s'amène ...)
 \dt 26/Sep/2006
 
 \lx súmaman
-\mm súma:vq/adj:lent
+\mm súma:vq:lent
 \mm man:mrph:ADJ
 \ps adj
-\ms 1
-\gf froid
-\gvf frais
-\gvf humide
-\lt (froid.suf adj)
-\ms 2
-\gvf lambin
-\gvf calme
-\dt 26/Sep/2006
+\ms
+\gf lent
+\dt 08/Mar/2018
 
 \lx sùmangosi
 \mm sùman:n:récolte
@@ -122183,6 +122218,15 @@ pieton)
 \smf ---> 60 cm; nuque marquée de jaune, gorge jaune)
 \dt 16/Aug/2006
 
+\lx táwu
+\ps adv.ex
+\ms 1
+\gf complètement
+\gvf tout à fait
+\ms 2
+\gvf fortement
+\dt 03/Mar/2018
+
 \lx tàya
 \ve (f)
 \ps n
@@ -122779,8 +122823,8 @@ flaques d'eau)
 \ps adj/n
 \gf adroit
 \smf (à la chasse, au tir...)
-\lt (main.bonne)
-\dt 23/Mar/2015
+\gvf bon tireur
+\dt 08/Mar/2018
 
 \lx tɛ́gɛlandiya
 \mm tɛ́gɛlandi:adj:adroit
@@ -128928,11 +128972,11 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 \ms 2
 \vl vr
 \gvf faire un saut
-\smf faire un mouvement pendant un saut
+\smf (faire un mouvement pendant un saut)
 \ms 3
 \vl vt
 \gvf écorcher
-\dt 26/Sep/2006
+\dt 03/Mar/2018
 
 \lx wálamisa
 \ps n
