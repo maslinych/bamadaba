@@ -1,21 +1,8 @@
-\_sh v3.0  400  MDF 4.0
+\_sh v3.0  1302 MDF 4.0
 
 \lang bam
 \name togow
 \ver 0.3
-
-\lx
-\di
-\ps n.prop
-\gf NOM.M
-\dt 14/Jul/2017
-
-\lx
-\ps
-\gf
-\gvf
-\smf
-\dt 15/Oct/2017
 
 \lx Ábà
 \ps n.prop
@@ -145,6 +132,12 @@
 \ps n.prop
 \gf NOM.MF
 \dt 03/May/2010
+
+\lx Alasani
+\ps n.prop
+\gf NOM.M
+\gvf Alhassan
+\dt 10/Mar/2018
 
 \lx Alase
 \ps n.prop
@@ -399,6 +392,12 @@
 \gf NOM.M
 \smf ("père à teint clair")
 \dt 14/Jul/2017
+
+\lx Báabugu
+\ps n.prop
+\gf NOM.M
+\gvf
+\dt 09/Mar/2018
 
 \lx Báarɔ̀
 \va Bárɔ̀
@@ -1388,8 +1387,10 @@ forme d'adresse à n'importe quel homme)
 \dt 03/May/2010
 
 \lx Fántà
+\va Fántàn
 \ps n.prop
 \gf NOM.F
+\dt 30/Nov/2017
 
 \lx Fáɲanama
 \va Nfaɲanama
@@ -1481,7 +1482,8 @@ forme d'adresse à n'importe quel homme)
 \di
 \ps n.prop
 \gf NOM.MF
-\dt 14/Jul/2017
+\smf (prénom apotropaïque donné à l'enfant né après plusieurs bébés morts)
+\dt 11/Mar/2018
 
 \lx Fìnɛ́
 \va Fùnɛ́
@@ -3345,12 +3347,22 @@ forme francaise: Berehima
 \gf NOM.MF
 \dt 14/Jul/2017
 
+\lx Ɲàmankolon
+\va Ɲàmakolon
+\di (b)
+\ps n.prop
+\gf NOM.MF
+\gvf Gniamankolon
+\smf (prénom apotropaïque donné à l'enfant né après plusieurs bébés morts)
+\dt 11/Mar/2018
+
 \lx Ɲàmanton
 \va Ɲàmaton
 \di b
 \ps n.prop
 \gf NOM.MF
-\dt 30/Nov/2014
+\smf (prénom apotropaïque donné à l'enfant né après plusieurs bébés morts)
+\dt 11/Mar/2018
 
 \lx Ɲaminɛma
 \ps n.prop
@@ -3925,6 +3937,7 @@ forme francaise: Berehima
 
 \lx Sùmayíla
 \va Isimayɛli
+\va Isimayila
 \va Ismayila
 \va Sumayira
 \di (Senufo)
@@ -3935,7 +3948,7 @@ forme francaise: Berehima
 \smf (Sumi est une forme diminutive)
 \cm Zumana Denbele ne connait pas Isimayɛli
 \xf
-\dt 14/Jul/2017
+\dt 10/Mar/2018
 
 \lx Súnba
 \di
@@ -3972,7 +3985,8 @@ forme francaise: Berehima
 \di m
 \ps n.prop
 \gf NOM.F
-\dt 14/Jul/2017
+\smf (prénom apotropaïque donné à l'enfant né après plusieurs bébés morts)
+\dt 11/Mar/2018
 
 \lx Súrugu
 \di b

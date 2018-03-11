@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+\_sh v3.0  1302 MDF 4.0
 
 \lang bam
 \name enciclop
@@ -53,6 +53,14 @@ solidarité et la justice)
 \xf
 \dt 15/Sep/2016
 
+\lx Álasɔn
+\mm Ála:n:Dieu
+\mm sɔ́n:v:gratifier
+\ps n
+\gf arachide.esp.
+\gvf
+\dt 09/Mar/2018
+
 \lx Alɛn Delɔsi
 \ps n.prop
 \gf Alain.Deloche.de.Noyelle
@@ -104,6 +112,12 @@ Monde)
 \xf
 \dt 15/Sep/2016
 
+\lx Alizemɛyiri
+\ps n
+\gf maladie.d'Alzheimer
+\gvf
+\dt 11/Mar/2018
+
 \lx AMALAN
 \ps n
 \gf ABR
@@ -134,13 +148,14 @@ Monde)
 \dt 15/Sep/2016
 
 \lx Ansaridini
+\va Ansaridiini
 \ps n
 \gf Ansar.Dine
 \gvf Ansar Eddine
 \smf (un groupe armé salafiste djihadiste)
 \xv
 \xf
-\dt 04/Jun/2016
+\dt 10/Mar/2018
 
 \lx Apekamu
 \ps n
@@ -151,6 +166,12 @@ Monde)
 \xv
 \xf
 \dt 02/Feb/2017
+
+\lx arabika
+\ps n
+\gf arabica
+\smf (sorte de café)
+\dt 11/Mar/2018
 
 \lx Aradisɔni
 \ps n
@@ -373,6 +394,12 @@ eu lieu en 624)4
 \xf
 \dt 15/Sep/2016
 
+\lx Biriko
+\ps n
+\gf maïse.esp.
+\gvf
+\dt 09/Mar/2018
+
 \lx Bitɔn
 \ps n.prop
 \gf Biton
@@ -395,6 +422,12 @@ eu lieu en 624)4
 \gvf Bonga
 \smf (roi des Mossi au XVe siècle)
 \dt 06/Feb/2016
+
+\lx Buda
+\ps n.prop
+\gf NOM.ETRG
+\gvf Bouddha
+\dt 11/Mar/2018
 
 \lx Busi
 \ps n.prop
@@ -488,6 +521,14 @@ de la guerre du Mali)
 \gf NOM.ETRG
 \gvf Donald Trump
 \dt 06/Feb/2016
+
+\lx Dúnanfana
+\mm dúnan:n:étranger
+\mm fàna:n:repas
+\ps n
+\gf haricot.esp.
+\gvf
+\dt 09/Mar/2018
 
 \lx Edeyɛmu
 \ps n
@@ -638,6 +679,13 @@ de la guerre du Mali)
 \xf
 \dt 07/Feb/2017
 
+\lx Fofoyi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Houfouët Boigny
+\smf (le premier président de Côte d'Ivoire)
+\dt 10/Mar/2018
+
 \lx Ganda Izo
 \ps n.prop
 \gf Ganda Izo
@@ -700,6 +748,13 @@ de la guerre du Mali)
 \xf
 \dt 23/Oct/2016
 
+\lx Hatisepisuti
+\ps n.prop
+\gf NOM.ETRG
+\gvf Hatchepsout
+\smf (une reigne à l'Ancien Egypte)
+\dt 10/Mar/2018
+
 \lx Hayile Selase
 \ps n.prop
 \gf Haïlé Selassié
@@ -743,6 +798,12 @@ de la guerre du Mali)
 \xv
 \xf
 \dt 07/Feb/2017
+
+\lx Hun
+\ps n
+\gf Hun
+\smf (un ancien peuple nomade originaire de l’Asie centrale)
+\dt 11/Mar/2018
 
 \lx Ibilisa
 \ps n.prop
@@ -839,6 +900,16 @@ la culture
 \xf
 \dt 30/Jan/2017
 
+\lx Jàkunbɛn
+\mm jà:n:sécheresse
+\mm kùnbɛn:n:rencontre-accueil
+\mm kùn:n:tête
+\mm bɛ̀n:n:accord
+\ps n
+\gf sorgho.esp.
+\gvf
+\dt 09/Mar/2018
+
 \lx jermani
 \va jɛrimani
 \ps n
@@ -862,6 +933,15 @@ la culture
 \gf Djingarber
 \smf (ancienne mosquée à Tombouktou)
 \dt 04/Feb/2016
+
+\lx Jɔ̀rɔbanna
+\mm jɔ̀rɔ:n:inquiétude
+\mm bán:v:finir
+\mm na:mrph:PFV.INTR
+\ps n
+\gf maïse.esp.
+\gvf
+\dt 09/Mar/2018
 
 \lx Judɛri
 \ps n.prop
@@ -933,7 +1013,7 @@ la culture
 
 \lx Karanta
 \ps n
-\gf Karante
+\gf Karanta
 \smf (fondation chargée de la promotion des langues nationales)
 \dt 27/Jan/2018
 
@@ -954,6 +1034,12 @@ la culture
 \xv
 \xf
 \dt 15/Sep/2016
+
+\lx Keleya
+\ps n
+\gf gombo.esp.
+\gvf
+\dt 09/Mar/2018
 
 \lx Keyopusi
 \ps n.prop
@@ -1003,11 +1089,12 @@ la culture
 \dt 05/Feb/2017
 
 \lx Kirisitɔfu Kolonbu
+\va Kirisitɔfu Kolɔnbu
 \ps n.prop
 \gf NOM.ETRG
 \gvf Christophe Columb
 \smf
-\dt 17/May/2017
+\dt 09/Mar/2018
 
 \lx Kiyan Zangi
 \ps n.prop
@@ -1050,12 +1137,27 @@ la culture
 \xf
 \dt 15/Sep/2016
 
+\lx Kɔ̀rɔbalen
+\mm kɔ̀rɔ:adj:vieux
+\mm ba:mrph:AUGM
+\mm len:mrph:PTCP.RES
+\ps n
+\gf haricot.esp.
+\gvf
+\dt 09/Mar/2018
+
 \lx Kuki
 \ps n.prop
 \gf NOM.ETRG
 \gvf Cook
 \smf
 \dt 17/May/2017
+
+\lx Kurunin
+\ps n
+\gf gombo.esp.
+\gvf
+\dt 09/Mar/2018
 
 \lx Kuwame Nkuruma
 \ps n.prop
@@ -1204,6 +1306,20 @@ la stabilisation au Mali
 \xf
 \dt 06/Mar/2017
 
+\lx Mɔki
+\va Mɔku
+\ps n
+\gf MOC
+\gvf Mécanisme opérationnel de coordination
+\dt 10/Mar/2018
+
+\lx Mɔngɔ Beti
+\ps n.prop
+\gf NOM.ETRG
+\gvf Mongo Beti
+\smf (le pseudonyme d'Alexandre Biyidi Awala, un écrivain camerounais)
+\dt 11/Mar/2018
+
 \lx Mújawo
 \va Múzawo
 \ps n
@@ -1221,6 +1337,21 @@ la stabilisation au Mali
 \smf (titre royal chez les Mossi)
 \gvf
 \dt 05/Feb/2016
+
+\lx Nàfama
+\mm nàfa:n:profit
+\mm ma:mrph:COM
+\ps n
+\gf maïse.esp.
+\gvf
+\dt 09/Mar/2018
+
+\lx Nekawo
+\ps n.prop
+\gf NOM.ETRG
+\gvf Nekao
+\smf (un pharaon, 610-595 BC)
+\dt 10/Mar/2018
 
 \lx NINA
 \ps n
@@ -1329,6 +1460,12 @@ céréalière
 \gf Orange.Money
 \gvf
 \dt 05/Feb/2016
+
+\lx orobisita
+\ps n
+\gf rubusta
+\smf (sorte de café)
+\dt 11/Mar/2018
 
 \lx Otoman
 \ps n.prop
@@ -1515,6 +1652,14 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \xf
 \dt 08/Feb/2017
 
+\lx Sankaranka
+\mm Sankaran:n.prop:TOP
+\mm ka:mrph:GENT
+\ps n
+\gf haricot.esp.
+\gvf
+\dt 09/Mar/2018
+
 \lx Sarili
 \ps n.prop
 \gf NOM.ETRG
@@ -1540,6 +1685,12 @@ Gbagbo)
 \gvf Charles Darwin
 \smf
 \dt 17/May/2017
+
+\lx Sasilɔn
+\ps n
+\gf gombo.esp.
+\gvf
+\dt 09/Mar/2018
 
 \lx Saworigan da Baraza
 \ps n.prop
@@ -1745,6 +1896,18 @@ Gbagbo)
 \xf
 \dt 23/Oct/2016
 
+\lx Toguna
+\ps n.prop
+\gf Toguna
+\smf (groupe agroindustriel)
+\dt 09/Mar/2018
+
+\lx Toroɲɔ
+\ps n
+\gf petit.mil.esp.
+\gvf
+\dt 09/Mar/2018
+
 \lx Toti
 \ps n
 \gf Thot
@@ -1849,6 +2012,14 @@ Gbagbo)
 \xf
 \dt 31/May/2017
 
+\lx Yɛ̀rɛwolo
+\mm yɛ̀rɛ̂:dtm:même
+\mm wólo:v:accoucher
+\ps n
+\gf haricot.esp.
+\gvf
+\dt 09/Mar/2018
+
 \lx zafu
 \ps n.prop
 \gf ABR
@@ -1864,6 +2035,13 @@ Gbagbo)
 \xv
 \xf
 \dt 05/Mar/2017
+
+\lx Zan Kiyangi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Zhang Qian
+\smf (explorateur et doplomate chinois du 2 siècle av. J.-C.)
+\dt 11/Mar/2018
 
 \lx Zan Poli
 \ps n.prop
@@ -1905,6 +2083,13 @@ et de la mécanisation de la préparation des nouveaux champs)
 \xf
 \dt 15/Sep/2016
 
+\lx Zɛngi Hi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Zheng He
+\smf (explorateur chinois de 14-15 siècles)
+\dt 11/Mar/2018
+
 \lx Zida
 \ps n.prop
 \gf NOM.ETRG
@@ -1922,6 +2107,19 @@ et de la mécanisation de la préparation des nouveaux champs)
 \xv
 \xf
 \dt 23/Feb/2017
+
+\lx Ziyanki Zangi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Xuanzang
+\smf (un moine bouddhiste chinois de 7 siècle qui a fait un voyage en Inde et en Arabie)
+\dt 11/Mar/2018
+
+\lx Ziyɛli wɛnikati
+\ps n
+\gf arachide.JL24
+\gvf sorte d'arachide
+\dt 09/Mar/2018
 
 \lx Zoze Eduwarado Dɔsi Santɔsi
 \ps n.prop

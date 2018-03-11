@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+\_sh v3.0  1302 MDF 4.0
 
 \lang bam
 \name yorow
@@ -22,6 +22,13 @@
 \gvf Abidjan
 \ru Абиджан
 \dt 15/Jul/2017
+
+\lx Abisini
+\ps n.prop
+\gf TOP
+\gvf Abyssinie
+\smf (ancien nom d'Ethiopie)
+\dt 11/Mar/2018
 
 \lx Abuja
 \ps n.prop
@@ -398,6 +405,13 @@ Salam, Cercle de Tombouctou)
 \ru Атлантический
 \dt 23/May/2010
 
+\lx Awa Dɛnbaya
+\ps n.prop
+\gf TOP
+\gvf Haya Dembaya
+\smf (commune dans le cercle et région de Kayes)
+\dt 11/Mar/2018
+
 \lx Awiɲɔn
 \ps n.prop
 \gf TOP
@@ -406,6 +420,13 @@ Salam, Cercle de Tombouctou)
 \xv
 \xf
 \dt 07/Feb/2017
+
+\lx Awuru
+\ps n.prop
+\gf TOP
+\gvf Aourou
+\smf (village dans le cercle et région de Kayes)
+\dt 11/Mar/2018
 
 \lx Azani
 \di b
@@ -987,6 +1008,13 @@ Comoé, Burkina Faso)
 \gvf Belgique
 \dt 05/Feb/2016
 
+\lx Bɛnɛna
+\ps n.pers
+\gf TOP
+\gvf Bénéna
+\smf (village et commune, cercle de Tominian, région de Ségou)
+\dt 10/Mar/2018
+
 \lx Bɛngazi
 \ty г.
 \ps n.prop
@@ -1077,9 +1105,8 @@ Comoé, Burkina Faso)
 \ps n.prop
 \gf TOP
 \gvf Boré
-\smf (village, chef-lieu de la commune Dangol Boré, cerce de
-Douentza, région de Mopti)
-\dt 03/Jun/2017
+\smf (village, chef-lieu de la commune Dangol Boré, cercle de Douentza, région de Mopti)
+\dt 10/Mar/2018
 
 \lx Bósola
 \va Bózola
@@ -1305,6 +1332,13 @@ Sikasso)
 \smf (nom d'un village)
 \dt 16/Oct/2017
 
+\lx Cɛparandugu
+\ps n.prop
+\gf TOP
+\gvf Tiéparandougou
+\smf (village, région de Ségou)
+\dt 09/Mar/2018
+
 \lx Cicɛnna
 \ps n.prop
 \gf TOP
@@ -1327,6 +1361,13 @@ Sikasso)
 \xv
 \xf
 \dt 04/Jun/2016
+
+\lx Dagi-Dagi
+\ps n.prop
+\gf TOP
+\gvf Dag Dag
+\smf (aéroport de Kayes)
+\dt 11/Mar/2018
 
 \lx Dahomɛ
 \ps n.prop
@@ -1603,6 +1644,14 @@ Ségou)
 \xf
 \dt 01/Jun/2016
 
+\lx Duna-Pɛn
+\ps n.prop
+\gf TOP
+\gvf Douna-Pen
+\smf (village, commune de Dioungani, cercle de Koro, région de
+Mopti)
+\dt 09/Mar/2018
+
 \lx Dunfin
 \ps n.prop
 \gf TOP
@@ -1641,6 +1690,12 @@ Ségou)
 \gvf Éthiopie
 \ru Эфиопия
 \dt 01/Jun/2016
+
+\lx Ekuwatɛri
+\ps n.prop
+\gf TOP
+\gvf Equateur
+\dt 11/Mar/2018
 
 \lx Eritere
 \ty гос.
@@ -1687,6 +1742,12 @@ Tadmekka)
 \gf TOP
 \gvf Égypte
 \dt 22/Feb/2017
+
+\lx Ɛndonezi
+\ps
+\gf
+\gvf
+\dt 11/Mar/2018
 
 \lx Ɛ̀ndu
 \va Híndi
@@ -2235,6 +2296,14 @@ Tombouctou)
 \xf
 \dt 01/Jun/2016
 
+\lx Gundoguru Dogɔn
+\ps n.prop
+\gf TOP
+\gvf Goundogourou Dogon
+\smf (village, commune de Diankabou, cercle de Koro, région de
+Mopti)
+\dt 09/Mar/2018
+
 \lx Guruma
 \ps n.prop
 \gf TOP
@@ -2272,6 +2341,13 @@ Tombouctou)
 \gvf Haribomo
 \cm (в Мали, к востоку от внутренней дельты Нигера)
 \dt 23/May/2010
+
+\lx Hɛrɛmakɔnɔ
+\ps n.prop
+\gf TOP
+\gvf Heremakono
+\smf (village, cercle de Kati)
+\dt 10/Mar/2018
 
 \lx Hipodɔrɔmu
 \ps n.prop
@@ -2568,6 +2644,13 @@ Koulikoro)
 de Koulikouro)
 \dt 23/May/2017
 
+\lx Jankabu
+\ps n.prop
+\gf TOP
+\gvf Diankabou
+\smf (commune du cercle de Koro, région de Mopti)
+\dt 09/Mar/2018
+
 \lx Jannegala
 \ps n.prop
 \gf TOP
@@ -2794,13 +2877,13 @@ région de Koulikoro)
 \xf
 \dt 26/Feb/2017
 
-\lx  Jɔ́nkala
+\lx Jɔ́nkala
 \ps n.prop
 \gf TOP
 \gvf
 \smf (un village de la commune de Sanso, cercle de Bougouni,
 région de Sikasso)
-\dt 16/Nov/2017
+\dt 23/Jan/2018
 
 \lx Jɔ́nkɔlɔnin
 \ps n.prop
@@ -2832,6 +2915,13 @@ région de Sikasso)
 \gvf quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
+
+\lx Jungani
+\ps n.prop
+\gf TOP
+\gvf Dioungani
+\smf (commune, cercle de Koro, région de Mopti)
+\dt 09/Mar/2018
 
 \lx Jura
 \ps n.prop
@@ -2977,6 +3067,13 @@ région de Sikasso)
 \xv
 \xf
 \dt 06/Feb/2017
+
+\lx Kalikuti
+\ps n.prop
+\gf TOP
+\gvf Calicut
+\gvf Kolkata
+\dt 10/Mar/2018
 
 \lx Kamale
 \ps n.prop
@@ -3596,6 +3693,13 @@ région de Koulikoro)
 \xf
 \dt 01/Feb/2017
 
+\lx Kɔdumandala
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, commune de Nonkon, cercle et région de Kolokani)
+\dt 10/Mar/2018
+
 \lx Kɔjalanda
 \ps n.prop
 \gf TOP
@@ -3699,12 +3803,13 @@ région de Koulikoro)
 \dt 25/Mar/2017
 
 \lx Kɔ́nɔdiminin
+\va Kɔ́nɔdimini
 \ps n.prop
 \gf TOP
 \gvf Konodimini
 \smf (village et commune rurale à l'ouest de Ségou, cercle et
 région de Ségou)
-\dt 24/Mar/2017
+\dt 11/Mar/2018
 
 \lx Kɔ́nɔwàri
 \va Kodiwari
@@ -3874,6 +3979,13 @@ de Bamako)
 \ps n.prop
 \gf TOP
 
+\lx Kuruma
+\ps n.prop
+\gf TOP
+\gvf Kourouma
+\smf (commune dans le cercle et la région de Sikasso)
+\dt 10/Mar/2018
+
 \lx Kurusa
 \va Kodosa
 \ty г.
@@ -3941,6 +4053,12 @@ de Bamako)
 \ru Лагос
 \dt 31/May/2016
 
+\lx Lahɛyi
+\ps n.prop
+\gf TOP
+\gvf  La Haye
+\dt 10/Mar/2018
+
 \lx Lasa
 \ps n.prop
 \gf TOP
@@ -3968,6 +4086,12 @@ Tombouctou)
 \xv
 \xf
 \dt 24/Oct/2016
+
+\lx Liban
+\ps n.prop
+\gf TOP
+\gvf Liban
+\dt 10/Mar/2018
 
 \lx Liberewili
 \va Liberewuli
@@ -4118,6 +4242,13 @@ Tombouctou)
 \gvf Malawi
 \dt 23/May/2010
 
+\lx Malɛndi
+\ps n.prop
+\gf TOP
+\gvf Malindi
+\smf (une villa au nord de Mombasa)
+\dt 10/Mar/2018
+
 \lx Malɛzi
 \va Malezi
 \ps n.prop
@@ -4150,6 +4281,13 @@ Tombouctou)
 \gvf Mamou
 \ru Маму
 \dt 23/May/2010
+
+\lx Manantali
+\ps n.prop
+\gf TOP
+\gvf Manantali
+\smf (barrage hydroélectrique sur le Bafing, à 90 km au sud-est de Bafoulabé)
+\dt 11/Mar/2018
 
 \lx Mànden
 \ps n.prop
@@ -4280,6 +4418,13 @@ Koulikoro)
 \xv
 \xf
 \dt 01/Jun/2016
+
+\lx Medini
+\ps n.prop
+\gf TOP
+\gvf Médine
+\smf (ville de commune Haya Dembaya, cercle et région de Kayes)
+\dt 11/Mar/2018
 
 \lx Mediterane
 \ty м.
@@ -4576,6 +4721,14 @@ région de Ségou)
 \gvf Nara
 \dt 05/Feb/2016
 
+\lx Nawajɛ
+\ps n.prop
+\gf TOP
+\gvf Naouadié
+\smf (village, commune de Dioungani, cercle de Koro, région de
+Mopti)
+\dt 09/Mar/2018
+
 \lx Nbaban
 \ty г.
 \ps n.prop
@@ -4628,6 +4781,13 @@ région de Ségou)
 \gvf
 \smf (nom d'un village)
 \dt 15/Oct/2017
+
+\lx Ngaara
+\ps n.prop
+\gf TOP
+\gvf N'Gara
+\smf (village et commune, cercle et région de Ségou)
+\dt 11/Mar/2018
 
 \lx Ngara
 \ps n.prop
@@ -4682,6 +4842,13 @@ région de Ségou)
 \gvf N'Koumandougou
 \smf (commune, cercle de Ségou)
 \dt 20/Mar/2017
+
+\lx Nkuma
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, cercle de Douentza, région de Mopti))
+\dt 10/Mar/2018
 
 \lx Nɔgɔlaso
 \ps n.prop
@@ -6076,6 +6243,14 @@ village d'Essouk, région de Kidal)
 \xf
 \dt 01/Feb/2017
 
+\lx Tanfadala
+\ps n.prop
+\gf TOP
+\gvf Tanfadala
+\smf (village, commune de Dioungani, cercle de Koro, région de
+Mopti)
+\dt 09/Mar/2018
+
 \lx Tanzani
 \ty гос.
 \ps n.prop
@@ -6099,6 +6274,12 @@ village d'Essouk, région de Kidal)
 \smf (un barrage hydroélectrique en construction sur le fleuve
 Niger, près de Bourem, 130 km à l'ouest de Gao)
 \dt 03/Jun/2017
+
+\lx Tayilandi
+\ps n.prop
+\gf TOP
+\gvf Thaïlande
+\dt 11/Mar/2018
 
 \lx Tekururu
 \ps n.prop
@@ -6175,11 +6356,11 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \lx Timisa
 \ps n.prop
 \gf TOP
-\gvf
+\gvf Timissa
 \smf (nom d'un village)
 \xv
 \xf
-\dt 04/Jun/2016
+\dt 09/Mar/2018
 
 \lx Timiyawini
 \ps n.prop
@@ -6366,6 +6547,12 @@ invahisseurs marocains et les Songhaï en 1591)
 \smf (village, région de Ségou, au bord du Niger à l'ouest de Ségou)
 \dt 15/Jun/2017
 
+\lx Tulusi
+\ps n.prop
+\gf TOP
+\gvf Toulouse
+\dt 11/Mar/2018
+
 \lx Tumunba
 \ps n.prop
 \gf TOP
@@ -6412,6 +6599,13 @@ invahisseurs marocains et les Songhaï en 1591)
 \gvf Turquie
 \ru Турция
 \dt 23/Oct/2016
+
+\lx Tusegela
+\ps n.prop
+\gf TOP
+\gvf Touséguéla
+\smf (village, sercle de Kolondiéba, région de Sikasso)
+\dt 10/Mar/2018
 
 \lx Tusɔna
 \ps n.prop
@@ -6535,6 +6729,12 @@ d'Ouargla)
 \smf (commune, cercle de Kati, région de Koulikoro)
 \dt 09/Apr/2017
 
+\lx Wenizi
+\ps n.prop
+\gf TOP
+\gvf Venise
+\dt 09/Mar/2018
+
 \lx Weta
 \ps n.prop
 \gf TOP
@@ -6608,9 +6808,9 @@ cercle de Kati)
 \lx Wɔlɔjɛdo
 \ps n.prop
 \gf TOP
-\gvf
+\gvf Ouolodièdo
 \smf (village, commune de Nonkon, cercle et région de Kolokani)
-\dt 17/May/2017
+\dt 10/Mar/2018
 
 \lx Wɔsila
 \ps n.prop
@@ -6620,12 +6820,13 @@ cercle de Kati)
 \dt 09/Apr/2017
 
 \lx Yámanin
+\va Yámani
 \ty гос.
 \ps n.prop
 \gf TOP
 \gvf Yémen
 \ru Йемен
-\dt 23/May/2010
+\dt 11/Mar/2018
 
 \lx Yanfolila
 \ps n.prop
@@ -6837,6 +7038,12 @@ région de Koulikoro)
 \gf TOP
 \gvf
 \dt 23/May/2010
+
+\lx Zɔrizi
+\ps n.prop
+\gf TOP
+\gvf Géorgie
+\dt 11/Mar/2018
 
 \lx Zuwanɛsiburugi
 \ps n.prop
