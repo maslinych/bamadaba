@@ -6017,6 +6017,13 @@ feu
 \gf avec.fracas.et.subitement
 \dt 16/Aug/2006
 
+\lx báwù
+\va báw
+\ps adv
+\gf sans.limite
+\gvf en débordant
+\dt 11/Mar/2018
+
 \lx bawule
 \ps n
 \gf Baoulé
@@ -14545,6 +14552,13 @@ enfants
 \ps onomat
 \gf bourdonnement
 \dt 19/Jan/2015
+
+\lx càani
+\ps v
+\vl vt
+\gf tresser
+\gvf torsader
+\dt 11/Mar/2018
 
 \lx cájo
 \ps n
@@ -27319,12 +27333,11 @@ chefs religieux et représentants de l'administration
 \dt 12/Jun/2016
 
 \lx dórogo
-\va dórogoto
 \ps v
 \vl vi
 \gf devenir.visqueux
 \gvf
-\dt 10/Mar/2018
+\dt 11/Mar/2018
 
 \lx dórogolen
 \mm dórogo:v:serrer
@@ -27334,6 +27347,15 @@ chefs religieux et représentants de l'administration
 \smf (néologisme : on lie les éléments dans l'orthographe)
 \lt (serrer.suf.pp)
 \dt 16/Aug/2006
+
+\lx dòrogoto
+\src KT
+\ps v
+\vl vi
+\gf pourrir
+\gvf s'infécter
+\gvf se décomposer
+\dt 11/Mar/2018
 
 \lx dórokili
 \mm dóro:n:bourses
@@ -30689,6 +30711,14 @@ gens)
 \xv
 \xf
 \dt 05/Feb/2017
+
+\lx esansi
+\va esanzi
+\bw Fr. essence
+\ps n
+\gf essence
+\smf (carburant)
+\dt 11/Mar/2018
 
 \lx éwe
 \ps intj
@@ -36073,6 +36103,7 @@ frontières, forestiers, sapeurs)
 \va fɔ́ɲɔ
 \va fɔ́ɲɔn
 \ps n
+\ms 1
 \gf vent
 \gvf air
 \smf (que l'on respire)
@@ -36087,7 +36118,9 @@ frontières, forestiers, sapeurs)
 \xf prendre l'air, un temps de récréation
 \xv fíyɛn mìnɛ k'à bìla
 \xf respirer  (inspirer / expirer)
-\dt 26/Sep/2006
+\ms 2
+\gvf gaz
+\dt 11/Mar/2018
 
 \lx fìri
 \va fìiri
@@ -47976,6 +48009,12 @@ calebasses)
 \gvf
 \smf
 \dt 20/Mar/2017
+
+\lx jàtebɔ́
+\ps
+\gf
+\gvf
+\dt 11/Mar/2018
 
 \lx jàtekalan
 \mm jàte:n:compte
@@ -82628,6 +82667,14 @@ invulnérable aux serpents, aux fauves ...)
 \smf (cercle ou région)
 \dt 04/Jul/2017
 
+\lx màraden
+\mm màra:n:garde
+\mm dén:n:enfant
+\ps n
+\gf sujet
+\smf (personne soumise à l'autorité d'état, surtou monarchique)
+\dt 11/Mar/2018
+
 \lx màrahaba
 \va màrhaba
 \ph [marhaba]
@@ -114922,11 +114969,15 @@ trompe)
 \va síntin
 \va síndi
 \ps n
+\ms 1
 \gf origine
 \sy búruju
 \sy bɔ́kolo
 \sy sínji
-\dt 19/Dec/2012
+\ms 2
+\gvf source
+\smf (d'eau)
+\dt 11/Mar/2018
 
 \lx sínti
 \va síndi
@@ -115698,6 +115749,14 @@ donne d'excellentes fibres)
 \gvf interdit sexuel
 \smf entre personnes de castes différentes, de parenté trop rapprochée
 \dt 16/Aug/2006
+
+\lx sitɛrini
+\va sitɛrinin
+\bw Fr. citerne
+\ps n
+\gf citerne
+\gvf
+\dt 11/Mar/2018
 
 \lx sìtikara
 \va sìtikaran
@@ -116813,6 +116872,20 @@ donne d'excellentes fibres)
 \xv ò bɛ́  né mà íko ntòri jɔ̀len ń'á sònsorolen
 \xf cela m'est indifférent (c'est pour moi comme un crapaud debout ou accroupi)
 \dt 30/Mar/2014
+
+\lx sònsoronbugu
+\mm sònsoron:v:s'accroupir
+\mm bùgu:n:paillote
+\va sònsorobugu
+\mm sònsoro:v:s'accroupir
+\mm bùgu:n:paillote
+\va sònsoribugu
+\mm sònsori:v:s'accroupir
+\mm bùgu:n:paillote
+\ps n
+\gf quartier.spontané
+\gvf
+\dt 11/Mar/2018
 
 \lx sònya
 \mm sòn:n:voleur
@@ -122558,13 +122631,13 @@ pieton)
 \dt 16/Aug/2006
 
 \lx táwu
-\ps adv.ex
+\ps adv
 \ms 1
 \gf complètement
 \gvf tout à fait
 \ms 2
 \gvf fortement
-\dt 03/Mar/2018
+\dt 11/Mar/2018
 
 \lx tàya
 \ve (f)
@@ -132777,6 +132850,7 @@ Mali)
 \dt 11/Nov/2007
 
 \lx yàalayaalafura
+\mm B:mrph:NMLZ2
 \mm yáala:n:promenade
 \mm yáala:n:promenade
 \mm fúra:n:feuille
@@ -134573,13 +134647,14 @@ comportement (LD p.5)
 
 \lx yíranyiran
 \va yáranyaran
+\va yílanyilan
 \ps v
 \vl vi
 \ms 1
 \gf hésiter
 \ms 2
 \gvf avoir peur
-\dt 26/Sep/2006
+\dt 11/Mar/2018
 
 \lx yíranyiran
 \ps n

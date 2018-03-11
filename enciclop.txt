@@ -630,6 +630,13 @@ de la guerre du Mali)
 \smf
 \dt 17/May/2017
 
+\lx Faransisi Daraki
+\ps n.prop
+\gf NOM.TRG
+\gvf Francis Drake
+\smf (corsaire et explorateur britannique du 16 siècle)
+\dt 11/Mar/2018
+
 \lx Faransuwa Holandi
 \ps n.prop
 \gf NOM.ETRG
@@ -2071,6 +2078,14 @@ après avoir été plus ou moins abandonnée à la suite de
 périodes d'abondance (1950-1970), de l'éclatement des familles
 et de la mécanisation de la préparation des nouveaux champs)
 \dt 28/Oct/2017
+
+\lx zayiri
+\va zayɛri
+\ps n
+\gf ABR
+\gvf ZAER
+\gvf Zone d’animation et d’expansion rurale 
+\dt 11/Mar/2018
 
 \lx Zesi
 \ps n.prop

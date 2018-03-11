@@ -1041,6 +1041,13 @@ Comoé, Burkina Faso)
 \xf
 \dt 01/Feb/2017
 
+\lx Biriko
+\ps n.prop
+\gf TOP
+\gvf Birgo
+\smf (village, commune de Sirakoro, cercle de Kita, région de Kayes)
+\dt 11/Mar/2018
+
 \lx Birimani
 \ps n.prop
 \gf TOP
@@ -1415,6 +1422,13 @@ Kirina, lieu de bataille entre Soundiata et Soumangourou)
 \gf TOP
 \gvf Damas
 \dt 23/May/2010
+
+\lx Danbana
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, cercle de Kita)
+\dt 11/Mar/2018
 
 \lx Dandugu
 \ps n.prop
@@ -1942,6 +1956,13 @@ Koulikoro)
 \xv
 \xf
 \dt 07/Feb/2017
+
+\lx Fɛnkolon
+\ps n.prop
+\gf TOP
+\gvf Finkolon
+\smf (village, cercle et région de Sikasso)
+\dt 11/Mar/2018
 
 \lx Fɛsi
 \ps n.prop
@@ -3834,6 +3855,12 @@ région de Ségou)
 \smf (village historique)
 \dt 24/Jul/2017
 
+\lx Kɔrisika
+\ps n.prop
+\gf TOP
+\gvf Corse
+\dt 11/Mar/2018
+
 \lx Kɔrɔdu
 \ps n.prop
 \gf TOP
@@ -4185,6 +4212,13 @@ Tombouctou)
 \ru Лусака
 \dt 23/May/2010
 
+\lx Lutana
+\ps n.prop
+\gf TOP
+\gvf Loutana
+\smf (village, commune de Klela, cercle et région de Sikasso)
+\dt 11/Mar/2018
+
 \lx Luwanda
 \ty г.
 \ps n.prop
@@ -4324,6 +4358,13 @@ Tombouctou)
 \xv
 \xf
 \dt 04/Jun/2016
+
+\lx Marakakongo
+\ps n.prop
+\gf TOP
+\gvf Marakakongo
+\smf (commune, cercle et région de Koulikoro)
+\dt 11/Mar/2018
 
 \lx Marakala
 \ps n.prop
@@ -4696,6 +4737,13 @@ Ségou)
 \ru Намибия
 \dt 23/May/2010
 
+\lx Nangola
+\ps n.prop
+\gf TOP
+\gvf Nangola
+\smf (commune dans le cercle de Dioïla, région de Koulikoro)
+\dt 11/Mar/2018
+
 \lx Nangolo
 \ps n.prop
 \gf TOP
@@ -5050,6 +5098,12 @@ gauche du Niger)
 \cm (столица древнего Мали)
 \dt 23/May/2010
 
+\lx Ɲanina
+\ps n.prop
+\gf TOP
+\gvf
+\dt 11/Mar/2018
+
 \lx Ɲárɛla
 \va Ɲáarela
 \va Ɲáarɛla
@@ -5098,6 +5152,13 @@ gauche du Niger)
 \gvf quartier.à.Bamako
 \cm (в Бамако)
 \dt 05/Dec/2010
+
+\lx Ɲɔna
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village, commune de Nangola, cercle de Dioïla, région de Koulikoro)
+\dt 11/Mar/2018
 
 \lx Ɲɔnɔ
 \va Ɲɔnɔn
@@ -5642,6 +5703,13 @@ Ségou)
 \xv
 \xf
 \dt 04/Jun/2016
+
+\lx Sebu
+\ps n.prop
+\gf TOP
+\gvf Cebu
+\smf (une île des Philippines)
+\dt 11/Mar/2018
 
 \lx Segɛla
 \ps n.prop
