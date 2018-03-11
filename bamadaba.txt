@@ -812,7 +812,8 @@ les deux flancs'
 \gf radio
 \ms 2
 \gvf radiothérapie
-\dt 09/Mar/2018
+\gvf rayons X
+\dt 11/Mar/2018
 
 \lx áraka
 \va árakan
@@ -9013,12 +9014,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm kɛ́:v:faire
 \ps n
 \lat Melanophoyx ardesiaca, Egretta ardesiaca
-\gf héron.noir
-\gvf héron blongios, 
-\gvf blongios ardoisé 
+\gf héron.noir
+\gvf héron blongios, 
+\gvf blongios ardoisé
 \gvf oiseau parapluie
 \smf
-\dt 18/Aug/2017
+\dt 11/Mar/2018
 
 \lx bíriki
 \ps n
@@ -83946,20 +83947,13 @@ des engagements
 \smf (péj. imitation d'une expression courante en peul o bimi = je dis)
 \dt 16/Aug/2006
 
-\lx midi
-\ps n
-\gf midi
-\gvf
-\smf
-\bw Fr. mid
-\dt 28/Oct/2017
-
 \lx mídi
 \ps n
+\bw Fr. midi
 \gf midi
 \gvf
 \smf
-\dt 09/May/2017
+\dt 11/Mar/2018
 
 \lx míiri
 \ps n
@@ -110353,12 +110347,15 @@ paniers, sègi)
 \mm sé:n:arrivée
 \mm kó:n:affaire
 \ps n
-\gf le.maximum
+\gf effort
+\gvf pouvoir
+\gvf possible
+\gvf le maximum
 \xv ù y'ú séko kɛ́
 \xf ils ont fait ce qu'ils ont pu, ils ont fait tous leurs efforts
 \xv jìginnimuso b'ú séko  dàmajira kɛ́  fɔ́  fílan kà nà
 \xf les matrones font tout ce qu'elles peuvent pour que vienne le placenta
-\dt 27/Jan/2018
+\dt 11/Mar/2018
 
 \lx sékola
 \mm sé:n:arrivée
@@ -132779,7 +132776,8 @@ Mali)
 \xf à chaque retour de promenade ..., il faut se laver les mains avant de manger (donniya 5/6 p.32)
 \dt 11/Nov/2007
 
-\lx yáalayaalafura
+\lx yàalayaalafura
+\mm B:mrph:NMLZ2
 \mm yáala:n:promenade
 \mm yáala:n:promenade
 \mm fúra:n:feuille
