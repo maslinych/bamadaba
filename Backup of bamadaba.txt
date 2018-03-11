@@ -1058,14 +1058,14 @@ les deux flancs'
 \dt 26/Sep/2006
 
 \lx báabugubaara
-\mm Báabugu:n.pers.NOM.M
+\mm Báabugu:n.prop.NOM.M
 \mm báara:n:travail
 \ve (-bk)
 \ps n
 \gf travail.dur
 \smf travail non rémunéré, affaire compliquée
 \lt ( ? . travail)
-\dt 09/Mar/2018
+\dt 11/Mar/2018
 
 \lx bàadɛ
 \va bàdɛ
@@ -4200,6 +4200,13 @@ Fleurs spectaculaires
 \xv
 \xf
 \dt 31/Jan/2017
+
+\lx bandi
+\bw Fr. bandit
+\ps n
+\gf bandit
+\gvf
+\dt 11/Mar/2018
 
 \lx bàndigi
 \va bàdigi
@@ -27353,7 +27360,7 @@ chefs religieux et représentants de l'administration
 \ps v
 \vl vi
 \gf pourrir
-\gvf s'infécter
+\gvf s'infecter
 \gvf se décomposer
 \dt 11/Mar/2018
 
@@ -48011,9 +48018,12 @@ calebasses)
 \dt 20/Mar/2017
 
 \lx jàtebɔ́
-\ps
-\gf
-\gvf
+\mm jàte:n:compte
+\mm bɔ́:v:sortir
+\ps v
+\vl vt
+\gf compter
+\gvf calculer
 \dt 11/Mar/2018
 
 \lx jàtekalan
@@ -103186,10 +103196,11 @@ postposition, n'est pas accepté par tous les locuteurs)
 
 \lx ɲɔ́gɔndɛmɛ
 \mm ɲɔ́gɔn:prn:RECP
+\mm dɛ̀mɛ:n:aide
 \ps n
 \gf entraide
 \gvf
-\dt 10/Mar/2018
+\dt 11/Mar/2018
 
 \lx ɲɔ́gɔndigidigi
 \mm ɲɔ́gɔn:prn:RECP
