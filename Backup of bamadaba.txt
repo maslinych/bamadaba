@@ -5933,10 +5933,10 @@ grande fête peule)
 \mm wálan:adj:moyen
 \mm nin:mrph:DIM
 \ps n
-\gf jeune femme mariée
-\gvf femme d'âge intermédiaire
+\gf jeune femme mariée
+\gvf femme d'âge intermédiaire
 \smf (avec ou sans enfants, encore séduisante)
-\dt 11/Mar/2018
+\dt 12/Mar/2018
 
 \lx báwò
 \ps conj
@@ -6752,10 +6752,10 @@ rhume, toux
 \mm bɛ́ɛ:prn:chacun
 \mm sɔ̀gɔ:v:percer
 \ps adj
-\gf entièrement.brodé
+\gf entièrement.brodé
 \gvf
 \smf
-\dt 18/Aug/2017
+\dt 12/Mar/2018
 
 \lx bɛ́ɛyafanga
 \mm bɛ́ɛ:n:tout
@@ -12712,10 +12712,10 @@ toujours (pro)
 \mm bɔ̀n:v:répandre
 \mm kàn:pp:sur
 \ps n
-\gf lèpre.à.pustules
-\gvf éruptions cutanées
+\gf lèpre.à.pustules
+\gvf éruptions cutanées
 \smf
-\dt 15/Aug/2017
+\dt 12/Mar/2018
 
 \lx bɔ́nnɔ
 \mm bɔ́:v:sortir
@@ -14606,12 +14606,12 @@ enfants
 \dt 26/Sep/2006
 
 \lx cáku
-\mm cáko
-\mm cáfu
+\va cáko
+\va cáfu
 \ps n
 \gf fibres.de.sisal
 \gvf
-\dt 09/Mar/2018
+\dt 11/Mar/2018
 
 \lx cálawu
 \va yálawu
@@ -20591,15 +20591,15 @@ le repas
 \mm mìnɛ:v:attraper
 \ps n
 \ms 1
-\gf interprète
-\gvf héraut
+\gf interprète
+\gvf héraut
 \smf (griot qui reprend à haute voix les
 paroles d’un chef, pour que la foule
 les entende)
 \ms 2
 \gvf réplique
 \gvf réponse irrévérencieuse
-\dt 19/Aug/2017
+\dt 12/Mar/2018
 
 \lx dálamìnɛ
 \mm dá:n:bouche
@@ -32548,7 +32548,9 @@ mais plus large que sóli; pour sarcler en profondeur)
 \gf pierre
 \gvf roche
 \sy kába
-\dt 26/Sep/2006
+\xv ní fára kárila bá kɔ́nɔ
+\xf en cas de catastrophe
+\dt 12/Mar/2018
 
 \lx fára
 \ps n
@@ -63672,6 +63674,13 @@ champs)
 \smf (mélodie traditionnelle)
 \dt 15/May/2016
 
+\lx korosokarasa
+\ps n
+\src Mahamadou Konta
+\gf affection.cutanée
+\smf (démangeaison avec des boutons)
+\dt 12/Mar/2018
+
 \lx kòsa
 \bw fr: costard
 \ps n
@@ -65411,10 +65420,10 @@ champs)
 \mm kɔ̀mɔ:n:société.initiatique
 \mm súruku:n:hyène
 \ps n
-\gf fétiche.kòmò-hyène
-\smf un des fétiches de la société du kòmò
+\gf fétiche.kòmò-hyène
+\smf un des fétiches de la société du kòmò
 \rem b : mirliton en bambou ou en métal : celui qui l'utilise joue les devins
-\dt 11/Nov/2007
+\dt 12/Mar/2018
 
 \lx kɔ̀mɔtu
 \mm kɔ̀mɔ:n:société.initiatique
@@ -66737,8 +66746,8 @@ ou une proposition)
 \mm júgu:vq:mauvais
 \mm ya:mrph:ABSTR
 \ps v
-\gf rendre.méchant
-\dt 11/Sep/2017
+\gf rendre.méchant
+\dt 12/Mar/2018
 
 \lx kɔ̀nɔnakasi
 \mm kɔ́nɔ:n:ventre
@@ -78739,7 +78748,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ps v
 \ms 1
 \vl vt
-\gf sélectionner
+\gf sélectionner
 \gvf mettre à part
 \smf (choisir, faire acception de
 personne)
@@ -78747,7 +78756,7 @@ personne)
 \ms 2
 \vl vt
 \gvf fouiller
-\dt 20/Aug/2017
+\dt 12/Mar/2018
 
 \lx láwòyo
 \mm lá:mrph:CAUS
@@ -84942,6 +84951,14 @@ nord-est
 \sd ampe
 \dt 19/Aug/2006
 
+\lx mìsiku
+\mm mìsi:n:bovidé
+\mm kú:n:queue
+\ps n
+\gf parfum
+\gvf ensence
+\dt 12/Mar/2018
+
 \lx mìsikunbere
 \mm mìsi:n:bovidé
 \mm kúnbere:n:genou
@@ -91134,10 +91151,10 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \lx ngòngon
 \ps n
 \lt Vetiveria nigritana, Vetiveria fulvibarbis
-\gf vétiver
+\gf vétiver
 \gvf
 \smf
-\dt 22/Jun/2017
+\dt 12/Mar/2018
 
 \lx ngónìnjɛ́
 \mm nin:mrph:DIM
@@ -109436,7 +109453,8 @@ épuisés
 \ps n
 \gf charbon
 \gvf
-\dt 10/Mar/2018
+\src ton B Boubacar Diarra, H Mahamadou Konta
+\dt 12/Mar/2018
 
 \lx sárada
 \mm sára:n:petits.tas
@@ -114488,9 +114506,9 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \mm ya:mrph:ABSTR
 \mm sàma:v:tirer.à.soi
 \ps n
-\gf rivalité
+\gf rivalité
 \gvf
-\dt 11/Mar/2018
+\dt 12/Mar/2018
 
 \lx sínbara
 \mm sín:n:sein
@@ -116894,9 +116912,9 @@ donne d'excellentes fibres)
 \mm sònsori:v:s'accroupir
 \mm bùgu:n:paillote
 \ps n
-\gf quartier.spontané
+\gf quartier.spontané
 \gvf
-\dt 11/Mar/2018
+\dt 12/Mar/2018
 
 \lx sònya
 \mm sòn:n:voleur
@@ -121861,10 +121879,10 @@ fiançailles
 \mm bìn:v:tomber
 \mm bàna:n:maladie
 \ps n
-\gf épilepsie
+\gf épilepsie
 \gvf
 \smf
-\dt 18/Aug/2017
+\dt 12/Mar/2018
 
 \lx tàma
 \va tàman
@@ -122644,11 +122662,11 @@ pieton)
 \lx táwu
 \ps adv
 \ms 1
-\gf complètement
-\gvf tout à fait
+\gf complètement
+\gvf tout à fait
 \ms 2
 \gvf fortement
-\dt 11/Mar/2018
+\dt 12/Mar/2018
 
 \lx tàya
 \ve (f)
@@ -125536,10 +125554,10 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm tìɲɛ:n:vérité
 \mm só:n:maison
 \ps n
-\gf au-delà
+\gf au-delà
 \gvf ciel
 \smf (pour les défunts)
-\dt 11/Mar/2018
+\dt 12/Mar/2018
 
 \lx tìɲɛtigiya
 \mm tìɲɛ:n:vérité
