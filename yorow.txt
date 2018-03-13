@@ -1108,6 +1108,13 @@ Comoé, Burkina Faso)
 \xf
 \dt 07/Feb/2017
 
+\lx Boni
+\ps n.prop
+\gf TOP
+\gvf Boni
+\smf (village, cetre de commune Haïré, commune de Douentza, région de Mopti)
+\dt 13/Mar/2018
+
 \lx Bore
 \ps n.prop
 \gf TOP
@@ -4663,11 +4670,12 @@ Ségou)
 \dt 23/May/2010
 
 \lx Mɔninpebugu
+\va Moninpebugu
 \ps n.prop
 \gf TOP
 \gvf Monimpébougou
 \smf (commune, cercle de Macina)
-\dt 20/Mar/2017
+\dt 13/Mar/2018
 
 \lx Mɔrɔbiya
 \va Mɔnrɔviya
@@ -4768,6 +4776,13 @@ région de Ségou)
 \gf TOP
 \gvf Nara
 \dt 05/Feb/2016
+
+\lx Narena
+\ps n.prop
+\gf TOP
+\gvf Naréna
+\smf (village et commune, cercle de Kangaba, région de Koulikoro, à la frontière avec la Guinée)
+\dt 13/Mar/2018
 
 \lx Nawajɛ
 \ps n.prop

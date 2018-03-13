@@ -1009,11 +1009,11 @@ Comoé, Burkina Faso)
 \dt 05/Feb/2016
 
 \lx Bɛnɛna
-\ps n.pers
+\ps n.prop
 \gf TOP
 \gvf Bénéna
 \smf (village et commune, cercle de Tominian, région de Ségou)
-\dt 10/Mar/2018
+\dt 11/Mar/2018
 
 \lx Bɛngazi
 \ty г.
@@ -4663,11 +4663,12 @@ Ségou)
 \dt 23/May/2010
 
 \lx Mɔninpebugu
+\va Moninpebugu
 \ps n.prop
 \gf TOP
 \gvf Monimpébougou
 \smf (commune, cercle de Macina)
-\dt 20/Mar/2017
+\dt 13/Mar/2018
 
 \lx Mɔrɔbiya
 \va Mɔnrɔviya
@@ -4768,6 +4769,13 @@ région de Ségou)
 \gf TOP
 \gvf Nara
 \dt 05/Feb/2016
+
+\lx Narena
+\ps n.prop
+\gf TOP
+\gvf Naréna
+\smf (village et commune, cercle de Kangaba, région de Koulikoro, à la frontière avec la Guinée)
+\dt 13/Mar/2018
 
 \lx Nawajɛ
 \ps n.prop

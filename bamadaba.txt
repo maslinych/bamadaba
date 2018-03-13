@@ -1034,8 +1034,8 @@ les deux flancs'
 \lx báabi
 \ps n
 \gf petit.oiseau
-\smf (totème des Kouyaté)
-\dt 10/Mar/2018
+\smf (totem des Kouyaté)
+\dt 12/Mar/2018
 
 \lx báabu
 \ps n
@@ -1058,14 +1058,14 @@ les deux flancs'
 \dt 26/Sep/2006
 
 \lx báabugubaara
-\mm Báabugu:n.prop.NOM.M
+\mm Báabugu:n.prop:NOM.M
 \mm báara:n:travail
 \ve (-bk)
 \ps n
 \gf travail.dur
 \smf travail non rémunéré, affaire compliquée
 \lt ( ? . travail)
-\dt 11/Mar/2018
+\dt 13/Mar/2018
 
 \lx bàadɛ
 \va bàdɛ
@@ -4006,6 +4006,14 @@ Fleurs spectaculaires
 \lt ( ? .  ?  )
 \dt 26/Sep/2006
 
+\lx bànangɔmɛ
+\mm bànan:n:fromager
+\mm gɔ̀mɛ:n:siège
+\ps n
+\lat Dysdercus cingulatus, Dysdercus koenigii
+\gf punaise.du.cotonnier
+\dt 13/Mar/2018
+
 \lx bàna-yɛ̀lɛmata
 \mm bàna:n:maladie
 \mm yɛ̀lɛma:v:changer
@@ -4201,12 +4209,12 @@ Fleurs spectaculaires
 \xf
 \dt 31/Jan/2017
 
-\lx bandi
+\lx bándi
 \bw Fr. bandit
 \ps n
 \gf bandit
 \gvf
-\dt 11/Mar/2018
+\dt 13/Mar/2018
 
 \lx bàndigi
 \va bàdigi
@@ -5933,10 +5941,10 @@ grande fête peule)
 \mm wálan:adj:moyen
 \mm nin:mrph:DIM
 \ps n
-\gf jeune femme mariée
+\gf jeune.femme.mariée
 \gvf femme d'âge intermédiaire
 \smf (avec ou sans enfants, encore séduisante)
-\dt 12/Mar/2018
+\dt 13/Mar/2018
 
 \lx báwò
 \ps conj
@@ -14560,13 +14568,6 @@ enfants
 \gf bourdonnement
 \dt 19/Jan/2015
 
-\lx càani
-\ps v
-\vl vt
-\gf tresser
-\gvf torsader
-\dt 11/Mar/2018
-
 \lx cájo
 \ps n
 \gf bétail.bai.en.tête-blanc.aux.pattes
@@ -15293,7 +15294,7 @@ médicinales
 \vl vt
 \gvf torsader des fils
 \smf (en les faisant rouler ...)
-\dt 21/Feb/2014
+\dt 13/Mar/2018
 
 \lx cɛɛrucɛɛru
 \va cɛnruncɛnrun
@@ -17978,6 +17979,13 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \sy dàbadamɔ
 \dt 15/Mar/2017
 
+\lx dàbada
+\ps n
+\gf lame.de.houe
+\xv kà à tà mɔ̀gɔ ka dàbada mà
+\xf ce conformer à ce que la personne veut
+\dt 13/Mar/2018
+
 \lx dàbadaba
 \mm ba:mrph:AUGM
 \ps n
@@ -18012,6 +18020,16 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \lt (dabada.rouge)
 \sd euph
 \smf ---> 20/ 30 cm (efficace contre les amibes)
+
+\lx dàbadugukolo
+\mm dàba:n:houe
+\mm dùgukolo:n:terre
+\mm dùgu:n:terre
+\mm kólo:n:os
+\ps n
+\gf terre.arable
+\gvf
+\dt 13/Mar/2018
 
 \lx dábaji
 \mm dába:n:encre
@@ -25743,6 +25761,14 @@ chefs religieux et représentants de l'administration
 \sy díɲɛlaban
 \dt 16/Aug/2006
 
+\lx diparɔpisi
+\ps n
+\lat Diparopsis castanea
+\gf noctuelle.rouge.du.cotonnier
+\gvf ver rouge du cotonnier
+\smf (un parasite de coton)
+\dt 13/Mar/2018
+
 \lx dípulɔmu
 \ps n
 \gf diplôme
@@ -30665,6 +30691,14 @@ gens)
 \xf eh (toi) là-bas ! Ne fais pas ça !
 \dt 26/Sep/2006
 
+\lx eliyotisi
+\ps n
+\lat Heliothis virescens
+\gf noctuelle.verdoyante
+\gvf noctuelle des bourgeons du tabac
+\smf (une parasite de coton qui mange les fruits non-mûrs)
+\dt 13/Mar/2018
+
 \lx Enedi
 \ps n.prop
 \gf TOP
@@ -30719,13 +30753,13 @@ gens)
 \xf
 \dt 05/Feb/2017
 
-\lx esansi
-\va esanzi
+\lx ésansi
+\va ésanzi
 \bw Fr. essence
 \ps n
 \gf essence
 \smf (carburant)
-\dt 11/Mar/2018
+\dt 13/Mar/2018
 
 \lx éwe
 \ps intj
@@ -34321,9 +34355,9 @@ bien (dicton)
 \gvf tranche
 \ms 4
 \gvf cotylédon
-\xv bólo bɛ́  wòro kɛ́  fɛ́ɛrɛn yé
+\xv bólo bɛ́ wòro kɛ́  fɛ́ɛrɛn yé
 \xf la main partage la noix de kola en (deux) cotylédons
-\dt 26/Sep/2006
+\dt 13/Mar/2018
 
 \lx fɛ́ɛrɛtɔ
 \mm fɛ́ɛrɛ:n:guenilles
@@ -42340,21 +42374,30 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \lx gèren
 \va gwèren
 \ph [gw]
+\ps n
+\ms
+\gf fruit.vert
+\gvf fruit non-mûr
+\dt 13/Mar/2018
+
+\lx gèren
+\va gwèren
+\ph [gw]
 \ps adj
 \ms 1
-\gf fruit.vert
+\gf vert
+\gvf non-mûr
+\smf (fruit)
 \xv sì géren
 \xf fruit vert de karité
 \ms 2
-\gvf jeune.animal
+\gvf jeune
+\smf (animal, personne)
 \xv bà géren
 \xf une chevrette
-\ms 3
-\gvf personne.jeune
-\smf (mais en pleine force)
 \xv màa dàn yé  í gèren yé
-\xf (dicton)c'est dans sa jeunesse que l'homme est au maximum de ses forces
-\dt 16/Aug/2006
+\xf c'est dans sa jeunesse que l'homme est au maximum de ses forces
+\dt 13/Mar/2018
 
 \lx géren
 \va gwéren
@@ -42962,9 +43005,9 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \ph [gwɛrɛgwɛ̀rɛ]
 \ps n
 \gf malheur.inattendu
-\xv Ála k'án kísi  gɛ́rɛgɛrɛ mà !
+\xv Ála k'án kísi  gɛ́rɛgɛ̀rɛ mà !
 \xf que Dieu nous préserve de malheur subit !
-\dt 26/Sep/2006
+\dt 13/Mar/2018
 
 \lx gɛrɛki
 \va grɛki
@@ -61994,10 +62037,12 @@ probablement de chaux vive)
 \xf l'enfant fait ses dents, il a mal aux dents
 \xv kólokɔrɔw
 \xf mânes des ancêtres
-\ms 2
+\ms 2.1
 \gvf noyau
 \xv tùtukolo ká gɛ̀lɛn
 \xf le noyau de "tutu" est très dur  (rosa)
+\ms 2.2
+\gvf graine
 \ms 3
 \gvf partie.ferme
 \gvf l'essentiel
@@ -62011,7 +62056,7 @@ probablement de chaux vive)
 \xf ce tissu est très solide
 \xv kà bálo  à kólo lá  kà ɲà  kà kɛ́  fɛ́n yé, ò ká gɛ̀lɛn
 \xf vivre de manière indépendante, bien, jusqu'à devenir qqn, c'est difficile
-\dt 09/Oct/2016
+\dt 13/Mar/2018
 
 \lx kólo
 \ps n
@@ -66130,10 +66175,9 @@ ou une proposition)
 \gf angoisser
 \gvf tracasser
 \gvf embarrasser
-\lt (intérieur.chauffer)
 \sy kɔ́nɔnagan
 \sy kàmanagan
-\dt 03/Mar/2018
+\dt 12/Mar/2018
 
 \lx kɔ́nɔganbaa
 \mm kɔ́nɔ:n:ventre
@@ -69937,6 +69981,8 @@ le pouvoir administratif suprême)
 \xf démêler les cheveux
 \xv à kùn ɲàna kójugu
 \xf elle est joliment bien coiffée
+\xv í kùn fàga
+\xf se défriser les cheveux
 \ms 3
 \gvf bout
 \gvf fin
@@ -69977,7 +70023,7 @@ le pouvoir administratif suprême)
 \xf ce n'est plus le peine, il n'y a plus de motif
 \xv ù nàkun yé  kélen yé
 \xf la raison de leur venue est la même
-\dt 04/Apr/2016
+\dt 13/Mar/2018
 
 \lx kùn
 \ps pp
@@ -84956,8 +85002,8 @@ nord-est
 \mm kú:n:queue
 \ps n
 \gf parfum
-\gvf ensence
-\dt 12/Mar/2018
+\gvf encens
+\dt 13/Mar/2018
 
 \lx mìsikunbere
 \mm mìsi:n:bovidé
@@ -90798,6 +90844,20 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \sy fánan
 \dt 26/Sep/2006
 
+\lx nfírinfirin
+\va fírinfirin
+\va npɛ́rɛnpɛrɛ
+\va npɛ́rɛnpɛrɛnin
+\mm npɛ́rɛnpɛrɛ:n:papillon
+\mm nin:mrph:DIM
+\ps n
+\ms 1
+\gf papillon
+\gvf insecte volant
+\ms 2
+\gvf chauve-souris
+\dt 13/Mar/2018
+
 \lx nfógonfogon
 \va fógonfogon
 \va fógofogo
@@ -92467,10 +92527,11 @@ sur soi, on les connaît
 \dt 26/Sep/2006
 
 \lx nkákan
+\va ŋánga
 \ps n
 \gf grosse.fourmi.noire
 \smf (à piqûre très douloureuse, vont en colonnes chercher des termites)
-\dt 16/Aug/2006
+\dt 13/Mar/2018
 
 \lx nkákan
 \ps n
@@ -92651,6 +92712,13 @@ sur soi, on les connaît
 \gf dermatose
 \gvf acné
 \dt 26/Sep/2006
+
+\lx nkánga
+\va ngánga
+\ps n
+\gf mille-pattes.sombre
+\smf (se distingue du ndìmindama par son aspect plus brillant, son corps plus dur et son odeur très désagréable)
+\dt 13/Mar/2018
 
 \lx nkàniya
 \va nkɛ̀rɛɲɛ
@@ -94626,13 +94694,6 @@ graines, sert d'instrument rythmique)
 \lt (coude.fois)
 \dt 16/Aug/2006
 
-\lx nɔ̀nɔ
-\va nɔ̀ɔnɔ
-\ps n
-\gf miel.clarifié
-\smf (rare en dehors du composé dinɔnɔ)
-\dt 16/Aug/2006
-
 \lx nɔ́nɔ
 \ps n
 \gf lait
@@ -94686,6 +94747,19 @@ graines, sert d'instrument rythmique)
 \xv ù hákili nɔ́ɔnina
 \xf leur esprit s'est brouillé
 \dt 26/Sep/2006
+
+\lx nɔ̀ɔnɔ
+\va nɔ̀nɔ
+\ps n
+\ms 1
+\gf miel.clarifié
+\smf (rare en dehors du composé dinɔnɔ)
+\ms 2
+\gvf sève
+\smf (sous forme pâteuse)
+\gvf glaires
+\gvf pâte visqueuse et sucrée
+\dt 13/Mar/2018
 
 \lx nɔ́ɔnsiku
 \mm nɔ́ɔnsi:n:caméléon
@@ -95177,18 +95251,6 @@ graines, sert d'instrument rythmique)
 \gf tique
 \syn tɛ́rɛ
 \dt 01/Feb/2018
-
-\lx npɛ́rɛnpɛrɛ
-\ps n
-\gf papillon
-\dt 12/Aug/2006
-
-\lx npɛ́rɛnpɛrɛnín
-\mm npɛ́rɛnpɛrɛ:n:papillon
-\mm nin:mrph:DIM
-\ps n
-\gf papillon
-\lt (papillon.petit)
 
 \lx npɛ́ri
 \va npári
@@ -100278,11 +100340,12 @@ graines, sert d'instrument rythmique)
 \ms 1
 \gf larme
 \ms 2
+\gvf sève
 \gvf gomme
-\smf exsudation de certains arbres 
+\smf (exsudation de certains arbres)
 \xv ɲɛ́ji mána ká bòn  kà tɛ̀mɛ  ncɛ̀n kàn, dɔ́ bɛ́ sìmi  kà gɛ̀lɛya
 \xf les "ɲɛji"  sont plus résistants que les latex, certains durcissent
-\dt 26/Sep/2006
+\dt 13/Mar/2018
 
 \lx ɲɛ́jibɔ
 \mm ɲɛ́.ji:n:larme
@@ -112634,6 +112697,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \sy sɛ́gɛbilen
 \dt 11/Mar/2018
 
+\lx sɛ́gɛnin
+\mm sɛ́gɛ:n:salpêtre
+\mm nin:mrph:DIM
+\ps n
+\gf pommade.pour.défrisage
+\gvf
+\dt 13/Mar/2018
+
 \lx sɛ̀gɛnnabɔ
 \mm sɛ̀gɛn:n:fatigue
 \mm ná:mrph:CAUS
@@ -115779,13 +115850,13 @@ donne d'excellentes fibres)
 \smf entre personnes de castes différentes, de parenté trop rapprochée
 \dt 16/Aug/2006
 
-\lx sitɛrini
-\va sitɛrinin
+\lx sítɛrini
+\va sítɛrinin
 \bw Fr. citerne
 \ps n
 \gf citerne
 \gvf
-\dt 11/Mar/2018
+\dt 13/Mar/2018
 
 \lx sìtikara
 \va sìtikaran
@@ -126052,6 +126123,23 @@ est due aux paysans (kib 3/05 p.9)
 \smf (dans l'orthographe : néologisme)
 \dt 16/Aug/2006
 
+\lx tómitomi
+\ps v
+\ms 1
+\vl vi
+\gf être.tacheté
+\gvf avoir des points
+\gvf être pointillé
+\ms 1
+\gvf scintiller
+\dt 13/Mar/2018
+
+\lx tómitomi
+\ps n
+\gf petits.points
+\gvf points
+\dt 13/Mar/2018
+
 \lx tómo
 \va tómon
 \va tónbon
@@ -132027,11 +132115,12 @@ Mali)
 \dt 16/Aug/2006
 
 \lx wúguba
+\va wúgubɛ
 \ps v
 \vl vt
 \gf creuser
 \gvf fouiller
-\dt 26/Sep/2006
+\dt 13/Mar/2018
 
 \lx wúguden
 \mm wúgu:n:moule
@@ -134560,6 +134649,19 @@ comportement (LD p.5)
 \gf arme.défensive
 \gvf gri-gri protecteur
 \dt 28/Feb/2017
+
+\lx yɛ́rɛtɛtɛ
+\ps adv
+\gf très.plein
+\gvf
+\dt 13/Mar/2018
+
+\lx yɛ́rɛtɛtɛ
+\ps adv
+\gf prudemment
+\gvf de façon mesurée
+\smf (marcher)
+\dt 13/Mar/2018
 
 \lx yɛ̀rɛwolo
 \mm yɛ̀rɛ̂:n:légitime
