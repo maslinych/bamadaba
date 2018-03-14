@@ -17980,11 +17980,13 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 15/Mar/2017
 
 \lx dàbada
+\mm dàba:n:houe
+\mm dá:n:bouche
 \ps n
 \gf lame.de.houe
 \xv kà à tà mɔ̀gɔ ka dàbada mà
-\xf ce conformer à ce que la personne veut
-\dt 13/Mar/2018
+\xf ce conformer à ce que la personne veut; agir selon les normes de qqn.
+\dt 14/Mar/2018
 
 \lx dàbadaba
 \mm ba:mrph:AUGM
@@ -122773,6 +122775,19 @@ pieton)
 \xv
 \xf
 \dt 24/Oct/2016
+
+\lx tàyɔrɔ
+\mm tà:v:prendre
+\mm yɔ́rɔ:n:lieu
+\ps n
+\ms 1
+\gf origine
+\gvf lieu de provénance
+\ms 2
+\gvf recours
+\gvf référence
+\gvf point d'appui
+\dt 14/Mar/2018
 
 \lx téenkun
 \ps v

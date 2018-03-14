@@ -5941,10 +5941,10 @@ grande fête peule)
 \mm wálan:adj:moyen
 \mm nin:mrph:DIM
 \ps n
-\gf jeune femme mariée
+\gf jeune.femme.mariée
 \gvf femme d'âge intermédiaire
 \smf (avec ou sans enfants, encore séduisante)
-\dt 12/Mar/2018
+\dt 13/Mar/2018
 
 \lx báwò
 \ps conj
@@ -122773,6 +122773,19 @@ pieton)
 \xv
 \xf
 \dt 24/Oct/2016
+
+\lx tàyɔrɔ
+\mm tà:v:prendre
+\mm yɔ́rɔ:n:lieu
+\ps n
+\ms 1
+\gf origine
+\gvf lieu de provénance
+\ms 2
+\gvf recours
+\gvf référence
+\gvf point d'appui
+\dt 14/Mar/2018
 
 \lx téenkun
 \ps v
