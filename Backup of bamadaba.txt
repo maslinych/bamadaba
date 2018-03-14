@@ -4112,6 +4112,7 @@ Fleurs spectaculaires
 
 \lx bánban
 \va báman
+\va báma
 \ps v
 \ms 1
 \vl vt
@@ -4131,7 +4132,7 @@ Fleurs spectaculaires
 \ms 4
 \gvf centrer
 \gvf concentrer
-\dt 05/Jun/2016
+\dt 14/Mar/2018
 
 \lx bànbe
 \va bàn.bali
@@ -17980,11 +17981,13 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 15/Mar/2017
 
 \lx dàbada
+\mm dàba:n:houe
+\mm dá:n:bouche
 \ps n
 \gf lame.de.houe
 \xv kà à tà mɔ̀gɔ ka dàbada mà
-\xf ce conformer à ce que la personne veut
-\dt 13/Mar/2018
+\xf ce conformer à ce que la personne veut; agir selon les normes de qqn.
+\dt 14/Mar/2018
 
 \lx dàbadaba
 \mm ba:mrph:AUGM
@@ -39755,9 +39758,16 @@ forestières, fruit : long follicule de 50 cm)
 \lx fúran
 \va fúra
 \ps v
+\ms 1
 \vl vt
 \gf balayer
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gvf fondre sur
+\ms 3
+\vl vt
+\gvf gifler
+\dt 14/Mar/2018
 
 \lx fùrancɛ
 \mm fùran:n:distance
@@ -47180,6 +47190,13 @@ calebasses)
 \gvf être arrogant
 \gvf faire l'important
 \dt 05/Apr/2016
+
+\lx jáma
+\va jáman
+\ps n
+\gf excitation
+\gvf
+\dt 14/Mar/2018
 
 \lx jàmaden
 \mm jàma:n:foule
@@ -58918,6 +58935,7 @@ probablement de chaux vive)
 \dt 16/Aug/2006
 
 \lx kɛ̀
+\va cɛ̀
 \ps adj
 \gf mâle
 \smf (uniquement en composition)
@@ -58926,7 +58944,7 @@ probablement de chaux vive)
 \cf -kɔ́rɔ
 \cf -sára
 \cf -ntúra
-\dt 16/Nov/2014
+\dt 14/Mar/2018
 
 \lx kɛ́
 \ps n
@@ -83390,12 +83408,15 @@ des engagements
 \mm mà:mrph:SUPER
 \mm sùrun:vq:court
 \mm na:mrph:LOC
+\va màsurun
+\mm mà:mrph:SUPER
+\mm sùrun:vq:court
 \ps n
 \gf les.abords
 \gvf proximité
 \gvf voisinage
 \lt (préf.proche.lieu)
-\dt 28/Feb/2017
+\dt 14/Mar/2018
 
 \lx màsurunya
 \mm mà.surun:adj:proche
@@ -84021,6 +84042,13 @@ des engagements
 \gf papillonnage
 \gvf agitation
 \dt 26/Sep/2006
+
+\lx mɛsi
+\bw Fr. messe
+\ps n
+\gf messe
+\gvf
+\dt 14/Mar/2018
 
 \lx mɛ́tɛmɛtɛ
 \ps adv
@@ -94567,8 +94595,11 @@ graines, sert d'instrument rythmique)
 \xv í bɛ́ kɛ́  fàantan yé  í nɔ̀ná
 \xf tu redeviens pauvre
 \ms 2
-\gvf en.échange.de
-\dt 28/Feb/2018
+\gvf en échange de
+\ms 3
+\gvf après
+\gvf à la suite de
+\dt 14/Mar/2018
 
 \lx nɔ̀nabila
 \mm nɔ̀:n:trace
@@ -104890,12 +104921,15 @@ envergure)
 \va pàara.ɲa
 \mm pàara:n:enjambée
 \mm ɲá:n:fois
+\va pàraɲɛ
+\mm pàra:n:enjambée
+\mm ɲɛ́:n:fois
 \ps n
 \lt pas-fois
 \gf enjambée
 \xv í kà pàaraɲɛ bà fìla kɛ́ ò tìgi fɛ̀
 \xf fais deux mille pas avec cette personne
-\dt 11/Nov/2007
+\dt 14/Mar/2018
 
 \lx pácakopacako
 \ps onomat
@@ -111696,28 +111730,6 @@ gouvernement le soutient (kb 5/06 p.7)
 \lt (pied.priver)
 \dt 26/Sep/2006
 
-\lx sènɲa
-\mm sèn:n:jambe
-\mm ɲá:n:fois
-\va sìnɲɛ
-\ve (bn)
-\va syɛ̀n
-\va sìyɛn
-\ve (f)
-\va sìɲɛ
-\va shyɛ̀n
-\lt (pas.fois)
-\ps n
-\ms 1
-\gf pas
-\xv sènɲa dàma dɔ́  ò kɔ́
-\xf quelques pas plus loin
-\ms 2
-\gvf fois
-\xv sènɲa jòli
-\xf combien de fois
-\dt 19/Oct/2014
-
 \lx sènɲàran
 \mm sèn:n:jambe
 \ps n
@@ -113461,10 +113473,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sí:n:semence
 \mm dɔ́n:v:connaître
 \ps v
+\ms 1
 \vl vt
 \gf connaître.parfaitement
-\lt (nature.connaître)
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gvf découvrir
+\gvf déviner
+\gvf comprendre
+\dt 14/Mar/2018
 
 \lx sídɔnbali
 \mm sí.dɔn:v:connaître.parfaitement
@@ -115103,6 +115120,28 @@ trompe)
 \xf faire la lutte, lutter
 \dt 30/Apr/2017
 
+\lx sìɲɛ
+\va sènɲɛ
+\va sìnɲɛ
+\ve (bn)
+\va syɛ̀n
+\va sìyɛn
+\ve (f)
+\va sènɲa
+\mm sèn:n:jambe
+\mm ɲá:n:fois
+\va shyɛ̀n
+\ps n
+\ms 1
+\gf pas
+\xv sènɲa dàma dɔ́  ò kɔ́
+\xf quelques pas plus loin
+\ms 2
+\gvf fois
+\xv sènɲa jòli
+\xf combien de fois
+\dt 14/Mar/2018
+
 \lx síɲɛ
 \va síɲɛn
 \va síyɛn
@@ -115964,7 +116003,7 @@ donne d'excellentes fibres)
 \xf les épines m'ont égratigné
 \xv mùso bɛ́  jɛ́gɛfara syɛ́n
 \xf la femme écaille le poisson
-\dt 22/May/2016
+\dt 14/Mar/2018
 
 \lx sò
 \ps n
@@ -117119,11 +117158,13 @@ donne d'excellentes fibres)
 \dt 02/May/2015
 
 \lx sòpisi
+\bw Fr. chaude pisse
 \ps n
 \gf blennorragie
 \gvf gonorrhée
 \gvf gonococcie
-\dt 19/Feb/2013
+\gvf chaude pisse
+\dt 14/Mar/2018
 
 \lx sóro
 \ve (-bk)
@@ -121161,11 +121202,12 @@ fiançailles
 \dt 26/Sep/2006
 
 \lx tàafe
+\va tàgafe
 \bw ar: futa = tablier (métathèse ?)
 \ps n
 \gf pagne
 \sy fìni
-\dt 12/Aug/2006
+\dt 14/Mar/2018
 
 \lx tàa-kánkɔrɔbilen
 \mm tàa:n:poisson.sp
@@ -123274,9 +123316,11 @@ flaques d'eau)
 \xf se laver les mains
 \xv à tɛ́gɛ ká dí
 \xf il est adroit (au tir ...)
+\xv à tɛ́gɛ lábilalen dòn
+\xf il est généreux
 \xv à y'á tɛ́gɛ cì  à túlo kɔ́rɔ
 \xf il l'a giflé
-\dt 26/Sep/2006
+\dt 14/Mar/2018
 
 \lx tɛ́gɛba
 \mm tɛ́gɛ:n:paume

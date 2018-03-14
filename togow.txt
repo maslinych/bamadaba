@@ -3770,6 +3770,13 @@ forme francaise: Berehima
 \gf NOM.M
 \dt 03/May/2010
 
+\lx Shasaba
+\va Casaba
+\ps n.prop
+\gf NOM.F
+\gvf
+\dt 14/Mar/2018
+
 \lx Shɛ́knà
 \va Shɛ́kina
 \va Shekinɛ
@@ -4028,6 +4035,13 @@ forme francaise: Berehima
 \gvf
 \smf
 \dt 14/Jul/2017
+
+\lx Tayibu
+\va Teyibu
+\ps n.prop
+\gf NOM.M
+\gvf
+\dt 14/Mar/2018
 
 \lx Táyiru
 \di m

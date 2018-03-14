@@ -1108,6 +1108,13 @@ Comoé, Burkina Faso)
 \xf
 \dt 07/Feb/2017
 
+\lx Boni
+\ps n.prop
+\gf TOP
+\gvf Boni
+\smf (village, cetre de commune Haïré, commune de Douentza, région de Mopti)
+\dt 13/Mar/2018
+
 \lx Bore
 \ps n.prop
 \gf TOP
@@ -1364,10 +1371,10 @@ Sikasso)
 \ps n.prop
 \gf TOP
 \gvf Dabanani
-\smf (marché dans la commune 3 de Bamako)
+\smf (marché dans la commune 3 de Bamako; dans la position de l'oblique, le plus souvent avec la postposition lá)
 \xv
 \xf
-\dt 04/Jun/2016
+\dt 14/Mar/2018
 
 \lx Dagi-Dagi
 \ps n.prop
@@ -3841,12 +3848,13 @@ région de Ségou)
 \va Kɔ́dìwari
 \va Kotiwari
 \va Kɔdɔwari
+\va RCI
 \ty гос.
 \ps n.prop
 \gf TOP
 \gvf Côte.d'Ivoire
 \ru Кот-д'Ивуар
-\dt 07/Apr/2017
+\dt 14/Mar/2018
 
 \lx Kɔ̀rɛ
 \ps n.prop
