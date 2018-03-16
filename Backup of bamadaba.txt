@@ -437,37 +437,37 @@
 \lx álaɲɛsiranbali
 \mm Ála:n:Dieu
 \mm ɲɛ́:pp:devant
-\mm síran:n:crainte
+\mm síran:v:craindre
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \lt Dieu-crainte-sans
 \gf impie
 \smf qui ne craint pas Dieu
 \nt AT
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx álaɲɛsiranbaliya
 \mm Ála:n:Dieu
 \mm ɲɛ́:pp:devant
-\mm síran:n:crainte
+\mm síran:v:craindre
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \lt Dieu-crainte-absence
 \gf impiété
 \nt AT
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx álaɲɛsiranyɛ
 \mm Ála:n:Dieu
 \mm ɲɛ́:pp:devant
-\mm síran:n:crainte
+\mm síran:v:craindre
 \mm yɛ:mrph:ABSTR
 \ps n
 \gf crainte.de.Dieu
 \smf révérence, soumission dûe à Dieu
 \lt (Dieu.devant.crainte.suf.abs)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx álaɲɔ
 \mm Ála:n:Dieu
@@ -1739,14 +1739,14 @@ traîne sur le fond des eaux
 \dt 08/Mar/2018
 
 \lx bádenma
-\mm báden:n:frère/soeur.utérin(e)
+\mm báden:n:frère.soeur.utérin(e)
 \mm bá:n:mère
 \mm dén:n:enfant
 \mm ma:mrph:RECP.PRN
 \ps n
 \gf frère/soeur
 \gvf
-\dt 03/Apr/2016
+\dt 15/Mar/2018
 
 \lx bádenya
 \mm bá.den:n:frère/soeur.utérin(e)
@@ -5682,19 +5682,18 @@ furoncles, inf. urinaires
 \dt 26/Sep/2006
 
 \lx básiman
-\mm bási:n:sang
+\mm bási:n:âpre
 \mm man:mrph:ADJ
 \ps adj
-\lt âpre-suf
 \gf âpre
 \sy bási
 \rem bz, mol
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx básininkumana
 \mm bási:n:fétiche
 \mm nin:mrph:DIM
-\mm kúma:n:parole
+\mm kúma:v:parler
 \mm na:mrph:AG.PRM
 \ps n
 \ms 1
@@ -5704,7 +5703,7 @@ furoncles, inf. urinaires
 \ms 2
 \gvf enfant.très.bavard
 \smf [fig]
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx básiya
 \mm bási:vq:âpre
@@ -6163,6 +6162,13 @@ feu
 \ms 2
 \gvf traduction
 \dt 08/Oct/2017
+
+\lx bè
+\va bèete
+\ps n
+\gf porte-monnaie
+\gvf
+\dt 15/Mar/2018
 
 \lx bèete
 \va bèé
@@ -7055,18 +7061,18 @@ au Mali)
 \lt (ancêtre.masculin)
 
 \lx bɛ̀nbali
-\mm bɛ̀n:n:accord
+\mm bɛ̀n:v:se.rencontrer
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf sans.accord
 \gvf brouillé
 \gvf désuni
 \lt (accord.sans)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx bɛ̀nbaliya
 \mm bɛ̀n.bali:ptcp:sans.accord
-\mm bɛ̀n:n:accord
+\mm bɛ̀n:v:se.rencontrer
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps v
@@ -7076,18 +7082,18 @@ au Mali)
 \lt (désuni.suf caus)
 \xv nìn kó yé  téri bɛ̀nbaliya
 \xf cette histoire a brouillé les amis
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx bɛ̀nbaliya
 \mm bɛ̀n.bali:ptcp:sans.accord
-\mm bɛ̀n:n:accord
+\mm bɛ̀n:v:se.rencontrer
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf discorde
 \gvf mésentente
 \lt (accord.absence)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx bɛ́nbamuso
 \mm bɛ́nba:n:ancêtre
@@ -10278,13 +10284,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bólokobali
-\mm bóloko:n:circoncision
+\mm bólokò:v:circoncire
 \mm bali:mrph:PTCP.PRIV
 \ps n
 \gf incirconcis
 \gvf non.excisée
 \lt (circoncision.sans)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx bólokoden
 \mm bóloko:n:circoncision
@@ -10297,7 +10303,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 26/Sep/2006
 
 \lx bólokoli
-\mm bóloko:n:circoncision
+\mm bólokò:v:circoncire
 \mm li:mrph:NMLZ
 \ps n
 \gf circoncision
@@ -10305,7 +10311,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lt (circoncire.action)
 \xv ní  dén séra  bólokoli yé...
 \xf si l'enfant a l'âge d'être circoncis ...
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx bólokolo
 \mm bólo:n:bras
@@ -15258,14 +15264,14 @@ médicinales
 
 \lx cɛ̀dɔnbali
 \mm cɛ̀:n:mâle
-\mm dɔ́n:n:connaissance
+\mm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \lt homme-connaître-ne pas
 \gf vierge
 \xv à tùn cɛ̀dɔnbali dòn
 \xf elle était vierge (2 S 13,1)
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx cɛ́ɛlɛ
 \ps v
@@ -19195,11 +19201,11 @@ saillie)
 
 \lx dàgadilala
 \mm dàga:n:canari
-\mm díla:n:fabriquer
+\mm díla:v:fabriquer
 \mm la:mrph:AG.PRM
 \va dàga.dla.la
 \mm dàga:n:canari
-\mm dlá:n:fabriquer
+\mm dlá:v:fabriquer
 \mm la:mrph:AG.PRM
 \ph [dl]
 \ps n
@@ -19207,7 +19213,7 @@ saillie)
 \gvf forgeronne
 \lt (canari.fabriquer.celle qui)
 \sy dàadala
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx dàgadon
 \mm dàga:n:canari
@@ -21856,7 +21862,7 @@ devenir incontrôlable
 \dt 26/Sep/2006
 
 \lx dángalikuma
-\mm dánga:n:malédiction
+\mm dánga:v:maudire
 \mm li:mrph:NMLZ
 \mm kúma:n:parole
 \ps n
@@ -21865,7 +21871,7 @@ devenir incontrôlable
 \sy dángalikan
 \xv dángalikuma fɔ́
 \xf proférer une parole de malédiction
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx dàngatɔ
 \mm dànga:vq:malpropre
@@ -23969,13 +23975,13 @@ génitales ...
 
 \lx dénjɔbaliya
 \mm dén:n:enfant
-\mm jɔ̀:n:station.debout
+\mm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf mortalité.infantile
 \lt (enfant.debout.absence)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx dénjugu
 \mm dén:n:enfant
@@ -25203,14 +25209,14 @@ assumant que l'interclocuteur pense autrement)
 \dt 12/Jun/2016
 
 \lx dìbilan
-\mm dìbi:n:obscurité
+\mm dìbi:v:être.obscur
 \mm lan:mrph:INSTR
 \ps n
 \gf produit.magique.qui.rend.invisible
 \lt (obscurcir.ce qui sert à)
 \xv dìbilan bɛ́  màa mín bólo, ò ɲɛ́ b'á lá, á ɲɛ́ t'ó lá
 \xf le possesseur d'un "dibilan" vous voit, (mais) vous ne le voyez pas
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx dìbinin
 \ps n
@@ -25655,16 +25661,17 @@ chefs religieux et représentants de l'administration
 
 \lx díɲɛdenya
 \mm díɲɛ:n:monde
+\mm díɲɛ:n:monde
 \mm dén:n:enfant
 \mm ya:mrph:ABSTR
 \va díyɛn.den.ya
+\va díyɛn.den
 \mm díyɛn:n:monde
 \mm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \gf libertinage
-\lt (libertin.suf abs)
-\dt 16/Aug/2006
+\dt 15/Mar/2018
 
 \lx díɲɛlaban
 \mm díɲɛ:n:monde
@@ -27967,9 +27974,9 @@ le nom du groupe ethnique)
 \va dɔ̀gɔtɔrɔ
 \bw fr : docteur
 \ps n
-\gf infirmier
-\gvf docteur
-\dt 26/Sep/2006
+\gf docteur
+\gvf infirmier
+\dt 16/Mar/2018
 
 \lx dɔ̀kɔtɔrɔfura
 \mm dɔ̀kɔtɔrɔ:n:infirmier
@@ -28003,8 +28010,8 @@ le nom du groupe ethnique)
 \mm mùso:adj:femme
 \ps n
 \gf doctoresse
-\lt (docteur.femme)
-\dt 11/May/2013
+\gvf infirmière
+\dt 16/Mar/2018
 
 \lx dɔ̀kɔtɔrɔso
 \mm dɔ̀kɔtɔrɔ:n:infirmier
@@ -28989,8 +28996,13 @@ désorienter')
 \xf ils vont tous les jours cueillir les haricots
 \dt 02/Jan/2018
 
-\lx dùgujɛnda
+\lx dùgujɛda
 \mm dùgu:n:terre
+\mm jɛ́:adj:blanc
+\mm dá:n:bouche
+\va dùgujɛnda
+\mm dùgu:n:terre
+\mm jɛ́:adj:blanc
 \mm dá:n:bouche
 \ps n
 \gf petit.jour
@@ -28998,7 +29010,7 @@ désorienter')
 \lt (aube.début)
 \xv ní  dùgujɛnda sùrunyana...
 \xf quand l'aube est toute proche ...
-\dt 26/Sep/2006
+\dt 15/Mar/2018
 
 \lx dùgujukɔrɔsa
 \mm dùgu:n:terre
@@ -29595,31 +29607,29 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \ps v
 \vl vt
 \gf nourrir
-\lt (manger.action)
 \gvf donner à manger
 \xv jàtigi yé dúnan dúmuni
 \xf l'hôte a donné à manger aux étrangers
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx dúmunibali
-\mm dúmuni:n:action.de.manger
+\mm dúmuni:v:nourrir
 \mm bali:mrph:PTCP.PRIV
-\lt (manger.sans)
 \ps ptcp
 \gf qui.ne.mange.pas
 \xv á kàna mìsi dúmunibali dòn  dàba lá :
 \xf ne mettez pas les boeufs à la charrue sans qu'ils aient mangé
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx dúmunibaliya
-\mm dúmuni:n:action.de.manger
+\mm dúmuni:v:nourrir
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \lt nourriture-absence
 \gf jeûne
 \gvf diète
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx dúmunibɔminɛn
 \mm dúmuni:n:action.de.manger
@@ -31253,16 +31263,16 @@ gens)
 \dt 26/Sep/2006
 
 \lx fáatuli
-\mm fáatu:n:mourir
+\mm fáatu:v:mourir
 \mm li:mrph:NMLZ
-\va fátu.li
-\mm fátu:n:mourir
+\va fátuli
+\mm fátu:v:mourir
 \mm li:mrph:NMLZ
 \ps n
 \lt mourir-action
 \gf décès
 \rem l 89
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx fábaatɔ
 \mm fá:v:remplir
@@ -32251,13 +32261,13 @@ mais plus large que sóli; pour sarcler en profondeur)
 
 \lx fàndɔnbali
 \mm fàn:n:côté
-\mm dɔ́n:n:connaissance
+\mm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf innocent
 \smf qui ne connaît rien
 \lt (direction.savoir.ne pas)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx fánfali
 \ps adv
@@ -32577,8 +32587,14 @@ mais plus large que sóli; pour sarcler en profondeur)
 \xf ils ont claqué des talons  (soldat)
 \ms 2
 \vl vr
-\gvf se.joindre.à
-\dt 16/Aug/2006
+\gvf se joindre à
+\ms 3
+\vl vi
+\gvf convenir
+\smf (de -- kàn)
+\gvf s'entendre
+\smf (sur -- kàn)
+\dt 16/Mar/2018
 
 \lx fára
 \ps n
@@ -32693,17 +32709,16 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \mm fàra:n:écorce
 \mm fìn:adj:noir
 \mm fúra:n:feuille
-\mm kɛ́:n:action
+\mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
-\lt africain-remède-appliquer-celui qui
 \gf tradipraticien
 \gvf guérisseur
 \gvf tradithérapeute
 \sy fàrafinfurabɔla
 \xv né b'á ɲíni fàrafinfurakɛla fɛ̀...
 \xf je demande aux tradipraticiens de ... (kb 2/05 p.6)
-\dt 04/Apr/2016
+\dt 16/Mar/2018
 
 \lx fàrafinna
 \mm fàra:n:écorce
@@ -33080,7 +33095,7 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \dt 26/Sep/2006
 
 \lx fàratibali
-\mm fàrati:n:risque
+\mm fàrati:v:risquer
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \lt risque-sans
@@ -33088,7 +33103,7 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \xv á kà kɛ́ fàratibali yé íko sà (é)
 \xf soyez prudents comme des serpents
 \rem mol, bz, b
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx fárawo
 \mm fára:n:pierre
@@ -34554,14 +34569,14 @@ bien (dicton)
 
 \lx fɛ́ndɔnbaliya
 \mm fɛ́n:n:chose
-\mm dɔ́n:n:connaissance
+\mm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf ignorance
 \gvf inexpérience
 \lt (chose.connaître.absence)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx fɛ̀nɛtɛrɛ
 \va fìnɛtiri
@@ -35614,13 +35629,13 @@ la virginité (pièce de monnaie sans trou)
 \dt 26/Sep/2006
 
 \lx fìlibali
-\mm fìli:n:erreur
+\mm fìli:v:jeter
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \lt erreur-sans-
 \gf infaillible
 \xv mɔ̀gɔ fìlibali tɛ́
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx fìlidabɔ
 \va flìdabɔ
@@ -35914,51 +35929,52 @@ de l'autre
 
 \lx fìnikobaliya
 \mm fìni:n:tissu
-\mm kó:n:affaire
+\mm kò:v:laver
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf aménorrhée
 \lt (règles.absence)
+\dt 16/Mar/2018
 
 \lx fìnikobanbali
 \mm fìni:n:tissu
-\mm kó:n:affaire
-\mm bán:n:fin
+\mm kò:v:laver
+\mm bán:v:finir
 \mm bali:mrph:PTCP.PRIV
 \ps n
 \gf polyménorrhée
 \gvf augmentation de la fréquence des règles
-\dt 04/Apr/2016
+\dt 16/Mar/2018
 
 \lx fìnikojiri
 \mm fìni:n:tissu
-\mm kó:n:affaire
+\mm kò:v:laver
 \mm jíri:n:arbre
 \ps n
 \gf planche.à.laver
 \lt (lessive.bois)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx fìnikola
 \mm fìni:n:tissu
-\mm kó:n:affaire
+\mm kò:v:laver
 \mm la:mrph:AG.PRM
 \ps n
 \gf blanchisseur
 \gvf blanchisseuse
 \lt (linge.laver.celui qui)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx fìnikolan
 \mm fìni:n:tissu
-\mm kó:n:affaire
+\mm kò:v:laver
 \mm lan:mrph:INSTR
 \ps n
 \gf savon
 \smf tout objet utilisé pour la lessive : savon, poudre ...
 \lt (linge.laver.ce qui sert à)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx fìnikolon
 \mm fìni:n:tissu
@@ -35971,14 +35987,14 @@ de l'autre
 
 \lx fìnikomansin
 \mm fìni:n:tissu
-\mm kó:n:affaire
+\mm kò:v:laver
 \mm mànsin:n:machine
 \ps n
 \lt linge-laver-machine
 \gf machine.à.laver
 \xv kúran bɛ́ kɛ́ kà...fìnikomansin látaama
 \xf le courant permet de faire marcher des machines à laver  (kb 2/05 p.4)
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx fìnikun
 \mm fìni:n:tissu
@@ -36102,21 +36118,22 @@ frontières, forestiers, sapeurs)
 \dt 16/Aug/2006
 
 \lx fìnya
-\mm fìn:vq/adj:noir
+\mm fìn:vq:noir
 \mm ya:mrph:ABSTR
 \ps n
 \gf noirceur
 \lt (noir.suf abs)
+\dt 16/Mar/2018
 
 \lx fìnya
-\mm fìn:v:noircir
+\mm fìn:vq:noircir
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf noircir
 \gvf assombrir
 \lt (noir.suf caus)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx fìɲɛ
 \va fyɛ̀n
@@ -36349,12 +36366,12 @@ frontières, forestiers, sapeurs)
 
 \lx fìsamanciya
 \mm fìsa:vq:mieux
-\mm ma:mrph:COM
+\mm man:mrph:ADJ
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \va fìsamannciya
 \mm fìsa:vq:mieux
-\mm ma:mrph:COM
+\mm man:mrph:ADJ
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \va fùsa.baa.nci.ya
@@ -36364,7 +36381,7 @@ frontières, forestiers, sapeurs)
 \mm ya:mrph:ABSTR
 \va fìsamantiya
 \mm fìsa:vq:mieux
-\mm ma:mrph:COM
+\mm man:mrph:ADJ
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps n
@@ -36377,16 +36394,16 @@ frontières, forestiers, sapeurs)
 \rem du
 \ms 3
 \gvf amélioration.de.la.santé
-\dt 27/Sep/2016
+\dt 16/Mar/2018
 
 \lx fìsamanciya
 \mm fìsa:vq:mieux
-\mm ma:mrph:COM
+\mm man:mrph:ADJ
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \va fìsamannciya
 \mm fìsa:vq:mieux
-\mm ma:mrph:COM
+\mm man:mrph:ADJ
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \va fùsa.baa.nci.ya
@@ -36396,7 +36413,7 @@ frontières, forestiers, sapeurs)
 \mm ya:mrph:ABSTR
 \va fìsamantiya
 \mm fìsa:vq:mieux
-\mm ma:mrph:COM
+\mm man:mrph:ADJ
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps v
@@ -36406,7 +36423,7 @@ frontières, forestiers, sapeurs)
 \smf
 \xv
 \xf
-\dt 27/Sep/2016
+\dt 16/Mar/2018
 
 \lx fìsamandiya
 \mm fìsa:vq:mieux
@@ -38069,6 +38086,13 @@ frontières, forestiers, sapeurs)
 \xf Vraiment , tu n'es bon à rien !
 \dt 11/Jun/2016
 
+\lx fósì
+\va fóyì
+\ps dtm
+\gf aucun
+\gvf
+\dt 16/Mar/2018
+
 \lx fòto
 \bw fr : photo
 \ps n
@@ -38295,16 +38319,16 @@ frontières, forestiers, sapeurs)
 \dt 11/Nov/2007
 
 \lx fɔ́lisen
-\mm fɔ́:n:action.de.dire
+\mm fɔ́:v:dire
 \mm li:mrph:NMLZ
 \mm sèn:n:jambe
 \ps n
 \gf rythme
 \lt (musique.manière)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx fɔ́lisentigi
-\mm fɔ́:n:action.de.dire
+\mm fɔ́:v:dire
 \mm li:mrph:NMLZ
 \mm sèn:n:jambe
 \mm tìgi:n:maître
@@ -38312,7 +38336,7 @@ frontières, forestiers, sapeurs)
 \gf maître.de.danse
 \gvf joueur.qui.donne.le.rythme
 \lt (rythme.maître)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx fɔ́lɔ
 \ps adj/n
@@ -39963,23 +39987,23 @@ forestières, fruit : long follicule de 50 cm)
 \sy dòdò
 
 \lx fúrubali
-\mm fúru:n:mariage
+\mm fúru:v:épouser
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf célibataire
 \smf (femme)
 \lt (épouser.nég)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx fúrubaliya
-\mm fúru:n:mariage
+\mm fúru:v:épouser
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf célibat
 \smf (femme)
 \lt (épouser.absence)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx fúrubatola
 \mm fúru:n:mariage
@@ -40790,14 +40814,14 @@ forestières, fruit : long follicule de 50 cm)
 
 \lx gáfedilanna
 \mm gáfe:n:livre
-\mm dílan:n:fabriquer
+\mm dílan:v:fabriquer
 \mm na:mrph:AG.PRM
 \ph dlan
 \ps n
 \lt livre-fabriquer-celui qui
 \gf imprimeur
 \gvf éditeur
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx gáfelasagonna
 \mm gáfe:n:livre
@@ -43275,11 +43299,18 @@ caractéristique, réputé pour faciliter la procréation)
 \va gínin
 \ve (f)
 \ps v
+\ms 1
 \vl vi
+\gvf se jeter
 \gf se.précipiter
 \xv wùlu gírinna ń kàn
 \xf le chien s'est précipité sur moi
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gvf accélérer
+\gvf activer
+\gvf presser
+\dt 15/Mar/2018
 
 \lx gírin
 \ps n
@@ -44225,11 +44256,13 @@ douanier, milicien, etc.)
 \dt 26/Sep/2006
 
 \lx gɔ̀tɛ
+\va gɔ̀ɔtɛ
 \va gɔ̀ɔtɔ
 \va gɔ̀tɔ
 \ps n
 \gf lutin
 \gvf génie nain
+\dt 16/Mar/2018
 
 \lx grɛ́n
 \ps n
@@ -45010,13 +45043,13 @@ doigts par des fileuses du coton)
 
 \lx hákilisigilenya
 \mm hákili:n:esprit
-\mm sìgi:n:position.assise
+\mm sìgi:v:asseoir
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \gf sérénité
 \lt (esprit.posé.suf abs)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx hákilisonya
 \mm hákili:n:esprit
@@ -45350,15 +45383,14 @@ doigts par des fileuses du coton)
 \dt 15/Jun/2015
 
 \lx hàramukɛla
-\mm hàramu:v:interdire
-\mm kɛ́:n:action
+\mm hàramu:n:interdit
+\mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
-\lt illicite-faire-celui qui
 \gf impie
 \xv í kàna ɲágali  í dén hàramukɛla lá
 \xf ne te réjouis pas de fils impies (Si 16,1)
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx hàramuya
 \mm hàramu:v:interdire
@@ -45736,13 +45768,13 @@ doigts par des fileuses du coton)
 \dt 11/Nov/2007
 
 \lx hínɛbaliya
-\mm hínɛ:n:pitié
+\mm hínɛ:v:avoir.pitié
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf manque.de.coeur
 \lt (pitié.manque)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx hínɛma
 \mm hínɛ:n:pitié
@@ -47760,17 +47792,20 @@ calebasses)
 \mm jàn:vq:long
 \mm ya:mrph:DEQU
 \ps v
-\vl vt
 \ms 1
+\vl vt
 \gf allonger
-\lt (grand.suf caus)
 \ms 2
+\vl vt
 \gvf éloigner
+\xv k'í yɔ́rɔ jànya à lá
+\xf s'éloigner de qqch.
 \ms 3
+\vl vt
 \gvf hausser
 \xv kàbi  ò kɛ́ra, nàmakɔrɔ ɲɛ́sen jànyana  kɔ́sen yé
 \xf c'est depuis ce jour que les pattes de devant de la hyène sont plus hautes que celles de derrière
-\dt 16/Aug/2006
+\dt 15/Mar/2018
 
 \lx jáɲigijaɲigi
 \ps v
@@ -48000,19 +48035,20 @@ calebasses)
 
 \lx jàtala
 \mm jà:n:ombre
-\mm tà:n:action.de.prendre
+\mm tà:v:prendre
 \mm la:mrph:AG.PRM
 \ps n
 \gf photographe
 \lt (photographier.celui qui)
+\dt 16/Mar/2018
 
 \lx jàtalan
 \mm jà:n:ombre
-\mm tà:n:action.de.prendre
+\mm tà:v:prendre
 \mm lan:mrph:INSTR
 \ps n
 \gf appareil.photographique
-\dt 24/Jun/2013
+\dt 16/Mar/2018
 
 \lx jàte
 \va jàti
@@ -48900,7 +48936,7 @@ calebasses)
 \dt 16/Aug/2006
 
 \lx jɛ́lenya
-\mm jɛ́:n:le.blanc
+\mm jɛ́:v:blanchir
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
@@ -48913,7 +48949,7 @@ calebasses)
 \gvf loyauté
 \gvf intégrité
 \xv jɛ́lenya yé  kɛ́nɛya tàamasyɛn yé
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx jɛ̀makan
 \mm jɛ̀:n:assemblée
@@ -49759,17 +49795,21 @@ le toit de la maison et descendaient
 \lx jíjà
 \mm jí:n:eau
 \mm jà:v:sécher
-\bw ar: gahada = s'efforcer
 \ps v
 \ms 1
 \vl vr
 \gf s'efforcer
-\gvf être.courageux
-\ms 2
+\gvf s'appliquer
+\ms 2.1
 \vl vt
 \gvf tendre
 \smf (une corde ...)
-\dt 26/Sep/2006
+\ms 2.2
+\vl vt
+\gvf serrer
+\gvf comprimer
+\gvf essorer
+\dt 15/Mar/2018
 
 \lx jíji
 \ve (-bk,-bn)
@@ -50445,13 +50485,13 @@ et insecticides)
 \dt 16/Aug/2006
 
 \lx jíriman
-\mm jíri:v:arbre
+\mm jíri:n:arbre
 \mm man:mrph:ADJ
 \ps adj
 \gf en.bois
 \gvf
 \smf
-\dt 06/Sep/2017
+\dt 16/Mar/2018
 
 \lx jírimasa
 \mm jíri:n:arbre
@@ -51204,12 +51244,12 @@ et insecticides)
 \dt 23/Mar/2015
 
 \lx jòlimango
-\mm jòliman:n:sang.actif
+\mm jòli.man:n:sang.actif
 \mm jòli:n:sang
 \mm man:mrph:SUPER
 \mm gó:adj:désagréable
 \va jèlimango
-\mm jèliman:n:sang.actif
+\mm jèli.man:n:sang.actif
 \mm jèli:n:sang
 \mm man:mrph:SUPER
 \mm gó:adj:désagréable
@@ -51222,18 +51262,18 @@ et insecticides)
 \ms 2
 \gvf peu.sociable
 \gvf misanthrope
-\dt 28/Mar/2015
+\dt 15/Mar/2018
 
 \lx jòlimangoya
-\mm jòlimango:adj:antipathique
-\mm jòliman:n:sang.actif
+\mm jòliman.go:adj:antipathique
+\mm jòli.man:n:sang.actif
 \mm jòli:n:sang
 \mm man:mrph:SUPER
 \mm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \va jèlimangoya
-\mm jòlimango:adj:antipathique
-\mm jèliman:n:sang.actif
+\mm jòliman.go:adj:antipathique
+\mm jèli.man:n:sang.actif
 \mm jèli:n:sang
 \mm man:mrph:SUPER
 \mm gó:adj:désagréable
@@ -51241,7 +51281,7 @@ et insecticides)
 \ps n
 \gf antipathie
 \lt (antipathique.suf abs)
-\dt 28/Mar/2015
+\dt 15/Mar/2018
 
 \lx jòlintan
 \mm jòli:n:sang
@@ -51372,11 +51412,11 @@ d'arrière-saison
 \lx jótigiya
 \mm jó:n:raison
 \mm tìgi:n:maître
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ps n
 \lt droit-propriété
 \gf le.bon.droit
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx jɔ̀
 \va dɔ̀
@@ -53021,12 +53061,12 @@ composante des adjectifs séparables)
 \lx jùrutala
 \mm jùru.ta:n:emprunt.d'argent
 \mm jùru:n:corde
-\mm tà:n:action.de.prendre
+\mm tà:v:prendre
 \mm la:mrph:AG.PRM
 \ps n
 \gf emprunteur
 \lt (emprunter.celui qui)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx jùrutigi
 \mm jùru:n:corde
@@ -56703,13 +56743,13 @@ jeunes)
 
 \lx kánmuguli
 \mm kán:n:cou
-\mm mùgu:n:luxation
+\mm mùgu:v:luxer
 \mm li:mrph:NMLZ
 \ps n
 \lt cou-luxation
 \gf torticolis
 \rem mol
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx kánna
 \mm kán:n:cou
@@ -63719,6 +63759,14 @@ champs)
 \lt (nom de plante.urticante)
 \dt 26/Sep/2006
 
+\lx kòrosakorosa
+\ps n
+\lat Intertrigo inguinal
+\gf urticaire
+\smf (maladie de peau caractérisée par l'apparition de nombreux petits boutons urticants)
+\gvf eczéma marginé de Hebra
+\dt 16/Mar/2018
+
 \lx kòrose
 \bw fr : corsé
 \ps n
@@ -65457,8 +65505,7 @@ champs)
 \ps n
 \gf affilié.à.la.société.initiatique
 \smf (ayant satisfait à toutes les obligations)
-\lt ('kɔmɔ'.lieu)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx kɔ̀mɔsama
 \mm kɔ̀mɔ:n:société.initiatique
@@ -67286,13 +67333,13 @@ ou une proposition)
 
 \lx kɔ́nɔtabaliya
 \mm kɔ́nɔ:n:ventre
-\mm tà:n:action.de.prendre
+\mm tà:v:prendre
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf stérilité
 \lt (grossesse.absence)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx kɔ́nɔtigɛ
 \mm kɔ́nɔ:n:ventre
@@ -67523,8 +67570,7 @@ ou une proposition)
 \mm na:mrph:AG.PRM
 \ps n
 \gf participant.de.la.noce
-\lt (noce.celui de)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx kɔ́ɲɔsɛɛnsɛɛn
 \mm kɔ́ɲɔ:n:noce
@@ -68678,6 +68724,16 @@ plus solide)
 \xv Múruja sìgi kɔ́sayara / sàɲɔ bɛ́ kɔ́saya kà mɔ̀
 \rem 1/ du 2/ Mol, Svt
 \dt 11/Nov/2007
+
+\lx kɔ́segin
+\mm kɔ́:n:dos
+\mm sègin:v:revenir
+\ps n
+\ms 1
+\gf retour
+\ms 2
+\gvf conséquence
+\dt 15/Mar/2018
 
 \lx kɔ́sègin
 \mm kɔ́:n:dos
@@ -81249,13 +81305,13 @@ jour, c'est une personne dépendante qu'il voit
 \dt 16/Aug/2006
 
 \lx màliden
-\mm màli:n:TOP
+\mm Màli:n:TOP
 \mm dén:n:enfant
 \ps n
 \gf malien
 \lt (Mali.enfant)
 \smf on s'attendait à màlìka ! qui ne se dit pas)
-\dt 01/Jun/2017
+\dt 15/Mar/2018
 
 \lx màlijirinin
 \mm Màli:n.prop:TOP
@@ -81328,24 +81384,26 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màlo
 \ps v
-\ms 1
+\ms 1.1
 \vl vt
 \gf faire.honte
 \gvf humilier
-\xv né nà  í màlo  jàma cɛ́ lá
+\xv né nà í màlo jàma cɛ́ lá
 \xf je vais te faire honte devant tout le monde
+\ms 1.2
 \vl vi
-\gvf avoir.honte
-\gvf être.gêné
+\gvf avoir honte
+\gvf être gêné
+\smf (devant -- mà)
 \ms 2
 \vl vi
-\gvf être.pudique
+\gvf être pudique
 \ms 3
 \vl vi
-\gvf ne.pas.oser.par.timidité
-\xv à màlola  kùntigi ɲɛ́
+\gvf ne pas oser par timidité
+\xv à màlola kùntigi ɲɛ́
 \xf il n'a pas osé en présence du chef
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx màlobaatɔ
 \mm màlo:v:faire.honte
@@ -83631,11 +83689,11 @@ des engagements
 \xf prends directement cette route, ne fais pas de détour par un autre chemin
 \dt 06/Feb/2017
 
-\lx melesi
+\lx mèlesi
 \ps prn
 \gf quoi.exactement?
 \smf (une forme focalisé, plutôt dialectale)
-\dt 24/Mar/2017
+\dt 15/Mar/2018
 
 \lx mère
 \ps n
@@ -83790,11 +83848,12 @@ des engagements
 \lx mɛ̀len
 \va mɛ̀ɛn
 \ve (f)
+\va mèlen
 \ps prn
 \gf quoi
 \xv mɛ̀len b'á lá ?
 \xf qu'est-ce qu'il a ? (maladie)
-\dt 19/Aug/2006
+\dt 15/Mar/2018
 
 \lx mɛ́lɛ
 \va mɛ́nɛ
@@ -84047,6 +84106,12 @@ des engagements
 \bw Fr. messe
 \ps n
 \gf messe
+\gvf
+\dt 14/Mar/2018
+
+\lx mɛsi
+\ps n
+\gf mèche.de.cheveux
 \gvf
 \dt 14/Mar/2018
 
@@ -84305,6 +84370,7 @@ des engagements
 
 \lx mín
 \va mínì
+\va mínnì
 \ps adv
 \gf où
 \xv í bɔ́ra mín ?
@@ -84313,7 +84379,7 @@ des engagements
 \xf où est partie ta mère ?
 \xv í bɛ́ táa míni ?
 \xf où vas-tu ?
-\dt 26/Feb/2017
+\dt 15/Mar/2018
 
 \lx mîn
 \va mun
@@ -85025,13 +85091,12 @@ nord-est
 \sd ampe
 \dt 19/Aug/2006
 
-\lx mìsiku
-\mm mìsi:n:bovidé
-\mm kú:n:queue
+\lx mísiku
+\bw Arab. misk
 \ps n
-\gf parfum
-\gvf encens
-\dt 13/Mar/2018
+\gf musc
+\smf (utilisé comme encens)
+\dt 15/Mar/2018
 
 \lx mìsikunbere
 \mm mìsi:n:bovidé
@@ -87132,13 +87197,13 @@ pour les jardins)
 \xf tous sont allés aux champs, sauf la marmaille
 \ms 3
 \gvf dissonance
-\smf discordance dans les notes d'un balafon ...
+\smf (discordance dans les notes d'un balafon)
 \xv mùrumuru bɛ́  báladen ná
 \xf le balafon est mal accordé
 \ms 4
-\gvf virgule
-\smf dans les chifres avec décimales
-\dt 20/Dec/2014
+\gvf décimales
+\smf (dans un nombre avec décimales)
+\dt 16/Mar/2018
 
 \lx mùrumuru
 \ps v
@@ -87204,6 +87269,13 @@ pour les jardins)
 \gf flatter
 \gvf être hypocrite dans ses paroles
 \dt 03/Jul/2017
+
+\lx músanmusan
+\ps v
+\vl vt
+\gf lécher
+\gvf sucer
+\dt 15/Mar/2018
 
 \lx músɛmusɛ
 \ps adv
@@ -87598,15 +87670,15 @@ pour les jardins)
 
 \lx mùsoselijila
 \mm mùso:n:femme
+\mm séliji:v:circoncire
 \mm séli:v:prier
 \mm jí:n:eau
 \mm la:mrph:AG.PRM
 \ps n
-\lt femme-exciser-celle qui
 \gf exciseuse
 \xv kàrisa yé mùsoselijila yé, màliden dòn fána
 \xf Une telle est exciseuse, malienne de plus  (kb 1/05 p.7)
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx mùsosintaki
 \mm mùso:n:femme
@@ -88485,6 +88557,14 @@ pour les jardins)
 \sy nákɔsɛnɛna
 \sy nákɔbaarala
 \dt 08/Jul/2013
+
+\lx nàkun
+\mm nà:v:venir
+\mm kùn:n:tête
+\ps n
+\gf raison.de.la.venue
+\gvf
+\dt 15/Mar/2018
 
 \lx nálon
 \ps vq
@@ -94676,6 +94756,17 @@ graines, sert d'instrument rythmique)
 \rem Mol, l 89
 \dt 11/Nov/2007
 
+\lx nɔ́nikɛlan
+\mm nɔ́.ni:n:natation
+\mm nɔ́:v:nager
+\mm ni:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm lan:mrph:INSTR
+\ps n
+\gf negeoire
+\gvf
+\dt 15/Mar/2018
+
 \lx nɔ̀nkɔn
 \va nɔ̀ngɔn
 \ps n
@@ -95008,6 +95099,8 @@ graines, sert d'instrument rythmique)
 \dt 26/Sep/2006
 
 \lx nɔ́rɔnkola
+\mm nɔ́rɔ:v:coller
+\mm ń:pers:1SG
 \mm kó:n:affaire
 \mm la:mrph:AG.PRM
 \smf *nɔrɔn
@@ -95015,7 +95108,7 @@ graines, sert d'instrument rythmique)
 \gf obstiné
 \gvf tenace
 \lt (coller.action.à)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx nɔ́rɔńná
 \mm nɔ́rɔ:v:coller
@@ -95771,11 +95864,6 @@ graines, sert d'instrument rythmique)
 \ps adv
 \gf plein.à.ras.bord
 \dt 19/Jan/2015
-
-\lx nsè
-\ps n
-\gf Nsé
-\smf prénom (souvent donné à la 8 ème fille d'une même mère)
 
 \lx nsé
 \va únse
@@ -99471,6 +99559,12 @@ graines, sert d'instrument rythmique)
 \xf une panerée
 \dt 26/Sep/2006
 
+\lx ɲɛ́
+\ps adv
+\gf en.avant
+\gvf
+\dt 15/Mar/2018
+
 \lx ɲɛ́ba
 \mm ɲɛ́:n:oeil
 \mm ba:mrph:AUGM
@@ -101345,10 +101439,10 @@ graines, sert d'instrument rythmique)
 \mm ná:pp:à
 \ps pp
 \gf devant
-\gvf en.présence.de
+\gvf en présence de
 \xv ò má kɛ́  né ɲɛ́ ná
 \xf ça n'a pas eu lieu en ma présence
-\dt 18/Apr/2014
+\dt 16/Mar/2018
 
 \lx ɲɛ́na
 \mm ɲɛ́:n:oeil
@@ -104538,11 +104632,11 @@ le pèlerinage (bk 1/06 p.5)
 
 \lx ŋɔ́nibɔlan
 \mm ŋɔ́ni:n:épine
-\mm bɔ̀:n:arracher
+\mm bɔ̀:v:arracher
 \mm lan:mrph:INSTR
 \ps n
 \gf aspérité
-\dt 16/Jun/2017
+\dt 16/Mar/2018
 
 \lx ŋɔ́nifin
 \mm ŋɔ́ni:n:épine
@@ -105589,6 +105683,13 @@ envergure)
 \ps v
 \gf peser
 \dt 06/Feb/2013
+
+\lx petɔrɔli
+\bw Fr. pétrole
+\ps n
+\gf pétrole
+\smf (de lampe)
+\dt 16/Mar/2018
 
 \lx pétu
 \ps intj
@@ -109428,7 +109529,7 @@ épuisés
 \gf en.or
 \gvf
 \smf
-\dt 06/Sep/2017
+\dt 16/Mar/2018
 
 \lx sànyɛlɛma
 \mm sàn:n:année
@@ -110533,16 +110634,16 @@ paniers, sègi)
 \lx sékola
 \mm sé:n:arrivée
 \mm kó:n:affaire
-\mm la:mrph:AG.PRM
+\mm lá:pp:à
 \va sénkola
 \mm sé:n:arrivée
+\mm ń:pers:1SG
 \mm kó:n:affaire
-\mm la:mrph:AG.PRM
+\mm lá:pp:à
 \ps n
 \gf capable
-\smf qui montre qu'il est capable ...
-\lt (pouvoir.action.en)
-\dt 31/May/2016
+\smf (qui montre qu'il est capable)
+\dt 16/Mar/2018
 
 \lx sékufàli
 \ps n
@@ -116163,13 +116264,19 @@ donne d'excellentes fibres)
 \va sófɛrikɛ
 \mm sófɛri:n:chauffeur
 \mm kɛ:adj:mâle
+\va sóferekɛ
+\mm sófɛri:n:chauffeur
+\mm kɛ:adj:mâle
+\va sɔ́fɛrɛkɛ
+\mm sófɛri:n:chauffeur
+\mm kɛ:adj:mâle
 \ps n
 \gf chauffeur
 \gvf
 \smf
 \xv
 \xf
-\dt 13/Feb/2017
+\dt 15/Mar/2018
 
 \lx sófìlawùlunin
 \mm só:n:maison
@@ -116385,10 +116492,13 @@ donne d'excellentes fibres)
 \ms 2
 \gvf petit bout de viande
 \lt (viande.petite)
-\ms 3
+\ms 3.1
+\usf pop.
+\gvf sexe masculin
+\ms 3.2
 \gvf sexe de petit garçon
 \smf (langage enfantin)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx sògoninkun
 \mm sògo.nin:n:petite.antilope
@@ -117390,13 +117500,13 @@ donne d'excellentes fibres)
 \dt 09/Feb/2015
 
 \lx sɔ́fɛlenya
-\mm sɔ́fɛ:n:exrément
+\mm sɔ́fɛ:n:excrément
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \gf mépris
 \gvf
-\dt 09/Feb/2015
+\dt 16/Mar/2018
 
 \lx sɔ̀gàra
 \mm sɔ̀:mrph:EN
@@ -118190,7 +118300,10 @@ euphémique)
 \gvf récoltes
 \xv kà sɔ̀rɔ kɛ́  í yé !
 \xf que tu fasses de bonnes récoltes !
-\dt 26/Sep/2006
+\ms 3
+\gvf revenu
+\gvf rapport
+\dt 15/Mar/2018
 
 \lx sɔ̀rɔ
 \ps v
@@ -119397,7 +119510,7 @@ s'amène ...)
 \mm ya:mrph:ABSTR
 \ps n
 \gf prostitution
-\lt (prostituée.suf abs)
+\dt 15/Mar/2018
 
 \lx súngurunkɔrɔ
 \mm súngurun:n:jeune.fille
@@ -119675,10 +119788,32 @@ s'amène ...)
 \lx súrɔ
 \mm sú:n:nuit
 \mm rɔ́:pp:IN
+\va súra
+\mm sú:n:nuit
+\mm rá:pp:à
 \ps n
+\ms 1
 \gf hier.soir
-\lt (soir.moment)
-\dt 16/Aug/2006
+\ms 2
+\gvf soir
+\gvf à la nuit
+\ms 3
+\gvf souper
+\dt 15/Mar/2018
+
+\lx súrɔ
+\mm sú:n:nuit
+\mm rɔ́:pp:IN
+\va súra
+\mm sú:n:nuit
+\mm rá:pp:à
+\ps adv
+\ms 1
+\gf hier.soir
+\ms 2
+\gvf soir
+\gvf à la nuit
+\dt 15/Mar/2018
 
 \lx súrɔfana
 \mm sú:n:nuit
@@ -122361,13 +122496,12 @@ pieton)
 \ve (bn)
 \ps adv
 \gf récemment
-\smf adverbe associé à une base verbale suivie de dòn / tɛ
-\smf auxiliaire du passé récent :récemment
+\smf (adverbe associé à une base verbale suivie de dòn / tɛ)
 \xv à tàntan-ná dòn
 \xf il vient d'arriver
 \xv fɛ́nkura tàntan-sɔ́rɔ, í bɛ́ nísɔndiya kósɛbɛ
 \xf quand tu viens d'avoir quelque chose de tout neuf, tu es très content
-\dt 07/Mar/2014
+\dt 16/Mar/2018
 
 \lx tántan
 \ps n
@@ -125287,8 +125421,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ve (bn,f)
 \ps n
 \gf manque.d'assiduité
-\lt (application.mauvaise qualité)
-\dt 26/Sep/2006
+\dt 15/Mar/2018
 
 \lx tíminangoya
 \mm tími.nan.go:n:négligent
@@ -125306,8 +125439,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ps v
 \vl vr/vi
 \gf manquer.d'assiduité
-\lt (application.être mauvaise)
-\dt 16/Aug/2006
+\dt 15/Mar/2018
 
 \lx tíminkàla
 \mm tími:vq:savoureux
@@ -127411,6 +127543,13 @@ est due aux paysans (kib 3/05 p.9)
 \gvf bien s'occuper de
 \gvf être aux petits soins pour
 \dt 24/Jun/2013
+
+\lx tɔ́ri
+\va ntɔ́ri
+\ps adv
+\gf pas.du.tout
+\gvf
+\dt 15/Mar/2018
 
 \lx tɔ́rɔ
 \va ntɔ́rɔn
@@ -133108,7 +133247,11 @@ Mali)
 \gvf autoriser
 \xv à yàfara  ù mà mínkɛ...
 \xf quand il les eut congédiés ...
-\dt 05/Feb/2016
+\ms 3
+\vl vi
+\gvf renoncer
+\smf (à -- kɔ́)
+\dt 16/Mar/2018
 
 \lx yàfabaga
 \mm yàfa:v:pardonner

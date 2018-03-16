@@ -2299,11 +2299,12 @@ forme francaise: Berehima
 \dt 09/Apr/2017
 
 \lx Kɔ̀rɔtumu
+\va Kɔ̀rɔtimi
 \dm Kɔ̀rɔ́
 \di b
 \ps n.prop
 \gf NOM.F
-\dt 03/May/2010
+\dt 15/Mar/2018
 
 \lx Kɔsyan
 \ps n.prop
@@ -2721,8 +2722,8 @@ forme francaise: Berehima
 \lx Mata
 \di m
 \ps n.prop
-\gf NOM.M
-\dt 03/May/2010
+\gf NOM.MF
+\dt 15/Mar/2018
 
 \lx Mawula
 \di b
@@ -3163,6 +3164,13 @@ forme francaise: Berehima
 \gf NOM.M
 \smf (prénom du 2e fils)
 \dt 14/Jul/2017
+
+\lx Nsè
+\ps n
+\gf NOM.F
+\gvf Nsé
+\smf (souvent donné à la 8 ème fille d'une même mère)
+\dt 16/Mar/2018
 
 \lx Ntifɛ
 \di b
@@ -3870,6 +3878,12 @@ forme francaise: Berehima
 \gf NOM.M
 \dt 01/May/2017
 
+\lx Sise
+\ps n.prop
+\gf NOM.F
+\gvf Sissé
+\dt 15/Mar/2018
+
 \lx Sìtafa
 \di b
 \ps n.prop
@@ -4281,13 +4295,14 @@ de l'enfant qui survit à sa mère morte en couches
 \gf NOM.M
 \dt 03/May/2010
 
-\lx Wòrokíà
+\lx Wòrokià
 \va Òrokíyà
 \va Marokiya
+\va Wòrokiyà
 \di
 \ps n.prop
 \gf NOM.F
-\dt 17/May/2017
+\dt 15/Mar/2018
 
 \lx Wuye
 \ps n.prop

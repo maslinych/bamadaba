@@ -871,6 +871,13 @@ Comoé, Burkina Faso)
 \cm (деревня на р. Нигер между Бамако и Кангаба)
 \dt 23/May/2010
 
+\lx Barala
+\ps n,prop
+\gf TOP
+\gvf
+\smf (village, du côté de Djenné)
+\dt 15/Mar/2018
+
 \lx Baraselɔni
 \ps n.prop
 \gf TOP
@@ -3511,6 +3518,13 @@ Sikasso)
 \xf
 \dt 22/Oct/2017
 
+\lx Kirango
+\ps n.prop
+\gf TOP
+\gvf Kirango
+\smf (un village, 35
+\dt 14/Mar/2018
+
 \lx Kirikizi
 \ps n.prop
 \gf TOP
@@ -4560,6 +4574,12 @@ Ségou)
 \gvf Minianbalandougou
 \smf (village, préfecture de Kérouané)
 \dt 15/Jun/2017
+
+\lx Miɲon
+\ps n.prop
+\gf TOP
+\smf (un village)
+\dt 15/Mar/2018
 
 \lx Misabugu
 \ps n.prop
@@ -6902,6 +6922,13 @@ cercle de Kati)
 \gvf Ouossila
 \smf (village, région de Ségou)
 \dt 09/Apr/2017
+
+\lx Wuɲan
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village)
+\dt 15/Mar/2018
 
 \lx Yámanin
 \va Yámani

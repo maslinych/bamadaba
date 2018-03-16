@@ -871,6 +871,13 @@ Comoé, Burkina Faso)
 \cm (деревня на р. Нигер между Бамако и Кангаба)
 \dt 23/May/2010
 
+\lx Barala
+\ps n,prop
+\gf TOP
+\gvf
+\smf (village, du côté de Djenné)
+\dt 15/Mar/2018
+
 \lx Baraselɔni
 \ps n.prop
 \gf TOP
@@ -4568,6 +4575,12 @@ Ségou)
 \smf (village, préfecture de Kérouané)
 \dt 15/Jun/2017
 
+\lx Miɲon
+\ps n.prop
+\gf TOP
+\smf (un village)
+\dt 15/Mar/2018
+
 \lx Misabugu
 \ps n.prop
 \gf TOP
@@ -5571,6 +5584,13 @@ d'or)
 \ru Самако
 \cm (вблизи Бамако)
 \dt 23/May/2010
+
+\lx Samankura
+\ps n.prop
+\gf TOP
+\gvf Saman Koura
+\smf (un village, cercle de San)
+\dt 16/Mar/2018
 
 \lx Samaɲana
 \ps n.prop
@@ -6909,6 +6929,13 @@ cercle de Kati)
 \gvf Ouossila
 \smf (village, région de Ségou)
 \dt 09/Apr/2017
+
+\lx Wuɲan
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village)
+\dt 15/Mar/2018
 
 \lx Yámanin
 \va Yámani
