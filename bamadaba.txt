@@ -3679,12 +3679,16 @@ fabrication de meubles, chaises, lits...)
 \gvf arrêter.de
 \ms 2.2
 \vl vi
-\gvf mourir
+\gvf finir
+\smf (de -- lá)
 \xv à bánna  kúma ná
 \xf il a fini de parler
+\ms 3
+\vl vi
+\gvf mourir
 \xv à banna
 \xf il est mort
-\dt 20/May/2013
+\dt 16/Mar/2018
 
 \lx bán
 \sy fɔ́lɔ
@@ -7941,14 +7945,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 26/Sep/2006
 
 \lx bìlama
-\mm bì:n/adv:aujourd'hui
+\mm bì:n:aujourd'hui
 \mm lama:mrph:STAT
 \ps adj
 \gf actuel
 \gvf d'aujourd'hui
 \xv à bìlama, à tɛ́ sé kà tìgɛ
 \xf tel qu'il est aujourd'hui, on ne peut le traverser (marigot en crue)
-\dt 08/Mar/2018
+\dt 16/Mar/2018
 
 \lx bìlangalama
 \mm bìla:v:mettre
@@ -8443,18 +8447,18 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bímɛtɛrɛ
-\mm bí:num:dizaine
+\mm bî:num:dizaine
 \mm mɛ́tɛrɛ:n:mètre
-\va bí.mɛtrɛ
-\mm bí:num:dizaine
-\mm mɛtrɛ: n:mètre
+\va bímɛtrɛ
+\mm bî:num:dizaine
+\mm mɛtrɛ:n:mètre
 \ph [bimɛtrɛ]
 \bw fr
 \ps n
 \gf décamètre
 \smf (néologisme)
 \lt (dizaine.mètre)
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx bìn
 \va bì
@@ -13647,7 +13651,7 @@ centrale est de couleur sombre
 \dt 16/Aug/2006
 
 \lx bùlonba
-\mm bùlon:v:antichambre
+\mm bùlon:n:antichambre
 \mm ba:mrph:AUGM
 \ps n
 \ms 1
@@ -13655,7 +13659,7 @@ centrale est de couleur sombre
 \ms 2
 \gvf chambre
 \smf (de parlement)
-\dt 28/Oct/2017
+\dt 16/Mar/2018
 
 \lx bùlonda
 \mm bùlon:n:antichambre
@@ -29534,13 +29538,11 @@ fait de bonnes poutres)
 
 \lx dúman
 \mm man:mrph:ADJ
-\smf diman*
 \ps adj
 \ms 1
 \gf agréable
 \xv kán dúman
 \xf jolie voix
-\lt (agréable.suf adj)
 \ms 2
 \gvf bon
 \gvf bien.aiguisé
@@ -29554,7 +29556,7 @@ fait de bonnes poutres)
 \xf remède efficace
 \ms 4
 \gvf facile
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx dùmáŋèré
 \ve (f)
@@ -30051,11 +30053,11 @@ gens)
 \mm dún:v:manger
 \mm ta:mrph:PTCP.POT
 \lt (manger.à)
-\ps n
+\ps ptcp
 \gf comestible
 \xv kɔ́ngɔ nàna bìn, dúnta tɛ́, fóyi ! :
 \xf la famine est venue, il n'y a plus rien à manger, rien !
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx dúntantanya
 \mm dún:v:manger
@@ -31137,6 +31139,7 @@ gens)
 \dt 12/Aug/2006
 
 \lx fàamuyabaga
+\mm fàamuya:v:comprendre
 \mm fàamu:v:comprendre
 \mm ya:mrph:ABSTR
 \mm baga:mrph:AG.OCC
@@ -31146,9 +31149,10 @@ gens)
 \gvf spécialiste
 \xv ntòlatan fàamuyabaga yé kɔ̀lɔsili dámadɔ kɛ́
 \xf les spécialistes du football ont fait un certain nombre d'observations  (kb 2/06 p.11)
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx fàamuyalen
+\mm fàamuya:v:comprendre
 \mm fàamu:v:comprendre
 \mm ya:mrph:ABSTR
 \mm len:mrph:PTCP.RES
@@ -31159,19 +31163,19 @@ gens)
 \xv mɔ̀gɔ fàamuyalen 67 kúmana másalakun nìnnu kàn
 \xf 67 spécialistes ont parlé sur ces sujets (kb 1/06 p.2)
 \nt du : mògò fàamùyàlen : averti, compétent, qualifié
-\dt 14/Nov/2012
+\dt 16/Mar/2018
 
 \lx fàamuyali
-\mm fàamu:v:compréhension
+\mm fàamuya:v:comprendre
+\mm fàamu:v:comprendre
 \mm ya:mrph:ABSTR
 \mm li:mrph:NMLZ
 \bw ar:
 \ps n
 \gf compréhension
-\lt (comprendre.action)
-\xv sísan, ò làada cáman dábilara, ò bɛ́ sɔ̀rɔ  fàamuyali fɛ̀
+\xv sísan, ò làada cáman dábilara, ò bɛ́ sɔ̀rɔ fàamuyali fɛ̀
 \xf maintenant, on a abandonné beaucoup de ces coutumes,c'est dû à une (meilleure) compréhension (des choses)
-\dt 12/Aug/2006
+\dt 16/Mar/2018
 
 \lx fàantan
 \mm fàa:n:force
@@ -35088,6 +35092,14 @@ bien (dicton)
 \xv dɔ́rɔmɛ fìla
 \xf dix francs
 \dt 26/Sep/2006
+
+\lx fìlabara
+\mm fìla:num:deux
+\mm bàra:n:calebasse
+\ps n
+\gf testicules
+\gvf
+\dt 16/Mar/2018
 
 \lx fìladɔ́rɔ̀mɛ
 \mm fìla:num:deux
@@ -45062,30 +45074,34 @@ doigts par des fileuses du coton)
 \lx hákilisonya
 \mm hákili:n:esprit
 \mm sòn.ya:v:dérober
-\va hákili.son.yɛ
+\mm sòn:n:voleur
+\mm ya:mrph:ABSTR
+\va hákilisonyɛ
 \mm hákili:n:esprit
 \mm sòn.yɛ:v:dérober
+\mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \ms 1
 \gf détourner.l'attention
-\smf de qn pour éluder une question
+\smf (de qn pour éluder une question)
 \ms 2
-\gvf faire.qc.sans.y.prêter.attention
-\dt 04/Apr/2016
+\gvf faire qqch. sans y prêter attention
+\dt 16/Mar/2018
 
-\lx hákilisonyɛ
-\mm hákili:n:esprit
-\mm sòn.yɛ:v:dérober
-\mm sòn:n:voleur
-\va hákili.son.ya
+\lx hákilisonya
 \mm hákili:n:esprit
 \mm sòn.ya:v:dérober
 \mm sòn:n:voleur
 \mm ya:mrph:ABSTR
+\va hákilisonyɛ
+\mm hákili:n:esprit
+\mm sòn.yɛ:v:dérober
+\mm sòn:n:voleur
+\mm ya:mrph:ABSTR
 \ps n
 \gf détournement.d'attention
-\dt 05/Jul/2013
+\dt 16/Mar/2018
 
 \lx hákilitigi
 \mm hákili:n:esprit
@@ -51964,11 +51980,11 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \lx jɔ̀nsɔnna
 \mm jɔ̀:v:dresser
 \mm ń:pers:1SG
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm ná:pp:à
 \ps n
 \gf aveu.d'une.faute
-\dt 28/Feb/2017
+\dt 16/Mar/2018
 
 \lx jɔ́ntɛfin
 \mm jɔ́ntɛ:n:paludisme
@@ -52491,6 +52507,16 @@ fusil)
 \ps n
 \gf hyène.surnom
 \dt 21/Feb/2014
+
+\lx jùkɛ́
+\mm jù:n:derrière
+\mm kɛ́:v:faire
+\ps v
+\vl vt
+\gf coucher
+\smf (avec une femme)
+\gvf baiser
+\dt 16/Mar/2018
 
 \lx jùkɔrɔ
 \mm jù:n:derrière
@@ -53337,16 +53363,16 @@ l'eau est prête
 
 \lx kàanagɛlɛn
 \mm kàana:n:caractère
-\mm gɛ̀lɛn:adj:dur
+\mm gɛ̀lɛn:adj:difficile
 \va kàarɔgɛlɛn
-\mm gɛ̀lɛn:adj:dur
+\mm gɛ̀lɛn:adj:difficile
 \va kàanagwɛlɛn
 \mm kàana:n:caractère
-\mm gwɛ̀lɛn:adj:dur
+\mm gɛ̀lɛn:adj:difficile
 \va kàarɔgwɛlɛn
-\mm gwɛ̀lɛn:adj:dur
+\mm gɛ̀lɛn:adj:difficile
 \va kàrɔgɛlɛn
-\mm gɛ̀lɛn:adj:dur
+\mm gɛ̀lɛn:adj:difficile
 \ph [gw]
 \ps n
 \ms 1
@@ -53356,7 +53382,7 @@ l'eau est prête
 \ms 2
 \gvf cruel
 \gvf féroce
-\dt 16/Apr/2016
+\dt 16/Mar/2018
 
 \lx kàanagɛlɛya
 \mm kàana:n:caractère
@@ -59131,14 +59157,13 @@ probablement de chaux vive)
 \dt 26/Sep/2006
 
 \lx kɛ́cogo
-\mm kɛ́:n:action
+\mm kɛ́:v:faire
 \mm cógo:n:manière
 \ps n
 \gf manière.de.faire
 \gvf recette
-\lt (faire.manière)
 \sy cógo
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx kɛ̀ɛ́
 \va tɛ̀ɛ́n
@@ -62256,10 +62281,10 @@ probablement de chaux vive)
 
 \lx kólogɛlɛn
 \mm kólo:n:os
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:difficile
 \va kólo.gwɛlɛn
 \mm kólo:n:os
-\mm gwɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:difficile
 \ph [gw]
 \ps adj
 \ms 1
@@ -62269,7 +62294,7 @@ probablement de chaux vive)
 \ms 2
 \gvf de.poids
 \smf (parole ...)
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx kólogɛlɛya
 \mm kólo:n:os
@@ -64637,8 +64662,8 @@ champs)
 \mm kɔ̀gɔ:n:sel
 \mm dùgu:n:terre
 \ps n
-\gf Nord
-\dt 29/Mar/2014
+\gf nord
+\dt 16/Mar/2018
 
 \lx kɔ́gɔfa
 \mm kɔ́gɔ:n:poitrine
@@ -77327,14 +77352,14 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm ní.sɔn.di.ya:v:réjouir
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm dí:vq/adj:agréable
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \lt préf-réjouir
 \gf réjouir
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx lánkolon
 \mm lan:mrph:dans
@@ -79390,15 +79415,16 @@ personne)
 \dt 26/Sep/2006
 
 \lx lɛ́tɛrɛ
+\va lɛ́tiri
 \va lɛ́tri
-\es {fr : lettre}
+\bw Fr. lettre
 \ps n
 \gf lettre
 \sy sɛ́bɛn
 \xv lɛ́tɛrɛ cí
 \xf envoyer une lettre
 \rem l 89 : vérifier la prononciation lètèrè ou lètiri ?
-\dt 25/Mar/2016
+\dt 16/Mar/2018
 
 \lx lɛ́tɛrɛforoko
 \mm lɛ́tɛrɛ:n:lettre
@@ -81925,12 +81951,12 @@ jour, c'est une personne dépendante qu'il voit
 \dt 11/Nov/2007
 
 \lx mánanin
-\mm mánan:n:substance.collante
+\mm mána:n:substance.collante
 \mm nin:mrph:DIM
 \ps n
 \gf sac.plastique
 \gvf préservatif
-\dt 08/Oct/2017
+\dt 16/Mar/2018
 
 \lx mánaninkun
 \mm mána:n:substance.collante
@@ -92378,19 +92404,19 @@ sur soi, on les connaît
 
 \lx nísɔn
 \mm ní:n:âme
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \ps n
 \gf humeur
 \gvf caractère
 \lt (âme.endroit)
 \xv à nísɔn ká dí
 \xf il est gai
-\dt 18/Dec/2014
+\dt 16/Mar/2018
 
 \lx nísɔndiya
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps n
@@ -92399,25 +92425,25 @@ sur soi, on les connaît
 \lt (humeur.bonté)
 \xv tùma bɛ́ɛ, á bɛ́  nísɔndiya lá
 \xf vous êtes toujours de bonne humeur
-\dt 23/Mar/2015
+\dt 16/Mar/2018
 
 \lx nísɔndiya
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf réjouir
 \lt (humeur.rendre bonne)
-\dt 23/Mar/2015
+\dt 16/Mar/2018
 
 \lx nísɔndiyafuranin
 \mm ní.sɔn.di.ya:n:joie
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \mm fúra:n:feuille
@@ -92425,44 +92451,44 @@ sur soi, on les connaît
 \ps n
 \gf drogue
 \lt (joie.petit remède)
-\dt 23/Mar/2015
+\dt 16/Mar/2018
 
 \lx nísɔnduman
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm dúman:adj:agréable
 \ps adj
 \lt coeur-gai
 \gf joyeux
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx nísɔngo
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm gó:adj:désagréable
 \ps adj/n
 \gf de.mauvaise.humeur
 \lt (humeur.mauvaise)
-\dt 23/Mar/2015
+\dt 16/Mar/2018
 
 \lx nísɔngoya
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf mauvaise.humeur
 \gvf irritation
-\dt 23/Mar/2015
+\dt 16/Mar/2018
 
 \lx nísɔngoya
 \mm ní.sɔn.go:adj/n:de.mauvaise.humeur
 \mm ní.sɔn:n:humeur
 \mm ní:n:âme
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps v
@@ -92470,7 +92496,7 @@ sur soi, on les connaît
 \gf contrarier
 \gvf attrister
 \lt (humeur.rendre mauvaise)
-\dt 23/Mar/2015
+\dt 16/Mar/2018
 
 \lx nísɔngɔ
 \mm ní:n:âme
@@ -104045,7 +104071,7 @@ le pèlerinage (bk 1/06 p.5)
 \dt 20/Dec/2015
 
 \lx ɲùman
-\smf *ɲì = bon, beau
+\mm man:mrph:ADJ
 \ps adj
 \ms 1
 \gf bon
@@ -104053,14 +104079,15 @@ le pèlerinage (bk 1/06 p.5)
 \gvf beau
 \ms 3
 \gvf utile
-\dt 08/Mar/2018
+\dt 16/Mar/2018
 
 \lx ɲùman
+\mm man:mrph:ADJ
 \ps n
 \gf bienfait
 \xv ɲùman kɛ́
 \xf bien agir
-\dt 23/Feb/2014
+\dt 16/Mar/2018
 
 \lx ɲùmana
 \mm na:mrph:MNT1
@@ -107466,15 +107493,16 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sàfuruláyi
+\va sàfuruláye
 \ps intj
-\bw (arab. ʔstaɣfiru lla:h 'je cherche pardon à Dieu')
+\bw Arab. ʔstaɣfiru lla:h 'je cherche pardon à Dieu'
 \ms 1
 \gf pardon
 \ms 2
 \gvf Dieu m'en garde
 \gvf Dieu m'en préserve
 \smf
-\dt 04/Dec/2017
+\dt 16/Mar/2018
 
 \lx sàga
 \ps n
@@ -107808,26 +107836,27 @@ épuisés
 \dt 28/Feb/2017
 
 \lx sáheli
-\bw ar: sahil = littoral (du désert)
+\bw ar: sahil 'littoral' (du désert)
 \ps n
-\gf Nord
-\dt 27/Feb/2017
+\gf nord
+\dt 16/Mar/2018
 
 \lx sáhelikungo
-\mm sáheli:n:Nord
+\mm sáheli:n:nord
 \mm kúngo:n:brousse
 \ps n
 \lt sahel-désert
 \gf Sahara
 \rem l89
-\dt 11/Nov/2007
+\dt 16/Mar/2018
 
 \lx sáheliyanfan
-\mm sáheli:n:Nord
+\mm sáheli:n:nord
 \mm yàn:n:ici
 \mm fàn:n:côté
 \ps n
-\gf Nord
+\gf nord
+\dt 16/Mar/2018
 
 \lx sàjɛ
 \mm sà:n:serpent
@@ -112793,13 +112822,12 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sɛ̀gɛn:v:fatiguer
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj
+\ps adj/n
 \gf pauvre
-\lt (être dans la misère.celui qui)
 \sy dɛ́sɛbaatɔ
 \sy fàantan
 \sy bólontan
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx sɛ̀gɛnɛ
 \ps v
@@ -117946,13 +117974,13 @@ euphémique)
 \dt 26/Sep/2006
 
 \lx sɔ̀nfɔ
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm fɔ́:v:dire
 \ps n
 \lt défaut.dire
 \gf critique
 \gvf médisance
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀ngɔ
 \ps n
@@ -118012,7 +118040,7 @@ euphémique)
 \lt (ongle.couper.ce qui sert à)
 
 \lx sɔ̀nja
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm jà:v:sécher
 \ps n
 \gf tristesse
@@ -118021,27 +118049,27 @@ euphémique)
 \lt (coeur.sécher)
 \sy dùsukasi
 \sy kɔ́nɔgan
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nja
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm jà:v:sécher
 \ps v
 \gf attrister
 \gvf affliger
 \gvf décevoir
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀njugu
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm júgu:vq/adj:mauvais
 \ps adj/n
 \gf débauché
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀njuguya
 \mm sɔ̀n.jugu:adj/n:débauché
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm júgu:vq/adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
@@ -118052,11 +118080,11 @@ euphémique)
 \lt (vicieux.suf abs)
 \xv à dén tɛ́  sɔ̀njuguya tó yèn, fɔ́ kà táa sà
 \xf son enfant n'abandonnera pas sa conduite mauvaise jusqu'à sa mort
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀njuguya
 \mm sɔ̀n.jugu:adj/n:débauché
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm júgu:vq/adj:mauvais
 \mm ya:mrph:ABSTR
 \ps v
@@ -118067,20 +118095,20 @@ euphémique)
 \xf il a raflé cette nourriture en l'absence de sa mère
 \xv í yé  nìn wári sɔ̀njuguya  k'à sɔ̀rɔ  à má d'í mà
 \xf tu as utilisé cet argent sans qu'on te l'ait donné
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀njuru
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm jùru:n:corde
 \ps n
 \gf aorte
 \lt (coeur.lien)
 \xv í yé ń sɔ̀njuru tìgɛ
 \xf tu m'as causé énormément de peine
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nkolon
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm kólon:vq:fainéant
 \ps n
 \ms 1
@@ -118088,7 +118116,7 @@ euphémique)
 \lt (conduite.vaurien)
 \ms 2
 \gvf vaurien
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nkómà
 \mm sɔ̀n:v:accepter
@@ -118101,7 +118129,7 @@ euphémique)
 \dt 26/Sep/2006
 
 \lx sɔ̀nkɔrɔ
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm kɔ̀rɔ:vq/adj:vieux
 \ps n
 \gf vieille.habitude
@@ -118109,56 +118137,56 @@ euphémique)
 \lt (vice.vieux)
 \xv dùgumɛnɛ sɔ̀nkɔrɔ yé  cínni yé : (pró)
 \xf la vieille habitude de la fourmi est de piquer
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nkun
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm kùn:n:tête
 \ps n
 \gf coeur
 \smf (organe)
 \lt (coeur.tête)
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nkuna
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm kúna:vq:amer
 \ps n
 \gf pyrosis
 \lt (coeur.amer)
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nkundimi
 \mm sɔ̀n.kun:n:coeur
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm kùn:n:tête
 \mm dími:n:souffrance
 \ps n
 \gf maux.de.coeur
 \lt (coeur.douleur)
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nnabiri
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm ná:mrph:CAUS
 \mm bíri:v:courber
 \ps n
 \gf diaphragme
 \lt (coeur.lieu.couverture)
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nnaɲini
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm ná:mrph:CAUS
 \mm ɲíni:v:chercher
 \ps v
 \vl vt ?
 \gf chercher.querelle
 \rem l 89, bk, bn
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nnasiran
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm ná:mrph:CAUS
 \mm síran:v:craindre
 \ps v
@@ -118168,10 +118196,10 @@ euphémique)
 \xv ù b'ú sɔ̀nnasiran ní ò kúma cáman yé sá
 \xf ils lui flanquent la frousse avec beaucoup de paroles de ce genre !
 \rem f
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nnɛmɛ
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \ve (-bk)
 \smf sɔndɔmɛ*
 \ps n
@@ -118181,7 +118209,7 @@ euphémique)
 \xv à tó án sɔ̀nnɛmɛ ná
 \xf tiens t'en à ce que nous avons décidé  (ce n'est pas de la rigolade)
 \sy ngàniya
-\dt 18/Feb/2015
+\dt 16/Mar/2018
 
 \lx sɔ̀nni
 \mm sɔ̀n:v:accepter
@@ -118230,24 +118258,24 @@ euphémique)
 \dt 11/Nov/2007
 
 \lx sɔ̀nntan
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm ntan:mrph:PRIV
 \ps adj
 \gf innocent
 \lt (vice.sans)
 \xv sɔ̀nntan tóra ɲɛ́gɛn nɔ́
 \xf l'innocent est resté dans la douchière(l'enfant mort-né y est enterré, innocent comme un bébé qui vient de naître)
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nntanya
 \mm sɔ̀n.ntan:adj:innocent
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf innocence
 \lt (innocent.suf abs)
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀nsira
 \mm sɔ̀n:n:accord
@@ -118258,21 +118286,21 @@ euphémique)
 \dt 05/Feb/2016
 
 \lx sɔ̀nsuma
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm súma:v:rafraîchir
 \ps n
 \gf consolation
 \lt (coeur.rafraîchir)
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀ntigi
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \mm tìgi:n:maître
 \ps n
 \gf vicieux
 \lt (vice.qui a)
 \sy sɔ̀njugu
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx sɔ̀ntulo
 \mm sɔ̀n:n:coeur
@@ -119548,9 +119576,16 @@ s'amène ...)
 \ps v
 \vl vt
 \gf débaucher
-\smf traiter une femme ou une fille comme une putain
-\lt (comme une putain.fréquenter)
-\dt 16/Aug/2006
+\smf (traiter une femme ou une fille comme une putain)
+\dt 16/Mar/2018
+
+\lx súnguruntigɛ
+\mm súngurun:n:jeune.fille
+\mm tìgɛ:v:couper
+\ps n
+\gf débauche
+\smf (le fait de draguer les filles)
+\dt 16/Mar/2018
 
 \lx súnguruntigɛla
 \mm súngurun.tigɛ:v:débaucher
@@ -120346,13 +120381,14 @@ fiançailles
 \dt 01/Mar/2017
 
 \lx súutɛ
+\va súute
 \ps v
 \vl vi
 \gf quitter.foyer.conjugal
 \smf (femme)
 \xv cɛ̀ ní  mùso kɛ̀lɛla, mùso súutɛra
 \xf le mari et la femme se sont querellés, la femme s'est enfuie
-\dt 16/Aug/2006
+\dt 16/Mar/2018
 
 \lx súwɛ
 \va swɛ́
@@ -128097,12 +128133,12 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tùgusɔn
 \mm tùgu:n:bras
-\mm sɔ̀n:n:cœur
+\mm sɔ̀n:n:coeur
 \ve (-bn)
 \ps n
 \gf biceps
 \lt (bras.chair)
-\dt 23/Nov/2012
+\dt 16/Mar/2018
 
 \lx túgutege
 \ps adv
@@ -131760,10 +131796,10 @@ la Justice (kb 12/05 p.4)
 \mm dùgu:n:terre
 \sy wòroduguyanfan
 \ps n
-\gf Sud
+\gf sud
 \smf (le pays des kolatiers : spécialement la Côte d'Ivoire au sud du
 Mali)
-\dt 05/Apr/2016
+\dt 16/Mar/2018
 
 \lx wòroduguyànfan
 \mm wòrodugu:n:sud
@@ -132594,16 +132630,16 @@ Mali)
 \lx wúlikajɔ
 \mm wúli:v:se.lever
 \mm kà:pm:INF
-\mm jɔ̀:v:mettre.débout
+\mm jɔ̀:v:dresser
 \va wúli-kà-jɔ̀
 \mm wúli:v:se.lever
 \mm kà:pm:INF
-\mm jɔ̀:v:mettre.débout
+\mm jɔ̀:v:dresser
 \ps n
 \gf mobilisation
 \gvf détermination
 \gvf responsabilité
-\dt 26/Nov/2016
+\dt 16/Mar/2018
 
 \lx wùlu
 \ps n
