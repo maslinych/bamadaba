@@ -24002,7 +24002,7 @@ génitales ...
 
 \lx dénjugu
 \mm dén:n:enfant
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj/n
 \ms 1
 \gf égoïste
@@ -24013,34 +24013,35 @@ génitales ...
 \ms 3
 \gvf qui use de maléfices
 \smf (pour tuer les gens, le bétail ...)
-\dt 26/Sep/2006
+\dt 17/Mar/2018
 
 \lx dénjuguya
+\mm dén.jugu:n:égoïste
 \mm dén:n:enfant
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \gf méchanceté
 \gvf égoïsme
 \gvf jalousie
 \lt (méchant.suf abs)
-\dt 26/Sep/2006
+\dt 17/Mar/2018
 
 \lx dénjuguya
+\mm dén.jugu:n:égoïste
 \mm dén:n:enfant
-\mm júgu:vq/adj:mauvais
-\mm ya:mrph:DEQU
+\mm júgu:adj:mauvais
+\mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \ms 1
 \gf faire.du.tort
-\lt (jaloux.suf caus)
 \ms 2
 \gvf jalouser
 \smf (au point de causer du tort à qqn)
 \xv à y'á dénjuguya
 \xf il lui a jeté des maléfices (en cachette)
-\dt 03/Apr/2016
+\dt 17/Mar/2018
 
 \lx dénjuru
 \mm dén:n:enfant
@@ -40714,8 +40715,15 @@ forestières, fruit : long follicule de 50 cm)
 \lx gàban
 \ve (-f)
 \ps n
-\gf chapeau
-\dt 12/Aug/2006
+\ms 1
+\gf chapeau.conique
+\smf (en paille, en feuilles de rônier)
+\ms 2
+\gvf idiot
+\gvf imbécile
+\gvf sot
+\gvf bêta
+\dt 17/Mar/2018
 
 \lx gàbugu
 \mm gà:n:foyer
@@ -76243,48 +76251,47 @@ catastrophe)
 
 \lx làkalita
 \mm lákàlí:v:raconter
-\mm tà:n:action.de.prendre
+\mm ta:mrph:PTCP.POT
 \ph [ton inversé !]
 \ps n
 \gf nouvelle.à.diffuser
-\lt (diffuser.à)
 \xv í kà làkalita fáranfasiya  kà bɔ́  kúma tɔ̀ lá
 \xf distingue bien les paroles à diffuser  des autres
-\dt 26/Sep/2006
+\dt 17/Mar/2018
 
 \lx làkalitaɲini
 \mm làkali.ta:n:nouvelle.à.diffuser
 \mm lákàlí:v:raconter
-\mm tà:n:action.de.prendre
+\mm ta:mrph:PTCP.POT
 \mm ɲíni:v:chercher
 \ps n
 \lt nouvelles-recherche
 \gf reportage
 \rem l 89, jos : d'accord pour le ton
-\dt 11/Nov/2007
+\dt 17/Mar/2018
 
 \lx làkalitaɲinina
 \mm làkali.ta:n:nouvelle.à.diffuser
 \mm lákàlí:v:raconter
-\mm tà:n:action.de.prendre
+\mm ta:mrph:PTCP.POT
 \mm ɲíni:v:chercher
 \mm na:mrph:AG.PRM
 \ps n
 \lt nouvelles-chercher-celui qui
 \gf journaliste
 \rem l 89
-\dt 11/Nov/2007
+\dt 17/Mar/2018
 
 \lx làkalitasɛbɛn
 \mm làkali.ta:n:nouvelle.à.diffuser
 \mm lákàlí:v:raconter
-\mm tà:n:action.de.prendre
+\mm ta:mrph:PTCP.POT
 \mm sɛ́bɛn:n:écrit
 \ps n
 \lt nouvelles-écrit
 \gf journal
 \rem l 89, jos : d'accord pour le ton
-\dt 11/Nov/2007
+\dt 17/Mar/2018
 
 \lx lákàn
 \mm lá:mrph:CAUS
@@ -101909,9 +101916,12 @@ graines, sert d'instrument rythmique)
 \va ɲɛ́.nɛma
 \mm ɲɛ́:n:oeil
 \ps n
+\ms 1
 \gf vie
-\lt (vivant.suf abs)
-\dt 25/Jun/2013
+\ms 2
+\gvf vivacité
+\gvf animatio
+\dt 17/Mar/2018
 
 \lx ɲɛ́namaya
 \mm ɲɛ́.nama:adj:vivant
@@ -108161,10 +108171,12 @@ épuisés
 \dt 28/Feb/2017
 
 \lx sálòn
+\va sálonwo
 \va sánwo
+\va sálǒnkó
 \ps adv/n
 \gf l'an.dernier
-\dt 13/Jul/2017
+\dt 17/Mar/2018
 
 \lx sálonnasini
 \mm sálon:n/adv:l'an.dernier
@@ -131793,6 +131805,7 @@ la Justice (kb 12/05 p.4)
 \gf chimpanzé
 \lat Pan troglodytes verus
 \smf singe sans queue, zone plutôt forestière)
+\dt 17/Mar/2018
 
 \lx wóro
 \ps n
