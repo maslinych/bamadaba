@@ -15388,6 +15388,9 @@ sur soi)
 \lx cɛ̀gana
 \mm cɛ̀:n:mâle
 \mm gána:adj:célibataire
+\va cɛ̀ganan
+\mm cɛ̀:n:mâle
+\mm gánan:adj:célibataire
 \va cɛ̀.gwana
 \mm cɛ̀:n:mâle
 \mm gwána:adj:célibataire
@@ -15395,7 +15398,7 @@ sur soi)
 \ps n
 \gf célibataire
 \lt (homme.seul)
-\dt 26/Sep/2006
+\dt 17/Mar/2018
 
 \lx cɛ̀ganafuralan
 \mm cɛ̀.gana:n:célibataire
@@ -15428,23 +15431,33 @@ sur soi)
 \mm cɛ̀:n:mâle
 \mm gána:adj:célibataire
 \mm ya:mrph:ABSTR
+\va cɛ̀gananya
+\mm cɛ̀.ganan:n:célibataire
+\mm cɛ̀:n:mâle
+\mm gánan:adj:célibataire
+\mm ya:mrph:ABSTR
 \ps n
 \gf célibat
 \smf (des hommes)
 \lt (célibataire.état)
-\dt 16/Aug/2006
+\dt 17/Mar/2018
 
 \lx cɛ̀ganaya
 \mm cɛ̀.gana:n:célibataire
 \mm cɛ̀:n:mâle
 \mm gána:adj:célibataire
 \mm ya:mrph:ABSTR
+\va cɛ̀gananya
+\mm cɛ̀.ganan:n:célibataire
+\mm cɛ̀:n:mâle
+\mm gánan:adj:célibataire
+\mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf priver.de.femme
 \smf (causes diverses : divorce, mort, maladie ...)
 \lt (célibataire.suf caus)
-\dt 16/Aug/2006
+\dt 17/Mar/2018
 
 \lx cɛ̀jan
 \mm cɛ̀:n:mâle
@@ -54716,6 +54729,14 @@ l'eau est prête
 \gvf irréfléchi
 \dt 16/Aug/2006
 
+\lx kálan
+\va kála
+\ps adj
+\ms
+\gf chaud
+\gvf
+\dt 17/Mar/2018
+
 \lx kàlanbaa
 \mm kàlan:v:lire
 \mm baa:mrph:AG.OCC
@@ -89267,14 +89288,17 @@ sorcières et leur élimination)
 \mm nà:v:venir
 \mm síra:n:chemin
 \ps n
+\ms 1
 \gf manière
 \gvf moyen
 \lt (venir.route)
-\xv ò yé  kóloli nàsira yé
+\xv ò yé kóloli nàsira yé
 \xf c'est une manière d'éduquer
-\xv ù b'án dɛ̀mɛ ní  nàsira cáman yé
+\xv ù b'án dɛ̀mɛ ní nàsira cáman yé
 \xf ils nous aident de beaucoup de façons
-\dt 26/Sep/2006
+\ms 2
+\gvf chemin par lequel on vient
+\dt 17/Mar/2018
 
 \lx násiri
 \va násuru
@@ -99717,17 +99741,16 @@ graines, sert d'instrument rythmique)
 \ms 1
 \vl vi
 \gf désirer
-\smf ... fɛ̀
+\smf (qqch. -- fɛ̀)
 \xv à ɲɛ́bɔra  à fɛ̀
 \xf il en a eu envie
 \ms 2
 \vl vr
-\gvf détourner.regard
-\smf de ... la
-\lt (oeil.sortir)
+\gvf détourner regard
+\smf (de - lá)
 \xv í ɲɛ́bɔ ń ná !
 \xf arrête de me fixer des yeux !
-\dt 26/Sep/2006
+\dt 16/Mar/2018
 
 \lx ɲɛ́bɔ
 \mm ɲɛ́:n:oeil
@@ -107200,16 +107223,15 @@ épuisés
 \dt 26/Sep/2006
 
 \lx sábanan
-\mm sába:num:trois
+\mm sàba:num:trois
 \mm nan:mrph:ORD
 \va 3nan
-\mm sába:num:trois
+\mm sàba:num:trois
 \mm nan:mrph:ORD
 \ps adj
 \gf troisième
 \ph [on s'attendrait à un ton bas]
-\lt (trois.ième)
-\dt 08/Feb/2016
+\dt 17/Mar/2018
 
 \lx sàbanin
 \mm sàba:num:trois
@@ -127079,16 +127101,16 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tɔ̀kajɛ̀
 \mm tɔ̀:n:le.reste
-\mm ká:pm:SBJV
+\mm kà:pm:INF
 \mm jɛ̀:v:rater
 \ps n
 \gf chose.inutile
 \gvf
-\dt 22/Mar/2015
+\dt 17/Mar/2018
 
 \lx tɔ̀kajɛ̀
 \mm tɔ̀:n:le.reste
-\mm ká:pm:SBJV
+\mm kà:pm:INF
 \mm jɛ̀:v:rater
 \ps adj
 \ms 1
@@ -127096,7 +127118,7 @@ est due aux paysans (kib 3/05 p.9)
 \ms 2
 \gvf incomplet
 \gvf insuffisant
-\dt 22/Mar/2015
+\dt 17/Mar/2018
 
 \lx tɔ̀lase
 \mm tɔ̀:n:le.reste
@@ -131216,9 +131238,15 @@ la Justice (kb 12/05 p.4)
 
 \lx wò
 \ps n
+\ms 1.1
 \gf trou
+\ms 1.2
+\gvf caverne
 \gvf cavité
-\dt 26/Sep/2006
+\gvf terrier
+\ms 2
+\gvf défaut
+\dt 17/Mar/2018
 
 \lx wó
 \va wá
@@ -133938,9 +133966,14 @@ bambara)
 \mm kó:n:affaire
 \mm fìla:num:deux
 \ps n
-\gf ambivalence
-\smf (expérience des situations opposées, comme richesse / misère)
-\dt 05/Apr/2016
+\ms 1
+\gf déchéance
+\gvf revers de fortune
+\gvf décadence
+\ms 2
+\gvf personne ruinée
+\smf (se retrouvant dans une situation très inférieure à celle qu'il a connue auparavant)
+\dt 17/Mar/2018
 
 \lx yèku
 \va yèeru
