@@ -38138,7 +38138,7 @@ frontières, forestiers, sapeurs)
 \va fúsì
 \va fúyì
 \smf fɛn.si* = chose aucune, rien
-\ps n
+\ps prn
 \gf rien
 \gvf aucun
 \smf (toujours dans une phrase négative)
@@ -38146,7 +38146,7 @@ frontières, forestiers, sapeurs)
 \xf je ne possède rien
 \xv é fána tɛ́  fóyi ɲà !
 \xf Vraiment , tu n'es bon à rien !
-\dt 11/Jun/2016
+\dt 18/Mar/2018
 
 \lx fósì
 \va fóyì
@@ -77438,17 +77438,16 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \dt 16/Mar/2018
 
 \lx lánkolon
-\mm lan:mrph:dans
+\mm lan:mrph:à
 \mm kólon:adj:vide
 \va nánkolon
-\mm nan:mrph:dans
+\mm nan:mrph:à
 \mm kólon:adj:vide
 \va lákolon
-\mm la:mrph:dans
+\mm la:mrph:à
 \mm kólon:adj:vide
 \ps adj
 \sy kólon
-\lt (endroit.vide)
 \ms 1
 \gf vide
 \xv à bólo lánkolon sèginna
@@ -77462,32 +77461,32 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf négligeable
 \xv ù tɛ́  mɔ̀gɔ lánkolon yé
 \xf ce ne sont pas des gens de rien
-\dt 03/Jun/2017
+\dt 18/Mar/2018
 
 \lx lánkolonya
 \mm lán.kolon:adj:vide
-\mm lan:mrph:dans
+\mm lan:mrph:à
 \mm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \va lákolonya
 \mm lá.kolon:adj:vide
-\mm lan:mrph:dans
+\mm lan:mrph:à
 \mm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \ps n
 \gf nudité
 \gvf vide
 \lt (nu.suf abs)
-\dt 03/Jun/2017
+\dt 18/Mar/2018
 
 \lx lánkolonya
 \mm lánkolon:adj:vide
-\mm lan:mrph:dans
+\mm lan:mrph:à
 \mm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \va lákolonya
 \mm lákolon:adj:vide
-\mm lan:mrph:dans
+\mm lan:mrph:à
 \mm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \ps v
@@ -77497,7 +77496,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \gvf dénuder
 \lt (nu.suf caus)
-\dt 03/Jun/2017
+\dt 18/Mar/2018
 
 \lx lánɔ
 \mm lá:mrph:CAUS
