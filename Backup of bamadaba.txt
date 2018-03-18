@@ -4926,6 +4926,13 @@ Fleurs spectaculaires
 \smf (amulettes)
 \dt 16/Aug/2006
 
+\lx bárasa
+\va báasa
+\ps n
+\gf côte
+\gvf
+\dt 17/Mar/2018
+
 \lx bárasaga
 \mm bára:n:préféré
 \mm sàga:n:ovin
@@ -4933,6 +4940,14 @@ Fleurs spectaculaires
 \gf mouton.de.case
 \lt (maison.ovidé)
 \dt 16/Aug/2006
+
+\lx bárasakolo
+\mm bárasa:n:côte
+\mm kólo:n:os
+\ps n
+\gf côte
+\gvf
+\dt 17/Mar/2018
 
 \lx bàratu
 \ps v
@@ -12450,13 +12465,6 @@ milieu des pierres
 \smf (sert de gourde de baratte ...)
 \dt 26/Sep/2006
 
-\lx bɔli
-\ps n
-\bw Fr. bol
-\gf bol
-\gvf
-\dt 11/Mar/2018
-
 \lx bɔ́li
 \mm bɔ́:v:sortir
 \mm li:mrph:NMLZ
@@ -12467,6 +12475,13 @@ milieu des pierres
 \xv ń yé ń ká bɔ́li dábila  kà nà  báara nìn kɛ́  í yé
 \xf j'ai renoncé à ma sortie pour venir te faire ce travail
 \dt 26/Sep/2006
+
+\lx bɔ́li
+\ps n
+\bw Fr. bol
+\gf bol
+\gvf
+\dt 17/Mar/2018
 
 \lx bɔ̀lɔ
 \ps n
@@ -12547,7 +12562,11 @@ toujours (pro)
 \ms 2
 \gvf tomber
 \smf (fruits, feuilles)
-\dt 03/Apr/2016
+\ms 3
+\vl vt
+\gvf jeter
+\gvf lancer
+\dt 17/Mar/2018
 
 \lx bɔ̀n
 \ps v
@@ -14980,7 +14999,10 @@ médicinales
 \gvf homme.courageux
 \gvf héros
 \gvf guerrier
-\dt 09/Jul/2013
+\ms 5
+\gvf mec
+\smf (adresse familière à un homme et même à une femme; plus souvent par un homme, mais aussi par une femme)
+\dt 17/Mar/2018
 
 \lx cɛ̀
 \ps n
@@ -24958,10 +24980,10 @@ assumant que l'interclocuteur pense autrement)
 \xv Ála tɛ́ dɛ́sɛ fóyi lá
 \xf rien n'est impossible à Dieu
 \ms 2
-\gvf manquer.en.quantité
-\xv síramugu dɛ́sɛlen  né dá
+\gvf manquer en quantité
+\xv síramugu dɛ́sɛlen né dá
 \xf je n'ai presque plus de tabac en bouche
-\dt 07/Feb/2017
+\dt 17/Mar/2018
 
 \lx dɛ́sɛ
 \va dɛ́sɛn
@@ -34519,6 +34541,12 @@ bien (dicton)
 \smf (du boeuf, du mouton, du lion ...)
 \dt 07/Mar/2018
 
+\lx fɛ́lɛkɛfɛlɛkɛ
+\ps onomat
+\gf d'un.pas.léger
+\gvf
+\dt 17/Mar/2018
+
 \lx fɛ́lɛku
 \va fyɛ́ku
 \va fyéku
@@ -40715,8 +40743,15 @@ forestières, fruit : long follicule de 50 cm)
 \lx gàban
 \ve (-f)
 \ps n
-\gf chapeau
-\dt 12/Aug/2006
+\ms 1
+\gf chapeau.conique
+\smf (en paille, en feuilles de rônier)
+\ms 2
+\gvf idiot
+\gvf imbécile
+\gvf sot
+\gvf bêta
+\dt 17/Mar/2018
 
 \lx gàbugu
 \mm gà:n:foyer
@@ -46132,6 +46167,14 @@ doigts par des fileuses du coton)
 \gf langue.russe
 \dt 21/Feb/2013
 
+\lx iriwanɛ
+\va ruwanɛ
+\bw Ar. ru:ḥ
+\ps n
+\gf esprit
+\gvf genie
+\dt 17/Mar/2018
+
 \lx itali
 \ps n
 \gf italien
@@ -48524,7 +48567,12 @@ calebasses)
 \gvf opportuniste
 \gvf personne avide
 \gvf personne cupide
-\dt 15/Aug/2017
+\ms 4
+\gvf quantité négligeable
+\gvf objet négligeable
+\xv í tɛ jèni-kà-ɲími bɔ́
+\xf tu es insignifiant
+\dt 18/Mar/2018
 
 \lx jèniyɔrɔ
 \mm jèni:v:brûler
@@ -49762,8 +49810,7 @@ le toit de la maison et descendaient
 \ps n
 \gf désillusion
 \gvf dépit
-\lt (espoir.couper)
-\dt 26/Sep/2006
+\dt 17/Mar/2018
 
 \lx jìgitiɲɛ
 \mm jìgi:n:espoir
@@ -49778,8 +49825,7 @@ le toit de la maison et descendaient
 \ps n
 \gf déception
 \gvf désespoir
-\lt (espoir.gâter)
-\dt 26/Sep/2006
+\dt 17/Mar/2018
 
 \lx jìgiya
 \mm jìgi:n:espoir
@@ -57339,17 +57385,26 @@ jeunes)
 \lx kànu
 \va kànun
 \ps v
-\vl vt
 \ms 1
+\vl vt
 \gf aimer
 \gvf s'attacher.à
 \smf (parents, amis, amants ...)
 \ms 2
+\vl vt
 \gvf désirer
 \gvf plaire
 \xv ù y'á kànu...
 \xf il leur a plu de ...
-\dt 23/Apr/2013
+\ms 3
+\vl vt
+\gvf souhaiter
+\smf (à -- yé)
+\ms 4
+\vl vi
+\gvf mériter
+\smf (qqch. -- yé)
+\dt 17/Mar/2018
 
 \lx kànubaa
 \mm kànu:v:aimer
@@ -73357,11 +73412,11 @@ Sahel)
 \dt 11/Nov/2007
 
 \lx kùran
-\es {fr : courant}
+\bw Fr. courant
 \ps n
 \gf électricité
 \rem l 89, du  / cf: pq 00 kùrànjuru
-\dt 11/Nov/2007
+\dt 17/Mar/2018
 
 \lx kùranɛ
 \va kùrana
@@ -84157,18 +84212,18 @@ des engagements
 \gvf agitation
 \dt 26/Sep/2006
 
-\lx mɛsi
+\lx mɛ́si
 \bw Fr. messe
 \ps n
 \gf messe
 \gvf
-\dt 14/Mar/2018
+\dt 17/Mar/2018
 
-\lx mɛsi
+\lx mɛ́si
 \ps n
 \gf mèche.de.cheveux
 \gvf
-\dt 14/Mar/2018
+\dt 17/Mar/2018
 
 \lx mɛ́tɛmɛtɛ
 \ps adv
@@ -91201,6 +91256,15 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \gf folie
 \gvf grande.agitation.mentale
 \dt 26/Sep/2006
+
+\lx ngànamini
+\va jànamini
+\ps v
+\vt vt
+\usf rare
+\gf gifler
+\gvf
+\dt 17/Mar/2018
 
 \lx ngáningani
 \va nkáninkani
@@ -99470,6 +99534,17 @@ graines, sert d'instrument rythmique)
 \xf le chien a montré les dents
 \dt 26/Sep/2006
 
+\lx ɲàtuma
+\mm ɲà:n:réussite
+\mm tùma:n:moment
+\va ɲàntuma
+\mm ɲà:n:réussite
+\mm tùma:n:moment
+\ps conj
+\gf probablement
+\smf (dans le contexte d'une condition irréel: ce qui ne s’est pas réalisé mais qui aurait pu l’être)
+\dt 17/Mar/2018
+
 \lx ɲègeɲege
 \ps v
 \vl vi
@@ -105745,12 +105820,12 @@ envergure)
 \gf peser
 \dt 06/Feb/2013
 
-\lx petɔrɔli
+\lx pètɔrɔli
 \bw Fr. pétrole
 \ps n
 \gf pétrole
 \smf (de lampe)
-\dt 16/Mar/2018
+\dt 17/Mar/2018
 
 \lx pétu
 \ps intj
@@ -127175,13 +127250,15 @@ est due aux paysans (kib 3/05 p.9)
 \ms 1
 \gf ramasser
 \smf (un par un)
+\xv sí bìnna à tɔ̀mɔminɛn kɔ́nɔ
+\xf cela est tombé à pic
 \ms 2
 \gvf trier
 \gvf choisir
 \ms 3
 \gvf retrouver
 \smf un objet perdu
-\dt 13/Jun/2013
+\dt 17/Mar/2018
 
 \lx tɔ̀n
 \vc tɔ̀
@@ -131760,7 +131837,9 @@ la Justice (kb 12/05 p.4)
 \gf huée
 \xv wòo cì  mɔ̀gɔ lá
 \xf crier haro sur qqn
-\dt 03/Apr/2016
+\xv wòo dá mɔ̀gɔ lá
+\xf conspuer qqn.
+\dt 17/Mar/2018
 
 \lx wòoro
 \va wòoron
