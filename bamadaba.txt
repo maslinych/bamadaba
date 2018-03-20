@@ -15055,6 +15055,12 @@ médicinales
 \xf qu'y a-t-il entre eux ?
 \dt 26/Sep/2006
 
+\lx cɛ́
+\ps intj
+\gf dis.donc
+\gvf
+\dt 19/Mar/2018
+
 \lx cɛ̀ba
 \mm cɛ̀:n:mâle
 \mm ba:mrph:AUGM
@@ -24677,6 +24683,21 @@ assumant que l'interclocuteur pense autrement)
 \xf il mange et boit sans retenue
 \dt 26/Sep/2006
 
+\lx dɛlɛ
+\ps v
+\src Mahamadu Konta
+\vl vt
+\gf épier
+\smf (observer secrètement)
+\dt 20/Mar/2018
+
+\lx dɛ́lɛ
+\ps v
+\vl vt
+\gf prendre.soin.de
+\gvf
+\dt 19/Mar/2018
+
 \lx dɛ́lɛdɛlɛdɛlɛ
 \va dlɛ́dlɛdlɛ
 \ph [dlɛdlɛdlɛ]
@@ -28679,10 +28700,13 @@ désorienter')
 \dt 05/Apr/2015
 
 \lx dɔ́rɔn
-\ps conj
-\gf aussitôt.que
+\ps adv
+\ms 1
+\gf seulement
+\ms 2
+\gvf aussitôt.que
 \gvf une fois que
-\dt 19/Feb/2017
+\dt 19/Mar/2018
 
 \lx dɔ́wɛrɛ
 \mm dɔ́:dtm:certain
@@ -58508,6 +58532,13 @@ probablement de chaux vive)
 \gvf produit.psycho
 \dt 18/Apr/2014
 
+\lx káwu
+\ps adv
+\gf crac
+\gvf vlan
+\smf (bruit sec de qqch. qui se casse net, bruit de coup)
+\dt 19/Mar/2018
+
 \lx káwule
 \va káwula
 \va káwulɛ
@@ -65088,6 +65119,16 @@ champs)
 \ps n
 \gf bosse
 \lt (dos.boule)
+
+\lx kɔ́kuru
+\mm kɔ́:n:dos
+\mm kùru:v:plier
+\ps v
+\ms vr
+\gf retourner
+\gvf revenir
+\gvf faire demi-tour
+\dt 20/Mar/2018
 
 \lx kɔ́lada
 \mm kɔ́:n:dos
@@ -111698,10 +111739,19 @@ gouvernement le soutient (kb 5/06 p.7)
 \ps n
 \gf allure
 \gvf marche
-\lt (pas.suf abs)
 \xv mín sènna ká tɛ́li
 \xf celui, celle qui est rapide
-\dt 30/Nov/2012
+\dt 19/Mar/2018
+
+\lx sénna
+\mm sé:v:arriver
+\mm ń:pers:1SG
+\mm na:pp:à
+\ps n
+\gf domination
+\gvf pouvoir
+\smf (sur les plus petits et moins forts)
+\dt 20/Mar/2018
 
 \lx sènnaanimafɛn
 \mm sèn:n:jambe
@@ -121288,6 +121338,8 @@ fiançailles
 \xf contracter une dette
 \xv màa hàkɛ tà
 \xf faire du tort à quelqu'un
+\xv sí bìnna à tàminɛn kɔ́nɔ
+\xf cela est tombé à pic
 \ms 2
 \gvf prendre par
 \xv mà ù yé  sòn tà  à tɛ́gɛ mà
@@ -121328,7 +121380,7 @@ fiançailles
 \gvf donner la préférence
 \smf (à – fɛ̀)
 
-\dt 05/Apr/2016
+\dt 20/Mar/2018
 
 \lx tà
 \ps n
@@ -125811,16 +125863,16 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \vl vt
 \ms 1
 \gf enfoncer
-\smf en appuyant
+\smf (en appuyant)
 \gvf appuyer fortement
 \xv k'í tíntin  bɔ̀ kàn  kà kúrun súma
 \xf s'appuyer sur la perche de bambou pour faire avancer la pirogue
 \ms 2
 \gvf forcer
-\smf qn par ses instances
+\smf (qqn par ses instances)
 \xv à yé ń tíntin
 \xf il m'a forcé
-\dt 26/Sep/2006
+\dt 19/Mar/2018
 
 \lx tíntintin
 \va títiti
@@ -128736,6 +128788,27 @@ arrière grand-père est mort
 \xv túlon kɛ́
 \xf s'adonner à la débauche
 \dt 07/Feb/2016
+
+\lx túlonkɛ
+\mm túlon:n:jeu
+\mm kɛ́:v:faire
+\ps v
+\ms 1
+\vl vt
+\gf jouer
+\gvf s'amuser
+\ms 2
+\vl vt
+\gvf jouer avec
+\dt 19/Mar/2018
+
+\lx túlonkɛ
+\mm túlon:n:jeu
+\mm kɛ́:v:faire
+\ps n
+\gf jeu
+\gvf amusement
+\dt 19/Mar/2018
 
 \lx túlonkɛden
 \mm túlon:n:jeu
@@ -135654,6 +135727,18 @@ généreuses, avec bourrelets
 \ps v
 \gf escroquer
 \dt 25/Jun/2013
+
+\lx yùuru
+\va yùuri
+\va yùru
+\ps v
+\ms 1
+\vl vi
+\gf glisser
+\ms 2
+\vl vi
+\gvf s'écrouler
+\dt 19/Mar/2018
 
 \lx zándarameri
 \ps n
