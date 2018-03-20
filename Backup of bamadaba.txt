@@ -24685,6 +24685,7 @@ assumant que l'interclocuteur pense autrement)
 
 \lx dɛlɛ
 \ps v
+\src Mahamadu Konta
 \vl vt
 \gf épier
 \smf (observer secrètement)
@@ -49282,7 +49283,7 @@ Songhaï)
 \dt 26/Sep/2006
 
 \lx jɛ́ya
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:vq:blanc
 \mm ya:mrph:DEQU
 \ps n
 \ms 1
@@ -49295,7 +49296,7 @@ Songhaï)
 \gvf clarté
 \ms 4
 \gvf innocence
-\dt 26/Sep/2006
+\dt 20/Mar/2018
 
 \lx jɛ́ya
 \mm jɛ́:vq/adj:blanc
