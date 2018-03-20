@@ -51287,13 +51287,13 @@ et insecticides)
 
 \lx jòlila
 \mm jòli:prn:combien
-\mm la:mrph:PRICE
+\mm la:mrph:PRIX
 \ps prn
 \gf pour.combien
 \lt (combien.endroit)
 \xv - í bɛ́  jòlila fɛ̀ ?  - mùganna
 \xf - pour combien en veux-tu ? - pour 100 fr
-\dt 16/Aug/2006
+\dt 20/Mar/2018
 
 \lx jòlima
 \mm jòli:n:sang
@@ -82939,16 +82939,16 @@ invulnérable aux serpents, aux fauves ...)
 \mm tìga:n:arachide
 \va màrbaatiga
 \mm tìga:n:arachide
-\mm màrabatiga
+\va màrabatiga
 \mm tìga:n:arachide
-\mm màribatiga
+\va màribatiga
 \mm tìga:n:arachide
 \ph [marba ...]
 \ps n
 \gf arachides.grillées
 \smf (et salées)
 \gvf cacahuètes grillées
-\dt 09/Mar/2018
+\dt 20/Mar/2018
 
 \lx màrabolo
 \mm màra:n:garde
