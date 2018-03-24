@@ -24683,20 +24683,20 @@ assumant que l'interclocuteur pense autrement)
 \xf il mange et boit sans retenue
 \dt 26/Sep/2006
 
-\lx dɛlɛ
-\ps v
-\src Mahamadu Konta
-\vl vt
-\gf épier
-\smf (observer secrètement)
-\dt 20/Mar/2018
-
 \lx dɛ́lɛ
 \ps v
 \vl vt
 \gf prendre.soin.de
 \gvf
 \dt 19/Mar/2018
+
+\lx dɛ́lɛ
+\ps v
+\src Mahamadu Konta
+\vl vt
+\gf épier
+\smf (observer secrètement)
+\dt 21/Mar/2018
 
 \lx dɛ́lɛdɛlɛdɛlɛ
 \va dlɛ́dlɛdlɛ
@@ -27612,8 +27612,9 @@ chefs religieux et représentants de l'administration
 \va lɔ́gɔ
 \ph [jwa]
 \ps n
-\ms
+\ms 1
 \gf fagot
+\gvf bois à brûler
 \xv dɔ́gɔ ɲíni
 \xf chercher du bois
 \xv dɔ́gɔ sìri
@@ -27621,7 +27622,7 @@ chefs religieux et représentants de l'administration
 \ms 2
 \ve (maninka Manding?)
 \gvf arbre
-\dt 26/Sep/2006
+\dt 23/Mar/2018
 
 \lx dɔ́gɔ
 \va dwa
@@ -122870,6 +122871,17 @@ pieton)
 \xv
 \xf
 \dt 22/May/2016
+
+\lx tàramuso
+\mm mùso:n:femme
+\va tàaramuso
+\mm mùso:n:femme
+\va tàarɛmuso
+\mm mùso:n:femme
+\ps n
+\gf esclave.concubine
+\gvf
+\dt 24/Mar/2018
 
 \lx táranna
 \mm tára:v:coller

@@ -24683,20 +24683,20 @@ assumant que l'interclocuteur pense autrement)
 \xf il mange et boit sans retenue
 \dt 26/Sep/2006
 
-\lx dɛlɛ
-\ps v
-\src Mahamadu Konta
-\vl vt
-\gf épier
-\smf (observer secrètement)
-\dt 20/Mar/2018
-
 \lx dɛ́lɛ
 \ps v
 \vl vt
 \gf prendre.soin.de
 \gvf
 \dt 19/Mar/2018
+
+\lx dɛ́lɛ
+\ps v
+\src Mahamadu Konta
+\vl vt
+\gf épier
+\smf (observer secrètement)
+\dt 21/Mar/2018
 
 \lx dɛ́lɛdɛlɛdɛlɛ
 \va dlɛ́dlɛdlɛ
@@ -27612,8 +27612,9 @@ chefs religieux et représentants de l'administration
 \va lɔ́gɔ
 \ph [jwa]
 \ps n
-\ms
+\ms 1
 \gf fagot
+\gvf bois à brûler
 \xv dɔ́gɔ ɲíni
 \xf chercher du bois
 \xv dɔ́gɔ sìri
@@ -27621,7 +27622,7 @@ chefs religieux et représentants de l'administration
 \ms 2
 \ve (maninka Manding?)
 \gvf arbre
-\dt 26/Sep/2006
+\dt 23/Mar/2018
 
 \lx dɔ́gɔ
 \va dwa
@@ -82939,16 +82940,16 @@ invulnérable aux serpents, aux fauves ...)
 \mm tìga:n:arachide
 \va màrbaatiga
 \mm tìga:n:arachide
-\mm màrabatiga
+\va màrabatiga
 \mm tìga:n:arachide
-\mm màribatiga
+\va màribatiga
 \mm tìga:n:arachide
 \ph [marba ...]
 \ps n
 \gf arachides.grillées
 \smf (et salées)
 \gvf cacahuètes grillées
-\dt 09/Mar/2018
+\dt 20/Mar/2018
 
 \lx màrabolo
 \mm màra:n:garde
