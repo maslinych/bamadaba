@@ -6571,7 +6571,7 @@ rhume, toux
 \xf ils sont en train de boire de la bière de mil
 \xv ù bɛ́ kàn  kà dɔ̀lɔ mìn
 \xf ils sont en train de boire de la bière de mil
-\dt 24/Nov/2017
+\dt 27/Mar/2018
 
 \lx bɛ̀dɛbɛdɛ
 \va bèrebere
@@ -17712,9 +17712,9 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \gf jour
 \xv dá fìla ìn ná
 \xf ces jours-ci
-\xv dá fìla bɛ́  án ní  séli cɛ́
+\xv dá fìla bɛ́ án ní  séli cɛ́
 \xf la fête a lieu dans deux jours
-\dt 26/Sep/2006
+\dt 27/Mar/2018
 
 \lx dá
 \ps n
@@ -28420,20 +28420,6 @@ le nom du groupe ethnique)
 désorienter')
 \dt 19/Feb/2014
 
-\lx dɔ̀ngɔ
-\va dɔ̀gɔn
-\ve (f)
-\va dùngɔ
-\va dɔ̀ngɔn
-\ps n
-\gf désir
-\gvf goût
-\gvf bon.plaisir
-\gvf volonté
-\xv Ála y'á dɔ̀ngɔ dòn  à lá, ń'ó yé  sàya yé
-\xf Dieu lui a manifesté sa volonté, je veux dire : la mort
-\dt 20/Feb/2013
-
 \lx dɔ̀ngɔli
 \va dɔ̀ngɔri
 \ps n
@@ -30062,12 +30048,17 @@ quant à sa mère, elle prend de l'âge
 \dt 26/Sep/2006
 
 \lx dùngɔ
+\va dɔ̀ngɔ
+\va dɔ̀ngɔn
 \ps n
 \gf désir
 \gvf choix
 \gvf goût
 \gvf bon plaisir
-\dt 08/Nov/2014
+\gvf volonté
+\xv Ála y'á dɔ̀ngɔ dòn  à lá, ń'ó yé  sàya yé
+\xf Dieu lui a manifesté sa volonté, je veux dire : la mort
+\dt 28/Mar/2018
 
 \lx dùnguru
 \va tùnfuru
@@ -46312,11 +46303,11 @@ provoqués par une plaie : adénopathie)
 
 \lx jàa
 \va jàga
-\ps conj
+\ps intj
 \gf en.fait
 \gvf vraiment
 \gvf cependant
-\dt 30/Mar/2014
+\dt 25/Mar/2018
 
 \lx jáabi
 \bw ar: gawaba = id.
@@ -74384,8 +74375,8 @@ catastrophe)
 \va làhaji
 \ps n
 \gf pèlerin
-\smf de La Mecque (parfois prénom donné à la naissance, même chez des bambara non musulmans)
-\dt 16/Aug/2006
+\smf (de La Mecque; parfois prénom donné à la naissance, même chez des bambara non musulmans))
+\dt 26/Mar/2018
 
 \lx làaka
 \va làka
@@ -78591,8 +78582,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \vl vt
 \gf libérer
 \gvf sauver
-\lt (préf.libérer)
-\dt 26/Sep/2006
+\dt 27/Mar/2018
 
 \lx látilen
 \mm lá:mrph:CAUS
@@ -87044,10 +87034,12 @@ pour les jardins)
 \smf (mur en pisé, toit de paille)
 \dt 16/Aug/2006
 
-\lx mùnna
+\lx mùnná
+\mm mùn:prn:quoi
+\mm ná:pp:à
 \ps prn
 \gf pourquoi
-\dt 23/Feb/2014
+\dt 27/Mar/2018
 
 \lx múntan
 \va múnta
@@ -108335,10 +108327,24 @@ épuisés
 \dt 20/Dec/2015
 
 \lx sàma
+\va sànba
 \ps v
+\ms 1
 \vl vt
-\gf tirer.à.soi
-\dt 16/Aug/2006
+\gf tirer.vers.soi
+\gvf hisser, 
+\gvf traîner
+\ms 2
+\vl vt 
+\gvf tendre
+\ms 3
+\vl vt
+\gvf retenir ; 
+\ms 4
+\vl vt
+\gvf retirer ; 
+\gvf attirer
+\dt 26/Mar/2018
 
 \lx sàmabali
 \mm sàma:n:éléphant
@@ -119082,8 +119088,8 @@ s'amène ...)
 \ms 2
 \vl vt
 \gvf pousser
-\smf pour faire entrer de force
-\dt 26/Sep/2006
+\smf (pour faire entrer de force)
+\dt 25/Mar/2018
 
 \lx súgusuguma
 \mm súgusugu:v:s'engouffrer
@@ -121592,11 +121598,12 @@ fiançailles
 \lx tàala
 \va tàana
 \va tàgala
+\va wùtala
 \cf Ála tàana
 \ps n
 \gf Très-haut
 \smf (qualificatif réservé à Dieu)
-\dt 02/May/2015
+\dt 27/Mar/2018
 
 \lx táala
 \mm táa:v:aller
@@ -122881,7 +122888,7 @@ pieton)
 \ps n
 \gf esclave.concubine
 \gvf
-\dt 24/Mar/2018
+\dt 25/Mar/2018
 
 \lx táranna
 \mm tára:v:coller
@@ -126444,8 +126451,8 @@ est due aux paysans (kib 3/05 p.9)
 \lx tókutoku
 \ps onomat
 \gf pouf-pouf
-\smf bruit de petits sauts (crapauds ...)
-\dt 16/Aug/2006
+\smf (bruit de petits sauts de crapauds)
+\dt 25/Mar/2018
 
 \lx tòli
 \ps adj
@@ -135367,10 +135374,18 @@ comportement (LD p.5)
 \dt 11/May/2015
 
 \lx yó
+\va yóo
 \ps prt
 \gf salut
 \smf (particule vocative exprimante l'insistance)
-\dt 17/Dec/2017
+\dt 26/Mar/2018
+
+\lx yó
+\va yóo
+\ps intj
+\gf salut
+\smf (interjection vocative exprimante l'insistance)
+\dt 26/Mar/2018
 
 \lx yòba
 \ps v
