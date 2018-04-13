@@ -1680,6 +1680,13 @@ traîne sur le fond des eaux
 \lt (ossature.faire)
 \dt 16/Aug/2006
 
+\lx bácɛmalàle
+\ps n
+\src Kalilou Tera
+\gf serpent.mythique
+\smf (tellement longue qu'il peut barrer le Niger)
+\dt 13/Apr/2018
+
 \lx bácɛncɛn
 \mm bá:n:fleuve
 \mm cɛ̀ncɛn:n:sable
@@ -1691,11 +1698,14 @@ traîne sur le fond des eaux
 \dt 08/Nov/2012
 
 \lx báda
+\va báda-báda
 \va bádaa
+\va bádaa-bádaa
 \va báada
-\bw ar: abadan : mêmes sens
+\bw ar: abadan : toujours
 \ps adv
 \gf toujours
+\dt 03/Apr/2018
 
 \lx báda
 \mm bá:n:fleuve
@@ -1704,6 +1714,24 @@ traîne sur le fond des eaux
 \gf rive
 \lt (fleuve.bord)
 \dt 26/Sep/2006
+
+\lx báda
+\va báda-báda
+\va bádaa
+\va bádaa-bádaa
+\bw ar: abadan : toujours
+\ps n
+\gf toujours
+\dt 03/Apr/2018
+
+\lx báda
+\va báda-báda
+\va bádaa
+\va bádaa-bádaa
+\bw ar: abadan : toujours
+\ps intj
+\gf toujours
+\dt 03/Apr/2018
 
 \lx bádawo
 \ps onomat
@@ -2880,12 +2908,15 @@ se vend au marché
 
 \lx bàlakabalaka
 \ps v
+\ms 1
 \vl vi
 \gf bâcler
-\gvf agir.précipitamment
+\ms 2
+\vl vi
+\gvf agir avec hâte et difficulté
 \xv à bàlakabalakara  kà wúli
-\xf il s'est levé précipitamment
-\dt 08/Nov/2012
+\xf il s'est levé en peinant
+\dt 11/Apr/2018
 
 \lx bàla-kà-wúli
 \mm bàla:v:surprendre
@@ -6674,8 +6705,7 @@ rhume, toux
 \mm kɛ:adj:mâle
 \ps n
 \gf oncle.maternel
-\lt (parent côté maternel.homme)
-\dt 16/Aug/2006
+\dt 01/Apr/2018
 
 \lx bɛ́ɛnkɛya
 \mm bɛ́ɛn.kɛ:n:oncle.maternel
@@ -10625,7 +10655,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bólolabaarakɛla
 \mm bólo.la.baara:n:travail.manuel
 \mm bólo:n:bras
-\mm la:mrph:POSS
+\mm lá:pp:à
 \mm báara:n:travail
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
@@ -10634,7 +10664,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf artisan
 \gvf ouvrier
 \lt (travail manuel.qui fait)
-\dt 26/Sep/2006
+\dt 12/Apr/2018
 
 \lx bólolabalɔntan
 \mm bólo:n:bras
@@ -28041,63 +28071,59 @@ le nom du groupe ethnique)
 \dt 16/Mar/2018
 
 \lx dɔ̀kɔtɔrɔfura
-\mm dɔ̀kɔtɔrɔ:n:infirmier
+\mm dɔ̀kɔtɔrɔ:n:docteur
 \mm fúra:n:feuille
 \va dɔ̀gɔtɔrɔ.fura
-\mm dɔ̀gɔtɔrɔ:n:infirmier
+\mm dɔ̀gɔtɔrɔ:n:docteur
 \mm fúra:n:feuille
 \ps n
 \gf médicament
 \smf (fabriqué en usine, acheté en pharmacie ...)
-\lt (docteur.remède)
-\dt 11/May/2013
+\dt 13/Apr/2018
 
 \lx dɔ̀kɔtɔrɔmobili
-\mm dɔ̀kɔtɔrɔ:n:infirmier
+\mm dɔ̀kɔtɔrɔ:n:docteur
 \mm móbili:n:automobile
 \va dɔ́gɔtɔrɔ.mobili
-\mm dɔ̀gɔtɔrɔ:n:infirmier
+\mm dɔ̀gɔtɔrɔ:n:docteur
 \mm móbili:n:automobile
 \ps n
-\lt docteur-voiture
 \gf ambulance
 \rem du /l 89/
-\dt 11/Nov/2007
+\dt 13/Apr/2018
 
 \lx dɔ̀kɔtɔrɔmuso
-\mm dɔ̀kɔtɔrɔ:n:infirmier
+\mm dɔ̀kɔtɔrɔ:n:docteur
 \mm mùso:adj:femme
 \va dɔ̀gɔtɔrɔ.muso
-\mm dɔ̀gɔtɔrɔ:n:infirmier
+\mm dɔ̀gɔtɔrɔ:n:docteur
 \mm mùso:adj:femme
 \ps n
 \gf doctoresse
 \gvf infirmière
-\dt 16/Mar/2018
+\dt 13/Apr/2018
 
 \lx dɔ̀kɔtɔrɔso
-\mm dɔ̀kɔtɔrɔ:n:infirmier
+\mm dɔ̀kɔtɔrɔ:n:docteur
 \mm só:n:maison
 \va dɔ̀gɔtɔrɔso
-\mm dɔ̀gɔtɔrɔ:n:infirmier
+\mm dɔ̀gɔtɔrɔ:n:docteur
 \mm só:n:maison
 \ps n
 \gf hôpital
 \gvf centre.de.soins
-\lt (docteur.maison)
-\dt 25/Feb/2017
+\dt 13/Apr/2018
 
 \lx dɔ̀kɔtɔrɔya
-\mm dɔ̀kɔtɔrɔ:n:infirmier
+\mm dɔ̀kɔtɔrɔ:n:docteur
 \mm ya:mrph:ABSTR
 \va dɔ̀gɔtɔrɔ.ya
-\mm dɔ̀gɔtɔrɔ:n:infirmier
+\mm dɔ̀gɔtɔrɔ:n:docteur
 \mm ya:mrph:ABSTR
 \ps n
-\lt docteur-suf abs
 \gf médecine
 \smf (science ou pratique)
-\dt 11/May/2013
+\dt 13/Apr/2018
 
 \lx dɔ́lakelen
 \mm dɔ́:dtm:certain
@@ -28924,6 +28950,13 @@ désorienter')
 \sy dùfa-màsakɔrɔ
 \dt 16/Aug/2006
 
+\lx dùgan
+\va jùgan
+\ps n
+\gf calao
+\gvf
+\dt 13/Apr/2018
+
 \lx dùgare
 \va dùngare
 \va dùgalen
@@ -28980,14 +29013,14 @@ désorienter')
 \ms 1
 \gf serpent.Typhlops.punctatus
 \smf (petit serpent fouisseur, inoffensif)
-\lt (sol.  ?  )
 \ms 2
 \gvf serpent.Leptotyphlops.sp.
 \smf petit serpent fouisseur, inoffensif)
 \sy kàlaci
 \sy dùgukolosanin
 \sy dùgurɔsanin
-\dt 16/Aug/2006
+\sy dùgusa
+\dt 13/Apr/2018
 
 \lx dùgucila
 \mm dùgu:n:terre
@@ -29381,6 +29414,23 @@ fait de bonnes poutres)
 \gf se.pavaner
 \smf dans ses beaux habits, nonchalamment
 \dt 26/Sep/2006
+
+\lx dùgusa
+\mm dùgu:n:terre
+\mm sà:n:serpent
+\ps n
+\src Kalilou Tera
+\ms 1
+\gf serpent.Typhlops.punctatus
+\smf (petit serpent fouisseur, inoffensif)
+\ms 2
+\gvf serpent.Leptotyphlops.sp.
+\smf petit serpent fouisseur, inoffensif)
+\sy kàlaci
+\sy dùgukolosanin
+\sy dùgurɔsanin
+\sy dùguci
+\dt 13/Apr/2018
 
 \lx dùgusen
 \mm dùgu:n:terre
@@ -30056,9 +30106,9 @@ quant à sa mère, elle prend de l'âge
 \gvf goût
 \gvf bon plaisir
 \gvf volonté
-\xv Ála y'á dɔ̀ngɔ dòn  à lá, ń'ó yé  sàya yé
+\xv Ála y'á dɔ̀ngɔ dòn à lá, ń'ó yé sàya yé
 \xf Dieu lui a manifesté sa volonté, je veux dire : la mort
-\dt 28/Mar/2018
+\dt 13/Apr/2018
 
 \lx dùnguru
 \va tùnfuru
@@ -33208,10 +33258,10 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \bw ar: farida = pratique religieuse facultative
 \ps n
 \ms 1
-\gf pratique.religieuse.surérogatoire
+\gf obligation.religieuse
 \ms 2
 \gvf menstrue
-\dt 16/Aug/2006
+\dt 13/Apr/2018
 
 \lx fàrifaa
 \mm fàri:n:corps
@@ -33492,15 +33542,21 @@ compagnie ...
 \mm fárin:vq:ardent
 \mm ya:mrph:DEQU
 \ps v
+\ms 1.1
 \vl vt
-\ms 1
 \gf rendre.piquant
-\lt (vaillant.suf caus)
-\ms 2
+\ms 1.2
+\vl vi
+\gvf devnir piquant
+\ms 2.1
+\vl vt
 \gvf rendre.courageux
 \xv dénmisɛn fárinyana
 \xf (les circoncis) ont été courageux
-\dt 16/Aug/2006
+\ms 2.2
+\vl vi
+\gvf oser
+\dt 13/Apr/2018
 
 \lx fàriŋɛɲɛ
 \mm fàri:n:corps
@@ -34808,10 +34864,9 @@ bien (dicton)
 \mm bɔ̀nɛ:v:éprouver.un.malheur
 \ps n
 \gf casse-tout
-\gvf étourdi
-\gvf imbécile
-\lt (chose.perdre)
-\dt 26/Sep/2006
+\gvf gauche
+\gvf incompétent
+\dt 13/Apr/2018
 
 \lx fɛ́nnadila
 \mm fɛ́n:n:chose
@@ -37564,6 +37619,17 @@ frontières, forestiers, sapeurs)
 \xf en mourant, il a dit tout ce qu'il avait fait (il a déliré)
 \dt 16/Aug/2006
 
+\lx fòlofala
+\ps v
+\ms 1
+\vl vi
+\gf pendouiller
+\ms 2
+\vl vt
+\gvf laisser pendouiller
+\smf (ses bras)
+\dt 13/Apr/2018
+
 \lx fòlofolo
 \ps v
 \vl vt
@@ -38429,17 +38495,18 @@ frontières, forestiers, sapeurs)
 \ps adv
 \ms 1
 \gf autrefois
-\gvf d'abord
 \sy gále
 \xv nìn bɔ́ra  né lá fɔ́lɔ
 \xf j'ai eu cette maladie là autrefois
 \ms 2
+\gvf d'abord
+\ms 3
 \gvf encore
 \smf (+ négation)
 \sy bán
 \xv à má nà fɔ́lɔ
 \xf il n'est pas encore arrivé
-\dt 27/sept./2006
+\dt 04/Apr/2018
 
 \lx fɔ́lɔ
 \ps v
@@ -45183,11 +45250,10 @@ doigts par des fileuses du coton)
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
-\lt habile-suf caus
 \gf rendre.intelligent
 \xv à bɛ́  kódɔnbali hákilitigiya
 \xf elle rend sage les simples
-\dt 11/Nov/2007
+\dt 02/Apr/2018
 
 \lx hákilitigiya
 \mm hákili:n:esprit
@@ -47652,9 +47718,8 @@ calebasses)
 \mm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps n
-\lt traître-suf abs
 \gf trahison
-\dt 11/Nov/2007
+\dt 02/Apr/2018
 
 \lx jànfatigi
 \mm jànfa:n:trahison
@@ -48308,6 +48373,7 @@ calebasses)
 \dt 26/Sep/2006
 
 \lx jàtigifaajiri
+\mm jà.tigi:n:logeur
 \mm jà:v:héberger
 \mm tìgi:n:maître
 \mm fàa:v:tuer
@@ -48319,7 +48385,7 @@ calebasses)
 \lt (hôte.tuer.arbre)
 \smf arbre épiphyte ---> 15 m, rarement indépendant, enlace généralement le tronc d'un autre arbre)
 \sy nsɛ́rɛninjɛ
-\dt 19/Aug/2006
+\dt 02/Apr/2018
 
 \lx jàtigila
 \mm jà:v:héberger
@@ -49130,6 +49196,14 @@ calebasses)
 \sd irid
 \sy nkɛ̀lɛnnintiga
 \dt 19/Aug/2006
+
+\lx jɛ̀nɛkala
+\mm jɛ̀nɛ:n:fuseau
+\mm kàla:n:tige
+\ps n
+\gf quenouille
+\gvf manche du fuseau
+\dt 01/Apr/2018
 
 \lx jɛ̀nɛya
 \bw ar: zina' = id.
@@ -54017,10 +54091,23 @@ l'eau est prête
 \lx kábi
 \ve (-f)
 \ps v
+\ms 1
 \vl vt
 \gf puiser
-\smf pour assécher (type de pêche)
-\dt 16/Aug/2006
+\smf (pour assécher, type de pêche)
+\gvf écoper
+\gvf assécher en puisant
+\ms 2.1
+\vl vt
+\gvf donner à boire
+\gvf faire boire
+\smf (une grande quantité de liquide)
+\ms 2.2
+\vl vr
+\gvf boire en grande quantité 
+\gvf se désaltérer
+\gvf étancher sa soif
+\dt 11/Apr/2018
 
 \lx kàbila
 \va kàbla
@@ -60367,6 +60454,13 @@ probablement de chaux vive)
 \gf par.côté
 \dt 07/Feb/2016
 
+\lx kɛ̀rɛfɛ̀
+\mm kɛ̀rɛ:n:côté
+\mm fɛ̀:pp:par
+\ps adv
+\gf à.côté
+\dt 13/Apr/2018
+
 \lx kɛ̀rɛfɛkuma
 \mm kɛ̀rɛ:n:côté
 \mm fɛ̀:pp:par
@@ -61153,10 +61247,11 @@ probablement de chaux vive)
 \ps adv
 \gf très.sale
 \gvf très.noir
+\smf (et laid)
 \sy kírikiti
 \xv sán fìnna kírikiri
 \xf le ciel est très noir
-\dt 19/Jan/2015
+\dt 12/Apr/2018
 
 \lx kírikiri
 \ps v
@@ -61584,7 +61679,7 @@ probablement de chaux vive)
 \xf la nuit est tombée, il est tard
 \xv sú nà kò  í lá
 \xf la nuit va te surprendre
-\dt 26/Sep/2006
+\dt 13/Apr/2018
 
 \lx kò
 \va k'
@@ -72170,25 +72265,25 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \xf tu as de la chance
 \dt 23/Mar/2015
 
-\lx kùnna
+\lx kùnná
 \mm kùn:n:tête
 \mm ná:pp:à
 \ps pp
 \ms 1
 \gf au.dessus
-\xv à bɛ́ fógon  jí kùnna
+\xv à bɛ́ fógon  jí kùnná
 \xf il flotte sur l'eau
 \lt (tête.endroit)
 \ms 2
 \gvf au.sujet.de
-\xv dùnu ìn bɛ́ fɔ́  hɛ́rɛ kùnna
+\xv dùnu ìn bɛ́ fɔ́  hɛ́rɛ kùnná
 \xf on joue de ce tambour dans les heureuses circonstances
 \ms 3
 \gvf à.la.tête.de
 \gvf en.charge.de
-\xv à sìgitɔ fílɛ  dùgu kùnna
+\xv à sìgitɔ fílɛ  dùgu kùnná
 \xf le voilà qu'on l'installe à la tête du village
-\dt 26/Sep/2006
+\dt 12/Apr/2018
 
 \lx kúnna
 \mm kún:v:s'adapter
@@ -72226,7 +72321,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \sy kùnnabirifini
 \dt 16/Aug/2006
 
-\lx kùnnabiri
+\lx kùnnabíri
 \mm kùn:n:tête
 \mm ná:mrph:CAUS
 \mm bíri:v:courber
@@ -72235,7 +72330,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gf voiler.la.tête
 \smf (rite d'initiation ...)
 \lt (tête.couvrir)
-\dt 16/Aug/2006
+\dt 10/Apr/2018
 
 \lx kùnnabɔ
 \mm kùn:n:tête
@@ -75898,12 +75993,6 @@ catastrophe)
 \lt (information.suf)
 \dt 16/Aug/2006
 
-\lx làhaji
-\va làaji
-\ps n
-\gf pèlerin.de.La.Mecque
-\dt 16/Aug/2006
-
 \lx láhara
 \bw ar: al-uhra = id.
 \ps n
@@ -76541,6 +76630,13 @@ catastrophe)
 \xv àle bɛ́na òlu bɛ́ɛ lájɛlen ní Átɛnika lákɛnyɛ kó bɛ́ɛ lá
 \xf il va rendre tous les juifs égaux aux Athéniens (2 Mc 9, 15)
 \dt 11/Nov/2007
+
+\lx làkɛrɛ
+\bw fr. la craie
+\ps n
+\gf craie
+\gvf
+\dt 13/Apr/2018
 
 \lx làkika
 \va hàkika
@@ -88194,20 +88290,34 @@ pour les jardins)
 \lx náamu
 \va námu
 \ps n
-\gf règle
-\gvf loi
+\ms 1
+\gf consécration
+\gvf institution
+\ms 2
+\gvf turban d'imam
+\gvf turban de dignitaire
+\ms 3
+\gvf règle
 \gvf coutume
-\dt 26/Sep/2006
+\dt 12/Apr/2018
 
 \lx náamu
 \va námu
 \ps v
+\ms 1
 \vl vt
 \gf tresser
 \smf (grossièrement les cheveux)
-\gvf enrouler
+\ms 2
+\vl vt
 \gvf se mettre un turban
-\dt 18/Aug/2017
+\xv k'í kùn náamu
+\xf se mettre un turban
+\ms 3
+\vl vt
+\xv kà kúma náamu
+\xf parler à mots couverts
+\dt 12/Apr/2018
 
 \lx nàamunaminɛna
 \mm nàamu:intj:oui
@@ -90005,11 +90115,19 @@ téter)
 \dt 16/Aug/2006
 
 \lx ncɔ̀n
+\va ncɛ̀n
 \ps n
+\ms 1
 \gf dard.de.l'abeille
 \xv díkisɛ bɛ́ wúli ní  ncɔ̀n yé
 \xf l'abeille s'envole avec son dard (prov)(quand on va à la ducasse, on perd sa place)
-\dt 16/Aug/2006
+\ms 2
+\gvf bourbillon 
+\smf (d'un furoncle)
+\ms 3
+\gvf latex 
+\smf (de certains végétaux)
+\dt 13/Apr/2018
 
 \lx ncɔ̀n
 \ps n
@@ -93868,20 +93986,23 @@ familiaux; viande très prisée, auladiculture)
 \dt 12/Aug/2006
 
 \lx nkɔ̀ri
+\va ngɔ̀ri
 \ps n
 \ms 1
 \gf cerceau
 \gvf anneau
 \gvf bracelet
-\smf de cuir ou de liane
+\smf (de cuir ou de liane)
 \ms 2
-\gvf cerceau.des.ruches
+\gvf cerceau des ruches
 \ms 3
-\gvf cercle.des.toits.de.paille
+\gvf cercle des toits de paille
 \ms 4
+\gvf anse
+\ms 5
 \gvf virgule
 \smf (néologisme)
-\dt 26/Sep/2006
+\dt 12/Apr/2018
 
 \lx nkɔ̀rɔɲɔ
 \va nkɔ̀kɔɲɔ
@@ -93948,12 +94069,12 @@ familiaux; viande très prisée, auladiculture)
 \ve (f)
 \ph [nkw]
 \ps n
-\gf tomate.amère
-\gvf aubergine africaine
+\gf aubergine.africaine
+\gvf tomate amère
 \lat Solanum.aethiopicum
 \sd sola
 \cf jàgaro
-\dt 22/Jun/2017
+\dt 13/Apr/2018
 
 \lx nkúgo
 \va nkógo
@@ -99356,12 +99477,12 @@ graines, sert d'instrument rythmique)
 \dt 15/May/2013
 
 \lx ɲáni
-\ve ɲɛ́ni
+\va ɲɛ́ni
 \ve (f,bn)
 \ps n
 \gf misère
 \gvf malheur
-\dt 29/Nov/2015
+\dt 09/Apr/2018
 
 \lx ɲáni
 \va ɲɛ́ni
@@ -100225,6 +100346,14 @@ graines, sert d'instrument rythmique)
 \xv à táara  ɲɛ́ fɛ̀
 \xf il est parti devant, il a progressé
 \dt 07/Feb/2016
+
+\lx ɲɛ́fɛ̀
+\mm ɲɛ́:n:oeil
+\mm fɛ̀:pp:par
+\ps adv
+\gf en.avant
+\gvf
+\dt 28/Mar/2018
 
 \lx ɲɛ́fɛko
 \mm ɲɛ́:n:oeil
@@ -108564,17 +108693,6 @@ épuisés
 \xf il y a cinq ans, voici cinq ans
 \dt 05/Apr/2016
 
-\lx sàn
-\va sànga
-\ps n
-\gf message.de.deuil
-\gvf condoléances
-\xv cɛ̀ kélen tɛ́  cɛ̀ kélen sàn fò :
-\xf on ne présente jamais seul ses condoléances (on utilise un intermédiaire, c'est la coutume)
-\xv sàn cí
-\xf annoncer un décès
-\dt 26/Sep/2006
-
 \lx sán
 \ps n
 \gf herbe.Rottboellia.exaltata
@@ -108831,6 +108949,17 @@ épuisés
 \smf (annonçant la naissance de jumeaux)
 \lt (ciel.tambour)
 \dt 16/Aug/2006
+
+\lx sànga
+\va sàn
+\ps n
+\gf message.de.deuil
+\gvf condoléances
+\xv cɛ̀ kélen tɛ́  cɛ̀ kélen sàn fò :
+\xf on ne présente jamais seul ses condoléances (on utilise un intermédiaire, c'est la coutume)
+\xv sàn cí
+\xf annoncer un décès
+\dt 10/Apr/2018
 
 \lx sánga
 \ps n
@@ -109182,8 +109311,7 @@ épuisés
 \mm só:n:maison
 \ps n
 \gf maison.à.étages
-\lt (haut.sur.maison)
-\dt 22/Feb/2015
+\dt 11/Apr/2018
 
 \lx sánke
 \va sánge
@@ -109463,6 +109591,24 @@ épuisés
 \lt (  ? .  ?  )
 \smf 2 lignes latérales, inférieure très longue)
 \dt 16/Aug/2006
+
+\lx sàn-ô-sàn-gére-bɔ́
+\mm sàn:n:année
+\mm ô:conj:DISTR
+\mm sàn:n:année
+\mm gére:n:corne
+\mm bɔ́:v:sortir
+\va sàn-ô-sàn-géren-bɔ́
+\mm sàn:n:année
+\mm ô:conj:DISTR
+\mm sàn:n:année
+\mm gére:n:corne
+\mm bɔ́:v:sortir
+\ps n
+\gf cerf
+\gvf renne
+\smf (un animal mythique à des cornes rameux)
+\dt 12/Apr/2018
 
 \lx sánpa
 \ps v
@@ -113458,6 +113604,17 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf gigoter
 \dt 12/Aug/2006
 
+\lx sɛ́rɛkɛ-sɛrɛkɛ
+\ps v
+\ms 1
+\vl vi, vr
+\gf gigoter
+\ms 2
+\vl vt
+\gvf agiter
+\smf (ses membres, une action incontrôlée)
+\dt 13/Apr/2018
+
 \lx sɛ́rɛsɛrɛ
 \ps n
 \gf filet.d'eau
@@ -116279,7 +116436,7 @@ donne d'excellentes fibres)
 \mm na:mrph:AG.PRM
 \ps n
 \gf raciste
-\lt (race.trier.celui qui)
+\dt 12/Apr/2018
 
 \lx síyɛn
 \va sán
@@ -116392,8 +116549,7 @@ donne d'excellentes fibres)
 \mm na:mrph:AG.PRM
 \ps n
 \gf joueur.aux.jeux.de.hasard
-\lt (jeu.jouer.celui qui)
-\dt 16/Aug/2006
+\dt 12/Apr/2018
 
 \lx sóda
 \mm só:n:maison
@@ -116480,10 +116636,9 @@ donne d'excellentes fibres)
 \ps n
 \ms 1
 \gf rapporteur
-\lt (maison.2.petit chien)
 \ms 2
 \gvf enfant qui vit entre deux familles
-\dt 16/Aug/2006
+\dt 12/Apr/2018
 
 \lx sóforo
 \mm só:n:maison
@@ -120122,7 +120277,7 @@ fiançailles
 \ms 1
 \vl vt
 \gf sonder
-\smf une.cavité, en y agitant un instrument
+\smf (une.cavité, en y agitant un instrument)
 \sy súguba
 \xv à yé  dìngɛn súruku ní  bére yé
 \xf il a sondé le trou à l'aide d'un bâton
@@ -120135,7 +120290,7 @@ fiançailles
 \ms 3
 \vl vt
 \gvf coïter
-\dt 27/Nov/2014
+\dt 13/Apr/2018
 
 \lx súrukubilennin
 \mm súruku:n:hyène
@@ -120201,6 +120356,14 @@ fiançailles
 \lt (hyène.jujubier)
 \smf arbuste sarmenteux à épines recourbées, fruit non comestible)
 \dt 19/Aug/2006
+
+\lx sùrukusuruku
+\ps v
+\vl vt
+\gf nettoyer.un.trou
+\smf (avec un instrument pointu, en mouvements rapides)
+\gvf
+\dt 13/Apr/2018
 
 \lx súrukutaama
 \mm súruku:n:hyène
@@ -126082,6 +126245,22 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xf j'ai eu des vertiges
 \dt 15/Aug/2006
 
+\lx tìrikitaraka
+\ps v
+\vl vt
+\gf essayer.de.couper
+\smf (avec un instrument insuffisamment tranchant, en appliquant beaucoup de force)
+\gvf
+\dt 13/Apr/2018
+
+\lx tìrikitiriki
+\ps v
+\vl vt
+\gf essayer.de.couper
+\smf (avec un instrument insuffisamment tranchant, en mouvements rapides)
+\gvf
+\dt 13/Apr/2018
+
 \lx tìrinti
 \va tùruntu
 \va ntùuru
@@ -127745,7 +127924,7 @@ est due aux paysans (kib 3/05 p.9)
 \xf ça va
 \xv wáasa  í ká sɛ̀gɛn ń'í ká tɔ́ɔrɔ kàna kɛ́  fú yé...
 \xf pour que tes fatigues et tes souffrances ne soient pas vaines ...
-\dt 26/Sep/2006
+\dt 13/Apr/2018
 
 \lx tɔ́ɔrɔ
 \ps v
@@ -127912,10 +128091,10 @@ est due aux paysans (kib 3/05 p.9)
 \lx tú
 \ps n
 \gf touffe
-\smf toute végétation dense (grande herbe, mil, bosquet,bois, forêt ...)
+\smf (toute végétation dense: grande herbe, mil, bosquet,bois, forêt)
 \xv mɔ̀gɔ fɔ́lɔ mín yé  tú tìgɛ...
 \xf le premier qui a défriché ...
-\dt 16/Aug/2006
+\dt 28/Mar/2018
 
 \lx tú
 \ps v
@@ -128740,6 +128919,24 @@ yé
 \ps n
 \gf inattention
 \dt 01/Mar/2017
+
+\lx túlomalale
+\mm túlo:n:oreille
+\mm mà:mrph:SUPER
+\ps n
+\src Kalilou Tera
+\gf bisaïeul
+\gvf
+\dt 13/Apr/2018
+
+\lx túlomalelale
+\mm túlo:n:oreille
+\mm mà:mrph:SUPER
+\ps n
+\src Kalilou Tera
+\gf trisaïeul
+\gvf
+\dt 13/Apr/2018
 
 \lx túlomasama
 \mm túlo:n:oreille
