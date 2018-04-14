@@ -18419,8 +18419,8 @@ saillie)
 \gf oseille.de.Guinée
 \ms 2
 \gvf bissap
-\smf (boisson préparée à partir des feuilles de cette plante)
-\dt 06/Nov/2017
+\smf (boisson préparée à partir des pétales de cette plante)
+\dt 14/Apr/2018
 
 \lx dàbiɲama
 \mm dàbi:n:engoulevent.porte-étendard
@@ -48308,16 +48308,16 @@ calebasses)
 \lt (calcul.prendre)
 \dt 28/May/2016
 
-\lx jàteminɛ
+\lx jàtemìnɛ
 \mm jàte:n:compte
 \mm mìnɛ:v:attraper
-\va jàtiminɛ
+\va jàtimìnɛ
 \mm jàti:n:compte
 \mm mìnɛ:v:attraper
 \ps v
 \vl vt
 \gf calculer
-\dt 28/May/2016
+\dt 14/Apr/2018
 
 \lx jàtesigi
 \ps n
@@ -50604,11 +50604,11 @@ le toit de la maison et descendaient
 \gvf érection
 \dt 26/Sep/2006
 
-\lx jírikɔrɔta
+\lx jírikɔrɔtà
 \mm jíri:n:arbre
 \mm kɔ́rɔ:n:dessous
 \mm tà:v:prendre
-\va yíri.kɔrɔ.ta
+\va yírikɔrɔtà
 \mm yíri:n:arbre
 \mm kɔ́rɔ:n:dessous
 \mm tà:v:prendre
@@ -50616,11 +50616,10 @@ le toit de la maison et descendaient
 \vl vt
 \ms 1
 \gf donner.la.nausée
-\lt (arbre.dresser)
 \ms 2
 \gvf bander
 \smf (sens sexuel)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx jírikunanin
 \mm jíri:n:arbre
@@ -52416,15 +52415,6 @@ fusil)
 
 \lx jùbɔ
 \mm jù:n:derrière
-\mm bɔ́:v:sortir
-\ps v
-\vl vt
-\gf commencer
-\lt (fond.sortir)
-\dt 26/Sep/2006
-
-\lx jùbɔ
-\mm jù:n:derrière
 \mm bɔ́:n:sortie
 \ps n
 \gf commencement
@@ -52434,6 +52424,15 @@ fusil)
 \xv jùbɔ mán gɛ̀lɛn, à sínsinni ń'á lában dè ká gɛ̀lɛn
 \xf commencer n'est pas difficile, persévérer et finir, c'est cela le difficile
 \dt 15/Aug/2006
+
+\lx jùbɔ́
+\mm jù:n:derrière
+\mm bɔ́:v:sortir
+\ps v
+\vl vt
+\gf commencer
+\lt (fond.sortir)
+\dt 14/Apr/2018
 
 \lx jùcɛ
 \mm jù:n:derrière
@@ -52668,14 +52667,13 @@ fusil)
 \gvf baiser
 \dt 16/Mar/2018
 
-\lx jùkɔrɔ
+\lx jùkɔ́rɔ
 \mm jù:n:derrière
 \mm kɔ́rɔ:pp:sous
 \ps pp
 \gf dessous
 \gvf au.fond
-\lt (fond.dessous)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx jùkɔrɔdon
 \mm jù.kɔrɔ:pp:sous
@@ -52757,17 +52755,17 @@ composante des adjectifs séparables)
 \xf il est malpropre, impudique
 \dt 23/Mar/2015
 
-\lx jùla
+\lx jùlá
 \mm jù:n:derrière
-\mm la:mrph:LOC
+\mm lá:pp:à
 \ps pp
 \gf à.l'endroit.de
 \lt (... base.endroit)
-\xv kɛ́ ... jùla
+\xv kɛ́ ... jùlá
 \xf assister à ...
-\xv ù má táa  ò jùla
+\xv ù má táa  ò jùlá
 \xf ils n'y sont pas allés
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx jùlajugu
 \mm jùla:n:maîtrise.de.cul
@@ -52859,17 +52857,16 @@ composante des adjectifs séparables)
 \lt (derrière.endroit.part)
 \dt 16/Aug/2006
 
-\lx jùlatigɛ
+\lx jùlatìgɛ
 \mm jù:n:derrière
 \mm la:mrph:LOC
 \mm tìgɛ:v:couper
 \ps v
 \vl vt
 \gf commencer
-\lt (base.couper)
 \sy jùbɔ
 \sy dábɔ...
-\dt 15/Aug/2006
+\dt 14/Apr/2018
 
 \lx jùlawuli
 \mm jù:n:derrière
@@ -54716,14 +54713,22 @@ l'eau est prête
 \lt (arc.élément)
 
 \lx kàlalafili
+\mm kàla:n:tige
+\mm lá.fìli:v:abandonner
+\mm lá:mrph:CAUS
+\mm fìli:v:jeter
 \ps v
 \gf feindre.d'ignorer
-\dt 24/Jun/2013
+\dt 14/Apr/2018
 
 \lx kàlalafili
+\mm kàla:n:tige
+\mm lá.fìli:v:abandonner
+\mm lá:mrph:CAUS
+\mm fìli:v:jeter
 \ps n
 \gf ignorance.feinte
-\dt 24/Jun/2013
+\dt 14/Apr/2018
 
 \lx kálalikɛla
 \mm kála:v:coudre
@@ -56919,15 +56924,15 @@ jeunes)
 \xf parler poliment à son père et à sa mère
 \dt 26/Sep/2006
 
-\lx kánmɛ́n
+\lx kánmɛn
 \mm kán:n:cou
 \mm mɛ́n:v:entendre
 \ps v
 \vl vt
 \gf obéir
-\gvf écouter.les.conseils
+\gvf écouter les conseils
 \lt (parole.entendre)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kánminɛli
 \mm kán:n:cou
@@ -57370,18 +57375,19 @@ jeunes)
 \gf magnétophone
 \lt (voix.prendre.ce qui sert à)
 
-\lx kántigɛ
+\lx kántìgɛ
 \mm kán:n:cou
 \mm tìgɛ:v:couper
 \ps v
-\lt cou-couper
+\ms 1
 \vl vt
 \gf égorger
+\ms 2
 \vl vi
-\gvf être.égorgé
+\gvf être égorgé
 \xv syɛ̀ bɛ́ kántigɛ ní fúruyiidikuma yé
 \xf on sacrifie la poule avec des bénédictions de prospérité pour le mariage
-\dt 11/Nov/2007
+\dt 14/Apr/2018
 
 \lx kántigɛbaa
 \mm kán:n:cou
@@ -63301,10 +63307,9 @@ champs)
 \vl vt
 \gf déformer
 \gvf transformer.complètement
-\lt (affaire.changer)
-\xv à yé  ò kó kómayɛlɛma
+\xv à yé  ò kó kómayɛ̀lɛma
 \xf il a déformé les faits
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kómayɛlɛmana
 \mm kó:n:affaire
@@ -63316,14 +63321,13 @@ champs)
 \lt (fait.changer.celui qui)
 \dt 26/Sep/2006
 
-\lx kómɛ́n
+\lx kómɛn
 \mm kó:n:affaire
 \mm mɛ́n:v:entendre
 \ps v
 \vl vt
 \gf entendre.parler
-\lt (affaire.entendre)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx kómi
 \va kómin
@@ -64443,13 +64447,14 @@ champs)
 \gvf castration
 \dt 26/Sep/2006
 
-\lx kɔ́bɔ́
+\lx kɔ́bɔ
 \mm kɔ́:n:dos
 \mm bɔ́:v:sortir
 \ps v
 \vl vt
 \gf castrer
 \lt (testicule.enlever)
+\dt 14/Apr/2018
 
 \lx kɔ́cɔkɔcɔ
 \ps onomat
@@ -64492,21 +64497,20 @@ champs)
 \gvf suprême
 \dt 19/Feb/2014
 
-\lx kɔ́dí
+\lx kɔ́di
 \mm kɔ́:n:dos
 \mm dí:v:donner
 \ps v
 \ms 1
 \vl vr
 \gf aller.en.tournant.le.dos
-\lt (dos.donner)
 \ms 2
 \vl vi
-\gvf rompre.avec
+\gvf rompre avec
 \sy kɔ́don
 \xv à yé  kɔ́di ń mà
 \xf il a rompu avec moi
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kɔ́dimi
 \mm kɔ́:n:dos
@@ -64723,10 +64727,10 @@ champs)
 \smf parfois cultivé pour ses fibres)
 \dt 19/Aug/2006
 
-\lx kɔ́gɛ́n
+\lx kɔ́gɛn
 \mm kɔ́:n:dos
 \mm gɛ́n:v:chasser
-\va kɔ́.gwɛ́n
+\va kɔ́gwɛn
 \mm kɔ́:n:dos
 \mm gwɛ́n:v:chasser
 \ph [gw]
@@ -64737,7 +64741,7 @@ champs)
 \ms 2
 \gvf pousser.devant.soi
 \lt (derrière.chasser)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kɔ̀gira
 \mm kɔ̀:n:marigot
@@ -65171,7 +65175,7 @@ champs)
 \xf
 \dt 30/Jan/2017
 
-\lx kɔ́kɔrɔmadon
+\lx kɔ́kɔrɔmadòn
 \mm kɔ́:n:dos
 \mm kɔ́rɔ:n:dessous
 \mm mà.dòn:v:approcher
@@ -65188,7 +65192,7 @@ champs)
 \gvf étayer
 \ms 2
 \gvf encourager
-\dt 26/Mar/2014
+\dt 14/Apr/2018
 
 \lx kɔ̀kɔyi
 \ve (bn)
@@ -65207,7 +65211,7 @@ champs)
 \gf bosse
 \lt (dos.boule)
 
-\lx kɔ́kuru
+\lx kɔ́kùru
 \mm kɔ́:n:dos
 \mm kùru:v:plier
 \ps v
@@ -65215,7 +65219,7 @@ champs)
 \gf retourner
 \gvf revenir
 \gvf faire demi-tour
-\dt 20/Mar/2018
+\dt 14/Apr/2018
 
 \lx kɔ́lada
 \mm kɔ́:n:dos
@@ -65596,7 +65600,7 @@ champs)
 \gvf retour
 \dt 30/Mar/2014
 
-\lx kɔ́màsègin
+\lx kɔ́masègin
 \mm kɔ́:n:dos
 \mm mà:mrph:SUPER
 \mm sègin:v:revenir
@@ -65607,7 +65611,7 @@ champs)
 \gvf rendre
 \ms 3
 \gvf répondre
-\dt 30/Mar/2014
+\dt 14/Apr/2018
 
 \lx kɔ́mayɛ̀lɛma
 \mm kɔ́:n:dos
@@ -66575,10 +66579,10 @@ ou une proposition)
 \rem l 89, bk
 \dt 23/May/2017
 
-\lx kɔ̀nɔgɛn
+\lx kɔ̀nɔgɛ́n
 \mm kɔ̀nɔ:n:oiseau
 \mm gɛ́n:v:chasser
-\va kɔ̀nɔgwɛn
+\va kɔ̀nɔgwɛ́n
 \mm kɔ̀nɔ:n:oiseau
 \mm gwɛ́n:v:chasser
 \ph [gw]
@@ -66588,7 +66592,7 @@ ou une proposition)
 \gvf garder
 \ge guard
 \gr охранять
-\dt 23/May/2017
+\dt 14/Apr/2018
 
 \lx kɔ̀nɔgɛnnan
 \mm kɔ̀nɔ:n:oiseau
@@ -66778,8 +66782,7 @@ ou une proposition)
 \ms 2
 \gvf épier
 \fq (rare)
-\lt (ventre.suf)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kɔ́nɔmaya
 \mm kɔ́nɔ:n:ventre
@@ -66937,7 +66940,7 @@ ou une proposition)
 \mm kɔ́nɔ:n:ventre
 \mm ná:mrph:CAUS
 \mm fìli:v:jeter
-\va kɔ́nɔ.na.flì
+\va kɔ́nɔnaflì
 \mm kɔ́nɔ:n:ventre
 \mm ná:mrph:CAUS
 \mm flì:v:jeter
@@ -66947,12 +66950,16 @@ ou une proposition)
 \mm fìli:v:jeter
 \ph [fl]
 \ps v
+\ms 1
 \vl vt
-\gf inquiéter
+\gf embarrasser
 \gvf troubler.profondément
-\gvf angoisser
-\lt (pensées.égarer)
-\dt 09/Apr/2016
+\gvf rendre perplexe
+\ms 2
+\vl vi
+\gvf être dépassé
+\gvf ne pas savoir quoi faire
+\dt 14/Apr/2018
 
 \lx kɔ́nɔnafin
 \mm kɔ́nɔ:n:ventre
@@ -66989,7 +66996,7 @@ ou une proposition)
 \mm kɔ́nɔ:n:ventre
 \mm ná:mrph:CAUS
 \mm gàn:v:chauffer
-\va kɔ́nɔ.na.gwàn
+\va kɔ́nɔnagwàn
 \mm kɔ́nɔ:n:ventre
 \mm ná:mrph:CAUS
 \mm gwàn:v:chauffer
@@ -66997,9 +67004,8 @@ ou une proposition)
 \ps v
 \vl vt
 \gf angoisser
-\lt (intérieur.chauffer)
-\sy kɔ́nɔgan
-\dt 15/Aug/2006
+\sy kɔ́nɔgàn
+\dt 14/Apr/2018
 
 \lx kɔ́nɔnajɛ
 \mm kɔ́nɔ:n:ventre
@@ -67514,15 +67520,15 @@ ou une proposition)
 \gf tentation
 \lt (tenter.action)
 
-\lx kɔ́nɔsúma
+\lx kɔ́nɔsuma
 \mm kɔ́nɔ:n:ventre
 \mm súma:v:rafraîchir
 \ps v
 \vl vi
 \gf s'apaiser
-\lt (intérieur.calmer)
+\dt 14/Apr/2018
 
-\lx kɔ́nɔsúruku
+\lx kɔ́nɔsuruku
 \mm kɔ́nɔ:n:ventre
 \mm súruku:v:sonder.une.cavité
 \ps v
@@ -67532,7 +67538,7 @@ ou une proposition)
 \lt (intérieur.exciter)
 \sy kɔ́nɔsu
 \sy kɔ́nɔnasu
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kɔ̀nɔsutɔmɔkan
 \mm kɔ̀nɔ:n:oiseau
@@ -67746,7 +67752,7 @@ ou une proposition)
 \xf lors de la noce, la mariée porte l'eau à boire (sur la route du domicile conjugal)
 \dt 16/Aug/2006
 
-\lx kɔ́ɲɔbɔ́
+\lx kɔ́ɲɔbɔ
 \mm kɔ́ɲɔ:n:noce
 \mm bɔ́:v:sortir
 \ps v
@@ -67754,11 +67760,11 @@ ou une proposition)
 \ms 1
 \gf faire.le.mariage
 \ms 2
-\gvf doter.la.mariée
+\gvf doter la mariée
 \smf (mariage musulman, citadin)
 \xv ù y'á kɔ́ɲɔbɔ  wáa mùgan
 \xf (ses parents) l'ont dotée de 100.000 francs
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx kɔ́ɲɔcɛ
 \mm kɔ́ɲɔ:n:noce
@@ -68424,18 +68430,22 @@ plus solide)
 \lt (dessous.assécher)
 \dt 16/Aug/2006
 
-\lx kɔ́rɔjɛ́
+\lx kɔ́rɔjɛ
 \mm kɔ́rɔ:n:dessous
 \mm jɛ́:v:blanchir
 \ps v
-\vl vt
 \ms 1
+\vl vt
 \gf nettoyer
 \sy kɔ́rɔfuran
-\lt (dessous.nettoyer)
 \ms 2
+\vl vt
 \gvf délester
-\dt 16/Aug/2006
+\ms 3
+\vl vt
+\gvf éclaircir
+\smf (situation)
+\dt 14/Apr/2018
 
 \lx kɔ̀rɔjuga
 \va kɔ̀rɔduga 
@@ -68656,11 +68666,11 @@ plus solide)
 \lt (dos.respirer)
 \dt 26/Sep/2006
 
-\lx kɔ́rɔɲɔ́
+\lx kɔ́rɔɲɔ
 \mm kɔ́:n:dos
 \mm rɔ́:mrph:IN
 \mm ɲɔ́:v:respirer
-\va kɔ́.ra.ɲɔ
+\va kɔ́raɲɔ
 \mm kɔ́:n:dos
 \mm rá:mrph:IN
 \mm ɲɔ́:v:respirer
@@ -68669,7 +68679,7 @@ plus solide)
 \vl vr
 \gf se.reposer
 \lt (dos.respirer)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx kɔ́rɔɲɔgɔnma
 \mm kɔ́rɔ:n:dessous
@@ -68698,7 +68708,7 @@ plus solide)
 \lx kɔ́rɔsyɛn
 \mm kɔ́rɔ:n:dessous
 \mm syɛ́n:v:gratter
-\va kɔ́rɔshyɛ́n
+\va kɔ́rɔshyɛn
 \mm kɔ́rɔ:n:dessous
 \mm shyɛ́n:v:gratter
 \va kɔ́rɔsiyɛn
@@ -68708,8 +68718,7 @@ plus solide)
 \ps v
 \vl vt
 \gf sarcler
-\lt (dessous.gratter)
-\dt 22/May/2016
+\dt 14/Apr/2018
 
 \lx kɔ́rɔtà
 \mm kɔ́rɔ:n:dessous
@@ -69353,7 +69362,7 @@ plus solide)
 \lt (administration.endroit)
 \dt 16/Aug/2006
 
-\lx kúbɔ́
+\lx kúbɔ
 \mm kú:n:queue
 \mm bɔ́:v:sortir
 \ps v
@@ -69363,10 +69372,10 @@ plus solide)
 \smf (queue) (au fig : mettre au monde un enfant indigne)
 \lt (queue.sortir)
 \ms 2
-\gvf maigrir.à.l'extrême
+\gvf maigrir à l'extrême
 \xv kɔ́ngɔ tùma, mɔ̀gɔ tùn bɛ́  kúbɔ
 \xf lors de la famine, on maigrissait
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx kúbɔlɔ
 \mm kú:n:queue
@@ -70744,7 +70753,7 @@ le pouvoir administratif suprême)
 \gvf commencement
 \dt 26/Sep/2006
 
-\lx kùnbɔ
+\lx kùnbɔ́
 \mm kùn:n:tête
 \mm bɔ́:v:sortir
 \ps v
@@ -70752,12 +70761,12 @@ le pouvoir administratif suprême)
 \vl vt
 \gf dévier
 \smf (une arme, des paroles ...)
-\xv à kùnbɔ ń kàn
+\xv à kùnbɔ́ ń kàn
 \xf ne t'adresse pas à moi (ça ne me regarde pas)
 \ms 2
 \vl vi
 \gvf apparaître
-\dt 01/Mar/2017
+\dt 14/Apr/2018
 
 \lx kùnbɔkola
 \mm kùn:n:tête
@@ -70901,17 +70910,6 @@ le pouvoir administratif suprême)
 
 \lx kùnda
 \mm kùn:n:tête
-\mm dá:v:poser
-\ps v
-\vl vr
-\gf se.diriger
-\lt (tête.poser)
-\xv à b'á kùnda  Búmudo kàn
-\xf il se dirige vers Bumudo
-\dt 16/Aug/2006
-
-\lx kùnda
-\mm kùn:n:tête
 \mm dá:n:bouche
 \ps n
 \gf groupe.social
@@ -70925,17 +70923,27 @@ le pouvoir administratif suprême)
 
 \lx kùnda
 \mm kùn:n:tête
-\mm dá:v:poser
+\mm dá:n:bouche
 \ps pp
 \ms 1
-\gf parmi
+\gf du.côté.de
 \gvf au niveau de
 \ms 2
 \gvf selon
 \smf
 \xv
 \xf
-\dt 20/Mar/2017
+\dt 14/Apr/2018
+
+\lx kùndá
+\mm kùn:n:tête
+\mm dá:v:poser
+\ps v
+\vl vr
+\gf se.diriger
+\xv à b'á kùndá Búmudo kàn
+\xf il se dirige vers Bumudo
+\dt 14/Apr/2018
 
 \lx kùndama
 \mm kùn:n:tête
@@ -70953,17 +70961,6 @@ le pouvoir administratif suprême)
 \gf rasage.de.tête
 \smf du bébé (fin de la première semaine avec imposition du nom; en français d'Afrique  de l'ouest  la traduction par "baptême" se généralise, même chez les musulmans)
 \dt 16/Aug/2006
-
-\lx kùndigi
-\mm kùn:n:tête
-\mm dígi:v:tresser
-\ps v
-\vl vt
-\gf coiffer
-\gvf tresser
-\lt (tête.façonner)
-\smf terme récent qui tend à remplacer kùndá)
-\dt 26/Sep/2006
 
 \lx kùndimuru
 \mm kùn.di:n:rasage.de.tête
@@ -71015,25 +71012,16 @@ le pouvoir administratif suprême)
 \smf (repas, travail, palabre ...)
 \dt 26/Sep/2006
 
-\lx kùnfa
-\mm kùn:n:tête
-\mm fá:v:remplir
-\ps v
-\vl vt
-\gf arrêter
-\smf à tel niveau
-\lt (sommet.remplir)
-\dt 16/Aug/2006
-
 \lx kùnfá
 \mm kùn:n:tête
 \mm fá:v:remplir
 \ps v
 \vl vt
-\gf charger
-\smf (qqn d'un objet à emporter)
-\lt (tête.remplir)
-\dt 04/Apr/2016
+\gf surcharger
+\smf (de -- lá)
+\gvf charger
+\smf (qqn d'un objet à emporter -- lá)
+\dt 14/Apr/2018
 
 \lx kùnfalen
 \mm kùn:n:tête
@@ -71153,8 +71141,7 @@ le pouvoir administratif suprême)
 \vl vt
 \gf assombrir
 \smf (en parlant d'une petite pluie)
-\lt (tête.noircir)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx kùnfinya
 \mm kùn.fin:adj/n:illettré
@@ -71176,21 +71163,21 @@ le pouvoir administratif suprême)
 \lt (tête.remuer de droite et de gauche)
 \dt 16/Aug/2006
 
-\lx kùnfɔ
+\lx kùnfɔ́
 \mm kùn:n:tête
 \mm fɔ́:v:dire
 \ps v
 \vl vr
 \ms 1
 \gf exposer
-\smf ses problèmes à ... ye
+\smf (ses problèmes à -- yé)
 \lt (problème.dire)
 \ms 2
-\gvf faire.une.déclaration
+\gvf faire une déclaration
 \smf (d'amour ...)
 \ms 3
-\gvf se.plaindre
-\dt 16/Aug/2006
+\gvf se plaindre
+\dt 14/Apr/2018
 
 \lx kùnfɔlɔ
 \mm kùn:n:tête
@@ -71544,18 +71531,24 @@ l'intérieur une ou deux graines)
 \gf coiffeur
 \lt (cheveux.couper.celui qui)
 
-\lx kùnkari
+\lx kùnkári
 \mm kùn:n:tête
 \mm kári:v:casser
 \ps v
-\vl vt
 \ms 1
+\vl vt
 \gf casser.en.deux
-\lt (bout.casser)
 \ms 2
-\gvf couper.la.parole
-\smf (ne pas achever une phrase ..., interrompre)
-\dt 16/Aug/2006
+\vl vt
+\gvf couper la parole
+\smf (ne pas laisser achever une phrase, interrompre)
+\ms 2
+\vl vt
+\gvf brouiller
+\gvf mettre en conflit
+\xv kà mɔ̀gɔw kùnkári ɲɔ́gɔn ná
+\xf mettre les gens en conflir
+\dt 14/Apr/2018
 
 \lx kùnkarikini
 \mm kùn.kari:v:casser.en.deux
@@ -71816,19 +71809,18 @@ l'intérieur une ou deux graines)
 \lt (affaire.responsable)
 \dt 26/Sep/2006
 
-\lx kùnkɔri
+\lx kùnkɔ́ri
 \mm kùn:n:tête
 \mm kɔ́ri:v:toucher
 \ps v
 \vl vt
 \gf interrompre
 \smf (un récit, oubliant l'essentiel ...)
-\lt (sujet.toucher légèrement)
-\xv ń yé  kúma kùnkɔri kúnu
+\xv ń yé  kúma kùnkɔ́ri kúnu
 \xf j'ai interrompu mon récit hier
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
-\lx kùnkɔrɔ
+\lx kùnkɔ́rɔ
 \mm kùn:n:tête
 \mm kɔ́rɔ:pp:sous
 \ps pp
@@ -71837,12 +71829,11 @@ l'intérieur une ou deux graines)
 \smf (obtenir)
 \gvf en.échange.de
 \gvf en.gage
-\xv 'Né bɛ́na sàn wólonwula báara kɛ́ í yé, í dénmuso
-dɔ́gɔmannin Àrasɛli kùnkɔrɔ
+\xv 'Né bɛ́na sàn wólonwula báara kɛ́ í yé, í dénmuso dɔ́gɔmannin Àrasɛli kùnkɔ́rɔ
 \xf Je travaillerai sept ans à ton service pour épouser Rachel ta fille cadette
-\xv "Í bɛ́na fɛ́n jùmɛn bìla  kùnkɔrɔ ?' / Í ká ɛ̀rɛzɛnforo dí né mà wári kùnkɔrɔ
+\xv "Í bɛ́na fɛ́n jùmɛn bìla  kùnkɔ́rɔ ?' / Í ká ɛ̀rɛzɛnforo dí né mà wári kùnkɔ́rɔ
 \xf Que me donneras-tu en gage (pour le chevreau promis) ? / vends-moi ta vigne contre de l'argent
-\dt 05/Apr/2016
+\dt 14/Apr/2018
 
 \lx kùnkɔrɔdama
 \mm kùn:n:tête
@@ -71942,25 +71933,6 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \mm kùn:n:tête
 \mm mà:mrph:SUPER
 \mm bɔ́:v:sortir
-\ps v
-\vl vt
-\ms 1
-\gf racheter
-\gvf délivrer
-\smf (de l'esclavage)
-\lt (libre.sortir)
-\xv dénmisɛn tɔ̀nɔmadalen kùnmabɔra
-\xf l'enfant mis en gage a été libéré
-\ms 2
-\gvf remplacer
-\xv à y'á fà kùnmabɔ kàban
-\xf il remplace déjà son père
-\dt 26/Sep/2006
-
-\lx kùnmabɔ
-\mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
 \ps n
 \ms 1
 \gf compensation
@@ -71968,6 +71940,24 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \ms 2
 \gvf caution
 \dt 10/Apr/2016
+
+\lx kùnmabɔ́
+\mm kùn:n:tête
+\mm mà:mrph:SUPER
+\mm bɔ́:v:sortir
+\ps v
+\vl vt
+\ms 1
+\gf racheter
+\gvf délivrer
+\smf (de l'esclavage)
+\xv dénmisɛn tɔ̀nɔmadalen kùnmabɔra
+\xf l'enfant mis en gage a été libéré
+\ms 2
+\gvf remplacer
+\xv à y'á fà kùnmabɔ́ kàban
+\xf il remplace déjà son père
+\dt 14/Apr/2018
 
 \lx kùnmabɔbaa
 \mm kùn.ma.bɔ:v:racheter
@@ -72027,7 +72017,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gvf éhonté
 \dt 23/Mar/2015
 
-\lx kùnmadɔgɔya
+\lx kùnmadɔ́gɔya
 \mm kùnma:n:vitalité
 \mm kùn:n:tête
 \mm mà:mrph:SUPER
@@ -72037,10 +72027,9 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \vl vt
 \ms 1
 \gf rendre.chétif
-\lt (constitution.diminuer)
 \ms 2
 \gvf humilier
-\dt 23/Mar/2015
+\dt 14/Apr/2018
 
 \lx kùnmafalen
 \mm kùn:n:tête
@@ -72055,15 +72044,14 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \xf le remplaçant du lion c'est le lionceau (dicton)
 \dt 26/Sep/2006
 
-\lx kùnmafalen
+\lx kùnmafàlen
 \mm kùn:n:tête
 \mm mà:mrph:SUPER
 \mm fàlen:v:échanger
 \ps v
 \vl vt
 \gf échanger
-\lt (personne.échanger)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kùnmafili
 \mm kùn:n:tête
@@ -72110,7 +72098,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \xf je suis submergé par l'effroi (Ps 55, 6)
 \dt 11/Nov/2007
 
-\lx kùnmasícɛ̀
+\lx kùnmasicɛ̀
 \mm kùn:n:tête
 \mm mà:pp:ADR
 \mm sí:n:poil
@@ -72120,8 +72108,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gf tressaillir
 \smf (d'émotion, de peur ...)
 \gvf avoir.la.chair.de.poule
-\lt (tête.cheveux.ramasser)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kùnmasìri
 \mm kùn:n:tête
@@ -72163,14 +72150,14 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gvf humilier
 \dt 25/Jun/2013
 
-\lx kùnmato
+\lx kùnmató
 \mm kùn:n:tête
 \mm mà:pp:ADR
 \mm tó:v:rester
 \ps v
 \gf mettre.en.gage
 \smf (une personne)
-\dt 16/Jun/2017
+\dt 14/Apr/2018
 
 \lx kùnmatu
 \mm kùn:n:tête
@@ -72182,7 +72169,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \smf mot coranique, rare
 \dt 03/Jan/2015
 
-\lx kùnmatu
+\lx kùnmatú
 \mm kùn:n:tête
 \mm mà:pp:ADR
 \mm tú:v:être.touffu
@@ -72190,8 +72177,8 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gf indemniser
 \gvf payer une faute
 \gvf être suffisant pour payer qqch
-\smf mot coranique, rare
-\dt 04/Apr/2016
+\smf (mot coranique, rare)
+\dt 14/Apr/2018
 
 \lx kùnmayɛlɛma
 \ps n
@@ -72342,7 +72329,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lt (tête.sortir)
 \dt 16/Aug/2006
 
-\lx kùnnada
+\lx kùnnadá
 \mm kùn:n:tête
 \mm ná:mrph:CAUS
 \mm dá:v:poser
@@ -72350,25 +72337,23 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \vl vt
 \ms 1
 \gf rappeler.un.bienfait
-\smf faire.des.reproches (à qn, lui faire honte de son ingratitude)
+\smf (faire.des.reproches (à qn, lui faire honte de son ingratitude))
 \gvf humilier
-\lt (au dessus.poser)
 \ms 2
 \gvf passer.par.dessus
-\xv jí yé bárasi kùnnada
+\xv jí yé bárasi kùnnadá
 \xf le barrage a débordé
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
-\lx kùnnafa
+\lx kùnnafá
 \mm kùn:n:tête
 \mm ná:pp:à
 \mm fá:v:remplir
 \ps v
 \vl vt
-\gf arrêter
-\smf à tel niveau
-\lt (sommet.remplir)
-\dt 16/Aug/2006
+\gf surcharger
+\smf (de problèmes, du monde)
+\dt 14/Apr/2018
 
 \lx kùnnafɛn
 \mm kùn:n:tête
@@ -72404,15 +72389,14 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \xf si la fièvre perdure chez l'enfant et qu'un bon diagnostic n'a pu être fait ...
 \dt 26/Sep/2006
 
-\lx kùnnafoni
+\lx kùnnafóni
 \mm kùn:n:tête
 \mm ná:pp:à
 \mm fóni:v:détacher
 \ps v
 \vl vt
 \gf renseigner
-\lt (tête.délier)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kùnnafonidiso
 \mm kùnnafoni:n:information
@@ -72518,7 +72502,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \rem du, Jos, kb
 \dt 11/Nov/2007
 
-\lx kùnnakali
+\lx kùnnakàli
 \mm kùn:n:tête
 \mm lákàli:v:raconter
 \ps v
@@ -72527,7 +72511,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \smf
 \xv
 \xf
-\dt 05/Jun/2016
+\dt 14/Apr/2018
 
 \lx kùnnala
 \mm kùn.na:pp:au.dessus
@@ -72906,16 +72890,16 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lt (honneur.gâter)
 \dt 26/Sep/2006
 
-\lx kùnnatiyɛn
+\lx kùnnatíyɛn
 \mm kùn:n:tête
 \mm ná:pp:à
 \mm tíyɛn:v:gâter
-\va kùn.na.cɛn
+\va kùnnacɛ́n
 \mm kùn:n:tête
 \mm ná:pp:à
 \mm cɛ́n:v:gâter
 \ph [..cɛn]
-\va kùn.na.tiɲɛ
+\va kùnnatíɲɛ
 \mm kùn:n:tête
 \mm ná:pp:à
 \mm tíɲɛ:v:gâter
@@ -72923,12 +72907,11 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \vl vt
 \ms 1
 \gf détourner
-\smf qqn de son devoir
-\lt (honneur.gâter)
+\smf (qqn de son devoir)
 \ms 2
 \gvf séduire
 \smf (une jeune fille, une femme mariée ...)
-\dt 04/Apr/2016
+\dt 14/Apr/2018
 
 \lx kùnnawolo
 \mm kùn:n:tête
@@ -72947,7 +72930,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gvf acquis
 \dt 10/May/2016
 
-\lx kùnnawolo
+\lx kùnnawólo
 \mm kùn:n:tête
 \mm ná:pp:à
 \mm wólo:v:accoucher
@@ -72956,7 +72939,7 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \gf faire.honneur
 \xv ní  mùsonin sɔ̀rɔla só, à b'á bá kùnnawolo
 \xf si la jeune épouse est trouvée vierge, elle fait la gloire de sa mère
-\dt 11/Mar/2018
+\dt 14/Apr/2018
 
 \lx kùnnawolosɛbɛn
 \mm kùn.na.wolo:v:faire.honneur
@@ -73122,15 +73105,14 @@ dɔ́gɔmannin Àrasɛli kùnkɔrɔ
 \lt (tête.lier.ce qui sert à)
 \dt 26/Sep/2006
 
-\lx kùnsuma
+\lx kùnsúma
 \mm kùn:n:tête
 \mm súma:v:rafraîchir
 \ps v
 \vl vi
 \gf parler.peu
-\gvf ne.plus.parler
-\lt (tête.ralentir)
-\dt 26/Sep/2006
+\gvf ne plus parler
+\dt 14/Apr/2018
 
 \lx Kunta
 \ps n
@@ -73240,7 +73222,7 @@ Sahel)
 \lt (chef.suf.abs)
 \dt 26/Sep/2006
 
-\lx kùntilen
+\lx kùntílen
 \mm kùn:n:tête
 \mm tílen:v:redresser
 \ps v
@@ -73249,9 +73231,9 @@ Sahel)
 \gvf se.diriger
 \lt (tête.diriger)
 \ms 2
-\gf se.mettre.en.face
-\smf vis à vis de ...
-\dt 14/Nov/2012
+\gf se mettre en face
+\smf (vis à vis de)
+\dt 14/Apr/2018
 
 \lx kùntilenna
 \mm kùn.tilen:v:se.mettre.en.face
@@ -73279,23 +73261,22 @@ Sahel)
 \xf je suis parti droit devant moi
 \dt 26/Sep/2006
 
-\lx kùntiyɛn
+\lx kùntíyɛn
 \mm kùn:n:tête
 \mm tíyɛn:v:gâter
-\va kùn.cɛn
+\va kùncɛ́n
 \mm kùn:n:tête
 \mm cɛ́n:v:gâter
 \ph [kuncɛn]
-\va kùn.tiɲɛ
+\va kùntíɲɛ
 \mm kùn:n:tête
 \mm tíɲɛ:v:gâter
 \ps v
 \vl vt
 \gf détourner
-\smf qqn de son devoir
-\lt (tête.gâter)
-\sy kùnnatiyɛn
-\dt 04/Apr/2016
+\smf (qqn de son devoir)
+\sy kùnnatíyɛn
+\dt 14/Apr/2018
 
 \lx kùntɔnɔ
 \mm kùn:n:tête
@@ -73849,7 +73830,7 @@ Sahel)
 \xf le père est assis angoissé, il est très anxieux
 \dt 26/Sep/2006
 
-\lx kùrumankɔ
+\lx kùrumankɔ́
 \mm kùru:v:plier
 \mm ma:mrph:DIR
 \mm ń:pers:1SG
@@ -73857,11 +73838,10 @@ Sahel)
 \ps v
 \vl vi
 \gf régresser
-\gvf revenir.en.arrière
-\lt (revenir.moi.arrière)
-\xv ń'í yé  tɛ̀nɛ tíɲɛ, í bɛ́ kùrumankɔ  ò rɔ́
+\gvf revenir en arrière
+\xv ń'í yé  tɛ̀nɛ tíɲɛ, í bɛ́ kùrumankɔ́  ò rɔ́
 \xf si tu enfreins l'interdit, tu régresses
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kùrun
 \ps vq/adj
@@ -73907,21 +73887,6 @@ Sahel)
 \lx kùrunbokari
 \mm kùrunbo:adj:neuf
 \mm kári:v:casser
-\va kùrunbon.kari
-\mm kùrunbo:adj:neuf
-\mm kári:v:casser
-\va kòronbo.kari
-\mm kùrunbo:adj:neuf
-\mm kári:v:casser
-\ps v
-\vl vt
-\gf laver.pour.la.première.fois
-\gvf inaugurer
-\dt 11/Mar/2018
-
-\lx kùrunbokari
-\mm kùrunbo:adj:neuf
-\mm kári:v:casser
 \va kùrunbonkari
 \mm kùrunbo:adj:neuf
 \mm kári:v:casser
@@ -73935,6 +73900,21 @@ Sahel)
 \gf inauguration
 \gvf premier lavage
 \dt 03/Feb/2017
+
+\lx kùrunbokári
+\mm kùrunbo:adj:neuf
+\mm kári:v:casser
+\va kùrunbonkári
+\mm kùrunbo:adj:neuf
+\mm kári:v:casser
+\va kòronbokári
+\mm kùrunbo:adj:neuf
+\mm kári:v:casser
+\ps v
+\vl vt
+\gf laver.pour.la.première.fois
+\gvf inaugurer
+\dt 14/Apr/2018
 
 \lx kúrunbolila
 \mm kúrun:n:pirogue
@@ -73981,7 +73961,7 @@ Sahel)
 \lt (tabouret.sur.s'asseoir.compagnon.suf abs)
 \dt 16/Aug/2006
 
-\lx kùrunkɔ
+\lx kùrunkɔ́
 \mm kùru:v:plier
 \mm ń:pers:1SG
 \mm kɔ́:pp:après
@@ -73989,10 +73969,9 @@ Sahel)
 \ps v
 \vl vi
 \gf revenir
-\smf en arrière
+\smf (en arrière)
 \gvf régresser
-\lt (revenir.moi.arrière)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx kùrunkɔrɔ
 \mm kùru:v:plier
@@ -74046,7 +74025,7 @@ kúrunninle
 \smf zone forestière, tige à section triangulaire)
 \dt 19/Aug/2006
 
-\lx kùrusigi
+\lx kùrusìgi
 \mm kùru:n:boule
 \mm sìgi:v:asseoir
 \ps v
@@ -74058,7 +74037,7 @@ kúrunninle
 \ms 2
 \gvf former.les.noeuds
 \smf (graminée : riz, mil ...)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx kùrutìgɛ
 \mm kùru:n:boule
@@ -74536,7 +74515,7 @@ catastrophe)
 \lt (préf.accrocher)
 \dt 16/Aug/2006
 
-\lx lábàlí
+\lx lábàli
 \mm lá:mrph:CAUS
 \mm bàli:v:empêcher
 \ps v
@@ -74545,7 +74524,7 @@ catastrophe)
 \lt préf-empêcher
 \xv ò bɛ́  hákilintan lábali
 \xf (la puissance de Dieu) confond les insensés (Sg 1, 3)
-\dt 11/Nov/2007
+\dt 14/Apr/2018
 
 \lx lábalima
 \mm lá:mrph:CAUS
@@ -74868,14 +74847,13 @@ catastrophe)
 \xf je suis fatigué
 \dt 16/May/2017
 
-\lx lábɔ̀ɔsí
+\lx lábɔ̀ɔsi
 \mm lá:mrph:CAUS
 \mm bɔ̀ɔsi:v:écorcher
 \ps v
 \vl vt
-\lt préf-ravir
 \gf ravir
-\dt 11/Nov/2007
+\dt 14/Apr/2018
 
 \lx lábugun
 \mm lá:mrph:CAUS
@@ -75519,6 +75497,15 @@ catastrophe)
 \gvf être angoissé
 \gvf être ennuyer
 \dt 16/Nov/2017
+
+\lx láfìli
+\mm lá:mrph:CAUS
+\mm fìli:v:jeter
+\ps v
+\vl vt
+\gf abandonner
+\gvf laisser tomber
+\dt 14/Apr/2018
 
 \lx láfilibaatɔ
 \mm lá.fili:v:tromper
@@ -76245,15 +76232,14 @@ catastrophe)
 \lt (action de regarder.faire.celui qui)
 \dt 26/Sep/2006
 
-\lx lájɛ̀ngɛ́n
+\lx lájɛ̀ngɛn
 \mm lá:mrph:CAUS
 \mm jɛ̀ngɛn:v:incliner
 \ps v
 \vl vt
-\lt préf-pencher
 \gf faire.pencher
 \gvf détourner
-\dt 11/Nov/2007
+\dt 14/Apr/2018
 
 \lx lájɛ̀rɛ
 \mm lá:mrph:CAUS
@@ -78089,11 +78075,17 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \xf la jeune fille s'est gardée chaste
 \dt 01/Nov/2017
 
-\lx lásáha
+\lx lásaha
 \mm lá:mrph:CAUS
 \mm sáha:v:se.reposer
 \ps v
-\gf faire.se.reposer
+\ms 1
+\vl vt
+\gf relaxer
+\ms 2
+\vl vr
+\gvf se réposer
+\dt 14/Apr/2018
 
 \lx lásama
 \mm lá:mrph:CAUS
@@ -80399,7 +80391,7 @@ jour, c'est une personne dépendante qu'il voit
 \sy kúngodono
 \dt 16/Aug/2006
 
-\lx màbalima
+\lx màbálima
 \mm mà:mrph:SUPER
 \mm bálima:v:flatter
 \ve (bmk)
@@ -80407,7 +80399,7 @@ jour, c'est une personne dépendante qu'il voit
 \vl vt
 \gf flatter
 \lt (préf.louer)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màbɛn
 \mm mà:mrph:SUPER
@@ -80434,30 +80426,28 @@ jour, c'est une personne dépendante qu'il voit
 \smf (le sol d'une nouvelle case en le damant ...)
 \dt 15/Aug/2006
 
-\lx màbiri
+\lx màbíri
 \mm mà:mrph:SUPER
 \mm bíri:v:courber
 \ps v
 \vl vt
 \gf abaisser
 \smf (face au sol ...)
-\lt (préf.mettre face au sol)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
-\lx màbɔ
+\lx màbɔ́
 \mm mà:mrph:SUPER
 \mm bɔ́:v:sortir
 \ps v
 \vl vt
 \gf éloigner
-\gvf mettre.à.l'écart
-\gvf se.débarrasser.de
-\lt (préf.sortir)
-\xv í màbɔ  tásuma ná !
+\gvf mettre à l'écart
+\gvf se débarrasser de
+\xv í màbɔ́ tásuma ná !
 \xf éloigne-toi du feu !
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
-\lx màda
+\lx màdá
 \mm mà:mrph:SUPER
 \mm dá:v:poser
 \ps v
@@ -80465,21 +80455,20 @@ jour, c'est une personne dépendante qu'il voit
 \vl vt
 \gf incliner
 \sy jɛ̀ngɛn
-\lt (préf.coucher)
-\xv ntúloma màdara
+\xv ntúloma màdára
 \xf le poteau n'est plus d'aplomb
 \ms 2
 \vl vt
 \gvf calmer
 \sy súma
-\xv fíyɛn màdara
+\xv fíyɛn màdára
 \xf le vent s'est calmé
 \ms 3
 \vl vr
 \gvf devenir.silencieux
-\xv í màda  màa yé
+\xv í màdá màa yé
 \xf se taire en présence de ...
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màdamu
 \ps n
@@ -80516,17 +80505,16 @@ jour, c'est une personne dépendante qu'il voit
 \gf imiter
 \lt (préf.apprendre)
 
-\lx màdeli
+\lx màdéli
 \mm mà:mrph:SUPER
 \mm déli:v:prier
 \ps v
 \vl vt
 \gf prier
 \gvf supplier
-\lt (préf.prier)
-\xv ù yé  sáraka bɔ́  kà Ála màdeli  ò kàn :
+\xv ù yé sáraka bɔ́ kà Ála màdéli ò kàn :
 \xf ils ont offert un sacrifice et supplié Dieu à son sujet
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màdɛ̀mɛ
 \mm mà:mrph:SUPER
@@ -80538,10 +80526,10 @@ jour, c'est une personne dépendante qu'il voit
 \xv kɛ̀mɛ fílɛ ! ò yé  né ká jɔ̀yɔrɔ yé  kà í màdɛmɛ
 \xf voici 500 francs, c'est ma part pour t'aider
 
-\lx màdigi
+\lx màdígi
 \mm mà:mrph:SUPER
 \mm dígi:v:presser
-\va màn.digi
+\va màndígi
 \mm màn:mrph:SUPER
 \mm dígi:v:presser
 \ps v
@@ -80555,7 +80543,7 @@ jour, c'est une personne dépendante qu'il voit
 \lt (préf.presser)
 \ms 3
 \gvf causer.de.la.douleur
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màdiya
 \mm mà:mrph:SUPER
@@ -80581,19 +80569,18 @@ jour, c'est une personne dépendante qu'il voit
 \xf elle le prit en affection
 \dt 26/Sep/2006
 
-\lx màdiya
+\lx màdíya
 \mm mà:mrph:SUPER
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf aimer
 \gvf estimer
-\lt (préf.aimer)
-\xv í yɛ̀rɛ màdiya
+\xv í yɛ̀rɛ màdíya
 \xf chercher à se faire estimer (en faisant du zèle)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màdògo
 \mm mà:mrph:SUPER
@@ -80616,7 +80603,7 @@ jour, c'est une personne dépendante qu'il voit
 \gvf conduire.chez
 \dt 30/Oct/2017
 
-\lx màdɔgɔya
+\lx màdɔ́gɔya
 \mm mà:mrph:SUPER
 \mm dɔ́gɔ.ya:v:amoindrir
 \mm dɔ́gɔ:vq:petit
@@ -80624,7 +80611,7 @@ jour, c'est une personne dépendante qu'il voit
 \ps v
 \vl vt
 \gf humilier
-\lt (préf.diminuer)
+\dt 14/Apr/2018
 
 \lx màduman
 \mm mà:mrph:SUPER
@@ -80635,13 +80622,13 @@ jour, c'est une personne dépendante qu'il voit
 \lt (contact.agréable)
 \dt 26/Sep/2006
 
-\lx màfa
+\lx màfá
 \mm mà:mrph:SUPER
 \mm fá:v:remplir
 \ps v
 \vl vt
 \gf combler
-\lt (préf.remplir)
+\dt 14/Apr/2018
 
 \lx màfàlen
 \mm mà:mrph:SUPER
@@ -80664,13 +80651,13 @@ jour, c'est une personne dépendante qu'il voit
 \smf mot coranique
 \dt 24/Dec/2014
 
-\lx màfara
+\lx màfára
 \mm mà:mrph:SUPER
 \mm fára:v:diviser
 \ps v
 \vl vt
 \gf séparer
-\lt (préf.séparer)
+\dt 14/Apr/2018
 
 \lx máfilan
 \va mánfila
@@ -80683,36 +80670,34 @@ jour, c'est une personne dépendante qu'il voit
 \gvf sarcler.une.deuxième.fois
 \dt 16/Aug/2006
 
-\lx màfilɛ
+\lx màfílɛ
 \mm mà:mrph:SUPER
 \mm fílɛ:v:regarder
 \ps v
 \vl vt
-\gf regarder
-\lt (préf.regarder)
-\xv í kàna  à màfilɛ  náloma yé
+\gf examiner
+\xv í kàna  à màfílɛ náloma yé
 \xf ne le considère pas comme un idiot
-\dt 01/Nov/2014
+\dt 14/Apr/2018
 
 \lx màfiyɛn
 \mm mà:mrph:SUPER
 \mm fíyɛn:vq:léger
-\va mà.fyɛn
+\va màfyɛ́n
 \mm mà:mrph:SUPER
 \mm fyɛ́n:vq:léger
 \ph [mafyɛn]
-\va máfiɲɛ
+\va màfíɲɛ
 \ps v
 \vl vt
 \gf dénigrer
-\lt (préf.alléger)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
-\lx màfiyɛnya
+\lx màfíyɛnya
 \mm mà:mrph:SUPER
 \mm fíyɛn:vq:léger
 \mm ya:mrph:DEQU
-\va mà.fyɛn.ya
+\va màfyɛ́nya
 \mm mà:mrph:SUPER
 \mm fyɛ́n:vq:léger
 \mm ya:mrph:DEQU
@@ -80720,10 +80705,9 @@ jour, c'est une personne dépendante qu'il voit
 \ps v
 \vl vt
 \gf dénigrer
-\lt (préf.alléger)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
-\lx màfura
+\lx màfúra
 \mm mà:mrph:SUPER
 \mm fúra:v:balayer
 \ps v
@@ -80731,7 +80715,7 @@ jour, c'est une personne dépendante qu'il voit
 \gf nettoyer
 \smf un endroit
 \lt (préf.balayer)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx màga
 \va màa
@@ -80931,53 +80915,55 @@ jour, c'est une personne dépendante qu'il voit
 \lx màgɛn
 \mm mà:mrph:SUPER
 \mm gɛ́n:v:chasser
-\va mà.gwɛn
+\ps n
+\gf secours
+
+\lx màgɛ́n
+\mm mà:mrph:SUPER
+\mm gɛ́n:v:chasser
+\va màgwɛ́n
 \mm mà:mrph:SUPER
 \mm gwɛ́n:v:chasser
 \ph [gw]
 \ps v
-\vl vt
 \ms 1
-\gf poursuivre
-\lt (préf.poursuivre)
-\xv màraka bɔ́ra  fàn mín fɛ̀, ù y'ó màgɛn
-\xf ils ont poursuivi les sarakolé dans la direction de leur départ
-\ms 2
-\gvf rejoindre
+\vl vt
+\gf rejoindre
 \xv à b'á ká dùgu màgɛn
 \xf il rejoint son village
-\ms 3
+\xv màraka bɔ́ra fàn mín fɛ̀, ù y'ó màgɛn
+\xf ils se sont dirigé là d'où Sarakolé sont sortis
+\ms 2
+\vl vt
 \gvf secourir
 \xv á' yé ń màgɛn !
 \xf au secours !
-\dt 12/Aug/2006
+\dt 14/Apr/2018
 
-\lx màgɛn
-\mm mà:mrph:SUPER
-\mm gɛ́n:v:chasser
-\ps n
-\gf secours
-
-\lx màgɛrɛ
+\lx màgɛ̀rɛ
 \mm mà:mrph:SUPER
 \mm gɛ̀rɛ:v:s'approcher
-\va mà.gara
+\va màgàra
 \mm mà:mrph:SUPER
 \mm gàra:v:s'approcher
-\va mà.gwɛrɛ
+\va màgwɛ̀rɛ
 \mm mà:mrph:SUPER
 \mm gwɛ̀rɛ:v:s'approcher
-\va mà.gwara
+\va màgwàra
 \mm mà:mrph:SUPER
 \mm gwàra:v:s'approcher
 \ve (f, bn)
 \ph [gw]
 \ps v
+\ms 1
 \vl vt
 \gf approcher
-\smf qc de ... la
-\lt (préf.approcher)
-\dt 16/Aug/2006
+\smf (qqch., de -- lá)
+\ms 2
+\vl vr
+\gvf s'approcher
+\smf (de -- lá)
+\dt 14/Apr/2018
 
 \lx màgo
 \va màko
@@ -81134,16 +81120,15 @@ jour, c'est une personne dépendante qu'il voit
 \gf montrer
 \dt 11/Nov/2007
 
-\lx màjogin
+\lx màjógin
 \mm mà:mrph:SUPER
 \mm jógin:v:blesser
 \ps v
 \vl vt
 \gf blesser
-\smf (bmk = rouvrir une plaie
+\smf (bmk = rouvrir une plaie)
 \sy màdigi
-\lt (préf.blesser)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx màjɔ̀
 \mm mà:mrph:SUPER
@@ -81258,17 +81243,17 @@ jour, c'est une personne dépendante qu'il voit
 \sy ntóolenbafin
 \dt 16/Aug/2006
 
-\lx màkaran
+\lx màkáran
 \mm mà:mrph:SUPER
 \mm káran:v:veiller
 \ps v
 \vl vt
 \gf défendre
-\gvf veiller.sur
+\gvf veiller sur
 \lt (préf.se soucier)
 \xv í yɛ̀rɛ màkaran, Ála nà  í dɛ̀mɛ !
 \xf Veille sur toi-même, Dieu t'aidera !
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màkaranna
 \mm mà.karan:v:défendre
@@ -81292,13 +81277,13 @@ jour, c'est une personne dépendante qu'il voit
 \smf (de màkari bánna pitié est fini)
 \dt 15/May/2016
 
-\lx màkari
+\lx màkári
 \ps v
 \vl vi
 \gf avoir.pitié
 \sy hínɛa màkarila  à lá
 \xf il en a eu pitié
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx màkaribaa
 \mm màkari:v:avoir.pitié
@@ -81383,21 +81368,14 @@ jour, c'est une personne dépendante qu'il voit
 \smf à ... (ne pas gaspiller) ; (choisir particulièrement)
 \dt 08/Nov/2012
 
-\lx màki
-\ps v
-\gf se.stabiliser
-\cm rare, Kalilou Téra
-\dt 04/Apr/2016
-
-\lx màkili
+\lx màkíli
 \mm mà:mrph:SUPER
 \mm kíli:v:appeler
 \ps v
 \vl vt
 \gf invoquer
-\smf les fétiches (au cours d'un sacrifice)
-\lt (préf.appeler)
-\dt 16/Aug/2006
+\smf (les fétiches, au cours d'un sacrifice)
+\dt 14/Apr/2018
 
 \lx màkò
 \mm mà:mrph:SUPER
@@ -81409,7 +81387,7 @@ jour, c'est une personne dépendante qu'il voit
 \lt (préf.laver)
 \dt 26/Sep/2006
 
-\lx màkoto
+\lx màkotó
 \mm màko:n:besoin
 \mm tó:v:rester
 \ps v
@@ -81420,7 +81398,7 @@ jour, c'est une personne dépendante qu'il voit
 \vl vt
 \gvf grâcier
 \gvf pardonner
-\dt 09/Mar/2018
+\dt 14/Apr/2018
 
 \lx màkɔ̀nɔ
 \mm mà:mrph:SUPER
@@ -81432,19 +81410,17 @@ jour, c'est une personne dépendante qu'il voit
 \sy kɔ̀nɔ
 \dt 15/Aug/2006
 
-\lx màkuma
+\lx màkúma
 \mm mà:mrph:SUPER
 \mm kúma:v:parler
 \ps v
 \vl vt
 \ms 1
-\gf critiquer
-\gvf réprimander
-\lt (préf.parler)
+\gf gronder
 \ms 2
-\gvf mettre.au.courant
+\gvf mettre au courant
 \gvf conseiller
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màkun
 \ps n
@@ -81464,13 +81440,13 @@ jour, c'est une personne dépendante qu'il voit
 \gf fétiche.Makungoba
 \dt 21/Jul/2014
 
-\lx màkunu
+\lx màkúnu
 \mm mà:mrph:SUPER
 \mm kúnu:v:se.réveiller
 \ps v
 \vl vt
 \gf réveiller
-\lt (préf.se réveiller)
+\dt 14/Apr/2018
 
 \lx mála
 \ps n
@@ -81888,13 +81864,13 @@ jour, c'est une personne dépendante qu'il voit
 \smf cigogne au cou blanc)
 \dt 04/Apr/2016
 
-\lx màmeleke
+\lx màméleke
 \mm mà:mrph:SUPER
 \mm méleke:v:enrouler
 \ps v
 \vl vt
 \gf envelopper
-\lt (préf.envelopper)
+\dt 14/Apr/2018
 
 \lx màminɛ
 \mm mà:mrph:SUPER
@@ -82214,12 +82190,12 @@ jour, c'est une personne dépendante qu'il voit
 \nt dònniya 5/6 p.14 (Et.Kl)
 \dt 11/Nov/2007
 
-\lx mànda
+\lx màndá
 \mm màn:mrph:SUPER
 \mm dá:v:poser
 \ps v
 \gf mesurer
-\dt 04/Apr/2016
+\dt 14/Apr/2018
 
 \lx mánda
 \ps n
@@ -82260,29 +82236,17 @@ jour, c'est une personne dépendante qu'il voit
 \lt (contact.agréable)
 \dt 26/Sep/2006
 
-\lx màndimi
+\lx màndími
 \mm màn:mrph:SUPER
 \mm dími:v:faire.souffrir
 \ve (-f,-bn)
 \ps v
 \vl vt
 \ms 1
-\gf causer.de.la.douleur
-\gvf blesser
-\lt (préf.faire mal)
+\gf blesser
 \ms 2
-\gvf mettre.en.colère
-\dt 26/Sep/2006
-
-\lx màndiya
-\mm màn:mrph:SUPER
-\mm dí:vq/adj:agréable
-\mm ya:mrph:ABSTR
-\ps v
-\gf chérir
-\gvf aimer
-\gvf estimer
-\dt 04/Jul/2013
+\gvf mettre en colère
+\dt 14/Apr/2018
 
 \lx màndiya
 \mm màn:mrph:SUPER
@@ -82294,6 +82258,16 @@ jour, c'est une personne dépendante qu'il voit
 \gvf estime
 \gvf bonnes grâces
 \dt 04/Jul/2013
+
+\lx màndíya
+\mm màn:mrph:SUPER
+\mm dí:vq:agréable
+\mm ya:mrph:DEQU
+\ps v
+\gf chérir
+\gvf aimer
+\gvf estimer
+\dt 14/Apr/2018
 
 \lx mànfan
 \ps n
@@ -82361,7 +82335,7 @@ jour, c'est une personne dépendante qu'il voit
 \xf elle s'est mise à détester l'enfant
 \dt 26/Sep/2006
 
-\lx màngoya
+\lx màngóya
 \mm màn:mrph:SUPER
 \mm gó.ya:v:rendre.mauvais
 \mm gó:vq:désagréable
@@ -82371,9 +82345,8 @@ jour, c'est une personne dépendante qu'il voit
 \ms 1
 \gf détester
 \ms 2
-\gvf rendre.antipathique
-\lt (détesté.suf caus)
-\dt 26/Sep/2006
+\gvf rendre antipathique
+\dt 14/Apr/2018
 
 \lx mánimani
 \ps n
@@ -82441,13 +82414,13 @@ jour, c'est une personne dépendante qu'il voit
 \dt 16/Aug/2006
 
 \lx mànjaraki
-\va mɔ̀njaraki
-\va nkànjaraki
-\va bànjaraki
+\va mɔ̀njáraki
+\va nkànjáraki
+\va bànjáraki
 \ps v
 \vl vi
 \gf être.presque.mûr
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx mánje
 \mm jè:n:courge
@@ -82582,7 +82555,7 @@ invulnérable aux serpents, aux fauves ...)
 \smf (néologisme)
 \dt 26/Sep/2006
 
-\lx mànkutu
+\lx mànkútu
 \ps v
 \vl vt
 \ms 1
@@ -82591,7 +82564,7 @@ invulnérable aux serpents, aux fauves ...)
 \xf si bon qu'on soit, on ne fait pas son propre éloge
 \ms 2
 \gvf qualifier
-\dt 31/May/2016
+\dt 14/Apr/2018
 
 \lx mànkutulan
 \mm mànkutu:v:dire.du.bien
@@ -82616,7 +82589,7 @@ invulnérable aux serpents, aux fauves ...)
 \smf (dorsale rayonnée + adipeuse bien développée)
 \dt 16/Aug/2006
 
-\lx mànɔgɔ
+\lx mànɔ́gɔ
 \mm mà:mrph:SUPER
 \mm nɔ́gɔ:v:salir
 \ps v
@@ -82627,7 +82600,7 @@ invulnérable aux serpents, aux fauves ...)
 \ms 2
 \gvf médire
 \lt (préf.salir)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx mánsa
 \ps n
@@ -82677,19 +82650,20 @@ invulnérable aux serpents, aux fauves ...)
 \lx màntɔn
 \mm màn:mrph:SUPER
 \mm tɔ̀n:v:bloquer
-\va màn.tɔ
+\va màntɔ
 \mm màn:mrph:SUPER
 \mm tɔ̀:v:bloquer
 \ps v
+\ms 1
 \vl vt
 \gf faire.taire
-\lt (préf.arrêter)
+\ms 2
 \vl vi
 \gvf se.taire
 \gvf se.calmer
 \xv í b'í màntɔn ń ná  mùn ná ?
 \xf pourquoi rester silencieux quand je te parle ?
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màntɔ̀n
 \ps v
@@ -82769,20 +82743,19 @@ invulnérable aux serpents, aux fauves ...)
 \gvf démangeaison
 \dt 07/Mar/2014
 
-\lx màɲaga
+\lx màɲága
 \mm mà:mrph:SUPER
 \mm ɲága:v:activer.le.feu
 \ve (f)
-\va mà.ɲaka
+\va màɲáka
 \mm mà:mrph:SUPER
 \mm ɲáka:v:activer.le.feu
 \ps v
 \vl vi/vr
-\gf refuser
-\lt (prév.exciter ?)
+\gf se.rebiffer
 \xv à màɲakara  né bólo  síra lá
-\xf il s'est rebellé en route
-\dt 16/Aug/2006
+\xf il s'est rebiffé en route
+\dt 14/Apr/2018
 
 \lx màɲaganci
 \mm mà.ɲaga:v:refuser
@@ -82864,14 +82837,13 @@ invulnérable aux serpents, aux fauves ...)
 \gf ornement
 \lt (préf. orner ?)
 
-\lx màɲɔgɔlɔn
+\lx màɲɔ́gɔlɔn
 \mm mà:mrph:SUPER
 \ps v
 \vl vt
 \gf orner
 \sy màsíri
-\lt (préf. orner)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màɲɔgɔnna
 \mm mà:mrph:SUPER
@@ -82891,17 +82863,16 @@ invulnérable aux serpents, aux fauves ...)
 \gf surveillante
 \smf (chargée de surveiller la mariée la première semaine des noces)
 
-\lx màɲuman
+\lx màɲúman
 \mm mà:mrph:SUPER
 \mm ɲùman:adj:bon
 \ps v
 \vl vi/vt
 \gf avoir.pitié
-\lt (préf. être bon ?)
-\xv à yé  fàantan màɲuman
-\xv à màɲumanna  fàantan ná
+\xv à yé fàantan màɲúman
+\xv à màɲúmanna fàantan ná
 \xf il a eu pitié des pauvres
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx màɲumanko
 \mm mà.ɲuman:v:avoir.pitié
@@ -83405,12 +83376,13 @@ des engagements
 \lt ( ? . aveugle)
 \dt 16/Aug/2006
 
-\lx màsama
+\lx màsàma
+\mm mà:mrph:SUPER
+\mm sàma:v:tirer.à.soi
 \ps v
-\lt préf-tirer
 \vl vt
 \gf attirer
-\dt 11/Nov/2007
+\dt 14/Apr/2018
 
 \lx màsamali
 \mm màsama:v:attirer
@@ -83645,17 +83617,16 @@ des engagements
 \xf parce que ..., bien que ...(locution conjonctive)
 \dt 26/Sep/2006
 
-\lx màsuma
+\lx màsúma
 \mm mà:mrph:SUPER
 \mm súma:v:rafraîchir
 \ps v
 \vl vt
 \gf calmer
 \gvf apaiser
-\lt (préf.calmer)
-\xv kàrisa màsumalen dòn
+\xv kàrisa màsúmalen dòn
 \xf un tel est doux, paisible
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx màsumalenya
 \mm mà.suma:v:calmer
@@ -83671,18 +83642,21 @@ des engagements
 \xf cette douceur silencieuse fut vaine (Ps 39, 3)
 \dt 11/Nov/2007
 
-\lx màsumaya
+\lx màsúmaya
 \mm mà:mrph:SUPER
 \mm súma.ya:v:rafraîchir
 \mm súma:v:rafraîchir
 \mm ya:mrph:ABSTR
 \ps v
+\ms 1
 \vl vi
 \gf tarder
-\lt (préf.tarder.suf caus)
-\xv í màsumayara k'à fúra kɛ́, bàna júguyara
+\xv í màsumayara k'à fúrakɛ́, bàna júguyara
 \xf tu as tardé à le soigner, la maladie s'est aggravée
-\dt 16/Aug/2006
+\ms 2
+\vl vr
+\gvf se déprimer
+\dt 14/Apr/2018
 
 \lx màsurun
 \mm mà:mrph:SUPER
@@ -83751,14 +83725,13 @@ des engagements
 \lt (préf.incliner)
 \dt 01/Jul/2017
 
-\lx màtaama
+\lx màtáama
 \mm mà:mrph:SUPER
 \mm táama:v:marcher
 \ps v
 \vl vt
-\gf prospecter
-\lt (préf.marcher)
-\dt 26/Sep/2006
+\gf fréquenter
+\dt 14/Apr/2018
 
 \lx màtànga
 \mm mà:mrph:SUPER
@@ -83770,31 +83743,30 @@ des engagements
 \lt (préf.protéger)
 \dt 16/Aug/2006
 
-\lx màtara
+\lx màtára
 \mm mà:mrph:SUPER
 \mm tára:v:invoquer
 \ps v
 \vl vt
 \gf invoquer
 \smf (Dieu ...) (vx)
-\lt (préf.coller)
-\xv ù bɛ́  Ála màtara  ò kàn
+\xv ù bɛ́ Ála màtara ò kàn
 \xf ils invoquent Dieu sur l'offrande
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
-\lx màtarafa
+\lx màtárafa
 \bw ar: muta`arafa = connu par fréquentation assidue
 \ps v
 \vl vt
 \ms 1
 \gf fréquenter
-\smf assidûment qc, qn ...
+\smf (assidûment qc, qn ...)
 \xv ń'í yé  sòn màtarafa, í nà kɛ́  sòn yé
 \xf si tu fréquentes un voleur, tu le deviendras
 \ms 2
 \gvf accomplir.scrupuleusement
 \gvf bien.entretenir
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx mátarini
 \ve (fr)
@@ -83824,22 +83796,24 @@ des engagements
 \lt (seigneur.maître)
 \dt 26/Sep/2006
 
-\lx màtiɲɛ
+\lx màtíɲɛ
 \mm mà:mrph:SUPER
 \mm tíɲɛ:v:gâter
-\va mà.tiyɛn
+\va màtíyɛn
 \mm mà:mrph:SUPER
 \mm tíyɛn:v:gâter
 \ps v
+\ms 1
 \vl vt
-\lt préf-gâter
-\gf gâter
+\gf vilipender
+\ms 2
+\vl vt
 \gvf déflorer
 \xv Á nà mùso mín màminɛ, cɛ̀ wɛ́rɛ nà à dá ò fɛ̀ kà ò màtiyɛn (dt 28, 30)
 \xf celle que tu auras finacée, un autre couchera avec elle et la déflorera
-\dt 11/Nov/2007
+\dt 14/Apr/2018
 
-\lx màwɔrɔ
+\lx màwɔ́rɔ
 \mm mà:mrph:SUPER
 \mm wɔ́rɔ:v:peler
 \ps v
@@ -83849,8 +83823,7 @@ des engagements
 \gvf dénuder
 \ms 2
 \gvf démonter
-\lt (préf.dépouiller)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx màwuludu
 \ps n
@@ -83892,13 +83865,13 @@ des engagements
 \lt (préf.monter)
 \dt 26/Sep/2006
 
-\lx màyigiyigi
+\lx màyígiyigi
 \mm mà:mrph:SUPER
 \mm yígiyigi:v:agiter
 \ps v
 \vl vt
 \gf secouer
-\lt (préf.secouer)
+\dt 14/Apr/2018
 
 \lx megawati
 \ps n
@@ -88646,7 +88619,7 @@ pour les jardins)
 \smf (en tiges de "nkɔ̀lɔ̀bɛ" pour le transport des kolas ... )
 \dt 16/Aug/2006
 
-\lx nàgakɔrɔ
+\lx nàgakɔ́rɔ
 \mm nàga:n:ventre
 \mm kɔ́rɔ:n:dessous
 \ps pp
@@ -88655,7 +88628,7 @@ pour les jardins)
 \smf
 \xv nàgakɔrɔjɛgɛ
 \xf poisson d'élevage
-\dt 14/Feb/2017
+\dt 14/Apr/2018
 
 \lx nàgakɔrɔla
 \mm nàga:n:ventre
@@ -94318,24 +94291,23 @@ graines, sert d'instrument rythmique)
 \gvf cesser.de.poursuivre
 \dt 26/Sep/2006
 
-\lx nɔ̀bɔ
+\lx nɔ̀bɔ́
 \mm nɔ̀:n:trace
 \mm bɔ́:v:sortir
 \ps v
 \vl vt
 \ms 1
 \gf suivre
-\smf la piste
+\smf (la piste)
 \gvf rechercher
-\lt (trace.faire sortir)
-\xv à táara sò kàn, ń ná à nɔ̀bɔ
+\xv à táara sò kàn, ń ná à nɔ̀bɔ́
 \xf il est parti à cheval, je vais le suivre à la trace
 \ms 2
 \gvf faire.apparaître
 \smf avec netteté (trace de crayon, de craie ...)
-\xv ń bɛ́  krɛ́yɔn nɔ̀bɔ  kà sɛ́bɛnni kɛ́
+\xv ń bɛ́  krɛ́yɔn nɔ̀bɔ́ kà sɛ́bɛnni kɛ́
 \xf j'écris nettement au crayon
-\dt 05/Apr/2016
+\dt 14/Apr/2018
 
 \lx nɔ̀fɛ̀
 \mm nɔ̀:n:trace
@@ -94356,7 +94328,7 @@ graines, sert d'instrument rythmique)
 \gvf pour
 \dt 07/Feb/2016
 
-\lx nɔ̀fɛgɛn
+\lx nɔ̀fɛgɛ́n
 \mm nɔ̀:n:trace
 \mm fɛ̀:pp:par
 \mm gɛ́n:v:chasser
@@ -94364,8 +94336,7 @@ graines, sert d'instrument rythmique)
 \vl vt
 \gf poursuivre
 \gvf pourchasser
-\lt (derrière.poursuivre)
-\dt 01/Mar/2017
+\dt 14/Apr/2018
 
 \lx nɔ̀fɛta
 \mm nɔ̀:n:trace
@@ -94376,30 +94347,31 @@ graines, sert d'instrument rythmique)
 \lt (après.celui)
 \dt 01/Jun/2017
 
-\lx nɔ̀fɛtaama
+\lx nɔ̀fɛtáama
 \mm nɔ̀:n:trace
 \mm fɛ̀:pp:par
 \mm táama:v:marcher
 \ps v
 \vl vt
 \ms 1
-\gf aller.chercher
-\smf (faire les démarches de mariage)
-\lt (à la suite.marcher)
-\ms 2
+\ms 1
+\gf filer
 \gvf aller.derrière
-\dt 01/Jun/2017
+\ms 2
+\vl vt
+\gvf aller.chercher
+\smf (faire les démarches de mariage)
+\dt 14/Apr/2018
 
-\lx nɔ̀gɛn
+\lx nɔ̀gɛ́n
 \mm nɔ̀:n:trace
 \mm gɛ́n:v:chasser
 \ps v
 \vl vt
 \gf poursuivre.en.courant
-\lt (trace.suivre)
-\xv à nɔ̀gɛnna  wùlu fɛ̀
+\xv à nɔ̀gɛ́nna wùlu fɛ̀
 \xf le chien l'a poursuivi
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx nɔ̀gɛnbaa
 \mm nɔ̀.gɛn:v:poursuivre.en.courant
@@ -94970,7 +94942,7 @@ graines, sert d'instrument rythmique)
 \lt (à la place.mettre)
 \dt 23/Nov/2012
 
-\lx nɔ̀nabila
+\lx nɔ̀nabìla
 \mm nɔ̀:n:trace
 \mm ná:pp:à
 \mm bìla:v:mettre
@@ -94980,8 +94952,7 @@ graines, sert d'instrument rythmique)
 \gf remplacer
 \ms 2
 \gvf renouveler
-\lt (à la place.mettre)
-\dt 23/Nov/2012
+\dt 14/Apr/2018
 
 \lx nɔ̀nada
 \mm nɔ̀:n:trace
@@ -95309,15 +95280,14 @@ graines, sert d'instrument rythmique)
 \ps n
 \gf dépôt
 
-\lx nɔ̀rɔ́gɔ̀si
+\lx nɔ̀rɔgɔ̀si
 \mm nɔ̀:n:trace
 \mm rɔ́:mrph:IN
 \mm gɔ̀si:v:battre
 \ps v
 \vl vt
 \gf détériorer
-\lt (oeuvre.frapper)
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx nɔ́rɔkɔ
 \va nɔ́rɔgɔ
@@ -101584,15 +101554,14 @@ graines, sert d'instrument rythmique)
 \lt (regard.perdre)
 \dt 26/Sep/2006
 
-\lx ɲɛ́mɛ́gɛmɛgɛ
+\lx ɲɛ́mɛgɛmɛgɛ
 \mm ɲɛ́:n:oeil
 \mm mɛ́gɛmɛgɛ:v:scintiller
 \ps v
 \vl vr
 \gf ciller
 \smf (qn qui a mal aux yeux ...)
-\lt (oeil.scintiller)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx ɲɛ́mìnɛ
 \mm ɲɛ́:n:oeil
@@ -102776,7 +102745,7 @@ graines, sert d'instrument rythmique)
 \gvf accouchement.heureux
 \dt 26/Sep/2006
 
-\lx ɲɛ́súma
+\lx ɲɛ́suma
 \mm ɲɛ́:n:oeil
 \mm súma:v:rafraîchir
 \ps v
@@ -102784,14 +102753,13 @@ graines, sert d'instrument rythmique)
 \ms 1
 \gf prospérer
 \gvf être.délivré.des.soucis
-\lt (oeil.frais)
 \xv jàgo y'á ɲɛ́suma
 \xf le commerce l'a mis dans l'aisance
 \ms 2
 \gvf accoucher
 \xv à mùso ɲɛ́sumana
 \xf sa femme a accouché
-\dt 27/sept./2006
+\dt 14/Apr/2018
 
 \lx ɲɛ́ta
 \mm ɲɛ́:n:oeil
@@ -102876,29 +102844,27 @@ graines, sert d'instrument rythmique)
 \sy kùntilenna
 \dt 12/Aug/2006
 
-\lx ɲɛ́túnu
+\lx ɲɛ́tunu
 \mm ɲɛ́:n:oeil
 \mm túnu:v:perdre
-\va ɲɛ́kúnu
+\va ɲɛ́kunu
 \mm ɲɛ́:n:oeil
 \ps v
 \vl vi
 \gf disparaître
 \gvf mourir
-\lt (regard.disparaître)
 \xv ní  í yɛ̀rɛ ɲɛ́tununa  dón ó dón, í dén bɛ́ kɛ́  màanasiri yé
 \xf quand tu seras mort, ton fils deviendra le boy de quelqu'un
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
-\lx ɲɛ́túru
+\lx ɲɛ́turu
 \mm ɲɛ́:n:oeil
 \mm túru:v:planter
 \ps v
 \vl vr
 \gf braquer.les.yeux
-\smf (sur ... la)
-\lt (oeil.planter)
-\dt 16/Aug/2006
+\smf (sur -- lá)
+\dt 14/Apr/2018
 
 \lx ɲɛ́wàsa
 \mm ɲɛ́:n:oeil
@@ -109687,14 +109653,13 @@ épuisés
 \smf (en vannerie, pour le transport)
 \dt 16/Aug/2006
 
-\lx sànsi
+\lx sànsì
 \mm sàn:n:année
 \mm sì:v:passer.la.nuit
 \ps v
 \vl vi
 \gf passer.l'année
-\lt (année.passer)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx sánsiri
 \ve (f)
@@ -111268,8 +111233,7 @@ paniers, sègi)
 \ps v
 \vl vt
 \gf faire.des.souhaits.de.fête
-\lt (en fête.saluer)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx sélimakini
 \mm séli:n:prière
@@ -111741,18 +111705,17 @@ paniers, sègi)
 \lt (pied.unique)
 \dt 12/Aug/2006
 
-\lx sènkɛnyɛ
+\lx sènkɛ́nyɛ
 \mm sèn:n:jambe
 \mm kɛ́n:vq:égal
 \mm yɛ:mrph:DEQU
 \ps v
 \vl vi
 \gf coïncider
-\smf avec ni ... ye
-\lt (pied.être égal)
-\xv dúnan sèn kɛ́nyɛna ní  dén bángenni yé...
+\smf (avec -- ní ... yé)
+\xv dúnan sènkɛ́nyɛna ní  dén bángenni yé...
 \xf l'arrivée de l'étranger coïncida avec la naissance de l'enfant ...
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx sènkolosabana
 \mm sèn:n:jambe
@@ -111800,7 +111763,7 @@ paniers, sègi)
 \gf gros.orteil
 \dt 11/Nov/2007
 
-\lx sènkɔrɔ
+\lx sènkɔ́rɔ
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
 \ps pp
@@ -111808,13 +111771,13 @@ paniers, sègi)
 \gvf chez
 \gvf au milieu de
 \gvf au cours de
-\dt 04/Jul/2013
+\dt 14/Apr/2018
 
-\lx sènkɔrɔcɛ
+\lx sènkɔrɔcɛ̀
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
 \mm cɛ̀:v:ramasser
-\va sènkɔrɔmacɛ
+\va sènkɔrɔmacɛ̀
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
 \mm mà:mrph:SUPER
@@ -111829,7 +111792,23 @@ paniers, sègi)
 \gvf achever
 \ms 3
 \gvf commencer
-\dt 10/Apr/2016
+\dt 14/Apr/2018
+
+\lx sènkɔrɔdòndon
+\mm sèn:n:jambe
+\mm kɔ́rɔ:pp:sous
+\mm dòn:v:entrer
+\mm dòn:v:entrer
+\va sènkɔrɔmadòndon
+\mm sèn:n:jambe
+\mm kɔ́rɔ:pp:sous
+\mm mà:mrph:SUPER
+\mm dòn:v:entrer
+\ps v
+\vl vt
+\gf soutenir
+\smf (d'une façon nuancée)
+\dt 14/Apr/2018
 
 \lx sènkɔrɔjugu
 \mm sèn:n:jambe
@@ -111842,30 +111821,21 @@ paniers, sègi)
 \sy ɲìjugu
 \dt 16/Aug/2006
 
-\lx sènkɔrɔmadɛmɛ
+\lx sènkɔrɔmadɛ̀mɛ
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
 \mm mà:mrph:SUPER
 \mm dɛ̀mɛ:v:aider
 \ps v
 \gf soutenir
-\dt 10/Apr/2016
+\dt 14/Apr/2018
 
-\lx sènkɔrɔmadon
+\lx sènkɔrɔmadòn
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
 \mm mà:mrph:SUPER
 \mm dòn:v:entrer
-\va sènkɔrɔdondon
-\mm sèn:n:jambe
-\mm kɔ́rɔ:pp:sous
-\mm dòn:v:entrer
-\va sènkɔrɔmadondon
-\mm sèn:n:jambe
-\mm kɔ́rɔ:pp:sous
-\mm mà:mrph:SUPER
-\mm dòn:v:entrer
-\va sènkɔrɔdon
+\va sènkɔrɔdòn
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
 \mm dòn:v:entrer
@@ -111875,7 +111845,7 @@ paniers, sègi)
 \xv háli ní 'póroze' nìn b'án ká làada sɔ̀sɔ, gófɛrɛnaman b'ó sènkɔ̀rɔ̀màdon
 \xf même si le projet va contre nos coutumes (excision), le
 gouvernement le soutient (kb 5/06 p.7)
-\dt 16/Jun/2017
+\dt 14/Apr/2018
 
 \lx sènkuru
 \mm sèn:n:jambe
@@ -112026,13 +111996,12 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf football
 \lt (pied.à.ballon.frapper)
 
-\lx sènnasiri
+\lx sènnasìri
 \mm sèn:n:jambe
 \mm ná:mrph:CAUS
 \mm sìri:v:lier
 \ps v
 \vl vt
-\lt pied-lier
 \gf entraver.la.marche
 \gvf retenir de partir
 \xv 'Á kàna né sènnasiri, kàtugu Ála yé né ká táama díya'
@@ -112040,7 +112009,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \xv Fàrikolo mín kɔ̀ni ká kán  kà tíɲɛ, ò bɛ́  hákili sènnasiri
 \xf notre corps périssable entrave l'esprit (Sg 9, 15)
 \rem sens précis à vérifier / chercher sens fig)
-\dt 11/Nov/2007
+\dt 14/Apr/2018
 
 \lx sènnasɔ̀n
 \mm sèn:n:jambe
@@ -112065,7 +112034,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf
 \dt 23/Mar/2015
 
-\lx sènnasumaya
+\lx sènnasúmaya
 \mm sènnasuma:adj:lent
 \mm sènna:n:allure
 \mm sèn:n:jambe
@@ -112074,12 +112043,11 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
-\lt allure-ralentir
 \gf ralentir
 \sy sènsumaya
 \xv ò bɛ́ɛ kɛ́ra sábabu yé kà báara sènnasumaya
 \xf tout cela fut cause du ralentissement des travaux (kb 2/05 p.2)
-\dt 23/Mar/2015
+\dt 14/Apr/2018
 
 \lx sènnataamayɔrɔ
 \mm sèn:n:jambe
@@ -112104,7 +112072,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf rapide
 \dt 07/Dec/2014
 
-\lx sènnateliya
+\lx sènnatéliya
 \mm sènnateli:adj:pressé
 \mm sèn.na:n:allure
 \mm sèn:n:jambe
@@ -112115,18 +112083,16 @@ gouvernement le soutient (kb 5/06 p.7)
 \vl vr
 \gf presser.l'allure
 \smf (pour le piéton)
-\lt (pas.hâter)
-\dt 26/Mar/2015
+\dt 14/Apr/2018
 
-\lx sènnayaala
+\lx sènnayáala
 \mm sèn:n:jambe
 \mm ná:pp:à
 \mm yáala:v:se.promener
 \ps v
 \vl vr
 \gf se.promener.à.pied
-\lt (à pied.se promener)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx sènnayaalala
 \mm sèn:n:jambe
@@ -113158,17 +113124,16 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf
 \dt 13/Mar/2018
 
-\lx sɛ̀gɛnnabɔ
+\lx sɛ̀gɛnnabɔ́
 \mm sɛ̀gɛn:n:fatigue
 \mm ná:mrph:CAUS
 \mm bɔ́:v:sortir
 \ps v
 \vl vr
 \gf se.reposer
-\lt (fatigue.enlever)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
-\lx sɛ̀gɛnnafiyɛn
+\lx sɛ̀gɛnnafíyɛn
 \mm sɛ̀gɛn:n:fatigue
 \mm ná:mrph:CAUS
 \mm fíyɛn:v:sécher
@@ -113176,7 +113141,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \vl vr
 \gf se.reposer
 \lt (fatigue.alléger)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx sɛ̀gɛnsara
 \mm sɛ̀gɛn:n:fatigue
@@ -114811,14 +114776,14 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \gvf extinction d'une espèce
 \dt 26/Sep/2006
 
-\lx sílásà
+\lx sílasà
 \mm sí:n:semence
 \mm lá:mrph:CAUS
 \mm sà:v:mourir
 \ps v
 \vl vt
 \gf exterminer
-\lt (race.faire mourir)
+\dt 14/Apr/2018
 
 \lx sílatunu
 \mm sí:n:semence
@@ -117857,18 +117822,20 @@ donne d'excellentes fibres)
 \gvf
 \dt 16/Mar/2018
 
-\lx sɔ̀gàra
+\lx sɔ̀gɛ̀rɛ
+\mm sɔ̀:mrph:EN
+\mm gɛ̀rɛ:v:s'approcher
+\va sɔ̀gàra
 \mm sɔ̀:mrph:EN
 \mm gàra:v:s'approcher
-\va sɔ̀.gwàra
+\va sɔ̀gwàra
 \mm sɔ̀:mrph:EN
 \mm gwàra:v:s'approcher
 \ph [gw]
 \ps v
 \vl vt
 \gf approcher
-\lt (préf.approcher)
-\dt 12/Aug/2006
+\dt 14/Apr/2018
 
 \lx sɔ̀gɔ
 \ps v
@@ -117986,14 +117953,13 @@ donne d'excellentes fibres)
 \lt (matin.début)
 \dt 28/Feb/2017
 
-\lx sɔ̀gɔmafo
+\lx sɔ̀gɔmafó
 \mm sɔ̀gɔmà:n:matin
 \mm fò:v:saluer
 \ps v
 \vl vt
 \gf saluer.le.matin
-\lt (le matin.saluer)
-\dt 28/Feb/2017
+\dt 14/Apr/2018
 
 \lx sɔ̀gɔsɔgɔ
 \va swàswa
@@ -120692,6 +120658,16 @@ fiançailles
 \xf ce gros poteau soutient le toit
 \dt 04/Jan/2015
 
+\lx sùulusáala
+\va syòlosyála
+\ve (bk)
+\ve (f)
+\va sòolosáala
+\ps v
+\vl vr
+\gf flâner
+\dt 14/Apr/2018
+
 \lx súurutala
 \mm súuru:v:verser
 \mm tá:n:feu
@@ -121365,16 +121341,6 @@ fiançailles
 \cf dònobugun
 \lt (poule.moyenne)
 \dt 12/Aug/2006
-
-\lx syòlosyalá
-\ve (bk)
-\va sùulusáala
-\ve (f)
-\va sòolosáala
-\ps v
-\vl vr
-\gf flâner
-\dt 16/Aug/2006
 
 \lx syɔ́
 \ps n
@@ -126935,14 +126901,16 @@ est due aux paysans (kib 3/05 p.9)
 \ve (-f)
 \va tòntàn
 \ve (bk)
+\va tòtá
+\src Kalilu Tera
 \ps v
 \vl vt
 \ms 1
 \gf piler
-\smf les noix de karité (à plusieurs personnes)
+\smf (les noix de karité, à plusieurs personnes)
 \ms 2
 \gvf battre
-\dt 26/Sep/2006
+\dt 14/Apr/2018
 
 \lx tóntigi
 \mm tón:n:carquois
@@ -127754,11 +127722,11 @@ est due aux paysans (kib 3/05 p.9)
 \xf Si tu prends en gage le manteau de qqn ...
 \dt 05/Apr/2016
 
-\lx tɔ̀nɔmàdá
+\lx tɔ̀nɔmadá
 \mm tɔ̀nɔ:n:gain
 \mm mà:mrph:SUPER
 \mm dá:v:poser
-\va tnɔ̀.mà.dá
+\va tnɔ̀màdá
 \mm tnɔ̀:n:gain
 \mm mà:mrph:SUPER
 \mm dá:v:poser
@@ -127767,8 +127735,7 @@ est due aux paysans (kib 3/05 p.9)
 \vl vt
 \gf mettre.en.gage
 \smf (même ses enfants)
-\lt (profit.poser)
-\dt 16/Aug/2006
+\dt 14/Apr/2018
 
 \lx tɔ́nɔmi
 \va tnɔ́mi
@@ -132516,9 +132483,8 @@ Mali)
 \ps v
 \vl vt
 \gf revenir.sur.le.passé
-\lt (francolin.reculer)
-\smf comme un francolin qui recule doucement et se tapit ?)
-\dt 26/Sep/2006
+\smf (comme un francolin qui recule doucement et se tapit ?)
+\dt 14/Apr/2018
 
 \lx wɔ̀lɔmɛ
 \ve (bk)
