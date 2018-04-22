@@ -1,4 +1,4 @@
-\_sh v3.0  1302 MDF 4.0
+\_sh v3.0  231  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -772,6 +772,14 @@ les deux flancs'
 \gvf c'est normal
 \lt (oui.bien sûr)
 \dt 16/Aug/2006
+
+\lx ansanbulu
+\ps n
+\bw fr. ensemble
+\gf ensemble
+\smf (musical)
+\gvf
+\dt 22/Apr/2018
 
 \lx ánw
 \va ún
@@ -7663,8 +7671,8 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ph [bl]
 \va bìl'
 \ps v
-\vl vt
 \ms 1
+\vl vt
 \gf mettre
 \smf lâcher un objet inanimé
 \gvf déposer
@@ -7680,6 +7688,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv mɔ̀gɔ kán bìla
 \xf désobéir à un ordre
 \ms 2.1
+\vl vt
 \gvf abandonner
 \smf lâcher un être animé
 \gvf céder
@@ -7696,6 +7705,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv fíyɛn mìnɛ k'á bìla
 \xf inspirer et expirer (respirer)
 \ms 2.2
+\vl vt
 \gvf cesser
 \smf lâcher une action, la placer à tel moment
 \xv ù yé  bɔ́nfɔ bìla
@@ -7703,6 +7713,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv ù yé  fìnita bìla  ò dón kàn :
 \xf ils ont décidé de faire la circoncision ce jour là
 \ms 3
+\vl vt
 \gvf libérer
 \gvf (re)lâcher
 \xv ń bìla dɛ́ !
@@ -7710,34 +7721,41 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv bágan bìlalen
 \xf le bétail n'est plus gardé
 \ms 4
+\vl vt
 \xv fíyɛn bìla
 \gvf péter
 \ms 5
+\vl vt
 \gvf permettre
 \xv à bìla kà nà
 \xf permets-lui de venir
 \ms 6
+\vl vt
 \gvf ajouter
 \xv fɛ́n bìla  fɛ́n kàn
 \xf ajouter qqch a qqch
 \ms 7
+\vl vt
 \gvf exciter
 \xv màa bìla  ɲɔ́gɔn ná
 \xf mettre la zizanie entre les gens
 \ms 8
+\vl vt
 \gvf envoyer
 \xv màa dɔ́ bìla  kà táa  à wéle
 \xf envoyer qqn l'appeler
 \ms 9
+\vl vt
 \gvf confier.qqn.à
 \xv ń y'à bìla  á bólo
 \xf je vous l'ai confié
 \ms 10
+\vl vt
 \xv fɔ́ k'à bìla  /  fɔ́ kà táa ' bìla /  fɔ́ kà nà  à bìla
 \gvf jusqu'à
 \xv k'à tà  sélifana ná  fɔ́ kà nà  à bìla  làansara lá
 \xf de 2h à 6h du soir
-\dt 16/Apr/2016
+\dt 19/Apr/2018
 
 \lx bíla
 \ps n
@@ -15965,17 +15983,6 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \rem mol + gn 49, 19 ...
 \dt 11/Nov/2007
 
-\lx cɛ̀ma
-\mm cɛ̀:n:mâle
-\mm ma:mrph:COM
-\va cɛ̀.man
-\mm cɛ̀:n:mâle
-\mm man:mrph:ADJ
-\ps adj
-\gf mâle
-\lt (mâle.fait partie)
-\dt 26/Sep/2006
-
 \lx cɛ́mà
 \mm cɛ́:n:milieu
 \mm mà:pp:ADR
@@ -16011,6 +16018,28 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \ms 2
 \gvf nervure.principale
 \dt 16/Aug/2006
+
+\lx cɛ̀man
+\mm cɛ̀:n:mâle
+\mm man:mrph:ADJ
+\va cɛ̀ma
+\mm cɛ̀:n:mâle
+\mm ma:mrph:COM
+\ps adj
+\gf mâle
+\dt 21/Apr/2018
+
+\lx cɛ̀man
+\mm cɛ̀:n:mâle
+\mm man:mrph:ADJ
+\va cɛ̀ma
+\mm cɛ̀:n:mâle
+\mm ma:mrph:COM
+\ps m
+\gf garçon
+\smf (opposé à fille)
+\gvf homme
+\dt 21/Apr/2018
 
 \lx cɛ́mancɛ
 \va cámancɛ
@@ -21171,16 +21200,28 @@ pas)
 \mm dàn:n:limite
 \mm mà:pp:ADR
 \ps n
+\ms 1
 \gf limite
 \gvf taille
 \gvf dimension
-\gvf mesure
-\gvf nombre
-\gvf caractère
-\gvf caractéristique
 \xv à dàma ná
 \xf à part, séparement
-\dt 12/Jun/2016
+\xv ò kà táa  í dá à dàma ná
+\xf qu'il aille se coucher à part
+\ms 2
+\gvf caractère
+\gvf caractéristique
+\ms 3
+\gvf nombre
+\gvf mesure
+\gvf quantité
+\xv né má  ù dàma dɔ́n
+\xf je ne connais pas leur nombre
+\xv fɔ́ k'à dàma tɛ̀mɛ
+\xf jusqu'à dépasser le mesure
+\xv à yé  sàn dàma dɔ́ kɛ́ yèn
+\xf il a passé quelques années là-bas
+\dt 22/Apr/2018
 
 \lx dàma
 \va dànma
@@ -21661,35 +21702,26 @@ devenir incontrôlable
 \dt 03/Apr/2016
 
 \lx dàn
-\va dàma
 \ps n
 \ms 1
 \gf limite
-\xv ò kà táa  í dá  à dàma ná
-\xf qu'il aille se coucher à part
-\ms 2
-\gvf apogée
+\gvf bout
+\gvf fin
+\gvf terme
 \xv ò dàn kɛ́ra  ò yé
 \xf ce fut la dernière fois
 \xv né dàn yé  ò yé
 \xf c'est tout ce que je peux faire
-\xv í dàn tìgɛ
-\xf dire pourquoi l'on vient
-\xv à dàn yé  ò yé
+\ms 2
+\gvf apogée
+\gvf comble
+\gvf maximum
+\gvf minimum
+\xv à dàn yé ò yé
 \xf c'est le comble !
-\xv ń tɛ́ sé k'í fò  kà sé  à dàn ná
+\xv ń tɛ́ sé k'í fò kà sé à dàn ná
 \xf je ne peux assez te remercier
-\ms 3
-\gvf nombre
-\gvf mesure
-\gvf quantité
-\xv né má  ù dàma dɔ́n
-\xf je ne connais pas leur nombre
-\xv fɔ́ k'à dàma tɛ̀mɛ
-\xf jusqu'à dépasser le mesure
-\xv à yé  sàn dàma dɔ́ kɛ́ yèn
-\xf il a passé quelques années là-bas
-\dt 26/Sep/2006
+\dt 22/Apr/2018
 
 \lx dàn
 \ps n
@@ -22721,8 +22753,10 @@ génitales ...
 \ps v
 \vl vr
 \gf s'expliquer
-\gvf dire.le.motif.de.la.venue
-\dt 27/Jan/2018
+\gvf dire le motif de la venue
+\xv í dàntìgɛ
+\xf dire pourquoi l'on vient
+\dt 22/Apr/2018
 
 \lx dàntigɛli
 \mm dàn:n:limite
@@ -23561,6 +23595,13 @@ génitales ...
 \gvf épier
 \dt 12/Jul/2013
 
+\lx defile
+\ps n
+\bw fr. défilé
+\gf défilé
+\gvf
+\dt 21/Apr/2018
+
 \lx dège
 \ps v
 \vl vt
@@ -23963,8 +24004,7 @@ génitales ...
 \ps n
 \gf famille
 \smf (nucléaire : géniteurs + enfants)
-\lt (enfant.bcp.suf abs)
-\dt 16/Aug/2006
+\dt 22/Apr/2018
 
 \lx dénbayatigi
 \mm dén:n:enfant
@@ -28492,8 +28532,18 @@ désorienter')
 \lt (danse.appeler)
 \dt 26/Sep/2006
 
+\lx dɔ̀nkilidakɔnɔ
+\mm dɔ̀n.kili:n:chant
+\mm dɔ̀n:n:danse
+\mm kíli:v:appeler
+\mm kɔ̀nɔ:n:oiseau
+\ps n
+\gf solo
+\gvf
+\dt 22/Apr/2018
+
 \lx dɔ̀nkilidala
-\mm dɔ̀nkili:n:chant
+\mm dɔ̀n.kili:n:chant
 \mm dɔ̀n:n:danse
 \mm kíli:v:appeler
 \mm dá:v:poser
@@ -28502,7 +28552,7 @@ désorienter')
 \gf chanteuse
 \gvf chanteur
 \lt (chant.poser.celle qui)
-\dt 23/Feb/2017
+\dt 22/Apr/2018
 
 \lx dɔ́nko
 \mm dɔ́n:n:connaissance
@@ -35693,11 +35743,13 @@ la virginité (pièce de monnaie sans trou)
 \mm la:mrph:AG.PRM
 \ph [fl]
 \ps n
+\ms 1
 \gf devin
-\lt (divination.faire.celui qui)
 \xv ù táara  fílɛlikɛla dɔ́ bára
 \xf ils sont allés chez un devin
-\dt 12/Aug/2006
+\ms 2
+\gvf spectateur
+\dt 22/Apr/2018
 
 \lx fìli
 \va flì
@@ -52334,6 +52386,16 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \gf dignitaire
 \lt (place.grande.qui a)
 \dt 16/Aug/2006
+
+\lx jɔ̀yɔrɔfa
+\mm jɔ̀.yɔrɔ:n:place
+\mm jɔ̀:n:station.debout
+\mm yɔ́rɔ:n:lieu
+\mm fá:v:remplir
+\ps n
+\gf accomplissement.d'obligations
+\gvf
+\dt 22/Apr/2018
 
 \lx jù
 \ps n
@@ -74992,21 +75054,20 @@ catastrophe)
 \ms 1
 \gf entretenir
 \ms 2
-\gvf bien.éduquer
+\gvf bien éduquer
 \rem l 89
-\dt 11/Nov/2007
+\dt 22/Apr/2018
 
 \lx ládamu
-\smf *forme longue de naamu ?
 \va nádamu
 \ve (-bn,-bk)
 \ps n
 \gf savoir-vivre
-\gvf bonne.éducation
+\gvf bonne éducation
 \smf (politesse, marques d'honneur, entr'aide ...)
 \xv nádamu ìn, hádamadenya látɛmɛcogo dòn  á ní  ɲɔ́gɔn cɛ́
 \xf "nadamu" , c'est la bonne manière de vous comporter entre vous
-\dt 26/Sep/2006
+\dt 22/Apr/2018
 
 \lx ládamulenya
 \mm ládamu:v:entretenir
@@ -78005,9 +78066,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf bien.voir
 \gvf détecter
 \gvf repérer
-\xv à m'á yé  k'à lásaa
+\xv à m'á yé k'à lásàa
 \xf il ne l'a pas bien distingué, il n'a fait que l'entrevoir
-\dt 26/Sep/2006
+\dt 22/Apr/2018
 
 \lx lásàalo
 \mm lá:mrph:CAUS
@@ -78015,7 +78076,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ps v
 \vl vt
 \gf consoler
-\lt (préf.consoler)
+\dt 19/Apr/2018
 
 \lx lásabali
 \mm lá:mrph:CAUS
@@ -79646,6 +79707,13 @@ personne)
 \gf ludo
 \gvf jeu de petits chevaux
 \dt 27/Nov/2014
+
+\lx ligi
+\ps n
+\bw Fr. ligue
+\gf ligue
+\smf (dans le contexte sportif)
+\dt 22/Apr/2018
 
 \lx lígi
 \ps n
@@ -96129,6 +96197,20 @@ graines, sert d'instrument rythmique)
 \sy bàninkɔnɔ-ká-tìga
 \dt 19/Aug/2006
 
+\lx nséma
+\va shyéma
+\ph [shyema]
+\va syéma
+\va nsɛ́mɛ
+\va nsɛ́ɛmɛ
+\va séma
+\va nsɛ́ɛma
+\va sɛ́ɛmɛ
+\ve (bn)
+\ps n
+\gf responsable.des.initiés
+\dt 21/Apr/2018
+
 \lx nsɛ́bɛrɛ
 \ps n
 \gf ténia
@@ -97920,8 +98002,10 @@ graines, sert d'instrument rythmique)
 \va dúsu
 \ps n
 \gf grappe
-\smf grappe de fruits (régime de banane ...)
-\dt 16/Aug/2006
+\gvf régime
+\smf (grappe de fruits: régime de
+banane, etc.)
+\dt 21/Apr/2018
 
 \lx nù
 \va nùn
@@ -111292,7 +111376,7 @@ paniers, sègi)
 \xv sɛ̀nɛkɛla cáman yé gɛ̀lɛya sɔ̀rɔ, kàsɔrɔ ù sémako tɛ́
 \xf beaucoup de paysans sont en difficulté, sans qu'ils y puissent quelque chose (kb 2/06 p.6)
 \rem Jos 95
-\dt 11/Nov/2007
+\dt 21/Apr/2018
 
 \lx sèn
 \ps n
@@ -111309,6 +111393,9 @@ paniers, sègi)
 \xf traverser la rivière à gué
 \xv à b'á sèn ná
 \xf il est à pied
+\xv à ma bɛ̀n sèn mà
+\xf cela n'a pas bien marché, cela n'a
+pas réussi
 \xv fɛ́n ɲíni sèn ní  bólo
 \xf faire des pieds et des mains pour obtenir qqch, mettre le paquet pour ...
 \xv í bɛ́ wùluku kàn  k'á sèn dòn
@@ -111326,7 +111413,6 @@ paniers, sègi)
 \xv ń táara ń sèn jɔ̀  bànabaatɔ lá
 \xf j'ai rendu visite au malade
 \ms 2
-\smf *sèn na = à pied --> en route --> en cours ?
 \gvf en cours
 \xv kó bɛ́ à sèn ná
 \xf l'affaire suit son cours
@@ -111351,7 +111437,7 @@ paniers, sègi)
 \xf manière de chanter  (oiseau)
 \xv kòlonninfilila ní  cɛ̀ndala bɛ́ɛ ká kán, à báarakɛsen tɛ́  kélen yé ń'ó tɛ́, ù bɛ́ɛ yé  dɔ́nnikɛla yé
 \xf les jeteurs de cauris et les géomanciens, c'est tout pareil ; leurs techniques sont différentes, sinon, ce sont tous des devins
-\dt 15/Nov/2017
+\dt 22/Apr/2018
 
 \lx sèn
 \va sègin
@@ -120731,17 +120817,6 @@ fiançailles
 \lt (Syan.habitant de)
 \dt 16/Aug/2006
 
-\lx syéma
-\va shyéma
-\ph [shyema]
-\smf *seema
-\va séma
-\va sɛ́ɛmɛ
-\ve (bn)
-\ps n
-\gf responsable.des.initiés
-\dt 26/Sep/2006
-
 \lx syémaya
 \mm syéma:n:responsable.des.initiés
 \mm ya:mrph:ABSTR
@@ -126406,6 +126481,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 22/Sep/2014
 
 \lx tó
+\va t'
 \ps v
 \ms 1
 \vl vi
@@ -126458,7 +126534,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xf c'est pourquoi, en conséquence (c'est cela qui a provoqué ceci : ...)
 \xv Ála máa á tóra...
 \xf Dieu fasse que ...
-\dt 26/Sep/2006
+\dt 21/Apr/2018
 
 \lx tóbi
 \va tɔ́bi
@@ -127751,6 +127827,15 @@ est due aux paysans (kib 3/05 p.9)
 \vl vt
 \gf tordre
 \dt 26/Sep/2006
+
+\lx tɔ̀nɔnkɔ
+\va ntɔ̀nɔnkɔ
+\va dɔ̀nɔnkɔn
+\ps n
+\gf ténia
+\gvf ascaris
+\gvf ver solitaire
+\dt 22/Apr/2018
 
 \lx tɔ́nɔtɔnɔ
 \va tnɔ́tnɔ
@@ -135962,6 +136047,13 @@ généreuses, avec bourrelets
 \ps adj
 \gf général
 \dt 09/Jan/2015
+
+\lx zeni
+\ps n
+\bw Fr. génie militaire
+\gf génie.militaire
+\gvf
+\dt 21/Apr/2018
 
 \lx zido
 \ps n

@@ -872,11 +872,11 @@ Comoé, Burkina Faso)
 \dt 23/May/2010
 
 \lx Barala
-\ps n,prop
+\ps n.prop
 \gf TOP
 \gvf
 \smf (village, du côté de Djenné)
-\dt 15/Mar/2018
+\dt 17/Mar/2018
 
 \lx Baraselɔni
 \ps n.prop
@@ -6399,6 +6399,13 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \smf (état ancien dans la vallée du Sénégal)
 \dt 05/Feb/2016
 
+\lx Teredugu
+\ps n.prop
+\gf TOP
+\gvf Térédougou
+\smf (village, commune de Timisa
+\dt 22/Apr/2018
+
 \lx Tesaliti
 \ps n.prop
 \gf TOP
@@ -6468,10 +6475,10 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \ps n.prop
 \gf TOP
 \gvf Timissa
-\smf (nom d'un village)
+\smf (village et commune, cercle de Tominian, région de Ségou)
 \xv
 \xf
-\dt 09/Mar/2018
+\dt 22/Apr/2018
 
 \lx Timiyawini
 \ps n.prop

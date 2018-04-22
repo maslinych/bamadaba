@@ -1,4 +1,4 @@
-\_sh v3.0  1302 MDF 4.0
+\_sh v3.0  231  MDF 4.0
 
 \lang bam
 \name yorow
@@ -6399,6 +6399,13 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \smf (état ancien dans la vallée du Sénégal)
 \dt 05/Feb/2016
 
+\lx Teredugu
+\ps n.prop
+\gf TOP
+\gvf Térédougou
+\smf (village, commune de Timisa, cercle de Tominian, région de Ségou)
+\dt 22/Apr/2018
+
 \lx Tesaliti
 \ps n.prop
 \gf TOP
@@ -6468,10 +6475,10 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \ps n.prop
 \gf TOP
 \gvf Timissa
-\smf (nom d'un village)
+\smf (village et commune, cercle de Tominian, région de Ségou)
 \xv
 \xf
-\dt 09/Mar/2018
+\dt 22/Apr/2018
 
 \lx Timiyawini
 \ps n.prop

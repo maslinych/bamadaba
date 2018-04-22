@@ -3814,7 +3814,7 @@ forme francaise: Berehima
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 21/Apr/2018
 
 \lx Sìdikì
 \va Siriki
@@ -3822,6 +3822,12 @@ forme francaise: Berehima
 \ps n.prop
 \gf NOM.M
 \dt 11/Feb/2017
+
+\lx Sidiya
+\ps n.prop
+\gf NOM.M
+\gvf
+\dt 21/Apr/2018
 
 \lx Sijama
 \ps n.prop

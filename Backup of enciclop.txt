@@ -274,6 +274,12 @@ Monde)
 \gvf Amadou Toumani Touré
 \dt 09/Apr/2016
 
+\lx Babɛnba
+\ps n.prop
+\gf
+\gvf
+\dt 22/Apr/2018
+
 \lx Badenma Nasiyonali
 \ps n
 \gf Badema National
@@ -1829,9 +1835,10 @@ Gbagbo)
 \dt 19/Oct/2017
 
 \lx Somatra
-\ps
-\gf
-\gvf
+\ps n
+\gf ABR
+\gvf SOMATRA
+\gvf Société Malienne de Transport
 \dt 14/Mar/2018
 
 \lx Soni

@@ -1,4 +1,4 @@
-\_sh v3.0  1302 MDF 4.0
+\_sh v3.0  231  MDF 4.0
 
 \lang bam
 \name enciclop
@@ -273,6 +273,13 @@ Monde)
 \gf ABR
 \gvf Amadou Toumani Touré
 \dt 09/Apr/2016
+
+\lx Babɛnba
+\ps n.prop
+\gf NOM.M
+\gvf Babemba Traoré
+\smf (1855-1898, roi de Kénédougou, résistant anti-colonial)
+\dt 22/Apr/2018
 
 \lx Badenma Nasiyonali
 \ps n
