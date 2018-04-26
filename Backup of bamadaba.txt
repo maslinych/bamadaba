@@ -773,13 +773,13 @@ les deux flancs'
 \lt (oui.bien sûr)
 \dt 16/Aug/2006
 
-\lx ansanbulu
+\lx ánsanbulu
 \ps n
 \bw fr. ensemble
 \gf ensemble
 \smf (musical)
 \gvf
-\dt 22/Apr/2018
+\dt 24/Apr/2018
 
 \lx ánw
 \va ún
@@ -5688,14 +5688,14 @@ furoncles, inf. urinaires
 \gvf médecin
 \dt 11/Nov/2007
 
-\lx basikɛti
+\lx bàsikɛti
 \ps n
 \gf basket-ball
 \gvf
 \smf
 \xv
 \xf
-\dt 31/May/2016
+\dt 23/Apr/2018
 
 \lx básikɛyɔrɔ
 \mm bási:n:fétiche
@@ -16035,11 +16035,11 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \va cɛ̀ma
 \mm cɛ̀:n:mâle
 \mm ma:mrph:COM
-\ps m
+\ps n
 \gf garçon
 \smf (opposé à fille)
 \gvf homme
-\dt 21/Apr/2018
+\dt 23/Apr/2018
 
 \lx cɛ́mancɛ
 \va cámancɛ
@@ -23595,12 +23595,12 @@ génitales ...
 \gvf épier
 \dt 12/Jul/2013
 
-\lx defile
+\lx défile
 \ps n
 \bw fr. défilé
 \gf défilé
 \gvf
-\dt 21/Apr/2018
+\dt 23/Apr/2018
 
 \lx dège
 \ps v
@@ -25909,6 +25909,14 @@ chefs religieux et représentants de l'administration
 \gvf ver rouge du cotonnier
 \smf (un parasite de coton)
 \dt 13/Mar/2018
+
+\lx dipulɔmu
+\va dipilɔmu
+\bw fr. diplôme
+\ps n
+\gf diplôme
+\gvf
+\dt 25/Apr/2018
 
 \lx dípulɔmu
 \ps n
@@ -28538,9 +28546,10 @@ désorienter')
 \mm kíli:v:appeler
 \mm kɔ̀nɔ:n:oiseau
 \ps n
-\gf solo
-\gvf
-\dt 22/Apr/2018
+\gf chantre
+\gvf solo
+\gvf chanteuse professionnelle
+\dt 24/Apr/2018
 
 \lx dɔ̀nkilidala
 \mm dɔ̀n.kili:n:chant
@@ -29236,7 +29245,7 @@ désorienter')
 \sd gram
 \smf herbe adventice (en touffes ---> 15 / 60 cm)
 \cf dùgukolokunsi
-\dt 19/Aug/2006
+\dt 25/Apr/2018
 
 \lx dùgulen
 \ps n
@@ -29272,6 +29281,15 @@ désorienter')
 \ms 2
 \gvf connaître.les.histoires.du.village
 \dt 27/Jun/2015
+
+\lx dùgumada
+\mm dùgu:n:terre
+\mm mà:pp:ADR
+\mm dá:n:bouche
+\ps n
+\gf bas
+\gvf inférieur
+\dt 25/Apr/2018
 
 \lx dùgumadagannin
 \mm dùgu:n:terre
@@ -30509,6 +30527,15 @@ gens)
 \smf personne qui chagrine les gens par son comportement
 \lt (chagrin.personne)
 \dt 20/Jul/2014
+
+\lx dùsukolo
+\mm dùsu:n:coeur
+\mm kólo:n:os
+\ps n
+\gf courage
+\gvf cœur
+\gvf ardeur
+\dt 25/Apr/2018
 
 \lx dùsukun
 \mm dùsu:n:coeur
@@ -31944,10 +31971,13 @@ gens)
 
 \lx fàlen
 \ps n
-\gf monnaie
+\ms 1
+\gf échange
+\ms 2
+\gvf monnaie
 \xv fàlen tɛ́ ń fɛ̀
 \xf je n'ai pas de monnaie
-\dt 26/Sep/2006
+\dt 24/Apr/2018
 
 \lx fàlen
 \ps v
@@ -36338,11 +36368,12 @@ frontières, forestiers, sapeurs)
 
 \lx fíɲɛ
 \va fíɲɛn
+\va fíyɛn
 \va fɛ́ɲɛn
 \ve (f)
 \ps n
 \gf grande.jarre
-\dt 16/Aug/2006
+\dt 25/Apr/2018
 
 \lx fíɲɛ
 \va fyɛ́n
@@ -36370,6 +36401,15 @@ frontières, forestiers, sapeurs)
 \gvf gaz
 \dt 11/Mar/2018
 
+\lx fíɲɛbɔda
+\mm fíɲɛ:n:vent
+\mm bɔ́:v:sortir
+\mm dá:n:bouche
+\ps n
+\gf opportunité
+\gvf
+\dt 25/Apr/2018
+
 \lx fìri
 \va fìiri
 \ps n
@@ -36387,25 +36427,46 @@ frontières, forestiers, sapeurs)
 \va frí
 \ph [fri]
 \ps v
+\ms 1.1
 \vl vt
-\ms 1
 \gf renverser
 \smf (un récipient, un plat ...)
-\ms 2
-\gvf faire.chavirer
-\smf (une embarcation ...)
-\ms 3
-\gvf tout perdre
-\gvf perdre sa situation
-\gvf faire faillite
-\ms 4
+\gvf faire chavirer
+\smf (une embarcation)
+\ms 1.2
+\vl vi
+\gvf se renverser
+\gvf s'écrouler
+\ms 1.3
+\vl vr
+\gvf se jeter
+\smf (à terre, sur la poitrine -- í dìsi kàn,
+sur le ventre -- í kɔ́nɔ kàn)
 \gvf s'abattre
 \gvf se précipiter
-\ms 5
+\ms 2
+\vl vt
+\ms 3
+\vl vt
+\gvf retourner
+\smf (le sol)
+\ms 4
+\vl vi
 \gvf se déverser
 \gvf être nombreux
 \gvf venir en nombre
-\dt 06/Feb/2017
+\ms 5.1
+\vl vt
+\gvf ruiner
+\smf (faire perdre la fortune)
+\xv fíri í dá kàn
+\xf ruiner
+\ms 5.2
+\vl vi
+\gvf faire faillite
+\gvf tout perdre
+\gvf perdre sa situation
+\dt 25/Apr/2018
 
 \lx fírifiri
 \va fŕifri
@@ -49600,6 +49661,19 @@ nos libations "
 \lt (eau.bordure)
 \dt 26/Sep/2006
 
+\lx jíden
+\mm jí:n:eau
+\mm dén:n:enfant
+\ps n
+\ms 1
+\gf génie.des.eaux
+\ms 2
+\gvf jeune fille consacrée au génie de
+l'eau
+\ms 3
+\gvf mouche d'eau
+\dt 25/Apr/2018
+
 \lx jídon
 \mm jí:n:eau
 \mm dòn:v:entrer
@@ -52391,10 +52465,10 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \mm jɔ̀.yɔrɔ:n:place
 \mm jɔ̀:n:station.debout
 \mm yɔ́rɔ:n:lieu
-\mm fa
-\ps
-\gf
-\gvf
+\mm fá:v:remplir
+\ps n
+\gf accomplissement.d'obligations
+\gvf le fait de remplir ses fonctions
 \dt 22/Apr/2018
 
 \lx jù
@@ -63291,8 +63365,7 @@ champs)
 \mm sù:n:cadavre
 \ps n
 \gf os.spongieux
-\lt (os.mort)
-\dt 16/Aug/2006
+\dt 25/Apr/2018
 
 \lx kólotugu
 \mm kólo:n:os
@@ -63310,10 +63383,9 @@ champs)
 \mm tùgu:v:rabouter
 \mm la:mrph:AG.PRM
 \ps n
-\lt os-joindre-celui qui
 \gf rebouteux
 \sy kólotugu
-\dt 11/Nov/2007
+\dt 25/Apr/2018
 
 \lx kólowalawala
 \mm kólo:n:os
@@ -69308,6 +69380,13 @@ plus solide)
 \gvf torrent
 \dt 02/Dec/2014
 
+\lx kɔ̀wulu
+\ps n
+\gf fourmi rouge 
+\smf (des manguiers, des caïlcédrats,
+dont la piqûre est douloureuse)
+\dt 25/Apr/2018
+
 \lx kɔ̀wùlu
 \mm kɔ̀:n:marigot
 \mm wùlu:n:chien
@@ -73660,7 +73739,10 @@ Sahel)
 \ms 9
 \gvf but
 \smf (football)
-\dt 07/Jul/2017
+\ms 10
+\gvf point
+\smf (unité d'une note)
+\dt 25/Apr/2018
 
 \lx kùru
 \ps v
@@ -79708,19 +79790,12 @@ personne)
 \gvf jeu de petits chevaux
 \dt 27/Nov/2014
 
-\lx ligi
+\lx lígi
 \ps n
 \bw Fr. ligue
 \gf ligue
 \smf (dans le contexte sportif)
-\dt 22/Apr/2018
-
-\lx lígi
-\ps n
-\gf ligue
-\gvf
-\smf
-\dt 16/Jun/2017
+\dt 23/Apr/2018
 
 \lx lílɔntamɛ
 \va lílɔntami
@@ -81586,13 +81661,13 @@ jour, c'est une personne dépendante qu'il voit
 \dt 16/Aug/2006
 
 \lx màliden
-\mm Màli:n:TOP
+\mm Màli:n.prop:TOP
 \mm dén:n:enfant
 \ps n
 \gf malien
 \lt (Mali.enfant)
 \smf on s'attendait à màlìka ! qui ne se dit pas)
-\dt 15/Mar/2018
+\dt 25/Apr/2018
 
 \lx màlijirinin
 \mm Màli:n.prop:TOP
@@ -84435,8 +84510,9 @@ des engagements
 \bw Fr. midi
 \gf midi
 \gvf
-\smf
-\dt 11/Mar/2018
+\xv sú mídi
+\xf minuit
+\dt 24/Apr/2018
 
 \lx míiri
 \ps n
@@ -89034,15 +89110,6 @@ sorcières et leur élimination)
 \gf scorbut
 \lt (hyène.nez percé)
 
-\lx námara
-\ps v
-\vl vt
-\gf escroquer
-\gvf être.malhonnête.envers
-\xv à yé  né námara
-\xf il m'a volé
-\dt 26/Jun/2015
-
 \lx námarakɛla
 \mm námara:n:fraude
 \mm kɛ́:v:faire
@@ -89279,7 +89346,10 @@ sorcières et leur élimination)
 \gvf tricher
 \gvf frauder
 \gvf être malhonnête envers qqn.
-\dt 29/Mar/2017
+\gf escroquer
+\xv à yé  né námara
+\xf il m'a volé
+\dt 25/Apr/2018
 
 \lx nàńbìla
 \mm nà:v:venir
@@ -92109,6 +92179,34 @@ est "Ɲele" ...
 \smf (en petites touffes, feuilles à marges ciliées)
 \dt 19/Aug/2006
 
+\lx nìgisinɔgɔsɔ
+\ps v
+\vl vi
+\gf traîner
+\gvf se traîner
+\smf (aller trop lentement)
+\dt 23/Apr/2018
+
+\lx nìgisinɔgɔsɔ
+\va nìisinɔɔsɔ
+\va nìisinɔɔsɔnin
+\ps n
+\ms 1
+\gf arthrite
+\gvf arthrose
+\gvf douleurs.musculaires
+\smf (surtout des jambes)
+\ms 2
+\gvf poliomyélite
+\ms 3
+\gvf type.de.marche
+\ms 4
+\gvf lenteur
+\gvf paresse
+\ms 5
+\gvf kwashiorkor
+\dt 23/Apr/2018
+
 \lx niiri
 \ps n
 \gf livres.sterling
@@ -92121,21 +92219,6 @@ est "Ɲele" ...
 \gf lice
 \smf (lisse) d'un métier de tisserand
 \dt 16/Aug/2006
-
-\lx nìisinɔɔsɔ
-\va nìgisinɔgɔsɔ
-\va nìisinɔɔsɔnin
-\ps n
-\ms 1
-\gf arthrite
-\gvf arthrose
-\gvf douleurs.musculaires
-\smf (surtout des jambes)
-\ms 2
-\gvf poliomyélite
-\ms 3
-\gvf type.de.marche
-\dt 26/Sep/2006
 
 \lx níjugu
 \mm ní:n:âme
@@ -93777,6 +93860,30 @@ familiaux; viande très prisée, auladiculture)
 \gvf très.haut
 \dt 19/Jan/2015
 
+\lx nkólonkolon
+\ps n
+\ms
+\gf bousier
+\dt 25/Apr/2018
+
+\lx nkólonkolonba
+\mm nkólonkolon:n:bousier
+\mm ba:mrph:AUGM
+\ps n
+\ms 1
+\gf bousier
+\ms 2
+\gvf vieux camion benne
+\ms 3
+\gvf dameur de route
+\dt 25/Apr/2018
+
+\lx nkólonkòlonba
+\ps n
+\gf fourmi.de.grande.taille
+\smf (gourmande de sucre)
+\dt 25/Apr/2018
+
 \lx nkólonso
 \mm nkólon:n:antilope.ourébi
 \mm sò:n:cheval
@@ -93909,10 +94016,13 @@ familiaux; viande très prisée, auladiculture)
 \dt 26/Sep/2006
 
 \lx nkɔ́bɔ
+\va nkɔ́bɔnin
+\va nkɔ́mɔ
 \ps n
 \gf coléoptère
-\smf coléoptères divers (surtout : charançon ...)
-\dt 16/Aug/2006
+\smf (coléoptères divers, surtout :
+charançon)
+\dt 25/Apr/2018
 
 \lx nkɔ̀ku
 \ps n
@@ -95005,10 +95115,11 @@ graines, sert d'instrument rythmique)
 \ms 1
 \gf remplaçant
 \ms 2
+\gvf représentant
+\ms 3
 \gvf pronom
 \smf (néologisme)
-\lt (à la place.mettre)
-\dt 23/Nov/2012
+\dt 24/Apr/2018
 
 \lx nɔ̀nabìla
 \mm nɔ̀:n:trace
@@ -97555,6 +97666,14 @@ graines, sert d'instrument rythmique)
 \gf champignon.esp
 \dt 18/Jun/2014
 
+\lx ntòrimanà
+\va ntòrimanàn
+\va tòrimanà
+\ps n
+\gf sangsue
+\smf (de l'eau)
+\dt 25/Apr/2018
+
 \lx ntòrinin
 \mm ntòri:n:crapaud
 \mm nin:mrph:DIM
@@ -99129,11 +99248,23 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx ɲàgari
+\va ɲàkari
 \va ɲànkari
 \va ɲàngari
 \ps n
 \gf moquerie
-\dt 08/Feb/2017
+\dt 25/Apr/2018
+
+\lx ɲàgari
+\va ɲàkari
+\va ɲànkari
+\va ɲàngari
+\ps v
+\ms
+\vl vi
+\gf se moquer
+\gvf
+\dt 25/Apr/2018
 
 \lx ɲàgaribɔ
 \mm ɲàgari:n:moquerie
@@ -99543,9 +99674,9 @@ banane, etc.)
 \ve (f,bn)
 \ps v
 \gf souffrir
-\cm (dû à la misère)
+\smf (dû à la misère)
 \gvf
-\dt 29/Aug/2017
+\dt 25/Apr/2018
 
 \lx ɲànkata
 \va ɲàngata
@@ -99834,13 +99965,13 @@ banane, etc.)
 \xv à ɲɛ́ má kùmu tún
 \xf elle n'a plus eu le visage triste
 \ms 4
-\gvf manière.de.faire
+\gvf manière de faire
 \xv í ń'à kɛ́  ɲɛ́ ó ɲɛ́...
 \xf fais comme tu veux ..., quoi que tu fasses...
 \xv né t'á ɲɛ́dɔn
 \xf je ne sais pas comment ça marche, "la manière"
-\xv kó bɛ́ɛ kɛ́ra  à ɲɛ́ mà
-\xf tout s'est passé normalement
+\xv à ɲɛ́ mà, à ɲɛ́ kàn
+\xf comme il faut, comme il convient
 \ms 5
 \gvf page
 \gvf côté
@@ -99865,7 +99996,7 @@ banane, etc.)
 \smf (céréales)
 \xv ɲɔ̀ ɲɛ́ bɛ́  kà yɛ̀lɛ
 \xf le mil commence à grener
-\dt 05/Apr/2016
+\dt 24/Apr/2018
 
 \lx ɲɛ́
 \va ɲá
@@ -100953,6 +101084,14 @@ banane, etc.)
 \lt (oeil.corde.longue)
 \dt 16/Aug/2006
 
+\lx ɲɛ́kàn
+\mm ɲɛ́:n:oeil
+\mm kàn:pp:sur
+\ps pp
+\gf au.dam.de
+\gvf
+\dt 23/Apr/2018
+
 \lx ɲɛ́kelen
 \mm ɲɛ́:n:oeil
 \mm kélen:num:un
@@ -101431,8 +101570,7 @@ banane, etc.)
 \ms 1
 \vl vi/vr
 \gf être.prudent
-\gvf faire.très.attention
-\lt (regard.arrêter)
+\gvf faire très attention
 \xv í ɲɛ́majɔ sá !
 \xf sois attentif !
 \xv ù bɛ́ ɲɛ́majɔ dɛ́ !
@@ -101440,12 +101578,12 @@ banane, etc.)
 \ms 2
 \vl vi
 \gvf s'éclaircir
-\gvf se.calmer
+\gvf se calmer
 \xv jí ɲɛ́majɔra
 \xf l'eau s'est décantée
 \xv ní  kɛ́nɛtigɛda séra, jàma bɛ́ ɲɛ́majɔ
 \xf à l'aube, la foule se calme
-\dt 28/Feb/2017
+\dt 25/Apr/2018
 
 \lx ɲɛ́majɔbali
 \mm ɲɛ́.ma.jɔ̀:v:être.prudent
@@ -105054,11 +105192,17 @@ le pèlerinage (bk 1/06 p.5)
 \dt 16/Aug/2006
 
 \lx ŋúna
+\va ŋúnan
 \ve (-bk)
 \ps v
+\ms 1
 \vl vi
 \gf se.démancher
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gvf arracher
+\gvf extraire
+\dt 22/Apr/2018
 
 \lx ŋúna
 \va ŋúnan
@@ -112318,14 +112462,13 @@ gouvernement le soutient (kb 5/06 p.7)
 \ps n
 \gf pied
 \gvf plante du pied
-\lt (pied.paume)
 \xv à sèntɛgɛ ká dí
 \xf il court vite
 \xv ù yé sèntɛgɛ bɔ́
 \xf ils se sont mis à courir
 \xv kà à sìgi à sèntɛgɛ kɔ́nɔ
 \xf mettre à genoux, rendre impuissant
-\dt 13/Feb/2017
+\dt 25/Apr/2018
 
 \lx sèntɛgɛninjɛ
 \mm sèn.tɛgɛ:n:pied
@@ -133038,7 +133181,10 @@ Mali)
 \gvf annuler
 \xv ù yé  dùgutigi wúli
 \xf ils ont destitué le chef de village
-\dt 30/Oct/2014
+\ms 7
+\vl vi
+\gvf être en chaleur
+\dt 24/Apr/2018
 
 \lx wúli
 \ps v
@@ -133940,7 +134086,7 @@ Mali)
 \ms 1
 \vl vt
 \gf étendre
-\smf (au dessus de ...)
+\smf (au dessus de)
 \gvf déployer
 \xv kɔ̀nɔ b'á kàma yánkan
 \xf l'oiseau déploie ses ailes
@@ -133969,7 +134115,7 @@ soient définitivement données à leur mari)
 \gvf monter
 \gvf grimper
 \smf (sur -- kàn, sánfɛ̀)
-\dt 07/Feb/2017
+\dt 25/Apr/2018
 
 \lx yánkan
 \va yánga
@@ -136036,6 +136182,13 @@ généreuses, avec bourrelets
 \gf janvier
 \dt 01/Feb/2017
 
+\lx zawɛliji
+\mm jí:n:eau
+\ps n
+\gf eau.de.Javel
+\gvf
+\dt 25/Apr/2018
+
 \lx zènerali
 \bw fr : général
 \ps n
@@ -136048,12 +136201,12 @@ généreuses, avec bourrelets
 \gf général
 \dt 09/Jan/2015
 
-\lx zeni
+\lx zèni
 \ps n
 \bw Fr. génie militaire
 \gf génie.militaire
 \gvf
-\dt 21/Apr/2018
+\dt 23/Apr/2018
 
 \lx zido
 \ps n

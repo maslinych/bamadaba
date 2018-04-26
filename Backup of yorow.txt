@@ -1,4 +1,4 @@
-\_sh v3.0  1302 MDF 4.0
+\_sh v3.0  231  MDF 4.0
 
 \lang bam
 \name yorow
@@ -1292,6 +1292,13 @@ malienne)
 \ru Бурунди
 \dt 23/May/2010
 
+\lx Busɛn
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village près de Ségou)
+\dt 24/Apr/2018
+
 \lx Busuunbura
 \ty г.
 \ps n.prop
@@ -1309,6 +1316,14 @@ malienne)
 \gvf Tchad
 \ru Чад
 \dt 23/May/2010
+
+\lx Cakadugu-Jalakɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Tiakadougou-Dialakoro
+\smf (village et commune, cercle de Kati,
+région de Koulikoro)
+\dt 25/Apr/2018
 
 \lx Cala
 \ps n.prop
@@ -2792,6 +2807,14 @@ de Koulikouro)
 \xf
 \dt 26/Feb/2017
 
+\lx Jɛdugu
+\ps n.prop
+\gf TOP
+\gvf Diédougou
+\smf (une commune, cercle de Koutiala,
+région de Sikasso)
+\dt 24/Apr/2018
+
 \lx Jɛki
 \ps n.prop
 \gf TOP
@@ -2912,6 +2935,15 @@ région de Koulikoro)
 \xf
 \dt 26/Feb/2017
 
+\lx Jɔngaga
+\ps n.prop
+\gf TOP
+\gvf Diongaga
+\gvf Diafounou Diongaga
+\smf (commune, cercle de Yélimané,
+région de Kayes)
+\dt 25/Apr/2018
+
 \lx Jɔ́nkala
 \ps n.prop
 \gf TOP
@@ -2998,6 +3030,14 @@ région de Mopti)
 \xv
 \xf
 \dt 06/Feb/2017
+
+\lx Kacɛna
+\ps n.prop
+\gf TOP
+\gvf Katiéna
+\smf (un village et commune, cercle et
+région de Ségou)
+\dt 24/Apr/2018
 
 \lx Kacɔrɔnin
 \ps n.prop
@@ -3092,6 +3132,13 @@ région de Mopti)
 \gvf Kalabougou
 \smf (village à 10 km de Ségou connu pas sa potterie)
 \dt 24/Mar/2017
+
+\lx Kalahari
+\ps n.prop
+\gf TOP
+\gvf Kalahari
+\smf (désert en Afrique du Sud)
+\dt 25/Apr/2018
 
 \lx Kalana
 \ps n.prop
@@ -3648,6 +3695,14 @@ Kéniéba)
 \xf
 \dt 22/Feb/2017
 
+\lx Konina
+\ps n.prop
+\gf TOP
+\gvf Konina
+\smf (une commune, cercle de Koutiala,
+région de Sikasso)
+\dt 24/Apr/2018
+
 \lx Konu
 \ps n.prop
 \gf TOP
@@ -3869,6 +3924,14 @@ région de Ségou)
 \gvf Côte.d'Ivoire
 \ru Кот-д'Ивуар
 \dt 14/Mar/2018
+
+\lx Kɔnsegela
+\ps n.prop
+\gf TOP
+\gvf Konséguéla
+\smf (une commune, cercle de Koutiala,
+région de Sikasso)
+\dt 24/Apr/2018
 
 \lx Kɔ̀rɛ
 \ps n.prop
@@ -5982,6 +6045,14 @@ région de Koulikoro)
 \ps n.prop
 \gf TOP
 
+\lx Sinsinna
+\ps n.prop
+\gf TOP
+\gvf Sinsina
+\smf (un village, cercle de Koutiala,
+région de Sikasso)
+\dt 24/Apr/2018
+
 \lx Sinuwala
 \va Shinuwala
 \va Sinuwa
@@ -5999,7 +6070,7 @@ région de Koulikoro)
 \gf TOP
 \gvf Sinzana
 \smf (cerce de Banamba, région de Koulikoro)
-\dt 23/May/2017
+\dt 24/Apr/2018
 
 \lx Sipariti
 \ps n.prop
@@ -6403,7 +6474,7 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \ps n.prop
 \gf TOP
 \gvf Térédougou
-\smf (village, commune de Timisa
+\smf (village, commune de Timisa, cercle de Tominian, région de Ségou)
 \dt 22/Apr/2018
 
 \lx Tesaliti
@@ -7135,6 +7206,13 @@ région de Koulikoro)
 \xv
 \xf
 \dt 22/Jul/2017
+
+\lx Zezana-Gara
+\ps n.ptop
+\gf TOP
+\gvf Sinzana-Gare
+\smf (un village près de Ségou)
+\dt 24/Apr/2018
 
 \lx Zigɛnshori
 \ty г.

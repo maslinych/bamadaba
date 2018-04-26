@@ -1,4 +1,4 @@
-\_sh v3.0  1302 MDF 4.0
+\_sh v3.0  231  MDF 4.0
 
 \lang bam
 \name jamuw
@@ -32,6 +32,7 @@
 \dt 28/May/2016
 
 \lx Bàgayɔgɔ
+\va Bàgayɔkɔ
 \va Bagayoko
 \va Bagayogo
 \di b
@@ -51,7 +52,7 @@
 \fm Danba
 \sm bula
 \tt bàga
-\dt 03/May/2010
+\dt 25/Apr/2018
 \ps n.prop
 \gf NOM.CL
 
