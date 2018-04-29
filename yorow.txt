@@ -1,4 +1,4 @@
-\_sh v3.0  231  MDF 4.0
+\_sh v3.0  1302 MDF 4.0
 
 \lang bam
 \name yorow
@@ -7231,12 +7231,13 @@ région de Koulikoro)
 
 \lx Zinbawe
 \va Zinbabwe
+\va Zinbabuwe
 \ty гос.
 \ps n.prop
 \gf TOP
 \gvf Zimbabwe
 \ru Зимбабве
-\dt 01/Jun/2016
+\dt 27/Apr/2018
 
 \lx Zonba
 \ty г.

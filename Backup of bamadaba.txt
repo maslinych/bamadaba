@@ -1,4 +1,4 @@
-\_sh v3.0  231  MDF 4.0
+\_sh v3.0  1302 MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -51835,10 +51835,15 @@ d'arrière-saison
 \mm jɔ̀:n:station.debout
 \mm dá:n:bouche
 \ps n
+\ms 1
 \gf rôle
 \gvf place
 \gvf effet
-\dt 04/Apr/2016
+\ms 2
+\gvf enbut
+\smf (partie du terrain de rugby derrière
+la ligne des buts)
+\dt 25/Apr/2018
 
 \lx jɔ̀don
 \mm jɔ̀:n:station.debout
@@ -60169,14 +60174,14 @@ probablement de chaux vive)
 \dt 11/Mar/2018
 
 \lx kɛ́nɛman
-\mm kɛ́nɛ:vq/adj:en.bonne.santé
+\mm kɛ́nɛ:vq:sain
 \mm man:mrph:ADJ
 \ps adj
 \gf sain
 \gvf bon
 \smf de bonne qualité (denrée : cola ...)
 \lt (frais.suf adj)
-\dt 26/Sep/2006
+\dt 29/Apr/2018
 
 \lx kɛ́nɛmana
 \mm kɛ́nɛ:n:clarté
@@ -89044,6 +89049,15 @@ sorcières et leur élimination)
 \xv ní mín mána tíla dúmuni ná, ò k'à tɛ́gɛ náma jɔ̀ɔsi dùgakɔrɔ kùnkolo lá
 \xf que celui qui a fini de manger aille se ressuyer les mains pleines de sauce sur la tête du vautour (kb 11/04 p.9)
 \dt 11/Nov/2007
+
+\lx nàmaden
+\mm nàma:n:maison.paternelle
+\mm dén:n:enfant
+\ps n
+\gf femme.de.la.maison
+\smf (fille mariée dans un autre village
+qui revient en visite dans sa famille)
+\dt 27/Apr/2018
 
 \lx nàmakɔrɔ
 \mm nàma:n:hyène
