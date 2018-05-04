@@ -8743,11 +8743,16 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bín:n:herbe
 \mm kɛ́nɛ:adj:frais
 \mm lama:mrph:STAT
+\va bínkɛnɛma
+\mm bín.kɛnɛ:n:herbe.verte
+\mm bín:n:herbe
+\mm kɛ́nɛ:adj:frais
+\mm ma:mrph:ST
 \ps adj
 \gf vert
 \smf (couleur)
 \lt (herbe verte.à l'aspect)
-\dt 16/Aug/2006
+\dt 29/Apr/2018
 
 \lx bínma
 \mm bín:n:herbe
@@ -18396,16 +18401,16 @@ saillie)
 \lx dàbi
 \va dɛ̀bi
 \ps n
-\smf oiseaux (crépusculaires, nocturnes, insectivores)
 \gf engoulevent
+\smf (oiseaux crépusculaires, nocturnes, insectivores)
 \ms 1
-\gvf engoulevent.porte-étendard
+\gvf engoulevent porte-étendard
 \lat Macrodipteryx vexillarius
 \ms 2
-\gvf engoulevent.à.balanciers
+\gvf engoulevent à alanciers
 \lat Macrodipteryx longipennis
 \smf (mâle : balanciers remarquables)
-\dt 11/May/2013
+\dt 02/May/2018
 
 \lx dábi
 \ps adv
@@ -18579,12 +18584,11 @@ saillie)
 \ps n
 \ms 1
 \gf bec
-\smf des oiseaux
-\lt (bouche.piquet ?)
+\smf (des oiseaux)
 \ms 2
 \gvf suçoir
-\smf des insectes (moustique, taon ...)
-\dt 10/Jun/2016
+\smf (des insectes: moustique, taon ...)
+\dt 30/Apr/2018
 
 \lx dábɔlɔwɔlɔsɔ
 \mm dá:n:bouche
@@ -21691,8 +21695,8 @@ devenir incontrôlable
 \lx dàn
 \ps n
 \gf mal.de.Pott
-\smf maladie qui rend bossu
-\dt 26/Sep/2006
+\smf (maladie qui rend bossu)
+\dt 02/May/2018
 
 \lx dàn
 \ps n
@@ -25910,22 +25914,16 @@ chefs religieux et représentants de l'administration
 \smf (un parasite de coton)
 \dt 13/Mar/2018
 
-\lx dipulɔmu
-\va dipilɔmu
-\bw fr. diplôme
-\ps n
-\gf diplôme
-\gvf
-\dt 25/Apr/2018
-
 \lx dípulɔmu
+\va dípilɔmu
+\bw fr. diplôme
 \ps n
 \gf diplôme
 \gvf
 \smf
 \xv
 \xf
-\dt 25/Oct/2016
+\dt 02/May/2018
 
 \lx díridara
 \ps v
@@ -29962,6 +29960,8 @@ quant à sa mère, elle prend de l'âge
 \dt 16/Aug/2006
 
 \lx dún
+\va dúmu
+\va dúmun
 \ps v
 \vl vt
 \ms 1
@@ -29974,7 +29974,7 @@ quant à sa mère, elle prend de l'âge
 \smf [fig]
 \xv í yé  né dún
 \xf tu m'as roulé, tu m'as eu (sur le prix, le salaire ...)
-\dt 16/Aug/2006
+\dt 04/May/2018
 
 \lx dún
 \ps n
@@ -35906,6 +35906,13 @@ la virginité (pièce de monnaie sans trou)
 \lt (faute.endroit.action)
 \dt 26/Sep/2006
 
+\lx filimu
+\ps n
+\bw fr. film
+\gf film
+\gvf
+\dt 02/May/2018
+
 \lx fílinfalan
 \ps n
 \gf lueur.blafarde
@@ -40191,6 +40198,12 @@ forestières, fruit : long follicule de 50 cm)
 \gvf être absent
 \dt 01/May/2014
 
+\lx furr
+\ps onomat
+\gf
+\gvf
+\dt 04/May/2018
+
 \lx fùru
 \ps n
 \ms 1
@@ -41607,7 +41620,9 @@ forestières, fruit : long follicule de 50 cm)
 \smf (au propre et au figuré)
 \xv à bɛ́ gàn dɛ́ !
 \xf ça va barder  !
-\dt 16/Aug/2006
+\xv k'à gàn mɔ̀gɔ kɔ́
+\xf harceler qqn, tarabuster
+\dt 02/May/2018
 
 \lx gàn
 \va gwàn
@@ -41910,9 +41925,8 @@ forestières, fruit : long follicule de 50 cm)
 \ph [gw]
 \ps n
 \gf fourneau
-\smf des forgerons (vx)
-\lt (feu.maison)
-\dt 16/Aug/2006
+\smf (des forgerons)
+\dt 01/May/2018
 
 \lx gàntɔ
 \mm gàn:v:chauffer
@@ -42035,6 +42049,14 @@ forestières, fruit : long follicule de 50 cm)
 \gf bruit.de.chute
 \dt 16/Aug/2006
 
+\lx gáralan
+\mm gára:v:entraver
+\mm lan:mrph:INSTR
+\ps n
+\gf vis
+\gvf
+\dt 02/May/2018
+
 \lx gáramu
 \ps n
 \gf gramme
@@ -42046,6 +42068,30 @@ forestières, fruit : long follicule de 50 cm)
 \ps v
 \vl vt
 \gf entraver
+
+\lx gáran
+\va gára
+\ve (bk)
+\va ŋára
+\va ŋáran
+\va ngáran
+\ve (bn)
+\ps n
+\ms 1
+\gf entrave
+\ms 2
+\gvf cerclage
+\smf (des greniers, des toits de paille...)
+\dt 02/May/2018
+
+\lx gáran
+\va gára
+\ve (bk)
+\va ŋára
+\ps v
+\vl vt
+\gf entraver
+\dt 02/May/2018
 
 \lx gárana
 \va gàrina
@@ -45161,7 +45207,9 @@ doigts par des fileuses du coton)
 \gvf pensée
 \gvf avis
 \gvf impressions personnelles
-\dt 06/Nov/2016
+\xv kà mɔ̀gɔ bɔ́ à hákilila kàn
+\xf faire qqn changer d'avis, faire rénoncer à la première décision
+\dt 02/May/2018
 
 \lx hákililabana
 \mm hákili:n:esprit
@@ -47159,10 +47207,10 @@ calebasses)
 \lx jála
 \ps n
 \gf caïlcédrat
-\lat Khaya.senegalensis
+\lat Khaya senegalensis
 \sd méli
 \smf arbre---> 35 m, fût bien droit, bois recherché pour les mortiers, les planches de pirogue ...
-\dt 16/Aug/2006
+\dt 02/May/2018
 
 \lx jàlafarin
 \mm jà:n:ombre
@@ -59037,10 +59085,10 @@ probablement de chaux vive)
 \mm kélen:num:un
 \mm ná:pp:à
 \ps num
-\gf
+\gf un
 \gvf
 \smf dans l'expression: kélen-kélenna bɛ́ɛ 'tout et chacun'
-\dt 18/Jun/2017
+\dt 02/May/2018
 
 \lx kélennajɔ
 \mm kélen:num:un
@@ -69387,10 +69435,10 @@ plus solide)
 
 \lx kɔ̀wulu
 \ps n
-\gf fourmi rouge 
+\gf fourmi.rouge 
 \smf (des manguiers, des caïlcédrats,
 dont la piqûre est douloureuse)
-\dt 25/Apr/2018
+\dt 02/May/2018
 
 \lx kɔ̀wùlu
 \mm kɔ̀:n:marigot
@@ -84938,11 +84986,10 @@ nord-est
 \va míniyan
 \ps n
 \gf python
-\gvf boa.constricteur
+\gvf boa constricteur
 \lat Python.sebae
-\smf ---> 9,50 m
-\lt (enrouler.python)
-\dt 18/Dec/2014
+\smf (plus de 9,50 m)
+\dt 01/May/2018
 
 \lx mínisiri
 \ps n
@@ -87411,13 +87458,15 @@ pour les jardins)
 
 \lx mùɲukumaɲaka
 \va mùɲukumɛɲɛkɛ
+\va mùɲugumaɲaga
+\va mìɲigimaɲaga
 \ps v
 \vl vr
 \gf remuer
 \smf (le corps, les épaules en signe d'ennui, ou même de joie ...)
 \gvf bouleverser
 \gvf chambouler
-\dt 04/Feb/2016
+\dt 04/May/2018
 
 \lx mùɲukumaɲaka
 \va mùɲukumɛɲɛkɛ
@@ -92569,6 +92618,14 @@ sur soi, on les connaît
 \vl vi
 \gf regretter
 \dt 26/Sep/2006
+
+\lx nímisiwasa
+\mm nímisi:n:regret
+\mm wàsa:v:satisfaire
+\ps n
+\gf satisfaction
+\gvf
+\dt 02/May/2018
 
 \lx nímisiwàsa
 \mm nímisi:n:regret
@@ -99210,6 +99267,14 @@ banane, etc.)
 \smf (linguistique)
 \dt 06/Jul/2017
 
+\lx ɲágalaɲagàla
+\di (Sikasso)
+\ps n
+\src Boubacar diarra
+\gf araignée
+\gvf
+\dt 02/May/2018
+
 \lx ɲágali
 \va ɲáani
 \ps v
@@ -104667,10 +104732,25 @@ le pèlerinage (bk 1/06 p.5)
 \lx ŋàara
 \va ngàra
 \va ngàara
-\ps adj/n
+\ps adj
 \gf éloquent
 \smf (se dit surtout des griots)
-\dt 23/Feb/2014
+\dt 02/May/2018
+
+\lx ŋàara
+\ps n
+\ms 1
+\gf griot
+\gvf personne de caste
+\ms 2
+\gvf chantre
+\gvf poète
+\ms 3
+\gvf sommité
+\gvf célébrité
+\gvf le meilleur
+\smf (dans une discipline, dans un groupe...)
+\dt 02/May/2018
 
 \lx ŋàaraya
 \mm ŋàara:adj/n:éloquent
@@ -104884,27 +104964,6 @@ le pèlerinage (bk 1/06 p.5)
 \gf excellence
 \smf (cuisine à point, belle voix ...)
 \dt 19/Jan/2015
-
-\lx ŋára
-\va ŋáran
-\va ngáran
-\ve (bn)
-\va gára
-\ve (bk)
-\va gáran
-\ve (bk)
-\ps n
-\ms 1
-\gf entrave
-\ms 2
-\gvf cerclage
-\smf (des greniers, des toits de paille...)
-\dt 26/Sep/2006
-
-\lx ŋára
-\ps v
-\vl vt
-\gf entraver
 
 \lx ŋáraa
 \ps adv
@@ -105694,11 +105753,17 @@ envergure)
 \dt 16/Aug/2006
 
 \lx pánpalan
+\va pánparan
 \ps adv
+\ms 1
 \gf d'une.grande.surface
-\xv ɲɔ̀foro gàlalen pánpalan ! / ò kɛ́su ká bòn pánpalan
-\rem jos, f
-\dt 11/Nov/2007
+\xv ɲɔ̀foro gàlalen pánpalan !
+\xf le grand champ de mil reste non-entretenu
+\xv ò kɛ́su ká bòn pánpalan
+\xf cette caisse est très large
+\ms 2
+\gvf à plat
+\dt 04/May/2018
 
 \lx pán-pán
 \mm pán:v:sauter
@@ -107802,6 +107867,15 @@ épuisés
 \xf
 \dt 31/Jan/2017
 
+\lx sábuladen
+\mm sábu:n:
+\mm lá:pp:à
+\mm dén:n:enfant
+\ps n
+\gf enfant.remarquable
+\smf (différent des autres, qui étonne par son comportement ou ses paroles)
+\dt 04/May/2018
+
 \lx sábulafɛn
 \mm sábu:n:cause
 \mm lá:pp:à
@@ -107948,7 +108022,9 @@ épuisés
 \ve (f)
 \ps n
 \gf savon
-\dt 16/Aug/2006
+\xv sàfunɛkun
+\xf morceau de savon
+\dt 03/May/2018
 
 \lx sàfura
 \mm sà:n:serpent
@@ -123928,13 +124004,18 @@ flaques d'eau)
 \dt 01/Jun/2016
 
 \lx téwu
+\va déwu
+\va dɛ́nw
 \ps adv
+\ms 1
 \gf complètement
-\gvf d'un.seul.coup
-\smf (cesser, remplir ...)
+\smf (remplir, rassasier)
+\ms 2
+\gvf d'un seul coup
+\smf (cesser)
 \xv à màdara téwu !
 \xf il s'est complètement calmé
-\dt 20/Dec/2015
+\dt 04/May/2018
 
 \lx tɛ
 \va te
@@ -127945,6 +128026,15 @@ est due aux paysans (kib 3/05 p.9)
 \xf le commerce m'a été bénéfique
 \dt 27/Mar/2014
 
+\lx tɔ̀nɔbɔ́
+\mm tɔ̀nɔ:n:gain
+\mm bɔ́:v:sortir
+\ps v
+\vl vt
+\gf bénéfisier.de
+\gvf profiter de
+\dt 02/May/2018
+
 \lx tɔ̀nɔmada
 \mm tɔ̀nɔ:n:gain
 \mm mà:mrph:SUPER
@@ -127989,10 +128079,10 @@ est due aux paysans (kib 3/05 p.9)
 \va ntɔ̀nɔnkɔ
 \va dɔ̀nɔnkɔn
 \ps n
-\gf ténia
+\gf ténia
 \gvf ascaris
 \gvf ver solitaire
-\dt 22/Apr/2018
+\dt 02/May/2018
 
 \lx tɔ́nɔtɔnɔ
 \va tnɔ́tnɔ

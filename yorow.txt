@@ -4943,6 +4943,13 @@ Mopti)
 \smf (village, région de Ségou)
 \dt 02/May/2017
 
+\lx Ngɔmi
+\ps n.prop
+\gf TOP
+\gvf Ngami
+\smf (un lac en Botswana, dans le désert du Kalahari, alimenté par l'Okavango et par le Taughe)
+\dt 02/May/2018
+
 \lx Nili
 \ps n.prop
 \gf TOP
@@ -5949,6 +5956,12 @@ international)
 \gvf Saint-Louis
 \cm (в Сенегале)
 \dt 23/May/2010
+
+\lx Sɛribi
+\ps n.prop
+\gf TOP
+\gvf Serbie
+\dt 02/May/2018
 
 \lx Sibi
 \ps n.prop
@@ -7215,11 +7228,11 @@ région de Koulikoro)
 \dt 22/Jul/2017
 
 \lx Zezana-Gara
-\ps n.ptop
+\ps n.prop
 \gf TOP
 \gvf Sinzana-Gare
 \smf (un village près de Ségou)
-\dt 24/Apr/2018
+\dt 02/May/2018
 
 \lx Zigɛnshori
 \ty г.
