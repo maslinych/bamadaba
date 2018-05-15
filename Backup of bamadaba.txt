@@ -17445,13 +17445,14 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 26/Sep/2006
 
 \lx cɔ́mi
+\va cɔ́min
 \ps v
 \vl vt
 \gf capturer
 \xv wùlu bɛ́ kúngosogo kása tà k'ò nɔ̀bɔ kà t'ó cɔ́mi...
 \xf le chien flaire l'odeur du gibier à la trace et le capture ... (donniya 5/6 p.68)
 \rem l 89 + eurêka ! (-Jos)
-\dt 11/Nov/2007
+\dt 13/May/2018
 
 \lx cɔ́ncɔ
 \ps n
@@ -24355,6 +24356,7 @@ génitales ...
 \mm dén:n:enfant
 \mm nin:mrph:DIM
 \ps n
+\ms 1
 \gf fillette
 \gvf adolescente
 \lt (enfant.petit)
@@ -24362,7 +24364,10 @@ génitales ...
 \ve (bk,bn)
 \xv dénnin ó !
 \xf "mademoiselle" !
-\dt 26/Sep/2006
+\ms 2
+\gvf petit enfant
+\gvf garçonnet
+\dt 13/May/2018
 
 \lx dénninkelen
 \mm dén:n:enfant
@@ -36898,9 +36903,9 @@ sur le ventre -- í kɔ́nɔ kàn)
 \mm ya:mrph:ABSTR
 \ps n
 \gf ingratitude
-\lt (ingrat.suf abs)
 \xv ní  á ká fítiriwaleya tùn tɛ́...
 \xf s'il n'y avait pas votre ingratitude ...
+\dt 13/May/2018
 
 \lx fítiriwaleya
 \mm fítiriwale:n:ingrat
@@ -39026,7 +39031,6 @@ sur le ventre -- í kɔ́nɔ kàn)
 
 \lx fɔ́sɔn
 \ps v
-\gf v
 \ms 1
 \vl vt
 \gf attacher.fortement
@@ -39034,7 +39038,7 @@ sur le ventre -- í kɔ́nɔ kàn)
 \vl vi
 \gvf être solide
 \smf
-\dt 02/Jan/2018
+\dt 06/May/2018
 
 \lx fɔ́ta
 \mm fɔ́:dire:dire
@@ -77169,6 +77173,24 @@ catastrophe)
 \gvf faire.revenir
 \dt 26/Sep/2006
 
+\lx lákùru
+\mm lá:mrph:CAUS
+\mm kùru:v:plier
+\va lákùrun
+\mm lá:mrph:CAUS
+\mm kùru:v:plier
+\ps v
+\ms 1
+\vl vt
+\gf éduquer
+\gvf s'occuper de
+\gvf prendre soin
+\ms 2
+\vl vt
+\gvf corriger
+\gvf frapper
+\dt 13/May/2018
+
 \lx lálaga
 \di (Segu)
 \ps v
@@ -94798,8 +94820,8 @@ graines, sert d'instrument rythmique)
 \gf mucilage
 \smf (à base de feuilles d'arbres ou de plantes recherchées pour rendre la sauce gluante : baobab, gombo ...)
 \ms 2
-\gvf couleur.verdâtre
-\dt 16/Aug/2006
+\gvf couleur verdâtre
+\dt 13/May/2018
 
 \lx nɔ́gɔlanjuru
 \mm nɔ́gɔ.lan:n:mucilage
@@ -97608,10 +97630,9 @@ graines, sert d'instrument rythmique)
 \ps v
 \vl vt
 \gf faire.ricocher
-\lt (ricocher-ricocher)
 \xv fárakuru bón k'à ntóni, ò tɛ́  bólo-dá-ń-dá-lá bɔ́
 \xf (prov) faire des ricochets avec un caillou, ce n'est pas extraordinaire (ça ne vaut pas la peine de mettre sa main sur sa bouche d'étonnement)
-\dt 16/Aug/2006
+\dt 09/May/2018
 
 \lx ntònifòro
 \mm ntòni:n:poisson.Petrocephalus.sp.
@@ -107069,6 +107090,12 @@ envergure)
 \xf la douleur a subitement disparu !
 \dt 19/Jan/2015
 
+\lx púru
+\ps adv
+\gf de.part.en.part
+\gvf
+\dt 13/May/2018
+
 \lx pùruki
 \ps v
 \gf jaillir
@@ -107868,8 +107895,12 @@ épuisés
 \dt 31/Jan/2017
 
 \lx sábuladen
-\mm sábu:n:
+\mm sábu:n:cause
 \mm lá:pp:à
+\mm dén:n:enfant
+\va sáburɔden
+\mm sábu:n:cause
+\mm rɔ́:pp:IN
 \mm dén:n:enfant
 \ps n
 \gf enfant.remarquable
@@ -134478,8 +134509,8 @@ soient définitivement données à leur mari)
 \lx yé
 \va y'
 \ps cop
-\gf BE
-\dt 15/May/2013
+\gf être
+\dt 13/May/2018
 
 \lx yé
 \ps pm
