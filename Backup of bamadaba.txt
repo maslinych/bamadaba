@@ -581,6 +581,14 @@
 \rem l 89
 \dt 11/Nov/2007
 
+\lx alikali
+\va alikari
+\bw Ar. ʔl-qa:di 'juge'
+\ps n
+\gf cadi
+\gvf
+\dt 26/May/2018
+
 \lx àlikama
 \va àlikaama
 \bw ar: al-qamh= id.
@@ -1884,6 +1892,15 @@ propriété antivirales: hépatite B chronique)
 \xf quand ce devin voit qqch de bon à ton sujet,il le change en
 mauvais
 \dt 03/Apr/2016
+
+\lx bàfin
+\mm bà:n:chèvre
+\mm fìn:adj:noir
+\ps n
+\gf panthère.noire
+\smf (dans les contes populaires)
+\gvf
+\dt 16/May/2018
 
 \lx bàfoolo
 \mm bà:n:chèvre
@@ -4225,10 +4242,10 @@ Fleurs spectaculaires
 \dt 16/Aug/2006
 
 \lx bànda
+\ve (Kita)
 \ps n
 \gf grossesse.avancée
-\ve Kita
-\dt 16/Aug/2006
+\dt 27/May/2018
 
 \lx bànda
 \ps v
@@ -9046,6 +9063,19 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \smf (sans effort, comme un caillou)
 \dt 16/Aug/2006
 
+\lx biribarabiri
+\ps onomat
+\gf patatras
+\gvf
+\dt 26/May/2018
+
+\lx bíribàrabíri
+\ps n
+\gf mauvais.travail
+\gvf quelque chose de mauvaise qualité
+\gvf quelque chose mal fait
+\dt 26/May/2018
+
 \lx bíribiri
 \va bríbri
 \va bíribiribiri
@@ -10554,10 +10584,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo:n:bras
 \mm kɔ́nɔ:pp:à.l'intérieur
 \mm nin:mrph:DIM
-\ve élément de l'intérieur de la main
-\lt (main.doigt)
 \ps n
 \gf doigt
+\smf (élément de l'intérieur de la main)
+\dt 27/May/2018
 
 \lx bólokɔrɔ
 \mm bólo:n:bras
@@ -20953,12 +20983,13 @@ pas)
 \dt 19/Aug/2006
 
 \lx dálasi
+\va dálasì
 \ps n
 \gf cinq.francs.CFA
 \smf (pièce)
 \sy dɔ́rɔmɛ
 \cm Amadu Mariko (Beledugu): dálasi et dárasi, dáasi
-\dt 17/Nov/2017
+\dt 23/May/2018
 
 \lx dálasi
 \mm dá:n:bouche
@@ -24899,13 +24930,14 @@ assumant que l'interclocuteur pense autrement)
 \dt 26/Sep/2006
 
 \lx dɛ́n
+\va ntɛ́ɛ
 \ps n
 \gf taon
 \gvf glossine
 \gvf mouche tsé-tsé
 \gvf moucheron
 \gvf Glossina palpalis
-\dt 20/Dec/2015
+\dt 26/May/2018
 
 \lx dɛ́nda
 \mm dɛ́n:v:être.suspendu
@@ -29113,13 +29145,33 @@ désorienter')
 \gvf se.dandiner
 \dt 26/Sep/2006
 
+\lx dùgudùgu
+\ps n
+\gf sarcelle.d'été
+\gvf petit canard sauvage
+\smf (pillard des rizières)
+\lt Anas querquedula,
+\dt 26/May/2018
+
 \lx dúgudugu
+\va dùgudugu
 \ps v
+\ms 1
 \vl vt
 \gf marmonner
+\gvf murmurer
 \xv kàrisa bɛ́  kúma dúgudugu
 \xf un tel ne fait que marmonner
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gvf récriminer à voix sourde
+\dt 26/May/2018
+
+\lx dúgudugu
+\ps adv
+\gf en.grande.quantité
+\smf (poussière)
+\dt 26/May/2018
 
 \lx dùgujɛ
 \mm dùgu:n:terre
@@ -29594,7 +29646,7 @@ fait de bonnes poutres)
 \lx dùgutila
 \mm dùgu:n:terre
 \mm tíla:n:moitié
-\va dùgu.tila.ma
+\va dùgutilama
 \mm dùgu:n:terre
 \mm tíla:n:moitié
 \mm ma:mrph:COM
@@ -29604,7 +29656,7 @@ fait de bonnes poutres)
 \lt (nuit.milieu)
 \xv dùgutila fɛ̀
 \xf en pleine nuit
-\dt 16/Aug/2006
+\dt 21/May/2018
 
 \lx dùguturu
 \mm dùgu:n:terre
@@ -36945,13 +36997,13 @@ sur le ventre -- í kɔ́nɔ kàn)
 \ps v
 \ms 1
 \vl vi
-\gvf devenir.aveugle
+\gf devenir.aveugle
 \ms 2
 \vl vt
 \gvf rendre aveugle
 \xv màra bɛ́  màa fíyen
 \xf l'onchocercose rend les gens aveugles
-\dt 25/Nov/2017
+\dt 26/May/2018
 
 \lx fíyenkɛ
 \mm fíyen:n:aveugle
@@ -37494,6 +37546,12 @@ sur le ventre -- í kɔ́nɔ kàn)
 \gvf humilier
 \lt (léger.suf caus)
 \dt 26/Sep/2006
+
+\lx flɔ́
+\ps n
+\gf singe
+\gvf
+\dt 16/May/2018
 
 \lx fò
 \ps v
@@ -43543,6 +43601,13 @@ caractéristique, réputé pour faciliter la procréation)
 \smf (qui se répète : passages en courant, coups de feu ...)
 \dt 12/Aug/2006
 
+\lx gidɔn
+\bw Fr. guidon
+\ps n
+\gf guidon
+\gvf
+\dt 14/May/2018
+
 \lx gílasi
 \va glási
 \ps n
@@ -44904,11 +44969,15 @@ doigts par des fileuses du coton)
 \lx hádiya
 \bw ar: hadiya
 \ps n
+\ms 1
 \gf guide
 \smf ce qui sert de guide pour éviter l'errance, boussole ?
 \xv hádiya tà
 \xf perdre la tête, devenir fou
-\dt 19/Aug/2006
+\ms 2
+\gvf offrande
+\smf (un mot coranique)
+\dt 20/May/2018
 
 \lx háha
 \va hɛ́hɛ
@@ -44944,7 +45013,7 @@ doigts par des fileuses du coton)
 \dt 17/Oct/2017
 
 \lx hàkɛ
-\bw ar: didd al-haqq = à tort
+\bw ar: al-haqq ʕalayka 'tu n'as pas raison'
 \ps n
 \ms 1
 \gf tort
@@ -44962,7 +45031,10 @@ doigts par des fileuses du coton)
 \xf causer du tort à qqn
 \xv hàkɛba
 \xf faute grave, péché grave
-\dt 04/Apr/2016
+\ms 3
+\gvf obligation
+\smf (sens coranique)
+\dt 19/May/2018
 
 \lx hákɛ
 \bw ar: haqq = droit
@@ -52148,13 +52220,13 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \va jɛ́nnì
 \ve (f)
 \va jénìn
-\ve Mamadu Dukure
+\src Mamadu Dukure
 \ps prn
 \gf qui
 \xv jɔ̂n ní  jɔ̂n ?
 \xf qui et qui ? (dans le détail)
 \pl jɔnw
-\dt 15/Jul/2017
+\dt 27/May/2018
 
 \lx jɔ̀nfeere
 \mm jɔ̀n:n:esclave
@@ -53353,7 +53425,7 @@ composante des adjectifs séparables)
 \dt 20/Dec/2015
 
 \lx jùrumu
-\bw ar: gurm = crime, faute
+\bw ar: jurm 'sin, crime'
 \ps n
 \gf péché
 \xv jùrumu kɛ́ (dòn)
@@ -53362,7 +53434,7 @@ composante des adjectifs séparables)
 \xf faire du tort à qqn
 \xv jùrumuba
 \xf faute grave, péché grave
-\dt 03/Apr/2016
+\dt 19/May/2018
 
 \lx jùrumuntan
 \mm jùrumu:n:péché
@@ -73676,6 +73748,12 @@ Sahel)
 \xe rebâtir qqch
 \dt 17/May/2017
 
+\lx kúra
+\ps adv
+\gf nouvellement
+\gvf
+\dt 16/May/2018
+
 \lx kùraba
 \ps n
 \gf pot
@@ -81726,14 +81804,19 @@ jour, c'est une personne dépendante qu'il voit
 \dt 26/Sep/2006
 
 \lx màli
+\va màri
 \ps n
+\ms 1
 \gf hippopotame
 \lat Hippopotamus.amphibius
 \smf (gros herbivore aimant l'eau)
 \sy mɛ̀li
 \sy mɛ̀yi
 \ve (f)
-\dt 16/Aug/2006
+\ms 2
+\usf rare
+\gvf crocodile
+\dt 26/May/2018
 
 \lx màliden
 \mm Màli:n.prop:TOP
@@ -83396,13 +83479,6 @@ invulnérable aux serpents, aux fauves ...)
 \gvf région
 \dt 06/Feb/2017
 
-\lx màri
-\ps n
-\gf crocodile
-\sy bàma
-\sy jírɔbasa
-\dt 12/Aug/2006
-
 \lx máribayasa
 \va móribayaasa
 \va móribayasa
@@ -84428,6 +84504,14 @@ des engagements
 \lt (fourmi.fourmi)
 \dt 16/Aug/2006
 
+\lx mɛ́nɛmɛnɛ
+\mm mɛ́nɛ:v:allumer
+\mm mɛ́nɛ:v:allumer
+\ps adj
+\gf brillant
+\gvf étincelant
+\dt 21/May/2018
+
 \lx mɛ́nɛmɛnɛbilen
 \mm mɛ́nɛmɛnɛ:n:petite.fourmi
 \mm bìlen:vq/adj:rouge
@@ -85281,10 +85365,12 @@ nord-est
 \dt 08/Aug/2016
 
 \lx mísɛli
+\va mísɛ̀li
+\ve (Dugukunna)
 \bw ar: misalla = longue aiguille
 \ps n
 \gf aiguille
-\dt 12/Aug/2006
+\dt 27/May/2018
 
 \lx mísɛliju
 \mm mísɛli:n:aiguille
@@ -90372,9 +90458,8 @@ téter)
 \gf mangouste.ichneumon
 \lat Herpestes.ichneumon
 \smf (taille d'une martre, en couple ou en famille à la queue leu-leu)
-\ve ( bk )
 \sy nsɔ́rɔkɔ
-\dt 16/Aug/2006
+\dt 27/May/2018
 
 \lx ncɔ̀rɔnin
 \va cɔ̀rɔnin
@@ -90620,11 +90705,18 @@ petits enfants)
 \dt 05/Apr/2016
 
 \lx nèri
+\va nàri
 \ps n
+\ms 1
 \gf malchance
+\gvf malheur
+\ms 2
+\gvf guigne
+\gvf malédiction
+\gvf mauvais sort
 \xv ní  nèri bɛ́  mín fɛ̀, cɛ̀ndala b'ó díla
 \xf le devin a des remèdes contre la malchance
-\dt 26/Sep/2006
+\dt 26/May/2018
 
 \lx nèritɔ
 \mm nèri:n:malchance
@@ -104462,6 +104554,12 @@ le pèlerinage (bk 1/06 p.5)
 \xf le canari a été réduit en miettes
 \dt 26/Sep/2006
 
+\lx ɲɔ́ɔki
+\ps adv
+\gf avec.souplesse
+\smf (s'utilise avec le verbe wúli)
+\dt 26/May/2018
+
 \lx ɲɔ̀riɲɔ̀ri
 \va ɲèruɲèru
 \ve (bk)
@@ -106181,7 +106279,7 @@ envergure)
 
 \lx pénpèlen
 \va pénpèle
-\ve pénbelen
+\va pénbelen
 \ps n
 \ms 1
 \gf maillet
@@ -106191,7 +106289,7 @@ envergure)
 \gvf sexe masculin
 \xv
 \xf
-\dt 16/May/2016
+\dt 27/May/2018
 
 \lx péntèlú
 \ps n
@@ -106657,6 +106755,12 @@ envergure)
 \gf chose.bâclée
 \dt 27/Jun/2013
 
+\lx píripara
+\ps onomat
+\gf pif.paf
+\gvf
+\dt 26/May/2018
+
 \lx pírîpára
 \ps v
 \vl vt
@@ -106688,10 +106792,21 @@ envergure)
 \dt 16/Aug/2006
 
 \lx píya
+\va pyá
 \ps adv
 \gf sans.ambages
 \smf (et sans vergogne)
-\dt 19/Jan/2015
+\gvf carrément
+\dt 16/May/2018
+
+\lx píya
+\va pyá
+\va pyáa
+\ps v
+\vl vi, vr
+\gf s'enfuir
+\smf (d'une fuite éperdue)
+\dt 16/May/2018
 
 \lx píyanwu
 \ps intj
@@ -107148,18 +107263,18 @@ envergure)
 \ph [variante de rɔ post. quand la dernière syllabe du mot qui précède débute par un "l" ou un "r"]
 \ve (f,bk)
 \va nɔ́
-\ve dans des contextes phonétiques de liquides ou de nasales (cette postposition est courante au Bɛlɛdugu (f)  et à Bɛlɛkɔ (bk) dans lesautres régions elle n'est commune que dans l'expression surɔ hier soir)
 \ps pp
 \gf IN
-\smf postposition locative : dans, en, à ...
-\smf * tɔ = à l'intérieur de en malinké
+\gvf en
+\gvf à
+\smf (cette postposition est courante au Bɛlɛdugu (f)  et à Bɛlɛkɔ (bk) dans les autres régions elle n'est commune que dans l'expression surɔ hier soir)
 \xv ò cɛ́mancɛ rɔ́
 \xf en son milieu
 \xv à táara  kúngo rɔ́
 \xf il est parti en brousse
 \xv í kà  dɔ́ tɔ̀mɔ  òlu lɔ́
 \xf choisis-en un parmi eux
-\dt 26/Sep/2006
+\dt 27/May/2018
 
 \lx rɔ́fàlen
 \mm rɔ́:mrph:IN
@@ -114124,8 +114239,9 @@ gouvernement le soutient (kb 5/06 p.7)
 \vl vr
 \gvf glisser
 \ms 3
-\ve scier
-\dt 29/Mar/2017
+\vl vt
+\gvf scier
+\dt 27/May/2018
 
 \lx sìbantɔ
 \mm sì:n:vie
@@ -114913,6 +115029,13 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \xv sìisan b'á lá
 \xf il a de l'asthme
 \dt 26/Sep/2006
+
+\lx síisɔ
+\va síisɔɔ
+\ps adv
+\gf complètement
+\smf (disparaître)
+\dt 26/May/2018
 
 \lx sìjan
 \mm sì:n:vie
@@ -126807,12 +126930,12 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tóbi
 \va tɔ́bi
-\ve ( f )
+\ve (f)
 \bw ar: tabaha = id.
 \ps v
 \vl vt
 \gf cuire
-\dt 16/Aug/2006
+\dt 27/May/2018
 
 \lx tóbili
 \mm tóbi:v:cuire
@@ -128317,6 +128440,15 @@ est due aux paysans (kib 3/05 p.9)
 \gf couveuse
 \smf (un néologisme de Mamadu Dukure)
 \dt 20/Oct/2014
+
+\lx tɔ̀rɔmanɛ̀
+\ve (Dugukunna)
+\ps n
+\src Madu Tarawele
+\gf sangsue
+\sy mílikiti
+\sy nírikiti
+\dt 27/May/2018
 
 \lx tɔ̀rɔmɔjɔn
 \va tɔ̀rɔmajɔn
