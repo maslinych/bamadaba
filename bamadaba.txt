@@ -1,4 +1,4 @@
-\_sh v3.0  1302 MDF 4.0
+\_sh v3.0  231  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -9753,9 +9753,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bòli
 \ps v
-\ms 1
+\ms 1.1
 \vl vi
 \gf courir
+\ms 1.2
 \vl vt
 \gvf conduire
 \smf un véhicule
@@ -9785,7 +9786,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \smf (loi)
 \xv nìn sàriya bɛ́ bòli  ò bɛ́ɛ kàn
 \xf cette loi s'applique à tous ces cas
-\dt 26/Sep/2006
+\dt 03/Jun/2018
 
 \lx bóli
 \ps n
@@ -25738,6 +25739,11 @@ chefs religieux et représentants de l'administration
 \gf mouche
 \lt (abeille. ? )
 \dt 12/Aug/2006
+
+\lx dinari
+\ps n
+\gf dinar
+\dt 03/Jun/2018
 
 \lx dìndan
 \va dìna

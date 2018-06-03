@@ -471,9 +471,10 @@ eu lieu en 624)4
 
 \lx CEDEAO
 \ps n
-\gf CÉDÉAO
+\gf ABR
+\gvf CÉDÉAO
 \gvf Communauté économique des États de l'Afrique de l'Ouest
-\dt 14/Sep/2015
+\dt 03/Jun/2018
 
 \lx CMA
 \ps n
@@ -496,9 +497,10 @@ de la guerre du Mali)
 
 \lx COMATEX
 \ps n
-\gf COMATEX
+\gf ABR
+\gvf COMATEX
 \gvf Compagnie Malienne de Textile
-\dt 14/Sep/2015
+\dt 03/Jun/2018
 
 \lx Dawidi
 \ps n.prop
@@ -517,11 +519,6 @@ de la guerre du Mali)
 \xv
 \xf
 \dt 22/Feb/2017
-
-\lx dinari
-\ps n
-\gf dinar
-\dt 04/Feb/2016
 
 \lx Donali Turanpu
 \ps n.prop
@@ -735,7 +732,8 @@ de la guerre du Mali)
 
 \lx goluwa
 \ps n
-\gf gaulois
+\gf Gaulois
+\dt 03/Jun/2018
 
 \lx Gubagubo
 \ps n.prop
@@ -1009,11 +1007,11 @@ la culture
 \dt 05/Feb/2016
 
 \lx kamiko
-\ps n
+\ps n.prop
 \gf Cameco
 \gvf
 \smf (marque de moto)
-\dt 01/May/2017
+\dt 03/Jun/2018
 
 \lx KANI
 \va Kani
@@ -1088,10 +1086,10 @@ la culture
 
 \lx Kirisita
 \ps n.prop
-\gf N.ETRG
+\gf NOM.ETRG
 \gvf Jésus Christ
 \smf
-\dt 31/May/2017
+\dt 03/Jun/2018
 
 \lx Kirisitɔfu
 \ps n.prop
@@ -1235,15 +1233,16 @@ la culture
 
 \lx Malitɛli
 \ps n
-\gf Malitel
+\gf ABR
+\gvf Malitel
 \smf (compagnie téléphonique)
-\dt 07/Nov/2014
+\dt 03/Jun/2018
 
 \lx Mamayira
 \ps n.prop
 \gf Mamayira
-\smf équipe de football à Koulikoro
-\dt 03/May/2013
+\smf (équipe de football à Koulikoro)
+\dt 03/Jun/2018
 
 \lx Mariko Polo
 \ps n.prop
@@ -1264,8 +1263,9 @@ depuis 1930)
 
 \lx Mawo
 \ps n.prop
-\gf Mao.ZeDong
-\dt 23/Feb/2014
+\gf NOM.ETRG
+\gvf Mao.ZeDong
+\dt 03/Jun/2018
 
 \lx Mazelan
 \ps n.prop
@@ -1323,9 +1323,10 @@ la stabilisation au Mali
 \lx Mɔki
 \va Mɔku
 \ps n
-\gf MOC
+\gf ABR
+\gvf MOC
 \gvf Mécanisme opérationnel de coordination
-\dt 10/Mar/2018
+\dt 03/Jun/2018
 
 \lx Mɔngɔ Beti
 \ps n.prop
@@ -1389,8 +1390,8 @@ la stabilisation au Mali
 \lx Ɲana
 \ps n.prop
 \gf Gnana
-\smf équipe de football à Koulikoro
-\dt 03/May/2013
+\smf (équipe de football à Koulikoro)
+\dt 03/Jun/2018
 
 \lx Ɲɔna
 \ps n.prop

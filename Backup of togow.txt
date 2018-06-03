@@ -21,16 +21,16 @@
 \va Abdul
 \va Àbudù
 \va Abilayi
-\di (Senufo)
+\di (senufo)
 \va Dulayi
 \va Duleyi
-\di (Senufo)
+\di (senufo)
 \va Ábùlo
 \cm dim.
 \ps n.prop
 \gf NOM.M
 \cm Abdul, Abdu, Abulo - formes diminutives
-\dt 09/Aug/2017
+\dt 03/Jun/2018
 
 \lx Abdurahman
 \va Abduraman
@@ -255,8 +255,8 @@
 \va Nsumanɛ
 \di m
 \ps n.prop
-\gf NOM
-\dt 29/Mar/2017
+\gf NOM.M
+\dt 03/Jun/2018
 
 \lx Áràba
 \di
@@ -1283,10 +1283,10 @@ forme d'adresse à n'importe quel homme)
 \lx Fàbori
 \di (m, b)
 \va Faboli
-\di (Senufo)
+\di (senufo)
 \ps n.prop
 \gf NOM.M
-\dt 14/Jul/2017
+\dt 03/Jun/2018
 
 \lx Fàbu
 \di b, m
@@ -1363,10 +1363,10 @@ forme d'adresse à n'importe quel homme)
 \lx Fàlibo
 \di (b)
 \va Halibu
-\di (mK)
+\di (maninka Kita)
 \ps n.prop
 \gf NOM.M
-\dt 14/Jul/2017
+\dt 03/Jun/2018
 
 \lx Fàmori
 \di
@@ -2097,12 +2097,12 @@ forme francaise: Berehima
 \dt 14/Jul/2017
 
 \lx Kárì
-\di (Senufo)
+\di (senufo)
 \di b
 \ps n.prop
 \gf NOM.M
 \smf (nom d'enfant né le dimanche)
-\dt 14/Jul/2017
+\dt 03/Jun/2018
 
 \lx Kàribá
 \di
@@ -2193,10 +2193,10 @@ forme francaise: Berehima
 \dt 03/May/2010
 
 \lx Kòlí
-\di (soninke)
+\di (soninké)
 \ps n.prop
 \gf NOM.M
-\dt 14/Jul/2017
+\dt 03/Jun/2018
 
 \lx Kónì
 \di b
@@ -2549,10 +2549,10 @@ forme francaise: Berehima
 
 \lx Màladɔ́
 \va Màaládɔ
-\di (ful, son)
+\di (peul, soninké)
 \ps n.prop
 \gf NOM.M
-\dt 14/Jul/2017
+\dt 03/Jun/2018
 
 \lx Malamini
 \ps n.prop
@@ -3118,7 +3118,9 @@ forme francaise: Berehima
 \di b
 \ps n.prop
 \gf NOM.M
-\dt 05/Feb/2017
+\gvf Ngolo
+\smf (prénom masculin qu'on donne au 3e fils)
+\dt 03/Jun/2018
 
 \lx Nitiye
 \di (bobo)
@@ -3261,10 +3263,10 @@ forme francaise: Berehima
 
 \lx Núnkɛ̀
 \va Núncɛ
-\di b̀
+\di b
 \ps n.prop
 \gf NOM.M
-\dt 03/May/2010
+\dt 03/Jun/2018
 
 \lx Nùnkúmàn
 \di m
@@ -3654,8 +3656,8 @@ forme francaise: Berehima
 \di b, m
 \va Sádàn
 \di m
-\di f
-\dt 27/Jan/2016
+\di ful
+\dt 03/Jun/2018
 \ps n.prop
 \gf NOM.F
 
@@ -3741,11 +3743,11 @@ forme francaise: Berehima
 
 \lx Sériba
 \va Seri
-\di (b, Senufo)
+\di (b, senufo)
 \ps n.prop
 \gf NOM.M
 \smf (Seri est la forme diminutive)
-\dt 30/Jul/2017
+\dt 03/Jun/2018
 
 \lx Sétù
 \di m
@@ -3822,6 +3824,12 @@ forme francaise: Berehima
 \ps n.prop
 \gf NOM.M
 \dt 11/Feb/2017
+
+\lx Sidiya
+\ps n.prop
+\gf NOM.M
+\gvf
+\dt 21/Apr/2018
 
 \lx Sijama
 \ps n.prop
@@ -3945,17 +3953,17 @@ forme francaise: Berehima
 \dt 09/Oct/2016
 
 \lx Sɔ̀gɔná
-\di (b, son, ful)
+\di (b, soninké, peul)
 \ps n.prop
 \gf NOM.F
-\dt 14/Jul/2017
+\dt 03/Jun/2018
 
 \lx Sùmayíla
 \va Isimayɛli
 \va Isimayila
 \va Ismayila
 \va Sumayira
-\di (Senufo)
+\di (senufo)
 \va Sumi
 \ps n.prop
 \gf NOM.M
@@ -3963,7 +3971,7 @@ forme francaise: Berehima
 \smf (Sumi est une forme diminutive)
 \cm Zumana Denbele ne connait pas Isimayɛli
 \xf
-\dt 10/Mar/2018
+\dt 03/Jun/2018
 
 \lx Súnba
 \di

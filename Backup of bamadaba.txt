@@ -9753,9 +9753,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bòli
 \ps v
-\ms 1
+\ms 1.1
 \vl vi
 \gf courir
+\ms 1.2
 \vl vt
 \gvf conduire
 \smf un véhicule
@@ -9785,7 +9786,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \smf (loi)
 \xv nìn sàriya bɛ́ bòli  ò bɛ́ɛ kàn
 \xf cette loi s'applique à tous ces cas
-\dt 26/Sep/2006
+\dt 03/Jun/2018
 
 \lx bóli
 \ps n
@@ -134954,7 +134955,6 @@ bambara)
 \ms 1
 \vl vt
 \gf disperser
-\gvf disperser
 \gvf semer à la volée
 \xv kòlon yéri
 \xf faire la divination par les cauris (en les jetant)

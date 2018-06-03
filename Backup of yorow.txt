@@ -1666,10 +1666,10 @@ Koulikoro)
 \va Dùgukunan
 \ps n.prop
 \gf TOP
-\gf Dougoukouna
+\gvf Dougoukouna
 \smf (village, environ 10 km à l'ouest de Ségou, province de
 Ségou)
-\dt 24/Mar/2017
+\dt 03/Jun/2018
 
 \lx Dùgutigibugu
 \ps n.prop
@@ -1750,8 +1750,9 @@ Ségou)
 
 \lx Erɔpu
 \ps n.prop
-\gf Europe
-\dt 21/Feb/2013
+\gf TOP
+\gvf Europe
+\dt 03/Jun/2018
 
 \lx Esuki
 \ps n.prop
@@ -2235,9 +2236,10 @@ Tombouctou)
 
 \lx Garuwa
 \ps n.prop
-\gf Garoua
+\gf TOP
+\gvf Garoua
 \smf (une ville au nord de Cameroun)
-\dt 05/Feb/2016
+\dt 03/Jun/2018
 
 \lx Gàwó
 \ty г.
@@ -3163,13 +3165,6 @@ région de Sikasso)
 \gvf
 \smf (village, région de Ségou)
 \dt 16/May/2017
-
-\lx Kamama
-\ps n.prop
-\gf NOM.M
-\gvf
-\smf
-\dt 01/May/2017
 
 \lx Kameruni
 \va Kamerun
@@ -4738,12 +4733,12 @@ Ségou)
 
 \lx Mɔlidawi
 \ps n.prop
-\gf Moldavie
-\gvf
+\gf TOP
+\gvf Moldavie
 \smf
 \xv
 \xf
-\dt 31/May/2016
+\dt 03/Jun/2018
 
 \lx Mɔ́ngoli
 \ty гос.
@@ -4943,6 +4938,13 @@ Mopti)
 \smf (village, région de Ségou)
 \dt 02/May/2017
 
+\lx Ngɔmi
+\ps n.prop
+\gf TOP
+\gvf Ngami
+\smf (un lac en Botswana, dans le désert du Kalahari, alimenté par l'Okavango et par le Taughe)
+\dt 02/May/2018
+
 \lx Nili
 \ps n.prop
 \gf TOP
@@ -4994,27 +4996,24 @@ Mopti)
 \ps n.prop
 \gf TOP
 \gvf
-\smf (village, cercle de Douentza, région de Mopti))
-\dt 10/Mar/2018
+\smf (village, cercle de Douentza, région de Mopti)
+\dt 03/Jun/2018
 
 \lx Nɔgɔlaso
 \ps n.prop
 \gf TOP
 \gvf
-\smf (un village dans la commune de Sinzan, circle de Sikasso)
+\smf (village, commune de Sinzan, cercle de Sikasso)
 \xv
 \xf
-\dt 23/Oct/2016
+\dt 03/Jun/2018
 
 \lx Nɔnkɔn
 \ps n.prop
 \gf TOP
 \gvf Nonkon
-\smf (une commune dans le cercle de Kolokani, région de
-Koulikoro)
-\xv
-\xf
-\dt 08/Feb/2017
+\smf (commune, cercle de Kolokani, région de Koulikoro)
+\dt 03/Jun/2018
 
 \lx Nɔnsɔnbugu
 \va Nɔsɔnbugu
@@ -6596,12 +6595,12 @@ frontière malienne)
 
 \lx Tiringa
 \ps n.prop
-\gf Tringa
-\gvf
+\gf TOP
+\gvf Tringa
 \smf (commune dans le cercle de Yélimané, région de Kayes)
 \xv
 \xf
-\dt 06/Feb/2017
+\dt 03/Jun/2018
 
 \lx Tiripoli
 \ps n.prop
@@ -6853,10 +6852,11 @@ Grand Erg Occidental, dans la wilaya d'Adrar)
 \lx Wagadu
 \va Wàhadù
 \ps n.prop
-\gf Ouagadou
+\gf TOP
+\gvf Ouagadou
 \gvf Ghana
 \smf (le premier des grands empires de l'Afrique Occidentale)
-\dt 26/Feb/2017
+\dt 03/Jun/2018
 
 \lx Wagadugu
 \va Wàadúu
