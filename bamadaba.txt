@@ -26218,19 +26218,27 @@ chefs religieux et représentants de l'administration
 \mm ya:mrph:DEQU
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va já.baa.tɔ
+\va jábaatɔ
 \mm já:v:rendre.agréable
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ph [jabaatɔ]
+\va jábagatɔ
+\mm já:v:rendre.agréable
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
 \ps adj
 \ms 1
 \gf lambin
-\smf qui prend son temps (pour exécuter un ordre ...)
-\lt (jouir.sujet)
+\smf (qui prend son temps pour exécuter un ordre)
 \ms 2
 \gvf aimant.la.vie
-\dt 11/Feb/2017
+\ms 3
+\src KT, Bailleul
+\gvf lubrique
+\gvf satyre
+\gvf débauché
+\dt 28/May/2018
 
 \lx díyabɔ
 \mm díya:n:bon.goût
@@ -29145,6 +29153,13 @@ désorienter')
 \gvf se.dandiner
 \dt 26/Sep/2006
 
+\lx dùgudugu
+\ps n
+\src KT
+\gf murmure
+\smf (un couple d’amoureux)
+\dt 28/May/2018
+
 \lx dùgudùgu
 \ps n
 \gf sarcelle.d'été
@@ -29154,7 +29169,13 @@ désorienter')
 \dt 26/May/2018
 
 \lx dúgudugu
-\va dùgudugu
+\va dúgeduge
+\ps adv
+\gf en.grande.quantité
+\smf (poussière)
+\dt 28/May/2018
+
+\lx dúgudugu
 \ps v
 \ms 1
 \vl vt
@@ -29165,13 +29186,7 @@ désorienter')
 \ms 2
 \vl vt
 \gvf récriminer à voix sourde
-\dt 26/May/2018
-
-\lx dúgudugu
-\ps adv
-\gf en.grande.quantité
-\smf (poussière)
-\dt 26/May/2018
+\dt 28/May/2018
 
 \lx dùgujɛ
 \mm dùgu:n:terre
@@ -134930,8 +134945,9 @@ bambara)
 \va yéreyere
 \ps adv
 \gf bien.rouge
+\gvf bien rouge
 \gvf bien mûr
-\dt 19/Jan/2015
+\dt 03/Jun/2018
 
 \lx yéri
 \ps v
@@ -134946,7 +134962,7 @@ bambara)
 \gvf s'ouvrir
 \gvf s'épanouir 
 \smf (une fleure)
-\dt 17/May/2017
+\dt 03/Jun/2018
 
 \lx yètinan
 \va yètenan
