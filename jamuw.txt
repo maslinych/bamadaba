@@ -6,7 +6,7 @@
 \gf NOM.CL
 
 \lx Angontinbe
-\di dog
+\di (dogon)
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -35,8 +35,7 @@
 \va Bàgayɔkɔ
 \va Bagayoko
 \va Bagayogo
-\di b
-\di was
+\di (bambara, wassolon)
 \di kag
 \ca nùmu
 \ca hɔ̀rɔn
@@ -70,14 +69,14 @@
 \dt 17/Dec/2012
 
 \lx Bamiya
-\di dog
+\di (dogon)
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Bánbà
 \di snf
-\di b
+\di (bambara)
 \re Sikasso
 \ca nùmu
 \ca hɔ́rɔn
@@ -97,7 +96,7 @@
 \lx Bánbèrá
 \va Bamera
 \va Bamere
-\di b
+\di (bambara)
 \ca jèli
 \re Kulikoro
 \re Segu
@@ -106,7 +105,7 @@
 \gf NOM.CL
 
 \lx Bànbó
-\di b
+\di (bambara)
 \di daf
 \ca jèli
 \ca hɔ́rɔn
@@ -115,7 +114,7 @@
 \gf NOM.CL
 
 \lx Bàngura
-\di m
+\di (maninka)
 \di sou
 \sm Suma
 \sm bula
@@ -124,20 +123,20 @@
 \gf NOM.CL
 
 \lx Banjugusi
-\di mK
+\di (maninka de Kita)
 \sm kabila
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Baraga
-\di son
+\di (soninké)
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Baraji
-\di son
+\di (soninké)
 \di kag
 \dt 03/May/2010
 \ps n.prop
@@ -165,15 +164,14 @@
 \gf NOM.CL
 
 \lx Baxaga
-\di son
+\di (soninké)
 \ca griot-geseru
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Bàyo
-\di b
-\di son
+\di (bambara, soninké)
 \eq Bagayɔgɔ (?)
 \sm bula
 \dt 03/May/2010
@@ -181,7 +179,7 @@
 \gf NOM.CL
 
 \lx Benkali
-\di son
+\di (soninké)
 \di ful (?)
 \re Sikaso
 \dt 03/May/2010
@@ -191,16 +189,16 @@
 \lx Bèrete
 \va Bèrte
 \va Bérete
-\di m
+\di (maninka)
 \di snf
-\di son
+\di (soninké)
 \ca hɔ̀rɔn
 \sm Jane
 \fa Sùwanún (m)
-\smf Marabouts ou (dans les zones non fusionnées)
+\smf (Marabouts ou (dans les zones non fusionnées))
 sorciers-guérisseurs (bolotigiw). Les habitants du Manden sont des agriculteurs.
 Appartient au nombre des «cinq premiers musulmans» du Mandé.
-\smr Марабуты или (в неисламизированных районах)
+\smr (Марабуты или (в неисламизированных районах))
 колдуны-знахари (bolotigiw). У манден - земледельцы.
 Относят к числу "первых пяти мусульман".
 \dt 03/May/2010
@@ -220,32 +218,32 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Bíibà
-\di son
+\di (soninké)
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Bíibà
-\di son
-\smf village de Madina, à côté de Guissimbine
-\smr Деревня Madina, рядом с Guissimbine.
+\di (soninké)
+\smf (village de Madina, à côté de Guissimbine)
+\smr (Деревня Madina, рядом с Guissimbine.)
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Bokum
-\di ful
+\di (peul)
 \di tou
 \sm nùmu
-\smf Bergers
-\smr Пастухи.
+\smf (Bergers)
+\smr (Пастухи.)
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Boyigille
 \di kag
-\di son
+\di (soninké)
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -254,14 +252,14 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \va Bɔrɛ
 \va Bɔarɛ
 \va Buware
-\di b
+\di (bambara)
 \di mny
 \dt 01/Feb/2017
 \ps n.prop
 \gf NOM.CL
 
 \lx Camu
-\di b
+\di (bambara)
 \va Cam
 \di tou
 \ca nùmu
@@ -272,9 +270,9 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \lx Cɛɛrɔ
 \va Cɛrɔ
 \va Cɛro
-\di b
+\di (bambara)
 \di boz
-\di son
+\di (soninké)
 \di som
 \eq Tera
 \cm у бобо
@@ -309,7 +307,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 
 \lx Daabo
 \va Dabo
-\di m
+\di (maninka)
 \di kag
 \di mdk
 \ca hɔ́rɔn (kag)
@@ -328,8 +326,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \di bob
 \ca hɔ́rɔn
 \sm Dɛna
-\smf Agriculteurs. Beaucoup sont chrétiens.
-\smr Земледельцы. Многие - христиане.
+\smf (Agriculteurs. Beaucoup sont chrétiens.)
+\smr (Земледельцы. Многие - христиане.)
 \dt 03/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -344,9 +342,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \lx Dànbele
 \va Dànbɛlɛ
 \va Dènbele
-\di b
-\di m
-\di xas
+\di (bambara, khasonka, maninka)
 \di smn
 \di snf
 \di mny
@@ -363,7 +359,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Dàngo
-\di son
+\di (soninké)
 \ca jèli
 \tn nkòrongofin
 \eq Kuwate
@@ -371,8 +367,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \sm Kante
 \sm Konate
 \sm Makalu
-\smf Ancêtre - Kabala Sinbon, petit-fils Ase Bilali.
-\smr Предок - Kabala Sinbon, внук Ase Bilali.
+\smf (Ancêtre - Kabala Sinbon, petit-fils Ase Bilali.)
+\smr (Предок - Kabala Sinbon, внук Ase Bilali.)
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -380,8 +376,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \lx Dansira
 \eq Denbele
 \eq Tarawele
-\smf utilisé pour les femmes Tarawele.
-\smr Женское джаму.
+\smf (utilisé pour les femmes Tarawele.)
+\smr (Женское джаму.)
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -389,7 +385,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \lx Dansoko
 \va Dansogo
 \va Donsogo
-\di m
+\di (maninka)
 \di dia
 \ca hɔrɔn
 \re Kita
@@ -405,8 +401,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \sm Sidibe
 \sm Jakite
 \sm Jalo
-\smf Ancêtre - Jatra Dansongo.
-\smr Родоначальник - Jatra Dansogo.
+\smf (Ancêtre - Jatra Dansongo.)
+\smr (Родоначальник - Jatra Dansogo.)
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -418,7 +414,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 
 \lx Dante
 \va Dantɛ
-\di b
+\di (bambara)
 \ca jèli
 \re Segu
 \re Tumunde (Kita)
@@ -428,9 +424,9 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Dányò
-\di son
+\di (soninké)
 \di kag
-\di b
+\di (bambara)
 \ca jèli
 \ca nùmu (kag)
 \dt 04/May/2010
@@ -440,7 +436,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \lx Danyɔkɔ
 \va Danyɔgɔ
 \di dK
-\di b
+\di (bambara)
 \di dia
 \di kag
 \ca jèli (dK, b)
@@ -458,7 +454,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Dara
-\di dog
+\di (dogon)
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -466,8 +462,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \lx Daramera
 \va Dramera
 \di dia
-\smf Bergers.
-\smr Пастухи.
+\smf (Bergers.)
+\smr (Пастухи.)
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -479,10 +475,9 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Daramɛ
-\di son
+\di (soninké)
 \di dia
-\di ful
-\di b
+\di (bambara, peul)
 \di jgr
 \dt 06/May/2010
 \ps n.prop
@@ -499,7 +494,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \va Ndaw
 \va Dafe
 \di wlf
-\di ful
+\di (peul)
 \di tou
 \di dia
 \di mrk
@@ -523,22 +518,22 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \ca hɔ́rɔn
 \sm Dako
 \sm Kamate
-\smf Agriculteurs
-\smr Земледельцы.
+\smf (Agriculteurs)
+\smr (Земледельцы.)
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Denba
 \di dia
-\smf Bergers.
-\smr Пастухи.
+\smf (Bergers.)
+\smr (Пастухи.)
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Dènbága
-\di son
+\di (soninké)
 \ca garanke
 \dt 04/May/2010
 \ps n.prop
@@ -566,11 +561,10 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \va Dikɔ
 \va Diko
 \di tou
-\di ful
-\di dog
+\di (dogon, peul)
 \ca hɔ́rɔn
 \eq Jalo (?)
-\smr Включает в себя Ɲalibuli.
+\smr (Включает в себя Ɲalibuli.)
 \dt 17/May/2017
 \ps n.prop
 \gf NOM.CL
@@ -591,14 +585,14 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \dt 14/Jul/2017
 
 \lx Dolo
-\di dog
+\di (dogon)
 \tt nkaana
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Draba
-\di b
+\di (bambara)
 \ca jèli
 \re Segu
 \dt 04/May/2010
@@ -607,8 +601,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 
 \lx Dramɛ
 \cf Daramɛ
-\di son
-\di ful
+\di (peul, soninké)
 \di dia
 \di snb
 \di diog
@@ -617,9 +610,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \ca gesere
 \ca mòri
 \ca nùmu
-\smf tanneurs.
-\smr Возводят к сыну Diŋa. У догонов относятся к касте janbu
-(кожевенники).
+\smf (tanneurs.)
+\smr (Возводят к сыну Diŋa. У догонов относятся к касте janbu (кожевенники).)
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -627,17 +619,16 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \lx Dukansi
 \va Dùwansí
 \va Dugansi
-\di son
-\di xas
+\di (soninké, khasonka)
 \sm Sisigo
-\smf originaires de Wuluma (Nord de Kayes). Forgerons (tagu).
-\smr Родом из Wuluma (к северу от Kayi). Кузнецы (tagu).
+\smf (originaires de Wuluma (Nord de Kayes). Forgerons (tagu).)
+\smr (Родом из Wuluma (к северу от Kayi). Кузнецы (tagu).)
 \dt 04/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Dukare
-\di son
+\di (soninké)
 \ca nùmu
 \re Kayi
 \re Yelimane
@@ -646,7 +637,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Dúkùre
-\di son
+\di (soninké)
 \ca hɔ̀rɔn
 \re Yelimane
 \re Jafunu
@@ -656,7 +647,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Dumasi
-\di son
+\di (soninké)
 \ca tagu
 \dt 05/May/2010
 \ps n.prop
@@ -666,9 +657,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \va Dunbuya
 \va Dumuya
 \va Dunmuya
-\di b
-\di m
-\di was
+\di (bambara, maninka)
+\di (wassolon)
 \di kag
 \eq Kuruma
 \eq Sisoko
@@ -677,7 +667,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Dúnɔ
-\di m
+\di (maninka)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -689,7 +679,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Dunyo
-\di dog
+\di (dogon)
 \re Sanga
 \dt 06/May/2010
 \ps n.prop
@@ -697,8 +687,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 
 \lx Fàdiga
 \va Fàdika
-\di b
-\di m
+\di (bambara, maninka)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -724,9 +713,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \lx Fánɛ
 \va Fáne
 \va Fáanɛ
-\di was
-\di b
-\di m
+\di (wassolon)
+\di (bambara, maninka)
 \di mny
 \ca nùmu
 \tn bama
@@ -735,13 +723,13 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Fasa
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Fisuru
-\di son
+\di (soninké)
 \ca wage
 \dt 06/May/2010
 \ps n.prop
@@ -753,11 +741,9 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \eq Dancogo
 \eq Kamara
 \eq Jɔ́mànde
-\di m
-\di son
+\di (maninka, soninké)
 \di kag
-\di xas
-\di was
+\di (khasonka, wassolon)
 \sm Kamara
 \sm Keyita
 \sm Ture
@@ -783,8 +769,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \sm Balo
 \sm Kulibal
 \sm Sidibɛ
-\smf tous peuls
-\smr все фульбе
+\smf (tous peuls)
+\smr (все фульбе)
 \tt janfin (сорока?)
 \tt маленькая полевая мышь
 \dt 08/Feb/2016
@@ -792,8 +778,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Funɛmuso
-\smf Jamu des griots toutcouleurs. Souvent forgerons. Les femmes donnent souvent dans la mendicité.
-\smr Джаму у maabɔ. Часто - кузнецы. Женщины часто занимаются
+\smf (Jamu des griots toutcouleurs. Souvent forgerons. Les femmes donnent souvent dans la mendicité.)
+\smr (Джаму у maabɔ. Часто - кузнецы. Женщины часто занимаются)
 попрошайничеством; земледелем занимаются, но неохотно!
 \dt 06/May/2010
 \ps n.prop
@@ -827,22 +813,22 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Gandeega
-\di son
+\di (soninké)
 \ca wage
-\smr Возводят к сыну Diŋa.
+\smr (Возводят к сыну Diŋa.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Gasama
-\di son
+\di (soninké)
 \ca wage
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Gboɛta
-\di son
+\di (soninké)
 \ca jèli
 \dt 06/May/2010
 \ps n.prop
@@ -855,10 +841,10 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Gèyita
-\di m
+\di (maninka)
 \re Bafin
 \sm Daabɔ
-\smr не бракозапретный
+\smr (не бракозапретный)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -882,10 +868,10 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Gìndo
-\di dog
+\di (dogon)
 \re Bandiagara
-\smf l'un des Jamu dogons les plus répandus. Se reconnaissent dogons entre eux, même en dehors du pays Dogon.
-\smr Одно из самыз распространённых догонских джаму. Так
+\smf (l'un des Jamu dogons les plus répandus. Se reconnaissent dogons entre eux, même en dehors du pays Dogon.)
+\smr (Одно из самыз распространённых догонских джаму. Так)
 обычно называют себя догоны, находясь за пределами своей
 территории.
 \dt 06/May/2010
@@ -893,7 +879,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Gise
-\di ful
+\di (peul)
 \ca maabube (ткачи)
 \tn питон
 \sm nùmu
@@ -909,7 +895,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 
 \lx Gologo
 \va Galogo
-\di ful
+\di (peul)
 \di son (?)
 \dt 06/May/2010
 \ps n.prop
@@ -923,7 +909,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \gf NOM.CL
 
 \lx Gumane
-\di son
+\di (soninké)
 \re Tenemala
 \re Banamba
 \dt 06/May/2010
@@ -932,8 +918,8 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 
 \lx Gunbala
 \di tou
-\smf Charpentiers toutcouleurs (laobe), constructeurs de bateaux.
-\smr Тукулёры-столяры (laobe), изготовители лодок.
+\smf (Charpentiers toutcouleurs (laobe), constructeurs de bateaux.)
+\smr (Тукулёры-столяры (laobe), изготовители лодок.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -946,13 +932,13 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 
 \lx Haydara
 \va Háyidara
-\di son
+\di (soninké)
 \di mau
 \di sng
 \ca hɔ̀rɔn
-\smf Ils sont considérés comme des descendants du Prophète Muhammad - Sharifs.
+\smf (Ils sont considérés comme des descendants du Prophète Muhammad - Sharifs.)
 Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
-\smr Считаются потомками пророка Мухаммеда - шарифами.
+\smr (Считаются потомками пророка Мухаммеда - шарифами.)
 Марабуты. Не имеют tana и брачныз запретов.
 \dt 06/May/2010
 \ps n.prop
@@ -972,41 +958,39 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jaabi
-\di son
-\di xas
-\di m
+\di (soninké, khasonka)
+\di (maninka)
 \ca mòri
 \ca wage
-\smr Возводят к сыну Diŋa.
+\smr (Возводят к сыну Diŋa.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Jàanɛ
-\di son
-\di m
+\di (soninké, maninka)
 \di mdk
 \ca hɔ̀rɔn
 \ca mòri
 \fa Makarɛmɛ
 \fa Maharɛmɛ
-\smf du Soninké maka remme "enfant de la Mecque"
+\smf (du Soninké maka remme "enfant de la Mecque")
 \cm из сонинке maka remme 'ребёнок из Мекки'
 \fa Sámɛkà
-\smf 'Syrien' (en Guinée)
+\smf ('Syrien' (en Guinée))
 \cm 'сириец' (в Гвинее)
 \sm Keita
 \sm Berete
 \sm Sila
 \tn jifa
-\smf animal qui n'a pas été abattu selon le rite musulman
+\smf (animal qui n'a pas été abattu selon le rite musulman)
 \cm мясо животного, зарезанного не по мусульманскому обряду
 \dt 17/Feb/2013
 \ps n.prop
 \gf NOM.CL
 
 \lx Jabira
-\di son
+\di (soninké)
 \ca wage
 \eq Yatabere
 \dt 06/May/2010
@@ -1014,7 +998,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jágàraga
-\di son
+\di (soninké)
 \ca wage
 \tn houtarde
 \dt 06/May/2010
@@ -1022,7 +1006,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jagate
-\di m
+\di (maninka)
 \re Banbuku
 \eq Jakite
 \eq Kaba
@@ -1032,7 +1016,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jahune
-\di son
+\di (soninké)
 \ca garanke
 \sm Makalu
 \dt 06/May/2010
@@ -1040,8 +1024,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jàkite
-\di was
-\di ful
+\di (wassolon, peul)
 \ca hɔ̀rɔn
 \eq Ba
 \eq Kaba
@@ -1055,9 +1038,8 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jàlo
-\di ful
-\di was
-\di xas
+\di (peul, wassolon)
+\di (khasonka)
 \tn wɔlɔ
 \eq Suntura
 \eq Diko (?)
@@ -1068,14 +1050,14 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Janbisi
-\di son
+\di (soninké)
 \ca garanke
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Jánka
-\di son
+\di (soninké)
 \ca nùmu
 \re Kayi_
 \sm Jalo
@@ -1089,8 +1071,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jàra
-\di b
-\di m
+\di (bambara, maninka)
 \eq Konde
 \eq Ndiay
 \eq Kone
@@ -1123,13 +1104,13 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jarasuba
-\di b
+\di (bambara)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Jariso
-\di son
+\di (soninké)
 \di kag (?)
 \ca hɔ̀rɔn
 \ca wage
@@ -1138,7 +1119,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jaruma
-\di son
+\di (soninké)
 \sm Kusa. Прародитель - Kantiakabe.
 \dt 06/May/2010
 \ps n.prop
@@ -1150,9 +1131,9 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jaw
-\di xas
+\di (khasonka)
 \di tou
-\di ful
+\di (peul)
 \ca nùmu
 \cm у фульбе и тукулеров
 \tt nporongofin
@@ -1162,11 +1143,10 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jáwara
-\di son
+\di (soninké)
 \di dia
 \di kur
-\di ful
-\di m
+\di (peul, maninka)
 \ca hɔ̀rɔn
 \ca jèli
 \ca garanke
@@ -1183,7 +1163,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jebikile
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1194,7 +1174,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jemen
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1207,8 +1187,8 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 
 \lx Jeng
 \di tou
-\smf Subalbe (pêcheurs "toucouleurs")
-\smr Субалбе (тукурёры-рыболовы), гауло.
+\smf (Subalbe (pêcheurs "toucouleurs"))
+\smr (Субалбе (тукурёры-рыболовы), гауло.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1221,8 +1201,8 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 
 \lx Jeye
 \di tou
-\smf Subalbe (pêcheurs "toucouleurs")
-\smr Субалбе (тукурёры-рыболовы).
+\smf (Subalbe (pêcheurs "toucouleurs"))
+\smr (Субалбе (тукурёры-рыболовы).)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1234,7 +1214,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \va Jabagatɛ
 \va Jɛbaatɛ
 \va Jɛbagatɛ
-\di m
+\di (maninka)
 \di kur
 \ca jèli
 \ca hɔ̀rɔn
@@ -1256,7 +1236,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jigibe
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1280,8 +1260,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \va Jirɛ
 \di som
 \di boz
-\di son
-\di dog
+\di (soninké, dogon)
 \ca jèli
 \cm в Сегу
 \dt 06/May/2010
@@ -1289,7 +1268,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jonbana
-\di son
+\di (soninké)
 \di kag
 \ca tagu
 \ca nùmu
@@ -1305,7 +1284,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jonu
-\smr Болон.
+\smr (Болон.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1324,8 +1303,8 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 
 \lx Jɔ́mànde
 \eq Fɔfana
-\smf Étymologie nationale: "fils de Manden"
-\smr Народная этимология: "сын манден".
+\smf (Étymologie nationale: "fils de Manden")
+\smr (Народная этимология: "сын манден".)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1346,7 +1325,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Juhara
-\di son
+\di (soninké)
 \ca mòri
 \ca garanke
 \dt 06/May/2010
@@ -1354,13 +1333,13 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jukanci
-\di b
+\di (bambara)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Jum
-\di ful
+\di (peul)
 \di tou
 \ca столяры
 \dt 06/May/2010
@@ -1368,13 +1347,13 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Jumasi
-\di b
+\di (bambara)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Jwàra
-\di son
+\di (soninké)
 \ca hɔ̀rɔn
 \sm Kamara
 \sm Jawara
@@ -1387,7 +1366,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 
 \lx Kaane
 \eq Kante
-\di b
+\di (bambara)
 \di tou
 \sm Banba
 \dt 06/May/2010
@@ -1395,8 +1374,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Kàba
-\di m
-\di son
+\di (maninka, soninké)
 \eq Jakitɛ
 \eq Jasimunka
 \eq Ba
@@ -1410,7 +1388,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \lx Kalapo
 \va Kalafo
 \di boz
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1422,7 +1400,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Kalle
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1430,8 +1408,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \lx Kaloga
 \va Kálɔkà
 \va Kálɔ̀
-\di m
-\di son
+\di (maninka, soninké)
 \di diahanka
 \ca garanke
 \dt 06/May/2010
@@ -1439,7 +1416,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Kama
-\di son
+\di (soninké)
 \di diawambe
 \ca tagu
 \dt 06/May/2010
@@ -1454,7 +1431,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 
 \lx Kàmara
 \va Kámala
-\di m
+\di (maninka)
 \di kuranko
 \di dia
 \di kag
@@ -1485,16 +1462,15 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 
 \lx Kàmisoko
 \va Kàmisogo
-\di m
-\di son
+\di (maninka, soninké)
 \di kag
 \eq Jàra
 \tt káana
 \ca hɔ̀rɔn
 \cm у сонинке
 \ca jèli
-\smf Signe - trois cicatrices longitudinales sur les tempes
-\smr Знак - три продольных шрама на висках.
+\smf (Signe - trois cicatrices longitudinales sur les tempes)
+\smr (Знак - три продольных шрама на висках.)
 \fa Sataba
 \dt 26/Feb/2017
 \ps n.prop
@@ -1536,7 +1512,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \dt 09/Apr/2017
 
 \lx Kàni
-\di b
+\di (bambara)
 \ca hɔ́rɔn
 \ca nùmu
 \re Beledugu (?)
@@ -1545,9 +1521,9 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Kanisi
-\di mK
-\smf Une des kabila (grande famille) entrant dans le jamu Keita
-\smr Один из kabila, входящих в джаму Keita.
+\di (maninka de Kita)
+\smf (Une des kabila (grande famille) entrant dans le jamu Keita)
+\smr (Один из kabila, входящих в джаму Keita.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1562,19 +1538,19 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Kanpo
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kansai
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kantara
-\di m
+\di (maninka)
 \eq Kamara
 \dt 06/May/2010
 \ps n.prop
@@ -1585,9 +1561,8 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \va Kándɛ
 \va Káane
 \eq Súmàoro
-\di m
-\di was
-\di b
+\di (maninka, wassolon)
+\di (bambara)
 \di kag
 \ca nùmu
 \ca jèli
@@ -1604,25 +1579,25 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \sm Samakɛ
 \sm Jabo
 \sm Jakitɛ
-\smf Peul
-\smr фульбе
+\smf (Peul)
+\smr (фульбе)
 \dt 07/Feb/2017
 \ps n.prop
 \gf NOM.CL
 
 \lx Kanute
 \va Kanutɛ
-\di b
+\di (bambara)
 \di kag
 \ca jèli
-\smf Kagoro
+\smf (Kagoro)
 \cm у кагоро
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kanyasi
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1634,7 +1609,7 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Karanbe
-\di dog
+\di (dogon)
 \re Bandiagara
 \dt 06/May/2010
 \ps n.prop
@@ -1647,19 +1622,19 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \gf NOM.CL
 
 \lx Karo
-\smf Une des trois grandes divisions de Soninké
-\smr Одно из трёх больших подразделений сонинке.
+\smf (Une des trois grandes divisions de Soninké)
+\smr (Одно из трёх больших подразделений сонинке.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kásanbàra
 \eq Kulibali
-\di dog
-\smf de Bandiagara
+\di (dogon)
+\smf (de Bandiagara)
 \cm в Бандиагара
-\di b
-\smf de Mopti
+\di (bambara)
+\smf (de Mopti)
 \cm в Мопти
 \sm Keyita
 \sm Ture
@@ -1667,19 +1642,19 @@ Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
 \sm Samokɛ
 \sm Jara
 \tn голод (?)
-\smf étymologie populaire: kásaa ñ bàra «sent le poisson de chez moi».
+\smf (étymologie populaire: kásaa ñ bàra «sent le poisson de chez moi».)
 Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
-\smr Народная этимология: kásaa ń bàra 'от меня пахнет рыбой'.
+\smr (Народная этимология: kásaa ń bàra 'от меня пахнет рыбой'.)
 Младший брат - Кулибали, съевший сома npɔlyɔ.
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kase
-\di ful
+\di (peul)
 \ca maabɔ
-\smf de Mopti
-\smr в Мопти
+\smf (de Mopti)
+\smr (в Мопти)
 \tn nkɔrɔngɔ
 \sm nùmu
 \dt 06/May/2010
@@ -1687,53 +1662,53 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 \gf NOM.CL
 
 \lx Kasoge
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kasumasi
-\di mK
-\smf une des kabila du jamu Keyita.
-\smr Один из kabila джаму Keyita.
+\di (maninka de Kita)
+\smf (une des kabila du jamu Keyita.)
+\smr (Один из kabila джаму Keyita.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kàtile
-\di b
+\di (bambara)
 \re Segu
 \eq Bware
-\smf vient du Macina.
-\smr Пришли из Масина.
+\smf (vient du Macina.)
+\smr (Пришли из Масина.)
 \tn gàrafini
-\smf vêtements, teints indigo
+\smf (vêtements, teints indigo)
 \cm одежда, крашенная индиго
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kèbe
-\di m
+\di (maninka)
 \di tou
 \ca hɔ̀rɔn
-\smf du Maninka
+\smf (du Maninka)
 \cm у манинка
 \ca laobe
-\smf toucouleur
+\smf (toucouleur)
 \cm у тукулёров
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kelefeli
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kelem
-\di ful
+\di (peul)
 \ca maabube
 \tn питон
 \dt 06/May/2010
@@ -1742,8 +1717,8 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 
 \lx Keren
 \di dK
-\smf grande kabila du jamu Konte
-\smr Один из kabila в Конге.
+\smf (grande kabila du jamu Konte)
+\smr (Один из kabila в Конге.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1752,7 +1727,7 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 \va Kétà
 \va Kɛ́yità
 \gr Keita
-\di m
+\di (maninka)
 \di dia
 \di bob
 \eq Suma
@@ -1782,7 +1757,7 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 \gf NOM.CL
 
 \lx Kɛ̀mɛnaani
-\di b
+\di (bambara)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -1802,27 +1777,27 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 \gf NOM.CL
 
 \lx Kindibilba
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kirigun
 \di dK
-\smf grande kabila du jamu Konte
-\smr Один из kabila в Конге.
+\smf (grande kabila du jamu Konte)
+\smr (Один из kabila в Конге.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kobara
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kojo
-\di dog
+\di (dogon)
 \re Sanga
 \dt 06/May/2010
 \ps n.prop
@@ -1836,17 +1811,17 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 
 \lx Kòma
 \va Komma
-\di son
+\di (soninké)
 \ca wage
-\smf dans le Manden, connu comme "l'un des cinq premiers musulmans" 
-\smr У манден иногда называются в числе "пяти первых
+\smf (dans le Manden, connu comme "l'un des cinq premiers musulmans" )
+\smr (У манден иногда называются в числе "пяти первых)
 мусульман".
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kómàra
-\di m
+\di (maninka)
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
@@ -1860,7 +1835,7 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 \dt 14/Jul/2017
 
 \lx Konare
-\di b
+\di (bambara)
 \va Konarɛ
 \va Konantɛ (?)
 \eq
@@ -1876,20 +1851,19 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 \va Kɔnatɛ
 \eq Kéyità
 \eq Konare (?)
-\di m
-\di b
+\di (maninka, bambara)
 \di kag
 \tn wùlu
 \sm Màriko
-\smf du Bélédougou
-\smr в Беледугу
+\smf (du Bélédougou)
+\smr (в Беледугу)
 \dt 10/Sep/2017
 \ps n.prop
 \gf NOM.CL
 
 \lx Kònde
 \va Kɔ́ndɛ
-\di b
+\di (bambara)
 \ca hɔ́rɔn
 \ca tontigi
 \re Kurusa
@@ -1914,7 +1888,7 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 \gf NOM.CL
 
 \lx Korkosi
-\di son
+\di (soninké)
 \ca tagu
 \dt 06/May/2010
 \ps n.prop
@@ -1922,29 +1896,28 @@ Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
 
 \lx Korora
 \di dK
-\smf grande kabila du jamu Konta
-\smr Один из kábila Конга.
+\smf (grande kabila du jamu Konta)
+\smr (Один из kábila Конга.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kóyità
 \va Kóytà
-\di son
-\di b
+\di (soninké, bambara)
 \di tou
 \di kag
 \di diawambe (?)
-\di m
+\di (maninka)
 \di mny
 \ca jèli
-\smf de Ségou
-\smr в Сегу
+\smf (de Ségou)
+\smr (в Сегу)
 \ca hɔ́rɔn
-\smf du soninké
-\smf Beaucoup de Koyita sont des soninkés éleveurs de chevaux. Principalement du canton de Saroma (R. Yelimane), en particulier le village de Konge-Sanu
-\smr у сонинке
-\smr Многие Koyita-сонинке - коневоды. Главное место - Saroma
+\smf (du soninké)
+\smf (Beaucoup de Koyita sont des soninkés éleveurs de chevaux. Principalement du canton de Saroma (R. Yelimane), en particulier le village de Konge-Sanu)
+\smr (у сонинке)
+\smr (Многие Koyita-сонинке - коневоды. Главное место - Saroma)
 Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \dt 18/Jul/2017
 \ps n.prop
@@ -1956,13 +1929,12 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \va Konte
 \va Kone
 \va Kɔ́ntɛ
-\di m
-\di b
+\di (maninka, bambara)
 \eq Jàra
 \eq Ndyay
 \eq Tamura
 \ca jèli
-\smf du Maninka
+\smf (du Maninka)
 \cm у манинка
 \ca hɔ́rɔn
 \tn jàra
@@ -1987,13 +1959,13 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \sm soninke
 \sm dogon
 \cm бракозапретные
-\smr Восходят к сонинке.
+\smr (Восходят к сонинке.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kɔrɛ
-\di b
+\di (bambara)
 \ca jèli
 \re Segu
 \dt 06/May/2010
@@ -2001,7 +1973,7 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \gf NOM.CL
 
 \lx Kuɛyta
-\di son
+\di (soninké)
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
@@ -2009,23 +1981,22 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 
 \lx Kúlibàli
 \va Kúlubàli
-\di b
-\di m
+\di (bambara, maninka)
 \di mny
-\di ful
+\di (peul)
 \di kag
-\di son
+\di (soninké)
 \ca hɔ́rɔn
 \ca tontigi
 \cm у бамана, манинка, миньянка
 \ca numu
-\smf du Wassoulou
-\smr в Васулу
+\smf (du Wassoulou)
+\smr (в Васулу)
 \pr Díko
 \pr Masasi
 \tt npolyɔ
 \tt jàra, màli
-\smf dans la branche plus ancienne (Nyangolo)
+\smf (dans la branche plus ancienne (Nyangolo))
 \cm у старшей ветви (Nyangolo)
 \tt waraninkala; Dugukunna - bìnimini
 \cm у Kúlubàli-nùmu
@@ -2036,24 +2007,24 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \gf NOM.CL
 
 \lx Kuma
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kumare
 \va Kumarɛ
-\di b
+\di (bambara)
 \ca nùmu
 \ca kule
-\smf de Ségou
+\smf (de Ségou)
 \cm в Сегу
 \dt 10/Mar/2018
 \ps n.prop
 \gf NOM.CL
 
 \lx Kumate
-\di bobo
+\di (bobo)
 \eq Samake
 \dt 06/May/2010
 \ps n.prop
@@ -2068,14 +2039,14 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \gf NOM.CL
 
 \lx Kunbare
-\di son
+\di (soninké)
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Kundur
-\di ful
+\di (peul)
 \ca maabube
 \tn питон
 \dt 06/May/2010
@@ -2086,7 +2057,7 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \va Koroma
 \va Kuruba
 \sm mdk
-\di m
+\di (maninka)
 \di kuranko
 \eq Dunbiya
 \eq Sakuwɔgi
@@ -2100,11 +2071,11 @@ Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
 \gf NOM.CL
 
 \lx Kusa
-\smf Une des trois divisions de Soninké, qui comprend les jamu :
+\smf (Une des trois divisions de Soninké, qui comprend les jamu :)
 Jaruma, Tunkara, Dukure. Par tradition, ne devrait pas porter de
 vêtements teints indigo ni de pantoufles. Griots - Simaxa,
 Sagone.
-\smr Одно из трёх подразделений сонинке, включающее джаму:
+\smr (Одно из трёх подразделений сонинке, включающее джаму:)
 Jaruma, Tunkara, Dukure. По традиции, не должны носить
 одежду, крашенную индиго, и шлёпанцы. Гриоты - Simaxa,
 Sagone.
@@ -2122,13 +2093,13 @@ Sagone.
 \lx Kúyate
 \va Kúwate
 \va Kúyatɛ
-\di m
+\di (maninka)
 \di kuranko
 \di mb
-\di xas
+\di (khasonka)
 \ca jèli
-\smf rattaché aux Keïta
-\smr у Кейта
+\smf (rattaché aux Keïta)
+\smr (у Кейта)
 \ca garanke
 \tn sege
 \tn babi
@@ -2138,8 +2109,8 @@ Sagone.
 \sm Nakalu
 \fa jèli hɔ́rɔn
 \fa jàli tɛ́ Kúyate bɔ́!
-\smf "Accord amical" avec les Keyita (pas de sinankuya)
-\smr "Дружеское согласие"с Keyita (не senankuya)
+\smf ("Accord amical" avec les Keyita (pas de sinankuya))
+\smr ("Дружеское согласие"с Keyita (не senankuya))
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2165,12 +2136,12 @@ Sagone.
 
 \lx Lé
 \di tou
-\di ful
+\di (peul)
 \sm Sow
 \sm Kante
 \sm nùmu
-\smf pas de totem (tana)
-\smr Нет tana.
+\smf (pas de totem (tana))
+\smr (Нет tana.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2190,7 +2161,7 @@ Sagone.
 \dt 17/May/2017
 
 \lx Maale
-\di b
+\di (bambara)
 \re Segu
 \dt 06/May/2010
 \ps n.prop
@@ -2198,14 +2169,14 @@ Sagone.
 
 \lx Maane
 \di mdk
-\smr Имя родственной группы. В Кабу входили в рыцарское
+\smr (Имя родственной группы. В Кабу входили в рыцарское)
 сословие nyanco.
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Magaji
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2219,21 +2190,21 @@ Sagone.
 \ca hɔ́rɔn
 \ca tontigi
 \tn jala
-\smf peul
-\smr фулбье
-\smr бракозапретн.
+\smf (peul)
+\smr (фулбье)
+\smr (бракозапретн.)
 \sm Dugure
 \sm Jariso
 \sm Sumare
-\smr небракозаптретн.
+\smr (небракозаптретн.)
 \ps n.prop
 \gf NOM.CL
 \dt 01/Jun/2016
 
 \lx Màgasùba
-\di son
+\di (soninké)
 \di kag
-\di m
+\di (maninka)
 \ca hɔ́rɔn
 \ca tontigi
 \tn bànba
@@ -2243,15 +2214,15 @@ Sagone.
 \gf NOM.CL
 
 \lx Magiraga
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Màkalu
-\di son
+\di (soninké)
 \di kag
-\di m
+\di (maninka)
 \eq Koyita
 \ca jèli
 \ca garake
@@ -2260,13 +2231,13 @@ Sagone.
 \dt 01/Jun/2016
 
 \lx Makangile
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Makkaji
-\di son
+\di (soninké)
 \ca wage
 \dt 06/May/2010
 \ps n.prop
@@ -2278,8 +2249,8 @@ Sagone.
 \dt 01/Feb/2017
 
 \lx Mandakunu
-\smf nom honorifique des Tunkara chez les Soninké.
-\smr Почётное имя для Tunkara у сонинке.
+\smf (nom honorifique des Tunkara chez les Soninké.)
+\smr (Почётное имя для Tunkara у сонинке.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2287,11 +2258,10 @@ Sagone.
 \lx Mangala
 \di kag
 \va Màngara
-\di son
-\di xas
+\di (soninké, khasonka)
 \ca nùmu
-\smf peul
-\smr фульбе
+\smf (peul)
+\smr (фульбе)
 \cm бракозапретн.
 \sm Sàko
 \cm бракозапретн.
@@ -2300,7 +2270,7 @@ Sagone.
 \gf NOM.CL
 
 \lx Mànju
-\di m
+\di (maninka)
 \eq Ture
 \dt 06/May/2010
 \ps n.prop
@@ -2308,9 +2278,9 @@ Sagone.
 
 \lx Mansaren
 \fm Mansarena
-\smf Nom honorifique des Keyita chez les Maninka. Littéralement "enfant
+\smf (Nom honorifique des Keyita chez les Maninka. Littéralement "enfant)
 leader. "
-\smr Почётное имя для Keyita  у манинка. Буквально "ребёнок
+\smr (Почётное имя для Keyita  у манинка. Буквально "ребёнок)
 вождя".
 \dt 06/May/2010
 \ps n.prop
@@ -2324,8 +2294,7 @@ leader. "
 \gf NOM.CL
 
 \lx Màriko
-\di b
-\di son
+\di (bambara, soninké)
 \eq Tarawele
 \eq Jariso
 \ca hɔ́rɔn
@@ -2338,7 +2307,7 @@ leader. "
 \gf NOM.CL
 
 \lx Markus
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2365,9 +2334,9 @@ leader. "
 \gf NOM.CL
 
 \lx Mònekata
-\di m
+\di (maninka)
 \ca hɔ́rɔn
-\smr Произовшли от Tarawele, но сейчвс не равнозначны им.
+\smr (Произовшли от Tarawele, но сейчвс не равнозначны им.)
 Прародитель - младший сые в 7-м поколении потомков
 Тирамагана. Поссорился с братьями, когда вернулся с охоты
 и ему не оставили еды. Обиделся и ушёл за приключениями в
@@ -2385,28 +2354,28 @@ leader. "
 \gf NOM.CL
 
 \lx Nabo
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Nafo
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Nàmɔgɔ
 \di m-bage
-\di mK
+\di (maninka de Kita)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Náyitɛ
-\di m
-\smf rare
-\smr редк.
+\di (maninka)
+\smf (rare)
+\smr (редк.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2426,8 +2395,8 @@ leader. "
 
 \lx Ngalingo
 \di mdk
-\smf une des famlille du jamu Bula, descendants de Fakoli.
-\smr Одно из джаму Bula, потомков Fakoli
+\smf (une des famlille du jamu Bula, descendants de Fakoli.)
+\smr (Одно из джаму Bula, потомков Fakoli)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2439,7 +2408,7 @@ leader. "
 \gf NOM.CL
 
 \lx Nimaga
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2475,28 +2444,28 @@ leader. "
 \gf NOM.CL
 
 \lx Nomogo
-\di m
+\di (maninka)
 \ca tontigi
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Numansana
-\di son
+\di (soninké)
 \re Kayi
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Ɲagaso
-\smf nom honorifique des Kankana (dialonke).
-\smr Почётное имя у джаму Kankana (dialonke).
+\smf (nom honorifique des Kankana (dialonke).)
+\smr (Почётное имя у джаму Kankana (dialonke).)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Ɲákàte
-\di son
+\di (soninké)
 \di kag
 \ca wage
 \re Kaarta
@@ -2507,16 +2476,16 @@ leader. "
 \gf NOM.CL
 
 \lx Ɲalibuli
-\di ful
-\smf rattaché à Dikko
-\smr Входят в Dikko.
+\di (peul)
+\smf (rattaché à Dikko)
+\smr (Входят в Dikko.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Ɲamakansi
-\smf kabila (grande famille) du jamu Keïta.
-\smr Один из kabili джаму Keyita.
+\smf (kabila (grande famille) du jamu Keïta.)
+\smr (Один из kabili джаму Keyita.)
 \ps n.prop
 \gf NOM.CL
 \dt 01/Jun/2016
@@ -2529,14 +2498,13 @@ leader. "
 \gf NOM.CL
 
 \lx Ɲanbali
-\di
 \eq Tarawele
 \eq Danbɛlɛ
 \ps n.prop
 \gf NOM.CL
 
 \lx Ɲanbele
-\di b
+\di (bambara)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2561,7 +2529,7 @@ leader. "
 \gf NOM.CL
 
 \lx Ɲaraxi
-\di son
+\di (soninké)
 \re Kaarta
 \dt 06/May/2010
 \ps n.prop
@@ -2578,9 +2546,9 @@ leader. "
 
 \lx Ɲɛ́ntaò
 \di som
-\smf Dogon
-\smr догоны
-\smr Дают своих женщин в жёны кузнецам, но в жёны кузнечих
+\smf (Dogon)
+\smr (догоны)
+\smr (Дают своих женщин в жёны кузнецам, но в жёны кузнечих)
 не берут. Не имеют tàna.
 \fa Juber Alwatar!
 \dt 06/May/2010
@@ -2601,14 +2569,14 @@ leader. "
 \gf NOM.CL
 
 \lx Pujugu
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Saane
 \di mdk
-\smr Имя у родственной группы мандинка; в Каабу входили в
+\smr (Имя у родственной группы мандинка; в Каабу входили в)
 состав ɲanco, "рыцарского сословия".
 \dt 06/May/2010
 \ps n.prop
@@ -2619,7 +2587,7 @@ leader. "
 \va Sanogo
 \va Sanɔgɔ
 \di dK
-\di son
+\di (soninké)
 \di snf
 \di sng
 \sm Jàra
@@ -2629,13 +2597,13 @@ leader. "
 \gf NOM.CL
 
 \lx Sagara
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sagone
-\di son
+\di (soninké)
 \ca jèli
 \dt 06/May/2010
 \ps n.prop
@@ -2653,9 +2621,7 @@ leader. "
 \va Sagɔ
 \va Saakɔ
 \va Saxo
-\di son
-\di m
-\di b
+\di (bambara, maninka, soninké)
 \ca hɔ́rɔn
 \ca tontigi
 \ca jèli
@@ -2679,7 +2645,7 @@ leader. "
 \gf NOM.CL
 
 \lx Salu
-\di son
+\di (soninké)
 \ca mòri
 \dt 06/May/2010
 \ps n.prop
@@ -2693,16 +2659,15 @@ leader. "
 
 \lx Samagana
 \di dK
-\smf grande famille des Konte
-\smr Один из kabila в Конге.
+\smf (grande famille des Konte)
+\smr (Один из kabila в Конге.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sámàkɛ
 \va Sámàke
-\di b
-\di m
+\di (bambara, maninka)
 \eq Tangara
 \eq Ture
 \eq Sogoba
@@ -2715,22 +2680,21 @@ leader. "
 \re Sikaso
 \re Buguni
 \fa Sàma sènkanba, sàma bólokanba
-\smf griots chez les songhaï.
-\smr Гриоты у сонгаев.
+\smf (griots chez les songhaï.)
+\smr (Гриоты у сонгаев.)
 \dt 28/Jun/2017
 \ps n.prop
 \gf NOM.CL
 
 \lx Samasa
-\di son
+\di (soninké)
 \ca wage
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Samaseku
-\di dog
-\di m
+\di (dogon, maninka)
 \ca nùmu
 \dt 06/May/2010
 \ps n.prop
@@ -2744,10 +2708,10 @@ leader. "
 \gf NOM.CL
 
 \lx Samura
-\di son
+\di (soninké)
 \re Bumbu
-\smf à l'origine, peuls du Fouta-Jalon.
-\smr По происхождение - фульбе с Фута-Джалона.
+\smf (à l'origine, peuls du Fouta-Jalon.)
+\smr (По происхождение - фульбе с Фута-Джалона.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2759,7 +2723,7 @@ leader. "
 \gf NOM.CL
 
 \lx Sanbaxe
-\di son
+\di (soninké)
 \ca tagu
 \dt 06/May/2010
 \ps n.prop
@@ -2767,22 +2731,20 @@ leader. "
 
 \lx Sàngare
 \va Sankare
-\di ful
-\di was
-\di m
+\di (maninka, peul, wassolon)
 \eq Bari
 \eq Si
 \eq Ba
 \sm Sidibɛ
 \sm nùmu
-\smf surnom ludique: Kàngare
-\smr Шутливое прозвище: Kàngare.
+\smf (surnom ludique: Kàngare)
+\smr (Шутливое прозвище: Kàngare.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sangone
-\di ful
+\di (peul)
 \ca maabube
 \tn питон
 \dt 06/May/2010
@@ -2791,11 +2753,9 @@ leader. "
 
 \lx Sanogo
 \va Sánɔ̀ɔ
-\di m
-\di b
+\di (bambara, maninka, soninké)
 \di snf
 \di mny
-\di son
 \di kuranko
 \sm Jàra
 \tn miniɲa
@@ -2804,14 +2764,14 @@ leader. "
 \gf NOM.CL
 
 \lx Sanpi
-\di son
+\di (soninké)
 \ca geseru
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Santara
-\di b
+\di (bambara)
 \di bob
 \dt 06/May/2010
 \ps n.prop
@@ -2825,14 +2785,14 @@ leader. "
 \gf NOM.CL
 
 \lx Saɲɔ
-\di m
+\di (maninka)
 \di kny
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sar
-\di ful
+\di (peul)
 \di tou
 \di b (?)
 \di snf (?)
@@ -2843,7 +2803,7 @@ leader. "
 \gf NOM.CL
 
 \lx Sare
-\di ful
+\di (peul)
 \ca maabube
 \tn питон
 \dt 06/May/2010
@@ -2851,7 +2811,7 @@ leader. "
 \gf NOM.CL
 
 \lx Sarisi
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -2870,20 +2830,19 @@ leader. "
 \gf NOM.CL
 
 \lx Sekem
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Serefu
-\di m
-\smr Джаму?
+\di (maninka)
+\smr (Джаму?)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Seynu
-\di
 \ps n.prop
 \gf NOM.CL
 \gvf
@@ -2907,15 +2866,14 @@ leader. "
 
 \lx Sibi
 \di mau
-\di son
+\di (soninké)
 \ca hɔ́rɔn
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sídìbe
-\di ful
-\di was
+\di (peul, wassolon)
 \eq So
 \eq Sow
 \sm Jakitɛ
@@ -2929,19 +2887,17 @@ leader. "
 
 \lx Sídimɛ̀
 \va Sìdimɛ
-\di m
+\di (maninka)
 \re Kankan
-\smf sculpteur de statues de bois
-\smr Режут статуи из дерева.
+\smf (sculpteur de statues de bois)
+\smr (Режут статуи из дерева.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sìla
 \va Silla
-\di son
-\di m
-\di sou
+\di (maninka, soninké, soussou)
 \ca hɔ́rɔn
 \ca wage
 \ca mori
@@ -2958,17 +2914,17 @@ leader. "
 \lx Simaga
 \va Simaxa
 \va Simakan
-\di son
+\di (soninké)
 \ca kusantage
 \ca garanke
-\smf On dit que les cordonniers Simaga peuvent se réincarner en hyènes.
-\smr Считается, что Simaga-garanke могут перевоплощаться в гиен.
+\smf (On dit que les cordonniers Simaga peuvent se réincarner en hyènes.)
+\smr (Считается, что Simaga-garanke могут перевоплощаться в гиен.)
 \ps n.prop
 \gf NOM.CL
 \dt 01/Jun/2016
 
 \lx Simalo
-\di m
+\di (maninka)
 \re Kangaba
 \tt tutu
 \sm Sumaworo
@@ -2989,16 +2945,16 @@ leader. "
 \va Senayong
 \sm mdk
 \eq Sinaba
-\di was
+\di (wassolon)
 \ca nùmu
-\smf Relatif aux Bula, descendants de Fakoli.
-\smr Относятся к bula, потомкам Fakoli.
+\smf (Relatif aux Bula, descendants de Fakoli.)
+\smr (Относятся к bula, потомкам Fakoli.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sineba
-\di m
+\di (maninka)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -3012,16 +2968,15 @@ leader. "
 \lx Singare
 \di sam
 \re Kulikoro
-\smf origine peul - Bangare
-\smr Восходят к фульбе-Bangare.
+\smf (origine peul - Bangare)
+\smr (Восходят к фульбе-Bangare.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sìsɛ
 \va Sise
-\di son
-\di m
+\di (maninka, soninké)
 \di sng
 \eq Woniwogi
 \eq Teworo
@@ -3031,8 +2986,8 @@ leader. "
 \ca hɔ́rɔn
 \ca wage
 \sm Keyita
-\smf connus dans le Manden comme l'un des «cinq premiers Musulmans "
-\smr Возводят к сыну Diŋa. У маден - один из "первых пяти
+\smf (connus dans le Manden comme l'un des «cinq premiers Musulmans ")
+\smr (Возводят к сыну Diŋa. У маден - один из "первых пяти)
 мусульман".
 \tn lɛ̀
 \tn wɔ̀lɔ
@@ -3042,8 +2997,7 @@ leader. "
 
 \lx Sisɔkɔ
 \va Sisoko
-\di m
-\di b
+\di (bambara, maninka)
 \di kag
 \ca jèli
 \ca nùmu
@@ -3098,7 +3052,7 @@ leader. "
 \gf NOM.CL
 
 \lx Sogoxe
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -3111,8 +3065,8 @@ leader. "
 
 \lx Somaso
 \di dK
-\smf grande famille du jamu Konte
-\smr Один из kabila в Конге.
+\smf (grande famille du jamu Konte)
+\smr (Один из kabila в Конге.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -3120,11 +3074,11 @@ leader. "
 \lx Somono
 \va Sumano
 \va Sumono
-\di mK
+\di (maninka de Kita)
 \ca jèli
 \tn tutu mankaran
-\smf Ancêtre - Kani Sinbon, petit-fils de Bilali
-\smr Предок - Kani Sinbon, внук Bilali.
+\smf (Ancêtre - Kani Sinbon, petit-fils de Bilali)
+\smr (Предок - Kani Sinbon, внук Bilali.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -3138,9 +3092,9 @@ leader. "
 \lx Soxuna
 \va Suxuna
 \va Suguna
-\di son
+\di (soninké)
 \ca mòri
-\smr Возводят к сыну Diŋa.
+\smr (Возводят к сыну Diŋa.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -3148,10 +3102,10 @@ leader. "
 \lx Suko
 \va Sogo
 \va Súkɔ
-\di b
-\smf s'applique aux femmes - un synonyme de Keyita; Suko
+\di (bambara)
+\smf (s'applique aux femmes - un synonyme de Keyita; Suko)
 Suko Sinbon (b) est l'un des éloges de Sundjata
-\smr При обращении к женщинам - синонима джаму Keyita; Suko
+\smr (При обращении к женщинам - синонима джаму Keyita; Suko)
 Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \dt 06/May/2010
 \ps n.prop
@@ -3164,9 +3118,9 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 
 \lx Sumaoro
 \va Sumaworo
-\di b
+\di (bambara)
 \va Sumanguru
-\di m
+\di (maninka)
 \eq Soropɔgi
 \eq Haba
 \ca nùmu
@@ -3179,7 +3133,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 
 \lx Sumare
 \va Sumarɛ
-\di son
+\di (soninké)
 \ca hɔ́rɔn
 \ca tontigi
 \dt 05/Feb/2016
@@ -3194,7 +3148,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \dt 16/May/2017
 
 \lx Sunbunu
-\di son
+\di (soninké)
 \ca garanke
 \sm Tagedimmanu - гриоты гриотов, кузнецов, кожевенников.
 \dt 06/May/2010
@@ -3202,30 +3156,28 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \gf NOM.CL
 
 \lx Suntura
-\di ful
-\di was
+\di (peul, wassolon)
 \eq Jalo
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Susogo
-\di xas
+\di (khasonka)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sùwanun
-\di m
-\smf pour louer le nom de Berete, jamu spécial, rare.
-\smr Хвалебное имя Berete. Редко - как особое джаму.
+\di (maninka)
+\smf (pour louer le nom de Berete, jamu spécial, rare.)
+\smr (Хвалебное имя Berete. Редко - как особое джаму.)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Sùware
-\di m
-\di son
+\di (maninka, soninké)
 \di kuranko
 \di dia
 \dt 06/May/2010
@@ -3249,9 +3201,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \va Tammbura
 \va Támura
 \eq Kɔndɛ
-\di m
-\di son
-\di ful
+\di (maninka, peul, soninké)
 \cm в Масина, Мопти
 \ca mor̀i
 \ca рабы фульбе
@@ -3262,7 +3212,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \lx Tangara
 \va Tankara
 \di b-jonka
-\di m
+\di (maninka)
 \sm Kulibali
 \sm fula
 \re Segu
@@ -3274,7 +3224,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \gf NOM.CL
 
 \lx Tanja
-\di son
+\di (soninké)
 \ca hɔ́rɔn
 \ca wage
 \dt 06/May/2010
@@ -3282,7 +3232,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \gf NOM.CL
 
 \lx Tapili
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -3298,8 +3248,7 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \va Traore
 \va Taraore
 \fm Dansira
-\di b
-\di m
+\di (bambara, maninka)
 \ca hɔ́rɔn
 \ca tontigi
 \cm у бамана, манинка
@@ -3329,21 +3278,21 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 
 \lx Tel
 \va Teli
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Tembelu
 \va Tembeli
-\di dog
+\di (dogon)
 \re Bandiagara
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Tembine
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -3358,15 +3307,15 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \gf NOM.CL
 
 \lx Tigana
-\di m
-\smf Bijoutiers, joaillers ?
-\smr Ювелиры?
+\di (maninka)
+\smf (Bijoutiers, joaillers ?)
+\smr (Ювелиры?)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Tirera
-\di son
+\di (soninké)
 \di kag
 \re Kaarta
 \ca jèli
@@ -3375,20 +3324,20 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \gf NOM.CL
 
 \lx Tisugem
-\di dog
+\di (dogon)
 \tn bàma
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Togo
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Tògola
-\di b
+\di (bambara)
 \di mny
 \di snf
 \eq Jàra
@@ -3405,32 +3354,31 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \lx Treta
 \va Tereta
 \di boz
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Tùnkara
 \va Tùngara
-\di son
+\di (soninké)
 \di kag
-\di m
+\di (maninka)
 \di boz
 \ca hɔ́rɔn
 \ca tontigi
 \ca wage
 \ca mòri
 \ca jèli
-\smf Kagoro, griot des Fofana.
-\smr У кагоро - jèli при Fofana.
+\smf (Kagoro, griot des Fofana.)
+\smr (У кагоро - jèli при Fofana.)
 \dt 12/May/2016
 \ps n.prop
 \gf NOM.CL
 
 \lx Tùre
-\di m
-\di b
-\di son
+\di (maninka, bambara)
+\di (soninké)
 \di sng
 \di kag
 \di dia
@@ -3448,14 +3396,14 @@ Suko Sinbon (b) - одно из восхвалений Сундьяты.
 \gf NOM.CL
 
 \lx Wago
-\di son
-\smf Une des trois grandes divisions des Soninké, la maison ancestrale
+\di (soninké)
+\smf (Une des trois grandes divisions des Soninké, la maison ancestrale)
 est considérée comme étant Ouagadou. Inclut les jamus : : Sise, Jaabi,
 Drame, Jaguraga, Gandeega, Soxuna, Jabira, Xomme, Samasa,
 Silla, Tanja, Gasama, Jariso, Berete, Bacili, Wakannesaxo,
 Janisemega, Yatabere, Makkaji, Tunkara, Fisuru, Ɲakate, Fofana,
 Baygille, Drame, Yaresi, Markus.
-\smr Одно из трёх больших подразделений сонинке, прародиной
+\smr (Одно из трёх больших подразделений сонинке, прародиной)
 которого считается Уагаду. Включает джаму: Sise, Jaabi,
 Drame, Jaguraga, Gandeega, Soxuna, Jabira, Xomme, Samasa,
 Silla, Tanja, Gasama, Jariso, Berete, Bacili, Wakannesaxo,
@@ -3466,7 +3414,7 @@ Baygille, Drame, Yaresi, Markus.
 \gf NOM.CL
 
 \lx Wakannesaxo
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -3507,14 +3455,14 @@ Baygille, Drame, Yaresi, Markus.
 \gf NOM.CL
 
 \lx Woge
-\di son
+\di (soninké)
 \eq Wage (?)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
 
 \lx Wologem
-\di dog
+\di (dogon)
 \re Bandiagara
 \dt 06/May/2010
 \ps n.prop
@@ -3527,7 +3475,7 @@ Baygille, Drame, Yaresi, Markus.
 \gf NOM.CL
 
 \lx Wùlalɛ
-\di m
+\di (maninka)
 \ca jèli (?)
 \eq Wùlare (?)
 \dt 06/May/2010
@@ -3535,7 +3483,7 @@ Baygille, Drame, Yaresi, Markus.
 \gf NOM.CL
 
 \lx Wùlare
-\di m
+\di (maninka)
 \ca hɔ́rɔn
 \re Farana
 \re Sankaran
@@ -3545,7 +3493,7 @@ Baygille, Drame, Yaresi, Markus.
 \gf NOM.CL
 
 \lx Xomme
-\di son
+\di (soninké)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
@@ -3562,7 +3510,7 @@ Baygille, Drame, Yaresi, Markus.
 \gf NOM.CL
 
 \lx Yaresi
-\di son
+\di (soninké)
 \ca gesere
 \ca tagu
 \dt 06/May/2010
@@ -3571,7 +3519,7 @@ Baygille, Drame, Yaresi, Markus.
 
 \lx Yatabare
 \va Yatabere
-\di son
+\di (soninké)
 \ca wage
 \ca mòri
 \eq Jabira
@@ -3580,7 +3528,7 @@ Baygille, Drame, Yaresi, Markus.
 \gf NOM.CL
 
 \lx Yatara
-\di ful
+\di (peul)
 \di tua
 \dt 06/May/2010
 \ps n.prop
@@ -3601,7 +3549,7 @@ région de Ségou)
 \dt 01/May/2017
 
 \lx Yebese
-\di dog
+\di (dogon)
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
