@@ -1,4 +1,4 @@
-\_sh v3.0  1302 MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name togow
@@ -342,16 +342,16 @@
 \smf (nom féminin)
 \dt 03/May/2010
 
-\lx Àyá
-\ps n.prop
-\gf NOM.F
-\smf (nom féminin)
-\dt 14/Jul/2017
-
 \lx Áyá
 \ps n.prop
 \gf NOM.M
 \smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Àyá
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
 \dt 14/Jul/2017
 
 \lx Ayi
@@ -743,17 +743,17 @@ forme d'adresse à n'importe quel homme)
 \smf (nom féminin)
 \dt 03/May/2010
 
-\lx Bàya
-\ps n.prop
-\gf NOM.F
-\smf (nom féminin)
-\dt 14/Jul/2017
-
 \lx Báya
 \va Báyaya
 \ps n.prop
 \gf NOM.M
 \smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bàya
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
 \dt 14/Jul/2017
 
 \lx Bayan
@@ -2131,18 +2131,18 @@ forme francaise: Berehima
 \smf (nom féminin)
 \dt 03/May/2010
 
-\lx Kànjá
-\ps n.prop
-\gf NOM.F
-\smf (nom féminin)
-\dt 14/Jul/2017
-
 \lx Kánjà
 \di (maninka)
 \ps n.prop
 \gf NOM.M
 \smf (nom masculin)
 \dt 03/May/2010
+
+\lx Kànjá
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
 
 \lx Kànkú
 \va Kànkún
@@ -2745,18 +2745,18 @@ gvf Karamba
 \gf NOM
 \dt 03/May/2010
 
+\lx Mári
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
 \lx Màrí
 \ps n.prop
 \gf NOM.F
 \smf (nom féminin)
 \gvf Marie
 \smf (prénom chrétien)
-\dt 14/Jul/2017
-
-\lx Mári
-\ps n.prop
-\gf NOM.M
-\smf (nom masculin)
 \dt 14/Jul/2017
 
 \lx Marifu
@@ -4352,7 +4352,7 @@ gvf Karamba
 \lx Túba
 \ps n.prop
 \gf NOM.MF
-\smf (le sens: "grand forêt")
+\smf (le sens: "grande forêt")
 \dt 14/Jul/2017
 
 \lx Túmani

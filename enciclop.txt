@@ -14,6 +14,7 @@
 \ps n.prop
 \gf NOM.M
 \gvf Abraham
+\smf (principal patriarche des religions juive, chrétienne et musulmane)
 \dt 05/Apr/2016
 
 \lx ACALAN
@@ -30,15 +31,29 @@
 solidarité et la justice)
 \dt 09/Oct/2016
 
-\lx Air
-\ps n.prop
-\gf Air
-\smf (Air Afrique)
-\dt 07/Nov/2017
-
 \lx Afrique
 \ps n.prop
 \gf Afrique
+\smf (Air Afrique)
+\dt 07/Nov/2017
+
+\lx Agali
+\ps n.prop
+\gf NOM.ETRG
+\gvf Ghali
+\smf (Iyad Ag Ghali, le fondateur du groupe salafiste djihadiste Ansar Dine)
+\dt 04/Jun/2016
+
+\lx Agi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Ag
+\smf (Iyad Ag Ghali, le fondateur du groupe salafiste djihadiste Ansar Dine)
+\dt 04/Jun/2016
+
+\lx Air
+\ps n.prop
+\gf Air
 \smf (Air Afrique)
 \dt 07/Nov/2017
 
@@ -63,13 +78,6 @@ solidarité et la justice)
 Monde)
 \dt 21/Feb/2017
 
-\lx Delɔsi
-\ps n.prop
-\gf Deloche.de.Noyelle
-\smf (Alain Deloche de Noyelle, cofondateur de Médecins sans frontières puis de Médecins du
-Monde)
-\dt 21/Feb/2017
-
 \lx Alfaru
 \ps n.prop
 \gf Alphare
@@ -82,23 +90,10 @@ Monde)
 \smf (Al-Azhar mosquée et université d'Égypte)
 \dt 24/Oct/2016
 
-\lx Azari
-\ps n.prop
-\gf Azhar
-\smf (Al-Azhar mosquée et université d'Égypte)
-\dt 24/Oct/2016
-
 \lx Alijazayira
 \ps n.prop
 \gf Al.Jazeera
 \gvf al-Jazira
-\smf (al-Jazira chaine de télévision basée au Qatar)
-\dt 24/Oct/2016
-
-\lx Jazayira
-\ps n.prop
-\gf Jazeera
-\gvf Jazira
 \smf (al-Jazira chaine de télévision basée au Qatar)
 \dt 24/Oct/2016
 
@@ -108,21 +103,9 @@ Monde)
 \smf (Al-Qaïda une organisation terroriste djihadiste)
 \dt 04/Jun/2016
 
-\lx Kayida
-\ps n.prop
-\gf Qaïda
-\smf (Al-Qaïda une organisation terroriste djihadiste)
-\dt 04/Jun/2016
-
 \lx Alimorabitunu
 \ps n.prop
 \gf Al-Mourabitoune
-\smf (Al-Mourabitoune un groupe armé salafiste djihadiste)
-\dt 15/Sep/2016
-
-\lx Morabitunu
-\ps n.prop
-\gf Mourabitoune
 \smf (Al-Mourabitoune un groupe armé salafiste djihadiste)
 \dt 15/Sep/2016
 
@@ -243,12 +226,6 @@ Monde)
 \smf (AS Mandé, équipe de football à Kayes)
 \dt 03/May/2013
 
-\lx Mande
-\ps n.prop
-\gf Mandé
-\smf (AS Mandé, équipe de football à Kayes)
-\dt 03/May/2013
-
 \lx Asikiya
 \ps n
 \gf Askia
@@ -270,6 +247,12 @@ Monde)
 \smf (président du Mali, 2002-2012)
 \dt 09/Apr/2016
 
+\lx Azari
+\ps n.prop
+\gf Azhar
+\smf (Al-Azhar mosquée et université d'Égypte)
+\dt 24/Oct/2016
+
 \lx Babɛnba
 \ps n.prop
 \gf NOM.M
@@ -280,13 +263,6 @@ Monde)
 \lx Badenma
 \ps n.prop
 \gf Badema National
-\smf (Badema National groupe musical fondé en 1969 sous le nom La Maravillas
-del Mali, prend le nom de Badema National en 1976)
-\dt 01/Feb/2017
-
-\lx Nasiyonali
-\ps n.prop
-\gf National
 \smf (Badema National groupe musical fondé en 1969 sous le nom La Maravillas
 del Mali, prend le nom de Badema National en 1976)
 \dt 01/Feb/2017
@@ -313,13 +289,6 @@ eu lieu en 624)4
 \smf (Ban Ki-moon, secrétaire général des Nations Unies)
 \dt 31/May/2016
 
-\lx Muni
-\ps n.prop
-\gf NOM.ETRG
-\gvf Moon
-\smf (Ban Ki-moon, secrétaire général des Nations Unies)
-\dt 31/May/2016
-
 \lx Baraki
 \ps n.prop
 \gf NOM.ETRG
@@ -327,12 +296,12 @@ eu lieu en 624)4
 \smf (Barack Obama, président des États-Unis 2009-2017)
 \dt 12/Apr/2016
 
-\lx Obama
+\lx Baraza
 \ps n.prop
 \gf NOM.ETRG
-\gvf Obama
-\smf (Barack Obama, président des États-Unis 2009-2017)
-\dt 12/Apr/2016
+\gvf Brazza
+\smf (Savorgnan de Brazza, explorateur italien 1852-1905)
+\dt 17/May/2017
 
 \lx Barikani
 \ps n.prop
@@ -347,24 +316,38 @@ eu lieu en 624)4
 \smf (Bartolomeu Dias, explorateur portugais 1450-1500)
 \dt 17/May/2017
 
-\lx Jazi
-\ps n.prop
-\gf NOM.ETRG
-\gvf Dias
-\smf (Bartolomeu Dias, explorateur portugais 1450-1500)
-\dt 17/May/2017
-
 \lx Basitɛti
 \ps n
 \gf Bastet
 \smf (déesse du foyer et de maternité de l'Égypte antique)
 \dt 15/Sep/2016
 
+\lx Batuta
+\ps n.prop
+\gf NOM.ETRG
+\gvf Battûta
+\smf (Ibn Battûta, explorateur berbère, 1304-1377)
+\dt 17/May/2017
+
 \lx Benuwa
 \ps n.prop
 \gf NOM.ETRG
 \gvf Benoît
 \dt 07/Feb/2017
+
+\lx Besiri
+\ps n.prop
+\gf NOM.ETRG
+\gvf Bashir
+\smf (Omar al-Bashir, président du Soudan, 1989-)
+\dt 22/Jun/2017
+
+\lx Beti
+\ps n.prop
+\gf NOM.ETRG
+\gvf Beti
+\smf (Mongo Beti, pseudonyme d'Alexandre Biyidi Awala, un écrivain camerounais)
+\dt 11/Mar/2018
 
 \lx Bewoyade
 \ps n.prop
@@ -380,30 +363,23 @@ eu lieu en 624)4
 \smf (Benyamin Netanyahou, premier ministre d'Israël 2009-)
 \dt 06/Feb/2016
 
-\lx Nataɲawu
-\ps n.prop
-\gf NOM.ETRG
-\gvf Netanyahou
-\smf (Benyamin Netanyahou, premier ministre d'Israël 2009-)
-\dt 06/Feb/2016
-
 \lx Bɛnzɛri
 \ps n.prop
 \gf Louis.Gustave.Binger
 \smf (officier français, explorateur de l’Afrique de l'Ouest)
 \dt 21/Feb/2017
 
+\lx Bile
+\ps n.prop
+\gf Blé
+\smf (Charles Blé Goudé, leader des "jeunes patriots" en RCI à l'époque de Laurent
+Gbagbo)
+\dt 21/Feb/2017
+
 \lx Bilɛzi
 \ps n.prop
 \gf NOM.ETRG
 \gvf Blaise
-\smf (Blaise Compaoré, président du Burkina Faso, 1987-2014)
-\dt 15/Sep/2016
-
-\lx Kɔnpawore
-\ps n.prop
-\gf NOM.ETRG
-\gvf Compaoré
 \smf (Blaise Compaoré, président du Burkina Faso, 1987-2014)
 \dt 15/Sep/2016
 
@@ -417,6 +393,13 @@ eu lieu en 624)4
 \gf Biton
 \smf (équipe de football)
 \dt 15/May/2013
+
+\lx Biya
+\ps n.prop
+\gf NOM.ETRG
+\gvf Biya
+\smf (Paul Biya, président du Cameroun, 1982-)
+\dt 22/Feb/2017
 
 \lx BNDA
 \ps n.prop
@@ -450,6 +433,13 @@ eu lieu en 624)4
 \gf Houphouët-Boigny, Félix
 \smf (1e président de la Côte d'Ivoire)
 \dt 03/Apr/2016
+
+\lx Buwaɲi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Boigny
+\smf (Félix Houphouët-Boigny, premier président de Côte d'Ivoire, 1960-1993)
+\dt 07/Feb/2017
 
 \lx CAFO
 \ps n.prop
@@ -494,30 +484,44 @@ de la guerre du Mali)
 \gvf Compagnie Malienne de Textile
 \dt 03/Jun/2018
 
+\lx Daraki
+\ps n.prop
+\gf NOM.TRG
+\gvf Drake
+\smf (Francis Drake, corsaire et explorateur britannique du 16 siècle)
+\dt 11/Mar/2018
+
+\lx Dariwini
+\ps n.prop
+\gf NOM.ETRG
+\gvf Charles Darwin
+\smf (Charles Darwin, naturaliste et paléontologue anglais, explorateur, 1809-1882)
+\dt 17/May/2017
+
 \lx Dawidi
 \ps n.prop
 \gf NOM.ETRG
 \gvf David
 \dt 05/Mar/2017
 
+\lx Debi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Déby
+\smf (Idriss Déby Itno, Président du Tchad, 1991-)
+\dt 22/Feb/2017
+
+\lx Delɔsi
+\ps n.prop
+\gf Deloche.de.Noyelle
+\smf (Alain Deloche de Noyelle, cofondateur de Médecins sans frontières puis de Médecins du
+Monde)
+\dt 21/Feb/2017
+
 \lx Denisi
 \ps n.prop
 \gf NOM.ETRG
 \gvf Denis
-\smf (Denis Sassou-Nguesso, président de la République Populaire du Congo, 1977-92, 1997-)
-\dt 22/Feb/2017
-
-\lx Sasu
-\ps n.prop
-\gf NOM.ETRG
-\gvf Sassou
-\smf (Denis Sassou-Nguesso, président de la République Populaire du Congo, 1977-92, 1997-)
-\dt 22/Feb/2017
-
-\lx Ngesu
-\ps n.prop
-\gf NOM.ETRG
-\gvf Nguesso
 \smf (Denis Sassou-Nguesso, président de la République Populaire du Congo, 1977-92, 1997-)
 \dt 22/Feb/2017
 
@@ -528,12 +532,12 @@ de la guerre du Mali)
 \smf (Donald Trump, président des États-Unis, 2017-)
 \dt 06/Feb/2016
 
-\lx Turanpu
+\lx Dɔsi
 \ps n.prop
 \gf NOM.ETRG
-\gvf Trump
-\smf (Donald Trump, président des États-Unis, 2017-)
-\dt 06/Feb/2016
+\gvf dos
+\smf (José Eduardo dos Santos, président d'Angola, 1979-2017)
+\dt 22/Feb/2017
 
 \lx Dúnanfana
 \mm dúnan:n:étranger
@@ -549,6 +553,13 @@ de la guerre du Mali)
 \gvf Électricité.du.Mali
 \dt 08/Feb/2016
 
+\lx Eduwarado
+\ps n.prop
+\gf NOM.ETRG
+\gvf Eduardo
+\smf (José Eduardo dos Santos, président d'Angola, 1979-2017)
+\dt 22/Feb/2017
+
 \lx Eduwari
 \ps n.prop
 \gf NOM.ETRG
@@ -556,22 +567,9 @@ de la guerre du Mali)
 \smf (Edward Jenner, médecin anglais qui a inventé le vaccin contre la variole)
 \dt 17/May/2017
 
-\lx Zenɛri
-\ps n.prop
-\gf NOM.ETRG
-\gvf Jenner
-\smf (Edward Jenner, médecin anglais qui a inventé le vaccin contre la variole)
-\dt 17/May/2017
-
 \lx Elena
 \ps n.prop
 \gf Maria.Elena
-\smf (Maria Elena Cavallaro Cuomo, propriétrice de la Fondation Cuomo)
-\dt 21/Feb/2017
-
-\lx Kuyomo
-\ps n.prop
-\gf Cavallaro.Cuomo
 \smf (Maria Elena Cavallaro Cuomo, propriétrice de la Fondation Cuomo)
 \dt 21/Feb/2017
 
@@ -608,13 +606,6 @@ de la guerre du Mali)
 \smf (Omar al-Bashir, président du Soudan, 1989-)
 \dt 22/Jun/2017
 
-\lx Besiri
-\ps n.prop
-\gf NOM.ETRG
-\gvf Bashir
-\smf (Omar al-Bashir, président du Soudan, 1989-)
-\dt 22/Jun/2017
-
 \lx Ɛmɛnela
 \ps n.prop
 \gf ABR
@@ -642,13 +633,6 @@ de la guerre du Mali)
 \smf (Franklin Roosevelt, président des États-Unis, 1933-1945)
 \dt 17/May/2017
 
-\lx Orosiwɛliti
-\ps n.prop
-\gf NOM.ETRG
-\gvf Roosevelt
-\smf (Franklin Roosevelt, président des États-Unis, 1933-1945)
-\dt 17/May/2017
-
 \lx Faransisi
 \ps n.prop
 \gf NOM.TRG
@@ -656,24 +640,10 @@ de la guerre du Mali)
 \smf (Francis Drake, corsaire et explorateur britannique du 16 siècle)
 \dt 11/Mar/2018
 
-\lx Daraki
-\ps n.prop
-\gf NOM.TRG
-\gvf Drake
-\smf (Francis Drake, corsaire et explorateur britannique du 16 siècle)
-\dt 11/Mar/2018
-
 \lx Faransuwa
 \ps n.prop
 \gf NOM.ETRG
 \gvf François
-\smf (François Hollande, président de la France, 2012-2017)
-\dt 06/Feb/2016
-
-\lx Holandi
-\ps n.prop
-\gf NOM.ETRG
-\gvf Hollande
 \smf (François Hollande, président de la France, 2012-2017)
 \dt 06/Feb/2016
 
@@ -723,12 +693,6 @@ de la guerre du Mali)
 \smf (Ganda Izo, une milice songhaï et peule formée en 2012)
 \dt 22/Feb/2017
 
-\lx Izo
-\ps n.prop
-\gf Izo
-\smf (Ganda Izo, une milice songhaï et peule formée en 2012)
-\dt 22/Feb/2017
-
 \lx Gatiya
 \ps n.prop
 \gf ABR
@@ -759,6 +723,19 @@ de la guerre du Mali)
 \smf (Laurent Gbagbo, le président de Côte d'Ivoire en 2001-2011)
 \dt 07/Feb/2017
 
+\lx Gude
+\ps n.prop
+\gf Goudé
+\smf (Charles Blé Goudé, leader des "jeunes patriots" en RCI à l'époque de Laurent
+Gbagbo)
+\dt 21/Feb/2017
+
+\lx Habere
+\ps n.prop
+\gf Habré
+\smf (Hissène Habré, président du Tchad, 1982-1990)
+\dt 21/Feb/2017
+
 \lx Hanpate
 \ps n.prop
 \gf NOM.ETRG
@@ -785,11 +762,12 @@ de la guerre du Mali)
 \smf (Haïlé Selassié, empereur d'Éthiopie, 1930-1974)
 \dt 01/Jun/2016
 
-\lx Selase
+\lx Hi
 \ps n.prop
-\gf Selassié
-\smf (Haïlé Selassié, empereur d'Éthiopie, 1930-1974)
-\dt 01/Jun/2016
+\gf NOM.ETRG
+\gvf He
+\smf (Zheng He, explorateur chinois de 14-15 siècles)
+\dt 11/Mar/2018
 
 \lx Hilari
 \ps n.prop
@@ -798,22 +776,9 @@ de la guerre du Mali)
 \smf (Hillary Clinton, secrétaire d'État des États-Unis, 2009-2013)
 \dt 06/Feb/2016
 
-\lx Kilintɔni
-\ps n.prop
-\gf NOM.ETRG
-\gvf Clinton
-\smf (Bill Clinton, 42° président des États-Unis, 1993-2001 / Hillary Clinton, secrétaire d'État des États-Unis, 2009-2013)
-\dt 06/Feb/2016
-
 \lx Hisɛni
 \ps n.prop
 \gf Hissène
-\smf (Hissène Habré, président du Tchad, 1982-1990)
-\dt 21/Feb/2017
-
-\lx Habere
-\ps n.prop
-\gf Habré
 \smf (Hissène Habré, président du Tchad, 1982-1990)
 \dt 21/Feb/2017
 
@@ -824,6 +789,13 @@ de la guerre du Mali)
 \smf (Führer du Reich allemand, 1924-1945)
 \dt 16/Jun/2017
 
+\lx Holandi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Hollande
+\smf (François Hollande, président de la France, 2012-2017)
+\dt 06/Feb/2016
+
 \lx Hufuyɛti
 \va Hufuyeti
 \va Hufuwɛti
@@ -832,13 +804,6 @@ de la guerre du Mali)
 \ps n.prop
 \gf NOM.ETRG
 \gvf Houphouët
-\smf (Félix Houphouët-Boigny, premier président de Côte d'Ivoire, 1960-1993)
-\dt 07/Feb/2017
-
-\lx Buwaɲi
-\ps n.prop
-\gf NOM.ETRG
-\gvf Boigny
 \smf (Félix Houphouët-Boigny, premier président de Côte d'Ivoire, 1960-1993)
 \dt 07/Feb/2017
 
@@ -861,13 +826,6 @@ de la guerre du Mali)
 \smf (Ibn Battûta, explorateur berbère, 1304-1377)
 \dt 17/May/2017
 
-\lx Batuta
-\ps n.prop
-\gf NOM.ETRG
-\gvf Battûta
-\smf (Ibn Battûta, explorateur berbère, 1304-1377)
-\dt 17/May/2017
-
 \lx Iburahimawisi
 \ps n.prop
 \gf NOM.ETRG
@@ -879,20 +837,6 @@ de la guerre du Mali)
 \ps n.prop
 \gf NOM.ETRG
 \gvf Idriss
-\smf (Idriss Déby Itno, Président du Tchad, 1991-)
-\dt 22/Feb/2017
-
-\lx Debi
-\ps n.prop
-\gf NOM.ETRG
-\gvf Déby
-\smf (Idriss Déby Itno, Président du Tchad, 1991-)
-\dt 22/Feb/2017
-
-\lx Itino
-\ps n.prop
-\gf NOM.ETRG
-\gvf Itno
 \smf (Idriss Déby Itno, Président du Tchad, 1991-)
 \dt 22/Feb/2017
 
@@ -914,24 +858,17 @@ de la guerre du Mali)
 la culture
 \dt 27/Jan/2018
 
+\lx Itino
+\ps n.prop
+\gf NOM.ETRG
+\gvf Itno
+\smf (Idriss Déby Itno, Président du Tchad, 1991-)
+\dt 22/Feb/2017
+
 \lx Iyadi
 \ps n.prop
 \gf NOM.ETRG
 \gvf Iyad
-\smf (Iyad Ag Ghali, le fondateur du groupe salafiste djihadiste Ansar Dine)
-\dt 04/Jun/2016
-
-\lx Agi
-\ps n.prop
-\gf NOM.ETRG
-\gvf Ag
-\smf (Iyad Ag Ghali, le fondateur du groupe salafiste djihadiste Ansar Dine)
-\dt 04/Jun/2016
-
-\lx Agali
-\ps n.prop
-\gf NOM.ETRG
-\gvf Ghali
 \smf (Iyad Ag Ghali, le fondateur du groupe salafiste djihadiste Ansar Dine)
 \dt 04/Jun/2016
 
@@ -956,6 +893,12 @@ la culture
 \smf (déesse funéraire de l'Égypte antique)
 \dt 23/Oct/2016
 
+\lx Izo
+\ps n.prop
+\gf Izo
+\smf (Ganda Izo, une milice songhaï et peule formée en 2012)
+\dt 22/Feb/2017
+
 \lx Jakarata
 \ps n
 \gf Djakarta
@@ -970,6 +913,20 @@ la culture
 \ps n
 \gf sorgho.esp.
 \dt 09/Mar/2018
+
+\lx Jazayira
+\ps n.prop
+\gf Jazeera
+\gvf Jazira
+\smf (al-Jazira chaine de télévision basée au Qatar)
+\dt 24/Oct/2016
+
+\lx Jazi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Dias
+\smf (Bartolomeu Dias, explorateur portugais 1450-1500)
+\dt 17/May/2017
 
 \lx jermani
 \va jɛrimani
@@ -1013,8 +970,9 @@ la culture
 
 \lx Kabarali
 \ps n.prop
-\gf NOM
+\gf NOM.ETRG
 \gvf Cabral
+\smf (Luís de Almeida Cabral, 1er chef de l'État de la République de Guinée-Bissau, 1973-1980)
 \dt 06/Feb/2017
 
 \lx Kabila
@@ -1069,11 +1027,17 @@ la culture
 \smf (Fidel Castro, président de Cuba, 1976-2008  / Raul Castro 2008-)
 \dt 07/Feb/2017
 
-\lx Katiba
+\lx katiba
 \ps n
 \gf katiba
 \smf (groupe de combat des djihadistes)
 \dt 15/Sep/2016
+
+\lx Kayida
+\ps n.prop
+\gf Qaïda
+\smf (Al-Qaïda une organisation terroriste djihadiste)
+\dt 04/Jun/2016
 
 \lx keleya
 \ps n
@@ -1089,8 +1053,8 @@ la culture
 
 \lx Kɛnkandɔn
 \ps n.prop
-\gf Fernand.Quinquandon
-\smf (explorateur français)
+\gf Fernand.Quiquandon
+\smf (Fernand Quiquandon, explorateur et général français, 1957-1938)
 \dt 21/Feb/2017
 
 \lx Kìbaru
@@ -1098,6 +1062,13 @@ la culture
 \gf Kibaru
 \smf (journal en langue bambara)
 \dt 19/May/2017
+
+\lx Kilintɔni
+\ps n.prop
+\gf NOM.ETRG
+\gvf Clinton
+\smf (Bill Clinton, 42° président des États-Unis, 1993-2001 / Hillary Clinton, secrétaire d'État des États-Unis, 2009-2013)
+\dt 06/Feb/2016
 
 \lx Kilisitɛni
 \ps n.prop
@@ -1126,13 +1097,6 @@ la culture
 \smf (Christophe Colomb, explorateur pour le royaume d'Espagne, 1451-1506)
 \dt 09/Mar/2018
 
-\lx Kolonbu
-\ps n.prop
-\gf NOM.ETRG
-\gvf Colomb
-\smf (Christophe Colomb, explorateur pour le royaume d'Espagne, 1451-1506)
-\dt 09/Mar/2018
-
 \lx Kiyan
 \ps n.prop
 \gf NOM.ETRG
@@ -1140,12 +1104,12 @@ la culture
 \smf (Zhang Qian, explorateur chinois, IIème siècle avant J.C.)
 \dt 17/May/2017
 
-\lx Zangi
+\lx Kiyangi
 \ps n.prop
 \gf NOM.ETRG
-\gvf Zhang
-\smf (Zhang Qian, explorateur chinois, IIème siècle avant J.C.)
-\dt 17/May/2017
+\gvf Qian
+\smf (Zhang Qian, explorateur et doplomate chinois du 2 siècle av. J.-C.)
+\dt 11/Mar/2018
 
 \lx Kofi
 \ps n.prop
@@ -1162,18 +1126,25 @@ la culture
 \smf (Koli Tenguella ou Koli Pullo, chef de guerre des Peuls au XVI siècle)
 \dt 06/Feb/2016
 
-\lx Tengela
+\lx Kolonbu
 \ps n.prop
 \gf NOM.ETRG
-\gvf Tenguella
-\smf (Koli Tenguella ou Koli Pullo, chef de guerre des Peuls au XVI siècle)
-\dt 06/Feb/2016
+\gvf Colomb
+\smf (Christophe Colomb, explorateur pour le royaume d'Espagne, 1451-1506)
+\dt 09/Mar/2018
 
 \lx Komatɛkisi
 \ps n.prop
 \gf ABR
 \gvf COMATEX
 \gvf Compagnie Malienne du Textile
+\dt 15/Sep/2016
+
+\lx Kɔnpawore
+\ps n.prop
+\gf NOM.ETRG
+\gvf Compaoré
+\smf (Blaise Compaoré, président du Burkina Faso, 1987-2014)
 \dt 15/Sep/2016
 
 \lx Kɔ̀rɔbalen
@@ -1190,6 +1161,12 @@ la culture
 \gvf Cook
 \dt 17/May/2017
 
+\lx Kùlubàli
+\ps n.prop
+\gf Coulibaly
+\smf (Daniel Ouezzin Coulibaly, député de Côte d'Ivoire, puis vice-président 1958, stade portant son nom)
+\dt 01/Jun/2016
+
 \lx Kurunin
 \ps n
 \gf gombo.esp.
@@ -1202,12 +1179,11 @@ la culture
 \smf (Kwame Nkrumah, président de la République du Ghana, 1960-1966)
 \dt 01/Jun/2017
 
-\lx Nkuruma
+\lx Kuyomo
 \ps n.prop
-\gf NOM.ETRG
-\gvf Nkrumah
-\smf (Kwame Nkrumah, président de la République du Ghana, 1960-1966)
-\dt 01/Jun/2017
+\gf Cavallaro.Cuomo
+\smf (Maria Elena Cavallaro Cuomo, propriétrice de la Fondation Cuomo)
+\dt 21/Feb/2017
 
 \lx latɛn
 \ps n
@@ -1257,23 +1233,28 @@ la culture
 \smf (compagnie téléphonique)
 \dt 03/Jun/2018
 
+\lx Maliyɛn
+\ps n.prop
+\gf Malien
+\smf (Stade Malien, club de football)
+\dt 05/Feb/2016
+
 \lx Mamayira
 \ps n.prop
 \gf Mamayira
 \smf (équipe de football à Koulikoro)
 \dt 03/Jun/2018
 
+\lx Mande
+\ps n.prop
+\gf Mandé
+\smf (AS Mandé, équipe de football à Kayes)
+\dt 03/May/2013
+
 \lx Mariko
 \ps n.prop
 \gf NOM.ETRG
 \gvf Marco
-\smf (Marco Polo, explorateur italien, 1254-1324)
-\dt 17/May/2017
-
-\lx Polo
-\ps n.prop
-\gf NOM.ETRG
-\gvf Polo
 \smf (Marco Polo, explorateur italien, 1254-1324)
 \dt 17/May/2017
 
@@ -1309,15 +1290,8 @@ la stabilisation au Mali
 
 \lx Miti
 \ps n.prop
-\gf TOP
+\gf NOM.ETRG
 \gvf Mitt
-\smf (Mitt Romney, gouverneur du Massachusetts, 2003-2007)
-\dt 05/Feb/2016
-
-\lx Oromeneyi
-\ps n.prop
-\gf TOP
-\gvf Romney
 \smf (Mitt Romney, gouverneur du Massachusetts, 2003-2007)
 \dt 05/Feb/2016
 
@@ -1328,6 +1302,12 @@ la stabilisation au Mali
 \gvf Mouvement pour un destin commun
 \smf (un parti politique au Mali, depuis 2013)
 \dt 01/Feb/2017
+
+\lx Morabitunu
+\ps n.prop
+\gf Mourabitoune
+\smf (Al-Mourabitoune un groupe armé salafiste djihadiste)
+\dt 15/Sep/2016
 
 \lx Morasima
 \ps n.prop
@@ -1357,12 +1337,11 @@ la stabilisation au Mali
 \smf (Mongo Beti, pseudonyme d'Alexandre Biyidi Awala, un écrivain camerounais)
 \dt 11/Mar/2018
 
-\lx Beti
+\lx Mɔnjali
 \ps n.prop
-\gf NOM.ETRG
-\gvf Beti
-\smf (Mongo Beti, pseudonyme d'Alexandre Biyidi Awala, un écrivain camerounais)
-\dt 11/Mar/2018
+\gf Mondiale
+\smf (Vision Mondiale, organisation canadienne de développement)
+\dt 16/Jun/2017
 
 \lx Mújawo
 \va Múzawo
@@ -1371,6 +1350,13 @@ la stabilisation au Mali
 \gvf MUJAO
 \gvf Mouvement pour l'unicité et le jihad en Afrique de l'Ouest
 \dt 07/Apr/2017
+
+\lx Muni
+\ps n.prop
+\gf NOM.ETRG
+\gvf Moon
+\smf (Ban Ki-moon, secrétaire général des Nations Unies)
+\dt 31/May/2016
 
 \lx naba
 \ps n
@@ -1385,12 +1371,40 @@ la stabilisation au Mali
 \gf maïs.esp
 \dt 09/Mar/2018
 
+\lx Nasiyonali
+\ps n.prop
+\gf National
+\smf (Badema National groupe musical fondé en 1969 sous le nom La Maravillas
+del Mali, prend le nom de Badema National en 1976)
+\dt 01/Feb/2017
+
+\lx Nataɲawu
+\ps n.prop
+\gf NOM.ETRG
+\gvf Netanyahou
+\smf (Benyamin Netanyahou, premier ministre d'Israël 2009-)
+\dt 06/Feb/2016
+
 \lx Nekawo
 \ps n.prop
 \gf NOM.ETRG
 \gvf Nekao
 \smf (un pharaon, 610-595 BC)
 \dt 10/Mar/2018
+
+\lx Ngema
+\ps n.prop
+\gf NOM.ETRG
+\gvf Nguema
+\smf (Teodoro Obiang Nguema Mbasogo, président de la Guinée Équatoriale, 1979-)
+\dt 22/Feb/2017
+
+\lx Ngesu
+\ps n.prop
+\gf NOM.ETRG
+\gvf Nguesso
+\smf (Denis Sassou-Nguesso, président de la République Populaire du Congo, 1977-92, 1997-)
+\dt 22/Feb/2017
 
 \lx NINA
 \ps n.prop
@@ -1406,6 +1420,13 @@ la stabilisation au Mali
 \gvf Nina
 \dt 25/Feb/2017
 
+\lx Nkuruma
+\ps n.prop
+\gf NOM.ETRG
+\gvf Nkrumah
+\smf (Kwame Nkrumah, président de la République du Ghana, 1960-1966)
+\dt 01/Jun/2017
+
 \lx Ɲana
 \ps n.prop
 \gf Gnana
@@ -1418,10 +1439,24 @@ la stabilisation au Mali
 \smf (un village)
 \dt 04/Jun/2016
 
+\lx Obama
+\ps n.prop
+\gf NOM.ETRG
+\gvf Obama
+\smf (Barack Obama, président des États-Unis 2009-2017)
+\dt 12/Apr/2016
+
+\lx Obiyangi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Nguema
+\smf (Teodoro Obiang Nguema Mbasogo, président de la Guinée Équatoriale, 1979-)
+\dt 22/Feb/2017
+
 \lx Odewudi
 \ps n.prop
 \gf Audéoud.René
-\smf (officier, explorateur français)
+\smf (Marie Michel Alix René Audéoud, officier, explorateur français, gouverneur su Soudan français 1897)
 \dt 21/Feb/2017
 
 \lx ODIPAC
@@ -1454,7 +1489,7 @@ céréalière
 \lx omo
 \ps n
 \gf Omo
-\smf (nom commercial d'une poudre lessive)
+\smf (nom commercial d'une lessive en poudre)
 \dt 25/Sep/2016
 
 \lx Onisida
@@ -1477,13 +1512,28 @@ céréalière
 
 \lx orobisita
 \ps n
-\gf rubusta
+\gf robusta
 \smf (sorte de café)
 \dt 11/Mar/2018
+
+\lx Oromeneyi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Romney
+\smf (Mitt Romney, gouverneur du Massachusetts, 2003-2007)
+\dt 05/Feb/2016
+
+\lx Orosiwɛliti
+\ps n.prop
+\gf NOM.ETRG
+\gvf Roosevelt
+\smf (Franklin Roosevelt, président des États-Unis, 1933-1945)
+\dt 17/May/2017
 
 \lx Otoman
 \ps n.prop
 \gf Ottoman
+\smf (l’Empire ottoman, la plus durable puissance musulmane pendant 624 ans)
 \dt 17/May/2017
 
 \lx OUA
@@ -1516,7 +1566,7 @@ céréalière
 \va Ɔtuwale
 \ps n
 \gf Opération.Haute.Vallée.du.Niger
-\gvf Office de developpement de la Haute Vallee du Niger
+\gvf Office de developpement de la Haute Vallée du Niger
 \gvf OHVH
 \dt 16/Jun/2017
 
@@ -1568,16 +1618,31 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \smf (Paul Biya, président du Cameroun, 1982-)
 \dt 22/Feb/2017
 
-\lx Biya
+\lx Poli
+\ps n.prop
+\gf NOM.M
+\gvf Paul
+\smf (pape Jean-Paul II 1920 - 2005)
+\dt 07/Feb/2017
+
+\lx Polo
 \ps n.prop
 \gf NOM.ETRG
-\gvf Biya
-\smf (Paul Biya, président du Cameroun, 1982-)
-\dt 22/Feb/2017
+\gvf Polo
+\smf (Marco Polo, explorateur italien, 1254-1324)
+\dt 17/May/2017
+
+\lx Pɔnpidu
+\ps n.prop
+\gf NOM.ETRG
+\gvf Pompidou
+\smf (Georges Pompidou, président français en 1969-1974)
+\dt 21/Feb/2017
 
 \lx Pɔnze
 \ps n.prop
-\gf Point.G.hôpital
+\gf TOP
+\gvf Point.G.hôpital
 \smf (Hôpital à Bamako / point de Gräfenberg)
 \dt 31/May/2016
 
@@ -1598,6 +1663,7 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \va saabiina
 \ps n
 \gf Sabéen
+\smf (courant religieux judéo-chrétien mal connu, attesté de façon indirecte pour la première fois dans le Coran)
 \dt 06/Apr/2016
 
 \lx Sagamanjan
@@ -1644,6 +1710,13 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 \gf haricot.esp.
 \dt 09/Mar/2018
 
+\lx Santɔsi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Santos
+\smf (José Eduardo dos Santos, président d'Angola, 1979-2017)
+\dt 22/Feb/2017
+
 \lx Sarili
 \ps n.prop
 \gf NOM.ETRG
@@ -1652,34 +1725,21 @@ formée pendant la guerre du Mali le 14 juin 2014 à Alger)
 
 \lx Sarili
 \ps n.prop
-\gf Charles
-\dt 21/Feb/2017
-
-\lx Bile
-\ps n.prop
-\gf Blé
-\smf (Charles Blé Goudé, leader des "jeunes patriots" en RCI à l'époque de Laurent
-Gbagbo)
-\dt 21/Feb/2017
-
-\lx Gude
-\ps n.prop
-\gf Goudé
-\smf (Charles Blé Goudé, leader des "jeunes patriots" en RCI à l'époque de Laurent
-Gbagbo)
-\dt 21/Feb/2017
-
-\lx Dariwini
-\ps n.prop
 \gf NOM.ETRG
-\gvf Charles Darwin
-\smf (Charles Darwin, naturaliste et paléontologue anglais, explorateur, 1809-1882)
-\dt 17/May/2017
+\gvf Charles
+\dt 21/Feb/2017
 
 \lx Sasilɔn
 \ps n
 \gf gombo.esp.
 \dt 09/Mar/2018
+
+\lx Sasu
+\ps n.prop
+\gf NOM.ETRG
+\gvf Sassou
+\smf (Denis Sassou-Nguesso, président de la République Populaire du Congo, 1977-92, 1997-)
+\dt 22/Feb/2017
 
 \lx Saworigan
 \ps n.prop
@@ -1688,12 +1748,12 @@ Gbagbo)
 \smf (Savorgnan de Brazza, explorateur italien 1852-1905)
 \dt 17/May/2017
 
-\lx Baraza
+\lx Selase
 \ps n.prop
 \gf NOM.ETRG
-\gvf Brazza
-\smf (Savorgnan de Brazza, explorateur italien 1852-1905)
-\dt 17/May/2017
+\gvf Selassié
+\smf (Haïlé Selassié, empereur d'Éthiopie, 1930-1974)
+\dt 01/Jun/2016
 
 \lx Selɛsitɛn
 \ps n.prop
@@ -1726,6 +1786,7 @@ Gbagbo)
 \lx sɛliti
 \ps n
 \gf celte
+\smf (Les Celtes étaient un peuple indo-européen de l'âge du fer et de l'Europe médiévale)
 
 \lx Sɛmudete
 \va Sɛmɛdɛtɛ
@@ -1742,7 +1803,9 @@ Gbagbo)
 
 \lx Sɛngɔri
 \ps n.prop
-\gf Léopold Sédar Senghor
+\gf NOM.ETRG
+\gvf Léopold Sédar Senghor
+\smf (Léopold Sédar Senghor, poète, écrivain, président de la République du Sénégal, 1960-1980)
 \dt 14/Sep/2015
 
 \lx Sɛriwali
@@ -1766,12 +1829,6 @@ Gbagbo)
 \lx Sitadi
 \ps n.prop
 \gf Stade
-\smf (Stade Malien, club de football)
-\dt 05/Feb/2016
-
-\lx Maliyɛn
-\ps n.prop
-\gf Malien
 \smf (Stade Malien, club de football)
 \dt 05/Feb/2016
 
@@ -1806,6 +1863,7 @@ Gbagbo)
 \va Sonni
 \ps n
 \gf Sonni.roi.Songhaï
+\smf (Sonni (« le Sauveur ») Ali Ber (1464-1492), dit « Ali Le Grand » fut probablement le plus grand héros des légendes de l'Empire songhaï)
 
 \lx Sonin
 \ps n.prop
@@ -1818,6 +1876,7 @@ Gbagbo)
 \gf TOP
 \gvf Sowete
 \gvf South Western Township
+\smf (en Afrique du Sud)
 \dt 09/Apr/2016
 
 \lx Stade
@@ -1844,6 +1903,7 @@ Gbagbo)
 \ps n
 \gf Torah
 \gvf Thora
+\smf (l'enseignement divin transmis par Moïse au travers de ses cinq livres)
 \dt 21/Dec/2014
 
 \lx Tayilɔri
@@ -1856,27 +1916,20 @@ Gbagbo)
 \ps n.prop
 \gf TOP
 \gvf Tehuacán
-\smf (ancienne ville au Mexico)
+\smf (ancienne ville au Mexique)
 \dt 17/May/2017
+
+\lx Tengela
+\ps n.prop
+\gf NOM.ETRG
+\gvf Tenguella
+\smf (Koli Tenguella ou Koli Pullo, chef de guerre des Peuls au XVI siècle)
+\dt 06/Feb/2016
 
 \lx Tewodoro
 \ps n.prop
 \gf NOM.ETRG
 \gvf Teodoro
-\smf (Teodoro Obiang Nguema Mbasogo, président de la Guinée Équatoriale, 1979-)
-\dt 22/Feb/2017
-
-\lx Obiyangi
-\ps n.prop
-\gf NOM.ETRG
-\gvf Nguema
-\smf (Teodoro Obiang Nguema Mbasogo, président de la Guinée Équatoriale, 1979-)
-\dt 22/Feb/2017
-
-\lx Ngema
-\ps n.prop
-\gf NOM.ETRG
-\gvf Nguema
 \smf (Teodoro Obiang Nguema Mbasogo, président de la Guinée Équatoriale, 1979-)
 \dt 22/Feb/2017
 
@@ -1919,6 +1972,7 @@ Gbagbo)
 \lx Tukulɛri
 \ps n
 \gf Toucouleur
+\smf (population de Peuls métissés aussi appelés Haal Pular (qui parle le Pular))
 \dt 05/Feb/2017
 
 \lx Tupisan
@@ -1926,6 +1980,13 @@ Gbagbo)
 \gf le.Tout.Puissant.Mazembe
 \smf (club de football de RD Congo)
 \dt 05/Feb/2017
+
+\lx Turanpu
+\ps n.prop
+\gf NOM.ETRG
+\gvf Trump
+\smf (Donald Trump, président des États-Unis, 2017-)
+\dt 06/Feb/2016
 
 \lx UDPM
 \ps n
@@ -1939,15 +2000,16 @@ Gbagbo)
 \gvf Vasco de Gama
 \dt 17/May/2017
 
+\lx wɛnikati
+\ps n
+\gf 24
+\gvf JL24
+\smf (sorte d'arachide, type JL24)
+\dt 09/Mar/2018
+
 \lx Wɛnzɛn
 \ps n.prop
 \gf Ouezzin
-\smf (Daniel Ouezzin Coulibaly, député de Côte d'Ivoire, puis vice-président 1958, stade portant son nom)
-\dt 01/Jun/2016
-
-\lx Kùlubàli
-\ps n.prop
-\gf Coulibaly
 \smf (Daniel Ouezzin Coulibaly, député de Côte d'Ivoire, puis vice-président 1958, stade portant son nom)
 \dt 01/Jun/2016
 
@@ -1970,12 +2032,6 @@ Gbagbo)
 \smf (Vision Mondiale, organisation canadienne de développement)
 \dt 16/Jun/2017
 
-\lx Mɔnjali
-\ps n.prop
-\gf Mondiale
-\smf (Vision Mondiale, organisation canadienne de développement)
-\dt 16/Jun/2017
-
 \lx wurubulu
 \ps v
 \gf rouble
@@ -1983,9 +2039,10 @@ Gbagbo)
 
 \lx Yesu
 \ps n.prop
-\gf N.ETRG
+\gf NOM.ETRG
 \gvf Jésus Christ
-\dt 31/May/2017
+\smf (Jésus de Nazareth est un Juif de Galilée, né entre l'an 7 et l'an 5 av. J.-C.)
+\dt 04/Jun/2018
 
 \lx Yɛ̀rɛwolo
 \mm yɛ̀rɛ̂:dtm:même
@@ -2013,13 +2070,6 @@ Gbagbo)
 \smf (Zhang Qian, explorateur et doplomate chinois du 2 siècle av. J.-C.)
 \dt 11/Mar/2018
 
-\lx Kiyangi
-\ps n.prop
-\gf NOM.ETRG
-\gvf Qian
-\smf (Zhang Qian, explorateur et doplomate chinois du 2 siècle av. J.-C.)
-\dt 11/Mar/2018
-
 \lx Zan
 \ps n.prop
 \gf NOM.M
@@ -2027,12 +2077,19 @@ Gbagbo)
 \smf (pape Jean-Paul II 1920 - 2005)
 \dt 07/Feb/2017
 
-\lx Poli
+\lx Zangi
 \ps n.prop
-\gf NOM.M
-\gvf Paul
-\smf (pape Jean-Paul II 1920 - 2005)
-\dt 07/Feb/2017
+\gf NOM.ETRG
+\gvf Zhang
+\smf (Zhang Qian, explorateur chinois, IIème siècle avant J.C.)
+\dt 17/May/2017
+
+\lx Zangi
+\ps n.prop
+\gf NOM.ETRG
+\gvf Xuanzang
+\smf (Xuanzang, un moine bouddhiste chinois de 7 siècle qui a fait un voyage en Inde et en Arabie)
+\dt 11/Mar/2018
 
 \lx zayi
 \ps n
@@ -2055,6 +2112,13 @@ et de la mécanisation de la préparation des nouveaux champs)
 \gvf Zone d’animation et d’expansion rurale 
 \dt 11/Mar/2018
 
+\lx Zenɛri
+\ps n.prop
+\gf NOM.ETRG
+\gvf Jenner
+\smf (Edward Jenner, médecin anglais qui a inventé le vaccin contre la variole)
+\dt 17/May/2017
+
 \lx Zesi
 \ps n.prop
 \gf Zeus
@@ -2065,20 +2129,13 @@ et de la mécanisation de la préparation des nouveaux champs)
 \ps n.prop
 \gf ABR
 \gvf GIA
-\gvf Groupe ilamique armé
+\gvf Groupe islamique armé
 \dt 15/Sep/2016
 
 \lx Zɛngi
 \ps n.prop
 \gf NOM.ETRG
 \gvf Zheng
-\smf (Zheng He, explorateur chinois de 14-15 siècles)
-\dt 11/Mar/2018
-
-\lx Hi
-\ps n.prop
-\gf NOM.ETRG
-\gvf He
 \smf (Zheng He, explorateur chinois de 14-15 siècles)
 \dt 11/Mar/2018
 
@@ -2102,23 +2159,9 @@ et de la mécanisation de la préparation des nouveaux champs)
 \smf (Xuanzang, un moine bouddhiste chinois de 7 siècle qui a fait un voyage en Inde et en Arabie)
 \dt 11/Mar/2018
 
-\lx Zangi
-\ps n.prop
-\gf NOM.ETRG
-\gvf Xuanzang
-\smf (Xuanzang, un moine bouddhiste chinois de 7 siècle qui a fait un voyage en Inde et en Arabie)
-\dt 11/Mar/2018
-
 \lx Ziyɛli
 \ps n
 \gf arachide.JL24
-\smf (sorte d'arachide, type JL24)
-\dt 09/Mar/2018
-
-\lx wɛnikati
-\ps n
-\gf 24
-\gvf JL24
 \smf (sorte d'arachide, type JL24)
 \dt 09/Mar/2018
 
@@ -2129,35 +2172,8 @@ et de la mécanisation de la préparation des nouveaux champs)
 \smf (José Eduardo dos Santos, président d'Angola, 1979-2017)
 \dt 22/Feb/2017
 
-\lx Eduwarado
-\ps n.prop
-\gf NOM.ETRG
-\gvf Eduardo
-\smf (José Eduardo dos Santos, président d'Angola, 1979-2017)
-\dt 22/Feb/2017
-
-\lx Dɔsi
-\ps n.prop
-\gf NOM.ETRG
-\gvf dos
-\smf (José Eduardo dos Santos, président d'Angola, 1979-2017)
-\dt 22/Feb/2017
-
-\lx Santɔsi
-\ps n.prop
-\gf NOM.ETRG
-\gvf Santos
-\smf (José Eduardo dos Santos, président d'Angola, 1979-2017)
-\dt 22/Feb/2017
-
 \lx Zɔrɔzi
 \ps n.prop
 \gf NOM.ETRG
 \gvf Georges
 \dt 23/Feb/2017
-
-\lx Pɔnpidu
-\ps n.prop
-\gf Pompidou
-\smf (Georges Pompidou, président français en 1969-1974)
-\dt 21/Feb/2017
