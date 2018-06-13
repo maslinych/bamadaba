@@ -12632,6 +12632,7 @@ milieu des pierres
 \ms 1
 \gf terre
 \gvf terre
+\gvf banco
 \ms 2
 \gvf boue
 \ms 3
@@ -12640,7 +12641,7 @@ milieu des pierres
 \xf c'est un bon maçon
 \xv í ká kìsɛ tɛ́  bɔ̀gɔ dún
 \xf tu es un bon tireur
-\dt 19/Jun/2016
+\dt 13/Jun/2018
 
 \lx bɔ́gɔ
 \ps n
