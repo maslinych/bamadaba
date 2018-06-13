@@ -9590,13 +9590,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bísan
+\va búsan
 \ps v
 \vl vt
 \gf fouetter
 \gvf fouetter
 \gvf flageller
 \fq r
-\dt 26/Sep/2006
+\dt 12/Jun/2018
 
 \lx bíségin
 \mm bî:num:dizaine
@@ -12311,6 +12312,7 @@ milieu des pierres
 \dt 07/Sep/2016
 
 \lx bòsobasa
+\va bóosobaasa
 \va bósoboso
 \ps v
 \vl vt
@@ -12321,7 +12323,7 @@ milieu des pierres
 \ms 2
 \gvf mal disposer
 \smf (chaume)
-\dt 29/Nov/2017
+\dt 12/Jun/2018
 
 \lx bósobasa
 \ps n
@@ -37026,12 +37028,13 @@ la virginité (pièce de monnaie sans trou)
 \dt 16/Aug/2006
 
 \lx fìlifala
+\va fìilifàala
 \ps v
 \vl vi
 \gf se.balancer
 \gvf se balancer
 \smf (feuilles, jambe cassée ...)
-\dt 26/Sep/2006
+\dt 12/Jun/2018
 
 \lx fìlijɔ
 \mm fìli:v:jeter
@@ -40800,11 +40803,14 @@ forestières, fruit : long follicule de 50 cm)
 \lx fúlama
 \mm fú:n:zéro
 \mm lama:mrph:STAT
+\va fúulama
+\mm fúu:n:zéro
+\mm lama:mrph:STAT
 \ps adj
 \gf gratuit
 \gvf gratuit
 \smf (en grand nombre et sans valeur)
-\dt 26/Sep/2006
+\dt 12/Jun/2018
 
 \lx fúlamɔgɔ
 \mm fúla:n:peul
@@ -42668,6 +42674,8 @@ forestières, fruit : long follicule de 50 cm)
 \dt 16/Aug/2006
 
 \lx gála
+\va gwɛ́lɛ
+\src Kalidu Kulibali
 \va gàla
 \ve (f)
 \ps n
@@ -42678,7 +42686,7 @@ forestières, fruit : long follicule de 50 cm)
 \ms 2
 \gvf sente de gibier
 \smf (lieu fréquenté par le gibier : sente, point d'eau ...)
-\dt 11/Jun/2018
+\dt 12/Jun/2018
 
 \lx gàlabagalaba
 \va gwàlabagalaba
@@ -51557,12 +51565,14 @@ l'eau
 
 \lx jífa
 \va júfa
+\va júfɛ
+\di (Dugukunna)
 \bw ar: gifa = cadavre
 \ps n
 \gf cadavre.d’animal
 \gvf cadavre d’animal
 \smf (non égorgé selon les rites)
-\dt 19/Aug/2006
+\dt 13/Jun/2018
 
 \lx jífa
 \va júfa
@@ -54567,6 +54577,15 @@ fusil)
 \gf poche
 \gvf poche
 \dt 16/Aug/2006
+
+\lx jùfɛ̀
+\mm jù:n:derrière
+\mm fɛ̀:pp:par
+\ps pp
+\gf sous
+\gvf sous
+\gvf au-dessous de
+\dt 13/Jun/2018
 
 \lx jùga
 \ps n
@@ -66438,11 +66457,10 @@ champs)
 \mm fìn:vq/adj:noir
 \ps n
 \gf arbuste.Vitex.chrysocarpa
-\gvf arbuste Vitex chrysocarpa
-\gvf 'koro des berges'
-\sd verb
+\lat Vitex chrysocarpa
+\gvf koro des berges
 \smf (aime l'eau)
-\dt 26/Sep/2006
+\dt 13/Jun/2018
 
 \lx kòronin-súmago
 \mm kòro:n:arbre.Vitex
@@ -140391,13 +140409,21 @@ comportement (LD p.5)
 \dt 28/Feb/2017
 
 \lx yɛ́rɛkɛ
+\va yɛ̀rɛkɛ̀
+\src Solomana Mariko
 \ps v
+\ms 1
 \vl vt
 \gf étendre
 \gvf étendre
 \gvf déployer
+\ms 2.1
+\vl vt
 \gvf éparpiller
-\dt 26/Sep/2006
+\ms 2.2
+\vl vi
+\gvf s'éparpiller
+\dt 12/Jun/2018
 
 \lx yɛ̀rɛko
 \mm yɛ̀rɛ̂:dtm:même
