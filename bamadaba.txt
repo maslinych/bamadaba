@@ -6762,6 +6762,13 @@ rhume, toux)
 \gvf betterave
 \dt 10/Mar/2018
 
+\lx béyiti
+\bw Ar. bayt
+\ps n
+\gf verset.religieux
+\gvf verset religieux
+\dt 26/Jun/2018
+
 \lx bɛ
 \va be
 \va bi
@@ -7678,12 +7685,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 21/Feb/2014
 
 \lx bɛ́rɛbɛrɛ
+\va bɛ́rɛbɛ̀rɛ
+\src Kalidu Kulibali, Solomana Mariko
 \ps adj
 \gf véritable
 \gvf véritable
 \gvf pur
 \gvf suffisant
-\dt 21/Feb/2014
+\dt 13/Jun/2018
 
 \lx bɛ̀rɛma
 \mm bɛ̀rɛ:n:mesure
@@ -11179,13 +11188,16 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/May/2017
 
 \lx bólolakaran
+\mm bólola:n:action.de.main
+\mm bólo:n:bras
+\mm lá:pp:à
 \ps n
 \gf jeux.de.mains
 \gvf jeux de mains
 \gvf bagarre pour plaisanter
 \gvf chahut
 \gvf taquinerie
-\dt 22/Dec/2014
+\dt 27/Jun/2018
 
 \lx bólolaminɛn
 \mm bólo:n:bras
@@ -14793,6 +14805,18 @@ centrale est de couleur sombre
 \xf ils bavardent longuement
 \dt 19/Jan/2015
 
+\lx bùruburuba
+\ps n
+\gf grosse.grenouille
+\gvf grosse grenouille
+\src KT
+\gvf petite grenouille qui apparaît à
+l'hivernage 
+\src AN
+\gvf gros crapaud
+\src DU
+\dt 26/Jun/2018
+
 \lx bùrudamɛ
 \va bùrudaamɛ
 \ps n
@@ -16716,6 +16740,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ̀n
 \va cɛ̀ncɛn
+\va cìɲɛ
 \va kɛ̀ɲɛ
 \ve (Kita)
 \ps n
@@ -16723,7 +16748,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \gvf sable
 \xv cɛ̀n dá
 \xf pratiquer la géomancie
-\dt 16/Aug/2006
+\dt 26/Jun/2018
 
 \lx cɛ́n
 \ps n
@@ -16731,6 +16756,19 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \gvf allure
 \xv à cɛ́n ká gòni
 \xf il est très agité, rapide dans son travail
+
+\lx cɛ́naga
+\mm cɛ́:n:milieu
+\mm nàga:n:ventre
+\va cɛ́naa
+\mm cɛ́:n:milieu
+\mm nàa:n:ventre
+\ps n
+\gf taille
+\gvf taille
+\gvf buste
+\gvf tronc
+\dt 26/Jun/2018
 
 \lx cɛ̀nda
 \mm cɛ̀n:n:sable
@@ -23474,7 +23512,7 @@ génitales ...)
 \smf (d'une narration, d'une rédaction ...)
 \xv dàntigɛli kɔ́nɔ, í bɛ́na kó mín lákali, í b'ó péreperelatigɛ
 \xf dans une introduction, tu précises ce que tu vas raconter ... (kb 2/06 p.8)
-\dt 08/Oct/2017
+\dt 23/Jun/2018
 
 \lx dàntɔ
 \mm dàn:n:limite
@@ -27469,15 +27507,6 @@ chefs religieux et représentants de l'administration
 \gvf dollar
 \dt 05/Feb/2017
 
-\lx dólen
-\va ndólen
-\va dóolen
-\ps n
-\gf hameçon
-\gvf hameçon
-\gvf ligne
-\dt 17/Nov/2017
-
 \lx dólendala
 \mm dólen:n:hameçon
 \mm dá:v:poser
@@ -27980,7 +28009,23 @@ chefs religieux et représentants de l'administration
 \gvf celui qui fait va-et-vient
 \dt 15/Aug/2017
 
-\lx dónkibarobɔla
+\lx dónkibaru
+\mm dón:n:jour
+\mm kìbaru:n:nouvelle
+\ps n
+\gf avenir
+\gvf avenir
+\smf (dans le contexte de la prédiction)
+\dt 26/Jun/2018
+
+\lx dónkibarubɔla
+\mm dón.kibaru:n:avenir
+\mm dón:n:jour
+\mm kìbaru:n:nouvelle
+\mm bɔ́:v:sortir
+\mm la:mrph:AG.PRM
+\va dónkibarobɔla
+\mm dón.kibaru:n:avenir
 \mm dón:n:jour
 \mm kìbaro:n:nouvelle
 \mm bɔ́:v:sortir
@@ -27988,10 +28033,13 @@ chefs religieux et représentants de l'administration
 \ps n
 \ms 1
 \gf devin
-\gvf devin
+\gvf devin 
+\smf (qui prédit l'avenir)
+\gvf voyant
 \ms 2
+\gvf journal
 \gvf quotidien
-\dt 26/Sep/2006
+\dt 26/Jun/2018
 
 \lx dónkò
 \mm dón:n:jour
@@ -28267,6 +28315,16 @@ chefs religieux et représentants de l'administration
 \sy dónnatɛmɛ
 \rem l 89, bn, bk
 \dt 11/Nov/2007
+
+\lx dóolen
+\va ndóolen
+\va dólen
+\va ndólen
+\ps n
+\gf hameçon
+\gvf hameçon
+\gvf ligne
+\dt 14/Jun/2018
 
 \lx dóoli
 \ps n
@@ -35427,6 +35485,14 @@ bien (dicton)
 \gvf flotter au vent
 \dt 10/Jun/2018
 
+\lx félefele
+\va féefee
+\ps n
+\gf filet.de.pêche
+\gvf filet de pêche de surface
+\smf (pour les poissons nsàra et fɔ̀ɔnɔ)
+\dt 26/Jun/2018
+
 \lx félewu
 \ps adv
 \gf à.toute.allure
@@ -40906,11 +40972,13 @@ forestières, fruit : long follicule de 50 cm)
 
 \lx fùnɛ
 \src Solomana Mariko
+\va fùlɔ
+\src Amadu Mariko
 \ps n
 \gf singe.rouge
 \gf singe rouge
 \gvf
-\dt 11/Jun/2018
+\dt 26/Jun/2018
 
 \lx fúnfun
 \ps v
@@ -51278,14 +51346,15 @@ calebasses)
 \dt 06/Nov/2014
 
 \lx jɛ̀rɛ
-\ve (bmk)
+\di (bmk)
+\va jɛ̀ɛrɛ
 \ps v
 \vl vt
 \gf réunir
 \gvf réunir
 \sy jɛ̀
 \sy lájɛ
-\dt 26/Sep/2006
+\dt 13/Jun/2018
 
 \lx jɛrima
 \ps n
@@ -54300,14 +54369,17 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \dt 05/Feb/2016
 
 \lx jɔ̀rɔ
+\va jɔ̀ɔrɔ
 \va jɔ̀rɛ
 \ps n
 \gf inquiétude
 \gvf inquiétude
 \xv mùn jɔ̀rɔko b'í lá ?
 \xf de quoi t'inquiètes-tu ?
+\dt 13/Jun/2018
 
 \lx jɔ̀rɔ
+\va jɔ̀ɔrɔ
 \va jɔ̀rɛ
 \ps v
 \vl vi
@@ -54321,7 +54393,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \gvf faire peur à
 \xv kàrisa ká bàna bɛ́ ń jɔ̀rɔ
 \xf la maladie d'un tel m'inquiète
-\dt 26/Sep/2006
+\dt 13/Jun/2018
 
 \lx jɔ̀sen
 \mm jɔ̀:n:station.debout
@@ -62599,15 +62671,6 @@ probablement de chaux vive)
 \gf cire
 \gvf cire
 
-\lx kɛ̀ɲɛ
-\ve (kita)
-\va cɛ̀n
-\va cɛ̀ncɛn
-\ps n
-\gf sable
-\gvf sable
-\dt 16/Aug/2006
-
 \lx kɛ́ɲɛ
 \ps v
 \ms 1
@@ -66747,6 +66810,18 @@ champs)
 \xv ń má dá  à lá kɔ́yi !
 \xf je n'y crois pas du tout
 \dt 26/Sep/2006
+
+\lx kóyo
+\ps n
+\gf appeau
+\gvf appeau
+\smf (autrefois fabriqué avec le dard du
+poisson kónkon; les dents
+métalliques, en s'entrechoquant,
+produisent un bruit qui attire les
+gros poissons qu'on tue ensuite au
+harpon)
+\dt 26/Jun/2018
 
 \lx kóyokoyo
 \ps v
@@ -81031,6 +81106,17 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf rapport
 \dt 01/Jun/2016
 
+\lx láselisɛbɛn
+\mm lá.se.li:n:rapport
+\mm lá:mrph:CAUS
+\mm sé:v:arriver
+\mm li:mrph:NMLZ
+\mm sɛ́bɛ:n:papier
+\ps n
+\gf rapport
+\gvf rapport
+\dt 23/Jun/2018
+
 \lx lasibaati
 \ps n
 \gf descendant
@@ -86377,14 +86463,14 @@ des engagements
 
 \lx màsakɛ
 \mm màsa:n:roi
-\mm kɛ:adj:mâle
+\mm kɛ̀:adj:mâle
 \ps n
 \gf roi
 \gvf roi
 \gvf grand chef
 \xv jɛ́nfa yé  kɔ̀mɔna màsakɛ yé
 \xf ceux de la classe des 'jɛnfa' sont les chefs des initiés au fétiche 'kɔmɔ'
-\dt 26/Sep/2006
+\dt 26/Jun/2018
 
 \lx màsakɛya
 \mm màsa.kɛ:n:roi
@@ -87635,10 +87721,13 @@ des engagements
 
 \lx mìlikiti
 \va nírikìti
+\src Solomana Mariko
+\va nírikiti
+\src Kalidi Kulibali
 \ps n
 \gf sangsue
 \gvf sangsue
-\dt 11/Jun/2018
+\dt 13/Jun/2018
 
 \lx milimɛtɛrɛ
 \ps n
@@ -103051,6 +103140,17 @@ banane, etc.)
 \gvf vexer
 \gvf faire bisquer
 \dt 19/Jul/2015
+
+\lx ɲàgaribɔ
+\mm ɲàgari:n:moquerie
+\mm bɔ́:v:sortir
+\va ɲàngaribɔ
+\mm ɲàgari:n:moquerie
+\mm bɔ́:v:sortir
+\ps n
+\gf moquerie
+\gvf moquerie
+\dt 20/Jun/2018
 
 \lx ɲàgasa
 \ps n
@@ -118865,6 +118965,10 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sìgi:v:asseoir
 \mm ń:pers:1SG
 \mm fɛ̀:pp:par
+\va sìginfɛ
+\mm sìgi:v:asseoir
+\mm ń:pers:1SG
+\mm fɛ̀:pp:par
 \ps n
 \ms 1
 \gf étranger
@@ -118876,7 +118980,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \ms 2
 \gvf voisinage
 \gvf vie ensemble
-\dt 09/Sep/2017
+\dt 26/Jun/2018
 
 \lx sìginfɛya
 \mm sìgi.n.fɛ:n:étranger
@@ -132274,7 +132378,7 @@ est due aux paysans (kib 3/05 p.9)
 \gvf jour consacré à
 \xv bálikukalan tɔ́gɔladon kɛ́rɛnkɛrɛnnen
 \xf jour de l'alphabétisation des adultes
-\dt 27/Jan/2018
+\dt 23/Jun/2018
 
 \lx tɔ́gɔma
 \mm tɔ́gɔ:n:nom
@@ -141491,11 +141595,10 @@ généreuses, avec bourrelets)
 \lx zoforɛ
 \va zofɔrɛ
 \va zofore
-\va zoforɛ
 \ps n
 \gf Administration.des.Eaux.et.Forêts
 \gvf Administration des Eaux et Forêts
-\dt 31/May/2017
+\dt 13/Jun/2018
 
 \lx zóni
 \ps n
