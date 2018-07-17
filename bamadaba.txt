@@ -19373,6 +19373,18 @@ saillie)
 \nt fignoler la traduction
 \dt 11/Nov/2007
 
+\lx dáden
+\mm dá:n:bouche
+\mm dèn:v:se.taire
+\va dáde
+\mm dá:n:bouche
+\mm dè:v:se.taire
+\ps n
+\gf silence
+\gvf silence
+\gvf calme
+\dt 15/Jul/2018
+
 \lx dádèn
 \mm dá:n:bouche
 \mm dèn:v:se.taire
@@ -46468,12 +46480,21 @@ douanier, milicien, etc.)
 \dt 18/Apr/2014
 
 \lx gùrubugurubu
-\ps n
+\va gùrubogurubo
+\ps adv.p
 \gf au.galop
 \gvf au galop
 \xv à gùrubugurubu táatɔ fílɛ
 \xf le voilà qui s'en va au galop
-\dt 16/Aug/2006
+\dt 13/Jul/2018
+
+\lx gùrubugurubu
+\va gùrubogurubo
+\ps v
+\vl vi
+\gf galoper
+\gvf galoper
+\dt 13/Jul/2018
 
 \lx gùwɛn
 \ps n
@@ -53524,7 +53545,9 @@ et insecticides)
 \ps n
 \gf air.sympathique
 \gvf air sympathique
-\dt 23/Mar/2015
+\gvf qualité d'être sympathique
+\gvf don de plaire aux gens
+\dt 28/Jun/2018
 
 \lx jòlimango
 \mm jòli.man:n:sang.actif
@@ -82479,16 +82502,19 @@ personne)
 \gvf terre inondée
 \dt 04/Apr/2016
 
-\lx lɛ́bɛlɛ̀bɛ́
-\va lébilèbí
+\lx lɛ́bɛlɛ̀bɛ
+\va lébilèbi
 \ve (bk)
+\va lòbilobi
+\va lɔ̀bɛlɔbɛ
+\va lɔ̀bilɔbi
 \ps n
 \ms 1
 \gf flanc.des.animaux
 \gvf flanc des animaux
 \ms 2
 \gvf chair des hanches
-\dt 16/Aug/2006
+\dt 09/Jul/2018
 
 \lx lɛ̀fɛ
 \ps n
@@ -112625,12 +112651,12 @@ épuisés
 \smf (caste toucouleur)
 \dt 16/Aug/2006
 
-\lx sàkɛ̀nɛ́
+\lx sàkɛ̀nɛ
 \ps n
 \gf lézard.sp
 \gvf lézard sp
 \smf (petit lézard très vif argenté)
-\dt 26/Sep/2006
+\dt 13/Jul/2018
 
 \lx sàkɛnɛsyɔ
 \mm sàkɛ̀nɛ́:n:lézard.sp
@@ -125266,7 +125292,6 @@ fiançailles
 \vl vt
 \gf verser
 \gvf verser
-\gf faire.couler
 \gvf faire couler
 \gvf verser en cascade
 \ms 2
@@ -125283,7 +125308,7 @@ fiançailles
 \gvf plonger
 \ms 6
 \gvf se battre
-\dt 05/Apr/2016
+\dt 09/Jul/2018
 
 \lx sùrunman
 \mm sùrun:vq:court
