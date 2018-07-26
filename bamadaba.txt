@@ -2123,7 +2123,7 @@ mauvais
 \gf acacia.tannin
 \gvf acacia tannin
 \smf (Acacia nilotica adansonii, Acacia scorpioides adstringens)
-\dt 27/Jun/2013
+\dt 24/Jul/2018
 
 \lx báganfagayɔrɔ
 \mm bágan:n:bête
@@ -20901,7 +20901,10 @@ saillie)
 \gvf tour
 \xv dɔ̀lɔdon dákun bɛ́  kàrisa lá
 \xf c'est le tour d'un telle de faire de la bière
-\dt 06/Feb/2017
+\ms 5
+\gvf étape
+\smf (dans une course)
+\dt 26/Jul/2018
 
 \lx dákun
 \mm dá:v:créer
@@ -27562,14 +27565,6 @@ chefs religieux et représentants de l'administration
 \sy syɔ̀nɔ
 \dt 12/Aug/2006
 
-\lx dòlo
-\va dòolo
-\ps n
-\gf étoile
-\gvf étoile
-\gvf planète
-\dt 30/Jan/2017
-
 \lx dólon
 \ps v
 \vl vt
@@ -28344,6 +28339,14 @@ chefs religieux et représentants de l'administration
 \gvf tabac
 \smf (fumé pour les fiançailles en signe d'alliance)
 \dt 16/Aug/2006
+
+\lx dòolo
+\va dòlo
+\ps n
+\gf étoile
+\gvf étoile
+\gvf planète
+\dt 23/Jul/2018
 
 \lx dóolo
 \va dòolo
@@ -133520,7 +133523,7 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx túfin
 \mm tú:n:touffe
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf liane.Acacia.ataxandra
 \gvf liane Acacia ataxandra
@@ -133528,7 +133531,7 @@ est due aux paysans (kib 3/05 p.9)
 \gvf liane Acacia ataxacantha
 \sd mimo
 \smf (épines recourbées en dedans, en griffes)
-\dt 19/Aug/2006
+\dt 18/Jul/2018
 
 \lx tùgu
 \ps n
