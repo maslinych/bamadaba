@@ -3391,8 +3391,8 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 
 \lx bálikukalanden
 \mm báliku.kalan:n:alphabétisation
-\mm báliku:n:adulte
-\mm kàlan:n:lecture
+\mmm báliku:n:adulte
+\mmm kàlan:n:lecture
 \mm dén:n:enfant
 \ps n
 \gf adulte.alphabétisé
@@ -74703,8 +74703,8 @@ l'intérieur une ou deux graines)
 
 \lx kùnkontan
 \mm kùn.ko:n:affaire
-\mm kùn:n:tête
-\mm kó:n:affaire
+\mmm kùn:n:tête
+\mmm kó:n:affaire
 \mm ntan:mrph:PRIV
 \ps adj
 \gf sans.souci
@@ -75469,8 +75469,8 @@ l'intérieur une ou deux graines)
 
 \lx kùnnandi
 \mm kùnna:n:contenu.de.tête
-\mm kùn:n:tête
-\mm nan:mrph:dans
+\mmm kùn:n:tête
+\mmm nan:mrph:dans
 \mm dí:vq:agréable
 \ps adj/n
 \gf chanceux
@@ -75481,10 +75481,10 @@ l'intérieur une ou deux graines)
 
 \lx kùnnandiya
 \mm kùn.nan.di:adj:chanceux
-\mm kùnna:n:contenu.de.tête
-\mm kùn:n:tête
-\mm nan:mrph:dans
-\mm dí:vq:agréable
+\mmm kùnna:n:contenu.de.tête
+\mmmm kùn:n:tête
+\mmmm nan:mrph:dans
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \va kùnnadiya
 \mm kùn.na.di:adj:chanceux
@@ -86169,8 +86169,8 @@ invulnérable aux serpents, aux fauves ...)
 
 \lx màɲumanko
 \mm mà.ɲuman:v:avoir.pitié
-\mm mà:mrph:SUPER
-\mm ɲùman:adj:bon
+\mmm mà:mrph:SUPER
+\mmm ɲùman:adj:bon
 \mm kó:n:affaire
 \ps n
 \gf sujet.de.pitié
@@ -86181,10 +86181,10 @@ invulnérable aux serpents, aux fauves ...)
 
 \lx màɲumankotɔ
 \mm mà.ɲuman.ko:n:sujet.de.pitié
-\mm mà.ɲuman:v:avoir.pitié
-\mm mà:mrph:SUPER
-\mm ɲùman:adj:bon
-\mm kó:n:affaire
+\mmm mà.ɲuman:v:avoir.pitié
+\mmmm mà:mrph:SUPER
+\mmmm ɲùman:adj:bon
+\mmm kó:n:affaire
 \mm tɔ:mrph:ST
 \ps adj
 \gf qui.inspire.pitié
@@ -86193,8 +86193,8 @@ invulnérable aux serpents, aux fauves ...)
 
 \lx màɲumantɔ
 \mm mà.ɲuman:v:avoir.pitié
-\mm mà:mrph:SUPER
-\mm ɲùman:adj:bon
+\mmm mà:mrph:SUPER
+\mmm ɲùman:adj:bon
 \mm tɔ:mrph:ST
 \ps adj
 \gf qui.inspire.pitié
@@ -86204,10 +86204,10 @@ invulnérable aux serpents, aux fauves ...)
 
 \lx màɲumantɔkan
 \mm mà.ɲuman.tɔ:adj:qui.inspire.pitié
-\mm mà.ɲuman:v:avoir.pitié
-\mm mà:mrph:SUPER
-\mm ɲùman:adj:bon
-\mm tɔ:mrph:ST
+\mmm mà.ɲuman:v:avoir.pitié
+\mmmm mà:mrph:SUPER
+\mmmm ɲùman:adj:bon
+\mmm tɔ:mrph:ST
 \mm kán:n:cou
 \ps n
 \gf lamentation
@@ -91222,8 +91222,8 @@ pour les jardins)
 
 \lx mùsokɔrɔba
 \mm mùso.kɔrɔ:n:vieille.femme
-\mm mùso:n:femme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mmm mùso:n:femme
+\mmm kɔ̀rɔ:vq/adj:vieux
 \mm ba:mrph:AUGM
 \ps n
 \gf vieille.femme
@@ -93157,8 +93157,8 @@ qui revient en visite dans sa famille)
 
 \lx nàtabaya
 \mm nàta.ba:n:avide
-\mm nàta:n:cupidité
-\mm ba:mrph:AUGM
+\mmm nàta:n:cupidité
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf cupidité
@@ -96419,8 +96419,8 @@ sur soi, on les connaît
 
 \lx nísɔndiya
 \mm ní.sɔn:n:humeur
-\mm ní:n:âme
-\mm sɔ̀n:n:coeur
+\mmm ní:n:âme
+\mmm sɔ̀n:n:coeur
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps v
@@ -115019,8 +115019,8 @@ composition de l'encens
 
 \lx sàriyasunba
 \mm sàriyasun:n:grammaire
-\mm sàriya:n:loi
-\mm sún:n:tronc
+\mmm sàriya:n:loi
+\mmm sún:n:tronc
 \mm ba:mrph:AUGM
 \ps n
 \gf Constitution
