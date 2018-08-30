@@ -2540,7 +2540,7 @@ Ségou)
 \ms 3
 \gvf flotteur d'un filet
 \smf ( bois léger)
-\dt 16/Aug/2006
+\dt 23/Aug/2018
 
 \lx bàkolonkolonmusa
 \mm bà:n:chèvre
@@ -11638,6 +11638,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo:n:bras
 \mm man:mrph:SUPER
 \mm dɔ́gɔ:vq:étroit
+\va bólomadɔgɔ
+\mm bólo:n:bras
+\mm ma:mrph:SUPER
+\mm dɔ́gɔ:vq:étroit
 \ps adj/n
 \ms 1
 \gf pauvre
@@ -11646,7 +11650,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \smf (mais non miséreux ; ne peut dépanner les autres)
 \ms 2
 \gvf faible
-\dt 22/Mar/2015
+\dt 01/Aug/2018
 
 \lx bólomandɔgɔya
 \mm bólo.man.dɔgɔ:n:pauvre
@@ -12304,11 +12308,12 @@ milieu des pierres
 \dt 14/Jan/2018
 
 \lx bòso
+\va bòoso
 \ps n
 \gf bozo
 \gvf bozo
 \smf (ethnie de pêcheurs du moyen Niger)
-\dt 16/Aug/2006
+\dt 09/Aug/2018
 
 \lx bóso
 \va bóson
@@ -23107,6 +23112,15 @@ génitales ...)
 \gvf défiance
 \dt 12/Aug/2006
 
+\lx dànnaci
+\mm dàn:n:limite
+\mm ná:pp:à
+\mm cì:v:trait
+\ps n
+\gf précision
+\gvf précision
+\dt 31/Jul/2018
+
 \lx dánnamaa
 \mm dá:v:poser
 \mm ń:pers:1SG
@@ -29719,17 +29733,12 @@ désorienter')
 
 \lx dɔ́rɔn
 \ps dtm
-\ms 1
+\ms
 \gf seulement
 \gvf seulement
 \sy dàma mìsi dɔ́rɔn bɛ́ yèn
 \xf il n'y a que des vaches là-bas
-\ms 2
-\gvf à peine
-\gvf dès que
-\xv sú kòra dɔ́rɔn, ń ɲɛ́ tɛ́  fóyi yé
-\xf dès que tombe la nuit, je ne vois plus rien
-\dt 05/Apr/2015
+\dt 27/Jul/2018
 
 \lx dɔ́rɔn
 \ps adv
@@ -29739,7 +29748,12 @@ désorienter')
 \ms 2
 \gvf aussitôt que
 \gvf une fois que
-\dt 19/Mar/2018
+\gvf à peine
+\gvf dès que
+\xv sú kòra dɔ́rɔn, ń ɲɛ́ tɛ́  fóyi yé
+\xf dès que tombe la nuit, je ne vois
+plus rien
+\dt 27/Jul/2018
 
 \lx dɔ́wɛrɛ
 \mm dɔ́:dtm:certain
@@ -29925,12 +29939,20 @@ désorienter')
 \va dúgan
 \ve (bk)
 \ps v
+\ms 1.1
 \vl vt
 \gf éteindre
 \gvf éteindre
 \xv tásuma dúfara ní  jí yé
 \xf on a éteint le feu avec de l'eau
-\dt 16/Aug/2006
+\ms 1.2
+\vl vi
+\gvf s'éteindre
+\ms 2
+\vl vi
+\gvf se calmer
+\smf (guerre etc.)
+\dt 05/Aug/2018
 
 \lx dúfakɛla
 \mm dúfa:n:divination
@@ -40108,12 +40130,14 @@ sur le ventre -- í kɔ́nɔ kàn)
 \va fwɔ̀n
 \ph [fw]
 \ps n
+\ms 1
 \gf fontanelle
 \gvf fontanelle
+\ms 2
 \gvf cicatrice
-\xv fɔ̀n bɛ́  à tɛ́gɛ lá
+\xv fɔ̀n bɛ́ à tɛ́gɛ lá
 \xf sa main porte une cicatrice
-\dt 26/Sep/2006
+\dt 30/Aug/2018
 
 \lx fɔ́n
 \va fwɔ́n
@@ -44943,7 +44967,9 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \gvf malheur inattendu
 \xv Ála k'án kísi  gɛ́rɛgɛ̀rɛ mà !
 \xf que Dieu nous préserve de malheur subit !
-\dt 13/Mar/2018
+\xv gɛ́rɛgɛrɛsikaratimin
+\xf tabagisme passif
+\dt 06/Aug/2018
 
 \lx gɛrɛki
 \va grɛki
@@ -45994,6 +46020,15 @@ douanier, milicien, etc.)
 \gf gouvernorat
 \gvf gouvernorat
 \dt 05/Feb/2016
+
+\lx gɔ́jɔ
+\va gɔ́dɔ
+\va gɔ́dogɔdɔ
+\ps adv
+\gf très.vieux
+\gvf très
+\smf (vieux)
+\dt 31/Jul/2018
 
 \lx gɔ̀lɔn
 \va gwɔ̀lɔn
@@ -58866,16 +58901,16 @@ prolapsus utérin
 \mm gɛ̀lɛn:vq/adj:dur
 \ps n
 \ms 1
-\gf voix.très.élevée
-\gvf voix très élevée
+\gf voix.très.élevée
 \gvf soprano
 \ms 2
-\gvf parole dure
+\gvf parole.dure
+\lt (voix.dure)
 \ms 3
-\gvf langue difficile
+\gvf langue.difficile
 \ms 4
 \gvf arrogant
-\dt 26/Sep/2006
+\dt 27/Jul/2018
 
 \lx kánhakɛ
 \mm kán:n:cou
@@ -72027,6 +72062,14 @@ dont la piqûre est douloureuse)
 \gvf se retourner
 \dt 16/Aug/2006
 
+\lx kɔ́yɔkɔyɔ
+\ps adv
+\src Kalilou Tera
+\gf très.vieux
+\gvf très
+\smf (vieux)
+\dt 31/Jul/2018
+
 \lx krɛ́yɔn
 \ps n
 \gf crayon
@@ -73412,7 +73455,7 @@ le pouvoir administratif suprême)
 \gvf volume
 \xv ò kùnbaya ní  dɔ́gɔya tɛ́  dórɔsyɛko lá
 \xf pour l'initiation au fétiche du "do", peu importeque la poule soit grosse ou petite
-\dt 26/Sep/2006
+\dt 13/Aug/2018
 
 \lx kùnbaya
 \mm kùn.ba:vq:gros
@@ -109180,6 +109223,8 @@ le pèlerinage (bk 1/06 p.5)
 
 \lx ŋɔ̀mɔ
 \ve (-bn)
+\va wɔ̀nbɔ
+\va wɔ̀nfɔn
 \ps n
 \ms 1
 \gf écorce
@@ -109190,7 +109235,7 @@ le pèlerinage (bk 1/06 p.5)
 \smf (d'une plaie)
 \ms 3
 \gvf peau qui se desquame
-\dt 16/Aug/2006
+\dt 30/Aug/2018
 
 \lx ŋɔ́ni
 \va mɔ́ni
@@ -135309,6 +135354,16 @@ bruyants, près du sol, dans les fourrés)
 \gvf malle
 \dt 26/Sep/2006
 
+\lx wàgarawagara
+\va wàarawaara
+\ps v
+\src KT
+\ms 1
+\gf relacher
+\ms 2
+\gvf décoller
+\dt 30/Aug/2018
+
 \lx wàgasi
 \va wàasi
 \ve (f)
@@ -136099,14 +136154,34 @@ aîné ... (Kb 11/06 p.4)
 
 \lx wárawara
 \ps v
-\vl vt
+\ms 1.1
+\vl vi
 \gf goutter.abondamment
 \gvf goutter abondamment
 \gvf tomber à grosses gouttes
-\smf (pluie ...)
-\xv bà bɛ́ à bò wára-wára
-\xf la chèvre fait tomber ses (petites) crottes comme des gouttes de pluie
-\dt 08/Nov/2012
+\smf (pluie, larmes)
+\gvf fuser
+\gvf crépiter
+\smf (balles)
+\ms 1.2
+\vl vt
+\gvf faire des boules
+\xv bà bɛ́ à bò wárawara
+\xf la chèvre fait tomber ses crottes en
+petites boules
+\ms 2
+\vl vi
+\gvf tomber irrégulièrement
+\smf (pour des fruits)
+\dt 23/Aug/2018
+
+\lx wárawàra
+\ps n
+\gf rayure
+\gvf marque en forme de rayure
+\gvf marques de décoloration sur le corps
+\smf (également sur les courges)
+\dt 23/Aug/2018
 
 \lx wárawarawara
 \ps adv
@@ -137988,6 +138063,13 @@ Mali)
 \sy ntába
 \dt 26/Sep/2006
 
+\lx wɔ́nfɔn
+\va wɔ́nfɔ
+\ps n
+\src KT
+\gf fontanelle
+\dt 30/Aug/2018
+
 \lx wɔ̀ɔlɔ
 \ps v
 \ms 1
@@ -138453,11 +138535,16 @@ Mali)
 \mm kà:pm:INF
 \mm jɔ̀:v:dresser
 \ps n
+\ms 1
 \gf mobilisation
 \gvf mobilisation
 \gvf détermination
+\ms 2
 \gvf responsabilité
-\dt 16/Mar/2018
+\ms 3
+\gvf manifestation
+\smf (démonstration publique, politique)
+\dt 27/Jul/2018
 
 \lx wùlu
 \ps n
@@ -141654,3 +141741,17 @@ généreuses, avec bourrelets)
 \gf juin
 \gvf juin
 \dt 03/Apr/2016
+
+\lx да
+\ps n
+\ms 1
+\gf voix.très.élevée
+\gvf voix très élevée
+\gvf soprano
+\ms 2
+\gvf parole dure
+\ms 3
+\gvf langue difficile
+\ms 4
+\gvf arrogant
+\dt 27/Jul/2018
