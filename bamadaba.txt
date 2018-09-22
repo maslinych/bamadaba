@@ -7169,10 +7169,11 @@ rhume, toux)
 
 \lx bɛ́lɛn
 \ps v
-\ms 1
+\ms 1.1
 \vl vi
 \gf aborder
 \gvf aborder
+\ms 1.2
 \vl vt
 \gvf faire aborder
 \xv ù yé  kúrun bɛ́lɛn
@@ -7188,7 +7189,7 @@ rhume, toux)
 \gvf s'approcher doucement
 \xv à y'í bɛ́lɛn  k'í sìgi kɔ́ fɛ̀:
 \xf il est venu discrètement s'asseoir au fond
-\dt 26/Sep/2006
+\dt 15/Sep/2018
 
 \lx bɛ̀lɛnbɛlɛn
 \ps n
@@ -13712,11 +13713,27 @@ toujours (pro)
 
 \lx bùgɔ
 \ps v
+\ms 1
 \vl vt
 \gf frapper
 \gvf frapper
+\gvf battre
 \sy gɔ̀si
-\dt 12/Aug/2006
+\ms 2
+\vl vr
+\gvf se lancer
+\gvf se jeter
+\ms 3
+\vl vt
+\gvf vaincre
+\gvf battre
+\smf (sport)
+\ms 4
+\usf pop.
+\vl vt
+\gvf bouffer
+\smf (manger)
+\dt 01/Sep/2018
 
 \lx bùgɔli
 \mm bùgɔ:v:frapper
@@ -24330,6 +24347,15 @@ génitales ...)
 \gvf battant de porte
 \dt 26/Sep/2006
 
+\lx dàyifu
+\bw Ar. 
+\ps adj
+\src KT
+\usf Islam.
+\gf faible
+\gvf fable
+\dt 07/Sep/2018
+
 \lx dè
 \ps prt
 \gf FOC
@@ -28689,10 +28715,11 @@ chefs religieux et représentants de l'administration
 \ms 2
 \gvf rare
 \ms 3
+\gvf insuffisant
 \gvf pas assez
 \xv à ká dɔ́gɔ
 \xf c'est (trop) peu, c'est rare
-\dt 26/Sep/2006
+\dt 10/Sep/2018
 
 \lx dɔ́gɔ
 \va dwá
@@ -34449,14 +34476,14 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \ms 2
 \vl vi
 \gvf braver
-\xv mùso mán kán  kà fàrati  à cɛ̀ mà
+\xv mùso mán kán  kà fàrati à cɛ̀ mà
 \xf une femme ne doit pas braver son mari
 \ms 3
 \vl vr
 \gvf faire attention
-\xv í fàrati  à lá !
+\xv í fàrati à lá !
 \xf fais-y attention !
-\dt 26/Sep/2006
+\dt 11/Sep/2018
 
 \lx fàratibali
 \mm fàrati:v:risquer
@@ -40277,14 +40304,15 @@ sur le ventre -- í kɔ́nɔ kàn)
 \va fóolo
 \ve (bk,bn)
 \ps v
-\vl vi
 \ms 1
+\vl vi
 \gf se.gonfler.d'air
 \gvf se gonfler d'air
 \ms 2
+\vl vi
 \gvf siffler
 \smf (serpent ...)
-\dt 16/Aug/2006
+\dt 21/Sep/2018
 
 \lx fɔ̀ɔnɔ
 \ps n
@@ -45923,14 +45951,34 @@ douanier, milicien, etc.)
 \lx gòsi
 \va gɔ̀si
 \ps v
-\vl vt
 \ms 1
+\vl vt
 \gf battre
 \gvf battre
+\gvf frapper
 \ms 2
+\vl vt
+\gvf jouer
+\smf (du tambour)
+\ms 3
+\vl vt
 \gvf saillir
-\smf (couvrir une femelle)
-\dt 21/Jan/2015
+\gvf couvrir
+\smf (une femelle)
+\ms 4
+\vl vt
+\gvf construire
+\ms 5
+\vl vt
+\gvf picorer
+\ms 6
+\vl vt
+\gvf castrer
+\ms 7
+\vl vr
+\usf pop.
+\gvf se finguer
+\dt 20/Sep/2018
 
 \lx gòsidenwɔɔrɔ
 \mm gòsi:v:battre
@@ -57878,13 +57926,14 @@ prolapsus utérin
 
 \lx káma
 \ve (f)
+\va káman
 \va kában
 \ve (bn)
 \ps adj
 \gf neuf
 \gvf neuf
 \smf (se dit des calebasses qui n'ont pas servi)
-\dt 26/Sep/2006
+\dt 20/Sep/2018
 
 \lx kámà
 \mm kán:n:cou
@@ -62370,32 +62419,39 @@ probablement de chaux vive)
 
 \lx kɛ́nɛ
 \ps vq/adj
-\ms 1
+\ms 1.1
 \gf sain
 \gvf sain
-\smf (fruit, viande ...)
-\ms 2
 \gvf en bonne santé
 \gvf en pleine forme
-\xv à mán kɛ́nɛ
+\xv à man kɛ́nɛ
 \xf il est malade
-\xv í ká kɛ́nɛ ?
+\xv í ka kɛ́nɛ ?
 \xf tu vas bien
-\ms 3
-\gf frais
+\ms 1.2
+\gvf actif
+\xv à gálabu ka kɛ́nɛ
+\xf il est dégourdi
+\ms 2
 \gvf frais
-\smf (poisson, lait ...)
+\smf (fruit, viande, poisson, lait)
+\gvf vert
+\smf (bois)
 \xv à nɔ̀ kɛ́nɛ-kɛ́nɛ dòn
 \xf ses traces sont toutes fraîches
-\ms 4
-\gvf vert
-\smf (bois ...)
-\ms 5
+\ms 3
 \gvf cru
-\smf (non cuit, non grillé ...)
+\gvf non cuit
+\smf (fruit)
 \xv à bɛ́  tìga kɛ́nɛ ɲími
 \xf il grignote des arachides crues
-\dt 30/May/2016
+\ms 4
+\usf Islam.
+\gvf vrai
+\gvf authentique
+\gvf solide
+\smf (vérité)
+\dt 11/Sep/2018
 
 \lx kɛ́nɛba
 \mm kɛ́nɛ:n:clarté
@@ -68046,13 +68102,15 @@ harpon)
 \ph [kwɔlikwɔli]
 \ps adv
 \ms 1
-\gf grand.éloignement
+\gf très
+\gvf très
 \gvf grand éloignement
-\ms 2
 \gvf grande noirceur
-\ms 3
-\gvf ligature bien serrée
-\dt 19/Jan/2015
+\gvf fortement serrée
+\gvf très fermé
+\gvf très fâché
+\gvf très chaud
+\dt 18/Sep/2018
 
 \lx kɔ́lɔ
 \ps n
@@ -79369,9 +79427,9 @@ catastrophe)
 \gf raconter
 \gvf raconter
 \gvf divulguer
-\xv ...lákali...yé
+\xv kà kó lákali mɔ̀gɔ yé
 \xf annoncer qqch à qqn
-\dt 23/May/2017
+\dt 02/Sep/2018
 
 \lx làkalita
 \mm lákàlí:v:raconter
@@ -97209,6 +97267,20 @@ familiaux; viande très prisée, auladiculture)
 \gvf hernie inguino-scrotale
 \dt 16/Aug/2006
 
+\lx nkɛ̀lɛnkɛlɛn
+\mm nkɛ̀lɛn:n:testicules
+\mm nkɛ̀lɛn:n:testicules
+\va nkɛ̀lɛnnkɛ̀lɛn
+\mm nkɛ̀lɛn:n:testicules
+\mm nkɛ̀lɛn:n:testicules
+\va kɛ̀lɛnkɛ̀lɛn
+\ps n
+\gf adénopathie
+\gvf adénopathie
+\gvf adénite
+\smf (inflammation des ganglions de l'aine)
+\dt 15/Sep/2018
+
 \lx nkɛ̀lɛnkɛyɛ
 \mm nkɛ̀lɛn:n:testicules
 \mm kɛ̀yɛ:n:bourses
@@ -97244,17 +97316,6 @@ familiaux; viande très prisée, auladiculture)
 \smf (bulbe de la taille d'une petite cerise)
 \sy jɛ̀nɛjaba
 \dt 19/Aug/2006
-
-\lx nkɛ̀lɛnnkɛlɛn
-\mm nkɛ̀lɛn:n:testicules
-\va nkɛ̀lɛnkɛ̀lɛn
-\va kɛ̀lɛnkɛ̀lɛn
-\ps n
-\gf adénopathie
-\gvf adénopathie
-\gvf adénite
-\smf (inflammation des ganglions de l'aine)
-\dt 08/Nov/2012
 
 \lx nkɛ̀lɛnso
 \mm nkɛ̀lɛn:n:testicules
