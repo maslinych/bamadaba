@@ -25728,21 +25728,28 @@ assumant que l'interclocuteur pense autrement)
 
 \lx dɛ́n
 \ps v
-\ms 1
+\ms 1.1
 \vl vt
 \gf mettre.à.l'écart
 \gvf mettre à l'écart
-\ms 2
-\vl vt
-\gvf élider
-\smf (sens phonétique : néologisme)
-\ms 3
+\ms 1.2
 \vl vr
 \gvf se mettre à l'affût
 \gvf se mettre de côté
 \xv á'y'á dɛ́n  dá kɛ̀rɛ fɛ̀, sáni  kùntigi kà tɛ̀mɛ
-\xf mettez-vous de chaque côté de la porte jusqu'à ce que passe le chef
-\dt 26/Sep/2006
+\xf mettez-vous de chaque côté de la
+porte jusqu'à ce que passe le chef
+\ms 1.3
+\vl vr
+\gvf se cacher
+\ms 2
+\vl vr
+\gvf se tapir
+\ms 3
+\vl vt
+\gvf élider
+\smf (sens phonétique : néologisme)
+\dt 23/Sep/2018
 
 \lx dɛ́n
 \va ntɛ́ɛ
@@ -45248,6 +45255,14 @@ caractéristique, réputé pour faciliter la procréation)
 \smf (avec animation)
 \dt 16/Aug/2006
 
+\lx gíribasa
+\ps v
+\vl vi
+\gf agir.brusquement
+\gvf agir brusquement
+\gvf se lever brusquement
+\dt 23/Sep/2018
+
 \lx gìrigara
 \ps n
 \gf problème.compliqué
@@ -45620,11 +45635,12 @@ caractéristique, réputé pour faciliter la procréation)
 \dt 26/Sep/2006
 
 \lx gólobasa
+\va gàlabasa
 \ps v
 \vl vi
 \gf se.précipiter
 \gvf se précipiter
-\dt 25/Nov/2017
+\dt 23/Sep/2018
 
 \lx gòlo-bɛ́-ń-sèn-ná
 \va gòlobɛnsenna
@@ -60414,14 +60430,17 @@ probablement de chaux vive)
 \gvf faire irruption
 \smf (dans -- kɔ́nɔ)
 \gvf forcer la porte
-\ms 3
-\vl vi/vr
+\ms 3.1
+\vl vi
 \gvf agir soudainement
 \xv nɛ́nɛ kárila à lá
 \xf le froid l'a pris brusquement
+\ms 3.2
+\vl vr
+\gvf se précipiter
 \xv à y'í kári  só kɔ́nɔ
 \xf il s'est précipité dans la maison
-\dt 27/Feb/2017
+\dt 23/Sep/2018
 
 \lx káridon
 \mm kári:n:dimanche
@@ -89818,8 +89837,8 @@ cause
 \ms 3
 \vl vr
 \gvf se tapir
-\smf (pour bondir ...)
-\dt 26/Sep/2006
+\smf (pour bondir)
+\dt 23/Sep/2018
 
 \lx mɔ́ntɔrɔ
 \va mɔ́nturu
