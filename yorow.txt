@@ -199,6 +199,13 @@ de l'Algérie)
 \smf (une petite ville, commune de Ménaka, région de Gao)
 \dt 17/May/2017
 
+\lx Anderabukani
+\ps n.prop
+\gf TOP
+\gvf Andéramboukane
+\smf (ville et commune, cercle et région de Ménaka)
+\dt 30/Sep/2018
+
 \lx Anderanbukani
 \ps n.prop
 \gf TOP
@@ -1153,11 +1160,12 @@ malienne)
 \dt 03/Jun/2017
 
 \lx Bɔsuwana
+\va Bɔsiwana
 \ps n.prop
 \gf TOP
-\smf (pays)
 \gvf Botswana
-\dt 07/Feb/2017
+\smf (pays)
+\dt 30/Sep/2018
 
 \lx Buguba
 \ps n.prop
@@ -2395,6 +2403,13 @@ Tombouctou)
 \smf (un village, 75 km d'Ansongo)
 \dt 22/Feb/2017
 
+\lx Inekari
+\ps n.prop
+\gf TOP
+\gvf Inékar
+\smf (un village et une commune, cercle de Ménaka, région de Gao)
+\dt 30/Sep/2018
+
 \lx Ípɔdrɔm
 \ty кв.
 \ps n.prop
@@ -2438,6 +2453,12 @@ Tombouctou)
 \ru Росcия
 \ru Советский Союз
 \dt 05/Sep/2017
+
+\lx Iriyo
+\ps n.prop
+\gf TOP
+\gvf Rio de Janeiro
+\dt 30/Sep/2018
 
 \lx Isilandi
 \ps n.prop
@@ -5334,6 +5355,7 @@ Koulikoro)
 \dt 23/May/2010
 
 \lx Rodezi
+\va Orodesi
 \ty гос.
 \ru Родезия
 \ps n.prop
@@ -5341,7 +5363,7 @@ Koulikoro)
 \smf (pays)
 \gvf Rhodésie
 \cm (с 1980 - Зимбабве)
-\dt 23/May/2010
+\dt 30/Sep/2018
 
 \lx Ruwanda
 \va Uruwanda
@@ -6278,6 +6300,13 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \smf (village, région de Sikasso; village, région de Mopti)
 \dt 02/Feb/2017
 
+\lx Tidɛrimɛni
+\ps n.prop
+\gf TOP
+\gvf Tidermène
+\smf (un village et une commune, cercle de Ménaka, région de Gao)
+\dt 30/Sep/2018
+
 \lx Tilemusi
 \ps n.prop
 \gf TOP
@@ -6783,6 +6812,13 @@ cercle de Kati)
 \ru Елимане
 \cm (на  крайнем северо-западе Мали)
 \dt 23/May/2010
+
+\lx Yendume
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village dans le pays dogon)
+\dt 30/Sep/2018
 
 \lx Yírimajɔ
 \ps n.prop

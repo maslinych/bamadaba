@@ -9125,11 +9125,11 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bìn:v:tomber
 \mm ń:pers:1SG
 \mm kàn:pp:sur
-\mm ní:mrph:NMLZ
+\mm ni:mrph:NMLZ
 \va bìnkanni
 \mm bìn:v:tomber
 \mm kàn:pp:sur
-\mm ní:mrph:NMLZ
+\mm ni:mrph:NMLZ
 \ps n
 \ms 1
 \gf agression
@@ -9139,7 +9139,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf banditisme
 \ms 3
 \gvf viol
-\dt 30/Jan/2017
+\dt 30/Sep/2018
 
 \lx bínɲimi
 \mm bín:n:herbe
@@ -10469,13 +10469,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm ɲwán:prn:RECP
 \mm mà:pp:ADR
 \ps n
-\gf entr'aide
-\gvf entr'aide
+\gf entraide
+\gvf entraide
 \gvf coopération
 \xv bólidiɲɔgɔnma yé fàantanya kɛ̀lɛlan yé
 \xf la coopération permet de combattre la pauvreté (kb 4/05 p.7)
-\rem l 89, du
-\dt 15/Jun/2017
+\dt 30/Sep/2018
 
 \lx bólodòn
 \mm bólo:n:bras
@@ -17930,6 +17929,14 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \smf (qui n'a pas de solution)
 \dt 16/Aug/2006
 
+\lx cógori
+\ps v
+\vl vi
+\gf s'effrayer
+\gvf s'effrayer
+\gvf avoir peur
+\dt 30/Sep/2018
+
 \lx cógoya
 \mm cógo:n:manière
 \mm ya:mrph:ABSTR
@@ -18091,11 +18098,17 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \lx cɔ́gɔri
 \va cwári
 \ps v
+\ms 1
 \vl vt
 \gf piler
 \gvf piler
 \smf (pour enlever la coque, la pelure, la peau, le tégument ...)
-\dt 26/Sep/2006
+\ms 2
+\vl vt
+\gvf battre
+\gvf frapper
+\smf (une personne)
+\dt 30/Sep/2018
 
 \lx cɔ́mi
 \va cɔ́min
@@ -27645,8 +27658,10 @@ chefs religieux et représentants de l'administration
 \ps n
 \gf poinçon
 \gvf poinçon
+\gvf perçoir
+\smf (fabriqué par les forgerons, à bout pointu et manche de bois)
 \sy syɔ̀nɔ
-\dt 12/Aug/2006
+\dt 30/Sep/2018
 
 \lx dólon
 \ps v
@@ -77412,6 +77427,15 @@ kúrunninle
 \gvf conseiller
 \dt 16/Aug/2006
 
+\lx láadilibaga
+\mm láadi:v:conseiller
+\mm li:mrph:NMLZ
+\mm baga:mrph:AG.OCC
+\ps n
+\gf conseiller
+\gvf conseiller
+\dt 30/Sep/2018
+
 \lx láadilikan
 \mm láadi:v:conseiller
 \mm li:mrph:NMLZ
@@ -95571,6 +95595,8 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \va ngɔ̀ni
 \ve (f)
 \va ngɔ̀ki
+\va nkɔ̀ɔki
+\va nkɔ̀ngi
 \va ntnɔ̀ki
 \ve (bk)
 \ps n
@@ -95579,7 +95605,7 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \gvf amygdales
 \xv fɛ́n dɔ́ bálanna  à ngɔ̀ki lá
 \xf quelque chose s'est planté dans sa gorge
-\dt 01/Jun/2016
+\dt 30/Sep/2018
 
 \lx ngɔ̀ɔnɔdimi
 \mm ngɔ̀ɔnɔ:n:gorge
@@ -108759,10 +108785,13 @@ le pèlerinage (bk 1/06 p.5)
 
 \lx ɲùguɲùgu
 \ps n
+\ms 1
 \gf les.Pléiades
 \gvf les Pléiades
 \smf (constellation des Pléiades)
-\dt 20/Dec/2015
+\ms 2
+\gvf goîtres multinodulaires
+\dt 30/Sep/2018
 
 \lx ɲùman
 \mm man:mrph:ADJ
@@ -113655,6 +113684,7 @@ épuisés
 \ms 1
 \gf temps
 \gvf temps
+\gvf moment
 \xv ù nà  nìn sánga kɛ́  ɲɔ́gɔn bólo
 \xf Ils passeront cette période ensemble
 \ms 2
@@ -113662,7 +113692,9 @@ épuisés
 \gvf succès
 \xv à sánga wúlila
 \xf la mode en a été lancée
-\dt 26/Sep/2006
+\ms 3
+\gvf minute
+\dt 30/Sep/2018
 
 \lx sánga
 \ps v
@@ -118037,6 +118069,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \xv né nà  ò sɛ́gɛsɛgɛli dàn tàn
 \xf je laisse là l'enquête(pour une devinette = je donne ma langue au chat)
 \dt 26/Sep/2006
+
+\lx sɛ́gɛsɛgɛlibaga
+\mm sɛ́gɛsɛgɛ:v:bien.examiner
+\mm li:mrph:NMLZ
+\mm baga:mrph:AG.OCC
+\ps n
+\gf contrôleur
+\gvf contrôleur
+\dt 30/Sep/2018
 
 \lx sɛ́gɛsɛgɛlikɛla
 \mm sɛ́gɛsɛgɛ.li:n:enquête
