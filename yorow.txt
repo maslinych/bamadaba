@@ -1,4 +1,4 @@
-\_sh v3.0  231  MDF 4.0
+\_sh v3.0  1296 MDF 4.0
 
 \lang bam
 \name yorow
@@ -817,13 +817,12 @@ Comoé, Burkina Faso)
 \dt 05/Feb/2016
 
 \lx Bánjagara
-\ty плато
 \ps n.prop
 \gf TOP
-\smf (ville, région Dogon)
 \gvf Bandiagara
+\smf (ville et cercle, région de Mopti; plateau)
 \ru Бандиагара
-\dt 23/May/2010
+\dt 30/Sep/2018
 
 \lx Banjulu
 \ty г.
@@ -2177,29 +2176,6 @@ Tombouctou)
 \cm (на востоке Мали)
 \dt 07/Apr/2017
 
-\lx Gbékeduu
-\di m
-\ty г.
-\ps n.prop
-\gf TOP
-\smf (nom de lieu)
-\gvf Gbekedou
-\ru Гекеду
-\cm (в Гвинее)
-\dt 23/May/2010
-
-\lx Gben Kɔɔjida
-\va Gbenkɔɔijida
-\di m
-\ty гос.
-\ru Кот-д'Ивуар
-\ps n.prop
-\gf TOP
-\smf (nom de lieu)
-\gvf Côte d'Ivoire
-\sy Kɔ́nɔwari
-\dt 23/May/2010
-
 \lx Gerenadi
 \ps n.prop
 \gf TOP
@@ -2289,6 +2265,29 @@ Mopti)
 \smf (nom de lieu)
 \gvf Guyane
 \dt 05/Feb/2017
+
+\lx Gbékeduu
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Gbekedou
+\ru Гекеду
+\cm (в Гвинее)
+\dt 23/May/2010
+
+\lx Gben Kɔɔjida
+\va Gbenkɔɔijida
+\di m
+\ty гос.
+\ru Кот-д'Ивуар
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Côte d'Ivoire
+\sy Kɔ́nɔwari
+\dt 23/May/2010
 
 \lx Hámdàlay
 \va Hámudàlayi
@@ -2891,6 +2890,13 @@ région de Mopti)
 \smf (village de potières, cercle de Kati, région de Koulikoro)
 \dt 15/Jun/2017
 
+\lx Kabala
+\ps n.prop
+\gf TOP
+\gvf Kabala
+\smf (quartier au sud de Bamako, emplacement d'un université depuis 2017)
+\dt 30/Sep/2018
+
 \lx Kabara
 \ps n.prop
 \gf TOP
@@ -3161,6 +3167,12 @@ Léraba, région des Cascades, Burkina Faso)
 \smf (nom de lieu)
 \dt 23/May/2010
 
+\lx Karayibu
+\ps n.prop
+\gf TOP
+\gvf Caraïbes
+\dt 30/Sep/2018
+
 \lx Kareri
 \ps n.prop
 \gf TOP
@@ -3263,6 +3275,14 @@ Léraba, région des Cascades, Burkina Faso)
 \gvf Kayes
 \cm (на северо-западе Мали)
 \dt 23/May/2010
+
+\lx Kayo
+\ps n.prop
+\gf TOP
+\gvf Kayo
+\smf (un pont sur la route
+Bamako-Koulikoro)
+\dt 30/Sep/2018
 
 \lx Kazamansi
 \ty пров.
@@ -5049,6 +5069,14 @@ gauche du Niger)
 Koulikoro)
 \dt 02/Feb/2017
 
+\lx Oguwe
+\ps n.pers
+\gf TOP
+\gvf Ogooué
+\gvf Ogowe
+\smf (un fleuve au Gabon)
+\dt 30/Sep/2018
+
 \lx Olandi
 \va Holandi
 \ty гос.
@@ -5500,10 +5528,10 @@ Ségou)
 \ru Санкарани
 \ps n.prop
 \gf TOP
-\smf (ville de Guinée)
 \gvf Sanakarani
-\cm (в Гвинее, приток Нигера)
-\dt 23/May/2010
+\smf (rivière en Guinée et au Mali, un
+affluent de Niger)
+\dt 30/Sep/2018
 
 \lx San-Pedoro
 \ps n.prop
@@ -5880,6 +5908,13 @@ de Mopti)
 Djenné, région de Mopti)
 \dt 15/Nov/2017
 
+\lx Sogoninkɔ
+\ps n.prop
+\gf TOP
+\gvf Sogoniko
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
 \lx Sogbɛ
 \ty кв.
 \ru Согбе
@@ -5888,13 +5923,6 @@ Djenné, région de Mopti)
 \smf (quartier à Kankan)
 \cm (в Канкане)
 \dt 23/May/2010
-
-\lx Sogoninkɔ
-\ps n.prop
-\gf TOP
-\gvf Sogoniko
-\smf (un quartier dans la commune 6 de Bamako)
-\dt 04/Jun/2016
 
 \lx Sòkálakɔ̀nɔ
 \ty кв.
@@ -6489,13 +6517,11 @@ invahisseurs marocains et les Songhaï en 1591)
 
 \lx Túruke
 \va Túruki
-\ty гос.
+\va Túriki
 \ps n.prop
 \gf TOP
-\smf (pays)
 \gvf Turquie
-\ru Турция
-\dt 23/Oct/2016
+\dt 30/Sep/2018
 
 \lx Tusegela
 \ps n.prop

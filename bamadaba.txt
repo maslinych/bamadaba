@@ -1,4 +1,4 @@
-\_sh v3.0  231  MDF 4.0
+\_sh v3.0  1296 MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -11889,7 +11889,9 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ms 2
 \gvf anthrax
 \smf (un des symptômes du charbon)
-\dt 09/Mar/2018
+\ms 3
+\gvf cancer
+\dt 30/Sep/2018
 
 \lx bón
 \ps v
@@ -15972,6 +15974,15 @@ médicinales)
 \smf (en les faisant rouler ...)
 \dt 13/Mar/2018
 
+\lx cɛ̀ɛnku
+\va cɛ̀ɛnkun
+\va cɛ̀ɛnkɛ
+\ps v
+\vl vt
+\gf aiguiser
+\gvf aiguiser
+\dt 29/Sep/2018
+
 \lx cɛɛrucɛɛru
 \va cɛnruncɛnrun
 \ps v
@@ -19599,7 +19610,9 @@ saillie)
 \dt 19/Oct/2017
 
 \lx dáfabali
-\mm dáfa:v:compléter
+\mm dá.fa:v:compléter
+\mmm dá:n:bouche
+\mmm fá:v:remplir
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \ms 1
@@ -19609,7 +19622,7 @@ saillie)
 \gvf décimal
 \smf (néo) opposé au nombre entier
 \rem du
-\dt 11/Nov/2007
+\dt 30/Sep/2018
 
 \lx dáfaji
 \mm dáfa:v:compléter
@@ -19620,8 +19633,21 @@ saillie)
 \gvf simple d'esprit
 \dt 16/Aug/2006
 
+\lx dáfalan
+\mm dá.fa:v:compléter
+\mmm dá:n:bouche
+\mmm fá:v:remplir
+\mm lan:mrph:INSTR
+\ps n
+\gf supplément
+\gvf supplément
+\gvf complément
+\dt 30/Sep/2018
+
 \lx dáfalen
-\mm dáfa:v:compléter
+\mm dá.fa:v:compléter
+\mmm dá:n:bouche
+\mmm fá:v:remplir
 \mm len:mrph:PTCP.RES
 \ps n
 \gf voyelle
@@ -19629,7 +19655,7 @@ saillie)
 \smf (néologisme : son 'complet' en lui-même)
 \xv dáfalen sàmalen
 \xf voyelle longue
-\dt 16/Aug/2006
+\dt 30/Sep/2018
 
 \lx dáfalen
 \mm dáfa:v:compléter
@@ -19666,13 +19692,15 @@ saillie)
 \dt 16/Aug/2006
 
 \lx dáfalenya
-\mm dá:n:bouche
-\mm fàlen:v:échanger
+\mm dá.fa:v:compléter
+\mmm dá:n:bouche
+\mmm fá:v:remplir
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \gf perfection
 \gvf perfection
-\dt 11/Nov/2007
+\dt 30/Sep/2018
 
 \lx dáfanɛ
 \mm dá:n:bouche
@@ -19736,14 +19764,19 @@ saillie)
 \dt 26/Sep/2006
 
 \lx dáfata
-\mm dá:n:bouche
-\mm fá:v:remplir
+\mm dá.fa:v:compléter
+\mmm dá:n:bouche
+\mmm fá:v:remplir
 \mm ta:mrph:PTCP.POT
 \ps n
+\usf néol.
+\ms 1
 \gf consonne
 \gvf consonne
-\smf (néologisme)
-\dt 16/Aug/2006
+\ms 2
+\gvf principal
+\smf (proposition)
+\dt 30/Sep/2018
 
 \lx dáfe
 \ps n
@@ -19863,12 +19896,13 @@ saillie)
 
 \lx dáfin
 \mm dá:n:bouche
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf Dafing
 \gvf Dafing
-\smf (ethnie du Mali et du Burkina-faso)
-\dt 16/Aug/2006
+\smf (ethnie mandingue du Mali et du
+Burkina Faso, sa langue)
+\dt 26/Sep/2018
 
 \lx dáfiɲɛ
 \mm dá:n:bouche
@@ -25889,6 +25923,8 @@ porte jusqu'à ce que passe le chef
 \ps n
 \gf laiton
 \gvf laiton
+\gvf cuivre jaune
+\dt 30/Sep/2018
 
 \lx dɛ̀rɛ
 \va dɛ̀rɛn
@@ -32248,11 +32284,14 @@ gens)
 \va fàga.baga
 \mm fàga:v:tuer
 \mm baga:mrph:AG.OCC
+\va fàa.baga
+\mm fàa:v:tuer
+\mm baga:mrph:AG.OCC
 \ps n
 \gf assassin
 \gvf assassin
 \gvf sacrificateur
-\dt 26/Sep/2006
+\dt 30/Sep/2018
 
 \lx fàafɛn
 \mm fàa:v:tuer
@@ -43688,8 +43727,8 @@ forestières, fruit : long follicule de 50 cm)
 \gvf entrave
 \ms 2
 \gvf cerclage
-\smf (des greniers, des toits de paille...)
-\dt 02/May/2018
+\smf (des greniers, des toits de paille)
+\dt 26/Sep/2018
 
 \lx gáran
 \va gára
@@ -45553,10 +45592,17 @@ caractéristique, réputé pour faciliter la procréation)
 \dt 22/Mar/2015
 
 \lx gòbi
+\va gòbinin
 \ps n
-\gf blanc.célibataire
+\ms 1
+\gf soldat.blanc
+\gvf soldat blanc
+\smf (de l'époque coloniale)
+\ms 2
 \gvf blanc célibataire
-\dt 16/Aug/2006
+\ms 3
+\gvf homme turbulent qui a un faible pour les femmes
+\dt 30/Sep/2018
 
 \lx gódo
 \ps v
@@ -46431,7 +46477,6 @@ douanier, milicien, etc.)
 \xf en venant, je suis arrivé à un gros ficus
 \ms 2
 \vl vt
-\gvf joindre
 \gvf atteindre
 \gvf frapper
 \xv màli yé kúrun gún
@@ -46441,7 +46486,7 @@ douanier, milicien, etc.)
 \gvf soudoyer
 \xv tɛ́ né gún fɛ́n ná ?
 \xf tu ne me fais pas un petit cadeau ?
-\dt 07/Jun/2014
+\dt 25/Sep/2018
 
 \lx gúnban
 \ve (f)
@@ -51943,7 +51988,6 @@ l'eau
 \xf je m'en suis souvenu
 \ms 1.2
 \vl vt
-\gf descendre de
 \gvf descendre de
 \xv ù tùn bɛ́ ɲɔ́gɔn gɛ́nna kà bón bíli yɛ̀lɛn, k'à jìgin
 \xf ils étaient en train de courir l'un après l'autre, il montaient sur
@@ -51980,7 +52024,7 @@ le toit de la maison et descendaient
 \gvf rappeler
 \xv í kà  né hákili jìgin  ò lá !
 \xf rappelle-le moi !
-\dt 07/Feb/2017
+\dt 24/Sep/2018
 
 \lx jìginda
 \mm jìgin:v:descendre
@@ -61406,6 +61450,12 @@ probablement de chaux vive)
 \xv kélèn ká fìsa  bìlen yé !
 \xf mieux vaut "déjà!" que "trop tard!" (dicton)
 \dt 12/Dec/2017
+
+\lx kélèn
+\ps adv
+\gf déjà
+\gvf déjà
+\dt 27/Sep/2018
 
 \lx kélenna
 \mm kélen:num:un
@@ -73706,9 +73756,23 @@ le pouvoir administratif suprême)
 \mm kó:n:affaire
 \mm lá:pp:à
 \ps n
+\ms 1
 \gf égoïsme
 \gvf égoïsme
-\dt 27/Jan/2016
+\ms 2
+\gvf négligence
+\dt 30/Sep/2018
+
+\lx kùnbɔnkola
+\mm kùn:n:tête
+\mm bɔ́:v:sortir
+\mm ń:pers:1SG
+\mm kó:n:affaire
+\mm lá:pp:à
+\ps n
+\gf négligence
+\gvf négligence
+\dt 30/Sep/2018
 
 \lx kùncɛ
 \mm kùn:n:tête
@@ -84257,9 +84321,9 @@ jour, c'est une personne dépendante qu'il voit
 \vl vt
 \gf frapper
 \gvf frapper
-\xv ù bɛ́  màngo màgɔsi
+\xv ù bɛ́ màngo màgɔsi
 \xf ils frappent sur la clochette
-\dt 21/Jan/2015
+\dt 24/Sep/2018
 
 \lx màhinɛ
 \ps n
@@ -98242,10 +98306,11 @@ graines, sert d'instrument rythmique)
 \xf il est parti à cheval, je vais le suivre à la trace
 \ms 2
 \gvf faire apparaître
-\smf (avec netteté (trace de crayon, de craie ...))
+\smf (avec netteté: trace de crayon, de
+craie ...)
 \xv ń bɛ́  krɛ́yɔn nɔ̀bɔ́ kà sɛ́bɛnni kɛ́
 \xf j'écris nettement au crayon
-\dt 14/Apr/2018
+\dt 30/Sep/2018
 
 \lx nɔ̀fɛ̀
 \mm nɔ̀:n:trace
@@ -101769,12 +101834,23 @@ graines, sert d'instrument rythmique)
 
 \lx ntɔ̀nkuna
 \mm ntɔ̀n:n:sauterelle
-\mm kúna:vq:amer
+\mm kúna:adj:amer
+\va ntɔ̀nkunan
+\mm ntɔ̀n:n:sauterelle
+\mm kúnan:adj:amer
+\va ntɔ̀nkunannin
+\mm ntɔ̀n:n:sauterelle
+\mm kúna:adj:amer
+\mm nin:mrph:DIM
+\va ntɔ̀nninkunan
+\mm ntɔ̀n:n:sauterelle
+\mm nin:mrph:DIM
+\mm kúna:adj:amer
 \ps n
 \gf petite.sauterelle
 \gvf petite sauterelle
 \smf (affectionne les agrumes)
-\dt 16/Aug/2006
+\dt 30/Sep/2018
 
 \lx ntɔ̀ɲɔ
 \ve (f,bk)
@@ -112612,6 +112688,15 @@ épuisés
 \gvf projet
 \dt 26/Sep/2006
 
+\lx sàgonata
+\mm sàgo:n:volonté
+\mm nata:mrph:MNT2
+\ps n
+\gf volonté
+\gvf volonté
+\gvf désir
+\dt 30/Sep/2018
+
 \lx sàgonni
 \mm sàgon:v:sauter.par.dessus
 \mm ni:mrph:NMLZ
@@ -116778,28 +116863,40 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sènnateli
 \mm sèn.na:n:allure
-\mm sèn:n:jambe
-\mm ná:pp:à
+\mmm sèn:n:jambe
+\mmm ná:pp:à
 \mm téli:adj:rapide
+\va sènnatɛli
+\mm sèn.na:n:allure
+\mmm sèn:n:jambe
+\mmm ná:pp:à
+\mm tɛ́li:adj:rapide
 \ps adj
 \gf pressé
 \gvf pressé
 \gvf rapide
-\dt 07/Dec/2014
+\dt 30/Sep/2018
 
 \lx sènnatéliya
-\mm sènnateli:adj:pressé
-\mm sèn.na:n:allure
-\mm sèn:n:jambe
-\mm ná:pp:à
-\mm téli:adj:rapide
+\mm sènna.téli:adj:pressé
+\mmm sèn.na:n:allure
+\mmmm sèn:n:jambe
+\mmmm ná:pp:à
+\mmm téli:adj:rapide
+\mm ya:mrph:ABSTR
+\va sènnatɛ́liya
+\mm sènna.tɛ́li:adj:pressé
+\mmm sèn.na:n:allure
+\mmmm sèn:n:jambe
+\mmmm ná:pp:à
+\mmm tɛ́li:adj:rapide
 \mm ya:mrph:ABSTR
 \ps v
 \vl vr
 \gf presser.l'allure
 \gvf presser l'allure
 \smf (pour le piéton)
-\dt 14/Apr/2018
+\dt 30/Sep/2018
 
 \lx sènnayáala
 \mm sèn:n:jambe
@@ -117796,6 +117893,8 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 16/Aug/2006
 
 \lx sɛ̀gɛn
+\va sɛ̀ngɛn
+\va sɛ̀ngɛ
 \ps n
 \ms 1
 \gf fatigue
@@ -117807,9 +117906,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf pauvreté
 \xv sɛ̀gɛn b'á lá
 \xf il est dans la misère
-\dt 26/Sep/2006
+\ms 3
+\gvf peine
+\gvf travail dur
+\dt 30/Sep/2018
 
 \lx sɛ̀gɛn
+\va sɛ̀ngɛn
+\va sɛ̀ngɛ
 \ps v
 \vl vt
 \ms 1
@@ -117827,7 +117931,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \ms 4
 \gvf importuner
 \gvf gêner
-\dt 26/Sep/2006
+\dt 30/Sep/2018
 
 \lx sɛ̀gɛnbaatɔ
 \mm sɛ̀gɛn:v:fatiguer
@@ -129058,10 +129162,14 @@ flaques d'eau)
 \mm lan:mrph:dans
 \mm gó:adj:désagréable
 \mm ya:mrph:ABSTR
+\va tɛ́gɛ.go.ya
+\mm tɛ́gɛ:n:paume
+\mm gó:adj:désagréable
+\mm ya:mrph:ABSTR
 \ps n
 \gf maladresse
 \gvf maladresse
-\dt 23/Mar/2015
+\dt 30/Sep/2018
 
 \lx tɛ́gɛlateli
 \mm tɛ́gɛla:n:main.active
@@ -133011,10 +133119,10 @@ est due aux paysans (kib 3/05 p.9)
 \mm bɔ́:v:sortir
 \ps v
 \vl vt
-\gf bénéfisier.de
-\gvf bénéfisier de
+\gf bénéficier.de
+\gvf bénéficier de
 \gvf profiter de
-\dt 02/May/2018
+\dt 30/Sep/2018
 
 \lx tɔ̀nɔmada
 \mm tɔ̀nɔ:n:gain

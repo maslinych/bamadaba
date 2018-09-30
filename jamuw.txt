@@ -827,13 +827,6 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \ps n.prop
 \gf NOM.CL
 
-\lx Gboɛta
-\di (soninké)
-\ca jèli
-\dt 06/May/2010
-\ps n.prop
-\gf NOM.CL
-
 \lx Gey
 \di wlf
 \dt 06/May/2010
@@ -920,6 +913,13 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \di tou
 \smf (Charpentiers toutcouleurs (laobe), constructeurs de bateaux.)
 \smr (Тукулёры-столяры (laobe), изготовители лодок.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gboɛta
+\di (soninké)
+\ca jèli
 \dt 06/May/2010
 \ps n.prop
 \gf NOM.CL
