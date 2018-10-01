@@ -36213,12 +36213,18 @@ bien (dicton)
 \dt 08/May/2017
 
 \lx fɛ́nko
+\mm fɛ́n:n:chose
+\mm kó:n:affaire
 \ps n
+\ms 1
 \gf sexualité
 \gvf sexualité
 \xv mùsomannin mínnu fɛ́nko ká bòn,  à t'ólu fána fɛ̀...
 \xf il ne veut pas non plus de jeune fille assoiffée de plaisirs sexuels (kb 1/06 p. 8)
-\dt 11/Nov/2007
+\ms 2
+\gvf biens matériels
+\gvf désir des biens matériels
+\dt 01/Oct/2018
 
 \lx fɛ́nkɔrɔ
 \mm fɛ́n:n:chose
@@ -95663,18 +95669,18 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \lx ngúnanìnjɛ́
 \mm nin:mrph:DIM
 \mm jɛ́:adj:blanc
-\va nkùnan.jɛ
+\va nkùnanjɛ
 \mm jɛ́:adj:blanc
 \va nkóna.jɛ
 \mm jɛ́:adj:blanc
 \ps n
 \gf héron.garde-boeuf
 \gvf héron garde-boeuf
-\lat Ardeola.ibis
+\lat Ardeola ibis
 \gvf aigrette garzette
 \lat Egretta garzetta
 \smf (petit héron, à distance paraît tout blanc, grégaire, lié à la présence du bétail)
-\dt 09/Jul/2013
+\dt 30/Sep/2018
 
 \lx ngùre
 \va nkùre
@@ -112706,6 +112712,19 @@ épuisés
 \gvf désir
 \gvf convenance
 \dt 26/Sep/2006
+
+\lx sàgonada
+\mm sàgo.na:n:volonté
+\mmm sàgo:n:volonté
+\mmm na:mrph:MNT1
+\mm dá:n:bouche
+\ps n
+\gf gré
+\gvf gré
+\gvf volonté
+\xv kà à dòn í sàgonada fɛ̀
+\xf l'utiliser à son gré
+\dt 01/Oct/2018
 
 \lx sàgonako
 \mm sàgo.na:n:volonté
