@@ -6380,20 +6380,24 @@ feu)
 \mm bá:n:base
 \mm yɛ̀lɛma:v:changer
 \ps v
+\ms 1.1
 \vl vt
-\ms 1
 \gf transformer
 \gvf transformer
 \gvf changer
+\ms 1.2
+\vl vt
 \gvf dénaturer
 \ms 2
+\vl vt
 \gvf digérer
 \smf (nourriture)
 \ms 3
+\vl vt
 \gvf traduire
 \xv ù yé  fàama ká kúma báyɛlɛma  bámanakan ná
 \xf ils ont traduit en bambara les paroles du chef d'arrondissement
-\dt 21/Dec/2014
+\dt 03/Oct/2018
 
 \lx báyɛlɛmabaga
 \mm bá:n:base
@@ -8806,7 +8810,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bìn
 \va bì
 \ps v
-\ms 1
+\ms 1.1
 \vl vi
 \gf tomber
 \gvf tomber
@@ -8817,9 +8821,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xf il y eut une grande famine
 \xv sònyalikɛla bìra  à kàn
 \xf les voleurs lui sont tombés dessus
+\ms 1.2
 \vl vt
 \gvf faire tomber
-\xv fàli yé  né bìn
+\xv fàli yé né bìn
 \xf l'âne m'a fait tomber
 \xv jàlaki bìn  mɔ̀gɔ kàn
 \xf juger que quelqu'un est coupable
@@ -8864,7 +8869,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf attaquer
 \gvf violer
 \smf (qqn -- kàn)
-\dt 26/Feb/2014
+\dt 04/Oct/2018
 
 \lx bìn
 \ps n
@@ -10519,9 +10524,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ms 2
 \gvf satisfaction
 \gvf confiance parfaite
-\xv bólofa bɛ́  à kàn
+\xv bólofa bɛ́ à kàn
 \xf on a en elle une confiance parfaite
-\dt 26/Sep/2006
+\ms 3
+\gvf particulièrement
+\gvf notamment
+\xv bólofa b'à tá kàn
+\xf lui en particulier, une importance particulière est accordée à lui
+\dt 03/Oct/2018
 
 \lx bólofara
 \mm bólo:n:bras
@@ -19677,9 +19687,10 @@ saillie)
 \gf serment
 \gvf serment
 \gvf promesse
+\gvf voeu
 \xv à yé  dáfalen dòn  Ála lá  kó...
 \xf il a juré devant Dieu que ...
-\dt 26/Sep/2006
+\dt 04/Oct/2018
 
 \lx dáfalen
 \mm dá:n:bouche
@@ -37791,9 +37802,11 @@ frontières, forestiers, sapeurs)
 \xf prendre l'air, un temps de récréation
 \xv fíyɛn mìnɛ k'à bìla
 \xf respirer  (inspirer / expirer)
+\xv kà fiɲɛ kɛ́ í yɛ̀lɛnso yé
+\xf s'enfuir
 \ms 2
 \gvf gaz
-\dt 11/Mar/2018
+\dt 03/Oct/2018
 
 \lx fíɲɛbɔda
 \mm fíɲɛ:n:vent
@@ -46050,18 +46063,21 @@ douanier, milicien, etc.)
 \smf (une femelle)
 \ms 4
 \vl vt
-\gvf construire
+\gvf tirer sur
 \ms 5
 \vl vt
-\gvf picorer
+\gvf construire
 \ms 6
 \vl vt
-\gvf castrer
+\gvf picorer
 \ms 7
+\vl vt
+\gvf castrer
+\ms 8
 \vl vr
 \usf pop.
 \gvf se finguer
-\dt 20/Sep/2018
+\dt 04/Oct/2018
 
 \lx gòsidenwɔɔrɔ
 \mm gòsi:v:battre
@@ -51872,12 +51888,14 @@ l'eau
 \xv jìgi fá
 \xv jìgi tùgu
 \xf combler l'espoir
+\xv jìgi kɛ́ à yé
+\xf placer ses espérence en quelqu'un
 \ms 2
 \gvf personne sur laquelle on compte
 \gvf ami
 \xv í jìgi b'í dɛ̀mɛ
 \xf ton ami te dépanne
-\dt 10/Mar/2018
+\dt 01/Oct/2018
 
 \lx jìgi
 \ps v
@@ -123760,7 +123778,7 @@ euphémique)
 \gvf trouver
 \xv à y'á sɔ̀rɔ só
 \xf il l'a trouvée vierge (sa jeune femme)
-\dt 26/Sep/2006
+\dt 05/Oct/2018
 
 \lx sɔ́rɔ
 \ps n
@@ -134905,11 +134923,22 @@ arrière grand-père est mort
 \va túnun
 \ve (f,bk)
 \ps v
-\vl vt/vi
+\ms 1.1
+\vl vi
 \gf perdre
 \gvf perdre
+\ms 1.2
+\vl vi
+\gvf disparaître
 \gvf égarer
-\dt 26/Sep/2006
+\ms 2.1
+\vl vi
+\gvf faire un plongeon
+\gvf plonger
+\ms 2.2
+\vl vi
+\gvf se noyer
+\dt 04/Oct/2018
 
 \lx tùrabu
 \va tàrabu
