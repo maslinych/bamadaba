@@ -1,4 +1,4 @@
-\_sh v3.0  231  MDF 4.0
+\_sh v3.0  1296 MDF 4.0
 
 \lang bam
 \name jamuw
@@ -48,10 +48,10 @@
 \sm Jakitɛ
 \sm Fɔnba
 \sm Togola
-\fm Danba
+\fm Danba, Baaba
 \sm bula
 \tt bàga
-\dt 25/Apr/2018
+\dt 20/Nov/2018
 \ps n.prop
 \gf NOM.CL
 
@@ -394,7 +394,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \eq Kamara
 \eq Fofana
 \eq Magasa
-\fm Danbe
+\fm Danbe, Balanba
 \fa Danfaga
 \sm Keyita
 \sm Sangare
@@ -403,7 +403,7 @@ Appartient au nombre des «cinq premiers musulmans» du Mandé.
 \sm Jalo
 \smf (Ancêtre - Jatra Dansongo.)
 \smr (Родоначальник - Jatra Dansogo.)
-\dt 04/May/2010
+\dt 20/Nov/2018
 \ps n.prop
 \gf NOM.CL
 

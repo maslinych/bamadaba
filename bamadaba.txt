@@ -2623,7 +2623,7 @@ tamnifolia
 \ms 2
 \gvf impudique
 \smf ([fig])
-\dt 27/Nov/2014
+\dt 06/Oct/2018
 
 \lx bákɔrɔ
 \mm bá:n:mère
@@ -3804,17 +3804,15 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \xf il a désobéi à sa mère
 \ms 2
 \vl vi
-\gf refuser
 \gvf refuser
 \smf (d'avancer (animal) ; de démarrer (moteur...))
 \xv màrifa bànna
 \xf le coup de fusil n'est pas parti
 \ms 3
 \vl vr
-\gf abandonner
 \gvf abandonner
 \smf (qqn -- mà)
-\dt 20/Feb/2014
+\dt 07/Dec/2018
 
 \lx bàn
 \va nbàn
@@ -5115,13 +5113,14 @@ Fleurs spectaculaires)
 \dt 16/Aug/2006
 
 \lx bàranda
+\di (Sikasso)
 \ps n
 \gf banane.plantain
 \gvf banane plantain
 \lat Musa paradisiaca
 \sd musa
 \sy lòko
-\dt 19/Aug/2006
+\dt 15/Oct/2018
 
 \lx bàranda
 \ps v
@@ -6385,7 +6384,17 @@ feu)
 \gf transformer
 \gvf transformer
 \gvf changer
+\smf (en -- kà à kɛ́ ... yé)
 \ms 1.2
+\vl vi
+\gvf se transformer
+\smf (en -- kà (a)̀ kɛ́ ... yé)
+\ms 1.3
+\vl vt
+\gvf traiter
+\smf (une substance, pour la transformer)
+\gvf recycler
+\ms 2
 \vl vt
 \gvf dénaturer
 \ms 2
@@ -6397,7 +6406,7 @@ feu)
 \gvf traduire
 \xv ù yé  fàama ká kúma báyɛlɛma  bámanakan ná
 \xf ils ont traduit en bambara les paroles du chef d'arrondissement
-\dt 03/Oct/2018
+\dt 27/Nov/2018
 
 \lx báyɛlɛmabaga
 \mm bá:n:base
@@ -7177,11 +7186,17 @@ rhume, toux)
 \vl vi
 \gf aborder
 \gvf aborder
+\smf (arriver au rivage)
 \ms 1.2
 \vl vt
 \gvf faire aborder
 \xv ù yé  kúrun bɛ́lɛn
 \xf ils ont amené la barque à la rive
+\ms 1.3
+\vl vr
+\gvf accoster
+\gvf aborder
+\smf (arriver au rivage)
 \ms 2
 \vl vt
 \gvf guetter
@@ -7193,7 +7208,7 @@ rhume, toux)
 \gvf s'approcher doucement
 \xv à y'í bɛ́lɛn  k'í sìgi kɔ́ fɛ̀:
 \xf il est venu discrètement s'asseoir au fond
-\dt 15/Sep/2018
+\dt 27/Nov/2018
 
 \lx bɛ̀lɛnbɛlɛn
 \ps n
@@ -7922,13 +7937,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf garde
 \gvf protection
 \sy kàlifa
-\xv án bɛ́  í ká bìla lá
+\xv án bɛ́ í ká bìla lá
 \xf nous sommes à ta disposition
 \ms 3
 \gvf dispositio
 \xv ń bɛ́ í ka bìla lá
 \xe je suis à ta disposition
-\dt 04/Dec/2017
+\dt 06/Oct/2018
 
 \lx bìla
 \va blà
@@ -10522,16 +10537,20 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf poignée
 \sy bóloɲa
 \ms 2
+\gvf fuseau rempli de fil
+\ms 3
+\gvf contribution
+\ms 4
 \gvf satisfaction
 \gvf confiance parfaite
 \xv bólofa bɛ́ à kàn
 \xf on a en elle une confiance parfaite
-\ms 3
+\ms 5
 \gvf particulièrement
 \gvf notamment
 \xv bólofa b'à tá kàn
 \xf lui en particulier, une importance particulière est accordée à lui
-\dt 03/Oct/2018
+\dt 27/Nov/2018
 
 \lx bólofara
 \mm bólo:n:bras
@@ -13738,13 +13757,12 @@ toujours (pro)
 \vl vt
 \gvf vaincre
 \gvf battre
-\smf (sport)
 \ms 4
 \usf pop.
 \vl vt
 \gvf bouffer
 \smf (manger)
-\dt 01/Sep/2018
+\dt 26/Nov/2018
 
 \lx bùgɔli
 \mm bùgɔ:v:frapper
@@ -15535,13 +15553,13 @@ médicinales)
 \gf salut
 \gvf salut
 \smf (salut à des travailleurs)
-\xv á ní  cé !
+\xv á ní cé !
 \xf salut (vous et le travail !)
-\xv í ní  cé ! (áu sín)
+\xv í ní cé ! (áu sín)
 \xf ou merci (pour une bonne action)
-\xv á ní  cé !
+\xv á ní cé !
 \xf merci  (vous et la bonne oeuvre)
-\dt 15/Apr/2016
+\dt 13/Nov/2018
 
 \lx cèlu
 \ps n
@@ -22609,10 +22627,10 @@ devenir incontrôlable
 \gf igname-Guinée
 \gvf igname-Guinée
 \gvf igname de Cayenne
-\gvf Dioscorea cayennensis
+\lat Dioscorea cayennensis
 \ms 2
-\gvf Dioscorea bulbifera
-\dt 05/Jun/2016
+\lat Dioscorea bulbifera
+\dt 08/Dec/2018
 
 \lx dánanjugu
 \mm júgu:vq/adj:mauvais
@@ -29656,6 +29674,9 @@ désorienter')
 \lx dɔ́nmɔgɔ
 \mm dɔ́n:v:connaître
 \mm mɔ̀gɔ:n:homme
+\va dɔ́nmaa
+\mm dɔ́n:v:connaître
+\mm màa:n:homme
 \ps n
 \ms 1
 \gf connaissance
@@ -29664,7 +29685,7 @@ désorienter')
 \gvf personne connue
 \gvf ami
 \sy dɔ́nbaa
-\dt 26/Sep/2006
+\dt 08/Dec/2018
 
 \lx dɔ́nni
 \mm dɔ́n:v:connaître
@@ -32537,7 +32558,7 @@ gens)
 \dt 16/Mar/2018
 
 \lx fàamuyali
-\mm fàamuya:v:comprendre
+\mmm fàamuya:v:comprendre
 \mm fàamu:v:comprendre
 \mm ya:mrph:ABSTR
 \mm li:mrph:NMLZ
@@ -32547,7 +32568,7 @@ gens)
 \gvf compréhension
 \xv sísan, ò làada cáman dábilara, ò bɛ́ sɔ̀rɔ fàamuyali fɛ̀
 \xf maintenant, on a abandonné beaucoup de ces coutumes,c'est dû à une (meilleure) compréhension (des choses)
-\dt 16/Mar/2018
+\dt 08/Dec/2018
 
 \lx fàantan
 \mm fàa:n:force
@@ -35003,22 +35024,27 @@ compagnie ...
 \va pàsa
 \va fàsan
 \ps v
-\ms 1
+\ms 1.1
+\vl vi
+\gf maigrir
+\gvf maigrir
+\ms 1.2
 \vl vt
-\gf rendre.consistant
-\gvf rendre consistant
-\gvf rendre coriace
 \gvf faire maigrir
-\xv tò fàsa
-\xf épaissir le "to"
 \xv bàna y'á fàsa
 \xf la maladie l'a amaigri
 \ms 2
+\vl vt
+\gvf rendre consistant
+\gvf rendre coriace
+\xv tò fàsa
+\xf épaissir le "to"
+\ms 3
 \vl vr
 \gvf s'obstiner à nier
-\xv ń'í y'í fàsa  ò lá...
+\xv ń'í y'í fàsa ò lá...
 \xf si tu t'obstines à ... (nier, mal agir ...)
-\dt 12/Jun/2016
+\dt 08/Dec/2018
 
 \lx fàsaba
 \mm fàsa:n:tendon
@@ -35588,6 +35614,15 @@ bien (dicton)
 \gf à.vendre
 \gvf à vendre
 \dt 26/Sep/2006
+
+\lx féfewu
+\ps adv
+\gf totelement
+\gvf totelement
+\smf (à l'affirmatif)
+\gvf nullement
+\smf (au négatif; une forme intensive de féwu)
+\dt 30/Nov/2018
 
 \lx fèlefala
 \ps v
@@ -40115,17 +40150,20 @@ sur le ventre -- í kɔ́nɔ kàn)
 \gf autrefois
 \gvf autrefois
 \sy gále
-\xv nìn bɔ́ra  né lá fɔ́lɔ
+\xv nìn bɔ́ra né lá fɔ́lɔ
 \xf j'ai eu cette maladie là autrefois
 \ms 2
 \gvf d'abord
 \ms 3
+\gvf désormais
+\gvf déjà
+\ms 4
 \gvf encore
 \smf (+ négation)
 \sy bán
 \xv à má nà fɔ́lɔ
 \xf il n'est pas encore arrivé
-\dt 04/Apr/2018
+\dt 28/Nov/2018
 
 \lx fɔ́lɔ
 \ps v
@@ -41262,9 +41300,10 @@ forestières, fruit : long follicule de 50 cm)
 \va fúnunfùnun
 \ps n
 \gf tourbillon
-\gvf tourbillon
+\gvf tourbillon de vent
+\gvf tornade
 \gvf petit cyclone
-\dt 11/Jun/2018
+\dt 13/Oct/2018
 
 \lx fùra
 \va fùran
@@ -43294,7 +43333,11 @@ forestières, fruit : long follicule de 50 cm)
 \gvf fétiche
 \ms 2
 \gvf société d'initiation
-\dt 26/Sep/2006
+\ms 3
+\di (Sikaso)
+\gvf corne
+\smf (d'animal)
+\dt 15/Oct/2018
 
 \lx gàn
 \va gwàn
@@ -45082,9 +45125,10 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \lx gɛrɛki
 \va grɛki
 \ps n
-\gf grecque
+\gf grec
+\gvf grec
 \gvf grecque
-\dt 19/Dec/2012
+\dt 12/Oct/2018
 
 \lx gɛ̀rɛn
 \va gwɛ̀rɛn
@@ -45570,11 +45614,17 @@ caractéristique, réputé pour faciliter la procréation)
 \gvf joueuse de gita
 \dt 16/Aug/2006
 
-\lx gitɔrɔn
+\lx gìtɔrɔn
+\va gùdɔrɔn
+\va gìdɔrɔn
+\va gùtɔrɔn
+\bw fr. goudron
+\ps n
 \ps n
 \gf goudron
 \gvf goudron
-\dt 18/Apr/2013
+\gvf asphalte
+\dt 16/Nov/2018
 
 \lx gíwu
 \ps adv
@@ -46441,12 +46491,6 @@ douanier, milicien, etc.)
 \gvf grin
 \smf (groupe d'amis qui se réunissent pour prendre le thé ensemble)
 \dt 28/Feb/2013
-
-\lx gùdɔrɔn
-\bw fr.
-\ps n
-\gf asphalte
-\gvf asphalte
 
 \lx gúdu
 \va gúdun
@@ -47448,6 +47492,13 @@ doigts par des fileuses du coton)
 \xv à mán kɛ́nɛ, hálì à tɛ́ sé kà táama
 \xf il est malade au point de ne pas pouvoir marcher
 \dt 13/Jul/2017
+
+\lx hálila
+\ps adv
+\gf très
+\gvf très
+\gvf très fort
+\dt 07/Dec/2018
 
 \lx hálisà
 \va hálìsa
@@ -51089,6 +51140,12 @@ calebasses)
 \rem l 89 / du
 \dt 11/Nov/2007
 
+\lx jɛ̀ɛrɛ
+\ps n
+\gf réunion
+\gvf réunion
+\dt 08/Dec/2018
+
 \lx jɛ̀fali
 \mm jɛ̀:n:porc
 \mm fàli:n:âne
@@ -54590,18 +54647,21 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \va jɔ̀ɔrɔ
 \va jɔ̀rɛ
 \ps v
+\ms 1
 \vl vi
 \gf s'inquiéter
 \gvf s'inquiéter
+\smf (au sujet de -- ni ... yé)
 \gvf redouter
 \xv ɲìnan, mɔ̀gɔ bɛ́ jɔ̀rɔ  bàloko lá
 \xf cette année, les gens craignent la disette
+\ms 2
 \vl vt
 \gvf inquiéter qn
 \gvf faire peur à
 \xv kàrisa ká bàna bɛ́ ń jɔ̀rɔ
 \xf la maladie d'un tel m'inquiète
-\dt 13/Jun/2018
+\dt 22/Nov/2018
 
 \lx jɔ̀sen
 \mm jɔ̀:n:station.debout
@@ -61505,6 +61565,24 @@ probablement de chaux vive)
 \smf (dans l'expression: kélen-kélenna bɛ́ɛ 'tout et chacun')
 \dt 02/May/2018
 
+\lx kélennabila
+\mm kélen:num:un
+\mm ná:pp:à
+\mm bìla:n:abandon
+\ps n
+\gf isolation
+\gvf isolation
+\dt 08/Dec/2018
+
+\lx kélennabila
+\mm kélen:num:un
+\mm ná:pp:à
+\mm bìla:n:abandon
+\ps adj
+\gf isolé
+\gvf isolé
+\dt 08/Dec/2018
+
 \lx kélennajɔ
 \mm kélen:num:un
 \mm ná:pp:à
@@ -65739,9 +65817,16 @@ champs)
 \mm kólo:n:os
 \mm nin:mrph:DIM
 \ps n
+\ms 1
 \gf petit.bouton
 \gvf petit bouton
-\dt 16/Aug/2006
+\ms 2
+\src BZ
+\gvf agrafe en métal
+\ms 3
+\src KT
+\gvf sorte de bijou de femme
+\dt 27/Nov/2018
 
 \lx kòlonkala
 \mm kòlon:n:mortier
@@ -66851,12 +66936,15 @@ champs)
 \va kósɔbɛ
 \mm kó:n:affaire
 \mm sɔ̀bɛ:adj:sérieux
+\va kɔ́sɔbɛ
+\mm kó:n:affaire
+\mm sɔ̀bɛ:adj:sérieux
 \ps adv
 \gf très.bien
 \gvf très bien
 \gvf parfaitement
 \gvf beaucoup
-\dt 14/Feb/2018
+\dt 08/Dec/2018
 
 \lx kósikosi
 \ps v
@@ -79218,6 +79306,8 @@ catastrophe)
 \lx lájaba
 \va lájɛbɛ
 \ve (bk, f)
+\va láajaba
+\va lájaaba
 \ps v
 \vl vt
 \ms 1
@@ -79234,7 +79324,7 @@ catastrophe)
 \gvf aggraver
 \xv màajugu nàna  ù ká kɛ̀lɛ lájaba
 \xf de méchantes  personnes sont venues attiser leur querelle
-\dt 30/Nov/2014
+\dt 30/Nov/2018
 
 \lx lájàmu
 \mm lá:mrph:CAUS
@@ -84196,14 +84286,15 @@ jour, c'est une personne dépendante qu'il voit
 \rem ex 21,7
 \dt 11/Nov/2007
 
-\lx màgasan
+\lx màgasa
 \va màngasa
+\va màngasan
 \ps n
 \gf entrepôt
 \gvf entrepôt
 \gvf magasin
 \gvf boutique
-\dt 06/Feb/2013
+\dt 15/Oct/2018
 
 \lx màgaya
 \mm màga:vq:mou
@@ -85307,15 +85398,15 @@ jour, c'est une personne dépendante qu'il voit
 \gvf beauté de chant
 \dt 25/Apr/2016
 
-\lx mán
+\lx man
 \ps pm
 \gf QUAL.NEG
 \gvf QUAL NEG
 \xv à mán dí
 \xf ce n'est pas bon
-\xv lèmuru mán jàn ní  sèbe yé
+\xv lèmuru man jàn ní  sèbe yé
 \xf le citronnier est moins grand que le rônier
-\dt 16/Aug/2006
+\dt 08/Dec/2018
 
 \lx màna
 \ps n
@@ -86749,12 +86840,13 @@ des engagements
 \lx màsaku
 \mm màsa:n:roi
 \mm kú:n:igname
+\di (Sikaso)
 \ps n
+\lat Ipomoea.batatas
 \gf patate.douce
 \gvf patate douce
-\lat Ipomoea.batatas
 \sd conv
-\dt 19/Aug/2006
+\dt 15/Oct/2018
 
 \lx màsaku
 \mm màsa:n:roi
@@ -89713,10 +89805,15 @@ homme
 \lx mɔ̀gɔtɔ
 \mm mɔ̀gɔ:n:homme
 \mm tɔ̀:n:le.reste
+\va màatɔ
+\mm màa:n:homme
+\mm tɔ̀:n:le.reste
 \ps n
 \gf personne.chétive
 \gvf personne chétive
-\dt 16/Aug/2006
+\gvf personne malingre
+\gvf avorton
+\dt 08/Dec/2018
 
 \lx mɔ̀gɔya
 \mm mɔ̀gɔ:n:homme
@@ -89752,6 +89849,22 @@ homme
 \gf grandir
 \gvf grandir
 \dt 01/May/2014
+
+\lx mɔ̀gɔyajɛ
+\mm mɔ̀gɔ.ya:n:humanité
+\mm mɔ̀gɔ:n:homme
+\mm ya:mrph:ABSTR
+\mm jɛ̀:n:assemblée
+\va màayajɛ
+\mm màa.ya:n:humanité
+\mm mɔ̀gɔ:n:homme
+\mm ya:mrph:ABSTR
+\mm jɛ̀:n:assemblée
+\ps n
+\gf organisation.sociale
+\gvf organisation sociale
+\gvf culture
+\dt 08/Dec/2018
 
 \lx mɔ̀kɛ
 \mm mɔ̀:n:parent.2ème.génération
@@ -90457,6 +90570,14 @@ pour les jardins)
 \smf (dans la teinturerie)
 \dt 02/Apr/2014
 
+\lx múgujugu
+\mm múgu:n:poudre
+\mm júgu:adj:mauvais
+\ps n
+\gf explosif
+\gvf explosif
+\dt 27/Nov/2018
+
 \lx mùgukálakalalen
 \mm mùgu:n:poisson.Synodontis.filamentosus
 \mm kálakala:v:rayer
@@ -90850,11 +90971,13 @@ pour les jardins)
 \lx mùɲu
 \va mùɲun
 \ps n
+\ms 1
 \gf patience
 \gvf patience
 \gvf endurance
+\ms 2
 \gvf résignation
-\dt 21/Dec/2014
+\dt 09/Oct/2018
 
 \lx mùɲubaa
 \mm mùɲu:v:supporter
@@ -92059,15 +92182,33 @@ pour les jardins)
 \dt 26/Sep/2006
 
 \lx nàbaraya
-\mm nàbara:adj/n:paralysé.des.jambes
+\mm nàbara:n:paralysé.des.jambes
 \mm ya:mrph:ABSTR
 \ps v
-\vl vt
-\gf rendre.impotent
-\gvf rendre impotent
+\ms 1
+\vl vi
+\gf devenir.perclus
+\gvf devenir perclus
+\gvf devenir paralysé
 \xv à nàbarayara kɔ́sa ìn ná, ń'ó tɛ́, à tùn bɛ́ táama fɔ́lɔ
 \xf c'est tout récemment qu'il est devenu perclus, sinon il marchait autrefois
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gvf paralyser
+\gvf rendre impotent
+\dt 08/Dec/2018
+
+\lx nàbaraya
+\mm nàbara:n:paralysé.des.jambes
+\mm ya:mrph:ABSTR
+\fa nàmaraya
+\mm nàbara:n:paralysé.des.jambes
+\mm ya:mrph:ABSTR
+\ps n
+\gf paralysie
+\gvf paralysie
+\gvf impotence
+\dt 08/Dec/2018
 
 \lx nàbi
 \va nàbila
@@ -94218,18 +94359,6 @@ petits enfants)
 \lx nɛ̀
 \va nɛ̀n
 \ps n
-\ms 1
-\gf langue
-\gvf langue
-\ms 2
-\gvf bande de tissu
-\xv nɛ̀ kélen bɛ́  npògo lá
-\xf le cache-sexe "npogo" n'a qu'une bande
-\dt 16/Aug/2006
-
-\lx nɛ̀
-\va nɛ̀n
-\ps n
 \gf pus
 \gvf pus
 \xv fúnu yé  nɛ̀ dòn
@@ -94874,6 +95003,20 @@ petits enfants)
 \sy nɔ́
 \sy lánɔ
 \dt 21/Feb/2014
+
+\lx nɛ̀n
+\va nɛ̀
+\ps n
+\ms 1
+\gf langue
+\gvf langue
+\xv k'í nɛ̀n dòn à kɔ́rɔ
+\xf exhorter, persuader qqn.
+\ms 2
+\gvf bande de tissu
+\xv nɛ̀ kélen bɛ́  npògo lá
+\xf le cache-sexe "npogo" n'a qu'une bande
+\dt 20/Nov/2018
 
 \lx nɛ́nɛ
 \ps n
@@ -106936,13 +107079,16 @@ banane, etc.)
 \smf (joue les premiers rôles sans en être chargé)
 \dt 05/Apr/2015
 
-\lx ɲɛ̀ɲɛ
-\va ɲɛ̀ɲɛn
+\lx ɲɛ̀ɲɛn
+\va ɲɛ̀nɲɛn
+\va ɲɛ̀ɲɛ
 \ps n
 \gf brisure.de.céréales
 \gvf brisure de céréales
 \gvf mil concassé
-\dt 26/Sep/2006
+\xv à kùnkun n'à ɲɛ̀ɲɛn
+\xf en gros et dans le détail, intégralement, jusqu'au moindre détail
+\dt 20/Nov/2018
 
 \lx ɲɛ́ɲini
 \mm ɲɛ́:n:oeil
@@ -107165,9 +107311,14 @@ banane, etc.)
 \mm ɲɛ́:n:oeil
 \mm sìsi:v:brûler
 \ps v
+\ms 1
 \vl vt
 \gf attrister
 \gvf attrister
+\ms 2
+\vl vt
+\gvf mécontenter
+\dt 05/Oct/2018
 
 \lx ɲɛ́sɔ̀rɔ
 \mm ɲɛ́:n:oeil
@@ -110628,6 +110779,7 @@ envergure)
 \dt 01/May/2017
 
 \lx pɛ́npɛrɛn
+\va pɛ́npɛrɛ
 \va pánparan
 \ve (bn)
 \ps v
@@ -110646,7 +110798,7 @@ envergure)
 \smf (en produisand du bruit; qqch -- kùn)
 \xv à yé bere` pɛ́npɛrɛn ń dén` kùn
 \xe il a frappé fortement mon enfant avec un bâton
-\dt 09/Jul/2017
+\dt 30/Nov/2018
 
 \lx pɛ́npɛtɛ
 \ps adv
@@ -117796,12 +117948,13 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sɛ́ɛnɛ
 \ps v
 \ms 1
+\vl vi
 \gf couler
 \gvf couler
 \gvf verser
 \ms 2
 \gvf filtrer
-\dt 30/Oct/2014
+\dt 06/Oct/2018
 
 \lx sɛ̀fancɛkalo
 \mm sɛ̀:n:poule
@@ -118468,16 +118621,23 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sɛ̀nsɛn
 \va sɛ̀nsɛ
 \va sɛ̀ɛnsɛɛn
-\sy dɛ̀mɛdɛmɛ
-\sy dɛ̀ɛndɛɛn
+\va sɛ̀ɛnsɛn
 \ps v
+\ms 1.1
 \vl vt
-\ms 1
 \gf faire.avancer.doucement
 \gvf faire avancer doucement
+\gvf acheminer lentement
+\sy dɛ̀mɛdɛmɛ
+\sy dɛ̀ɛndɛɛn
+\ms 1.2
+\vl vr
+\gvf se traîner
+\gvf avancer péniblement
+\gvf avancer doucement
 \ms 2
 \gvf conduire en lente procession
-\dt 16/Aug/2006
+\dt 17/Nov/2018
 
 \lx sɛ́nsɛn
 \ps v
@@ -120373,42 +120533,6 @@ trompe)
 \gvf téton
 \sy sínkisɛ
 \dt 26/Sep/2006
-
-\lx sìnɔgɔ
-\va sùnɔgɔ
-\va sùnaa
-\ph [sindɔgɔ --> sinnɔgɔ -->sinɔgɔ]
-\ps n
-\gf sommeil
-\gvf sommeil
-\xv sìnɔgɔ b'á ɲɛ́ ná
-\xf il a sommeil
-\dt 16/Aug/2006
-
-\lx sìnɔgɔ
-\va sùnɔgɔ
-\va sùnaa
-\ps v
-\ms 1
-\vl vi
-\gf dormir
-\gvf dormir
-\xv í má sùnɔgɔ bán ?
-\xf tu ne dors pas encore ?
-\vl vt
-\gvf faire dormir
-\xv fúra y'á sùnɔgɔ
-\xf le remède l'a fait dormir
-\ms 2
-\vl vi
-\gvf cailler
-\smf (lait ...)
-\ms 3
-\vl vt
-\gvf dormir un certain temps
-\xv ù bɛ́ táa  ù dá  kà dɔ́ɔnin sùnaa
-\xf ils vont se coucher et dorment un petit peu
-\dt 16/Aug/2006
 
 \lx sìnɔgɔjɛgɛ
 \mm sìnɔgɔ:n:sommeil
@@ -122384,12 +122508,15 @@ donne d'excellentes fibres)
 \lx sómɔgɔ
 \mm só:n:maison
 \mm mɔ̀gɔ:n:homme
+\va sómaa
+\mm só:n:maison
+\mm màa:n:homme
 \ps n
 \gf personne.de.la.famille
 \gvf personne de la famille
 \xv sómɔgɔ dón ?
 \xf et la famille ? et la maisonnée ? (comment va-t-elle ?)
-\dt 16/Aug/2006
+\dt 08/Dec/2018
 
 \lx sòmuso
 \mm sò:n:cheval
@@ -122542,13 +122669,16 @@ donne d'excellentes fibres)
 \mm ya:mrph:ABSTR
 \va sònyɛ
 \mm sòn:n:voleur
+\va nsònya
+\mm nsòn:n:voleur
+\mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf dérober
 \gvf dérober
 \xv né má  mɔ̀gɔ sí sònya ábada
 \xf je n'ai jamais volé qui que ce soit
-\dt 10/Mar/2014
+\dt 14/Oct/2018
 
 \lx sònyalikɛla
 \mm sòn.ya:v:dérober
@@ -124269,6 +124399,14 @@ s'amène ...)
 \rem 2/ l89
 \dt 11/Nov/2007
 
+\lx súgumɔ
+\mm súgu:n:marché
+\mm mɔ́:v:prendre
+\ps n
+\gf cadeau.de.marché
+\gvf petit cadeau fait à ses proches par celui qui revient du marché
+\dt 17/Nov/2018
+
 \lx súgunɛ
 \va súguna
 \va súuna
@@ -125126,6 +125264,42 @@ s'amène ...)
 \gvf repas de fin de jeûne
 \ph [sun-lakari --> sunnakari]
 \dt 16/Aug/2006
+
+\lx sùnɔgɔ
+\va sùnaa
+\va sìnɔgɔ
+\ph [sindɔgɔ --> sinnɔgɔ -->sinɔgɔ]
+\ps n
+\gf sommeil
+\gvf sommeil
+\xv sìnɔgɔ b'á ɲɛ́ ná
+\xf il a sommeil
+\dt 08/Dec/2018
+
+\lx sùnɔgɔ
+\va sùnaa
+\va sìnɔgɔ
+\ps v
+\ms 1
+\vl vi
+\gf dormir
+\gvf dormir
+\xv í má sùnɔgɔ bán ?
+\xf tu ne dors pas encore ?
+\vl vt
+\gvf faire dormir
+\xv fúra y'á sùnɔgɔ
+\xf le remède l'a fait dormir
+\ms 2
+\vl vi
+\gvf cailler
+\smf (lait ...)
+\ms 3
+\vl vt
+\gvf dormir un certain temps
+\xv ù bɛ́ táa  ù dá  kà dɔ́ɔnin sùnaa
+\xf ils vont se coucher et dorment un petit peu
+\dt 08/Dec/2018
 
 \lx sùnɔgɔbaatɔ
 \mm sùnɔgɔ:v:dormir
@@ -131509,7 +131683,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 20/Feb/2013
 
 \lx tíɲɛ
-\va ciyɛ́n
+\va cíyɛn
 \va cɛ́n
 \ph [cɛn]
 \va tíyɛn
@@ -131527,7 +131701,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xf ça ne fait rien, tant pis, ça n'empêche pas
 \xv né ká móbili tíyɛnna
 \xf ma voiture ne marche plus
-\dt 15/May/2013
+\dt 28/Nov/2018
 
 \lx tíɲɛnenya
 \mm tíɲɛ:v:gâter
@@ -133406,11 +133580,15 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tɔ́ɔrɔ
 \ps v
+\ms 1
 \vl vt
 \gf faire.souffrir
 \gvf faire souffrir
 \gvf déranger
-\dt 26/Sep/2006
+\ms 2
+\vl vi
+\gvf souffrir
+\dt 14/Oct/2018
 
 \lx tɔ̀pɔtɔ
 \ps v
@@ -134848,7 +135026,7 @@ arrière grand-père est mort
 \dt 05/Apr/2016
 
 \lx túngalataala
-\mm túnga:n:pays.étranger
+\mm `túnga:n:pays.étranger
 \mm lá:pp:à
 \mm táa:v:aller
 \mm la:mrph:AG.PRM
@@ -134863,7 +135041,7 @@ arrière grand-père est mort
 \sy túngalamɔgɔ
 \xv kúrun dáfirila ní túngalataala cáman yé
 \xf la barque s'est renversée avec beaucoup d'émigrés (kb 11/05 p.3)
-\dt 07/Feb/2016
+\dt 26/Nov/2018
 
 \lx túnga-ma-diya-n-na
 \mm túnga:n:pays.étranger
@@ -138821,7 +138999,9 @@ Mali)
 \ms 3
 \gvf manifestation
 \smf (démonstration publique, politique)
-\dt 27/Jul/2018
+\ms 4
+\gvf agitation
+\dt 24/Nov/2018
 
 \lx wùlu
 \ps n
