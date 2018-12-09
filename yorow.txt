@@ -1160,6 +1160,12 @@ de Koulikoro)
 malienne)
 \dt 03/Jun/2017
 
+\lx Bɔsinihɛrizekowuni
+\ps n.prop
+\gf TOP
+\gvf Bosnie-Herzgovine
+\dt 09/Dec/2018
+
 \lx Bɔsuwana
 \va Bɔsiwana
 \ps n.prop
@@ -1327,6 +1333,12 @@ région de Koulikoro)
 \gvf Tchéquie
 \gvf République Tchèque
 \dt 04/May/2017
+
+\lx Cɛkisilowaki
+\ps n.prop
+\gf TOP
+\gvf Tchécoslovaquie
+\dt 09/Dec/2018
 
 \lx Cɛkumala
 \ps n.prop
@@ -1688,11 +1700,12 @@ Ségou)
 \dt 01/Jun/2016
 
 \lx Ekuwatɛri
+\va Ekatɛri
 \ps n.prop
 \gf TOP
 \smf (pays)
 \gvf Equateur
-\dt 11/Mar/2018
+\dt 09/Dec/2018
 
 \lx Eritere
 \ty гос.
@@ -1739,6 +1752,13 @@ Tadmekka)
 \smf (pays)
 \gvf Égypte
 \dt 22/Feb/2017
+
+\lx Ɛndelimani
+\ps n.prop
+\gf TOP
+\gvf
+\smf (une localité entre Menaka et Ansɔngo)
+\dt 09/Dec/2018
 
 \lx Ɛndonezi
 \ps n.prop
@@ -3823,6 +3843,12 @@ région de Sikasso)
 \smf (village, région de Ségou)
 \dt 25/Mar/2017
 
+\lx Kɔsitarika
+\ps n.prop
+\gf TOP
+\gvf Costa-Rica
+\dt 09/Dec/2018
+
 \lx Kɔtuba
 \ps n.prop
 \gf TOP
@@ -3976,6 +4002,14 @@ de Bamako)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
+\lx Làgíne
+\va Làgínɛ
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Guinée
+\dt 09/Dec/2018
+
 \lx Lagine Bisawo
 \ty гос.
 \ps n.prop
@@ -3984,13 +4018,6 @@ de Bamako)
 \gvf Guinée-Bissau
 \ru Гвинея-Бисау
 \dt 23/May/2010
-
-\lx Làgínɛ
-\ps n.prop
-\gf TOP
-\smf (pays)
-\gvf Guinée
-\dt 12/Jul/2017
 
 \lx Lagɔsi
 \va Legɔsi
@@ -5018,11 +5045,12 @@ gauche du Niger)
 \lx Ɲárɛla
 \va Ɲáarela
 \va Ɲáarɛla
+\va Ɲárela
 \ps n.prop
 \gf TOP
 \gvf Niaréla
 \smf (un quartier de la Commune 2 de Bamako)
-\dt 30/Apr/2017
+\dt 09/Dec/2018
 
 \lx Ɲaro
 \ps n.prop
@@ -6589,6 +6617,13 @@ Grand Erg Occidental, dans la wilaya d'Adrar)
 \smf (pays)
 \gvf Ukraine
 \dt 24/Oct/2016
+
+\lx Uruguwe
+\va Uruge
+\ps n.prop
+\gf TOP
+\gvf Uruguay
+\dt 09/Dec/2018
 
 \lx Urumani
 \ps n.prop

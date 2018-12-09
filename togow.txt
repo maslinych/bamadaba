@@ -1,4 +1,4 @@
-\_sh v3.0  231  MDF 4.0
+\_sh v3.0  1296 MDF 4.0
 
 \lang bam
 \name togow
@@ -1735,6 +1735,7 @@ forme d'adresse à n'importe quel homme)
 
 \lx Ibrahima
 \va Ibarahimu
+\va Ibarahima
 \va Iburahimu
 \va Ibrim
 \va Berehima
@@ -1765,7 +1766,7 @@ forme d'adresse à n'importe quel homme)
 \cm Zumana Dembele ne reconnait pas les formes suivantes: Ibarahimu,
 Bírimà, Barahima, Barima, Bùremù, Buram, Brɛyma, Bereyima;  la
 forme francaise: Berehima
-\dt 14/Jul/2017
+\dt 09/Dec/2018
 
 \lx Ísa
 \va Yisa

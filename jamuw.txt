@@ -2276,13 +2276,14 @@ Sagone.
 \ps n.prop
 \gf NOM.CL
 
-\lx Mansaren
+\lx Mànsaren
+\va Màsaren
 \fm Mansarena
 \smf (Nom honorifique des Keyita chez les Maninka. Littéralement "enfant)
 leader. "
 \smr (Почётное имя для Keyita  у манинка. Буквально "ребёнок)
 вождя".
-\dt 06/May/2010
+\dt 09/Dec/2018
 \ps n.prop
 \gf NOM.CL
 
@@ -2941,6 +2942,7 @@ leader. "
 \gf NOM.CL
 
 \lx Sinayɔgɔ
+\va Sinayɔkɔ
 \va Sineyogo
 \va Senayong
 \sm mdk
@@ -2949,7 +2951,7 @@ leader. "
 \ca nùmu
 \smf (Relatif aux Bula, descendants de Fakoli.)
 \smr (Относятся к bula, потомкам Fakoli.)
-\dt 06/May/2010
+\dt 09/Dec/2018
 \ps n.prop
 \gf NOM.CL
 
