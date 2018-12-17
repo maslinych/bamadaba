@@ -765,10 +765,13 @@ les deux flancs'
 \dt 05/Apr/2016
 
 \lx àngilɛ
+\va àngile
+\va làngile
+\va làngilɛ
 \ps n
 \gf anglais
 \gvf anglais
-\dt 21/Feb/2013
+\dt 12/Dec/2018
 
 \lx ánglɔpu
 \va ánwulɔpu
@@ -6938,26 +6941,6 @@ rhume, toux)
 \gvf oncle maternel
 \dt 24/Feb/2013
 
-\lx bɛ́ɛnkɛ
-\mm bɛ́ɛn:n:oncle.maternel
-\mm kɛ:adj:mâle
-\va bɛ́n.kɛ
-\mm bɛ́n:n:oncle.maternel
-\mm kɛ:adj:mâle
-\va bɛ́rɛn.kɛ
-\mm bɛ́rɛn:n:oncle.maternel
-\mm kɛ:adj:mâle
-\va béren.kɛ
-\mm béren:n:oncle.maternel
-\mm kɛ:adj:mâle
-\va bélen.kɛ
-\mm bélen:n:oncle.maternel
-\mm kɛ:adj:mâle
-\ps n
-\gf oncle.maternel
-\gvf oncle maternel
-\dt 01/Apr/2018
-
 \lx bɛ́ɛnkɛya
 \mm bɛ́ɛn.kɛ:n:oncle.maternel
 \mm bɛ́ɛn:n:oncle.maternel
@@ -7565,6 +7548,26 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf traité
 \dt 14/Jun/2016
 
+\lx bɛ́nkɛ
+\mm bɛ́n:n:oncle.maternel
+\mm kɛ:adj:mâle
+\va bɛ́ɛn.kɛ
+\mm bɛ́ɛn:n:oncle.maternel
+\mm kɛ:adj:mâle
+\va bɛ́rɛn.kɛ
+\mm bɛ́rɛn:n:oncle.maternel
+\mm kɛ:adj:mâle
+\va béren.kɛ
+\mm béren:n:oncle.maternel
+\mm kɛ:adj:mâle
+\va bélen.kɛ
+\mm bélen:n:oncle.maternel
+\mm kɛ:adj:mâle
+\ps n
+\gf oncle.maternel
+\gvf oncle maternel
+\dt 16/Dec/2018
+
 \lx bɛ̀nkola
 \mm bɛ̀n:n:accord
 \mm kó:n:affaire
@@ -7578,8 +7581,28 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf complot
 \dt 28/Mar/2014
 
+\lx bɛ́nnin
+\mm bɛ́n:n:oncle.maternel
+\mm nin:mrph:DIM
+\ps n
+\vl rn
+\gf neveu
+\gvf neveu
+\gvf nièce
+\dt 16/Dec/2018
+
+\lx bɛ́nninkɛ
+\mm bɛ́n.nin:n:neveu
+\mm bɛ́n:n:oncle.maternel
+\mm nin:mrph:DIM
+\mm kɛ̀:adj:mâle
+\ps n
+\gf neveu
+\gvf neveu
+\dt 16/Dec/2018
+
 \lx bɛ́nninmuso
-\mm bɛ́n.nin:n:neveu/nièce
+\mm bɛ́n.nin:n:neveu
 \mm bɛ́n:n:oncle.maternel
 \mm nin:mrph:DIM
 \mm mùso:adj:femme
@@ -7587,7 +7610,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gf nièce
 \gvf nièce
 \smf (fille d'une soeur)
-\dt 11/Nov/2007
+\dt 16/Dec/2018
 
 \lx bɛ̀nńsènmà
 \mm bɛ̀n:v:se.rencontrer
@@ -15988,6 +16011,7 @@ médicinales)
 \va cɛ̀ɛna
 \va càani
 \ve (bk)
+\va tɛ̀rɛntɛ
 \ps v
 \ms 1
 \vl vi
@@ -16000,7 +16024,7 @@ médicinales)
 \vl vt
 \gvf torsader des fils
 \smf (en les faisant rouler ...)
-\dt 13/Mar/2018
+\dt 16/Dec/2018
 
 \lx cɛ̀ɛnku
 \va cɛ̀ɛnkun
@@ -32126,10 +32150,11 @@ gens)
 \dt 06/Feb/2017
 
 \lx erewolisɔn
+\va rewolisiyɔn
 \ps n
 \gf révolution
 \gvf révolution
-\dt 21/Mar/2017
+\dt 12/Dec/2018
 
 \lx èrezɔn
 \va érezɔn
@@ -35500,10 +35525,11 @@ compagnie ...
 \dt 16/Aug/2006
 
 \lx féburuye
+\va féwuruye
 \ps n
 \gf février
 \gvf février
-\dt 08/Nov/2013
+\dt 17/Dec/2018
 
 \lx fèere
 \va fyère
@@ -40150,7 +40176,7 @@ sur le ventre -- í kɔ́nɔ kàn)
 \xf c'est mon fils aîné
 \xv fɔ́lɔ...fílanan...
 \xf en premier lieu ..., en second lieu ...
-\dt 15/Sep/2016
+\dt 16/Dec/2018
 
 \lx fɔ́lɔ
 \ps adv
@@ -89405,7 +89431,7 @@ des engagements
 \va mɔ̀ɔ
 \ph [cas type où l'on peut entendre toutes les variantes phonétiques mɔkɔ --> mɔgɔ --> mɔxɔ --> mɔɔ --> maa]
 \ps n
-\ms 1
+\ms `1
 \gf homme
 \gvf homme
 \smf (opposé à l'animal)
@@ -89426,7 +89452,7 @@ des engagements
 \smf (sens laudatif = personnage, personnalité)
 \xv í nà kɛ́  màa yé
 \xf tu deviendras quelqu'un !
-\dt 26/Sep/2006
+\dt 16/Dec/2018
 
 \lx mɔ̀gɔba
 \mm mɔ̀gɔ:n:homme
@@ -112996,6 +113022,12 @@ épuisés
 \gf désert
 \gvf désert
 \dt 28/Feb/2017
+
+\lx saharawi
+\ps n
+\gf sahraoui
+\gvf sahraoui
+\dt 17/Dec/2018
 
 \lx sáheli
 \bw ar: sahil 'littoral' (du désert)

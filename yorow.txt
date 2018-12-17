@@ -4052,6 +4052,12 @@ de Bamako)
 \gvf Lasi Palimasi
 \dt 01/Jun/2016
 
+\lx Leninigaradi
+\ps n.prop
+\gf TOP
+\gvf Léningrade
+\dt 12/Dec/2018
+
 \lx Lere
 \ps n.prop
 \gf TOP
@@ -5220,13 +5226,14 @@ Koulikoro)
 
 \lx Palɛstini
 \va Palɛsitini
+\va Palɛsini
 \ty гос.
 \ps n.prop
 \gf TOP
 \smf (pays)
 \gvf Palestine
 \ru Палестина
-\dt 06/Feb/2017
+\dt 12/Dec/2018
 
 \lx Pàri
 \ty г.
@@ -5787,6 +5794,12 @@ international)
 \smf (pays)
 \gvf Serbie
 \dt 02/May/2018
+
+\lx Shikago
+\ps n.prop
+\gf TOP
+\gvf Chicago
+\dt 17/Dec/2018
 
 \lx Sibi
 \ps n.prop
@@ -6938,13 +6951,14 @@ Koulikoro)
 \dt 28/Oct/2017
 
 \lx Zapɔn
+\va Yapɔn
 \ty гос.
 \ps n.prop
 \gf TOP
 \smf (pays)
 \gvf Japon
 \ru Япония
-\dt 23/May/2010
+\dt 12/Dec/2018
 
 \lx Zayiri
 \ty гос.
@@ -6976,6 +6990,12 @@ région de Koulikoro)
 \smf (continent partiellement submergé comprenant la Nouvelle -Zélande)
 \gvf Zealandia
 \dt 03/Jun/2018
+
+\lx Zenɛwu
+\ps n.prop
+\gf TOP
+\gvf Genève
+\dt 17/Dec/2018
 
 \lx Zèrusàlɛmu
 \ps n.prop
