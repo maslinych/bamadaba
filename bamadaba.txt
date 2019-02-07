@@ -632,12 +632,14 @@
 \dt 11/Nov/2007
 
 \lx àlikiyama
+\va àlkiyama
 \va kíyama
 \ve (bk)
+\bw ar: qiyama = résurrection finale ?
 \ps n
 \gf l'au-delà
 \gvf l'au-delà
-\dt 16/Aug/2006
+\dt 07/Feb/2019
 
 \lx álikɔli
 \ps n
@@ -3746,12 +3748,32 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \dt 11/Nov/2007
 
 \lx bàmu
+\va bàmun
 \ps v
+\ms 1
 \vl vt
 \gf porter.sur.le.dos
 \gvf porter sur le dos
 \smf (un bébé)
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gvf former un épi
+\dt 03/Feb/2019
+
+\lx bámu
+\va bámun
+\va báamu
+\ps v
+\gf rassembler
+\ms 1
+\vl vt
+\gvf rassembler
+\gvf entasser
+\ms 2
+\vl vt
+\gvf faire le résumé
+\gvf faire le récapitulatif
+\dt 03/Feb/2019
 
 \lx bàmunan
 \mm bàmu:v:porter.sur.le.dos
@@ -43941,6 +43963,7 @@ forestières, fruit : long follicule de 50 cm)
 \lx gàrijɛgɛ
 \va gàrijigɛ
 \va gàrisɛgɛ
+\va gàrisigɛ
 \va gɛ̀rɛsɛgɛ
 \ps v
 \vl vi
@@ -43954,7 +43977,7 @@ forestières, fruit : long follicule de 50 cm)
 \smf (femme)
 \xv à mùso gàrijɛgɛra
 \xf sa femme est tombée enceinte
-\dt 05/Feb/2017
+\dt 18/Dec/2018
 
 \lx gàrijɛgɛfolofolo
 \mm gàrijɛgɛ:n:chance
@@ -44214,6 +44237,16 @@ forestières, fruit : long follicule de 50 cm)
 \smf (buissonnant, épines de 1 / 5 cm portant deux feuilles au sommet)
 \sy ngège
 \dt 19/Aug/2006
+
+\lx géjegeje
+\va gɛ́jɛgɛjɛ
+\ps onomat
+\gf bien.mûr
+\gvf bien mûr
+\gvf très solide
+\gvf en forme
+\gvf bien portant
+\dt 31/Jan/2019
 
 \lx gèji
 \ps n
@@ -47914,9 +47947,11 @@ doigts par des fileuses du coton)
 \dt 22/Mar/2015
 
 \lx hèbeku
+\va hèbehu
 \ps v
 \gf perdre.contenance
 \gvf perdre contenance
+\dt 19/Dec/2018
 
 \lx héyi
 \ps intj
@@ -55073,7 +55108,7 @@ fusil)
 \dt 16/Aug/2006
 
 \lx júguya
-\mm júgu:vq/adj:mauvais
+\mm júgu:vq:mauvais
 \mm ya:mrph:DEQU
 \ps n
 \ms 1
@@ -55083,7 +55118,7 @@ fusil)
 \ms 2
 \gvf gravité
 \smf (d'une maladie ...)
-\dt 26/Sep/2006
+\dt 19/Dec/2018
 
 \lx júguya
 \mm júgu:vq:mauvais
@@ -57023,9 +57058,9 @@ l'eau est prête
 \xf voici le remède spécifique de cette maladie
 \ms 7
 \gvf cause de malheur
-\xv dɔ̀lɔmin kɛ́ra  à kàla yé
+\xv dɔ̀lɔmin kɛ́ra à kàla yé
 \xf l'alcoolisme l'a fait mourir
-\dt 10/Mar/2018
+\dt 24/Jan/2019
 
 \lx kála
 \ps n
@@ -64485,14 +64520,6 @@ probablement de chaux vive)
 \smf (surtout un livre saint: Coran, Bible...)
 \dt 30/Jun/2017
 
-\lx kíyama
-\va àlkiyama
-\bw ar: qiyama = résurrection finale ?
-\ps n
-\gf l'au-delà
-\gvf l'au-delà
-\dt 16/Aug/2006
-
 \lx kò
 \ps v
 \vl vi
@@ -66888,6 +66915,7 @@ champs)
 \dt 30/Nov/2014
 
 \lx kòronto
+\va kòrondo
 \va kòrono
 \ve (f)
 \va kòronton
@@ -66897,7 +66925,7 @@ champs)
 \gvf rassembler
 \gvf mettre ensemble
 \gvf mettre en tas
-\dt 20/Oct/2014
+\dt 18/Dec/2018
 
 \lx kòroŋɛɲɛ
 \mm kòro:n:arbre.Vitex
@@ -107134,7 +107162,6 @@ banane, etc.)
 \gf résoudre
 \gvf résoudre
 \ms 2
-\gf jeter.un.sort
 \gvf jeter un sort
 \xv básitigi y'á ɲɛ́nini  à kàna báara sɔ̀rɔ
 \xf le féticheur lui a jeté un sort pour qu'il ne puisse trouver du travail
@@ -107142,7 +107169,7 @@ banane, etc.)
 \gvf chercher la cause
 \xv ń táa'ń tùn bɛ́  bàna ɲɛ́nini  cɛ̀ndala fɛ̀
 \xf j'étais allé chercher l'origine de la maladie auprès d'un devin
-\dt 23/Jun/2013
+\dt 20/Jan/2019
 
 \lx ɲɛ́ɲini
 \mm ɲɛ́:n:oeil
@@ -109697,13 +109724,14 @@ le pèlerinage (bk 1/06 p.5)
 \dt 17/Apr/2016
 
 \lx ŋɔ́yi
+\va ŋóɲi
 \va ŋáyi
 \ve (bk)
 \va ŋóyi
 \ps adv
 \gf ratatiné
 \gvf ratatiné
-\dt 19/Jan/2015
+\dt 19/Dec/2018
 
 \lx ŋùna
 \ps n
@@ -113030,20 +113058,28 @@ épuisés
 \dt 17/Dec/2018
 
 \lx sáheli
+\va sahili
+\va sahɛli
 \bw ar: sahil 'littoral' (du désert)
 \ps n
 \gf nord
 \gvf nord
-\dt 16/Mar/2018
+\dt 07/Feb/2019
 
 \lx sáhelikungo
 \mm sáheli:n:nord
+\mm kúngo:n:brousse
+\va sáhilikungo
+\mm sáhili:n:nord
+\mm kúngo:n:brousse
+\va sáhɛlikungo
+\mm sáhɛli:n:nord
 \mm kúngo:n:brousse
 \ps n
 \gf Sahara
 \gvf Sahara
 \rem l89
-\dt 16/Mar/2018
+\dt 07/Feb/2019
 
 \lx sáheliyanfan
 \mm sáheli:n:nord
@@ -114123,14 +114159,15 @@ épuisés
 \va sánnì
 \va sán'
 \va sánn'
+\va sànní
 \ps conj
 \gf avant.de
 \gvf avant de
 \gvf au lieu de
 \cm également sáni, sàní
-\xv sáni kà kàsi, í k'í fúra kɛ́
+\xv sánì kà kàsi, í k'í fúra kɛ́
 \xf au lieu de pleurer, soigne-toi !
-\dt 23/Jul/2017
+\dt 01/Feb/2019
 
 \lx sániman
 \mm sáni:vq:propre
@@ -119779,11 +119816,11 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 
 \lx síjɛ
 \mm sí:n:poil
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps adj/n
 \gf vieux
 \gvf vieux
-\dt 26/Sep/2006
+\dt 19/Dec/2018
 
 \lx síjɛtigi
 \mm sí:n:poil
@@ -119849,8 +119886,8 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \ps n
 \gf agonie
 \gvf agonie
-\gvf ; coma
-\dt 28/Sep/2014
+\gvf coma
+\dt 24/Jan/2019
 
 \lx síkisɛ
 \mm sí:n:semence
@@ -123431,8 +123468,8 @@ euphémique)
 
 \lx sɔ̀n
 \ps v
-\vl vi
 \ms 1
+\vl vi
 \gf accepter
 \gvf accepter
 \gvf vouloir bien
@@ -123442,24 +123479,29 @@ euphémique)
 \xv à má sɔ̀n  ò mà
 \xf il ne l'a pas accepté, il n'y a pas consenti
 \ms 2
+\vl vi
 \gvf obéir
 \smf (à ... ye, ... bolo)
 \xv mùso bɛ́ sɔ̀n  à cɛ̀ yé
 \xf la femme obéit à son mari
 \ms 3
+\vl vi
 \gvf produire
 \gvf réussir
 \smf (cultures ...)
 \xv ɲɔ̀ má sɔ̀n kósɛbɛ ɲìna
 \xf le mil n'a pas bien réussi cette année
 \ms 4
+\vl vi
 \gvf démarrer
 \smf (moteur ...)
 \ms 5
+\vl vi
 \gvf s'arrêter
 \xv dùgu máa tíla, màa sènna bɛ́ sɔ̀n
 \xf à minuit, il n'y a plus de (bruits de) pas
-\ms 6
+\ms 6.1
+\vl vr
 \gvf en train de
 \smf (+ circonstant personnel)
 \xv ń bɛ́ ń sɔ̀n
@@ -123468,10 +123510,14 @@ euphémique)
 \xf ils sont en train de faire le travail
 \xv sán b'á sɔ̀n  nàli lá
 \xf la pluie continue de tomber
+\ms 6.1
+\vl vr
+\gvf s'adonner
+\smf (à -- lá)
 \ms 7
 \vl vi
 \gvf risquer de
-\dt 09/Mar/2018
+\dt 24/Jan/2019
 
 \lx sɔ̀n
 \ps n
@@ -124333,15 +124379,17 @@ s'amène ...)
 \dt 22/Dec/2014
 
 \lx sùgo
+\va sìgo
 \va sùgon
 \ps n
 \gf rêve
 \gvf rêve
 \xv sùgo dára ń ná
 \xf j'ai fait un rêve
-\dt 12/Aug/2006
+\dt 19/Dec/2018
 
 \lx sùgo
+\va sìgo
 \va sùgon
 \ve (bk)
 \ps v
@@ -124350,7 +124398,7 @@ s'amène ...)
 \gvf rêver
 \xv né sùgora  fɛ́n dɔ́ lá
 \xf j'ai fait un rêve
-\dt 16/Aug/2006
+\dt 19/Dec/2018
 
 \lx súgu
 \ps n
@@ -129725,7 +129773,13 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ms 5
 \vl vt
 \gvf guider
-\dt 10/Apr/2014
+\ms 6
+\vl vi
+\gvf procéder
+\smf (en fonction d'un verbe modal, renforce l'ordre exprimé par le verbe suivant)
+\xv tɛ̀mɛ í ka nà à dún sísàn!
+\xf viens le manger tout de suite!
+\dt 01/Feb/2019
 
 \lx tɛ̀mɛ
 \ps n
