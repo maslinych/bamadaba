@@ -178,6 +178,13 @@ de l'Algérie)
 \ru Америка
 \dt 08/Dec/2018
 
+\lx Anbodejo
+\ps n.prop
+\gf TOP
+\gvf Hambodejo
+\smf (aéroport à Sévaré)
+\dt 23/Feb/2019
+
 \lx Andalusi
 \va Andalu
 \ps n.prop
@@ -1404,17 +1411,15 @@ Sikasso)
 Kirina, lieu de bataille entre Soundiata et Soumangourou)
 \dt 28/Feb/2017
 
-\lx Dákar
-\va Dakaaru
+\lx Dákaro
+\va Dakaru
 \va Dakari
-\va Dakaro
-\ty г.
+\va Dakar
 \ps n.prop
 \gf TOP
-\smf (capitale du Sénégal)
 \gvf Dakar
-\ru Дакар
-\dt 23/May/2010
+\smf (capitale du Sénégal)
+\dt 22/Feb/2019
 
 \lx Dalaba
 \di m
@@ -1706,6 +1711,15 @@ Ségou)
 \smf (pays)
 \gvf Equateur
 \dt 09/Dec/2018
+
+\lx Emira Arabu Uni
+\va Emira Arabu
+\va Emira Arabi
+\va Arabu Emiri
+\ps n.prop
+\gf TOP
+\gvf Emirats Arabes Unis
+\dt 22/Feb/2019
 
 \lx Eritere
 \ty гос.
@@ -2423,6 +2437,18 @@ Tombouctou)
 \gvf Indelimane
 \smf (un village, 75 km d'Ansongo)
 \dt 22/Feb/2017
+
+\lx Indi
+\ps n.prop
+\gf TOP
+\gvf Inde
+\dt 22/Feb/2019
+
+\lx Indonezi
+\ps n.prop
+\gf TOP
+\gvf Indonésie
+\dt 22/Feb/2019
 
 \lx Inekari
 \ps n.prop
@@ -5779,14 +5805,12 @@ international)
 \dt 17/Dec/2012
 
 \lx Sɛnluwi
-\ty г.
-\ru Сен-Луи
+\va Sɛnluyi
 \ps n.prop
 \gf TOP
-\smf (ville du Sénégal)
 \gvf Saint-Louis
-\cm (в Сенегале)
-\dt 23/May/2010
+\smf (ville du Sénégal)
+\dt 22/Feb/2019
 
 \lx Sɛribi
 \ps n.prop
@@ -5904,13 +5928,12 @@ région de Sikasso)
 \va Sinuwa
 \va Shinuwa
 \va Siniwa
-\ty гос.
+\va Shini
 \ps n.prop
 \gf TOP
-\smf (pays)
 \gvf Chine
-\ru Китай
-\dt 05/Feb/2017
+\smf (pays)
+\dt 22/Feb/2019
 
 \lx Sinzana
 \ps n.prop

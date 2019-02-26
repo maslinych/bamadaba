@@ -1,4 +1,4 @@
-\_sh v3.0  231  MDF 4.0
+\_sh v3.0  1296 MDF 4.0
 
 \lang bam
 \name enciclop
@@ -598,6 +598,13 @@ Monde)
 \gf Essor
 \smf (le quotidien gouvernemental au Mali)
 \dt 30/Jan/2017
+
+\lx Esyɛmu
+\ps n
+\gf ABR
+\gvf ECM
+\gvf Education Civique et Morale
+\dt 24/Feb/2019
 
 \lx Ɛfɛmi
 \ps n.prop
@@ -1434,6 +1441,12 @@ del Mali, prend le nom de Badema National en 1976)
 \gvf Nkrumah
 \smf (Kwame Nkrumah, président de la République du Ghana, 1960-1966)
 \dt 01/Jun/2017
+
+\lx Nɔnaliɲe
+\ps n.prop
+\gf non-alignés
+\gvf non-alignés
+\dt 22/Feb/2019
 
 \lx Ɲana
 \ps n.prop

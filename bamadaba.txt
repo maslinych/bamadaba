@@ -13965,12 +13965,15 @@ toujours (pro)
 \lx búgun
 \ps n
 \gf brouillard
+\ms 1
 \gvf brouillard
 \xv búgun bɛ́
 \xf il y a de la brume
-\xv búgun dára  né ɲɛ́ kàn
-\xf je ne vois plus très clair  (cataracte avancée)
-\dt 12/Aug/2006
+\ms 2
+\gvf cataracte
+\xv búgun dára né ɲɛ́ kàn
+\xf je ne vois plus très clair (cataracte avancée)
+\dt 11/Feb/2019
 
 \lx búgun
 \ps v
@@ -18363,7 +18366,11 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \vl vt
 \gvf baisser
 \smf (prix)
-\dt 16/Aug/2006
+\ms 3
+\vl vi
+\gvf atterrir
+\smf (avion)
+\dt 24/Feb/2019
 
 \lx cúncun
 \ps v
@@ -27152,7 +27159,7 @@ chefs religieux et représentants de l'administration
 \dt 16/Aug/2006
 
 \lx díya
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \va já
 \ph [dya-->ja]
@@ -27173,7 +27180,7 @@ chefs religieux et représentants de l'administration
 \gvf réussite
 \ms 5
 \gvf entrain
-\dt 26/Sep/2006
+\dt 11/Feb/2019
 
 \lx díya
 \mm dí:vq:agréable
@@ -27693,13 +27700,17 @@ chefs religieux et représentants de l'administration
 \dt 16/Aug/2006
 
 \lx dolari
+\va dɔlari
 \va dolariwari
 \mm dolari:n:dollar
+\mm wári:n:argent
+\va dɔlariwari
+\mm dɔlari:n:dollar
 \mm wári:n:argent
 \ps n
 \gf dollar
 \gvf dollar
-\dt 05/Feb/2017
+\dt 22/Feb/2019
 
 \lx dólendala
 \mm dólen:n:hameçon
@@ -56569,13 +56580,19 @@ l'eau est prête
 \mm nɔ́gɔ:n:saleté
 \ps n
 \gf nuage
+\ms 1.1
 \gvf nuage
 \cf kàbasen
 \cf bírinka
 \cf múnta
 \xv kàbanɔgɔ kólogirinyana bì
 \xf les nuages sont lourds aujourd'hui
-\dt 02/Jan/2018
+\ms 1.2
+\gvf ciel
+\ms 2
+\gvf gris
+\gvf couleur grise
+\dt 23/Feb/2019
 
 \lx kàbanɔgɔlama
 \mm kàba:n:ciel
@@ -80460,10 +80477,11 @@ catastrophe)
 \dt 26/Sep/2006
 
 \lx Lámerikɛn
+\va Amɛrikɛn
 \ps n
 \gf Américain
 \gvf Américain
-\dt 05/Apr/2016
+\dt 22/Feb/2019
 
 \lx lámɛ
 \mm lá:mrph:CAUS
@@ -110207,10 +110225,12 @@ envergure)
 \lx pánkurun
 \mm pán:v:sauter
 \mm kúrun:n:pirogue
+\fa pánkulun
 \ps n
 \gf avion
 \gvf avion
 \sy sánnakurun
+\dt 22/Feb/2019
 
 \lx pánkurunjiginkɛnɛ
 \mm pán.kurun:n:avion
@@ -113446,12 +113466,12 @@ épuisés
 \gvf tendre
 \ms 3
 \vl vt
-\gvf retenir ; 
+\gvf retenir
 \ms 4
 \vl vt
-\gvf retirer ; 
+\gvf retirer
 \gvf attirer
-\dt 26/Mar/2018
+\dt 19/Feb/2019
 
 \lx sàmabali
 \mm sàma:n:éléphant
@@ -118725,7 +118745,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf tamiser
 \gvf tamiser
 \gvf filtrer
-\dt 26/Sep/2006
+\dt 19/Feb/2019
 
 \lx sɛ́nsɛnnan
 \mm sɛ́nsɛn:v:tamiser
@@ -136036,6 +136056,15 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 \xv cɛ̀ dòn, wálima mùso ?
 \xf c'est un garçon ou une fille ?...
 \dt 22/Jul/2017
+
+\lx walafili
+\va waalafili
+\bw Ar.
+\ps n
+\gf rédaction
+\gvf rédaction
+\smf (activité)
+\dt 24/Feb/2019
 
 \lx wàlaha
 \bw ar: ad-duha = id.
