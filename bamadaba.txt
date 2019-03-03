@@ -96,9 +96,11 @@
 
 \lx ádamadenya
 \mm ádamaden:n:humain
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \va hádamadenya
 \mm ádamaden:n:humain
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -110,7 +112,7 @@
 \smf (condition d'homme, solidarité, politesse, relations sociales ...)
 \sy mɔ̀gɔya
 \sy màaninfinya
-\dt 21/Jul/2017
+\dt 01/Mar/2019
 
 \lx ádɛrɛsi
 \ps n
@@ -338,14 +340,14 @@
 
 \lx álalandiya
 \mm ála.landi:n:personne.pieuse
-\mm Ála:n:Dieu
-\mm landi:adj:qui.aime
+\mmm Ála:n:Dieu
+\mmm landi:adj:qui.aime
 \mm ya:mrph:DEQU
 \ps n
 \gf piété
 \gvf piété
 \gvf amour de Dieu
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx álamadi
 \mm Ála:n:Dieu
@@ -461,27 +463,28 @@
 \dt 16/Mar/2018
 
 \lx álaɲɛsiranbaliya
-\mm Ála:n:Dieu
-\mm ɲɛ́:pp:devant
-\mm síran:v:craindre
-\mm bali:mrph:PTCP.PRIV
+\mm ála.ɲɛ.siran.bali:ptcp:impie
+\mmm Ála:n:Dieu
+\mmm ɲɛ́:pp:devant
+\mmm síran:v:craindre
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf impiété
 \gvf impiété
 \nt AT
-\dt 16/Mar/2018
+\dt 01/Mar/2019
 
 \lx álaɲɛsiranyɛ
 \mm Ála:n:Dieu
 \mm ɲɛ́:pp:devant
 \mm síran:v:craindre
-\mm yɛ:mrph:ABSTR
+\mm ya:mrph:ABSTR
 \ps n
 \gf crainte.de.Dieu
 \gvf crainte de Dieu
 \smf (révérence, soumission dûe à Dieu)
-\dt 16/Mar/2018
+\dt 01/Mar/2019
 
 \lx álaɲɔ
 \mm Ála:n:Dieu
@@ -598,7 +601,7 @@
 \gvf habitant du paradis
 \gvf saint du ciel
 \rem l 89
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx alikali
 \va alikari
@@ -1314,8 +1317,8 @@ les deux flancs'
 
 \lx báaradenya
 \mm báara.den:n:travailleur
-\mm báara:n:travail
-\mm dén:n:enfant
+\mmm báara:n:travail
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \gf état.de.travailleur
@@ -1323,7 +1326,7 @@ les deux flancs'
 \gvf état de domestique
 \xv ní  màminɛmuso séra  kà bɔ́  kà táa báaradenya ná Bàmakɔ
 \xf ni la fiancée arrive à partir comme bonne à Bamako ... (kb 6/06 p.7)
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx báarakɛbali
 \mm báara:n:travail
@@ -1436,20 +1439,20 @@ les deux flancs'
 \dt 16/Aug/2006
 
 \lx báarantanya
-\mm báara.ntan:adj/n:chômeur
-\mm báara:n:travail
-\mm ntan:mrph:PRIV
+\mm báara.ntan:adj:chômeur
+\mmm báara:n:travail
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf réduire.au.chômage
 \gvf réduire au chômage
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx báarantanya
-\mm báara.ntan:adj/n:chômeur
-\mm báara:n:travail
-\mm ntan:mrph:PRIV
+\mm báara.ntan:adj:chômeur
+\mmm báara:n:travail
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -1458,7 +1461,7 @@ les deux flancs'
 \ms 2
 \gvf chômage
 \sy báarasɔrɔbaliya
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx báaraɲini
 \mm báara:n:travail
@@ -1719,21 +1722,22 @@ traîne sur le fond des eaux)
 
 \lx bábonya
 \mm bá:n:mère
-\mm bòn:vq:grand
-\mm ya:mrph:ABSTR
+\mm bònya:n:grosseur
+\mmm bòn:vq:grand
+\mmm ya:mrph:ABSTR
 \ps n
 \ms 1
 \gf estime.pour.la.maman
 \gvf estime pour la maman
 \ms 2
 \gvf cadeau fait à la (future) belle-mère
-\dt 28/Feb/2017
+\dt 01/Mar/2019
 
 \lx bàboonsi
 \mm bà:n:chèvre
 \mm bòon.si:n:barbe
-\mm bòon:n:menton
-\mm sí:n:poil
+\mmm bòon:n:menton
+\mmm sí:n:poil
 \ps n
 \gf plante.Chloris.breviseta
 \gvf plante Chloris breviseta
@@ -1741,7 +1745,7 @@ traîne sur le fond des eaux)
 \lat Chloris.breviseta /Chloris.pilosa
 \smf (plante.adventice, 20 / 80 cm)
 \sd gram
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bábɔ
 \ps n
@@ -1842,19 +1846,19 @@ traîne sur le fond des eaux)
 \dt 08/Mar/2018
 
 \lx bádenma
-\mm báden:n:frère.soeur.utérin(e)
-\mm bá:n:mère
-\mm dén:n:enfant
+\mm bá.den:n:frère.soeur.utérin(e)
+\mmm bá:n:mère
+\mmm dén:n:enfant
 \mm ma:mrph:RECP.PRN
 \ps n
 \gf frère/soeur
 \gvf frère/soeur
-\dt 15/Mar/2018
+\dt 01/Mar/2019
 
 \lx bádenya
 \mm bá.den:n:frère/soeur.utérin(e)
-\mm bá:n:mère
-\mm dén:n:enfant
+\mmm bá:n:mère
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -1869,7 +1873,7 @@ traîne sur le fond des eaux)
 \xf l'entente fraternelle a disparu
 \ms 3
 \gvf entente
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bádì
 \ps prt
@@ -1941,7 +1945,6 @@ propriété antivirales: hépatite B chronique)
 
 \lx báfìli
 \mm bá:n:base
-\mm bá:n:mère
 \mm fìli:v:jeter
 \ps v
 \vl vt
@@ -1950,7 +1953,7 @@ propriété antivirales: hépatite B chronique)
 \xv cɛ̀ndala nìn mána  ɲùman yé  í kùn kàn, à b'ó báfili  í mà
 \xf quand ce devin voit qqch de bon à ton sujet,il le change en
 mauvais
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bàfin
 \mm bà:n:chèvre
@@ -2037,11 +2040,11 @@ mauvais
 
 \lx bágajɛ
 \mm bága:n:bleu
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf bleu.pâle
 \gvf bleu pâle
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàgaji
 \mm bàga:n:poison
@@ -2077,28 +2080,33 @@ mauvais
 \mm bàga:v:offenser
 \mm ma:mrph:COM
 \mm kó:n:affaire
-\ps n
-\gf offense
-\gvf offense
-\gvf affront
-\xv ní  bàgama tɛ́, mɔ̀gɔ bɛ́ fɔ́lɔ  kà í mɔ̀gɔɲɔgɔn nèni wá ?
-\xf sans offense, est-ce qu'on se met à insulter son prochain ?
-\dt 26/Sep/2006
-
-\lx bàgamako
-\mm bàga:v:offenser
-\mm ma:mrph:COM
-\mm kó:n:affaire
 \va bàa.ma.ko
 \mm bàa:v:offenser
 \mm ma:mrph:COM
 \mm kó:n:affaire
 \ps n
-\gf châtiment.immérité
+\ms 1
+\gf offense
+\gvf offense
+\gvf affront
+\xv ní  bàgama tɛ́, mɔ̀gɔ bɛ́ fɔ́lɔ  kà í mɔ̀gɔɲɔgɔn nèni wá ?
+\xf sans offense, est-ce qu'on se met à insulter son prochain ?
+\ms 2
 \gvf châtiment immérité
 \xv bàamako, Ála m'í kísira  ò mà !
 \xf Que Dieu te préserve d'injustices !
-\dt 16/Aug/2006
+\dt 01/Mar/2019
+
+\lx bàgamaɲɛdimi
+\mm bàga.ma:adj:vénéneux
+\mm bàga:n:poison
+\mm ma:mrph:COM
+\mm ɲɛ́:n:oeil
+\mm dími:n:souffrance
+\ps n
+\gf conjonctivite
+\gvf conjonctivite
+\dt 03/Mar/2019
 
 \lx bàgan
 \ps n
@@ -2174,14 +2182,14 @@ pour les jardins; toxique.)
 \lx bágankunbaba
 \mm bágan:n:bête
 \mm kùn.ba.:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \mm ba:mrph:AUGM
 \ps n
 \gf gros.bétail
 \gvf gros bétail
 \smf (bovins, ânes, chevaux ..)
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx báganmara
 \mm bágan:n:bête
@@ -2237,13 +2245,13 @@ pour les jardins; toxique.)
 \lx bàga-sàbali
 \mm bàga:n:poison
 \mm sà.bali:ptcp:immortel
-\mm sà:v:mourir
-\mm bali:mrph:PTCP.PRIV
+\mmm sà:v:mourir
+\mmm bali:mrph:PTCP.PRIV
 \va bwà-sà.bali
 \mm bwà:n:poison
 \mm sà.bali:ptcp:immortel
-\mm sà:v:mourir
-\mm bali:mrph:PTCP.PRIV
+\mmm sà:v:mourir
+\mmm bali:mrph:PTCP.PRIV
 \ps n
 \ms 1
 \gf plante.Urginea.altissima
@@ -2255,7 +2263,7 @@ pour les jardins; toxique.)
 \ms 3
 \gvf plante Haemanthus multiflorus
 \smf (gros bulbe blanc toxique pour le bétail)
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bágaya
 \mm bága:n:bleu
@@ -2329,18 +2337,18 @@ consommables)
 
 \lx bàgifin
 \mm bàgi:n:lèpre.lépromateuse
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf acacia.spirale
 \gvf acacia spirale
 \lat Acacia raddiana
 \sd mimo
 \smf (---> 10 m / 20 m, épineux du Sahel aux gousses typiquement spiralées)
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàgijɛ
 \mm bàgi:n:lèpre.lépromateuse
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf Acacia.sieberiana
 \gvf Acacia sieberiana
@@ -2348,7 +2356,7 @@ consommables)
 \smf (grand arbre en parasol ---> 20 m - les gousses servent de
 fourrage pour le bétail. L'écorce soulage inflammations
 urinaires, rhume, toux...)
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bágimugu
 \mm bági:n:étoffe
@@ -2392,8 +2400,8 @@ urinaires, rhume, toux...)
 
 \lx bàjanbila
 \mm bà.jan:n:grande.chèvre.du.Sahel
-\mm bà:n:chèvre
-\mm jàn:adj:long
+\mmm bà:n:chèvre
+\mmm jàn:adj:long
 \mm bìla:v:mettre
 \ps v
 \vl vi
@@ -2402,13 +2410,14 @@ urinaires, rhume, toux...)
 \smf (faire à sa guise comme si l'on était sans maître ni loi)
 \xv kàrisa b'í yɛ̀rɛ bàjanbila
 \xf une telle court  comme elle le veut
-\dt 08/Oct/2017
+\dt 01/Mar/2019
 
 \lx bàjanbilaya
 \mm bà.jan.bila:v:vagabonder
-\mm bà:n:chèvre
-\mm jàn:adj:long
-\mm bìla:v:mettre
+\mmm bà.jan:n:grande.chèvre.du.Sahel
+\mmmm bà:n:chèvre
+\mmmm jàn:adj:long
+\mmm bìla:v:mettre
 \mm ya:mrph:ABSTR
 \ps n
 \gf vagabondage
@@ -2417,18 +2426,18 @@ urinaires, rhume, toux...)
 \xv dɔ́ kà bɔ́ dénmisɛn ká bàjanbilaya lá
 \xf qu'on enlève aux jeunes un peu de leur liberté sans limité (kb 9/04 p.7)
 \rem du, jos
-\dt 08/Oct/2017
+\dt 01/Mar/2019
 
 \lx bàjanyaala
 \mm bà.jan:n:grande.chèvre.du.Sahel
-\mm bà:n:chèvre
-\mm jàn:adj:long
+\mmm bà:n:chèvre
+\mmm jàn:adj:long
 \mm yáala:n:promenade
 \ps n
 \gf vagabondage
 \gvf vagabondage
 \sy bìlasenfɛya
-\dt 15/Aug/2006
+\dt 01/Mar/2019
 
 \lx báji
 \mm bá:n:fleuve
@@ -2632,21 +2641,21 @@ tamnifolia
 
 \lx bákɔrɔ
 \mm bá:n:mère
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf mère.aînée
 \gvf mère aînée
 \smf (la plus âgée des femmes de la grande famille)
 \sy bákɔrɔba
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàkɔrɔboonsi
 \mm bà.kɔrɔ:n:bouc
-\mm bà:n:chèvre
-\mm kɔrɔ:adj:mâle
+\mmm bà:n:chèvre
+\mmm kɔrɔ:adj:mâle
 \mm bòon.si:n:barbe
-\mm bòon:n:menton
-\mm sí:n:poil
+\mmm bòon:n:menton
+\mmm sí:n:poil
 \ps n
 \gf plante.Chloris.breviseta
 \gvf plante Chloris breviseta
@@ -2654,12 +2663,12 @@ tamnifolia
 \lat Chloris pilosa
 \smf (plante.adventice, 20 / 80 cm)
 \sd gram
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bàkɔrɔfɔrɔkili
 \mm bà.kɔrɔ:n:bouc
-\mm bà:n:chèvre
-\mm kɔrɔ:adj:mâle
+\mmm bà:n:chèvre
+\mmm kɔrɔ:adj:mâle
 \mm fɔ́rɔ:n:membre.viril
 \mm kíli:n:oeuf
 \ps n
@@ -2668,12 +2677,12 @@ tamnifolia
 \smf (plante.adventice)
 \sd ascl
 \smf (gousses aérifères, ovoïdes, légèrement arquées, d'où le nom)
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bàkɔrɔku
 \mm bà.kɔrɔ:n:bouc
-\mm bà:n:chèvre
-\mm kɔrɔ:adj:mâle
+\mmm bà:n:chèvre
+\mmm kɔrɔ:adj:mâle
 \mm kú:n:queue
 \ps n
 \ms 1
@@ -2685,12 +2694,12 @@ tamnifolia
 \sy fùgari
 \xv kàrisa yé  bàkɔrɔku yé, à tɛ́  bòdingɛfifa ɲà, à t'á dátugu ɲà
 \xf un tel est une queue de bouc : elle ne peut éventer l'anus, elle ne peut l'obturer
-\dt 11/May/2013
+\dt 01/Mar/2019
 
 \lx bàkɔrɔnin
 \mm bà.kɔrɔ:n:bouc
-\mm bà:n:chèvre
-\mm kɔrɔ:adj:mâle
+\mmm bà:n:chèvre
+\mmm kɔrɔ:adj:mâle
 \mm nin:mrph:DIM
 \ps n
 \ms 1
@@ -2699,31 +2708,34 @@ tamnifolia
 \ms 2
 \gvf débauché
 \smf ([fig])
-\dt 11/May/2013
+\dt 01/Mar/2019
 
 \lx bàkɔrɔnkuri
 \mm bà.kɔrɔ:n:bouc
-\mm bà:n:chèvre
-\mm kɔrɔ:adj:mâle
+\mmm bà:n:chèvre
+\mmm kɔrɔ:adj:mâle
 \ps n
 \gf civette
 \gvf civette
 \lat Viverra.civetta
 \smf (mammifère carnivore, solitaire, de la taille d'un chien)
-\dt 11/May/2013
+\dt 01/Mar/2019
 
 \lx bàkɔrɔnkuriɲama
 \mm bàkɔrɔnkuri:n:civette
+\mmm bà.kɔrɔ:n:bouc
+\mmmm bà:n:chèvre
+\mmmm kɔrɔ:adj:mâle
 \mm ɲàma:n:force.occulte
 \ps n
 \gf eczéma.suintant
 \gvf eczéma suintant
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàkɔrɔnpeku
 \mm bà.kɔrɔ:n:bouc
-\mm bà:n:chèvre
-\mm kɔrɔ:adj:mâle
+\mmm bà:n:chèvre
+\mmm kɔrɔ:adj:mâle
 \mm npèku:n:arbre.Lannea.sp
 \ps n
 \gf plante.Lannea.velutina
@@ -2738,7 +2750,7 @@ de guérison)
 \sy npèkubaŋɛɲɛ
 \sy bènbekuna
 \sy bènbemuso
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bàkɔrɔnson
 \mm bà:n:chèvre
@@ -2807,31 +2819,31 @@ de guérison)
 
 \lx bákuruma
 \mm bá.kuru:n:tout
-\mm bá:n:mère
-\mm kùru:n:boule
+\mmm bá:n:mère
+\mmm kùru:n:boule
 \mm ma:mrph:COM
 \va bákuruba
 \mm bá.kuru:n:tout
-\mm bá:n:mère
-\mm kùru:n:boule
+\mmm bá:n:mère
+\mmm kùru:n:boule
 \mm ba:mrph:AUGM
 \ps adv.p
 \gf entièrement
 \gvf entièrement
 \xv à bákuruma jènina
 \xf il a brûlé entièrement
-\dt 27/Jan/2018
+\dt 01/Mar/2019
 
 \lx bàkurumasan
 \mm bá.kuru:n:tout
-\mm bá:n:mère
-\mm kùru:n:boule
+\mmm bá:n:mère
+\mmm kùru:n:boule
 \mm ma:mrph:COM
 \mm sàn:v:acheter
 \va bàkurubasàn
 \mm bá.kuru:n:tout
-\mm bá:n:mère
-\mm kùru:n:boule
+\mmm bá:n:mère
+\mmm kùru:n:boule
 \mm sàn:v:acheter
 \ps v
 \ms 1
@@ -2843,22 +2855,22 @@ de guérison)
 \vl vt
 \gvf s’abonner
 \gvf prendre un abonnement complet
-\dt 11/Mar/2018
+\dt 01/Mar/2019
 
 \lx bákurumasanna
 \mm bá.kuru.ma.san:v:s’abonner
-\mm bá.kuru:n:tout
-\mm bá:n:mère
-\mm kùru:n:boule
-\mm ma:mrph:COM
-\mm sàn:v:acheter
+\mmm bá.kuru:n:tout
+\mmmm bá:n:mère
+\mmmm kùru:n:boule
+\mmm ma:mrph:COM
+\mmm sàn:v:acheter
 \mm na:mrph:AG.PRM
 \ps n
 \gf abonné
 \gvf abonné
 \gvf qui achète tout à la fois
 \rem du : de ton bas !
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bàla
 \ps n
@@ -3245,23 +3257,24 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 
 \lx bàlawumaya
 \mm bàlawu.ma:adj:querelleur
-\mm bàlawu:n:catastrophe
-\mm ma:mrph:COM
+\mmm bàlawu:n:catastrophe
+\mmm ma:mrph:COM
 \mm ya:mrph:ABSTR
 \ps n
 \gf humeur.bagarreuse
 \gvf humeur bagarreuse
 \gvf propension à la querelle
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàlayi
 \bw ar: bi-llahi = de par Dieu, grâce à Dieu ?
 \ps n
 \gf gratitude
 \gvf gratitude
+\gvf reconnaissance
 \xv kàrisa bàlayi ká dɔ́gɔ
 \xf un tel est peu reconnaissant
-\dt 12/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàlayintan
 \mm bàlayi:n:gratitude
@@ -3274,8 +3287,8 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 
 \lx bàlayintanya
 \mm bàlayi.ntan:adj:ingrat
-\mm bàlayi:n:gratitude
-\mm ntan:mrph:PRIV
+\mmm bàlayi:n:gratitude
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -3283,16 +3296,17 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \gvf être ingrat
 \xv à yé  ù bàlayintanya
 \xf il a été ingrat envers eux
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàlayintanya
 \mm bàlayi.ntan:adj:ingrat
-\mm bàlayi:n:gratitude
-\mm ntan:mrph:PRIV
+\mmm bàlayi:n:gratitude
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf ingratitude
 \gvf ingratitude
+\dt 01/Mar/2019
 
 \lx báldi
 \bw Fulfulde ɓale-wol 'noirceur'
@@ -3403,18 +3417,18 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \gf adulte.alphabétisé
 \gvf adulte alphabétisé
 \gvf adulte qui suit les cours d'alphabétisation
-\dt 14/Jun/2017
+\dt 01/Mar/2019
 
 \lx bálikukalanso
 \mm báliku.kalan:n:alphabétisation.des.adultes
-\mm báliku:n:adulte
-\mm kàlan:n:lecture
+\mmm báliku:n:adulte
+\mmm kàlan:n:lecture
 \mm só:n:maison
 \ps n
 \gf centre.d'alphabétisation.pour.adultes
 \gvf centre d'alphabétisation pour adultes
 \rem du
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bálikuya
 \mm báliku:v:grandir
@@ -3439,10 +3453,10 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 
 \lx bálima
 \va bálema
-\va bá.den.ma
+\va bádenma
 \mm bá.den:n:frère/soeur.utérin(e)
-\mm bá:n:mère
-\mm dén:n:enfant
+\mmm bá:n:mère
+\mmm dén:n:enfant
 \mm ma:mrph:COM
 \ps n
 \ms 1
@@ -3455,7 +3469,7 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \ms 2
 \gvf frère
 \smf (personne que l'on considère comme un frère ...)
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bálimakɛ
 \mm bálima:n:frère
@@ -3477,15 +3491,15 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 
 \lx bálimamusoden
 \mm bálima.muso:n:soeur
-\mm bálima:n:frère
-\mm mùso:adj:femme
+\mmm bálima:n:frère
+\mmm mùso:adj:femme
 \mm dén:n:enfant
 \ps n
 \gf neveu
 \gvf neveu
 \smf (enfant de la soeur : neveu, nièce / enfant d'une cousine)
 \rem du
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bálimantan
 \mm bálima:n:frère
@@ -3567,12 +3581,20 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \xf quand les vivres viennent à manquer sérieusement au village (Kb 6/05 p.4)
 \dt 11/Nov/2007
 
+\lx bálon
+\va bálɔn
+\ps n
+\gf ballon
+\gvf ballon
+\dt 01/Mar/2019
+
 \lx bàlontan
+\mm bálon:n:ballon
 \mm tán:v:frapper
 \ps n
 \gf football
 \gvf football
-\dt 10/May/2013
+\dt 01/Mar/2019
 
 \lx bálontanya
 \mm bálo:n:nourriture
@@ -3586,6 +3608,16 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \xf on a fait savoir que les sauterelles ont privé ces villages de nourriture cette année (kb 11/04 p.2)
 \dt 11/Nov/2007
 
+\lx bálontanya
+\mm bálo:n:nourriture
+\mm ntan:mrph:PRIV
+\mm ya:mrph:ABSTR
+\ps n
+\gf disette
+\gvf disette
+\gvf manque de nourriture
+\dt 03/Mar/2019
+
 \lx bálosen
 \mm bálo:v:vivre
 \mm sèn:n:jambe
@@ -3594,13 +3626,6 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \gvf conduite
 \gvf manière de vivre
 \dt 11/Nov/2007
-
-\lx bálɔn
-\va bálon
-\ps n
-\gf ballon
-\gvf ballon
-\dt 15/Sep/2016
 
 \lx bàma
 \ps n
@@ -3678,13 +3703,13 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \lx bámanankan
 \mm bámanan:n:bambara
 \mm kán:n:cou
-\va bámana.kan
+\va bámanakan
 \mm bámana:n:bambara
 \mm kán:n:cou
 \ps n
 \gf langue.bambara
 \gvf langue bambara
-\dt 10/Mar/2018
+\dt 01/Mar/2019
 
 \lx bámananya
 \mm bámànan:n:bambara
@@ -3717,7 +3742,7 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \dt 26/Sep/2006
 
 \lx bámanbilen
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \ms 1
 \gf poisson.Barbus.occidentalis
@@ -3730,22 +3755,24 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \lat Labeo.coubie
 \smf (---> 75 cm  ---> 12 kg)
 \sy tòno
-\dt 08/Sep/2006
+\dt 01/Mar/2019
 
 \lx bámanjɛ
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf poisson.Labeo.senegalensis
 \gvf poisson Labeo senegalensis
 \smf (---> 55cm  ---> 3,750 kg)
-\dt 19/Aug/2006
+\dt 01/Mar/2019
 
-\lx bámɛtɛrɛ
+\lx bàmɛtɛrɛ
+\mm bà:n:mille
+\mm mɛ́tɛrɛ:n:mètre
 \ps n
 \gf kilomètre
 \gvf kilomètre
 \rem du (néo)
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bàmu
 \va bàmun
@@ -3806,15 +3833,15 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 
 \lx bàmusokɔrɔ
 \mm bà.muso:n:chèvre
-\mm bà:n:chèvre
-\mm mùso:adj:femme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mmm bà:n:chèvre
+\mmm mùso:adj:femme
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf grosse.chèvre.adulte
 \gvf grosse chèvre adulte
 \xv bàmusokɔrɔ kɔ́ tɛ́  à ŋɛ́ɲɛ ní  à má  dɛ̀nɛ yé (pró)
 \xf le dos de la chèvre ne lui démange pas, tant qu'elle n'a pas vu un mur = (créer des besoins, rôle de la publicité)
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàn
 \ps v
@@ -3993,10 +4020,10 @@ fabrication de meubles, chaises, lits...)
 \dt 15/Aug/2006
 
 \lx bànabaatɔlama
-\mm bàna.baa.tɔ:adj/n:malade
-\mm bàna:n:maladie
-\mm baa:mrph:AG.OCC
-\mm tɔ:mrph:ST
+\mm bàna.baa.tɔ:ad:malade
+\mmm bàna:n:maladie
+\mmm baa:mrph:AG.OCC
+\mmm tɔ:mrph:ST
 \mm lama:mrph:STAT
 \ps adj
 \gf infirme
@@ -4007,7 +4034,7 @@ fabrication de meubles, chaises, lits...)
 \xv ń'í dén kɛ́ra  bànabaatɔlama yé, í cɛ́sirijala dòn, í tɛ́ sé k'à bìla kɛ̀rɛ fɛ̀
 \xf quand ton enfant devient malade, c'est ta ceinture, tu ne peux le laisser de côté
 \rem f
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bànabasìgilen
 \mm bàna:n:maladie
@@ -4031,10 +4058,10 @@ fabrication de meubles, chaises, lits...)
 
 \lx bànajugu
 \mm bàna:n:fromager
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \va bànan.jugu
 \mm bànan:n:fromager
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \gf arbre.Crateva.adansonii
 \gvf arbre Crateva adansonii
@@ -4045,18 +4072,18 @@ pour fabriquer du matériel agricole. Les feuilles fraîches
 servent à soigner divers troubles urinaires ou rhumatismaux.
 Fleurs spectaculaires)
 \sy nsúname
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bànajuguba
 \mm bàna:n:maladie
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \mm ba:mrph:AUGM
 \ps n
 \gf maladie.très.grave
 \gvf maladie très grave
 \xv jàlibana yé  bànajuguba yé
 \xf le tétanos est une maladie très grave
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bànakisɛ
 \mm bàna:n:maladie
@@ -4070,8 +4097,8 @@ Fleurs spectaculaires)
 
 \lx bànakisɛma
 \mm bàna.kisɛ:n:microbe
-\mm bàna:n:maladie
-\mm kìsɛ:n:grain
+\mmm bàna:n:maladie
+\mmm kìsɛ:n:grain
 \mm ma:mrph:COM
 \ps n
 \gf infecté
@@ -4079,31 +4106,31 @@ Fleurs spectaculaires)
 \gvf pollué
 \xv ò bɛ́ kɛ́ sábabu yé kà jí bànakisɛma láse mɔ̀gɔ mà
 \xf cela fait parvenir de l'eau contaminée aux gens (kb 7/05 p.2)
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bànakisɛntan
 \mm bàna.kisɛ:n:microbe
-\mm bàna:n:maladie
-\mm kìsɛ:n:grain
+\mmm bàna:n:maladie
+\mmm kìsɛ:n:grain
 \mm ntan:mrph:PRIV
 \ps adj
 \gf sans.microbe
 \gvf sans microbe
 \xv jí bànakisɛntan
 \xf eau sans microbe, potable (kb 12/04 p.4)
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bànakisɛtɔ
 \mm bàna.kisɛ:n:microbe
-\mm bàna:n:maladie
-\mm kìsɛ:n:grain
+\mmm bàna:n:maladie
+\mmm kìsɛ:n:grain
 \mm tɔ:mrph:ST
 \ps adj
 \gf infecté
 \gvf infecté
 \xv bànakisɛtɔ cáman bɛ́ yèn mínnu t'á kàla mà k'ú mán kɛ́nɛ
 \xf beaucoup sont infectés tout en ignorant qu'ils sont  malades (Kb 10/06 p.2)
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bánakɔla
 \mm bána:n:extérieur.du.village
@@ -4123,19 +4150,23 @@ Fleurs spectaculaires)
 \mm bána:n:extérieur.du.village
 \mm kɔ́:pp:après
 \mm táa:v:aller
+\va bánakɔtaga
+\mm bána:n:extérieur.du.village
+\mm kɔ́:pp:après
+\mm tága:v:aller
 \ps n
 \gf excrément.humain
 \gvf excrément humain
 \sd (euph.)
 \sy kɔ́fɛtaa
 \sy ɲàmanataa
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bánakɔtaasɔrɔbaliya
 \mm bána.kɔ.taa:n:excrément.humain
-\mm bána:n:extérieur.du.village
-\mm kɔ́:pp:après
-\mm táa:v:aller
+\mmm bána:n:extérieur.du.village
+\mmm kɔ́:pp:après
+\mmm táa:v:aller
 \mm sɔ̀rɔ:v:obtenir
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
@@ -4143,24 +4174,25 @@ Fleurs spectaculaires)
 \gf constipation
 \gvf constipation
 \gvf occlusion intestinale
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bánakɔtagayɔrɔ
-\mm bána:n:extérieur.du.village
-\mm kɔ́:pp:après
-\mm tága:v:aller
+\mm bána.kɔ.taga:n:excrément.humain
+\mmm bána:n:extérieur.du.village
+\mmm kɔ́:pp:après
+\mmm tága:v:aller
 \mm yɔ́rɔ:n:lieu
 \va bána.kɔ.taa.yɔrɔ
 \mm bána.kɔ.taa:n:excrément.humain
-\mm bána:n:extérieur.du.village
-\mm kɔ́:pp:après
-\mm táa:v:aller
+\mmm bána:n:extérieur.du.village
+\mmm kɔ́:pp:après
+\mmm táa:v:aller
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf toilettes
 \gvf toilettes
 \rem du
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bànaku
 \va bànanku
@@ -4249,14 +4281,16 @@ Fleurs spectaculaires)
 \dt 26/Sep/2006
 
 \lx bànbaanciya
-\mm bàn:v:refuser
-\mm baa:mrph:AG.OCC
-\mm nci:mrph:AG.EX
+\mm bàn.baa.nci:n:entêté
+\mmm bàn:v:refuser
+\mmm baa:mrph:AG.OCC
+\mmm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \va bàn.baga.nci.ya
-\mm bàn:v:refuser
-\mm baga:mrph:AG.OCC
-\mm nci:mrph:AG.EX
+\mm bàn.baga.nci:n:entêté
+\mmm bàn:v:refuser
+\mmm baga:mrph:AG.OCC
+\mmm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps n
 \gf entêtement
@@ -4265,7 +4299,7 @@ Fleurs spectaculaires)
 \xv ù yé bànbaganciya kɛ́ à lá sènɲɛ cáman
 \xf que de fois, ils lui furent rebelles (Ps 78, 40) ... s'opposèrent à lui
 \rem mol
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bánbaatɔ
 \mm bán:v:terminer
@@ -4540,7 +4574,7 @@ Fleurs spectaculaires)
 
 \lx bángegɛlɛya
 \mm bánge:v:naître
-\mm gɛ̀lɛ:vq/adj:dur
+\mm gɛ̀lɛ:adj:dur
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -4549,7 +4583,7 @@ Fleurs spectaculaires)
 \smf (de la femme)
 \ms 2
 \gvf accouchement difficile
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bángejɔ
 \mm bánge:n:accouchement
@@ -4660,6 +4694,7 @@ Fleurs spectaculaires)
 \dt 26/Sep/2006
 
 \lx bàninkɔ̀nɔ
+\mm Bánin:n.prop:TOP
 \mm kɔ̀nɔ:n:oiseau
 \ps n
 \gf cigogne.d'Abdim
@@ -4667,10 +4702,12 @@ Fleurs spectaculaires)
 \sy sàjumɛ
 \lat Ciconia abdimii
 \smf (niche en zone soudanienne au début des pluies)
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bànin-kɔ̀nɔ-ká-tìga
 \mm bàninkɔ̀nɔ:n:cigogne.d'Abdim
+\mmm Bánin:n.prop:TOP
+\mmm kɔ̀nɔ:n:oiseau
 \mm ká:pp:POSS
 \mm tìga:n:arachide
 \ps n
@@ -4684,7 +4721,7 @@ Fleurs spectaculaires)
 \smf (plante herbacée suffrutescente, ---> 1 à 3 m)
 \sy npyèlu
 \sy nsèlu
-\dt 18/Aug/2017
+\dt 01/Mar/2019
 
 \lx báninncinin
 \mm bá:n:mère
@@ -4732,15 +4769,15 @@ Fleurs spectaculaires)
 
 \lx bànkasanin
 \mm bà.nkasa:n:plante.Vetiveria.fulvibarbis
-\mm bà:n:chèvre
-\mm nkàsa:n:herbe.Ipomoea.muricata
+\mmm bà:n:chèvre
+\mmm nkàsa:n:herbe.Ipomoea.muricata
 \mm nin:mrph:DIM
 \ps n
 \gf plante.Andropogon.infrasulcatus
 \gvf plante Andropogon infrasulcatus
 \smf (graminée des plaines inondables)
 \sd gram
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bànkɛlɛla
 \mm bàn:v:refuser
@@ -4827,24 +4864,24 @@ Fleurs spectaculaires)
 
 \lx bántanfala
 \mm bá.ntan:adj:sans.mère
-\mm bá:n:mère
-\mm ntan:mrph:PRIV
+\mmm bá:n:mère
+\mmm ntan:mrph:PRIV
 \mm fála:n:orphelin
 \ps n
 \gf orphelin.de.mère
 \gvf orphelin de mère
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàntɛgɛ
 \mm bà:n:chèvre
-\mm ntɛ̀gɛ:adj/n:castré
+\mm ntɛ̀gɛ:adj:castré
 \va bà.dɛgɛ
 \mm bà:n:chèvre
-\mm dɛ̀gɛ:adj/n:castré
+\mm dɛ̀gɛ:adj:castré
 \ps n
 \gf bouc.castré
 \gvf bouc castré
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bántɔmɔlɔn
 \mm bá:n:fleuve
@@ -5017,8 +5054,8 @@ Fleurs spectaculaires)
 
 \lx bàrajintanya
 \mm bàraji.ntan:adj/n:ingrat
-\mm bàraji:n:récompense.divine
-\mm ntan:mrph:PRIV
+\mmm bàraji:n:récompense.divine
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -5028,7 +5065,7 @@ Fleurs spectaculaires)
 \ms 2
 \gvf absence de récompense
 \smf (fait de ne pas être récompensé)
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàrajuru
 \mm bàra:n:calebasse
@@ -5092,12 +5129,12 @@ Fleurs spectaculaires)
 \lx bàrakunba
 \mm bàra:n:calebasse
 \mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf nombril.proéminent
 \gvf nombril proéminent
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bàrakuru
 \mm bàra:n:calebasse
@@ -5347,15 +5384,15 @@ Fleurs spectaculaires)
 
 \lx bárikamaya
 \mm bárika.ma:adj:fort
-\mm bárika:n:bénédiction
-\mm ma:mrph:COM
+\mmm bárika:n:bénédiction
+\mmm ma:mrph:COM
 \mm ya:mrph:ABSTR
 \ps n
 \gf puissance
 \gvf puissance
 \xv jíkulu ká bárikamaya
 \xf l'impétuosité des flots (Sg 13, 2)
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bárikantan
 \mm bárika:n:bénédiction
@@ -5368,19 +5405,19 @@ Fleurs spectaculaires)
 
 \lx bárikantanya
 \mm bárika.ntan:adj:faible
-\mm bárika:n:bénédiction
-\mm ntan:mrph:PRIV
+\mmm bárika:n:bénédiction
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf fragilité
 \gvf fragilité
 \gvf débilité
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bárikantanya
 \mm bárika.ntan:adj:faible
-\mm bárika:n:bénédiction
-\mm ntan:mrph:PRIV
+\mmm bárika:n:bénédiction
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -5388,7 +5425,7 @@ Fleurs spectaculaires)
 \gvf affaiblir
 \xv bàna y'á bárikantanya
 \xf la maladie l'a laissé sans force
-\dt 15/Aug/2006
+\dt 01/Mar/2019
 
 \lx bárikatigi
 \mm bárika:n:bénédiction
@@ -5401,8 +5438,8 @@ Fleurs spectaculaires)
 
 \lx bárikatigiya
 \mm bárika.tigi:n:fort
-\mm bárika:n:bénédiction
-\mm tìgi:n:maître
+\mmm bárika:n:bénédiction
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -5410,7 +5447,7 @@ Fleurs spectaculaires)
 \gvf fortifier
 \gvf rendre fort
 \rem jos, V
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bárìsá
 \va bárì sá
@@ -5814,15 +5851,15 @@ furoncles, inf. urinaires)
 
 \lx básibɔnkɔnɔdimi
 \mm bási.bɔn:n:hémorragie
-\mm bási:n:sang
-\mm bɔ̀n:v:répandre
+\mmm bási:n:sang
+\mmm bɔ̀n:v:répandre
 \mm kɔ́nɔ:n:ventre
 \mm dími:n:souffrance
 \ps n
 \gf dysménorrhée
 \gvf dysménorrhée
 \gvf douleurs des règles
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx básigi
 \mm bá:n:base
@@ -5846,11 +5883,12 @@ furoncles, inf. urinaires)
 \ms 2
 \gvf être ordonné
 \smf (soigneux, consciencieux, sérieux)
-\dt 21/Dec/2014
+\dt 01/Mar/2019
 
 \lx básigibali
-\mm bá:n:base
-\mm sìgi:v:asseoir
+\mm básìgi:v:être.posé
+\mmm bá:n:base
+\mmm sìgi:v:asseoir
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \ms 1
@@ -5859,23 +5897,26 @@ furoncles, inf. urinaires)
 \smf (qui ne tient pas en place)
 \ms 2
 \gvf inappliqué
-\dt 21/Dec/2014
+\dt 01/Mar/2019
 
 \lx básigibaliya
-\mm bá:n:base
-\mm sìgi:v:asseoir
-\mm bali:mrph:PTCP.PRIV
+\mm básigi.bali:ptcp:remuant
+\mmm bá.sìgi:v:être.posé
+\mmmm bá:n:base
+\mmmm sìgi:v:asseoir
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf inconstance
 \gvf inconstance
 \smf (manque de sérieux, d'application, de fermeté ...)
 \rem bz, mol / l 89 : frivolité  du : agitation, énervement, instabilité
-\dt 21/Dec/2014
+\dt 01/Mar/2019
 
 \lx básigilenya
-\mm bá:n:base
-\mm sìgi:v:asseoir
+\mm bá.sìgi:v:être.posé
+\mmm bá:n:base
+\mmm sìgi:v:asseoir
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
@@ -5883,7 +5924,7 @@ furoncles, inf. urinaires)
 \gvf constance
 \gvf calme
 \gvf application
-\dt 21/Dec/2014
+\dt 01/Mar/2019
 
 \lx básiji
 \mm bási:n:sang
@@ -6389,16 +6430,20 @@ feu)
 \gvf ceinture de perles
 
 \lx báyanfan
+\mm bá:n:fleuve
+\mm yàn.fan:n:ce.côté-ci
+\mmm yàn:n:ici
+\mmm fàn:n:côté
 \va bá.ɲan.fan
 \mm bá:n:fleuve
 \mm yàn.fan:n:ce.côté-ci
-\mm yàn:n:ici
-\mm fàn:n:côté
+\mmm yàn:n:ici
+\mmm fàn:n:côté
 \ps n
 \gf sud
 \gvf sud
 \smf (pour les gens de la rive gauche, en direction du Niger)
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx báyɛ̀lɛma
 \mm bá:n:base
@@ -6460,6 +6505,13 @@ feu)
 \gvf traduction
 \dt 08/Oct/2017
 
+\lx báyɛlɛmasi
+\ps n
+\gf sémence.OGM
+\gvf sémence.OGM
+\gvf sémence génétiquement modifié
+\dt 01/Mar/2019
+
 \lx bè
 \va bèete
 \ps n
@@ -6477,7 +6529,16 @@ feu)
 \gvf portefeuille
 \dt 26/Sep/2006
 
+\lx bége
+\ps n
+\gf piquant
+\gvf piquant
+\gvf dard
+\gvf pointe
+\dt 01/Mar/2019
+
 \lx bégewɔɔrɔ
+\mm bége:n:piquant
 \mm wɔ́ɔrɔ:num:six
 \ps n
 \gf poisson.Synodontis.budgetti
@@ -6486,7 +6547,7 @@ feu)
 s'ajoutent trois pointes osseuses au processus huméral, ---> 28
 cm, ---> 550 gr; espèce de poisson chat, se retourne pour
 nager)
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx békubeku
 \va bɛ́kubɛku
@@ -6577,7 +6638,7 @@ rɔ ; au nég: fu:agir_posément, prendre son temps)
 
 \lx bènbefin
 \mm bènbe:n:raisinier
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf raisinier.acide
 \gvf raisinier acide
@@ -6585,11 +6646,11 @@ rɔ ; au nég: fu:agir_posément, prendre son temps)
 \sd anac
 \smf (de 5 / 10 m, drupes elliptiques de 1,2 cm de longueur, comestibles)
 \sy npèkugɛlɛn
-\dt 19/Aug/2006
+\dt 01/Mar/2019
 
 \lx bènbekuna
 \mm bènbe:n:raisinier
-\mm kúna:vq:amer
+\mm kúna:adj:amer
 \ps n
 \gf raisinier.velu
 \gvf raisinier velu
@@ -6598,7 +6659,7 @@ rɔ ; au nég: fu:agir_posément, prendre son temps)
 \smf (arbuste ---> 2 / 6 m, feuilles veloutées, fruits non comestibles)
 \sy bàkɔrɔnpeku
 \sy bènbemuso
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bènbemuso
 \mm bènbe:n:raisinier
@@ -6672,7 +6733,7 @@ problèmes mentaux, empoissonnements...)
 
 \lx bèrefin
 \mm bère:n:plante.Boscia.sp.
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf plante.Boscia.senegalensis
 \gvf plante Boscia senegalensis
@@ -6684,18 +6745,18 @@ sécurité alimentaire, favoriser le développement rural et le
 soutien durable de protection des terres)
 \sy cɛ̀kɔrɔninkolon
 \sy bèremuso
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bèrejɛ
 \mm bère:n:plante.Boscia.sp.
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf plante.Boscia.angustifolia
 \gvf plante Boscia angustifolia
 \sd capp
 \smf (arbuste ---> 8m, reste vert en saison sèche)
 \sy cɛ̀kɔrɔninkolon
-\dt 19/Aug/2006
+\dt 01/Mar/2019
 
 \lx bèrejɔn
 \mm bère:n:plante.Boscia.sp.
@@ -6726,7 +6787,7 @@ soutien durable de protection des terres)
 
 \lx bèrekuna
 \mm bère:n:plante.Boscia.sp.
-\mm kúna:vq:amer
+\mm kúna:adj:amer
 \ps n
 \gf plante.Cadaba.farinosa
 \gvf plante Cadaba farinosa
@@ -6734,7 +6795,7 @@ soutien durable de protection des terres)
 \smf (arbuste ---> 4 / 5 m, souvent sarmenteux, toujours vert, en zone sahélienne;`feuilles
 sèches comestibles, poudre médicinale contre dysenterie,
 rhume, toux)
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx béreminɛ
 \mm bére:n:bâton
@@ -6965,13 +7026,13 @@ rhume, toux)
 
 \lx bɛ́ɛnkɛya
 \mm bɛ́ɛn.kɛ:n:oncle.maternel
-\mm bɛ́ɛn:n:oncle.maternel
-\mm kɛ:adj:mâle
+\mmm bɛ́ɛn:n:oncle.maternel
+\mmm kɛ:adj:mâle
 \mm ya:mrph:ABSTR
 \va bɛ́n.kɛ.ya
 \mm bɛ́n.kɛ:n:oncle.maternel
-\mm bɛ́n:n:oncle.maternel
-\mm kɛ:adj:mâle
+\mmm bɛ́n:n:oncle.maternel
+\mmm kɛ:adj:mâle
 \mm ya:mrph:ABSTR
 \ps n
 \gf statut.d'oncle.maternel
@@ -6979,7 +7040,7 @@ rhume, toux)
 \xv bɛ́ɛnkɛya jùjɔ yé  bálimamusodenya
 \xf le statut d'oncle maternel commence avec la maternité d'une soeur
 \rem f
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bɛ́ɛnna
 \mm bɛ́ɛn:n:oncle.maternel
@@ -6987,20 +7048,23 @@ rhume, toux)
 \va bɛ́n.na
 \mm bɛ́n:n:oncle.maternel
 \mm na:mrph:LOC
+\va bélenn.na
+\mm bélenn:n:oncle.maternel
+\mm na:mrph:LOC
 \ps n
 \gf lieu.d'origine.de.la.mère
 \gvf lieu d'origine de la mère
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bɛ́ɛnnaka
 \mm bɛ́ɛn.na:n:lieu.d'origine.de.la.mère
-\mm bɛ́ɛn:n:oncle.maternel
-\mm na:mrph:LOC
+\mmm bɛ́ɛn:n:oncle.maternel
+\mmm na:mrph:LOC
 \mm ka:mrph:GENT
 \va bɛ́n.na.ka
 \mm bɛ́n.na:n:lieu.d'origine.de.la.mère
-\mm bɛ́n:n:oncle.maternel
-\mm na:mrph:LOC
+\mmm bɛ́n:n:oncle.maternel
+\mmm na:mrph:LOC
 \mm ka:mrph:GENT
 \ve (dú)
 \ps n
@@ -7009,7 +7073,7 @@ rhume, toux)
 \xv né sàn sàba  làkoli lá, né táara  ń bɛ́ɛnnaka fɛ̀
 \xf à la fin de ma troisième année d'école, je suis allé chez mon oncle maternel
 \rem f
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bɛ́ɛnnin
 \mm bɛ́ɛn:n:oncle.maternel
@@ -7019,37 +7083,38 @@ rhume, toux)
 \mm nin:mrph:DIM
 \ps n
 \gf neveu/nièce
-\gvf neveu/nièce
+\gvf neveu
+\gvf nièce
 \smf (enfant de la soeur)
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bɛ́ɛnninkɛ
 \mm bɛ́ɛn.nin:n:neveu/nièce
-\mm bɛ́ɛn:n:oncle.maternel
-\mm nin:mrph:DIM
+\mmm bɛ́ɛn:n:oncle.maternel
+\mmm nin:mrph:DIM
 \mm kɛ:adj:mâle
 \va bɛ́n.nin.kɛ
 \mm bɛ́n.nin:n:neveu/nièce
-\mm bɛ́n:n:oncle.maternel
-\mm nin:mrph:DIM
+\mmm bɛ́n:n:oncle.maternel
+\mmm nin:mrph:DIM
 \mm kɛ:adj:mâle
 \ps n
 \gf neveu
 \gvf neveu
 \smf (fils d'une soeur)
 \rem f
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bɛ́ɛnninmuso
 \mm bɛ́ɛn.nin:n:neveu/nièce
-\mm bɛ́ɛn:n:oncle.maternel
-\mm nin:mrph:DIM
+\mmm bɛ́ɛn:n:oncle.maternel
+\mmm nin:mrph:DIM
 \mm mùso:adj:femme
 \ps n
 \gf nièce
 \gvf nièce
 \gvf fille d'une soeur
-\dt 06/Dec/2012
+\dt 01/Mar/2019
 
 \lx bɛ̀ɛrɛbɛɛrɛ
 \va bèrebere
@@ -7162,8 +7227,8 @@ rhume, toux)
 
 \lx bɛ̀lɛkisɛnin
 \mm bɛ̀lɛ.kisɛ:n:gravier
-\mm bɛ̀lɛ:n:gravier
-\mm kìsɛ:n:grain
+\mmm bɛ̀lɛ:n:gravier
+\mmm kìsɛ:n:grain
 \mm nin:mrph:DIM
 \ps n
 \ms 1
@@ -7171,7 +7236,7 @@ rhume, toux)
 \gvf appendice
 \ms 2
 \gvf appendicite
-\dt 15/Aug/2006
+\dt 01/Mar/2019
 
 \lx bɛ̀lɛlankasa
 \mm bɛ̀lɛ:n:gravier
@@ -7229,6 +7294,8 @@ rhume, toux)
 \ps n
 \gf appendice
 \gvf appendice
+\smf (anat.)
+\dt 01/Mar/2019
 
 \lx bɛ̀lɛnintuuru
 \mm bɛ̀lɛ:n:gravier
@@ -7401,8 +7468,8 @@ au Mali)
 
 \lx bɛ̀nbaliya
 \mm bɛ̀n.bali:ptcp:sans.accord
-\mm bɛ̀n:v:se.rencontrer
-\mm bali:mrph:PTCP.PRIV
+\mmm bɛ̀n:v:se.rencontrer
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -7411,18 +7478,18 @@ au Mali)
 \gvf brouiller
 \xv nìn kó yé  téri bɛ̀nbaliya
 \xf cette histoire a brouillé les amis
-\dt 16/Mar/2018
+\dt 01/Mar/2019
 
 \lx bɛ̀nbaliya
 \mm bɛ̀n.bali:ptcp:sans.accord
-\mm bɛ̀n:v:se.rencontrer
-\mm bali:mrph:PTCP.PRIV
+\mmm bɛ̀n:v:se.rencontrer
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf discorde
 \gvf discorde
 \gvf mésentente
-\dt 16/Mar/2018
+\dt 01/Mar/2019
 
 \lx bɛ́nbamuso
 \mm bɛ́nba:n:ancêtre
@@ -7484,7 +7551,7 @@ condiments)
 
 \lx bɛ̀nɛfin
 \mm bɛ̀nɛ:n:sésame
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \ms 1
 \smf (plantes herbacées)
@@ -7499,26 +7566,27 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf plante Hygrophila senegalensis
 \sd acan
 \smf (fleur bleu violacé foncé)
-\dt 03/Apr/2016
+\dt 01/Mar/2019
 
 \lx bɛ̀nɛfinjɔ̀n
-\mm bɛ̀nɛ:n:sésame
-\mm fìn:vq/adj:noir
+\mm bɛ̀nɛfin:n:plante.Hyptis.spicigera
+\mmm bɛ̀nɛ:n:sésame
+\mmm fìn:adj:noir
 \mm jɔ̀n:n:esclave
 \ps n
 \gf plante.Hyptis.spicigera
 \gvf plante Hyptis spicigera
-\dt 06/Dec/2012
+\dt 01/Mar/2019
 
 \lx bɛ̀nɛjɛ
 \mm bɛ̀nɛ:n:sésame
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf plante.Cerathoteca.sesamoides
 \gvf plante Cerathoteca sesamoides
 \sd peda
 \smf (plante herbacée)
-\dt 19/Aug/2006
+\dt 01/Mar/2019
 
 \lx bɛ̀nɛjɔ̀n
 \mm bɛ̀nɛ:n:sésame
@@ -7560,15 +7628,15 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 28/Mar/2014
 
 \lx bɛ̀nkansɛbɛn
-\mm bɛ̀nkan:n:accord
-\mm bɛ̀n:n:accord
-\mm kán:n:cou
+\mm bɛ̀n.kan:n:accord
+\mmm bɛ̀n:n:accord
+\mmm kán:n:cou
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf accord.écrit
 \gvf accord écrit
 \gvf traité
-\dt 14/Jun/2016
+\dt 01/Mar/2019
 
 \lx bɛ́nkɛ
 \mm bɛ́n:n:oncle.maternel
@@ -7615,24 +7683,24 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bɛ́nninkɛ
 \mm bɛ́n.nin:n:neveu
-\mm bɛ́n:n:oncle.maternel
-\mm nin:mrph:DIM
+\mmm bɛ́n:n:oncle.maternel
+\mmm nin:mrph:DIM
 \mm kɛ̀:adj:mâle
 \ps n
 \gf neveu
 \gvf neveu
-\dt 16/Dec/2018
+\dt 01/Mar/2019
 
 \lx bɛ́nninmuso
 \mm bɛ́n.nin:n:neveu
-\mm bɛ́n:n:oncle.maternel
-\mm nin:mrph:DIM
+\mmm bɛ́n:n:oncle.maternel
+\mmm nin:mrph:DIM
 \mm mùso:adj:femme
 \ps n
 \gf nièce
 \gvf nièce
 \smf (fille d'une soeur)
-\dt 16/Dec/2018
+\dt 01/Mar/2019
 
 \lx bɛ̀nńsènmà
 \mm bɛ̀n:v:se.rencontrer
@@ -7782,7 +7850,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 08/Mar/2018
 
 \lx bɛ̀sɛya
-\mm bɛ̀sɛ:adj/n:coquet
+\mm bɛ̀sɛ:adj:coquet
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -7790,10 +7858,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf coquetterie
 \ms 2
 \gvf propreté
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bɛ̀sɛya
-\mm bɛ̀sɛ:adj/n:coquet
+\mm bɛ̀sɛ:adj:coquet
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -7801,7 +7869,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf rendre propre
 \xv kàrisa nɔ́gɔlen tùn bɛ́ fɔ́lɔ, sísan  à bɛ̀sɛyara
 \xf une telle était autrefois malpropre, maintenant elle est coquette
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bɛ̀tɛrɛ
 \ps v
@@ -7868,11 +7936,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 18/May/2017
 
 \lx bìbi
-\mm bì:n/adv:aujourd'hui
-\mm bì:n/adv:aujourd'hui
+\mm bì:n:aujourd'hui
+\mm bì:n:aujourd'hui
 \ps n
 \gf aujourd'hui
 \gvf aujourd'hui
+\dt 01/Mar/2019
 
 \lx bíbi
 \ps n
@@ -7888,14 +7957,27 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf Bible
 \dt 15/Sep/2016
 
-\lx bìdenya
-\mm bì:n/adv:aujourd'hui
+\lx bìden
+\mm bì:n:aujourd'hui
 \mm dén:n:enfant
+\ps n
+\gf gens.d'aujourd'hui
+\gvf gens d'aujourd'hui
+\smf (péjoratif)
+\gvf garnement
+\gvf enfant insolent
+\gvf enfant irrespectueux
+\dt 01/Mar/2019
+
+\lx bìdenya
+\mm bìden:n:gens.d'aujourd'hui
+\mmm bì:n:aujourd'hui
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \gf moeurs.actuelles
 \gvf moeurs actuelles
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bídonna
 \mm bí:n:but
@@ -7953,10 +8035,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 09/Apr/2017
 
 \lx bíkɔ̀nɔntɔn
+\mm bí:num:dizaine
+\mm kɔ̀nɔntɔn:num:neuf
 \ps num
 \gf quatre-vingt.dix
 \gvf quatre-vingt dix
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bìla
 \va blà
@@ -7985,10 +8069,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv án bɛ́ í ká bìla lá
 \xf nous sommes à ta disposition
 \ms 3
-\gvf dispositio
+\gvf disposition
 \xv ń bɛ́ í ka bìla lá
 \xe je suis à ta disposition
-\dt 06/Oct/2018
+\dt 03/Mar/2019
 
 \lx bìla
 \va blà
@@ -8129,7 +8213,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 26/Sep/2006
 
 \lx bìlako
-\mm bì:n/adv:aujourd'hui
+\mm bì:n:aujourd'hui
 \mm la:mrph:LOC
 \mm kó:n:affaire
 \ps n
@@ -8139,49 +8223,59 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \sy bìko
 \xv bìlako má  né nà
 \xf il y a longtemps que je suis venu
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bìlakojugu
-\mm bìla:v:mettre
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm bìlako:n:conduite
+\mmm bìla:v:mettre
+\mmm kó:n:affaire
+\mm júgu:adj:mauvais
 \va blà.ko.jugu
-\mm blà:v:mettre
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm blàko:n:conduite
+\mmm blà:v:mettre
+\mmm kó:n:affaire
+\mm júgu:adj:mauvais
 \ph [bla]
 \ps adj/n
 \gf vaurien
 \gvf vaurien
 \xv kà à bìla fó bìlakojugu
 \xf laisser (la place) pour jamais
-\dt 18/Apr/2015
+\dt 01/Mar/2019
 
 \lx bìlakojuguya
-\mm bìla:v:mettre
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm bìlako.jugu:adj:vaurien
+\mmm bìla.ko:n:conduite
+\mmmm bìla:v:mettre
+\mmmm kó:n:affaire
+\mmm júgu:adj:mauvais
 \mm ya:mrph:DEQU
 \va blà.ko.jugu.ya
-\mm blà:v:mettre
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm blàko.jugu:adj:vaurien
+\mmm blà.ko:n:conduite
+\mmmm blà:v:mettre
+\mmm kó:n:affaire
+\mmm júgu:adj:mauvais
 \mm ya:mrph:DEQU
 \ph [bla]
 \ps n
 \gf mauvaise.conduite
 \gvf mauvaise conduite
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bìlakojuguya
-\mm bìla:v:mettre
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm bìlako.jugu:adj:vaurien
+\mmm bìla.ko:n:conduite
+\mmmm bìla:v:mettre
+\mmmm kó:n:affaire
+\mmm júgu:adj:mauvais
 \mm ya:mrph:DEQU
 \va blà.ko.jugu.ya
-\mm blà:v:mettre
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm blàko.jugu:adj:vaurien
+\mmm blà.ko:n:conduite
+\mmmm blà:v:mettre
+\mmm kó:n:affaire
+\mmm júgu:adj:mauvais
 \mm ya:mrph:DEQU
 \ph [bla]
 \ps v
@@ -8195,7 +8289,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf mener une vie désordonnée
 \xv ní  súngurunnin b'í bìlakojuguya, kámalen b'ú ɲɛ́don  í lá
 \xf quand la jeune fille se tient mal, les jeunes l'importunent
-\dt 19/Aug/2006
+\dt 01/Mar/2019
 
 \lx bìlakoro
 \va blàkoro
@@ -8417,17 +8511,17 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bìlansenfɛya
 \mm bìla.n.sen.fɛ:n:vagabond
-\mm bìla:v:mettre
-\mm ń:pers:1SG
-\mm sèn:n:jambe
-\mm fɛ̀:pp:par
+\mmm bìla:v:mettre
+\mmm ń:pers:1SG
+\mmm sèn:n:jambe
+\mmm fɛ̀:pp:par
 \mm ya:mrph:ABSTR
 \va blà.n.sen.fɛ.ya
 \mm blà.n.sen.fɛ:n:vagabond
-\mm blà:v:mettre
-\mm ń:pers:1SG
-\mm sèn:n:jambe
-\mm fɛ̀:pp:par
+\mmm blà:v:mettre
+\mmm ń:pers:1SG
+\mmm sèn:n:jambe
+\mmm fɛ̀:pp:par
 \mm ya:mrph:ABSTR
 \ph [bla]
 \ps n
@@ -8436,7 +8530,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf exode
 \gvf flânerie
 \sy bàjanbila
-\dt 07/Feb/2016
+\dt 01/Mar/2019
 
 \lx bìlansimi
 \va blànsimi
@@ -8498,13 +8592,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bìlasirabága
 \mm bìla.sira:v:orienter
-\mm bìla:v:mettre
-\mm síra:n:chemin
+\mmm bìla:v:mettre
+\mmm síra:n:chemin
 \mm bága:pm:INFR
 \va blà.sira.bága
 \mm blà.sira:v:orienter
-\mm blà:v:mettre
-\mm síra:n:chemin
+\mmm blà:v:mettre
+\mmm síra:n:chemin
 \mm bága:pm:INFR
 \ps n 
 \ms 1
@@ -8512,17 +8606,17 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf accompagnateur
 \ms 2
 \gvf conseiller
-\dt 19/Aug/2006
+\dt 01/Mar/2019
 
 \lx bìlasirala
 \mm bìla.sira:v:orienter
-\mm bìla:v:mettre
-\mm síra:n:chemin
+\mmm bìla:v:mettre
+\mmm síra:n:chemin
 \mm la:mrph:AG.PRM
 \va blà.sira.la
 \mm blà.sira:v:orienter
-\mm blà:v:mettre
-\mm síra:n:chemin
+\mmm blà:v:mettre
+\mmm síra:n:chemin
 \mm la:mrph:AG.PRM
 \ps n
 \ms 1
@@ -8530,7 +8624,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf accompagnateur
 \ms 2
 \gvf conseiller
-\dt 19/Aug/2006
+\dt 01/Mar/2019
 
 \lx bìlayɔrɔ
 \mm bìla:v:mettre
@@ -8676,32 +8770,32 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bìlenman
-\mm bìlen:vq/adj:rouge
+\mm bìlen:vq:rouge
 \mm man:mrph:ADJ
 \va blèn.man
-\mm blèn:vq/adj:rouge
+\mm blèn:vq:rouge
 \mm man:mrph:ADJ
 \ph [bl]
 \ps adj
 \gf rouge
 \gvf rouge
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bìlenmannin
 \mm bìlen.man:adj:rouge
-\mm bìlen:vq/adj:rouge
-\mm man:mrph:ADJ
-\mm nìn:dtm/prn:DEM
+\mmm bìlen:vq:rouge
+\mmm man:mrph:ADJ
+\mm nìn:mrph:DIM
 \va blèn.man.nin
 \mm blèn.man:adj:rouge
-\mm blèn:vq/adj:rouge
-\mm man:mrph:ADJ
-\mm nìn:dtm/prn:DEM
+\mmm blèn:vq:rouge
+\mmm man:mrph:ADJ
+\mm nìn:mrph:DIM
 \ph [bl]
 \ps adj
 \gf rouge.vif
 \gvf rouge vif
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bílenmɔgɔ
 \mm bílen:n:mouche
@@ -8717,10 +8811,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 11/Nov/2007
 
 \lx bìlenya
-\mm bìlen:vq/adj:rouge
+\mm bìlen:vq:rouge
 \mm ya:mrph:ABSTR
 \va blèn.ya
-\mm blèn:vq/adj:rouge
+\mm blèn:vq:rouge
 \mm ya:mrph:ABSTR
 \ph [bl]
 \ps n
@@ -8729,13 +8823,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf rougeur
 \ms 2
 \gvf compétence en magie
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bìlenya
-\mm bìlen:vq/adj:rouge
+\mm bìlen:vq:rouge
 \mm ya:mrph:DEQU
 \va blèn.ya
-\mm blèn:vq/adj:rouge
+\mm blèn:vq:rouge
 \mm ya:mrph:DEQU
 \ph [bl]
 \ps v
@@ -8743,7 +8837,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gf rougir
 \gvf rougir
 \gvf rendre rouge
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bíli
 \ps n
@@ -8840,10 +8934,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bílitiri
-\mm bí:num:dizaine
+\mm bî:num:dizaine
 \mm lítiri:n:litre
 \va bí.litri
-\mm bí:num:dizaine
+\mm bî:num:dizaine
 \mm lítri:n:litre
 \ph [bilitri]
 \bw fr
@@ -8851,7 +8945,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gf décalitre
 \gvf décalitre
 \smf (néologisme)
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bímɛtɛrɛ
 \mm bî:num:dizaine
@@ -8973,14 +9067,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf oncle paternel
 
 \lx bínaani
-\mm bí:num:dizaine
+\mm bî:num:dizaine
 \mm náani:num:quatre
 \ps n
 \gf quarante
 \gvf quarante
 \ve (vx)
 \sy dɛ̀bɛ
-\dt 12/Aug/2006
+\dt 01/Mar/2019
 
 \lx bìnakun
 \ps n
@@ -9064,11 +9158,11 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bínjɛ
 \mm bín:n:herbe
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps adj
 \gf blanc.jaunâtre
 \gvf blanc jaunâtre
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bìn-kà-wúli
 \mm bìn:v:tomber
@@ -9093,19 +9187,19 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bínkɛnɛlama
 \mm bín.kɛnɛ:n:herbe.verte
-\mm bín:n:herbe
-\mm kɛ́nɛ:adj:frais
+\mmm bín:n:herbe
+\mmm kɛ́nɛ:adj:frais
 \mm lama:mrph:STAT
 \va bínkɛnɛma
 \mm bín.kɛnɛ:n:herbe.verte
-\mm bín:n:herbe
-\mm kɛ́nɛ:adj:frais
+\mmm bín:n:herbe
+\mmm kɛ́nɛ:adj:frais
 \mm ma:mrph:ST
 \ps adj
 \gf vert
 \gvf vert
 \smf (couleur)
-\dt 29/Apr/2018
+\dt 01/Mar/2019
 
 \lx bínma
 \mm bín:n:herbe
@@ -9140,14 +9234,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bìnnibana
 \mm bìn.ni:n:chute
-\mm bìn:v:tomber
-\mm ni:mrph:NMLZ
+\mmm bìn:v:tomber
+\mmm ni:mrph:NMLZ
 \mm bàna:n:maladie
 \ps n
 \gf épilepsie
 \gvf épilepsie
 \sy kìrikirimasyɛn
-\dt 15/Aug/2006
+\dt 01/Mar/2019
 
 \lx bínninji
 \mm bín:n:herbe
@@ -9159,32 +9253,6 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lat Cymbopogon citratus
 \sd gram
 \dt 19/Aug/2006
-
-\lx bìnnkanikɛla
-\mm bìn:v:tomber
-\mm kàn:pp:sur
-\mm ni:mrph:NMLZ
-\mm kɛ́:v:faire
-\mm la:mrph:AG.PRM
-\va bìnnkannikɛla
-\mm bìn:v:tomber
-\mm ń:pers:1SG
-\mm kàn:pp:sur
-\mm ni:mrph:NMLZ
-\mm kɛ́:v:faire
-\mm la:mrph:AG.PRM
-\va bìnkannikɛla
-\mm bìn:v:tomber
-\mm kàn:pp:sur
-\mm ni:mrph:NMLZ
-\mm kɛ́:v:faire
-\mm la:mrph:AG.PRM
-\ps n
-\gf bandit
-\gvf bandit
-\gvf brigand
-\sy gètere
-\dt 05/Sep/2017
 
 \lx bìnńkànni
 \mm bìn:v:tomber
@@ -9205,6 +9273,35 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ms 3
 \gvf viol
 \dt 30/Sep/2018
+
+\lx bìnnkannikɛla
+\mm bìnńkànni:n:agression
+\mmm bìn:v:tomber
+\mmm ń:pers:1SG
+\mmm kàn:pp:sur
+\mmm ni:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
+\va bìnnkanikɛla
+\va bìnńkànni:n:agression
+\mmm bìn:v:tomber
+\mmm kàn:pp:sur
+\mmm ni:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
+\va bìnkannikɛla
+\mm bìnńkànni:n:agression
+\mmm bìn:v:tomber
+\mmm kàn:pp:sur
+\mmm ni:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
+\ps n
+\gf bandit
+\gvf bandit
+\gvf brigand
+\sy gètere
+\dt 01/Mar/2019
 
 \lx bínɲimi
 \mm bín:n:herbe
@@ -9588,21 +9685,22 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bírinkanfini
 \mm bíri.n.kan:n:couverture
-\mm bíri:v:courber
-\mm ń:pers:1SG
-\mm kàn:pp:sur
+\mmm bíri:v:courber
+\mmm ń:pers:1SG
+\mmm kàn:pp:sur
 \mm fìni:n:tissu
 \va brí.n.kan.fini
 \mm brí.n.kan:n:couverture
-\mm brí:v:courber
-\mm ń:pers:1SG
-\mm kàn:pp:sur
+\mmm brí:v:courber
+\mmm ń:pers:1SG
+\mmm kàn:pp:sur
 \mm fìni:n:tissu
 \ph [br]
 \ps n
 \gf couverture
 \gvf couverture
 \gvf drap
+\dt 01/Mar/2019
 
 \lx bìrinti
 \ps n
@@ -9651,10 +9749,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 10/Jul/2013
 
 \lx bísàba
+\mm bî:num:dizaine
+\mm sàba:num:trois
 \ps num
 \gf trente
 \gvf trente
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bísan
 \va búsan
@@ -9674,14 +9774,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \fq r
 \dt 12/Jun/2018
 
-\lx bíségin
+\lx bîségin
 \mm bî:num:dizaine
 \mm ségin:num:huit
 \ps num
 \gf quatre-vingt
 \gvf quatre-vingt
 \sy bámanakɛmɛ
-\dt 20/Jan/2015
+\dt 01/Mar/2019
 
 \lx bísi
 \ps v
@@ -9794,19 +9894,24 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gf point.de.départ
 \gvf point de départ
 
-\lx bíwólonwula
-\va bí.wólonfila
-\mm fìla:num:deux
+\lx bîwólonwula
+\mm bî:num:dizaine
+\mm wólonwulaa:num:sept
+\va bî.wólonfila
+\mm bî:num:dizaine
+\mm wólonfila:num:sept
 \ps num
 \gf soixante-dix
 \gvf soixante-dix
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
-\lx bíwɔ́ɔrɔ
+\lx bîwɔ́ɔrɔ
+\mm bî:num:dizaine
+\mm wɔ́ɔrɔ:num:six
 \ps num
 \gf soixante
 \gvf soixante
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bíye
 \bw fr
@@ -9883,32 +9988,32 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bòbilenfuru
 \mm bò:n:excrément
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \mm fùru:n:estomac
 \va bò.blen.furu
 \mm bò:n:excrément
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \mm fùru:n:estomac
 \ph [boblen.]
 \ps n
 \gf panse
 \gvf panse
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bòbilenkɛ
 \mm bò:n:excrément
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \mm kɛ́:v:faire
 \va bò.blen.kɛ
 \mm bò:n:excrément
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \mm kɛ́:v:faire
 \ph [boblen]
 \ps n
 \gf dysenterie
 \gvf dysenterie
 \gvf recto-colite
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bóbo
 \ps n
@@ -9969,14 +10074,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bòdingɛda
 \mm bò.dingɛ:n:rectum
-\mm bò:n:excrément
-\mm dìngɛ:n:trou
+\mmm bò:n:excrément
+\mmm dìngɛ:n:trou
 \mm dá:n:bouche
 \ps n
 \gf anus
 \gvf anus
 \sy bòda
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bòdobada
 \va bùdubada
@@ -10000,13 +10105,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bòfinkɛ
 \mm bò:n:excrément
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \mm kɛ́:v:faire
 \ps n
 \gf gastro-entérite
 \gvf gastro-entérite
 \gvf méléna
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bòfiɲɛ
 \mm bò:n:excrément
@@ -10037,12 +10142,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bòjarafin
 \mm bòjara:n:Sida.ovata.(plante)
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf plante.Sida.rhombifolia
 \gvf plante Sida rhombifolia
 \smf (plante herbacée 50 cm - 2 m)
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bòji
 \mm bò:n:excrément
@@ -10054,13 +10159,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bòjitɔ
 \mm bò.ji:n:diarrhée
-\mm bò:n:excrément
-\mm jí:n:eau
+\mmm bò:n:excrément
+\mmm jí:n:eau
 \mm tɔ:mrph:ST
 \ps n
 \gf diarrhéique
 \gvf diarrhéique
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bòkɛ
 \ps n
@@ -10221,20 +10326,20 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bòlifɛnko
 \mm bòli.fɛn:n:véhicule
-\mm bòli:v:courir
-\mm fɛ́n:n:chose
+\mmm bòli:v:courir
+\mmm fɛ́n:n:chose
 \mm kó:n:affaire
 \ps n
 \gf transport
 \gvf transport
 \xv cákɛminɛnko ní bòlifɛnko mínisiri....
 \xf le ministre du Travail et des Transports (kb 1/05 p.5)
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bòlifɛntigi
 \mm bòli.fɛn:n:véhicule
-\mm bòli:v:courir
-\mm fɛ́n:n:chose
+\mmm bòli:v:courir
+\mmm fɛ́n:n:chose
 \mm tìgi:n:maître
 \ps n
 \gf cycliste
@@ -10242,7 +10347,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf automobiliste
 \gvf motocycliste
 \gvf cavalier
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bòlikɛla
 \mm bòli:n:course
@@ -10388,11 +10493,11 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólobilen
 \mm bólo:n:bras
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf haricot.rouge
 \gvf haricot rouge
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bólobiriɲɛna
 \mm bólo:n:bras
@@ -10442,13 +10547,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólocisɛbɛn
 \mm bólo.ci:n:vaccination
-\mm bólo:n:bras
-\mm cì:v:frapper
+\mmm bólo:n:bras
+\mmm cì:v:frapper
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf carnet.de.vaccination
 \gvf carnet de vaccination
 \nt donniya 5/6 p.34
+\dt 01/Mar/2019
 
 \lx bólocɔrɔ
 \mm bólo:n:bras
@@ -10554,14 +10660,15 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 03/Apr/2016
 
 \lx bólodonden
-\mm bólo:n:bras
-\mm dòn:v:entrer
+\mm bólodòn:v:initier.à
+\mmm bólo:n:bras
+\mmm dòn:v:entrer
 \mm dén:n:enfant
 \ps n
 \gf apprenti
 \gvf apprenti
 \gvf élève
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bólodun
 \mm bólo:n:bras
@@ -10702,12 +10809,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólokalabu
 \mm bólo.kala:n:avant-bras
-\mm bólo:n:bras
-\mm kàla:n:tige
+\mmm bólo:n:bras
+\mmm kàla:n:tige
 \mm bù:n:chair
 \ps n
 \gf biceps
 \gvf biceps
+\dt 01/Mar/2019
 
 \lx bólokan
 \mm bólo:n:bras
@@ -10720,25 +10828,25 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólokankolo
 \mm bólo.kan:n:avant-bras
-\mm bólo:n:bras
-\mm kán:n:cou
+\mmm bólo:n:bras
+\mmm kán:n:cou
 \mm kólo:n:os
 \ps n
 \gf radius
 \gvf radius
 \gvf cubitus
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bólokannanɛgɛ
 \mm bólo.kan:n:avant-bras
-\mm bólo:n:bras
-\mm kán:n:cou
+\mmm bólo:n:bras
+\mmm kán:n:cou
 \mm ná:pp:à
 \mm nɛ̀gɛ:n:fer
 \ps n
 \gf bracelet.en.métal
 \gvf bracelet en métal
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bólokelen
 \mm bólo:n:bras
@@ -10858,109 +10966,114 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólokɔnicɛmancɛ
 \mm bólo.kɔni:n:doigt
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm cɛ́mancɛ:n:milieu
 \ps n
 \gf médius
 \gvf médius
+\dt 01/Mar/2019
 
 \lx bólokɔniden
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mm bólo.kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm dén:n:enfant
 \va bólo.nkɔni
-\mm bólo:n:bras
-\mm nkɔni:n:doigt
+\mm bólo.nkɔni:n:doigt
+\mmm bólo:n:bras
+\mmm nkɔni:n:doigt
 \mm dén:n:enfant
 \ps n
 \gf doigt
 \gvf doigt
-\dt 10/Mar/2018
+\dt 01/Mar/2019
 
 \lx bólokɔnidimi
 \mm bólo.kɔni:n:doigt
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm dími:n:souffrance
 \ps n
 \gf panaris
 \gvf panaris
 \smf (toute affection du doigt)
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bólokɔnijan
 \mm bólo.kɔni:n:doigt
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm jàn:adj:long
 \ps n
 \gf médius
 \gvf médius
+\dt 01/Mar/2019
 
 \lx bólokɔnikolo
 \mm bólo.kɔni:n:doigt
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm kólo:n:os
 \ps n
 \gf phalange
 \gvf phalange
 \gvf os des doigts
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bólokɔnikunba
 \mm bólo.kɔni:n:doigt
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \va bólo.kɔni.den.kun.ba
 \mm bólo.kɔni:n:doigt
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm dén:n:enfant
 \mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf pouce
 \gvf pouce
-\dt 25/Jun/2013
+\dt 01/Mar/2019
 
 \lx bólokɔninanɛgɛ
 \mm bólo.kɔni:n:doigt
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm ná:pp:à
 \mm nɛ̀gɛ:n:fer
 \ps n
 \gf bague
 \gvf bague
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bólokɔninɛgɛ
 \mm bólo.kɔni:n:doigt
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm nɛ̀gɛ:n:fer
 \ps n
 \gf bague
 \gvf bague
+\dt 01/Mar/2019
 
 \lx bólokɔnisinnaban
 \mm bólo.kɔni:n:doigt
-\mm bólo:n:bras
-\mm kɔni:n:doigt
+\mmm bólo:n:bras
+\mmm kɔni:n:doigt
 \mm sín.na.ban:n:dernier.enfant
-\mm sín:n:sein
-\mm ná:pp:à
-\mm bán:v:terminer
+\mmm sín:n:sein
+\mmm ná:pp:à
+\mmm bán:v:terminer
 \ps n
 \gf auriculaire
 \gvf auriculaire
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bólokɔnɔmɔgɔ
 \mm bólo:n:bras
@@ -11021,21 +11134,21 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólokurun
 \mm bólo:n:bras
-\mm kùrun:vq/adj:court
+\mm kùru:n:boule
 \ps v
 \vl vt
 \gf donner.un.coup.de.poing.à
 \gvf donner un coup de poing à
 \xv né bólokurunna
 \xf on m'a donné un coup de poing
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bólokurun
 \mm bólo:n:bras
-\mm kùrun:vq/adj:court
+\mm kùru:n:boule
 \va bólo.kuru
 \mm bólo:n:bras
-\mm kùrun:vq/adj:court
+\mm kùru:n:boule
 \ps n
 \ms 1
 \gf moignon.de.main
@@ -11047,16 +11160,17 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf boxe
 \ms 3
 \gvf manchot
-\dt 03/May/2013
+\dt 01/Mar/2019
 
 \lx bólokurunkɛlɛ
 \mm bólo.kurun:v:donner.un.coup.de.poing
-\mm bólo:n:bras
-\mm kùrun:vq/adj:court
+\mmm bólo:n:bras
+\mmm kùru:n:boule
 \mm kɛ̀lɛ:n:querelle
 \ps n
 \gf boxe
 \gvf boxe
+\dt 01/Mar/2019
 
 \lx bólola
 \mm bólo:n:bras
@@ -11101,9 +11215,9 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólolabaarakɛla
 \mm bólo.la.baara:n:travail.manuel
-\mm bólo:n:bras
-\mm lá:pp:à
-\mm báara:n:travail
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mmm báara:n:travail
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -11111,7 +11225,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf travailleur manuel
 \gvf artisan
 \gvf ouvrier
-\dt 12/Apr/2018
+\dt 01/Mar/2019
 
 \lx bólolabalɔntan
 \mm bólo:n:bras
@@ -11165,6 +11279,9 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 11/Nov/2007
 
 \lx bóloladɛsɛtɔ
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
 \mm bólo:n:bras
 \mm lá:pp:à
 \mm dɛ́sɛ:v:échouer
@@ -11172,27 +11289,27 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps adj
 \gf impuissant
 \gvf impuissant
-\dt 17/Dec/2017
+\dt 01/Mar/2019
 
 \lx bólolafɛgɛn
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
 \mm fɛ́gɛn:adj:léger
 \va bólolanfɛgɛn
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lan:mrph:dans
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
 \mm fɛ́gɛn:adj:léger
 \va bólolafiɲɛ
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
 \mm fíɲɛ:adj:léger
 \va bólolafiyɛn
 \mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
+\mmm bólo:n:bras
+\mmm lá:pp:à
 \mm fíyɛn:adj:léger
 \ps adj
 \gf qui.vole.facilement
@@ -11200,47 +11317,52 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf qui touche à tout
 \gvf qui agit à la légère
 \gvf qui taquine
-\dt 22/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolafiɲɛya
-\mm bólolafiɲɛ:n:qui.vole.facilement
-\mm bólo:n:bras
-\mm la:mrph:LOC
-\mm fíɲɛ:vq:léger
+\mm bólo.la.fiɲɛ:n:qui.vole.facilement
+\mmm bólo.la:n:action.de.main
+\mmmm bólo:n:bras
+\mmm lá:pp:à
+\mmm fíɲɛ:vq:léger
 \mm ya:mrph:ABSTR
 \va bólo.la.fiyɛn.ya
-\mm bólolafiyɛn:n:qui.vole.facilement
-\mm bólo:n:bras
-\mm la:mrph:LOC
-\mm fíyɛn:vq:léger
+\mm bólo.la.fiyɛn:n:qui.vole.facilement
+\mmm bólo.la:n:action.de.main
+\mmmm bólo:n:bras
+\mmm lá:pp:à
+\mmm fíyɛn:vq:léger
 \mm ya:mrph:ABSTR
 \va bólo.la.fɛgɛn.ya
-\mm bólolafɛgɛn:n:qui.vole.facilement
-\mm bólo:n:bras
-\mm la:mrph:LOC
-\mm fɛ́gɛn:vq:léger
+\mm bólo.la.fɛgɛn:n:qui.vole.facilement
+\mmm bólo.la:n:action.de.main
+\mmmm bólo:n:bras
+\mmm lá:pp:à
+\mmm fɛ́gɛn:vq:léger
 \mm ya:mrph:ABSTR
 \va bólolanfɛgɛnya
-\mm bólolanfɛgɛn:n:qui.vole.facilement
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lan:mrph:dans
-\mm fɛ́gɛn:adj:léger
+\mm bólo.lan.fɛgɛn:n:qui.vole.facilement
+\mmm bólo.la:n:action.de.main
+\mmmm bólo:n:bras
+\mmm lá:pp:à
+\mmm fɛ́gɛn:adj:léger
 \mm ya:mrph:ABSTR
 \ps n
 \gf défaut.de.touche-à-tout
 \gvf défaut de touche-à-tout
 \smf (ou qui vole facilement)
-\dt 23/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolagòsi
 \mm bólo:n:bras
-\mm lá:mrph:CAUS
-\mm gòsi:v:battre
+\mm lá.gòsi:v:mépriser
+\mmm lá:mrph:CAUS
+\mmm gòsi:v:battre
 \va bólo.la.gɔ̀si
 \mm bólo:n:bras
-\mm lá:mrph:CAUS
-\mm gɔ̀si:v:battre
+\mm lá.gɔ̀si:v:mépriser
+\mmm lá:mrph:CAUS
+\mmm gɔ̀si:v:battre
 \ps v
 \vl vt
 \ms 1
@@ -11248,30 +11370,30 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf priver
 \ms 2
 \gvf trouver insuffisant
-\dt 23/Jan/2015
+\dt 01/Mar/2019
 
 \lx bólolajugu
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
 \mm júgu:adj:mauvais
 \ps adj/n
 \gf mauvais.travailleur
 \gvf mauvais travailleur
 \sy bólomanjugu
-\dt 16/May/2017
+\dt 01/Mar/2019
 
 \lx bólolakaran
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
 \ps n
 \gf jeux.de.mains
 \gvf jeux de mains
 \gvf bagarre pour plaisanter
 \gvf chahut
 \gvf taquinerie
-\dt 27/Jun/2018
+\dt 01/Mar/2019
 
 \lx bólolaminɛn
 \mm bólo:n:bras
@@ -11284,9 +11406,9 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bólolamisɛn
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
 \mm mìsɛn:adj:petit
 \ps adj/n
 \ms 1
@@ -11296,14 +11418,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ms 2
 \gvf minutieux
 \gvf méticuleux
-\dt 22/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolamisɛnya
-\mm bólolamisɛn:adj:chapardeur
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
-\mm mìsɛn:adj:petit
+\mm bólola.misɛn:adj:chapardeur
+\mmm bólo.la:n:action.de.main
+\mmmm bólo:n:bras
+\mmmm lá:pp:à
+\mmm mìsɛn:adj:petit
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -11312,7 +11434,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf pinaillage
 \ms 2
 \gvf caractère de celui qui touche à tout
-\dt 23/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolamɔgɔ
 \mm bólo:n:bras
@@ -11325,9 +11447,9 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bólolandi
-\mm bólolan:n:action.de.main
-\mm bólo:n:bras
-\mm lan:mrph:dans
+\mm bólo.lan:n:action.de.main
+\mmm bólo:n:bras
+\mmm lan:mrph:dans
 \mm dí:vq:agréable
 \ps adj/n
 \ms 1
@@ -11340,12 +11462,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf habile
 \ms 4
 \gvf généreux
-\dt 10/Jun/2015
+\dt 01/Mar/2019
 
 \lx bólolandɔgɔ
-\mm bólolan:n:action.de.main
-\mm bólo:n:bras
-\mm lan:mrph:dans
+\mm bólo.lan:n:action.de.main
+\mmm bólo:n:bras
+\mmm lan:mrph:dans
 \mm dɔ́gɔ:vq:étroit
 \ps adj
 \ms 1
@@ -11354,7 +11476,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf indigent
 \ms 2
 \gvf faible
-\dt 22/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolanɛgɛ
 \mm bólo:n:bras
@@ -11365,25 +11487,24 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf bracelet en métal
 
 \lx bólolango
-\mm bólolan:n:action.de.main
-\mm bólo:n:bras
-\mm lan:mrph:dans
-\mm gó:adj:désagréable
+\mm bólo.lan:n:action.de.main
+\mmm bólo:n:bras
+\mmm lan:mrph:dans
+\mm gó:vq:désagréable
 \ps adj/n
 \gf avare
 \gvf avare
-\dt 22/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolanjugu
-\mm bólolan:n:action.de.main
-\mm bólo:n:bras
-\mm lan:mrph:dans
-\mm júgu:adj:mauvais
+\mm bólo.lan:n:action.de.main
+\mmm bólo:n:bras
+\mmm lan:mrph:dans
+\mm júgu:vq:mauvais
 \va bólomanjugu
-\mm bólolan:n:action.de.main
 \mm bólo:n:bras
 \mm man:mrph:SUPER
-\mm júgu:adj:mauvais
+\mm júgu:vq:mauvais
 \ps adj/n
 \ms 1
 \gf désordonné
@@ -11391,23 +11512,23 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf qui manque de soin
 \ms 2
 \gvf qui travaille mal
-\dt 22/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolankolon
 \mm bólo:n:bras
 \mm lán.kolon:adj:vide
-\mm lan:mrph:dans
-\mm kólon:adj:vide
+\mmm lan:mrph:dans
+\mmm kólon:adj:vide
 \ps adj/n
 \gf pauvre
 \gvf pauvre
-\dt 22/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolankolonya
 \mm bólo:n:bras
 \mm lán.kolon:adj:vide
-\mm lan:mrph:dans
-\mm kólon:adj:vide
+\mmm lan:mrph:dans
+\mmm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -11415,7 +11536,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf rendre pauvre
 \xv Màtigi Ála bɛ́  mɔ̀gɔ bólolankolonya (Sá 2, 7)
 \xf Le Seigneur appauvrit  (et enrichit)
-\dt 23/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolantola
 \mm bólo:n:bras
@@ -11441,17 +11562,18 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 11/Nov/2007
 
 \lx bólolantolatanna
-\mm bólo:n:bras
-\mm lá:pp:à
-\mm ntòla:n:balle
-\mm tán:v:frapper
+\mm bólolantolatan:n:basket-ball
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mmm ntòla:n:balle
+\mmm tán:v:frapper
 \mm na:mrph:AG.PRM
 \ps n
 \gf basketteur
 \gvf basketteur
 \gvf joueur de handball
 \nt kb 10/05 p.11
-\dt 11/Nov/2007
+\dt 01/Mar/2019
 
 \lx bólolasɔn
 \mm bólo:n:bras
@@ -11477,26 +11599,26 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 21/Aug/2017
 
 \lx bólolasuma
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
-\mm súma:adj:lent
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mm súma:vq:lent
 \ps adj/n
 \gf lent
 \gvf lent
 \smf (qui travaille lentement)
-\dt 22/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólolateli
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
-\mm téli:adj:rapide
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mm téli:vq:rapide
 \va bólolatelin
-\mm bólola:n:action.de.main
-\mm bólo:n:bras
-\mm lá:pp:à
-\mm télin:adj:rapide
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mm télin:vq:rapide
 \ps adj/n
 \ms 1
 \gf rapide.des.mains
@@ -11509,12 +11631,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf qui touche à tout
 \ms 4
 \gvf qui frappe facilement
-\dt 08/Mar/2018
+\dt 01/Mar/2019
 
 \lx bólolatigɛ
 \mm bólo:n:bras
-\mm lá:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm lá.tìgɛ:v:faire.passer
+\mmm lá:mrph:CAUS
+\mmm tìgɛ:v:couper
 \ps n
 \ms 1
 \gf indigence
@@ -11526,12 +11649,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf contrainte
 \xv bólolatigɛ dé y'á bìla  kà nìn kɛ́
 \xf c'est par contrainte qu'il l'a fait
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bólolatìgɛ
 \mm bólo:n:bras
-\mm lá:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm lá.tìgɛ:v:faire.passer
+\mmm lá:mrph:CAUS
+\mmm tìgɛ:v:couper
 \ps v
 \vl vt
 \ms 1
@@ -11542,13 +11666,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xf il est négligent, désordonné
 \ms 2
 \gvf contraindre
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bólolatigɛtɔ
 \mm bólo.la.tigɛ:n:indigence
-\mm bólo:n:bras
-\mm lá:mrph:CAUS
-\mm tìgɛ:v:couper
+\mmm bólo:n:bras
+\mmm lá.tìgɛ:v:faire.passer
+\mmmm lá:mrph:CAUS
+\mmmm tìgɛ:v:couper
 \mm tɔ:mrph:ST
 \ps adj
 \ms 1
@@ -11559,7 +11684,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf à contre-coeur
 \xv à bólolatigɛtɔ bɛ́  báara kɛ́
 \xf il travaille à contre-coeur
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bólolatugu
 \mm bólo:n:bras
@@ -11572,7 +11697,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \smf (à la main, par opp. à fermer à clé : sɔ̀gɔ)
 \gvf mal fermer
 \smf (péj)
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bólolawari
 \mm bólo:n:bras
@@ -11600,48 +11725,53 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólomàda
 \mm bólo:n:bras
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mm mà.dá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
 \ps v
 \vl vt
 \gf s'appuyer
 \gvf s'appuyer
 \smf (pr. et fig.)
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bólomadayɔrɔ
-\mm bólo:n:bras
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mm bólo.màda:v:s'appuyer
+\mmm bólo:n:bras
+\mmm mà.dá:v:incliner
+\mmmm mà:mrph:SUPER
+\mmmm dá:v:poser
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf gagne-pain
 \gvf gagne-pain
 \smf (temporaire, faute de mieux)
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bólomadɛmɛ
 \mm bólo:n:bras
-\mm mà:mrph:SUPER
-\mm dɛ̀mɛ:v:aider
+\mm mà.dɛ̀mɛ:v:aider
+\mmm mà:mrph:SUPER
+\mmm dɛ̀mɛ:v:aider
 \ps n
 \gf aide
 \gvf aide
 \gvf coopération
 \gvf entraide
 \gvf contribution
-\dt 19/Aug/2017
+\dt 01/Mar/2019
 
 \lx bólomàdɛ̀mɛ
 \mm bólo:n:bras
-\mm mà:mrph:SUPER
-\mm dɛ̀mɛ:v:aider
+\mm mà.dɛ̀mɛ:v:aider
+\mmm mà:mrph:SUPER
+\mmm dɛ̀mɛ:v:aider
 \ps v
 \vl vt
 \gf aider
 \gvf aider
 \smf (lors d'une fête, imposition du nom, enterrement d'un vieux ...)
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bólomafara
 \mm bólo:n:bras
@@ -11671,33 +11801,35 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bólomagɛlɛn
 \mm bólo:n:bras
 \mm mà:mrph:SUPER
-\mm gɛ̀lɛn:adj:dur
+\mm gɛ̀lɛn:vq:dur
 \ps adj/n
 \gf avare
 \gvf avare
-\dt 22/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólomagɛn
 \mm bólo:n:bras
-\mm ma:mrph:COM
-\mm gɛ́n:v:chasser
+\mm mà.gɛ́n:v:rejoindre
+\mmm mà:mrph:SUPER
+\mmm gɛ́n:v:chasser
 \ps n
 \gf aide
 \gvf aide
 \gvf assistance
 \xv sɔ́nnikɛla tùn bɛ́ bálo Fárawɔn ká bólomagɛn dè lá (47, 22)
 \xf les prêtres se nourrissaient des rations que leur donnait Pharaon
-\dt 19/Aug/2017
+\dt 01/Mar/2019
 
 \lx bólomagɛn
 \mm bólo:n:bras
-\mm ma:mrph:COM
-\mm gɛ́n:v:chasser
+\mm mà.gɛ́n:v:rejoindre
+\mmm mà:mrph:SUPER
+\mmm gɛ́n:v:chasser
 \ps v
 \gf secourir
 \gvf secourir
 \gvf contribuer
-\dt 09/Oct/2016
+\dt 01/Mar/2019
 
 \lx bólomandi
 \mm bólo:n:bras
@@ -11728,47 +11860,47 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólomandɔgɔya
 \mm bólo.man.dɔgɔ:n:pauvre
-\mm bólo:n:bras
-\mm màn:mrph:SUPER
-\mm dɔ́gɔ:vq:petit
+\mmm bólo:n:bras
+\mmm màn:mrph:SUPER
+\mmm dɔ́gɔ:vq:petit
 \mm ya:mrph:ABSTR
 \ps n
 \gf pauvreté
 \gvf pauvreté
 \xv Kùncɛba ɲɛ́ ná, bólomandɔgɔya yé  fɛ́n hàramulen yé
 \xf une humble condition est en horreur à l'orgueilleux (Si 13, 20)
-\dt 23/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólomanjugu
 \mm bólo:n:bras
 \mm màn:mrph:SUPER
-\mm júgu:vq/adj:mauvais
+\mm júgu:vq:mauvais
 \va bólo.ma.jugu
 \mm bólo:n:bras
 \mm ma:mrph:à
-\mm júgu:vq/adj:mauvais
+\mm júgu:vq:mauvais
 \ps adj/n
 \gf mauvais.travailleur
 \gvf mauvais travailleur
 \sy bólolajugu
-\dt 08/Mar/2018
+\dt 01/Mar/2019
 
 \lx bólomanjuguya
-\mm bólo.man.jugu:adj/n:mauvais.travailleur
-\mm bólo:n:bras
-\mm màn:mrph:SUPER
-\mm júgu:vq/adj:mauvais
+\mm bólo.man.jugu:adj:mauvais.travailleur
+\mmm bólo:n:bras
+\mmm màn:mrph:SUPER
+\mmm júgu:vq:mauvais
 \mm ya:mrph:ABSTR
 \va bólo.ma.jugu.ya
 \mm bólo.ma.jugu:adj/n:mauvais.travailleur
-\mm bólo:n:bras
-\mm mà:mrph:SUPER
-\mm júgu:vq/adj:mauvais
+\mmm bólo:n:bras
+\mmm mà:mrph:SUPER
+\mmm júgu:vq:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \gf travail.sans.soin
 \gvf travail sans soin
-\dt 23/Mar/2015
+\dt 01/Mar/2019
 
 \lx bólomasigi
 \mm bólo:n:bras
@@ -11784,18 +11916,20 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólomayɛlɛma
 \mm bólo:n:bras
-\mm ma:mrph:COM
-\mm yɛ̀lɛma:v:changer
+\mm mà.yɛ̀lɛma
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps n
 \gf gagne-pains
 \gvf gagne-pains
 \gvf travaux à gauche et à droite
-\dt 19/Aug/2017
+\dt 01/Mar/2019
 
 \lx bólomayɛ̀lɛma
 \mm bólo:n:bras
-\mm ma:mrph:COM
-\mm yɛ̀lɛma:v:changer
+\mm mà.yɛ̀lɛma
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps v
 \vl vt
 \ms 1
@@ -11808,7 +11942,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf changer de métier
 \xv ń yé ń bólomayɛlɛma  táyɛriya lá
 \xf je suis devenu tailleur
-\dt 19/Aug/2017
+\dt 01/Mar/2019
 
 \lx bólominɛ
 \mm bólo:n:bras
@@ -11837,24 +11971,24 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 26/Sep/2006
 
 \lx bólonɔbila
-\mm bólonɔ:n:signature
-\mm bólo:n:bras
-\mm nɔ̀:n:trace
+\mm bólo.nɔ:n:signature
+\mmm bólo:n:bras
+\mmm nɔ̀:n:trace
 \mm bìla:v:mettre
 \ps n
 \gf signature
 \gvf signature
-\dt 14/Jun/2016
+\dt 01/Mar/2019
 
 \lx bólonɔbìla
-\mm bólonɔ:n:signature
-\mm bólo:n:bras
-\mm nɔ̀:n:trace
+\mm bólo.nɔ:n:signature
+\mmm bólo:n:bras
+\mmm nɔ̀:n:trace
 \mm bìla:v:mettre
 \ps v
 \gf signer
 \gvf signer
-\dt 14/Jun/2016
+\dt 01/Mar/2019
 
 \lx bólontan
 \mm bólo:n:bras
@@ -11908,14 +12042,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólotatigi
 \mm bólo.ta:n:biens
-\mm bólo:n:bras
-\mm tá:n:propriété
+\mmm bólo:n:bras
+\mmm tá:n:propriété
 \mm tìgi:n:maître
 \ps n
 \gf riche
 \gvf riche
 \sy fɛ́ntigi
-\dt 12/Aug/2006
+\dt 01/Mar/2019
 
 \lx bòminɛ
 \mm bò:n:excrément
@@ -12080,6 +12214,22 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf barbe
 \dt 16/Aug/2006
 
+\lx bònbonsima
+\mm bònbon.si
+\mmm bònbon:n:menton
+\mmm sí:n:poil
+\mm ma:mrph:COM
+\va bòonsima
+\mm bòon.si:n:barbe
+\mmm bòon:n:menton
+\mmm sí:n:poil
+\mm ma:mrph:COM
+\ps adj
+\gf barbu
+\gvf barbu
+\sy bòonsitigi
+\dt 01/Mar/2019
+
 \lx bónda
 \mm bón:n:case
 \mm dá:n:bouche
@@ -12243,9 +12393,9 @@ milieu des pierres
 \dt 28/Feb/2017
 
 \lx bònyabali
-\mm bònya:v:grossir
-\mm bòn:vq:grand
-\mm ya:mrph:DEQU
+\mm bòn.ya:v:grossir
+\mmm bòn:vq:grand
+\mmm ya:mrph:DEQU
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \ms 1
@@ -12256,13 +12406,14 @@ milieu des pierres
 \gvf impoli
 \ms 3
 \gvf pas grossi
-\dt 28/Feb/2017
+\dt 01/Mar/2019
 
 \lx bònyabaliya
 \mm bònya.bali:ptcp:non.honoré
-\mm bòn:vq:grand
-\mm ya:mrph:DEQU
-\mm bali:mrph:PTCP.PRIV
+\mmm bòn.ya:v:grossir
+\mmmm bòn:vq:grand
+\mmmm ya:mrph:DEQU
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -12271,12 +12422,12 @@ milieu des pierres
 \ms 2
 \gvf manque de croissance
 \smf (fait de n'avoir pas grossi)
-\dt 28/Feb/2017
+\dt 01/Mar/2019
 
 \lx bònyali
-\mm bònya:v:grossir
-\mm bòn:vq:grand
-\mm ya:mrph:DEQU
+\mm bòn.ya:v:grossir
+\mmm bòn:vq:grand
+\mmm ya:mrph:DEQU
 \mm li:mrph:NMLZ
 \ps n
 \ms 1
@@ -12287,7 +12438,7 @@ milieu des pierres
 \rem f
 \ms 2
 \gvf grossissement
-\dt 28/Feb/2017
+\dt 01/Mar/2019
 
 \lx bòɲɛɲɛ
 \mm bò:n:excrément
@@ -12330,17 +12481,6 @@ milieu des pierres
 \smf (une charge)
 \sy cɛ́bɔ
 \dt 16/Aug/2006
-
-\lx bòonsima
-\mm bòon.si:n:barbe
-\mm bòon:n:menton
-\mm sí:n:poil
-\mm ma:mrph:COM
-\ps adj
-\gf barbu
-\gvf barbu
-\sy bòonsitigi
-\dt 15/Aug/2006
 
 \lx bòoro
 \ps v
@@ -12490,20 +12630,20 @@ milieu des pierres
 \va bwɔ̀
 \ph [bwɔ]
 \ps n
-\ms 1
 \gf bambou
-\gvf bambou
-\gvf perche de bambou
+\ms 1.1
 \lat Oxytenanthera abyssinica
-\sd gram
+\gvf bambou
 \smf (les bambous rejettent de souche, ils ne fleurissent et grainent que tous les siècles environ, on peut les multiplier de bouture, à plat, les racines démarrent au niveau des noeuds)
+\ms 1.2
+\gvf perche de bambou
 \ms 2
 \gvf gorge
 \xv kólo bálanna  cɔ̀nin bɔ̀ rɔ́
 \xf l'arête s'est mise en travers de la gorge du jeune garçon
 \xv wáraba yé  mìna bɔ̀ cì
 \xf le lion a cassé le cou de l'antilope
-\dt 12/Aug/2006
+\dt 28/Feb/2019
 
 \lx bɔ́
 \ps n
@@ -12522,10 +12662,11 @@ milieu des pierres
 \lx bɔ́
 \va b'
 \ps v
-\ms 1
+\ms 1.1
 \vl vi
 \gf sortir
 \gvf sortir
+\ms 1.2
 \vl vi
 \gvf venir de
 \xv à bɔ́ra
@@ -12541,6 +12682,7 @@ milieu des pierres
 \xf ensuite, en outre,en dehors de ..., sauf ...
 \xv ù bɔ́ra  kúngo lá
 \xf ils reviennent de la brousse
+\ms 1.3
 \vl vt
 \gvf emporter
 \xv bɔ́ ní  à yé
@@ -12574,7 +12716,7 @@ milieu des pierres
 \gvf s'en sortir
 \xv à bɔ́ra  né nù mà
 \xf il s'en est sorti grâce à moi
-\ms 6
+\ms 6.1
 \vl vt
 \gvf faire paraître
 \gvf éditer
@@ -12592,6 +12734,7 @@ milieu des pierres
 \xf ils causent
 \xv mìsijugu tɛ́  nɔ́nɔ bɔ́
 \xf une mauvaise vache ne donne pas de lait
+\ms 6.2
 \vl vi
 \gvf apparaître
 \gvf pousser
@@ -12643,7 +12786,7 @@ milieu des pierres
 \xf j'ai déjà eu ça (cette maladie)
 \xv í bɔ́tɔ fílɛ  kà mín fɔ́
 \xf ce que tu viens de dire....
-\dt 26/Feb/2017
+\dt 28/Feb/2019
 
 \lx bɔ́baa
 \mm bɔ́:v:sortir
@@ -12836,7 +12979,7 @@ milieu des pierres
 
 \lx bɔ̀gɔlantɛbɛn
 \mm bɔ̀gɔ:n:terre
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm ntɛ́bɛn:n:poisson.Tilapia.sp
 \ps n
 \gf tilapia
@@ -12844,7 +12987,7 @@ milieu des pierres
 \lat Tilapia zillii / Tilapia dageti (sorte de poisson)
 \smf (28 cm,  1,070 kg)
 \sy ngúrun
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx bɔ̀gɔmugu
 \mm bɔ̀gɔ:n:terre
@@ -12891,15 +13034,12 @@ milieu des pierres
 \lx bɔ̀gɔtoli
 \mm bɔ̀gɔ:n:terre
 \mm tòli:adj:pourri
-\va bɔ̀gɔ.ti
-\mm bɔ̀gɔ:n:terre
-\mm tí:pm:IPFV.NEG
 \ps n
 \gf mortier
 \gvf mortier
 \gvf terre pourrie
 \smf (sert au crépissage, divers ingrédients : crottin ...)
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bɔ́jamana
 \mm bɔ́:v:sortir
@@ -12989,14 +13129,14 @@ contexte linguistique)
 
 \lx bɔ́kolotigi
 \mm bɔ́.kolo:n:origine
-\mm bɔ́:v:sortir
-\mm kólo:n:os
+\mmm bɔ́:v:sortir
+\mmm kólo:n:os
 \mm tìgi:n:maître
 \ps n
 \gf noble
 \gvf noble
 \sy hɔ́rɔn
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx bɔ̀len
 \va bólen
@@ -13659,11 +13799,11 @@ toujours (pro)
 
 \lx búbaajɛ
 \mm búbaa:n:termite
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \va búbaa.nin.jɛ
 \mm búbaa:n:termite
 \mm nin:mrph:DIM
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \ms 1
 \gf termite.blanc
@@ -13673,7 +13813,7 @@ toujours (pro)
 \gvf fourmillement
 \gvf engourdissement
 \gvf ankylose
-\dt 26/Sep/2006
+\dt 01/Mar/2019
 
 \lx búbaakisɛ
 \mm búbaa:n:termite
@@ -13711,7 +13851,22 @@ toujours (pro)
 \gf émaciation
 \gvf émaciation
 
+\lx búbu
+\ps n
+\gf singe.rouge
+\ms 1
+\lat Erythrocebus patas
+\gvf singe rouge
+\smf (terme affectueux ou enfantin)
+\gvf patas
+\gvf petit singe domestique
+\ms 2
+\gvf petit singe
+\smf (terme affectueux à l'adresse d'une personne)
+\dt 01/Mar/2019
+
 \lx búbunin
+\mm búbu:n:singe.rouge
 \mm nin:mrph:DIM
 \ps n
 \gf singe.rouge.apprivoisé
@@ -13719,9 +13874,10 @@ toujours (pro)
 \lat Erythrocebus patas
 \sy wárabilen
 \sy sòla
-\dt 16/Aug/2006
+\dt 01/Mar/2019
 
 \lx búbutiga
+\mm búbu:n:singe.rouge
 \mm tìga:n:arachide
 \mm nin:mrph:DIM
 \ps n
@@ -13729,7 +13885,7 @@ toujours (pro)
 \gvf singe rouge apprivoisé
 \lat Erythrocebus patas
 \sy búbunin
-\dt 10/May/2013
+\dt 01/Mar/2019
 
 \lx búdubɛdɛ
 \va búgubɛgɛ
@@ -14035,8 +14191,9 @@ centrale est de couleur sombre
 
 \lx búgunnatigɛ
 \mm búgun:n:moisissure
-\mm ná:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm lá.tìgɛ:v:faire.passer
+\mmm ná:mrph:CAUS
+\mmm tìgɛ:v:couper
 \ps n
 \gf précision
 \gvf précision
@@ -14046,18 +14203,19 @@ centrale est de couleur sombre
 ... (Kb 11/06 p.11)
 \ms 2
 \gvf photo d'identité
-\dt 26/Nov/2016
+\dt 02/Mar/2019
 
 \lx búgunnatigɛ
 \mm búgun:n:moisissure
-\mm ná:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm lá.tìgɛ:v:faire.passer
+\mmm ná:mrph:CAUS
+\mmm tìgɛ:v:couper
 \ps v
 \vl vt
 \gf éclaircir
 \gvf éclaircir
 \gvf identifier
-\dt 01/Feb/2017
+\dt 02/Mar/2019
 
 \lx bùguri
 \va bùgirin
@@ -14452,14 +14610,14 @@ centrale est de couleur sombre
 \dt 27/Apr/2014
 
 \lx bùma
-\mm  bù:n:chair
+\mm bù:n:chair
 \mm ma:mrph:COM
 \ps adj
 \gf charnu
 \gvf charnu
 \smf (qui a de la viande, de la chair)
 \xv kólokuru bùma dɔ́ bìlen bɛ́  síra kàn
-\dt 11/Nov/2007
+\dt 02/Mar/2019
 
 \lx búmu
 \va búnbun
@@ -14502,12 +14660,13 @@ centrale est de couleur sombre
 
 \lx búnadamadenya
 \mm búnadamaden:n:humain
-\mm ádamaden:n:humain
-\mm dén:n:enfant
+\mmm ádamaden:n:humain
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \gf humanité
 \gvf humanité
+\dt 02/Mar/2019
 
 \lx bùnaki
 \ps n
@@ -14632,17 +14791,17 @@ centrale est de couleur sombre
 \lx búnukorokwajɛ
 \mm búnukoro:n:canard.armé
 \mm kwá:n:poitrine
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \va búnukuru.kwa.jɛ
 \mm búnukuru:n:canard.armé
 \mm kwá:n:poitrine
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf souchet
 \gvf souchet
 \lat Anas clypeata
 \smf (bec spatulé et fort, flancs marron)
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx bùnumunu
 \va búnunbunun
@@ -15291,6 +15450,13 @@ enfants
 \gvf bourdonnement
 \dt 19/Jan/2015
 
+\lx cáco
+\va cáaco
+\ps n
+\gf personne.à.peau.éclaircie
+\gvf personne à peau éclaircie
+\dt 03/Mar/2019
+
 \lx cájo
 \ps n
 \gf bétail.bai.en.tête-blanc.aux.pattes
@@ -15303,15 +15469,15 @@ enfants
 \mm dá:n:bouche
 \va cí.ya.kɛ.da
 \mm cí.ya:n:travail
-\mm cí:n:commission
-\mm ya:mrph:ABSTR
+\mmm cí:n:commission
+\mmm ya:mrph:ABSTR
 \mm kɛ́:v:faire
 \mm dá:n:bouche
 \ps n
 \gf lieu.de.travail
 \gvf lieu de travail
 \gvf service
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cákɛla
 \mm cá:n:travail
@@ -15319,8 +15485,8 @@ enfants
 \mm la:mrph:AG.PRM
 \va cí.ya.kɛ.la
 \mm cí.ya:n:travail
-\mm cí:n:commission
-\mm ya:mrph:ABSTR
+\mmm cí:n:commission
+\mmm ya:mrph:ABSTR
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -15328,7 +15494,7 @@ enfants
 \gvf travailleur
 \gvf ouvrier
 \gvf employé
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cáku
 \va cáko
@@ -15402,10 +15568,10 @@ enfants
 
 \lx càngɛrɛbilen
 \mm càngɛrɛ:n:arbustes
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \va càngɛrɛ.blen
 \mm càngɛrɛ:n:arbustes
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf kinkeliba.coriace
@@ -15416,11 +15582,11 @@ enfants
 tomenteux)(la décoction des feuilles, écorces et racines donne
 une teinture jaune utilisée pour les tissus). Légume ; prop.
 médicinales)
-\dt 03/Apr/2016
+\dt 02/Mar/2019
 
 \lx càngɛrɛjɛ
 \mm càngɛrɛ:n:arbustes
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf arbuste.Combretum.collinum
 \gvf arbuste Combretum collinum
@@ -15431,7 +15597,7 @@ médicinales)
 \ms 2
 \lat Combretum.collinum.lamprocarpum
 \sd comb
-\dt 19/Aug/2006
+\dt 02/Mar/2019
 
 \lx cánkalan
 \va cánkala
@@ -15807,9 +15973,9 @@ médicinales)
 
 \lx cɛ̀bakɔrɔya
 \mm cɛ̀.ba.kɔrɔ:n:homme.mûr
-\mm cɛ̀:n:mâle
-\mm ba:mrph:AUGM
-\mm kɔrɔ:adj:mâle.adulte
+\mmm cɛ̀:n:mâle
+\mmm ba:mrph:AUGM
+\mmm kɔrɔ:adj:mâle.adulte
 \mm ya:mrph:ABSTR
 \ps v
 \ms 1
@@ -15819,7 +15985,7 @@ médicinales)
 \ms 2
 \vl vt ?
 \gvf devenir jeune homme
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀balen
 \mm cɛ̀:n:mâle
@@ -15837,9 +16003,9 @@ médicinales)
 
 \lx cɛ̀balenya
 \mm cɛ̀.ba.len:n:circoncis
-\mm cɛ̀:n:mâle
-\mm ba:mrph:AUGM
-\mm len:mrph:PTCP.RES
+\mmm cɛ̀:n:mâle
+\mmm ba:mrph:AUGM
+\mmm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -15847,19 +16013,20 @@ médicinales)
 \gvf circoncire
 \xv à cɛ̀balenyana, à sàn fìla yé  ɲìna yé
 \xf il a été circoncis voilà deux ans
+\dt 02/Mar/2019
 
 \lx cɛ̀baɲɛbilen
 \mm cɛ̀.ba:n:homme.mûr
-\mm cɛ̀:n:mâle
-\mm ba:mrph:AUGM
+\mmm cɛ̀:n:mâle
+\mmm ba:mrph:AUGM
 \mm ɲɛ́:n:oeil
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \va cɛ̀.ba.ɲɛ.blen
 \mm cɛ̀.ba:n:homme.mûr
-\mm cɛ̀:n:mâle
-\mm ba:mrph:AUGM
+\mmm cɛ̀:n:mâle
+\mmm ba:mrph:AUGM
 \mm ɲɛ́:n:oeil
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \ms 1
@@ -15868,22 +16035,22 @@ médicinales)
 \ms 2
 \gvf criquet
 \smf (espèce)
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀baya
 \mm cɛ̀.ba:n:homme.mûr
-\mm cɛ̀:n:mâle
-\mm ba:mrph:AUGM
+\mmm cɛ̀:n:mâle
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf état.de.circoncis
 \gvf état de circoncis
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀baya
 \mm cɛ̀.ba:n:homme.mûr
-\mm cɛ̀:n:mâle
-\mm ba:mrph:AUGM
+\mmm cɛ̀:n:mâle
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -15891,7 +16058,7 @@ médicinales)
 \gvf circoncire
 \sy bóloko
 \sy sìgi nɛ̀gɛ kɔ́rɔ
-\dt 15/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀bɛn
 \mm cɛ̀:n:mâle
@@ -15918,32 +16085,34 @@ médicinales)
 \dt 19/Jun/2016
 
 \lx cɛ́bɛnbaa
-\mm cɛ̀:n:mâle
-\mm bɛ̀n:v:se.rencontrer
+\mm cɛ́.bɛ̀n:n:réunir
+\mmm cɛ̀:n:mâle
+\mmm bɛ̀n:v:se.rencontrer
 \mm baa:mrph:AG.OCC
 \va cɛ́.bɛn.baga
-\mm cɛ̀:n:mâle
-\mm bɛ̀n:v:se.rencontrer
+\mm cɛ́.bɛ̀n:n:réunir
+\mmm cɛ̀:n:mâle
+\mmm bɛ̀n:v:se.rencontrer
 \mm baga:mrph:AG.OCC
 \ps n
 \gf médiateur
 \gvf médiateur
-\dt 15/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀bilencɛ
 \mm cɛ̀:n:mâle
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \mm cɛ̀:n:mâle
 \va cɛ̀.blen.cɛ
 \mm cɛ̀:n:mâle
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \mm cɛ̀:n:mâle
 \ph [bl]
 \ps n
 \gf danseur.masqué.du.Bɛlɛdugu
 \gvf danseur masqué du Bɛlɛdugu
 \smf (vêtu d'une tunique-culotte à pan en peau de mouton et d'une cagoule ornée de poils de moustache de porc-épic)
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀bɔ
 \mm cɛ̀:n:mâle
@@ -16142,6 +16311,14 @@ sur soi)
 \xf le forgeron est venu les faire dialoguer et clore la querelle
 \dt 26/Sep/2006
 
+\lx cɛ́fɔ
+\mm cɛ́:pp:entre
+\mm fɔ́:v:dire
+\ps n
+\gf médiation
+\gvf médiation
+\dt 03/Mar/2019
+
 \lx cɛ̀gana
 \mm cɛ̀:n:mâle
 \mm gána:adj:célibataire
@@ -16172,8 +16349,8 @@ sur soi)
 
 \lx cɛ̀ganakunsigi
 \mm cɛ̀.gana:n:célibataire
-\mm cɛ̀:n:mâle
-\mm gána:adj:célibataire
+\mmm cɛ̀:n:mâle
+\mmm gána:adj:célibataire
 \mm kùnsigi:n:cheveux
 \ps n
 \gf plante.Desmodium.gangeticum
@@ -16181,40 +16358,40 @@ sur soi)
 \smf (plante herbacée annuelle ---> 1 m)
 \sd papi
 \smf (fréquente les lieux humides)
-\dt 19/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀ganaya
 \mm cɛ̀.gana:n:célibataire
-\mm cɛ̀:n:mâle
-\mm gána:adj:célibataire
+\mmm cɛ̀:n:mâle
+\mmm gána:adj:célibataire
 \mm ya:mrph:ABSTR
 \va cɛ̀gananya
 \mm cɛ̀.ganan:n:célibataire
-\mm cɛ̀:n:mâle
-\mm gánan:adj:célibataire
+\mmm cɛ̀:n:mâle
+\mmm gánan:adj:célibataire
 \mm ya:mrph:ABSTR
 \ps n
 \gf célibat
 \gvf célibat
 \smf (des hommes)
-\dt 17/Mar/2018
+\dt 02/Mar/2019
 
 \lx cɛ̀ganaya
 \mm cɛ̀.gana:n:célibataire
-\mm cɛ̀:n:mâle
-\mm gána:adj:célibataire
+\mmm cɛ̀:n:mâle
+\mmm gána:adj:célibataire
 \mm ya:mrph:ABSTR
 \va cɛ̀gananya
 \mm cɛ̀.ganan:n:célibataire
-\mm cɛ̀:n:mâle
-\mm gánan:adj:célibataire
+\mmm cɛ̀:n:mâle
+\mmm gánan:adj:célibataire
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf priver.de.femme
 \gvf priver de femme
 \smf (causes diverses : divorce, mort, maladie ...)
-\dt 17/Mar/2018
+\dt 02/Mar/2019
 
 \lx cɛ̀jan
 \mm cɛ̀:n:mâle
@@ -16258,42 +16435,45 @@ sur soi)
 
 \lx cɛ̀jugu
 \mm cɛ̀:n:mâle
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj
 \gf vilain
 \gvf vilain
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀juguya
-\mm cɛ̀:n:aspect
-\mm júgu:vq:mauvais
+\mm cɛ̀.jugu:adj:vilain
+\mmm cɛ̀:n:aspect
+\mmm júgu:vq:mauvais
 \mm ya:mrph:DEQU
 \ps n
 \gf laideur
 \gvf laideur
-\dt 19/Jul/2015
+\dt 02/Mar/2019
 
 \lx cɛ̀juguya
-\mm cɛ̀:n:aspect
-\mm júgu:vq:mauvais
+\mm cɛ̀.jugu:adj:vilain
+\mmm cɛ̀:n:aspect
+\mmm júgu:vq:mauvais
 \mm ya:mrph:DEQU
 \ps v
 \gf être.laid
 \gvf être laid
 \gvf devenir laid
-\dt 29/Nov/2015
+\dt 02/Mar/2019
 
 \lx cɛ̀juguyakuru
 \mm cɛ̀.jugu.ya:n:laideur
-\mm cɛ̀:n:aspect
-\mm júgu:vq:mauvais
-\mm ya:mrph:DEQU
+\mmm cɛ̀.jugu:adj:vilain
+\mmmm cɛ̀:n:aspect
+\mmmm júgu:vq:mauvais
+\mmm ya:mrph:DEQU
 \mm kùru:n:boule
 \ps n
 \gf grain.de.beauté
 \gvf grain de beauté
 \smf (le sens esthétique est différent !)
-\dt 19/Jul/2015
+\dt 02/Mar/2019
 
 \lx cɛ̀kala
 \mm kàla:n:tige
@@ -16431,46 +16611,53 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ̀kɔrɔ
 \mm cɛ̀:n:mâle
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf homme.assez.âgé
 \gvf homme assez âgé
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀kɔrɔba
-\mm cɛ̀:n:mâle
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm cɛ̀.kɔrɔ:n:homme.assez.âgé
+\mmm cɛ̀:n:mâle
+\mmm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
 \ps n
 \gf vieillard
 \gvf vieillard
-\dt 18/Feb/2018
+\dt 02/Mar/2019
 
 \lx cɛ̀kɔrɔbaya
-\mm cɛ̀:n:mâle
-\mm kɔ̀rɔ:vq/adj:vieux
-\mm ba:mrph:AUGM
+\mm cɛ̀kɔrɔ.ba:n:vieillard
+\mmm cɛ̀.kɔrɔ:n:homme.assez.âgé
+\mmmm cɛ̀:n:mâle
+\mmmm kɔ̀rɔ:adj:vieux
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf vieillesse
 \gvf vieillesse
+\dt 02/Mar/2019
 
 \lx cɛ̀kɔrɔbaya
-\mm cɛ̀:n:mâle
-\mm kɔ̀rɔ:vq/adj:vieux
-\mm ba:mrph:AUGM
+\mm cɛ̀kɔrɔ.ba:n:vieillard
+\mmm cɛ̀.kɔrɔ:n:homme.assez.âgé
+\mmmm cɛ̀:n:mâle
+\mmmm kɔ̀rɔ:adj:vieux
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \gf devenir.vieillard
 \gvf devenir vieillard
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀kɔrɔninkolon
-\mm cɛ̀:n:mâle
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm cɛ̀.kɔrɔ:n:homme.assez.âgé
+\mmm cɛ̀:n:mâle
+\mmm kɔ̀rɔ:adj:vieux
 \mm nin:mrph:DIM
-\mm kólon:vq:fainéant
+\mm kólon:adj:usagé
 \ps n
 \ms 1
 \gf plante.Boscia.angustifolia
@@ -16487,17 +16674,18 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \sd capp
 \sy bèrefin
 \sy bèremuso
-\dt 19/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀kɔrɔninkun
-\mm cɛ̀:n:mâle
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm cɛ̀.kɔrɔ:n:homme.assez.âgé
+\mmm cɛ̀:n:mâle
+\mmm kɔ̀rɔ:adj:vieux
 \mm nin:mrph:DIM
 \mm kùn:n:tête
 \ps n
 \gf fétiche.du."do"
 \gvf fétiche du "do"
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀kule
 \mm cɛ̀:n:mâle
@@ -16524,24 +16712,24 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \lx cɛ̀kunbancɔlɔ
 \mm cɛ̀:n:mâle
 \mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \mm ncɔ́lɔ:n:pomme.d'Adam
 \ps n
 \gf pomme.d'Adam
 \gvf pomme d'Adam
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀kunda
 \mm cɛ̀:n:mâle
 \mm kùn.da:n:groupe.social
-\mm kùn:n:tête
-\mm dá:n:bouche
+\mmm kùn:n:tête
+\mmm dá:n:bouche
 \ps n
 \gf milieu.masculin
 \gvf milieu masculin
 \gvf société des hommes
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cɛ́kùrulen
 \mm cɛ́:n:milieu
@@ -16627,8 +16815,8 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ̀lasigi
 \mm cɛ̀.la:n:domicile.du.mari
-\mm cɛ̀:n:mâle
-\mm la:mrph:LOC
+\mmm cɛ̀:n:mâle
+\mmm la:mrph:LOC
 \mm sìgi:n:position.assise
 \ps n
 \ms 1
@@ -16637,7 +16825,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \ms 2
 \gvf vie conjugale
 \smf (pour une femme)
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ́latigɛ
 \mm cɛ́:n:milieu
@@ -16680,15 +16868,16 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ́mabɔli
 \mm cɛ́:n:milieu
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
+\mm mà.bɔ́:v:éloigner
+\mmm mà:mrph:SUPER
+\mmm bɔ́:v:sortir
 \mm li:mrph:NMLZ
 \ps n
 \gf décentralisation
 \gvf décentralisation
 \xv ...ń'á bɛ́ màra cɛ́mabɔli kófɔ
 \xf (l'article de loi) qui instaure la décentralisation de l'administration (kb 5/06 p.9)
-\dt 20/Jul/2014
+\dt 02/Mar/2019
 
 \lx cɛ́makolo
 \mm cɛ́:n:milieu
@@ -16766,23 +16955,24 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 26/Sep/2006
 
 \lx cɛ́marifin
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf sorgho.Sorghum.cernuum
 \gvf sorgho Sorghum cernuum
 \smf (variété de sorgho)
 \sd gram
-\dt 19/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ́mata
-\mm cɛ́:n:milieu
-\mm mà:pp:ADR
+\mm cɛ́.mà:pp: parmi
+\mmm cɛ́:n:milieu
+\mmm mà:pp:ADR
 \mm tá:n:propriété
 \ps adj
 \gf moyen
 \gvf moyen
 \smf (de l'âge)
-\dt 21/Dec/2014
+\dt 02/Mar/2019
 
 \lx cɛ̀minɛ
 \mm cɛ̀:n:mâle
@@ -16809,12 +16999,12 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ̀misɛn
 \mm cɛ̀:n:mâle
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ps n
 \gf jeune.homme
 \gvf jeune homme
 \smf (en pleine force (de 20 à 45 ans ...))
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀mɔgɔ
 \mm cɛ̀:n:mâle
@@ -16921,13 +17111,13 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ̀nímùsoya
 \mm cɛ̀:n:mâle
-\mm ni:prep/conj:et
+\mm ni:conj:et
 \mm mùso:n:femme
 \mm ya:mrph:ABSTR
 \ps n
 \gf rapports.sexuels
 \gvf rapports sexuels
-\dt 20/Feb/2013
+\dt 02/Mar/2019
 
 \lx cɛ̀nin
 \mm cɛ̀:n:mâle
@@ -16939,14 +17129,15 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 16/Aug/2006
 
 \lx cɛ̀nintulon
-\mm cɛ̀:n:mâle
-\mm nin:mrph:DIM
+\mm cɛ̀.nin:n:jeune.homme
+\mmm cɛ̀:n:mâle
+\mmm nin:mrph:DIM
 \mm túlon:n:jeu
 \ps n
 \gf combat.singulier
 \gvf combat singulier
 \gvf combat duel
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀nmasa
 \mm cɛ̀n:n:sable
@@ -17028,8 +17219,9 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 16/Aug/2006
 
 \lx cɛ̀ntanya
-\mm cɛ̀:n:mâle
-\mm ntan:mrph:PRIV
+\mm cɛ̀n.tan:adj:sans.mari
+\mmm cɛ̀:n:mâle
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -17038,11 +17230,12 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \smf (pour la femme)
 \ms 2
 \gvf célibat
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀ntanya
-\mm cɛ̀:n:mâle
-\mm ntan:mrph:PRIV
+\mm cɛ̀n.tan:adj:sans.mari
+\mmm cɛ̀:n:mâle
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -17051,7 +17244,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \gvf priver de mari
 \ms 2
 \gvf rendre veuve
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀ɲa
 \mm cɛ̀:n:aspect
@@ -17172,8 +17365,9 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 26/Sep/2006
 
 \lx cɛ́sirijala
-\mm cɛ́:n:milieu
-\mm sìri:v:lier
+\mm cɛ́.sìri:v:se.ceindre
+\mmm cɛ́:n:milieu
+\mmm sìri:v:lier
 \mm jàla:n:cordon
 \ps n
 \gf ceinture
@@ -17181,15 +17375,17 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \smf (des femmes)
 \xv ń'í dén kɛ́ra  bànabaatɔlama yé, í cɛ́sirijala dón, í tɛ́ sé  k'à bìla  kɛ̀rɛ fɛ̀
 \xf si ton enfant est maladif, c'est ta "ceinture", tu ne peux le laisser de côté
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ́sirilan
-\mm cɛ́:n:milieu
-\mm sìri:v:lier
+\mm cɛ́.sìri:v:se.ceindre
+\mmm cɛ́:n:milieu
+\mmm sìri:v:lier
 \mm lan:mrph:INSTR
 \ps n
 \gf ceinture
 \gvf ceinture
+\dt 02/Mar/2019
 
 \lx cɛ̀so
 \mm cɛ̀:n:mâle
@@ -17295,14 +17491,15 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 26/Sep/2006
 
 \lx cɛ̀tigɛden
-\mm cɛ̀:n:mâle
-\mm tìgɛ:v:couper
+\mm cɛ̀.tigɛ:n:séduction
+\mmm cɛ̀:n:mâle
+\mmm tìgɛ:v:couper
 \mm dén:n:enfant
 \ps n
 \gf bâtard
 \gvf bâtard
 \sy ɲàmɔgɔden
-\dt 12/Aug/2006
+\dt 02/Mar/2019
 
 \lx cɛ̀tigi
 \mm cɛ̀:n:mâle
@@ -17373,8 +17570,9 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 26/Sep/2006
 
 \lx cɛ̀yadonbana
-\mm cɛ̀:n:mâle
-\mm ya:mrph:ABSTR
+\mm cɛ̀.ya:n:qualité.d'homme
+\mmm cɛ̀:n:mâle
+\mmm ya:mrph:ABSTR
 \mm dòn:v:entrer
 \mm bàna:n:maladie
 \ps n
@@ -17385,26 +17583,28 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \ve (jk)
 \sy wúlulature
 \rem Jakité (même jusqu'à disparition !
-\dt 11/Nov/2007
+\dt 02/Mar/2019
 
 \lx cɛ̀yaji
-\mm cɛ̀:n:mâle
-\mm ya:mrph:ABSTR
+\mm cɛ̀.ya:n:qualité.d'homme
+\mmm cɛ̀:n:mâle
+\mmm ya:mrph:ABSTR
 \mm jí:n:eau
 \ps n
 \gf sperme
 \gvf sperme
 \sy nègeji
-\dt 11/Nov/2007
+\dt 02/Mar/2019
 
 \lx cɛ̀yasa
-\mm cɛ̀:n:mâle
-\mm ya:mrph:ABSTR
+\mm cɛ̀.ya:n:qualité.d'homme
+\mmm cɛ̀:n:mâle
+\mmm ya:mrph:ABSTR
 \mm sà:n:mort
 \ps n
 \gf impuissance.sexuelle
 \gvf impuissance sexuelle
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cì
 \ps v
@@ -17545,6 +17745,13 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \xf je ne sais qui l'a envoyé
 \dt 16/Aug/2006
 
+\lx cibabawu
+\ps n
+\gf coup.franc
+\gvf coup franc
+\smf (un terme de football)
+\dt 03/Mar/2019
+
 \lx cíbaranin
 \mm cí:n:commission
 \mm bàra:n:calebasse
@@ -17616,13 +17823,14 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 30/Nov/2014
 
 \lx cídenya
-\mm cí:n:commission
-\mm dén:n:enfant
+\mm cí.den:n:envoyé
+\mmm cí:n:commission
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \gf mission
 \gvf mission
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cíduman
 \mm cí:n:commission
@@ -17637,13 +17845,14 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cígoman
 \mm cí:n:commission
-\mm gó:vq:désagréable
-\mm man:mrph:ADJ
+\mm gó.man:adj:mauvais
+\mmm gó:vq:désagréable
+\mmm man:mrph:ADJ
 \ps n
 \gf travailleur.inappliqué
 \gvf travailleur inappliqué
 \smf (qui rechigne devant le travail)
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cíjalankɛla
 \mm cí:n:commission
@@ -17687,8 +17896,9 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 20/Mar/2017
 
 \lx cíkɛbali
-\mm cí:n:commission
-\mm kɛ́:v:faire
+\mm cí.kɛ:v:cultiver
+\mmm cí:n:commission
+\mmm kɛ́:v:faire
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \ms 1
@@ -17698,46 +17908,49 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \gvf n'est pas cultivé
 \xv cíkɛbali tɛ́  ɲɔ̀minɛcogo dɔ́n
 \xf qui ne cultive pas ne sait pas comment traiter le mil (dicton)
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cíkɛbugu
-\mm cí:n:commission
-\mm kɛ́:v:faire
+\mm cí.kɛ:v:cultiver
+\mmm cí:n:commission
+\mmm kɛ́:v:faire
 \mm bùgu:n:paillote
 \ps n
 \gf village.de.culture
 \gvf village de culture
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cíkɛdugu
-\mm cí:n:commission
-\mm kɛ́:v:faire
+\mm cí.kɛ:v:cultiver
+\mmm cí:n:commission
+\mmm kɛ́:v:faire
 \mm dùgu:n:terre
 \ps n
 \gf village.campagnard
 \gvf village campagnard
 \gvf commune rurale
-\dt 11/Nov/2007
+\dt 02/Mar/2019
 
 \lx cíkɛla
-\mm cí:n:commission
-\mm kɛ́:v:faire
+\mm cí.kɛ:v:cultiver
+\mmm cí:n:commission
+\mmm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf agriculteur
 \gvf agriculteur
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cíkɔrɔ
 \mm cí:n:commission
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf vieille.habitude
 \gvf vieille habitude
 \gvf travail connu
 \xv dùgumɛnɛ cíkɔrɔ yé  cínni yé
 \xf la vieille habitude de la fourmi est de piquer (prov)
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx cíla
 \mm cí:v:envoyer
@@ -17754,13 +17967,14 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cílasela
 \mm cí.la:n:celui.qui.envoie
-\mm cí:n:commission
-\mm lá:mrph:CAUS
+\mmm cí:n:commission
+\mmm lá:mrph:CAUS
 \mm sé:v:arriver
 \mm la:mrph:AG.PRM
 \ps n
 \gf messager
 \gvf messager
+\dt 02/Mar/2019
 
 \lx cín
 \va kín
@@ -17867,8 +18081,9 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 16/Aug/2006
 
 \lx cíyabɛɛkɛ
-\mm cí:n:commission
-\mm ya:mrph:ABSTR
+\mm cí.ya:n:travail
+\mmm cí:n:commission
+\mmm ya:mrph:ABSTR
 \mm bɛ́ɛ:adv:tous
 \mm kɛ́:v:faire
 \va cá.bɛɛ.kɛ
@@ -17878,7 +18093,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \ps n
 \gf multiculteur
 \gvf multiculteur
-\dt 16/Aug/2006
+\dt 02/Mar/2019
 
 \lx cíyɛntamuso
 \mm cíyɛn:n:héritage
@@ -17898,14 +18113,15 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 04/Jul/2013
 
 \lx cíyɛntamusoko
-\mm cíyɛn:n:héritage
-\mm tà:v:prendre
-\mm mùso:n:femme
+\mm cíyɛn.ta.muso:n:femme.d'héritage
+\mmm cíyɛn:n:héritage
+\mmm tà:v:prendre
+\mmm mùso:n:femme
 \mm kó:n:affaire
 \ps n
 \gf lévirat
 \gvf lévirat
-\dt 11/Nov/2007
+\dt 02/Mar/2019
 
 \lx cm
 \ps n
@@ -22609,6 +22825,8 @@ devenir incontrôlable
 \gvf bout
 \gvf fin
 \gvf terme
+\xv kà dàn kɛ́
+\xf aller à son terme
 \xv ò dàn kɛ́ra  ò yé
 \xf ce fut la dernière fois
 \xv né dàn yé  ò yé
@@ -22622,7 +22840,7 @@ devenir incontrôlable
 \xf c'est le comble !
 \xv ń tɛ́ sé k'í fò kà sé à dàn ná
 \xf je ne peux assez te remercier
-\dt 22/Apr/2018
+\dt 02/Mar/2019
 
 \lx dàn
 \ps n
@@ -26109,10 +26327,12 @@ porte jusqu'à ce que passe le chef
 \gf manque
 \gvf manque
 \gvf pauvreté
+\xv ni dɛ́sɛ tɛ́
+\xf s'il n'est pas nécessaire, si ce n'est pas vital
 \ms 2
 \gvf impuissance
 \gvf incapacité
-\dt 18/Oct/2017
+\dt 03/Mar/2019
 
 \lx dɛ́sɛbaatɔ
 \mm dɛ́sɛ:v:échouer
@@ -27648,6 +27868,15 @@ chefs religieux et représentants de l'administration
 \gvf anse
 \gvf petite baie
 \dt 26/Sep/2006
+
+\lx dógodogonin
+\mm dógodogo:n:coin
+\mm nin:mrph:DIM
+\ps n
+\gf corner
+\gvf corner
+\smf (coup de coin, un terme de football)
+\dt 02/Mar/2019
 
 \lx dògodogoninkuma
 \mm dògodogo:v:cacher
@@ -29751,6 +29980,18 @@ désorienter')
 \gvf ami
 \sy dɔ́nbaa
 \dt 08/Dec/2018
+
+\lx dɔ́nnakari
+\mm dɔ́n:n:connaissance
+\mm lákari:v:rendre.inefficace
+\mmm lá:mrph:CAUS
+\mmm kári:v:casser
+\ps v
+\vl vt
+\gf connaître.à.fond
+\gvf connaître à fond
+\gvf être très expert
+\dt 02/Mar/2019
 
 \lx dɔ́nni
 \mm dɔ́n:v:connaître
@@ -33124,6 +33365,8 @@ gens)
 \ms 1
 \gf membrane
 \gvf membrane
+\xv ɲɛ́falaka
+\xf conjonctive
 \ms 2
 \gvf glaire de la gorge
 \gvf pituite
@@ -33133,7 +33376,7 @@ gens)
 \ms 3
 \gvf cataracte
 \gvf voile visuel
-\dt 19/Feb/2014
+\dt 03/Mar/2019
 
 \lx fàlaka
 \mm fà:n:père
@@ -36226,10 +36469,11 @@ bien (dicton)
 
 \lx fɛ̀nɛtɛrɛ
 \va fìnɛtiri
+\va fìlantɛrɛ
 \ps n
 \gf fenêtre
 \gvf fenêtre
-\dt 25/Oct/2016
+\dt 03/Mar/2019
 
 \lx fɛ́ngɛ
 \va fɛ́gɛn
@@ -36708,7 +36952,7 @@ bien (dicton)
 \ms 2
 \vl vr
 \gvf faire l'amour
-\dt 18/Apr/2015
+\dt 03/Mar/2019
 
 \lx fìfalan
 \mm fìfa:v:éventer
@@ -45556,10 +45800,17 @@ caractéristique, réputé pour faciliter la procréation)
 \mm gírin:v:se.précipiter
 \mm kà:pm:INF
 \mm jɔ̀:v:dresser
+\va gírinkajɔ
+\mm gírin:v:se.précipiter
+\mm kà:pm:INF
+\mm jɔ̀:v:dresser
 \ps n
 \gf émeute
+\ms 1
 \gvf émeute
-\dt 28/Feb/2017
+\ms 2
+\gvf éliminatoire
+\dt 02/Mar/2019
 
 \lx gírinman
 \mm gírin:vq/adj:lourd
@@ -50831,6 +51082,20 @@ calebasses)
 \gvf peur
 \dt 26/Sep/2006
 
+\lx jàwuli
+\mm jà:n:ombre
+\mm wúli:v:se.lever
+\ps v
+\gf effrayer
+\ms 1
+\vl vt
+\gvf effrayer
+\gvf inquiéter
+\ms 2
+\vl vt
+\gvf impressionner
+\dt 02/Mar/2019
+
 \lx jàye
 \mm jà:n:ombre
 \mm yé:v:voir
@@ -50839,7 +51104,7 @@ calebasses)
 \gvf miroir
 \sy jàfilɛ
 \rem l 89, Jos
-\dt 11/Nov/2007
+\dt 02/Mar/2019
 
 \lx jàyɔrɔ
 \mm jà:v:héberger
@@ -51872,6 +52137,17 @@ nos libations "
 \gvf chateau d'eau
 \gvf tour réservoir
 \dt 03/Jun/2017
+
+\lx jíbɔ
+\ps v
+\gf marquer.but
+\ms 1
+\vl vt
+\gvf marquer un but
+\ms 2
+\vl vt
+\gvf essorer
+\dt 03/Mar/2019
 
 \lx jíbɔla
 \mm jí:n:eau
@@ -57831,6 +58107,16 @@ l'eau est prête
 \xv sán 2007 kàlata bɛ́ lábɛn  sáriya kúra tàlen nìnnu húkumu kɔ́nɔ
 \xf les élections de 2007 seront organisées dans le cadre de ces nouvelles lois (Kb 8/06 p.1)
 \dt 11/Nov/2007
+
+\lx kàlatasɛbɛn
+\mm kàla.ta:n:tirage.au.sort
+\mm kàla:n:tige
+\mm tà:n:action.de.prendre
+\mm sɛ́bɛn:n:écrit
+\ps n
+\gf carte.électorale
+\gvf carte électorale
+\dt 02/Mar/2019
 
 \lx kálatigi
 \mm kála:n:arc
@@ -68029,6 +68315,16 @@ harpon)
 \smf (parler crypté des jeunes)
 \dt 04/Apr/2016
 
+\lx kɔ́kan
+\mm kɔ́:n:dos
+\mm kàn:pp:sur
+\ps n
+\gf extérieur
+\gvf extérieur
+\smf (du pays)
+\gvf l'étranger
+\dt 02/Mar/2019
+
 \lx kɔ́kàn
 \mm kɔ́:n:dos
 \mm kàn:pp:sur
@@ -72915,7 +73211,19 @@ fruit à part, son intérieur est plein de graines, (tu dis) un mot,
 il en contient dix
 \ms 2
 \gvf petit enfant
-\dt 25/Apr/2016
+\ms 3
+\gvf ensemble
+\gvf totalité
+\gvf entier
+\dt 03/Mar/2019
+
+\lx kúlukutulen
+\mm kúlukùtu:n:sphère
+\mm len:mrph:PTCP.RES
+\ps ptcp
+\gf rond
+\gvf rond
+\dt 03/Mar/2019
 
 \lx kùlumayɔrɔ
 \mm kùlu:n:montagne
@@ -76837,10 +77145,12 @@ Sahel)
 \ms 9
 \gvf but
 \smf (football)
+\xv kùru jíbɔ
+\xf marquer un but
 \ms 10
 \gvf point
 \smf (unité d'une note)
-\dt 25/Apr/2018
+\dt 03/Mar/2019
 
 \lx kùru
 \ps v
@@ -79867,24 +80177,33 @@ catastrophe)
 \gvf antidote
 \ms 2
 \gvf adversaire
-\dt 28/Mar/2013
+\dt 02/Mar/2019
 
 \lx lákari
 \mm lá:mrph:CAUS
 \mm kári:v:casser
+\va nákari
+\mm ná:mrph:CAUS
+\mm kári:v:casser
 \ps v
+\ms 1.1
 \vl vt
-\ms 1
 \gf rendre.inefficace
 \gvf rendre inefficace
 \gvf guérir
 \smf (grâce à un contrepoison)
+\gvf servir d'antidote
+\gvf annihiler
+\ms 1.2
+\vl vt
+\gvf contrecarrer
 \ms 2
+\vl vt
 \gvf casser
 \gvf cueillir
 \xv mángoroden lákari  kà nà
 \xf va cueillir des mangues et apporte-les
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx lákàsi
 \mm lá:mrph:CAUS
@@ -80568,6 +80887,9 @@ catastrophe)
 \va rɔ́mìnɛ
 \mm rɔ́:mrph:IN
 \mm mìnɛ:v:attraper
+\va lɔ́mìnɛ
+\mm rɔ́:mrph:IN
+\mm mìnɛ:v:attraper
 \va rɔ́mìna
 \mm rɔ́:mrph:IN
 \mm mìna:v:attraper
@@ -80607,7 +80929,7 @@ catastrophe)
 \smf (maîtriser ses mauvais penchants)
 \xv í láminɛ dɔ́rɔn !
 \xf sois un peu maître de toi !
-\dt 27/Jan/2016
+\dt 02/Mar/2019
 
 \lx lámini
 \mm lá:mrph:CAUS
@@ -81991,6 +82313,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \va rɔ́.tìgɛ
 \mm rɔ́:mrph:IN
 \mm tìgɛ:v:couper
+\va lɔ́.tìgɛ
+\mm lɔ́:mrph:IN
+\mm tìgɛ:v:couper
 \ps v
 \vl vt
 \ms 1
@@ -82020,7 +82345,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 7
 \gvf déflorer
 \smf (dans les insultes de femmes)
-\dt 19/Oct/2014
+\dt 02/Mar/2019
 
 \lx látiimɛ
 \mm lá:mrph:CAUS
@@ -82764,6 +83089,14 @@ personne)
 \gf hausser
 \gvf hausser
 \dt 26/Sep/2006
+
+\lx legimu
+\va legemu
+\bw fr. légume
+\ps n
+\gf légume
+\gvf légume
+\dt 01/Mar/2019
 
 \lx lèle
 \ps v
@@ -87440,6 +87773,21 @@ des engagements
 \ms 2
 \gvf démonter
 \dt 14/Apr/2018
+
+\lx mawu
+\ps n
+\gf stupeur
+\gvf stupeur
+\xv kà mawu kɛ́
+\xf être frappé de stupeur
+\dt 03/Mar/2019
+
+\lx mawu
+\ps v
+\gf stupéfier
+\gvf stupéfier
+\smf (surtout sous forme de participe résultatif)
+\dt 03/Mar/2019
 
 \lx màwuludu
 \ps n
@@ -105337,8 +105685,14 @@ banane, etc.)
 \mm dími:n:souffrance
 \ps n
 \gf conjonctivite
+\ms 1
 \gvf conjonctivite
 \sy ɲɛ́dimijalan
+\ms 2
+\gvf trachome
+\xv ɲɛ́jalandimi kɔ́gɔlen
+\xf trichiasis
+\dt 03/Mar/2019
 
 \lx ɲɛ́jɛ
 \mm ɲɛ́:n:oeil
@@ -105364,13 +105718,16 @@ banane, etc.)
 \ms 1
 \gf larme
 \gvf larme
+\xv báatarako tɛ shɛ̀ ɲɛ́ji bɔ́
+\src Sagess bambara 1978
+\xf il faut quelque chose d'extraordinaire pour faire larmoyer une poule
 \ms 2
 \gvf sève
 \gvf gomme
 \smf (exsudation de certains arbres)
 \xv ɲɛ́ji mána ká bòn  kà tɛ̀mɛ  ncɛ̀n kàn, dɔ́ bɛ́ sìmi  kà gɛ̀lɛya
 \xf les "ɲɛji"  sont plus résistants que les latex, certains durcissent
-\dt 13/Mar/2018
+\dt 03/Mar/2019
 
 \lx ɲɛ́jibɔ
 \mm ɲɛ́.ji:n:larme
@@ -105879,6 +106236,19 @@ banane, etc.)
 \gvf étaler
 \gvf déplier totalement
 \dt 18/Apr/2014
+
+\lx ɲɛ́lasumunin
+\mm ɲɛ́:n:oeil
+\mm lá:pp:à
+\mm súmunin:n:furoncle
+\va ɲɛ́lasumuni
+\mm ɲɛ́:n:oeil
+\mm lá:pp:à
+\mm súmuni:n:furoncle
+\ps n
+\gf orgelet
+\gvf orgelet
+\dt 03/Mar/2019
 
 \lx ɲɛ́ma
 \mm ɲɛ́:n:oeil
@@ -107833,6 +108203,8 @@ banane, etc.)
 
 \lx ɲìnɛ
 \va ɲɛ̀nɛ
+\va ɲìna
+\va ɲìnan
 \ps n
 \gf oubli
 \gvf oubli
@@ -107842,7 +108214,7 @@ banane, etc.)
 \xf on ne peut oublier cette action
 \xv à táara  né ɲìnɛ mà Bámakɔ
 \xf il est parti à Bamako à mon insu
-\dt 26/Sep/2006
+\dt 02/Mar/2019
 
 \lx ɲìnɛ
 \va ɲɛ̀nɛ
@@ -110637,8 +111009,8 @@ envergure)
 \ps dtm
 \gf seulement
 \gvf seulement
-\smf (emploi rare en dehors de kelen pe un seul)
-\dt 28/May/2016
+\smf (avec des numéraux et avec dɔ́rɔn; emploi rare en dehors de kelen pe 'un seul' et dɔ́rɔn)
+\dt 03/Mar/2019
 
 \lx pèleden
 \mm dén:n:enfant
@@ -111073,6 +111445,15 @@ envergure)
 \gf seringue
 \gvf seringue
 \dt 21/Feb/2017
+
+\lx pilansi
+\bw Fr. planche
+\ps n
+\gf plate-bande
+\gvf planche
+\smf (surface cultivée, longue et relativement étroite, dans un jardin ou un champ)
+\gvf plate-bande
+\dt 03/Mar/2019
 
 \lx píli
 \ps n
@@ -112645,6 +113026,23 @@ épuisés
 \gvf plaisantin
 \rem Bz, b
 \dt 05/Apr/2016
+
+\lx sáfa
+\ps n
+\gf muguet.buccal
+\gvf muguet buccal
+\smf (maladie des humains et des bovins qui commence par le gonflement de la
+langue, et finit par empêcher de marcher)
+\dt 03/Mar/2019
+
+\lx sáfa
+\ps n
+\gf rang
+\gvf rang
+\gvf ligne
+\gvf alignement
+\smf (pour la prière)
+\dt 03/Mar/2019
 
 \lx sàfɛ
 \bw fr.
@@ -114307,6 +114705,15 @@ épuisés
 \ms 2
 \gvf pommelé
 \dt 29/Mar/2014
+
+\lx sànkaden
+\mm Sàn:n.prop:TOP
+\mm ka:mrph:GENT
+\mm dén:n:enfant
+\ps n
+\gf haltérophile
+\gvf haltérophile
+\dt 02/Mar/2019
 
 \lx sánkalima
 \ps v
@@ -119750,16 +120157,18 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm yɔ́rɔ:n:lieu
 \mm mà:pp:ADR
 \ps v
+\ms 1
 \vl vt
 \gf multiplier
 \gvf multiplier
+\ms
 \vl vi
 \gvf être multiplié
 \xv ò sàn kélen dúnan mínnu bɛ́ jàgo kɛ́, òlu ká wúsuru sàrata sìgiyɔrɔmana sènɲɛ̀ duuru
 \xf dans la même année, la taxe imposée aux commerçants étrangers a quintuplé (kb 9/06 p. 11)
 \xv sàn 25 ó sàn 25, jàmanaden bɛ́ sìgiyɔrɔma fìla
 \xf tous les 25 ans, la population du pays se multiplie par deux (kb 2/06 p.4)
-\dt 11/Nov/2007
+\dt 02/Mar/2019
 
 \lx sìgiyɔrɔma
 \mm sìgi:v:asseoir
@@ -124812,22 +125221,6 @@ s'amène ...)
 \smf (abri pour le petit bétail (chèvres, poules ...))
 \dt 26/Sep/2006
 
-\lx sùma
-\va sùman
-\ps n
-\ms 1
-\gf récolte
-\gvf récolte
-\gvf culture vivrière
-\xv sùma ládon
-\xf rentrer les récoltes
-\ms 2
-\gvf nourriture
-\gvf repas
-\sy bálo
-\sy dáhirimɛ
-\dt 19/Feb/2017
-
 \lx súma
 \bw ar: ̀amm = id.
 \ps n
@@ -124971,6 +125364,22 @@ s'amène ...)
 \gf lent
 \gvf lent
 \dt 08/Mar/2018
+
+\lx sùman
+\va sùma
+\ps n
+\ms 1
+\gf récolte
+\gvf récolte
+\gvf culture vivrière
+\xv sùma ládon
+\xf rentrer les récoltes
+\ms 2
+\gvf nourriture
+\gvf repas
+\sy bálo
+\sy dáhirimɛ
+\dt 03/Mar/2019
 
 \lx sùmangosi
 \mm sùman:n:récolte
@@ -125163,14 +125572,6 @@ s'amène ...)
 
 \lx súna
 \ps n
-\gf mil.hâtif
-\gvf mil hâtif
-\lat Penicillaria spicata / Pennisetum sp.
-\sd gram
-\dt 26/Sep/2006
-
-\lx súna
-\ps n
 \ms 1
 \gf sounna
 \gvf sounna
@@ -125204,6 +125605,22 @@ s'amène ...)
 \gvf wahhabite
 \smf (un terme neutre, cf. wàhabiya et súnamɔgɔ)
 \dt 06/Mar/2017
+
+\lx súnan
+\ps
+\gf
+\gvf
+\dt 03/Mar/2019
+
+\lx súnan
+\va súna
+\ps n
+\gf mil.hâtif
+\lat Penicillaria spicata, Pennisetum sp.
+\gvf mil hâtif
+\gvf millet hâtif
+\gvf mil à chandelles
+\dt 03/Mar/2019
 
 \lx súnbala
 \ps n
@@ -128396,15 +128813,19 @@ pieton)
 \lx tàntan
 \va tɛ̀ntɛn
 \ve (bn)
+\va tàntannin
+\mm tàntan:adv:récemment
+\mm nin:mrph:DIM
 \ps adv
 \gf récemment
 \gvf récemment
+\gvf tout premier
 \smf (adverbe associé à une base verbale suivie de dòn / tɛ)
 \xv à tàntan-ná dòn
 \xf il vient d'arriver
 \xv fɛ́nkura tàntan-sɔ́rɔ, í bɛ́ nísɔndiya kósɛbɛ
 \xf quand tu viens d'avoir quelque chose de tout neuf, tu es très content
-\dt 16/Mar/2018
+\dt 03/Mar/2019
 
 \lx tántan
 \ps n
@@ -129222,6 +129643,12 @@ flaques d'eau)
 \gf mauvais.augure
 \gvf mauvais augure
 \dt 16/Aug/2006
+
+\lx téretere
+\ps adj
+\gf très.chaud
+\gvf très chaud
+\dt 02/Mar/2019
 
 \lx téri
 \ps n
@@ -135755,12 +136182,23 @@ bruyants, près du sol, dans les fourrés)
 \dt 16/Aug/2006
 
 \lx wáanɛ
-\ps adj/n
+\ps adj
 \gf expert
 \gvf expert
 \gvf as
 \gvf habile
-\dt 26/Sep/2006
+\smf (surtout au jeu de cartes ou de dames)
+\dt 02/Mar/2019
+
+\lx wáanɛ
+\bw Angl. winner ?
+\ps n
+\gf champion
+\gvf champion
+\gvf vainqueur
+\smf (au jeu)
+\gvf as
+\dt 02/Mar/2019
 
 \lx wàanin
 \mm wàa:v:ouvrir.tout.grand
@@ -136059,12 +136497,11 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 
 \lx walafili
 \va waalafili
-\bw Ar.
 \ps n
 \gf rédaction
 \gvf rédaction
 \smf (activité)
-\dt 24/Feb/2019
+\dt 01/Mar/2019
 
 \lx wàlaha
 \bw ar: ad-duha = id.
@@ -138380,6 +138817,14 @@ Mali)
 \gf vote
 \gvf vote
 \dt 21/Feb/2014
+
+\lx wótesɛbɛn
+\mm wóte:n:vote
+\mm sɛ́bɛn:n:écrit
+\ps n
+\gf carte.électorale
+\gvf carte électorale
+\dt 02/Mar/2019
 
 \lx wòtoro
 \bw fr : voiture ?
@@ -141045,6 +141490,14 @@ comportement (LD p.5)
 \gvf auto-suffisance
 \rem l 89 : alimentaire ?
 \dt 28/Feb/2017
+
+\lx yɛ̀rɛbɔ
+\mm yɛ̀rɛ̂:dtm:même
+\mm bɔ́:v:sortir
+\ps n
+\gf volontaire
+\gvf volontaire
+\dt 02/Mar/2019
 
 \lx yɛ̀rɛci
 \mm yɛ̀rɛ̂:dtm:même

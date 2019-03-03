@@ -29,6 +29,13 @@
 \smf (ancien nom de l'Ethiopie)
 \dt 11/Mar/2018
 
+\lx Abudulayibugu
+\ps n.prop
+\gf TOP
+\gvf Abdoulayebougou
+\smf (un secteur du quartier Djicoroni Para, Commune IV de Bamako)
+\dt 03/Mar/2019
+
 \lx Abuja
 \ps n.prop
 \gf TOP
@@ -625,12 +632,26 @@ Salam, Cercle de Tombouctou)
 \cm (приток Нигера)
 \dt 23/May/2010
 
+\lx Bakɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Bacoro
+\smf (village, commune de Socoura, cercle et région de Mopti)
+\dt 01/Mar/2019
+
 \lx Balanzan
 \ps n.prop
 \gf TOP
 \gvf Balansan
 \smf (villace, cercle de Kangaba, Région de Koulikoro)
 \dt 04/Feb/2017
+
+\lx Bale
+\ps n.prop
+\gf TOP
+\gvf Wassoulou-Ballé
+\smf (commune, cercle de Yanfolila, région de Sikasso)
+\dt 02/Mar/2019
 
 \lx Bàmakɔ
 \va Bàmako
@@ -866,14 +887,12 @@ Comoé, Burkina Faso)
 \dt 01/Jun/2016
 
 \lx Bankumana
-\ty дер.
-\ru Банкумана
 \ps n.prop
 \gf TOP
-\smf (nom de lieu)
 \gvf Bankoumana
-\cm (деревня на р. Нигер между Бамако и Кангаба)
-\dt 23/May/2010
+\gvf Bancoumana
+\smf (village et commune rurale, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
 
 \lx Barala
 \ps n.prop
@@ -1301,6 +1320,13 @@ malienne)
 \ru Бужумбура
 \dt 23/May/2010
 
+\lx Buwakɛ
+\ps n.prop
+\gf TOP
+\gvf Bouaké
+\smf (une grande ville en Côte d'Ivoire)
+\dt 03/Mar/2019
+
 \lx Cadi
 \va Caadi
 \ty гос.
@@ -1573,6 +1599,20 @@ Koulikoro)
 \gvf Dogo
 \smf (commune, cercle de Bougouni, région de Sikasso)
 \dt 22/Feb/2017
+
+\lx Dogobala
+\ps n.prop
+\gf TOP
+\gvf Dogobala
+\smf (un village dans la commune de Moribabougou, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Dogonin
+\ps n.prop
+\gf TOP
+\gvf Dogoni
+\smf (commune et petite ville, cercle et région de Sikasso)
+\dt 03/Mar/2019
 
 \lx Dominiki
 \ty гос.
@@ -1897,6 +1937,13 @@ Koulikoro)
 \smf (village et commune, cercle de Tominian, région de Ségou)
 \dt 15/Jun/2017
 
+\lx Farabanna
+\ps n.prop
+\gf TOP
+\gvf Farabana
+\smf (village, région de Koulikoro)
+\dt 01/Mar/2019
+
 \lx Fàrafinna
 \mm fàra:n:écorce
 \mm fìn:adj:noir
@@ -1943,6 +1990,13 @@ Koulikoro)
 \gvf Fassokanou
 \smf (un quartier dans la commune 6 de Bamako)
 \dt 04/Jun/2016
+
+\lx Fasudebe
+\ps n.prop
+\gf TOP
+\gvf Fassoudebé
+\smf (village et commune, cercle de Diéma, région de Kayes)
+\dt 02/Mar/2019
 
 \lx Fekola
 \ps n.prop
@@ -2052,6 +2106,13 @@ Koulikoro)
 \gvf Fouladougou
 \dt 22/Feb/2017
 
+\lx Furu
+\ps n.prop
+\gf TOP
+\gvf Fourou
+\smf (ville et commune, cercle de Kadiolo, région de Sikasso)
+\dt 02/Mar/2019
+
 \lx Futa
 \ps n.prop
 \gf TOP
@@ -2144,14 +2205,11 @@ Tunisie et de l’Algérie)
 \dt 04/Jun/2016
 
 \lx Gangaran
-\ty горы
-\ru Гангаран
 \ps n.prop
 \gf TOP
-\smf (nom de lieu)
 \gvf Gangaran
-\cm (в Мали)
-\dt 23/May/2010
+\smf (massif montagneux, cercle de Kita)
+\dt 02/Mar/2019
 
 \lx Gaɲiwa
 \ps n.prop
@@ -2263,6 +2321,13 @@ Tombouctou)
 \gvf Gomakoura
 \smf (village, cercle de Niono, région de Ségou)
 \dt 05/Feb/2017
+
+\lx Gori-Kopela
+\ps n.prop
+\gf TOP
+\gvf Gory Gopéla
+\smf (village et commune, cercle et région de Kayes)
+\dt 03/Mar/2019
 
 \lx Gosi
 \ps n.prop
@@ -2652,6 +2717,13 @@ Koulikoro)
 \smf (village de la commune de Niéna, cercle et région de Sikasso)
 \dt 18/Oct/2017
 
+\lx Janginebugu
+\ps n.prop
+\gf TOP
+\gvf Janginebugu
+\smf (village, région de Koulikoro, au bord du Niger)
+\dt 03/Mar/2019
+
 \lx Janikɔrɔ
 \ps n.prop
 \gf TOP
@@ -2794,6 +2866,13 @@ région de Sikasso)
 \smf (une commune du cercle de Kadiolo, province de Sikasso)
 \dt 08/Feb/2017
 
+\lx Jiburula
+\ps n.prop
+\gf TOP
+\gvf Jiburula
+\smf (un village à nord-ouest de Bamako)
+\dt 03/Mar/2019
+
 \lx Jibuti
 \ty гос.
 \ps n.prop
@@ -2855,6 +2934,13 @@ région de Sikasso)
 \cm (историческая область в южной Гвинее)
 \dt 23/May/2010
 
+\lx Jonjori
+\ps n.prop
+\gf TOP
+\gvf Diondiori
+\smf (village, cercle de Ténénkou, région de Mopti)
+\dt 01/Mar/2019
+
 \lx Jorila
 \ps n.prop
 \gf TOP
@@ -2893,6 +2979,13 @@ région de Koulikoro)
 \smf (commune, cercle de Yélimané,
 région de Kayes)
 \dt 25/Apr/2018
+
+\lx Jɔnin
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village, région de Koulikoro, au bord du Niger)
+\dt 03/Mar/2019
 
 \lx Jɔ́nkala
 \ps n.prop
@@ -2971,6 +3064,13 @@ région de Mopti)
 \gvf Kabara
 \smf (une port près de Tombouctou)
 \dt 07/Feb/2017
+
+\lx Kabate
+\ps n.prop
+\gf TOP
+\gvf Kabaté
+\smf (village, cercle et région de Kayes)
+\dt 02/Mar/2019
 
 \lx Kabiyo
 \ps n.prop
@@ -3216,6 +3316,13 @@ Léraba, région des Cascades, Burkina Faso)
 \cm (правый приток р. Сенегал)
 \dt 23/May/2010
 
+\lx Karan
+\ps n.prop
+\gf TOP
+\gvf Karan
+\smf (village et commune, cercle de Kangaba, région de Koulikoro)
+\dt 03/Mar/2019
+
 \lx Karangaso
 \ps n.prop
 \gf TOP
@@ -3362,6 +3469,22 @@ Bamako-Koulikoro)
 \cm (в Сенегале)
 \dt 23/May/2010
 
+\lx Kela
+\va Keela
+\ps n.prop
+\gf TOP
+\gvf Keyla
+\gvf Kela
+\smf (un village de griots maninka, à 10 km de Kangaba, région de Koulikoro)
+\dt 01/Mar/2019
+
+\lx Ke-Masina
+\ps n.prop
+\gf TOP
+\gvf Ké-Macina
+\smf (commune, cercle de Macina, région de Ségou)
+\dt 03/Mar/2019
+
 \lx Keniya
 \va Keninya
 \va Kenya
@@ -3469,6 +3592,12 @@ Sikasso)
 \smf (localité, région de Sikasso)
 \dt 23/Feb/2017
 
+\lx Kilimanjaro
+\ps M.PROP
+\gf top
+\gvf Kilimanjaro
+\dt 01/Mar/2019
+
 \lx Kinsasa
 \va Kinshasa
 \ty г.
@@ -3499,6 +3628,13 @@ Sikasso)
 \smf (pays)
 \gvf Kirghizie
 \dt 05/Feb/2017
+
+\lx Kirimalen
+\ps n.prop
+\gf TOP
+\gvf Kirimalen
+\smf (commune de Bankoumana, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
 
 \lx Kìsiduu
 \di m
@@ -3725,6 +3861,17 @@ région de Koulikoro)
 \smf (un village dans la commune de Kakolondugu, Sikaso)
 \dt 04/Jun/2016
 
+\lx Kɔla
+\ps n.prop
+\gf TOP
+\ms 1
+\gvf Kola
+\smf (commune, cercle de Bougouni, région de Sikasso)
+\ms 2
+\gvf Kola
+\smf (un village de la commune de Safo, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
+
 \lx Kɔlena
 \ps n.prop
 \gf TOP
@@ -3922,14 +4069,18 @@ de Bamako)
 
 \lx Kulukɔrɔ
 \va Kulikɔrɔ
-\ty г.
-\ru Куликоро
 \ps n.prop
 \gf TOP
 \gvf Koulikoro
 \smf (une ville et un région)
-\cm (на берегу Нигера, к востоку от Бамако)
-\dt 31/Jan/2017
+\dt 03/Mar/2019
+
+\lx Kulun
+\ps n.prop
+\gf TOP
+\gvf Khouloum
+\smf (une commune, cerce et région de Kayes)
+\dt 03/Mar/2019
 
 \lx Kuluninkɔ
 \ps n.prop
@@ -4173,10 +4324,11 @@ Tombouctou)
 \dt 31/May/2016
 
 \lx Lukusanburugu
+\va Likizanburi
 \ps n.prop
 \gf TOP
 \smf (pays)
-\dt 08/Feb/2016
+\dt 03/Mar/2019
 
 \lx Lusaka
 \ty г.
@@ -4228,6 +4380,14 @@ Tombouctou)
 \gvf Médine
 \ru Медина
 \dt 23/May/2010
+
+\lx Madinɛkura
+\ps n.prop
+\gf TOP
+\gvf Madine-Koura
+\gvf Medine-Koura
+\smf (un grand marché à Bamako)
+\dt 03/Mar/2019
 
 \lx Madiridi
 \ps n.prop
@@ -4286,6 +4446,13 @@ Tombouctou)
 \smf (village, cerce de Yanfolila, région de Sikasso)
 \dt 15/Jun/2017
 
+\lx Malodo
+\ps n.prop
+\gf TOP
+\gvf Malodo
+\smf (un village sur le fleuve Sénégal au sud de Kayes)
+\dt 03/Mar/2019
+
 \lx Mamun
 \ty г.
 \ps n.prop
@@ -4335,6 +4502,13 @@ Tombouctou)
 \smf (un quartier à la commune 6 de Bamako)
 \dt 04/Jun/2016
 
+\lx Maputo
+\ps n.prop
+\gf TOP
+\gvf Maputo
+\smf (la capitale du Mozambique)
+\dt 03/Mar/2019
+
 \lx Marakakongo
 \ps n.prop
 \gf TOP
@@ -4356,6 +4530,13 @@ Tombouctou)
 \gvf Marrakech
 \dt 30/Apr/2017
 
+\lx Maren-Jɔnbugu
+\ps n.prop
+\gf TOP
+\gvf Maréna-Diombougou
+\smf (un commune, cercle et région de Kayes)
+\dt 03/Mar/2019
+
 \lx Marenna
 \ps n.prop
 \gf TOP
@@ -4369,6 +4550,17 @@ région de Kayes)
 \gf TOP
 \smf (nom de lieu)
 \dt 07/Nov/2014
+
+\lx Masala
+\ps n.prop
+\gf TOP
+\ms 1
+\gvf Massala
+\smf (un village, région de Kayes)
+\ms 2
+\gvf Massala
+\smf (un village, région de Sikasso)
+\dt 03/Mar/2019
 
 \lx Màsanta
 \va Màsantan
@@ -4590,6 +4782,13 @@ Ségou)
 \gvf Monaco
 \dt 30/Jan/2017
 
+\lx Moribabugu
+\ps n.prop
+\gf TOP
+\gvf Moribabougou
+\smf (un village et commune, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
+
 \lx Mórila
 \ps n.prop
 \gf TOP
@@ -4805,11 +5004,25 @@ Mopti)
 \smf (une localité, région de Gao)
 \dt 22/Feb/2017
 
+\lx Ndebugu
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village et commune, cercle de Niono, région de Ségou)
+\dt 03/Mar/2019
+
 \lx Nɛgɛkɔ
 \ps n.prop
 \gf TOP
 \smf (nom d'un village)
 \dt 15/Oct/2017
+
+\lx Nɛgɛla
+\ps n.prop
+\gf TOP
+\gvf Negela
+\smf (village, 60 km nord-ouest de Bamako)
+\dt 03/Mar/2019
 
 \lx Ngaara
 \ps n.prop
@@ -4824,6 +5037,20 @@ Mopti)
 \gvf Ngara
 \smf (village, région de Ségou)
 \dt 02/May/2017
+
+\lx Ngolonina
+\ps n.prop
+\gf TOP
+\gvf N'Golonina
+\smf (marché artisanal à la Commune II, Bamako)
+\dt 03/Mar/2019
+
+\lx Ngorongoro
+\ps n.prop
+\gf TOP
+\gvf Ngorongoro
+\smf (cratère et massif de montagnes au nord de Tanzanie)
+\dt 02/Mar/2019
 
 \lx Ngɔmi
 \ps n.prop
@@ -4974,15 +5201,14 @@ de Koulikoro)
 \cm (в Бамако)
 \dt 05/Dec/2010
 
-\lx Nuwashɔti
+\lx Nuwasɔti
+\va Nuwashɔti
 \va Nuwakishot
-\ty г.
 \ps n.prop
 \gf TOP
-\smf (capitale de la Mauritanie)
 \gvf Nouakchott
-\ru Нуакшот
-\dt 23/May/2010
+\smf (capitale de la Mauritanie)
+\dt 03/Mar/2019
 
 \lx Nuwɛlikalidoni
 \ps n.prop
@@ -5032,6 +5258,13 @@ Niafunké, région de Tombouctou)
 \gvf Niagadina
 \smf (village et commune, cercle de Kati, cercle de Koulikoro)
 \dt 30/Apr/2017
+
+\lx Ɲagasola
+\ps n.prop
+\gf TOP
+\gvf Niagassola
+\smf (centre de sous-préfecture, préfecture de Siguiri, région de Kankan, Guinée)
+\dt 01/Mar/2019
 
 \lx Ɲamakɔrɔ
 \ps n.prop
@@ -5261,6 +5494,12 @@ Koulikoro)
 \ru Палестина
 \dt 12/Dec/2018
 
+\lx Panama
+\ps n.prop
+\gf TOP
+\gvf Panama
+\dt 02/Mar/2019
+
 \lx Pàri
 \ty г.
 \ps n.prop
@@ -5389,13 +5628,12 @@ Koulikoro)
 \dt 23/May/2010
 
 \lx Raba
-\ty г.
+\fa Araba
 \ps n.prop
 \gf TOP
-\smf (ville du Maroc)
 \gvf Rabat
-\ru Рабат
-\dt 23/May/2010
+\smf (la capitale du Maroc)
+\dt 03/Mar/2019
 
 \lx Reniyɔn
 \ty гос.
@@ -5518,11 +5756,9 @@ Koulikoro)
 \ty дер.
 \ps n.prop
 \gf TOP
-\smf (nom de lieu)
 \gvf Samako
-\ru Самако
-\cm (вблизи Бамако)
-\dt 23/May/2010
+\smf (commune de Bankoumana, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
 
 \lx Samankura
 \ps n.prop
@@ -5537,6 +5773,13 @@ Koulikoro)
 \gvf Samaniana
 \smf (village, région de Koulikoro)
 \dt 15/Jun/2017
+
+\lx Samɛ-Wɔlɔfɔ
+\ps n.prop
+\gf TOP
+\gvf Samé-Oulof
+\smf (village, cercle et région de Kayes)
+\dt 03/Mar/2019
 
 \lx Samiti
 \ps n.prop
@@ -5782,6 +6025,13 @@ international)
 \gvf Seville
 \dt 06/Feb/2017
 
+\lx Sɛgɛn
+\ps n.prop
+\gf TOP
+\gvf Sègue
+\smf (village, commune de Sagabala, cercle de Kolokani)
+\dt 01/Mar/2019
+
 \lx Sɛndeni
 \ty г.
 \ps n.prop
@@ -6026,6 +6276,13 @@ Djenné, région de Mopti)
 \smf (un village à la rive gauche du Niger, en face de Ségou)
 \dt 29/Mar/2017
 
+\lx Sokolon
+\ps n.prop
+\gf TOP
+\gvf Sokolo
+\smf (commune, cerce de Niono, région de Ségou)
+\dt 03/Mar/2019
+
 \lx Sokolonbugu
 \ps n.prop
 \gf TOP
@@ -6039,6 +6296,24 @@ Djenné, région de Mopti)
 \gvf Sokorodji
 \smf (un quartier dans la commune 6 de Bamako)
 \dt 04/Jun/2016
+
+\lx Sókura
+\ps n.prop
+\gf TOP
+\ms 1
+\gvf Socoura
+\smf (village et commune, cercle et région de Mopti
+\ms 2
+\gvf Socoura
+\smf (village, cercle de Bankass, région de Mopti)
+\dt 01/Mar/2019
+
+\lx Sokura Keseli
+\ps n.prop
+\gf TOP
+\gvf Socoura Késéli
+\smf (village, commune de Socoura, cercle et région de Mopti)
+\dt 01/Mar/2019
 
 \lx Solona
 \ps n.prop
@@ -6069,8 +6344,9 @@ Djenné, région de Mopti)
 \lx Soninkɛɲi
 \ps n.prop
 \gf TOP
+\gvf Soninkégni
 \smf (un village dans le cercle de Kati, province de Koulikoro)
-\dt 31/Jan/2017
+\dt 03/Mar/2019
 
 \lx Sóorò
 \ps n.prop
@@ -6167,6 +6443,13 @@ Sikasso)
 Koutiala, région de Sikasso)
 \dt 28/May/2017
 
+\lx Surunkun-Gangaran
+\ps n.prop
+\gf TOP
+\gvf Sourounkoun-Ganagara
+\smf (un village, commune de Toukoto, cercle de Kita, région de Kayes)
+\dt 03/Mar/2019
+
 \lx Susi
 \ps n.prop
 \gf TOP
@@ -6205,6 +6488,13 @@ Koutiala, région de Sikasso)
 \smf (quartier Bozo à Ségou)
 \dt 16/May/2017
 
+\lx Tabu
+\ps n.prop
+\gf TOP
+\gvf Tabou
+\smf (village, 6 km de Sélingué)
+\dt 01/Mar/2019
+
 \lx Tadimakatati
 \ps n.prop
 \gf TOP
@@ -6228,6 +6518,13 @@ village d'Essouk, région de Kidal)
 \smf (île de Polynésie française)
 \gvf Tahiti
 \dt 05/Feb/2017
+
+\lx Takuti
+\ps n.prop
+\gf TOP
+\gvf Takouti
+\smf (village, commune de Socoura, cercle et région de Mopti)
+\dt 01/Mar/2019
 
 \lx Talikɔ
 \ps n.prop
@@ -6419,6 +6716,13 @@ frontière malienne)
 \smf (commune rurale, cercle d'Abeïbara, région de Kidal)
 \dt 01/Feb/2017
 
+\lx Tiɲɛkungo
+\ps n.prop
+\gf TOP
+\gvf Tignékoungo
+\smf (un village, cercle de Bougouni)
+\dt 03/Mar/2019
+
 \lx Tiringa
 \ps n.prop
 \gf TOP
@@ -6559,6 +6863,13 @@ invahisseurs marocains et les Songhaï en 1591)
 \gvf Toukoro
 \smf (village, région de Ségou, au bord du Niger à l'ouest de Ségou)
 \dt 15/Jun/2017
+
+\lx Tukɔtɔ
+\ps n.prop
+\gf TOP
+\gvf Toucouto
+\smf (ville et commune, cercle de Kita, région de Kayes, près de la confluence de Bakoy et Baloué)
+\dt 02/Mar/2019
 
 \lx Tulusi
 \ps n.prop
@@ -6851,6 +7162,13 @@ cercle de Kati)
 \smf (ville et commune, cercle de Bla, région de Ségou)
 \dt 15/Jun/2017
 
+\lx Yarankabugu
+\ps n.prop
+\gf TOP
+\gvf Yarangabougou
+\smf (un village, commune de Sébékoro 1, cercle de Kolokani, région de Koulikoro)
+\dt 03/Mar/2019
+
 \lx Yaunde
 \ty г.
 \ps n.prop
@@ -6998,6 +7316,13 @@ Koulikoro)
 \gvf Zébala
 \smf (village et commune, cercle de Koutiala, région de Sikasso)
 \dt 23/May/2017
+
+\lx Zeguwa
+\ps n.prop
+\gf TOP
+\gvf Zégoua
+\smf (ville, cercle de Kadiolo, région de Sikasso)
+\dt 01/Mar/2019
 
 \lx Zelabugu
 \ps n.prop
