@@ -698,7 +698,7 @@
 \gvf datura
 \gvf trompette des anges
 \smf (plante très courante, aux propriétés excitantes)
-\dt 14/Feb/2017
+\dt 04/Mar/2019
 
 \lx àluwa
 \va àliwa
@@ -2038,6 +2038,14 @@ mauvais
 \xf il est venu me trouver tout affolé
 \dt 26/Sep/2006
 
+\lx bàgafura
+\mm bàga:n:poison
+\mm fúra:n:feuille
+\ps n
+\gf antitoxine
+\gvf antitoxine
+\dt 04/Mar/2019
+
 \lx bágajɛ
 \mm bága:n:bleu
 \mm jɛ́:adj:blanc
@@ -3360,6 +3368,13 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \xf mes arachides n'ont pas réussi
 \dt 26/Sep/2006
 
+\lx balibali
+\ps n
+\gf henné.blond
+\lat Senna italica
+\gvf henné blond
+\dt 04/Mar/2019
+
 \lx bálibali
 \ps n
 \gf mouton.du.Sahel
@@ -4094,6 +4109,16 @@ Fleurs spectaculaires)
 \gvf germe de maladie
 \gvf virus
 \dt 26/Sep/2006
+
+\lx bànakisɛfura
+\mm bàna.kisɛ:n:microbe
+\mmm bàna:n:maladie
+\mmm kìsɛ:n:grain
+\mm fúra:n:feuille
+\ps n
+\gf antibiotique
+\gvf antibiotique
+\dt 04/Mar/2019
 
 \lx bànakisɛma
 \mm bàna.kisɛ:n:microbe
@@ -9378,6 +9403,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf remède
 \smf (contenu dans une corne)
 \dt 11/Nov/2014
+
+\lx bíɲɛdimi
+\mm bíɲɛ:n:foie
+\mm dími:n:souffrance
+\ps n
+\gf hépatite
+\gvf hépatite
+\dt 03/Mar/2019
 
 \lx Biɲɛjankɔrɔ
 \ps n
@@ -15444,24 +15477,33 @@ enfants
 \xf probablement
 \dt 26/Sep/2006
 
+\lx cáaco
+\va cáco
+\va cájo
+\va cáaju
+\bw Soninké sáajò, sáajù, cáajù 'cheval roux à chanfrein blanc et à pattes blanches'
+\ps n
+\gf personne.à.peau.éclaircie
+\ms 1
+\gvf personne à peau éclaircie
+\smf (le plus souvent, femmes)
+\ms 2
+\gvf bétail bai en tête-blanc aux pattes
+\smf (ce sens est originel, mais peu connu)
+\dt 04/Mar/2019
+
 \lx caan
 \ps onomat
 \gf bourdonnement
 \gvf bourdonnement
 \dt 19/Jan/2015
 
-\lx cáco
-\va cáaco
-\ps n
-\gf personne.à.peau.éclaircie
-\gvf personne à peau éclaircie
-\dt 03/Mar/2019
-
 \lx cájo
+\va cáju
 \ps n
 \gf bétail.bai.en.tête-blanc.aux.pattes
 \gvf bétail bai en tête-blanc aux pattes
-\dt 16/Aug/2006
+\dt 03/Mar/2019
 
 \lx cákɛda
 \mm cá:n:travail
@@ -18000,6 +18042,9 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \lx cínda
 \mm cín:v:mordre
 \mm dá:n:bouche
+\va kínda
+\mm kín:v:mordre
+\mm dá:n:bouche
 \va cín.ni.da
 \mm cín:v:mordre
 \mm ni:mrph:NMLZ
@@ -18012,7 +18057,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \ms 2
 \gvf piqûre
 \smf (d'insecte, de scorpion...)
-\dt 26/Sep/2006
+\dt 03/Mar/2019
 
 \lx cínnifɛn
 \mm cín:v:mordre
@@ -19120,16 +19165,31 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 19/Aug/2006
 
 \lx dàbadabilen
-\mm bìlen:vq/adj:rouge
+\mm dàba:n:houe
+\mm dá:n:bouche
+\mm bìlen:adj:rouge
 \va dàbadablen
-\mm blèn:vq/adj:rouge
+\mm dàba:n:houe
+\mm dá:n:bouche
+\mm blèn:adj:rouge
+\va dàbadababilen
+\mm dàba:n:houe
+\mm dá:n:bouche
+\mm ba:mrph:AUGM
+\mm bìlen:adj:rouge
+\va dàbadababilennin
+\mm dàba:n:houe
+\mm dá:n:bouche
+\mm ba:mrph:AUGM
+\mm bìlen:adj:rouge
+\mm nin:mrph:DIM
 \ps n
 \gf plante.Euphorbia.hirta
 \gvf plante Euphorbia hirta
 \smf (plante herbacée, vivace ou annuelle)
 \sd euph
 \smf (---> 20/ 30 cm (efficace contre les amibes))
-\dt 26/Sep/2006
+\dt 04/Mar/2019
 
 \lx dàbadaninbilen
 \mm nin:mrph:DIM
@@ -24571,6 +24631,17 @@ génitales ...)
 \smf (d'un pays)
 \dt 26/Sep/2006
 
+\lx dáwoloɲimibana
+\mm dáwolo:n:lèvre
+\mmm dá:n:bouche
+\mmm wòlo:n:peau
+\mm ɲími:v:mâcher
+\mm bàna:n:maladie
+\ps n
+\gf bec.de.lièvre
+\gvf bec de lièvre
+\dt 04/Mar/2019
+
 \lx dáwɔɔrɔ
 \mm dá:n:jour
 \mm wɔ́ɔrɔ:num:six
@@ -24875,7 +24946,7 @@ génitales ...)
 \mm dégere:n:degré
 \mm súma:v:mesurer
 \mm nan:mrph:INSTR
-\va dégre.suma.nan
+\va dégresumanan
 \mm dégre:n:degré
 \mm súma:v:mesurer
 \mm nan:mrph:INSTR
@@ -24885,7 +24956,7 @@ génitales ...)
 \gf thermomètre
 \gvf thermomètre
 \smf (néo.)
-\dt 16/Aug/2006
+\dt 04/Mar/2019
 
 \lx dègun
 \ps v
@@ -26936,6 +27007,19 @@ chefs religieux et représentants de l'administration
 \xf il s'est vengé d'une vieille crasse que je lui ai faite
 \dt 16/Aug/2006
 
+\lx dímimadalan
+\mm dími:n:souffrance
+\mm mà.dá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
+\mm lan:mrph:INSTR
+\ps n
+\gf antidouleur
+\gvf antidouleur
+\gvf analgésique
+\gvf antalgique
+\dt 04/Mar/2019
+
 \lx dímiya
 \mm dími:n:souffrance
 \mm ya:mrph:ABSTR
@@ -27918,6 +28002,16 @@ chefs religieux et représentants de l'administration
 \gvf retraite
 \rem l 89
 \dt 11/Nov/2007
+
+\lx dògoyɔrɔlakuru
+\mm dògo:v:cacher
+\mm yɔ́rɔ:n:lieu
+\mm lá:pp:à
+\mm kùru:n:boule
+\ps n
+\gf verrues.génitales
+\gvf verrues génitales
+\dt 04/Mar/2019
 
 \lx dóla
 \va ndóla
@@ -29084,6 +29178,7 @@ chefs religieux et représentants de l'administration
 \dt 01/Apr/2015
 
 \lx dɔ́gɔ
+\va dɔ́gɔn
 \va dwá
 \va jwá
 \ph [jwa]
@@ -29100,7 +29195,7 @@ chefs religieux et représentants de l'administration
 \gvf pas assez
 \xv à ká dɔ́gɔ
 \xf c'est (trop) peu, c'est rare
-\dt 10/Sep/2018
+\dt 04/Mar/2019
 
 \lx dɔ́gɔ
 \va dwá
@@ -35119,6 +35214,25 @@ compagnie ...
 \smf (de toute nature)
 \dt 16/Aug/2006
 
+\lx fàrilajidɛsɛ
+\mm fàri:n:corps
+\mm lá:pp:à
+\mm jí:n:eau
+\mm dɛ́sɛ:n:manque
+\ps n
+\gf déshydratation
+\gvf déshydratation
+\dt 04/Mar/2019
+
+\lx fàrilajoli
+\mm fàri:n:corps
+\mm lá:pp:
+\mm jóli:n:plaie
+\ps n
+\gf ulcère
+\gvf ulcère
+\dt 03/Mar/2019
+
 \lx fàrilasi
 \mm fàri:n:corps
 \mm la:mrph:LOC
@@ -35254,6 +35368,16 @@ compagnie ...
 \gvf démangeaison
 \dt 26/Sep/2006
 
+\lx fàriŋɛɲɛfura
+\mm fàri.ŋɛɲɛ:n:démangeaison
+\mmm fàri:n:corps
+\mmm ŋɛ́ɲɛ:v:donner.des.démangeaisons
+\mm fúra:n:feuille
+\ps n
+\gf antihistaminique
+\gvf antihistaminique
+\dt 04/Mar/2019
+
 \lx fàrisa
 \mm fàri:n:corps
 \mm sà:n:mort
@@ -35281,6 +35405,19 @@ compagnie ...
 \gvf orphelin
 \sy fála
 \sy fálatɔ
+
+\lx fàritanabana
+\mm fàri:n:corps
+\mm tàna:n:mal
+\mm bàna:n:maladie
+\va fàritɛnɛbana
+\mm fàri:n:corps
+\mm tɛ̀nɛ:n:tabou
+\mm bàna:n:maladie
+\ps n
+\gf allergie
+\gvf allergie
+\dt 04/Mar/2019
 
 \lx fàriyɛrɛyɛrɛ
 \mm fàri:n:corps
@@ -39984,6 +40121,26 @@ sur le ventre -- í kɔ́nɔ kàn)
 \rem du + jos
 \dt 11/Nov/2007
 
+\lx fòroforo
+\ps n
+\gf cloque
+\ms 1
+\gvf boursouflure
+\gvf ampoule
+\gvf cloque
+\gvf phlyctène
+\ms 2
+\gvf eczéma
+\dt 03/Mar/2019
+
+\lx fòroforo
+\ps v
+\gf boursoufler
+\vl vi
+\gvf boursoufler
+\gvf cloquer
+\dt 03/Mar/2019
+
 \lx fòrokɛnɛ
 \mm fòro:n:champ
 \mm kɛ́nɛ:n:clarté
@@ -41515,6 +41672,15 @@ forestières, fruit : long follicule de 50 cm)
 \gvf se fâcher
 \dt 16/Aug/2006
 
+\lx fùntenisumanan
+\mm fùnteni:n:chaleur
+\mm súma:v:mesurer
+\mm nan:mrph:INSTR
+\ps n
+\gf thermomètre
+\gvf thermomètre
+\dt 04/Mar/2019
+
 \lx fúnti
 \ve (-f,-bk)
 \ps n
@@ -41593,9 +41759,13 @@ forestières, fruit : long follicule de 50 cm)
 \mm bàna:n:maladie
 \ps n
 \gf enflure
+\ms 1
 \gvf enflure
 \gvf abcès
-\dt 26/Sep/2006
+\ms 2
+\gvf érysipèle
+\gvf érésipèle
+\dt 03/Mar/2019
 
 \lx fúnufunu
 \ps v
@@ -42263,8 +42433,9 @@ forestières, fruit : long follicule de 50 cm)
 \ps n
 \gf mal.d'estomac
 \gvf mal d'estomac
+\gvf ulcère de l'estomac
 \sy sɔ̀nkuna
-\dt 26/Sep/2006
+\dt 04/Mar/2019
 
 \lx fùrufara
 \ps n
@@ -43396,6 +43567,14 @@ forestières, fruit : long follicule de 50 cm)
 \gf une.côte
 \gvf une côte
 \dt 16/Aug/2006
+
+\lx gálakanɔrɔ
+\mm gálaka:n:côte
+\mm nɔ́rɔ:v:coller
+\ps n
+\gf pneumonie
+\gvf pneumonie
+\dt 04/Mar/2019
 
 \lx gálakaɲimiden
 \mm gálaka:n:côte
@@ -46423,6 +46602,14 @@ douanier, milicien, etc.)
 \xf ils se précipitent sur toi en hurlant
 \dt 03/Apr/2016
 
+\lx góronin
+\mm góro:n:bouton
+\mm nin:mrph:DIM
+\ps n
+\gf verrue
+\gvf verrue
+\dt 03/Mar/2019
+
 \lx gòsi
 \va gɔ̀si
 \ps v
@@ -46714,6 +46901,14 @@ douanier, milicien, etc.)
 \xv à yé  né gɔ̀nkuru
 \xf il m'a pris la tête entre ses jambes
 \dt 16/Aug/2006
+
+\lx gɔ̀ntɛgɛ:n:cactus
+\mm gɔ̀n:n:babouin
+\mm tɛ́gɛ:n:paume
+\ps n
+\gf cactus
+\gvf cactus
+\dt 04/Mar/2019
 
 \lx gɔ̀nti
 \ve (f)
@@ -47535,10 +47730,13 @@ doigts par des fileuses du coton)
 \mm lájìgin:v:faire.descendre
 \mm lá:mrph:CAUS
 \mm jìgin:v:descendre
+\va hákilijigin
+\mm hákili:n:esprit
+\mm jìgin:v:descendre
 \ps n
 \gf rappel
 \gvf rappel
-\dt 05/Feb/2016
+\dt 04/Mar/2019
 
 \lx hákililatigɛ
 \mm hákili:n:esprit
@@ -54087,6 +54285,16 @@ et insecticides)
 \xf - pour combien en veux-tu ? - pour 100 fr
 \dt 20/Mar/2018
 
+\lx jólilabana
+\mm jòli:n:sang
+\mm lá:pp:à
+\mm bàna:n:maladie
+\ps n
+\gf sepsis
+\gvf sepsis
+\gvf septicémie
+\dt 03/Mar/2019
+
 \lx jòlima
 \mm jòli:n:sang
 \mm ma:mrph:COM
@@ -54236,6 +54444,16 @@ et insecticides)
 \xf accident vasculaire cérébral, AVC
 \dt 30/Jan/2017
 
+\lx jòlisirafunu
+\mm jòli.sira:n:vaisseau.sanguin
+\mmm jòli:n:sang
+\mmm síra:n:chemin
+\mm fúnu:n:gonflement
+\ps n
+\gf varices
+\gvf varices
+\dt 03/Mar/2019
+
 \lx jòlisu
 \mm jòli:n:sang
 \mm sù:n:cadavre
@@ -54248,6 +54466,15 @@ et insecticides)
 \ms 2
 \gvf sang coagulé
 \dt 30/Nov/2014
+
+\lx jòlitɔnbana
+\mm jòli:n:sang
+\mm tɔ̀n:v:bloquer
+\mm bàna:n:maladie
+\ps n
+\gf accident.vasculaire
+\gvf accident vasculaire
+\dt 04/Mar/2019
 
 \lx jólo
 \ps n
@@ -56560,9 +56787,13 @@ l'eau est prête
 \lx kàba
 \ps n
 \gf teigne
+\ms 1
 \gvf teigne
 \smf (maladies de peau différentes)
-\dt 26/Sep/2006
+\ms 2
+\gvf zona
+\smf (une dermatose virale, due au virus de l'herpes zoster, le même virus que la varicelle)
+\dt 03/Mar/2019
 
 \lx kàba
 \ps n
@@ -58344,12 +58575,12 @@ prolapsus utérin
 
 \lx kálojɛ
 \mm kálo:n:lune
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf pleine.lune
 \gvf pleine lune
 \gvf clair de lune
-\dt 26/Sep/2006
+\dt 04/Mar/2019
 
 \lx kálolaada
 \mm kálo:n:lune
@@ -59483,14 +59714,14 @@ prolapsus utérin
 \ms 1
 \gf voix.très.élevée
 \gvf soprano
+\gvf voix très élevée
 \ms 2
 \gvf parole.dure
-\lt (voix.dure)
 \ms 3
 \gvf langue.difficile
 \ms 4
 \gvf arrogant
-\dt 27/Jul/2018
+\dt 04/Mar/2019
 
 \lx kánhakɛ
 \mm kán:n:cou
@@ -61840,9 +62071,12 @@ probablement de chaux vive)
 \lx kèlebe
 \ps n
 \gf plaie
+\ms 1
 \gvf plaie
 \smf (longue à guérir)
-\dt 16/Aug/2006
+\ms 2
+\gvf gangrène
+\dt 03/Mar/2019
 
 \lx kèlebetɔ
 \mm kèlebe:n:plaie
@@ -63024,14 +63258,14 @@ probablement de chaux vive)
 \mm kɛ́nɛ:vq:en.bonne.santé
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va kɛ́nɛ.baga.tɔ
+\va kɛ́nɛbagatɔ
 \mm kɛ́nɛ:vq:en.bonne.santé
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj/n
 \gf personne.bien.portante
 \gvf personne bien portante
-\dt 27/Jan/2018
+\dt 04/Mar/2019
 
 \lx kɛ́nɛbɔnda
 \mm kɛ́nɛ:n:clarté
@@ -63290,6 +63524,12 @@ probablement de chaux vive)
 \gvf poison
 \sy dònnkɔnɔ
 \dt 16/Aug/2006
+
+\lx kɛnsu
+\ps n
+\gf rate
+\gvf rate
+\dt 04/Mar/2019
 
 \lx kɛ́nyɛ
 \va kɛ́ɲɛ
@@ -64407,15 +64647,16 @@ probablement de chaux vive)
 \dt 07/Jul/2017
 
 \lx kìrikirimasyɛn
-\mm syɛ́n:n:lutte
+\mm syɛ̀n:n:lutte
 \ph [shy]
-\ce perdre.connaissance
+\va kìrikirimasiɲɛ
+\mm sìɲɛ:n:lutte
 \ps n
 \gf épilepsie
 \gvf épilepsie
 \sy bìnnibana
 \sy bìlibana
-\dt 15/Aug/2006
+\dt 04/Mar/2019
 
 \lx kìrikirimasyɛntɔ
 \mm kìrikirimasyɛn:n:épilepsie
@@ -66444,6 +66685,17 @@ champs)
 \ms 2
 \gvf mise bout à bout des os fracturés
 
+\lx kólotugudadimi
+\mm kólo:n:os
+\mm tùgu.da:n:point.d'attache
+\mmm tùgu:v:rabouter
+\mmm dá:n:bouche
+\mm dími:n:souffrance
+\ps n
+\gf arthrite
+\gvf arthrite
+\dt 03/Mar/2019
+
 \lx kólotugula
 \mm kólo:n:os
 \mm tùgu:v:rabouter
@@ -68048,7 +68300,8 @@ harpon)
 \dt 11/Nov/2007
 
 \lx kɔ̀gɔ
-\va kwá
+\va kɔ̀kɔ
+\va kwà
 \ps n
 \gf sel
 \gvf sel
@@ -68056,7 +68309,7 @@ harpon)
 \xf il y a trop de sel
 \xv kɔ̀gɔ kɔ́rɔdon
 \xf rallonger la sauce (au propre et au figuré)
-\dt 16/Aug/2006
+\dt 04/Mar/2019
 
 \lx kɔ̀gɔ
 \ps n
@@ -68239,6 +68492,14 @@ harpon)
 \gf sans.hâte
 \gvf sans hâte
 \dt 19/Jan/2015
+
+\lx kɔ̀gɔwasa
+\mm kɔ̀gɔ:n:sel
+\mm wàsa:n:satisfaction
+\ps v
+\gf sel.iodé
+\gvf sel iodé
+\dt 04/Mar/2019
 
 \lx kɔ́ja
 \mm kɔ́:n:dos
@@ -69132,15 +69393,21 @@ harpon)
 \va kwɔ̀n
 \ph [pfs :kw]
 \ps v
-\vl vi
 \gf devancer
+\ms 1
+\vl vi
 \gvf devancer
 \gvf précéder
 \xv dɔ́ bɛ́ kɔ̀n ń ɲɛ́
 \xf quelqu'un me devance
 \xv án nà kɔ̀n  kà dúmuni kɛ́ bì
 \xf aujourd'hui nous dînerons avant l'heure
-\dt 07/Feb/2017
+\ms 2
+\vl vi
+\gvf conjurer
+\gvf prévenir
+\smf (un danger - mà)
+\dt 03/Mar/2019
 
 \lx kɔ́n
 \ps n
@@ -69759,6 +70026,15 @@ ou une proposition)
 \gvf gourmandise
 \dt 24/Nov/2014
 
+\lx kɔ́nɔfiyɛlan:n:purgatif
+\mm kɔ́nɔ:n:ventre
+\mm fíyɛ:v:souffler
+\mm lan:mrph:INSTR
+\ps n
+\gf purgatif
+\gvf purgatif
+\dt 04/Mar/2019
+
 \lx kɔ́nɔfɔɲɔgɔn
 \mm kɔ́nɔ:n:ventre
 \mm fɔ́:v:dire
@@ -70123,6 +70399,17 @@ ou une proposition)
 \fq (rare)
 \dt 14/Apr/2018
 
+\lx kɔ́nɔmagayalan
+\mm kɔ́nɔ:n:ventre
+\mm màga.ya:v:rendre.mou
+\mmm màga:vq:mou
+\mmm ya:mrph:DEQU
+\mm lan:mrph:INSTR
+\ps n
+\gf laxatif
+\gvf laxatif
+\dt 04/Mar/2019
+
 \lx kɔ́nɔmaya
 \mm kɔ́nɔ:n:ventre
 \mm ma:mrph:COM
@@ -70152,6 +70439,20 @@ ou une proposition)
 \xv kàbi  à kɔ́nɔmayara, à ní  bàna dòn
 \xf depuis qu'elle est enceinte, elle est toujours malade
 \dt 16/Aug/2006
+
+\lx kɔ́nɔmayafari
+\mm kɔ́nɔma.ya
+\mmm kɔ́nɔ.ma.ya:n:grossesse
+\mmmm kɔ́nɔ:n:ventre
+\mmmm ma:mrph:COM
+\mmm ya:mrph:ABSTR
+\mm fàri:n:corps
+\ps n
+\gf mélasma
+\gvf mélasma
+\gvf masque de grossesse
+\gvf chloasme
+\dt 03/Mar/2019
 
 \lx kɔ́nɔmiiri
 \mm kɔ́nɔ:n:ventre
@@ -70782,10 +71083,13 @@ ou une proposition)
 \mm nùgu:n:intestin
 \mm tìgɛ:v:couper
 \ps n
-\gf tranchée
+\gf crampe.d'estomac
+\ms 1
+\gvf crampe d'estomac
+\ms 2
 \gvf tranchée
 \sy kɔ́nɔtigɛ
-\dt 16/Aug/2006
+\dt 04/Mar/2019
 
 \lx kɔ̀nɔɲama
 \mm kɔ̀nɔ:n:oiseau
@@ -73708,6 +74012,16 @@ le pouvoir administratif suprême)
 \sy kúngoforokofaraka
 \dt 19/Aug/2006
 
+\lx kùmukɛlɛlan
+\mm kùmu:n:substance.aigre
+\mm kɛ̀lɛ:v:combattre
+\mm lan:mrph:INSTR
+\ps n
+\gf antacide
+\gvf antacide
+\smf (substance pour neutraliser l'acide gastrique, ex. Maalox)
+\dt 04/Mar/2019
+
 \lx kùmuman
 \mm kùmu:vq:aigre
 \mm man:mrph:ADJ
@@ -75172,13 +75486,14 @@ l'intérieur une ou deux graines)
 \lx kùnkolo
 \mm kùn:n:tête
 \mm kólo:n:os
+\fa kùngolo
 \ps n
 \gf crâne
 \gvf crâne
 \gvf tête
 \xv à kùnkolo wúlila
 \xf il est devenu fou
-\dt 26/Sep/2006
+\dt 03/Mar/2019
 
 \lx kùnkólo
 \mm kùn:n:tête
@@ -76579,6 +76894,26 @@ l'intérieur une ou deux graines)
 \gf apathie
 \gvf apathie
 
+\lx kùnsɛmɛ
+\mm kùn:n:tête
+\mm sɛ́mɛ:n:moelle
+\ps n
+\gf cerveau
+\gvf cerveau
+\gvf cervelle
+\dt 04/Mar/2019
+
+\lx kùnsɛmɛnabana
+\mm kùn.sɛmɛ:n:cerveau
+\mmm kùn:n:tête
+\mmm sɛ́mɛ:n:moelle
+\mm ná:pp:à
+\mm bàna:n:maladie
+\ps n
+\gf méningite
+\gvf méningite
+\dt 04/Mar/2019
+
 \lx kùnsigi
 \mm kùn:n:tête
 \va kùnsi
@@ -77330,10 +77665,13 @@ Sahel)
 \lx kùrukuru
 \ps n
 \gf grumeau
+\ms 1
 \gvf grumeau
 \gvf pustule
 \gvf petit bouton
-\dt 08/Nov/2012
+\ms 2
+\gvf verrue
+\dt 04/Mar/2019
 
 \lx kùru-kùru
 \mm kùru:v:plier
@@ -87774,19 +88112,19 @@ des engagements
 \gvf démonter
 \dt 14/Apr/2018
 
-\lx mawu
-\ps n
-\gf stupeur
-\gvf stupeur
-\xv kà mawu kɛ́
-\xf être frappé de stupeur
-\dt 03/Mar/2019
-
-\lx mawu
+\lx máwu
 \ps v
 \gf stupéfier
 \gvf stupéfier
 \smf (surtout sous forme de participe résultatif)
+\dt 03/Mar/2019
+
+\lx máwu
+\ps n
+\gf stupeur
+\gvf stupeur
+\xv kà máwu kɛ́
+\xf être frappé de stupeur
 \dt 03/Mar/2019
 
 \lx màwuludu
@@ -96874,6 +97212,14 @@ sur soi, on les connaît
 \gvf regretter
 \dt 26/Sep/2006
 
+\lx nímisɛn
+\mm ní:n:âme
+\mm mìsɛn:adj:petit
+\ps n
+\gf bactérie
+\gvf bactérie
+\dt 04/Mar/2019
+
 \lx nímisiwasa
 \mm nímisi:n:regret
 \mm wàsa:v:satisfaire
@@ -96993,6 +97339,15 @@ sur soi, on les connaît
 \gvf en vie
 \gvf animé
 \dt 26/Sep/2006
+
+\lx nìnana
+\va nìina
+\va nèena
+\ps n
+\gf rate
+\gvf rate
+\gvf pancréas
+\dt 04/Mar/2019
 
 \lx nínango
 \mm ní:n:âme
@@ -98504,19 +98859,20 @@ charançon)
 \lx nkɔ̀lɔbɛ
 \va kɔ̀lɔbɛ
 \va kɛ̀lɛbɛ
+\va ŋɔ̀lɔbɛ
 \va kwɛ̀lɛbɛ
 \va nkwɔ̀lɔbɛ
 \ph [nkw]
 \ps n
-\gf quinquéliba
-\gvf quinquéliba
+\gf kinkeliba
 \gvf kinkeliba
+\gvf quinquéliba
 \lat Combretum.micranthum
 \sd comb
 \smf (buisson, arbuste ou même liane)
 \sy kɛ̀lɛbɛnilen
 \sy kɛ̀lɛbɛbilen
-\dt 05/Apr/2016
+\dt 04/Mar/2019
 
 \lx nkɔ́n
 \va nkwɔ́n
@@ -98990,6 +99346,16 @@ craie ...)
 \smf (faire les démarches de mariage)
 \dt 14/Apr/2018
 
+\lx nɔ̀finman
+\mm nɔ̀:n:trace
+\mm fìn.man:adj:noir
+\mmm fìn:vq:noir
+\mmm man:mrph:ADJ
+\ps n
+\gf acné
+\gvf acné
+\dt 03/Mar/2019
+
 \lx nɔ̀gɛ́n
 \mm nɔ̀:n:trace
 \mm gɛ́n:v:chasser
@@ -99098,6 +99464,15 @@ craie ...)
 \xv í kàna mɔ̀gɔ sí nɔ́gɔ ní  nkàlon yé !
 \xf ne calomnie personne !
 \dt 26/Sep/2006
+
+\lx nɔ́gɔbana
+\mm nɔ́gɔ:n:saleté
+\mm bàna:n:maladie
+\ps n
+\gf typhoïde
+\gvf typhoïde
+\sy tifoyidi
+\dt 03/Mar/2019
 
 \lx nɔ́gɔdòn
 \mm nɔ́gɔ:n:saleté
@@ -99445,6 +99820,20 @@ craie ...)
 \xf s'il est souillé
 \dt 16/Aug/2006
 
+\lx nɔ̀jɛmanbɔ
+\mm nɔ̀:n:trace
+\mm jɛ́.man:adj:blanc
+\mmm jɛ́:vq:blanc
+\mmm man:mrph:ADJ
+\mm bɔ́:n:sortie
+\ps n
+\gf vitiligo
+\gvf vitiligo
+\gvf leucodermie
+\gvf achromie
+\smf (taches blanches sur la peau)
+\dt 03/Mar/2019
+
 \lx nɔ̀kàn
 \mm nɔ̀:n:trace
 \mm kàn:pp:sur
@@ -99715,6 +100104,30 @@ craie ...)
 \xf lait frais
 \dt 16/Aug/2006
 
+\lx nɔ́nɔkɛnɛbana
+\mm nɔ́nɔ:n:lait
+\mm kɛ́nɛ:adj:sain
+\mm bàna:n:maladie
+\ps n
+\gf brucellose
+\gvf brucellose
+\gvf fièvre ondulante
+\gvf fièvre de Malte
+\dt 04/Mar/2019
+
+\lx nɔ́nɔkɛnɛfarigan
+\mm nɔ́nɔ:n:lait
+\mm kɛ́nɛ:adj:sain
+\mm fàri.gan:n:fièvre
+\mmm fàri:n:corps
+\mmm gàn:vq:chaud
+\ps n
+\gf brucellose
+\gvf brucellose
+\gvf fièvre ondulante
+\gvf fièvre de Malte
+\dt 04/Mar/2019
+
 \lx nɔ́nɔma
 \mm nɔ́nɔ:n:lait
 \mm ma:mrph:COM
@@ -99839,9 +100252,8 @@ craie ...)
 \ps n
 \gf glane
 \gvf glane
-\gvf arachides
-\smf (laissées dans un champ)
-\dt 26/Sep/2006
+\smf (partie de récolte: riz, arachides, mil, manioc... laissée dans le champ)
+\dt 04/Mar/2019
 
 \lx nɔ́ɔrɔ
 \ps n
@@ -102659,7 +103071,9 @@ craie ...)
 \mm jè:n:courge
 \ps n
 \lat Cucumis melo
-\dt 18/Aug/2017
+\gf melon
+\gvf melon
+\dt 03/Mar/2019
 
 \lx ntùgun
 \va ntùgu
@@ -105040,6 +105454,18 @@ banane, etc.)
 \smf (par amitié, affection ...)
 \dt 26/Sep/2006
 
+\lx ɲɛ́dakololabana
+\mm ɲɛ́.da:n:visage
+\mmm ɲɛ́:n:oeil
+\mmm dá:n:bouche
+\mm kólo:n:os
+\mm lá:pp:à
+\mm bàna:n:maladie
+\ps n
+\gf sinusite
+\gvf sinusite
+\dt 03/Mar/2019
+
 \lx ɲɛ́den
 \mm ɲɛ́:n:oeil
 \mm dén:n:enfant
@@ -105743,6 +106169,16 @@ banane, etc.)
 \gvf maladie du bétail
 \dt 26/Sep/2006
 
+\lx ɲɛ́jiforoko
+\mm ɲɛ́.ji:n:larme
+\mmm ɲɛ́:n:oeil
+\mmm jí:n:eau
+\mm fóroko:n:sac.en.peau
+\ps n
+\gf sac.lacrymal
+\gvf sac lacrymal
+\dt 04/Mar/2019
+
 \lx ɲɛ́jìra
 \mm ɲɛ́:n:oeil
 \mm jìra:v:montrer
@@ -105870,6 +106306,15 @@ banane, etc.)
 \gf au.dam.de
 \gvf au dam de
 \dt 23/Apr/2018
+
+\lx ɲɛ́kanbugun
+\mm ɲɛ́:n:oeil
+\mm kàn:pp:sur
+\mm búgun:n:brouillard
+\ps n
+\gf cataracte
+\gvf cataracte
+\dt 03/Mar/2019
 
 \lx ɲɛ́kelen
 \mm ɲɛ́:n:oeil
@@ -107256,6 +107701,18 @@ banane, etc.)
 \gvf malhabile
 \dt 28/Mar/2015
 
+\lx ɲɛ́nantumu
+\mm ɲɛ́:n:oeil
+\mm ná:pp:à
+\mm ntùmu:n:chenille
+\ps n
+\gf loase
+\gvf loase
+\gvf loasis oculaire
+\gvf filariose à Loa Loa
+\smf (infection sous-cutanée par la forme adulte d'un ver nématode)
+\dt 03/Mar/2019
+
 \lx ɲɛ́naɲini
 \mm ɲɛ́.na:n:regard
 \mm ɲɛ́:n:oeil
@@ -107336,6 +107793,15 @@ banane, etc.)
 \xv í ɲɛ́nata  mùru nìnnu ná, mín ká dí  í yé
 \xf choisis parmi ces couteaux celui que tu préfères
 \dt 12/Aug/2006
+
+\lx ɲɛ́natansiyɔn
+\mm ɲɛ́:n:oeil
+\mm ná:pp:à
+\mm tánsiyɔn:n:tension
+\ps n
+\gf glaucome
+\gvf glaucome
+\dt 04/Mar/2019
 
 \lx ɲɛ́natigɛ
 \mm ɲɛ́:n:oeil
@@ -107968,6 +108434,17 @@ banane, etc.)
 \smf (quand on a fixé longtemps les yeux sur qqch)
 \dt 05/Apr/2016
 
+\lx ɲɛ́yeelendonda
+\mm ɲɛ́:n:oeil
+\mm yéelen:n:lumière
+\mm dòn.da:n:entrée
+\mmm dòn:v:entrer
+\mmm dá:n:bouche
+\ps n
+\gf cornée
+\gvf cornée
+\dt 03/Mar/2019
+
 \lx ɲɛ́yɛ̀lɛ
 \mm ɲɛ́:n:oeil
 \mm yɛ̀lɛ:v:ouvrir
@@ -108039,19 +108516,6 @@ banane, etc.)
 \xv tùma dɔ́ lá, í ká ɲì, tùma dɔ́ lá, í ká júgu
 \xf des fois tu es gentil, des fois tu es méchant
 \dt 26/Aug/2017
-
-\lx ɲí
-\va ɲín
-\ps n
-\gf dent
-\gvf dent
-\xv à ɲí bɔ́ra
-\xf il a fait ses dents, une dent est sortie (pour un bébé)
-\xv à ɲí bɔ̀ra
-\xf on lui a arraché une dent
-\xv ń'í bɛ́  fúru kɛ́, ɲí ní  nɛ̀ bɛ́ kɛ̀lɛ
-\xf dans le mariage, la langue et les dents se disputent
-\dt 16/Aug/2006
 
 \lx ɲígin
 \ps v
@@ -108184,6 +108648,19 @@ banane, etc.)
 \gvf allié
 \gvf partisan
 \dt 12/Dec/2014
+
+\lx ɲín
+\va ɲí
+\ps n
+\gf dent
+\gvf dent
+\xv à ɲí bɔ́ra
+\xf il a fait ses dents, une dent est sortie (pour un bébé)
+\xv à ɲí bɔ̀ra
+\xf on lui a arraché une dent
+\xv ń'í bɛ́  fúru kɛ́, ɲí ní  nɛ̀ bɛ́ kɛ̀lɛ
+\xf dans le mariage, la langue et les dents se disputent
+\dt 04/Mar/2019
 
 \lx ɲìna
 \va ɲìnan
@@ -108411,6 +108888,28 @@ postposition, n'est pas accepté par tous les locuteurs)
 \smf (qui n'a pas encore ses dents, ne les a plus ...)
 \dt 16/Aug/2006
 
+\lx ɲíntàra
+\mm ɲín:n:dent
+\mm tàra:n:forteresse
+\fa ɲí.tàra
+\mm ɲí:n:dent
+\mm tàra:n:forteresse
+\ps n
+\gf gencive
+\gvf gencive
+\dt 04/Mar/2019
+
+\lx ɲíntaradimi
+\mm ɲín.tàra:n:gencive
+\mmm ɲín:n:dent
+\mmm tàra:n:forteresse
+\mm dími:n:souffrance
+\ps n
+\gf parodontose
+\gvf parodontose
+\gvf pyorrhée
+\dt 04/Mar/2019
+
 \lx ɲìntin
 \ps n
 \gf jarre.trouée
@@ -108460,16 +108959,6 @@ postposition, n'est pas accepté par tous les locuteurs)
 \gvf noircissement des gencives
 \smf (le sang se suce et se crache, il ne s'avale pas)
 \dt 16/Aug/2006
-
-\lx ɲítàra
-\mm ɲí:n:dent
-\mm tàra:n:forteresse
-\va ɲín.tàra
-\mm ɲín:n:dent
-\mm tàra:n:forteresse
-\ps n
-\gf gencive
-\gvf gencive
 
 \lx ɲìto
 \mm ɲì:n:part
@@ -112864,6 +113353,13 @@ épuisés
 \rem jos, bk
 \dt 11/Nov/2007
 
+\lx sabila
+\ps n
+\gf aloès.des.Barbades
+\lat Aloe Vera
+\gvf aloès des Barbades
+\dt 04/Mar/2019
+
 \lx sàbɔgɔ
 \mm bɔ̀gɔ:n:terre fàsa
 \ps n
@@ -113957,10 +114453,14 @@ langue, et finit par empêcher de marcher)
 \mm sèn:n:jambe
 \ps n
 \gf contrefort
+\ms 1
 \gvf contrefort
 \gvf poteau de renforcement
 \gvf colonne
-\dt 26/Sep/2006
+\ms 2
+\gvf éléphantiasis
+\gvf filariose lymphatique
+\dt 03/Mar/2019
 
 \lx sàmasèn
 \mm sàma:n:éléphant
@@ -114503,13 +115003,12 @@ langue, et finit par empêcher de marcher)
 \dt 16/Aug/2006
 
 \lx sàngaran
-\va sàngaran
 \ve (-f)
 \ps n
 \gf ver
 \gvf ver
 \smf (dans les kolas)
-\dt 27/Nov/2014
+\dt 04/Mar/2019
 
 \lx sángatigi
 \mm sánga:n:temps
@@ -114744,6 +115243,12 @@ langue, et finit par empêcher de marcher)
 \gf maison.à.étages
 \gvf maison à étages
 \dt 11/Apr/2018
+
+\lx sankaran
+\ps n
+\gf virus
+\gvf virus
+\dt 04/Mar/2019
 
 \lx sánke
 \va sánge
@@ -117091,6 +117596,14 @@ pas réussi
 \gvf aux pieds tordus
 \dt 16/Aug/2006
 
+\lx sene
+\ps n
+\gf cascara
+\lat Rhamnus purshiana
+\gvf cascara
+\smf (une plante)
+\dt 04/Mar/2019
+
 \lx sènfá
 \mm sèn:n:jambe
 \mm fá:v:remplir
@@ -117180,6 +117693,14 @@ pas réussi
 \gvf mauvaise coïncidence
 \gvf malchance
 \dt 26/Sep/2006
+
+\lx sèngɔlɔn
+\mm sèn:n:jambe
+\mm gɔ̀lɔn:v:se.tordre
+\ps n
+\gf pied.d'athlète
+\gvf pied d'athlète
+\dt 04/Mar/2019
 
 \lx sènkala
 \mm sèn:n:jambe
@@ -117460,6 +117981,16 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf nu-pieds
 \gvf déchaussé
 \dt 12/Jun/2018
+
+\lx sènnakuru
+\mm sèn:n:jambe
+\mm ná:pp:à
+\mm kùru:n:boule
+\ps n
+\gf durillon
+\gvf durillon
+\gvf cors à pied
+\dt 03/Mar/2019
 
 \lx sènnamɔgɔ
 \mm sèn:n:jambe
@@ -120998,6 +121529,17 @@ trompe)
 \smf (bout du sein de la mère, tétine de la vache ...)
 \dt 12/Aug/2006
 
+\lx sínkɔrɔkɛrɛdimi
+\mm sín:n:sein
+\mm kɔ́rɔ:pp:sous
+\mm kɛ̀rɛ.dimi:n:point.de.côté
+\mmm kɛ̀rɛ:n:côté
+\mmm dími:n:souffrance
+\ps n
+\gf pneumonie
+\gvf pneumonie
+\dt 03/Mar/2019
+
 \lx sínkɔrɔntalen
 \mm sín:n:sein
 \mm kɔ́rɔ:pp:sous
@@ -124015,6 +124557,15 @@ euphémique)
 \rem l89, b
 \dt 11/Nov/2007
 
+\lx sɔ̀ncunbana
+\mm sɔ̀n:n:coeur
+\mm cún:v:se.laisser.tomber
+\mm bàna:n:maladie
+\ps n
+\gf arrêt.cardiaque
+\gvf arrêt cardiaque
+\dt 04/Mar/2019
+
 \lx sɔ́nfɛn
 \mm sɔ́n:v:gratifier
 \mm fɛ́n:n:chose
@@ -124781,6 +125332,17 @@ s'amène ...)
 \sy sùdon
 \dt 11/Nov/2007
 
+\lx súfɛfarigan
+\mm sú:n:nuit
+\mm fɛ̀:pp:par
+\mm fàri.gan:n:fièvre
+\mmm fàri:n:corps
+\mmm gàn:vq:chaud
+\ps n
+\gf herpès
+\gvf herpès
+\dt 03/Mar/2019
+
 \lx súfɛla
 \mm sú:n:nuit
 \mm fɛ̀:pp:par
@@ -124951,17 +125513,17 @@ s'amène ...)
 
 \lx súgunɛbilen
 \mm súgunɛ:n:urine
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \va súgunɛ.blen
 \mm súgunɛ:n:urine
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf bilharziose
 \gvf bilharziose
 \gvf hématurie
 \sy súgunɛbilenkɛ
-\dt 26/Sep/2006
+\dt 03/Mar/2019
 
 \lx súgunɛkɛbana
 \mm súgunɛ:n:urine
@@ -125457,6 +126019,17 @@ s'amène ...)
 \xv ò làada bɛ́ kà súmaya
 \xf ces coutumes sont en train de se perdre (elles ralentissent)
 \dt 08/Feb/2017
+
+\lx súmayabana
+\mm súma.ya:n:froid
+\mmm súma:vq:lent
+\mmm ya:mrph:DEQU
+\mm bàna:n:maladie
+\ps n
+\gf paludisme
+\gvf paludisme
+\gvf malaria
+\dt 03/Mar/2019
 
 \lx súmesunsun
 \mm sùnsun:n:kaki.de.brousse
@@ -128628,6 +129201,14 @@ suivi de ni)
 \xf ça va(il n'y a pas de mal)
 \dt 26/Sep/2006
 
+\lx tànabana
+\mm tàna:n:mal
+\mm bàna:n:maladie
+\ps n
+\gf allergie
+\gvf allergie
+\dt 03/Mar/2019
+
 \lx tánakitanaki
 \ps adv
 \gf en.grandes.gorgées.sonores
@@ -130555,6 +131136,13 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf être.chancelant
 \gvf être chancelant
 
+\lx tifoyidi
+\ps n
+\gf typhoïde
+\gvf typhoïde
+\sy nɔ́gɔbana
+\dt 03/Mar/2019
+
 \lx tìga
 \va tìgɛ
 \ve (bk,bn,f)
@@ -131078,6 +131666,22 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xv ntìiri cì
 \xf tracer
 \dt 26/Sep/2006
+
+\lx tìiri
+\va ntìiri
+\va tìri
+\va ntìri
+\ps v
+\vl vt
+\ms 1
+\gf tracer
+\gvf tracer
+\ms 2
+\gvf resemer
+\gvf remplacer les manquants
+\smf (les pieds du mil, haricot, maïs, etc. qui n'ont pas poussé)
+\dt 04/Mar/2019
+\va
 
 \lx tìiricilan
 \mm tìiri:n:trait
@@ -132312,21 +132916,6 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf confirmation
 \gvf confirmation
 \dt 06/Feb/2017
-
-\lx tìri
-\va ntìiri
-\va tìiri
-\va ntìri
-\ps v
-\vl vt
-\ms 1
-\gf tracer
-\gvf tracer
-\ms 2
-\gvf resemer
-\ms 3
-\gvf remplacer les manquants
-\dt 26/Sep/2006
 
 \lx tíri
 \ps n
@@ -134850,6 +135439,15 @@ est due aux paysans (kib 3/05 p.9)
 \gvf surdité
 \dt 12/Aug/2006
 
+\lx túlojalandimi
+\mm túlo:n:oreille
+\mm jàlan:adj:sec
+\mm dími:n:souffrance
+\ps n
+\gf otite
+\gvf otite
+\dt 04/Mar/2019
+
 \lx túlokɔnɔna
 \mm túlo:n:oreille
 \mm kɔ́nɔ:n:ventre
@@ -135347,6 +135945,15 @@ arrière grand-père est mort
 \gf jouet
 \gvf jouet
 \dt 12/Aug/2006
+
+\lx túlonɔgɔ
+\mm túlo:n:oreille
+\mm nɔ́gɔ:n:saleté
+\ps n
+\gf cérumen
+\gvf cérumen
+\gvf cire de l'oreille
+\dt 03/Mar/2019
 
 \lx túlontɔgɔ
 \mm túlon:n:jeu
@@ -142786,17 +143393,3 @@ généreuses, avec bourrelets)
 \gf juin
 \gvf juin
 \dt 03/Apr/2016
-
-\lx да
-\ps n
-\ms 1
-\gf voix.très.élevée
-\gvf voix très élevée
-\gvf soprano
-\ms 2
-\gvf parole dure
-\ms 3
-\gvf langue difficile
-\ms 4
-\gvf arrogant
-\dt 27/Jul/2018
