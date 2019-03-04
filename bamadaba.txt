@@ -20471,6 +20471,14 @@ Burkina Faso, sa langue)
 \gvf manger complètement
 \dt 26/Sep/2006
 
+\lx dágalaka
+\mm dá:n:bouche
+\mm gálaka:n:côte
+\ps n
+\gf mâchoire
+\gvf mâchoire
+\dt 04/Mar/2019
+
 \lx dàgan
 \va dànga
 \ps n
@@ -35232,6 +35240,18 @@ compagnie ...
 \gf ulcère
 \gvf ulcère
 \dt 03/Mar/2019
+
+\lx fàrilakisɛkisɛnin
+\mm fàri:n:corps
+\mm la:mrph:LOC
+\mm kìsɛkisɛ:v:être.couvert.de.petits.boutons
+\mmm kìsɛ:v:grener
+\mmm kìsɛ:v:grener
+\mm nin:mrph:DIM
+\ps v
+\gf impétigo
+\gvf impétigo
+\dt 04/Mar/2019
 
 \lx fàrilasi
 \mm fàri:n:corps
@@ -54211,6 +54231,14 @@ et insecticides)
 \gvf plaie ouverte
 \dt 26/Sep/2006
 
+\lx jòlidɛsɛ:n:anémie
+\mm jòli:n:sang
+\mm dɛ́sɛ:n:manque
+\ps n
+\gf anémie
+\gvf anémie
+\dt 04/Mar/2019
+
 \lx jòlidɔgɔyabana
 \mm jòli:n:sang
 \mm dɔ́gɔ:vq:petit
@@ -70026,7 +70054,7 @@ ou une proposition)
 \gvf gourmandise
 \dt 24/Nov/2014
 
-\lx kɔ́nɔfiyɛlan:n:purgatif
+\lx kɔ́nɔfiyɛlan
 \mm kɔ́nɔ:n:ventre
 \mm fíyɛ:v:souffler
 \mm lan:mrph:INSTR
@@ -90432,6 +90460,20 @@ des engagements
 \rem ex 16,, 35
 \dt 11/Nov/2007
 
+\lx mɔ́gɔmɔgɔ
+\ps v
+\gf cligner
+\vl vt
+\gvf cligner
+\dt 04/Mar/2019
+
+\lx mɔ́gɔmɔgɔ
+\ps adv
+\gf qui.cligne
+\gvf qui cligne
+\smf (pour un oeil)
+\dt 04/Mar/2019
+
 \lx mɔ̀gɔnin
 \mm mɔ̀gɔ:n:homme
 \mm nin:mrph:DIM
@@ -107585,24 +107627,20 @@ banane, etc.)
 \mm ɲɛ́:n:oeil
 \mm nama:mrph:STAT
 \mm ya:mrph:ABSTR
-\va ɲɛ́.nɛma
-\mm ɲɛ́:n:oeil
 \ps n
 \ms 1
 \gf vie
 \gvf vie
 \ms 2
 \gvf vivacité
-\gvf animatio
-\dt 17/Mar/2018
+\gvf animation
+\dt 04/Mar/2019
 
 \lx ɲɛ́namaya
 \mm ɲɛ́.nama:adj:vivant
 \mm ɲɛ́:n:oeil
 \mm nama:mrph:STAT
 \mm ya:mrph:ABSTR
-\va ɲɛ́.nɛma
-\mm ɲɛ́:n:oeil
 \ps v
 \vl vt
 \gf ranimer
@@ -107610,7 +107648,7 @@ banane, etc.)
 \gvf rendre comme neuf
 \xv à yé  à ká nɛ̀gɛso ɲɛ́namaya
 \xf il a remis son vélo à neuf
-\dt 25/Jun/2013
+\dt 04/Mar/2019
 
 \lx ɲɛ́namini
 \mm ɲɛ́.na:n:regard
