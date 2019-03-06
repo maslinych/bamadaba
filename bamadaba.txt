@@ -1681,6 +1681,21 @@ les deux flancs'
 traîne sur le fond des eaux)
 \dt 03/Apr/2016
 
+\lx bàbi
+\va bàabi
+\va bàabinin
+\bw Angl. baby
+\ps n
+\gf voiture.2CV.Citroën
+\ms 1
+\gvf automobile de type 2 CV Citroën
+\ms 2
+\gvf sandales
+\smf (chaussures d'une semelle avec une courroie qui passe entre les orteils; fabriquées dans une matière synthétique qui fait éponge; le nom vient de la publicité qui les comparait avec la voiture 2CV Citroën)
+\ms 3
+\gvf crème glacée
+\dt 06/Mar/2019
+
 \lx bábili
 \mm bá:n:fleuve
 \mm bíli:v:recouvrir
@@ -2037,6 +2052,15 @@ mauvais
 \xv à jà bàgabagalen séra  né mà
 \xf il est venu me trouver tout affolé
 \dt 26/Sep/2006
+
+\lx bágabaga
+\ps n
+\gf substance.gluante
+\gvf substance gluante
+\smf (ce qui s'éc0ule et qui est visqueux)
+\xv dáji bágabaga
+\xf crachats gluants
+\dt 06/Mar/2019
 
 \lx bàgafura
 \mm bàga:n:poison
@@ -4215,9 +4239,11 @@ Fleurs spectaculaires)
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf toilettes
+\ms 1
 \gvf toilettes
-\rem du
-\dt 01/Mar/2019
+\ms 2
+\gvf anus
+\dt 05/Mar/2019
 
 \lx bànaku
 \va bànanku
@@ -35038,6 +35064,15 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \gvf pâte d’haricots
 \dt 16/Aug/2006
 
+\lx fàribilenni
+\mm fàri:n:corps
+\mm bìlen:v:rougir
+\mm ni:mrph:NMLZ
+\ps n
+\gf urticaire
+\gvf urticaire
+\dt 06/Mar/2019
+
 \lx fàrida
 \bw ar: farida = pratique religieuse facultative
 \ps n
@@ -44797,13 +44832,20 @@ forestières, fruit : long follicule de 50 cm)
 
 \lx gén
 \va gwén
-\ph [gw]
 \ps v
 \vl vt
-\gf lancer
-\gvf lancer
+\gf planter
+\gvf planter
+\gvf ficher
 \smf (un couteau ...)
-\dt 26/Sep/2006
+\dt 06/Mar/2019
+
+\lx gén
+\va gwén
+\ps n
+\gf marteau
+\gvf marteau
+\dt 06/Mar/2019
 
 \lx gènde
 \va gène
@@ -47933,6 +47975,14 @@ doigts par des fileuses du coton)
 \gvf découragement
 \gvf trouble de l'esprit
 \dt 26/Sep/2006
+
+\lx hákiliwuli
+\mm hákili:n:esprit
+\mm wúli:v:se.lever
+\ps n
+\gf confusion.mentale
+\gvf confusion mentale
+\dt 05/Mar/2019
 
 \lx hákiliya
 \mm hákili:n:esprit
@@ -55197,6 +55247,8 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 
 \lx jɔ̀ɔsi
 \va jɔ̀si
+\va jòsi
+\va jòosi
 \ps v
 \vl vt
 \ms 1
@@ -55205,7 +55257,7 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \ms 2
 \gvf brosser
 \smf (eau, poussière, sang ...)
-\dt 26/Sep/2006
+\dt 05/Mar/2019
 
 \lx jɔ̀ɔsilan
 \mm jɔ̀ɔsi:v:essuyer
@@ -62104,7 +62156,8 @@ probablement de chaux vive)
 \smf (longue à guérir)
 \ms 2
 \gvf gangrène
-\dt 03/Mar/2019
+\syn sògotoli
+\dt 06/Mar/2019
 
 \lx kèlebetɔ
 \mm kèlebe:n:plaie
@@ -64393,6 +64446,14 @@ probablement de chaux vive)
 \gvf kilogramme
 \gvf kilo
 \dt 22/May/2016
+
+\lx kílogaramu
+\mm kílo:n:kilogramme
+\mm gáramu:n:gramme
+\ps n
+\gf kilogramme
+\gvf kilogramme
+\dt 06/Mar/2019
 
 \lx kílomɛtɛrɛ
 \va km
@@ -75488,6 +75549,19 @@ l'intérieur une ou deux graines)
 \xf le "commandant" l'a puni
 \dt 26/Sep/2006
 
+\lx kùnkobaganinji
+\mm kùn.ko:n:affaire
+\mm kùn:n:tête
+\mm kó:n:affaire
+\mm bàga:n:poison
+\mm nin:mrph:DIM
+\mm jí:n:eau
+\fa kùnkobaganiji
+\ps n
+\gf térébenthine
+\gvf térébenthine
+\dt 06/Mar/2019
+
 \lx kùnkofɔɲɔgɔn
 \mm kùn.ko:n:affaire
 \mm kùn:n:tête
@@ -76941,6 +77015,19 @@ l'intérieur une ou deux graines)
 \gf méningite
 \gvf méningite
 \dt 04/Mar/2019
+
+\lx kùnsɛmɛnasumaya
+\mm kùn.sɛmɛ:n:cerveau
+\mmm kùn:n:tête
+\mmm sɛ́mɛ:n:moelle
+\mm ná:pp:à
+\mm súmaya:n:froid
+\mmm súma:vq:lent
+\mmm ya:mrph:DEQU
+\ps n
+\gf neuropaludisme
+\gvf neuropaludisme
+\dt 05/Mar/2019
 
 \lx kùnsigi
 \mm kùn:n:tête
@@ -98073,8 +98160,8 @@ familiaux; viande très prisée, auladiculture)
 \gf mamba
 \gvf mamba
 \lat Dendroaspis sp.
-\smf (---> 2,40 m(vit habituellement sur les arbres, près de l'eau, sa morsure est très  venimeuse))
-\dt 05/Apr/2016
+\smf (---> 2,40 m; vit habituellement sur les arbres, près de l'eau, sa morsure est très  venimeuse)
+\dt 06/Mar/2019
 
 \lx nkàra
 \ps n
@@ -106623,6 +106710,16 @@ banane, etc.)
 \ms 2
 \gvf passer devant
 \dt 16/Aug/2006
+
+\lx ɲɛ́ku
+\mm ɲɛ́:n:oeil
+\mm kú:n:queue
+\ps n
+\gf coin.de.l'oeil
+\gvf angle extérieur de l'oeil
+\gvf angle de l'oeil
+\gvf coin de l'oeil
+\dt 05/Mar/2019
 
 \lx ɲɛ́kulu
 \mm ɲɛ́:n:oeil
@@ -116949,6 +117046,14 @@ paniers, sègi)
 \gvf régression
 \dt 26/Sep/2006
 
+\lx segɔni
+\va sekɔni
+\bw fr. seconde
+\ps n
+\gf seconde
+\gvf seconde
+\dt 05/Mar/2019
+
 \lx sékeretɛri
 \va sɛ́kɛrɛtɛri
 \ps n
@@ -118661,6 +118766,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \smf (taille légèrement inférieure à celle de la Genetta.genetta, absence de crinière dorsale)
 \dt 16/Aug/2006
 
+\lx sérikabin
+\mm séri:v:éparpiller
+\mm kà:pm:INF
+\mm bìn:v:tomber
+\ps n
+\gf convulsions
+\gvf convulsions
+\dt 06/Mar/2019
+
 \lx sérilikɛla
 \mm séri:v:éparpiller
 \mm li:mrph:NMLZ
@@ -119087,11 +119201,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm ba:mrph:AUGM
 \ps n
 \gf herbe.Buchnera.hispida
+\ms 1
 \gvf herbe Buchnera hispida
 \smf (plante parasite du mil)
 \sd scro
 \sy núgusɛgɛ
-\dt 19/Aug/2006
+\ms 2
+\gvf soude caustique
+\dt 06/Mar/2019
 
 \lx sɛ́gɛbanpokolon
 \mm sɛ́gɛ:n:épervier
@@ -119153,6 +119270,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \sy sìsilasɛgɛ
 \sy tásisirɔsɛgɛ
 \dt 16/Aug/2006
+
+\lx sɛ́gɛfunteni
+\mm sɛ́gɛ:n:salpêtre
+\mm fùnteni:n:chaleur
+\ps n
+\gf cyanure
+\gvf cyanure
+\dt 06/Mar/2019
 
 \lx sɛ́gɛji
 \mm sɛ́gɛ:n:salpêtre
@@ -122661,6 +122786,13 @@ donne d'excellentes fibres)
 \smf (capable de sertir (même certains forgerons qui fabriquent des fusils))
 \dt 26/Sep/2006
 
+\lx siyaniri
+\bw fr. cyanure
+\ps n
+\gf cyanure
+\gvf cyanure
+\dt 06/Mar/2019
+
 \lx síyawoloma
 \mm sí.ya:n:race
 \mm sí:n:semence
@@ -123148,8 +123280,10 @@ donne d'excellentes fibres)
 \mm sògo:n:viande
 \mm tòli:adj:pourri
 \ps n
-\gf gangrène.
+\gf gangrène
 \gvf gangrène 
+\syn kèlebe
+\dt 06/Mar/2019
 
 \lx sòjɛgɛ
 \mm sò:n:cheval
@@ -135361,6 +135495,17 @@ est due aux paysans (kib 3/05 p.9)
 \smf (immerger)
 \dt 12/Feb/2014
 
+\lx túlaɲa
+\mm tú:n:touffe
+\mm lá:pp:à
+\mm ɲà:n:python.royal
+\ps n
+\gf boomslang
+\lat Dispholidus typus
+\gvf boomslang
+\gvf serpent des arbres
+\dt 06/Mar/2019
+
 \lx túlo
 \va tló
 \ph [tlo]
@@ -136941,6 +137086,14 @@ bruyants, près du sol, dans les fourrés)
 \ps n
 \gf période
 \gvf période
+
+\lx wáatilan
+\mm wáati:n:moment
+\mm lan:mrph:INSTR
+\ps n
+\gf montre
+\gvf montre
+\dt 06/Mar/2019
 
 \lx wáatise
 \mm wáati:n:moment
