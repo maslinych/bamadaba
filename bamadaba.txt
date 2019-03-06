@@ -4866,6 +4866,21 @@ Fleurs spectaculaires)
 \gvf décès
 \dt 26/Sep/2006
 
+\lx bànnyɛrɛla
+\mm bàn:v:refuser
+\mm ń:pers:1SG
+\mm yɛ̀rɛ̂:dtm:même
+\mm lá:pp:à
+\va bànyɛrɛla
+\mm bàn:v:refuser
+\mm yɛ̀rɛ̂:dtm:même
+\mm lá:pp:à
+\ps n
+\gf personne.dégradée
+\gvf personne dégradée
+\smf (qui se néglige)
+\dt 06/Mar/2019
+
 \lx bànsan
 \ps v
 \vl vt
@@ -19833,11 +19848,30 @@ saillie)
 \mm dá:n:bouche
 \mm dígi:v:presser
 \ps v
+\gf pénaliser
+\ms 1
 \vl vt
-\gf tuer
+\gvf pénaliser
+\gvf faire du mal
+\ms 2
+\vl vt
 \gvf tuer
-\sy dáji
-\dt 16/Aug/2006
+\smf (argotique)
+\ms 3
+\vl vt
+\gvf vendre
+\dt 06/Mar/2019
+
+\lx dádigi
+\mm dá:n:bouche
+\mm dígi:v:presser
+\ps n
+\gf mal
+\ms 1
+\gvf mal
+\ms 2
+\gvf dépense
+\dt 06/Mar/2019
 
 \lx dádimi
 \mm dá:n:bouche
@@ -53335,6 +53369,15 @@ le toit de la maison et descendaient
 \gvf inflammation
 \smf (entre les orteils, à la plante des pieds en hivernage)
 
+\lx jínson
+\mm jí:n:eau
+\mm nsòn:n:voleur
+\ps n
+\gf torrent
+\gvf torrent
+\gvf crue subite des eaux
+\dt 06/Mar/2019
+
 \lx jíntanya
 \mm jí:n:eau
 \mm ntan:mrph:PRIV
@@ -53605,15 +53648,15 @@ le toit de la maison et descendaient
 \mm nin:mrph:DIM
 \ps n
 \sd méli
-\gf nim
-\gvf nim
+\gf neem
+\gvf neem
 \gvf margousier
 \gvf arbre Azadarichta indica
 \smf (arbre, pousse encore avec juste 150 mm de pluie, originaire
 des Indes, mais adopté partout; il a des propriétés insectifuges
 et insecticides)
 \sd méli
-\dt 16/May/2017
+\dt 06/Mar/2019
 
 \lx jírikuru
 \mm jíri:n:arbre
@@ -58670,6 +58713,17 @@ prolapsus utérin
 \gvf règles des femmes
 \dt 16/Aug/2006
 
+\lx kálolabɔ
+\mm kálo:n:lune
+\mm lá.bɔ:v:faire.sortir
+\mmm lá:mrph:CAUS
+\mmm bɔ́:v:sortir
+\ps n
+\gf règles.des.femmes
+\gvf règles
+\smf (des femmes)
+\dt 06/Mar/2019
+
 \lx kálomuso
 \mm kálo:n:lune
 \mm mùso:n:femme
@@ -60251,7 +60305,8 @@ prolapsus utérin
 \gf angine
 \gvf angine
 \gvf amygdalite
-\dt 26/Sep/2006
+\gvf diphtérie
+\dt 06/Mar/2019
 
 \lx kánnabìla
 \mm kán:n:cou
@@ -65562,6 +65617,13 @@ probablement de chaux vive)
 \xv à kúlo kójuguya y'á kán sìsi
 \xf d'avoir trop crié l'a enroué
 \dt 23/Nov/2012
+
+\lx kokayini
+\bw fr. cocaïne
+\ps n
+\gf cocaïne
+\gvf cocaïne
+\dt 06/Mar/2019
 
 \lx kókɛbaliya
 \mm kó:n:affaire
@@ -70973,6 +71035,17 @@ ou une proposition)
 \gvf ascaris
 \gvf oxyure
 \dt 26/Sep/2006
+
+\lx kɔ́nɔnantumuɲinma
+\mm kɔ́nɔ:n:ventre
+\mm ná:pp:à
+\mm ntùmu:n:ver
+\mm ɲín:n:dent
+\mm ma:mrph:COM
+\ps schistosome
+\gf schistosome
+\gvf schistosome
+\dt 06/Mar/2019
 
 \lx kɔ́nɔnasu
 \mm kɔ́nɔ:n:ventre
@@ -78101,6 +78174,12 @@ kúrunninle
 \gvf traficoter
 \dt 26/Sep/2006
 
+\lx kusa
+\ps n
+\gf potiron
+\gvf potiron
+\dt 06/Mar/2019
+
 \lx kùsaba
 \ve (-f)
 \ps n
@@ -78331,9 +78410,9 @@ kúrunninle
 \gvf règlement
 \ms 3
 \gvf règles
-\xv à má  à ká làada yé
+\xv à má à ká làada yé
 \xf elle n'a pas "vu" ses règles
-\dt 26/Sep/2006
+\dt 06/Mar/2019
 
 \lx làadajoli
 \mm làada:n:coutume
@@ -85846,11 +85925,11 @@ jour, c'est une personne dépendante qu'il voit
 \mm jíri:n:arbre
 \mm nin:mrph:DIM
 \ps n
-\gf nim
-\gvf nim
+\gf neem
+\gvf neem
 \gvf margousier
-\gvf Azadirachta indica
-\dt 04/Jun/2016
+\lat Azadirachta indica
+\dt 06/Mar/2019
 
 \lx Malitɛl
 \ps n
@@ -87617,6 +87696,13 @@ des engagements
 \gf crosse.de.fusil
 \gvf crosse de fusil
 \dt 11/Nov/2007
+
+\lx marijuwana
+\bw fr. marijuana
+\ps n
+\gf marihuana
+\gvf marihuana
+\dt 06/Mar/2019
 
 \lx márisi
 \bw fr : mars
@@ -90743,7 +90829,8 @@ homme
 \ps v
 \gf grandir
 \gvf grandir
-\dt 01/May/2014
+\smf (acquerir l'apparence et les propriétés humaines, en parlant d'un foetus)
+\dt 06/Mar/2019
 
 \lx mɔ̀gɔyajɛ
 \mm mɔ̀gɔ.ya:n:humanité
@@ -114500,7 +114587,11 @@ langue, et finit par empêcher de marcher)
 \vl vt
 \gvf retirer
 \gvf attirer
-\dt 19/Feb/2019
+\ms 5
+\vl vt
+\gvf inspirer
+\smf (faire entrer l'air en soi)
+\dt 06/Mar/2019
 
 \lx sàmabali
 \mm sàma:n:éléphant
@@ -117040,11 +117131,14 @@ paniers, sègi)
 \mm sègin:v:revenir
 \mm ń:pers:1SG
 \mm kɔ́:pp:après
+\va sèginkɔ́
+\mm sègin:v:revenir
+\mm kɔ́:pp:après
 \ps n
 \gf retour
 \gvf retour
 \gvf régression
-\dt 26/Sep/2006
+\dt 06/Mar/2019
 
 \lx segɔni
 \va sekɔni
@@ -129743,6 +129837,14 @@ pieton)
 \sy déli
 \dt 26/Sep/2006
 
+\lx tára
+\ps v
+\vl vt
+\gf tuer
+\gvf tuer
+\sy dáji
+\dt 06/Mar/2019
+
 \lx tárakali
 \ps n
 \gf vache.blanche
@@ -134427,20 +134529,31 @@ est due aux paysans (kib 3/05 p.9)
 \lx tɔ̀n
 \vc tɔ̀
 \ps v
-\ms 1
+\ms 1.1
 \vl vt
 \gf bloquer
 \gvf bloquer
 \gvf retenir
-\xv syɔ̀dun bɛ́  màa kɔ́nɔ tɔ̀n
-\xf manger des haricots provoque des ballonnements
+\ms 1.2
 \vl vr
 \gvf se retenir
-\ms 2
+\ms 2.1
+\gvf ballonner
+\xv syɔ̀dun bɛ́ màa kɔ́nɔ tɔ̀n
+\xf manger des haricots provoque des ballonnements
+\ms 2.2
+\vl vi
+\gvf gonfler
+\smf (ventre)
+\ms 3
+\vl vi
+\gvf enfler
+\smf (partie du corps)
+\ms 4
 \vl vr
 \gvf se contracter
 \smf (avant l'élan ...)
-\dt 26/Sep/2006
+\dt 06/Mar/2019
 
 \lx tɔ̀n
 \va tɔ̀
@@ -134728,12 +134841,13 @@ est due aux paysans (kib 3/05 p.9)
 \lx tɔ̀nɔnkɔ
 \va ntɔ̀nɔnkɔ
 \va dɔ̀nɔnkɔn
+\va tɔ̀nɔgɔ
 \ps n
 \gf ténia
 \gvf ténia
 \gvf ascaris
 \gvf ver solitaire
-\dt 02/May/2018
+\dt 06/Mar/2019
 
 \lx tɔ́nɔtɔnɔ
 \va tnɔ́tnɔ
@@ -142270,15 +142384,19 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛbonya
 \mm yɛ̀rɛ̂:dtm:même
-\mm bòn:vq:grand
-\mm ya:mrph:DEQU
+\mm bòn.ya:n:grosseur
+\mmm bòn:vq:grand
+\mmm ya:mrph:DEQU
 \ps n
 \gf orgueil
+\ms 1
 \gvf orgueil
 \sy yɛ̀rɛbonyali
 \xv Hálakili sábu yé yɛ̀rɛbonyali yé
 \xf avant la ruine, il y a l'orgueil (Pr 16, 18) l'orgueil conduit à la faillite
-\dt 28/Feb/2017
+\ms 2
+\gvf estime de soi
+\dt 06/Mar/2019
 
 \lx yɛ̀rɛbɔ
 \mm yɛ̀rɛ̂:dtm:même
