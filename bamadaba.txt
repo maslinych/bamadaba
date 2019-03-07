@@ -1556,6 +1556,15 @@ les deux flancs'
 \smf (toute tante plus jeune que la mère)
 \dt 16/Aug/2006
 
+\lx bàasi
+\ps v
+\gf érafler
+\vl vt
+\gvf érafler
+\gvf égratigner
+\gvf écorcher
+\dt 07/Mar/2019
+
 \lx báasi
 \bw ar: ba's = id
 \ps n
@@ -8100,6 +8109,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf bic
 \dt 09/Apr/2017
 
+\lx bikisɛ
+\mm kìsɛ:n:grain
+\ps n
+\gf bille
+\gvf bille
+\dt 07/Mar/2019
+
 \lx bíkɔ̀nɔntɔn
 \mm bí:num:dizaine
 \mm kɔ̀nɔntɔn:num:neuf
@@ -9306,8 +9322,8 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps n
 \gf épilepsie
 \gvf épilepsie
-\sy kìrikirimasyɛn
-\dt 01/Mar/2019
+\sy kìrikirimasyɛn, jàlibana
+\dt 07/Mar/2019
 
 \lx bínninji
 \mm bín:n:herbe
@@ -12740,20 +12756,20 @@ milieu des pierres
 \vl vi
 \gf sortir
 \gvf sortir
-\ms 1.2
-\vl vi
-\gvf venir de
+\xv à bɔ́ra à dá lá
+\xf il s'est ruiné
 \xv à bɔ́ra
 \xf il est sorti
 \xv bɔ́ yèn !
 \xf sors de là !  va-t-en !
+\xv ń'ó bɔ́ra  à lá
+\xf ensuite, en outre,en dehors de ..., sauf ...
+\ms 1.2
+\vl vi
+\gvf venir de
 \xv à nàna  kà bɔ́ Kàti
 \xf il arrive de Kati
 \xf il revient de Kati
-\xv à bɔ́ra  à dá lá
-\xf il s'est ruiné
-\xv ń'ó bɔ́ra  à lá
-\xf ensuite, en outre,en dehors de ..., sauf ...
 \xv ù bɔ́ra  kúngo lá
 \xf ils reviennent de la brousse
 \ms 1.3
@@ -12773,7 +12789,7 @@ milieu des pierres
 \xf éloigne-toi de moi ! fiche-moi le camp !
 \xv né hákili bɔ́ra  à lá
 \xf je l'ai oublié
-\ms 4
+\ms 4.1
 \vl vt
 \gvf enlever
 \gvf retirer
@@ -12785,6 +12801,11 @@ milieu des pierres
 \xf se déshabiller
 \xv mùso yé  jí bɔ́ kɔ̀lɔn ná
 \xf la femme a sorti de l'eau du puits
+\ms 4.2
+\vl vt
+\xv k'í fàri bɔ́ ɲɔ́gɔn ná
+\gvf se délasser
+\gvf se donner de l'exercice
 \ms 5
 \vl vi
 \gvf s'en sortir
@@ -12860,7 +12881,7 @@ milieu des pierres
 \xf j'ai déjà eu ça (cette maladie)
 \xv í bɔ́tɔ fílɛ  kà mín fɔ́
 \xf ce que tu viens de dire....
-\dt 28/Feb/2019
+\dt 07/Mar/2019
 
 \lx bɔ́baa
 \mm bɔ́:v:sortir
@@ -13909,13 +13930,15 @@ toujours (pro)
 \va bágabaga
 \ps n
 \gf termite
+\ms 1
 \gvf termite
+\xv búbaa kɛ̀rɛ lá, ù bɛ́ɛ búbaakisɛ
+\xf sur les flancs de la reine-termite c'est plein d'ouvriers (prov.: un bambara t'apprendra beaucoup de mots de sa langue)
+\ms 2
+\gvf engourdissement
 \xv búbaa bɛ́ ń sèn ná
 \xf j'ai des fourmis (termites) dans les jambes (expr)
-\xv búbaa kɛ̀rɛ lá, ù bɛ́ɛ búbaakisɛ
-\xf sur les flancs de la reine-termite c'est plein d'ouvriers (prov)
-\xf un bambara t'apprendra beaucoup de mots de sa langue
-\dt 13/Jul/2017
+\dt 07/Mar/2019
 
 \lx bùbánpàsa
 \mm bù:n:chair
@@ -14207,10 +14230,14 @@ toujours (pro)
 
 \lx búgun
 \ps v
-\vl vi
 \gf devenir.brumeux
+\ms 1
+\vl vi
 \gvf devenir brumeux
-\dt 16/Aug/2006
+\ms 2
+\vl vi
+\gvf devenir gris
+\dt 07/Mar/2019
 
 \lx búgun
 \va búgu
@@ -15784,11 +15811,15 @@ médicinales)
 \lx cáwucawu
 \ps v
 \gf aller.dans.tous.les.sens
+\ms 1
+\vl vi
 \gvf aller dans tous les sens
+\ms 2
+\vl vt
 \gvf troubler
 \smf (l'esprit)
 \gvf affoler
-\dt 19/Jun/2016
+\dt 07/Mar/2019
 
 \lx cáwucawu
 \ps n
@@ -17109,19 +17140,6 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 16/Aug/2006
 
 \lx cɛ̀n
-\va kɛ̀n
-\ve (bn)
-\ps v
-\vl vt
-\ms 1
-\gf moudre
-\gvf moudre
-\ms 2
-\gvf bien délayer
-\smf (une pâte)
-\dt 16/Aug/2006
-
-\lx cɛ̀n
 \va cɛ̀ncɛn
 \va cìɲɛ
 \va kɛ̀ɲɛ
@@ -17132,6 +17150,19 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \xv cɛ̀n dá
 \xf pratiquer la géomancie
 \dt 26/Jun/2018
+
+\lx cɛ̀n
+\va kɛ̀n
+\ve (bn)
+\ps v
+\vl vt
+\ms 1
+\gf moudre
+\gvf moudre
+\ms 2
+\gvf bien délayer
+\smf (une pâte)
+\dt 07/Mar/2019
 
 \lx cɛ́n
 \ps n
@@ -19234,10 +19265,10 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx dàbadaninbilen
 \mm nin:mrph:DIM
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \va dàbadaninblen
 \mm nin:mrph:DIM
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf plante.Euphorbia.hirta
@@ -19245,16 +19276,17 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \smf (plante herbacée, vivace ou annuelle)
 \sd euph
 \smf (---> 20/ 30 cm (efficace contre les amibes))
+\dt 07/Mar/2019
 
 \lx dàbadugukolo
 \mm dàba:n:houe
-\mm dùgukolo:n:terre
-\mm dùgu:n:terre
-\mm kólo:n:os
+\mm dùgu.kolo:n:terre
+\mmm dùgu:n:terre
+\mmm kólo:n:os
 \ps n
 \gf terre.arable
 \gvf terre arable
-\dt 13/Mar/2018
+\dt 07/Mar/2019
 
 \lx dábaji
 \mm dába:n:encre
@@ -19268,7 +19300,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \lx dàbajula
 \mm dàba:n:houe
 \mm jùla:n:commerçant
-\va dàba.jura
+\va dàbajura
 \mm dàba:n:houe
 \mm jùra:n:commerçant
 \ps n
@@ -19277,7 +19309,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \sy dàbaŋana
 \sy dàbamasa
 \sy dàbakamalen
-\dt 26/Sep/2006
+\dt 07/Mar/2019
 
 \lx dàbakalankɔyɔ
 \mm dàba:n:houe
@@ -19401,13 +19433,13 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx dàbalijuguya
 \mm dàbali:n:moyen
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \gf malveillance
 \gvf malveillance
 \smf (qui utilise des sortilèges ...)
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dàbamasa
 \mm dàba:n:houe
@@ -19445,11 +19477,11 @@ saillie)
 \lx dàbaninkurun
 \mm dàba:n:houe
 \mm nin:mrph:DIM
-\mm kùrun:vq/adj:court
+\mm kùrun:adj:court
 \ps n
 \gf petite.houe
 \gvf petite houe
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dàbaŋana
 \mm dàba:n:houe
@@ -19476,23 +19508,24 @@ saillie)
 
 \lx dábarajɛ
 \mm dá.bara:n:bouche
-\mm dá:n:bouche
-\mm bàra:n:calebasse
-\mm jɛ́:vq/adj:blanc
+\mmm dá:n:bouche
+\mmm bàra:n:calebasse
+\mm jɛ́:adj:blanc
 \ps n
 \gf âne
 \gvf âne
+\dt 07/Mar/2019
 
 \lx dábarajɛ
 \mm dá.bara:n:bouche
-\mm dá:n:bouche
-\mm bàra:n:calebasse
-\mm jɛ́:vq/adj:blanc
+\mmm dá:n:bouche
+\mmm bàra:n:calebasse
+\mm jɛ́:adj:blanc
 \ps adj/n
 \gf pauvre
 \gvf pauvre
 \smf (qui n'est pas considéré [fig])
-\dt 05/Apr/2015
+\dt 07/Mar/2019
 
 \lx dábɛrɛbɛrɛma
 \ve (-f,-bk)
@@ -19544,8 +19577,9 @@ saillie)
 \dt 26/Sep/2006
 
 \lx dábilabali
-\mm dá:n:bouche
-\mm bìla:v:mettre
+\mm dá.bìla:v:cesser
+\mmm dá:n:bouche
+\mmm bìla:v:mettre
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf incessant
@@ -19554,7 +19588,7 @@ saillie)
 \xv bòli dábilabali, sènduman bɛ́ mìnɛ ò lá (1753) / làada dábilabali
 \xv í tɛ́ fúnun dábilabali kɛ́
 \xf ta colère ne dura pas toujours (Mi 7, 18)
-\dt 11/Nov/2007
+\dt 07/Mar/2019
 
 \lx dàbilen
 \mm dà:n:chanvre
@@ -19598,13 +19632,14 @@ saillie)
 \dt 26/Sep/2006
 
 \lx dábirilan
-\mm dá:n:bouche
-\mm bíri:v:courber
+\mm dá.biri:v:renverser
+\mmm dá:n:bouche
+\mmm bíri:v:courber
 \mm lan:mrph:INSTR
 \ps n
 \gf couvercle
 \gvf couvercle
-\dt 11/Nov/2007
+\dt 07/Mar/2019
 
 \lx dábolo
 \mm dá:v:créer
@@ -19674,24 +19709,26 @@ saillie)
 \dt 16/Aug/2006
 
 \lx dábɔlan
-\mm dá:n:bouche
-\mm bɔ́:v:sortir
+\mm dá.bɔ:v:commencer
+\mmm dá:n:bouche
+\mmm bɔ́:v:sortir
 \mm lan:mrph:INSTR
 \ps n
 \gf enclume
 \gvf enclume
 \smf (pour aiguiser ...)
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dábɔli
-\mm dá:n:bouche
-\mm bɔ́:v:sortir
+\mm dá.bɔ:v:commencer
+\mmm dá:n:bouche
+\mmm bɔ́:v:sortir
 \mm li:mrph:NMLZ
 \ps n
 \gf sevrage
 \gvf sevrage
 \rem l 89 / donniya 5/6
-\dt 11/Nov/2007
+\dt 07/Mar/2019
 
 \lx dábɔlɔ
 \mm dá:n:bouche
@@ -19709,8 +19746,9 @@ saillie)
 \dt 30/Apr/2018
 
 \lx dábɔlɔwɔlɔsɔ
-\mm dá:n:bouche
-\mm bɔ̀lɔ:n:piquet
+\mm dá.bɔlɔ:n:bec
+\mmm dá:n:bouche
+\mmm bɔ̀lɔ:n:piquet
 \mm wɔ̀lɔsɔ:n:faucille
 \ps n
 \ms 1
@@ -19722,34 +19760,37 @@ saillie)
 \gvf ibis falcinelle
 \lat Plegadis falcinellus
 \smf (bec recourbé, apparaît noir à distance)
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dábɔlɔwɔlɔsɔjɛman
-\mm dá:n:bouche
-\mm bɔ̀lɔ:n:piquet
-\mm wɔ̀lɔsɔ:n:faucille
-\mm jɛ́:vq/adj:blanc
-\mm man:mrph:ADJ
+\mm dábɔlɔ.wɔlɔsɔ
+\mmm dá.bɔlɔ:n:bec
+\mmmm dá:n:bouche
+\mmmm bɔ̀lɔ:n:piquet
+\mmm wɔ̀lɔsɔ:n:faucille
+\mm jɛ́.man:adj:blanc
+\mmm jɛ́:vq:blanc
+\mmm man:mrph:ADJ
 \ps n
 \gf ibis.sacré
 \gvf ibis sacré
 \lat Threskiornis aethiopica
 \smf (vol plané et battu alterné)
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dábɔnkama
-\mm dábɔ:v:commencer
-\mm dá:n:bouche
-\mm bɔ́:v:sortir
+\mm dá.bɔ:v:commencer
+\mmm dá:n:bouche
+\mmm bɔ́:v:sortir
 \mm ń:pers:1SG
 \mm kámà:pp:pour
-\mm kán:n:cou
-\mm mà:pp:ADR
+\mmm kán:n:cou
+\mmm mà:pp:ADR
 \ps n
 \gf action.intentionnelle
 \gvf action intentionnelle
 \gvf action volontaire
-\dt 31/May/2016
+\dt 07/Mar/2019
 
 \lx dàbulu
 \mm dà:n:chanvre
@@ -19784,19 +19825,23 @@ saillie)
 \dt 20/Feb/2014
 
 \lx dácɛ̀
+\mm dá:n:bouche
+\mm cɛ̀:v:ramasser
 \ps v
 \vl vr
 \gf changer.de.direction
 \gvf changer de direction
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dácɛ̀n
+\mm dá:n:bouche
+\mm cɛ̀n:v:moudre
 \ps v
 \vl vt
 \gf aiguiser
 \gvf aiguiser
 \smf (un outil en le frottant sur une pierre ...)
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dáci
 \mm dá:n:bouche
@@ -19833,7 +19878,7 @@ saillie)
 \lx dádèn
 \mm dá:n:bouche
 \mm dèn:v:se.taire
-\va dá.dè
+\va dádè
 \mm dá:n:bouche
 \mm dè:v:se.taire
 \ps v
@@ -19842,7 +19887,7 @@ saillie)
 \gvf se taire
 \xv í dáden !
 \xf tais-toi !
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dádigi
 \mm dá:n:bouche
@@ -19884,7 +19929,8 @@ saillie)
 
 \lx dádiya
 \mm dá:n:bouche
-\mm dí:vq/adj:agréable
+\mm dí.ya:n:bon.goût
+\mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -19894,13 +19940,14 @@ saillie)
 \ms 2
 \gvf aiguisage
 \smf (fait de bien aiguiser ...)
-\dt 26/Sep/2006
+\dt 07/Mar/2019
 
 \lx dádiya
 \mm dá:n:bouche
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\va dá.ja
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\va dája
 \mm dá:n:bouche
 \mm já:v:rendre.agréable
 \ps v
@@ -19913,22 +19960,25 @@ saillie)
 \gvf parler beaucoup
 \xv à yé  mùru dádiya
 \xf il a aiguisé le couteau
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dádiya
 \mm dá:n:bouche
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf vendre.bon.marché
 \gvf vendre bon marché
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dádiyalan
-\mm dá:n:bouche
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm dá.diya:v:aiguiser
+\mmm dá:n:bouche
+\mmm díya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
 \mm lan:mrph:INSTR
 \ps n
 \ms 1
@@ -19938,7 +19988,7 @@ saillie)
 \ms 2
 \gvf assaisonnement
 \gvf bon repas
-\dt 26/Sep/2006
+\dt 07/Mar/2019
 
 \lx dádo
 \ps v
@@ -19991,14 +20041,15 @@ saillie)
 \dt 26/Sep/2006
 
 \lx dádɔnbali
-\mm dá:n:bouche
-\mm dɔ́n:v:connaître
+\mm dá.dɔn:v:connaître
+\mmm dá:n:bouche
+\mmm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf non.informé
 \gvf non informé
 \smf (qui n'est pas au courant (de ce qui convient ...))
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dádùgula
 \mm dá:n:bouche
@@ -20053,16 +20104,17 @@ saillie)
 \gvf décimal
 \smf (néo) opposé au nombre entier
 \rem du
-\dt 30/Sep/2018
+\dt 07/Mar/2019
 
 \lx dáfaji
-\mm dáfa:v:compléter
+\mm dá:n:bouche
+\mm fá:v:remplir
 \mm jí:n:eau
 \ps n
 \gf niais
 \gvf niais
 \gvf simple d'esprit
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dáfalan
 \mm dá.fa:v:compléter
@@ -20089,8 +20141,8 @@ saillie)
 \dt 30/Sep/2018
 
 \lx dáfalen
-\mm dáfa:v:compléter
-\mm len:mrph:PTCP.RES
+\mm dá:n:bouche
+\mm fálen:v:délier
 \ps n
 \gf serment
 \gvf serment
@@ -20098,7 +20150,7 @@ saillie)
 \gvf voeu
 \xv à yé  dáfalen dòn  Ála lá  kó...
 \xf il a juré devant Dieu que ...
-\dt 04/Oct/2018
+\dt 07/Mar/2019
 
 \lx dáfalen
 \mm dá:n:bouche
@@ -20188,12 +20240,12 @@ saillie)
 \lx dáfasankɔrɔ
 \mm dá:n:bouche
 \mm fàsan:vq:résistant
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf obstiné
 \gvf obstiné
 \smf (qui s'obstine à mentir, à nier, à contredire, à dire des obscènités ...)
-\dt 26/Sep/2006
+\dt 07/Mar/2019
 
 \lx dáfata
 \mm dá.fa:v:compléter
@@ -20226,22 +20278,24 @@ saillie)
 \dt 07/Feb/2016
 
 \lx dáfɛdugu
-\mm dá:n:bouche
-\mm fɛ̀:pp:par
+\mm dá.fɛ̀:pp:auprès
+\mmm dá:n:bouche
+\mmm fɛ̀:pp:par
 \mm dùgu:n:terre
 \ps n
 \gf village.voisin
 \gvf village voisin
-\dt 07/Feb/2016
+\dt 07/Mar/2019
 
 \lx dáfɛla
-\mm dá:n:bouche
-\mm fɛ̀:pp:par
+\mm dá.fɛ̀:pp:auprès
+\mmm dá:n:bouche
+\mmm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \gf abords
 \gvf abords
-\dt 07/Feb/2016
+\dt 07/Mar/2019
 
 \lx dáfila
 \mm dá:n:jour
@@ -20379,13 +20433,13 @@ Burkina Faso, sa langue)
 
 \lx dáfɔ
 \mm dá:n:bouche
-\mm fɔ́:v:dire
+\mm fɔ́:v:rater
 \ps v
 \vl vt
 \gf croiser.des.fils.en.sens.opposé
 \gvf croiser des fils en sens opposé
 \xv gáari dáfɔ  ɲɔ́gɔn kɔ́
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dáfɔ
 \mm dá:n:bouche
@@ -20490,7 +20544,7 @@ Burkina Faso, sa langue)
 \mm dàga:n:canari
 \mm díla:v:fabriquer
 \mm la:mrph:AG.PRM
-\va dàga.dla.la
+\va dàgadlala
 \mm dàga:n:canari
 \mm dlá:v:fabriquer
 \mm la:mrph:AG.PRM
@@ -20500,7 +20554,7 @@ Burkina Faso, sa langue)
 \gvf potière
 \gvf forgeronne
 \sy dàadala
-\dt 16/Mar/2018
+\dt 07/Mar/2019
 
 \lx dàgadon
 \mm dàga:n:canari
@@ -20553,7 +20607,7 @@ Burkina Faso, sa langue)
 \lx dàgan
 \mm dà:n:chanvre
 \mm gán:n:gombo
-\va dà.gwan
+\va dàgwan
 \mm dà:n:chanvre
 \mm gwán:n:gombo
 \ph [gw]
@@ -20562,12 +20616,12 @@ Burkina Faso, sa langue)
 \gvf gombo
 \lat Hibiscus esculentus
 \sd malv
-\dt 19/Aug/2006
+\dt 07/Mar/2019
 
 \lx dàganba
 \mm dàgan:n:arbre.Afzelia.africana
 \mm ba:mrph:AUGM
-\va dànga.ba
+\va dàngaba
 \mm dànga:n:arbre.Afzelia.africana
 \mm ba:mrph:AUGM
 \ps n
@@ -20575,7 +20629,7 @@ Burkina Faso, sa langue)
 \gvf arbre Afzelia africana
 \smf (arbre ---> 20 m)
 \sd césa
-\dt 19/Aug/2006
+\dt 07/Mar/2019
 
 \lx dágannan
 \mm dá:n:bouche
@@ -20612,7 +20666,7 @@ Burkina Faso, sa langue)
 \lx dágaran
 \mm dá:n:bouche
 \mm gáran:v:entraver
-\va dá.gwaran
+\va dágwaran
 \mm dá:n:bouche
 \mm gwáran:v:entraver
 \ph [gw]
@@ -20622,7 +20676,7 @@ Burkina Faso, sa langue)
 \gvf bègue
 \ms 2
 \gvf personne aux paroles inintelligibles
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dàga-sìgi-dàga-lá
 \mm dàga:n:canari
@@ -20658,19 +20712,19 @@ Burkina Faso, sa langue)
 \lx dágeren
 \mm dá:n:bouche
 \mm géren:adj:bouché
-\va dá.gweren
+\va dágweren
 \mm dá:n:bouche
 \mm gwéren:adj:bouché
 \ph [gw]
 \ps adj/n
 \gf muet
 \gvf muet
-\dt 12/Aug/2006
+\dt 07/Mar/2019
 
 \lx dágeren
 \mm dá:n:bouche
 \mm géren:v:boucher
-\va dá.gweren
+\va dágweren
 \mm dá:n:bouche
 \mm gwéren:v:boucher
 \ph [gw]
@@ -20680,7 +20734,7 @@ Burkina Faso, sa langue)
 \gvf boucher
 \smf (un orifice)
 \gvf bloquer
-\dt 26/Sep/2006
+\dt 07/Mar/2019
 
 \lx dágɛlɛkɛ
 \mm dá:n:bouche
@@ -20694,10 +20748,10 @@ Burkina Faso, sa langue)
 
 \lx dágɛlɛn
 \mm dá:n:bouche
-\mm gɛ̀lɛn:vq/adj:dur
-\va dá.gwɛlɛn
+\mm gɛ̀lɛn:adj:dur
+\va dágwɛlɛn
 \mm dá:n:bouche
-\mm gwɛ̀lɛn:vq/adj:dur
+\mm gwɛ̀lɛn:adj:dur
 \ph [gw]
 \ps n
 \ms 1
@@ -20705,19 +20759,19 @@ Burkina Faso, sa langue)
 \gvf recommandation instante
 \ms 2
 \gvf entêté
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dágɛlɛn
 \mm dá:n:bouche
-\mm gɛ̀lɛn:vq/adj:dur
-\va dá.gwɛlɛn
+\mm gɛ̀lɛn:adj:dur
+\va dágwɛlɛn
 \mm dá:n:bouche
-\mm gwɛ̀lɛn:vq/adj:dur
+\mm gwɛ̀lɛn:adj:dur
 \ph [gw]
 \ps adj
 \gf coûteux
 \gvf coûteux
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dágɛn
 \mm dá:n:bouche
@@ -20734,19 +20788,21 @@ Burkina Faso, sa langue)
 \dt 16/Aug/2006
 
 \lx dágɛnnan
-\mm dá:n:bouche
-\mm gɛ́n:v:aiguiser
+\mm dá.gɛn:v:aiguiser
+\mmm dá:n:bouche
+\mmm gɛ́n:v:aiguiser
 \mm nan:mrph:INSTR
-\va dá.gwɛn.nan
-\mm dá:n:bouche
-\mm gwɛ́n:v:aiguiser
+\va dágwɛnnan
+\mm dá.gwɛn:v:aiguiser
+\mmm dá:n:bouche
+\mmm gwɛ́n:v:aiguiser
 \mm nan:mrph:INSTR
 \ph [gw]
 \ps n
 \gf affûtoir
 \gvf affûtoir
 \smf (marteau utilisé pour aiguiser)
-\dt 26/Sep/2006
+\dt 07/Mar/2019
 
 \lx dágɔbɛ
 \mm dá:n:bouche
@@ -20785,7 +20841,7 @@ Burkina Faso, sa langue)
 \lx dágun
 \mm dá:n:bouche
 \mm gún:v:joindre
-\va dá.gu
+\va dágu
 \mm dá:n:bouche
 \mm gú:v:joindre
 \ps v
@@ -20795,7 +20851,7 @@ Burkina Faso, sa langue)
 \gvf achever
 \ms 2
 \gvf suborner
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx dágunnifɛn
 \mm dá:n:bouche
@@ -21364,6 +21420,14 @@ Burkina Faso, sa langue)
 \gvf peser
 \smf (à la balance romaine (mùrujan))
 \dt 16/Aug/2006
+
+\lx dáku
+\mm dá:n:bouche
+\mm kú:n:queue
+\ps n
+\gf coin.de.la.bouche
+\gvf coin de la bouche
+\dt 07/Mar/2019
 
 \lx dàkumu
 \mm dà:n:chanvre
@@ -22447,15 +22511,16 @@ pas)
 \va dànma
 \ps dtm
 \gf seulement
+\ms 1
 \gvf seulement
 \sy dɔ́rɔn
-\xv à dàma
-\xf à part
 \xv ò dàma tɛ́
 \xf ce n'est pas seulement ça
 \xv fìla dàma tùn dòn
 \xf il n'y en avait que deux
-\dt 12/Jun/2016
+\ms 2
+\gvf à part
+\dt 07/Mar/2019
 
 \lx dàma
 \ps conj
@@ -31029,6 +31094,26 @@ plus rien
 \xe être vaincu
 \dt 16/Jun/2017
 
+\lx dùgumata
+\mm dùgu:n:terre
+\mm mà:pp:ADR
+\mm tá:n:propriété
+\ps adj
+\gf inférieur
+\gvf inférieur
+\smf (qui est au-dessous)
+\dt 07/Mar/2019
+
+\lx dùgumata
+\mm dùgu:n:terre
+\mm mà:pp:ADR
+\mm tá:n:propriété
+\ps n
+\gf dessous
+\gvf dessous
+\smf (partie inférieur; celui qui est en bas)
+\dt 07/Mar/2019
+
 \lx dùgumɛnɛ
 \mm dùgu:n:terre
 \mm mɛ́nɛ:n:fourmi.sp
@@ -34033,11 +34118,14 @@ mais plus large que sóli; pour sarcler en profondeur)
 \ps n
 \ms 1
 \gf côté
+\ms 1
 \gvf côté
 \xv ...fàn fɛ̀
 \xf du côté de ... ; en ce qui concerne ...
 \xv fàn wɛ́rɛ fɛ̀
 \xf d'un autre côté, ailleurs
+\xv fàn sí
+\xf nul part; aucun (parfois écrit collé!)
 \xv à fàn kélen sàra
 \xf il a un côté paralysé (hémiplégique)
 \xv bɛ́ɛ táara  ù tá fàn
@@ -34046,7 +34134,7 @@ mais plus large que sóli; pour sarcler en profondeur)
 \gvf direction
 \xv né t'ò fàn dɔ́n
 \xf je ne sais pas où il se trouve
-\dt 12/Aug/2006
+\dt 07/Mar/2019
 
 \lx fán
 \ps n
@@ -34378,7 +34466,8 @@ mais plus large que sóli; pour sarcler en profondeur)
 \gf tissu.manufacturé
 \gvf tissu manufacturé
 \smf (de qualité inférieure, se décolore au lavage)
-\dt 16/Aug/2006
+\gvf imitation de pagne Wax KT
+\dt 07/Mar/2019
 
 \lx fánso
 \mm fán:n:oeuf
@@ -36147,9 +36236,10 @@ bien (dicton)
 \mm fyère:v:vendre
 \mm ta:mrph:PTCP.POT
 \ps ptcp
-\gf à.vendre
+\gf vendable
+\gvf vendable
 \gvf à vendre
-\dt 26/Sep/2006
+\dt 07/Mar/2019
 
 \lx féfewu
 \ps adv
@@ -38380,6 +38470,21 @@ frontières, forestiers, sapeurs)
 \gvf gaz
 \dt 03/Oct/2018
 
+\lx fíɲɛbana
+\mm fíɲɛ:n:vent
+\mm bàna:n:maladie
+\va fíyɛnbana
+\mm fíyɛn:n:vent
+\mm bàna:n:maladie
+\va fyɛ́nbana
+\mm fyɛ́n:n:vent
+\mm bàna:n:maladie
+\ps n
+\gf maladie.contagieuse
+\gvf maladie contagieuse
+\smf (toute maladie attribuée au vent, de forme épidémique : méningite, grippe ...)
+\dt 07/Mar/2019
+
 \lx fíɲɛbɔda
 \mm fíɲɛ:n:vent
 \mm bɔ́:v:sortir
@@ -39087,22 +39192,6 @@ sur le ventre -- í kɔ́nɔ kàn)
 \ms 2
 \gvf refroidir
 \smf (nourriture brûlante ...)
-\dt 26/Sep/2006
-
-\lx fíyɛnbana
-\mm fíyɛn:n:vent
-\mm bàna:n:maladie
-\va fyɛ́n.bana
-\mm fyɛ́n:n:vent
-\mm bàna:n:maladie
-\ph [fy]
-\va fíɲɛ.bana
-\mm fíɲɛ:n:vent
-\mm bàna:n:maladie
-\ps n
-\gf coup.de.vent
-\gvf coup de vent
-\smf (toute maladie attribuée au vent : méningite, grippe ... (de forme épidémique))
 \dt 26/Sep/2006
 
 \lx fíyɛnbara
@@ -40005,9 +40094,13 @@ sur le ventre -- í kɔ́nɔ kàn)
 \lx fòolo
 \ps n
 \gf mue
+\ms 1
 \gvf mue
 \smf (peau d'un serpent qui a mué)
-\dt 26/Sep/2006
+\ms 2
+\gvf squame
+\gvf parcelles d'épiderme
+\dt 07/Mar/2019
 
 \lx fòolo
 \va fòlo
@@ -41761,6 +41854,21 @@ forestières, fruit : long follicule de 50 cm)
 \gvf se fâcher
 \dt 16/Aug/2006
 
+\lx fùnteninafaribɔɔsi
+\mm fùnteni:n:chaleur
+\mm ná:pp:à
+\mm fàri:n:corps
+\mm bɔ̀ɔsi:v:écorcher
+\va fùnteninafaribɔsi
+\mm fùnteni:n:chaleur
+\mm ná:pp:à
+\mm fàri:n:corps
+\mm bɔ̀si:v:écorcher
+\ps n
+\gf ulcère.tropical
+\gvf ulcère tropical
+\dt 07/Mar/2019
+
 \lx fùntenisumanan
 \mm fùnteni:n:chaleur
 \mm súma:v:mesurer
@@ -42043,6 +42151,16 @@ forestières, fruit : long follicule de 50 cm)
 \gvf soigner
 \sy bási
 \dt 15/Aug/2006
+
+\lx fúrakɛ
+\mm fúra:n:feuille
+\mm kɛ́:v:faire
+\ps n
+\gf cure
+\gvf cure
+\gvf traitement
+\smf (médical)
+\dt 07/Mar/2019
 
 \lx fúrakɛla
 \mm fúra:n:feuille
@@ -42576,7 +42694,8 @@ forestières, fruit : long follicule de 50 cm)
 \gvf ampoule de la peau
 \gvf cloque de la peau
 \gvf phlyctène
-\dt 04/Apr/2016
+\gvf impétigo
+\dt 07/Mar/2019
 
 \lx fùrufuru
 \ps v
@@ -46549,11 +46668,15 @@ douanier, milicien, etc.)
 \xf l'eau est chaude
 \xv jí góni dòn
 \xf c'est de l'eau chaude
+\xv nɔ̀ gòni fɛ̀, nɔ̀ gòni lá
+\xf sur-le-champ
+\xv à nɔ̀ gòni kàn
+\xf à ce moment, au moment de
 \ms 2
 \gvf rapide
 \xv kàrisa ká gòni
 \xf un tel est un rapide
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx gòniman
 \mm gòni:vq/adj:chaud
@@ -50190,7 +50313,9 @@ calebasses)
 \gvf tétanos
 \gvf méningite
 \gvf polio
-\dt 26/Sep/2006
+\gvf épilepsie
+\smf (maladie qui provoque le raidissement du corps)
+\dt 07/Mar/2019
 
 \lx jàlonjalon
 \ps n
@@ -52078,12 +52203,22 @@ calebasses)
 \dt 11/Nov/2007
 
 \lx jɛ́man
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:vq:blanc
 \mm man:mrph:ADJ
 \ps adj
 \gf blanc
 \gvf blanc
-\dt 12/Aug/2006
+\dt 07/Mar/2019
+
+\lx jɛ́manyɔrɔ
+\mm jɛ́:vq:blanc
+\mm man:mrph:ADJ
+\mm yɔ́rɔ:n:lieu
+\ps n
+\gf blanc
+\gvf blanc
+\smf (d'oeil, d'oeuf)
+\dt 07/Mar/2019
 
 \lx jɛ́mɛ
 \ps n
@@ -53372,11 +53507,14 @@ le toit de la maison et descendaient
 \lx jínson
 \mm jí:n:eau
 \mm nsòn:n:voleur
+\va jíson
+\mm jí:n:eau
+\mm sòn:n:voleur
 \ps n
 \gf torrent
 \gvf torrent
 \gvf crue subite des eaux
-\dt 06/Mar/2019
+\dt 07/Mar/2019
 
 \lx jíntanya
 \mm jí:n:eau
@@ -58406,22 +58544,6 @@ l'eau est prête
 \gvf sans intérêt
 \dt 26/Sep/2006
 
-\lx kálanya
-\mm kálan:vq:chaud
-\mm ya:mrph:DEQU
-\va kála.ya
-\mm kála:vq:chaud
-\mm ya:mrph:DEQU
-\ps v
-\ms 1
-\vl vt
-\gf chauffer
-\gvf chauffer
-\ms 2
-\vl vi
-\gvf se dépêcher
-\dt 16/Aug/2006
-
 \lx kàlanyɔrɔ
 \mm kàlan:n:lecture
 \mm yɔ́rɔ:n:lieu
@@ -58483,24 +58605,29 @@ l'eau est prête
 \lx kálaya
 \mm kála:vq:chaud
 \mm ya:mrph:ABSTR
-\ps v
-\ms 1
-\vl vi
-\gf chauffer
-\gvf chauffer
-\gvf faire chauffer
-\ms 1
-\vl vi
-\gvf se dépêcher
-\dt 07/Feb/2017
-
-\lx kálaya
-\mm kála:vq:chaud
-\mm ya:mrph:ABSTR
 \ps n
 \gf chaleur
 \gvf chaleur
 \dt 07/Feb/2017
+
+\lx kálaya
+\mm kála:vq:chaud
+\mm ya:mrph:DEQU
+\va kálanya
+\mm kálan:vq:chaud
+\mm ya:mrph:DEQU
+\ps v
+\gf chauffer
+\ms 1.1
+\vl vi
+\gvf chauffer
+\ms 1.2
+\vl vt
+\gvf faire chauffer
+\ms 2
+\vl vi
+\gvf se dépêcher
+\dt 07/Mar/2019
 
 \lx kále
 \bw ar: kuhl = id.
@@ -62601,19 +62728,22 @@ probablement de chaux vive)
 \smf (poule égorgée ...)
 \dt 26/Sep/2006
 
+\lx kètekète
+\va kèteketenin
+\mm kètekète:v:coqueluche
+\mm nin:mrph:DIM
+\va kɔ̀tɔkɔtɔnin
+\mm nin:mrph:DIM
+\ps n
+\gf coqueluche
+\gvf coqueluche
+\dt 07/Mar/2019
+
 \lx kétekete
 \ps onomat
 \gf rire.sec
 \gvf rire sec
 \dt 16/Aug/2006
-
-\lx kèteketenin
-\mm kètekete:v:frémir
-\mm nin:mrph:DIM
-\ps n
-\gf coqueluche
-\gvf coqueluche
-\dt 07/Mar/2014
 
 \lx kéyekeye
 \ps adv
@@ -66836,6 +66966,17 @@ champs)
 \ms 2
 \gvf mise bout à bout des os fracturés
 
+\lx kólotuguda
+\mm kólo:n:os
+\mm tùgu.da:n:point.d'attache
+\mmm tùgu:v:rabouter
+\mmm dá:n:bouche
+\ps n
+\gf articulation
+\gvf articulation
+\smf (anatomique)
+\dt 07/Mar/2019
+
 \lx kólotugudadimi
 \mm kólo:n:os
 \mm tùgu.da:n:point.d'attache
@@ -67005,17 +67146,17 @@ champs)
 \dt 16/Aug/2006
 
 \lx kònaya
-\mm kòna:adj/n:sans.enfant
+\mm kòna:adj:sans.enfant
 \mm ya:mrph:ABSTR
 \ps n
-\gf état.d'une.femme.sans.enfant
-\gvf état d'une femme sans enfant
-\xv wólo tɛ́  kònaya sà : (dícton)
-\xf engendrer n'empêche pas de rester sans enfant
-\dt 16/Aug/2006
+\gf manque.d'enfant
+\gvf état d'une personne sans enfant
+\xv wólo tɛ́  kònaya sà
+\xf engendrer n'empêche pas de rester sans enfant (dicton)
+\dt 07/Mar/2019
 
 \lx kònaya
-\mm kòna:adj/n:sans.enfant
+\mm kòna:adj:sans.enfant
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -67023,7 +67164,7 @@ champs)
 \gvf priver d'enfant
 \xv yáala y'á kònaya
 \xf le dévergondage l'a rendue stérile
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx kónbalabala
 \mm kón:n:porte
@@ -68973,6 +69114,18 @@ harpon)
 \gvf bébé
 \gvf nourrisson
 \dt 26/Sep/2006
+
+\lx kɔ́lafɔ
+\mm kɔ́:n:dos
+\mm lá:pp:à
+\mm fɔ́:v:dire
+\ps v
+\gf contredire
+\vl vt
+\gvf contredire
+\xv kà ɲɔ́gɔn kɔ́lafɔ
+\xf se contredire
+\dt 07/Mar/2019
 
 \lx kɔ́lasègin
 \mm kɔ́:n:dos
@@ -71373,6 +71526,14 @@ ou une proposition)
 \gvf paroles insensées
 \sy kɔ̀nɔsutakan
 \dt 16/Aug/2006
+
+\lx kɔ́nɔsuuru
+\mm kɔ́nɔ:n:ventre
+\mm súuru:n:cascade
+\ps n
+\gf diarrhée.aqueuse
+\gvf diarrhée aqueuse
+\dt 07/Mar/2019
 
 \lx kɔ́nɔta
 \mm kɔ́nɔ:n:ventre
@@ -76525,6 +76686,15 @@ l'intérieur une ou deux graines)
 \gvf raconter
 \gvf rapporter
 \dt 14/Apr/2018
+
+\lx kùnnakuma
+\mm kùn:n:tête
+\mm ná:pp:à
+\mm kúma:n:parole
+\ps n
+\gf délire
+\gvf délire
+\dt 07/Mar/2019
 
 \lx kùnnala
 \mm kùn.na:pp:au.dessus
@@ -86897,6 +87067,7 @@ jour, c'est une personne dépendante qu'il voit
 \smf (petite antilope à l'arrière-train plus foncé que l'avant-train)
 
 \lx mànkan
+\fa màngan
 \ps n
 \ms 1
 \gf bruit
@@ -86909,9 +87080,11 @@ jour, c'est une personne dépendante qu'il voit
 \xv mànkan dábila
 \xv mànkan súma
 \xf faire silence
+\xv à túlo bɛ mànkan bɔ́
+\xf il a des oreilles qui sifflent
 \ms 2
 \gvf renommée
-\dt 11/Apr/2013
+\dt 07/Mar/2019
 
 \lx mánkan
 \ps adj/n
@@ -92873,7 +93046,7 @@ pour les jardins)
 \vl vi
 \gf venir
 \gvf venir
-\smf (de l'endroit où l'on est)
+\smf (de l'endroit où l'on est; peut introduire un infinitif nu)
 \xv nà yàn !
 \xf viens ici !
 \xv ń nàlen  báarako lá
@@ -92902,7 +93075,7 @@ pour les jardins)
 \xf le vent apporte la pluie
 \xv jíritu dè bɛ́  sán nà
 \xf ce sont les forêts qui attirent la pluie
-\dt 23/Nov/2012
+\dt 07/Mar/2019
 
 \lx nà
 \vt na
@@ -93136,13 +93309,6 @@ pour les jardins)
 \gf bon.à.rien
 \gvf bon à rien
 \gvf peu courageux au travail
-\dt 16/Aug/2006
-
-\lx nàarɛ
-\va nàrɛ
-\ps n
-\gf beurre.frais
-\gvf beurre frais
 \dt 16/Aug/2006
 
 \lx nàati
@@ -93872,6 +94038,14 @@ qui revient en visite dans sa famille)
 \gvf lubrifier
 \dt 26/Sep/2006
 
+\lx námaya
+\mm náma:vq:visqueux
+\mm ya:mrph:DEQU
+\ps n
+\gf viscosité
+\gvf viscosité
+\dt 07/Mar/2019
+
 \lx námin
 \ps n
 \gf flatteur
@@ -94272,6 +94446,17 @@ qui revient en visite dans sa famille)
 \lat Cynodon.dactylon
 \sd gram
 \dt 19/Aug/2006
+
+\lx nàre
+\va nàare
+\va nàrɛ
+\va nàarɛ
+\ps n
+\gf beurre
+\gvf beurre
+\xv nàare bìlen
+\xf beurre frais
+\dt 07/Mar/2019
 
 \lx nári
 \ps adv
@@ -103474,14 +103659,6 @@ banane, etc.)
 \gf mouchoir
 \gvf mouchoir
 
-\lx núci
-\mm nú:n:nez
-\mm cì:v:frapper
-\ps n
-\gf hémorragie.nasale
-\gvf hémorragie nasale
-\dt 26/Sep/2006
-
 \lx núdalasi
 \mm nú:n:nez
 \mm dá:n:bouche
@@ -103542,8 +103719,14 @@ banane, etc.)
 \ps v
 \vl vt
 \gf polir
+\ms 1
+\vl vt
 \gvf polir
-\dt 26/Sep/2006
+\gvf lisser
+\ms 2
+\vl vt
+\gvf moudre très fin
+\dt 07/Mar/2019
 
 \lx nùgu
 \ps v
@@ -104071,6 +104254,29 @@ banane, etc.)
 \gf nasillard
 \gvf nasillard
 \dt 16/Aug/2006
+
+\lx núnci
+\mm nún:n:nez
+\mm cì:v:frapper
+\va núci
+\mm nú:n:nez
+\mm cì:v:frapper
+\ps n
+\gf hémorragie.nasale
+\gvf hémorragie nasale
+\gvf saignement de nez
+\gvf épistaxis
+\dt 07/Mar/2019
+
+\lx núncì
+\mm nún:n:nez
+\mm cì:v:frapper
+\ps v
+\gf coucher.avec
+\vl vt
+\gvf coucher avec
+\smf (une femme; une expression populaire)
+\dt 07/Mar/2019
 
 \lx nùnɛti
 \va lùnɛti
@@ -106564,6 +106770,17 @@ banane, etc.)
 \gvf globe oculaire
 \sy ɲɛ́den
 \dt 16/Aug/2006
+
+\lx ɲɛ́kilitara
+\mm ɲɛ́kili:n:globe.oculaire
+\mmm ɲɛ́:n:oeil
+\mmm kíli:n:oeuf
+\mm tàra:v:chaleur
+\ps n
+\gf xérophtalmie
+\gvf xérophtalmie
+\smf (maladie des yeux secs)
+\dt 07/Mar/2019
 
 \lx ɲɛ́kisɛ
 \mm ɲɛ́:n:oeil
@@ -114864,10 +115081,14 @@ langue, et finit par empêcher de marcher)
 \va sànsàná
 \ve (bk)
 \ps n
-\gf dépôt
+\gf gratin
+\ms 1
+\gvf gratin
 \gvf dépôt
 \smf (dans une marmite, dans un plat)
-\dt 26/Sep/2006
+\ms 2
+\gvf séborrhée de la tête
+\dt 07/Mar/2019
 
 \lx sànanko
 \mm sànan:n:dépôt
@@ -115030,6 +115251,26 @@ langue, et finit par empêcher de marcher)
 \gvf marchandise
 \rem l89 : chose achetable
 \dt 11/Nov/2007
+
+\lx sánfɛta
+\mm sán:n:ciel
+\mm fɛ̀:pp:par
+\mm tá:n:propriété
+\ps adj
+\gf supérieur
+\gvf supérieur
+\smf (qui est en haut)
+\dt 07/Mar/2019
+
+\lx sánfɛta
+\mm sán:n:ciel
+\mm fɛ̀:pp:par
+\mm tá:n:propriété
+\ps n
+\gf le.haut
+\gvf le haut
+\gvf la partie supérieure
+\dt 07/Mar/2019
 
 \lx sánfin
 \mm sán:n:ciel
@@ -115920,9 +116161,9 @@ langue, et finit par empêcher de marcher)
 \mm sàn:v:acheter
 \mm ta:mrph:PTCP.POT
 \ps ptcp
-\gf vendable
-\gvf vendable
-\dt 16/Aug/2006
+\gf achetable
+\gvf achetable
+\dt 07/Mar/2019
 
 \lx sántigi
 \mm sán:n:ciel
@@ -116819,6 +117060,7 @@ composition de l'encens
 \gvf pouvoir
 \gvf dominer
 \gvf vaincre
+\smf (peut introduire un infinitif nu, bien que rarement)
 \xv à séra  à lá
 \xf il y est arrivé, il a eu le dessus, il a gagné ...
 \xv à séra  à kɔ́rɔ
@@ -116829,7 +117071,7 @@ composition de l'encens
 \xf il nous est impossible de ...
 \xv ù séra  ù yɛ̀rɛ lá
 \xf ils ont été maîtres d'eux-mêmes, de leurs passions
-\dt 26/Sep/2006
+\dt 07/Mar/2019
 
 \lx sébaa
 \mm sé:v:arriver
@@ -118039,11 +118281,14 @@ pas réussi
 \mm kɔ́rɔ:pp:sous
 \ps pp
 \gf parmi
+\ms 1
 \gvf parmi
 \gvf chez
 \gvf au milieu de
+\ms 2
+\gvf à même temps
 \gvf au cours de
-\dt 14/Apr/2018
+\dt 07/Mar/2019
 
 \lx sènkɔrɔcɛ̀
 \mm sèn:n:jambe
@@ -118794,12 +119039,39 @@ gouvernement le soutient (kb 5/06 p.7)
 \va sɛ́ri
 \ve (f)
 \ps v
-\vl vt
 \gf éparpiller
+\ms 1.1
+\vl vt
 \gvf éparpiller
 \gvf asperger
 \gvf semer à la volée
-\dt 08/Nov/2012
+\gvf jeter en éparpillant
+\ms 1.2
+\vl vi
+\gvf s'éparpiller
+\gvf s'asperger
+\ms 2.1
+\vl vt
+\gvf agiter
+\gvf brandir
+\smf (les bras, les jambes)
+\ms 2.2
+\vl vi
+\gvf s'agiter
+\gvf se brandir
+\smf (bras, jambes)
+\ms 2.3
+\vl vr
+\gvf se redresser brusquement en écartant les bras et les jambes
+\gvf danser en écartant les bras et les jambes
+\ms 3.1
+\vl vr
+\gvf se jeter
+\smf (à -- lá, sur -- kàn)
+\ms 3.2
+\vl vr
+\gvf faire un saut périlleux arrière
+\dt 07/Mar/2019
 
 \lx sériba
 \ps n
@@ -121842,6 +122114,20 @@ trompe)
 \sy sínkisɛ
 \dt 26/Sep/2006
 
+\lx sínnunkun
+\mm sín:n:sein
+\mm nún:n:nez
+\mm kùn:n:tête
+\va sínnukun
+\mm sín:n:sein
+\mm nú:n:nez
+\mm kùn:n:tête
+\ps n
+\gf téton
+\gvf téton
+\gvf mamelon
+\dt 07/Mar/2019
+
 \lx sìnɔgɔjɛgɛ
 \mm sìnɔgɔ:n:sommeil
 \mm jɛ́gɛ:n:poisson
@@ -123708,10 +123994,12 @@ donne d'excellentes fibres)
 
 \lx sòlo
 \ps n
-\gf les.reins
-\gvf les reins
-\smf (partie basse du dos (au niveau des fesses, plus bas que kòto))
-\dt 26/Sep/2006
+\gf bassin
+\gvf bassin
+\gvf sacrum
+\smf (partie basse du dos, au niveau des fesses, plus bas que kòto)
+\gvf reins
+\dt 07/Mar/2019
 
 \lx sòlo
 \ps n
@@ -128338,7 +128626,7 @@ fiançailles
 \gf aller
 \gvf aller
 \gvf partir
-\smf (à tel endroit, se rendre chez ...)
+\smf (à tel endroit, se rendre chez; peut introduire un infinitif nu)
 \xv táa ɲɛ́ (fɛ̀)
 \xf progresser, aller de l'avant
 \xv ní  ò sé b'í yé, ò dɔ́ mùso bɛ́ táa  tán ná
@@ -128352,7 +128640,7 @@ fiançailles
 \xv ní...yé
 \xv fíyɛn táara ní  à yé
 \xf le vent l'a emporté
-\dt 05/Apr/2016
+\dt 07/Mar/2019
 
 \lx táabaa
 \mm táa:v:aller
@@ -128682,6 +128970,7 @@ fiançailles
 \dt 25/Feb/2017
 
 \lx tàamashyɛn
+\va tàamasiɲɛ
 \va tàamasyɛn
 \va tàamasiyɛn
 \ph [...shyɛn]
@@ -128695,9 +128984,10 @@ fiançailles
 \ms 2
 \gvf modèle
 \gvf patron
-\dt 05/Feb/2016
+\dt 07/Mar/2019
 
 \lx tàamashyɛn
+\va tàamasiɲɛ
 \va tàamasyɛn
 \va tàamasiyɛn
 \ph [...shyɛn]
@@ -128709,7 +128999,7 @@ fiançailles
 \gvf indiquer
 \xv à yé  síra tàamasyɛn  à yé
 \xf il lui a indiqué la route
-\dt 05/Jun/2017
+\dt 07/Mar/2019
 
 \lx tàanga
 \ps n
@@ -129869,6 +130159,16 @@ pieton)
 \gf esclave.concubine
 \gvf esclave concubine
 \dt 25/Mar/2018
+
+\lx tàranin
+\mm tàra:n:chaleur
+\mm nin:mrph:DIM
+\ps n
+\gf urticaire
+\gvf urticaire
+\gvf bourbouille
+\gvf boutons de chaleur
+\dt 07/Mar/2019
 
 \lx táranna
 \mm tára:v:coller
@@ -131937,9 +132237,10 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ps n
 \gf trait
 \gvf trait
+\gvf ligne
 \xv ntìiri cì
 \xf tracer
-\dt 26/Sep/2006
+\dt 07/Mar/2019
 
 \lx tìiri
 \va ntìiri
@@ -139023,6 +139324,8 @@ la Justice (kb 12/05 p.4)
 \gvf peau
 \xv wòlo bɔ́
 \xf enlever la peau, dépouiller
+\xv wòlo kúra dá
+\xf prendre un nouveau départ
 \ms 2
 \gvf tam-tam
 \xv wòlo fɔ́
@@ -139033,7 +139336,7 @@ la Justice (kb 12/05 p.4)
 \gvf courroie
 \ms 5
 \gvf cible de chasseur
-\dt 16/Aug/2006
+\dt 07/Mar/2019
 
 \lx wòlo
 \ve (-bn)
@@ -139274,6 +139577,19 @@ la Justice (kb 12/05 p.4)
 \gf maladie.du.ventre
 \gvf maladie du ventre
 \dt 22/Mar/2015
+
+\lx wòlokurada
+\mm wòlo:n:peau
+\mm kúra:adj:nouveau
+\mm dá:v:poser
+\va gòlokurada
+\mm gòlo:n:peau
+\mm kúra:adj:nouveau
+\mm dá:v:poser
+\ps n
+\gf nouveau.départ
+\gvf nouveau départ
+\dt 07/Mar/2019
 
 \lx wóloma
 \ps n
@@ -141944,6 +142260,17 @@ bambara)
 \gvf limpide
 \dt 09/May/2014
 
+\lx yélikɛla
+\mm yé:v:voir
+\mm li:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
+\ps n
+\gf voyant
+\gvf voyant
+\gvf devin
+\dt 07/Mar/2019
+
 \lx yèn
 \ps adv/n
 \gf là-bas
@@ -143088,6 +143415,12 @@ comportement (LD p.5)
 \gvf être liquide et sale
 \dt 09/Feb/2015
 
+\lx yìrikiyaraka
+\ps n
+\gf selles.glaireuses
+\gvf selles glaireuses
+\dt 07/Mar/2019
+
 \lx yírikɔrɔtali
 \mm yíri.kɔrɔ.ta:v:donner.la.nausée
 \mm yíri:n:arbre
@@ -143150,6 +143483,13 @@ comportement (LD p.5)
 \gvf développement
 \gvf croissance
 \dt 20/Mar/2017
+
+\lx yìriyara
+\ps n
+\gf glaires
+\gvf glaires
+\gvf mucus
+\dt 07/Mar/2019
 
 \lx yìriyiri
 \va yìrikiyiriki
