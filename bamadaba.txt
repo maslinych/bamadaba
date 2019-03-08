@@ -20916,20 +20916,20 @@ Burkina Faso, sa langue)
 
 \lx dájɛ
 \mm dá:n:bouche
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps adj
 \gf disert
 \gvf disert
 \smf (qui s'exprime clairement)
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dájɛ
 \mm dá:n:bouche
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf paiement.comptant
 \gvf paiement comptant
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dájɛ̀
 \mm dá:n:bouche
@@ -20976,24 +20976,26 @@ Burkina Faso, sa langue)
 \dt 26/Sep/2006
 
 \lx dájibɔn
-\mm dá:n:bouche
-\mm jí:n:eau
+\mm dáji:n:salive
+\mmm dá:n:bouche
+\mmm jí:n:eau
 \mm bɔ̀n:v:répandre
 \ps n
 \gf niais
 \gvf niais
 \gvf idiot
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dájifolofolo
-\mm dá:n:bouche
-\mm jí:n:eau
+\mm dáji:n:salive
+\mmm dá:n:bouche
+\mmm jí:n:eau
 \mm fòlofolo:v:abandonner
 \ps n
 \gf salive.dégoulinante
 \gvf salive dégoulinante
 \gvf bave d'envie
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dájìgin
 \mm dá:n:bouche
@@ -21011,12 +21013,14 @@ Burkina Faso, sa langue)
 \dt 16/Aug/2006
 
 \lx dájikanga
-\mm dá:n:bouche
-\mm jí:n:eau
+\mm dáji:n:salive
+\mmm dá:n:bouche
+\mmm jí:n:eau
 \mm kànga:n:écume
 \ps n
 \gf bave
 \gvf bave
+\dt 08/Mar/2019
 
 \lx dájinɛ
 \mm dá:n:bouche
@@ -21032,7 +21036,7 @@ Burkina Faso, sa langue)
 \lx dájìra
 \mm dá:n:bouche
 \mm jìra:v:montrer
-\va dá.yìra
+\va dáyìra
 \mm dá:n:bouche
 \mm yìra:v:montrer
 \ps v
@@ -21048,7 +21052,7 @@ Burkina Faso, sa langue)
 \vl vt
 \gvf proposer
 \smf (à -- lá)
-\dt 18/Feb/2018
+\dt 08/Mar/2019
 
 \lx dájɔ̀
 \mm dá:n:bouche
@@ -21062,7 +21066,7 @@ Burkina Faso, sa langue)
 
 \lx dájugu
 \mm dá:n:bouche
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \ms 1
 \gf impertinent
@@ -21072,7 +21076,7 @@ Burkina Faso, sa langue)
 \ms 2
 \gvf bouche méchante
 \smf (surnom de la hyène)
-\dt 05/Apr/2016
+\dt 08/Mar/2019
 
 \lx dájukɔrɔkuma
 \mm dá:n:bouche
@@ -21120,19 +21124,20 @@ Burkina Faso, sa langue)
 \dt 05/Mar/2017
 
 \lx dákabanamɔgɔ
-\mm dá:n:bouche
-\mm kába:v:s'étonner
-\mm na:mrph:AG.PRM
+\mm dá.kaba.na:n:extraordinaire
+\mmm dá:n:bouche
+\mmm kába:v:s'étonner
+\mmm na:mrph:AG.PRM
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf homme.étonnant
 \gvf homme étonnant
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dákala
 \mm dá:n:bouche
 \mm kàla:n:tige
-\va dá.kala.ma
+\va dákalama
 \mm dá:n:bouche
 \mm kàla:n:tige
 \mm ma:mrph:COM
@@ -21140,7 +21145,7 @@ Burkina Faso, sa langue)
 \gf museau
 \gvf museau
 \gvf bouche proéminente
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dákala
 \mm dá:n:bouche
@@ -21159,22 +21164,23 @@ Burkina Faso, sa langue)
 
 \lx dákan
 \mm dá:n:création
-\mm kán:n:cou
+\mm kàn:pp:sur
 \ps n
 \gf destin
 \gvf destin
 \sy nàkan
-\dt 12/Aug/2006
+\dt 08/Mar/2019
 
 \lx dákanma
+\mm dá.kan:n:destin
 \mm dá:n:création
-\mm kán:n:cou
+\mm kàn:pp:sur
 \mm ma:mrph:COM
 \ps adj
 \gf créature.privilégiée
 \gvf créature privilégiée
 \gvf créature extraordinaire
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dákantigi
 \mm dá:n:bouche
@@ -21216,14 +21222,15 @@ Burkina Faso, sa langue)
 \dt 20/Oct/2014
 
 \lx dá-kà-wúliteri
-\mm dá:v:poser
-\mm kà:pm:INF
-\mm wúli:v:se.lever
+\mm dá.ka.wuli:n:ami.intime
+\mmm dá:v:poser
+\mmm kà:pm:INF
+\mmm wúli:v:se.lever
 \mm téri:n:ami
 \ps n
 \gf ami.intime
 \gvf ami intime
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dákɛnɛ
 \mm dá:n:bouche
@@ -21239,13 +21246,6 @@ Burkina Faso, sa langue)
 \gvf plaie ouverte
 \smf (vive, récente, non infectée)
 \dt 03/Apr/2016
-
-\lx dákɛnɛmaya
-\ps v
-\vl vr
-\gf dire.clairement
-\gvf dire clairement
-\dt 18/Apr/2015
 
 \lx dákɛnyɛ
 \mm dá:n:bouche
@@ -21282,22 +21282,22 @@ Burkina Faso, sa langue)
 \lx dákojugu
 \mm dá:v:créer
 \mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj
 \gf contrefait
 \gvf contrefait
 \smf (de mauvaise constitution physique)
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dákojugu
 \mm dá:v:poser
 \mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj/n
 \gf mauvais.coucheur
 \gvf mauvais coucheur
 \smf (donne des coups de pieds en dormant)
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dákolo
 \mm dá:n:bouche
@@ -21384,9 +21384,10 @@ Burkina Faso, sa langue)
 \dt 03/Apr/2016
 
 \lx dákɔrɔbɔla
-\mm dá:n:bouche
-\mm kɔ́rɔ:n:dessous
-\mm bɔ́:v:sortir
+\mm dá.kɔrɔ.bɔ:v:chercher.querelle
+\mmm dá:n:bouche
+\mmm kɔ́rɔ:n:dessous
+\mmm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
 \ps n
 \ms 1
@@ -21394,7 +21395,7 @@ Burkina Faso, sa langue)
 \gvf expérimentateur
 \ms 2
 \gvf tentateur
-\dt 15/Aug/2006
+\dt 08/Mar/2019
 
 \lx dákɔrɔdòn
 \mm dá:n:bouche
@@ -21431,13 +21432,13 @@ Burkina Faso, sa langue)
 
 \lx dàkumu
 \mm dà:n:chanvre
-\mm kùmu:vq:aigre
+\mm kùmu:adj:aigre
 \ps n
 \gf oseille.de.Guinée
 \gvf oseille de Guinée
 \lat Hibiscus sabdariffa
 \sd malv
-\dt 19/Aug/2006
+\dt 08/Mar/2019
 
 \lx dákun
 \mm dá:n:bouche
@@ -21477,29 +21478,29 @@ Burkina Faso, sa langue)
 
 \lx dákurun
 \mm dá:n:bouche
-\mm kùrun:vq/adj:court
+\mm kùrun:adj:court
 \ps n
 \gf poisson.Petrocephalus.sp
 \gvf poisson Petrocephalus sp
 \smf (court museau, bouche infère, ---> 10 / 18 cm)
 \sy ntòni
-\dt 19/Aug/2006
+\dt 08/Mar/2019
 
 \lx dákurunkan
 \mm dá:n:bouche
-\mm kùrun:vq/adj:court
+\mm kùrun:adj:court
 \mm kán:n:cou
 \ps n
 \gf interdiction
 \gvf interdiction
 \smf (ferme propos exprimé (de ne plus faire qc ...))
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dákuruɲa
 \mm dá:n:bouche
 \mm kùru:v:plier
 \mm ɲá:n:fois
-\va dá.kuru.ɲɛ
+\va dákuruɲɛ
 \mm dá:n:bouche
 \mm kùru:v:plier
 \mm ɲɛ́:n:fois
@@ -21509,7 +21510,7 @@ Burkina Faso, sa langue)
 \gvf bouchée
 \ms 2
 \gvf articulation d'un mot
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dàla
 \va bìla
@@ -21525,7 +21526,7 @@ Burkina Faso, sa langue)
 
 \lx dála
 \mm dá:n:bouche
-\mm lá:pp:à
+\mm la:mrph:à
 \va dárɔ
 \mm dá:n:bouche
 \mm rɔ:mrph:IN
@@ -21534,11 +21535,11 @@ Burkina Faso, sa langue)
 \gvf bouche active
 \smf (bouche en activité : façon de parler)
 \gvf discours
-\xv à dála ká tɛ́li  nènili fɛ̀
+\xv à dála ká tɛ́li nènili fɛ̀
 \xf il est prompt à injurier
 \xv kànkánkan dála mán tɛ́li
 \xf le 'kankankan' ne mord pas vite (serpent)
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dála
 \mm dá:n:bouche
@@ -21550,8 +21551,9 @@ Burkina Faso, sa langue)
 
 \lx dálabɛ̀n
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\ms bɛ̀n:v:se.rencontrer
+\mm lá.bɛ̀n:v:préparer
+\mmm lá:mrph:CAUS
+\mmm bɛ̀n:v:se.rencontrer
 \va dábɛ̀n
 \mm dá:n:bouche
 \mm bɛ̀n:v:se.rencontrer
@@ -21561,7 +21563,7 @@ Burkina Faso, sa langue)
 \gvf régler
 \gvf régulariser
 \gvf mettre en ordre
-\dt 16/Jun/2017
+\dt 08/Mar/2019
 
 \lx dálabi
 \mm dá:n:bouche
@@ -21575,39 +21577,43 @@ Burkina Faso, sa langue)
 
 \lx dálabɔ
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm bɔ́:v:sortir
+\mm lábɔ:v:faire.sortir
+\mmm lá:mrph:CAUS
+\mmm bɔ́:v:sortir
 \ps v
 \vl vt
 \gf taquiner
 \gvf taquiner
+\dt 08/Mar/2019
 
 \lx dálacaman
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
-\mm cáman:adj:nombreux
-\mm cá:vq:nombreux
-\mm man:mrph:ADJ
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm cá.man:adj:nombreux
+\mmm cá:vq:nombreux
+\mmm man:mrph:ADJ
 \ps adj/n
 \gf bavard
 \gvf bavard
-\dt 28/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálacɛ
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm cɛ̀:v:ramasser
+\mm lá.cɛ̀:v:ramasser
+\mmm lá:mrph:CAUS
+\mmm cɛ̀:v:ramasser
 \ps n
 \gf dénégation
 \gvf dénégation
 \gvf reniement
-\dt 19/Aug/2017
+\dt 08/Mar/2019
 
 \lx dálacɛ̀
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm cɛ̀:v:ramasser
+\mm lá.cɛ̀:v:ramasser
+\mmm lá:mrph:CAUS
+\mmm cɛ̀:v:ramasser
 \ps v
 \vl vt
 \ms 1
@@ -21615,18 +21621,19 @@ Burkina Faso, sa langue)
 \gvf s'essuyer la bouche
 \ms 2
 \gvf se rétracter
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dáladiya
 \mm dá:n:bouche
 \mm lá:pp:à
-\mm dí:adj:agréable
-\mm ya:mrph:ABSTR
+\mm dí.ya:n:bon.goût
+\mm dí:vq:agréable
+\mm ya:mrph:DEQU
 \ps n
 \gf art.de.paroles.emmiellées
 \gvf art de paroles emmiellées
 \smf (art de dire des propos avenants ou mielleux)
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dáladumuni
 \mm dá:n:bouche
@@ -21640,40 +21647,41 @@ Burkina Faso, sa langue)
 
 \lx dálafa
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm fá:v:remplir
+\mm lá.fa:v:remplir
+\mmm lá:mrph:CAUS
+\mmm fá:v:remplir
 \ps v
 \vl vt
 \gf remplir
 \gvf remplir
 \smf (un récipient qui contient déjà qqch)
-\dt 03/Apr/2016
+\dt 08/Mar/2019
 
 \lx dálafɛgɛn
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm fɛ́gen:adj:léger
 \va dálafiɲɛ
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm fíɲɛ:adj:léger
 \va dálafiyɛn
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm fíyɛn:adj:léger
 \va dálafyɛn
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm fyɛ́n:adj:léger
 \ps adj/n
 \gf indiscret
 \gvf indiscret
 \smf (qui ne tient pas sa langue)
-\dt 17/Feb/2018
+\dt 08/Mar/2019
 
 \lx dálafiɲɛ
 \mm dá:n:bouche
@@ -21690,9 +21698,9 @@ Burkina Faso, sa langue)
 \dt 23/Mar/2015
 
 \lx dálagɛlɛn
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm gɛ̀lɛn:adj:dur
 \va dámagɛlɛn
 \mm dáma:n:bouche.active
@@ -21709,28 +21717,28 @@ Burkina Faso, sa langue)
 \gvf effronté
 \gvf têtu
 \smf (qui nie tout, discute tout, qui ne reconnaît pas ses torts)
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálagirin
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm gírin:adj:lourd
 \ph [gr]
 \ps adj/n
 \gf discret
 \gvf discret
 \smf (dans ses paroles)
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálaja
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm já:v:rendre.agréable
-\va dá.ma.ja
+\mm lá:pp:à
+\mm jà:n:sécheresse
+\va dámaja
 \mm dá:n:bouche
-\mm mà:mrph:SUPER
-\mm já:v:rendre.agréable
+\mm mà:pp:ADR
+\mm jà:n:sécheresse
 \ve (bk)
 \ps n
 \gf disette
@@ -21738,24 +21746,25 @@ Burkina Faso, sa langue)
 \smf (pénurie.de.nourriture)
 \xv dámaja bɛ́  kàrisa ká só
 \xf c'est la disette chez un tel (il lui reste du bétail)
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dálajɛ̀
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm jɛ̀:v:assembler
+\mm lá.jɛ̀:v:réunir
+\mmm lá:mrph:CAUS
+\mmm jɛ̀:v:assembler
 \ps v
 \vl vt
 \gf grouper
 \gvf grouper
 \gvf assembler
 \gvf stocker
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dálajugu
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm júgu:adj:mauvais
 \ps adj/n
 \ms 1
@@ -21765,22 +21774,9 @@ Burkina Faso, sa langue)
 \ms 2
 \gvf goinfre
 \sy dájugu
-\dt 17/Feb/2018
+\dt 08/Mar/2019
 
-\lx dálákà
-\mm dá:n:bouche
-\mm lákà:v:ouvrir
-\va dá.rɔ́kà
-\mm dá:n:bouche
-\mm rɔ́kà:v:ouvrir
-\ps v
-\vl vt
-\gf ouvrir
-\gvf ouvrir
-\smf (bouteille, livre, bouche ...)
-\dt 26/Sep/2006
-
-\lx dálákà
+\lx dálakà
 \mm dá:n:bouche
 \mm lákà:v:ouvrir
 \ps v
@@ -21790,13 +21786,26 @@ Burkina Faso, sa langue)
 \gvf ne pas reconnaître
 \xv à y'á dálaka  dén fàtigiya lá
 \xf il n'a pas reconnu la paternité de l'enfant
-\dt 26/Sep/2006
+\dt 08/Mar/2019
+
+\lx dálakà
+\mm dá:n:bouche
+\mm lákà:v:ouvrir
+\va dárɔkà
+\mm dá:n:bouche
+\mm rɔ́kà:v:ouvrir
+\ps v
+\vl vt
+\gf ouvrir
+\gvf ouvrir
+\smf (bouteille, livre, bouche ...)
+\dt 08/Mar/2019
 
 \lx dálakan
 \mm dá:n:bouche
-\mm la:pp:dans
+\mm lá:pp:à
 \mm kán:n:cou
-\va dá.rɔ.kan
+\va dárɔkan
 \mm dá:n:bouche
 \mm rɔ́:pp:IN
 \mm kán:n:cou
@@ -21806,17 +21815,19 @@ Burkina Faso, sa langue)
 \smf (de faire qc posée telle condition)
 \xv ń yé  dárɔkan dòn kó : né tɛ́na  dɔ̀lɔ mìn bìlen
 \xf j'ai fait le voeu de ne plus boire de bière
-\dt 21/Nov/2012
+\dt 08/Mar/2019
 
 \lx dálakɛnyɛ
 \mm dá:n:bouche
-\mm la:mrph:LOC
-\mm kɛ́nyɛ:v:égaliser
+\mm lá.kɛnyɛ:v:rendre.égal
+\mmm lá:mrph:CAUS
+\mmm kɛ́nyɛ:v:égaliser
 \mr kɛn* > kan : égal + yɛ* (= ya . suf)
 \va dálakɛɲɛ
 \mm dá:n:bouche
-\mm la:mrph:LOC
-\mm kɛ́nyɛ:v:égaliser
+\mm lá.kɛnyɛ:v:rendre.égal
+\mmm lá:mrph:CAUS
+\mmm kɛ́nyɛ:v:égaliser
 \ps v
 \ms 1
 \vl vt
@@ -21827,14 +21838,15 @@ Burkina Faso, sa langue)
 \ms 2
 \vl vi
 \gvf avoir de belles proportions
+\dt 08/Mar/2019
 
 \lx dálako
 \mm dá:n:bouche
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm kó:n:affaire
-\va dá.rɔ.ko
+\va dárɔko
 \mm dá:n:bouche
-\mm rɔ́:mrph:LOC
+\mm rɔ́:pp:IN
 \mm kó:n:affaire
 \ps n
 \gf propos.mesquins
@@ -21842,11 +21854,11 @@ Burkina Faso, sa langue)
 \smf (péj : histoires)
 \xv à dálako ká cá
 \xf il a toujours qqch à redire
-\dt 03/Apr/2016
+\dt 08/Mar/2019
 
 \lx dálakon
 \mm dá:n:bouche
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm kón:n:porte
 \ps n
 \ms 1
@@ -21859,22 +21871,23 @@ Burkina Faso, sa langue)
 \xf enfoncer la porte
 \xv dálakon bɛ́ múnu-múnu à sèn kàn
 \xf la porte tourne sur ses gonds
-\dt 11/Nov/2007
+\dt 08/Mar/2019
 
 \lx dálakɔrɔbɔ
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm kɔ́rɔ:n:dessous
-\mm bɔ́:v:sortir
+\mm lá:pp:à
+\mm kɔ́rɔ.bɔ:v:essayer
+\mmm kɔ́rɔ:n:dessous
+\mmm bɔ́:v:sortir
 \ps v
 \vl vt
 \gf chercher.chicane
 \gvf chercher chicane
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dálakuma
 \mm dá:n:bouche
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm kúma:n:parole
 \ps n
 \gf parole
@@ -21882,17 +21895,17 @@ Burkina Faso, sa langue)
 \smf (de telle personne)
 \xv Í yé í mùso dálakuma mìnɛ (gn 3, 17)
 \xf tu as écouté la suggestion de ta femme
-\dt 11/Nov/2007
+\dt 08/Mar/2019
 
 \lx dálakuna
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm kúna:adj:amer
 \va dálakunan
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm kúnan:adj:amer
 \ps adj/n
 \gf médisant
@@ -21900,12 +21913,13 @@ Burkina Faso, sa langue)
 \gvf mauvaise langue
 \smf (qui parle désagréablement; personne aux remarques
 désobligeantes)
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálakùru
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm kùru:v:plier
+\mm lá.kùru:v:plier
+\mmm lá:mrph:CAUS
+\mmm kùru:v:plier
 \ps v
 \vl vt
 \ms 1
@@ -21913,7 +21927,7 @@ désobligeantes)
 \gvf faire taire
 \ms 2
 \gvf arrêter de travailler
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dálama
 \mm dá:n:bouche
@@ -21927,14 +21941,14 @@ désobligeantes)
 
 \lx dálamaga
 \mm dá:n:bouche
-\mm lámàga:v:remuer
-\mm lá:mrph:CAUS
-\mm màga:v:toucher
+\mm lá.màga:v:remuer
+\mmm lá:mrph:CAUS
+\mmm màga:v:toucher
 \va dálamaa
-\mm lámaga:v:remuer
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm màa:v:toucher
+\mm lá.maa:v:remuer
+\mmm lá:mrph:CAUS
+\mmm màa:v:toucher
 \ps n
 \ms 1
 \gf rappel
@@ -21943,17 +21957,18 @@ désobligeantes)
 \xf une chose convenue, il ne reste plus qu'à la rappeler  (dicton)
 \ms 2
 \gvf amuse-gueule
-\dt 19/Aug/2017
+\dt 08/Mar/2019
 
 \lx dálamàga
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm màga:v:toucher
+\mm lá.màga:v:remuer
+\mmm lá:mrph:CAUS
+\mmm màga:v:toucher
 \va dálamàa
-\mm lámaga:v:remuer
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm màa:v:toucher
+\mm lá.màa:v:remuer
+\mmm lá:mrph:CAUS
+\mmm màa:v:toucher
 \ps v
 \vl vt
 \gf remuer.la.bouche
@@ -21964,7 +21979,7 @@ désobligeantes)
 \gvf manger
 \gvf "s'occuper la bouche" en attendant
 le repas
-\dt 19/Aug/2017
+\dt 08/Mar/2019
 
 \lx dálamatɔ
 \mm dá:n:bouche
@@ -21988,8 +22003,9 @@ le repas
 
 \lx dálaminɛ
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm mìnɛ:v:attraper
+\mm lá.mìnɛ:v:maintenir
+\mmm lá:mrph:CAUS
+\mmm mìnɛ:v:attraper
 \ps n
 \ms 1
 \gf interprète
@@ -22001,12 +22017,13 @@ les entende)
 \ms 2
 \gvf réplique
 \gvf réponse irrévérencieuse
-\dt 12/Mar/2018
+\dt 08/Mar/2019
 
 \lx dálamìnɛ
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm mìnɛ:v:attraper
+\mm lá.mìnɛ:v:maintenir
+\mmm lá:mrph:CAUS
+\mmm mìnɛ:v:attraper
 \ps v
 \vl vt
 \ms 1
@@ -22027,12 +22044,12 @@ parfois péjoratif)
 \gvf répondre irrévérencieusement
 \gvf répliquer
 \gvf rétorquer
-\dt 19/Aug/2017
+\dt 08/Mar/2019
 
 \lx dálamisɛn
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
 \mm mìsɛn:adj:petit
 \ps adj/n
 \ms 1
@@ -22049,15 +22066,15 @@ parfois péjoratif)
 \gvf gourmand
 \sy dálandi
 \sy dárɔndi
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 
 \lx dálamìsɛnya
-\mm dálamisɛn:adj/n:bavard
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
-\mm mìsɛn:adj:petit
+\mm dála.misɛn:adj:bavard
+\mmm dá.la:n:bouche.active
+\mmmm dá:n:bouche
+\mmmm la:mrph:à
+\mmm mìsɛn:adj:petit
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -22066,7 +22083,7 @@ parfois péjoratif)
 \gvf parler trop
 \ms 2
 \gvf critiquer pour des riens
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálan
 \mm dá:v:poser
@@ -22082,19 +22099,19 @@ parfois péjoratif)
 \dt 09/Jul/2013
 
 \lx dálandi
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lan:mrph:dans
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm lan:mrph:à
 \mm dí:vq:agréable
 \va dámandi
-\mm dáma:n:bouche.active
-\mm dá:n:bouche
-\mm man:mrph:SUPER
+\mm dá.ma:n:bouche.active
+\mmm dá:n:bouche
+\mmm man:mrph:SUPER
 \mm dí:vq:agréable
 \va dárɔndi
-\mm dárɔ:n:bouche.active
-\mm dá:n:bouche
-\mm rɔ:mrph:IN
+\mm dá.rɔ:n:bouche.active
+\mmm dá:n:bouche
+\mmm rɔ:mrph:IN
 \mm dí:vq:agréable
 \ve (f)
 \ps adj/n
@@ -22105,35 +22122,35 @@ parfois péjoratif)
 \gvf importun
 \gvf indiscret
 \sy dálamisɛn
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálango
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lan:mrph:dans
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm lan:mrph:à
 \mm gó:adj:désagréable
 \va dámango
-\mm dáma:n:bouche.active
-\mm dá:n:bouche
-\mm man:mrph:SUPER
+\mm dá.ma:n:bouche.active
+\mmm dá:n:bouche
+\mmm man:mrph:SUPER
 \mm gó:adj:désagréable
 \ps adj/n
 \gf fielleux
 \gvf fielleux
 \smf (qui parle mal; qui répond de façon desagréable ou ne répond
 pas)
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálankolon
 \mm dá:n:bouche
 \mm lán.kolon:adj:vide
-\mm lan:mrph:dans
-\mm kólon:adj:vide
+\mmm lan:mrph:dans
+\mmm kólon:adj:vide
 \va dá.rɔn.kolon
 \mm dá:n:bouche
 \mm rɔ́n.kolon:adj:vide
-\mm rɔ́n:mrph:IN
-\mm kólon:adj:vide
+\mmm rɔ́n:mrph:IN
+\mmm kólon:adj:vide
 \ps adj/n
 \ms 1
 \gf édenté
@@ -22142,16 +22159,17 @@ pas)
 \ms 2
 \gvf qui n'a rien à dire
 \gvf sans rien dire
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálannabana
-\mm dá:v:poser
-\mm lan:mrph:INSTR
-\mm na:mrph:LOC
+\mm dá.lan:n:lit
+\mmm dá:v:poser
+\mmm lan:mrph:INSTR
+\mm ná:pp:à
 \mm bàna:n:maladie
 \va dlán.na.bana
 \mm dlán:n:lit
-\mm na:mrph:LOC
+\mm ná:pp:à
 \mm bàna:n:maladie
 \ps n
 \ph [dl]
@@ -22159,12 +22177,13 @@ pas)
 \gvf impuissance sexuelle
 \sy jàlagɔsi
 \sy cɛ̀yasa
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dálaɲini
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm ɲíni:v:chercher
+\mm lá.ɲini:v:chercher
+\mmm lá:mrph:CAUS
+\mmm ɲíni:v:chercher
 \ps v
 \ms 1.1
 \vl vt
@@ -22179,24 +22198,26 @@ pas)
 \gvf chercher
 \xv ù b'ú jíja  kà màminalifɛn bɛ́ɛ dálaɲini
 \xf ils s'efforcent de rechercher tous les cadeaux traditionnels de fiançailles
-\dt 19/Aug/2017
+\dt 08/Mar/2019
 
 \lx dálaɲini
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm ɲíni:v:chercher
+\mm lá.ɲini:v:chercher
+\mmm lá:mrph:CAUS
+\mmm ɲíni:v:chercher
 \ps n
 \gf provocation
 \gvf provocation
-\dt 19/Aug/2017
+\dt 08/Mar/2019
 
 \lx dálasà
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
-\mm sà:v:mourir
+\mm lá.sà:v:faire.mourir
+\mmm lá:mrph:CAUS
+\mmm sà:v:mourir
 \va dá.rɔ.sà
 \mm dá:n:bouche
-\mm rɔ́:mrph:CAUS
+\mm rɔ́:mrph:IN
 \mm sà:v:mourir
 \ve (f)
 \ps v
@@ -22204,7 +22225,7 @@ pas)
 \gf empêcher
 \gvf empêcher
 \smf (une action)
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dàlasaɲɔ
 \mm dàla:n:lac
@@ -22233,17 +22254,17 @@ pas)
 
 \lx dálasi
 \mm dá:n:bouche
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm sí:n:poil
 \ps n
 \gf moustache
 \gvf moustache
 \sy núkɔrɔsi
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dálasigi
 \mm dá:n:bouche
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm sìgi:n:position.assise
 \ve (f)
 \ps n
@@ -22256,11 +22277,11 @@ pas)
 \gvf portier
 \ms 3
 \gvf classe du "kɔmɔ"
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dálasìgi
 \mm dá:n:bouche
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm sìgi:v:asseoir
 \ps v
 \vl vt
@@ -22269,24 +22290,24 @@ pas)
 \gvf prendre position près de
 \xv ú yé á dálasigi ní ká á kɛ́lɛ (jó 10, 34)
 \xf ils l'assiégèrent et l'attaquèrent
-\dt 11/Nov/2007
+\dt 08/Mar/2019
 
 \lx dálasɔ̀n
 \mm dá:n:bouche
-\mm lá:mrph:CAUS
+\mm lá:pp:à
 \mm sɔ̀n:v:accepter
 \ps v
 \vl vt
 \gf tenir.sa.langue
 \gvf tenir sa langue
 \gvf être discret
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dálasuma
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
-\mm súma:adj:lent
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm súma:vq:lent
 \ps adj/n
 \ms 1
 \gf retenu
@@ -22295,13 +22316,13 @@ pas)
 \ms 2
 \gvf discret
 \smf (qui sait garder les secrets)
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálateli
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
-\mm téli:adj:rapide
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm téli:vq:rapide
 \ps adj/n
 \ms 1
 \gf moulin.à.paroles
@@ -22309,13 +22330,14 @@ pas)
 \smf (qui parle vite)
 \ms 2
 \gvf prompt à insulter
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dálateliya
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
-\mm téli:adj:rapide
+\mm dála.teli:adj:moulin.à.paroles
+\mmm dá.la:n:bouche.active
+\mmmm dá:n:bouche
+\mmmm la:mrph:à
+\mmm téli:vq:rapide
 \mm ya:mrph:ABSTR
 \ps v
 \ms 1
@@ -22325,18 +22347,19 @@ pas)
 \ms 2
 \vl vr
 \gvf s'empresser à parler
-\dt 19/Aug/2017
+\dt 08/Mar/2019
 
 \lx dálateliya
-\mm dála:n:bouche.active
-\mm dá:n:bouche
-\mm lá:pp:à
-\mm téli:adj:rapide
+\mm dála.teli:adj:moulin.à.paroles
+\mmm dá.la:n:bouche.active
+\mmmm dá:n:bouche
+\mmmm la:mrph:à
+\mmm téli:vq:rapide
 \mm ya:mrph:ABSTR
 \ps n
 \gf empressement.à.parler
 \gvf empressement à parler
-\dt 23/Mar/2015
+\dt 08/Mar/2019
 
 \lx dáli
 \mm dá:v:poser
@@ -22360,33 +22383,36 @@ pas)
 \dt 11/Nov/2007
 
 \lx dáliba
-\mm dá:v:créer
-\mm li:mrph:NMLZ
+\mm dá.li:n:création
+\mmm dá:v:créer
+\mmm li:mrph:NMLZ
 \mm ba:mrph:AUGM
 \ps n
 \gf cotonnade.traditionnelle
 \gvf cotonnade traditionnelle
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dálibana
-\mm dá:v:poser
-\mm li:mrph:NMLZ
+\mm dá.li:n:action.de.poser
+\mmm dá:v:poser
+\mmm li:mrph:NMLZ
 \mm bàna:n:maladie
 \ps n
 \gf maladie
 \gvf maladie
 \smf (qui force à s'aliter)
 \rem ex 21,18
-\dt 11/Nov/2007
+\dt 08/Mar/2019
 
 \lx dálifini
-\mm dá:v:créer
-\mm li:mrph:NMLZ
+\mm dá.li:n:création
+\mmm dá:v:créer
+\mmm li:mrph:NMLZ
 \mm fìni:n:tissu
 \ps n
 \gf cotonnade.traditionnelle
 \gvf cotonnade traditionnelle
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dàlilu
 \va dàlu
@@ -22438,7 +22464,7 @@ pas)
 \lx dàliluya
 \mm dàlilu:n:cause
 \mm ya:mrph:ABSTR
-\va dàlu.ya
+\va dàluya
 \mm dàlu:n:cause
 \mm ya:mrph:ABSTR
 \ps n
@@ -22448,12 +22474,12 @@ pas)
 \gvf raison
 \xv ò dàliluya bɛ́ɛ sɔ̀rɔlen sísan
 \xf toutes ces solutions ont été trouvées de nos jours (césarienne ...)
-\dt 24/Jun/2013
+\dt 08/Mar/2019
 
 \lx dàliluya
 \mm dàlilu:n:cause
 \mm ya:mrph:ABSTR
-\va dàlu.ya
+\va dàluya
 \mm dàlu:n:cause
 \mm ya:mrph:ABSTR
 \ve (bk)
@@ -22466,7 +22492,7 @@ pas)
 \gvf amener à faire
 \xv à dàliluya  kà táa  fèereli kɛ́ :
 \xf permets-lui de faire du commerce
-\dt 24/Jun/2013
+\dt 08/Mar/2019
 
 \lx dàma
 \va dàman
@@ -22585,14 +22611,15 @@ pas)
 
 \lx dámàda
 \mm dá:n:bouche
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mm mà.dá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
 \ps v
 \vl vr
 \gf être.humble
 \gvf être humble
 \smf (dans ses propos, son attitude)
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dàmadàma
 \va dàma-dàma
@@ -22610,12 +22637,14 @@ pas)
 \dt 14/Aug/2017
 
 \lx dámadɔ
-\mm dán:n:compte
-\mm ma:mrph:COM
+\mm dán.ma:n:nombre
+\mmm dán:n:compte
+\mmm ma:mrph:COM
 \mm dɔ́:dtm:certain
 \va dán.ma.dɔ
-\mm dán:n:compte
-\mm ma:mrph:COM
+\mm dán.ma:n:nombre
+\mmm dán:n:compte
+\mmm ma:mrph:COM
 \mm dɔ́:dtm:certain
 \ps dtm
 \gf quelques
@@ -22624,7 +22653,7 @@ pas)
 \xv kà ŋɔ̀mi dánmadɔ jíran (gn 18, 6)
 \xf faire quelques galettes
 \rem du et gn : ton haut
-\dt 05/Jun/2016
+\dt 08/Mar/2019
 
 \lx dàmadɔnbali
 \mm dàma:n:limite
@@ -22636,26 +22665,29 @@ pas)
 \dt 12/Aug/2006
 
 \lx dámadɔnin
-\mm dán:n:compte
-\mm ma:mrph:COM
-\mm dɔ́:dtm:certain
+\mm dáma.dɔ:dtm:quelques
+\mmm dán.ma:n:nombre
+\mmmm dán:n:compte
+\mmmm ma:mrph:COM
+\mmm dɔ́:dtm:certain
 \mm nin:mrph:DIM
 \ps dtm
 \gf quelques
 \gvf quelques
 \gvf plusieurs
-\dt 20/Oct/2017
+\dt 08/Mar/2019
 
 \lx dámajalan
 \mm jàlan:adj:sec
 \va ntámajalan
+\mm jàlan:adj:sec
 \ps n
 \gf blennorragie
 \gvf blennorragie
 \gvf stade avancée de bilharziose
 \gvf urétrites de toutes origines et bilharziose
 \sy sópisi
-\dt 06/Jul/2017
+\dt 08/Mar/2019
 
 \lx dámajatɔ
 \mm dá:n:bouche
@@ -22671,7 +22703,7 @@ pas)
 \lx dàmajira
 \mm dàma:n:limite
 \mm jìra:v:montrer
-\va dàma.yira
+\va dàmayira
 \mm dàma:n:limite
 \mm yìra:v:montrer
 \ps n
@@ -22679,12 +22711,13 @@ pas)
 \gvf maximum
 \xv à yé  à séko dàmayira kɛ́
 \xf il a fait tout son possible
-\dt 10/Jan/2015
+\dt 08/Mar/2019
 
 \lx dámakasi
 \mm dá:n:bouche
-\mm mà:mrph:SUPER
-\mm kàsi:v:pleurer
+\mm mà.kàsi:v:plaindre
+\mmm mà:mrph:SUPER
+\mmm kàsi:v:pleurer
 \ps n
 \ms 1
 \gf supplication
@@ -22693,12 +22726,13 @@ pas)
 \gvf invocation
 \ms 2
 \gvf plaidoyer
-\dt 09/Dec/2018
+\dt 08/Mar/2019
 
 \lx dámakàsi
 \mm dá:n:bouche
-\mm mà:mrph:SUPER
-\mm kàsi:v:pleurer
+\mm mà.kàsi:v:plaindre
+\mmm mà:mrph:SUPER
+\mmm kàsi:v:pleurer
 \ps v
 \ms 1
 \vl vt
@@ -22715,7 +22749,7 @@ pas)
 \vl vr
 \gvf faire un pladoyer
 \smf (en faveur de -- lá)
-\dt 09/Dec/2018
+\dt 08/Mar/2019
 
 \lx dàmakɛnyɛ
 \mm dàma:n:limite
@@ -22804,8 +22838,9 @@ rétribution mais à titre de réciprocité)
 
 \lx dámaɲini
 \mm dá:n:bouche
-\mm mà:mrph:SUPER
-\mm ɲíni:v:chercher
+\mm mà.ɲíni:v:chercher.à.atteindre
+\mmm mà:mrph:SUPER
+\mmm ɲíni:v:chercher
 \ps v
 \vl vt
 \ms 1
@@ -22814,12 +22849,14 @@ rétribution mais à titre de réciprocité)
 \ms 2
 \gvf chercher chicane à
 \gvf taquiner
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dámaɲinikɛla
-\mm dá:n:bouche
-\mm mà:mrph:SUPER
-\mm ɲíni:v:chercher
+\mm dá.maɲini:v:quémander.de.la.nourriture
+\mmm dá:n:bouche
+\mmm mà.ɲíni:v:chercher.à.atteindre
+\mmmm mà:mrph:SUPER
+\mmmm ɲíni:v:chercher
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -22828,52 +22865,56 @@ rétribution mais à titre de réciprocité)
 \gvf quémandeur
 \ms 2
 \gvf chicaneur
-\dt 15/Aug/2006
+\dt 08/Mar/2019
 
 \lx dàmatɛmɛ
 \mm dàma:n:limite
 \mm tɛ̀mɛ:v:passer
-\va dàn.ma.tɛmɛ
-\mm dàn.ma:n:limite
+\va dànmatɛmɛ
+\mm dàn:n:limite
+\mm ma:mrph:SUPER
 \mm tɛ̀mɛ:v:passer
 \ps adv.p
 \gf excessivement
 \gvf excessivement
-\dt 28/Nov/2012
+\dt 08/Mar/2019
 
 \lx dàmatɛmɛ
 \mm dàma:n:limite
 \mm tɛ̀mɛ:v:passer
-\va dàn.ma.tɛmɛ
-\mm dàn.ma:n:limite
+\va dànmatɛmɛ
+\mm dàn:n:limite
+\mm ma:mrph:SUPER
 \mm tɛ̀mɛ:v:passer
 \ps adj
 \gf excessif
 \gvf excessif
-\dt 28/Nov/2012
+\dt 08/Mar/2019
 
 \lx dàmatɛmɛ
 \mm dàma:n:limite
 \mm tɛ̀mɛ:v:passer
-\va dàn.ma.tɛmɛ
-\mm dàn.ma:n:limite
+\va dànmatɛmɛ
+\mm dàn:n:limite
+\mm ma:mrph:SUPER
 \mm tɛ̀mɛ:v:passer
 \ps n
 \gf affaire.excessive
 \gvf affaire excessive
-\dt 28/Nov/2012
+\dt 08/Mar/2019
 
 \lx dàmatɛ̀mɛ
 \mm dàma:n:limite
 \mm tɛ̀mɛ:v:passer
-\va dàn.ma.tɛ̀mɛ
-\mm dàn.ma:n:limite
+\va dànmatɛ̀mɛ
+\mm dàn:n:limite
+\mm ma:mrph:SUPER
 \mm tɛ̀mɛ:v:passer
 \ps v
 \gf exagérer
 \gvf exagérer
 \gvf être excessif
-\dt 28/Nov/2012
+\dt 08/Mar/2019
 
 \lx dáminɛ
 \mm dá:n:bouche
@@ -23105,11 +23146,11 @@ devenir incontrôlable
 \dt 08/Dec/2018
 
 \lx dánanjugu
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \gf égoïste
 \gvf égoïste
-\dt 03/Apr/2016
+\dt 08/Mar/2019
 
 \lx dànbe
 \ps n
@@ -23127,15 +23168,15 @@ devenir incontrôlable
 \dt 26/Sep/2006
 
 \lx dànbilen
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \va dànblen
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf kola.rouge
 \gvf kola rouge
 \smf (souvent utilisée dans les sacrifices ...)
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dànbɔ
 \mm dàn:n:limite
@@ -23206,14 +23247,14 @@ devenir incontrôlable
 \lx dánfɛn
 \mm dán:v:creer
 \mm fɛ́n:n:chose
-\va dá.fɛn
+\va dáfɛn
 \mm dá:v:creer
 \mm fɛ́n:n:chose
 \ps n
 \gf créature
 \gvf créature
 \gvf être
-\dt 01/Jun/2017
+\dt 08/Mar/2019
 
 \lx dànfin
 \ps n
@@ -23279,8 +23320,9 @@ devenir incontrôlable
 \dt 26/Sep/2006
 
 \lx dángadenya
-\mm dánga:n:malédiction
-\mm dén:n:enfant
+\mm dánga.den:n:maudit
+\mmm dánga:n:malédiction
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -23293,7 +23335,7 @@ devenir incontrôlable
 \gf rendre.vaurien
 \gvf rendre vaurien
 \gvf dépraver
-\dt 26/Sep/2006
+\dt 08/Mar/2019
 
 \lx dángalikuma
 \mm dánga:v:maudire
@@ -23320,15 +23362,16 @@ devenir incontrôlable
 \dt 26/Sep/2006
 
 \lx dàngatɔya
-\mm dànga:vq:malpropre
-\mm tɔ:mrph:ST
+\mm dànga.tɔ:adj:sale
+\mmm dànga:vq:malpropre
+\mmm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
 \ps n
 \gf souillure
 \gvf souillure
 \smf (sens concret ou moral) : impudicité, immoralité
 \xv kàrisa ká dángatɔya dlánko
-\dt 11/Nov/2007
+\dt 08/Mar/2019
 
 \lx dàngaya
 \mm dànga:vq:malpropre
@@ -23481,15 +23524,22 @@ devenir incontrôlable
 \mm kɛ́nɛ:n:clarté
 \mm mà:pp:ADR
 \mm ya:mrph:ABSTR
+\va dákɛnɛmaya
+\mm dá:v:poser
+\mm kɛ́nɛ:n:clarté
+\mm mà:pp:ADR
+\mm ya:mrph:ABSTR
 \ps v
 \ms 1
+\vl vt
 \gf éclaircir
 \gvf éclaircir
 \gvf préciser
 \gvf mettre au clair
 \ms 2
+\vl vt
 \gvf confirmer
-\dt 31/Mar/2014
+\dt 08/Mar/2019
 
 \lx dànkɔnɔba
 \mm dà:n:chanvre
@@ -23505,31 +23555,31 @@ devenir incontrôlable
 \lx dànkɔrɔ
 \mm dàn:n:dépassement
 \mm kɔrɔ:adj:mâle.adulte
-\va dàn.kɔrɔ.ba
+\va dànkɔrɔba
 \mm dàn:n:dépassement
 \mm kɔrɔ:adj:mâle.adulte
 \mm ba:mrph:AUGM
-\sy dànkelen
 \ps n
 \ms 1
 \gf vieux.solitaire
 \gvf vieux solitaire
 \smf (animal)
+\sy dànkelen
 \ms 2
 \gvf expert
 \smf (personne pleine d'expérience)
-\dt 16/Aug/2006
+\dt 08/Mar/2019
 
 \lx dànkɔrɔbaya
-\mm dàn:n:dépassement
-\mm kɔrɔ:adj:mâle.adulte
-\mm ba:mrph:AUGM
+\mm dàn.kɔrɔ.ba:n:vieux.solitaire
+\mmm dàn:n:dépassement
+\mmm kɔrɔ:adj:mâle.adulte
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf héroïsme
 \gvf héroïsme
-\rem ex 15, 11
-\dt 11/Nov/2007
+\dt 08/Mar/2019
 
 \lx dànkun
 \va dàankun
@@ -23562,8 +23612,7 @@ devenir incontrôlable
 \dt 20/Jun/2014
 
 \lx dànkunnayeelenbɔlan
-\mm dàn:v:s'arrêter
-\mm kùn:n:tête
+\mm dànkun:n:carrefour
 \mm ná:pp:à
 \mm yéelen:n:lumière
 \mm bɔ́:v:sortir
@@ -23573,7 +23622,7 @@ devenir incontrôlable
 \gvf feux de croisement
 \xv dànkunnayeelenbɔlan mínnu kárila Máli-Tógo ntòlatan kɔ́ fɛ̀...
 \xf (la réparation) des feux de croisement cassés après le match Mali-Togo (a coûté 100 million CFA) (kb 4/05 p.5)
-\dt 11/Nov/2007
+\dt 08/Mar/2019
 
 \lx dànkuru
 \mm dàn:n:mal.de.Pott
