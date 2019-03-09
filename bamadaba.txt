@@ -15554,11 +15554,11 @@ enfants
 \gf personne.à.peau.éclaircie
 \ms 1
 \gvf personne à peau éclaircie
-\smf (le plus souvent, femmes)
+\smf (le plus souvent, femmes; dans ce sens, surtout la forme avec un -c- à l'intérieur: cáaco, cáco)
 \ms 2
 \gvf bétail bai en tête-blanc aux pattes
 \smf (ce sens est originel, mais peu connu)
-\dt 04/Mar/2019
+\dt 09/Mar/2019
 
 \lx caan
 \ps onomat
@@ -23624,6 +23624,15 @@ devenir incontrôlable
 \xf (la réparation) des feux de croisement cassés après le match Mali-Togo (a coûté 100 million CFA) (kb 4/05 p.5)
 \dt 08/Mar/2019
 
+\lx dànkunntan
+\mm dànkun:n:carrefour
+\mm ntan:mrph:PRIV
+\ps adj
+\gf sans.limites
+\gvf sans limites
+\gvf sans bornes
+\dt 09/Mar/2019
+
 \lx dànkuru
 \mm dàn:n:mal.de.Pott
 \mm kùru:n:boule
@@ -23642,23 +23651,24 @@ devenir incontrôlable
 \lx dánma
 \mm dán:n:compte
 \mm ma:mrph:COM
-\va dá.ma
+\va dáma
 \mm dán:n:compte
 \mm ma:mrph:COM
 \ps n
 \gf nombre
 \gvf nombre
-\dt 28/Nov/2012
+\dt 09/Mar/2019
 
 \lx dànmako
-\mm dàn:n:limite
-\mm mà:pp:ADR
+\mm dàn.ma:n:spécial
+\mmm dàn:n:limite
+\mmm mà:pp:ADR
 \mm kó:n:affaire
 \ps n
 \gf cas.à.part
 \gvf cas à part
 \smf (quelque chose de spécial)
-\dt 26/Sep/2006
+\dt 09/Mar/2019
 
 \lx dànna
 \mm dàn:n:limite
@@ -23687,9 +23697,10 @@ génitales ...)
 \dt 03/Apr/2016
 
 \lx dánnabaa
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
+\mm dá.n.na:n:foi
+\mmm dá:v:poser
+\mmm ń:pers:1SG
+\mmm ná:pp:à
 \mm baa:mrph:AG.OCC
 \ps n
 \ms 1
@@ -23697,12 +23708,13 @@ génitales ...)
 \gvf croyant
 \ms 2
 \gvf personne de confiance
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dánnabali
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
+\mm dá.n.na:n:foi
+\mmm dá:v:poser
+\mmm ń:pers:1SG
+\mmm ná:pp:à
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \ms 1
@@ -23710,13 +23722,15 @@ génitales ...)
 \gvf mécréant
 \ms 2
 \gvf personne en qui l'on n'a pas confiance
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dánnabaliya
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
-\mm bali:mrph:PTCP.PRIV
+\mm dánna.bali
+\mmm dá.n.na:n:foi
+\mmmm dá:v:poser
+\mmmm ń:pers:1SG
+\mmmm ná:pp:à
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n 
 \ms 1
@@ -23724,7 +23738,7 @@ génitales ...)
 \gvf incroyance
 \ms 2
 \gvf défiance
-\dt 12/Aug/2006
+\dt 09/Mar/2019
 
 \lx dànnaci
 \mm dàn:n:limite
@@ -23735,40 +23749,46 @@ génitales ...)
 \gvf précision
 \dt 31/Jul/2018
 
-\lx dánnamaa
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
-\mm màa:n:homme
-\va dá.n.na.mɔgɔ
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
+\lx dánnamɔgɔ
+\mm dá.n.na:n:foi
+\mmm dá:v:poser
+\mmm ń:pers:1SG
+\mmm ná:pp:à
 \mm mɔ̀gɔ:n:homme
+\va dánnamaa
+\mm dá.n.na:n:foi
+\mmm dá:v:poser
+\mmm ń:pers:1SG
+\mmm ná:pp:à
+\mm màa:n:homme
 \ps n
 \gf homme.de.confiance
 \gvf homme de confiance
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dánnaɲɔgɔn
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
+\mm dá.n.na:n:foi
+\mmm dá:v:poser
+\mmm ń:pers:1SG
+\mmm ná:pp:à
 \mm ɲɔ̀gɔn:n:pareil
 \ps n
 \gf confident
 \gvf confident
-\dt 12/Aug/2006
+\dt 09/Mar/2019
 
 \lx dánnaɲɔgɔnya
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
-\mm ɲɔ̀gɔn:n:pareil
+\mm dánna.ɲɔgɔn
+\mmm dá.n.na:n:foi
+\mmmm dá:v:poser
+\mmmm ń:pers:1SG
+\mmmm ná:pp:à
+\mmm ɲɔ̀gɔn:n:pareil
 \mm ya:mrph:ABSTR
 \ps n
 \gf confiance
 \gvf confiance
+\dt 09/Mar/2019
 
 \lx dànnaselen
 \mm dàn:n:limite
@@ -23792,39 +23812,45 @@ génitales ...)
 \dt 16/Aug/2006
 
 \lx dànnatigɛli
-\mm dàn:n:limite
-\mm ná:pp:à
-\mm tìgɛ:v:couper
+\mm dàn.ná.tìgɛ
+\mmm dàn:n:limite
+\mmm ná:pp:à
+\mmm tìgɛ:v:couper
 \mm li:mrph:NMLZ
 \ps n 
 \gf mot.de.présentation
 \gvf mot de présentation
 \xv dànnatigɛli bánna tùma mín ná...
 \xf quand toutes les présentations furent terminées ... (kb 9/05 p.8)
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dánnaya
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
+\mm dá.n.na:n:foi
+\mmm dá:v:poser
+\mmm ń:pers:1SG
+\mmm ná:pp:à
 \mm ya:mrph:ABSTR
 \ps n
 \gf foi
 \gvf foi
 \gvf confiance
-\dt 13/Jan/2015
+\dt 09/Mar/2019
 
 \lx dánnayamɔgɔ
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
-\mm ya:mrph:ABSTR
+\mm dánna.ya
+\mmm dá.n.na:n:foi
+\mmmm dá:v:poser
+\mmmm ń:pers:1SG
+\mmmm ná:pp:à
+\mmmm ya:mrph:ABSTR
 \mm mɔ̀gɔ:n:homme
-\va dá.n.na.ya.maa
-\mm dá:v:poser
-\mm ń:pers:1SG
-\mm ná:pp:à
-\mm ya:mrph:ABSTR
+\va dánnayamaa
+\mm dánna.ya
+\mmm dá.n.na:n:foi
+\mmmm dá:v:poser
+\mmmm ń:pers:1SG
+\mmmm ná:pp:à
+\mmmm ya:mrph:ABSTR
 \mm màa:n:homme
 \ps n
 \gf personne.de.confiance
@@ -23832,7 +23858,7 @@ génitales ...)
 \sy dánnamɔgɔ
 \sy dánnamaa
 \nt LD p.5
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dànni
 \mm dàn:v:semer
@@ -23857,104 +23883,110 @@ génitales ...)
 \dt 16/Aug/2006
 
 \lx dànnidingɛ
-\mm dàn:v:semer
-\mm ni:mrph:NMLZ
+\mm dàn.ni:n:semis
+\mmm dàn:v:semer
+\mmm ni:mrph:NMLZ
 \mm dìngɛ:n:trou
 \ps n
 \gf poquet
 \gvf poquet
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dànniji
-\mm dàn:v:semer
-\mm ni:mrph:NMLZ
+\mm dàn.ni:n:semis
+\mmm dàn:v:semer
+\mmm ni:mrph:NMLZ
 \mm jí:n:eau
 \ps n
 \gf pluie.qui.permet.de.semer
 \gvf pluie qui permet de semer
 \smf (assez abondante)
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dànnikɛla
-\mm dàn:v:semer
-\mm ni:mrph:NMLZ
+\mm dàn.ni:n:semis
+\mmm dàn:v:semer
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf semeur
 \gvf semeur
+\dt 09/Mar/2019
 
 \lx dànnikɛlan
-\mm dàn:v:semer
-\mm ni:mrph:NMLZ
+\mm dàn.ni:n:semis
+\mmm dàn:v:semer
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm lan:mrph:INSTR
 \ps n
 \gf semoir
 \gvf semoir
+\dt 09/Mar/2019
 
 \lx dànnikɛmasin
-\mm dàn:v:semer
-\mm ni:mrph:NMLZ
+\mm dàn.ni:n:semis
+\mmm dàn:v:semer
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm màsin:n:machine
 \ps n
 \gf semoir
 \gvf semoir
 \rem du, Jos
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dànnikoro
-\mm dàn:v:semer
-\mm ni:mrph:NMLZ
+\mm dàn.ni:n:semis
+\mmm dàn:v:semer
+\mmm ni:mrph:NMLZ
 \mm kóro:n:calebasse
-\va dàn.ni.kɛ.koro
-\mm dàn:v:semer
-\mm ni:mrph:NMLZ
+\va dànnikɛkoro
+\mm dàn.ni:n:semis
+\mmm dàn:v:semer
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm kóro:n:calebasse
 \ps n
 \gf petite.calebasse.pour.semer
 \gvf petite calebasse pour semer
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dànnisanji
-\mm dàn:v:semer
-\mm ni:mrph:NMLZ
-\mm sán:n:ciel
-\mm jí:n:eau
+\mm dàn.ni:n:semis
+\mmm dàn:v:semer
+\mmm ni:mrph:NMLZ
+\mm sán.ji:n:pluie
+\mmm sán:n:ciel
+\mmm jí:n:eau
 \ps n
 \gf pluie.qui.permet.de.semer
 \gvf pluie qui permet de semer
 \smf (assez abondante)
 \sy dànniji
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dànnisira
-\mm dàn:v:semer
-\mm ni:mrph:NMLZ
+\mm dàn.ni:n:semis
+\mmm dàn:v:semer
+\mmm ni:mrph:NMLZ
 \mm síra:n:chemin
 \ps n
 \gf sillon
 \gvf sillon
-
-\lx dànnkuntan
-\ps adj
-\gf sans.limites
-\gvf sans limites
-\gvf sans bornes
-\dt 14/Feb/2017
+\dt 09/Mar/2019
 
 \lx dánɔgɔ
 \mm dá:n:bouche
-\mm nɔ̀gɔ:vq:facile
-\va dá.nɔgɔn
+\mm nɔ̀gɔ:adj:facile
+\va dánɔgɔn
 \mm dá:n:bouche
-\mm nɔ̀gɔn:vq:facile
+\mm nɔ̀gɔn:adj:facile
 \ps adj
 \gf bon.marché
 \gvf bon marché
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dánɔrɔ
 \mm dá:n:bouche
@@ -24008,14 +24040,15 @@ génitales ...)
 \dt 19/Dec/2014
 
 \lx dànsagonwale
-\mm dàn:n:limite
-\mm sàgon:v:sauter.par.dessus
+\mm dàn.sagon:n:transgression
+\mmm dàn:n:limite
+\mmm sàgon:v:sauter.par.dessus
 \mm wále:n:acte
 \ps n
 \gf désobéissance
 \gvf désobéissance
 \smf (révolte / faute)
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dànsigi
 \mm dàn:n:limite
@@ -24030,20 +24063,24 @@ génitales ...)
 \mm dàn:n:limite
 \mm sìgi:v:asseoir
 \ps v
-\vl vt ?
 \ms 1
+\vl vt
 \gf délimiter
 \gvf délimiter
 \gvf élaborer
 \ms 2
+\vl vt
 \gvf déterminer
 \gvf définir
 \ms 3
-\gvf mettre un terme à
+\vl vi
+\gvf mettre un terme
+\smf (à -- lá)
 \ms 4
+\vl vt
 \gvf respecter
 \gvf avoir des égards 
-\dt 06/Feb/2016
+\dt 09/Mar/2019
 
 \lx dántan
 \mm dá:n:bouche
@@ -24058,18 +24095,20 @@ génitales ...)
 \dt 26/Sep/2006
 
 \lx dántanfɛn
-\mm dá:n:bouche
-\mm ntan:mrph:PRIV
+\mm dá.ntan:n:muet
+\mmm dá:n:bouche
+\mmm ntan:mrph:PRIV
 \mm fɛ́n:n:chose
 \ps n
 \gf bête
 \gvf bête
 \smf (être sans parole : animal)
-\dt 26/Sep/2006
+\dt 09/Mar/2019
 
 \lx dántanya
-\mm dá:n:bouche
-\mm ntan:mrph:PRIV
+\mm dá.ntan:n:muet
+\mmm dá:n:bouche
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -24077,11 +24116,12 @@ génitales ...)
 \gvf mutisme
 \ms 2
 \gvf condition d'animal
-\dt 26/Sep/2006
+\dt 09/Mar/2019
 
 \lx dántanya
-\mm dá:n:bouche
-\mm ntan:mrph:PRIV
+\mm dá.ntan:n:muet
+\mmm dá:n:bouche
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -24089,7 +24129,7 @@ génitales ...)
 \gvf rendre muet
 \xv jàlibana y'á dántanya
 \xf la méningite l'a rendu muet
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dàntɛmɛ
 \mm dàn:n:limite
@@ -24141,8 +24181,9 @@ génitales ...)
 \dt 22/Apr/2018
 
 \lx dàntigɛli
-\mm dàn:n:limite
-\mm tìgɛ:v:couper
+\mm dàn.tìgɛ:v:s'expliquer
+\mmm dàn:n:limite
+\mmm tìgɛ:v:couper
 \mm li:mrph:NMLZ
 \ps n
 \ms 1
@@ -24155,7 +24196,7 @@ génitales ...)
 \smf (d'une narration, d'une rédaction ...)
 \xv dàntigɛli kɔ́nɔ, í bɛ́na kó mín lákali, í b'ó péreperelatigɛ
 \xf dans une introduction, tu précises ce que tu vas raconter ... (kb 2/06 p.8)
-\dt 23/Jun/2018
+\dt 09/Mar/2019
 
 \lx dàntɔ
 \mm dàn:n:limite
@@ -24195,7 +24236,7 @@ génitales ...)
 \lx dáɲɛ
 \mm dá:v:poser
 \mm ɲɛ́:n:fois
-\va dá.ɲa
+\va dáɲa
 \mm dá:v:poser
 \mm ɲá:n:fois
 \ve (f)
@@ -24210,42 +24251,45 @@ génitales ...)
 \ms 3
 \gvf mot
 \smf (grammatical)
-\dt 09/Jun/2014
+\dt 09/Mar/2019
 
 \lx dáɲɛburuju
-\mm dá:v:poser
-\mm ɲɛ́:n:fois
-\mm bùru:v:tomber
-\mm jù:n:derrière
+\mm dá.ɲɛ:n:fois
+\mmm dá:v:poser
+\mmm ɲɛ́:n:fois
+\mm búruju:n:origine
 \ps n
 \gf étymologie
 \gvf étymologie
 \smf (néo)
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dáɲɛdili
-\mm dá:v:poser
-\mm ɲɛ́:n:fois
+\mm dá.ɲɛ:n:fois
+\mmm dá:v:poser
+\mmm ɲɛ́:n:fois
 \mm díli:n:racine
 \va dá.ɲɛ.gili
-\mm dá:v:poser
-\mm ɲɛ́:n:fois
+\mm dá.ɲɛ:n:fois
+\mmm dá:v:poser
+\mmm ɲɛ́:n:fois
 \mm gíli:n:racine
 \ps n
 \gf racine.d'un.mot
 \gvf racine d'un mot
 \smf (néo)
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dáɲɛgafe
-\mm dá:v:poser
-\mm ɲɛ́:n:fois
+\mm dá.ɲɛ:n:fois
+\mmm dá:v:poser
+\mmm ɲɛ́:n:fois
 \mm gáfe:n:livre
 \ps n
 \gf lexique
 \gvf lexique
 \gvf dictionnaire
-\dt 26/Sep/2006
+\dt 09/Mar/2019
 
 \lx dáɲɛkun
 \mm dá:n:bouche
@@ -24258,25 +24302,27 @@ génitales ...)
 \dt 16/Aug/2006
 
 \lx dáɲɛsɛbɛn
-\mm dá:v:poser
-\mm ɲɛ́:n:fois
+\mm dá.ɲɛ:n:fois
+\mmm dá:v:poser
+\mmm ɲɛ́:n:fois
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf lexique
 \gvf lexique
 \smf (néo)
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dáɲɛsure
-\mm dá:v:poser
-\mm ɲɛ́:n:fois
-\mm súre:adj/n:abandonné
+\mm dá.ɲɛ:n:fois
+\mmm dá:v:poser
+\mmm ɲɛ́:n:fois
+\mm súre:adj:abandonné
 \ps n
 \gf mot.d'emprunt
 \gvf mot d'emprunt
 \xv wálikan cáman dáɲɛ dònna bámanankan ná, à bɛ́ fɔ́ ù mà : dáɲɛsure
 \xf des mots de beaucoup de langues étrangères se sont introduits dans la langue bambara, on les appelle mots d'emprunt (kb 6/06 p.6)
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dáɲini
 \mm dá:n:bouche
@@ -24425,14 +24471,14 @@ génitales ...)
 \lx dárɔgɛ̀lɛya
 \mm dá:n:bouche
 \mm rɔ́:mrph:IN
-\mm gɛ̀lɛ:vq/adj:dur
+\mm gɛ̀lɛ:vq:dur
 \mm ya:mrph:DEQU
 \ps v
 \vl vr
 \gf s'entêter
 \gvf s'entêter
 \smf (à nier ...)
-\dt 25/May/2016
+\dt 09/Mar/2019
 
 \lx dárɔmugan
 \mm dá:n:bouche
@@ -24489,13 +24535,15 @@ génitales ...)
 
 \lx dásanfɛla
 \mm dá:n:bouche
-\mm sán:n:ciel
-\mm fɛ̀:pp:par
-\mm lá:pp:à
+\mm sánfɛ.la:n:le.haut
+\mmm sán.fɛ̀:pp:par-dessus
+\mmmm sán:n:ciel
+\mmmm fɛ̀:pp:par
+\mmm la:mrph:LOC
 \ps n
 \gf mâchoire.supérieure
 \gvf mâchoire supérieure
-\dt 07/Feb/2016
+\dt 09/Mar/2019
 
 \lx dásaran
 \mm dá:n:bouche
@@ -24581,13 +24629,13 @@ génitales ...)
 \lx dásònyɛ
 \mm dá:n:bouche
 \mm sòn.yɛ:v:dérober
-\mm sòn:n:voleur
-\mm yɛ:mrph:ABSTR
-\va dá.sòn.ya
+\mmm sòn:n:voleur
+\mmm ya:mrph:ABSTR
+\va dásònya
 \mm dá:n:bouche
 \mm sòn.ya:v:dérober
-\mm sòn:n:voleur
-\mm ya:mrph:ABSTR
+\mmm sòn:n:voleur
+\mmm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf arracher.un.secret
@@ -24596,7 +24644,7 @@ génitales ...)
 \xf dis-moi le secret
 \xv ń bɛ́ ń dásonya...
 \xf je te révèle que ...
-\dt 05/Jul/2013
+\dt 09/Mar/2019
 
 \lx dásɔ̀gɔ
 \mm dá:n:bouche
@@ -24671,7 +24719,7 @@ génitales ...)
 \lx dátiɲɛ
 \mm dá:n:bouche
 \mm tíɲɛ:v:gâter
-\va dá.tiyɛn
+\va dátiyɛn
 \mm dá:n:bouche
 \mm tíyɛn:v:gâter
 \ps n
@@ -24679,12 +24727,12 @@ génitales ...)
 \gvf stomatite
 \sy dádimi
 \sy dátiɲɛbana
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dátiɲɛ
 \mm dá:n:bouche
 \mm tíɲɛ:v:gâter
-\va dá.tiyɛn
+\va dátiyɛn
 \mm dá:n:bouche
 \mm tíyɛn:v:gâter
 \ps v
@@ -24695,7 +24743,7 @@ génitales ...)
 \ms 2
 \vl vi
 \gvf être grossier dans ses paroles
-\dt 16/Aug/2006
+\dt 09/Mar/2019
 
 \lx dátoli
 \mm dá:n:bouche
@@ -24767,19 +24815,21 @@ génitales ...)
 \dt 26/Sep/2006
 
 \lx dátugubali
-\mm dá:n:bouche
-\mm túgu:v:fermer
+\mm dá.tugu:v:boucher
+\mmm dá:n:bouche
+\mmm túgu:v:fermer
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf non.fermé
 \gvf non fermé
 \xv bà tɛ́ tɛ̀mɛ  dàa dátugubali lá  ń'á má  à kɔ́nɔna lájɛ
 \xf la chèvre ne passe pas à côté d'un canari ouvert sans y jeter un coup d'oeil
-\dt 26/Sep/2006
+\dt 09/Mar/2019
 
 \lx dátugulan
-\mm dá:n:bouche
-\mm túgu:v:fermer
+\mm dá.tugu:v:boucher
+\mmm dá:n:bouche
+\mmm túgu:v:fermer
 \mm lan:mrph:INSTR
 \ps n
 \ms 1
@@ -24788,7 +24838,7 @@ génitales ...)
 \gvf couvercle
 \ms 2
 \gvf battant de la porte
-\dt 26/Sep/2006
+\dt 09/Mar/2019
 
 \lx dátunu
 \mm dá:n:bouche
@@ -24814,7 +24864,7 @@ génitales ...)
 \dt 26/Sep/2006
 
 \lx dáwoloɲimibana
-\mm dáwolo:n:lèvre
+\mm dá.wolo:n:lèvre
 \mmm dá:n:bouche
 \mmm wòlo:n:peau
 \mm ɲími:v:mâcher
@@ -24822,7 +24872,7 @@ génitales ...)
 \ps n
 \gf bec.de.lièvre
 \gvf bec de lièvre
-\dt 04/Mar/2019
+\dt 09/Mar/2019
 
 \lx dáwɔɔrɔ
 \mm dá:n:jour
@@ -24941,8 +24991,9 @@ génitales ...)
 \dt 06/Nov/2016
 
 \lx dáyɛlɛlan
-\mm dá:n:bouche
-\mm yɛ̀lɛ:v:ouvrir
+\mm dá.yɛ̀lɛ:v:ouvrir
+\mmm dá:n:bouche
+\mmm yɛ̀lɛ:v:ouvrir
 \mm lan:mrph:INSTR
 \ps n
 \smf (tout ce qui sert à ouvrir)
@@ -24953,7 +25004,7 @@ génitales ...)
 \gvf clé
 \ms 3
 \gvf battant de porte
-\dt 26/Sep/2006
+\dt 09/Mar/2019
 
 \lx dàyifu
 \bw Ar. 
@@ -25107,8 +25158,9 @@ génitales ...)
 \dt 23/May/2017
 
 \lx dègelikaramɔgɔ
-\mm dège:v:enseigner
-\mm li:mrph:NMLZ
+\mm dège.li:n:apprentissage
+\mmm dège:v:enseigner
+\mmm li:mrph:NMLZ
 \mm kàramɔgɔ:n:maître
 \ps n
 \gf entraîneur
@@ -25116,7 +25168,7 @@ génitales ...)
 \smf (de sports ...)
 \xv ù ká dèlilikaramɔgɔ ká báara fána ɲɛ̀na
 \xf le travail de leur entraîneur aussi fut excellent (kb 2/06 p.11)
-\dt 11/Nov/2007
+\dt 09/Mar/2019
 
 \lx dégere
 \va dégre
@@ -25262,12 +25314,14 @@ génitales ...)
 \dt 24/Jun/2013
 
 \lx dèlinanko
-\mm dèli:n:habitude
-\mm na:mrph:MNT1
+\mm dèli.na:n:habitude
+\mmm dèli:n:habitude
+\mmm na:mrph:MNT1
+\mm kó:n:affaire
 \ps n
 \gf habitude
 \gvf habitude
-\dt 24/Jun/2013
+\dt 09/Mar/2019
 
 \lx dèliɲɔgɔn
 \mm dèli:v:avoir.l'habitude
@@ -115284,13 +115338,14 @@ langue, et finit par empêcher de marcher)
 \dt 07/Feb/2016
 
 \lx sánfɛla
-\mm sán:n:ciel
-\mm fɛ̀:pp:par
+\mm sán.fɛ̀:pp:par-dessus
+\mmm sán:n:ciel
+\mmm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \gf le.haut
 \gvf le haut
-\dt 07/Feb/2016
+\dt 09/Mar/2019
 
 \lx sànfɛn
 \mm sàn:v:acheter
