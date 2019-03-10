@@ -25387,7 +25387,7 @@ génitales ...)
 \lx dénba
 \mm dén:n:enfant
 \mm bá:n:mère
-\va dén.ba.ɲuman
+\va dénbaɲuman
 \mm dén:n:enfant
 \mm bá:n:mère
 \mm ɲùman:adj:bon
@@ -25402,7 +25402,7 @@ génitales ...)
 \lat Combretum.paniculatum
 \sd comb
 \smf (liane ou arbuste sarmenteux à belles fleurs rouge vif)
-\dt 19/Aug/2006
+\dt 10/Mar/2019
 
 \lx dénba
 \mm dén:n:enfant
@@ -25418,8 +25418,8 @@ génitales ...)
 
 \lx dénbajala
 \mm dén.ba:n:mère
-\mm dén:n:enfant
-\mm bá:n:mère
+\mmm dén:n:enfant
+\mmm bá:n:mère
 \mm jàla:n:cordon
 \ps n
 \ms 1
@@ -25428,12 +25428,13 @@ génitales ...)
 \smf (que porte la "marraine" le jour du mariage de la fille)
 \ms 2
 \gvf "marraine"
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx dénbajugu
-\mm dén:n:enfant
-\mm bá:n:mère
-\mm júgu:vq/adj:mauvais
+\mm dén.ba:n:mère
+\mmm dén:n:enfant
+\mmm bá:n:mère
+\mm júgu:adj:mauvais
 \ps n
 \gf mère.négligente
 \gvf mère négligente
@@ -25441,26 +25442,29 @@ génitales ...)
 \smf (mère qui n'éduque pas bien ses enfants)
 \ms 2
 \smf (mère qui refuse de s'occuper de ceux des autres)
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx dénbatigi
-\mm dén:n:enfant
-\mm bá:n:mère
+\mm dén.ba:n:mère
+\mmm dén:n:enfant
+\mmm bá:n:mère
 \mm tìgi:n:maître
 \ps n
-\ms 1
 \gf mère.de.famille
+\ms 1
 \gvf mère de famille
 \gvf père de famille
 \smf (nombreuse)
 \ms 2
 \gvf femelle qui a des petits
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx dénbatigiya
-\mm dén:n:enfant
-\mm bá:n:mère
-\mm tìgi:n:maître
+\mm dénba.tigi
+\mmm dén.ba:n:mère
+\mmmm dén:n:enfant
+\mmmm bá:n:mère
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
@@ -25468,11 +25472,12 @@ génitales ...)
 \gvf devenir mère
 \xv dútigi bálimamuso bɛ́ɛ dénbatigiyara sáni ù kà fúru
 \xf toutes les soeurs du chef de famille ont eu des enfants avant d'être mariées (kb 11/05 p.9)
-\dt 11/Nov/2007
+\dt 10/Mar/2019
 
 \lx dénbaya
-\mm dén:n:enfant
-\mm bá:n:mère
+\mm dén.ba:n:mère
+\mmm dén:n:enfant
+\mmm bá:n:mère
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
@@ -25482,27 +25487,30 @@ génitales ...)
 \ms 2
 \gvf avoir une femme et des enfants
 \smf (pour un homme)
-\dt 26/Sep/2006
+\dt 10/Mar/2019
 
 \lx dénbaya
-\mm dén:n:enfant
-\mm bá:n:mère
+\mm dén.ba:n:mère
+\mmm dén:n:enfant
+\mmm bá:n:mère
 \mm ya:mrph:ABSTR
 \ps n
 \gf famille
 \gvf famille
 \smf (nucléaire : géniteurs + enfants)
-\dt 22/Apr/2018
+\dt 10/Mar/2019
 
 \lx dénbayatigi
-\mm dén:n:enfant
-\mm bá:n:mère
-\mm ya:mrph:ABSTR
+\mm dénba.ya:n:famille
+\mmm dén.ba:n:mère
+\mmmm dén:n:enfant
+\mmmm bá:n:mère
+\mmm ya:mrph:ABSTR
 \mm tìgi:n:maître
 \ps n
 \gf chef.de.famille
 \gvf chef de famille
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx dénbo
 \mm dén:n:enfant
@@ -25606,15 +25614,15 @@ génitales ...)
 
 \lx dénjuguya
 \mm dén.jugu:n:égoïste
-\mm dén:n:enfant
-\mm júgu:adj:mauvais
+\mmm dén:n:enfant
+\mmm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \gf méchanceté
 \gvf méchanceté
 \gvf égoïsme
 \gvf jalousie
-\dt 17/Mar/2018
+\dt 10/Mar/2019
 
 \lx dénjuguya
 \mm dén.jugu:n:égoïste
@@ -25686,13 +25694,14 @@ génitales ...)
 
 \lx dénkundi
 \mm dén:n:enfant
-\mm kùn:n:tête
-\mm dí:v:raser
+\mm kùn.di:n:rasage.de.tête
+\mmm kùn:n:tête
+\mmm dí:v:raser
 \ps n
 \gf baptême
 \gvf baptême
 \smf (cérémonie d'imposition du nom du bébé (une semaine après la naissance, on rase la tête de l'enfant, on leprésente à tous ceux à qui on a fait part de l'événement, on lui donneofficiellement son nom. Cette cérémonie est couramment appelée en ville 'baptême', même dans les milieux musulmans))
-\dt 24/Nov/2014
+\dt 10/Mar/2019
 
 \lx dénmarayɔrɔ
 \mm dén:n:enfant
@@ -25728,8 +25737,9 @@ génitales ...)
 
 \lx dénmisɛnman
 \mm dén:n:enfant
-\mm mìsɛn:adj:petit
-\mm man:mrph:ADJ
+\mm mìsɛn.man:adj:petit
+\mmm mìsɛn:adj:petit
+\mmm man:mrph:ADJ
 \ps adj
 \ms 1
 \gf étant.enfant
@@ -25737,18 +25747,7 @@ génitales ...)
 \ms 2
 \gvf vierge
 \smf (en parlant d'une fille)
-\dt 23/Nov/2012
-
-\lx dénmisɛnnama
-\mm dén:n:enfant
-\mm mìsɛn:adj:petit
-\mm nama:mrph:STAT
-\ps adj
-\gf étant.enfant
-\gvf étant enfant
-\xv án dénmisɛnnama...
-\xf dans notre enfance...
-\dt 23/Nov/2012
+\dt 10/Mar/2019
 
 \lx dénmisɛnnin
 \mm dén:n:enfant
@@ -25771,12 +25770,12 @@ génitales ...)
 \gf compagnon.d'âge.d'un.enfant
 \gvf compagnon d'âge d'un enfant
 \xv dénmisɛn mín bɛ́ dúmuni dògo à dénmisɛnɲɔgɔn ná, ò yé nùguma dèye
-\rem b
-\dt 23/Nov/2012
+\dt 10/Mar/2019
 
 \lx dénmisɛnya
-\mm dén:n:enfant
-\mm mìsɛn:adj:petit
+\mm dén.misɛn:n:enfant
+\mmm dén:n:enfant
+\mmm mìsɛn:adj:petit
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -25789,7 +25788,7 @@ génitales ...)
 \gvf virginité
 \xv fúrucɛ y'á sɔ̀rɔ  à ká dénmisɛnya ná
 \xf le mari l'a trouvé vierge
-\dt 23/Nov/2012
+\dt 10/Mar/2019
 
 \lx dénmuso
 \mm dén:n:enfant
@@ -25828,14 +25827,21 @@ génitales ...)
 
 \lx dénnaminaden
 \mm dén:n:enfant
-\mm ná:mrph:CAUS
-\mm mìna:v:attraper
+\mm ná.mìna:v:maintenir
+\mmm ná:mrph:CAUS
+\mmm mìna:v:attraper
 \mm dén:n:enfant
+\va dénnɔminaden
+\mm rɔ́.mìna:v:maintenir
+\mmm rɔ́:mrph:IN
+\mmm mìna:v:attraper
+\mm dén:n:enfant
+\ve (f)
 \ps n
 \gf fillette-bonne.d'enfant
 \gvf fillette-bonne d'enfant
 \smf (chargée de la garde d'un bébé)
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx dénnin
 \mm dén:n:enfant
@@ -25875,17 +25881,6 @@ génitales ...)
 \smf (au bord des marigots ; consiste à balancer une compagne par les bras et les jambes et à la jeter à l'eau)
 \dt 16/Aug/2006
 
-\lx dénnɔminaden
-\mm dén:n:enfant
-\mm nɔ̀:n:trace
-\mm mìna:v:attraper
-\mm dén:n:enfant
-\ve (f)
-\ps n
-\gf fillette-bonne.d'enfant
-\gvf fillette-bonne d'enfant
-\smf (chargée de la garde d'un bébé)
-
 \lx dénntan
 \mm dén:n:enfant
 \mm ntan:mrph:PRIV
@@ -25896,28 +25891,31 @@ génitales ...)
 \dt 26/Sep/2006
 
 \lx dénntanmuso
-\mm dén:n:enfant
-\mm ntan:mrph:PRIV
+\mm dén.ntan:adj:sans.enfant
+\mmm dén:n:enfant
+\mmm ntan:mrph:PRIV
 \mm mùso:n:femme
 \ps n
 \gf femme.sans.enfants
 \gvf femme sans enfants
 \smf (stérile ou qui les a tous perdus)
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx dénntanya
-\mm dén:n:enfant
-\mm ntan:mrph:PRIV
+\mm dén.ntan:adj:sans.enfant
+\mmm dén:n:enfant
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf absence.d'enfants
 \gvf absence d'enfants
 \smf (fait d'être sans enfant, sans fruit)
-\dt 26/Sep/2006
+\dt 10/Mar/2019
 
 \lx dénntanya
-\mm dén:n:enfant
-\mm ntan:mrph:PRIV
+\mm dén.ntan:adj:sans.enfant
+\mmm dén:n:enfant
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -25925,16 +25923,16 @@ génitales ...)
 \gvf priver d'enfant
 \xv sàya y'á dénntanya
 \xf la mort lui a enlevé (tous) ses enfants
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx dénsaya
-\mm dén:n:enfant
-\mm sà:v:mourir
-\mm ya:mrph:ABSTR
+\mm sà.ya:n:mort
+\mmm sà:v:mourir
+\mmm ya:mrph:ABSTR
 \ps n
 \gf mortalité.infantile
 \gvf mortalité infantile
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx dénso
 \mm dén:n:enfant
@@ -25994,14 +25992,15 @@ génitales ...)
 \dt 26/Sep/2006
 
 \lx déntigiya
-\mm dén:n:enfant
-\mm tìgi:n:maître
+\mm dén.tigi:n:personne.féconde
+\mmm dén:n:enfant
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf favoriser.la.fécondation
 \gvf favoriser la fécondation
-\dt 26/Sep/2006
+\dt 10/Mar/2019
 
 \lx dénwolobali
 \mm dén:n:enfant
@@ -26014,13 +26013,15 @@ génitales ...)
 \dt 26/Sep/2006
 
 \lx dénwolobaliya
-\mm dén:n:enfant
-\mm wólo:v:accoucher
-\mm bali:mrph:PTCP.PRIV
+\mm dén.wolo.bali:ptcp:sans.enfants
+\mmm dén:n:enfant
+\mmm wólo:v:accoucher
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf stérilité
 \gvf stérilité
+\dt 10/Mar/2019
 
 \lx dénwolomuso
 \mm dén:n:enfant
@@ -26234,12 +26235,12 @@ assumant que l'interclocuteur pense autrement)
 
 \lx dɛ̀gɛbɛɲɛ
 \mm dɛ̀gɛ:n:brouet
-\mm bɛɲɛ:adj/n:sans.sauce
+\mm bɛɲɛ:adj:sans.sauce
 \ps n
 \gf "dɛgɛ".desséché
 \gvf "dɛgɛ" desséché
 \smf (sans lait)
-\dt 26/Sep/2006
+\dt 10/Mar/2019
 
 \lx dɛ̀gɛdɛgɛ
 \ps v
@@ -26311,14 +26312,14 @@ assumant que l'interclocuteur pense autrement)
 \lx dɛ̀mɛbaa
 \mm dɛ̀mɛ:v:aider
 \mm baa:mrph:AG.OCC
-\va dɛ̀mɛ.baga
+\va dɛ̀mɛbaga
 \mm dɛ̀mɛ:v:aider
 \mm baga:mrph:AG.OCC
 \ps n
 \gf assistant
 \gvf assistant
 \gvf aide
-\dt 26/Sep/2006
+\dt 10/Mar/2019
 
 \lx dɛ̀mɛdɛmɛ
 \va dɛ̀ndɛ
@@ -26507,12 +26508,13 @@ porte jusqu'à ce que passe le chef
 
 \lx dɛ́nkɛrɛfɛ
 \mm dɛ́n:v:mettre.à.l'écart
-\mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:par
+\mm kɛ̀rɛfɛ̀:pp:par.côté
+\mmm kɛ̀rɛ:n:côté
+\mmm fɛ̀:pp:par
 \ps n
 \gf passivité
 \gvf passivité
-\dt 15/Sep/2016
+\dt 10/Mar/2019
 
 \lx dɛ́nkuru
 \va dénkoro
@@ -26645,7 +26647,7 @@ porte jusqu'à ce que passe le chef
 \mm dɛ́sɛ:v:échouer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va dɛ́sɛ.baga.tɔ
+\va dɛ́sɛbagatɔ
 \mm dɛ́sɛ:v:échouer
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -26662,7 +26664,7 @@ porte jusqu'à ce que passe le chef
 \ms 3
 \gvf incapable
 \smf (de faire telle action)
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx dɛ́sɛlan
 \mm dɛ́sɛ:v:tailler
@@ -26792,15 +26794,15 @@ porte jusqu'à ce que passe le chef
 
 \lx díbanga
 \mm dí:n:miel
-\mm banga:adj/n:sans.sauce
+\mm banga:adj:sans.sauce
 \va dí.bagan
 \mm dí:n:miel
-\mm bagan:adj/n:sans.sauce
+\mm bagan:adj:sans.sauce
 \ve (f)
 \ps n
 \gf gâteau.de.miel
 \gvf gâteau de miel
-\dt 16/Aug/2006
+\dt 10/Mar/2019
 
 \lx díbara
 \mm dí:n:miel
@@ -26902,10 +26904,12 @@ porte jusqu'à ce que passe le chef
 \dt 16/Mar/2018
 
 \lx dìbinin
+\mm dìbi:n:obscurité
+\mm nin:mrph:DIM
 \ps n
 \gf fétiche.esp
 \gvf fétiche esp
-\dt 23/May/2015
+\dt 10/Mar/2019
 
 \lx díbiri
 \ps n
@@ -81689,6 +81693,9 @@ catastrophe)
 \va lámìna
 \mm lá:mrph:CAUS
 \mm mìna:v:attraper
+\va námìna
+\mm ná:mrph:CAUS
+\mm mìna:v:attraper
 \va rɔ́mìnɛ
 \mm rɔ́:mrph:IN
 \mm mìnɛ:v:attraper
@@ -81734,7 +81741,7 @@ catastrophe)
 \smf (maîtriser ses mauvais penchants)
 \xv í láminɛ dɔ́rɔn !
 \xf sois un peu maître de toi !
-\dt 02/Mar/2019
+\dt 10/Mar/2019
 
 \lx lámini
 \mm lá:mrph:CAUS
