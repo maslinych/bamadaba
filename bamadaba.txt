@@ -27063,16 +27063,17 @@ porte jusqu'à ce que passe le chef
 
 \lx díinɛjugu
 \mm díinɛ:n:religion
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \gf mal.intentionné
 \gvf mal intentionné
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx díinɛɲɛmɔgɔ
 \mm díinɛ:n:religion
-\mm ɲɛ́:pp:devant
-\mm mɔ̀gɔ:n:homme
+\mm ɲɛ́.mɔgɔ:n:dirigeant
+\mmm ɲɛ́:pp:devant
+\mmm mɔ̀gɔ:n:homme
 \ps n
 \gf chef.religieux
 \gvf chef religieux
@@ -27080,7 +27081,7 @@ porte jusqu'à ce que passe le chef
 cíden
 \xf bien des personnalités étaient présentes, : chefs de village,
 chefs religieux et représentants de l'administration
-\dt 05/Apr/2016
+\dt 11/Mar/2019
 
 \lx díji
 \mm dí:n:miel
@@ -27152,10 +27153,14 @@ chefs religieux et représentants de l'administration
 \dt 03/Nov/2016
 
 \lx dílisɛbɛn
+\mm dí.li:n:action.de.donner
+\mmm di:v:donner
+\mmm li:mrph:NMLZ
+\mm sɛ́bɛn:n:écrit
 \ps n
 \gf bon.de.livraison
 \gvf bon de livraison
-\dt 11/Nov/2007
+\dt 11/Mar/2019
 
 \lx dimansi
 \bw fr.
@@ -27229,23 +27234,26 @@ chefs religieux et représentants de l'administration
 
 \lx dímikɔrɔbɔ
 \mm dími:n:souffrance
-\mm kɔ̀rɔ:vq/adj:vieux
-\mm bɔ́:n:sortie
+\mm kɔ́rɔ.bɔ:v:essayer
+\mmm kɔ́rɔ:n:dessous
+\mmm bɔ́:v:sortir
 \ps n
 \gf vengeance
 \gvf vengeance
+\dt 11/Mar/2019
 
 \lx dímikɔrɔbɔ
 \mm dími:n:souffrance
-\mm kɔ̀rɔ:vq/adj:vieux
-\mm bɔ́:v:sortir
+\mm kɔ́rɔ.bɔ:v:essayer
+\mmm kɔ́rɔ:n:dessous
+\mmm bɔ́:v:sortir
 \ps v
 \vl vr
 \gf se.venger
 \gvf se venger
 \xv à y'í dímikɔrɔbɔ  né lá :
 \xf il s'est vengé d'une vieille crasse que je lui ai faite
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx dímimadalan
 \mm dími:n:souffrance
@@ -27380,47 +27388,48 @@ chefs religieux et représentants de l'administration
 \dt 28/Nov/2017
 
 \lx díɲɛdenya
-\mm díɲɛ:n:monde
-\mm díɲɛ:n:monde
-\mm dén:n:enfant
+\mm díɲɛ.den:n:bon.vivant
+\mmm díɲɛ:n:monde
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
-\va díyɛn.den.ya
-\va díyɛn.den
-\mm díyɛn:n:monde
-\mm dén:n:enfant
+\va díyɛndenya
+\mm díɲɛn.den:n:bon.vivant
+\mmm díɲɛn:n:monde
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \gf libertinage
 \gvf libertinage
-\dt 15/Mar/2018
+\dt 11/Mar/2019
 
 \lx díɲɛlaban
 \mm díɲɛ:n:monde
-\mm lá:mrph:CAUS
-\mm bán:v:terminer
-\va díyɛn.la.ban
+\mm lá.ban:n:fin
+\mmm lá:mrph:CAUS
+\mmm bán:v:terminer
+\va díyɛnlaban
 \mm díyɛn:n:monde
-\mm lá:mrph:CAUS
-\mm bán:n:fin
+\mm lá.ban:n:fin
+\mmm lá:mrph:CAUS
+\mmm bán:v:terminer
 \ps n
 \gf fin.du.monde
 \gvf fin du monde
 \sy díɲɛwuli
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx díɲɛnabɔ
 \mm díɲɛ:n:monde
 \mm ná:pp:à
 \mm bɔ́:v:sortir
-\va díyɛn.na.bɔ
+\va díyɛnnabɔ
 \mm díyɛn:n:monde
 \mm ná:pp:à
 \mm bɔ́:v:sortir
-\va jíɲɛ.na.bɔ
+\va jíɲɛnabɔ
 \mm jíɲɛ:n:monde
 \mm ná:pp:à
 \mm bɔ́:v:sortir
-\ph [j..]
 \ps n
 \gf naissance
 \gvf naissance
@@ -27428,30 +27437,34 @@ chefs religieux et représentants de l'administration
 \sy díɲɛnatigɛ ; díɲɛsosigi
 \xv à díyɛnnabɔ ká kɔ̀rɔ í tá yé
 \xf il est plus âgé que toi
-\dt 11/Nov/2007
+\dt 11/Mar/2019
 
 \lx díɲɛnatigɛ
 \mm díɲɛ:n:monde
-\mm ná:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm lá.tìgɛ:v:faire.passer
+\mmm ná:mrph:CAUS
+\mmm tìgɛ:v:couper
 \va díɲɛ.la.tigɛ
 \mm díɲɛ:n:monde
-\mm lá:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm lá.tìgɛ:v:faire.passer
+\mmm lá:mrph:CAUS
+\mmm tìgɛ:v:couper
 \va díyɛn.na.tigɛ
 \mm díyɛn:n:monde
-\mm ná:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm lá.tìgɛ:v:faire.passer
+\mmm ná:mrph:CAUS
+\mmm tìgɛ:v:couper
 \va jyɛ́n.la.tigɛ
 \mm jyɛ́n:n:monde
-\mm lá:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm lá.tìgɛ:v:faire.passer
+\mmm lá:mrph:CAUS
+\mmm tìgɛ:v:couper
 \ps n
 \gf vie
 \gvf vie
 \gvf traversée de ce monde
 \sy díɲɛsosigi
-\dt 09/Jun/2013
+\dt 11/Mar/2019
 
 \lx díɲɛselekenaani
 \mm díɲɛ:n:monde
@@ -27467,7 +27480,7 @@ chefs religieux et représentants de l'administration
 \mm díɲɛ:n:monde
 \mm só:n:maison
 \mm sìgi:n:position.assise
-\va díyɛn.so.sigi
+\va díyɛnsosigi
 \mm díyɛn:n:monde
 \mm só:n:maison
 \mm sìgi:n:position.assise
@@ -27478,19 +27491,19 @@ chefs religieux et représentants de l'administration
 \sy díɲɛnatigɛ
 \xv í kà  láhara díya  à lá  díyɛnsosigi yé !
 \xf que l'au-delà soit meilleur pour lui (le défunt) que sa vie terrestre !
-\dt 26/Sep/2006
+\dt 11/Mar/2019
 
 \lx díɲɛwuli
 \mm díɲɛ:n:monde
 \mm wúli:v:se.lever
-\va díyɛn.wuli
+\va díyɛnwuli
 \mm díyɛn:n:monde
 \mm wúli:v:se.lever
 \ps n
 \gf fin.du.monde
 \gvf fin du monde
 \sy díɲɛlaban
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx diparɔpisi
 \ps n
@@ -27555,13 +27568,13 @@ chefs religieux et représentants de l'administration
 \lx dìsakunkurunnin
 \mm dìsa:n:turban
 \mm kùnkurun:n:morceau
-\mm kùn:n:tête
-\mm kùrun:adj:court
+\mmm kùn:n:tête
+\mmm kùrun:adj:court
 \mm nin:mrph:DIM
 \ps n
 \gf insecte.piquant
 \gvf insecte piquant
-\dt 21/Mar/2017
+\dt 11/Mar/2019
 
 \lx dìsi
 \ps n
@@ -27605,14 +27618,14 @@ chefs religieux et représentants de l'administration
 \mm fílen:n:calebasse
 \mm kólo:n:os
 \mm nin:mrph:DIM
-\va disi.filen.nin
+\va disifilennin
 \mm dísi:n:poitrine
 \mm fílen:n:calebasse
 \mm nin:mrph:DIM
 \ps n
 \gf appendice.xyphoïde
 \gvf appendice xyphoïde
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx dísikolo
 \mm dísi:n:poitrine
@@ -27631,12 +27644,14 @@ chefs religieux et représentants de l'administration
 \dt 16/Aug/2006
 
 \lx dísikunkolo
-\mm dísi:n:poitrine
-\mm kùn:n:tête
+\mm dísi.kun:n:haut.de.la.poitrine
+\mmm dísi:n:poitrine
+\mmm kùn:n:tête
 \mm kólo:n:os
 \ps n
 \gf sternum
 \gvf sternum
+\dt 11/Mar/2019
 
 \lx dísirɔbana
 \mm dísi:n:poitrine
@@ -27677,22 +27692,14 @@ chefs religieux et représentants de l'administration
 \dt 21/Jul/2014
 
 \lx dísɔngɔ
+\mm dí:n:miel
 \mm sɔ̀ngɔ:n:prix
 \ve (-f,-bn)
 \ps n
 \gf impôt
 \gvf impôt
 \sy nísɔngɔ
-\dt 12/Aug/2006
-
-\lx dítebin
-\mm bín:n:herbe
-\ps n
-\gf citronnelle
-\gvf citronnelle
-\lat Cymbopogon citratus
-\sd gram
-\dt 19/Aug/2006
+\dt 11/Mar/2019
 
 \lx díwaa
 \mm dí:n:miel
@@ -27764,8 +27771,8 @@ chefs religieux et représentants de l'administration
 
 \lx díyabaatɔ
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \va jábaatɔ
@@ -27789,28 +27796,30 @@ chefs religieux et représentants de l'administration
 \gvf lubrique
 \gvf satyre
 \gvf débauché
-\dt 28/May/2018
+\dt 11/Mar/2019
 
 \lx díyabɔ
-\mm díya:n:bon.goût
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
+\mm dí.ya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\mm bɔ́:v:sortir
 \ps v
 \gf jouir.de
+\vl vt
 \gvf jouir de
 \gvf profiter de
-\dt 11/Feb/2017
+\dt 11/Mar/2019
 
 \lx díyagoya
 \mm dí.ya:n:bon.goût
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \va díyakoya
 \mm dí.ya:n:bon.goût
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm kó:vq:désagréable
 \mm ya:mrph:DEQU
 \va jákoya
@@ -27828,18 +27837,18 @@ chefs religieux et représentants de l'administration
 \xv díyagoya lá
 \xv díyagoya rɔ́
 \xf bon gré, mal gré (de force)
-\dt 31/May/2017
+\dt 11/Mar/2019
 
 \lx díyagoya
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \va díyakoya
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm kó:vq:désagréable
 \mm ya:mrph:DEQU
 \va jákoya
@@ -27855,12 +27864,12 @@ chefs religieux et représentants de l'administration
 \vl vt
 \gf contraindre
 \gvf contraindre
-\dt 31/May/2017
+\dt 11/Mar/2019
 
 \lx díyagoya
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \va jágoya
@@ -27870,48 +27879,54 @@ chefs religieux et représentants de l'administration
 \ps adv.p
 \gf de.force
 \gvf de force
-\dt 31/May/2017
+\dt 11/Mar/2019
 
 \lx díyagoyabaara
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\mm gó:vq:désagréable
-\mm ya:mrph:DEQU
+\mm díya.go.ya:adv.p:de.force
+\mmm dí.ya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
+\mmm gó:vq:désagréable
+\mmm ya:mrph:DEQU
 \mm báara:n:travail
 \ps n
 \gf travail.forcé
 \gvf travail forcé
 \gvf corvée
-\dt 26/Sep/2006
+\dt 11/Mar/2019
 
 \lx díyagoyafanga
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\mm gó:vq:désagréable
-\mm ya:mrph:DEQU
+\mm díya.go.ya:adv.p:de.force
+\mmm dí.ya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
+\mmm gó:vq:désagréable
+\mmm ya:mrph:DEQU
 \mm fànga:n:force
 \ps n
 \gf tyrannie
 \gvf tyrannie
 \gvf colonisation
 \rem du, Cas
-\dt 11/Nov/2007
+\dt 11/Mar/2019
 
 \lx díyagoyafuru
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\mm gó:vq:désagréable
-\mm ya:mrph:DEQU
+\mm díya.go.ya:adv.p:de.force
+\mmm dí.ya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
+\mmm gó:vq:désagréable
+\mmm ya:mrph:DEQU
 \mm fúru:n:mariage
 \ps n
 \gf mariage.forcé
 \gvf mariage forcé
-\dt 11/Nov/2007
+\dt 11/Mar/2019
 
 \lx díyanye
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm ń:pers:1SG
 \mm yé:pp:PP
 \va já.n.ye
@@ -27931,12 +27946,12 @@ chefs religieux et représentants de l'administration
 \gvf amour
 \xv díyanye tɛ́  dògo bɔ́
 \xf l'amour ne peut se cacher
-\dt 26/Sep/2006
+\dt 11/Mar/2019
 
 \lx díyanyebaa
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm ń:pers:1SG
 \mm yé:pp:PP
 \mm baa:mrph:AG.OCC
@@ -27949,12 +27964,12 @@ chefs religieux et représentants de l'administration
 \ps n
 \gf bien-aimé
 \gvf bien-aimé
-\dt 12/Aug/2006
+\dt 11/Mar/2019
 
 \lx díyanyebaatɔ
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm ń:pers:1SG
 \mm yé:pp:PP
 \mm baa:mrph:AG.OCC
@@ -27971,19 +27986,21 @@ chefs religieux et représentants de l'administration
 \gvf de bon coeur
 \xv mɔ̀gɔ díyanyebaatɔ tɛ́ bɔ́  í dén ná :
 \xf on ne se sépare pas de bon coeur de son enfant
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx díyanyeko
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\mm ń:pers:1SG
-\mm yé:pp:PP
+\mm díya.n.ye:n:plaisir
+\mmm dí.ya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
+\mmm ń:pers:1SG
+\mmm yé:pp:PP
 \mm kó:n:affaire
-\va já.n.ye.ko
-\mm já:v:rendre.agréable
-\mm ń:pers:1SG
-\mm yé:pp:PP
+\va jányeko
+\mm já.n.ye:v:plaisir
+\mmm já:v:rendre.agréable
+\mmm ń:pers:1SG
+\mmm yé:pp:PP
 \mm kó:n:affaire
 \ph [ja.]
 \ps n
@@ -27992,31 +28009,35 @@ chefs religieux et représentants de l'administration
 \gvf amour
 \xv né díyanyeko bɛ́  kàrisa lá
 \xf un tel m'aime
-\dt 26/Sep/2006
+\dt 11/Mar/2019
 
 \lx díyanyemɔgɔ
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\mm ń:pers:1SG
-\mm yé:pp:PP
+\mm díya.n.ye:n:plaisir
+\mmm dí.ya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
+\mmm ń:pers:1SG
+\mmm yé:pp:PP
 \mm mɔ̀gɔ:n:homme
 \va já.n.ye.mɔgɔ
-\mm já:v:rendre.agréable
-\mm ń:pers:1SG
-\mm yé:pp:PP
+\mm já.n.ye:v:plaisir
+\mmm já:v:rendre.agréable
+\mmm ń:pers:1SG
+\mmm yé:pp:PP
 \mm mɔ̀gɔ:n:homme
 \va dí.ya.n.ye.maa
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\mm ń:pers:1SG
-\mm yé:pp:PP
+\mm díya.n.ye:n:plaisir
+\mmm dí.ya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
+\mmm ń:pers:1SG
+\mmm yé:pp:PP
 \mm màa:n:homme
 \va já.n.ye.maa
-\mm já:v:rendre.agréable
-\mm ń:pers:1SG
-\mm yé:pp:PP
+\mm já.n.ye:v:plaisir
+\mmm já:v:rendre.agréable
+\mmm ń:pers:1SG
+\mmm yé:pp:PP
 \mm màa:n:homme
 \ph [ja.]
 \ps n
@@ -28025,12 +28046,12 @@ chefs religieux et représentants de l'administration
 \gvf bien-aimé
 \xv -wòro fílɛ ! - né tɛ́  wòro ɲími ! - à dí  í díyanyemaa mà
 \xf voici de la kola ! - Je n'en croque pas ! - donne-la à ton ami !
-\dt 26/Sep/2006
+\dt 11/Mar/2019
 
 \lx díyanyɛrɛlamaa
-\mm díya:v:rendre.agréable
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
+\mm dí.ya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm ń:pers:1SG
 \mm yɛ̀rɛ̂:dtm:même
 \mm lá:pp:à
@@ -28046,23 +28067,23 @@ chefs religieux et représentants de l'administration
 \gf lambin
 \gvf lambin
 \smf (personne qui prend tout son temps)
-\dt 28/Feb/2017
+\dt 11/Mar/2019
 
 \lx díyaɲɔgɔn
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm ɲɔ́gɔn:prn:RECP
 \ps n
 \gf amant(e)
 \gvf amant(e)
 \gvf ami(e)
-\dt 11/Nov/2007
+\dt 11/Mar/2019
 
 \lx díyatɔmuso
 \mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm tɔ:mrph:ST
 \mm mùso:n:femme
 \va já.tɔ.muso
@@ -28072,7 +28093,7 @@ chefs religieux et représentants de l'administration
 \ps n
 \gf prostituée
 \gvf prostituée
-\dt 11/Nov/2007
+\dt 11/Mar/2019
 
 \lx dìyé
 \ve (Sikaso)
@@ -28513,32 +28534,37 @@ chefs religieux et représentants de l'administration
 \dt 17/Aug/2017
 
 \lx dòndaladen
-\mm dòn:v:entrer
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dòn.da.la:n:profit
+\mmm dòn:v:entrer
+\mmm dá:n:bouche
+\mmm lá:pp:à
 \mm dén:n:enfant
 \ps n
 \gf enfant.qui.a.réussi
 \gvf enfant qui a réussi
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx dòndalali
-\mm dòn:v:entrer
-\mm dá:n:bouche
-\mm lá:pp:à
+\mm dòn.da.la:n:profit
+\mmm dòn:v:entrer
+\mmm dá:n:bouche
+\mmm lá:pp:à
 \mm li:mrph:NMLZ
 \ps n
 \gf valorisation
 \gvf valorisation
+\dt 11/Mar/2019
 
 \lx dòndalama
-\mm dòn:v:entrer
-\mm dá:n:bouche
-\mm lama:mrph:STAT
+\mm dòn.da.la:n:profit
+\mmm dòn:v:entrer
+\mmm dá:n:bouche
+\mmm lá:pp:à
+\mm ma:mrph:COM
 \ps n
 \gf qui.réussit
 \gvf qui réussit
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx dòndo
 \ps v
@@ -28674,13 +28700,14 @@ chefs religieux et représentants de l'administration
 \dt 11/Nov/2007
 
 \lx dònitabagan
+\mm dòni.ta:n:transport
 \mm dòni:n:charge
 \mm tà:v:prendre
 \mm bágan:n:bête
 \ps n
 \gf bête.de.somme
 \gvf bête de somme
-\dt 11/Nov/2007
+\dt 11/Mar/2019
 
 \lx dònitala
 \mm dòni:n:charge
@@ -28715,7 +28742,7 @@ chefs religieux et représentants de l'administration
 \mm dón:n:jour
 \mm jàte:v:compter
 \mm lan:mrph:INSTR
-\va dón.jati.lan
+\va dónjatilan
 \mm dón:n:jour
 \mm jàti:v:compter
 \mm lan:mrph:INSTR
@@ -28724,7 +28751,7 @@ chefs religieux et représentants de l'administration
 \gvf calendrier
 \gvf montre
 \smf (qui indique le jour, le mois)
-\dt 26/Sep/2006
+\dt 11/Mar/2019
 
 \lx dòn-kà-bɔ́
 \mm dòn:v:entrer
@@ -28782,14 +28809,14 @@ chefs religieux et représentants de l'administration
 
 \lx dónkibarubɔla
 \mm dón.kibaru:n:avenir
-\mm dón:n:jour
-\mm kìbaru:n:nouvelle
+\mmm dón:n:jour
+\mmm kìbaru:n:nouvelle
 \mm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
 \va dónkibarobɔla
 \mm dón.kibaru:n:avenir
-\mm dón:n:jour
-\mm kìbaro:n:nouvelle
+\mmm dón:n:jour
+\mmm kìbaro:n:nouvelle
 \mm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
 \ps n
@@ -28801,7 +28828,7 @@ chefs religieux et représentants de l'administration
 \ms 2
 \gvf journal
 \gvf quotidien
-\dt 26/Jun/2018
+\dt 11/Mar/2019
 
 \lx dónkò
 \mm dón:n:jour
@@ -28857,23 +28884,25 @@ chefs religieux et représentants de l'administration
 
 \lx dónmakɔnɔ
 \mm dón:n:jour
-\mm mà:mrph:SUPER
-\mm kɔ̀nɔ:v:attendre
+\mm mà.kɔ̀nɔ:v:attendre
+\mmm mà:mrph:SUPER
+\mmm kɔ̀nɔ:v:attendre
 \ps n
 \gf attente.de.tel.jour
 \gvf attente de tel jour
 \smf (naissance ... ou même décès ...)
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx dónnatɛmɛ
 \mm dón:n:jour
-\mm ná:mrph:CAUS
-\mm tɛ̀mɛ:v:passer
+\mm lá.tɛ̀mɛ:v:faire.passer
+\mmm ná:mrph:CAUS
+\mmm tɛ̀mɛ:v:passer
 \ps n
 \gf passe-temps
 \gvf passe-temps
 \smf (dont on se contente faute de mieux)
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx dònnbolo
 \mm dòn:v:entrer
@@ -28936,11 +28965,11 @@ chefs religieux et représentants de l'administration
 
 \lx dònokɔrɔ
 \mm dòno:n:coq
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:mâle.adulte
 \ps n
 \gf coq.adulte
 \gvf coq adulte
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx dònotùlu
 \mm dòno:n:coq
@@ -28995,12 +29024,13 @@ chefs religieux et représentants de l'administration
 
 \lx dònsofɔli
 \mm dònso:n:chasseur
-\mm fɔ́:v:dire
-\mm li:mrph:NMLZ
+\mm fɔ́.li:n:action.de.dire
+\mmm fɔ́:v:dire
+\mmm li:mrph:NMLZ
 \ps n
 \gf musique.des.chasseurs
 \gvf musique des chasseurs
-\dt 16/Aug/2006
+\dt 11/Mar/2019
 
 \lx dònsojeli
 \mm dònso:n:chasseur
@@ -29338,19 +29368,19 @@ chefs religieux et représentants de l'administration
 
 \lx dɔ̀dɔlima
 \mm dɔ̀dɔ.li:n:espionnage
-\mm dɔ̀dɔ:v:suivre
-\mm li:mrph:NMLZ
+\mmm dɔ̀dɔ:v:suivre
+\mmm li:mrph:NMLZ
 \mm ma:mrph:DIR
 \va jɔ̀jɔ.li.ma
 \mm jɔ̀jɔ.li:n:espionnage
-\mm jɔ̀jɔ:v:suivre
-\mm li:mrph:NMLZ
+\mmm jɔ̀jɔ:v:suivre
+\mmm li:mrph:NMLZ
 \mm ma:mrph:DIR
 \ps v
 \vl vt
 \gf épier
 \gvf épier
-\dt 26/Sep/2006
+\dt 11/Mar/2019
 
 \lx dɔ́farankan
 \mm dɔ́:prn:certain
@@ -32617,6 +32647,22 @@ gens)
 \gf nausées
 \gvf nausées
 \dt 20/Jul/2014
+
+\lx dùtebin
+\mm dùte:n:thé.vert
+\mm bín:n:herbe
+\va dítebin
+\mm dùte:n:thé.vert
+\mm bín:n:herbe
+\va bíndute
+\mm bín:n:herbe
+\mm dùte:n:thé.vert
+\ps n
+\gf citronnelle
+\gvf citronnelle
+\lat Cymbopogon citratus
+\sd gram
+\dt 11/Mar/2019
 
 \lx dùtɛ
 \va dùte
