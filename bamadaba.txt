@@ -29524,42 +29524,52 @@ l'occasion d'une naissance)
 \dt 26/Sep/2006
 
 \lx dɔ́gɔdɔgɔnin
+\mm dɔ́gɔ:vq:étroit
+\mm dɔ́gɔ:vq:étroit
+\mm nin:mrph:DIM
 \va dɔndɔɔnin
+\mm dɔ́gɔ:vq:étroit
+\mm nin:mrph:DIM
 \ps adv.p
 \gf doucement
 \gvf doucement
-\dt 25/Jun/2013
+\dt 14/Mar/2019
 
 \lx dɔ́gɔdɔgɔninfeerela
 \mm dɔ́gɔdɔgɔnin:adv.p:doucement
+\mmm dɔ́gɔ:vq:étroit
+\mmm dɔ́gɔ:vq:étroit
+\mmm nin:mrph:DIM
 \mm fèere:v:vendre
 \mm la:mrph:AG.PRM
 \ps n
 \gf vendeur.au.détail
 \gvf vendeur au détail
-\dt 07/Nov/2017
+\dt 14/Mar/2019
 
 \lx dɔ́gɔdugu
 \mm dɔ́gɔ:n:marché
 \mm dùgu:n:terre
 \ps n
-\gf village.où.il.y.a.un.marché.régulier
+\gf village.à.marché.régulier
 \gvf village où il y a un marché régulier
 \rem f 83
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx dɔ́gɔfurancɛ
 \mm dɔ́gɔ:n:marché
-\mm fùran:n:distance
-\mm cɛ́:n:milieu
+\mm fùrancɛ:n:distance
+\mmm fùran:n:distance
+\mmm cɛ́:n:milieu
 \va dwáfurancɛ
 \mm dwá:n:marché
-\mm fùran:n:distance
-\mm cɛ́:n:milieu
+\mm fùrancɛ:n:distance
+\mmm fùran:n:distance
+\mmm cɛ́:n:milieu
 \ps n
 \gf semaine
 \gvf semaine
-\dt 30/Apr/2017
+\dt 14/Mar/2019
 
 \lx dɔ́gɔkɛ
 \mm dɔ́gɔ:n:cadet
@@ -29778,8 +29788,9 @@ le nom du groupe ethnique)
 \dt 01/Jun/2017
 
 \lx dɔ́gɔyalenba
-\mm dɔ́gɔ:vq:étroit
-\mm ya:mrph:ABSTR
+\mm dɔ́gɔya:v:amoindrir
+\mmm dɔ́gɔ:vq:étroit
+\mmm ya:mrph:ABSTR
 \mm len:mrph:PTCP.RES
 \mm ba:mrph:AUGM
 \ps adj
@@ -29787,19 +29798,22 @@ le nom du groupe ethnique)
 \gvf au moins
 \xv à dɔ́gɔyalenba...
 \nt kb 7/05 p.8
-\dt 01/Jun/2017
+\dt 14/Mar/2019
 
 \lx dɔ́gɔyama
-\mm dɔ́gɔ:vq:étroit
-\mm ya:mrph:DEQU
+\mm dɔ́gɔya:n:petitesse
+\mmm dɔ́gɔ:vq:étroit
+\mmm ya:mrph:DEQU
 \mm ma:mrph:COM
-\va dwá.ya.ma
-\mm dwá:vq:étroit
-\mm ya:mrph:DEQU
+\va dwáyama
+\mm dwáya:n:petitesse
+\mmm dwá:vq:étroit
+\mmm ya:mrph:DEQU
 \mm ma:mrph:COM
-\va jwá.ya.ma
-\mm jwá:vq:étroit
-\mm ya:mrph:DEQU
+\va jwáyama
+\mm jwáya:n:petitesse
+\mmm jwá:vq:étroit
+\mmm ya:mrph:DEQU
 \mm ma:mrph:COM
 \ph [jwa.]
 \ps n
@@ -29809,7 +29823,7 @@ le nom du groupe ethnique)
 \gvf affront
 \xv ń'í yé  "bàancinin" mɛ́n, dɔ́ b'á míiri kó : dɔ́gɔyama dòn, dɔ́gɔyama tɛ́ :
 \xf si tu entends dire "petit papa", certains pensent que c'est une manière de dire humiliante, non, ce n'en est pas une
-\dt 01/Jun/2017
+\dt 14/Mar/2019
 
 \lx dɔ́kɛbali
 \mm dɔ́:dtm:certain
@@ -29936,11 +29950,11 @@ le nom du groupe ethnique)
 \mm bò:n:excrément
 \ph [dl]
 \ps n
-\gf lie.de.la.bière.de.mil
+\gf lie.de.la.bière
 \gvf lie de la bière de mil
 \smf (sert de ferment)
 \sy bìri
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dɔ̀lɔdonna
 \mm dɔ̀lɔ:n:bière.de.mil
@@ -29969,17 +29983,16 @@ le nom du groupe ethnique)
 \va dlɔ̀.gwɛrɛn
 \mm dlɔ̀:n:bière.de.mil
 \mm gwɛ̀rɛn:v:faire.évaporer
-\ph [dl / gw]
 \ps n
 \gf bière.de.mil
 \gvf bière de mil
 \smf (au deuxième jour de cuisson)
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dɔ̀lɔjuru
 \mm dɔ̀lɔ:n:bière.de.mil
 \mm jùru:n:corde
-\va dlɔ̀.juru
+\va dlɔ̀juru
 \mm dlɔ̀:n:bière.de.mil
 \mm jùru:n:corde
 \ph [dl]
@@ -29989,7 +30002,7 @@ le nom du groupe ethnique)
 \gvf corde imprégnée de levure de bière
 \ms 2
 \gvf buveur invétéré
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dɔ̀lɔkasila
 \mm dɔ̀lɔ:n:bière.de.mil
@@ -30039,7 +30052,7 @@ le nom du groupe ethnique)
 \lx dɔ̀lɔmɔɔni
 \mm dɔ̀lɔ:n:bière.de.mil
 \mm mɔ̀ɔni:v:ramollir
-\va dlɔ̀.mɔɔni
+\va dlɔ̀mɔɔni
 \mm dlɔ̀:n:bière.de.mil
 \mm mɔ̀ɔni:v:ramollir
 \ph [dl]
@@ -30047,7 +30060,7 @@ le nom du groupe ethnique)
 \gf bière.de.mil
 \gvf bière de mil
 \smf (au premier jour de cuisson)
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dɔ̀lɔtigɛla
 \mm dɔ̀lɔ:n:bière.de.mil
@@ -30069,18 +30082,20 @@ le nom du groupe ethnique)
 \dt 12/Aug/2006
 
 \lx dɔ̀lɔtɔya
-\mm dɔ̀lɔ:n:bière.de.mil
-\mm tɔ:mrph:ST
+\mm dɔ̀lɔtɔ:adj:ivre
+\mmm dɔ̀lɔ:n:bière.de.mil
+\mmm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
-\va dlɔ̀.tɔ.ya
-\mm dlɔ̀:n:bière.de.mil
-\mm tɔ:mrph:ST
+\va dlɔ̀tɔya
+\mm dlɔ̀tɔ:adj:ivre
+\mmm dlɔ̀:n:bière.de.mil
+\mmm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
 \ph [dl]
 \ps n
 \gf alcoolisme
 \gvf alcoolisme
-\dt 12/Aug/2006
+\dt 14/Mar/2019
 
 \lx dɔ̀n
 \ps v
@@ -30249,18 +30264,6 @@ désorienter')
 \smf (du fusil)
 \dt 02/May/2015
 
-\lx dɔ̀ngɔna
-\mm dɔ̀ngɔ:n:volonté
-\mm na:mrph:LOC
-\ps n
-\gf désirable
-\gvf désirable
-\xv í dɔ̀ngɔna yé  jùmɛ yé ?
-\xf que veux-tu ? que préfères-tu ?
-\xv nìn kɛ́ra  né dɔ̀ngɔnamuso yé
-\xf c'est la femme que j'ai choisie
-\dt 26/Sep/2006
-
 \lx dɔ̀nka
 \va dɔ̀nkan
 \ps n
@@ -30288,27 +30291,27 @@ désorienter')
 
 \lx dɔ̀nkilidakɔnɔ
 \mm dɔ̀n.kili:n:chant
-\mm dɔ̀n:n:danse
-\mm kíli:v:appeler
+\mmm dɔ̀n:n:danse
+\mmm kíli:v:appeler
 \mm kɔ̀nɔ:n:oiseau
 \ps n
 \gf chantre
 \gvf chantre
 \gvf solo
 \gvf chanteuse professionnelle
-\dt 24/Apr/2018
+\dt 14/Mar/2019
 
 \lx dɔ̀nkilidala
 \mm dɔ̀n.kili:n:chant
-\mm dɔ̀n:n:danse
-\mm kíli:v:appeler
+\mmm dɔ̀n:n:danse
+\mmm kíli:v:appeler
 \mm dá:v:poser
 \mm la:mrph:AG.PRM
 \ps n
 \gf chanteuse
 \gvf chanteuse
 \gvf chanteur
-\dt 22/Apr/2018
+\dt 14/Mar/2019
 
 \lx dɔ́nko
 \mm dɔ́n:n:connaissance
@@ -30365,7 +30368,7 @@ désorienter')
 \gf connaître.à.fond
 \gvf connaître à fond
 \gvf être très expert
-\dt 02/Mar/2019
+\dt 14/Mar/2019
 
 \lx dɔ́nni
 \mm dɔ́n:v:connaître
@@ -30396,8 +30399,9 @@ désorienter')
 \dt 11/Nov/2007
 
 \lx dɔ́nnikɛla
-\mm dɔ́n:v:connaître
-\mm ni:mrph:NMLZ
+\mm dɔ́nni:n:science
+\mmm dɔ́n:v:connaître
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -30406,17 +30410,18 @@ désorienter')
 \gvf savant
 \ms 2
 \gvf devin
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dɔ́nniya
-\mm dɔ́n:v:connaître
-\mm ni:mrph:NMLZ
+\mm dɔ́nni:n:science
+\mmm dɔ́n:v:connaître
+\mmm ni:mrph:NMLZ
 \mm ya:mrph:ABSTR
 \ps n
 \gf science
 \gvf science
 \gvf instruction
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dɔ́nɔ
 \ps n
@@ -30480,17 +30485,21 @@ désorienter')
 \dt 05/Mar/2017
 
 \lx dɔ́ɔnindɔɔnin
+\mm dɔ́ɔnin:adv:un.peu
+\mm dɔ́ɔnin:adv:un.peu
 \ps adv.p
 \gf doucement
 \gvf doucement
 \gvf peu à peu
-\dt 31/Mar/2015
+\dt 14/Mar/2019
 
 \lx dɔ́ɔnindɔɔnin
+\mm dɔ́ɔnin:adv:un.peu
+\mm dɔ́ɔnin:adv:un.peu
 \ps adv
 \gf petit.à.petit
 \gvf petit à petit
-\dt 16/Apr/2016
+\dt 14/Mar/2019
 
 \lx dɔ̀ɔntin
 \ps n
@@ -30509,7 +30518,7 @@ désorienter')
 \mm dɔ́rɔgu:n:drogue
 \mm tà:v:prendre
 \mm la:mrph:AG.PRM
-\va drɔ́gu.ta.la
+\va drɔ́gutala
 \mm drɔ́gu:n:drogue
 \mm tà:v:prendre
 \mm la:mrph:AG.PRM
@@ -30517,7 +30526,7 @@ désorienter')
 \ps n
 \gf drogué
 \gvf drogué
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx dɔ́rɔmɛ
 \va dɔ́rɔ̌mɛ́
@@ -30671,14 +30680,14 @@ plus rien
 \lx dùbaden
 \mm dùba:n:bénédiction
 \mm dén:n:enfant
-\va dùga.den
+\va dùgaden
 \mm dùga:n:bénédiction
 \mm dén:n:enfant
 \ps n
 \gf enfant.béni
 \gvf enfant béni
 \smf (qui a les bénédictions de ses parents)
-\dt 24/Jun/2013
+\dt 14/Mar/2019
 
 \lx dúbalen
 \ps n
@@ -30711,13 +30720,13 @@ plus rien
 \dt 16/Aug/2006
 
 \lx dúden
-\mm dú:n:maison
+\mm dú:n:concession
 \mm dén:n:enfant
 \ps n
 \gf membre.de.famille
 \gvf membre de famille
 \smf (personne résidant dans la concession)
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dúfa
 \ve (f)
@@ -30779,11 +30788,12 @@ plus rien
 \lx dùfa-màsakɔrɔ
 \mm dùfa:n:vautour
 \mm màsa:n:roi
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf percnoptère.brun
 \gvf percnoptère brun
 \lat Neophron.monachus
+\dt 14/Mar/2019
 
 \lx dùfon
 \ps n
@@ -30891,15 +30901,12 @@ plus rien
 \lx dùguden
 \mm dùgu:n:terre
 \mm dén:n:enfant
-\va dùgu.len
-\mm dùgu:n:terre
-\mm lén:n:enfant
 \ps n
 \gf villageois
 \gvf villageois
 \xv í kɛ́ra  dùgulen yé
 \xf tu fais (maintenant) partie du village
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dùgudɛgɛ
 \ps v
@@ -30950,10 +30957,6 @@ plus rien
 \lx dùgujɛ
 \mm dùgu:n:terre
 \mm jɛ́:adj:blanc
-\va dùgusejɛ
-\mm dùgu:n:terre
-\mm sé:v:arriver
-\mm jɛ́:adj:blanc
 \ps n
 \ms 1
 \gf aube
@@ -30966,15 +30969,17 @@ plus rien
 \xf le lendemain soir
 \xv ù bɛ́ táa  syɔ̀ bɔ́  dón ní  dùgujɛ
 \xf ils vont tous les jours cueillir les haricots
-\dt 02/Jan/2018
+\dt 14/Mar/2019
 
 \lx dùgujɛda
-\mm dùgu:n:terre
-\mm jɛ́:adj:blanc
+\mm dùgujɛ:n:aube
+\mmm dùgu:n:terre
+\mmm jɛ́:adj:blanc
 \mm dá:n:bouche
 \va dùgujɛnda
-\mm dùgu:n:terre
-\mm jɛ́:adj:blanc
+\mm dùgujɛ:n:aube
+\mmm dùgu:n:terre
+\mmm jɛ́:adj:blanc
 \mm dá:n:bouche
 \ps n
 \gf petit.jour
@@ -30982,17 +30987,19 @@ plus rien
 \smf (premières.lueurs.du.jour)
 \xv ní  dùgujɛnda sùrunyana...
 \xf quand l'aube est toute proche ...
-\dt 15/Mar/2018
+\dt 14/Mar/2019
 
 \lx dùgujukɔrɔsa
 \mm dùgu:n:terre
-\mm jù:n:derrière
-\mm kɔ́rɔ:pp:sous
+\mm jùkɔ́rɔ:pp:dessous
+\mmm jù:n:derrière
+\mmm kɔ́rɔ:pp:sous
 \mm sà:n:serpent
 \ps n
 \gf hypocrite
 \gvf hypocrite
 \sy jíjukɔrɔsa
+\dt 14/Mar/2019
 
 \lx dùgukolo
 \mm dùgu:n:terre
@@ -31007,10 +31014,12 @@ plus rien
 \dt 26/Sep/2006
 
 \lx dùgukolokunsi
-\mm dùgu:n:terre
-\mm kólo:n:os
-\mm kùn:n:tête
-\mm sí:n:poil
+\mm dùgukolo:n:terre
+\mmm dùgu:n:terre
+\mmm kólo:n:os
+\mm kùnsi:n:cheveux
+\mmm kùn:n:tête
+\mmm sí:n:poil
 \ps n
 \ms 1
 \gf plante.Fimbristylis.cioniana
@@ -31020,40 +31029,44 @@ plus rien
 \sd cype
 \smf (plante annuelle en touffes denses ---> 10 / 20 cm)
 \cf dùgukunsigi
-\dt 19/Aug/2006
+\dt 14/Mar/2019
 
 \lx dùgukolonɔn
-\mm dùgu:n:terre
-\mm kólo:n:os
+\mm dùgukolo:n:terre
+\mmm dùgu:n:terre
+\mmm kólo:n:os
 \mm nɔ́n:v:lécher
 \va dùgukolonɔ
-\mm dùgu:n:terre
-\mm kólo:n:os
+\mm dùgukolo:n:terre
+\mmm dùgu:n:terre
+\mmm kólo:n:os
 \mm nɔ́:v:lécher
 \ps n
 \gf érosion
 \gvf érosion
-\dt 28/Oct/2017
+\dt 14/Mar/2019
 
 \lx dùgukolosànin
-\mm dùgu:n:terre
-\mm kólo:n:os
+\mm dùgukolo:n:terre
+\mmm dùgu:n:terre
+\mmm kólo:n:os
 \mm sà:n:serpent
 \mm nin:mrph:DIM
 \ps n
 \gf serpent.Typhlops.sp.
 \gvf serpent Typhlops sp 
 \smf (petits serpents fouisseurs, inoffensifs)
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dùgukoloyɛrɛyɛrɛ
-\mm dùgu:n:terre
-\mm kólo:n:os
+\mm dùgukolo:n:terre
+\mmm dùgu:n:terre
+\mmm kólo:n:os
 \mm yɛ́rɛyɛrɛ:v:trembler
 \ps n
 \gf séisme
 \gvf séisme
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx dùgukɔnɔna
 \mm dùgu:n:terre
@@ -31141,12 +31154,13 @@ plus rien
 \lx dùgumadawolo
 \mm dùgu:n:terre
 \mm mà:pp:ADR
-\mm dá:n:bouche
-\mm wòlo:n:peau
+\mm dáwolo:n:lèvre
+\mmm dá:n:bouche
+\mmm wòlo:n:peau
 \ps n
 \gf lèvre.inférieure
 \gvf lèvre inférieure
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dùgumafɛn
 \mm dùgu:n:terre
@@ -31175,14 +31189,15 @@ plus rien
 \lx dùgumakɛlɛcɛ
 \mm dùgu:n:terre
 \mm mà:pp:ADR
-\mm kɛ̀lɛ:v:combattre
-\mm cɛ̀:n:mâle
+\mm kɛ̀lɛcɛ:n:soldat
+\mmm kɛ̀lɛ:v:combattre
+\mmm cɛ̀:n:mâle
 \ps n
 \gf fantassin
 \gvf fantassin
 \xv dùgumakɛlɛcɛ, sòkankɛlɛcɛ ní jíkankɛlɛcɛ tùn b'ú lá...
 \xf il y avait des fantassins, des cavaliers et des 'marins' (kb 1/06 p.4)
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx dùgumana
 \mm dùgu:n:terre
@@ -31299,7 +31314,7 @@ fait de bonnes poutres)
 \mm dùgu:n:terre
 \mm rɔ́:pp:IN
 \mm sà:n:serpent
-\va dùgu.rɔ.sa.nin
+\va dùgurɔsanin
 \mm dùgu:n:terre
 \mm rɔ́:pp:IN
 \mm sà:n:serpent
@@ -31314,7 +31329,7 @@ fait de bonnes poutres)
 \smf (inoffensif)
 \sy dùguci
 \sy kàlaci
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúguru
 \va dúguu
@@ -31424,19 +31439,21 @@ fait de bonnes poutres)
 \dt 16/Aug/2006
 
 \lx dùgutigiya
-\mm dùgu:n:terre
-\mm tìgi:n:maître
+\mm dùgutigi:n:chef.de.village
+\mmm dùgu:n:terre
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf chefferie.de.village
 \gvf chefferie de village
 \xv ní  dùgutigiya dá séra  é mà...
 \xf si c'est ton tour d'avoir la chefferie du village ...
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dùgutigi-y'-án-wéle
-\mm dùgu:n:terre
-\mm tìgi:n:maître
+\mm dùgutigi:n:chef.de.village
+\mmm dùgu:n:terre
+\mmm tìgi:n:maître
 \mm y':pm:PFV.TR
 \mm án:pers:1PL
 \mm wéle:v:appeler
@@ -31445,7 +31462,7 @@ fait de bonnes poutres)
 \gvf chemise sans manche
 \smf (qu'on peut enfiler dans un sens ou dans l'autre)
 \sy kɔ́bilaɲɛbila
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dùgutila
 \mm dùgu:n:terre
@@ -31476,23 +31493,23 @@ fait de bonnes poutres)
 \dt 16/Aug/2006
 
 \lx dúkɛnɛ
-\mm dú:n:maison
+\mm dú:n:concession
 \mm kɛ́nɛ:n:clarté
 \ps n
 \gf cour
 \gvf cour
 \smf (d'une 'concession')
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúkɔnɔmɔgɔ
-\mm dú:n:maison
+\mm dú:n:concession
 \mm kɔ́nɔ:pp:dans
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf membre.de.famille
 \gvf membre de famille
 \sy dúmɔgɔ
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dúlen
 \ps n
@@ -31567,6 +31584,7 @@ fait de bonnes poutres)
 \dt 08/Jun/2014
 
 \lx dúman
+\mm dí:vq:agréable
 \mm man:mrph:ADJ
 \ps adj
 \ms 1
@@ -31587,7 +31605,7 @@ fait de bonnes poutres)
 \xf remède efficace
 \ms 4
 \gvf facile
-\dt 16/Mar/2018
+\dt 14/Mar/2019
 
 \lx dùmáŋèré
 \ve (f)
@@ -31599,13 +31617,13 @@ fait de bonnes poutres)
 \dt 16/Aug/2006
 
 \lx dúmɔgɔ
-\mm dú:n:maison
+\mm dú:n:concession
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf membre.de.famille
 \gvf membre de famille
 \sy dúkɔnɔmɔgɔ
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dùmu
 \va dùnu
@@ -31622,6 +31640,8 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \dt 03/Apr/2016
 
 \lx dúmuni
+\mm dúmu:v:manger
+\mm ni:mrph:NMLZ
 \ps n
 \ms 1
 \gf action.de.manger
@@ -31635,7 +31655,7 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \gvf nourriture
 \xv dúmuni mɔ̀na
 \xf le repas est cuit, prêt
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúmuni
 \ps v
@@ -31645,7 +31665,7 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \gvf donner à manger
 \xv jàtigi yé dúnan dúmuni
 \xf l'hôte a donné à manger aux étrangers
-\dt 16/Mar/2018
+\dt 14/Mar/2019
 
 \lx dúmunibali
 \mm dúmuni:v:nourrir
@@ -31658,26 +31678,31 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \dt 16/Mar/2018
 
 \lx dúmunibaliya
-\mm dúmuni:v:nourrir
-\mm bali:mrph:PTCP.PRIV
+\mm dúmunibali:prcp:qui.ne.mange.pas
+\mmm dúmuni:v:nourrir
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf jeûne
 \gvf jeûne
 \gvf diète
-\dt 16/Mar/2018
+\dt 14/Mar/2019
 
 \lx dúmunibɔminɛn
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm bɔ́:v:sortir
 \mm mìnɛn:n:outils
 \ps n
 \gf vaisselle
 \gvf vaisselle
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx dúmuniden
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm dén:n:enfant
 \ps n
 \ms 1
@@ -31685,26 +31710,33 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \gvf gourmand
 \ms 2
 \gvf pensionnaire
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúmunidɔgɔ
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm dɔ́gɔ:n:désir
 \ps n
 \gf appétit
 \gvf appétit
 \sy dúmuninege
+\dt 14/Mar/2019
 
 \lx dúmunifɛn
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm fɛ́n:n:chose
 \ps n
 \gf aliment
 \gvf aliment
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúmunikɛbaliya
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
@@ -31716,10 +31748,12 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \ms 2
 \gvf manque d'appétit
 \gvf anorexie
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúmunikɛla
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -31730,54 +31764,66 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \ms 2
 \gvf gros mangeur
 \smf (péj)
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúmunikɛminɛn
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm mìnɛn:n:outils
 \ps n
 \gf vaisselle
 \gvf vaisselle
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúmunikɛɲɔgɔn
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm ɲɔ́gɔn:prn:RECP
 \ps n
 \gf convive
 \gvf convive
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúmunimɔgɔ
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf gourmand
 \gvf gourmand
 \sy dúmuniden
-\dt 12/Aug/2006
+\dt 14/Mar/2019
 
 \lx dúmunintanya
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf manque.de.nourriture
 \gvf manque de nourriture
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx dúmuniŋana
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm ŋàna:n:champion
 \ps n
 \gf goinfre
 \gvf goinfre
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúmuniyɛlɛma
 \mm dúmuni:n:action.de.manger
+\mmm dúmu:v:manger
+\mmm ni:mrph:NMLZ
 \mm yɛ̀lɛma:v:changer
 \ps n
 \ms 1
@@ -31785,7 +31831,7 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \gvf digestion
 \ms 2
 \gvf changement de régime alimentaire
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dùn
 \ps vq
@@ -31878,7 +31924,7 @@ quant à sa mère, elle prend de l'âge
 \lx dúnanjigin
 \mm dúnan:n:étranger
 \mm jìgin:v:descendre
-\va dnán.jigin
+\va dnánjigin
 \mm dnán:n:étranger
 \mm jìgin:v:descendre
 \ph [dn]
@@ -31888,15 +31934,17 @@ quant à sa mère, elle prend de l'âge
 \gvf accueillir
 \xv ń bɛ́  ù dúnanjigin
 \xf je m'occupe d'eux (les présente ...)
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúnanjiginso
-\mm dúnan:n:étranger
-\mm jìgin:v:descendre
+\mm dúnanjigin:v:accueillir
+\mmm dúnan:n:étranger
+\mmm jìgin:v:descendre
 \mm só:n:maison
-\va dnán.jigin.so
-\mm dnán:n:étranger
-\mm jìgin:v:descendre
+\va dnánjiginso
+\mm dnánjigin:v:accueillir
+\mmm dnán:n:étranger
+\mmm jìgin:v:descendre
 \mm só:n:maison
 \ph [dn]
 \ps n
@@ -31906,48 +31954,48 @@ quant à sa mère, elle prend de l'âge
 \ms 2
 \gvf hôtel
 \sy dúnanjiginyɔrɔ
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúnankɛ
 \mm dúnan:n:étranger
 \mm kɛ:adj:mâle
-\va dnán.kɛ
+\va dnánkɛ
 \mm dnán:n:étranger
 \mm kɛ:adj:mâle
 \ph [dn]
 \ps n
 \gf étranger
 \gvf étranger
-\dt 12/Aug/2006
+\dt 14/Mar/2019
 
 \lx dúnanmuso
 \mm dúnan:n:étranger
 \mm mùso:n:femme
-\va dnán.muso
+\va dnánmuso
 \mm dnán:n:étranger
 \mm mùso:n:femme
 \ph [dn]
 \ps n
 \gf étrangère
 \gvf étrangère
-\dt 12/Aug/2006
+\dt 14/Mar/2019
 
 \lx dúnannama
 \mm dúnan:n:étranger
 \mm nama:mrph:STAT
-\va dnán.nama
+\va dnánnama
 \mm dnán:n:étranger
 \mm nama:mrph:STAT
 \ph [dn]
 \ps adj
 \gf dans.la.condition.d'étranger
 \gvf dans la condition d'étranger
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dúnanya
 \mm dúnan:n:étranger
 \mm ya:mrph:ABSTR
-\va dnan.ya
+\va dnanya
 \mm dnán:n:étranger
 \mm ya:mrph:ABSTR
 \ph [dn]
@@ -31957,7 +32005,7 @@ quant à sa mère, elle prend de l'âge
 \xv dúnanya yé  dìbi yé
 \xf la condition de l'étranger c'est les ténèbres
 \xf il ignore tout ce qui concerne le village où il s'est arrêté
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúnbali
 \mm dún:v:manger
@@ -32008,11 +32056,11 @@ quant à sa mère, elle prend de l'âge
 
 \lx dùnfin
 \mm dùn:vq:profond
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf précipice
 \gvf précipice
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dùnforoko
 \mm dùn:n:gâte-bois
@@ -32054,6 +32102,21 @@ quant à sa mère, elle prend de l'âge
 \xv Ála y'á dɔ̀ngɔ dòn à lá, ń'ó yé sàya yé
 \xf Dieu lui a manifesté sa volonté, je veux dire : la mort
 \dt 13/Apr/2018
+
+\lx dùngɔna
+\mm dùngɔ:n:volonté
+\mm na:mrph:MNT1
+\va dɔ̀ngɔna
+\mm dɔ̀ngɔ:n:volonté
+\mm na:mrph:MNT1
+\ps n
+\gf désirable
+\gvf désirable
+\xv í dɔ̀ngɔna yé  jùmɛ yé ?
+\xf que veux-tu ? que préfères-tu ?
+\xv nìn kɛ́ra  né dɔ̀ngɔnamuso yé
+\xf c'est la femme que j'ai choisie
+\dt 14/Mar/2019
 
 \lx dùnguru
 \va tùnfuru
@@ -32110,18 +32173,19 @@ gens)
 \dt 16/Mar/2018
 
 \lx dúntantanya
-\mm dún:v:manger
-\mm ta:mrph:PTCP.POT
+\mm dúnta:prtcp:comestible
+\mmm dún:v:manger
+\mmm ta:mrph:PTCP.POT
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf absence.de.nourriture
 \gvf absence de nourriture
 \xv ò kɛ́len fɔ́ kà jɛ́ dá ò ɲɛ́ kélen kàn dúntantanya fɛ̀
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx dúntanya
-\mm dú:n:maison
+\mm dú:n:concession
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
@@ -32130,7 +32194,7 @@ gens)
 \gvf priver de logement
 \xv dùgu cìli k'à kɛ́  kìn yé, ò fílɛ kà  án bɛ́ɛ dúntanya :
 \xf le village rasé pour le diviser en quartiers, nous voilà tous sans logement
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx dúntulu
 \mm dún:v:manger
@@ -32157,7 +32221,7 @@ gens)
 \mm dùnu:n:tambour
 \mm fɔ́:v:dire
 \mm la:mrph:AG.PRM
-\va dúnun.fɔ.la
+\va dúnunfɔla
 \mm dùnun:n:tambour
 \mm fɔ́:v:dire
 \mm la:mrph:AG.PRM
@@ -32166,18 +32230,18 @@ gens)
 \gvf joueur de tambour
 \xv à táara dùnufɔla wéle kó :
 \rem l 89
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx dùnunkàla
 \va dùnukàlan
 \va dùnunkàlan
-\va dòni.kala
+\va dònikala
 \ps n
 \gf guêpe-maçonne
 \gvf guêpe-maçonne
 \sy dɛ̀nɛkirinti
 \rem bz, du, f
-\dt 05/Jun/2016
+\dt 14/Mar/2019
 
 \lx dùnunkɔrɔ
 \mm dùnun:n:tambour
@@ -32227,13 +32291,13 @@ gens)
 \dt 19/Jan/2015
 
 \lx dúsɛbɛn
-\mm dú:n:maison
+\mm dú:n:concession
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf carnet.de.famille
 \gvf carnet de famille
 \sy gàkaranɛ
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx dùsu
 \ps n
@@ -32295,13 +32359,14 @@ gens)
 \dt 26/Sep/2006
 
 \lx dùsubaya
-\mm dùsu:v:se.fâcher
-\mm ba:mrph:AUGM
+\mm dùsuba:adj:coléreux
+\mmm dùsu:v:se.fâcher
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf grande.susceptibilité
 \gvf grande susceptibilité
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dùsubɔ
 \mm dùsu:n:coeur
@@ -32379,14 +32444,14 @@ gens)
 \lx dùsukasi
 \mm dùsu:n:coeur
 \mm kàsi:n:pleurs
-\va dùsu.kasi.ko
+\va dùsukasiko
 \mm dùsu:n:coeur
 \mm kàsi:n:pleurs
 \mm kó:n:affaire
 \ps n
 \gf chagrin
 \gvf chagrin
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukasi
 \mm dùsu:n:coeur
@@ -32398,25 +32463,27 @@ gens)
 \dt 20/Jul/2014
 
 \lx dùsukasibaatɔ
-\mm dùsu:n:coeur
-\mm kàsi:v:pleurer
+\mm dùsukasi:v:chagriner
+\mmm dùsu:n:coeur
+\mmm kàsi:v:pleurer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj
 \gf peiné
 \gvf peiné
 \gvf en colère
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukasimɔgɔ
-\mm dùsu:n:coeur
-\mm kàsi:n:pleurs
+\mm dùsukasi:n:chagrin
+\mmm dùsu:n:coeur
+\mmm kàsi:n:pleurs
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf vaurien
 \gvf vaurien
 \smf (personne qui chagrine les gens par son comportement)
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukolo
 \mm dùsu:n:coeur
@@ -32448,53 +32515,57 @@ gens)
 \dt 20/Jul/2014
 
 \lx dùsukundimi
-\mm dùsu:n:coeur
-\mm kùn:n:tête
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
 \mm dími:n:souffrance
 \ps n
 \gf maux.de.coeur
 \gvf maux de coeur
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukungɛlɛya
-\mm dùsu:n:coeur
-\mm kùn:n:tête
-\mm gɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:ABSTR
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
+\mm gɛ̀lɛ:vq:dur
+\mm ya:mrph:DEQU
 \ps n
 \gf obstination
 \gvf obstination
 \smf (entêtement (dans une mauvaise conduite) / attitude rebelle, conduite endurcie)
 \rem ex (14, 17)
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukunjɛlenya
-\mm dùsu:n:coeur
-\mm kùn:n:tête
-\mm jɛ́:vq/adj:blanc
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
+\mm jɛ́:v:blanchir
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \gf sincérité
 \gvf sincérité
 \smf (droiture du coeur, clarté de l'âme)
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukunnakaliya
-\mm dùsu:n:coeur
-\mm kùn:n:tête
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
 \mm na:mrph:LOC
-\mm kàli:v:faire.un.saut.périlleux
-\mm ya:mrph:ABSTR
+\mm kàliya:n:douleur.aigüe
 \ps n
 \gf aigreurs
 \gvf aigreurs
 \gvf inflammation de l'oesophage
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukunnako
-\mm dùsu:n:coeur
-\mm kùn:n:tête
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
 \mm na:mrph:LOC
 \mm kó:n:affaire
 \ps n
@@ -32504,21 +32575,23 @@ gens)
 \sy níkanko
 \xv mɔ̀gɔ sí tɛ́ á cɛ́ lá mín bɛ́ ò kɛ́ à dùsukunnako yé
 \xf aucun d'entre vous ne le prend à coeur
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukunnata
-\mm dùsu:n:coeur
-\mm kùn:n:tête
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
 \mm nata:mrph:MNT2
 \ps n
 \gf sentiments
 \gvf sentiments
 \gvf opinion
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukunntan
-\mm dùsu:n:coeur
-\mm kùn:n:tête
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
 \mm ntan:mrph:PRIV
 \ps adj/n
 \ms 1
@@ -32526,11 +32599,12 @@ gens)
 \gvf poltron
 \ms 2
 \gvf paresseux
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukunntanya
-\mm dùsu:n:coeur
-\mm kùn:n:tête
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
@@ -32539,11 +32613,12 @@ gens)
 \gvf pusillanimité
 \ms 2
 \gvf paresse
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsukunyɛrɛyɛrɛ
-\mm dùsu:n:coeur
-\mm kùn:n:tête
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
 \mm yɛ́rɛyɛrɛ:v:trembler
 \ps n
 \ms 1
@@ -32551,7 +32626,7 @@ gens)
 \gvf palpitations cardiaques
 \ms 2
 \gvf grande perplexité
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsulafiliba
 \mm dùsu:n:coeur
@@ -32565,14 +32640,15 @@ gens)
 
 \lx dùsulaminkuma
 \mm dùsu:n:coeur
-\mm lá:mrph:CAUS
-\mm mìn:v:boire
+\mm lámìn:v:faire.boire
+\mmm lá:mrph:CAUS
+\mmm mìn:v:boire
 \mm kúma:n:parole
 \ps n
 \gf encouragement
 \gvf encouragement
 \gvf exhortation
-\dt 20/Jul/2014
+\dt 14/Mar/2019
 
 \lx dùsuman
 \mm dùsu:n:coeur
@@ -32586,8 +32662,8 @@ gens)
 
 \lx dùsumandi
 \mm dùsuman:n:humeur
-\mm dùsu:n:coeur
-\mm man:mrph:SUPER
+\mmm dùsu:n:coeur
+\mmm man:mrph:SUPER
 \mm dí:vq:agréable
 \ps adj/n
 \ms 1
@@ -32599,25 +32675,25 @@ gens)
 \gvf de bon caractère
 \ms 3
 \gvf de bonne humeur
-\dt 23/Mar/2015
+\dt 14/Mar/2019
 
 \lx dùsumandiya
 \mm dùsumandi:adj:bénin
-\mm dùsuman:n:humeur
-\mm dùsu:n:coeur
-\mm man:mrph:SUPER
-\mm dí:vq:agréable
+\mmm dùsuman:n:humeur
+\mmmm dùsu:n:coeur
+\mmmm man:mrph:SUPER
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf bonne.humeur
 \gvf bonne humeur
 \gvf gentillesse
-\dt 23/Mar/2015
+\dt 14/Mar/2019
 
 \lx dùsumango
 \mm dùsuman:n:humeur
-\mm dùsu:n:coeur
-\mm man:mrph:SUPER
+\mmm dùsu:n:coeur
+\mmm man:mrph:SUPER
 \mm gó:adj:désagréable
 \ps adj
 \gf irascible
@@ -32627,19 +32703,19 @@ gens)
 \gvf susceptible
 \xv dùsumango fìla tɛ́  ɲɔ́gɔn láadi
 \xf deux irascibles ne se donnent pas de conseil
-\dt 23/Mar/2015
+\dt 14/Mar/2019
 
 \lx dùsumangoya
 \mm dùsumango:adj:irascible
-\mm dùsuman:n:humeur
-\mm dùsu:n:coeur
-\mm man:mrph:SUPER
-\mm gó:adj:désagréable
+\mmm dùsuman:n:humeur
+\mmmm dùsu:n:coeur
+\mmmm man:mrph:SUPER
+\mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf irascibilité
 \gvf irascibilité
-\dt 23/Mar/2015
+\dt 14/Mar/2019
 
 \lx dùsuntan
 \mm dùsu:n:coeur
@@ -32685,7 +32761,7 @@ gens)
 \dt 09/Aug/2017
 
 \lx dútigi
-\mm dú:n:maison
+\mm dú:n:concession
 \mm tìgi:n:maître
 \ps n
 \ms 1
@@ -32693,7 +32769,7 @@ gens)
 \gvf chef de (la grande) famille
 \ms 2
 \gvf propriétaire d'une 'concession'
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx dúumi
 \va dúumɛ
@@ -33045,22 +33121,22 @@ gens)
 \lx fàabaa
 \mm fàa:v:tuer
 \mm baa:mrph:AG.OCC
-\va fàga.baga
+\va fàgabaga
 \mm fàga:v:tuer
 \mm baga:mrph:AG.OCC
-\va fàa.baga
+\va fàabaga
 \mm fàa:v:tuer
 \mm baga:mrph:AG.OCC
 \ps n
 \gf assassin
 \gvf assassin
 \gvf sacrificateur
-\dt 30/Sep/2018
+\dt 14/Mar/2019
 
 \lx fàafɛn
 \mm fàa:v:tuer
 \mm fɛ́n:n:chose
-\va fàga.fɛn
+\va fàgafɛn
 \mm fàga:v:tuer
 \mm fɛ́n:n:chose
 \ps n
@@ -33070,7 +33146,7 @@ gens)
 \ms 2
 \gvf victime à tuer
 \rem bz, Mol, b
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx fàala
 \ps n
@@ -33099,14 +33175,14 @@ gens)
 \lx fàali
 \mm fàa:v:tuer
 \mm li:mrph:NMLZ
-\va fàga.li
+\va fàgali
 \mm fàga:v:tuer
 \mm li:mrph:NMLZ
 \ps n
 \gf meurtre
 \gvf meurtre
 \gvf action de sacrifier
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx fàama
 \ps n
