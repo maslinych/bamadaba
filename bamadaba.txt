@@ -3401,18 +3401,27 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \xf mes arachides n'ont pas réussi
 \dt 26/Sep/2006
 
-\lx balibali
+\lx báliba
 \ps n
-\gf henné.blond
-\lat Senna italica
-\gvf henné blond
-\dt 04/Mar/2019
+\gf séné
+\lat Senna alexandrina
+\gvf séné
+\src Kalilou Téra
+\dt 12/Mar/2019
 
 \lx bálibali
 \ps n
 \gf mouton.du.Sahel
 \gvf mouton du Sahel
 \dt 16/Aug/2006
+
+\lx bálibali
+\ps n
+\gf henné.blond
+\ms
+\lat Senna italica
+\gvf henné blond
+\dt 12/Mar/2019
 
 \lx bálibalisaga
 \mm bálibali:n:mouton.du.Sahel
@@ -8109,12 +8118,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf bic
 \dt 09/Apr/2017
 
-\lx bikisɛ
+\lx bíkisɛ
 \mm kìsɛ:n:grain
 \ps n
 \gf bille
 \gvf bille
-\dt 07/Mar/2019
+\dt 14/Mar/2019
 
 \lx bíkɔ̀nɔntɔn
 \mm bí:num:dizaine
@@ -12006,18 +12015,18 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólomayɛlɛma
 \mm bólo:n:bras
-\mm mà.yɛ̀lɛma
+\mm mà.yɛ̀lɛma:v:changer
 \mmm mà:mrph:SUPER
 \mmm yɛ̀lɛma:v:changer
 \ps n
 \gf gagne-pains
 \gvf gagne-pains
 \gvf travaux à gauche et à droite
-\dt 01/Mar/2019
+\dt 14/Mar/2019
 
 \lx bólomayɛ̀lɛma
 \mm bólo:n:bras
-\mm mà.yɛ̀lɛma
+\mm mà.yɛ̀lɛma:v:changer
 \mmm mà:mrph:SUPER
 \mmm yɛ̀lɛma:v:changer
 \ps v
@@ -12032,7 +12041,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf changer de métier
 \xv ń yé ń bólomayɛlɛma  táyɛriya lá
 \xf je suis devenu tailleur
-\dt 01/Mar/2019
+\dt 14/Mar/2019
 
 \lx bólominɛ
 \mm bólo:n:bras
@@ -12305,7 +12314,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bònbonsima
-\mm bònbon.si
+\mm bònbonsi:n:barbe
 \mmm bònbon:n:menton
 \mmm sí:n:poil
 \mm ma:mrph:COM
@@ -12318,7 +12327,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gf barbu
 \gvf barbu
 \sy bòonsitigi
-\dt 01/Mar/2019
+\dt 14/Mar/2019
 
 \lx bónda
 \mm bón:n:case
@@ -19763,7 +19772,7 @@ saillie)
 \dt 07/Mar/2019
 
 \lx dábɔlɔwɔlɔsɔjɛman
-\mm dábɔlɔ.wɔlɔsɔ
+\mm dábɔlɔ.wɔlɔsɔ:n:ibis.sacré
 \mmm dá.bɔlɔ:n:bec
 \mmmm dá:n:bouche
 \mmmm bɔ̀lɔ:n:piquet
@@ -19776,7 +19785,7 @@ saillie)
 \gvf ibis sacré
 \lat Threskiornis aethiopica
 \smf (vol plané et battu alterné)
-\dt 07/Mar/2019
+\dt 14/Mar/2019
 
 \lx dábɔnkama
 \mm dá.bɔ:v:commencer
@@ -23725,7 +23734,7 @@ génitales ...)
 \dt 09/Mar/2019
 
 \lx dánnabaliya
-\mm dánna.bali
+\mm dánna.bali:ptcp:mécréant
 \mmm dá.n.na:n:foi
 \mmmm dá:v:poser
 \mmmm ń:pers:1SG
@@ -23738,7 +23747,7 @@ génitales ...)
 \gvf incroyance
 \ms 2
 \gvf défiance
-\dt 09/Mar/2019
+\dt 14/Mar/2019
 
 \lx dànnaci
 \mm dàn:n:limite
@@ -23778,7 +23787,7 @@ génitales ...)
 \dt 09/Mar/2019
 
 \lx dánnaɲɔgɔnya
-\mm dánna.ɲɔgɔn
+\mm dánna.ɲɔgɔn:n:confident
 \mmm dá.n.na:n:foi
 \mmmm dá:v:poser
 \mmmm ń:pers:1SG
@@ -23788,7 +23797,7 @@ génitales ...)
 \ps n
 \gf confiance
 \gvf confiance
-\dt 09/Mar/2019
+\dt 14/Mar/2019
 
 \lx dànnaselen
 \mm dàn:n:limite
@@ -23812,7 +23821,7 @@ génitales ...)
 \dt 16/Aug/2006
 
 \lx dànnatigɛli
-\mm dàn.ná.tìgɛ
+\mm dàn.ná.tìgɛ:v:s'expliquer
 \mmm dàn:n:limite
 \mmm ná:pp:à
 \mmm tìgɛ:v:couper
@@ -23822,7 +23831,7 @@ génitales ...)
 \gvf mot de présentation
 \xv dànnatigɛli bánna tùma mín ná...
 \xf quand toutes les présentations furent terminées ... (kb 9/05 p.8)
-\dt 09/Mar/2019
+\dt 14/Mar/2019
 
 \lx dánnaya
 \mm dá.n.na:n:foi
@@ -23837,7 +23846,7 @@ génitales ...)
 \dt 09/Mar/2019
 
 \lx dánnayamɔgɔ
-\mm dánna.ya
+\mm dánnaya:n:foi
 \mmm dá.n.na:n:foi
 \mmmm dá:v:poser
 \mmmm ń:pers:1SG
@@ -23845,7 +23854,7 @@ génitales ...)
 \mmmm ya:mrph:ABSTR
 \mm mɔ̀gɔ:n:homme
 \va dánnayamaa
-\mm dánna.ya
+\mm dánnaya:n:foi
 \mmm dá.n.na:n:foi
 \mmmm dá:v:poser
 \mmmm ń:pers:1SG
@@ -23858,7 +23867,7 @@ génitales ...)
 \sy dánnamɔgɔ
 \sy dánnamaa
 \nt LD p.5
-\dt 09/Mar/2019
+\dt 14/Mar/2019
 
 \lx dànni
 \mm dàn:v:semer
@@ -25460,7 +25469,7 @@ génitales ...)
 \dt 10/Mar/2019
 
 \lx dénbatigiya
-\mm dénba.tigi
+\mm dénba.tigi:n:mère.de.famille
 \mmm dén.ba:n:mère
 \mmmm dén:n:enfant
 \mmmm bá:n:mère
@@ -25472,7 +25481,7 @@ génitales ...)
 \gvf devenir mère
 \xv dútigi bálimamuso bɛ́ɛ dénbatigiyara sáni ù kà fúru
 \xf toutes les soeurs du chef de famille ont eu des enfants avant d'être mariées (kb 11/05 p.9)
-\dt 10/Mar/2019
+\dt 14/Mar/2019
 
 \lx dénbaya
 \mm dén.ba:n:mère
@@ -33875,6 +33884,15 @@ gens)
 \gf répétiteur.des.paroles.d'un.imam
 \gvf répétiteur des paroles d'un imam
 \dt 16/Aug/2006
+
+\lx fálasa
+\va fálafala
+\va fálifalu
+\va fwáa
+\ps adj
+\gf blanchâtre
+\gvf blanchâtre
+\dt 14/Mar/2019
 
 \lx fálatɔ
 \mm fála:n:orphelin
@@ -42663,9 +42681,12 @@ forestières, fruit : long follicule de 50 cm)
 \gvf être absent
 \dt 01/May/2014
 
-\lx furr
+\lx fúrr
 \ps onomat
-\dt 04/May/2018
+\gf continuellement
+\gvf continuellement
+\gvf et cetera
+\dt 12/Mar/2019
 
 \lx fùru
 \ps n
@@ -45143,8 +45164,8 @@ forestières, fruit : long follicule de 50 cm)
 \gf planter
 \gvf planter
 \gvf ficher
-\smf (un couteau ...)
-\dt 06/Mar/2019
+\smf (un couteau, les dents...)
+\dt 12/Mar/2019
 
 \lx gén
 \va gwén
@@ -55975,7 +55996,7 @@ fusil)
 \xf un ennemi de moins (qd on a tué un serpent ...)
 
 \lx júguman
-\mm júgu:vq/adj:mauvais
+\mm júgu:vq:mauvais
 \mm man:mrph:ADJ
 \ps adj
 \ms 1
@@ -55986,7 +56007,20 @@ fusil)
 \gvf grave
 \xv án sélen yànni nɔ́, júguman tɛ́...
 \xf nous sommes venus ici, ce n'est pas pour une affaire grave
-\dt 26/Sep/2006
+\dt 14/Mar/2019
+
+\lx júguman
+\mm júgu:vq:mauvais
+\mm man:mrph:ADJ
+\ps n
+\gf méchanceté
+\ms 1
+\gvf méchanceté
+\ms 2
+\gvf méfait
+\ms 3
+\gvf méchant
+\dt 14/Mar/2019
 
 \lx júgunin
 \mm júgu:n:ennemi
@@ -65901,12 +65935,12 @@ probablement de chaux vive)
 \xf d'avoir trop crié l'a enroué
 \dt 23/Nov/2012
 
-\lx kokayini
+\lx kókayini
 \bw fr. cocaïne
 \ps n
 \gf cocaïne
 \gvf cocaïne
-\dt 06/Mar/2019
+\dt 14/Mar/2019
 
 \lx kókɛbaliya
 \mm kó:n:affaire
@@ -70868,8 +70902,9 @@ ou une proposition)
 \dt 04/Mar/2019
 
 \lx kɔ́nɔmaya
-\mm kɔ́nɔ:n:ventre
-\mm ma:mrph:COM
+\mm kɔ́nɔma:adj:enceinte
+\mmm kɔ́nɔ:n:ventre
+\mmm ma:mrph:COM
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -70879,27 +70914,28 @@ ou une proposition)
 \gvf épiaison
 \xv ɲɔ̀tɛli yé kɔ́nɔmaya dáminɛ
 \xf le mil hâtif a commencé son épiaison
-\dt 11/Nov/2007
+\dt 14/Mar/2019
 
 \lx kɔ́nɔmaya
-\mm kɔ́nɔ:n:ventre
-\mm ma:mrph:COM
+\mm kɔ́nɔma:adj:enceinte
+\mmm kɔ́nɔ:n:ventre
+\mmm ma:mrph:COM
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \ms 1
-\gf devenir.enceinte
-\gvf devenir enceinte
+\gf tomber.enceinte
+\gvf tomber enceinte
 \ms 2
 \gvf épier
 \smf (graminées)
 \xv kàbi  à kɔ́nɔmayara, à ní  bàna dòn
 \xf depuis qu'elle est enceinte, elle est toujours malade
-\dt 16/Aug/2006
+\dt 14/Mar/2019
 
 \lx kɔ́nɔmayafari
-\mm kɔ́nɔma.ya
-\mmm kɔ́nɔ.ma.ya:n:grossesse
+\mm kɔ́nɔma.ya:n:grossesse
+\mmm kɔ́nɔma:adj:enceinte
 \mmmm kɔ́nɔ:n:ventre
 \mmmm ma:mrph:COM
 \mmm ya:mrph:ABSTR
@@ -70909,7 +70945,7 @@ ou une proposition)
 \gvf mélasma
 \gvf masque de grossesse
 \gvf chloasme
-\dt 03/Mar/2019
+\dt 14/Mar/2019
 
 \lx kɔ́nɔmiiri
 \mm kɔ́nɔ:n:ventre
@@ -72558,7 +72594,7 @@ plus solide)
 \gvf reproches
 \dt 26/Sep/2006
 
-\lx kɔ́rɔfɔ́ńkɔ́li
+\lx kɔ́rɔfɔnkɔli
 \mm kɔ́rɔ:n:dessous
 \mm fɔ́:v:dire
 \mm ń:pers:1SG
@@ -72567,7 +72603,7 @@ plus solide)
 \ps n
 \gf médisance
 \gvf médisance
-\dt 26/Sep/2006
+\dt 14/Mar/2019
 
 \lx kɔ́rɔfuran
 \mm kɔ́rɔ:n:dessous
@@ -78497,11 +78533,11 @@ kúrunninle
 \gvf traficoter
 \dt 26/Sep/2006
 
-\lx kusa
+\lx kúsa
 \ps n
 \gf potiron
 \gvf potiron
-\dt 06/Mar/2019
+\dt 14/Mar/2019
 
 \lx kùsaba
 \ve (-f)
@@ -88026,12 +88062,12 @@ des engagements
 \gvf crosse de fusil
 \dt 11/Nov/2007
 
-\lx marijuwana
+\lx márijuwana
 \bw fr. marijuana
 \ps n
 \gf marihuana
 \gvf marihuana
-\dt 06/Mar/2019
+\dt 14/Mar/2019
 
 \lx márisi
 \bw fr : mars
@@ -111239,13 +111275,18 @@ le pèlerinage (bk 1/06 p.5)
 \lx ŋúna
 \va ŋúnan
 \ps v
-\vl vi
 \gf gémir
+\ms 1
+\vl vi
 \gvf gémir
 \gvf respirer avec peine
 \xv ní  mɔ̀gɔ tɛ́  í bólo, í tɛ́ ŋúna(ní) màsɔrɔ
 \xf si tu n'as personne à ta disposition, tu n'as pas le temps de te plaindre
-\dt 26/Sep/2006
+\ms 2
+\vl vi
+\gvf pousser
+\smf (une parturiente)
+\dt 14/Mar/2019
 
 \lx ŋùnafaki
 \va ŋùnafɛki
@@ -113948,12 +113989,12 @@ épuisés
 \rem jos, bk
 \dt 11/Nov/2007
 
-\lx sabila
+\lx sábila
 \ps n
 \gf aloès.des.Barbades
 \lat Aloe Vera
 \gvf aloès des Barbades
-\dt 04/Mar/2019
+\dt 14/Mar/2019
 
 \lx sàbɔgɔ
 \mm bɔ̀gɔ:n:terre fàsa
@@ -115628,11 +115669,18 @@ langue, et finit par empêcher de marcher)
 
 \lx sàngaran
 \ve (-f)
+\va sànkaran
 \ps n
-\gf ver
+\gf ver.de.kola
+\ms 1
 \gvf ver
 \smf (dans les kolas)
-\dt 04/Mar/2019
+\ms 2
+\gvf virus
+\ms 3
+\gvf cancer
+\src Kalilou Téra
+\dt 12/Mar/2019
 
 \lx sángatigi
 \mm sánga:n:temps
@@ -115867,12 +115915,6 @@ langue, et finit par empêcher de marcher)
 \gf maison.à.étages
 \gvf maison à étages
 \dt 11/Apr/2018
-
-\lx sankaran
-\ps n
-\gf virus
-\gvf virus
-\dt 04/Mar/2019
 
 \lx sánke
 \va sánge
@@ -118232,13 +118274,13 @@ pas réussi
 \gvf aux pieds tordus
 \dt 16/Aug/2006
 
-\lx sene
+\lx séne
 \ps n
 \gf cascara
 \lat Rhamnus purshiana
 \gvf cascara
 \smf (une plante)
-\dt 04/Mar/2019
+\dt 12/Mar/2019
 
 \lx sènfá
 \mm sèn:n:jambe
@@ -123323,12 +123365,12 @@ donne d'excellentes fibres)
 \smf (capable de sertir (même certains forgerons qui fabriquent des fusils))
 \dt 26/Sep/2006
 
-\lx siyaniri
+\lx síyaniri
 \bw fr. cyanure
 \ps n
 \gf cyanure
 \gvf cyanure
-\dt 06/Mar/2019
+\dt 14/Mar/2019
 
 \lx síyawoloma
 \mm sí.ya:n:race
@@ -127509,6 +127551,16 @@ fiançailles
 \smf (arbuste sarmenteux à épines recourbées, fruit non comestible)
 \dt 19/Aug/2006
 
+\lx súrukusigilan
+\mm súruku:n:hyène
+\mm sìgilan:n:siège
+\mmm sìgi:v:asseoir
+\mmm lan:mrph:INSTR
+\ps n
+\gf champignon.espèce
+\gvf espèce de champgnon
+\dt 14/Mar/2019
+
 \lx sùrukusuruku
 \ps v
 \vl vt
@@ -127531,6 +127583,17 @@ fiançailles
 \xv né yé  bàba súrukutaama fɔ́ Fàlajɛ
 \xf j'ai suivi mon père à son insu jusqu'au (marché) de Falajè
 \dt 16/Aug/2006
+
+\lx súrukuwaanin
+\mm súruku:n:hyène
+\mm wàanin:n:escabeau
+\mmm wàa:v:ouvrir.tout.grand
+\mmm nin:mrph:DIM
+\ps n
+\gf champignon.espèce
+\gvf espèce de champgnon
+\src Kalilu Tera
+\dt 14/Mar/2019
 
 \lx sùrun
 \ps vq/adj
@@ -130257,13 +130320,6 @@ pieton)
 \gvf rempart
 \dt 06/Feb/2017
 
-\lx tàra
-\ve (bn)
-\ps n
-\gf chaleur
-\gvf chaleur
-\dt 12/Aug/2006
-
 \lx tára
 \va táran
 \di (Dugukunna)
@@ -130292,6 +130348,16 @@ pieton)
 \sy dáji
 \dt 06/Mar/2019
 
+\lx tára
+\src DUM, Kalilu Tera
+\va tàra
+\src Bailleul
+\ve (bn)
+\ps n
+\gf chaleur
+\gvf chaleur
+\dt 14/Mar/2019
+
 \lx tárakali
 \ps n
 \gf vache.blanche
@@ -130317,15 +130383,15 @@ pieton)
 \gvf esclave concubine
 \dt 25/Mar/2018
 
-\lx tàranin
-\mm tàra:n:chaleur
+\lx táranin
+\mm tára:n:chaleur
 \mm nin:mrph:DIM
 \ps n
 \gf urticaire
 \gvf urticaire
 \gvf bourbouille
 \gvf boutons de chaleur
-\dt 07/Mar/2019
+\dt 14/Mar/2019
 
 \lx táranna
 \mm tára:v:coller
@@ -142393,17 +142459,19 @@ bambara)
 \dt 10/Jun/2016
 
 \lx yélenku
-\va yélekeyeleke
+\va yéleku
 \va yélekuyeleku
+\va yélekeyeleke
 \ps v
 \vl vi
 \gf scintiller
 \gvf scintiller
 \smf (éclair, étoile ...)
+\gvf briller
 \vl vt
 \gvf faire briller
 \gvf cirer
-\dt 30/Jan/2017
+\dt 13/Mar/2019
 
 \lx yéleyele
 \ps v
