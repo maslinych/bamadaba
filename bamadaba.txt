@@ -6590,11 +6590,15 @@ feu)
 \dt 08/Oct/2017
 
 \lx báyɛlɛmasi
+\mm báyɛ̀lɛma:v:transformer
+\mmm bá:n:base
+\mmm yɛ̀lɛma:v:changer
+\mm sí:n:semence
 \ps n
-\gf sémence.OGM
-\gvf sémence.OGM
-\gvf sémence génétiquement modifié
-\dt 01/Mar/2019
+\gf semence.OGM
+\gvf semence.OGM
+\gvf semence génétiquement modifiée
+\dt 15/Mar/2019
 
 \lx bè
 \va bèete
@@ -17397,10 +17401,10 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \lx cɛ̀ɲi
 \mm cɛ̀:n:aspect
 \mm ɲì:vq:bon
-\ps n
+\ps adj
 \gf beau
 \gvf beau
-\dt 26/Sep/2006
+\dt 16/Mar/2019
 
 \lx cɛ̀ɲumanya
 \mm cɛ̀:n:mâle
@@ -18536,10 +18540,31 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \vl vt
 \gf capturer
 \gvf capturer
-\xv wùlu bɛ́ kúngosogo kása tà k'ò nɔ̀bɔ kà t'ó cɔ́mi...
-\xf le chien flaire l'odeur du gibier à la trace et le capture ... (donniya 5/6 p.68)
-\rem l 89 + eurêka ! (-Jos)
-\dt 13/May/2018
+\gvf attraper d'un coup
+\gvf prendre par surprise
+\smf (pop.)
+\xv wùlu bɛ́ kúngosogo kása tà k'ò nɔ̀bɔ kà t'ó cɔ́mi
+\xf le chien flaire l'odeur du gibier à la trace et le capture
+\src (donniya 5/6 p.68)
+\dt 16/Mar/2019
+
+\lx cɔ́mi
+\ps adv
+\gf par.surprise
+\gvf par surprise
+\gvf d'un coup
+\dt 16/Mar/2019
+
+\lx cɔ́mi
+\ps n
+\gf pincée
+\ms 1
+\gvf pincée
+\smf (mesure pour une poudre)
+\ms 2
+\gvf fois
+\gvf coup
+\dt 16/Mar/2019
 
 \lx cɔ́ncɔ
 \ps n
@@ -26455,7 +26480,9 @@ porte jusqu'à ce que passe le chef
 \va dànda
 \ps v
 \gf accompagner
+\vl vt
 \gvf accompagner
+\dt 16/Mar/2019
 
 \lx dɛ́ndɛndɛn
 \ps adv
@@ -52826,15 +52853,17 @@ nos libations "
 \dt 03/Jun/2017
 
 \lx jíbɔ
+\mm jí:n:eau
+\mm bɔ́:v:sortir
 \ps v
-\gf marquer.but
+\gf essorer
 \ms 1
 \vl vt
-\gvf marquer un but
+\gvf essorer
 \ms 2
 \vl vt
-\gvf essorer
-\dt 03/Mar/2019
+\gvf marquer un but
+\dt 16/Mar/2019
 
 \lx jíbɔla
 \mm jí:n:eau
@@ -84060,13 +84089,13 @@ personne)
 \gvf hausser
 \dt 26/Sep/2006
 
-\lx legimu
-\va legemu
+\lx lègimu
+\va lègemu
 \bw fr. légume
 \ps n
 \gf légume
 \gvf légume
-\dt 01/Mar/2019
+\dt 17/Mar/2019
 
 \lx lèle
 \ps v
@@ -127009,12 +127038,6 @@ s'amène ...)
 \dt 06/Mar/2017
 
 \lx súnan
-\ps
-\gf
-\gvf
-\dt 03/Mar/2019
-
-\lx súnan
 \va súna
 \ps n
 \gf mil.hâtif
@@ -138007,13 +138030,16 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 \xf c'est un garçon ou une fille ?...
 \dt 22/Jul/2017
 
-\lx walafili
-\va waalafili
+\lx wàlafili
+\va wàalafili
+\bw Ar. wallafa 'accorder, régler'
 \ps n
 \gf rédaction
 \gvf rédaction
 \smf (activité)
-\dt 01/Mar/2019
+\gvf composition
+\smf (d'un texte)
+\dt 17/Mar/2019
 
 \lx wàlaha
 \bw ar: ad-duha = id.
