@@ -3593,10 +3593,10 @@ Sikasso)
 \dt 23/Feb/2017
 
 \lx Kilimanjaro
-\ps M.PROP
-\gf top
+\ps n.prop
+\gf TOP
 \gvf Kilimanjaro
-\dt 01/Mar/2019
+\dt 20/Mar/2019
 
 \lx Kinsasa
 \va Kinshasa

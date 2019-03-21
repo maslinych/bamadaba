@@ -17091,7 +17091,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \dt 02/Mar/2019
 
 \lx cɛ́mata
-\mm cɛ́.mà:pp: parmi
+\mm cɛ́.mà:pp:parmi
 \mmm cɛ́:n:milieu
 \mmm mà:pp:ADR
 \mm tá:n:propriété
@@ -17099,7 +17099,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \gf moyen
 \gvf moyen
 \smf (de l'âge)
-\dt 02/Mar/2019
+\dt 20/Mar/2019
 
 \lx cɛ̀minɛ
 \mm cɛ̀:n:mâle
@@ -51530,7 +51530,7 @@ calebasses)
 
 \lx jàrakɔrɔkilifara
 \mm jàra:n:lion
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \mm kíli:n:oeuf
 \mm fàra:n:enveloppe
 \ps n
@@ -51539,7 +51539,7 @@ calebasses)
 \smf (plante.vivace volubile ---> 5 / 6 m (tige couverte de petites épines courbes))
 \sd lili
 \sd smil
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jàrakuru
 \mm jàra:n:lion
@@ -51634,14 +51634,15 @@ calebasses)
 \dt 22/Sep/2013
 
 \lx jàsiranbaatɔ
-\mm jà:n:ombre
-\mm síran:n:crainte
+\mm jàsiran:v:effrayer
+\mmm jà:n:ombre
+\mmm síran:n:crainte
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj
 \gf apeuré
 \gvf apeuré
-\dt 12/Aug/2006
+\dt 21/Mar/2019
 
 \lx jàso
 \ps n
@@ -51734,29 +51735,31 @@ calebasses)
 \dt 20/Mar/2017
 
 \lx jàtebali
-\mm jàte:v:compters
+\mm jàte:v:compter
 \mm bali:mrph:PTCP.PRIV
 \va jàtibali
-\mm jàti:v:compters
+\mm jàti:v:compter
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf négligé
 \gvf négligé
 \smf (dont.on.ne.tient.pas.compte)
-\dt 20/Mar/2017
+\dt 21/Mar/2019
 
 \lx jàtebaliya
-\mm jàte:v:compters
-\mm bali:mrph:PTCP.PRIV
+\mm jàtebali:ptcp:négligé
+\mmm jàte:v:compter
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \va jàtibaliya
-\mm jàti:v:compters
-\mm bali:mrph:PTCP.PRIV
+\mm jàtibali:ptcp:négligé
+\mmm jàti:v:compter
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf abstraction
 \gvf abstraction
-\dt 20/Mar/2017
+\dt 21/Mar/2019
 
 \lx jàtebɔ
 \mm jàte:n:compte
@@ -51779,16 +51782,28 @@ calebasses)
 \gvf calculer
 \dt 11/Mar/2018
 
+\lx jàteden
+\mm jàte:n:compte
+\mm dén:n:enfant
+\va jàtiden
+\mm jàti:n:compte
+\mm dén:n:enfant
+\ps n
+\gf chiffre
+\gvf chiffre
+\gvf nombre
+\dt 21/Mar/2019
+
 \lx jàtekalan
 \mm jàte:n:compte
 \mm kàlan:n:lecture
-\va jàti.kalan
+\va jàtikalan
 \mm jàti:n:compte
 \mm kàlan:n:lecture
 \ps n
 \gf arithmétique
 \gvf arithmétique
-\dt 20/Mar/2017
+\dt 21/Mar/2019
 
 \lx jàteminɛ
 \mm jàte:n:compte
@@ -51814,23 +51829,13 @@ calebasses)
 \dt 14/Apr/2018
 
 \lx jàtesigi
+\mm jàte:n:compte
+\mm sìgi:v:asseoir
 \ps n
 \gf opération
 \gvf opération
 \gvf opération d'arithmétique
-\dt 09/Mar/2018
-
-\lx jàtiden
-\mm jàti:n:compte
-\mm dén:n:enfant
-\va jàteden
-\mm jàte:n:compte
-\mm dén:n:enfant
-\ps n
-\gf chiffre
-\gvf chiffre
-\gvf nombre
-\dt 23/Feb/2014
+\dt 21/Mar/2019
 
 \lx jàtigɛ
 \mm jà:n:ombre
@@ -51850,14 +51855,15 @@ calebasses)
 \dt 08/Nov/2013
 
 \lx jàtigɛbaatɔ
-\mm jà:n:ombre
-\mm tìgɛ:v:couper
+\mm jàtìgɛ:v:effrayer
+\mmm jà:n:ombre
+\mmm tìgɛ:v:couper
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj
 \gf apeuré
 \gvf apeuré
-\dt 12/Aug/2006
+\dt 21/Mar/2019
 
 \lx jàtigi
 \mm jà:v:héberger
@@ -51868,9 +51874,9 @@ calebasses)
 \dt 26/Sep/2006
 
 \lx jàtigifaajiri
-\mm jà.tigi:n:logeur
-\mm jà:v:héberger
-\mm tìgi:n:maître
+\mm jàtigi:n:logeur
+\mmm jà:v:héberger
+\mmm tìgi:n:maître
 \mm fàa:v:tuer
 \mm jíri:n:arbre
 \ps n
@@ -51880,22 +51886,24 @@ calebasses)
 \sd mora
 \smf (arbre épiphyte ---> 15 m, rarement indépendant, enlace généralement le tronc d'un autre arbre)
 \sy nsɛ́rɛninjɛ
-\dt 02/Apr/2018
+\dt 21/Mar/2019
 
 \lx jàtigila
-\mm jà:v:héberger
-\mm tìgi:n:maître
+\mm jàtigi:n:logeur
+\mmm jà:v:héberger
+\mmm tìgi:n:maître
 \mm la:mrph:LOC
 \ps n
 \gf maison.du.logeur
 \gvf maison du logeur
 \xv jàtigila ɲíni
 \xf chercher un logeur, un logement
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jàtigiya
-\mm jà:v:héberger
-\mm tìgi:n:maître
+\mm jàtigi:n:logeur
+\mmm jà:v:héberger
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -51903,11 +51911,12 @@ calebasses)
 \gvf donner l'hospitalité
 \xv mɔ́gɔ sí má á játigiya á ká só kɔ́nɔ, síli káma (jg 19, 15)
 \xf personne ne les accueillit dans sa maison pour passer la nuit
-\dt 11/Nov/2007
+\dt 21/Mar/2019
 
 \lx jàtigiya
-\mm jà:v:héberger
-\mm tìgi:n:maître
+\mm jàtigi:n:logeur
+\mmm jà:v:héberger
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -51917,7 +51926,7 @@ calebasses)
 \gvf lieu d'hébergement
 \xv bɛ́ɛ bɛ́ táa  í jàtigiya lá
 \xf chacun va chez son logeur
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx játɔ
 \va jádɔ
@@ -51929,20 +51938,20 @@ calebasses)
 \dt 16/Aug/2006
 
 \lx játɔmuso
-\mm játɔ:adj/n:débauché.invétéré
+\mm játɔ:n:débauché.invétéré
 \mm mùso:adj:femme
 \ps n
 \gf prostituée
 \gvf prostituée
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx játɔya
-\mm játɔ:adj/n:débauché.invétéré
+\mm játɔ:n:débauché.invétéré
 \mm ya:mrph:ABSTR
 \ps n
 \gf débauche.invétérée
 \gvf débauche invétérée
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jàturu
 \ps n
@@ -52083,11 +52092,11 @@ calebasses)
 
 \lx jèlikɛ
 \mm jèli:n:griot
-\mm kɛ:adj:mâle
+\mm kɛ̀:adj:mâle
 \ps n
 \gf griot
 \gvf griot
-\dt 11/Nov/2007
+\dt 21/Mar/2019
 
 \lx jèlima
 \va jèlema
@@ -52142,6 +52151,7 @@ calebasses)
 \mm jèni:v:brûler
 \mm dá:n:bouche
 \va jèninda
+\mm jèni:v:brûler
 \mm dá:n:bouche
 \ps n
 \ms 1
@@ -52151,7 +52161,7 @@ calebasses)
 \gvf marque du bétail
 \smf (au fer rouge)
 \rem Mol, l 89
-\dt 11/Nov/2007
+\dt 21/Mar/2019
 
 \lx jèni-kà-ɲími
 \mm jèni:v:brûler
@@ -52355,20 +52365,20 @@ calebasses)
 \lx jɛ̀ɛmukan
 \mm jɛ̀ɛmu:n:parole
 \mm kán:n:cou
-\va jɛ̀mu.kan
+\va jɛ̀mukan
 \mm jɛ̀mu:n:parole
 \mm kán:n:cou
-\va dɛ̀ɛmu.kan
+\va dɛ̀ɛmukan
 \mm dɛ̀ɛmu:n:parole
 \mm kán:n:cou
-\va dɛ̀gɛmu.kan
+\va dɛ̀gɛmukan
 \mm dɛ̀gɛmu:n:parole
 \mm kán:n:cou
 \ps n
 \gf termes.du.discours
 \gvf termes du discours
 \rem l 89 / du
-\dt 11/Nov/2007
+\dt 21/Mar/2019
 
 \lx jɛ̀ɛrɛ
 \ps n
@@ -52379,14 +52389,14 @@ calebasses)
 \lx jɛ̀fali
 \mm jɛ̀:n:porc
 \mm fàli:n:âne
-\va lɛ̀.fali
+\va lɛ̀fali
 \mm lɛ̀:n:porc
 \mm fàli:n:âne
 \ve (bk)
 \ps n
 \gf verrat
 \gvf verrat
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jɛ́fuu
 \ps n
@@ -52431,18 +52441,12 @@ calebasses)
 \mm jɛ́gɛ:n:poisson
 \mm kása:n:arête.de.poisson
 \ve (f)
-\ps n
-\gf arête
-\gvf arête
-\dt 16/Aug/2006
-
-\lx jɛ́gɛkɛsɛ
+\va jɛ́gɛkɛsɛ
 \mm jɛ́gɛ:n:poisson
-\ve (f)
 \ps n
 \gf arête
 \gvf arête
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jɛ́gɛkolo
 \mm jɛ́gɛ:n:poisson
@@ -52569,12 +52573,12 @@ calebasses)
 \dt 21/Feb/2017
 
 \lx jɛ́kɛnɛ
-\mm jɛ́:n:le.blanc
+\mm jɛ́:n:plaine
 \mm kɛ́nɛ:n:clarté
 \ps n
 \gf plaine
 \gvf plaine
-\dt 15/Aug/2006
+\dt 21/Mar/2019
 
 \lx jɛ̀kɔnɔninsaɲɔ
 \mm jɛ̀:n:porc
@@ -52601,13 +52605,13 @@ calebasses)
 
 \lx jɛ̀kulutɔn
 \mm jɛ̀kulu:n:groupe
-\mm jɛ̀:n:assemblée
-\mm kúlu:n:bande
+\mmm jɛ̀:n:assemblée
+\mmm kúlu:n:bande
 \mm tɔ́n:n:société
 \ps n
 \gf association
 \gvf association
-\dt 03/Nov/2016
+\dt 21/Mar/2019
 
 \lx jɛ̀lankùna
 \mm jɛ̀:n:porc
@@ -52615,23 +52619,23 @@ calebasses)
 \mm nkùna:n:prunier.cornu
 \ps n
 \gf myrrhier.trèfle
+\lat Commiphora.africana
 \gvf myrrhier trèfle
 \smf (arbuste ---> 2 / 6 m parfois buissonnant)
 \sd burs
-\lat Commiphora.africana
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jɛ̀lankunadi
 \mm jɛ̀:n:porc
 \mm lá:pp:à
 \mm nkùna:n:prunier.cornu
-\mm dí:vq/adj:agréable
 \ps n
 \gf myrrhier.trèfle
+\lat Commiphora.africana
 \gvf myrrhier trèfle
 \smf (sa résine = élément de la myrrhe du Sénégal, on l'utilise comme parfum ...)
 \sy jɛ̀nkuna
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jɛ́lenya
 \mm jɛ́:v:blanchir
@@ -52669,14 +52673,15 @@ calebasses)
 \dt 07/Mar/2019
 
 \lx jɛ́manyɔrɔ
-\mm jɛ́:vq:blanc
-\mm man:mrph:ADJ
+\mm jɛ́man:adj:blanc
+\mmm jɛ́:vq:blanc
+\mmm man:mrph:ADJ
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf blanc
 \gvf blanc
 \smf (d'oeil, d'oeuf)
-\dt 07/Mar/2019
+\dt 21/Mar/2019
 
 \lx jɛ́mɛ
 \ps n
@@ -52800,10 +52805,10 @@ calebasses)
 
 \lx jɛ̀ɲɔgɔn
 \mm jɛ̀:v:assembler
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \va jɛ̀ɲwan
 \mm jɛ̀:v:assembler
-\mm ɲwán:prn:RECP
+\mm ɲwan:mrph:RECP
 \ps n
 \ms 1
 \gf associé
@@ -52814,29 +52819,33 @@ calebasses)
 \ms 2
 \gvf conseiller
 \smf (d'un chef de village ...)
-\dt 06/Nov/2014
+\dt 21/Mar/2019
 
 \lx jɛ̀ɲɔgɔnteri
-\mm jɛ̀:v:assembler
-\mm ɲɔ́gɔn:prn:RECP
+\mm jɛ̀ɲɔgɔn:n:associé
+\mmm jɛ̀:v:assembler
+\mmm ɲɔgɔn:mrph:RECP
 \mm téri:n:ami
 \va jɛ̀ɲwanteri
-\mm jɛ̀:v:assembler
-\mm ɲwán:prn:RECP
+\mm jɛ̀ɲwan:n:associé
+\mmm jɛ̀:v:assembler
+\mmm ɲwan:mrph:RECP
 \mm téri:n:ami
 \ps n
 \gf camarade
 \gvf camarade
 \gvf partenaire
-\dt 06/Nov/2014
+\dt 21/Mar/2019
 
 \lx jɛ̀ɲɔgɔnya
-\mm jɛ̀:v:assembler
-\mm ɲɔ́gɔn:prn:RECP
+\mm jɛ̀ɲɔgɔn:n:associé
+\mmm jɛ̀:v:assembler
+\mmm ɲɔgɔn:mrph:RECP
 \mm ya:mrph:ABSTR
 \va jɛ̀ɲwanya
-\mm jɛ̀:v:assembler
-\mm ɲwán:prn:RECP
+\mm jɛ̀ɲwan:n:associé
+\mmm jɛ̀:v:assembler
+\mmm ɲwan:mrph:RECP
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -52845,7 +52854,7 @@ calebasses)
 \gvf compagnie
 \ms 2
 \gvf rapports sexuels
-\dt 06/Nov/2014
+\dt 21/Mar/2019
 
 \lx jɛ̀rɛ
 \di (bmk)
@@ -52884,14 +52893,14 @@ Songhaï)
 \lx jɛ̀tura
 \mm jɛ̀:n:porc
 \mm túra:n:taureau
-\va jɛ̀.ntura
+\va jɛ̀ntura
 \mm jɛ̀:n:porc
 \mm ntúra:n:taureau
 \ps n
 \gf taureau
 \gvf taureau
 \smf (pour la reproduction)
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jɛ́wu
 \ps onomat
@@ -53104,14 +53113,15 @@ nos libations "
 
 \lx jídawolo
 \mm jí:n:eau
-\mm dá:n:bouche
-\mm wòlo:n:peau
+\mm dáwolo:n:lèvre
+\mmm dá:n:bouche
+\mmm wòlo:n:peau
 \ps n
 \gf rive
 \gvf rive
 \gvf berge
 \sy jída
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jíden
 \mm jí:n:eau
@@ -53257,8 +53267,9 @@ l'eau
 \dt 26/Sep/2006
 
 \lx jìgikaribagatɔ
-\mm jìgi:n:espoir
-\mm kári:v:casser
+\mm jìgikari:n:désappointement
+\mmm jìgi:n:espoir
+\mmm kári:v:casser
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj
@@ -53266,7 +53277,7 @@ l'eau
 \gvf découragé
 \xv à bɛ́ jìgikaribagatɔ jìgi túgu
 \xf il redonne courage à ceux qui ont l'esprit abattu (Ps 34,19)
-\dt 11/Nov/2007
+\dt 21/Mar/2019
 
 \lx jìgila
 \mm jìgi:v:espérer
@@ -53278,52 +53289,57 @@ l'eau
 \dt 12/Aug/2006
 
 \lx jìgilámìsɛnya
-\mm jìgi:n:espoir
-\mm lá:mrph:CAUS
+\mm jìgila:n:espoir
+\mmm jìgi:v:espérer
+\mmm la:mrph:MNT1
 \mm mìsɛn:vq:petit
 \mm ya:mrph:DEQU
 \ps v
 \gf décevoir
 \gvf décevoir
-\dt 19/Feb/2013
+\dt 21/Mar/2019
 
 \lx jìgilamɔgɔ
-\mm jìgi:v:espérer
-\mm la:mrph:MNT1
+\mm jìgila:n:espoir
+\mmm jìgi:v:espérer
+\mmm la:mrph:MNT1
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf personne.sur.laquelle.on.compte
 \gvf personne sur laquelle on compte
 \gvf ami
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jìgilatigɛ
-\mm jìgi:v:espérer
-\mm lá:mrph:CAUS
+\mm jìgila:n:espoir
+\mmm jìgi:v:espérer
+\mmm la:mrph:MNT1
 \mm tìgɛ:v:couper
 \ps n
 \gf grande.déception
 \gvf grande déception
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jìgilatìgɛ
-\mm jìgi:v:espérer
-\mm lá:mrph:CAUS
+\mm jìgila:n:espoir
+\mmm jìgi:v:espérer
+\mmm la:mrph:MNT1
 \mm tìgɛ:v:couper
 \ps v
 \gf désespérer
 \gvf désespérer
 \gvf décourager
-\dt 09/Jul/2013
+\dt 21/Mar/2019
 
 \lx jìgimisɛnya
 \mm jìgi:n:espoir
-\mm mìsɛn:vq:petit
-\mm ya:mrph:DEQU
+\mm mìsɛnya:v:rapetisser
+\mmm mìsɛn:vq:petit
+\mmm ya:mrph:DEQU
 \ps n
 \gf désenchantement
 \gvf désenchantement
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jìgin
 \vc jìgi
@@ -53456,23 +53472,25 @@ le toit de la maison et descendaient
 \dt 26/Sep/2006
 
 \lx jìgintanya
-\mm jìgi:n:espoir
-\mm ntan:mrph:PRIV
+\mm jìgintan:adj:sans.espérance
+\mmm jìgi:n:espoir
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf manque.d'espoir
 \gvf manque d'espoir
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jìgintanya
-\mm jìgi:n:espoir
-\mm ntan:mrph:PRIV
+\mm jìgintan:adj:sans.espérance
+\mmm jìgi:n:espoir
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf priver.d'espérance
 \gvf priver d'espérance
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jìgisɛmɛ
 \mm jìgi:n:espoir
@@ -53502,10 +53520,10 @@ le toit de la maison et descendaient
 \lx jìgitiɲɛ
 \mm jìgi:n:espoir
 \mm tíɲɛ:v:gâter
-\va jìgi.tiyɛn
+\va jìgitiyɛn
 \mm jìgi:n:espoir
 \mm tíyɛn:v:gâter
-\va jìgi.cɛn
+\va jìgicɛn
 \mm jìgi:n:espoir
 \mm cɛn:v:gâter
 \ph [jigicɛn]
@@ -53513,7 +53531,7 @@ le toit de la maison et descendaient
 \gf déception
 \gvf déception
 \gvf désespoir
-\dt 17/Mar/2018
+\dt 21/Mar/2019
 
 \lx jìgiya
 \mm jìgi:n:espoir
@@ -53597,23 +53615,27 @@ le toit de la maison et descendaient
 
 \lx jíjukɔrɔsa
 \mm jí:n:eau
-\mm jù:n:derrière
-\mm kɔ́rɔ:pp:sous
+\mm jùkɔ́rɔ:pp:dessous
+\mmm jù:n:derrière
+\mmm kɔ́rɔ:pp:sous
 \mm sà:n:serpent
 \ps n
 \gf hypocrite
 \gvf hypocrite
-\dt 12/Aug/2006
+\dt 21/Mar/2019
 
 \lx jíjukɔrɔsaya
-\mm jí:n:eau
-\mm jù:n:derrière
-\mm kɔ́rɔ:pp:sous
-\mm sà:n:serpent
+\mm jíjukɔrɔsa:n:hypocrite
+\mmm jí:n:eau
+\mmm jùkɔ́rɔ:pp:dessous
+\mmmm jù:n:derrière
+\mmmm kɔ́rɔ:pp:sous
+\mmm sà:n:serpent
 \mm ya:mrph:ABSTR
 \ps n
 \gf hypocrisie
 \gvf hypocrisie
+\dt 21/Mar/2019
 
 \lx jíkankooro
 \mm jí:n:eau
@@ -53649,12 +53671,12 @@ le toit de la maison et descendaient
 
 \lx jíkɔrɔ
 \mm jí:n:eau
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf boisson.alcoolisée
 \gvf boisson alcoolisée
 \sy jíkɔrɔnin
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jíkuru
 \mm jí:n:eau
@@ -53669,14 +53691,15 @@ le toit de la maison et descendaient
 
 \lx jílajà
 \mm jí:n:eau
-\mm lá:mrph:CAUS
-\mm jà:v:sécher
+\mm lájà:v:faire.sécher
+\mmm lá:mrph:CAUS
+\mmm jà:v:sécher
 \ps v
 \vl vr
 \gf s'efforcer
 \gvf s'efforcer
 \sy jíja
-\dt 28/Feb/2017
+\dt 21/Mar/2019
 
 \lx jílama
 \mm jí:n:eau
@@ -53694,11 +53717,11 @@ le toit de la maison et descendaient
 
 \lx jílasa
 \mm jí:n:eau
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm sà:n:serpent
-\va jí.rɔ.sa
+\va jírɔsa
 \mm jí:n:eau
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm sà:n:serpent
 \ps n
 \ms 1
@@ -53707,17 +53730,17 @@ le toit de la maison et descendaient
 \ms 2
 \gvf hypocrite
 \ve (f)
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jílatoli
 \mm jí:n:eau
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm tó:v:rester
 \mm li:mrph:NMLZ
 \ps n
 \gf noyade
 \gvf noyade
-\dt 11/Nov/2007
+\dt 21/Mar/2019
 
 \lx jíma
 \mm jí:n:eau
@@ -53838,7 +53861,7 @@ le toit de la maison et descendaient
 \gvf maladie mystérieuse
 \smf (attribuée aux mauvais esprits)
 \sy kúngobana
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jínɛmori
 \mm jínɛ:n:esprit
@@ -53870,12 +53893,13 @@ le toit de la maison et descendaient
 
 \lx jínɛsagajigi
 \mm jínɛ:n:esprit
-\mm sàga:n:ovin
-\mm jigi:adj:mâle
+\mm sàgajigi:n:bélier
+\mmm sàga:n:ovin
+\mmm jigi:adj:mâle
 \ps n
 \gf bélier.très.blanc
 \gvf bélier très blanc
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jínɛtɔ
 \mm jínɛ:n:esprit
@@ -53952,11 +53976,11 @@ le toit de la maison et descendaient
 
 \lx jínɔgɔ
 \mm jí:n:eau
-\mm nɔ́gɔ:vq/adj:gluant
+\mm nɔ́gɔ:adj:gluant
 \ps n
 \gf eau.sale
 \gvf eau sale
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jínpo
 \ps n
@@ -54038,13 +54062,13 @@ le toit de la maison et descendaient
 \lx jìralan
 \mm jìra:v:montrer
 \mm lan:mrph:INSTR
-\va yìra.lan
+\va yìralan
 \mm yìra:v:montrer
 \mm lan:mrph:INSTR
 \ps n
 \gf démonstratif
 \gvf démonstratif
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jíran
 \va yíran
@@ -54144,20 +54168,21 @@ le toit de la maison et descendaient
 \lx jíridùgumajɔ
 \mm jíri:n:arbre
 \mm dùgu:n:terre
-\mm mà:mrph:SUPER
+\mm mà:pp:ADR
 \mm jɔ̀:v:dresser
 \ps n
 \gf jeunes.plants.au.pied.d'un.arbre
 \gvf jeunes plants au pied d'un arbre
-\dt 28/Feb/2017
+\dt 21/Mar/2019
 
 \lx jírifara
 \mm jíri:n:arbre
-\mm fàra:n:enveloppe
+\mm fàra:n:écorce
 \ps n
 \gf écorce
 \gvf écorce
 \sy jíriŋɔmɔ
+\dt 21/Mar/2019
 
 \lx jíriforo
 \mm jíri:n:arbre
@@ -54207,12 +54232,14 @@ le toit de la maison et descendaient
 
 \lx jírikɔrɔta
 \mm jíri:n:arbre
-\mm kɔ́rɔ:n:dessous
-\mm tà:v:prendre
-\va yíri.kɔrɔ.ta
+\mm kɔ́rɔtà:v:soulever
+\mmm kɔ́rɔ:n:dessous
+\mmm tà:v:prendre
+\va yírikɔrɔta
 \mm yíri:n:arbre
-\mm kɔ́rɔ:n:dessous
-\mm tà:v:prendre
+\mm kɔ́rɔtà:v:soulever
+\mmm kɔ́rɔ:n:dessous
+\mmm tà:v:prendre
 \ps n
 \ms 1
 \gf envie.de.vomir
@@ -54220,16 +54247,18 @@ le toit de la maison et descendaient
 \ms 2
 \gvf excitation sexuelle
 \gvf érection
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jírikɔrɔtà
 \mm jíri:n:arbre
-\mm kɔ́rɔ:n:dessous
-\mm tà:v:prendre
+\mm kɔ́rɔtà:v:soulever
+\mmm kɔ́rɔ:n:dessous
+\mmm tà:v:prendre
 \va yírikɔrɔtà
 \mm yíri:n:arbre
-\mm kɔ́rɔ:n:dessous
-\mm tà:v:prendre
+\mm kɔ́rɔtà:v:soulever
+\mmm kɔ́rɔ:n:dessous
+\mmm tà:v:prendre
 \ps v
 \vl vt
 \ms 1
@@ -54238,7 +54267,7 @@ le toit de la maison et descendaient
 \ms 2
 \gvf bander
 \smf (sens sexuel)
-\dt 14/Apr/2018
+\dt 21/Mar/2019
 
 \lx jírikunanin
 \mm jíri:n:arbre
@@ -54306,7 +54335,7 @@ et insecticides)
 \mm jíri:n:arbre
 \mm mɔ̀gɔ:n:homme
 \mm nin:mrph:DIM
-\va jíri.màa.nin
+\va jírimàanin
 \mm jíri:n:arbre
 \mm màa:n:homme
 \mm nin:mrph:DIM
@@ -54314,7 +54343,7 @@ et insecticides)
 \gf statuette
 \gvf statuette
 \gvf sculpture
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jírininbulu
 \mm jíri:n:arbre
@@ -54339,12 +54368,13 @@ et insecticides)
 
 \lx jíriɲɛji
 \mm jíri:n:arbre
-\mm ɲɛ́:n:oeil
-\mm jí:n:eau
+\mm ɲɛ́ji:n:larme
+\mmm ɲɛ́:n:oeil
+\mmm jí:n:eau
 \ps n
 \gf gomme
 \gvf gomme
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jíriŋɔmɔ
 \mm jíri:n:arbre
@@ -54431,11 +54461,11 @@ et insecticides)
 
 \lx jírɔfɛn
 \mm jí:n:eau
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm fɛ́n:n:chose
 \va jí.la.fɛn
 \mm jí:n:eau
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm fɛ́n:n:chose
 \ps n
 \ms 1
@@ -54443,30 +54473,31 @@ et insecticides)
 \gvf animal aquatique
 \ms 2
 \gvf plante aquatique
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jírɔgungurun
 \mm jí:n:eau
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm gùngurun:n:souche
 \ps n
 \gf hypocrite
 \gvf hypocrite
+\dt 21/Mar/2019
 
 \lx jírɔminan
 \mm jí:n:eau
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm mìnan:n:guib.harnaché
 \ps n
 \gf guib.d'eau
 \gvf guib d'eau
 \lat Tragephalus.trag.spekei
 \smf (antilope de la taille du chevreuil, haute sur patte)
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jírɔnkogonin
 \mm jí:n:eau
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm nkógo:n:tortue.aquatique
 \mm nin:mrph:DIM
 \ps n
@@ -54481,29 +54512,29 @@ et insecticides)
 \sy jírɔsula
 \sy nkógonin
 \sy nkúgo
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jírɔsu
 \mm jí:n:eau
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm sù:n:cadavre
 \ps n
 \gf noyé
 \gvf noyé
-\dt 19/Aug/2006
+\dt 21/Mar/2019
 
 \lx jírɔsula
 \mm jí:n:eau
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm sùla:n:singe.rouge
 \ps n
 \gf petite.tortue.d'eau
 \gvf petite tortue d'eau
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jírɔsyɛ
 \mm jí:n:eau
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm syɛ̀:n:poule
 \ps n
 \ms 1
@@ -54516,11 +54547,11 @@ et insecticides)
 \lat Limnocorax.flavirostra
 \smf (noir, bec jaune, pattes rouges)
 \sy kɔ̀syɛnin
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jírɔwùlu
 \mm jí:n:eau
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm wùlu:n:chien
 \ps n
 \gf loutre
@@ -54533,11 +54564,11 @@ et insecticides)
 \smf (loutre à joues blanches)
 \lat Aonyx.capensis
 \smf (mammifères carnivores aquatiques, vivent en familles, se nourrissent de poissons, mollusques ...)
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jísalasala
 \mm jí:n:eau
-\mm sàlasala:adj/n:peu.comcentré
+\mm sàlasala:n:peu.comcentré
 \ps n
 \ms 1
 \gf liquide.peu.concentré
@@ -54548,7 +54579,7 @@ et insecticides)
 \gvf sérum
 \xv án tɔ̀ yé  jísalasala yé
 \xf "il ne nous reste que de l'eau claire" (disent les coépouses d'un polygame volage !)
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jísamamasin
 \mm jí:n:eau
@@ -54577,7 +54608,7 @@ et insecticides)
 \mm jí:n:eau
 \mm sɔ́ɔlɔ:v:égoutter
 \mm lan:mrph:INSTR
-\va jí.shyɔlɔ.lan
+\va jíshyɔlɔlan
 \mm jí:n:eau
 \mm shyɔ́lɔ:v:égoutter
 \mm lan:mrph:INSTR
@@ -54585,7 +54616,7 @@ et insecticides)
 \ps n
 \gf entonnoir
 \gvf entonnoir
-\dt 12/Aug/2006
+\dt 21/Mar/2019
 
 \lx jítɔ
 \mm jí:n:eau
@@ -54602,24 +54633,26 @@ et insecticides)
 \gvf poltron
 
 \lx jítɔya
-\mm jí:n:eau
-\mm tɔ:mrph:ST
+\mm jítɔ:n:potron
+\mmm jí:n:eau
+\mmm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
 \ps n
 \gf peur
 \gvf peur
 \gvf poltronnerie
-\dt 26/Sep/2006
+\dt 21/Mar/2019
 
 \lx jítɔya
-\mm jí:n:eau
-\mm tɔ:mrph:ST
+\mm jítɔ:n:potron
+\mmm jí:n:eau
+\mmm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \gf avoir.peur
 \gvf avoir peur
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jíwoyo
 \mm jí:n:eau
@@ -54842,17 +54875,17 @@ et insecticides)
 
 \lx jòlibilensira
 \mm jòli:n:sang
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \mm síra:n:chemin
-\va jòli.blen.sira
+\va jòliblen.sira
 \mm jòli:n:sang
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \mm síra:n:chemin
 \ph [bl]
 \ps n
 \gf artère
 \gvf artère
-\dt 12/Aug/2006
+\dt 21/Mar/2019
 
 \lx jòlibɔbana
 \mm jòli:n:sang
@@ -54903,15 +54936,16 @@ et insecticides)
 
 \lx jòlicayabana
 \mm jòli:n:sang
-\mm cá:vq:nombreux
-\mm ya:mrph:DEQU
+\mm cáya:n:grand.nombre
+\mmm cá:vq:nombreux
+\mmm ya:mrph:DEQU
 \mm bàna:n:maladie
 \ps n
 \gf polyménorragie
 \gvf polyménorragie
 \gvf règles abondantes
 \sy jòlibɔbana
-\dt 04/Apr/2016
+\dt 21/Mar/2019
 
 \lx jólida
 \mm jóli:n:plaie
@@ -54922,53 +54956,54 @@ et insecticides)
 \gvf plaie ouverte
 \dt 26/Sep/2006
 
-\lx jòlidɛsɛ:n:anémie
+\lx jòlidɛsɛ
 \mm jòli:n:sang
 \mm dɛ́sɛ:n:manque
 \ps n
 \gf anémie
 \gvf anémie
-\dt 04/Mar/2019
+\dt 21/Mar/2019
 
 \lx jòlidɔgɔyabana
 \mm jòli:n:sang
-\mm dɔ́gɔ:vq:petit
-\mm ya:mrph:DEQU
+\mm dɔ́gɔya:n:petitesse
+\mmm dɔ́gɔ:vq:petit
+\mmm ya:mrph:DEQU
 \mm bàna:n:maladie
 \ps n
 \gf anémie
 \gvf anémie
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jólifara
 \mm jóli:n:plaie
-\mm fàra:n:enveloppe
+\mm fàra:n:écorce
 \ps n
 \gf croûte.d'une.plaie
 \gvf croûte d'une plaie
 \sy jóliŋɔmɔ
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jòlifinsira
 \mm jòli:n:sang
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \mm síra:n:chemin
 \ps n
 \gf veine
 \gvf veine
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jólifɔn
 \mm jóli:n:plaie
 \mm fɔ̀n:n:fontanelle
-\va jóli.fwɔn
+\va jólifwɔn
 \mm jóli:n:plaie
 \mm fwɔ̀n:n:fontanelle
 \ph [jolifwɔn]
 \ps n
 \gf cicatrice
 \gvf cicatrice
-\dt 12/Aug/2006
+\dt 21/Mar/2019
 
 \lx jòlifɔɔnɔ
 \mm jòli:n:sang
@@ -55034,13 +55069,13 @@ et insecticides)
 
 \lx jòlimandi
 \mm jòliman:n:sang.actif
-\mm jòli:n:sang
-\mm man:mrph:SUPER
+\mmm jòli:n:sang
+\mmm man:mrph:SUPER
 \mm dí:vq:agréable
 \va jèlimandi
 \mm jèliman:n:sang.actif
-\mm jèli:n:sang
-\mm man:mrph:SUPER
+\mmm jèli:n:sang
+\mmm man:mrph:SUPER
 \mm dí:vq:agréable
 \ps adj/n
 \ms 1
@@ -55053,18 +55088,18 @@ et insecticides)
 \ms 3
 \gvf play-boy
 \smf (pop.)
-\dt 23/Mar/2015
+\dt 21/Mar/2019
 
 \lx jòlimandiya
 \mm jòliman:n:sang.actif
-\mm jòli:n:sang
-\mm man:mrph:SUPER
+\mmm jòli:n:sang
+\mmm man:mrph:SUPER
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \va jèlimandiya
 \mm jèliman:n:sang.actif
-\mm jèli:n:sang
-\mm man:mrph:SUPER
+\mmm jèli:n:sang
+\mmm man:mrph:SUPER
 \mm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps n
@@ -55072,17 +55107,17 @@ et insecticides)
 \gvf air sympathique
 \gvf qualité d'être sympathique
 \gvf don de plaire aux gens
-\dt 28/Jun/2018
+\dt 21/Mar/2019
 
 \lx jòlimango
-\mm jòli.man:n:sang.actif
-\mm jòli:n:sang
-\mm man:mrph:SUPER
+\mm jòliman:n:sang.actif
+\mmm jòli:n:sang
+\mmm man:mrph:SUPER
 \mm gó:adj:désagréable
 \va jèlimango
-\mm jèli.man:n:sang.actif
-\mm jèli:n:sang
-\mm man:mrph:SUPER
+\mm jèliman:n:sang.actif
+\mmm jèli:n:sang
+\mmm man:mrph:SUPER
 \mm gó:adj:désagréable
 \ps adj/n
 \ms 1
@@ -55094,26 +55129,26 @@ et insecticides)
 \ms 2
 \gvf peu sociable
 \gvf misanthrope
-\dt 15/Mar/2018
+\dt 21/Mar/2019
 
 \lx jòlimangoya
-\mm jòli.man.go:adj:antipathique
-\mm jòli.man:n:sang.actif
-\mm jòli:n:sang
-\mm man:mrph:SUPER
-\mm gó:adj:désagréable
+\mm jòlimango:adj:antipathique
+\mmm jòliman:n:sang.actif
+\mmmm jòli:n:sang
+\mmmm man:mrph:SUPER
+\mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \va jèlimangoya
-\mm jòli.man.go:adj:antipathique
-\mm jèli.man:n:sang.actif
-\mm jèli:n:sang
-\mm man:mrph:SUPER
-\mm gó:adj:désagréable
+\mm jòlimango:adj:antipathique
+\mmm jèliman:n:sang.actif
+\mmmm jèli:n:sang
+\mmmm man:mrph:SUPER
+\mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf antipathie
 \gvf antipathie
-\dt 18/Mar/2018
+\dt 21/Mar/2019
 
 \lx jòlintan
 \mm jòli:n:sang
@@ -55124,8 +55159,9 @@ et insecticides)
 \dt 16/Aug/2006
 
 \lx jòlintanya
-\mm jòli:n:sang
-\mm ntan:mrph:PRIV
+\mm jòlintan:adj:anémique
+\mmm jòli:n:sang
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
@@ -55133,7 +55169,7 @@ et insecticides)
 \gvf devenir anémié
 \xv à jòlintanyana  bàna fɛ̀
 \xf la maladie l'a anémié
-\dt 16/Aug/2006
+\dt 21/Mar/2019
 
 \lx jòlisegi
 \mm jòli:n:sang
@@ -55164,14 +55200,14 @@ et insecticides)
 \dt 30/Jan/2017
 
 \lx jòlisirafunu
-\mm jòli.sira:n:vaisseau.sanguin
+\mm jòlisira:n:vaisseau.sanguin
 \mmm jòli:n:sang
 \mmm síra:n:chemin
 \mm fúnu:n:gonflement
 \ps n
 \gf varices
 \gvf varices
-\dt 03/Mar/2019
+\dt 21/Mar/2019
 
 \lx jòlisu
 \mm jòli:n:sang
@@ -55268,13 +55304,14 @@ d'arrière-saison
 \dt 26/Sep/2006
 
 \lx jótigiya
-\mm jó:n:raison
-\mm tìgi:n:maître
+\mm jótigi:n:celui.qui.a.raison
+\mmm jó:n:raison
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf le.bon.droit
 \gvf le bon droit
-\dt 16/Mar/2018
+\dt 21/Mar/2019
 
 \lx jɔ̀
 \va dɔ̀
@@ -55450,7 +55487,7 @@ la ligne des buts)
 \lx jɔ̀jan
 \mm jɔ̀:n:station.debout
 \mm jàn:adj:long
-\va dɔ̀.jan
+\va dɔ̀jan
 \mm dɔ̀:n:station.debout
 \mm jàn:adj:long
 \ps n
@@ -55458,7 +55495,7 @@ la ligne des buts)
 \gvf longueur
 \xv síra jɔ̀jan fɛ̀
 \xf le long du chemin, sur le bord du chemin
-\dt 10/Mar/2018
+\dt 21/Mar/2019
 
 \lx jɔ̀jiri
 \mm jɔ̀:n:station.debout
@@ -55481,7 +55518,7 @@ la ligne des buts)
 \mm jɔ̀jɔ:v:suivre
 \mm li:mrph:NMLZ
 \mm baga:mrph:AG.OCC
-\va jɔ̀jɔ.li.baa
+\va jɔ̀jɔlibaa
 \mm jɔ̀jɔ:v:suivre
 \mm li:mrph:NMLZ
 \mm baa:mrph:AG.OCC
@@ -55490,7 +55527,7 @@ la ligne des buts)
 \gvf espion
 \xv Né ɲɛ́ yé né jɔ̀jɔlibaga yé kà à lása,
 \xf mon oeil repère ceux qui m'espionnent (Ps 92, 12)
-\dt 11/Nov/2007
+\dt 21/Mar/2019
 
 \lx jɔ̀kan
 \mm jɔ̀:n:station.debout
@@ -71670,10 +71707,10 @@ ou une proposition)
 \mm ntùmu:n:ver
 \mm ɲín:n:dent
 \mm ma:mrph:COM
-\ps schistosome
+\ps n
 \gf schistosome
 \gvf schistosome
-\dt 06/Mar/2019
+\dt 20/Mar/2019
 
 \lx kɔ́nɔnasu
 \mm kɔ́nɔ:n:ventre
@@ -81154,7 +81191,7 @@ catastrophe)
 \mm jùnjun:v:secouer
 \va lá.jùnyu
 \mm lá:mrph:CAUS
-\mm jùnyu: v:secouer
+\mm jùnyu:v:secouer
 \va rɔ́.jùnyu
 \mm rɔ́:mrph:IN
 \mm jùnyu:v:secouer
@@ -81170,7 +81207,7 @@ catastrophe)
 \gf tapoter
 \gvf tapoter
 \smf (pour calmer un bébé)
-\dt 16/Aug/2006
+\dt 20/Mar/2019
 
 \lx lákà
 \va rɔ́kà
@@ -114285,11 +114322,11 @@ épuisés
 \dt 14/Mar/2019
 
 \lx sàbɔgɔ
-\mm bɔ̀gɔ:n:terre fàsa
+\mm bɔ̀gɔ:n:terre
 \ps n
 \gf argile
 \gvf argile
-\dt 12/Jun/2016
+\dt 20/Mar/2019
 
 \lx sábu
 \va sáabu
@@ -121493,7 +121530,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm ń:pers:1SG
 \mm bólo:n:bras
 \mm mà:pp:ADR
-\va  sìgi-ń-bólo-mà
+\va sìgi-ń-bólo-mà
 \mm sìgi:v:asseoir
 \mm ń:pers:1SG
 \mm bólo:n:bras
@@ -121509,7 +121546,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf tranquillité
 \xv Músà bɛ sìgi-ń-bólo-mà fɛ̀ kósɛbɛ
 \xe Moussa aime la tranquillité
-\dt 15/Aug/2017
+\dt 21/Mar/2019
 
 \lx sìgi`-ń-fɛ̀
 \mm sìgi:v:asseoir
@@ -122237,14 +122274,14 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \dt 16/Aug/2006
 
 \lx sìnayasama
-\mm sìnaya:n:condition.de.coépouse 
-\mm sìna:n:coépouse 
+\mm sìnaya:n:condition.de.coépouse
+\mm sìna:n:coépouse
 \mm ya:mrph:ABSTR
 \mm sàma:v:tirer.à.soi
 \ps n
 \gf rivalité
 \gvf rivalité
-\dt 12/Mar/2018
+\dt 20/Mar/2019
 
 \lx sínbara
 \mm sín:n:sein
