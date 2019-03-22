@@ -55908,13 +55908,14 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \dt 26/Sep/2006
 
 \lx jɔ̀nyabaara
-\mm jɔ̀n:n:esclave
-\mm ya:mrph:ABSTR
+\mm jɔ̀nya:n:esclavage
+\mmm jɔ̀n:n:esclave
+\mmm ya:mrph:ABSTR
 \mm báara:n:travail
 \ps n
 \gf travail.d'esclave
 \gvf travail d'esclave
-\dt 11/Nov/2007
+\dt 22/Mar/2019
 
 \lx jɔ́ɔntɔ
 \va jɔ́ntɛ
@@ -56042,13 +56043,13 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \lx jɔ̀surun
 \mm jɔ̀:n:station.debout
 \mm sùrun:adj:court
-\va dɔ̀.surun
+\va dɔ̀surun
 \mm dɔ̀:n:station.debout
 \mm sùrun:adj:court
 \ps n
 \gf largeur
 \gvf largeur
-\dt 10/Mar/2018
+\dt 22/Mar/2019
 
 \lx jɔ̀tɛ
 \va jɔ̀ntɛya
@@ -56087,32 +56088,32 @@ trois bonds,tu reconnaîtras qu'il travaille (prov)
 \dt 26/Sep/2006
 
 \lx jɔ̀yɔrɔbatigi
-\mm jɔ̀.yɔrɔ:n:place
-\mm jɔ̀:n:station.debout
-\mm yɔ́rɔ:n:lieu
+\mm jɔ̀yɔrɔ:n:place
+\mmm jɔ̀:n:station.debout
+\mmm yɔ́rɔ:n:lieu
 \mm ba:mrph:AUGM
 \mm tìgi:n:maître
-\va jɔ̀.yɔrɔ.tigi.ba
-\mm jɔ̀.yɔrɔ:n:place
-\mm jɔ̀:n:station.debout
-\mm yɔ́rɔ:n:lieu
+\va jɔ̀yɔrɔtigiba
+\mm jɔ̀yɔrɔ:n:place
+\mmm jɔ̀:n:station.debout
+\mmm yɔ́rɔ:n:lieu
 \mm tìgi:n:maître
 \mm ba:mrph:AUGM
 \ps n
 \gf dignitaire
 \gvf dignitaire
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx jɔ̀yɔrɔfa
-\mm jɔ̀.yɔrɔ:n:place
-\mm jɔ̀:n:station.debout
-\mm yɔ́rɔ:n:lieu
+\mm jɔ̀yɔrɔ:n:place
+\mmm jɔ̀:n:station.debout
+\mmm yɔ́rɔ:n:lieu
 \mm fá:v:remplir
 \ps n
 \gf accomplissement.d'obligations
 \gvf accomplissement d'obligations
 \gvf le fait de remplir ses fonctions
-\dt 22/Apr/2018
+\dt 22/Mar/2019
 
 \lx jù
 \ps n
@@ -56363,17 +56364,23 @@ fusil)
 
 \lx júguninsɛ
 \mm júgunin:n:hérisson
+\mmm júgu:n:ennemi
+\mmm nin:mrph:DIM
 \mm sɛ̀:n:poule
 \va júguninshɛ
 \mm júgunin:n:hérisson
+\mmm júgu:n:ennemi
+\mmm nin:mrph:DIM
 \mm shɛ̀:n:poule
 \va júguninsyɛ
 \mm júgunin:n:hérisson
+\mmm júgu:n:ennemi
+\mmm nin:mrph:DIM
 \mm syɛ̀:n:poule
 \ps n
 \gf poule.au.plumage.ébouriffé
 \gvf poule au plumage ébouriffé
-\dt 05/Feb/2017
+\dt 22/Mar/2019
 
 \lx júgusago
 \mm júgu:n:ennemi
@@ -56490,54 +56497,55 @@ fusil)
 \dt 14/Apr/2018
 
 \lx jùkɔrɔdon
-\mm jù.kɔrɔ:pp:sous
-\mm jù:n:derrière
-\mm kɔ́rɔ:pp:sous
+\mm jùkɔrɔ:pp:sous
+\mmm jù:n:derrière
+\mmm kɔ́rɔ:pp:sous
 \mm dòn:v:entrer
 \ps n
 \gf sous-vêtement
 \gvf sous-vêtement
+\dt 22/Mar/2019
 
 \lx jùkɔrɔla
-\mm jù.kɔrɔ:pp:sous
-\mm jù:n:derrière
-\mm kɔ́rɔ:pp:sous
+\mm jùkɔrɔ:pp:sous
+\mmm jù:n:derrière
+\mmm kɔ́rɔ:pp:sous
 \mm la:mrph:LOC
 \ps n
 \gf le.dessous
 \gvf le dessous
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx jùkuna
 \mm jù:n:derrière
 \mm kúna:n:plat.en.bois
-\va jù.kunan
+\va jùkunan
 \mm jù:n:derrière
 \mm kúnan:n:plat.en.bois
 \ps n
 \gf fesse
 \gvf fesse
-\dt 26/Sep/2006
+\dt 22/Mar/2019
 
 \lx jùkunamugu
-\mm jù.kuna:n:fesse
-\mm jù:n:derrière
-\mm kúna:n:plat.en.bois
+\mm jùkuna:n:fesse
+\mmm jù:n:derrière
+\mmm kúna:n:plat.en.bois
 \mm múgu:n:poudre
 \ps n
 \gf fesses
 \gvf fesses
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx jùkunatulo
-\mm jù.kuna:n:fesse
-\mm jù:n:derrière
-\mm kúna:n:plat.en.bois
+\mm jùkuna:n:fesse
+\mmm jù:n:derrière
+\mmm kúna:n:plat.en.bois
 \mm túlo:n:oreille
 \ps n
 \gf une.fesse
 \gvf une fesse
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx jùkuri
 \mm jù:n:derrière
@@ -56584,8 +56592,8 @@ composante des adjectifs séparables)
 
 \lx jùlajugu
 \mm jùla:n:maîtrise.de.cul
-\mm jù:n:derrière
-\mm lá:pp:à
+\mmm jù:n:derrière
+\mmm lá:pp:à
 \mm júgu:adj:mauvais
 \ps adj/n
 \ms 1
@@ -56595,19 +56603,19 @@ composante des adjectifs séparables)
 \ms 2
 \gvf enfant malpropre
 \smf (qui fait pipi caca partout, pète ...)
-\dt 23/Mar/2015
+\dt 22/Mar/2019
 
 \lx jùlajuguya
 \mm jùlajugu:n:impudique
-\mm jùla:n:maîtrise.de.cul
-\mm jù:n:derrière
-\mm lá:pp:à
-\mm júgu:adj:mauvais
+\mmm jùla:n:maîtrise.de.cul
+\mmmm jù:n:derrière
+\mmmm lá:pp:à
+\mmm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \gf débauche
 \gvf débauche
-\dt 17/Apr/2016
+\dt 22/Mar/2019
 
 \lx jùlakan
 \mm jùla:n:commerçant
@@ -56621,20 +56629,20 @@ composante des adjectifs séparables)
 
 \lx jùlakɔnɔn
 \mm jù:n:derrière
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm kɔ́nɔn:n:perle
 \ps n
 \gf ceinture.de.perles.aux.hanches
 \gvf ceinture de perles aux hanches
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx jùlankolon
 \mm jù:n:derrière
 \mm lan:mrph:dans
 \mm kólon:adj:vide
-\va jù.rɔn.kolon
+\va jùrɔnkolon
 \mm jù:n:derrière
-\mm rɔn:mrph:dans
+\mm rɔn:mrph:IN
 \mm kólon:adj:vide
 \ps adj
 \ms 1
@@ -56642,35 +56650,41 @@ composante des adjectifs séparables)
 \gvf à cul tout nu
 \ms 2
 \gvf sans fondement
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx jùlasonkalanin
 \mm jùla:n:commerçant
 \mm sònkala:n:bâtonnet
-\mm kàla:n:tige
+\mmm kàla:n:tige
 \mm nin:mrph:DIM
 \ve (f,kl)
+\va jùrasonkalanin
+\mm jùra:n:commerçant
+\mm sònkala:n:bâtonnet
+\mmm kàla:n:tige
+\mm nin:mrph:DIM
+\ve (bk, bn)
 \ps n
 \gf arbrisseau.Feretia.apodanthera
 \gvf arbrisseau Feretia apodanthera
 \gvf arbrisseau Feretia canthioides
 \sd rubi
-\sy jùrasonkalanin
+\sy jùlasonkalanin
 \sy múnunan
-\dt 26/Sep/2006
+\dt 22/Mar/2019
 
 \lx jùlata
 \mm jù:n:derrière
-\mm la:mrph:LOC
+\mm lá:pp:à
 \mm tá:n:propriété
 \va jù.rɔ.ta
 \mm jù:n:derrière
-\mm rɔ:mrph:LOC
+\mm rɔ́:pp:IN
 \mm tá:n:propriété
 \ps n
 \gf parties.sexuelles
 \gvf parties sexuelles
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx jùlatìgɛ
 \mm jù:n:derrière
@@ -56729,13 +56743,14 @@ composante des adjectifs séparables)
 \dt 01/Mar/2013
 
 \lx júmadonya
-\mm júma:n:vendredi
-\mm dón:n:jour
+\mm júmadon:n:vendredi
+\mmm júma:n:vendredi
+\mmm dón:n:jour
 \mm ya:mrph:ABSTR
 \ps n
 \gf vendredi
 \gvf vendredi
-\dt 01/Mar/2013
+\dt 22/Mar/2019
 
 \lx jùmɛ
 \ps n
@@ -56786,14 +56801,15 @@ composante des adjectifs séparables)
 \dt 26/Sep/2006
 
 \lx jùminɛkan
-\mm jù:n:derrière
-\mm mìnɛ:v:attraper
+\mm jùminɛ:n:commencement
+\mmm jù:n:derrière
+\mmm mìnɛ:v:attraper
 \mm kán:n:cou
 \ps n
 \gf préambule
 \gvf préambule
 \gvf introduction
-\dt 26/Sep/2006
+\dt 22/Mar/2019
 
 \lx jùmugu
 \mm jù:n:derrière
@@ -56861,39 +56877,24 @@ composante des adjectifs séparables)
 \smf (en laissant tomber)
 \dt 16/Aug/2006
 
-\lx jùrasonkalanin
-\mm jùra:n:commerçant
-\mm sònkala:n:bâtonnet
-\mm kàla:n:tige
-\mm nin:mrph:DIM
-\ve (bk, bn)
-\ps n
-\gf arbrisseau.Feretia.apodanthera
-\gvf arbrisseau Feretia apodanthera
-\gvf arbrisseau Feretia canthioides
-\sd rubi
-\sy jùlasonkalanin
-\sy múnunan
-\dt 19/Aug/2006
-
 \lx jùrɔfɛn
 \mm jù:n:derrière
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm fɛ́n:n:chose
 \ps n
 \gf parties.sexuelles
 \gvf parties sexuelles
 \smf (de l'homme ou de la femme)
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx jùrɔkisɛ
 \mm jù:n:derrière
-\mm rɔ́:mrph:IN
+\mm rɔ́:pp:IN
 \mm kìsɛ:n:grain
 \ps n
 \gf verge
 \gvf verge
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx jùru
 \ps n
@@ -57032,16 +57033,16 @@ composante des adjectifs séparables)
 \mm tón:v:enfiler
 \ps v
 \ms 1
-\vl vt ?
+\vl vt
 \gf enfiler
 \gvf enfiler
 \smf (l'une après l'autre(perles ...))
 \ms 2
-\vl vi
+\vl vr
 \gvf aller en file indienne
 \xv mɛ́nɛmɛnɛ jùrunintonnen bɛ́  ɲɔ́gɔn kɔ́
 \xf les fourmis vont en file indienne
-\dt 26/Sep/2006
+\dt 22/Mar/2019
 
 \lx jùrusàba
 \mm jùru:n:corde
@@ -57070,14 +57071,13 @@ composante des adjectifs séparables)
 \dt 16/Aug/2006
 
 \lx jùrutala
-\mm jùru.ta:n:emprunt.d'argent
 \mm jùru:n:corde
 \mm tà:v:prendre
 \mm la:mrph:AG.PRM
 \ps n
 \gf emprunteur
 \gvf emprunteur
-\dt 16/Mar/2018
+\dt 22/Mar/2019
 
 \lx jùrutigi
 \mm jùru:n:corde
@@ -57254,11 +57254,11 @@ l'eau est prête
 \lx káafiriya
 \mm káafiri:n:païen
 \mm ya:mrph:ABSTR
-\va káafri.ya
+\va káafriya
 \mm káafri:n:païen
 \mm ya:mrph:ABSTR
 \ph [fr]
-\va káfiri.ya
+\va káfiriya
 \mm káfiri:n:païen
 \mm ya:mrph:ABSTR
 \ps n
@@ -57269,16 +57269,16 @@ l'eau est prête
 \xv Ála kó : án kàna káafiriya
 \rem du, Tor, bk
 \rem l 89, du, Tor, bk
-\dt 11/Nov/2007
+\dt 22/Mar/2019
 
 \lx káafiriya
 \mm káafiri:n:païen
 \mm ya:mrph:ABSTR
-\va káafri.ya
+\va káafriya
 \mm káafri:n:païen
 \mm ya:mrph:ABSTR
 \ph [fr]
-\va káfiri.ya
+\va káfiriya
 \mm káfiri:n:païen
 \mm ya:mrph:ABSTR
 \ps v
@@ -57286,6 +57286,7 @@ l'eau est prête
 \gf être.païen
 \gvf être païen
 \gvf devenir païen
+\dt 22/Mar/2019
 
 \lx káakɔ
 \va káankɔ
@@ -57378,24 +57379,25 @@ l'eau est prête
 \dt 16/Mar/2018
 
 \lx kàanagɛlɛya
+\mm kàanagɛlɛn:n:intransigeant
+\mmm kàana:n:caractère
+\mmm gɛ̀lɛ:vq:dur
+\mm ya:mrph:DEQU
+\va kàarɔgɛlɛnya
+\mm kàarɔgɛlɛn:n:intransigeant
+\mmm gɛ̀lɛn:vq:dur
+\mm ya:mrph:DEQU
+\va kàrɔgɛlɛnya
+\mm kàrɔgɛlɛn:n:intransigeant
+\mmm gɛ̀lɛn:vq:dur
+\mm ya:mrph:DEQU
+\va kàanagwɛlɛnya
 \mm kàana:n:caractère
-\mm gɛ̀lɛ:vq/adj:dur
+\mm gwɛ̀lɛn:vq:dur
 \mm ya:mrph:DEQU
-\va kàarɔgɛlɛn.ya
-\mm kàarɔgɛlɛn:n:difficile.à.convaincre
-\mm gɛ̀lɛn:vq/adj:dur
-\mm ya:mrph:DEQU
-\va kàrɔgɛlɛn.ya
-\mm kàrɔgɛlɛn:n:difficile.à.convaincre
-\mm gɛ̀lɛn:vq/adj:dur
-\mm ya:mrph:DEQU
-\va kàana.gwɛlɛn.ya
-\mm kàana:n:caractère
-\mm gwɛ̀lɛn:vq/adj:dur
-\mm ya:mrph:DEQU
-\va kàarɔgwɛlɛn.ya
-\mm kàarɔgwɛlɛn:n:difficile.à.convaincre
-\mm gwɛ̀lɛn:vq/adj:dur
+\va kàarɔgwɛlɛnya
+\mm kàarɔgwɛlɛn:n:intransigeant
+\mmm gwɛ̀lɛn:vq:dur
 \mm ya:mrph:DEQU
 \ph [gw]
 \ps n
@@ -57406,7 +57408,7 @@ l'eau est prête
 \gvf énergie
 \ms 3
 \gvf cruauté
-\dt 10/Apr/2016
+\dt 22/Mar/2019
 
 \lx káaniba
 \mm káani:n:poivre.d'Ethiopie
@@ -57525,15 +57527,15 @@ l'eau est prête
 \dt 26/Sep/2006
 
 \lx káarinciya
-\mm káari.nci:n:qui.renonce
-\mm káari:v:renoncer
-\mm nci:mrph:AG.EX
+\mm káarinci:n:qui.renonce
+\mmm káari:v:renoncer
+\mmm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps n
 \gf renoncement
 \gvf renoncement
 \smf (volontaire)
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx káaro
 \ps v
@@ -57616,16 +57618,16 @@ l'eau est prête
 
 \lx kàbabilen
 \mm kàba:n:teigne
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \va kàba.blen
 \mm kàba:n:teigne
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf dartre
 \gvf dartre
 \gvf taches lépreuses
-\dt 26/Sep/2006
+\dt 22/Mar/2019
 
 \lx kábaden
 \mm kába:n:pierre
@@ -57638,8 +57640,9 @@ l'eau est prête
 \dt 16/Aug/2006
 
 \lx kábadensa
-\mm kába:n:pierre
-\mm dén:n:enfant
+\mm kábaden:n:tige
+\mmm kába:n:pierre
+\mmm dén:n:enfant
 \mm sà:n:serpent
 \ps n
 \gf serpent.Leptotyphlops
@@ -57649,44 +57652,44 @@ l'eau est prête
 \sy kàlafɔnna
 \sy dùguci
 \sy dùgukolosanin
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx kàbafin
 \mm kàba:n:teigne
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf eczéma
 \gvf eczéma
 \gvf lésion d'hyperpigmentation
-\dt 26/Sep/2006
+\dt 22/Mar/2019
 
 \lx kàbafin
 \mm kàba:n:ciel
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf gros.nuages.noirs
 \gvf gros nuages noirs
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx kàbafiɲɛ
 \mm kàba:n:ciel
 \mm fíɲɛ:n:vent
-\va kàba.fiyɛn
+\va kàbafiyɛn
 \mm kàba:n:ciel
 \mm fíyɛn:n:vent
 \ps n
 \gf bourrasque
 \gvf bourrasque
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx kàbajɛ
 \mm kàba:n:teigne
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf vitiligo
 \gvf vitiligo
 \gvf achromie
-\dt 26/Sep/2006
+\dt 22/Mar/2019
 
 \lx kábako
 \mm kába:v:s'étonner
@@ -57724,36 +57727,41 @@ l'eau est prête
 \dt 26/Sep/2006
 
 \lx kábakomaa
-\mm kába:v:s'étonner
-\mm kó:n:affaire
+\mm kábako:n:merveille
+\mmm kába:v:s'étonner
+\mmm kó:n:affaire
 \mm màa:n:homme
-\va kába.ko.mɔgɔ
-\mm kába:v:s'étonner
-\mm kó:n:affaire
+\va kábakomɔgɔ
+\mm kábako:n:merveille
+\mmm kába:v:s'étonner
+\mmm kó:n:affaire
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf personne.extraordinaire
 \gvf personne extraordinaire
-\dt 26/Sep/2006
+\dt 22/Mar/2019
 
 \lx kábakoya
-\mm kába:v:s'étonner
-\mm kó:n:affaire
+\mm kábako:n:merveille
+\mmm kába:v:s'étonner
+\mmm kó:n:affaire
 \mm ya:mrph:ABSTR
 \ps n
 \gf étonnement
 \gvf étonnement
 \gvf admiration
-\dt 26/Sep/2006
+\dt 22/Mar/2019
 
 \lx kábakoya
-\mm kába:v:s'étonner
-\mm kó:n:affaire
+\mm kábako:n:merveille
+\mmm kába:v:s'étonner
+\mmm kó:n:affaire
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf étonner
 \gvf étonner
+\dt 22/Mar/2019
 
 \lx kàbakulu
 \mm kàba:n:ciel
@@ -57873,13 +57881,14 @@ l'eau est prête
 \dt 23/Feb/2019
 
 \lx kàbanɔgɔlama
-\mm kàba:n:ciel
-\mm nɔ́gɔ:n:saleté
+\mm kàbanɔgɔ:n:nuage
+\mmm kàba:n:ciel
+\mmm nɔ́gɔ:n:saleté
 \mm lama:mrph:STAT
 \ps n
 \gf de.couleur.grise
 \gvf de couleur grise
-\dt 16/Aug/2006
+\dt 22/Mar/2019
 
 \lx kàbapɛrɛn
 \mm kàba:n:ciel
@@ -57891,14 +57900,15 @@ l'eau est prête
 \dt 15/Aug/2006
 
 \lx kàbapɛrɛnkan
-\mm kàba:n:ciel
-\mm pɛ́rɛn:v:fendre
+\mm kàbapɛrɛn:n:foudre
+\mmm kàba:n:ciel
+\mmm pɛ́rɛn:v:fendre
 \mm kán:n:cou
 \ps n
 \gf tonnerre
 \gvf tonnerre
 \sy sánpɛrɛnkan
-\dt 15/Aug/2006
+\dt 22/Mar/2019
 
 \lx kàbasen
 \mm kàba:n:ciel
