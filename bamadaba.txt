@@ -58201,7 +58201,7 @@ l'eau est prête
 
 \lx kàfoɲɔgɔn
 \mm kàfo:v:rassembler
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \ms 1
 \gf ami
@@ -58210,16 +58210,17 @@ l'eau est prête
 \ms 2
 \gvf partenaire
 \smf (sexuel)
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kàfoɲɔgɔnya
-\mm kàfo:v:rassembler
-\mm ɲɔ́gɔn:prn:RECP
+\mm kàfoɲɔgɔn:n:ami
+\mmm kàfo:v:rassembler
+\mmm ɲɔgɔn:mrph:RECP
 \mm ya:mrph:ABSTR
 \ps n
 \gf relations.sexuelles
 \gvf relations sexuelles
-\dt 22/Dec/2014
+\dt 23/Mar/2019
 
 \lx kàfotigi
 \mm kàfo:n:canton
@@ -58291,13 +58292,13 @@ l'eau est prête
 \dt 26/Sep/2006
 
 \lx kàkalaya
-\mm kàkala:adj/n:débauché
+\mm kàkala:n:débauché
 \mm ya:mrph:ABSTR
 \ps n
 \gf débauche
 \gvf débauche
 \gvf luxure
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kàkawo
 \ps n
@@ -58404,14 +58405,14 @@ l'eau est prête
 
 \lx kálabaanciya
 \mm kálabaanci:n:entêté
-\mm baa:mrph:AG.OCC
-\mm nci:mrph:AG.EX
+\mmm baa:mrph:AG.OCC
+\mmm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps n
 \gf obstination.forcenée
 \gvf obstination forcenée
 \gvf mensonge effronté
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kálabakalaba
 \ps v
@@ -58528,14 +58529,14 @@ l'eau est prête
 
 \lx kàlajugu
 \mm kàla:n:tige
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj
 \ms 1
 \gf débauché
 \gvf débauché
 \ms 2
 \gvf mal élevé
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kálaka
 \ps n
@@ -58555,15 +58556,15 @@ l'eau est prête
 
 \lx kálakakunkɔrɔsigi
 \mm kálaka:n:lit
-\mm kùn.kɔrɔ:pp:pour
-\mm kùn:n:tête
-\mm kɔ́rɔ:pp:sous
+\mm kùnkɔrɔ:pp:pour
+\mmm kùn:n:tête
+\mmm kɔ́rɔ:pp:sous
 \mm sìgi:v:asseoir
 \ps n
 \gf épouse.préférée
 \gvf épouse préférée
 \sy báramuso
-\dt 16/Aug/2006
+\dt 23/Mar/2019
 
 \lx kàlakala
 \ps n
@@ -58607,15 +58608,15 @@ l'eau est prête
 \dt 19/Aug/2006
 
 \lx kálakarijɛ
-\mm kála.kari:n:arbre.Heeria.insignis
-\mm kála:n:arc
-\mm kári:v:casser
-\mm jɛ́:vq/adj:blanc
+\mm kálakari:n:arbre.Heeria.insignis
+\mmm kála:n:arc
+\mmm kári:v:casser
+\mm jɛ́:adj:blanc
 \ps n
 \gf arbre.Hymenocardia.heudelotii
 \gvf arbre Hymenocardia heudelotii
 \sd euph
-\dt 19/Aug/2006
+\dt 23/Mar/2019
 
 \lx kálakisɛ
 \mm kála:n:arc
@@ -58626,23 +58627,23 @@ l'eau est prête
 
 \lx kàlalafili
 \mm kàla:n:tige
-\mm lá.fìli:v:abandonner
-\mm lá:mrph:CAUS
-\mm fìli:v:jeter
+\mm láfìli:v:abandonner
+\mmm lá:mrph:CAUS
+\mmm fìli:v:jeter
 \ps v
 \gf feindre.d'ignorer
 \gvf feindre d'ignorer
-\dt 14/Apr/2018
+\dt 23/Mar/2019
 
 \lx kàlalafili
 \mm kàla:n:tige
-\mm lá.fìli:v:abandonner
-\mm lá:mrph:CAUS
-\mm fìli:v:jeter
+\mm láfìli:v:abandonner
+\mmm lá:mrph:CAUS
+\mmm fìli:v:jeter
 \ps n
 \gf ignorance.feinte
 \gvf ignorance feinte
-\dt 14/Apr/2018
+\dt 23/Mar/2019
 
 \lx kálalikɛla
 \mm kála:v:coudre
@@ -58692,8 +58693,9 @@ l'eau est prête
 
 \lx kálamada
 \mm kála:n:arc
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
 \ve (-f)
 \ps v
 \ms 1
@@ -58707,7 +58709,7 @@ l'eau est prête
 \ms 2
 \vl vr
 \gvf changer de direction
-\dt 03/Jul/2017
+\dt 23/Mar/2019
 
 \lx kàlamɛnɛ
 \mm kàla:n:tige
@@ -58812,7 +58814,7 @@ l'eau est prête
 \lx kàlanbaa
 \mm kàlan:v:lire
 \mm baa:mrph:AG.OCC
-\va kàlan.baga
+\va kàlanbaga
 \mm kàlan:v:lire
 \mm baga:mrph:AG.OCC
 \ps n
@@ -58823,7 +58825,7 @@ l'eau est prête
 \gvf étudiant
 \ms 3
 \gvf enseignant
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kàlanbali
 \mm kàlan:v:lire
@@ -58838,14 +58840,14 @@ l'eau est prête
 \dt 26/Sep/2006
 
 \lx kàlanbaliya
-\mm kàlan.bali:ptcp:analphabète
-\mm kàlan:v:lire
-\mm bali:mrph:PTCP.PRIV
+\mm kàlanbali:ptcp:analphabète
+\mmm kàlan:v:lire
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf analphabétisme
 \gvf analphabétisme
-\dt 16/Aug/2006
+\dt 23/Mar/2019
 
 \lx kàlanbila
 \mm kàlan:n:lecture
@@ -58866,33 +58868,34 @@ l'eau est prête
 \dt 26/Sep/2006
 
 \lx kàlandenba
-\mm kàlan.den:n:élève
-\mm kàlan:n:lecture
-\mm dén:n:enfant
+\mm kàlanden:n:élève
+\mmm kàlan:n:lecture
+\mmm dén:n:enfant
 \mm ba:mrph:AUGM
 \ps n
 \gf étudiant
 \gvf étudiant
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kàlandenɲɔgɔn
-\mm kàlan.den:n:élève
-\mm kàlan:n:lecture
-\mm dén:n:enfant
-\mm ɲɔ̀gɔn:n:pareil
+\mm kàlanden:n:élève
+\mmm kàlan:n:lecture
+\mmm dén:n:enfant
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf condisciple
 \gvf condisciple
+\dt 23/Mar/2019
 
 \lx kàlandenya
-\mm kàlan.den:n:élève
-\mm kàlan:n:lecture
-\mm dén:n:enfant
+\mm kàlanden:n:élève
+\mmm kàlan:n:lecture
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \gf condition.d'élève
 \gvf condition d'élève
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kàlanfa
 \mm kàlan:n:lecture
@@ -58915,22 +58918,22 @@ l'eau est prête
 
 \lx kàlanjɛ
 \mm kàlan:n:lecture
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf apprentissage.de.la.lecture
 \gvf apprentissage de la lecture
 \smf (opposé à l'écriture)
-\dt 16/Aug/2006
+\dt 23/Mar/2019
 
 \lx kàlanjɛgafe
-\mm kàlan.jɛ:n:apprentissage.de.la.lecture
-\mm kàlan:n:lecture
-\mm jɛ́:vq/adj:blanc
+\mm kàlanjɛ:n:apprentissage.de.la.lecture
+\mmm kàlan:n:lecture
+\mmm jɛ́:adj:blanc
 \mm gáfe:n:livre
 \ps n
 \gf livre.de.lecture
 \gvf livre de lecture
-\dt 11/Nov/2007
+\dt 23/Mar/2019
 
 \lx kálankalan
 \va kálakala
@@ -58997,6 +59000,8 @@ l'eau est prête
 \mm kálan:vq:chaud
 \mm man:mrph:ADJ
 \va kálaman
+\mm kálan:vq:chaud
+\mm man:mrph:ADJ
 \ps adj
 \ms 1
 \gf chaud
@@ -59005,7 +59010,7 @@ l'eau est prête
 \gvf rapide
 \ms 3
 \gvf fougueux
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kàlansen
 \mm kàlan:n:lecture
@@ -59073,14 +59078,14 @@ l'eau est prête
 \dt 16/Aug/2006
 
 \lx kàlanyɔrɔkɛnɛ
-\mm kàlan.yɔrɔ:n:école
-\mm kàlan:n:lecture
-\mm yɔ́rɔ:n:lieu
+\mm kàlanyɔrɔ:n:école
+\mmm kàlan:n:lecture
+\mmm yɔ́rɔ:n:lieu
 \mm kɛ́nɛ:n:clarté
 \ps n
 \gf cour.d'école
 \gvf cour d'école
-\dt 11/Nov/2007
+\dt 23/Mar/2019
 
 \lx kálasira
 \mm kála:v:coudre
@@ -59105,14 +59110,14 @@ l'eau est prête
 \dt 11/Nov/2007
 
 \lx kàlatasɛbɛn
-\mm kàla.ta:n:tirage.au.sort
-\mm kàla:n:tige
-\mm tà:n:action.de.prendre
+\mm kàlata:n:tirage.au.sort
+\mmm kàla:n:tige
+\mmm tà:n:action.de.prendre
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf carte.électorale
 \gvf carte électorale
-\dt 02/Mar/2019
+\dt 23/Mar/2019
 
 \lx kálatigi
 \mm kála:n:arc
@@ -59124,11 +59129,11 @@ l'eau est prête
 
 \lx kálaya
 \mm kála:vq:chaud
-\mm ya:mrph:ABSTR
+\mm ya:mrph:DEQU
 \ps n
 \gf chaleur
 \gvf chaleur
-\dt 07/Feb/2017
+\dt 23/Mar/2019
 
 \lx kálaya
 \mm kála:vq:chaud
@@ -59362,14 +59367,14 @@ prolapsus utérin
 
 \lx kálolabɔ
 \mm kálo:n:lune
-\mm lá.bɔ:v:faire.sortir
+\mm lábɔ:v:faire.sortir
 \mmm lá:mrph:CAUS
 \mmm bɔ́:v:sortir
 \ps n
 \gf règles.des.femmes
 \gvf règles
 \smf (des femmes)
-\dt 06/Mar/2019
+\dt 23/Mar/2019
 
 \lx kálomuso
 \mm kálo:n:lune
@@ -59419,14 +59424,15 @@ prolapsus utérin
 \dt 26/Sep/2006
 
 \lx kálosabasara
-\mm kálo:n:lune
-\mm sàba:num:trois
+\mm kálosaba:n:trimestre
+\mmm kálo:n:lune
+\mmm sàba:num:trois
 \mm sàra:n:paie
 \ps n
 \gf pension.trimestrielle
 \gvf pension trimestrielle
 \gvf paie trimestrielle
-\dt 04/Apr/2016
+\dt 23/Mar/2019
 
 \lx káluwa
 \va káliwa
@@ -59561,16 +59567,17 @@ prolapsus utérin
 \dt 16/Aug/2006
 
 \lx kàmakɔrɔsɔgɔsira
-\mm kàma.kɔrɔ.sɔgɔ:v:prendre.un.raccourci
-\mm kàma:n:épaule
-\mm kɔ́rɔ:n:dessous
-\mm sɔ̀gɔ:v:percer
+\mm kàmakɔrɔsɔgɔ:v:prendre.un.raccourci
+\mmm kàma:n:épaule
+\mmm kɔ́rɔ:n:dessous
+\mmm sɔ̀gɔ:v:percer
 \mm síra:n:chemin
 \ps n
 \gf raccourci
 \gvf raccourci
 \xv à táara  kàmakɔrɔsɔgɔsira fɛ̀
 \xf il a pris un raccourci
+\dt 23/Mar/2019
 
 \lx kàmakɔrɔwo
 \mm kàma:n:épaule
@@ -59620,37 +59627,38 @@ prolapsus utérin
 \dt 26/Sep/2006
 
 \lx kámalenbatɔgɔ
-\mm kámalen:n:jeune.homme
-\mm ba:mrph:AUGM
+\mm kámalenba:n:galant
+\mmm kámalen:n:jeune.homme
+\mmm ba:mrph:AUGM
 \mm tɔ́gɔ:n:nom
 \ps n
 \gf surnom.de.jeune.homme
 \gvf surnom de jeune homme
 \sy kámalenyatɔgɔ
-\dt 16/Aug/2006
+\dt 23/Mar/2019
 
 \lx kámalenbaya
-\mm kámalen.ba:n:galant
-\mm kámalen:n:jeune.homme
-\mm ba:mrph:AUGM
+\mm kámalenba:n:galant
+\mmm kámalen:n:jeune.homme
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf drague
 \gvf drague
 \smf (habitude de courir les filles)
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kámalen-cɛ̀ɲi
 \mm kámalen:n:jeune.homme
-\mm cɛ̀.ɲi:n:beau
-\mm cɛ̀:n:aspect
-\mm ɲì:vq:bon
+\mm cɛ̀ɲi:n:beau
+\mmm cɛ̀:n:aspect
+\mmm ɲì:vq:bon
 \ps n
 \gf oiseau.Ibis
 \gvf oiseau Ibis
 \lat Ibis.ibis
 \smf (cigogne blanche, à bec jaune, face nue et rouge, queue noire)
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kámalenkɔrɔ
 \mm kámalen:n:jeune.homme
@@ -59701,15 +59709,15 @@ prolapsus utérin
 \dt 16/Aug/2006
 
 \lx kámalenyajaabi
-\mm kámalen.ya:n:jeunesse
-\mm kámalen:n:jeune.homme
-\mm ya:mrph:ABSTR
+\mm kámalenya:n:jeunesse
+\mmm kámalen:n:jeune.homme
+\mmm ya:mrph:ABSTR
 \mm jáabi:v:répondre
 \ps v
 \vl vt
 \gf répondre.avec.insolence
 \gvf répondre avec insolence
-\dt 16/Aug/2006
+\dt 23/Mar/2019
 
 \lx kàmali
 \va kàmani
@@ -59795,14 +59803,15 @@ prolapsus utérin
 \dt 12/Aug/2006
 
 \lx kàmantanya
-\mm kàma:n:épaule
-\mm ntan:mrph:PRIV
+\mm kàmantan:adj:aptère
+\mmm kàma:n:épaule
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf enlever.les.ailes.de
 \gvf enlever les ailes de
-\dt 16/Aug/2006
+\dt 23/Mar/2019
 
 \lx kámàro
 \ps n
@@ -60080,14 +60089,14 @@ prolapsus utérin
 \lx kánabaa
 \mm kána:v:protéger
 \mm baa:mrph:AG.OCC
-\va kána.baga
+\va kánabaga
 \mm kána:v:protéger
 \mm baga:mrph:AG.OCC
 \ps n
 \gf protecteur
 \gvf protecteur
 \gvf policier
-\dt 26/Sep/2006
+\dt 23/Mar/2019
 
 \lx kánali
 \va kánare
@@ -131037,14 +131046,13 @@ pieton)
 \va téentanin
 \mm téenta:n:ombrette
 \mm nin:mrph:DIM
-\va téntanten
 \ps n
 \gf ombrette
 \gvf ombrette
 \lat Scopus umbretta
 \smf (énorme nid sphérique : 1m O,/ , aime les marais, même  les
 flaques d'eau)
-\dt 18/Jun/2017
+\dt 23/Mar/2019
 
 \lx téentasyɛ
 \mm téenta:n:ombrette
@@ -131236,9 +131244,15 @@ flaques d'eau)
 \lx téntànten
 \ps n
 \gf dilemme
+\ms 1
 \gvf dilemme
 \gvf problème insoluble
-\dt 19/Jun/2017
+\ms 2
+\src Kalilu Tera
+\lt Scopus umbretta
+\gvf ombrette d'Afrique
+\smf (son oeuf est vu comme symbole d'un dilemme dont toutes les solutions sont mauvaises)
+\dt 23/Mar/2019
 
 \lx téntegelema
 \va téntegema
