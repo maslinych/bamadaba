@@ -58307,10 +58307,11 @@ l'eau est prête
 \dt 13/Feb/2017
 
 \lx kàko
+\va kòko
 \ps n
 \gf noix.de.coco
 \gvf noix de coco
-\dt 26/Apr/2014
+\dt 24/Mar/2019
 
 \lx kàkɔlɔ
 \ps n
@@ -60134,9 +60135,9 @@ prolapsus utérin
 \gf appeler
 \gvf appeler
 \smf (... mà)
-\xv í kánbila  màa mà
+\xv í kánbila màa mà
 \xf appeler qqn
-\dt 03/Apr/2016
+\dt 24/Mar/2019
 
 \lx kánbilali
 \mm kán:n:cou
@@ -60161,12 +60162,13 @@ prolapsus utérin
 
 \lx kánbolofara
 \mm kán:n:cou
-\mm bólo.fara:n:affluent
-\mm bólo:n:branche
-\mm fára:n:séparation
+\mm bólofara:n:affluent
+\mmm bólo:n:branche
+\mmm fára:n:séparation
 \ps n
 \gf dialecte
 \gvf dialecte
+\dt 24/Mar/2019
 
 \lx kánbɔ
 \mm kán:n:cou
@@ -60249,55 +60251,55 @@ prolapsus utérin
 \lx kànɛmɛkɛ
 \mm kànɛmɛ:n:cousin.croisé
 \mm kɛ:adj:mâle
-\va kànimɛ.kɛ
+\va kànimɛkɛ
 \mm kànimɛ:n:cousin.croisé
 \mm kɛ:adj:mâle
-\va kàlimɛ.kɛ
+\va kàlimɛkɛ
 \mm kàlimɛ:n:cousin.croisé
 \mm kɛ:adj:mâle
-\va kànumɛ.kɛ
+\va kànumɛkɛ
 \mm kànumɛ:n:cousin.croisé
 \mm kɛ:adj:mâle
 \ps n
 \gf cousin.croisé
 \gvf cousin croisé
 \smf (fils.du.frère.de.la.mère ; fils.de.la.soeur.du.père)
-\dt 09/Jul/2013
+\dt 24/Mar/2019
 
 \lx kànɛmɛmuso
 \mm kànɛmɛ:n:cousin.croisé
 \mm mùso:adj:femme
-\va kànimɛ.muso
+\va kànimɛmuso
 \mm kànimɛ:n:cousin.croisé
 \mm mùso:adj:femme
-\va kàlimɛ.muso
+\va kàlimɛmuso
 \mm kàlimɛ:n:cousin.croisé
 \mm mùso:adj:femme
-\va kànumɛ.muso
+\va kànumɛmuso
 \mm kànumɛ:n:cousin.croisé
 \mm mùso:adj:femme
 \ps n
 \gf cousine.croisé
 \gvf cousine croisé
 \smf (fille.du.frère.de.la.mère ; fille de la soeur du père)
-\dt 09/Jul/2013
+\dt 24/Mar/2019
 
 \lx kànɛmɛya
 \mm kànɛmɛ:n:cousin.croisé
 \mm ya:mrph:ABSTR
-\va kànimɛ.ya
+\va kànimɛya
 \mm kànɛmɛ:n:cousin.croisé
 \mm ya:mrph:ABSTR
-\va kàlimɛ.ya
+\va kàlimɛya
 \mm kànɛmɛ:n:cousin.croisé
 \mm ya:mrph:ABSTR
-\va kànumɛ.ya
+\va kànumɛya
 \mm kànumɛ:n:cousin.croisé
 \mm ya:mrph:ABSTR
 \ps n
 \gf relations.de.cousinage.croisé
 \gvf relations de cousinage croisé
-\dt 09/Jul/2013
+\dt 24/Mar/2019
 
 \lx kánfari
 \ps n
@@ -60435,7 +60437,7 @@ prolapsus utérin
 \lx kàngaji
 \mm kànga:n:écume
 \mm jí:n:eau
-\va kàan.ji
+\va kàanji
 \mm kàan:n:écume
 \mm jí:n:eau
 \ve (f)
@@ -60444,7 +60446,7 @@ prolapsus utérin
 \gvf eau savonneuse
 \gvf écume
 \gvf bave
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kànganin
 \mm kànga:n:écume
@@ -60461,36 +60463,6 @@ prolapsus utérin
 \smf (capable de résister aux féticheurs)
 \dt 16/Aug/2006
 
-\lx kàngarimadá
-\mm kàngari:n:mise.en.garde
-\mm mà:mrph:SUPER
-\mm dá:v:poser
-\va kànkari.ma.dá
-\mm kànkari:n:mise.en.garde
-\mm mà:mrph:SUPER
-\mm dá:v:poser
-\ps v
-\vl vt
-\gf mettre.en.garde
-\gvf mettre en garde
-\xv bá yé  kàngarimada  à dénmuso yé kó : sú kàna kò  k'à tó  bɔ́lɔn ná
-\xf la maman a prévenu sa fille de ne pas rester dans la rue le soir
-\dt 26/Sep/2006
-
-\lx kàngarimadá
-\mm kàngari:n:mise.en.garde
-\mm mà:mrph:SUPER
-\mm dá:v:poser
-\va kànkari.ma.dá
-\mm kànkari:n:mise.en.garde
-\mm mà:mrph:SUPER
-\mm dá:v:poser
-\ps n
-\gf avertissement
-\gvf avertissement
-\gvf mise en garde
-\dt 09/Jul/2013
-
 \lx kánge
 \ps n
 \gf sorte.de.tissu
@@ -60499,7 +60471,7 @@ prolapsus utérin
 
 \lx kángɛlɛn
 \mm kán:n:cou
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:dur
 \ps n
 \ms 1
 \gf voix.très.élevée
@@ -60511,7 +60483,7 @@ prolapsus utérin
 \gvf langue.difficile
 \ms 4
 \gvf arrogant
-\dt 04/Mar/2019
+\dt 24/Mar/2019
 
 \lx kánhakɛ
 \mm kán:n:cou
@@ -60524,12 +60496,12 @@ prolapsus utérin
 \lx kánhɔrɔnya
 \mm kán:n:cou
 \mm hɔ́rɔnya:v:libérer
-\mm hɔ́rɔn:adj/n:libre
-\mm ya:mrph:ABSTR
+\mmm hɔ́rɔn:adj:libre
+\mmm ya:mrph:ABSTR
 \ps v
 \gf libérer
 \gvf libérer
-\dt 16/Jun/2017
+\dt 24/Mar/2019
 
 \lx káni
 \ps v
@@ -60556,7 +60528,7 @@ prolapsus utérin
 
 \lx kánjan
 \mm kán:n:cou
-\mm jàn:vq:long
+\mm jàn:adj:long
 \va kányan
 \mm kán:n:cou
 \ve (bk)
@@ -60565,16 +60537,16 @@ prolapsus utérin
 \gvf mur d'enceinte
 \smf (fortification autour d'un village)
 \sy tàra
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kánjɛ
 \mm kán:n:cou
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf langue.commune
 \gvf langue commune
 \smf (que tous comprennent)
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kánju
 \mm kán:n:cou
@@ -60693,11 +60665,46 @@ prolapsus utérin
 \sy kànkarimadakan
 \dt 11/Nov/2007
 
-\lx kànkarimadakan
-\mm kànkari.ma.dá:v:avertir
+\lx kànkarimadá
 \mm kànkari:n:mise.en.garde
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
+\va kàngarimadá
+\mm kàngari:n:mise.en.garde
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
+\ps n
+\gf avertissement
+\gvf avertissement
+\gvf mise en garde
+\dt 24/Mar/2019
+
+\lx kànkarimadá
+\mm kànkari:n:mise.en.garde
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
+\va kàngari.ma.dá
+\mm kàngari:n:mise.en.garde
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
+\ps v
+\vl vt
+\gf mettre.en.garde
+\gvf mettre en garde
+\xv bá yé  kàngarimada  à dénmuso yé kó : sú kàna kò  k'à tó  bɔ́lɔn ná
+\xf la maman a prévenu sa fille de ne pas rester dans la rue le soir
+\dt 24/Mar/2019
+
+\lx kànkarimadakan
+\mm kànkarimadá:v:avertir
+\mmm kànkari:n:mise.en.garde
+\mmm màdá:v:incliner
+\mmmm mà:mrph:SUPER
+\mmmm dá:v:poser
 \mm kán:n:cou
 \ps n
 \gf avertissement
@@ -60705,7 +60712,7 @@ prolapsus utérin
 \sy kànkaridalikan
 \sy kànkaridakan
 \nt kb 1/05 p6
-\dt 18/Dec/2014
+\dt 24/Mar/2019
 
 \lx kánkelen
 \mm kán:n:cou
@@ -60728,15 +60735,15 @@ prolapsus utérin
 \dt 16/Aug/2006
 
 \lx kánkelentigiya
-\mm kán.kelen.tigi:n:personne.de.parole
-\mm kán:n:cou
-\mm kélen:num:un
-\mm tìgi:n:maître
+\mm kánkelentigi:n:personne.de.parole
+\mmm kán:n:cou
+\mmm kélen:num:un
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf respect.de.la.parole.donnée
 \gvf respect de la parole donnée
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kànkiran
 \va kànkira
@@ -60757,15 +60764,15 @@ prolapsus utérin
 \dt 16/Aug/2006
 
 \lx kánkolodimi
-\mm kán.kolo:n:os.du.cou
-\mm kán:n:cou
-\mm kólo:n:os
+\mm kánkolo:n:os.du.cou
+\mmm kán:n:cou
+\mmm kólo:n:os
 \mm dími:n:souffrance
 \ps n
 \gf rachialgie.cervicale
 \gvf rachialgie cervicale
 \gvf torticolis
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kánkolon
 \mm kán:n:cou
@@ -60845,7 +60852,7 @@ prolapsus utérin
 
 \lx kánkɔrɔsigi
 \mm kán:n:cou
-\mm kɔ́rɔ:n:dessous
+\mm kɔ́rɔ:pp:sous
 \mm sìgi:v:asseoir
 \ps n
 \gf adjoint
@@ -60853,19 +60860,19 @@ prolapsus utérin
 \gvf conseiller
 \gvf fondé de pouvoir
 \smf (remplaçant lors d'un décès)
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kánkɔrɔtalan
 \mm kán:n:cou
-\mm kɔ́rɔ.tà:v:soulever
-\mm kɔ́rɔ:n:dessous
-\mm tà:v:prendre
+\mm kɔ́rɔtà:v:soulever
+\mmm kɔ́rɔ:n:dessous
+\mmm tà:v:prendre
 \mm lan:mrph:INSTR
 \ps n
 \gf haut-parleur
 \gvf haut-parleur
 \rem du
-\dt 11/Nov/2007
+\dt 24/Mar/2019
 
 \lx kánkun
 \mm kán:n:cou
@@ -60889,9 +60896,9 @@ prolapsus utérin
 
 \lx kánmàdá
 \mm kán:n:cou
-\mm mà.dá:v:incliner
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
 \ps v
 \vl vr
 \gf parler.poliment
@@ -60899,7 +60906,7 @@ prolapsus utérin
 \smf (à ... ye)
 \xv í kán màda  à fà ń'á bá yé
 \xf parler poliment à son père et à sa mère
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kánmɛn
 \mm kán:n:cou
@@ -60921,12 +60928,12 @@ prolapsus utérin
 
 \lx kánmisɛn
 \mm kán:n:cou
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ps n
 \gf voix.aigüe
 \gvf voix aigüe
 \sy kángɛlɛn
-\dt 04/Apr/2016
+\dt 24/Mar/2019
 
 \lx kánmuguli
 \mm kán:n:cou
@@ -60966,8 +60973,9 @@ prolapsus utérin
 
 \lx kánnabìla
 \mm kán:n:cou
-\mm ná:mrph:CAUS
-\mm bìla:v:mettre
+\mm lábìla:v:laisser.partir
+\mmm ná:mrph:CAUS
+\mmm bìla:v:mettre
 \ps v
 \ms 1
 \vl vt
@@ -60983,12 +60991,13 @@ prolapsus utérin
 \vl vr
 \gvf adresser la parole
 \smf (à ... mà)
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kánnabɔ
 \mm kán:n:cou
-\mm ná:mrph:CAUS
-\mm bɔ́:n:sortie
+\mm lábɔ:v:faire.sortir
+\mmm ná:mrph:CAUS
+\mmm bɔ́:n:sortie
 \ps n
 \ms 1
 \gf rebord
@@ -60998,12 +61007,13 @@ prolapsus utérin
 \smf (les jeunes par rapport aux vieux ...)
 \xv kánnabɔ yé  màa kúra yé  mín bɛ́  kɔ̀rɔlen  sènkɔrɔ
 \xf un "kannabɔ" est un nouveau qui se trouve auprès des anciens
-\dt 15/Aug/2006
+\dt 24/Mar/2019
 
 \lx kánnabɔ
 \mm kán:n:cou
-\mm ná:mrph:CAUS
-\mm bɔ́:v:sortir
+\mm lábɔ:v:faire.sortir
+\mmm ná:mrph:CAUS
+\mmm bɔ́:n:sortie
 \ps v
 \ms 1
 \vl vt
@@ -61022,7 +61032,7 @@ prolapsus utérin
 \ms 4
 \vl vr
 \gvf se porter candidat
-\dt 13/Oct/2017
+\dt 24/Mar/2019
 
 \lx kánnajala
 \mm kán:n:cou
@@ -61050,11 +61060,11 @@ prolapsus utérin
 
 \lx kánnakolon
 \mm kán:n:cou
-\mm na:mrph:IN
+\mm na:mrph:à
 \mm kólon:adj:vide
 \va kán.nan.kolon
 \mm kán:n:cou
-\mm nan:mrph:dans
+\mm nan:mrph:à
 \mm kólon:adj:vide
 \ps adj/n
 \ms 1
@@ -61064,7 +61074,7 @@ prolapsus utérin
 \gvf pauvre
 \ms 3
 \gvf impuissant
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kánnakɔnɔ
 \mm kán:n:cou
@@ -61090,16 +61100,21 @@ prolapsus utérin
 \mm kán:n:cou
 \mm ná:pp:à
 \mm mɛ̀gɛlɛ:n:grand.hameçon
+\va kánnɔmɛgɛlɛ
+\mm kán:n:cou
+\mm nɔ́:pp:IN
+\mm mɛ̀gɛlɛ:n:grand.hameçon
 \ps n
 \gf torticolis
 \gvf torticolis
 \sy kánnamuguli
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kánnamìnɛ
 \mm kán:n:cou
-\mm ná:mrph:CAUS
-\mm mìnɛ:v:attraper
+\mm lámìnɛ:v:maintenir
+\mmm ná:mrph:CAUS
+\mmm mìnɛ:v:attraper
 \ps v
 \vl vt
 \ms 1
@@ -61109,16 +61124,18 @@ prolapsus utérin
 \ms 2
 \gvf répondre
 \smf (péj)
-\xv í kà ń kánnaminɛ  ò kɔ́ !
+\xv í kà ń kánnaminɛ ò kɔ́ !
 \xf réponds-moi encore ! (et tu vas voir !)
 \ms 3
 \gvf chanter le refrain
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kánnaminɛna
-\mm kán:n:cou
-\mm ná:mrph:CAUS
-\mm mìnɛ:v:attraper
+\mm kánnamìnɛ:v:acquiescer
+\mmm kán:n:cou
+\mmm lámìnɛ:v:maintenir
+\mmmm ná:mrph:CAUS
+\mmmm mìnɛ:v:attraper
 \mm na:mrph:AG.PRM
 \ps n
 \ms 1
@@ -61126,7 +61143,7 @@ prolapsus utérin
 \gvf interprète
 \ms 2
 \gvf personne qui reprend le refrain
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kánnamuguli
 \mm kán:n:cou
@@ -61174,15 +61191,6 @@ prolapsus utérin
 \gvf adénite cervicale
 \dt 26/Sep/2006
 
-\lx kánnɔmɛgɛlɛ
-\mm kán:n:cou
-\mm nɔ́:pp:IN
-\mm mɛ̀gɛlɛ:n:grand.hameçon
-\ps n
-\gf torticolis
-\gvf torticolis
-\dt 16/Aug/2006
-
 \lx kánnɔrɔ
 \mm kán:n:cou
 \mm nɔ́rɔ:v:coller
@@ -61207,21 +61215,21 @@ prolapsus utérin
 \dt 26/Sep/2006
 
 \lx kánntanya
-\mm kán.ntan:adj:infidèle
-\mm kán:n:cou
-\mm ntan:mrph:PRIV
+\mm kánntan:adj:infidèle
+\mmm kán:n:cou
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf infidélité
 \gvf infidélité
 \xv kánntanyako
 \xf une infidélité
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kánntanya
-\mm kán.ntan:adj:infidèle
-\mm kán:n:cou
-\mm ntan:mrph:PRIV
+\mm kánntan:adj:infidèle
+\mmm kán:n:cou
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
@@ -61230,7 +61238,7 @@ prolapsus utérin
 \gvf être infidèle à sa parole
 \ms 2
 \gvf perdre la voix
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kánɲɛ
 \mm kán:n:cou
@@ -61304,12 +61312,12 @@ prolapsus utérin
 
 \lx kánsinamuso
 \mm kánsina:n:épouse.du.frère.de.l'époux
-\mm sìna:n:coépouse
+\mmm sìna:n:coépouse
 \mm mùso:adj:femme
 \ps n
 \gf épouse.du.frère.de.l'époux
 \gvf épouse du frère de l'époux
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kánsiri
 \mm kán:n:cou
@@ -61370,18 +61378,20 @@ prolapsus utérin
 \dt 14/Apr/2018
 
 \lx kántigɛbaa
-\mm kán:n:cou
-\mm tìgɛ:v:couper
+\mm kántìgɛ:v:égorger
+\mmm kán:n:cou
+\mmm tìgɛ:v:couper
 \mm baa:mrph:AG.OCC
 \ps n
 \gf celui.qui.égorge
 \gvf celui qui égorge
 \smf (une bête, le sacrificateur ...)
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kántigɛda
-\mm kán:n:cou
-\mm tìgɛ:v:couper
+\mm kántìgɛ:v:égorger
+\mmm kán:n:cou
+\mmm tìgɛ:v:couper
 \mm dá:n:bouche
 \ps n
 \ms 1
@@ -61395,11 +61405,12 @@ prolapsus utérin
 \gvf détermination
 \ms 4
 \gvf argument ultime
-\dt 20/Oct/2014
+\dt 24/Mar/2019
 
 \lx kántigɛla
-\mm kán:n:cou
-\mm tìgɛ:v:couper
+\mm kántìgɛ:v:égorger
+\mmm kán:n:cou
+\mmm tìgɛ:v:couper
 \mm la:mrph:AG.PRM
 \ps n
 \gf celui.qui.égorge
@@ -61408,18 +61419,19 @@ prolapsus utérin
 \gvf bourreau
 \xv syɛ̀kan yé  kántigɛla tá yé
 \xf le cou de la poule revient au sacrificateur
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kántigɛla
-\mm kán:n:cou
-\mm tìgɛ:v:couper
+\mm kántìgɛ:v:égorger
+\mmm kán:n:cou
+\mmm tìgɛ:v:couper
 \mm la:mrph:LOC
 \ps n
 \gf partie.de.l'animal.qui.revient.au.sacrificateur
 \gvf partie de l'animal qui revient au sacrificateur
 \xv mín máa kɛ́ k'á kántigɛ, á' yé  kántigɛla d'ó mà
 \xf celui qui l'a égorgée, donnez-lui la part qui lui revient
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kántigi
 \mm kán:n:cou
@@ -61431,21 +61443,21 @@ prolapsus utérin
 \dt 16/Aug/2006
 
 \lx kántigiya
-\mm kán.tigi:n:fidèle.à.la.parole
-\mm kán:n:cou
-\mm tìgi:n:maître
+\mm kántigi:n:fidèle.à.la.parole
+\mmm kán:n:cou
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf fidélité
 \gvf fidélité
 \xv kántigiya mán ɲì  fàn kélen fɛ̀
 \xf la fidélité doit être réciproque
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kántigiya
-\mm kán.tigi:n:fidèle.à.la.parole
-\mm kán:n:cou
-\mm tìgi:n:maître
+\mm kántigi:n:fidèle.à.la.parole
+\mmm kán:n:cou
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
@@ -61454,7 +61466,7 @@ prolapsus utérin
 \smf (à sa parole)
 \xv í yé  mín fɔ́, í y'á bɔ́  ò síra fɛ̀, í kántigiyara
 \xf tu as fait ce que tu as promis, tu as été fidèle
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kánto
 \mm kán:n:cou
@@ -61500,7 +61512,7 @@ prolapsus utérin
 \lx kànubaa
 \mm kànu:v:aimer
 \mm baa:mrph:AG.OCC
-\va kànu.baga
+\va kànubaga
 \mm kànu:v:aimer
 \mm baga:mrph:AG.OCC
 \ps n
@@ -61509,13 +61521,13 @@ prolapsus utérin
 \gvf celui qui aime
 \gvf ami
 \gvf amant(e)
-\dt 14/Nov/2012
+\dt 24/Mar/2019
 
 \lx kànubaanci
 \mm kànu:v:aimer
 \mm baa:mrph:AG.OCC
 \mm nci:mrph:AG.EX
-\va kànu.baga.nci
+\va kànubaganci
 \mm kànu:v:aimer
 \mm baga:mrph:AG.OCC
 \mm nci:mrph:AG.EX
@@ -61523,14 +61535,14 @@ prolapsus utérin
 \mm kànu:v:aimer
 \mm baa:mrph:AG.OCC
 \mm nci:mrph:AG.EX
-\va kànun.baga.nci
+\va kànunbaganci
 \mm kànu:v:aimer
 \mm baga:mrph:AG.OCC
 \mm nci:mrph:AG.EX
 \ps n
 \gf qui.aime.beaucoup
 \gvf qui aime beaucoup
-\dt 22/Jan/2015
+\dt 24/Mar/2019
 
 \lx kànuden
 \mm kànu:n:amour
@@ -61548,17 +61560,17 @@ prolapsus utérin
 
 \lx kànuɲɔgɔn
 \mm kànu:v:aimer
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \va kànuɲwan
 \mm kànu:v:aimer
-\mm ɲwán:prn:RECP
+\mm ɲwan:mrph:RECP
 \ps n
 \gf amant(e)
 \gvf amant(e)
 \sy kànuɲɔgɔnman
 \xv kànuɲɔgɔnman cɛ́kɛlɛ
 \xf dispute entre des amants (LD p.28)
-\dt 06/Nov/2014
+\dt 24/Mar/2019
 
 \lx kànuya
 \mm kànu:n:amour
@@ -61745,8 +61757,8 @@ probablement de chaux vive)
 \dt 06/Nov/2014
 
 \lx kàramɔgɔdegesɛbɛn
-\mm kàra.mɔgɔ:n:maître
-\mm mɔ̀gɔ:n:homme
+\mm kàramɔgɔ:n:maître
+\mmm mɔ̀gɔ:n:homme
 \mm dège:v:enseigner
 \mm sɛ́bɛn:n:écrit
 \ps n
@@ -61754,11 +61766,11 @@ probablement de chaux vive)
 \gvf livre du maître
 \xv ò mísali ìn bɔ́ra kàramɔgɔdegesɛbɛn kɔ́nɔ...
 \xf cet exemple est tiré du livre du maître ... (kb 8/04 p.8)
-\dt 04/Apr/2016
+\dt 24/Mar/2019
 
 \lx kàramɔgɔkɛ
-\mm kàra.mɔgɔ:n:maître
-\mm mɔ̀gɔ:n:homme
+\mm kàramɔgɔ:n:maître
+\mmm mɔ̀gɔ:n:homme
 \mm kɛ:adj:mâle
 \ps n
 \ms 1
@@ -61768,25 +61780,25 @@ probablement de chaux vive)
 \gvf maître-chasseur
 \ms 3
 \gvf marabout
-\dt 09/May/2013
+\dt 24/Mar/2019
 
 \lx kàramɔgɔmuso
-\mm kàra.mɔgɔ:n:maître
-\mm mɔ̀gɔ:n:homme
+\mm kàramɔgɔ:n:maître
+\mmm mɔ̀gɔ:n:homme
 \mm mùso:adj:femme
 \ps n
 \gf enseignante
 \gvf enseignante
-\dt 09/May/2013
+\dt 24/Mar/2019
 
 \lx kàramɔgɔya
-\mm kàra.mɔgɔ:n:maître
-\mm mɔ̀gɔ:n:homme
+\mm kàramɔgɔ:n:maître
+\mmm mɔ̀gɔ:n:homme
 \mm ya:mrph:ABSTR
 \ps n
 \gf métier.d'enseignant
 \gvf métier d'enseignant
-\dt 09/May/2013
+\dt 24/Mar/2019
 
 \lx káran
 \ps v
@@ -62042,8 +62054,8 @@ probablement de chaux vive)
 \ps n
 \gf causerie.directe
 \gvf causerie directe
-\cm (sans intermédiaires)
-\dt 01/May/2014
+\smf (sans intermédiaires)
+\dt 24/Mar/2019
 
 \lx kàritɔn
 \ps n
@@ -62157,10 +62169,10 @@ probablement de chaux vive)
 
 \lx kàsabakɔrɔ
 \mm ba:mrph:AUGM
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \va kɔ̀sabakɔrɔ
 \mm ba:mrph:AUGM
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ve (f)
 \ps n
 \ms 1
@@ -62177,18 +62189,18 @@ probablement de chaux vive)
 \sy kàsabakɔrɔma
 \sy kàsabakɔrɔlama
 \sy kàsabakɔrɔtɔ
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kàsabakɔrɔya
 \mm kàsabakɔrɔ:n:femme.d'âge.avancé
-\mm ba:mrph:AUGM
-\mm kɔ̀rɔ:vq/adj:vieux
+\mmm ba:mrph:AUGM
+\mmm kɔ̀rɔ:adj:vieux
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \gf entrer.dans.la.société.des.femmes.adultes
 \gvf entrer dans la société des femmes adultes
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kàsabi
 \bw ar: kasaba = rassembler, acquérir
@@ -62223,26 +62235,29 @@ probablement de chaux vive)
 
 \lx kásadiyalan
 \mm kása:n:odeur
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm lan:mrph:INSTR
 \ps n
 \gf parfum
 \gvf parfum
+\dt 24/Mar/2019
 
 \lx kásagoya
 \mm kása:n:odeur
-\mm gó:vq:désagréable
-\mm ya:mrph:DEQU
-\va kása.ko.ya
+\mm góya:n:mauvais.goût
+\mmm gó:vq:désagréable
+\mmm ya:mrph:DEQU
+\va kásakoya
 \mm kása:n:odeur
-\mm kó:vq:désagréable
-\mm ya:mrph:DEQU
+\mm kóya:n:mauvais.goût
+\mmm kó:vq:désagréable
+\mmm ya:mrph:DEQU
 \ps n
 \gf puanteur
 \gvf puanteur
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kásakasa
 \ps adv
@@ -62369,7 +62384,7 @@ probablement de chaux vive)
 \mm kàsi:v:pleurer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va kàsi.baga.tɔ
+\va kàsibagatɔ
 \mm kàsi:v:pleurer
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -62377,7 +62392,7 @@ probablement de chaux vive)
 \gf triste
 \gvf triste
 \gvf pleurnicheur
-\dt 23/Nov/2012
+\dt 24/Mar/2019
 
 \lx kàsibali
 \mm kàsi:v:pleurer
@@ -62439,12 +62454,12 @@ probablement de chaux vive)
 
 \lx kàsolabila
 \mm kàso:n:prison
-\mm lá:mrph:CAUS
+\mm lá:pp:à
 \mm bìla:v:mettre
 \ps n
 \gf emprisonnement
 \gvf emprisonnement
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kàsoladen
 \mm kàso:n:prison
@@ -62458,24 +62473,26 @@ probablement de chaux vive)
 
 \lx kàsoladon
 \mm kàso:n:prison
-\mm lá:mrph:CAUS
-\mm dòn:v:entrer
+\mm ládòn:v:faire.entrer
+\mmm lá:mrph:CAUS
+\mmm dòn:v:entrer
 \ps n
 \gf emprisonnement
 \gvf emprisonnement
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kàsoladonni
 \mm kàso:n:prison
-\mm lá:mrph:CAUS
-\mm dòn:v:entrer
+\mm ládòn:v:faire.entrer
+\mmm lá:mrph:CAUS
+\mmm dòn:v:entrer
 \mm ni:mrph:NMLZ
 \ps n
 \gf incarcération
 \gvf incarcération
 \xv né má (kó) fóyi kɛ́ mín ká kán ní kàsoladonni yé (gn 40, 15)
 \xf je n'ai rien fait qui mérite la prison
-\dt 11/Nov/2007
+\dt 24/Mar/2019
 
 \lx kàsolamɔgɔ
 \mm kàso:n:prison
@@ -62571,11 +62588,11 @@ probablement de chaux vive)
 
 \lx kátigɛlɛn
 \mm káti:n:caractère
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:dur
 \ps adj/n
 \gf obstiné
 \gvf obstiné
-\dt 12/Aug/2006
+\dt 24/Mar/2019
 
 \lx kàtilaka
 \va kàtlaka
@@ -62800,13 +62817,13 @@ probablement de chaux vive)
 \lx kèguya
 \mm kègu:vq:malin
 \mm ya:mrph:DEQU
-\va kègun.ya
+\va kègunya
 \mm kègun:vq:malin
 \mm ya:mrph:DEQU
-\va kèkun.ya
+\va kèkunya
 \mm kèkun:vq:malin
 \mm ya:mrph:DEQU
-\va kèku.ya
+\va kèkuya
 \mm kèku:vq:malin
 \mm ya:mrph:DEQU
 \ps n
@@ -62819,19 +62836,19 @@ probablement de chaux vive)
 \xf si malin que soit un enfant, il a un anus (dicton)
 \xv à yé  kèguya mìnɛ  tɔ̀ lá
 \xf il les a tous roulés
-\dt 08/Jul/2013
+\dt 24/Mar/2019
 
 \lx kèguya
 \mm kègu:vq:malin
 \mm ya:mrph:DEQU
-\va kègun.ya
+\va kègunya
 \mm kègun:vq:malin
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf rendre.malin
 \gvf rendre malin
-\dt 16/Aug/2006
+\dt 24/Mar/2019
 
 \lx kéke
 \ps n
@@ -62979,7 +62996,7 @@ probablement de chaux vive)
 \ps adj
 \gf isolé
 \gvf isolé
-\dt 08/Dec/2018
+\dt 24/Mar/2019
 
 \lx kélennajɔ
 \mm kélen:num:un
@@ -63041,7 +63058,7 @@ probablement de chaux vive)
 \gvf un seul
 \dt 05/Mar/2017
 
-\lx kélensigi
+\lx kèlensigi
 \mm kélen:num:un
 \mm sìgi:v:asseoir
 \ps n
@@ -63050,9 +63067,9 @@ probablement de chaux vive)
 \gvf sédentaire
 \ms 2
 \gvf vie sédentaire
-\dt 01/Feb/2017
+\dt 24/Mar/2019
 
-\lx kélenya
+\lx kèlenya
 \mm kélen:num:un
 \mm ya:mrph:ABSTR
 \ps n
@@ -63069,7 +63086,7 @@ probablement de chaux vive)
 \ms 3
 \gvf singulier
 \smf (opposé au pluriel : caya ; néologisme)
-\dt 03/Apr/2016
+\dt 24/Mar/2019
 
 \lx kélenya
 \mm kélen:num:un
@@ -63083,28 +63100,28 @@ probablement de chaux vive)
 \dt 16/Aug/2006
 
 \lx kèleya
-\mm kèle:adj:jaloux
-\mm ya:mrph:ABSTR
-\va cèle.ya
-\mm cèle:adj:jaloux
-\mm ya:mrph:ABSTR
+\mm kèle:vq:envieux
+\mm ya:mrph:DEQU
+\va cèleya
+\mm cèle:adj:envieux
+\mm ya:mrph:DEQU
 \ps n
 \gf jalousie
 \gvf jalousie
 \smf (passionnelle)
-\dt 06/Jun/2014
+\dt 24/Mar/2019
 
 \lx kèleya
-\mm kèle:adj:jaloux
-\mm ya:mrph:ABSTR
-\va cèle.ya
-\mm cèle:adj:jaloux
-\mm ya:mrph:ABSTR
+\mm kèle:vq:envieux
+\mm ya:mrph:DEQU
+\va cèleya
+\mm cèle:adj:envieux
+\mm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf jalouser
 \gvf jalouser
-\dt 06/Jun/2014
+\dt 24/Mar/2019
 
 \lx kèleyabaatɔ
 \mm kèle:vq:envieux
@@ -63423,14 +63440,14 @@ probablement de chaux vive)
 \dt 16/Aug/2006
 
 \lx kɛ́baliya
-\mm kɛ́.bali:ptcp:non.fait
-\mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm kɛ́bali:ptcp:non.fait
+\mmm kɛ́:v:faire
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf omission
 \gvf omission
-\dt 04/Apr/2016
+\dt 24/Mar/2019
 
 \lx kɛ́ci
 \mm kɛ́:n:action
@@ -70144,12 +70161,12 @@ harpon)
 
 \lx kɔ́mɔkìli
 \mm kɔ́:n:dos
-\mm kìli:n:oeuf
+\mm kíli:n:oeuf
 \ps n
 \gf rein
 \gvf rein
 \smf (le ton de "kili" n'est pas favorable au sens de "boule")
-\dt 26/Sep/2006
+\dt 24/Mar/2019
 
 \lx kɔ̀mɔna
 \mm kɔ̀mɔ:n:société.initiatique
