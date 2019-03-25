@@ -27773,7 +27773,6 @@ chefs religieux et représentants de l'administration
 \mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \va já
-\ph [dya-->ja]
 \ps v
 \vl vt
 \ms 1
@@ -27803,7 +27802,7 @@ chefs religieux et représentants de l'administration
 \gvf jouer avec ardeur
 \xv ù yé  fɔ́li díya
 \xf ils ont joué avec plus d'ardeur
-\dt 05/Feb/2017
+\dt 25/Mar/2019
 
 \lx díyabaatɔ
 \mm dí.ya:v:rendre.agréable
@@ -63584,26 +63583,26 @@ probablement de chaux vive)
 \lx kɛ̀lɛbaa
 \mm kɛ̀lɛ:v:combattre
 \mm baa:mrph:AG.OCC
-\va kɛ̀lɛ.baga
+\va kɛ̀lɛbaga
 \mm kɛ̀lɛ:v:combattre
 \mm baga:mrph:AG.OCC
 \ps n
 \gf combattant
 \gvf combattant
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kɛ̀lɛbɛbilen
 \mm kɛ̀lɛbɛ:n:kinkeliba
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \va kwɛ̀lɛbɛbilen
 \mm kwɛ̀lɛbɛ:n:kinkeliba
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \va kɛ̀lɛbɛblen
 \mm kɛ̀lɛbɛ:n:kinkeliba
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \va kwɛ̀lɛbɛblen
 \mm kwɛ̀lɛbɛ:n:kinkeliba
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [kw/bl]
 \ps n
 \gf quinquéliba
@@ -63614,17 +63613,17 @@ probablement de chaux vive)
 \smf (buisson, arbuste ou même liane)
 \sy nkɔ̀lɔbɛ
 \sy kɔ̀lɔbɛ
-\dt 04/Apr/2016
+\dt 25/Mar/2019
 
 \lx kɛ́lɛbilen
 \mm kɛ́lɛ:n:poisson.Chrysichtys
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf poisson.Chrysicthys.auratus
 \gvf poisson Chrysicthys auratus
 \smf (---> 40 cm, ---> 1,650 kg, de couleur jaune, dorsale prolongée par un filament noirâtre)
 \cf kɛ́lɛ
-\dt 19/Aug/2006
+\dt 25/Mar/2019
 
 \lx kɛ̀lɛbolo
 \mm kɛ̀lɛ:n:querelle
@@ -63689,13 +63688,13 @@ probablement de chaux vive)
 
 \lx kɛ́lɛjɛ
 \mm kɛ́lɛ:n:poisson.Chrysichtys
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf poisson.Chrysichtys.nigrodigitatus
 \gvf poisson Chrysichtys nigrodigitatus
 \smf (---> 47,5 cm)
 \cf kɛ́lɛ
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kɛ̀lɛkɛcɛ
 \mm kɛ̀lɛ:n:querelle
@@ -63765,12 +63764,12 @@ probablement de chaux vive)
 \lx kɛ̀lɛkɛɲɔgɔn
 \mm kɛ̀lɛ:n:querelle
 \mm kɛ́:v:faire
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf adversaire
 \gvf adversaire
 \sy kɛ̀lɛɲɔgɔn
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kɛ̀lɛkɛwotoro
 \mm kɛ̀lɛ:n:querelle
@@ -63783,14 +63782,14 @@ probablement de chaux vive)
 
 \lx kɛ̀lɛkuntigi
 \mm kɛ̀lɛ:n:querelle
-\mm kùn.tigi:n:chef
-\mm kùn:n:tête
-\mm tìgi:n:maître
+\mm kùntigi:n:chef
+\mmm kùn:n:tête
+\mmm tìgi:n:maître
 \ps n
 \gf chef.de.guerre
 \gvf chef de guerre
 \rem l 89
-\dt 11/Nov/2007
+\dt 25/Mar/2019
 
 \lx kɛ̀lɛmaboli
 \mm kɛ̀lɛ:n:querelle
@@ -63856,12 +63855,12 @@ probablement de chaux vive)
 
 \lx kɛ̀lɛɲɔgɔn
 \mm kɛ̀lɛ:v:combattre
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps adj
 \gf adversaire
 \gvf adversaire
 \sy kɛ̀lɛkɛɲɔgɔn
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kɛ̀lɛŋana
 \mm kɛ̀lɛ:n:querelle
@@ -63933,14 +63932,15 @@ probablement de chaux vive)
 
 \lx kɛ̀mɛsarada
 \mm kɛ̀mɛ:num:cent
-\mm sára:n:petits.tas
-\mm dá:v:poser
+\mm sárada:v:mettre.en.tas
+\mmm sára:n:petits.tas
+\mmm dá:v:poser
 \ps n
 \gf pourcentage
 \gvf pourcentage
 \xv kɛ̀mɛsarada lá, fòro 40 yé ɲɔ̀foro yé...
 \xf en pourcentage, 40% des champs (détruits par les sauterelles) sont des champs de mil (kb 10/04 p.1)
-\dt 11/Nov/2007
+\dt 25/Mar/2019
 
 \lx kɛ́mɛsu
 \bw ar: miqassun = id
@@ -63952,14 +63952,14 @@ probablement de chaux vive)
 \lx kɛ́minɛn
 \mm kɛ́:v:faire
 \mm mìnɛn:n:outils
-\va kɛ́.mina
+\va kɛ́mina
 \mm kɛ́:v:faire
 \mm mìna:n:outils
 \ps n
 \gf récipient
 \gvf récipient
 \sy kɛ́lan
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kɛ́n
 \va kɛ́
@@ -64101,7 +64101,7 @@ probablement de chaux vive)
 
 \lx kɛ́nɛjɛ
 \mm kɛ́nɛ:n:clarté
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \ms 1
 \gf clairière
@@ -64110,7 +64110,7 @@ probablement de chaux vive)
 \gvf en public
 \xv ò kɛ́ra  kɛ́nɛjɛ kàn
 \xf ça s'est passé devant tout le monde
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kɛ́nɛjɛnda
 \mm kɛ́nɛ:n:clarté
@@ -64204,7 +64204,7 @@ probablement de chaux vive)
 \dt 26/Sep/2006
 
 \lx kɛ́nɛmanya
-\mm kɛ́nɛ:vq/adj:en.bonne.santé
+\mm kɛ́nɛ:vq:en.bonne.santé
 \mm man:mrph:ADJ
 \mm ya:mrph:ABSTR
 \ps n
@@ -64212,7 +64212,7 @@ probablement de chaux vive)
 \gvf santé
 \xv Ála kà  sìmaya ní  kɛ́nɛmanya k'án yé ! :
 \xf que Dieu nous accorde longue vie et santé !
-\dt 12/Aug/2006
+\dt 25/Mar/2019
 
 \lx kɛ́nɛminikimanaka
 \mm kɛ́nɛ:n:clarté
@@ -64226,28 +64226,28 @@ probablement de chaux vive)
 \lx kɛ̀nɛsi
 \mm kɛ̀nɛ:n:pubis
 \mm sí:n:poil
-\va kɛ̀ɲɛ.si
+\va kɛ̀ɲɛsi
 \mm kɛ̀ɲɛ:n:pubis
 \mm sí:n:poil
 \ve (f)
 \ps n
 \gf poils.du.pubis
 \gvf poils du pubis
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kɛ́nɛtigɛnda
 \mm kɛ́nɛ:n:clarté
-\mm tìgɛn:v:couper
+\mm tìgɛ:v:couper
 \mm dá:n:bouche
 \ps n
 \gf point.du.jour
 \gvf point du jour
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kɛ̀nɛtintin
 \mm kɛ̀nɛ:n:pubis
 \mm tíntin:v:enfoncer
-\va kɛ̀ɲɛ.tintin
+\va kɛ̀ɲɛtintin
 \mm kɛ̀ɲɛ:n:pubis
 \mm tíntin:v:enfoncer
 \ve (f)
@@ -64255,19 +64255,19 @@ probablement de chaux vive)
 \gf pénil
 \gvf pénil
 \sy kɛ̀ɲɛtintiri
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kɛ̀nɛtintiri
 \mm kɛ̀nɛ:n:pubis
-\mm tíntìrí:n:chair.molle
-\va kɛ̀ɲɛ.tintiri
+\mm tíntìri:n:chair.molle
+\va kɛ̀ɲɛtintiri
 \mm kɛ̀ɲɛ:n:pubis
-\mm tíntìrí:n:chair.molle
+\mm tíntìri:n:chair.molle
 \ve (f)
 \ps n
 \gf pénil
 \gvf pénil
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kɛ́nɛwalawala
 \mm kɛ́nɛ:n:clarté
@@ -64301,7 +64301,7 @@ probablement de chaux vive)
 \dt 01/Jun/2017
 
 \lx kɛ́nɛyabali
-\mm kɛ́nɛ:vq/adj:en.bonne.santé
+\mm kɛ́nɛ:vq:en.bonne.santé
 \mm ya:mrph:DEQU
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
@@ -64311,7 +64311,7 @@ probablement de chaux vive)
 \xf ma blessure est incurable /
 \xv Mátigi Ála yé kɔ́nɔdimijuguba kɛ́nɛyabali bìla à lá
 \xf Le Seigneur frappa encore Joram d'une maladie intestinale incurable (2 Ch 21, 18)
-\dt 11/Nov/2007
+\dt 25/Mar/2019
 
 \lx kɛ́nfini
 \mm kɛ́n:n:graisse
@@ -64336,12 +64336,6 @@ probablement de chaux vive)
 \gvf poison
 \sy dònnkɔnɔ
 \dt 16/Aug/2006
-
-\lx kɛnsu
-\ps n
-\gf rate
-\gvf rate
-\dt 04/Mar/2019
 
 \lx kɛ́nyɛ
 \va kɛ́ɲɛ
@@ -64487,46 +64481,46 @@ probablement de chaux vive)
 
 \lx kɛ́ɲɔgɔn
 \mm kɛ́:v:faire
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf compagnon
 \gvf compagnon
 \sy kùnkɛɲɔgɔn
 \sy tɔ̀ɲɔgɔn
-\dt 15/Aug/2006
+\dt 25/Mar/2019
 
 \lx kɛ́ɲɔgɔnkɛ
-\mm kɛ́.ɲɔgɔn:n:compagnon
-\mm kɛ́:v:faire
-\mm ɲɔ́gɔn:prn:RECP
+\mm kɛ́ɲɔgɔn:n:compagnon
+\mmm kɛ́:v:faire
+\mmm ɲɔgɔn:mrph:RECP
 \mm kɛ:adj:mâle
 \ps n
 \gf compagnon
 \gvf compagnon
 \gvf camarade
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kɛ́ɲɔgɔnmuso
-\mm kɛ́.ɲɔgɔn:n:compagnon
-\mm kɛ́:v:faire
-\mm ɲɔ́gɔn:prn:RECP
-\mm mùso:adj:femme
+\mm kɛ́ɲɔgɔn:n:compagnon
+\mmm kɛ́:v:faire
+\mmm ɲɔgɔn:mrph:RECP
+\mm mùso:adj:féminin
 \ps n
 \gf compagne
 \gvf compagne
 \gvf camarade
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kɛ́ɲɔgɔnya
-\mm kɛ́.ɲɔgɔn:n:compagnon
-\mm kɛ́:v:faire
-\mm ɲɔ́gɔn:prn:RECP
+\mm kɛ́ɲɔgɔn:n:compagnon
+\mmm kɛ́:v:faire
+\mmm ɲɔgɔn:mrph:RECP
 \mm ya:mrph:ABSTR
 \ps n
 \gf même.classe.d'âge
 \gvf même classe d'âge
 \sy fílanya
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kɛ̀rɛ
 \vc kɛ̀rɛn
@@ -64619,27 +64613,30 @@ probablement de chaux vive)
 \dt 13/Apr/2018
 
 \lx kɛ̀rɛfɛkuma
-\mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:par
+\mm kɛ̀rɛfɛ̀:pp:par.côté
+\mmm kɛ̀rɛ:n:côté
+\mmm fɛ̀:pp:par
 \mm kúma:n:parole
 \ps n
 \gf chuchotement
 \gvf chuchotement
-\dt 07/Feb/2016
+\dt 25/Mar/2019
 
 \lx kɛ̀rɛfɛla
-\mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:par
+\mm kɛ̀rɛfɛ̀:pp:par.côté
+\mmm kɛ̀rɛ:n:côté
+\mmm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \gf alentours
 \gvf alentours
 \gvf pourtour
-\dt 07/Feb/2016
+\dt 25/Mar/2019
 
 \lx kɛ̀rɛfɛmɔgɔ
-\mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:par
+\mm kɛ̀rɛfɛ̀:pp:par.côté
+\mmm kɛ̀rɛ:n:côté
+\mmm fɛ̀:pp:par
 \mm mɔ̀gɔ:n:homme
 \ps n
 \ms 1
@@ -64647,22 +64644,25 @@ probablement de chaux vive)
 \gvf personne qui est à côté
 \ms 2
 \gvf personne qui reste à l'écart
-\dt 07/Feb/2016
+\dt 25/Mar/2019
 
 \lx kɛ̀rɛfɛmɔgɔya
-\mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:par
-\mm mɔ̀gɔ:n:homme
+\mm kɛ̀rɛfɛmɔgɔ:n:personne.qui.est.à.côté
+\mmm kɛ̀rɛfɛ̀:pp:par.côté
+\mmmm kɛ̀rɛ:n:côté
+\mmmm fɛ̀:pp:par
+\mmm mɔ̀gɔ:n:homme
 \mm ya:mrph:ABSTR
 \ps n
 \gf exclusion
 \gvf exclusion
 \gvf mise à l'écart
-\dt 07/Feb/2016
+\dt 25/Mar/2019
 
 \lx kɛ̀rɛfɛsigi
-\mm kɛ̀rɛ:n:côté
-\mm fɛ̀:pp:par
+\mm kɛ̀rɛfɛ̀:pp:par.côté
+\mmm kɛ̀rɛ:n:côté
+\mmm fɛ̀:pp:par
 \mm sìgi:v:asseoir
 \ps n
 \ms 1
@@ -64670,7 +64670,7 @@ probablement de chaux vive)
 \gvf voisin
 \ms 2
 \gvf conseiller
-\dt 07/Feb/2016
+\dt 25/Mar/2019
 
 \lx kɛ̀rɛkelenjɛngɛn
 \mm kɛ̀rɛ:n:côté
@@ -64763,8 +64763,9 @@ probablement de chaux vive)
 \dt 28/Nov/2017
 
 \lx kɛ́rɛnkɛrɛnnenya
-\mm kɛ́rɛnkɛrɛn:v:être.à.part
-\mm nen:mrph:PTCP.RES
+\mm kɛ́rɛnkɛrɛnnen:ptcp:spécial
+\mmm kɛ́rɛnkɛrɛn:v:être.à.part
+\mmm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -64774,7 +64775,7 @@ probablement de chaux vive)
 \xf en particulier ..., spécialement ...
 \ms 2
 \gvf honnêteté
-\dt 01/Jun/2017
+\dt 25/Mar/2019
 
 \lx kɛ̀rɛsàba
 \mm kɛ́rɛ:n:côté
@@ -64836,16 +64837,6 @@ probablement de chaux vive)
 \gvf plat de riz
 \dt 16/Aug/2006
 
-\lx kɛ̀tɛ
-\va kwɛ̀tɛ
-\ph [kwɛtɛ]
-\va kɔ̀tɛ
-\ps n
-\gf escargot
-\gvf escargot
-\gvf coquille d'escargot
-\dt 26/Sep/2006
-
 \lx kɛ́wale
 \mm kɛ́:n:action
 \mm wále:n:acte
@@ -64861,18 +64852,6 @@ probablement de chaux vive)
 (dícton)
 \dt 23/Feb/2014
 
-\lx kɛ̀yɛtɔ
-\mm kɛ̀yɛ:n:bourses
-\mm tɔ:mrph:ST
-\va kàya.tɔ
-\mm kàya:n:bourses
-\mm tɔ:mrph:ST
-\ps adj/n
-\gf atteint.d'hydrocèle
-\gvf atteint d'hydrocèle
-\gvf qui a les bourses énormes
-\dt 26/Sep/2006
-
 \lx kíbaro
 \ps n
 \gf oiseau.moqueur
@@ -64883,23 +64862,14 @@ probablement de chaux vive)
 
 \lx kìbarolasela
 \mm kìbaro:n:nouvelle
-\mm lá:mrph:CAUS
-\mm sé:v:arriver
+\mm láse:v:transmettre
+\mmm lá:mrph:CAUS
+\mmm sé:v:arriver
 \mm la:mrph:AG.PRM
 \ps n
 \gf qui.annonce.les.nouvelles
 \gvf qui annonce les nouvelles
-\dt 16/Aug/2006
-
-\lx kìbaroya
-\mm kìbaro:n:nouvelle
-\mm ya:mrph:ABSTR
-\ps n
-\gf nouvelle
-\gvf nouvelle
-\xv à y'á kìbaroya mɛ́ kúnu
-\xf il a appris la nouvelle hier
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kìbaru
 \bw ar: habar = id.
@@ -64912,13 +64882,17 @@ probablement de chaux vive)
 \lx kìbaruya
 \mm kìbaru:n:nouvelle
 \mm ya:mrph:ABSTR
+\va kìbaroya
+\mm kìbaro:n:nouvelle
+\mm ya:mrph:ABSTR
 \ps n
-\ms 1
 \gf nouvelle
 \gvf nouvelle
+\xv à y'á kìbaroya mɛ́ kúnu
+\xf il a appris la nouvelle hier
 \ms 2
 \gvf présage
-\dt 29/Nov/2015
+\dt 25/Mar/2019
 
 \lx kìbaruya
 \mm kìbaru:n:nouvelle
@@ -65043,13 +65017,13 @@ probablement de chaux vive)
 \lx kílidabodingɛ
 \mm kíli:n:oeuf
 \mm dá:v:poser
-\mm bò.dingɛ:n:rectum
-\mm bò:n:excrément
-\mm dìngɛ:n:trou
+\mm bòdingɛ:n:rectum
+\mmm bò:n:excrément
+\mmm dìngɛ:n:trou
 \ps n
 \gf cloaque.des.oiseaux
 \gvf cloaque des oiseaux
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kílidala
 \mm kíli:n:oeuf
@@ -65093,11 +65067,11 @@ probablement de chaux vive)
 
 \lx kílifin
 \mm kíli:n:oeuf
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf costaud
 \gvf costaud
-\dt 12/Aug/2006
+\dt 25/Mar/2019
 
 \lx kíliforoko
 \mm kíli:n:oeuf
@@ -65187,19 +65161,23 @@ probablement de chaux vive)
 \dt 06/Mar/2019
 
 \lx kílomɛtɛrɛ
+\mm kílo:n:kilomètre
+\mm mɛ́tɛrɛ:n:mètre
 \va km
 \ps n
 \gf kilomètre
 \gvf kilomètre
-\dt 15/Sep/2016
+\dt 25/Mar/2019
 
 \lx kílomɛtɛrɛkɛnɛ
 \mm kílomɛtɛrɛ:n:kilomètre
+\mmm kílo:n:kilomètre
+\mmm mɛ́tɛrɛ:n:mètre
 \mm kɛ́nɛ:n:clarté
 \ps n
 \gf kilomètre.carré
 \gvf kilomètre carré
-\dt 01/Jun/2017
+\dt 25/Mar/2019
 
 \lx kìn
 \ps n
@@ -65541,12 +65519,12 @@ probablement de chaux vive)
 
 \lx kíriɲɔgɔn
 \mm kíri:v:attaquer
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf partie.adverse
 \gvf partie adverse
 \sy kíritigɛɲɔgɔn
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kíriri
 \ps onomat
@@ -65559,60 +65537,72 @@ probablement de chaux vive)
 \lx kíritigɛ
 \mm kíri:n:jugement
 \mm tìgɛ:v:couper
-\va kíiri.tigɛ
+\va kíiritigɛ
 \mm kíiri:n:jugement
 \mm tìgɛ:v:couper
 \ps n
 \gf procès
 \gvf procès
 \gvf jugement
-\dt 13/Oct/2013
+\dt 25/Mar/2019
 
-\lx kíritigɛla
-\mm kíri.tigɛ:n:procès
+\lx kíritigɛ
 \mm kíri:n:jugement
 \mm tìgɛ:v:couper
-\mm la:mrph:AG.PRM
-\va kíiri.tigɛ.la
-\mm kíiri.tigɛ:n:procès
+\va kíiritigɛ
 \mm kíiri:n:jugement
 \mm tìgɛ:v:couper
+\ps v
+\gf juger
+\vl vt
+\gvf juger
+\dt 25/Mar/2019
+
+\lx kíritigɛla
+\mm kíritigɛ:v:juger
+\mmm kíri:n:jugement
+\mmm tìgɛ:v:couper
+\mm la:mrph:AG.PRM
+\va kíiritigɛla
+\mm kíiritigɛ:juger
+\mmm kíiri:n:jugement
+\mmm tìgɛ:v:couper
 \mm la:mrph:AG.PRM
 \ps n
 \gf juge
 \gvf juge
-\dt 13/Oct/2013
+\dt 25/Mar/2019
 
 \lx kíritigɛɲɔgɔn
-\mm kíri.tigɛ:n:procès
-\mm kíri:n:jugement
-\mm tìgɛ:v:couper
-\mm ɲɔ́gɔn:prn:RECP
+\mm kíritigɛ:v:juger
+\mmm kíri:n:jugement
+\mmm tìgɛ:v:couper
+\mm ɲɔgɔn:mrph:RECP
 \va kíiri.tigɛ.ɲɔgɔn
-\mm kíiri.tigɛ:n:procès
-\mm kíiri:n:jugement
-\mm tìgɛ:v:couper
-\mm ɲɔ́gɔn:prn:RECP
+\mm kíiritigɛ:juger
+\mmm kíiri:n:jugement
+\mmm tìgɛ:v:couper
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf partie.adverse
 \gvf partie adverse
 \sy kíriɲɔgɔn
-\dt 13/Oct/2013
+\dt 25/Mar/2019
 
 \lx kíritigɛso
-\mm kíri.tigɛ:n:procès
-\mm kíri:n:jugement
-\mm tìgɛ:v:couper
+\mm kíritigɛ:n:procès
+\mmm kíri:n:jugement
+\mmm tìgɛ:v:couper
 \mm só:n:maison
-\va kíiri.tigɛ.so
-\mm kíiri.tigɛ:n:procès
-\mm kíiri:n:jugement
-\mm tìgɛ:v:couper
+\va kíiritigɛso
+\mm kíiritigɛ:n:procès
+\mmm kíri:n:jugement
+\mmm tìgɛ:v:couper
 \mm só:n:maison
 \ps n
 \gf palais.de.justice
 \gvf palais de justice
-\dt 13/Oct/2013
+\dt 25/Mar/2019
 
 \lx kíriwu
 \ps onomat
@@ -65832,14 +65822,14 @@ probablement de chaux vive)
 \lx kísibaa
 \mm kísi:v:sauver
 \mm baa:mrph:AG.OCC
-\va kísi.baga
+\va kísibaga
 \mm kísi:v:sauver
 \mm baga:mrph:AG.OCC
 \ps n
 \gf sauveur
 \gvf sauveur
 \smf (Jésus-Christ pour les chrétiens)
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kìsibikasaba
 \ps v
@@ -66049,14 +66039,15 @@ probablement de chaux vive)
 
 \lx kódiya
 \mm kó:n:affaire
-\mm dí:vq/adj:agréable
+\mm díya:v:rendre.agréable
+\mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf rendre.agréable
 \gvf rendre agréable
 \gvf faire aimer
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kódɔn
 \mm kó:n:affaire
@@ -66081,7 +66072,7 @@ probablement de chaux vive)
 \mm kó:n:affaire
 \mm dɔ́n:v:connaître
 \mm baa:mrph:AG.OCC
-\va kó.dɔn.baga
+\va kódɔnbaga
 \mm kó:n:affaire
 \mm dɔ́n:v:connaître
 \mm baga:mrph:AG.OCC
@@ -66095,29 +66086,31 @@ probablement de chaux vive)
 \ms 2
 \gvf personne expérimentée
 \smf (milieu traditionnel)
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kódɔnbali
-\mm kó.dɔn:v:entendre.dire
-\mm kó:n:affaire
-\mm dɔ́n:v:connaître
+\mm kódɔn:v:entendre.dire
+\mmm kó:n:affaire
+\mmm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf ignorant
 \gvf ignorant
 \gvf inexpérimenté
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kódɔnbaliya
-\mm kó:n:affaire
-\mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm kódɔnbali:ptcp:ignorant
+\mmm kódɔn:v:entendre.dire
+\mmmm kó:n:affaire
+\mmmm dɔ́n:v:connaître
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf ignorance
 \gvf ignorance
 \gvf inexpérience
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kódɔnna
 \mm kó:n:affaire
@@ -66171,13 +66164,13 @@ probablement de chaux vive)
 
 \lx kógɛlɛn
 \mm kó:n:affaire
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:dur
 \ps n
 \gf affaire.importante
 \gvf affaire importante
 \gvf difficulté
 \rem ex 18, 26
-\dt 11/Nov/2007
+\dt 25/Mar/2019
 
 \lx kógo
 \va kóko
@@ -66207,15 +66200,15 @@ probablement de chaux vive)
 \lx kógoyanye
 \mm kó:n:affaire
 \mm góya:n:mauvais.goût
-\mm gó:vq:désagréable
-\mm ya:mrph:ABSTR
+\mmm gó:vq:désagréable
+\mmm ya:mrph:DEQU
 \mm ń:pers:1SG
 \mm yé:pp:PP
 \ps n
 \gf détestation
 \gvf détestation
 \gvf haine
-\dt 16/May/2017
+\dt 25/Mar/2019
 
 \lx kòji
 \mm kò:v:laver
@@ -66251,13 +66244,15 @@ probablement de chaux vive)
 \mm kó:n:affaire
 \mm júgu:adj:mauvais
 \va kójùgu
+\mm kó:n:affaire
+\mm júgu:adj:mauvais
 \ps intj
 \gf assurément
 \gvf assurément
 \gvf parfaitement
 \xv kójugu ! ń dára  ò lá
 \xf parfaitement ! je le crois
-\dt 10/May/2017
+\dt 25/Mar/2019
 
 \lx kójugukɛla
 \mm kó:n:affaire
@@ -66359,7 +66354,7 @@ probablement de chaux vive)
 \gvf de nouveau
 \dt 03/May/2013
 
-\lx kóladɔ́n
+\lx kóladɔn
 \mm kó:n:affaire
 \mm lá:mrph:CAUS
 \mm dɔ́n:v:connaître
@@ -66368,13 +66363,13 @@ probablement de chaux vive)
 \gf apprendre
 \gvf apprendre
 \smf (tel événement ...)
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
-\lx kólajɛ́
+\lx kólajɛ
 \mm kó:n:affaire
 \mm lá:mrph:CAUS
 \mm jɛ́:v:blanchir
-\va kó.rɔ.jɛ́
+\va kórɔjɛ
 \mm kó:n:affaire
 \mm rɔ́:mrph:IN
 \mm jɛ́:v:blanchir
@@ -66387,7 +66382,7 @@ probablement de chaux vive)
 \smf (péj)
 \xv bànabaatɔ kórɔjɛ
 \xf aller voir le malade
-\dt 26/Sep/2006
+\dt 25/Mar/2019
 
 \lx kólakalila
 \mm kó:n:affaire
@@ -66425,14 +66420,14 @@ probablement de chaux vive)
 \dt 16/Aug/2006
 
 \lx kólandiya
-\mm kó.landi:adj/n:qui.aime.les.histoires
-\mm kó:n:affaire
-\mm landi:adj:qui.aime
+\mm kólandiadj:qui.aime.les.histoires
+\mmm kó:n:affaire
+\mmm landi:adj:qui.aime
 \mm ya:mrph:DEQU
 \ps n
 \gf fait.de.se.mêler.des.affaires.d'autrui
 \gvf fait de se mêler des affaires d'autrui
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kòlanfu
 \mm kò:v:laver
@@ -66449,7 +66444,7 @@ probablement de chaux vive)
 
 \lx kólanjan
 \mm kólan:n:enclume
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \ms 1
 \gf pélican.gris
@@ -66459,7 +66454,7 @@ probablement de chaux vive)
 \gvf pélican blanc
 \lat Pelecanus.onocrotalus
 \sy kɔ̀nɔ-bɔ̀rɔtigi
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx kòli
 \mm kò:v:laver
@@ -66505,13 +66500,14 @@ probablement de chaux vive)
 \dt 22/Sep/2013
 
 \lx kòlikɛfala
-\mm kɛ:adj:mâle
+\mm kòlikɛ:n:margouillat.mâle
+\mmm kɛ:adj:mâle
 \mm fála:n:orphelin
 \ps n
 \gf margouillat.mâle
 \gvf margouillat mâle
 \smf (dont la tête n'est pas orange)
-\dt 19/Dec/2014
+\dt 25/Mar/2019
 
 \lx kòlila
 \mm kò:v:laver
@@ -69664,14 +69660,14 @@ harpon)
 \lx kɔ́lafɔ
 \mm kɔ́:n:dos
 \mm lá:pp:à
-\mm fɔ́:v:dire
+\mm fɔ́:v:rater
 \ps v
 \gf contredire
 \vl vt
 \gvf contredire
 \xv kà ɲɔ́gɔn kɔ́lafɔ
 \xf se contredire
-\dt 07/Mar/2019
+\dt 25/Mar/2019
 
 \lx kɔ́lasègin
 \mm kɔ́:n:dos
@@ -73684,6 +73680,16 @@ plus solide)
 \gvf fête
 \smf (danses souvent suivies de théâtre)
 \dt 16/Aug/2006
+
+\lx kɔ̀tɛ
+\va kwɛ̀tɛ
+\ph [kwɛtɛ]
+\va kɛ̀tɛ
+\ps n
+\gf escargot
+\gvf escargot
+\gvf coquille d'escargot
+\dt 25/Mar/2019
 
 \lx kɔ́tɛ
 \ve (bmk)
@@ -91090,7 +91096,7 @@ des engagements
 \va mɔ̀ɔ
 \ph [cas type où l'on peut entendre toutes les variantes phonétiques mɔkɔ --> mɔgɔ --> mɔxɔ --> mɔɔ --> maa]
 \ps n
-\ms `1
+\ms 1
 \gf homme
 \gvf homme
 \smf (opposé à l'animal)
@@ -91111,7 +91117,7 @@ des engagements
 \smf (sens laudatif = personnage, personnalité)
 \xv í nà kɛ́  màa yé
 \xf tu deviendras quelqu'un !
-\dt 16/Dec/2018
+\dt 25/Mar/2019
 
 \lx mɔ̀gɔba
 \mm mɔ̀gɔ:n:homme
@@ -125681,6 +125687,17 @@ euphémique)
 \gvf arrêt cardiaque
 \dt 04/Mar/2019
 
+\lx sɔ̀ndigǐmá
+\va ndígǐmá
+\va shɔ̀ntigǐmá
+\ps n
+\gf haricot.cuit
+\src DU
+\gvf haricots cuits à la vapeur
+\smf (accompagnés d'huile, de condiments et de sucre)
+\gvf haricots et arachides mêlés cuits au bain-marie
+\dt 25/Mar/2019
+
 \lx sɔ́nfɛn
 \mm sɔ́n:v:gratifier
 \mm fɛ́n:n:chose
@@ -133923,7 +133940,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xf les "nèrè" sont en fleurs, la saison des pluies est arrivée
 \dt 12/Aug/2006
 
-\lx tíntìrí
+\lx tíntìri
 \ps n
 \ms 1
 \gf chair.molle
@@ -133932,7 +133949,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ms 2
 \gvf fleur molletonnée
 \smf (comme celle du nɛ̀rɛ : nɛ̀rɛ̀tintiri , du bàro)
-\dt 16/Aug/2006
+\dt 25/Mar/2019
 
 \lx tínto
 \ve (-bk)
