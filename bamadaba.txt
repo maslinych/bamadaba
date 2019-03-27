@@ -693,12 +693,17 @@
 \va àlimukayikǎyí
 \va káyikayi
 \ps n
-\lat Datura innoxia
 \gf datura
+\ms 1
+\lat Datura innoxia
 \gvf datura
 \gvf trompette des anges
-\smf (plante très courante, aux propriétés excitantes)
-\dt 04/Mar/2019
+\smf (plante herbacée  très courante, aux propriétés excitantes, à des fleurs érigées en forme de trompette)
+\ms 2
+\lat Brugmansia arborea
+\gvf trompette des anges
+\smf (arbustes dont des fleurs ont la forme de trompettes tombantes en clochettes)
+\dt 26/Mar/2019
 
 \lx àluwa
 \va àliwa
@@ -1566,6 +1571,7 @@ les deux flancs'
 \dt 07/Mar/2019
 
 \lx báasi
+\va bási
 \bw ar: ba's = id
 \ps n
 \gf problème
@@ -1578,7 +1584,7 @@ les deux flancs'
 \xf il n'y a pas d'inconvénient
 \xv ní  à má kɛ́  báasi yé  á bólo
 \xf si vous n'y voyez pas d'inconvénient
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx báasima
 \mm báasi:n:problème
@@ -2097,6 +2103,17 @@ mauvais
 \xf même si le prix de l'insecticide liquide a diminué (2/06 p.7)
 \nt trouver une meilleure traduction (Kb 6/05 p.1)
 \dt 08/Feb/2018
+
+\lx bàgalakarilan:n:antitoxine
+\mm bàga:n:poison
+\mm lákari:v:rendre.inefficace 
+\mmm lá:mrph:CAUS
+\mmm kári:v:casser
+\mm lan:mrph:INSTR
+\ps n
+\gf antitoxine
+\gvf antitoxine
+\dt 27/Mar/2019
 
 \lx bàgama
 \mm bàga:n:poison
@@ -30060,6 +30077,15 @@ le nom du groupe ethnique)
 \gvf alcoolisme
 \dt 16/Aug/2006
 
+\lx dɔ̀lɔminbana
+\mm dɔ̀lɔ:n:bière.de.mil
+\mm mìn:v:boire
+\mm bàna:n:maladie
+\ps n
+\gf alcoolisme
+\gvf alcoolisme
+\dt 26/Mar/2019
+
 \lx dɔ̀lɔminna
 \mm dɔ̀lɔ:n:bière.de.mil
 \mm mìn:v:boire
@@ -49665,27 +49691,47 @@ doigts par des fileuses du coton)
 
 \lx jà
 \ps v
-\vl vt ?
-\ms 1
 \gf sécher
+\ms 1.1
+\vl vi
 \gvf sécher
-\gvf rendre maigre
+\gvf tarir
+\ms 1.2
+\vl vt
+\gvf sécher
 \xv tìle  yé  ɲɔ̀ jà
 \xf le soleil a desséché le mil
+\ms 2.1
+\vl vi
+\gvf maigrir
+\gvf se dessécher
 \xv kàrisa jàlen  kɔ́si !
 \xf un tel est maigre comme un clou !
-\ms 2
+\ms 2.2
+\vl vt
+\gvf rendre maigre
+\ms 3
+\vl vt
 \gvf constiper
 \xv à kɔ́nɔ jàlen dòn
 \xf il est constipé
-\ms 3
+\ms 4.1
+\vl vi
+\gvf devenir engourdi
+\gvf devenir ankylosé
+\gvf devenir paralysé
+\gvf devenir raide
+\gvf devenir rigide
+\ms 4.2
+\vl vt
 \gvf paralyser
 \gvf engourdir
 \xv à sèn jàlen bɛ́
 \xf il est paralysé du pied
-\ms 4
+\ms 5
+\vl vi
 \gvf se chauffer
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx jà
 \ps v
@@ -58162,6 +58208,14 @@ l'eau est prête
 \gvf mesure de longueur
 \dt 04/Apr/2016
 
+\lx káfeɲaga
+\mm káfe:n:café
+\mm ɲàga:n:résidu
+\ps n
+\gf marc.de.café
+\gvf marc de café
+\dt 27/Mar/2019
+
 \lx kàfo
 \ps n
 \gf canton
@@ -63275,14 +63329,14 @@ probablement de chaux vive)
 
 \lx kètekète
 \va kèteketenin
-\mm kètekète:v:coqueluche
+\mm kètekète:n:coqueluche
 \mm nin:mrph:DIM
 \va kɔ̀tɔkɔtɔnin
 \mm nin:mrph:DIM
 \ps n
 \gf coqueluche
 \gvf coqueluche
-\dt 07/Mar/2019
+\dt 27/Mar/2019
 
 \lx kétekete
 \ps onomat
@@ -71742,7 +71796,8 @@ ou une proposition)
 \ps n
 \gf schistosome
 \gvf schistosome
-\dt 20/Mar/2019
+\gvf ankylostome
+\dt 26/Mar/2019
 
 \lx kɔ́nɔnasu
 \mm kɔ́nɔ:n:ventre
@@ -127931,8 +127986,12 @@ fiançailles
 \mmm lan:mrph:INSTR
 \ps n
 \gf champignon.espèce
+\ms 1
 \gvf espèce de champgnon
-\dt 14/Mar/2019
+\sy súrukuwaanin
+\ms 2
+\gvf candidose
+\dt 27/Mar/2019
 
 \lx sùrukusuruku
 \ps v
@@ -132831,6 +132890,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 26/Sep/2006
 
 \lx tìiri
+\va tìri
 \va ntìiri
 \ve (bk)
 \va ntìri
@@ -132841,7 +132901,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf ligne
 \xv ntìiri cì
 \xf tracer
-\dt 07/Mar/2019
+\dt 26/Mar/2019
 
 \lx tìiri
 \va ntìiri
@@ -135077,7 +135137,7 @@ est due aux paysans (kib 3/05 p.9)
 \ps n
 \gf hanche
 \gvf hanche
-\dt 16/Aug/2006
+\dt 27/Mar/2019
 
 \lx tɔ̀gɔ
 \ps n
@@ -135123,13 +135183,17 @@ est due aux paysans (kib 3/05 p.9)
 \lx tɔ̀gɔdimi
 \mm tɔ̀gɔ:n:hanche
 \mm dími:n:souffrance
+\va tɔ̀gɔkolodimi
+\mm tɔ̀gɔ:n:hanche
+\mm kólo:n:os
+\mm dími:n:souffrance
 \va twà.dimi
 \mm twà:n:hanche
 \mm dími:n:souffrance
 \ps n
 \gf coxalgie
 \gvf coxalgie
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx tɔ̀gɔfɛbila
 \mm tɔ̀gɔ:n:hanche
