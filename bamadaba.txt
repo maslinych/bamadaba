@@ -6526,9 +6526,10 @@ feu)
 \lx bàyajuru
 \mm bàya:n:ceinture.de.perles
 \mm jùru:n:corde
-\ps n 
+\ps n
 \gf ceinture.de.perles
 \gvf ceinture de perles
+\dt 27/Mar/2019
 
 \lx báyanfan
 \mm bá:n:fleuve
@@ -8702,23 +8703,23 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ce reconduire qn, le mettre sur le chemin
 \dt 22/Nov/2012
 
-\lx bìlasirabága
+\lx bìlasirabaga
 \mm bìla.sira:v:orienter
 \mmm bìla:v:mettre
 \mmm síra:n:chemin
 \mm bága:pm:INFR
-\va blà.sira.bága
+\va blàsirabaga
 \mm blà.sira:v:orienter
 \mmm blà:v:mettre
 \mmm síra:n:chemin
 \mm bága:pm:INFR
-\ps n 
+\ps n
 \ms 1
 \gf accompagnateur
 \gvf accompagnateur
 \ms 2
 \gvf conseiller
-\dt 01/Mar/2019
+\dt 27/Mar/2019
 
 \lx bìlasirala
 \mm bìla.sira:v:orienter
@@ -23783,13 +23784,13 @@ génitales ...)
 \mmmm ná:pp:à
 \mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
-\ps n 
+\ps n
 \ms 1
 \gf incroyance
 \gvf incroyance
 \ms 2
 \gvf défiance
-\dt 14/Mar/2019
+\dt 27/Mar/2019
 
 \lx dànnaci
 \mm dàn:n:limite
@@ -23868,12 +23869,12 @@ génitales ...)
 \mmm ná:pp:à
 \mmm tìgɛ:v:couper
 \mm li:mrph:NMLZ
-\ps n 
+\ps n
 \gf mot.de.présentation
 \gvf mot de présentation
 \xv dànnatigɛli bánna tùma mín ná...
 \xf quand toutes les présentations furent terminées ... (kb 9/05 p.8)
-\dt 14/Mar/2019
+\dt 27/Mar/2019
 
 \lx dánnaya
 \mm dá.n.na:n:foi
@@ -35114,11 +35115,11 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \mmm fàra:n:écorce
 \mmm fìn:adj:noir
 \mm ya:mrph:ABSTR
-\ps n 
+\ps n
 \gf négritude
 \gvf négritude
 \smf (condition d'Africain, de race noire)
-\dt 17/Mar/2019
+\dt 27/Mar/2019
 
 \lx fàrafyenke
 \mm fàra:n:écorce
@@ -36242,12 +36243,12 @@ compagnie ...
 \mmmm só:n:maison
 \mmm dén:n:enfant
 \mm sɛ́bɛn:n:écrit
-\ps n 
+\ps n
 \gf carte.d'identité.nationale
 \gvf carte d'identité nationale
 \xv à fɔ́ra kó fàsodensɛbɛn fìla bɛ́ Fréderi Kánute bólo
 \xf on dit que Frédéric Kanute possède la double nationalité (kb 9/04 p.6
-\dt 17/Mar/2019
+\dt 27/Mar/2019
 
 \lx fàsodenya
 \mm fàsoden:n:citoyen
@@ -38762,11 +38763,11 @@ frontières, forestiers, sapeurs)
 
 \lx fínsigi
 \va mínsigi
-\ps n 
+\ps n
 \gf coussinet
 \gvf coussinet
 \smf (pour le transport des charges sur la tête)
-\dt 16/Aug/2006
+\dt 27/Mar/2019
 
 \lx fìnya
 \mm fìn:vq:noir
@@ -40675,12 +40676,12 @@ sur le ventre -- í kɔ́nɔ kàn)
 \mmm fòro:n:champ
 \mmm ba:mrph:AUGM
 \mm tɔ́gɔ:n:nom
-\ps n 
+\ps n
 \gf nom.commun
 \gvf nom commun
 \smf (opposé à nom propre)
 \nt (néo)
-\dt 19/Mar/2019
+\dt 27/Mar/2019
 
 \lx fòrobaya
 \mm fòroba:n:bien.public
@@ -42062,11 +42063,11 @@ forestières, fruit : long follicule de 50 cm)
 \lx fúlabana
 \mm fúla:n:peul
 \mm bàna:n:maladie
-\ps n 
+\ps n
 \gf anémie
 \gvf anémie
 \gvf avitaminose
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx fúlabin
 \mm fúla:n:peul
@@ -42093,11 +42094,11 @@ forestières, fruit : long follicule de 50 cm)
 \lx fúlagan
 \mm fúla:n:peul
 \mm gàn:vq:chaud
-\ps n 
+\ps n
 \gf anémie
 \gvf anémie
 \gvf avitaminose
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx fúlakan
 \mm fúla:n:peul
@@ -48375,13 +48376,13 @@ doigts par des fileuses du coton)
 \mmm bàna:n:maladie
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps n 
+\ps n
 \gf fou
 \gvf fou
 \smf (personne atteinte de maladie mentale)
 \xv ní bì tɛ́, hákililabanabaatɔ tùn bàlilen dòn fúru lá
 \xf autrefois, une personne atteinte de maladie mentale ne pouvait pas se marier (kb 3/05 p.8)
-\dt 19/Mar/2019
+\dt 27/Mar/2019
 
 \lx hákililafalenfalen
 \mm hákili:n:esprit
@@ -66729,14 +66730,14 @@ probablement de chaux vive)
 \lx kóloci
 \mm kólo:n:os
 \mm cì:v:frapper
-\va kólo.ti
+\va kóloti
 \mm kólo:n:os
 \mm tì:v:frapper
 \ps n
 \gf rhumatisme
 \gvf rhumatisme
 \gvf crampe
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx kóloden
 \mm kólo:n:os
@@ -66759,20 +66760,20 @@ probablement de chaux vive)
 
 \lx kólofiyɛnya
 \mm kólo:n:os
-\mm fíyɛn.ya:v:alléger
-\mm fíyɛn:vq:léger
-\mm ya:mrph:DEQU
+\mm fíyɛnya:v:alléger
+\mmm fíyɛn:vq:léger
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf user
 \gvf user
 \gvf diminuer d'épaisseur
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx kólogɛlɛn
 \mm kólo:n:os
 \mm gɛ̀lɛn:adj:difficile
-\va kólo.gwɛlɛn
+\va kólogwɛlɛn
 \mm kólo:n:os
 \mm gɛ̀lɛn:adj:difficile
 \ph [gw]
@@ -66784,12 +66785,13 @@ probablement de chaux vive)
 \ms 2
 \gvf de poids
 \smf (parole ...)
-\dt 16/Mar/2018
+\dt 27/Mar/2019
 
 \lx kólogɛlɛya
 \mm kólo:n:os
-\mm gɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:DEQU
+\mm gɛ̀lɛya:v:durcir
+\mmm gɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \ms 1
@@ -66798,23 +66800,24 @@ probablement de chaux vive)
 \ms 2
 \gvf fortifier
 \gvf encourager
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx kólogɛlɛya
 \mm kólo:n:os
-\mm gɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:DEQU
+\mm gɛ̀lɛya:n:dureté
+\mmm gɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
 \ps n
 \ms 1
 \gf solidité
 \gvf solidité
 \ms 2
 \gvf courage
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx kólogirin
 \mm kólo:n:os
-\mm gírin:vq/adj:lourd
+\mm gírin:vq:lourd
 \ps adj
 \ms 1
 \gf solide
@@ -66830,11 +66833,11 @@ probablement de chaux vive)
 \ms 3
 \gvf essentiel
 \gvf important
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx kólogirinman
 \mm kólo:n:os
-\mm gírin:vq/adj:lourd
+\mm gírin:vq:lourd
 \mm man:mrph:ADJ
 \ps adj
 \gf important
@@ -66842,40 +66845,42 @@ probablement de chaux vive)
 \sy kólogirin
 \xv Zónasi kìbaro bɛ́ tìyɛnkuma kólogirinman dɔ́ jìra
 \xf l'histoire de Jonas nous montre des vérités importantes
-\dt 11/Nov/2007
+\dt 27/Mar/2019
 
 \lx kólogirinya
 \mm kólo:n:os
-\mm gírin:vq/adj:lourd
-\mm ya:mrph:DEQU
+\mm gírinya:n:poids
+\mmm gírin:vq:lourd
+\mmm ya:mrph:DEQU
 \ps n
 \gf solidité
 \gvf solidité
 \gvf résistance
 \gvf épaisseur
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx kólogirinya
 \mm kólo:n:os
-\mm gírin:vq/adj:lourd
-\mm ya:mrph:DEQU
+\mm gírinya:v:être.lourd
+\mmm gírin:vq:lourd
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf rendre.solide
 \gvf rendre solide
 \gvf rendre résistant
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx kólojɛbugu
 \mm kólo:n:os
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \mm bùgu:n:paillote
 \ps n
 \gf cimetière
 \gvf cimetière
 \sy káburudo
 \sy sɛ̀lɛdo
-\dt 15/Aug/2006
+\dt 27/Mar/2019
 
 \lx kòlokala
 \va kòlokolo
@@ -66932,37 +66937,41 @@ probablement de chaux vive)
 
 \lx kólokɛnɛya
 \mm kólo:n:os
-\mm kɛ́nɛ:adj:frais
-\mm ya:mrph:DEQU
+\mm kɛ́nɛya:n:bonne.santé
+\mmm kɛ́nɛ:adj:frais
+\mmm ya:mrph:DEQU
 \ps n
 \gf agilité
 \gvf agilité
 \gvf vitalité
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx kólokojugu
 \mm kólo:v:éduquer
 \mm kó:n:affaire
 \mm júgu:vq/adj:mauvais
-\va kólon.ko.jugu
+\va kólonkojugu:n:mal.éduqué
 \mm kólon:v:éduquer
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
-\ps n
+\mm kójugu:adv:trop
+\mmm kó:n:affaire
+\mmm júgu:adj:mauvais
+\ve (bn,bk)
+\ps adj/n
 \gf mal.éduqué
 \gvf mal éduqué
-\smf (gourmand, coureur de filles ...)
-\dt 26/Sep/2006
+\dt 27/Mar/2019
 
 \lx kólokojuguya
-\mm kólo:v:éduquer
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm kólokojugu:n:mal.éduqué
+\mmm kólo:v:éduquer
+\mmm kójugu:adv:trop
+\mmmm kó:n:affaire
+\mmmm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \gf mauvaise.éducation
 \gvf mauvaise éducation
-\dt 16/Aug/2006
+\dt 27/Mar/2019
 
 \lx kòlokolo
 \ps adj/n
@@ -67098,13 +67107,14 @@ champs)
 
 \lx kólokunba
 \mm kólo:n:os
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps adj/n
 \gf corpulent
 \gvf corpulent
 \rem du / Mol, Guérin
-\dt 11/Nov/2007
+\dt 27/Mar/2019
 
 \lx kólokuru
 \mm kólo:n:os
@@ -67153,19 +67163,19 @@ champs)
 
 \lx kólomadɔgɔ
 \mm kóloma:n:texture
-\mm kólo:n:os
-\mm mà:mrph:SUPER
+\mmm kólo:n:os
+\mmm mà:mrph:SUPER
 \mm dɔ́gɔ:vq:petit
 \ps adj
 \gf malingre
 \gvf malingre
 \gvf chétif
-\dt 23/Mar/2015
+\dt 27/Mar/2019
 
 \lx kólomagɛlɛn
 \mm kóloma:n:texture
-\mm kólo:n:os
-\mm mà:mrph:SUPER
+\mmm kólo:n:os
+\mmm mà:mrph:SUPER
 \mm gɛ̀lɛn:adj:dur
 \ps n
 \gf résistant
@@ -67175,12 +67185,12 @@ champs)
 \gvf très solide
 \sy kólogɛlɛn
 \rem du
-\dt 23/Mar/2015
+\dt 27/Mar/2019
 
 \lx kólomamisɛn
 \mm kóloma:n:texture
-\mm kólo:n:os
-\mm mà:mrph:SUPER
+\mmm kólo:n:os
+\mmm mà:mrph:SUPER
 \mm mìsɛn:adj:petit
 \ps adj
 \ms 1
@@ -67193,7 +67203,7 @@ champs)
 \ms 3
 \gvf mince
 \gvf frêle
-\dt 23/Mar/2015
+\dt 27/Mar/2019
 
 \lx kólomɛrɛ
 \mm kólo:n:os
@@ -67217,11 +67227,11 @@ champs)
 
 \lx kólomisɛn
 \mm kólo:n:os
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ps adj
 \gf maigrichon
 \gvf maigrichon
-\dt 16/Aug/2006
+\dt 27/Mar/2019
 
 \lx kòlon
 \ps n
@@ -67333,12 +67343,12 @@ champs)
 
 \lx kólonkariɲama
 \mm kólonkari:n:chat.ganté
-\mm kári:v:casser
+\mmm kári:v:casser
 \mm ɲàma:n:force.occulte
 \ps n
 \gf sommeil.maladif
 \gvf sommeil maladif
-\dt 16/Aug/2006
+\dt 27/Mar/2019
 
 \lx kòlonkisɛ
 \mm kòlon:n:cauris
@@ -67346,17 +67356,6 @@ champs)
 \ps n
 \gf un.cauris
 \gvf un cauris
-\dt 16/Aug/2006
-
-\lx kólonkojugu
-\mm kólon:v:éduquer
-\mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
-\ve (bn,bk)
-\va kólokojugu
-\ps adj/n
-\gf mal.éduqué
-\gvf mal éduqué
 \dt 16/Aug/2006
 
 \lx kòlonkolon
@@ -67439,7 +67438,7 @@ champs)
 \mm nin:mrph:DIM
 \mm fìli:v:jeter
 \mm la:mrph:AG.PRM
-\va kòlon.nin.fli.la
+\va kòlonninflila
 \mm kòlon:n:cauris
 \mm nin:mrph:DIM
 \mm flì:v:jeter
@@ -67448,7 +67447,7 @@ champs)
 \ps n
 \gf devin
 \gvf devin
-\dt 16/Aug/2006
+\dt 27/Mar/2019
 
 \lx kòlonsen
 \mm kòlon:n:mortier
@@ -100725,12 +100724,12 @@ craie ...)
 \lx nɔ̀gɔsi
 \va nàasi
 \va nɔ̀nsi
-\ps n 
+\ps n
 \gf cynhyène
 \gvf cynhyène
 \lat Lycaon.pictus
 \smf (loup petit, chien sauvage africain; en danger)
-\dt 05/Apr/2016
+\dt 27/Mar/2019
 
 \lx nɔ̀gɔ̀si
 \mm nɔ̀:n:trace
