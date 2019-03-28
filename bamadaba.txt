@@ -9396,7 +9396,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \va bìnnkanikɛla
-\va bìnńkànni:n:agression
+\mm bìnńkànni:n:agression
 \mmm bìn:v:tomber
 \mmm kàn:pp:sur
 \mmm ni:mrph:NMLZ
@@ -9414,7 +9414,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf bandit
 \gvf brigand
 \sy gètere
-\dt 01/Mar/2019
+\dt 28/Mar/2019
 
 \lx bínɲimi
 \mm bín:n:herbe
@@ -33405,7 +33405,7 @@ gens)
 \dt 17/Mar/2019
 
 \lx fàamuyali
-\mmm fàamuya:v:comprendre
+\mm fàamuya:v:comprendre
 \mmm fàamu:v:comprendre
 \mmm ya:mrph:ABSTR
 \mm li:mrph:NMLZ
@@ -33414,7 +33414,7 @@ gens)
 \gvf compréhension
 \xv sísan, ò làada cáman dábilara, ò bɛ́ sɔ̀rɔ fàamuyali fɛ̀
 \xf maintenant, on a abandonné beaucoup de ces coutumes,c'est dû à une (meilleure) compréhension (des choses)
-\dt 17/Mar/2019
+\dt 28/Mar/2019
 
 \lx fàantan
 \mm fàa:n:force
@@ -67494,10 +67494,13 @@ champs)
 \dt 12/Aug/2006
 
 \lx kòlonton
+\mm kòlon:n:mortier
+\mm tón:n:carquois
 \ps n
 \gf récipient
 \gvf récipient
 \smf (où l'on conservait la poudre de fusil)
+\dt 28/Mar/2019
 
 \lx kólonya
 \mm kólon:vq:fainéant
@@ -67533,14 +67536,15 @@ champs)
 \gvf courbaturer
 
 \lx kólosabana
-\mm kólo:n:os
-\mm sà:n:mort
+\mm kólosa:n:courbatures
+\mmm kólo:n:os
+\mmm sà:n:mort
 \mm bàna:n:maladie
 \ve (bn)
 \ps n
 \gf courbatures
 \gvf courbatures
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kólosu
 \mm kólo:n:os
@@ -67563,25 +67567,26 @@ champs)
 
 \lx kólotuguda
 \mm kólo:n:os
-\mm tùgu.da:n:point.d'attache
+\mm tùguda:n:point.d'attache
 \mmm tùgu:v:rabouter
 \mmm dá:n:bouche
 \ps n
 \gf articulation
 \gvf articulation
 \smf (anatomique)
-\dt 07/Mar/2019
+\dt 28/Mar/2019
 
 \lx kólotugudadimi
-\mm kólo:n:os
-\mm tùgu.da:n:point.d'attache
-\mmm tùgu:v:rabouter
-\mmm dá:n:bouche
+\mm kólotuguda:n:articulation
+\mmm kólo:n:os
+\mmm tùguda:n:point.d'attache
+\mmmm tùgu:v:rabouter
+\mmmm dá:n:bouche
 \mm dími:n:souffrance
 \ps n
 \gf arthrite
 \gvf arthrite
-\dt 03/Mar/2019
+\dt 28/Mar/2019
 
 \lx kólotugula
 \mm kólo:n:os
@@ -67603,9 +67608,10 @@ champs)
 
 \lx kómagɛlɛyasɛbɛn
 \mm kó:n:affaire
-\mm mà:mrph:SUPER
-\mm gɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:DEQU
+\mm màgɛlɛya:n:difficulté
+\mmm mà:mrph:SUPER
+\mmm gɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf attestation
@@ -67613,12 +67619,13 @@ champs)
 \gvf certificat de recommandation
 \xv í k'à jáabi ní  kómagɛlɛyasɛbɛn yé  mín b'á jìra kó...
 \xf réponds-moi avec une recommandation attestant que ...
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kómaɲìninka
 \mm kó:n:affaire
-\mm mà:mrph:SUPER
-\mm ɲìninka:v:interroger
+\mm màɲìninka:v:interroger
+\mmm mà:mrph:SUPER
+\mmm ɲìninka:v:interroger
 \ps v
 \vl vt
 \gf s'enquérir
@@ -67629,21 +67636,23 @@ champs)
 \xf il m'a demandé des nouvelles de Nsan
 \xv ń yé  báara kómaɲininka  Nsàn ná
 \xf j'ai demandé à Nsan des nouvelles du travail
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kómayɛlɛma
 \mm kó:n:affaire
-\mm mà:mrph:SUPER
-\mm yɛ̀lɛma:v:changer
+\mm màyɛ̀lɛma:v:changer
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps n
 \gf déformation
 \gvf déformation
-\dt 10/Jun/2013
+\dt 28/Mar/2019
 
 \lx kómayɛ̀lɛma
 \mm kó:n:affaire
-\mm mà:mrph:SUPER
-\mm yɛ̀lɛma:v:changer
+\mm màyɛ̀lɛma:v:changer
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps v
 \vl vt
 \gf déformer
@@ -67651,17 +67660,19 @@ champs)
 \gvf transformer complètement
 \xv à yé  ò kó kómayɛ̀lɛma
 \xf il a déformé les faits
-\dt 14/Apr/2018
+\dt 28/Mar/2019
 
 \lx kómayɛlɛmana
-\mm kó:n:affaire
-\mm mà:mrph:SUPER
-\mm yɛ̀lɛma:v:changer
+\mm kómayɛ̀lɛma:v:déformer
+\mmm kó:n:affaire
+\mmm màyɛ̀lɛma:v:changer
+\mmmm mà:mrph:SUPER
+\mmmm yɛ̀lɛma:v:changer
 \mm na:mrph:AG.PRM
 \ps n
 \gf personne.qui.déforme.les.faits
 \gvf personne qui déforme les faits
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kómɛn
 \mm kó:n:affaire
@@ -67924,14 +67935,14 @@ champs)
 \lx kònkɔrɔ
 \mm kòn:n:singe.mâle
 \mm kɔrɔ:adj:mâle.adulte
-\va kɔ̀n.kɔrɔ
+\va kɔ̀nkɔrɔ
 \mm kɔ̀n:n:singe.mâle
 \mm kɔrɔ:adj:mâle.adulte
 \ps n
 \gf singe.adulte
 \gvf singe adulte
 \gvf gros singe rouge
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kónnɛgɛ
 \mm kón:n:porte
@@ -67948,13 +67959,13 @@ champs)
 \lx kónɲin
 \mm kón:n:porte
 \mm ɲín:n:dent
-\va kón.ɲi
+\va kónɲi
 \mm kón:n:porte
 \mm ɲí:n:dent
 \ps n
 \gf clef
 \gvf clef
-\dt 18/Dec/2014
+\dt 28/Mar/2019
 
 \lx kónsɔ̀gɔ
 \mm kón:n:porte
@@ -67970,17 +67981,19 @@ champs)
 \dt 16/Aug/2006
 
 \lx kónsɔgɔbalabala
-\mm kón:n:porte
-\mm sɔ̀gɔ:v:percer
+\mm kónsɔ̀gɔ:v:fermer.à.clé
+\mmm kón:n:porte
+\mmm sɔ̀gɔ:v:percer
 \mm bàlabàla:n:serrure.locale
 \ps n
 \gf serrure
 \gvf serrure
+\dt 28/Mar/2019
 
 \lx kóɲɛ
 \mm kó:n:affaire
 \mm ɲɛ́:n:fois
-\va kó.ɲa
+\va kóɲa
 \mm kó:n:affaire
 \mm ɲá:n:fois
 \ps n
@@ -67995,18 +68008,19 @@ champs)
 \gvf fois
 \xv ní  mùso kóɲɛ fɔ́lɔ dòn, à bɛ́ fɔ́ kó : Ncì, ní  sènɲa fílanan dòn, à bɛ́ fɔ́ kó : Nsàn
 \xf si c'est la première fois que la femme (accouche d'un garçon) on l'appelle "Nci", si c'est la seconde fois, on l'appelle "Nsan"
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kóɲɛbɔla
-\mm kó:n:affaire
-\mm ɲɛ́:n:oeil
+\mm kóɲɛ:n:affaire
+\mmm kó:n:affaire
+\mmm ɲɛ́:n:oeil
 \mm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
 \ps n
 \gf organisateur
 \gvf organisateur
 \sy kóɲɛnabɔla
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kóɲuman
 \mm kó:n:affaire
@@ -68273,13 +68287,13 @@ champs)
 
 \lx kòrokòrokùnba
 \mm kòrókòro:n:masque.léonin
-\mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf mélange.de.boissons.alcoolisées
 \gvf mélange de boissons alcoolisées
-\dt 18/Jun/2014
+\dt 28/Mar/2019
 
 \lx kòrokoto
 \ps n
@@ -68331,19 +68345,19 @@ champs)
 \lx kòroninfin
 \mm kòro:n:arbre.Vitex
 \mm nin:mrph:DIM
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf arbuste.Vitex.chrysocarpa
 \lat Vitex chrysocarpa
 \gvf koro des berges
 \smf (aime l'eau)
-\dt 13/Jun/2018
+\dt 28/Mar/2019
 
 \lx kòronin-súmago
 \mm kòro:n:arbre.Vitex
 \mm nin:mrph:DIM
 \mm súma:n:odeur
-\mm gó:vq:désagréable
+\mm gó:adj:désagréable
 \ps n
 \ms 1
 \gf arbre.Vitex.madiensis
@@ -68354,7 +68368,7 @@ champs)
 \ms 2
 \gvf arbre Vitex barbata
 \sd verb
-\dt 30/Nov/2014
+\dt 28/Mar/2019
 
 \lx kòronto
 \va kòrondo
@@ -68532,26 +68546,30 @@ champs)
 \dt 26/Sep/2006
 
 \lx kótigiko
-\mm kó:n:affaire
-\mm tìgi:n:maître
+\mm kótigi:n:responsable
+\mmm kó:n:affaire
+\mmm tìgi:n:maître
 \mm kó:n:affaire
 \ps n
 \gf affaire
 \gvf affaire
 \smf (qui concerne les chefs, les grands, les riches)
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kótigiya
-\mm kó:n:affaire
-\mm tìgi:n:maître
+\mm kótigi:n:responsable
+\mmm kó:n:affaire
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf responsabilité
 \gvf responsabilité
+\dt 28/Mar/2019
 
 \lx kótigiya
-\mm kó:n:affaire
-\mm tìgi:n:maître
+\mm kótigi:n:responsable
+\mmm kó:n:affaire
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
@@ -68559,7 +68577,7 @@ champs)
 \gvf être responsable
 \gvf devenir le chef incontestable
 \gvf avoir la situation en mains
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kòto
 \ps n
@@ -68766,7 +68784,7 @@ harpon)
 \lx kɔ̀ba
 \mm kɔ̀:n:bande.d'étoffe
 \mm ba:mrph:AUGM
-\va kwɔ̀.ba
+\va kwɔ̀ba
 \mm kwɔ̀:n:bande.d'étoffe
 \mm ba:mrph:AUGM
 \ph [kw]
@@ -68774,7 +68792,7 @@ harpon)
 \gf pagne
 \gvf pagne
 \smf (à bandes de grande largeur)
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ̀baga
 \mm kɔ̀:n:marigot
@@ -68828,14 +68846,14 @@ harpon)
 \dt 13/Feb/2017
 
 \lx kɔ́bilakulu
-\mm kɔ́.bila:n:postposition
-\mm kɔ́:n:dos
-\mm bìla:v:mettre
+\mm kɔ́bila:n:postposition
+\mmm kɔ́:n:dos
+\mmm bìla:v:mettre
 \mm kúlu:n:bande
 \ps n
 \gf groupe.circonstanciel
 \gvf groupe circonstanciel
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ́bilaɲɛbila
 \mm kɔ́:n:dos
@@ -69031,8 +69049,9 @@ harpon)
 \dt 16/May/2017
 
 \lx kɔ́fɛla
-\mm kɔ́:n:dos
-\mm fɛ̀:pp:par
+\mm kɔ́fɛ̀:pp:derrière
+\mmm kɔ́:n:dos
+\mmm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ms 1
@@ -69043,31 +69062,33 @@ harpon)
 \gvf postérieur
 \xv dén dɔ́ bɛ́ nà  ù kɔ́fɛla kàn
 \xf certains bébés naissent par le siège...
-\dt 07/Feb/2016
+\dt 28/Mar/2019
 
 \lx kɔ́fɛmɔgɔ
 \mm kɔ́fɛ̀:pp:derrière
-\mm kɔ́:n:dos
-\mm fɛ̀:pp:par
+\mmm kɔ́:n:dos
+\mmm fɛ̀:pp:par
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf arrières.football
 \gvf arrières football
 \gvf défenseur
-\dt 31/May/2016
+\dt 28/Mar/2019
 
 \lx kɔ́fɛsen
-\mm kɔ́:n:dos
-\mm fɛ̀:pp:par
+\mm kɔ́fɛ̀:pp:derrière
+\mmm kɔ́:n:dos
+\mmm fɛ̀:pp:par
 \mm sèn:n:jambe
 \ps n
 \gf patte.de.derrière
 \gvf patte de derrière
-\dt 07/Feb/2016
+\dt 28/Mar/2019
 
 \lx kɔ́fɛtaa
-\mm kɔ́:n:dos
-\mm fɛ̀:pp:par
+\mm kɔ́fɛ̀:pp:derrière
+\mmm kɔ́:n:dos
+\mmm fɛ̀:pp:par
 \mm táa:n:départ
 \ps n
 \gf excrément
@@ -69076,18 +69097,19 @@ harpon)
 \sy bò
 \sy bánakɔtaa
 \sy ɲàmanataa
-\dt 07/Feb/2016
+\dt 28/Mar/2019
 
 \lx kɔ́fɛtalan
-\mm kɔ́:n:dos
-\mm fɛ̀:pp:par
+\mm kɔ́fɛ̀:pp:derrière
+\mmm kɔ́:n:dos
+\mmm fɛ̀:pp:par
 \mm tà:v:prendre
 \mm lan:mrph:INSTR
 \ps n
 \gf porte-bagages
 \gvf porte-bagages
 \smf (de vélo, de mobylette ...)
-\dt 07/Feb/2016
+\dt 28/Mar/2019
 
 \lx kɔ́filɛ
 \mm kɔ́:n:dos
@@ -69172,19 +69194,17 @@ harpon)
 \sy jíminnan
 \dt 19/Aug/2006
 
-\lx kɔ́gosili
+\lx kɔ́gòsi
 \mm kɔ́:n:dos
 \mm gòsi:v:battre
-\mm li:mrph:NMLZ
-\va kɔ́.gɔsi.li
+\va kɔ́gɔ̀si
 \mm kɔ́:n:dos
 \mm gɔ̀si:v:battre
-\mm li:mrph:NMLZ
-\ps n
-\gf castration
-\gvf castration
-\rem du
-\dt 11/Nov/2007
+\ps v
+\vl vt
+\gf castrer
+\gvf castrer
+\dt 28/Mar/2019
 
 \lx kɔ̀gɔ
 \va kɔ̀kɔ
@@ -69241,7 +69261,7 @@ harpon)
 \lx kɔ́gɔbali
 \mm kɔ́gɔ:v:mûrir
 \mm bali:mrph:PTCP.PRIV
-\va kwá.bali
+\va kwábali
 \mm kwá:v:mûrir
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
@@ -69249,15 +69269,17 @@ harpon)
 \gvf non mûr
 \gvf non nubile
 \rem Mol, du : immature, prématuré, vert
-\dt 11/Nov/2007
+\dt 28/Mar/2019
 
 \lx kɔ́gɔbaliya
-\mm kɔ́gɔ:v:mûrir
-\mm bali:mrph:PTCP.PRIV
+\mm kɔ́gɔbali:ptcp:non.mûr
+\mmm kɔ́gɔ:v:mûrir
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
-\va kwá.bali.ya
-\mm kwá:v:mûrir
-\mm bali:mrph:PTCP.PRIV
+\va kwábaliya
+\mm kwábali:ptcp:non.mûr
+\mmm kwá:v:mûrir
+\mmm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf immaturité
@@ -69266,18 +69288,18 @@ harpon)
 \xv dényɛrɛnin sàta nìnnu ná, 20% ká sàya sábabu yé ù kɔ́gɔbaliya yé
 \xf parmi ces morts d'enfants, 20% ont pour cause leur naissance prématurée (kb 4/05 p.12)
 \rem Mol
-\dt 11/Nov/2007
+\dt 28/Mar/2019
 
 \lx kɔ́gɔdimi
 \mm kɔ́gɔ:n:poitrine
 \mm dími:n:souffrance
-\va kwá.dimi
+\va kwádimi
 \mm kwá:n:poitrine
 \mm dími:n:souffrance
 \ps n
 \gf bronchite
 \gvf bronchite
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ̀gɔdugu
 \mm kɔ̀gɔ:n:sel
@@ -69298,14 +69320,14 @@ harpon)
 
 \lx kɔ̀gɔfin
 \mm kɔ̀gɔ:n:sel
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \va kwà.fin
 \mm kwà:n:sel
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf barre.de.sel
 \gvf barre de sel
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ̀gɔji
 \mm kɔ̀gɔ:n:sel
@@ -69315,23 +69337,25 @@ harpon)
 \gvf mer
 
 \lx kɔ̀gɔjida
-\mm kɔ̀gɔ:n:sel
-\mm jí:n:eau
+\mm kɔ̀gɔji:n:mer
+\mmm kɔ̀gɔ:n:sel
+\mmm jí:n:eau
 \mm dá:n:bouche
 \ps n
 \gf côte
 \gvf côte
+\dt 28/Mar/2019
 
 \lx kɔ̀gɔjilajɛgɛ
-\mm kɔ̀gɔ.ji:n:mer
-\mm kɔ̀gɔ:n:sel
-\mm jí:n:eau
+\mm kɔ̀gɔji:n:mer
+\mmm kɔ̀gɔ:n:sel
+\mmm jí:n:eau
 \mm lá:pp:à
 \mm jɛ́gɛ:n:poisson
 \ps n
 \gf poisson.de.mer
 \gvf poisson de mer
-\dt 11/Nov/2007
+\dt 28/Mar/2019
 
 \lx kɔ̀gɔmugu
 \mm kɔ̀gɔ:n:sel
@@ -69341,35 +69365,11 @@ harpon)
 \gvf sel fin
 \dt 16/Aug/2006
 
-\lx kɔ̀gɔntanya
-\mm kɔ̀gɔ:n:sel
-\mm ntan:mrph:PRIV
-\mm ya:mrph:ABSTR
-\ps v
-\vl vt
-\gf priver.de.sel
-\gvf priver de sel
-\xv ń'í yé  Ála kɔ̀gɔntanya, à b'í jɛ́gɛntanya
-\xf si tu prives Dieu de sel, il te prive de poisson (dicton)
-\dt 16/Aug/2006
-
 \lx kɔ̀gɔɲɛ
 \va kwàɲɛ
 \ps n
 \gf cor.au.pied
 \gvf cor au pied
-\dt 16/Aug/2006
-
-\lx kɔ́gɔ̀si
-\mm kɔ́:n:dos
-\mm gɔ̀si:v:battre
-\va kɔ́.gòsi
-\mm kɔ́:n:dos
-\mm gòsi:v:battre
-\ps v
-\vl vt
-\gf castrer
-\gvf castrer
 \dt 16/Aug/2006
 
 \lx kɔ́gɔsɔkɔgɔsɔ
@@ -69495,17 +69495,19 @@ harpon)
 \dt 01/Jun/2016
 
 \lx kɔ́kankali
-\mm kɔ́:n:dos
-\mm kàn:pp:sur
+\mm kɔ́kàn:pp:à.l'extérieur
+\mmm kɔ́:n:dos
+\mmm kàn:pp:sur
 \mm kàli:v:faire.un.saut.périlleux
 \ps n
 \gf saut.périlleux.arrière
 \gvf saut périlleux arrière
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ́kanmɔgɔ
-\mm kɔ́:n:dos
-\mm kàn:pp:sur
+\mm kɔ́kan:pp:extérieur
+\mmm kɔ́:n:dos
+\mmm kàn:pp:sur
 \mm mɔ̀gɔ:n:homme
 \ps n
 \ms 1
@@ -69517,11 +69519,12 @@ harpon)
 \ms 3
 \gvf personne retardée
 \smf (en retard par rapport aux autres (analphabète ...))
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ́kanna
-\mm kɔ́:n:dos
-\mm kàn:pp:sur
+\mm kɔ́kan:pp:extérieur
+\mmm kɔ́:n:dos
+\mmm kàn:pp:sur
 \mm na:mrph:LOC
 \ps n
 \ms 1
@@ -69529,7 +69532,7 @@ harpon)
 \gvf le dehors
 \ms 2
 \gvf pays étrangers
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kɔ́kari
 \mm kɔ́:n:dos
@@ -69594,14 +69597,15 @@ harpon)
 \dt 26/Sep/2006
 
 \lx kɔ́kolosɛmɛ
-\mm kɔ́:n:dos
-\mm kólo:n:os
+\mm kɔ́kolo:n:colonne.vertébrale
+\mmm kɔ́:n:dos
+\mmm kólo:n:os
 \mm sɛ́mɛ:n:moëlle
 \ps n
 \gf moëlle.épinière
 \gvf moëlle épinière
 \sy jɔ̀kolosɛmɛ
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ́kɔrɔ
 \mm kɔ́:n:dos
@@ -69625,9 +69629,9 @@ harpon)
 \lx kɔ́kɔrɔmadòn
 \mm kɔ́:n:dos
 \mm kɔ́rɔ:n:dessous
-\mm mà.dòn:v:approcher
-\mm mà:mrph:SUPER
-\mm dòn:v:entrer
+\mm màdòn:v:approcher
+\mmm mà:mrph:SUPER
+\mmm dòn:v:entrer
 \va kɔ́kɔrɔdòn
 \mm kɔ́:n:dos
 \mm kɔ́rɔ:n:dessous
@@ -69640,7 +69644,7 @@ harpon)
 \gvf étayer
 \ms 2
 \gvf encourager
-\dt 14/Apr/2018
+\dt 28/Mar/2019
 
 \lx kɔ̀kɔyi
 \ve (bn)
@@ -69694,12 +69698,12 @@ harpon)
 \mm kɔ́:n:dos
 \mm lá:pp:à
 \mm dén:n:enfant
-\va kɔ́.ra.den
+\va kɔ́raden
 \mm kɔ́:n:dos
 \mm rá:pp:à
 \mm dén:n:enfant
 \ve (bn)
-\va kɔ́.rɔ.den
+\va kɔ́rɔden
 \mm kɔ́:n:dos
 \mm rɔ́:pp:IN
 \mm dén:n:enfant
@@ -69708,7 +69712,7 @@ harpon)
 \gf bébé
 \gvf bébé
 \gvf nourrisson
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kɔ́lafɔ
 \mm kɔ́:n:dos
@@ -69724,8 +69728,9 @@ harpon)
 
 \lx kɔ́lasègin
 \mm kɔ́:n:dos
-\mm lá:pp:à
-\mm sègin:v:revenir
+\mm lásègin:v:rendre
+\mmm lá:mrph:CAUS
+\mmm sègin:v:revenir
 \ps v
 \vl vt
 \ms 1
@@ -69734,7 +69739,7 @@ harpon)
 \ms 2
 \gvf rendre
 \smf (par la suite)
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ̀lɛ
 \ps n
@@ -69908,12 +69913,12 @@ harpon)
 
 \lx kɔ́lɔborolama
 \mm kɔ́lɔboro:n:tourteau.des.noix.de.karité
-\mm kɔ́lɔ:n:noyau.de.karité
+\mmm kɔ́lɔ:n:noyau.de.karité
 \mm lama:mrph:STAT
 \ps adj
 \gf brun
 \gvf brun
-\dt 04/Apr/2016
+\dt 28/Mar/2019
 
 \lx kɔ́lɔfara
 \ps n
@@ -70074,20 +70079,22 @@ harpon)
 
 \lx kɔ́masegin
 \mm kɔ́:n:dos
-\mm mà:mrph:SUPER
-\mm sègin:v:revenir
+\mm màsègin:v:rendre
+\mmm mà:mrph:SUPER
+\mmm sègin:v:revenir
 \ps n
 \ms 1
 \gf réponse
 \gvf réponse
 \ms 2
 \gvf retour
-\dt 30/Mar/2014
+\dt 28/Mar/2019
 
 \lx kɔ́masègin
 \mm kɔ́:n:dos
-\mm mà:mrph:SUPER
-\mm sègin:v:revenir
+\mm màsègin:v:rendre
+\mmm mà:mrph:SUPER
+\mmm sègin:v:revenir
 \ps v
 \ms 1
 \gf retourner
@@ -70096,12 +70103,13 @@ harpon)
 \gvf rendre
 \ms 3
 \gvf répondre
-\dt 14/Apr/2018
+\dt 28/Mar/2019
 
 \lx kɔ́mayɛ̀lɛma
 \mm kɔ́:n:dos
-\mm mà:pp:ADR
-\mm yɛ̀lɛma:v:changer
+\mm màyɛ̀lɛma:v:changer
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps v
 \ms 1
 \vl vr
@@ -70130,7 +70138,7 @@ harpon)
 \smf (d'une langue à l'autre)
 \ms 3
 \vl vr
-\dt 08/Feb/2017
+\dt 28/Mar/2019
 
 \lx kɔ́mi
 \ps v
@@ -70168,7 +70176,7 @@ harpon)
 \lx kɔ́mɔgɔ
 \mm kɔ́:n:dos
 \mm mɔ̀gɔ:n:homme
-\va kɔ́.maa
+\va kɔ́maa
 \mm kɔ́:n:dos
 \mm màa:n:homme
 \ve (f,bk)
@@ -70187,17 +70195,17 @@ harpon)
 \ms 4
 \gvf parents
 \gvf famille
-\dt 16/Jun/2017
+\dt 28/Mar/2019
 
 \lx kɔ̀mɔjan
 \mm kɔ̀mɔ:n:société.initiatique
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf société.initiatique
 \gvf société initiatique
 \xv kɔ̀mɔjan yé jíri yé, kɔ̀nɔsi ní kɔ̀nɔkunkolo ní fɛ́n cáman b'á lá, í b'í kùnkolo dá à kɔ́rɔ k'à wúli
 \rem f
-\dt 11/Nov/2007
+\dt 28/Mar/2019
 
 \lx kɔ̀mɔkili
 \mm kɔ̀mɔ:n:société.initiatique
@@ -70520,13 +70528,13 @@ ou une proposition)
 \lx kɔ́niyabaa
 \mm kɔ́niya:v:envier
 \mm baa:mrph:AG.OCC
-\va kóniya.baga
+\va kóniyabaga
 \mm kóniya:n:envie
 \mm baga:mrph:AG.OCC
 \ps n
 \gf jaloux
 \gvf jaloux
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nkɔbaranin
 \mm bàra:n:calebasse
@@ -70592,10 +70600,10 @@ ou une proposition)
 
 \lx kɔ́nkɔnbilen
 \mm kɔ́nkɔn:n:poisson.Synodontis
-\mm bìlen:vq/adj:rouge
-\va kɔ́nkɔn.blen
+\mm bìlen:adj:rouge
+\va kɔ́nkɔnblen
 \mm kɔ́nkɔn:n:poisson.Synodontis
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \ms 1
@@ -70605,20 +70613,20 @@ ou une proposition)
 \gvf poisson Synodontis schall
 \smf (---> 37 cm, ---> 1,4 kg)
 \sy nkìri
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nkɔnfin
 \mm kɔ́nkɔn:n:poisson.Synodontis
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf poisson.Synodontis.nigrita
 \gvf poisson Synodontis nigrita
 \smf (---> 22 cm, ---> 300 gr)
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nkɔnjɛ
 \mm kɔ́nkɔn:n:poisson.Synodontis
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \ms 1
 \gf poisson.Brachysynodontis.batensoda
@@ -70628,7 +70636,7 @@ ou une proposition)
 \gvf poisson Hemisynodontis membranaceus
 \smf (---> 46 cm, ---> 2, 850 kg (même coloration))
 \sy sàabikɔnkɔn
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ̀nkɔnma
 \mm kɔ̀nkɔn:v:se.préparer
@@ -70937,7 +70945,7 @@ ou une proposition)
 \lx kɔ́nɔfɔɲɔgɔn
 \mm kɔ́nɔ:n:ventre
 \mm fɔ́:v:dire
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf confident
 \gvf confident
@@ -70946,7 +70954,7 @@ ou une proposition)
 \sy gùndofɔɲɔgɔn
 \xv á kàna á jìgi dá kɔ́nɔfɔɲɔgɔn kàn
 \xf ne vous fiez pas à un ami (Mi 7, 5)
-\dt 11/Nov/2007
+\dt 28/Mar/2019
 
 \lx kɔ́nɔfunu
 \mm kɔ́nɔ:n:ventre
@@ -70969,7 +70977,7 @@ ou une proposition)
 \lx kɔ́nɔgan
 \mm kɔ́nɔ:n:ventre
 \mm gàn:v:chauffer
-\va kɔ́nɔ.gwan
+\va kɔ́nɔgwan
 \mm kɔ́nɔ:n:ventre
 \mm gwàn:vq:chaud
 \ph [gw]
@@ -70977,12 +70985,12 @@ ou une proposition)
 \gf angoisse
 \gvf angoisse
 \gvf désarroi
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nɔgàn
 \mm kɔ́nɔ:n:ventre
 \mm gàn:v:chauffer
-\va kɔ́nɔ.gwàn
+\va kɔ́nɔgwàn
 \mm kɔ́nɔ:n:ventre
 \mm gwàn:v:chauffer
 \ph [gw]
@@ -70994,78 +71002,88 @@ ou une proposition)
 \gvf embarrasser
 \sy kɔ́nɔnagan
 \sy kàmanagan
-\dt 12/Mar/2018
+\dt 28/Mar/2019
 
 \lx kɔ́nɔganbaa
-\mm kɔ́nɔ:n:ventre
-\mm gàn:v:chauffer
+\mm kɔ́nɔgàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gàn:v:chauffer
 \mm baa:mrph:AG.OCC
-\va kɔ́nɔ.gan.baga
-\mm kɔ́nɔ:n:ventre
-\mm gàn:v:chauffer
+\va kɔ́nɔganbaga
+\mm kɔ́nɔgàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gàn:v:chauffer
 \mm baga:mrph:AG.OCC
-\va kɔ́nɔ.gwan.baga
-\mm kɔ́nɔ:n:ventre
-\mm gwàn:v:chauffer
+\va kɔ́nɔgwanbaga
+\mm kɔ́nɔgwàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gwàn:v:chauffer
 \mm baga:mrph:AG.OCC
-\va kɔ́nɔ.gwan.baa
-\mm kɔ́nɔ:n:ventre
-\mm gwàn:v:chauffer
+\va kɔ́nɔgwanbaa
+\mm kɔ́nɔgwàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gwàn:v:chauffer
 \mm baa:mrph:AG.OCC
 \ph [gw]
 \ps n
 \gf qui.a.des.difficultés
 \gvf qui a des difficultés
 \gvf qui crée des difficultés
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nɔganbaatɔ
-\mm kɔ́nɔ:n:ventre
-\mm gàn:v:chauffer
+\mm kɔ́nɔgàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gàn:v:chauffer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va kɔ́nɔ.gan.baga.tɔ
-\mm kɔ́nɔ:n:ventre
-\mm gàn:v:chauffer
+\va kɔ́nɔganbagatɔ
+\mm kɔ́nɔgàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gàn:v:chauffer
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va kɔ́nɔ.gwan.baa.tɔ
-\mm kɔ́nɔ:n:ventre
-\mm gwàn:v:chauffer
+\va kɔ́nɔgwanbaatɔ
+\mm kɔ́nɔgwàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gwàn:v:chauffer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va kɔ́nɔ.gwan.baga.tɔ
-\mm kɔ́nɔ:n:ventre
-\mm gwàn:v:chauffer
+\va kɔ́nɔgwanbagatɔ
+\mm kɔ́nɔgwàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gwàn:v:chauffer
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ph [gw]
 \ps adj
 \gf accablé.de.soucis
 \gvf accablé de soucis
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nɔganko
-\mm kɔ́nɔ:n:ventre
-\mm gàn:v:chauffer
+\mm kɔ́nɔgàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gàn:v:chauffer
 \mm kó:n:affaire
-\va kɔ́nɔ.gwan.ko
-\mm kɔ́nɔ:n:ventre
-\mm gwàn:v:chauffer
+\va kɔ́nɔgwanko
+\mm kɔ́nɔgwàn:v:angoisser
+\mmm kɔ́nɔ:n:ventre
+\mmm gwàn:v:chauffer
 \mm kó:n:affaire
 \ph [gw]
 \ps n
 \gf gros.ennui
 \gvf gros ennui
 \gvf embêtement
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nɔgɛlɛn
 \mm kɔ́nɔ:n:ventre
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:dur
 \va kɔ́nɔ.gwɛlɛn
 \mm kɔ́nɔ:n:ventre
-\mm gwɛ̀lɛn:vq/adj:dur
+\mm gwɛ̀lɛn:adj:dur
 \ph [gw]
 \ps adj
 \ms 1
@@ -71074,7 +71092,7 @@ ou une proposition)
 \gvf dur
 \ms 2
 \gvf entêté
-\dt 26/Sep/2006
+\dt 28/Mar/2019
 
 \lx kɔ̀nɔgɛn
 \mm kɔ̀nɔ:n:oiseau
@@ -71109,7 +71127,7 @@ ou une proposition)
 \mm kɔ̀nɔ:n:oiseau
 \mm gɛ́n:v:chasser
 \mm nan:mrph:INSTR
-\va kɔ̀nɔ.gwɛn.nan
+\va kɔ̀nɔgwɛnnan
 \mm kɔ̀nɔ:n:oiseau
 \mm gwɛ́n:v:chasser
 \mm nan:mrph:INSTR
@@ -71120,7 +71138,7 @@ ou une proposition)
 \gvf épouvantail
 \ms 2
 \gvf fronde
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nɔja
 \mm kɔ́nɔ:n:ventre
@@ -71131,17 +71149,16 @@ ou une proposition)
 
 \lx kɔ́nɔjalan
 \mm kɔ́nɔ:n:ventre
-\mm jà:v:sécher
-\mm lan:mrph:INSTR
+\mm jàlan:adj:sec
 \ps n
 \gf remède.astringent
 \gvf remède astringent
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ̀nɔjanfin
 \mm kɔ̀nɔ:n:oiseau
-\mm jàn:vq:long
-\mm fìn:vq/adj:noir
+\mm jàn:adj:long
+\mm fìn:adj:noir
 \ps n
 \ms 1
 \gf piac-piac
@@ -71152,7 +71169,7 @@ ou une proposition)
 \gvf merle métallique
 \lat Lamprocolius.caudatus
 \smf (bleu, à longue queue très souple, en petites bandes, criard)
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nɔji
 \mm kɔ́nɔ:n:ventre
@@ -71166,21 +71183,21 @@ ou une proposition)
 
 \lx kɔ́nɔjugu
 \mm kɔ́nɔ:n:ventre
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj/n
 \gf mal.intentionné
 \gvf mal intentionné
 \sy kɔ́nɔnajugu
-\dt 16/Aug/2006
+\dt 28/Mar/2019
 
 \lx kɔ́nɔjuguya
 \mm kɔ́nɔ:n:ventre
-\mm júgu:vq/adj:mauvais
+\mm júgu:vq:mauvais
 \mm ya:mrph:DEQU
 \ps n
 \gf méchanceté
 \gvf méchanceté
-\dt 11/Nov/2007
+\dt 28/Mar/2019
 
 \lx kɔ́nɔkari
 \mm kɔ́nɔ:n:ventre
@@ -71216,19 +71233,21 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx kɔ́nɔkofɔbaga
-\mm kɔ́nɔ:n:ventre
-\mm kó:n:affaire
+\mm kɔ́nɔko:n:pensées
+\mmm kɔ́nɔ:n:ventre
+\mmm kó:n:affaire
 \mm fɔ́:v:dire
 \mm baga:mrph:AG.OCC
 \va kɔ́nɔkofɔbaa
-\mm kɔ́nɔ:n:ventre
-\mm kó:n:affaire
+\mm kɔ́nɔko:n:pensées
+\mmm kɔ́nɔ:n:ventre
+\mmm kó:n:affaire
 \mm fɔ́:v:dire
 \mm baa:mrph:AG.OCC
 \ps n
 \gf confident
 \gvf confident
-\dt 06/Nov/2014
+\dt 28/Mar/2019
 
 \lx kɔ̀nɔkɔnɔ
 \va kɔ̀nɔkɔnɔnin
@@ -86041,12 +86060,18 @@ jour, c'est une personne dépendante qu'il voit
 \dt 26/Sep/2006
 
 \lx màgɛlɛya
+\mm mà:mrph:SUPER
+\mm gɛ̀lɛ:vq:dur
+\mm ya:mrph:DEQU
 \ps n
 \gf difficulté
 \gvf difficulté
-\dt 10/Apr/2013
+\dt 28/Mar/2019
 
 \lx màgɛ̀lɛya
+\mm mà:mrph:SUPER
+\mm gɛ̀lɛ:vq:dur
+\mm ya:mrph:DEQU
 \ps v
 \ms 1
 \gf être.difficile
@@ -86054,7 +86079,7 @@ jour, c'est une personne dépendante qu'il voit
 \ms 2
 \gvf insister
 \gvf recommander fortement
-\dt 10/Apr/2013
+\dt 28/Mar/2019
 
 \lx màgɛn
 \mm mà:mrph:SUPER
@@ -88776,7 +88801,7 @@ des engagements
 \vl vt
 \gf rendre
 \gvf rendre
-\dt 30/Apr/2017
+\dt 28/Mar/2019
 
 \lx màsiba
 \va màasiba
