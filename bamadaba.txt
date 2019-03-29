@@ -71277,18 +71277,18 @@ ou une proposition)
 \gvf borborygme
 \dt 26/Sep/2006
 
-\lx kɔ́nɔlagɔsi
-\mm kɔ́nɔ:n:ventre
-\mm la:mrph:LOC
-\mm gɔ̀si:v:battre
-\va kɔ́nɔ.la.gosi
+\lx kɔ́nɔlagosi
 \mm kɔ́nɔ:n:ventre
 \mm la:mrph:LOC
 \mm gòsi:v:battre
+\va kɔ́nɔlagɔsi
+\mm kɔ́nɔ:n:ventre
+\mm la:mrph:LOC
+\mm gɔ̀si:v:battre
 \ps n
 \gf fausse-couche
 \gvf fausse-couche
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́nɔma
 \mm kɔ́nɔ:n:ventre
@@ -71319,14 +71319,14 @@ ou une proposition)
 
 \lx kɔ́nɔmagayalan
 \mm kɔ́nɔ:n:ventre
-\mm màga.ya:v:rendre.mou
+\mm màgaya:v:rendre.mou
 \mmm màga:vq:mou
 \mmm ya:mrph:DEQU
 \mm lan:mrph:INSTR
 \ps n
 \gf laxatif
 \gvf laxatif
-\dt 04/Mar/2019
+\dt 29/Mar/2019
 
 \lx kɔ́nɔmaya
 \mm kɔ́nɔma:adj:enceinte
@@ -71388,7 +71388,7 @@ ou une proposition)
 \mm kɔ̀nɔ:n:oiseau
 \mm mìnɛ:v:attraper
 \mm la:mrph:AG.PRM
-\va kɔ̀nɔ.minɛ.na
+\va kɔ̀nɔminɛna
 \mm kɔ̀nɔ:n:oiseau
 \mm mìnɛ:v:attraper
 \mm na:mrph:AG.PRM
@@ -71397,13 +71397,15 @@ ou une proposition)
 \gvf oiseleur
 \xv àle dè bɛ́ né bɔ́ kɔ̀nɔminɛla ká ján ná
 \xf c'est lui qui me délivre des pièges de l'oiseleur (Ps 91, 3)
-\dt 04/Apr/2016
+\dt 29/Mar/2019
 
 \lx kɔ́nɔmɔ̀
+\mm kɔ́nɔ:n:ventre
+\mm mɔ̀:v:fouiller
 \ps v
 \gf devenir.inquiet
 \gvf devenir inquiet
-\dt 18/Apr/2014
+\dt 29/Mar/2019
 
 \lx kɔ́nɔn
 \va kɔ́nɔ
@@ -71451,20 +71453,21 @@ ou une proposition)
 
 \lx kɔ́nɔnabɔ
 \mm kɔ́nɔ:n:ventre
-\mm ná:mrph:CAUS
-\mm bɔ́:v:sortir
+\mm lábɔ:v:faire.sortir
+\mmm ná:mrph:CAUS
+\mmm bɔ́:v:sortir
 \ps v
 \vl vt
 \gf curer
 \gvf curer
 \gvf enlever l'intérieur
-\dt 06/Jul/2017
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnafɛn
 \mm kɔ́nɔ:n:ventre
 \mm ná:pp:à
 \mm fɛ́n:n:chose
-\va kɔ́nɔ.rɔ.fɛn
+\va kɔ́nɔrɔfɛn
 \mm kɔ́nɔ:n:ventre
 \mm rɔ́:pp:IN
 \mm fɛ́n:n:chose
@@ -71480,18 +71483,18 @@ ou une proposition)
 \ms 4
 \gvf contenu
 \smf (ce qui est à l'intérieur)
-\dt 16/Jun/2017
+\dt 29/Mar/2019
 
 \lx kɔ̀nɔnafili
 \mm kɔ́nɔ:n:ventre
-\mm ná.fili:v:tromper
-\mm ná:mrph:CAUS
-\mm fìli:v:jeter
+\mm náfili:v:tromper
+\mmm ná:mrph:CAUS
+\mmm fìli:v:jeter
 \va kɔ̀nɔnafli
 \mm kɔ́nɔ:n:ventre
-\mm ná.fli:v:tromper
-\mm ná:mrph:CAUS
-\mm flì:v:jeter
+\mm náfli:v:tromper
+\mmm ná:mrph:CAUS
+\mmm flì:v:jeter
 \va kɔ̀nɔrɔfili
 \mm kɔ́nɔ:n:ventre
 \mm rɔ́:pp:IN
@@ -71500,16 +71503,18 @@ ou une proposition)
 \ps n
 \gf perplexité
 \gvf perplexité
-\dt 07/Jul/2017
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnafìli
 \mm kɔ́nɔ:n:ventre
-\mm ná:mrph:CAUS
-\mm fìli:v:jeter
+\mm náfili:v:tromper
+\mmm ná:mrph:CAUS
+\mmm fìli:v:jeter
 \va kɔ́nɔnaflì
 \mm kɔ́nɔ:n:ventre
-\mm ná:mrph:CAUS
-\mm flì:v:jeter
+\mm náflì:v:tromper
+\mmm ná:mrph:CAUS
+\mmm flì:v:jeter
 \va kɔ́nɔrɔfìli
 \mm kɔ́nɔ:n:ventre
 \mm rɔ́:pp:IN
@@ -71526,7 +71531,7 @@ ou une proposition)
 \vl vi
 \gvf être dépassé
 \gvf ne pas savoir quoi faire
-\dt 14/Apr/2018
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnafin
 \mm kɔ́nɔ:n:ventre
@@ -71540,14 +71545,15 @@ ou une proposition)
 \dt 23/Mar/2015
 
 \lx kɔ́nɔnafinya
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm fìn:adj:noir
+\mm kɔ́nɔnafin:n:hypocrite
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm fìn:adj:noir
 \mm ya:mrph:ABSTR
 \ps n
 \gf noir.dessein
 \gvf noir dessein
-\dt 23/Mar/2015
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnagan
 \mm kɔ́nɔ:n:ventre
@@ -71593,37 +71599,41 @@ ou une proposition)
 \dt 04/Apr/2016
 
 \lx kɔ́nɔnajɛya
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm jɛ́:adj:blanc
+\mm kɔ́nɔnajɛ:adj:franc
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm jɛ́:adj:blanc
 \mm ya:mrph:ABSTR
 \va kɔ́nɔnanjɛya
-\mm kɔ́nɔ:n:ventre
-\mm nan:mrph:dans
-\mm jɛ́:adj:blanc
+\mm kɔ́nɔnajɛ:adj:franc
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm jɛ́:adj:blanc
 \mm ya:mrph:ABSTR
 \ps n
 \gf franchise
 \gvf franchise
 \gvf sincérité
 \gvf droiture
-\dt 29/Nov/2015
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnajɛya
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm jɛ́:adj:blanc
+\mm kɔ́nɔnajɛ:adj:franc
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm jɛ́:adj:blanc
 \mm ya:mrph:ABSTR
 \va kɔ́nɔnanjɛya
-\mm kɔ́nɔ:n:ventre
-\mm nan:mrph:dans
-\mm jɛ́:adj:blanc
+\mm kɔ́nɔnajɛ:adj:franc
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm jɛ́:adj:blanc
 \mm ya:mrph:ABSTR
 \ps v
 \gf être.franc
 \gvf être franc
 \gvf être sincère
-\dt 29/Nov/2015
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnajugu
 \mm kɔ́nɔ:n:ventre
@@ -71642,35 +71652,40 @@ ou une proposition)
 \dt 23/Mar/2015
 
 \lx kɔ́nɔnajuguya
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm júgu:vq:mauvais
+\mm kɔ́nɔnajugu:adj:fourbe
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm júgu:vq:mauvais
 \mm ya:mrph:ABSTR
 \va kɔ́nɔnanjuguya
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm júgu:vq:mauvais
+\mm kɔ́nɔnanjugu:adj:fourbe
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm júgu:vq:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \gf méchanceté
 \gvf méchanceté
 \gvf mauvaises intentions
-\dt 11/Sep/2017
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnajuguya
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm júgu:vq:mauvais
+\mm kɔ́nɔnajugu:adj:fourbe
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm júgu:vq:mauvais
 \mm ya:mrph:ABSTR
 \va kɔ́nɔnanjuguya
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm júgu:vq:mauvais
+\mm kɔ́nɔnanjugu:adj:fourbe
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm júgu:vq:mauvais
 \mm ya:mrph:ABSTR
 \ps v
 \gf rendre.méchant
+\vl vt
 \gvf rendre méchant
-\dt 12/Mar/2018
+\dt 29/Mar/2019
 
 \lx kɔ̀nɔnakasi
 \mm kɔ́nɔ:n:ventre
@@ -71745,19 +71760,21 @@ ou une proposition)
 \dt 23/Mar/2015
 
 \lx kɔ́nɔnandiya
-\mm kɔ́nɔ:n:ventre
-\mm nan:mrph:dans
-\mm dí:vq/adj:agréable
+\mm kɔ́nɔnandi:adj:bien.intentionné
+\mmm kɔ́nɔ:n:ventre
+\mmm nan:mrph:dans
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf bonnes.intentions
 \gvf bonnes intentions
-\dt 23/Mar/2015
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnandiya
-\mm kɔ́nɔ:n:ventre
-\mm nan:mrph:dans
-\mm dí:vq/adj:agréable
+\mm kɔ́nɔnandi:adj:bien.intentionné
+\mmm kɔ́nɔ:n:ventre
+\mmm nan:mrph:dans
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps v
 \vl vr
@@ -71765,7 +71782,7 @@ ou une proposition)
 \gvf se réjouir
 \xv à táara bɔ́ ń yé  k'í kɔ́nɔnandiya  né kɔ́rɔ kósɛbɛ
 \xf il est venu me rendre visite, tout content de se trouver près de moi
-\dt 23/Mar/2015
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnango
 \mm kɔ́nɔ:n:ventre
@@ -71784,15 +71801,16 @@ ou une proposition)
 \dt 23/Mar/2015
 
 \lx kɔ́nɔnangoya
-\mm kɔ́nɔ:n:ventre
-\mm nan:mrph:dans
-\mm gó:vq:désagréable
+\mm kɔ́nɔnango:adj:mal.intentionné
+\mmm kɔ́nɔ:n:ventre
+\mmm nan:mrph:dans
+\mmm gó:vq:désagréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf méchanceté
 \gvf méchanceté
 \gvf mauvaises intentions
-\dt 23/Mar/2015
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnantumunin
 \mm kɔ́nɔ:n:ventre
@@ -71819,8 +71837,9 @@ ou une proposition)
 
 \lx kɔ́nɔnasu
 \mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm sú:v:tremper
+\mm lásu:v:inciter
+\mmm lá:mrph:CAUS
+\mmm sú:v:tremper
 \ps v
 \vl vt
 \gf pousser
@@ -71830,17 +71849,18 @@ ou une proposition)
 \gvf détourner du droit chemin
 \sy kɔ́nɔsu
 \sy kɔ́nɔsuruku
-\dt 19/Aug/2017
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnasu
 \mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm sú:v:tremper
+\mm lásu:v:inciter
+\mmm lá:mrph:CAUS
+\mmm sú:v:tremper
 \ps n
 \gf instigation
 \gvf instigation
 \gvf incitation en mal
-\dt 19/Aug/2017
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnasukòlen
 \mm kɔ́nɔ:n:ventre
@@ -71857,30 +71877,27 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx kɔ́nɔnasukolenya
-\mm kɔ́nɔ.na.su.kò.len:n:indécis
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm sú:n:nuit
-\mm kò:v:arriver
-\mm len:mrph:PTCP.RES
+\mm kɔ́nɔnasukòlen:n:indécis
+\mmm kɔ́nɔ:n:ventre
+\mmm ná:pp:à
+\mmm sú:n:nuit
+\mmm kò:v:arriver
+\mmm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \gf lenteur.de.compréhension
 \gvf lenteur de compréhension
-\dt 16/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnasuruku
 \mm kɔ́nɔ:n:ventre
 \mm ná:pp:à
 \mm súruku:v:sonder.une.cavité
-\va kɔ́nɔ.suruku
-\mm kɔ́nɔ:n:ventre
-\mm súruku:v:sonder.une.cavité
 \ps v
 \gf exciter
 \gvf exciter
 \gvf pousser à
-\dt 04/Jul/2013
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnasuruku
 \mm kɔ́nɔ:n:ventre
@@ -71956,24 +71973,24 @@ ou une proposition)
 \lx kɔ́nɔnkisɛ
 \mm kɔ́nɔn:n:perle
 \mm kìsɛ:n:grain
-\va kɔ́nɔ.kisɛ
+\va kɔ́nɔkisɛ
 \mm kɔ́nɔ:n:perle
 \mm kìsɛ:n:grain
 \ps n
 \gf perle
 \gvf perle
-\dt 16/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ́nɔnmugu
 \mm kɔ́nɔn:n:perle
 \mm múgu:n:poudre
-\va kɔ́nɔ.mugu
+\va kɔ́nɔmugu
 \mm kɔ́nɔ:n:perle
 \mm múgu:n:poudre
 \ps n
 \gf menues.perles
 \gvf menues perles
-\dt 16/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ̀nɔntɔn
 \va kɔ̀nɔntɔ
@@ -72011,8 +72028,9 @@ ou une proposition)
 \dt 04/Apr/2016
 
 \lx kɔ́nɔnugutigɛ
-\mm kɔ́nɔ:n:ventre
-\mm nùgu:n:intestin
+\mm kɔ́nɔnugu:n:intestin
+\mmm kɔ́nɔ:n:ventre
+\mmm nùgu:n:intestin
 \mm tìgɛ:v:couper
 \ps n
 \gf crampe.d'estomac
@@ -72021,7 +72039,7 @@ ou une proposition)
 \ms 2
 \gvf tranchée
 \sy kɔ́nɔtigɛ
-\dt 04/Mar/2019
+\dt 29/Mar/2019
 
 \lx kɔ̀nɔɲama
 \mm kɔ̀nɔ:n:oiseau
@@ -72037,26 +72055,28 @@ ou une proposition)
 \lx kɔ́nɔɲɛ
 \mm kɔ́nɔ:n:ventre
 \mm ɲɛ́:n:fois
-\va kɔ́nɔ.ɲa
+\va kɔ́nɔɲa
 \mm kɔ́nɔ:n:ventre
 \mm ɲá:n:fois
 \va kɔ́ɔɲa
+\mm kɔ́nɔ:n:ventre
 \mm ɲá:n:fois
 \ps n
 \gf grossesse
 \gvf grossesse
 \gvf portée
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́nɔɲɛfɔlɔden
-\mm kɔ́nɔ:n:ventre
-\mm ɲɛ́:n:fois
+\mm kɔ́nɔɲɛ:n:grossesse
+\mmm kɔ́nɔ:n:ventre
+\mmm ɲɛ́:n:fois
 \mm fɔ́lɔ:adj:premier
 \mm dén:n:enfant
 \ps n
 \gf premier-né
 \gvf premier-né
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́nɔrɔ
 \mm kɔ́:n:dos
@@ -72071,7 +72091,7 @@ ou une proposition)
 \mm kɔ́nɔ:n:ventre
 \mm rɔ́:pp:IN
 \mm fɛ́n:n:chose
-\va kɔ́nɔ.na.fɛn
+\va kɔ́nɔnafɛn
 \mm kɔ́nɔ:n:ventre
 \mm ná:pp:à
 \mm fɛ́n:n:chose
@@ -72082,7 +72102,7 @@ ou une proposition)
 \ms 2
 \gvf pensées
 \gvf sentiments
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ̀nɔsogonin
 \va kɔ̀nɔsogonti
@@ -72105,12 +72125,14 @@ ou une proposition)
 \dt 16/Aug/2006
 
 \lx kɔ́nɔsuli
-\mm kɔ́nɔ:n:ventre
-\mm sú:v:tremper
+\mm kɔ́nɔsu:v:pousser
+\mmm kɔ́nɔ:n:ventre
+\mmm sú:v:tremper
 \mm li:mrph:NMLZ
 \ps n
 \gf tentation
 \gvf tentation
+\dt 29/Mar/2019
 
 \lx kɔ́nɔsuma
 \mm kɔ́nɔ:n:ventre
@@ -72131,7 +72153,8 @@ ou une proposition)
 \gvf tenter
 \sy kɔ́nɔsu
 \sy kɔ́nɔnasu
-\dt 14/Apr/2018
+\sy kɔ́nɔnasuruku
+\dt 29/Mar/2019
 
 \lx kɔ̀nɔsutɔmɔkan
 \mm kɔ̀nɔ:n:oiseau
@@ -72177,14 +72200,15 @@ ou une proposition)
 \dt 26/Sep/2006
 
 \lx kɔ́nɔtabaliya
-\mm kɔ́nɔ:n:ventre
-\mm tà:v:prendre
+\mm kɔ́nɔta:n:grossesse
+\mmm kɔ́nɔ:n:ventre
+\mmm tà:v:prendre
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf stérilité
 \gvf stérilité
-\dt 16/Mar/2018
+\dt 29/Mar/2019
 
 \lx kɔ́nɔtigɛ
 \mm kɔ́nɔ:n:ventre
@@ -72200,15 +72224,17 @@ ou une proposition)
 \lx kɔ́nɔtiyɛn
 \mm kɔ́nɔ:n:ventre
 \mm tíyɛn:v:gâter
-\va kɔ́nɔ.cɛn
+\va kɔ́nɔcɛn
 \mm kɔ́nɔ:n:ventre
 \mm cɛ́n:v:gâter
 \ph [kɔnɔcɛn]
 \va kɔ́nɔtiɲɛ
+\mm kɔ́nɔ:n:ventre
+\mm tíɲɛ:v:gâter
 \ps n
 \gf fausse.couche
 \gvf fausse couche
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́nɔtɔn
 \mm kɔ́nɔ:n:ventre
@@ -72311,7 +72337,7 @@ ou une proposition)
 \lx kɔ́ntiga
 \mm kɔ́n:n:intervalle.entre.deux.noeuds
 \mm tìga:n:arachide
-\va kɔ́n.tigɛ
+\va kɔ́ntigɛ
 \mm kɔ́n:n:intervalle.entre.deux.noeuds
 \mm tìgɛ:n:arachide
 \va kàntìgɛ
@@ -72320,7 +72346,7 @@ ou une proposition)
 \ps n
 \gf arachide
 \gvf arachide
-\dt 16/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ́ntɔ̀rɔ́
 \ps n
@@ -72373,13 +72399,13 @@ ou une proposition)
 \lx kɔ́ɲɔcɛ
 \mm kɔ́ɲɔ:n:noce
 \mm cɛ̀:n:mâle
-\va kɔ́ɲɔ.kɛ
+\va kɔ́ɲɔkɛ
 \mm kɔ́ɲɔ:n:noce
 \mm kɛ̀:n:mâle
 \ps n
 \gf le.jeune.marié
 \gvf le jeune marié
-\dt 16/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ́ɲɔden
 \mm kɔ́ɲɔ:n:noce
@@ -72525,13 +72551,14 @@ plus solide)
 \dt 16/Aug/2006
 
 \lx kɔ̀ɔmuso
+\mm kɔ̀rɔ:n:aîné
 \mm mùso:adj:femme
 \va kɔ̀so
 \ps n
 \gf soeur.aînée
 \gvf soeur aînée
 \smf (forme d'adresse pour une ainée)
-\dt 16/Jun/2017
+\dt 29/Mar/2019
 
 \lx kɔ́ɔri
 \va kwɔ́ɔri
@@ -72546,7 +72573,7 @@ plus solide)
 \lx kɔ́ɔriba
 \mm kɔ́ɔri:n:coton
 \mm ba:mrph:AUGM
-\va kwɔ́ɔri.ba
+\va kwɔ́ɔriba
 \mm kwɔ́ɔri:n:coton
 \mm ba:mrph:AUGM
 \ph [kw]
@@ -72557,7 +72584,7 @@ plus solide)
 \sd malv
 \smf (cultivé traditionnellement)
 \sy bámanakɔɔri
-\dt 19/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ́ɔrikɛla
 \mm kɔ́ɔri:n:coton
@@ -72605,11 +72632,11 @@ plus solide)
 \mm rá:pp:IN
 \mm dá:v:poser
 \ve (bn)
-\va kɔ́.la.da
+\va kɔ́lada
 \mm kɔ́:n:dos
 \mm lá:pp:à
 \mm dá:v:poser
-\va kɔ́.rɔ.da
+\va kɔ́rɔda
 \mm kɔ́:n:dos
 \mm rɔ́:pp:IN
 \mm dá:v:poser
@@ -72617,18 +72644,18 @@ plus solide)
 \ps n
 \gf tapis.de.selle
 \gvf tapis de selle
-\dt 16/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ́raden
 \mm kɔ́:n:dos
 \mm rá:pp:IN
 \mm dén:n:enfant
 \ve (bn)
-\va kɔ́.la.den
+\va kɔ́laden
 \mm kɔ́:n:dos
 \mm lá:pp:à
 \mm dén:n:enfant
-\va kɔ́.rɔ.den
+\va kɔ́rɔden
 \mm kɔ́:n:dos
 \mm rɔ́:pp:IN
 \mm dén:n:enfant
@@ -72636,7 +72663,7 @@ plus solide)
 \ps n
 \gf bébé.au.dos
 \gvf bébé au dos
-\dt 16/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ́raɲɔn
 \mm kɔ́:n:dos
@@ -72824,25 +72851,25 @@ plus solide)
 
 \lx kɔ́rɔbari
 \mm kɔ́rɔ:n:dessous
-\mm bàrí:v:crépir
+\mm bàri:v:crépir
 \ps v
 \vl vt
 \gf butter
 \gvf butter
-\dt 16/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ̀rɔbaya
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf ancienneté
 \gvf ancienneté
 \gvf vieillesse
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ̀rɔbaya
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps v
@@ -72860,7 +72887,7 @@ plus solide)
 \xf quand la nuit sera avancée ...
 \xv yànni  sàmiya kà kɔ̀rɔbaya...
 \xf avant que la saison des pluies ne soit  trop avancée ...
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́rɔbila
 \mm kɔ́rɔ:pp:sous
@@ -72888,30 +72915,32 @@ plus solide)
 \gvf travailler autour de
 \dt 04/Jun/2016
 
-\lx kɔ́rɔbɔ́bali
-\mm kɔ́rɔ.bɔ́:v:essayer
-\mm kɔ́rɔ:n:dessous
-\mm bɔ́:v:sortir
+\lx kɔ́rɔbɔbali
+\mm kɔ́rɔbɔ:v:essayer
+\mmm kɔ́rɔ:n:dessous
+\mmm bɔ́:v:sortir
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf non.testé
 \gvf non testé
 \gvf non vérifié
 \xf sans vérifier, la vérité n'est pas connue
-\dt 04/Apr/2016
+\dt 29/Mar/2019
 
 \lx kɔ́rɔbɔla
-\mm kɔ́rɔ:n:dessous
-\mm bɔ́:v:sortir
+\mm kɔ́rɔbɔ:v:essayer
+\mmm kɔ́rɔ:n:dessous
+\mmm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
 \ps n
 \gf celui.qui.teste
 \gvf celui qui teste
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́rɔbɔli
-\mm kɔ́rɔ:n:dessous
-\mm bɔ́:v:sortir
+\mm kɔ́rɔbɔ:v:essayer
+\mmm kɔ́rɔ:n:dessous
+\mmm bɔ́:v:sortir
 \mm li:mrph:NMLZ
 \ps n
 \gf essai
@@ -72920,7 +72949,7 @@ plus solide)
 \gvf épreuve
 \xv díɲɛ yé  kɔ́rɔbɔli yɔ́rɔ dè yé
 \xf la terre est un lieu d'épreuve
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́rɔbɔ̀rɔ
 \ps n
@@ -73013,25 +73042,27 @@ plus solide)
 \dt 20/Dec/2015
 
 \lx kɔ́rɔfɔkan
-\mm kɔ́rɔ:n:dessous
-\mm fɔ́:v:dire
+\mm kɔ́rɔfɔ:v:critiquer
+\mmm kɔ́rɔ:n:dessous
+\mmm fɔ́:v:dire
 \mm kán:n:cou
 \ps n
 \gf critiques
 \gvf critiques
 \gvf reproches
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́rɔfɔnkɔli
-\mm kɔ́rɔ:n:dessous
-\mm fɔ́:v:dire
+\mm kɔ́rɔfɔ:v:critiquer
+\mmm kɔ́rɔ:n:dessous
+\mmm fɔ́:v:dire
 \mm ń:pers:1SG
 \mm kɔ́:pp:après
 \mm li:mrph:NMLZ
 \ps n
 \gf médisance
 \gvf médisance
-\dt 14/Mar/2019
+\dt 29/Mar/2019
 
 \lx kɔ́rɔfuran
 \mm kɔ́rɔ:n:dessous
@@ -73085,13 +73116,13 @@ plus solide)
 
 \lx kɔ̀rɔjugaya
 \mm kɔ̀rɔjuga:n:bouffon
-\mm jùga:n:sot
+\mmm jùga:n:sot
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
 \gf pitrerie
 \gvf pitrerie
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 \ms 2
 \gvf métier de bouffon
 
@@ -73121,15 +73152,15 @@ plus solide)
 \dt 26/Sep/2006
 
 \lx kɔ̀rɔkɔrɔman
-\mm kɔ̀rɔ:vq/adj:vieux
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:vq:vieux
+\mm kɔ̀rɔ:vq:vieux
 \mm man:mrph:ADJ
 \ps n
 \gf très.ancien
 \gvf très ancien
 \xv súruku kɔ́rɔkɔrɔman, à dá tɛ́ kɛ́  bàtɛmɛsira yé
 \xf (prov) la bouche d'une vieille hyène ne devient pas un passage de chèvre
-\dt 19/Dec/2012
+\dt 29/Mar/2019
 
 \lx kɔ́rɔla
 \mm kɔ́rɔ:n:dessous
@@ -73174,7 +73205,7 @@ plus solide)
 \dt 16/Aug/2006
 
 \lx kɔ̀rɔman
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:vq:vieux
 \mm man:mrph:ADJ
 \ps adj
 \gf ancien
@@ -73182,21 +73213,23 @@ plus solide)
 \gvf vieux
 \xv íko kɔ̀rɔman
 \xf comme d'habitude (iko kɔ̀rɔ̀len est + courant)
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ̀rɔmanɲɔgɔn
-\mm kɔ̀rɔ:vq/adj:vieux
-\mm man:mrph:ADJ
+\mm kɔ̀rɔman:adj:ancien
+\mmm kɔ̀rɔ:vq:vieux
+\mmm man:mrph:ADJ
 \mm ɲɔgɔn:mrph:RECP
-\va kɔ̀rɔ.ma.ɲɔgɔn
-\mm kɔ̀rɔ:vq/adj:vieux
-\mm man:mrph:ADJ
+\va kɔ̀rɔmaɲɔgɔn
+\mm kɔ̀rɔman:adj:ancien
+\mmm kɔ̀rɔ:vq:vieux
+\mmm man:mrph:ADJ
 \mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf aîné
 \gvf aîné
 \gvf personne plus âgée que soi
-\dt 29/Nov/2012
+\dt 29/Mar/2019
 
 \lx kɔ́rɔmatìgɛ
 \mm kɔ́rɔ:n:dessous
@@ -73241,11 +73274,11 @@ plus solide)
 
 \lx kɔ̀rɔ́ngɛ̀yin
 \mm kɔ̀:n:marigot
-\mm rɔ́n:mrph:IN
+\mm rɔ́:mrph:IN
 \mm gɛ̀yin:n:liane-caoutchouc
-\va kɔ̀.rɔ́n.gwɛ̀yin
+\va kɔ̀rɔ́ngwɛ̀yin
 \mm kɔ̀:n:marigot
-\mm rɔ́n:mrph:IN
+\mm rɔ́:mrph:IN
 \mm gwɛ̀yin:n:liane-caoutchouc
 \ph [ngw]
 \ps n
@@ -73255,7 +73288,7 @@ plus solide)
 \sd opil
 \sy sòlaminkɔn
 \sy wáraminkɔn
-\dt 19/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ́rɔnna
 \mm kɔ́rɔn:n:orient
@@ -73288,7 +73321,7 @@ plus solide)
 \mm kɔ́:n:dos
 \mm rɔ́:mrph:IN
 \mm ɲɔ́:v:respirer
-\va kɔ́.ra.ɲɔ
+\va kɔ́raɲɔ
 \mm kɔ́:n:dos
 \mm rá:mrph:IN
 \mm ɲɔ́:v:respirer
@@ -73297,7 +73330,7 @@ plus solide)
 \gf pause
 \gvf pause
 \gvf récréation
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́rɔɲɔ
 \mm kɔ́:n:dos
@@ -73404,8 +73437,9 @@ plus solide)
 \dt 26/Sep/2006
 
 \lx kɔ́rɔtigɛla
-\mm kɔ́rɔ:n:dessous
-\mm tìgɛ:v:couper
+\mm kɔ́rɔtìgɛ:v:dénoncer
+\mmm kɔ́rɔ:n:dessous
+\mmm tìgɛ:v:couper
 \mm la:mrph:LOC
 \ps n
 \ms 1
@@ -73413,17 +73447,18 @@ plus solide)
 \gvf séducteur
 \ms 2
 \gvf mystificateur
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́rɔtigɛli
-\mm kɔ́rɔ:n:dessous
-\mm tìgɛ:v:couper
+\mm kɔ́rɔtìgɛ:v:dénoncer
+\mmm kɔ́rɔ:n:dessous
+\mmm tìgɛ:v:couper
 \mm li:mrph:NMLZ
 \ps n
 \gf tentation
 \gvf tentation
 \gvf séduction
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ́rɔtɔ
 \ps n
@@ -73453,16 +73488,16 @@ plus solide)
 \dt 05/Apr/2016
 
 \lx kɔ̀rɔya
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:vq:vieux
 \mm ya:mrph:DEQU
 \ps n
 \gf vieillesse
 \gvf vieillesse
 \gvf aînesse
-\dt 26/Sep/2006
+\dt 29/Mar/2019
 
 \lx kɔ̀rɔya
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:vq:vieux
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -73472,7 +73507,7 @@ plus solide)
 \gvf vieillir
 \xv bàna y'á kɔ̀rɔya
 \xf la maladie l'a vieilli
-\dt 16/Aug/2006
+\dt 29/Mar/2019
 
 \lx kɔ́rr
 \ps adv
