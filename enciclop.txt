@@ -1170,6 +1170,12 @@ la culture
 \gf haricot.esp.
 \dt 09/Mar/2018
 
+\lx Krísta
+\ps n.prop
+\gf NOM.ETRG
+\gvf Christ
+\dt 30/Mar/2019
+
 \lx Kuki
 \ps n.prop
 \gf NOM.ETRG

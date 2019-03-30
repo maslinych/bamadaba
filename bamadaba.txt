@@ -73854,15 +73854,16 @@ plus solide)
 \dt 16/Nov/2017
 
 \lx kɔ́tigɛbali
-\mm kɔ́:n:dos
-\mm tìgɛ:v:couper
+\mm kɔ́tìgɛ:v:terminer
+\mmm kɔ́:n:dos
+\mmm tìgɛ:v:couper
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf incessant
 \gvf incessant
 \xv ní ù kɛ́ra dègun kɔ́tigɛbali yé, mùso ká kán kà sé fúrakɛso lá
 \xf si ces troubles (de la ménopause) sont incessants, la femme doit voir le médecin (Kb 4/06 p.5)
-\dt 11/Nov/2007
+\dt 30/Mar/2019
 
 \lx kɔ́tigɛjoona
 \mm kɔ́:n:dos
@@ -73926,18 +73927,20 @@ plus solide)
 \lx kɔ́tɔrɔmabɔ
 \mm kɔ́:n:dos
 \mm tɔ́rɔ:v:cogner
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
+\mm màbɔ́:v:éloigner
+\mmm mà:mrph:SUPER
+\mmm bɔ́:v:sortir
 \va kɔ́ntɔrɔnmabɔ
 \mm kɔ́:n:dos
 \mm ntɔ́rɔn:v:cogner
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
+\mm màbɔ́:v:éloigner
+\mmm mà:mrph:SUPER
+\mmm bɔ́:v:sortir
 \ps v
 \vl vr/vi
 \gf reculer
 \gvf reculer
-\dt 03/Jul/2017
+\dt 30/Mar/2019
 
 \lx kɔ̀woronto
 \mm kɔ̀:n:marigot
@@ -73951,9 +73954,8 @@ plus solide)
 \ps n
 \gf fourmi.rouge 
 \gvf fourmi rouge 
-\smf (des manguiers, des caïlcédrats,
-dont la piqûre est douloureuse)
-\dt 02/May/2018
+\smf (des manguiers, des caïlcédrats, dont la piqûre est douloureuse)
+\dt 30/Mar/2019
 
 \lx kɔ̀wùlu
 \mm kɔ̀:n:marigot
@@ -73995,12 +73997,13 @@ dont la piqûre est douloureuse)
 \dt 05/Apr/2016
 
 \lx krístaden
+\mm Krísta:n.prop:NOM.ETRG
 \mm dén:n:enfant
 \ps n
 \gf chrétien
 \gvf chrétien
 \syn kèrecɛn
-\dt 05/Apr/2016
+\dt 30/Mar/2019
 
 \lx kú
 \ps n
@@ -74147,34 +74150,35 @@ dont la piqûre est douloureuse)
 
 \lx kúfin
 \mm kú:n:queue
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ve (-bn)
 \ps n
 \gf cache-sexe
 \gvf cache-sexe
 \smf (des circoncis de l'année (et des excisées))
-\dt 16/Aug/2006
+\dt 30/Mar/2019
 
 \lx kúfintigi
-\mm kú:n:queue
-\mm fìn:vq/adj:noir
+\mm kúfin:n:cache-sexe
+\mmm kú:n:queue
+\mmm fìn:adj:noir
 \mm tìgi:n:maître
 \ps n
 \gf nouveau.circoncis
 \gvf nouveau circoncis
-\dt 16/Aug/2006
+\dt 30/Mar/2019
 
 \lx kúgen
 \mm kú:n:queue
 \mm gén:v:lancer
-\va kú.gwen
+\va kúgwen
 \mm kú:n:queue
 \mm gwén:v:lancer
 \ph [gw]
 \ps n
 \gf base.de.la.queue
 \gvf base de la queue
-\dt 16/Aug/2006
+\dt 30/Mar/2019
 
 \lx kúkala
 \mm kú:n:queue
@@ -74212,13 +74216,14 @@ dont la piqûre est douloureuse)
 \dt 26/Sep/2006
 
 \lx kúkunkolo
-\mm kú.kun:n:coccyx
-\mm kú:n:queue
-\mm kùn:n:tête
+\mm kúkun:n:coccyx
+\mmm kú:n:queue
+\mmm kùn:n:tête
 \mm kólo:n:os
 \ps n
 \gf coccyx
 \gvf coccyx
+\dt 30/Mar/2019
 
 \lx kúlama
 \mm kú:n:queue
@@ -74270,11 +74275,13 @@ dont la piqûre est douloureuse)
 \dt 20/Mar/2015
 
 \lx kùlekùle
+\va kùlokùlo
+\va klòklò
 \ps n
 \gf dindon
 \gvf dindon
 \gvf dinde
-\dt 20/Dec/2015
+\dt 30/Mar/2019
 
 \lx kùleɲɛba
 \mm kùle:n:ménuisier
@@ -74322,7 +74329,7 @@ dont la piqûre est douloureuse)
 \lx kúlokan
 \mm kúlo:n:hurlements
 \mm kán:n:cou
-\va kúle.kan
+\va kúlekan
 \mm kúle:n:hurlements
 \mm kán:n:cou
 \ps n
@@ -74331,15 +74338,7 @@ dont la piqûre est douloureuse)
 \sy kúlo
 \xv á ɲɛ́nasisilenba yé kúlokanba bɔ́ (gn 27, 34)
 \xf (Esaü) fut rempli d'amertume et se mit à pousser de grands cris
-\dt 11/Nov/2007
-
-\lx kùlokùlo
-\va klòklò
-\ph [kloklo]
-\ps n
-\gf dindon
-\gvf dindon
-\dt 12/Aug/2006
+\dt 30/Mar/2019
 
 \lx kùlu
 \ps n
@@ -74431,13 +74430,13 @@ dont la piqûre est douloureuse)
 
 \lx kùlufurancɛ
 \mm kùlu:n:montagne
-\mm fùran.cɛ:n:distance
-\mm fùran:n:distance
-\mm cɛ́:n:milieu
+\mm fùrancɛ:n:distance
+\mmm fùran:n:distance
+\mmm cɛ́:n:milieu
 \ps n
 \gf vallée
 \gvf vallée
-\dt 11/Nov/2007
+\dt 30/Mar/2019
 
 \lx kùlujiginda
 \mm kùlu:n:montagne
@@ -74575,24 +74574,25 @@ il en contient dix
 \dt 16/Aug/2006
 
 \lx kùlusijalabana
-\mm kùlusi:n:culotte
-\mm jàla:n:cordon
+\mm kùlusijala:n:cordelière.de.la.culotte
+\mmm kùlusi:n:culotte
+\mmm jàla:n:cordon
 \mm bàna:n:maladie
 \ps n
 \gf impuissance
 \gvf impuissance
 \gvf maladie vénérienne
-\dt 20/Jul/2013
+\dt 30/Mar/2019
 
 \lx kùlusijalasiri
-\mm kùlusi.jala:n:cordelière.de.la.culotte
-\mm kùlusi:n:culotte
-\mm jàla:n:cordon
+\mm kùlusijala:n:cordelière.de.la.culotte
+\mmm kùlusi:n:culotte
+\mmm jàla:n:cordon
 \mm sìri:v:lier
 \ps n
 \gf impuissance.sexuelle
 \gvf impuissance sexuelle
-\dt 16/Aug/2006
+\dt 30/Mar/2019
 
 \lx kùlusimugu
 \mm kùlusi:n:culotte
