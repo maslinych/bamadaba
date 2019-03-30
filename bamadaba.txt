@@ -3924,9 +3924,9 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \gf refuser
 \gvf refuser
 \smf (de faire qc (personne))
-\xv à y'í bàn  ò mà
+\xv à y'í bàn ò mà
 \xf il a refusé de le faire
-\xv à y'í bàn  à bá bólo
+\xv à y'í bàn à bá bólo
 \xf il a désobéi à sa mère
 \ms 2
 \vl vi
@@ -3938,7 +3938,7 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \vl vr
 \gvf abandonner
 \smf (qqn -- mà)
-\dt 07/Dec/2018
+\dt 30/Mar/2019
 
 \lx bàn
 \va nbàn
@@ -74604,14 +74604,14 @@ il en contient dix
 \dt 26/Sep/2006
 
 \lx kùlusimuguba
-\mm kùlusi.mugu:n:pantalon.ample
-\mm kùlusi:n:culotte
-\mm múgu:n:poudre
+\mm kùlusimugu:n:pantalon.ample
+\mmm kùlusi:n:culotte
+\mmm múgu:n:poudre
 \mm ba:mrph:AUGM
 \ps n
 \gf grand.pantalon
 \gvf grand pantalon
-\dt 16/Aug/2006
+\dt 30/Mar/2019
 
 \lx kùluwo
 \mm kùlu:n:montagne
@@ -74676,16 +74676,16 @@ il en contient dix
 \dt 16/Aug/2006
 
 \lx kúmadengafe
-\mm kúma.den:n:mot
-\mm kúma:n:parole
-\mm dén:n:enfant
+\mm kúmaden:n:mot
+\mmm kúma:n:parole
+\mmm dén:n:enfant
 \mm gáfe:n:livre
 \ps n
 \gf dictionnaire
 \gvf dictionnaire
 \gvf lexique
 \smf (néologisme)
-\dt 26/Sep/2006
+\dt 30/Mar/2019
 
 \lx kúmafɛn
 \mm kú:n:igname
@@ -74700,25 +74700,25 @@ il en contient dix
 \mm kúma:n:parole
 \mm fɛ̀:pp:par
 \mm nɔ̀na:pp:à.la.place.de
-\mm nɔ̀:n:trace
-\mm ná:pp:à
+\mmm nɔ̀:n:trace
+\mmm ná:pp:à
 \ps n
 \gf pronom.auditeur
 \gvf pronom auditeur
 \gvf pronom de la deuxième personne
-\dt 04/Apr/2016
+\dt 30/Mar/2019
 
 \lx kúmafɔnɔna
 \mm kúma:n:parole
 \mm fɔ́:v:dire
 \mm nɔ̀na:pp:à.la.place.de
-\mm nɔ̀:n:trace
-\mm ná:pp:à
+\mmm nɔ̀:n:trace
+\mmm ná:pp:à
 \ps n
 \gf pronom.locuteur
 \gvf pronom locuteur
 \gvf pronom de la première personne
-\dt 07/Feb/2016
+\dt 30/Mar/2019
 
 \lx kúmajeli
 \mm kúma:n:parole
@@ -74780,14 +74780,14 @@ il en contient dix
 
 \lx kúmamayɛlɛma
 \mm kúma:n:parole
-\mm mà.yɛ̀lɛma:v:changer
-\mm mà:mrph:SUPER
-\mm yɛ̀lɛma:v:changer
+\mm màyɛ̀lɛma:v:changer
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps n
 \gf mauvaise.transmission
 \gvf mauvaise transmission
 \smf (d'un message)
-\dt 16/Aug/2006
+\dt 30/Mar/2019
 
 \lx kúmamugu
 \mm kúma:n:parole
@@ -74834,17 +74834,18 @@ le pouvoir administratif suprême)
 
 \lx kúmaɲɔgɔn
 \mm kúma:n:parole
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf interlocuteur
 \gvf interlocuteur
 \xv í kúmaɲɔgɔn bɛ́na à fɛ̀la fɔ́
 \xf ton interlocuteur va dire ce qu'il a à dire
-\dt 11/Nov/2007
+\dt 30/Mar/2019
 
 \lx kúmaɲɔgɔnya
-\mm kúma:n:parole
-\mm ɲɔ́gɔn:prn:RECP
+\mm kúmaɲɔgɔn:n:interlocuteur
+\mmm kúma:n:parole
+\mmm ɲɔgɔn:mrph:RECP
 \mm ya:mrph:ABSTR
 \ps n
 \gf entretien
@@ -74853,11 +74854,12 @@ le pouvoir administratif suprême)
 \sy kúmafalenfalen
 \xv tɔ́gɔ bɛ́ sɔ́rɔ  à ká kúmaɲɔgɔnya ná,
 \xf la renommée s'acquiert en s'entretenant avec (la Sagesse) (Sg 8, 18)
-\dt 16/Nov/2017
+\dt 30/Mar/2019
 
 \lx kúmaɲɔgɔnya
-\mm kúma:v:parler
-\mm ɲɔ́gɔn:prn:RECP
+\mm kúmaɲɔgɔn:n:interlocuteur
+\mmm kúma:n:parole
+\mmm ɲɔgɔn:mrph:RECP
 \mm ya:mrph:ABSTR
 \ps v
 \ms 1
@@ -74868,7 +74870,7 @@ le pouvoir administratif suprême)
 \ms 2
 \vl vt
 \gvf dialoguer avec
-\dt 09/Oct/2016
+\dt 30/Mar/2019
 
 \lx kúmasen
 \mm kúma:n:parole
@@ -74978,15 +74980,16 @@ le pouvoir administratif suprême)
 \dt 04/Dec/2012
 
 \lx kùmuba
-\mm kùmu:vq:aigre
+\mm kùmu:n:substance.aigre
 \mm ba:mrph:AUGM
 \ps n
 \gf arbuste.Pavetta.crassipes
 \gvf arbuste Pavetta crassipes
 \sd rubi
-\dt 19/Aug/2006
+\dt 30/Mar/2019
 
 \lx kùmúdà
+\mm kùmu:n:substance.aigre
 \mm dà:n:chanvre
 \ps n
 \gf plante.Ampelocissus.leonensis
@@ -74994,7 +74997,7 @@ le pouvoir administratif suprême)
 \smf (plante vivace à tiges herbacées grimpantes ou traînantes)
 \sd ampe
 \sy kúngoforokofaraka
-\dt 19/Aug/2006
+\dt 30/Mar/2019
 
 \lx kùmukɛlɛlan
 \mm kùmu:n:substance.aigre
@@ -75244,13 +75247,15 @@ le pouvoir administratif suprême)
 \dt 19/Aug/2006
 
 \lx kúnakunabilen
-\mm bìlen:vq/adj:rouge
+\mm kúna:n:arbuste.Strophantus.sarmentosus
+\mm kúna:n:arbuste.Strophantus.sarmentosus
+\mm bìlen:adj:rouge
 \ps n
 \gf arbre.Ekerbergia.senegalensis
 \gvf arbre Ekerbergia senegalensis
 \sd méli
 \smf (arbre ---> 10 / 15 m, fruits : baies roses ou rouges à maturité, mangées par les perruches)
-\dt 19/Aug/2006
+\dt 30/Mar/2019
 
 \lx kúnaman
 \mm kúna:vq:amer
@@ -75270,11 +75275,11 @@ le pouvoir administratif suprême)
 \dt 05/Apr/2015
 
 \lx kúnasiniwo
-\mm kúnasini:n/adv:avant-hier
+\mm kúnasini:adv:avant-hier
 \ps adv/n
 \gf avant-hier
 \gvf avant-hier
-\dt 05/Apr/2015
+\dt 30/Mar/2019
 
 \lx kúnatɔ
 \mm kúna:n:lèpre.amputante
@@ -75284,24 +75289,24 @@ le pouvoir administratif suprême)
 \gvf lépreux
 
 \lx kúnatɔkɛ
-\mm kúna.tɔ:n:lépreux
-\mm kúna:n:lèpre.amputante
-\mm tɔ:mrph:ST
-\mm kɛ:adj:mâle
+\mm kúnatɔ:n:lépreux
+\mmm kúna:n:lèpre.amputante
+\mmm tɔ:mrph:ST
+\mm kɛ̀:adj:mâle
 \ps n
 \gf lépreux
 \gvf lépreux
-\dt 11/Nov/2007
+\dt 30/Mar/2019
 
 \lx kúnatɔmuso
-\mm kúna.tɔ:n:lépreux
-\mm kúna:n:lèpre.amputante
-\mm tɔ:mrph:ST
+\mm kúnatɔ:n:lépreux
+\mmm kúna:n:lèpre.amputante
+\mmm tɔ:mrph:ST
 \mm mùso:adj:femme
 \ps n
 \gf lépreuse
 \gvf lépreuse
-\dt 11/Nov/2007
+\dt 30/Mar/2019
 
 \lx kúnaya
 \mm kúna:vq:amer
@@ -75335,7 +75340,7 @@ le pouvoir administratif suprême)
 \dt 24/Jan/2013
 
 \lx kùnbaba
-\mm kùnba:vq/adj:gros
+\mm kùnba:adj:gros
 \mm ba:mrph:AUGM
 \ps adj/n
 \gf gros
@@ -75344,20 +75349,20 @@ le pouvoir administratif suprême)
 \gvf le plus essentiel
 \gvf le plus gros
 \gvf somnifère (pop )
-\dt 24/Jan/2013
+\dt 30/Mar/2019
 
 \lx kùnbabin
 \mm kùn:n:tête
 \mm ba:mrph:AUGM
 \mm bìn:v:tomber
-\va kùnma.bin
+\va kùnmabin
 \mm kùn:n:tête
 \mm bìn:v:tomber
 \ps n
 \gf migraine
 \gvf migraine
 \gvf sinusite
-\dt 11/May/2013
+\dt 30/Mar/2019
 
 \lx kùnbalan
 \mm kùn:n:tête
@@ -75384,9 +75389,9 @@ le pouvoir administratif suprême)
 \dt 11/Nov/2007
 
 \lx kùnbaya
-\mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:vq:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \mm ya:mrph:DEQU
 \ps n
 \gf grosseur
@@ -75394,18 +75399,18 @@ le pouvoir administratif suprême)
 \gvf volume
 \xv ò kùnbaya ní  dɔ́gɔya tɛ́  dórɔsyɛko lá
 \xf pour l'initiation au fétiche du "do", peu importeque la poule soit grosse ou petite
-\dt 13/Aug/2018
+\dt 30/Mar/2019
 
 \lx kùnbaya
-\mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:vq:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf rendre.gros
 \gvf rendre gros
-\dt 26/Sep/2006
+\dt 30/Mar/2019
 
 \lx kúnbere
 \ps n
@@ -75461,13 +75466,14 @@ le pouvoir administratif suprême)
 \ps n
 \ms 1
 \gf rencontre-accueil
-\gvf rencontre-accueil
+\gvf rencontre
+\gvf accueil
 \ms 2
 \gvf semaine
 \ms 3
 \gvf anniversaire
 \xv fàamakunbɛn
-\dt 20/Mar/2015
+\dt 30/Mar/2019
 
 \lx kùnbɛ̀n
 \mm kùn:n:tête
@@ -75485,9 +75491,9 @@ le pouvoir administratif suprême)
 \dt 26/Sep/2006
 
 \lx kùnbɛnnan
-\mm kùn.bɛ̀n:v:rencontrer
-\mm kùn:n:tête
-\mm bɛ̀n:v:se.rencontrer
+\mm kùnbɛ̀n:v:rencontrer
+\mmm kùn:n:tête
+\mmm bɛ̀n:v:se.rencontrer
 \mm nan:mrph:INSTR
 \ps n
 \gf protection
@@ -75495,12 +75501,12 @@ le pouvoir administratif suprême)
 \gvf remède
 \xv súmaya kùnbɛnnan yé  níwakini yé
 \xf le remède (préventif) du paludisme c'est la nivaquine
-\dt 26/Sep/2006
+\dt 30/Mar/2019
 
 \lx kùnbɛnɲɔgɔnya
 \mm kùnbɛ̀n:v:rencontrer
-\mm kùn:n:tête
-\mm bɛ̀n:v:se.rencontrer
+\mmm kùn:n:tête
+\mmm bɛ̀n:v:se.rencontrer
 \mm ɲɔ́gɔn:prn:RECP
 \mm ya:mrph:ABSTR
 \ps n
@@ -75509,16 +75515,17 @@ le pouvoir administratif suprême)
 \smf (dans le contexte coranique: avec Dieu)
 \xv Ála kùnbɛnɲɔgɔnya, Ála ká kùnbɛnɲɔgɔnya
 \xf rencontre d'Allah, Jugement Dernier
-\dt 08/Aug/2016
+\dt 30/Mar/2019
 
 \lx kùnbɛnseli
-\mm kùn.bɛn:n:anniversaire
-\mm kùn:n:tête
-\mm bɛ̀n:n:accord
+\mm kùnbɛn:n:rencontre-accueil
+\mmm kùn:n:tête
+\mmm bɛ̀n:n:accord
 \mm séli:n:prière
 \ps n
 \gf anniversaire
 \gvf anniversaire
+\dt 30/Mar/2019
 
 \lx kùnbìla
 \mm kùn:n:tête
@@ -75604,107 +75611,110 @@ le pouvoir administratif suprême)
 \dt 26/Sep/2006
 
 \lx kùncɛba
-\mm kùn.cɛ:n:sommet
-\mm kùn:n:tête
-\mm cɛ́:n:milieu
+\mm kùncɛ:n:sommet
+\mmm kùn:n:tête
+\mmm cɛ́:n:milieu
 \mm ba:mrph:AUGM
 \ps adj/n
 \gf orgueilleux
 \gvf orgueilleux
-\dt 12/Aug/2006
+\dt 30/Mar/2019
 
 \lx kùncɛbaya
-\mm kùn.cɛ.ba:adj/n:orgueilleux
-\mm kùn.cɛ:n:sommet
-\mm kùn:n:tête
-\mm cɛ́:n:milieu
-\mm ba:mrph:AUGM
+\mm kùncɛba:adj:orgueilleux
+\mmm kùncɛ:n:sommet
+\mmmm kùn:n:tête
+\mmmm cɛ́:n:milieu
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf orgueil
 \gvf orgueil
+\dt 30/Mar/2019
 
 \lx kùncɛbaya
-\mm kùn.cɛ.ba:adj/n:orgueilleux
-\mm kùn.cɛ:n:sommet
-\mm kùn:n:tête
-\mm cɛ́:n:milieu
-\mm ba:mrph:AUGM
+\mm kùncɛba:adj:orgueilleux
+\mmm kùncɛ:n:sommet
+\mmmm kùn:n:tête
+\mmmm cɛ́:n:milieu
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf rendre.orgueilleux
 \gvf rendre orgueilleux
-\dt 16/Aug/2006
+\dt 30/Mar/2019
 
 \lx kùncɛbonya
-\mm kùn.cɛ:n:sommet
-\mm kùn:n:tête
-\mm cɛ́:n:milieu
+\mm kùncɛ:n:sommet
+\mmm kùn:n:tête
+\mmm cɛ́:n:milieu
 \mm bòn:vq:grand
 \mm ya:mrph:DEQU
 \ps n
 \gf orgueil
 \gvf orgueil
-\dt 28/Feb/2017
+\dt 30/Mar/2019
 
 \lx kùncɛdɔgɔ
-\mm kùn.cɛ:n:sommet
-\mm kùn:n:tête
-\mm cɛ́:n:milieu
+\mm kùncɛ:n:sommet
+\mmm kùn:n:tête
+\mmm cɛ́:n:milieu
 \mm dɔ́gɔ:vq:petit
 \ps adj/n
 \gf humble
 \gvf humble
 \gvf modeste
-\dt 26/Sep/2006
+\dt 30/Mar/2019
 
 \lx kùncɛdɔgɔman
-\mm kùn.cɛ:n:sommet
-\mm kùn:n:tête
-\mm cɛ́:n:milieu
+\mm kùncɛ:n:sommet
+\mmm kùn:n:tête
+\mmm cɛ́:n:milieu
 \mm dɔ́gɔ:vq:petit
 \mm man:mrph:ADJ
 \ps adj
 \gf humble
 \gvf humble
 \gvf modeste
+\dt 30/Mar/2019
 
 \lx kùncɛdɔgɔya
-\mm kùn.cɛ.dɔgɔ:adj/n:humble
-\mm kùn.cɛ:n:sommet
-\mm kùn:n:tête
-\mm cɛ́:n:milieu
-\mm dɔ́gɔ:vq:petit
-\mm ya:mrph:DEQU
+\mm kùncɛdɔgɔ:adj:humble
+\mmm kùncɛ:n:sommet
+\mmmm kùn:n:tête
+\mmmm cɛ́:n:milieu
+\mm dɔ́gɔya:n:petitesse
+\mmm dɔ́gɔ:vq:petit
+\mmm ya:mrph:DEQU
 \ps n
 \gf humilité
 \gvf humilité
 \gvf modestie
-\dt 26/Sep/2006
+\dt 30/Mar/2019
 
 \lx kùncɛkuma
-\mm kùn.cɛ̀:v:terminer
-\mm kùn:n:tête
-\mm cɛ̀:v:ramasser
+\mm kùncɛ̀:v:terminer
+\mmm kùn:n:tête
+\mmm cɛ̀:v:ramasser
 \mm kúma:n:parole
 \ps n
 \gf paroles.de.conclusion
 \gvf paroles de conclusion
 \rem du
-\dt 11/Nov/2007
+\dt 30/Mar/2019
 
 \lx kùncɛmana
-\mm kùn.cɛ:n:sommet
-\mm kùn:n:tête
-\mm cɛ́:n:milieu
+\mm kùncɛ:n:sommet
+\mmm kùn:n:tête
+\mmm cɛ́:n:milieu
 \mm mà:n:endroit
 \mm ná:pp:à
 \ps n
 \gf sommet
 \gvf sommet
 \gvf milieu
-\dt 26/Sep/2006
+\dt 30/Mar/2019
 
 \lx kùncì
 \mm kùn:n:tête
