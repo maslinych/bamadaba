@@ -37975,7 +37975,8 @@ bien (dicton)
 \ph [fl]
 \ps n
 \ms 1
-\gf coutumes
+\gf camaraderie
+\gvf camaraderie
 \gvf coutumes
 \smf (concernant ceux de la même classe d'âge)
 \ms 2
@@ -37983,7 +37984,7 @@ bien (dicton)
 \xv cí bɛ́  í kàn kà  tàanga dí  kàtugu  ò yé  fílanya tàamasyɛn yé
 \xf tu dois donner une pièce de 50 centimes parce que c'est le signe de
 la virginité (pièce de monnaie sans trou)
-\dt 28/Feb/2014
+\dt 31/Mar/2019
 
 \lx fílaɲɔgɔn
 \mm fìla:num:deux
@@ -75780,25 +75781,26 @@ le pouvoir administratif suprême)
 \dt 16/Aug/2006
 
 \lx kùndimuru
-\mm kùn.di:n:rasage.de.tête
-\mm kùn:n:tête
-\mm dí:v:raser
+\mm kùndi:n:rasage.de.tête
+\mmm kùn:n:tête
+\mmm dí:v:raser
 \mm mùru:n:couteau
 \ps n
 \gf rasoir
 \gvf rasoir
 \sy kùndilan
+\dt 31/Mar/2019
 
 \lx kùnditɔgɔ
-\mm kùn.di:n:rasage.de.tête
-\mm kùn:n:tête
-\mm dí:v:raser
+\mm kùndi:n:rasage.de.tête
+\mmm kùn:n:tête
+\mmm dí:v:raser
 \mm tɔ́gɔ:n:nom
 \ps n
 \gf nom.donné.au.bébé
 \gvf nom donné au bébé
 \gvf nom de "baptême"
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùndògo
 \mm kùn:n:tête
@@ -75890,18 +75892,20 @@ le pouvoir administratif suprême)
 \dt 16/Aug/2006
 
 \lx kùnfɛtaa
-\mm kùn:n:tête
-\mm fɛ̀:pp:par
+\mm kùnfɛ̀:pp:à.l'aveugle
+\mmm kùn:n:tête
+\mmm fɛ̀:pp:par
 \mm táa:n:départ
-\va kùn.fɛ.taga
-\mm kùn:n:tête
-\mm fɛ̀:pp:par
+\va kùnfɛtaga
+\mm kùnfɛ̀:pp:à.l'aveugle
+\mmm kùn:n:tête
+\mmm fɛ̀:pp:par
 \mm tága:n:départ
 \ps n
 \gf errance.sans.but
 \gvf errance sans but
 \gvf destination inconnue
-\dt 07/Feb/2016
+\dt 31/Mar/2019
 
 \lx kùnfɛtɔ
 \mm kùn:n:tête
@@ -75944,12 +75948,12 @@ le pouvoir administratif suprême)
 
 \lx kùnfin
 \mm kùn:n:tête
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps adj/n
 \gf illettré
 \gvf illettré
 \gvf ignare
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnfin
 \mm kùn:n:tête
@@ -75962,15 +75966,15 @@ le pouvoir administratif suprême)
 \dt 14/Apr/2018
 
 \lx kùnfinya
-\mm kùn.fin:adj/n:illettré
-\mm kùn:n:tête
-\mm fìn:vq/adj:noir
+\mm kùnfin:adj:illettré
+\mmm kùn:n:tête
+\mmm fìn:adj:noir
 \mm ya:mrph:ABSTR
 \ps n
 \gf ignorance
 \gvf ignorance
 \gvf analphabétisme
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnfirifiri
 \mm kùn:n:tête
@@ -76014,25 +76018,26 @@ le pouvoir administratif suprême)
 \dt 11/Nov/2007
 
 \lx kùnfɔɲɔgɔn
-\mm kùn.fɔ:v:exposer
-\mm kùn:n:tête
-\mm fɔ́:v:dire
-\mm ɲɔ́gɔn:prn:RECP
+\mm kùnfɔ:v:exposer
+\mmm kùn:n:tête
+\mmm fɔ́:v:dire
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf confident
 \gvf confident
+\dt 31/Mar/2019
 
 \lx kùngana
 \mm kùn:n:tête
 \mm gàna:v:raser
-\va kùn.gwana
+\va kùngwana
 \mm kùn:n:tête
 \mm gwàna:v:raser
 \ph [gw]
 \ps n
 \gf à.la.tête.rasée
 \gvf à la tête rasée
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kúngo
 \va kúmo
@@ -76117,12 +76122,12 @@ l'intérieur une ou deux graines)
 
 \lx kúngojan
 \mm kúngo:n:brousse
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf brousse.éloignée
 \gvf brousse éloignée
 \smf (de tout village)
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kúngojeni
 \mm kúngo:n:brousse
@@ -76135,19 +76140,19 @@ l'intérieur une ou deux graines)
 \lx kúngokami
 \mm kúngo:n:brousse
 \mm kàmi:n:pintade
-\va kúngo.kimi
+\va kúngokimi
 \mm kúngo:n:brousse
 \mm kìmi:n:pintade
 \ve (f)
 \ps n
 \gf pintade.sauvage
 \gvf pintade sauvage
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kúngokolon
 \mm kúngo:n:brousse
 \mm kólon:adj:vide
-\va kúngo.kolo
+\va kúngokolo
 \mm kúngo:n:brousse
 \mm kólo:adj:vide
 \ps n
@@ -76158,7 +76163,7 @@ l'intérieur une ou deux graines)
 \xf il parcourt la grande brousse
 \xv à táara  kúngokolon fàntan bántan
 \xf il est allé dans une brousse perdue (sans père ni mère)
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kúngokɔnɔbagan
 \mm kúngo:n:brousse
@@ -76210,19 +76215,19 @@ l'intérieur une ou deux graines)
 \dt 26/Sep/2006
 
 \lx kùngosibali
-\mm kùn.gòsi:v:bien.élever
-\mm kùn:n:tête
-\mm gòsi:v:battre
+\mm kùngòsi:v:bien.élever
+\mmm kùn:n:tête
+\mmm gòsi:v:battre
 \mm bali:mrph:PTCP.PRIV
-\va kùn.gɔsi.bali
-\mm kùn:n:tête
-\mm gɔ̀si:v:battre
+\va kùngɔsibali
+\mmm kùn:n:tête
+\mmm gɔ̀si:v:battre
 \mm bali:mrph:PTCP.PRIV
 \ps ptcp
 \gf mal.élevé
 \gvf mal élevé
 \gvf effronté
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kúngosogo
 \mm kúngo:n:brousse
@@ -76271,7 +76276,7 @@ l'intérieur une ou deux graines)
 
 \lx kùnjɛ
 \mm kùn:n:tête
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps adj/n
 \ms 1
 \gf chauve
@@ -76280,7 +76285,7 @@ l'intérieur une ou deux graines)
 \ms 2
 \gvf vieillard
 \fq (rare)
-\dt 19/Aug/2006
+\dt 31/Mar/2019
 
 \lx kúnji
 \mm kún:v:s'adapter
@@ -76292,12 +76297,12 @@ l'intérieur une ou deux graines)
 
 \lx kùnjugu
 \mm kùn:n:tête
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \gf envers
 \gvf envers
 \sy ɲɛ́jugu
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnkan
 \mm kùn:n:tête
@@ -76368,15 +76373,15 @@ l'intérieur une ou deux graines)
 \dt 14/Apr/2018
 
 \lx kùnkarikini
-\mm kùn.kari:v:casser.en.deux
-\mm kùn:n:tête
-\mm kári:v:casser
+\mm kùnkari:v:casser.en.deux
+\mmm kùn:n:tête
+\mmm kári:v:casser
 \mm kíni:n:ruz.cuit
 \ps n
 \gf plat.de.mil
 \gvf plat de mil
 \smf (grossièrement concassé)
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnkelen
 \mm kùn:n:tête
@@ -76389,16 +76394,16 @@ l'intérieur une ou deux graines)
 \dt 26/Sep/2006
 
 \lx kùnkelenya
-\mm kùn.kelen:adj/n:franc
-\mm kùn:n:tête
-\mm kélen:num:un
+\mm kùnkelen:adj:franc
+\mmm kùn:n:tête
+\mmm kélen:num:un
 \mm ya:mrph:ABSTR
 \ps n
 \gf franchise
 \gvf franchise
 \gvf loyauté
 \gvf droiture
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnkɛnɛ
 \mm kùn:n:tête
@@ -76411,18 +76416,19 @@ l'intérieur une ou deux graines)
 \dt 26/Sep/2006
 
 \lx kùnkɛnɛya
-\mm kùn.kɛnɛ:adj:dégourdi
-\mm kùn:n:tête
-\mm kɛ́nɛ:adj:frais
+\mm kùnkɛnɛ:adj:dégourdi
+\mmm kùn:n:tête
+\mmm kɛ́nɛ:adj:frais
 \mm ya:mrph:ABSTR
 \ps n
 \gf dynamisme
 \gvf dynamisme
+\dt 31/Mar/2019
 
 \lx kùnkɛɲɔgɔn
 \mm kùn:n:tête
 \mm kɛ́:v:faire
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf camarade
 \gvf camarade
@@ -76430,7 +76436,7 @@ l'intérieur une ou deux graines)
 \sy kɛ́ɲɔgɔn
 \sy tɔ̀ɲɔgɔn
 \cf fílan
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnko
 \mm kùn:n:tête
@@ -76455,9 +76461,9 @@ l'intérieur une ou deux graines)
 \dt 26/Sep/2006
 
 \lx kùnkobaganinji
-\mm kùn.ko:n:affaire
-\mm kùn:n:tête
-\mm kó:n:affaire
+\mm kùnko:n:affaire
+\mmm kùn:n:tête
+\mmm kó:n:affaire
 \mm bàga:n:poison
 \mm nin:mrph:DIM
 \mm jí:n:eau
@@ -76465,30 +76471,30 @@ l'intérieur une ou deux graines)
 \ps n
 \gf térébenthine
 \gvf térébenthine
-\dt 06/Mar/2019
+\dt 31/Mar/2019
 
 \lx kùnkofɔɲɔgɔn
-\mm kùn.ko:n:affaire
-\mm kùn:n:tête
-\mm kó:n:affaire
+\mm kùnko:n:affaire
+\mmm kùn:n:tête
+\mmm kó:n:affaire
 \mm fɔ́:v:dire
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \va kùnkofɔbaa
-\mm kùn.ko:n:affaire
-\mm kùn:n:tête
-\mm kó:n:affaire
+\mm kùnko:n:affaire
+\mmm kùn:n:tête
+\mmm kó:n:affaire
 \mm fɔ́:v:dire
 \mm baa:mrph:AG.OCC
 \va kùnkofɔbaga
-\mm kùn.ko:n:affaire
-\mm kùn:n:tête
-\mm kó:n:affaire
+\mm kùnko:n:affaire
+\mmm kùn:n:tête
+\mmm kó:n:affaire
 \mm fɔ́:v:dire
 \mm baga:mrph:AG.OCC
 \ps n
 \gf confident
 \gvf confident
-\dt 06/Nov/2014
+\dt 31/Mar/2019
 
 \lx kùnkolo
 \mm kùn:n:tête
@@ -76514,114 +76520,114 @@ l'intérieur une ou deux graines)
 \dt 26/Sep/2006
 
 \lx kùnkolobara
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm bàra:n:calebasse
 \ps n
 \gf boîte.crânienne
 \gvf boîte crânienne
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnkolodimi
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm dími:n:souffrance
 \ps n
 \gf migraine
 \gvf migraine
 \gvf névralgie
 \gvf céphalée
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnkolofilen
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm fílen:n:calebasse
-\va kùn.kolo.flen
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\va kùnkoloflen
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm flén:n:calebasse
 \ph [fl]
 \ps n
 \gf boîte.crânienne
 \gvf boîte crânienne
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnkolondɛgɛn
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \va kùnkoloncɛgɛn
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \ps n
 \gf cerveau
 \gvf cerveau
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnkolosɛmɛ
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm sɛ́mɛ:n:moëlle
-\va kùn.kolo.sɔmi
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\va kùnkolosɔmi
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm sɔ́mi:n:moëlle
 \ps n
 \gf cerveau
 \gvf cerveau
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnkoloso
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm só:n:maison
 \ps n
 \gf cavité.crânienne
 \gvf cavité crânienne
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnkolotɔ
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm tɔ:mrph:ST
 \ps n
 \gf fou
 \gvf fou
 \gvf malade mental
-\dt 04/Jul/2013
+\dt 31/Mar/2019
 
 \lx kùnkolowuli
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm wúli:v:se.lever
 \ps n
 \gf maladie.mentale
 \gvf maladie mentale
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnkoloyɛlɛma
-\mm kùn.kolo:n:crâne
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm yɛ̀lɛma:v:changer
 \ps n
 \gf maladie.mentale
 \gvf maladie mentale
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnkontan
-\mm kùn.ko:n:affaire
+\mm kùnko:n:affaire
 \mmm kùn:n:tête
 \mmm kó:n:affaire
 \mm ntan:mrph:PRIV
@@ -76630,17 +76636,17 @@ l'intérieur une ou deux graines)
 \gvf sans souci
 \gvf sans responsabilité
 \smf (dans une affaire)
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnkotigi
-\mm kùn.ko:n:affaire
-\mm kùn:n:tête
-\mm kó:n:affaire
+\mm kùnko:n:affaire
+\mmm kùn:n:tête
+\mmm kó:n:affaire
 \mm tìgi:n:maître
 \ps n
 \gf responsable
 \gvf responsable
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnkɔ́ri
 \mm kùn:n:tête
@@ -76701,36 +76707,39 @@ l'intérieur une ou deux graines)
 
 \lx kùnkɔrɔta
 \mm kùn:n:tête
-\mm kɔ́rɔ:pp:sous
-\mm tà:v:prendre
+\mm kɔ́rɔtà:v:soulever
+\mmm kɔ́rɔ:n:dessous
+\mmm tà:v:prendre
 \ps n
 \gf honneur
 \gvf honneur
 \gvf fierté
-\dt 25/Jun/2013
+\dt 31/Mar/2019
 
 \lx kùnkɔrɔtà
 \mm kùn:n:tête
-\mm kɔ́rɔ:pp:sous
-\mm tà:v:prendre
+\mm kɔ́rɔtà:v:soulever
+\mmm kɔ́rɔ:n:dessous
+\mmm tà:v:prendre
 \ps v
 \vl vt
 \gf rendre.fier
 \gvf rendre fier
 \gvf honorer
-\dt 18/Jun/2014
+\dt 31/Mar/2019
 
 \lx kùnkɔrɔtasɛbɛn
-\mm kùn.kɔrɔ.ta:v:rendre.fier
-\mm kùn:n:tête
-\mm kɔ́rɔ:pp:sous
-\mm tà:v:prendre
+\mm kùnkɔrɔta:v:rendre.fier
+\mmm kùn:n:tête
+\mmm kɔ́rɔtà:v:soulever
+\mmmm kɔ́rɔ:n:dessous
+\mmmm tà:v:prendre
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf diplôme.d'honneur
 \gvf diplôme d'honneur
 \gvf prix
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnkun
 \ps n
@@ -76769,8 +76778,9 @@ l'intérieur une ou deux graines)
 
 \lx kùnmabɔ
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
+\mm màbɔ́:v:éloigner
+\mmm mà:mrph:SUPER
+\mmm bɔ́:v:sortir
 \ps n
 \ms 1
 \gf compensation
@@ -76778,12 +76788,13 @@ l'intérieur une ou deux graines)
 \smf (le nom apparaît surtout dans la traduction du Coran)
 \ms 2
 \gvf caution
-\dt 10/Apr/2016
+\dt 31/Mar/2019
 
 \lx kùnmabɔ́
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
+\mm màbɔ́:v:éloigner
+\mmm mà:mrph:SUPER
+\mmm bɔ́:v:sortir
 \ps v
 \vl vt
 \ms 1
@@ -76797,19 +76808,21 @@ l'intérieur une ou deux graines)
 \gvf remplacer
 \xv à y'á fà kùnmabɔ́ kàban
 \xf il remplace déjà son père
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx kùnmabɔbaa
-\mm kùn.ma.bɔ:v:racheter
-\mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
+\mm kùnmabɔ:v:racheter
+\mmm kùn:n:tête
+\mmm màbɔ́:v:éloigner
+\mmmm mà:mrph:SUPER
+\mmmm bɔ́:v:sortir
 \mm baa:mrph:AG.OCC
-\va kùn.ma.bɔ.baga
-\mm kùn.ma.bɔ:v:racheter
-\mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
+\va kùnmabɔbaga
+\mm kùnmabɔ:v:racheter
+\mmm kùn:n:tête
+\mmm màbɔ́:v:éloigner
+\mmmm mà:mrph:SUPER
+\mmmm bɔ́:v:sortir
 \mm baga:mrph:AG.OCC
 \ps n
 \ms 1
@@ -76818,23 +76831,26 @@ l'intérieur une ou deux graines)
 \gvf libérateur
 \ms 2
 \gvf remplaçant
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnmabɔnafolo
-\mm kùn.ma.bɔ:v:racheter
-\mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
+\mm kùnmabɔ:v:racheter
+\mmm kùn:n:tête
+\mmm màbɔ́:v:éloigner
+\mmmm mà:mrph:SUPER
+\mmmm bɔ́:v:sortir
 \mm nàfolo:n:biens
 \ps n
 \gf rançon
 \gvf rançon
+\dt 31/Mar/2019
 
 \lx kùnmabɔsara
-\mm kùn.ma.bɔ:v:racheter
-\mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm bɔ́:v:sortir
+\mm kùnmabɔ:v:racheter
+\mmm kùn:n:tête
+\mmm màbɔ́:v:éloigner
+\mmmm mà:mrph:SUPER
+\mmmm bɔ́:v:sortir
 \mm sàra:n:paie
 \ps n
 \gf rançon
@@ -76842,12 +76858,12 @@ l'intérieur une ou deux graines)
 \smf (somme versée pour libérer un esclave)
 \sy kùnmabɔlisara
 \rem ex 30, 16
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx kùnmadɔgɔ
 \mm kùnma:n:vitalité
-\mm kùn:n:tête
-\mm mà:mrph:SUPER
+\mmm kùn:n:tête
+\mmm mà:mrph:SUPER
 \mm dɔ́gɔ:vq:étroit
 \ps adj/n
 \ms 1
@@ -76856,13 +76872,14 @@ l'intérieur une ou deux graines)
 \gvf malingre
 \ms 2
 \gvf éhonté
-\dt 23/Mar/2015
+\dt 31/Mar/2019
 
 \lx kùnmadɔ́gɔya
-\mm kùnma:n:vitalité
-\mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm dɔ́gɔ:vq:petit
+\mm kùnmadɔgɔ:adj:chétif
+\mmm kùnma:n:vitalité
+\mmmm kùn:n:tête
+\mmmm mà:mrph:SUPER
+\mmm dɔ́gɔ:vq:étroit
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -76871,12 +76888,13 @@ l'intérieur une ou deux graines)
 \gvf rendre chétif
 \ms 2
 \gvf humilier
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx kùnmafalen
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm fàlen:v:échanger
+\mm màfàlen:v:échanger
+\mmm mà:mrph:SUPER
+\mmm fàlen:v:échanger
 \ps n
 \gf échange
 \gvf échange
@@ -76884,17 +76902,18 @@ l'intérieur une ou deux graines)
 \sy kùnfalen
 \xv wáraba kùnmafalen yé  dén yé
 \xf le remplaçant du lion c'est le lionceau (dicton)
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnmafàlen
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm fàlen:v:échanger
+\mm màfàlen:v:échanger
+\mmm mà:mrph:SUPER
+\mmm fàlen:v:échanger
 \ps v
 \vl vt
 \gf échanger
 \gvf échanger
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx kùnmafili
 \mm kùn:n:tête
@@ -76908,14 +76927,15 @@ l'intérieur une ou deux graines)
 
 \lx kùnmajìgin
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm jìgin:v:descendre
+\mm màjìgin:v:abaisser
+\mmm mà:mrph:SUPER
+\mmm jìgin:v:descendre
 \ps v
 \vl vt
 \gf humilier
 \gvf humilier
 \gvf rabaisser
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnmaniya
 \va kùmaniya
@@ -76963,28 +76983,32 @@ l'intérieur une ou deux graines)
 \gvf préoccuper
 \dt 29/Jun/2013
 
-\lx kùnmasuli
+\lx kùnmasuuli
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm sùuli:v:abaisser
-\va kùn.ma.suuli
+\mm màsùuli:v:baisser
+\mmm mà:mrph:SUPER
+\mmm sùuli:v:abaisser
+\va kùnmasuli
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm sùuli:v:abaisser
+\mm màsùli:v:baisser
+\mmm mà:mrph:SUPER
+\mmm sùli:v:abaisser
 \ps n
 \gf humiliation
 \gvf humiliation
 \gvf honte
-\dt 25/Jun/2013
+\dt 31/Mar/2019
 
-\lx kùnmasùli
+\lx kùnmasùuli
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm sùuli:v:abaisser
-\va kùn.ma.sùuli
+\mm màsùuli:v:baisser
+\mmm mà:mrph:SUPER
+\mmm sùuli:v:abaisser
+\va kùnmasùli
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm sùuli:v:abaisser
+\mm màsùli:v:baisser
+\mmm mà:mrph:SUPER
+\mmm sùli:v:abaisser
 \ps v
 \vl vr
 \ms 1
@@ -76993,7 +77017,7 @@ l'intérieur une ou deux graines)
 \ms 2
 \gvf avoir honte
 \gvf humilier
-\dt 25/Jun/2013
+\dt 31/Mar/2019
 
 \lx kùnmató
 \mm kùn:n:tête
@@ -77029,39 +77053,46 @@ l'intérieur une ou deux graines)
 \dt 14/Apr/2018
 
 \lx kùnmayɛlɛma
+\mm kùn:n:tête
+\mm màyɛ̀lɛma:v:changer
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps n
 \gf trouble.mental
 \gvf trouble mental
-\dt 10/Jun/2013
+\dt 31/Mar/2019
 
 \lx kùnmayɛ̀lɛma
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm yɛ̀lɛma:v:changer
+\mm màyɛ̀lɛma:v:changer
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps v
 \vl vt
 \gf troubler
 \gvf troubler
 \gvf déranger mentalement
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnmayɛlɛn
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm yɛ̀lɛn:v:monter
+\mm màyɛ̀lɛn:v:faire.monter
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛn:v:monter
 \ps n
 \gf honneur
 \gvf honneur
-\dt 04/Jun/2016
+\dt 31/Mar/2019
 
 \lx kùnmayɛ̀lɛn
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
-\mm yɛ̀lɛn:v:monter
+\mm màyɛ̀lɛn:v:faire.monter
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛn:v:monter
 \ps v
 \gf honorer
 \gvf honorer
-\dt 04/Jun/2016
+\dt 31/Mar/2019
 
 \lx kùnmɔ
 \ve (bk)
@@ -77139,41 +77170,45 @@ l'intérieur une ou deux graines)
 
 \lx kùnnabiri
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm bíri:v:courber
+\mm nábiri:v:abaisser
+\mmm ná:mrph:CAUS
+\mmm bíri:v:courber
 \ps n
 \gf voile.de.tête
 \gvf voile de tête
 \smf (des circoncis et des excisées ...)
 \sy kùnnabirilan
 \sy kùnnabirifini
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnnabíri
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm bíri:v:courber
+\mm nábiri:v:abaisser
+\mmm ná:mrph:CAUS
+\mmm bíri:v:courber
 \ps v
 \vl vt
 \gf voiler.la.tête
 \gvf voiler la tête
 \smf (rite d'initiation ...)
-\dt 10/Apr/2018
+\dt 31/Mar/2019
 
 \lx kùnnabɔ
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm bɔ́:v:sortir
+\mm nábɔ:v:faire.sortir
+\mmm ná:mrph:CAUS
+\mmm bɔ́:v:sortir
 \ps n
 \gf présentation.du.bébé
 \gvf présentation du bébé
 \smf (le jour où on lui donne son nom)
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnnadá
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm dá:v:poser
+\mm náda:v:faire.coucher
+\mmm ná:mrph:CAUS
+\mmm dá:v:poser
 \ps v
 \vl vt
 \ms 1
@@ -77185,18 +77220,19 @@ l'intérieur une ou deux graines)
 \gvf passer par dessus
 \xv jí yé bárasi kùnnadá
 \xf le barrage a débordé
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx kùnnafá
 \mm kùn:n:tête
-\mm ná:pp:à
-\mm fá:v:remplir
+\mm náfa:v:remplir
+\mmm ná:mrph:CAUS
+\mmm fá:v:remplir
 \ps v
 \vl vt
 \gf surcharger
 \gvf surcharger
 \smf (de problèmes, du monde)
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx kùnnafɛn
 \mm kùn:n:tête
@@ -77209,15 +77245,16 @@ l'intérieur une ou deux graines)
 \dt 26/Sep/2006
 
 \lx kùnnafɛntɔ
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm fɛ́n:n:chose
+\mm kùnnafɛn:n:maladie.mentale
+\mmm kùn:n:tête
+\mmm ná:pp:à
+\mmm fɛ́n:n:chose
 \mm tɔ:mrph:ST
 \ps adj
 \gf fou
 \gvf fou
 \gvf malade mental
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnnafoni
 \mm kùn:n:tête
@@ -77244,82 +77281,88 @@ l'intérieur une ou deux graines)
 
 \lx kùnnafonidiso
 \mm kùnnafoni:n:information
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm fóni:v:détacher
+\mmm kùn:n:tête
+\mmm ná:pp:à
+\mmm fóni:v:détacher
 \mm dí:v:donner
 \mm só:n:maison
 \ps n
 \gf média
 \gvf média
 \gvf massmedia
-\dt 05/Jun/2017
+\dt 31/Mar/2019
 
 \lx kùnnafonina
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm fóni:v:détacher
+\mm kùnnafóni:v:renseigner
+\mmm kùn:n:tête
+\mmm ná:pp:à
+\mmm fóni:v:détacher
 \mm na:mrph:AG.PRM
 \ps n
 \gf informateur
 \gvf informateur
+\dt 31/Mar/2019
 
 \lx kùnnafonisɛbɛn
 \mm kùnnafoni:n:information
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm fóni:v:détacher
+\mmm kùn:n:tête
+\mmm ná:pp:à
+\mmm fóni:v:détacher
 \mm sɛbɛn:n:écrit
 \ps n
 \gf journal
 \gvf journal
-\dt 21/Oct/2016
+\dt 31/Mar/2019
 
 \lx kùnnafoniso
 \mm kùnnafoni:n:information
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm fóni:v:détacher
+\mmm kùn:n:tête
+\mmm ná:pp:à
+\mmm fóni:v:détacher
 \mm so:n:maison
 \ps n
 \gf site.Internet
 \gvf site Internet
-\dt 19/Mar/2015
+\dt 31/Mar/2019
 
 \lx kùnnagɛlɛn
 \mm kùnna:n:contenu.de.tête
-\mm kùn:n:tête
-\mm ná:pp:à
+\mmm kùn:n:tête
+\mmm ná:pp:à
+\mm gɛ̀lɛn:adj:difficile
 \ps adj/n
 \gf récalcitrant
 \gvf récalcitrant
-\dt 23/Mar/2015
+\dt 31/Mar/2019
 
 \lx kùnnagosi
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm gòsi:v:battre
+\mm nágòsi:v:mépriser
+\mmm ná:mrph:CAUS
+\mmm gòsi:v:battre
 \ps n
 \gf réprimande
 \gvf réprimande
 \gvf regret
-\dt 20/Jan/2015
+\dt 31/Mar/2019
 
 \lx kùnnagòsi
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm gòsi:v:battre
+\mm nágòsi:v:mépriser
+\mmm ná:mrph:CAUS
+\mmm gòsi:v:battre
 \va kùn.na.gɔ̀si
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm gɔ̀si:v:battre
+\mm nágòsi:v:mépriser
+\mmm ná:mrph:CAUS
+\mmm gɔ̀si:v:battre
 \ps v
 \vl vt
 \gf relever.les.défauts
 \gvf relever les défauts
 \gvf faire la morale
 \gvf humilier
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnnajala
 \mm kùn:n:tête
@@ -77337,7 +77380,7 @@ l'intérieur une ou deux graines)
 \mm kùn:n:tête
 \mm ná:pp:à
 \mm jàte:n:compte
-\va kùn.na.jati
+\va kùnnajati
 \mm kùn:n:tête
 \mm ná:pp:à
 \mm jàti:n:compte
@@ -77347,7 +77390,7 @@ l'intérieur une ou deux graines)
 \sy jùnfɛjate
 \sy dálajate
 \rem du, Jos, kb
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx kùnnakàli
 \mm kùn:n:tête
@@ -77368,21 +77411,21 @@ l'intérieur une ou deux graines)
 \dt 07/Mar/2019
 
 \lx kùnnala
-\mm kùn.na:pp:au.dessus
-\mm kùn:n:tête
-\mm ná:pp:à
+\mm kùnná:pp:au.dessus
+\mmm kùn:n:tête
+\mmm ná:pp:à
 \mm la:mrph:LOC
-\va kùn.na.na
-\mm kùn.na:pp:au.dessus
-\mm kùn:n:tête
-\mm ná:pp:à
+\va kùnnana
+\mm kùnná:pp:au.dessus
+\mmm kùn:n:tête
+\mmm ná:pp:à
 \mm na:mrph:LOC
 \ps n
 \gf dessus
 \gvf dessus
 \xv dén bàra kùnnana bɛ́ fìn  k'à sɔ̀rɔ  jóli bɛ́  à jùkɔrɔla lá
 \xf le dessus du nombril du bébé noircit alors qu'il y a une plaie par dessous
-\dt 10/Nov/2012
+\dt 31/Mar/2019
 
 \lx kùnnamini
 \mm kùn:n:tête
@@ -77415,74 +77458,74 @@ l'intérieur une ou deux graines)
 \mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \va kùnnadiya
-\mm kùn.na.di:adj:chanceux
-\mm kùnna:n:contenu.de.tête
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm dí:vq:agréable
+\mm kùnnadi:adj:chanceux
+\mmm kùnna:n:contenu.de.tête
+\mmmm kùn:n:tête
+\mmmm na:mrph:dans
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf chance
 \gvf chance
-\dt 28/May/2016
+\dt 31/Mar/2019
 
 \lx kùnnandiya
-\mm kùnnandi:adj:chanceux
-\mm kùnna:n:contenu.de.tête
-\mm kùn:n:tête
-\mm nan:mrph:dans
-\mm dí:vq:agréable
+\mm kùn.nan.di:adj:chanceux
+\mmm kùnna:n:contenu.de.tête
+\mmmm kùn:n:tête
+\mmmm nan:mrph:dans
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \va kùnnadiya
-\mm kùn.na.di:adj:chanceux
-\mm kùnna:n:contenu.de.tête
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm dí:vq:agréable
+\mm kùnnadi:adj:chanceux
+\mmm kùnna:n:contenu.de.tête
+\mmmm kùn:n:tête
+\mmmm na:mrph:dans
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps v
 \gf être.chanceux
 \gvf être chanceux
 \gvf porter chance
-\dt 28/May/2016
+\dt 31/Mar/2019
 
 \lx kùnnango
 \mm kùnna:n:contenu.de.tête
-\mm kùn:n:tête
-\mm nan:mrph:dans
-\mm gó:adj:désagréable
+\mmm kùn:n:tête
+\mmm nan:mrph:dans
+\mm gó:vq:désagréable
 \ps adj/n
 \gf malchanceux
 \gvf malchanceux
-\dt 23/Mar/2015
+\dt 31/Mar/2019
 
 \lx kùnnangoya
-\mm kùnnango:adj/n:malchanceux
-\mm kùnna:n:contenu.de.tête
-\mm kùn:n:tête
-\mm nan:mrph:dans
-\mm gó:adj:désagréable
-\mm ya:mrph:ABSTR
+\mm kùnnango:adj:malchanceux
+\mmm kùnna:n:contenu.de.tête
+\mmmm kùn:n:tête
+\mmmm nan:mrph:dans
+\mmm gó:vq:désagréable
+\mm ya:mrph:DEQU
 \ps n
 \gf malchance
 \gvf malchance
 \xv díɲɛ kùnnangoya fɔ́lɔ yé  mùsojugu fúru yé
 \xf la première déveine de cette vie est le mariage d'une femme méchante
-\dt 23/Mar/2015
+\dt 31/Mar/2019
 
 \lx kùnnangoya
-\mm kùnnango:adj/n:malchanceux
-\mm kùnna:n:contenu.de.tête
-\mm kùn:n:tête
-\mm nan:mrph:dans
-\mm gó:adj:désagréable
-\mm ya:mrph:ABSTR
+\mm kùnnango:adj:malchanceux
+\mmm kùnna:n:contenu.de.tête
+\mmmm kùn:n:tête
+\mmmm nan:mrph:dans
+\mmm gó:vq:désagréable
+\mm ya:mrph:DEQU
 \ps v
 \gf être.malchanceux
 \gvf être malchanceux
 \gvf porter malchance
 \gvf avoir la guigne
-\dt 23/Mar/2015
+\dt 31/Mar/2019
 
 \lx kùnnankolon
 \mm kùn:n:tête
@@ -77494,20 +77537,21 @@ l'intérieur une ou deux graines)
 \dt 14/Feb/2018
 
 \lx kùnnankolonbila
-\mm kùn:n:tête
-\mm nan:mrph:dans
-\mm kólon:adj:vide
+\mm kùnnankolon:adj:tête.nue
+\mmm kùn:n:tête
+\mmm nan:mrph:à
+\mmm kólon:adj:vide
 \mm bìla:v:mettre
 \ps n
 \gf tête.non.couverte
 \gvf tête non couverte
 \smf (la coutume, la mode ...)
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnnasàgon
-\mm kùn.na:pp:au.dessus
-\mm kùn:n:tête
-\mm ná:pp:à
+\mm kùnna:pp:au.dessus
+\mmm kùn:n:tête
+\mmm ná:pp:à
 \mm sàgon:v:sauter.par.dessus
 \ps v
 \vl vt
@@ -77522,7 +77566,7 @@ l'intérieur une ou deux graines)
 \smf (d'une veuve par un sacrifice de purification)
 \xv mùso cɛ̀ sàlen bɛ́ kùnnasagon ní syɛ̀ yé
 \xf une veuve peut se remarier avec (le sacrifice d') une poule
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnnasɛbɛnni
 \mm kùn:n:tête
@@ -77609,10 +77653,10 @@ l'intérieur une ou deux graines)
 \dt 16/Aug/2006
 
 \lx kùnnasirilenya
-\mm kùn.na.siri:v:faire.honte
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm sìri:v:lier
+\mm kùnnasiri:v:faire.honte
+\mmm kùn:n:tête
+\mmm ná:pp:à
+\mmm sìri:v:lier
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
@@ -77620,9 +77664,27 @@ l'intérieur une ou deux graines)
 \gvf confusion
 \gvf humiliation
 \smf (état)
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
-\lx kùnnasùli
+\lx kùnnasúmaya
+\mm kùn:n:tête
+\mm násumaya:v:rafraîchir
+\mmm násuma:v:rafraîchir
+\mmm ná:mrph:CAUS
+\mmm súmaya:v:rafraîchir
+\mmmm súma:vq:rafrais
+\mmm ya:mrph:DEQU
+\ps v
+\gf rendre.lent
+\gvf rendre lent
+\gvf rendre calme
+\dt 31/Mar/2019
+
+\lx kùnnasùuli
+\mm kùn:n:tête
+\mm ná:mrph:CAUS
+\mm sùuli:v:abaisser
+\va kùnnasùli
 \mm kùn:n:tête
 \mm ná:mrph:CAUS
 \mm sùli:v:abaisser
@@ -77635,24 +77697,13 @@ l'intérieur une ou deux graines)
 \ms 2
 \vl vr
 \gvf baisser la tête
-\dt 26/Sep/2006
-
-\lx kùnnasúmaya
-\mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm súmaya:v:rafraîchir
-\mm súma:vq:lent
-\mm ya:mrph:DEQU
-\ps v
-\gf rendre.lent
-\gvf rendre lent
-\gvf rendre calme
-\dt 08/Feb/2017
+\dt 31/Mar/2019
 
 \lx kùnnatà
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm tà:v:prendre
+\mm nátà:v:passer.par.dessus
+\mmm ná:mrph:CAUS
+\mmm tà:v:prendre
 \ps v
 \vl vt
 \ms 1
@@ -77666,12 +77717,12 @@ l'intérieur une ou deux graines)
 \ms 3
 \gvf ébourgeonner
 \smf (oseille de Guinée ...)
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnnatɛ̀mɛ
-\mm kùn.na:pp:au.dessus
-\mm kùn:n:tête
-\mm ná:pp:à
+\mm kùnna:pp:au.dessus
+\mmm kùn:n:tête
+\mmm ná:pp:à
 \mm tɛ̀mɛ:v:passer
 \ps v
 \vl vt
@@ -77680,33 +77731,36 @@ l'intérieur une ou deux graines)
 \gvf achever une oeuvre
 \ms 2
 \gvf aider à l'achèvement
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnnatigɛ
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm nátìgɛ:v:faire.passer
+\mmm ná:mrph:CAUS
+\mmm tìgɛ:v:couper
 \ps n
 \gf impudence
 \gvf impudence
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnnatìgɛ
 \mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm nátìgɛ:v:faire.passer
+\mmm ná:mrph:CAUS
+\mmm tìgɛ:v:couper
 \ps v
 \vl vt
 \gf libérer.de.honte
 \gvf libérer de honte
 \gvf libérer des soucis
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnnatìgɛlen
-\mm kùn.na.tìgɛ:v:libérer.de.honte
-\mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm kùnnatìgɛ:v:libérer.de.honte
+\mmm kùn:n:tête
+\mmm nátìgɛ:v:faire.passer
+\mmmm ná:mrph:CAUS
+\mmmm tìgɛ:v:couper
 \mm len:mrph:PTCP.RES
 \ps n
 \ms 1
@@ -77716,49 +77770,57 @@ l'intérieur une ou deux graines)
 \ms 2
 \gvf joyeux
 \smf (d'être libérée d'une humiliation)
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùnnatigɛlenya
-\mm kùn.na.tìgɛ.len:n:effrontée
-\mm kùn.na.tìgɛ:v:libérer.de.honte
-\mm kùn:n:tête
-\mm ná:mrph:CAUS
-\mm tìgɛ:v:couper
-\mm len:mrph:PTCP.RES
+\mm kùnnatìgɛlen
+\mmm kùnnatìgɛ:v:libérer.de.honte
+\mmmm kùn:n:tête
+\mmmm nátìgɛ:v:faire.passer
+\mmmmm ná:mrph:CAUS
+\mmmmm tìgɛ:v:couper
+\mmm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \gf effronterie
 \gvf effronterie
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
-\lx kùnnatiyɛn
+\lx kùnnatiɲɛ
 \mm kùn:n:tête
-\mm ná:pp:à
-\mm tíyɛn:v:gâter
-\va kùn.na.cɛn
+\mm nátiɲɛ:v:gâter
+\mmm lá:mrph:CAUS
+\mmm tíɲɛ:v:gâter
+\va kùnnatiyɛn
 \mm kùn:n:tête
-\mm ná:pp:à
-\mm cɛ́n:v:gâter
-\ph [kunnacɛn]
-\va kùnnatiɲɛ
+\mm nátíyɛn:v:gâter
+\mmm lá:mrph:CAUS
+\mmm tíyɛn:v:gâter
+\va kùnnacɛn
+\mm kùn:n:tête
+\mm nácɛ́n:v:gâter
+\mmm lá:mrph:CAUS
+\mmm cɛ́n:v:gâter
 \ps n
 \gf déshonneur
 \gvf déshonneur
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
-\lx kùnnatíyɛn
+\lx kùnnatíɲɛ
 \mm kùn:n:tête
-\mm ná:pp:à
-\mm tíyɛn:v:gâter
+\mm nátiɲɛ:v:gâter
+\mmm lá:mrph:CAUS
+\mmm tíɲɛ:v:gâter
+\va kùnnatíyɛn
+\mm kùn:n:tête
+\mm nátíyɛn:v:gâter
+\mmm lá:mrph:CAUS
+\mmm tíyɛn:v:gâter
 \va kùnnacɛ́n
 \mm kùn:n:tête
-\mm ná:pp:à
-\mm cɛ́n:v:gâter
-\ph [..cɛn]
-\va kùnnatíɲɛ
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm tíɲɛ:v:gâter
+\mm nácɛ́n:v:gâter
+\mmm lá:mrph:CAUS
+\mmm cɛ́n:v:gâter
 \ps v
 \vl vt
 \ms 1
@@ -77768,7 +77830,7 @@ l'intérieur une ou deux graines)
 \ms 2
 \gvf séduire
 \smf (une jeune fille, une femme mariée ...)
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx kùnnawolo
 \mm kùn:n:tête
@@ -77801,10 +77863,10 @@ l'intérieur une ou deux graines)
 \dt 14/Apr/2018
 
 \lx kùnnawolosɛbɛn
-\mm kùn.na.wolo:v:faire.honneur
-\mm kùn:n:tête
-\mm ná:pp:à
-\mm wólo:v:accoucher
+\mm kùnnawolo:v:faire.honneur
+\mmm kùn:n:tête
+\mmm ná:pp:à
+\mmm wólo:v:accoucher
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf diplôme.d'honneur
@@ -77812,7 +77874,7 @@ l'intérieur une ou deux graines)
 \gvf prix
 \xv ń yé bálikukalan kɛ́ fɔ́ kà kùnnawolosɛbɛn sɔ̀rɔ ò lá fáasi !
 \rem f
-\dt 11/Mar/2018
+\dt 31/Mar/2019
 
 \lx kùnndɛgɛn
 \mm kùn:n:tête
@@ -77839,9 +77901,9 @@ l'intérieur une ou deux graines)
 \dt 11/Mar/2018
 
 \lx kùnntanko
-\mm kùn.ntan:adj:inutile
-\mm kùn:n:tête
-\mm ntan:mrph:PRIV
+\mm kùnntan:adj:inutile
+\mmm kùn:n:tête
+\mmm ntan:mrph:PRIV
 \mm kó:n:affaire
 \ps n
 \gf imbécillité
@@ -77849,17 +77911,17 @@ l'intérieur une ou deux graines)
 \gvf plaisanterie
 \xv á kà sɛ̀bɛko kɛ́, á kàna kùnntanko kɛ́ !
 \rem f
-\dt 04/Apr/2016
+\dt 31/Mar/2019
 
 \lx kùnntanya
-\mm kùn.ntan:adj:inutile
-\mm kùn:n:tête
-\mm ntan:mrph:PRIV
+\mm kùnntan:adj:inutile
+\mmm kùn:n:tête
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf absurdité
 \gvf absurdité
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnɲɔgɔn
 \mm kùn:n:tête
@@ -77920,7 +77982,7 @@ l'intérieur une ou deux graines)
 \dt 04/Mar/2019
 
 \lx kùnsɛmɛnabana
-\mm kùn.sɛmɛ:n:cerveau
+\mm kùnsɛmɛ:n:cerveau
 \mmm kùn:n:tête
 \mmm sɛ́mɛ:n:moelle
 \mm ná:pp:à
@@ -77928,7 +77990,7 @@ l'intérieur une ou deux graines)
 \ps n
 \gf méningite
 \gvf méningite
-\dt 04/Mar/2019
+\dt 31/Mar/2019
 
 \lx kùnsɛmɛnasumaya
 \mm kùn.sɛmɛ:n:cerveau
@@ -77936,12 +77998,12 @@ l'intérieur une ou deux graines)
 \mmm sɛ́mɛ:n:moelle
 \mm ná:pp:à
 \mm súmaya:n:froid
-\mmm súma:vq:lent
+\mmm súma:vq:frais
 \mmm ya:mrph:DEQU
 \ps n
 \gf neuropaludisme
 \gvf neuropaludisme
-\dt 05/Mar/2019
+\dt 31/Mar/2019
 
 \lx kùnsigi
 \mm kùn:n:tête
@@ -77956,31 +78018,35 @@ l'intérieur une ou deux graines)
 
 \lx kùnsigintan
 \mm kùnsigi:n:cheveux
+\mm kùn:n:tête
 \mm ntan:mrph:PRIV
 \ps adj
 \gf chauve
 \gvf chauve
-\dt 12/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnsigintanya
-\mm kùnsigi.ntan:adj:chauve
-\mm kùnsigi:n:cheveux
-\mm ntan:mrph:PRIV
+\mm kùnsigintan:adj:chauve
+\mmm kùnsigi:n:cheveux
+\mmmm kùn:n:tête
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf calvitie
 \gvf calvitie
+\dt 31/Mar/2019
 
 \lx kùnsigintanya
-\mm kùnsigi.ntan:adj:chauve
-\mm kùnsigi:n:cheveux
-\mm ntan:mrph:PRIV
+\mm kùnsigintan:adj:chauve
+\mmm kùnsigi:n:cheveux
+\mmmm kùn:n:tête
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf rendre.chauve
 \gvf rendre chauve
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùnsin
 \mm kùn:n:tête
@@ -78023,13 +78089,13 @@ Sahel)
 \lx kùntaa
 \mm kùn:n:tête
 \mm táa:v:aller
-\va kùn.taga
+\va kùntaga
 \mm kùn:n:tête
 \mm tága:v:aller
 \ps n
 \gf durée
 \gvf durée
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùntaala
 \mm kùn:n:tête
@@ -78044,16 +78110,16 @@ Sahel)
 \dt 15/Jun/2017
 
 \lx kùntaalajan
-\mm kùn.taa.la:n:durée
-\mm kùn:n:tête
-\mm táa:v:aller
-\mm la:mrph:LOC
+\mm kùntaala:n:durée
+\mmm kùn:n:tête
+\mmm táa:v:aller
+\mmm la:mrph:LOC
 \mm jàn:adj:long
 \ps adj
 \gf durable
 \gvf durable
 \gvf à longue terme
-\dt 18/Jun/2017
+\dt 31/Mar/2019
 
 \lx kúntan
 \mm kú:n:queue
@@ -78111,15 +78177,15 @@ Sahel)
 \dt 03/Apr/2016
 
 \lx kùntigiya
-\mm kùn.tigi:n:chef
-\mm kùn:n:tête
-\mm tìgi:n:maître
+\mm kùntigi:n:chef
+\mmm kùn:n:tête
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf autorité
 \gvf autorité
 \gvf chefferie
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùntílen
 \mm kùn:n:tête
@@ -78135,9 +78201,9 @@ Sahel)
 \dt 14/Apr/2018
 
 \lx kùntilenna
-\mm kùn.tilen:v:se.mettre.en.face
-\mm kùn:n:tête
-\mm tílen:v:redresser
+\mm kùntilen:v:se.mettre.en.face
+\mmm kùn:n:tête
+\mmm tílen:v:redresser
 \mm na:mrph:LOC
 \ps n
 \ms 1
@@ -78158,30 +78224,29 @@ Sahel)
 \gvf droit devant
 \xv né táara  né kùntilenna fɛ̀
 \xf je suis parti droit devant moi
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
-\lx kùntíyɛn
+\lx kùntíɲɛ
+\mm kùn:n:tête
+\mm tíɲɛ:v:gâter
+\va kùntíyɛn
 \mm kùn:n:tête
 \mm tíyɛn:v:gâter
 \va kùncɛ́n
 \mm kùn:n:tête
 \mm cɛ́n:v:gâter
-\ph [kuncɛn]
-\va kùntíɲɛ
-\mm kùn:n:tête
-\mm tíɲɛ:v:gâter
 \ps v
 \vl vt
 \gf détourner
 \gvf détourner
 \smf (qqn de son devoir)
 \sy kùnnatíyɛn
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx kùntɔnɔ
 \mm kùn:n:tête
 \mm tɔ̀nɔ:n:gain
-\va kùn.tnɔ
+\va kùntnɔ
 \mm kùn:n:tête
 \mm tnɔ̀:n:gain
 \ph [kuntnɔ]
@@ -78189,7 +78254,7 @@ Sahel)
 \gf gain
 \gvf gain
 \gvf bénéfice
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùntu
 \mm kùn:n:tête
@@ -78267,7 +78332,11 @@ Sahel)
 \mm kúnu:v:se.réveiller
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va kúnu.baga.tɔ
+\va kúnunbaatɔ
+\mm kúnun:v:se.réveiller
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va kúnubagatɔ
 \mm kúnu:v:se.réveiller
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -78278,13 +78347,13 @@ Sahel)
 \smf (opposé à l'endormi : sùnɔ̀gɔ̀bàatɔ)
 \ms 2
 \gvf en train de se réveiller
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kúnunama
-\mm kúnu:n/adv:hier
+\mm kúnu:n:hier
 \mm nama:mrph:STAT
-\va kúnun.nama
-\mm kúnun:n/adv:hier
+\va kúnunnama
+\mm kúnun:n:hier
 \mm nama:mrph:STAT
 \ps adj
 \gf tel.qu'il.était.hier
@@ -78292,7 +78361,7 @@ Sahel)
 \smf (... ou autrefois)
 \xv Túmutu kúnunama tùn bɛ́ sánga mín ná...
 \xf le renom qu'avait Tombouctou autrefois ... (kb 10/05 p.9)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx kúnunkò
 \ps adv
@@ -78302,7 +78371,7 @@ Sahel)
 \dt 28/Sep/2014
 
 \lx kúnunni
-\mm kúnu:v:se.réveiller
+\mm kúnun:v:se.réveiller
 \mm ni:mrph:NMLZ
 \ps n
 \ms 1
@@ -78310,7 +78379,7 @@ Sahel)
 \gvf réveil
 \ms 2
 \gvf résurrection
-\dt 18/Dec/2014
+\dt 31/Mar/2019
 
 \lx kúnuwò
 \va kúnunwò
@@ -78409,7 +78478,6 @@ Sahel)
 \dt 07/Jul/2017
 
 \lx kúra-kúraya
-\mm kúra-kúra:adj:tout.neuf
 \mm kúra:adj:nouveau
 \mm kúra:adj:nouveau
 \mm ya:mrph:ABSTR
@@ -78417,7 +78485,7 @@ Sahel)
 \vl vt
 \gf renouveler
 \gvf renouveler
-\dt 19/Dec/2012
+\dt 31/Mar/2019
 
 \lx kúralama
 \mm kúra:adj:nouveau
@@ -78674,15 +78742,15 @@ Sahel)
 \dt 26/Sep/2006
 
 \lx kùrukundimi
-\mm kùru.kun:n:articulation
-\mm kùru:n:boule
-\mm kùn:n:tête
+\mm kùrukun:n:articulation
+\mmm kùru:n:boule
+\mmm kùn:n:tête
 \mm dími:n:souffrance
 \ps n
 \gf arthralgie
 \gvf arthralgie
 \gvf arthrite
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kùrukuru
 \ps v
@@ -78881,24 +78949,25 @@ Sahel)
 
 \lx kúrunjan
 \mm kúrun:n:tabouret
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf grand.banc
 \gvf grand banc
 \smf (en bois, d'un seul bloc)
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx kúrunkansigifilanya
 \mm kúrun:n:tabouret
 \mm kàn:pp:sur
 \mm sìgi:v:asseoir
-\mm fílan:n:camarade.d’âge
-\mm ya:mrph:ABSTR
+\mm fílanya:n:camaraderie
+\mmm fílan:n:camarade.d’âge
+\mmm ya:mrph:ABSTR
 \ps n
 \gf compagnonnage
 \gvf compagnonnage
 \smf (de la même circoncision)
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx kùrunkɔ́
 \mm kùru:v:plier
@@ -79103,14 +79172,14 @@ kúrunninle
 
 \lx kúturufin
 \mm kúturu:adj:entier
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps adj
 \gf totalement.nu
 \gvf totalement nu
 \xv í kúturufin bɛ́ táa wá ?
 \xf tu pars tout nu ?
 \rem l 89, du, Jos
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx kùúkù
 \ps intj
@@ -79266,13 +79335,14 @@ kúrunninle
 \lx làadalatɔnsigi
 \mm làada:n:coutume
 \mm lá:pp:à
-\mm tɔ́n:n:société
-\mm sìgi:n:position.assise
+\mm tɔ́nsigi:n:réunion
+\mmm tɔ́n:n:société
+\mmm sìgi:n:position.assise
 \ps n
 \gf réunion.ordinaire
 \gvf réunion ordinaire
 \smf ( conseil des ministres ordinaire ...)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx làadama
 \mm làada:n:coutume
@@ -79314,14 +79384,14 @@ kúrunninle
 \mm láadi:v:conseiller
 \mm li:mrph:NMLZ
 \mm kán:n:cou
-\va ládi.li.kan
+\va ládilikan
 \mm ládi:v:conseiller
 \mm li:mrph:NMLZ
 \mm kán:n:cou
 \ps n
 \gf conseil
 \gvf conseil
-\dt 28/Mar/2013
+\dt 31/Mar/2019
 
 \lx láadilikɛla
 \mm láadi:v:conseiller
@@ -79477,25 +79547,34 @@ catastrophe)
 \lx lábaara
 \mm lá:mrph:CAUS
 \mm báara:v:travailler
+\va nábaara
+\mm ná:mrph:CAUS
+\mm báara:v:travailler
 \ps v
 \vl vt
 \gf préparer
 \gvf préparer
 \gvf apprêter
 \gvf arranger
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lábalan
 \mm lá:mrph:CAUS
+\mm bálan:v:s'accrocher
+\va nábalan
+\mm ná:mrph:CAUS
 \mm bálan:v:s'accrocher
 \ps v
 \vl vt
 \gf retarder
 \gvf retarder
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lábàli
 \mm lá:mrph:CAUS
+\mm bàli:v:empêcher
+\va nábàli
+\mm ná:mrph:CAUS
 \mm bàli:v:empêcher
 \ps v
 \vl vt
@@ -79503,10 +79582,13 @@ catastrophe)
 \gvf confondre
 \xv ò bɛ́  hákilintan lábali
 \xf (la puissance de Dieu) confond les insensés (Sg 1, 3)
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx lábalima
 \mm lá:mrph:CAUS
+\mm bálima:v:flatter
+\va nábalima
+\mm ná:mrph:CAUS
 \mm bálima:v:flatter
 \ps v
 \vl vt
@@ -79514,20 +79596,26 @@ catastrophe)
 \gvf louer
 \gvf glorifier
 \gvf chanter les louanges
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lábalo
 \mm lá:mrph:CAUS
+\mm bálo:v:vivre
+\va nábalo
+\mm ná:mrph:CAUS
 \mm bálo:v:vivre
 \ps v
 \vl vt
 \gf nourrir
 \gvf nourrir
 \gvf élever
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lában
 \mm lá:mrph:CAUS
+\mm bán:v:terminer
+\va nában
+\mm ná:mrph:CAUS
 \mm bán:v:terminer
 \ps n
 \gf fin
@@ -79536,9 +79624,13 @@ catastrophe)
 \xf à la fin, enfin ...
 \xv jɔ̀n tɛ́  í lában dɔ́n
 \xf on ne sait pas comment on finira (sa fin)
+\dt 31/Mar/2019
 
 \lx lában
 \mm lá:mrph:CAUS
+\mm bán:v:terminer
+\va nában
+\mm ná:mrph:CAUS
 \mm bán:v:terminer
 \ps adj
 \gf dernier
@@ -79546,10 +79638,13 @@ catastrophe)
 \smf (qui vient après les autres)
 \xv nìn yé  à sènɲa lában yé
 \xf ceci est la dernière fois
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lában
 \mm lá:mrph:CAUS
+\mm bán:v:terminer
+\va nában
+\mm ná:mrph:CAUS
 \mm bán:v:terminer
 \ps v
 \vl vt
@@ -79560,19 +79655,25 @@ catastrophe)
 \xf termine d'abord le travail !
 \xv kà lában kà...k'à lában k'à...
 \xf et finir par ...
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lábàna
 \mm lá:mrph:CAUS
+\mm bàna:v:tomber.malade
+\va nábàna
+\mm ná:mrph:CAUS
 \mm bàna:v:tomber.malade
 \ps v
 \vl vt
 \gf rendre.malade
 \gvf rendre malade
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lábangen
 \mm lá:mrph:CAUS
+\mm bángen:v:naître
+\va nábangen
+\mm ná:mrph:CAUS
 \mm bángen:v:naître
 \ps v
 \vl vt
@@ -79582,21 +79683,29 @@ catastrophe)
 \ms 2
 \gvf faire engendrer
 \gvf rendre féconde
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lábanko
-\mm lá.ban:v:finir
-\mm lá:mrph:CAUS
-\mm bán:v:terminer
+\mm lában:v:finir
+\mmm lá:mrph:CAUS
+\mmm bán:v:terminer
+\mm kó:n:affaire
+\va nábanko
+\mm nában:v:finir
+\mmm ná:mrph:CAUS
+\mmm bán:v:terminer
 \mm kó:n:affaire
 \ps n
 \gf mort
 \gvf mort
 \gvf manière de mourir
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lábàto
 \mm lá:mrph:CAUS
+\mm bàto:v:adorer
+\va nábàto
+\mm ná:mrph:CAUS
 \mm bàto:v:adorer
 \ps v
 \vl vt
@@ -79605,12 +79714,18 @@ catastrophe)
 \gvf accomplir une loi
 \xv ù bɛ́  fúru lábato
 \xf ils sont fidèles aux lois du mariage
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lábatobaliya
-\mm lá.bàto:v:respecter.les.règles
-\mm lá:mrph:CAUS
-\mm bàto:v:adorer
+\mm lábàto:v:respecter.les.règles
+\mmm lá:mrph:CAUS
+\mmm bàto:v:adorer
+\mm bali:mrph:PTCP.PRIV
+\mm ya:mrph:ABSTR
+\va lábatobaliya
+\mm nábàto:v:respecter.les.règles
+\mmm ná:mrph:CAUS
+\mmm bàto:v:adorer
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
@@ -79619,19 +79734,26 @@ catastrophe)
 \smf ( de la loi, du code de la route, d'une coutume ...)
 \xv ò yé síraba sàriya lábatobaliya ɲàngili mùsaka dànnatigɛ
 \xf (tel article de la loi) a précisé les amendes de l'inobservance du code de la route (kb 12/05 p.5)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx làbɛn
 \mm lá:mrph:CAUS
 \mm bɛ̀n:v:se.rencontrer
-\ph [ton inversé]
+\mm \:mrph:NMLZ2
+\va nàbɛn
+\mm ná:mrph:CAUS
+\mm bɛ̀n:v:se.rencontrer
+\mm \:mrph:NMLZ2
 \ps n
 \gf préparatifs
 \gvf préparatifs
-\dt 12/Aug/2006
+\dt 31/Mar/2019
 
 \lx lábɛ̀n
 \mm lá:mrph:CAUS
+\mm bɛ̀n:v:se.rencontrer
+\va nábɛ̀n
+\mm ná:mrph:CAUS
 \mm bɛ̀n:v:se.rencontrer
 \va rɔ́.bɛ̀n
 \mm rɔ́:mrph:IN
@@ -79649,7 +79771,7 @@ catastrophe)
 \ms 3
 \vl vr
 \gvf s'habiller
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lábi
 \va láabi
@@ -79663,6 +79785,9 @@ catastrophe)
 
 \lx lábìla
 \mm lá:mrph:CAUS
+\mm bìla:v:mettre
+\va nábìla
+\mm ná:mrph:CAUS
 \mm bìla:v:mettre
 \va rɔ́.bìla
 \mm rɔ́:mrph:IN
@@ -79683,12 +79808,17 @@ catastrophe)
 \gvf libérer
 \xv Ála tɛ́  án lábila  ò káma
 \xf Dieu ne nous donne pas la liberté pour ça !
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lábilali
-\mm lá.bìla:v:laisser.partir
-\mm lá:mrph:CAUS
-\mm bìla:v:mettre
+\mm lábìla:v:laisser.partir
+\mmm lá:mrph:CAUS
+\mmm bìla:v:mettre
+\mm li:mrph:NMLZ
+\va nábilali
+\mm nábìla:v:laisser.partir
+\mmm ná:mrph:CAUS
+\mmm bìla:v:mettre
 \mm li:mrph:NMLZ
 \ps n
 \gf permission
@@ -79696,27 +79826,35 @@ catastrophe)
 \gvf autorisation de partir
 \xv lábilali ɲíni  màa fɛ̀
 \xf demander la permission à qqn
-\dt 03/Apr/2016
+\dt 31/Mar/2019
 
 \lx làbin
 \mm lá:mrph:CAUS
 \mm bìn:v:tomber
+\mm \:mrph:NMLZ2
+\va nàbin
+\mm ná:mrph:CAUS
+\mm bìn:v:tomber
+\mm \:mrph:NMLZ2
 \ps n
 \gf faillite
 \gvf faillite
 \gvf renversement
 \smf (l'acte de faire tomber)
-\dt 19/Aug/2017
+\dt 31/Mar/2019
 
 \lx lábìn
 \mm lá:mrph:CAUS
+\mm bìn:v:tomber
+\va nábìn
+\mm ná:mrph:CAUS
 \mm bìn:v:tomber
 \ps v
 \vl vt
 \gf faire.tomber
 \gvf faire tomber
 \gvf renverser
-\dt 19/Aug/2017
+\dt 31/Mar/2019
 
 \lx lábiri
 \mm lá:mrph:CAUS
@@ -79741,6 +79879,9 @@ catastrophe)
 \lx lábòli
 \mm lá:mrph:CAUS
 \mm bòli:v:courir
+\va nábòli
+\mm ná:mrph:CAUS
+\mm bòli:v:courir
 \ps v
 \vl vt
 \ms 1
@@ -79754,10 +79895,15 @@ catastrophe)
 \ms 3
 \gvf mettre en oeuvre
 \gvf mettre en vogue
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lábònya
 \mm lá:mrph:CAUS
+\mm bònya:v:grossir
+\mmm bòn:vq:grand
+\mmm ya:mrph:DEQU
+\va nábònya
+\mm ná:mrph:CAUS
 \mm bònya:v:grossir
 \mmm bòn:vq:grand
 \mmm ya:mrph:DEQU
@@ -79772,20 +79918,27 @@ catastrophe)
 \ms 3
 \vl vt
 \gvf honorer
-\dt 17/Mar/2019
+\dt 31/Mar/2019
 
 \lx lábonyalan
 \mm lábònya:v:faire.grossir
-\mm lá:mrph:CAUS
-\mm bònya:v:grossir
-\mm bòn:vq:grand
-\mm ya:mrph:DEQU
+\mmm lá:mrph:CAUS
+\mmm bònya:v:grossir
+\mmmm bòn:vq:grand
+\mmmm ya:mrph:DEQU
+\mm nan:mrph:INSTR
+\va nábonyalan
+\mm nábònya:v:faire.grossir
+\mmm ná:mrph:CAUS
+\mmm bònya:v:grossir
+\mmmm bòn:vq:grand
+\mmmm ya:mrph:DEQU
 \mm lan:mrph:INSTR
 \ps n
 \gf loupe
 \gvf loupe
 \gvf microscope
-\dt 28/Feb/2017
+\dt 31/Mar/2019
 
 \lx lábɔ
 \mm lá:mrph:CAUS
@@ -79836,20 +79989,26 @@ catastrophe)
 \lx lábɔ̀ɔsi
 \mm lá:mrph:CAUS
 \mm bɔ̀ɔsi:v:écorcher
+\va nábɔ̀ɔsi
+\mm ná:mrph:CAUS
+\mm bɔ̀ɔsi:v:écorcher
 \ps v
 \vl vt
 \gf ravir
 \gvf ravir
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx lábugun
 \mm lá:mrph:CAUS
+\mm búgun:v:gonfler
+\va nábugun
+\mm ná:mrph:CAUS
 \mm búgun:v:gonfler
 \ps v
 \vl vt
 \gf faire.augmenter
 \gvf faire augmenter
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lábure
 \bw fr : id.
@@ -79883,25 +80042,37 @@ catastrophe)
 \lx lábùrun
 \mm lá:mrph:CAUS
 \mm bùrun:v:tomber
+\va nábùrun
+\mm ná:mrph:CAUS
+\mm bùrun:v:tomber
 \ps v
 \gf détourner
 \gvf détourner
 \gvf distraire
-\dt 18/Apr/2014
+\dt 31/Mar/2019
 
 \lx lácaya
 \mm lá:mrph:CAUS
-\mm cá:vq:nombreux
-\mm ya:mrph:DEQU
+\mm cáya:v:multiplier
+\mmm cá:vq:nombreux
+\mmm ya:mrph:DEQU
+\va nácaya
+\mm ná:mrph:CAUS
+\mm cáya:v:multiplier
+\mmm cá:vq:nombreux
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf multiplier
 \gvf multiplier
 \sy lábugun
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx lácɛ̀
 \mm lá:mrph:CAUS
+\mm cɛ̀:v:ramasser
+\va nácɛ̀
+\mm ná:mrph:CAUS
 \mm cɛ̀:v:ramasser
 \va rɔ́.cɛ̀
 \mm rɔ́:mrph:IN
@@ -79914,16 +80085,28 @@ catastrophe)
 \ms 2
 \gvf essuyer
 \smf (larmes ...)
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lácɛ̀ɲa
 \mm lá:mrph:CAUS
-\mm cɛ̀:n:aspect
-\mm ɲà:v:réussir
-\va lá.cɛ̀.ɲɛ
+\va cɛ̀ɲa:v:être.beau
+\mmm cɛ̀:n:aspect
+\mmm ɲà:v:réussir
+\va lácɛ̀ɲɛ
 \mm lá:mrph:CAUS
-\mm cɛ̀:n:aspect
-\mm ɲɛ̀:v:réussir
+\va cɛ̀ɲɛ:v:être.beau
+\mmm cɛ̀:n:aspect
+\mmm ɲɛ̀:v:réussir
+\va nácɛ̀ɲa
+\mm ná:mrph:CAUS
+\va cɛ̀ɲa:v:être.beau
+\mmm cɛ̀:n:aspect
+\mmm ɲà:v:réussir
+\va nácɛ̀ɲɛ
+\mm ná:mrph:CAUS
+\va cɛ̀ɲɛ:v:être.beau
+\mmm cɛ̀:n:aspect
+\mmm ɲɛ̀:v:réussir
 \ps v
 \vl vt
 \gf embellir
@@ -79931,19 +80114,25 @@ catastrophe)
 \gvf rendre beau
 \xv Sánu mín bɛ́ bɔ̀n bóli kàn kà ù lácɛɲɛ
 \xf l'or dont on les a couverts pour les embellir (lettre de Jér 1, 23)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx láci
 \mm lá:mrph:CAUS
+\mm cí:v:envoyer
+\va náci
+\mm ná:mrph:CAUS
 \mm cí:v:envoyer
 \ps v
 \vl vt
 \gf envoyer
 \gvf envoyer
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lácì
 \mm lá:mrph:CAUS
+\mm cì:v:frapper
+\va nácì
+\mm ná:mrph:CAUS
 \mm cì:v:frapper
 \va rɔ́.cì
 \mm rɔ́:mrph:IN
@@ -79955,10 +80144,13 @@ catastrophe)
 \gvf amaigrir
 \xv fùnteni y'á láci
 \xf la chaleur l'a fait maigrir
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx láda
 \mm lá:mrph:CAUS
+\mm dá:v:poser
+\va náda
+\mm ná:mrph:CAUS
 \mm dá:v:poser
 \ps v
 \vl vt
@@ -79970,7 +80162,7 @@ catastrophe)
 \xf si ton enfant a de la fièvre, couche-le, couvre-le bien
 \ms 2
 \gvf apaiser
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx ládamu
 \va nádamu
@@ -80020,32 +80212,46 @@ catastrophe)
 \lx ládan
 \mm lá:mrph:CAUS
 \mm dán:v:créer
+\va nádan
+\mm ná:mrph:CAUS
+\mm dán:v:créer
 \ps v
 \vl vt
 \gf créer
 \gvf créer
-\dt 21/Jan/2015
+\dt 31/Mar/2019
 
 \lx làdege
 \mm lá:mrph:CAUS
 \mm dège:v:enseigner
+\mm \:mrph:NMLZ2
+\va nàdege
+\mm ná:mrph:CAUS
+\mm dège:v:enseigner
+\mm \:mrph:NMLZ2
 \ps n
 \gf imitation
 \gvf imitation
-\dt 19/Aug/2017
+\dt 31/Mar/2019
 
 \lx ládège
 \mm lá:mrph:CAUS
+\mm dège:v:enseigner
+\va nádège
+\mm ná:mrph:CAUS
 \mm dège:v:enseigner
 \ps v
 \vl vt
 \gf imiter
 \gvf imiter
 \gvf contrefaire
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx ládɛn
 \mm lá:mrph:CAUS
+\mm dɛ́n:v:mettre.à.l'écart
+\va nádɛn
+\mm ná:mrph:CAUS
 \mm dɛ́n:v:mettre.à.l'écart
 \ps v
 \vl vt
@@ -80054,10 +80260,13 @@ catastrophe)
 \gvf laisser de côté
 \xv à kɛ́ra íko mùsocɛsalen ládɛnnen kɛ̀rɛ fɛ̀
 \xf (Jérusalem) elle est comme une veuve laissée de côté (Lam 1, 1)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx ládìbi
 \mm lá:mrph:CAUS
+\mm dìbi:v:être.obscur
+\va nádìbi
+\mm ná:mrph:CAUS
 \mm dìbi:v:être.obscur
 \ps v
 \vl vt
@@ -80065,7 +80274,7 @@ catastrophe)
 \gvf rendre obscur
 \xv kà tìle ɲɛ́ ládibi íko sú
 \xf Dieu a rendu l'aspect du soleil comme la nuit (Os 5, 8)
-\dt 04/Apr/2016
+\dt 31/Mar/2019
 
 \lx ládigeyi
 \ps n
@@ -80076,13 +80285,19 @@ catastrophe)
 \lx ládila
 \mm lá:mrph:CAUS
 \mm díla:v:fabriquer
-\va lá.dilan
+\va ládilan
 \mm lá:mrph:CAUS
 \mm dílan:v:fabriquer
-\va lá.dla
+\va nádila
+\mm ná:mrph:CAUS
+\mm díla:v:fabriquer
+\va nádilan
+\mm ná:mrph:CAUS
+\mm dílan:v:fabriquer
+\va ládla
 \mm lá:mrph:CAUS
 \mm dlá:v:fabriquer
-\va lá.dlan
+\va ládlan
 \mm lá:mrph:CAUS
 \mm dlán:v:fabriquer
 \ph [ladla]
@@ -80096,7 +80311,7 @@ catastrophe)
 \gvf soigner
 \xv né yɛ̀rɛ tùn bɛ́  né ká jóli ládila
 \xf je soignais moi-même ma plaie
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx ládimi
 \mm lá:mrph:CAUS
@@ -80104,11 +80319,17 @@ catastrophe)
 \va ládimin
 \mm lá:mrph:CAUS
 \mm dímin:v:faire.souffrir
+\va nádimi
+\mm ná:mrph:CAUS
+\mm dími:v:faire.souffrir
+\va nádimin
+\mm ná:mrph:CAUS
+\mm dímin:v:faire.souffrir
 \ps v
 \vl vt
 \gf mécontenter
 \gvf mécontenter
-\dt 26/Apr/2014
+\dt 31/Mar/2019
 
 \lx ládinɛ
 \mm lá:mrph:CAUS
@@ -80127,12 +80348,19 @@ catastrophe)
 \lx ládiya
 \mm lá:mrph:CAUS
 \mm díya:v:rendre.agréable
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
-\va lá.ja
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\va lája
 \mm lá:mrph:CAUS
 \mm já:v:rendre.agréable
-\ph [laja]
+\va nádiya
+\mm ná:mrph:CAUS
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\va nája
+\mm ná:mrph:CAUS
+\mm já:v:rendre.agréable
 \ps v
 \vl vt
 \gf faire.plaisir
@@ -80140,14 +80368,22 @@ catastrophe)
 \gvf satisfaire
 \gvf récompenser
 \gvf donner des gâteries
-\dt 17/Mar/2019
+\dt 31/Mar/2019
 
 \lx ládiyalifɛn
-\mm lá.di.ya:v:récompenser
-\mm lá:mrph:CAUS
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm ládiya:v:récompenser
+\mmm lá:mrph:CAUS
+\mmm díya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
+\mm li:mrph:NMLZ
+\mm fɛ́n:n:chose
+\va nádiyalifɛn
+\mm nádiya:v:récompenser
+\mmm ná:mrph:CAUS
+\mmm díya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
 \mm li:mrph:NMLZ
 \mm fɛ́n:n:chose
 \ps n
@@ -80156,10 +80392,13 @@ catastrophe)
 \gvf récompense
 \xv mɔ̀gɔ 6 yé ládiyalifɛn sɔ̀rɔ :
 \xf Six personnes ont obtenu des prix : ... (Kb 10/06 p.10)
-\dt 17/Dec/2017
+\dt 31/Mar/2019
 
 \lx ládògo
 \mm lá:mrph:CAUS
+\mm dògo:v:cacher
+\va nádògo
+\mm ná:mrph:CAUS
 \mm dògo:v:cacher
 \ps v
 \vl vt
@@ -80167,7 +80406,7 @@ catastrophe)
 \gvf cacher
 \xv à tùn yé mɔ̀gɔ dɔ́ ládogo só kɔ́nɔ
 \xf il avait caché des hommes dans le 'fort'  (1 Mc)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx ládòn
 \mm lá:mrph:CAUS
@@ -80202,7 +80441,6 @@ catastrophe)
 \dt 31/Mar/2016
 
 \lx ládɔn
-\cf cí-déssu
 \ps v
 \vl vt
 \gf handicaper
@@ -80210,7 +80448,7 @@ catastrophe)
 \gvf rendre impotent
 \xv bàna y'á ládɔn
 \xf la maladie l'a rendu impotent
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx ládɔn
 \mm lá:pp:à
@@ -80228,23 +80466,34 @@ catastrophe)
 \lx ládɔn
 \mm lá:mrph:CAUS
 \mm dɔ́n:v:connaître
+\va nádɔn
+\mm ná:mrph:CAUS
+\mm dɔ́n:v:connaître
 \ps v
 \vl vt
 \gf apprendre
 \gvf apprendre
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx ládɔ̀n
 \mm lá:mrph:CAUS
+\mm dɔ̀n:v:danser
+\va nádɔ̀n
+\mm ná:mrph:CAUS
 \mm dɔ̀n:v:danser
 \ps v
 \vl vt
 \gf faire.danser
 \gvf faire danser
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx ládɔnniya
 \mm lá:mrph:CAUS
+\mm dɔ́n:v:connaître
+\mm ni:mrph:NMLZ
+\mm ya:mrph:ABSTR
+\va nádɔnniya
+\mm ná:mrph:CAUS
 \mm dɔ́n:v:connaître
 \mm ni:mrph:NMLZ
 \mm ya:mrph:ABSTR
@@ -80253,10 +80502,15 @@ catastrophe)
 \gf informer
 \gvf informer
 \gvf renseigner
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx ládɔnniya
 \mm lá:mrph:CAUS
+\mm dɔ́n:v:connaître
+\mm ni:mrph:NMLZ
+\mm ya:mrph:ABSTR
+\va nádɔnniya
+\mm ná:mrph:CAUS
 \mm dɔ́n:v:connaître
 \mm ni:mrph:NMLZ
 \mm ya:mrph:ABSTR
@@ -80264,24 +80518,30 @@ catastrophe)
 \gf notification
 \gvf notification
 \gvf information
-\dt 08/Feb/2017
+\dt 31/Mar/2019
 
 \lx ládumuni
 \mm lá:mrph:CAUS
+\mm dúmuni:v:nourrir
+\va nádumuni
+\mm ná:mrph:CAUS
 \mm dúmuni:v:nourrir
 \ps v
 \vl vt
 \gf donner.à.manger
 \gvf donner à manger
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx ládumuni
 \mm lá:mrph:CAUS
 \mm dúmuni:v:nourrir
+\va nádumuni
+\mm ná:mrph:CAUS
+\mm dúmuni:v:nourrir
 \ps n
 \gf alimentation
 \gvf alimentation
-\dt 08/Aug/2016
+\dt 31/Mar/2019
 
 \lx làfa
 \va làafa
@@ -80293,6 +80553,9 @@ catastrophe)
 \lx láfa
 \mm lá:mrph:CAUS
 \mm fá:v:remplir
+\va náfa
+\mm ná:mrph:CAUS
+\mm fá:v:remplir
 \va rɔ́.fa
 \mm rɔ́:mrph:IN
 \mm fá:v:remplir
@@ -80300,21 +80563,29 @@ catastrophe)
 \vl vt
 \gf remplir
 \gvf remplir
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx láfàamuya
 \mm lá:mrph:CAUS
-\mm fàamu.ya:v:se.familiariser
-\mm fàamu:v:comprendre
-\mm ya:mrph:ABSTR
+\mm fàamuya:v:se.familiariser
+\mmm fàamu:v:comprendre
+\mmm ya:mrph:ABSTR
+\va náfàamuya
+\mm ná:mrph:CAUS
+\mm fàamuya:v:se.familiariser
+\mmm fàamu:v:comprendre
+\mmm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf comprendre
 \gvf comprendre
-\dt 14/Nov/2012
+\dt 31/Mar/2019
 
 \lx láfalen
 \mm lá:mrph:CAUS
+\mm fálen:v:germer
+\va náfalen
+\mm ná:mrph:CAUS
 \mm fálen:v:germer
 \ps v
 \vl vt
@@ -80322,36 +80593,50 @@ catastrophe)
 \gvf faire pousser
 \xv Í bɛ́ sɛ̀nɛfɛn láfalen ádamaden yé,
 \xf tu fais pousser les plantes que les hommes cultivent (ps 104, 14)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx láfara
 \mm lá:mrph:CAUS
+\mm fára:v:diviser
+\va náfara
+\mm ná:mrph:CAUS
 \mm fára:v:diviser
 \ps v
 \vl vt
 \gf séparer
 \gvf séparer
 \gvf faire le médiateur
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx láfarinya
 \mm lá:mrph:CAUS
-\mm fárin.ya:v:rendre.piquant
-\mm fárin:vq:ardent
-\mm ya:mrph:DEQU
+\mm fárinya:v:rendre.piquant
+\mmm fárin:vq:ardent
+\mmm ya:mrph:DEQU
+\va náfarinya
+\mm ná:mrph:CAUS
+\mm fárinya:v:rendre.piquant
+\mmm fárin:vq:ardent
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf rendre.courageux
 \gvf rendre courageux
 \xv jèli bɛ́  dénmisɛnnin láfarinya k'á fɔ́
 \xf les griots exhortent les jeunes garçons en leur disant ...
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx láfàsa
 \mm lá:mrph:CAUS
 \mm fàsa:v:rendre.consistant
-\va lá.pasa
+\va lápasa
 \mm lá:mrph:CAUS
+\mm pàsa:v:rendre.consistant
+\va náfàsa
+\mm ná:mrph:CAUS
+\mm fàsa:v:rendre.consistant
+\va nápasa
+\mm ná:mrph:CAUS
 \mm pàsa:v:rendre.consistant
 \ps v
 \vl vt
@@ -80367,12 +80652,19 @@ catastrophe)
 \smf (contre un adversaire)
 \xv à tùn b'á fɛ̀ kà ń bùgɔ, nká, ń fà yé ń láfasa
 \xf il voulait me battre mais mon père a pris ma défense
-\dt 05/Feb/2016
+\dt 31/Mar/2019
 
 \lx láfasalikɛla
 \mm láfàsa:v:louer
-\mm lá:mrph:CAUS
-\mm fàsa:v:rendre.consistant
+\mmm lá:mrph:CAUS
+\mmm fàsa:v:rendre.consistant
+\mm li:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
+\va náfasalikɛla
+\mm náfàsa:v:louer
+\mmm ná:mrph:CAUS
+\mmm fàsa:v:rendre.consistant
 \mm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
@@ -80380,7 +80672,7 @@ catastrophe)
 \gf défenseur
 \gvf défenseur
 \gvf avocat
-\dt 01/Mar/2017
+\dt 31/Mar/2019
 
 \lx làfe
 \ve (-bk)
@@ -80402,16 +80694,22 @@ catastrophe)
 \lx láfɛ̀nsɛn
 \mm lá:mrph:CAUS
 \mm fɛ̀nsɛn:v:étendre
+\va náfɛ̀nsɛn
+\mm ná:mrph:CAUS
+\mm fɛ̀nsɛn:v:étendre
 \ps v
 \vl vt
 \gf étendre
 \gvf étendre
 \gvf étaler
 \smf (du linge ... des vêtements ...)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx láfɛrɛ
 \mm lá:mrph:CAUS
+\mm fɛ̀rɛ:v:aplatir
+\va náfɛrɛ
+\mm ná:mrph:CAUS
 \mm fɛ̀rɛ:v:aplatir
 \ps v
 \vl vt
@@ -80419,38 +80717,51 @@ catastrophe)
 \gvf élargir
 \xv ù  bɛ́na Síkaso-Bùgunin síraba láfɛrɛ k'à dílan k'à ɲɛ̀
 \xf ils vont élargir la grand route de Sikaso-Bugunin et bien l'aménager (kb 8/04 p.3)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx láfifa
 \mm lá:mrph:CAUS
+\mm fìfa:v:éventer
+\va náfifa
+\mm ná:mrph:CAUS
 \mm fìfa:v:éventer
 \ps v
 \vl vt
 \gf éventer
 \gvf éventer
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx láfilɛ
 \mm lá:mrph:CAUS
 \mm fílɛ:v:regarder
-\va lá.flɛ
+\va láflɛ
 \mm lá:mrph:CAUS
 \mm flɛ́:v:regarder
-\ph [fl]
+\va náfilɛ
+\mm ná:mrph:CAUS
+\mm fílɛ:v:regarder
+\va náflɛ
+\mm nlá:mrph:CAUS
+\mm flɛ́:v:regarder
 \ve (bmk)
 \ps v
 \vl vt
 \gf examiner
 \gvf examiner
-\dt 12/Aug/2006
+\dt 31/Mar/2019
 
 \lx làfili
 \mm lá:mrph:CAUS
 \mm fìli:v:jeter
+\mm \:mrph:NMLZ2
+\va nàfili
+\mm ná:mrph:CAUS
+\mm fìli:v:jeter
+\mm \:mrph:NMLZ2
 \ps n
 \gf erreur
 \gvf erreur
-\dt 19/Aug/2017
+\dt 31/Mar/2019
 
 \lx láfili
 \mm lá:mrph:CAUS
@@ -80491,36 +80802,62 @@ catastrophe)
 \lx láfìli
 \mm lá:mrph:CAUS
 \mm fìli:v:jeter
+\va náfìli
+\mm ná:mrph:CAUS
+\mm fìli:v:jeter
 \ps v
 \vl vt
 \gf abandonner
 \gvf abandonner
 \gvf laisser tomber
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx láfilibaatɔ
-\mm lá.fili:v:tromper
-\mm lá:mrph:CAUS
-\mm fìli:v:jeter
+\mm láfili:v:tromper
+\mmm lá:mrph:CAUS
+\mmm fìli:v:jeter
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ph [fl]
-\va lá.fili.baga.tɔ
-\mm lá.fili:v:tromper
-\mm lá:mrph:CAUS
-\mm fìli:v:jeter
+\va láfilibagatɔ
+\mm láfili:v:tromper
+\mmm lá:mrph:CAUS
+\mmm fìli:v:jeter
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va lá.fli.baga.tɔ
-\mm lá.fli:v:tromper
-\mm lá:mrph:CAUS
-\mm flì:v:jeter
+\va láflibagatɔ
+\mm láfli:v:tromper
+\mmm lá:mrph:CAUS
+\mmm flì:v:jeter
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va lá.fli.baa.tɔ
-\mm lá.fli:v:tromper
-\mm lá:mrph:CAUS
-\mm flì:v:jeter
+\va láflibaatɔ
+\mm láfli:v:tromper
+\mmm lá:mrph:CAUS
+\mmm flì:v:jeter
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va náfilibaatɔ
+\mm náfili:v:tromper
+\mmm ná:mrph:CAUS
+\mmm fìli:v:jeter
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va náfilibagatɔ
+\mm náfili:v:tromper
+\mmm ná:mrph:CAUS
+\mmm fìli:v:jeter
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va náflibagatɔ
+\mm náfli:v:tromper
+\mmm ná:mrph:CAUS
+\mmm flì:v:jeter
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va náflibaatɔ
+\mm náfli:v:tromper
+\mmm ná:mrph:CAUS
+\mmm flì:v:jeter
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj
@@ -80528,10 +80865,13 @@ catastrophe)
 \gvf triste
 \gvf très embarrassé
 \sy kɔ́nɔganbaatɔ
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx láfin
 \mm lá:mrph:CAUS
+\mm fìn:v:noircir
+\va náfin
+\mm ná:mrph:CAUS
 \mm fìn:v:noircir
 \ps v
 \vl vt
@@ -80542,27 +80882,31 @@ catastrophe)
 \smf (en parlant de la vue)
 \xv à ɲɛ́ láfinna fɔ́ à tùn tɛ́ kà fɛ́n yé tún (gn 27, 1) /Tɔ́ɔrɔ yé né ɲɛ́ láfin
 \xf sa vue avait tellement baissé qu'il n'y voyait plus / mes yeux sont usés de chagrin (Ps 88, 10)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx làfiɲɛ
 \mm lá:mrph:CAUS
 \mm fíɲɛ:v:sécher
+\mm \:mrph:NMLZ2
 \va nàfiɲɛ
 \mm ná:mrph:CAUS
 \mm fíɲɛ:v:sécher
+\mm \:mrph:NMLZ2
 \va làfiyɛn
 \mm lá:mrph:CAUS
 \mm fíyɛn:v:sécher
+\mm \:mrph:NMLZ2
 \va nàfiyɛn
 \mm ná:mrph:CAUS
 \mm fíyɛn:v:sécher
+\mm \:mrph:NMLZ2
 \va rɔ́fiyɛn
 \mm rɔ́:mrph:IN
 \mm fíyɛn:v:sécher
 \ps n
 \gf repos
 \gvf repos
-\dt 11/Sep/2017
+\dt 31/Mar/2019
 
 \lx láfiɲɛ
 \mm lá:mrph:CAUS
@@ -80623,15 +80967,20 @@ catastrophe)
 \lx láfìsaya
 \mm lá:mrph:CAUS
 \mm fìsaya:v:améliorer
-\mm fìsa:vq:mieux
-\mm ya:mrph:DEQU
+\mmm fìsa:vq:mieux
+\mmm ya:mrph:DEQU
+\va náfìsaya
+\mm ná:mrph:CAUS
+\mm fìsaya:v:améliorer
+\mmm fìsa:vq:mieux
+\mmm ya:mrph:DEQU
 \ps v
 \ms 1
 \gf rendre.meilleur
 \gvf rendre meilleur
 \ms 2
 \gvf reconnaître comme meilleur
-\dt 16/Jun/2017
+\dt 31/Mar/2019
 
 \lx làfiya
 \va làafiya
@@ -80685,6 +81034,9 @@ catastrophe)
 \lx láfoni
 \mm lá:mrph:CAUS
 \mm fóni:v:détacher
+\va náfoni
+\mm ná:mrph:CAUS
+\mm fóni:v:détacher
 \ps v
 \vl vt
 \ms 1
@@ -80699,10 +81051,13 @@ catastrophe)
 \smf (au sens propre et figuré)
 \xv nìn kúma yé  bɛ́ɛ láfoni
 \xf ces paroles ont soulagé tout le monde
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx láfɔ
 \mm lá:mrph:CAUS
+\mm fɔ́:v:dire
+\va náfɔ
+\mm ná:mrph:CAUS
 \mm fɔ́:v:dire
 \va rɔ́.fɔ
 \mm rɔ́:mrph:IN
@@ -80718,20 +81073,26 @@ catastrophe)
 \ms 2
 \vl vi
 \gvf défrayer la chronique
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx láfɔlɔ
 \mm lá:mrph:CAUS
+\mm fɔ́lɔ:v:commencer.par
+\va náfɔlɔ
+\mm ná:mrph:CAUS
 \mm fɔ́lɔ:v:commencer.par
 \ve (bmk)
 \ps v
 \vl vi
 \gf débuter
 \gvf débuter
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx láfu
 \mm lá:mrph:CAUS
+\mm fú:n:zéro
+\va náfu
+\mm ná:mrph:CAUS
 \mm fú:n:zéro
 \ps v
 \ms 1
@@ -80741,7 +81102,7 @@ catastrophe)
 \gvf avilir
 \ms 2
 \gvf se moquer de
-\dt 16/Jun/2017
+\dt 31/Mar/2019
 
 \lx lágabo
 \mm bò:n:excrément
@@ -80813,24 +81174,34 @@ catastrophe)
 
 \lx lágɛ̀lɛya
 \mm lá:mrph:CAUS
-\mm gɛ̀lɛ.ya:v:durcir
-\mm gɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:DEQU
-\va rɔ́.gɛ̀lɛ.ya
+\mm gɛ̀lɛya:v:durcir
+\mmm gɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
+\va nágɛ̀lɛya
+\mm ná:mrph:CAUS
+\mm gɛ̀lɛya:v:durcir
+\mmm gɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
+\va rɔ́gɛ̀lɛya
 \mm rɔ́:mrph:IN
-\mm gɛ̀lɛ.ya:v:durcir
-\mm gɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:DEQU
-\va lá.gwɛ̀lɛ.ya
+\mm gɛ̀lɛya:v:durcir
+\mmm gɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
+\va lágwɛ̀lɛya
 \mm lá:mrph:CAUS
-\mm gwɛ̀lɛ.ya:v:durcir
-\mm gwɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:DEQU
-\va rɔ́.gwɛ̀lɛ.ya
+\mm gwɛ̀lɛya:v:durcir
+\mmm gwɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
+\va nágwɛ̀lɛya
+\mm ná:mrph:CAUS
+\mm gwɛ̀lɛya:v:durcir
+\mmm gwɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
+\va rɔ́gwɛ̀lɛya
 \mm rɔ́:mrph:IN
-\mm gwɛ̀lɛ.ya:v:durcir
-\mm gwɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:DEQU
+\mm gwɛ̀lɛya:v:durcir
+\mmm gwɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
 \ph [gw]
 \ps v
 \vl vt
@@ -80839,18 +81210,21 @@ catastrophe)
 \gvf rendre solide
 \xv í jà lágɛlɛya !
 \xf prends courage ! ose ! vas-y !
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lágɛ̀rɛntɛ
 \mm lá:mrph:CAUS
 \mm gɛ̀rɛntɛ:v:serrer
+\va nágɛ̀rɛntɛ
+\mm ná:mrph:CAUS
+\mm gɛ̀rɛntɛ:v:serrer
 \va rɔ́.gɛ̀rɛntɛ
 \mm rɔ́:mrph:IN
 \mm gɛ̀rɛntɛ:v:serrer
-\va lá.gwɛ̀rɛntɛ
-\mm lá:mrph:CAUS
+\va nágwɛ̀rɛntɛ
+\mm ná:mrph:CAUS
 \mm gwɛ̀rɛntɛ:v:serrer
-\va rɔ́.gwɛ̀rɛntɛ
+\va rɔ́gwɛ̀rɛntɛ
 \mm rɔ́:mrph:IN
 \mm gwɛ̀rɛntɛ:v:serrer
 \ph [gw]
@@ -80858,19 +81232,25 @@ catastrophe)
 \vl vt
 \gf resserrer
 \gvf resserrer
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lágirin
 \mm lá:mrph:CAUS
 \mm gírin:v:se.précipiter
-\va lá.ginin
+\va nágirin
+\mm ná:mrph:CAUS
+\mm gírin:v:se.précipiter
+\va láginin
 \mm lá:mrph:CAUS
+\mm gínin:v:se.précipiter
+\va náginin
+\mm ná:mrph:CAUS
 \mm gínin:v:se.précipiter
 \ps v
 \vl vt
 \gf faire.courir
 \gvf faire courir
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lagolago
 \va lakolako
@@ -80883,24 +81263,40 @@ catastrophe)
 \lx làgosi
 \mm lá:mrph:CAUS
 \mm gòsi:v:battre
+\mm \:mrph:NMLZ2
 \va làgɔsi
 \mm lá:mrph:CAUS
 \mm gɔ̀si:v:battre
+\mm \:mrph:NMLZ2
+\va nàgosi
+\mm ná:mrph:CAUS
+\mm gòsi:v:battre
+\mm \:mrph:NMLZ2
+\va nàgɔsi
+\mm ná:mrph:CAUS
+\mm gɔ̀si:v:battre
+\mm \:mrph:NMLZ2
 \ps n
 \gf réprimande
 \gvf réprimande
-\dt 06/Aug/2017
+\dt 31/Mar/2019
 
 \lx lágòsi
 \mm lá:mrph:CAUS
 \mm gòsi:v:battre
-\va lá.gɔ̀si
+\va lágɔ̀si
 \mm lá:mrph:CAUS
 \mm gɔ̀si:v:battre
-\va rɔ́.gɔ̀si
+\va nágòsi
+\mm ná:mrph:CAUS
+\mm gòsi:v:battre
+\va nágɔ̀si
+\mm ná:mrph:CAUS
+\mm gɔ̀si:v:battre
+\va rɔ́gɔ̀si
 \mm rɔ́:mrph:IN
 \mm gɔ̀si:v:battre
-\va rɔ́.gòsi
+\va rɔ́gòsi
 \mm rɔ́:mrph:IN
 \mm gòsi:v:battre
 \ps v
@@ -80914,13 +81310,18 @@ catastrophe)
 \xf se rendre ridicule (par son comportement)
 \ms 2
 \gvf réprimander
-\dt 21/Jun/2016
+\dt 31/Mar/2019
 
 \lx lágoya
 \mm lá:mrph:CAUS
-\mm gó.ya:v:rendre.mauvais
-\mm gó:vq:désagréable
-\mm ya:mrph:DEQU
+\mm góya:v:rendre.mauvais
+\mmm gó:vq:désagréable
+\mmm ya:mrph:DEQU
+\va nágoya
+\mm ná:mrph:CAUS
+\mm góya:v:rendre.mauvais
+\mmm gó:vq:désagréable
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \ms 1
@@ -80930,7 +81331,7 @@ catastrophe)
 \gvf faire détester
 \xv màaneni lágoya dénmisɛnnin ná
 \xf faire détester aux enfants les insultes
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx làhaala
 \va làhaara
@@ -80951,7 +81352,7 @@ catastrophe)
 \lx làhaalaya
 \mm làhaala:n:aspect
 \mm ya:mrph:ABSTR
-\va làhala.ya
+\va làhalaya
 \mm làhala:n:aspect
 \mm ya:mrph:ABSTR
 \ps n
@@ -80960,19 +81361,19 @@ catastrophe)
 \gvf circonstance
 \gvf solution
 \gvf information
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx làhaalaya
 \mm làhaala:n:aspect
 \mm ya:mrph:ABSTR
-\va làhala.ya
+\va làhalaya
 \mm làhala:n:aspect
 \mm ya:mrph:ABSTR
 \ps v
 \vl vr
 \gf se.renseigner
 \gvf se renseigner
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx láhara
 \bw ar: al-uhra = id.
@@ -81008,6 +81409,9 @@ catastrophe)
 \lx láhinɛ
 \mm lá:mrph:CAUS
 \mm hínɛ:v:plaire
+\va náhinɛ
+\mm ná:mrph:CAUS
+\mm hínɛ:v:plaire
 \ps v
 \vl vt
 \gf plaire
@@ -81015,10 +81419,13 @@ catastrophe)
 \gvf rendre heureux
 \xv ò yɔ́rɔ yé  ù láhinɛ
 \xf cet endroit leur a plu
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx láhinɛ
 \mm lá:mrph:CAUS
+\mm hínɛ:v:avoir.pitié
+\va náhinɛ
+\mm ná:mrph:CAUS
 \mm hínɛ:v:avoir.pitié
 \ps v
 \vl vt
@@ -81027,7 +81434,7 @@ catastrophe)
 \gvf secourir
 \xv à yé  mɔ̀gɔ jóginnen láhinɛ  k'à ládon  à bára
 \xf il a eu pitié du blessé et l'a accueilli chez lui
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx làhɔrɔma
 \ps n
@@ -81039,6 +81446,9 @@ catastrophe)
 \lx lájà
 \mm lá:mrph:CAUS
 \mm jà:v:sécher
+\va nájà
+\mm ná:mrph:CAUS
+\mm jà:v:sécher
 \ps v
 \ms 1
 \vl vt
@@ -81047,16 +81457,19 @@ catastrophe)
 \ms 2
 \vl vr
 \gvf se réchauffer
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lájaabi
 \mm lá:mrph:CAUS
+\mm jáabi:v:répondre
+\va nájaabi
+\mm ná:mrph:CAUS
 \mm jáabi:v:répondre
 \ps v
 \vl vt
 \gf répondre
 \gvf répondre
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lájaba
 \va lájɛbɛ
@@ -81093,6 +81506,9 @@ catastrophe)
 \lx lájàmu
 \mm lá:mrph:CAUS
 \mm jàmu:v:louer
+\va nájàmu
+\mm ná:mrph:CAUS
+\mm jàmu:v:louer
 \ps v
 \vl vt
 \ms 1
@@ -81102,35 +81518,46 @@ catastrophe)
 \ms 2
 \gvf interpeller par le nom de famille
 \ve (bk)
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lájànya
 \mm lá:mrph:CAUS
-\mm jàn.ya:v:allonger
-\mm jàn:vq:long
-\mm ya:mrph:DEQU
-\va rɔ́.jàn.ya
+\mm jànya:v:allonger
+\mmm jàn:vq:long
+\mmm ya:mrph:DEQU
+\va nájànya
+\mm ná:mrph:CAUS
+\mm jànya:v:allonger
+\mmm jàn:vq:long
+\mmm ya:mrph:DEQU
+\va rɔ́jànya
 \mm rɔ́:mrph:IN
-\mm jàn.ya:v:allonger
-\mm jàn:vq:long
-\mm ya:mrph:DEQU
+\mm jànya:v:allonger
+\mmm jàn:vq:long
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf allonger
 \gvf allonger
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lájarabi
 \mm lá:mrph:CAUS
+\mm jàrabi:v:se.passionner
+\va nájarabi
+\mm ná:mrph:CAUS
 \mm jàrabi:v:se.passionner
 \ps n
 \gf tentation
 \gvf tentation
 \smf (un mot coranique)
-\dt 21/Dec/2014
+\dt 31/Mar/2019
 
 \lx lájàrabi
 \mm lá:mrph:CAUS
+\mm jàrabi:v:se.passionner
+\va nájàrabi
+\mm ná:mrph:CAUS
 \mm jàrabi:v:se.passionner
 \ps v
 \ms 1
@@ -81141,21 +81568,29 @@ catastrophe)
 \vl vt
 \gvf éprouver
 \gvf tenter
-\dt 08/Feb/2017
+\dt 31/Mar/2019
 
 \lx làjɛ
 \mm lá:mrph:CAUS
 \mm jɛ̀:v:assembler
+\mm \:mrph:NMLZ2
+\va nàjɛ
+\mm ná:mrph:CAUS
+\mm jɛ̀:v:assembler
+\mm \:mrph:NMLZ2
 \ps n
 \gf réunion
 \gvf réunion
 \gvf rassemblement
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx lájɛ
 \mm lá:mrph:CAUS
 \mm jɛ́:v:blanchir
-\va rɔ́.jɛ
+\va nájɛ
+\mm ná:mrph:CAUS
+\mm jɛ́:v:blanchir
+\va rɔ́jɛ
 \mm rɔ́:mrph:IN
 \mm jɛ́:v:blanchir
 \ps v
@@ -81170,18 +81605,24 @@ catastrophe)
 \gvf essayer
 \xv é yɛ̀rɛ k'à lájɛ !
 \xf essaie toi-même !
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lájɛ
 \mm lá:mrph:CAUS
 \mm jɛ̀:v:assembler
+\va nájɛ
+\mm ná:mrph:CAUS
+\mm jɛ̀:v:assembler
 \ps n
 \gf réunion
 \gvf réunion
-\dt 24/Apr/2013
+\dt 31/Mar/2019
 
 \lx lájɛ̀
 \mm lá:mrph:CAUS
+\mm jɛ̀:v:assembler
+\va nájɛ̀
+\mm ná:mrph:CAUS
 \mm jɛ̀:v:assembler
 \ps v
 \vl vt
@@ -81192,12 +81633,17 @@ catastrophe)
 \xf le tout réuni, tout ensemble
 \xv ù bɛ́  ù bólo lájɛ
 \xf ils se cotisent
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx lájɛli
-\mm lá.jɛ̀:v:réunir
-\mm lá:mrph:CAUS
-\mm jɛ̀:v:assembler
+\mm lájɛ̀:v:réunir
+\mmm lá:mrph:CAUS
+\mmm jɛ̀:v:assembler
+\mm li:mrph:NMLZ
+\va nájɛli
+\mm nájɛ̀:v:réunir
+\mmm ná:mrph:CAUS
+\mmm jɛ̀:v:assembler
 \mm li:mrph:NMLZ
 \ps n
 \gf réunion
@@ -81206,12 +81652,18 @@ catastrophe)
 \sy lájɛ
 \xv dùgutigi bɛ́  lájɛli kɛ́
 \xf le chef de village réunit (son conseil)
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lájɛli
 \mm lájɛ:v:regarder
-\mm lá:mrph:CAUS
-\mm jɛ́:v:blanchir
+\mmm lá:mrph:CAUS
+\mmm jɛ́:v:blanchir
+\mm li:mrph:NMLZ
+\va lájɛli
+\mm nájɛ:v:regarder
+\mmm ná:mrph:CAUS
+\mmm jɛ́:v:blanchir
+\mm li:mrph:NMLZ
 \ps n
 \ms 1
 \gf acte.de.regarder
@@ -81220,13 +81672,22 @@ catastrophe)
 \gvf consultation divinatoire
 \ms 3
 \gvf consultation médicale
-\dt 09/Apr/2017
+\dt 31/Mar/2019
 
 \lx lájɛlikɛla
-\mm lá.jɛ:v:regarder
-\mm lá:mrph:CAUS
-\mm jɛ́:v:blanchir
-\mm li:mrph:NMLZ
+\mm lájɛli:n:acte.de.regarder
+\mmm lájɛ:v:regarder
+\mmmm lá:mrph:CAUS
+\mmmm jɛ́:v:blanchir
+\mmm li:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
+\va nájɛlikɛla
+\mm nájɛli:n:acte.de.regarder
+\mmm nájɛ:v:regarder
+\mmmm ná:mrph:CAUS
+\mmmm jɛ́:v:blanchir
+\mmm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -81236,38 +81697,49 @@ catastrophe)
 \gvf examinateur
 \ms 2
 \gvf devin
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lájɛ̀ngɛn
 \mm lá:mrph:CAUS
+\mm jɛ̀ngɛn:v:incliner
+\va nájɛ̀ngɛn
+\mm ná:mrph:CAUS
 \mm jɛ̀ngɛn:v:incliner
 \ps v
 \vl vt
 \gf faire.pencher
 \gvf faire pencher
 \gvf détourner
-\dt 14/Apr/2018
+\dt 31/Mar/2019
 
 \lx lájɛ̀rɛ
 \mm lá:mrph:CAUS
+\mm jɛ̀rɛ:v:réunir
+\va nájɛ̀rɛ
+\mm ná:mrph:CAUS
 \mm jɛ̀rɛ:v:réunir
 \ve (-f, -bn)
 \ps v
 \vl vt
 \gf rassembler
 \gvf rassembler
-\dt 12/Aug/2006
+\dt 31/Mar/2019
 
 \lx lájɛya
 \mm lá:mrph:CAUS
-\mm jɛ́.ya:v:blanchir
-\mm jɛ́:vq:blanc
-\mm ya:mrph:DEQU
+\mm jɛ́ya:v:blanchir
+\mmm jɛ́:vq:blanc
+\mmm ya:mrph:DEQU
+\va nájɛya
+\mm ná:mrph:CAUS
+\mm jɛ́ya:v:blanchir
+\mmm jɛ́:vq:blanc
+\mmm ya:mrph:DEQU
 \va rɔ́.jɛ.ya
 \mm rɔ́:mrph:IN
-\mm jɛ́.ya:v:blanchir
-\mm jɛ́:vq:blanc
-\mm ya:mrph:DEQU
+\mm jɛ́ya:v:blanchir
+\mmm jɛ́:vq:blanc
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \ms 1
@@ -81280,11 +81752,16 @@ catastrophe)
 \ms 3
 \gvf rendre clair
 \smf (propos ...)
-\dt 15/Jun/2017
+\dt 31/Mar/2019
 
 \lx làjigin
 \mm lá:mrph:CAUS
 \mm jìgin:v:descendre
+\mm \:mrph:NMLZ2
+\va nàjigin
+\mm ná:mrph:CAUS
+\mm jìgin:v:descendre
+\mm \:mrph:NMLZ2
 \va lájigin
 \mm lá:mrph:CAUS
 \mm jìgin:v:descendre
@@ -81292,10 +81769,13 @@ catastrophe)
 \gf baissement
 \gvf baissement
 \smf (le fait de faire descendre)
-\dt 11/Sep/2017
+\dt 31/Mar/2019
 
 \lx lájìgin
 \mm lá:mrph:CAUS
+\mm jìgin:v:descendre
+\va nájìgin
+\mm ná:mrph:CAUS
 \mm jìgin:v:descendre
 \ps v
 \vl vt
@@ -81307,18 +81787,24 @@ catastrophe)
 \xf rappeler qqch à qqn, lui rafraîchir la mémoire
 \ms 2
 \gvf faire accoucher
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx lájo
+\mm lá:mrph:CAUS
+\mm jó:v:être.en.pleine.forme
+\va nájo
 \mm lá:mrph:CAUS
 \mm jó:v:être.en.pleine.forme
 \ps v
 \gf mettre.en.pleine.forme
 \gvf mettre en pleine forme
-\dt 21/Feb/2015
+\dt 31/Mar/2019
 
 \lx lájɔ̀
 \mm lá:mrph:CAUS
+\mm jɔ̀:v:dresser
+\va nájɔ̀
+\mm ná:mrph:CAUS
 \mm jɔ̀:v:dresser
 \ps v
 \vl vt
@@ -81330,35 +81816,49 @@ catastrophe)
 \ms 3
 \gvf devenir enceinte
 \smf (arrêter les règles)
-\dt 28/Feb/2017
+\dt 31/Mar/2019
 
 \lx lájuguya
 \mm lá:mrph:CAUS
-\mm júgu.ya:v:aggraver
-\mm júgu:vq/adj:mauvais
-\mm ya:mrph:DEQU
+\mm júguya:v:aggraver
+\mmm júgu:vq:mauvais
+\mmm ya:mrph:DEQU
+\va nájuguya
+\mm ná:mrph:CAUS
+\mm júguya:v:aggraver
+\mmm júgu:vq:mauvais
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf faire.empirer
 \gvf faire empirer
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lájùnjun
 \mm lá:mrph:CAUS
 \mm jùnjun:v:secouer
-\va rɔ́.jùnjun
+\va nájùnjun
+\mm ná:mrph:CAUS
+\mm jùnjun:v:secouer
+\va rɔ́jùnjun
 \mm rɔ́:mrph:IN
 \mm jùnjun:v:secouer
-\va lá.jùnyu
+\va lájùnyu
 \mm lá:mrph:CAUS
 \mm jùnyu:v:secouer
-\va rɔ́.jùnyu
+\va nájùnyu
+\mm ná:mrph:CAUS
+\mm jùnyu:v:secouer
+\va rɔ́jùnyu
 \mm rɔ́:mrph:IN
 \mm jùnyu:v:secouer
-\va lá.jùɲu
+\va lájùɲu
 \mm lá:mrph:CAUS
 \mm jùɲu:v:secouer
-\va rɔ́.jùɲu
+\va nájùɲu
+\mm ná:mrph:CAUS
+\mm jùɲu:v:secouer
+\va rɔ́jùɲu
 \mm rɔ́:mrph:IN
 \mm jùɲu:v:secouer
 \ph [junyu]
@@ -81367,7 +81867,7 @@ catastrophe)
 \gf tapoter
 \gvf tapoter
 \smf (pour calmer un bébé)
-\dt 20/Mar/2019
+\dt 31/Mar/2019
 
 \lx lákà
 \va rɔ́kà
@@ -81379,6 +81879,9 @@ catastrophe)
 \lx lákala
 \mm lá:mrph:CAUS
 \mm kála:v:coudre
+\va nákala
+\mm ná:mrph:CAUS
+\mm kála:v:coudre
 \ps v
 \vl vt
 \ms 1
@@ -81387,15 +81890,19 @@ catastrophe)
 \ms 2
 \gvf habiller
 \gvf fournir des habits à
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákàlan
 \mm lá:mrph:CAUS
+\mm kàlan:v:lire
+\va nákàlan
+\mm ná:mrph:CAUS
 \mm kàlan:v:lire
 \ps v
 \vl vt
 \gf instruire
 \gvf instruire
+\dt 31/Mar/2019
 
 \lx lákali
 \va lákale
@@ -81428,38 +81935,38 @@ catastrophe)
 \dt 17/Mar/2018
 
 \lx làkalitaɲini
-\mm làkali.ta:n:nouvelle.à.diffuser
-\mm lákàlí:v:raconter
-\mm ta:mrph:PTCP.POT
+\mm làkalita:n:nouvelle.à.diffuser
+\mmm lákàlí:v:raconter
+\mmm ta:mrph:PTCP.POT
 \mm ɲíni:v:chercher
 \ps n
 \gf reportage
 \gvf reportage
 \rem l 89, jos : d'accord pour le ton
-\dt 17/Mar/2018
+\dt 31/Mar/2019
 
 \lx làkalitaɲinina
-\mm làkali.ta:n:nouvelle.à.diffuser
-\mm lákàlí:v:raconter
-\mm ta:mrph:PTCP.POT
+\mm làkalita:n:nouvelle.à.diffuser
+\mmm lákàlí:v:raconter
+\mmm ta:mrph:PTCP.POT
 \mm ɲíni:v:chercher
 \mm na:mrph:AG.PRM
 \ps n
 \gf journaliste
 \gvf journaliste
 \rem l 89
-\dt 17/Mar/2018
+\dt 31/Mar/2019
 
 \lx làkalitasɛbɛn
-\mm làkali.ta:n:nouvelle.à.diffuser
-\mm lákàlí:v:raconter
-\mm ta:mrph:PTCP.POT
+\mm làkalita:n:nouvelle.à.diffuser
+\mmm lákàlí:v:raconter
+\mmm ta:mrph:PTCP.POT
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf journal
 \gvf journal
 \rem l 89, jos : d'accord pour le ton
-\dt 17/Mar/2018
+\dt 31/Mar/2019
 
 \lx lákàn
 \mm lá:mrph:CAUS
@@ -81479,6 +81986,9 @@ catastrophe)
 \lx lákana
 \mm lá:mrph:CAUS
 \mm kána:v:protéger
+\va nákana
+\mm ná:mrph:CAUS
+\mm kána:v:protéger
 \ps v
 \vl vt
 \ms 1
@@ -81490,20 +82000,29 @@ catastrophe)
 \smf (un enfant ...)
 \xv dén lákana ká gɛ̀lɛn  wólo yé
 \xf élever un enfant est plus difficile que de le mettre au monde
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákana
 \mm lá:mrph:CAUS
 \mm kána:v:protéger
+\va nákana
+\mm ná:mrph:CAUS
+\mm kána:v:protéger
 \ps n
 \gf sécurité
 \gvf sécurité
-\dt 06/Feb/2017
+\dt 31/Mar/2019
 
 \lx lákanabaliya
-\mm lá.kana:v:protéger
-\mm lá:mrph:CAUS
-\mm kána:v:protéger
+\mm lákana:v:protéger
+\mmm lá:mrph:CAUS
+\mmm kána:v:protéger
+\mm bali:mrph:PTCP.PRIV
+\mm ya:mrph:ABSTR
+\va nákanabaliya
+\mm nákana:v:protéger
+\mmm ná:mrph:CAUS
+\mmm kána:v:protéger
 \mm bali:mrph:PTCP.PRIV
 \mm ya:mrph:ABSTR
 \ps n
@@ -81514,10 +82033,13 @@ catastrophe)
 \xf la cause de nombreuses maladies est la non-protection de l'eau et des aliments (donniya 5/6 p.30)
 \xv lákanabaliya kɛ́ra dàntɛmɛ yé Kɔ́diwari (kb 5/05 .)
 \xf l'insécurité est à son comble en Côte d'Ivoire (kb 5/05 p.2)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx lákaran
 \mm lá:mrph:CAUS
+\mm káran:v:veiller
+\va nákaran
+\mm ná:mrph:CAUS
 \mm káran:v:veiller
 \ps v
 \vl vt
@@ -81533,7 +82055,7 @@ catastrophe)
 \xf celui-ci est réservé pour un tel
 \xv í kàna  ò dùgukolo lákaran ń ná
 \xf ne me refuse pas ce terrain
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lákari
 \bw ar: haqara = mépriser
@@ -81583,6 +82105,9 @@ catastrophe)
 \lx lákàsi
 \mm lá:mrph:CAUS
 \mm kàsi:v:pleurer
+\va nákàsi
+\mm ná:mrph:CAUS
+\mm kàsi:v:pleurer
 \ps v
 \vl vt
 \ms 1
@@ -81591,15 +82116,22 @@ catastrophe)
 \ms 2
 \gvf faire crier
 \smf (un animal, un fétiche ...)
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákèguya
 \mm lá:mrph:CAUS
-\mm kègu.ya:v:rendre.malin
-\mm kègu:vq:malin
-\mm ya:mrph:DEQU
+\mm kèguya:v:rendre.malin
+\mmm kègu:vq:malin
+\mmm ya:mrph:DEQU
+\va nákèguya
+\mm ná:mrph:CAUS
+\mm kèguya:v:rendre.malin
+\mmm kègu:vq:malin
+\mmm ya:mrph:DEQU
 \va lákiya
 \mm lá:mrph:CAUS
+\va nákiya
+\mm ná:mrph:CAUS
 \ps v
 \vl vt
 \gf rendre.malin
@@ -81607,11 +82139,14 @@ catastrophe)
 \gvf rendre prudent
 \xv ń'í y'á cì, í b'á lákeguya
 \xf si tu le bats, tu le rendras plus prudent
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákɛnɛ
 \mm lá:mrph:CAUS
-\mm kɛ́nɛ:vq/adj:en.bonne.santé
+\mm kɛ́nɛ:vq:en.bonne.santé
+\va nákɛnɛ
+\mm ná:mrph:CAUS
+\mm kɛ́nɛ:vq:en.bonne.santé
 \ve (f)
 \ps v
 \vl vt
@@ -81623,10 +82158,13 @@ catastrophe)
 \gvf veiller à la bonne santé
 \xv nìn fúra yé  né lákɛnɛ
 \xf ce remède m'a guéri
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákɛnyɛ
 \mm lá:mrph:CAUS
+\mm kɛ́nyɛ:v:égaliser
+\va nákɛnyɛ
+\mm ná:mrph:CAUS
 \mm kɛ́nyɛ:v:égaliser
 \ps v
 \vl vt
@@ -81634,7 +82172,7 @@ catastrophe)
 \gvf rendre égal
 \xv àle bɛ́na òlu bɛ́ɛ lájɛlen ní Átɛnika lákɛnyɛ kó bɛ́ɛ lá
 \xf il va rendre tous les juifs égaux aux Athéniens (2 Mc 9, 15)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx làkɛrɛ
 \bw fr. la craie
@@ -81656,43 +82194,58 @@ catastrophe)
 \lx lákili
 \mm lá:mrph:CAUS
 \mm kíli:v:appeler
+\va nákili
+\mm ná:mrph:CAUS
+\mm kíli:v:appeler
 \ve (bmk)
 \ps v
 \vl vt
 \gf appeler
 \gvf appeler
 \gvf faire venir
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákìrin
 \mm lá:mrph:CAUS
+\mm kìrin:v:s'évanouir
+\va nákìrin
+\mm ná:mrph:CAUS
 \mm kìrin:v:s'évanouir
 \ps v
 \vl vt
 \gf anesthésier
 \gvf anesthésier
 \gvf faire évanouir
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákìsɛya
 \mm lá:mrph:CAUS
-\mm kìsɛ.ya:v:encourager
-\mm kìsɛ:vq:actif
-\mm ya:mrph:DEQU
+\mm kìsɛya:v:encourager
+\mmm kìsɛ:vq:actif
+\mmm ya:mrph:DEQU
+\va nákìsɛya
+\mm ná:mrph:CAUS
+\mm kìsɛya:v:encourager
+\mmm kìsɛ:vq:actif
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf aguerrir
 \gvf aguerrir
 \gvf rendre courageux au travail
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákisi
 \mm lá:mrph:CAUS
+\mm kísi:v:sauver
+\va nákisi
+\mm ná:mrph:CAUS
 \mm kísi:v:sauver
 \ps v
 \vl vt
 \gf sauver
 \gvf sauver
+\dt 31/Mar/2019
 
 \lx láko
 \mm lá:pp:à
@@ -81705,9 +82258,14 @@ catastrophe)
 
 \lx lákodɔn
 \mm lá:mrph:CAUS
-\mm kó.dɔn:v:entendre.dire
-\mm kó:n:affaire
-\mm dɔ́n:v:connaître
+\mm kódɔn:v:entendre.dire
+\mmm kó:n:affaire
+\mmm dɔ́n:v:connaître
+\va nákodɔn
+\mm ná:mrph:CAUS
+\mm kódɔn:v:entendre.dire
+\mmm kó:n:affaire
+\mmm dɔ́n:v:connaître
 \ps v
 \vl vt
 \ms 1
@@ -81716,13 +82274,19 @@ catastrophe)
 \gvf entendre parler
 \ms 2
 \gvf connaître personnellement
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákolo
 \mm lá:mrph:CAUS
 \mm kólo:v:éduquer
-\va lá.kolon
+\va lákolon
 \mm lá:mrph:CAUS
+\mm kólon:v:éduquer
+\va nákolo
+\mm ná:mrph:CAUS
+\mm kólo:v:éduquer
+\va nákolon
+\mm ná:mrph:CAUS
 \mm kólon:v:éduquer
 \ps v
 \vl vt
@@ -81730,36 +82294,53 @@ catastrophe)
 \gvf éduquer
 \gvf gérer l'éducation
 \nt LD p.8
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx lákomɛ
 \mm lá:mrph:CAUS
 \mm kó:n:affaire
 \mm mɛ́:v:entendre
-\va lá.ko.mɛn
+\va lákomɛn
 \mm lá:mrph:CAUS
+\mm kó:n:affaire
+\mm mɛ́n:v:entendre
+\va nákomɛ
+\mm ná:mrph:CAUS
+\mm kó:n:affaire
+\mm mɛ́:v:entendre
+\va nákomɛn
+\mm ná:mrph:CAUS
 \mm kó:n:affaire
 \mm mɛ́n:v:entendre
 \ps v
 \vl vt
 \gf entendre.parler
 \gvf entendre parler
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lákòoli
 \mm lá:mrph:CAUS
 \mm kòoli:v:encercler
-\va lá.kòori
+\va lákòori
 \mm lá:mrph:CAUS
+\mm kòori:v:encercler
+\va nákòoli
+\mm ná:mrph:CAUS
+\mm kòoli:v:encercler
+\va nákòori
+\mm ná:mrph:CAUS
 \mm kòori:v:encercler
 \ps v
 \vl vt
 \gf entourer
 \gvf entourer
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákoron
 \mm lá:mrph:CAUS
+\mm kóron:v:cerner
+\va nákoron
+\mm ná:mrph:CAUS
 \mm kóron:v:cerner
 \ps v
 \vl vt
@@ -81767,7 +82348,7 @@ catastrophe)
 \gvf coincer
 \xv pólosi dèlila kà nsònba dɔ́ lákoron...
 \xf les policiers ont à l'occasion coincé de grands voleurs .... (kb 5/05 p.2)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx làkɔli
 \va lèkɔli
@@ -81799,15 +82380,15 @@ catastrophe)
 
 \lx làkɔlikaramɔgɔ
 \mm làkɔli:n:école
-\mm kàra.mɔgɔ:n:maître
-\mm kàra:n:lecture
-\mm mɔ̀gɔ:n:homme
+\mm kàramɔgɔ:n:maître
+\mmm kàra:n:lecture
+\mmm mɔ̀gɔ:n:homme
 \ps n
 \gf instituteur
 \gvf instituteur
 \gvf enseignant
 \rem l 89 / du ton haut !
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx làkɔliso
 \mm làkɔli:n:école
@@ -81832,6 +82413,9 @@ catastrophe)
 \lx lákɔ̀lɔsi
 \mm lá:mrph:CAUS
 \mm kɔ̀lɔsi:v:surveiller
+\va nákɔ̀lɔsi
+\mm ná:mrph:CAUS
+\mm kɔ̀lɔsi:v:surveiller
 \ps v
 \vl vt
 \ms 1
@@ -81842,25 +82426,37 @@ catastrophe)
 \xf fais bien attention de n'en rien dire à personne !
 \ms 2
 \gvf bien examiner
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákɔmayɛ̀lɛma
 \mm lá:mrph:CAUS
-\mm kɔ́:n:dos
-\mm mà:pp:ADR
-\mm yɛ̀lɛma:v:changer
+\mm kɔ́mayɛ̀lɛma:v:se.tourner
+\mmm kɔ́:n:dos
+\mmm màyɛ̀lɛma:v:changer
+\mmmm mà:mrph:SUPER
+\mmmm yɛ̀lɛma:v:changer
+\va nákɔmayɛ̀lɛma
+\mm ná:mrph:CAUS
+\mm kɔ́mayɛ̀lɛma:v:se.tourner
+\mmm kɔ́:n:dos
+\mmm màyɛ̀lɛma:v:changer
+\mmmm mà:mrph:SUPER
+\mmmm yɛ̀lɛma:v:changer
 \ps v
 \vl vt
 \gf faire.se.séparer
 \gvf faire se séparer
 \gvf faire s'éloigner
 \gvf brouiller
-\dt 08/Feb/2017
+\dt 31/Mar/2019
 
 \lx lákɔmi
 \mm lá:mrph:CAUS
 \mm kɔ́mi:v:branler
-\va rɔ́.kɔmi
+\va nákɔmi
+\mm ná:mrph:CAUS
+\mm kɔ́mi:v:branler
+\va rɔ́kɔmi
 \mm rɔ́:mrph:IN
 \mm kɔ́mi:v:branler
 \ve (f)
@@ -81868,10 +82464,13 @@ catastrophe)
 \vl vt
 \gf faire.un.mouvement.de.va-et-vient
 \gvf faire un mouvement de va-et-vient
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lákɔngɔ
 \mm lá:mrph:CAUS
+\mm kɔ́ngɔ:v:affamer
+\va nákɔngɔ
+\mm ná:mrph:CAUS
 \mm kɔ́ngɔ:v:affamer
 \ps v
 \vl vt
@@ -81879,34 +82478,47 @@ catastrophe)
 \gvf affamer
 \xv jà kà  jàmana lákɔngɔ tún, Ála m'án kísira  ò mà !
 \xf qu'une nouvelle sécheresse affame notre pays, que Dieu nous en préserve !
-\dt 15/Aug/2006
+\dt 31/Mar/2019
 
 \lx lákɔ́rɔtà
 \mm lá:mrph:CAUS
-\mm kɔ́rɔ.tà:v:soulever
-\mm kɔ́rɔ:n:dessous
-\mm tà:v:prendre
+\mm kɔ́rɔtà:v:soulever
+\mmm kɔ́rɔ:n:dessous
+\mmm tà:v:prendre
+\va nákɔ́rɔtà
+\mm ná:mrph:CAUS
+\mm kɔ́rɔtà:v:soulever
+\mmm kɔ́rɔ:n:dessous
+\mmm tà:v:prendre
 \ps v
 \vl vt
 \gf soulever
 \gvf soulever
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákɔsègin
 \mm lá:mrph:CAUS
-\mm kɔ́.sègin:v:revenir
-\mm kɔ́:n:dos
-\mm sègin:v:revenir
+\mm kɔ́sègin:v:revenir
+\mmm kɔ́:n:dos
+\mmm sègin:v:revenir
+\va nákɔsègin
+\mm ná:mrph:CAUS
+\mm kɔ́sègin:v:revenir
+\mmm kɔ́:n:dos
+\mmm sègin:v:revenir
 \ps v
 \vl vt
 \gf faire.revenir
 \gvf faire revenir
 \xv Ála yé kíra cí ù mà, wálasa kà ù lákɔsegin àle mà
 \xf Dieu leur a envoyé des prohètes pour les faire revenir à lui (2 Ch 24, 19)
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx lákuma
 \mm lá:mrph:CAUS
+\mm kúma:v:parler
+\va nákuma
+\mm ná:mrph:CAUS
 \mm kúma:v:parler
 \ps v
 \vl vt
@@ -81914,22 +82526,31 @@ catastrophe)
 \gvf faire parler
 \xv ù bɛ́ à ɲíni kó à kà bóbo lákuma
 \xf ils le prient de rendre la voix au muet
-\dt 11/Nov/2007
+\dt 31/Mar/2019
 
 \lx lákùmu
 \mm lá:mrph:CAUS
+\mm kùmu:v:aigrir
+\va nákùmu
+\mm ná:mrph:CAUS
 \mm kùmu:v:aigrir
 \ps v
 \vl vt
 \gf aigrir
 \gvf aigrir
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákunu
 \mm lá:mrph:CAUS
 \mm kúnu:v:se.réveiller
-\va lá.kunun
+\va lákunun
 \mm lá:mrph:CAUS
+\mm kúnun:v:se.réveiller
+\va nákunu
+\mm ná:mrph:CAUS
+\mm kúnu:v:se.réveiller
+\va nákunun
+\mm ná:mrph:CAUS
 \mm kúnun:v:se.réveiller
 \ps v
 \vl vt
@@ -81938,36 +82559,47 @@ catastrophe)
 \gvf ressusciter
 \xv í k'à lákunu ní  kílisi yé  !
 \xf ressuscite-le avec des formules magiques !
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákùnu
 \mm lá:mrph:CAUS
 \mm kùnu:v:avaler
-\va lá.kùnun
+\va lákùnun
 \mm lá:mrph:CAUS
+\mm kùnun:v:avaler
+\va nákùnu
+\mm ná:mrph:CAUS
+\mm kùnu:v:avaler
+\va nákùnun
+\mm ná:mrph:CAUS
 \mm kùnun:v:avaler
 \ps v
 \vl vt
 \gf avaler
 \gvf avaler
 \gvf boire
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákuraya
 \mm lá:mrph:CAUS
-\mm kúra.ya:v:renouveler
-\mm kúra:adj:nouveau
-\mm ya:mrph:ABSTR
+\mm kúraya:v:renouveler
+\mmm kúra:adj:nouveau
+\mmm ya:mrph:ABSTR
+\va nákuraya
+\mm ná:mrph:CAUS
+\mm kúraya:v:renouveler
+\mmm kúra:adj:nouveau
+\mmm ya:mrph:ABSTR
 \va rɔ́kuraya
 \mm rɔ́:mrph:IN
-\mm kúra.ya:v:renouveler
-\mm kúra:adj:nouveau
-\mm ya:mrph:ABSTR
+\mm kúraya:v:renouveler
+\mmm kúra:adj:nouveau
+\mmm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf renouveler
 \gvf renouveler
-\dt 09/Jan/2015
+\dt 31/Mar/2019
 
 \lx làkuru
 \es {fr: recrue ?}
@@ -81981,7 +82613,10 @@ catastrophe)
 \lx lákùru
 \mm lá:mrph:CAUS
 \mm kùru:v:plier
-\va rɔ́.kùru
+\va nákùru
+\mm ná:mrph:CAUS
+\mm kùru:v:plier
+\va rɔ́kùru
 \mm rɔ́:mrph:IN
 \mm kùru:v:plier
 \ps v
@@ -81992,13 +82627,19 @@ catastrophe)
 \gvf replier
 \ms 2
 \gvf faire revenir
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lákùru
 \mm lá:mrph:CAUS
 \mm kùru:v:plier
 \va lákùrun
 \mm lá:mrph:CAUS
+\mm kùru:v:plier
+\va nákùru
+\mm ná:mrph:CAUS
+\mm kùru:v:plier
+\va nákùrun
+\mm ná:mrph:CAUS
 \mm kùru:v:plier
 \ps v
 \ms 1
@@ -82011,7 +82652,7 @@ catastrophe)
 \vl vt
 \gvf corriger
 \gvf frapper
-\dt 13/May/2018
+\dt 31/Mar/2019
 
 \lx lálaga
 \di (Segu)
@@ -82033,20 +82674,25 @@ catastrophe)
 \lx lámadòn
 \mm lá:mrph:CAUS
 \mm màdòn:v:approcher
-\mm mà:mrph:SUPER
-\mm dòn:v:entrer
+\mmm mà:mrph:SUPER
+\mmm dòn:v:entrer
+\va námadòn
+\mm ná:mrph:CAUS
+\mm màdòn:v:approcher
+\mmm mà:mrph:SUPER
+\mmm dòn:v:entrer
 \ps v
 \vl vt
 \gf faire.s'approcher
 \gvf faire s'approcher
 \gvf pousser
 \smf (pour faire s'approcher)
-\dt 30/Oct/2017
+\dt 31/Mar/2019
 
 \lx lámàga
 \mm lá:mrph:CAUS
 \mm màga:v:toucher
-\va lá.màa
+\va lámàa
 \mm lá:mrph:CAUS
 \mm màa:v:toucher
 \ps v
@@ -82061,27 +82707,35 @@ catastrophe)
 \ms 3
 \gvf reprendre
 \smf (maladie, plaie ...)
-\dt 01/Dec/2014
+\dt 31/Mar/2019
 
 \lx lámàgaya
 \mm lá:mrph:CAUS
-\mm màga.ya:v:rendre.mou
-\mm màga:vq:mou
-\mm ya:mrph:DEQU
-\va rɔ́.màga.ya
+\mm màgaya:v:rendre.mou
+\mmm màga:vq:mou
+\mmm ya:mrph:DEQU
+\va námàgaya
+\mm ná:mrph:CAUS
+\mm màgaya:v:rendre.mou
+\mmm màga:vq:mou
+\mmm ya:mrph:DEQU
+\va rɔ́màgaya
 \mm rɔ́:mrph:IN
-\mm màga.ya:v:rendre.mou
-\mm màga:vq:mou
-\mm ya:mrph:DEQU
+\mm màgaya:v:rendre.mou
+\mmm màga:vq:mou
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf ramollir
 \gvf ramollir
 \gvf assouplir
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lámákùn
 \mm lá:mrph:CAUS
+\mm màkùn:v:se.taire
+\va námákùn
+\mm ná:mrph:CAUS
 \mm màkùn:v:se.taire
 \ve (-bk)
 \ps v
@@ -82089,49 +82743,68 @@ catastrophe)
 \gf faire.taire
 \gvf faire taire
 \sy lámantɔ
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx làmalo
 \mm lá:mrph:CAUS
 \mm màlo:v:faire.honte
+\mm \:mrph:NMLZ2
+\va nàmalo
+\mm ná:mrph:CAUS
+\mm màlo:v:faire.honte
+\mm \:mrph:NMLZ2
 \ps n
 \gf humiliation
 \gvf humiliation
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx lámàlo
 \mm lá:mrph:CAUS
+\mm màlo:v:faire.honte
+\va námàlo
+\mm ná:mrph:CAUS
 \mm màlo:v:faire.honte
 \ps v
 \vl vt
 \gf faire.honte
 \gvf faire honte
 \gvf humilier
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lámàloya
-\mm lá.màlo:v:faire.honte
-\mm lá:mrph:CAUS
-\mm màlo:v:faire.honte
+\mm lámàlo:v:faire.honte
+\mmm lá:mrph:CAUS
+\mmm màlo:v:faire.honte
+\mm ya:mrph:ABSTR
+\va námàloya
+\mm námàlo:v:faire.honte
+\mmm ná:mrph:CAUS
+\mmm màlo:v:faire.honte
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf humilier
 \gvf humilier
 \gvf faire honte
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx lámána
 \mm lá:mrph:CAUS
 \mm mána:v:allumer
-\va lá.mɛ́nɛ
+\va lámɛ́nɛ
 \mm lá:mrph:CAUS
+\mm mɛ́nɛ:v:allumer
+\va námána
+\mm ná:mrph:CAUS
+\mm mána:v:allumer
+\va námɛ́nɛ
+\mm ná:mrph:CAUS
 \mm mɛ́nɛ:v:allumer
 \ps v
 \vl vt
 \gf allumer
 \gvf allumer
-\dt 16/Aug/2006
+\dt 31/Mar/2019
 
 \lx lámántɔ̀
 \mm lá:mrph:CAUS
@@ -82225,10 +82898,11 @@ catastrophe)
 \lx làmin
 \mm lá:mrph:CAUS
 \mm mìn:v:boire
+\mm \:mrph:NMLZ2
 \ps n
 \gf abreuvement
 \gvf abreuvement
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx lámìn
 \mm lá:mrph:CAUS
@@ -82341,13 +83015,15 @@ catastrophe)
 \lx làmɔ
 \mm lá:mrph:CAUS
 \mm mɔ̀:v:mûrir
+\mm \:mrph:NMLZ2
 \va nàmɔ
 \mm ná:mrph:CAUS
 \mm mɔ̀:v:mûrir
+\mm \:mrph:NMLZ2
 \ps n
 \gf éducation
 \gvf éducation
-\dt 15/Oct/2017
+\dt 31/Mar/2019
 
 \lx lámɔ̀
 \mm lá:mrph:CAUS
@@ -82442,6 +83118,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx làmɔnɛ
 \mm lá:mrph:CAUS
 \mm mɔ́nɛ́:v:se.défouler
+\mm \:mrph:NMLZ2
 \ps n
 \ms 1
 \gf ressentiment
@@ -82450,7 +83127,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf vexation
 \ms 2
 \gvf humiliation
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx lámɔnɛ
 \mm lá:mrph:CAUS
@@ -82679,10 +83356,11 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx lànɔgɔ
 \mm lá:mrph:CAUS
 \mm nɔ́gɔ:v:salir
+\mm \:mrph:NMLZ2
 \ps n
 \gf dénigrement
 \gvf dénigrement
-\dt 11/Sep/2017
+\dt 31/Mar/2019
 
 \lx lánɔgɔ
 \mm lá:mrph:CAUS
@@ -82878,6 +83556,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx làɲini
 \mm lá:mrph:CAUS
 \mm ɲíni:v:chercher
+\mm \:mrph:NMLZ2
 \ps n
 \ms 1
 \gf recherche
@@ -82886,7 +83565,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf but recherché
 \xv láɲini ká kɔ̀rɔ làtigɛ yé
 \xf il faut chercher avant d'attendre de Dieu la décision (dicton)
-\dt 11/Sep/2017
+\dt 31/Mar/2019
 
 \lx láɲini
 \mm lá:mrph:CAUS
@@ -83204,10 +83883,11 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx làseli
 \mm lá:mrph:CAUS
 \mm séli:v:prier
+\mm \:mrph:NMLZ2
 \ps n
 \gf direction.de.prière
 \gvf direction de prière
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx láseli
 \mm lá:mrph:CAUS
@@ -83255,11 +83935,12 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx làsigi
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
+\mm \:mrph:NMLZ2
 \ps n
 \gf fondation
 \gvf fondation
 \gvf installation
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx lásìgi
 \mm lá:mrph:CAUS
@@ -83288,16 +83969,18 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx làsigiden
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
+\mm \:mrph:NMLZ2
 \mm dén:n:enfant
 \va làasigi.den
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
+\mm \:mrph:NMLZ2
 \mm dén:n:enfant
 \ps n
 \gf ambassadeur
 \gvf ambassadeur
 \gvf représentant
-\dt 06/May/2013
+\dt 31/Mar/2019
 
 \lx làsigidenso
 \mm lá:mrph:CAUS
@@ -83329,11 +84012,12 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx làsiran
 \mm lá:mrph:CAUS
 \mm síran:v:craindre
+\mm \:mrph:NMLZ2
 \ps n
 \gf crainte
 \gvf crainte
 \gvf peur
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx lásiran
 \mm lá:mrph:CAUS
@@ -83488,19 +84172,23 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \dt 26/Sep/2006
 
 \lx lásumaya
-\mm lá.suma:v:rafraîchir
-\mm lá:mrph:CAUS
-\mm súma:v:rafraîchir
-\mm ya:mrph:ABSTR
+\mm lásuma:v:rafraîchir
+\mmm lá:mrph:CAUS
+\mm súmaya:v:rafraîchir
+\mmm súma:vq:rafrais
+\mm ya:mrph:DEQU
 \ps v
-\vl vt
+\gf rafraîchir
 \ms 1
-\gf ralentir
-\gvf ralentir
-\ms 2
-\gvf apaiser
+\vl vt
 \gvf rafraîchir
-\dt 26/Sep/2006
+\ms 2
+\vl vt
+\gvf ralentir
+\ms 3
+\vl vt
+\gvf apaiser
+\dt 31/Mar/2019
 
 \lx lásùnɔgɔ
 \mm lá:mrph:CAUS
@@ -83819,15 +84507,17 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx làtiɲɛ
 \mm lá:mrph:CAUS
 \mm tíɲɛ:v:gâter
+\mm \:mrph:NMLZ2
 \va làtiyɛn
 \mm lá:mrph:CAUS
 \mm tíyɛn:v:gâter
+\mm \:mrph:NMLZ2
 \ps n
 \gf gaspillage
 \gvf gaspillage
 \gvf mise hors de service
 \smf (le fait de gâter)
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx látiɲɛ
 \mm lá:mrph:CAUS
@@ -83913,10 +84603,11 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx làtɔmɔ
 \mm lá:mrph:CAUS
 \mm tɔ̀mɔ:v:ramasser
+\mm \:mrph:NMLZ2
 \ps n
 \gf sélection
 \gvf sélection
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx látɔ̀mɔ
 \mm lá:mrph:CAUS
@@ -84001,13 +84692,15 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx làtunu
 \mm lá:mrph:CAUS
 \mm túnu:v:perdre
+\mm \:mrph:NMLZ2
 \va làtunun
 \mm lá:mrph:CAUS
 \mm túnun:v:perdre
+\mm \:mrph:NMLZ2
 \ps n
 \gf disparition
 \gvf disparition
-\dt 20/Aug/2017
+\dt 31/Mar/2019
 
 \lx látunu
 \mm lá:mrph:CAUS
@@ -84190,6 +84883,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx láwoloma
 \mm lá:mrph:CAUS
 \mm wóloma:v:trier
+\mm \:mrph:NMLZ2
 \va rɔ́.woloma
 \mm rɔ́:mrph:IN
 \mm wóloma:v:trier
@@ -84205,7 +84899,7 @@ personne)
 \ms 2
 \vl vt
 \gvf fouiller
-\dt 12/Mar/2018
+\dt 31/Mar/2019
 
 \lx láwòyo
 \mm lá:mrph:CAUS
@@ -127061,21 +127755,21 @@ s'amène ...)
 \dt 16/Aug/2006
 
 \lx súma
-\ps vq/adj
+\ps adj
 \ms 1
-\gf lent
-\gvf lent
-\gvf calme
-\xv à ká súma kójugu
-\xf c'est un lambin
-\ms 2
 \gvf frais
 \gvf froid
 \gvf humide
 \smf (plus rare)
 \xv jí súma ká dí
 \xf l'eau fraîche est agréable
-\dt 26/Sep/2006
+\ms 2
+\gf lent
+\gvf lent
+\gvf calme
+\xv à ká súma kójugu
+\xf c'est un lambin
+\dt 31/Mar/2019
 
 \lx súma
 \ps n
@@ -127138,6 +127832,23 @@ s'amène ...)
 \xv à yé  kɔ̀nɔ súma ní  màrifa yé
 \xf il a visé l'oiseau avec le fusil
 \dt 26/Sep/2006
+
+\lx súma
+\ps vq
+\ms 1
+\gvf frais
+\gvf froid
+\gvf humide
+\smf (plus rare)
+\xv jí súma ká dí
+\xf l'eau fraîche est agréable
+\ms 2
+\gf lent
+\gvf lent
+\gvf calme
+\xv à ká súma kójugu
+\xf c'est un lambin
+\dt 31/Mar/2019
 
 \lx súmadiyalan
 \mm súma:n:odeur
@@ -142722,16 +143433,21 @@ soient définitivement données à leur mari)
 
 \lx yé
 \ps v
-\vl vt
 \gf voir
+\ms 1
+\vl vt
 \gvf voir
-\gvf apercevoir
-\gvf trouver
 \xv ù yé  ɲɔ́gɔn yé
 \xf ils ont eu une entrevue
+\ms 2
+\vl vt
+\gvf apercevoir
+\ms 3
+\vl vt
+\gvf trouver
 \xv ò yéra !
 \xf on l'a retrouvé ! (eurêka !)
-\dt 26/Sep/2006
+\dt 31/Mar/2019
 
 \lx yé
 \va y'
