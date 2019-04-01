@@ -1,4 +1,4 @@
-\_sh v3.0  1296 MDF 4.0
+﻿\_sh v3.0  1296 MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -454,7 +454,7 @@
 \mm Ála:n:Dieu
 \mm ɲɛ́:pp:devant
 \mm síran:v:craindre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf impie
 \gvf impie
@@ -467,7 +467,7 @@
 \mmm Ála:n:Dieu
 \mmm ɲɛ́:pp:devant
 \mmm síran:v:craindre
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf impiété
@@ -1336,7 +1336,7 @@ les deux flancs'
 \lx báarakɛbali
 \mm báara:n:travail
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf sans-travail
 \gvf sans-travail
@@ -1489,7 +1489,7 @@ les deux flancs'
 \lx báarasɔrɔbaliya
 \mm báara:n:travail
 \mm sɔ̀rɔ:v:obtenir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf chômage
@@ -1963,7 +1963,7 @@ propriété antivirales: hépatite B chronique)
 \mm bá:n:fleuve
 \mm fìla:num:deux
 \mm bɛ̀n:v:se.rencontrer
-\va bá.fla.bɛn
+\va báflabɛn
 \mm bá:n:fleuve
 \mm flà:num:deux
 \mm bɛ̀n:v:se.rencontrer
@@ -1971,7 +1971,7 @@ propriété antivirales: hépatite B chronique)
 \ph [baflabɛn]
 \gf confluent
 \gvf confluent
-\dt 12/Aug/2006
+\dt 01/Apr/2019
 
 \lx báfìli
 \mm bá:n:base
@@ -2304,12 +2304,12 @@ pour les jardins; toxique.)
 \mm bàga:n:poison
 \mm sà.bali:ptcp:immortel
 \mmm sà:v:mourir
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \va bwà-sà.bali
 \mm bwà:n:poison
 \mm sà.bali:ptcp:immortel
 \mmm sà:v:mourir
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \ps n
 \ms 1
 \gf plante.Urginea.altissima
@@ -4252,7 +4252,7 @@ Fleurs spectaculaires)
 \mmm kɔ́:pp:après
 \mmm táa:v:aller
 \mm sɔ̀rɔ:v:obtenir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf constipation
@@ -4414,7 +4414,7 @@ Fleurs spectaculaires)
 
 \lx bánbali
 \mm bán:v:terminer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf infini
 \gvf infini
@@ -4424,7 +4424,7 @@ Fleurs spectaculaires)
 
 \lx bànbalima
 \mm bàn:v:refuser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ma:mrph:COM
 \ps adj
 \gf en.terrasse
@@ -4470,7 +4470,7 @@ Fleurs spectaculaires)
 \lx bànbe
 \va bàn.bali
 \mm bàn:v:refuser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps n
 \ms 1
 \gf terre-plein
@@ -4641,7 +4641,7 @@ Fleurs spectaculaires)
 
 \lx bángebali
 \mm bánge:v:naître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf stérile
 \gvf stérile
@@ -5990,7 +5990,7 @@ furoncles, inf. urinaires)
 \mm básìgi:v:être.posé
 \mmm bá:n:base
 \mmm sìgi:v:asseoir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf remuant
@@ -6005,7 +6005,7 @@ furoncles, inf. urinaires)
 \mmm bá.sìgi:v:être.posé
 \mmmm bá:n:base
 \mmmm sìgi:v:asseoir
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf inconstance
@@ -7564,7 +7564,7 @@ au Mali)
 
 \lx bɛ̀nbali
 \mm bɛ̀n:v:se.rencontrer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf sans.accord
 \gvf sans accord
@@ -7575,7 +7575,7 @@ au Mali)
 \lx bɛ̀nbaliya
 \mm bɛ̀n.bali:ptcp:sans.accord
 \mmm bɛ̀n:v:se.rencontrer
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -7589,7 +7589,7 @@ au Mali)
 \lx bɛ̀nbaliya
 \mm bɛ̀n.bali:ptcp:sans.accord
 \mmm bɛ̀n:v:se.rencontrer
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf discorde
@@ -11004,7 +11004,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bólokobali
 \mm bólokò:v:circoncire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps n
 \gf incirconcis
 \gvf incirconcis
@@ -12517,7 +12517,7 @@ milieu des pierres
 \mm bòn.ya:v:grossir
 \mmm bòn:vq:grand
 \mmm ya:mrph:DEQU
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf non.honoré
@@ -12534,7 +12534,7 @@ milieu des pierres
 \mmm bòn.ya:v:grossir
 \mmmm bòn:vq:grand
 \mmmm ya:mrph:DEQU
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -16324,7 +16324,7 @@ médicinales)
 \lx cɛ̀dɔnbali
 \mm cɛ̀:n:mâle
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf vierge
 \gvf vierge
@@ -18044,7 +18044,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \mm cí.kɛ:v:cultiver
 \mmm cí:n:commission
 \mmm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf qui.ne.cultive.pas
@@ -19632,7 +19632,7 @@ saillie)
 \mm dá.bìla:v:cesser
 \mmm dá:n:bouche
 \mmm bìla:v:mettre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf incessant
 \gvf incessant
@@ -20096,7 +20096,7 @@ saillie)
 \mm dá.dɔn:v:connaître
 \mmm dá:n:bouche
 \mmm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non.informé
 \gvf non informé
@@ -20147,7 +20147,7 @@ saillie)
 \mm dá.fa:v:compléter
 \mmm dá:n:bouche
 \mmm fá:v:remplir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf incomplet
@@ -22710,7 +22710,7 @@ pas)
 \lx dàmadɔnbali
 \mm dàma:n:limite
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf innombrable
 \gvf innombrable
@@ -23767,7 +23767,7 @@ génitales ...)
 \mmm dá:v:poser
 \mmm ń:pers:1SG
 \mmm ná:pp:à
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf mécréant
@@ -23782,7 +23782,7 @@ génitales ...)
 \mmmm dá:v:poser
 \mmmm ń:pers:1SG
 \mmmm ná:pp:à
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -24632,7 +24632,7 @@ génitales ...)
 \lx dásigibali
 \mm dá:n:bouche
 \mm sìgi:v:asseoir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf indiscret
 \gvf indiscret
@@ -24870,7 +24870,7 @@ génitales ...)
 \mm dá.tugu:v:boucher
 \mmm dá:n:bouche
 \mmm túgu:v:fermer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non.fermé
 \gvf non fermé
@@ -25642,7 +25642,7 @@ génitales ...)
 \lx dénjɔbaliya
 \mm dén:n:enfant
 \mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf mortalité.infantile
@@ -26007,7 +26007,7 @@ génitales ...)
 \lx dénsɔrɔbaliya
 \mm dén:n:enfant
 \mm sɔ̀rɔ:v:obtenir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf stérilité
@@ -26057,7 +26057,7 @@ génitales ...)
 \lx dénwolobali
 \mm dén:n:enfant
 \mm wólo:v:accoucher
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf sans.enfants
 \gvf sans enfants
@@ -26068,7 +26068,7 @@ génitales ...)
 \mm dén.wolo.bali:ptcp:sans.enfants
 \mmm dén:n:enfant
 \mmm wólo:v:accoucher
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf stérilité
@@ -28550,7 +28550,7 @@ chefs religieux et représentants de l'administration
 
 \lx dònbali
 \mm dòn:v:entrer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non.initié
 \gvf non initié
@@ -29872,7 +29872,7 @@ le nom du groupe ethnique)
 \lx dɔ́kɛbali
 \mm dɔ́:dtm:certain
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf inactif
 \gvf inactif
@@ -30273,7 +30273,7 @@ le nom du groupe ethnique)
 
 \lx dɔ́nbaliya
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf ignorance
@@ -31722,7 +31722,7 @@ chez sa grand-mère maternelle, sinon tu meurs !
 
 \lx dúmunibali
 \mm dúmuni:v:nourrir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf qui.ne.mange.pas
 \gvf qui ne mange pas
@@ -31733,7 +31733,7 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \lx dúmunibaliya
 \mm dúmunibali:prcp:qui.ne.mange.pas
 \mmm dúmuni:v:nourrir
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf jeûne
@@ -31791,7 +31791,7 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \mmm dúmu:v:manger
 \mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -32062,7 +32062,7 @@ quant à sa mère, elle prend de l'âge
 
 \lx dúnbali
 \mm dún:v:manger
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps n
 \gf incomestible
 \gvf incomestible
@@ -33345,7 +33345,7 @@ gens)
 
 \lx fàamubali
 \mm fàamu:v:comprendre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf incompréhensible
 \gvf incompréhensible
@@ -33545,7 +33545,7 @@ gens)
 
 \lx fábali
 \mm fá:v:remplir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf insatiable
 \gvf insatiable
@@ -34600,7 +34600,7 @@ mais plus large que sóli; pour sarcler en profondeur)
 \lx fàndɔnbali
 \mm fàn:n:côté
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf innocent
 \gvf innocent
@@ -35475,7 +35475,7 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 
 \lx fàratibali
 \mm fàrati:v:risquer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf prudent
 \gvf prudent
@@ -37125,7 +37125,7 @@ bien (dicton)
 \lx fɛ́ndɔnbaliya
 \mm fɛ́n:n:chose
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf ignorance
@@ -37213,7 +37213,7 @@ bien (dicton)
 \lx fɛ́nkɛbali
 \mm fɛ́n:n:chose
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf fainéant
 \gvf fainéant
@@ -37227,7 +37227,7 @@ bien (dicton)
 \mm fɛ́nkɛbali:ptcp:fainéant
 \mmm fɛ́n:n:chose
 \mmm kɛ́:v:faire
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf inaction
@@ -38251,7 +38251,7 @@ la virginité (pièce de monnaie sans trou)
 
 \lx fìlibali
 \mm fìli:v:jeter
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf infaillible
 \gvf infaillible
@@ -38573,7 +38573,7 @@ de l'autre)
 \mm fìniko:n:lessive
 \mmm fìni:n:tissu
 \mmm kò:v:laver
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf aménorrhée
@@ -38585,7 +38585,7 @@ de l'autre)
 \mmm fìni:n:tissu
 \mmm kò:v:laver
 \mm bán:v:finir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps n
 \gf polyménorrhée
 \gvf polyménorrhée
@@ -39609,22 +39609,22 @@ sur le ventre -- í kɔ́nɔ kàn)
 \lx fíyɛnbilabaliya
 \mm fíyɛn:n:vent
 \mm bìla:v:mettre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va fíɲɛ.bila.bali.ya
 \mm fíɲɛ:n:vent
 \mm bìla:v:mettre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va fíɲɛ.bla.bali.ya
 \mm fíɲɛ:n:vent
 \mm blà:v:mettre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va fyɛ́n.bla.bali.ya
 \mm fyɛ́n:n:vent
 \mm blà:v:mettre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ph [fy]
 \ph [bl]
@@ -42993,7 +42993,7 @@ forestières, fruit : long follicule de 50 cm)
 
 \lx fúrubali
 \mm fúru:v:épouser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf célibataire
 \gvf célibataire
@@ -43003,7 +43003,7 @@ forestières, fruit : long follicule de 50 cm)
 \lx fúrubaliya
 \mm fúrubali:ptcp:célibataire
 \mmm fúru:v:épouser
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf célibat
@@ -43156,7 +43156,7 @@ forestières, fruit : long follicule de 50 cm)
 \lx fúrukɛbali
 \mm fúru:n:mariage
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf célibataire
 \gvf célibataire
@@ -43167,7 +43167,7 @@ forestières, fruit : long follicule de 50 cm)
 \mm fúrukɛbali:ptcp:célibataire
 \mmm fúru:n:mariage
 \mmm kɛ́:v:faire
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf célibat
@@ -49304,7 +49304,7 @@ doigts par des fileuses du coton)
 
 \lx hínɛbali
 \mm hínɛ:v:avoir.pitié
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf sans.pitié
 \gvf sans pitié
@@ -49313,7 +49313,7 @@ doigts par des fileuses du coton)
 \lx hínɛbaliya
 \mm hínɛbali:ptcp:sans.pitié
 \mmm hínɛ:v:avoir.pitié
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf manque.de.coeur
@@ -50607,7 +50607,7 @@ calebasses)
 
 \lx jàlakibali
 \mm jàlaki:v:donner.tort
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf irrépréhensible
 \gvf irrépréhensible
@@ -50617,7 +50617,7 @@ calebasses)
 \lx jàlakibaliya
 \mm jàlakibali:ptcp:irrépréhensible
 \mmm jàlaki:v:donner.tort
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf innocence
@@ -51783,10 +51783,10 @@ calebasses)
 
 \lx jàtebali
 \mm jàte:v:compter
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \va jàtibali
 \mm jàti:v:compter
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf négligé
 \gvf négligé
@@ -51796,12 +51796,12 @@ calebasses)
 \lx jàtebaliya
 \mm jàtebali:ptcp:négligé
 \mmm jàte:v:compter
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va jàtibaliya
 \mm jàtibali:ptcp:négligé
 \mmm jàti:v:compter
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf abstraction
@@ -58885,7 +58885,7 @@ l'eau est prête
 
 \lx kàlanbali
 \mm kàlan:v:lire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf analphabète
@@ -58898,7 +58898,7 @@ l'eau est prête
 \lx kàlanbaliya
 \mm kàlanbali:ptcp:analphabète
 \mmm kàlan:v:lire
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf analphabétisme
@@ -62451,7 +62451,7 @@ probablement de chaux vive)
 
 \lx kàsibali
 \mm kàsi:v:pleurer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf non.fermenté
@@ -63485,7 +63485,7 @@ probablement de chaux vive)
 
 \lx kɛ́bali
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf non.fait
@@ -63497,7 +63497,7 @@ probablement de chaux vive)
 \lx kɛ́baliya
 \mm kɛ́bali:ptcp:non.fait
 \mmm kɛ́:v:faire
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf omission
@@ -64359,7 +64359,7 @@ probablement de chaux vive)
 \lx kɛ́nɛyabali
 \mm kɛ́nɛ:vq:en.bonne.santé
 \mm ya:mrph:DEQU
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf incurable
 \gvf incurable
@@ -66057,7 +66057,7 @@ probablement de chaux vive)
 
 \lx kòbali
 \mm kò:v:laver
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non.lavé
 \gvf non lavé
@@ -66148,7 +66148,7 @@ probablement de chaux vive)
 \mm kódɔn:v:entendre.dire
 \mmm kó:n:affaire
 \mmm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf ignorant
 \gvf ignorant
@@ -66160,7 +66160,7 @@ probablement de chaux vive)
 \mmm kódɔn:v:entendre.dire
 \mmmm kó:n:affaire
 \mmmm dɔ́n:v:connaître
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf ignorance
@@ -66182,7 +66182,7 @@ probablement de chaux vive)
 \mm kó:n:affaire
 \mm dúman:adj:agréable
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf indifférent
 \gvf indifférent
@@ -66355,7 +66355,7 @@ probablement de chaux vive)
 \lx kókɛbaliya
 \mm kó:n:affaire
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf omission
@@ -66685,7 +66685,7 @@ probablement de chaux vive)
 
 \lx kólobali
 \mm kólo:v:éduquer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf incorrigible
 \gvf incorrigible
@@ -69261,10 +69261,10 @@ harpon)
 
 \lx kɔ́gɔbali
 \mm kɔ́gɔ:v:mûrir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \va kwábali
 \mm kwá:v:mûrir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non.mûr
 \gvf non mûr
@@ -69275,12 +69275,12 @@ harpon)
 \lx kɔ́gɔbaliya
 \mm kɔ́gɔbali:ptcp:non.mûr
 \mmm kɔ́gɔ:v:mûrir
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va kwábaliya
 \mm kwábali:ptcp:non.mûr
 \mmm kwá:v:mûrir
-\mmm bali:mrph:PTCP.PRIV
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf immaturité
@@ -72204,7 +72204,7 @@ ou une proposition)
 \mm kɔ́nɔta:n:grossesse
 \mmm kɔ́nɔ:n:ventre
 \mmm tà:v:prendre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf stérilité
@@ -72920,7 +72920,7 @@ plus solide)
 \mm kɔ́rɔbɔ:v:essayer
 \mmm kɔ́rɔ:n:dessous
 \mmm bɔ́:v:sortir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non.testé
 \gvf non testé
@@ -73858,7 +73858,7 @@ plus solide)
 \mm kɔ́tìgɛ:v:terminer
 \mmm kɔ́:n:dos
 \mmm tìgɛ:v:couper
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf incessant
 \gvf incessant
@@ -76218,11 +76218,11 @@ l'intérieur une ou deux graines)
 \mm kùngòsi:v:bien.élever
 \mmm kùn:n:tête
 \mmm gòsi:v:battre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \va kùngɔsibali
 \mmm kùn:n:tête
 \mmm gɔ̀si:v:battre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf mal.élevé
 \gvf mal élevé
@@ -79357,7 +79357,7 @@ kúrunninle
 \lx làadayebaliya
 \mm làada:n:coutume
 \mm yé:v:voir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf aménorrhée
@@ -79720,13 +79720,13 @@ catastrophe)
 \mm lábàto:v:respecter.les.règles
 \mmm lá:mrph:CAUS
 \mmm bàto:v:adorer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va lábatobaliya
 \mm nábàto:v:respecter.les.règles
 \mmm ná:mrph:CAUS
 \mmm bàto:v:adorer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf inobservance
@@ -82017,13 +82017,13 @@ catastrophe)
 \mm lákana:v:protéger
 \mmm lá:mrph:CAUS
 \mmm kána:v:protéger
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va nákanabaliya
 \mm nákana:v:protéger
 \mmm ná:mrph:CAUS
 \mmm kána:v:protéger
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf insécurité
@@ -82788,48 +82788,61 @@ catastrophe)
 \gvf faire honte
 \dt 31/Mar/2019
 
-\lx lámána
+\lx lámana
 \mm lá:mrph:CAUS
 \mm mána:v:allumer
-\va lámɛ́nɛ
+\va lámɛnɛ
 \mm lá:mrph:CAUS
 \mm mɛ́nɛ:v:allumer
-\va námána
+\va námana
 \mm ná:mrph:CAUS
 \mm mána:v:allumer
-\va námɛ́nɛ
+\va námɛnɛ
 \mm ná:mrph:CAUS
 \mm mɛ́nɛ:v:allumer
 \ps v
 \vl vt
 \gf allumer
 \gvf allumer
-\dt 31/Mar/2019
+\dt 01/Apr/2019
 
-\lx lámántɔ̀
+\lx lámantɔ̀
 \mm lá:mrph:CAUS
-\mm màn.tɔ:v:faire.taire
-\mm màn:mrph:SUPER
-\mm tɔ̀:v:bloquer
+\mm màntɔ:v:faire.taire
+\mmm màn:mrph:SUPER
+\mmm tɔ̀:v:bloquer
+\va námantɔ̀
+\mm ná:mrph:CAUS
+\mm màntɔ:v:faire.taire
+\mmm màn:mrph:SUPER
+\mmm tɔ̀:v:bloquer
 \ps v
 \vl vt
 \gf faire.taire
 \gvf faire taire
 \sy lámakun
-\dt 16/Aug/2006
+\dt 01/Apr/2019
 
 \lx làmara
 \mm lá:mrph:CAUS
 \mm màra:v:garder
+\mm \:mrph:NMLZ2
+\va nàmara
+\mm ná:mrph:CAUS
+\mm màra:v:garder
+\mm \:mrph:NMLZ2
 \ps n
 \gf surveillance
 \gvf surveillance
 \gvf garde
 \smf (action de garder)
-\dt 20/Aug/2017
+\dt 01/Apr/2019
 
 \lx lámàra
 \mm lá:mrph:CAUS
+\mm màra:v:garder
+\va námàra
+\mm ná:mrph:CAUS
 \mm màra:v:garder
 \ps v
 \vl vt
@@ -82841,7 +82854,7 @@ catastrophe)
 \gvf s'occuper
 \xv bìlakoro mín tɛ́  ɛ́ lámara kóɲuman...
 \xf le jeune garçon qui ne s'occupe pas bien des poules ...
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx Lámerikɛn
 \va Amɛrikɛn
@@ -82850,42 +82863,42 @@ catastrophe)
 \gvf Américain
 \dt 22/Feb/2019
 
-\lx lámɛ
+\lx lámɛɛn
 \mm lá:mrph:CAUS
-\mm mɛ́:v:durer
-\va lá.mɛn
+\mm mɛ́ɛn:v:durer
+\va lámɛn
 \mm lá:mrph:CAUS
 \mm mɛ́n:v:durer
+\va lámɛ
+\mm lá:mrph:CAUS
+\mm mɛ́:v:durer
+\va námɛɛn
+\mm ná:mrph:CAUS
+\mm mɛ́ɛn:v:durer
+\va námɛn
+\mm ná:mrph:CAUS
+\mm mɛ́n:v:durer
+\va námɛ
+\mm ná:mrph:CAUS
+\mm mɛ́:v:durer
 \ps v
 \vl vt
 \gf faire.durer
 \gvf faire durer
-\dt 16/Aug/2006
-
-\lx lámɛbaa
-\mm lá.mɛ:v:écouter
-\mm lá:mrph:CAUS
-\mm mɛ́:v:entendre
-\mm baa:mrph:AG.OCC
-\va lá.mɛn.baga
-\mm lá.mɛn:v:écouter
-\mm lá:mrph:CAUS
-\mm mɛ́n:v:entendre
-\mm baga:mrph:AG.OCC
-\ps n
-\gf auditeur
-\gvf auditeur
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lámɛn
 \mm lá:mrph:CAUS
-\mm mɛ́:v:entendre
-\va lá.mɛ
+\mm mɛ́n:v:entendre
+\va lámɛ
 \mm lá:mrph:CAUS
+\mm mɛ́:v:entendre
+\va ná.mɛn
+\mm ná:mrph:CAUS
 \mm mɛ́n:v:entendre
 \va ná.mɛ
 \mm ná:mrph:CAUS
-\mm mɛ́n:v:entendre
+\mm mɛ́:v:entendre
 \ps v
 \vl vt
 \ms 1
@@ -82893,19 +82906,51 @@ catastrophe)
 \gvf écouter
 \ms 2
 \gvf exaucer
-\dt 28/Mar/2014
+\dt 01/Apr/2019
+
+\lx lámɛnbaa
+\mm lámɛn:v:écouter
+\mmm lá:mrph:CAUS
+\mmm mɛ́n:v:entendre
+\mm baa:mrph:AG.OCC
+\va lámɛbaga
+\mm lámɛ:v:écouter
+\mmm lá:mrph:CAUS
+\mmm mɛ́:v:entendre
+\mm baga:mrph:AG.OCC
+\va námɛnbaa
+\mm námɛn:v:écouter
+\mmm ná:mrph:CAUS
+\mmm mɛ́n:v:entendre
+\mm baa:mrph:AG.OCC
+\va námɛbaga
+\mm námɛ:v:écouter
+\mmm ná:mrph:CAUS
+\mmm mɛ́:v:entendre
+\mm baga:mrph:AG.OCC
+\ps n
+\gf auditeur
+\gvf auditeur
+\dt 01/Apr/2019
 
 \lx làmin
 \mm lá:mrph:CAUS
 \mm mìn:v:boire
 \mm \:mrph:NMLZ2
+\va nàmin
+\mm ná:mrph:CAUS
+\mm mìn:v:boire
+\mm \:mrph:NMLZ2
 \ps n
 \gf abreuvement
 \gvf abreuvement
-\dt 31/Mar/2019
+\dt 01/Apr/2019
 
 \lx lámìn
 \mm lá:mrph:CAUS
+\mm mìn:v:boire
+\va námìn
+\mm ná:mrph:CAUS
 \mm mìn:v:boire
 \ps v
 \vl vt
@@ -82925,7 +82970,7 @@ catastrophe)
 \gvf évaporer
 \xv ɲɔ̀ ɲɛ́ bɔ́len, nká, à jí má lámin
 \xf le sorgho est en épis, mais ils sont encore laiteux
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lámìnɛ
 \mm lá:mrph:CAUS
@@ -82933,6 +82978,9 @@ catastrophe)
 \va lámìna
 \mm lá:mrph:CAUS
 \mm mìna:v:attraper
+\va námìnɛ
+\mm ná:mrph:CAUS
+\mm mìnɛ:v:attraper
 \va námìna
 \mm ná:mrph:CAUS
 \mm mìna:v:attraper
@@ -82981,36 +83029,45 @@ catastrophe)
 \smf (maîtriser ses mauvais penchants)
 \xv í láminɛ dɔ́rɔn !
 \xf sois un peu maître de toi !
-\dt 10/Mar/2019
+\dt 01/Apr/2019
 
 \lx lámini
 \mm lá:mrph:CAUS
+\mm míni:v:enrouler
+\va námini
+\mm ná:mrph:CAUS
 \mm míni:v:enrouler
 \ps n
 \gf alentours
 \gvf alentours
 \gvf pourtour
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lámini
 \mm lá:mrph:CAUS
+\mm míni:v:enrouler
+\va námini
+\mm ná:mrph:CAUS
 \mm míni:v:enrouler
 \ps v
 \vl vt
 \gf entourer
 \gvf entourer
 \gvf faire le tour de
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx láminimini
 \mm lá:mrph:CAUS
+\mm mínimini:v:tourner
+\va náminimini
+\mm ná:mrph:CAUS
 \mm mínimini:v:tourner
 \ps v
 \vl vt
 \gf entourer
 \gvf entourer
 \gvf faire plusieurs fois le tour
-\dt 08/Nov/2012
+\dt 01/Apr/2019
 
 \lx làmɔ
 \mm lá:mrph:CAUS
@@ -83047,9 +83104,14 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \dt 15/Oct/2017
 
 \lx lámɔba
-\mm lá.mɔ̀:v:faire.mûrir
-\mm lá:mrph:CAUS
-\mm mɔ̀:v:mûrir
+\mm lámɔ̀:v:faire.mûrir
+\mmm lá:mrph:CAUS
+\mmm mɔ̀:v:mûrir
+\mm bá:n:mère
+\va námɔba
+\mm námɔ̀:v:faire.mûrir
+\mmm ná:mrph:CAUS
+\mmm mɔ̀:v:mûrir
 \mm bá:n:mère
 \ps n
 \ms 1
@@ -83058,27 +83120,38 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \smf (chargée de l'éducation de tel neveu ou de telle nièce et des coutumes les concernant)
 \ms 2
 \gvf mère adoptive
-\dt 16/Aug/2006
+\dt 01/Apr/2019
 
 \lx lámɔbaliya
-\mm lá.mɔ̀:v:faire.mûrir
-\mm lá:mrph:CAUS
-\mm mɔ̀:v:mûrir
-\mm bali:mrph:PTCP.PRIV
+\mm lámɔ̀:v:faire.mûrir
+\mmm lá:mrph:CAUS
+\mmm mɔ̀:v:mûrir
+\mm bali:mrph:PTCP.NEG
+\mm ya:mrph:ABSTR
+\va námɔbaliya
+\mm námɔ̀:v:faire.mûrir
+\mmm ná:mrph:CAUS
+\mmm mɔ̀:v:mûrir
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf mauvaise.éducation
 \gvf mauvaise éducation
 \sy lámɔlibaliya
-\xv K'í jɔ̀  ká kúma lámɛn  dá lá, ò yé  lámɔlibaliyaba yé
+\xv K'í jɔ̀  ká kúma lámɛn  dá lá, ò yé lámɔlibaliyaba yé
 \xf écouter aux portes est le fait d'un homme sans éducation (Si 21, 24)
 \rem l 89
-\dt 11/Nov/2007
+\dt 01/Apr/2019
 
 \lx lámɔden
-\mm lá.mɔ̀:v:faire.mûrir
-\mm lá:mrph:CAUS
-\mm mɔ̀:v:mûrir
+\mm lámɔ̀:v:faire.mûrir
+\mmm lá:mrph:CAUS
+\mmm mɔ̀:v:mûrir
+\mm dén:n:enfant
+\va námɔden
+\mm námɔ̀:v:faire.mûrir
+\mmm ná:mrph:CAUS
+\mmm mɔ̀:v:mûrir
 \mm dén:n:enfant
 \ps n
 \ms 1
@@ -83089,12 +83162,17 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf enfant adopté
 \gvf pupille
 \smf (dont on a charge de l'éducation)
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lámɔfa
-\mm lá.mɔ̀:v:faire.mûrir
-\mm lá:mrph:CAUS
-\mm mɔ̀:v:mûrir
+\mm lámɔ̀:v:faire.mûrir
+\mmm lá:mrph:CAUS
+\mmm mɔ̀:v:mûrir
+\mm fà:n:père
+\va lámɔfa
+\mm námɔ̀:v:faire.mûrir
+\mmm ná:mrph:CAUS
+\mmm mɔ̀:v:mûrir
 \mm fà:n:père
 \ps n
 \ms 1
@@ -83104,19 +83182,29 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \gvf tuteur
 \gvf père adoptif
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lámɔmasa
-\mm lá.mɔ̀:v:faire.mûrir
-\mm lá:mrph:CAUS
-\mm mɔ̀:v:mûrir
+\mm lámɔ̀:v:faire.mûrir
+\mmm lá:mrph:CAUS
+\mmm mɔ̀:v:mûrir
+\mm màsa:n:roi
+\va námɔmasa
+\mm námɔ̀:v:faire.mûrir
+\mmm ná:mrph:CAUS
+\mmm mɔ̀:v:mûrir
 \mm màsa:n:roi
 \ps n
 \gf tuteur
 \gvf tuteur
+\dt 01/Apr/2019
 
 \lx làmɔnɛ
 \mm lá:mrph:CAUS
+\mm mɔ́nɛ́:v:se.défouler
+\mm \:mrph:NMLZ2
+\va nàmɔnɛ
+\mm ná:mrph:CAUS
 \mm mɔ́nɛ́:v:se.défouler
 \mm \:mrph:NMLZ2
 \ps n
@@ -83127,10 +83215,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf vexation
 \ms 2
 \gvf humiliation
-\dt 31/Mar/2019
+\dt 01/Apr/2019
 
 \lx lámɔnɛ
 \mm lá:mrph:CAUS
+\mm mɔ́nɛ́:v:se.défouler
+\va námɔnɛ
+\mm ná:mrph:CAUS
 \mm mɔ́nɛ́:v:se.défouler
 \ps v
 \ms 1
@@ -83141,7 +83232,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \vl vt
 \gvf faire regretter
-\dt 20/Aug/2017
+\dt 01/Apr/2019
 
 \lx lámu
 \ps n
@@ -83151,6 +83242,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx lámuguri
 \mm lá:mrph:CAUS
 \mm múguri:v:remuer
+\va námuguri
+\mm ná:mrph:CAUS
+\mm múguri:v:remuer
 \ps v
 \vl vt
 \ms 1
@@ -83158,7 +83252,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf faire danser
 \ms 2
 \gvf gâter qqn
-\dt 04/Apr/2016
+\dt 01/Apr/2019
 
 \lx lámukala
 \mm lámu:n:lame
@@ -83172,15 +83266,20 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx lámuruti
 \mm lá:mrph:CAUS
 \mm múruti:v:se.révolter
-\va lá.murti
+\va lámurti
 \mm lá:mrph:CAUS
 \mm múrti:v:se.révolter
-\ph [lamurti]
+\va námuruti
+\mm ná:mrph:CAUS
+\mm múruti:v:se.révolter
+\va námurti
+\mm ná:mrph:CAUS
+\mm múrti:v:se.révolter
 \ps v
 \vl vt
 \gf inciter.à.la.révolte
 \gvf inciter à la révolte
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lánà
 \mm lá:mrph:CAUS
@@ -83193,34 +83292,44 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \sy lánati
 \xv màa sí tɛ́ sé  kà sánji lána ní  Ála yɛ̀rɛ tɛ́
 \xf personne ne peut faire venir la pluie si ce n'est Dieu
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lánàani
 \mm lá:mrph:CAUS
+\mm nàani:v:cajoler
+\va nánàani
+\mm ná:mrph:CAUS
 \mm nàani:v:cajoler
 \ps v
 \vl vt
 \gf consoler
 \gvf consoler
+\dt 01/Apr/2019
 
 \lx lánalon
 \mm lá:mrph:CAUS
+\mm nálon:v:abrutir
+\va nánalon
+\mm ná:mrph:CAUS
 \mm nálon:v:abrutir
 \ps v
 \vl vt
 \gf rendre.stupide
 \gvf rendre stupide
-\dt 11/Nov/2007
+\dt 01/Apr/2019
 
 \lx lánàti
 \mm lá:mrph:CAUS
+\mm nàti:v:faire.venir
+\va nánàti
+\mm ná:mrph:CAUS
 \mm nàti:v:faire.venir
 \ps v
 \vl vt
 \gf faire.venir
 \gvf faire venir
 \sy lána
-\dt 07/Mar/2014
+\dt 01/Apr/2019
 
 \lx landi
 \va nandi
@@ -83235,15 +83344,21 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx lánɛgɛn
 \mm lá:mrph:CAUS
 \mm nɛ́gɛn:v:leurrer
+\va nánɛgɛn
+\mm ná:mrph:CAUS
+\mm nɛ́gɛn:v:leurrer
 \ps v
 \vl vt
 \gf duper
 \gvf duper
 \gvf attirer
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lánɛnɛ
 \mm lá:mrph:CAUS
+\mm nɛ́nɛ:v:goûter
+\va nánɛnɛ
+\mm ná:mrph:CAUS
 \mm nɛ́nɛ:v:goûter
 \ps v
 \vl vt
@@ -83251,10 +83366,14 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf éprouver
 \gvf tester
 \smf (avec des souffrances; un mot coranique)
-\dt 08/Feb/2017
+\dt 01/Apr/2019
 
 \lx lánɛ̀rɛmugu
 \mm lá:mrph:CAUS
+\mm nɛ̀rɛ:n:nèrè.de.Gambie
+\mm múgu:v:réduire.en.poudre
+\va nánɛ̀rɛmugu
+\mm ná:mrph:CAUS
 \mm nɛ̀rɛ:n:nèrè.de.Gambie
 \mm múgu:v:réduire.en.poudre
 \ve (-bk)
@@ -83262,21 +83381,31 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \vl vt
 \gf rendre.jaune
 \gvf rendre jaune
-\dt 16/Aug/2006
+\dt 01/Apr/2019
 
 \lx lánisɔndiya
 \mm lá:mrph:CAUS
-\mm ní.sɔn.di.ya:v:réjouir
-\mm ní.sɔn:n:humeur
-\mm ní:n:âme
-\mm sɔ̀n:n:coeur
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm nísɔndiya:v:réjouir
+\mmm nísɔn:n:humeur
+\mmmm ní:n:âme
+\mmmm sɔ̀n:n:coeur
+\mmm díya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
+\va nánisɔndiya
+\mm ná:mrph:CAUS
+\mm nísɔndiya:v:réjouir
+\mmm nísɔn:n:humeur
+\mmmm ní:n:âme
+\mmmm sɔ̀n:n:coeur
+\mmm díya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf réjouir
 \gvf réjouir
-\dt 16/Mar/2018
+\dt 01/Apr/2019
 
 \lx lánkolon
 \mm lan:mrph:à
@@ -83286,6 +83415,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm kólon:adj:vide
 \va lákolon
 \mm la:mrph:à
+\mm kólon:adj:vide
+\va nákolon
+\mm na:mrph:à
 \mm kólon:adj:vide
 \ps adj
 \sy kólon
@@ -83303,33 +83435,53 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf négligeable
 \xv ù tɛ́  mɔ̀gɔ lánkolon yé
 \xf ce ne sont pas des gens de rien
-\dt 18/Mar/2018
+\dt 01/Apr/2019
 
 \lx lánkolonya
-\mm lán.kolon:adj:vide
-\mm lan:mrph:à
-\mm kólon:adj:vide
+\mm lánkolon:adj:vide
+\mmm lan:mrph:à
+\mmm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \va lákolonya
-\mm lá.kolon:adj:vide
-\mm lan:mrph:à
-\mm kólon:adj:vide
+\mm lákolon:adj:vide
+\mmm lan:mrph:à
+\mmm kólon:adj:vide
+\mm ya:mrph:ABSTR
+\va nánkolonya
+\mm nánkolon:adj:vide
+\mmm nan:mrph:à
+\mmm kólon:adj:vide
+\mm ya:mrph:ABSTR
+\va nákolonya
+\mm nákolon:adj:vide
+\mmm nan:mrph:à
+\mmm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \ps n
 \gf nudité
 \gvf nudité
 \gvf vide
-\dt 18/Mar/2018
+\dt 01/Apr/2019
 
 \lx lánkolonya
 \mm lánkolon:adj:vide
-\mm lan:mrph:à
-\mm kólon:adj:vide
+\mmm lan:mrph:à
+\mmm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \va lákolonya
 \mm lákolon:adj:vide
-\mm lan:mrph:à
-\mm kólon:adj:vide
+\mmm lan:mrph:à
+\mmm kólon:adj:vide
+\mm ya:mrph:ABSTR
+\va nánkolonya
+\mm nánkolon:adj:vide
+\mmm nan:mrph:à
+\mmm kólon:adj:vide
+\mm ya:mrph:ABSTR
+\va nákolonya
+\mm nákolon:adj:vide
+\mmm nan:mrph:à
+\mmm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -83338,34 +83490,47 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf vider
 \ms 2
 \gvf dénuder
-\dt 18/Mar/2018
+\dt 01/Apr/2019
 
 \lx lánɔ
 \mm lá:mrph:CAUS
 \mm nɔ́:v:lécher
-\va lá.nɔn
+\va lánɔn
 \mm lá:mrph:CAUS
+\mm nɔ́n:v:lécher
+\va nánɔ
+\mm ná:mrph:CAUS
+\mm nɔ́:v:lécher
+\va nánɔn
+\mm ná:mrph:CAUS
 \mm nɔ́n:v:lécher
 \ps v
 \vl vt
 \gf lécher
 \gvf lécher
 \gvf laper
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lànɔgɔ
 \mm lá:mrph:CAUS
 \mm nɔ́gɔ:v:salir
 \mm \:mrph:NMLZ2
+\va nànɔgɔ
+\mm ná:mrph:CAUS
+\mm nɔ́gɔ:v:salir
+\mm \:mrph:NMLZ2
 \ps n
 \gf dénigrement
 \gvf dénigrement
-\dt 31/Mar/2019
+\dt 01/Apr/2019
 
 \lx lánɔgɔ
 \mm lá:mrph:CAUS
 \mm nɔ́gɔ:v:salir
-\va rɔ́.nɔgɔ
+\va nánɔgɔ
+\mm ná:mrph:CAUS
+\mm nɔ́gɔ:v:salir
+\va rɔ́nɔgɔ
 \mm rɔ́:mrph:IN
 \mm nɔ́gɔ:v:salir
 \ps v
@@ -83376,7 +83541,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \gvf tourmenter
 \gvf bafouer
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lànpan
 \va lànpa
@@ -83410,16 +83575,22 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx lánùgu
 \mm lá:mrph:CAUS
 \mm nùgu:v:bourgeonner
+\va nánùgu
+\mm ná:mrph:CAUS
+\mm nùgu:v:bourgeonner
 \ps v
 \vl vt
 \gf faire.pousser
 \gvf faire pousser
 \xv Í bɛ́ bín lánugu kà bágan bálo
 \xf c'est toi qui fais pousser l'herbe pour le bétail (ps 104, 14)
-\dt 11/Nov/2007
+\dt 01/Apr/2019
 
 \lx láɲaga
 \mm lá:mrph:CAUS
+\mm ɲága:v:activer.le.feu
+\va náɲaga
+\mm ná:mrph:CAUS
 \mm ɲága:v:activer.le.feu
 \ps v
 \vl vt
@@ -83427,18 +83598,32 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf activer
 \gvf attiser
 \gvf raviver
-\dt 08/Feb/2017
+\dt 01/Apr/2019
 
 \lx láɲàga
+\mm lá:mrph:CAUS
+\mm ɲàga:v:se.réjouir
 \va láɲàa
+\mm lá:mrph:CAUS
+\mm ɲàa:v:se.réjouir
+\va náɲàga
+\mm ná:mrph:CAUS
+\mm ɲàga:v:se.réjouir
+\va náɲàa
+\mm ná:mrph:CAUS
+\mm ɲàa:v:se.réjouir
 \ps v
 \gf divertir
+\vl vt
 \gvf divertir
 \gvf faire se réjouir
-\dt 08/Feb/2017
+\dt 01/Apr/2019
 
 \lx láɲagali
 \mm lá:mrph:CAUS
+\mm ɲágali:v:être.content
+\va náɲagali
+\mm ná:mrph:CAUS
 \mm ɲágali:v:être.content
 \ps v
 \vl vt
@@ -83446,40 +83631,59 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf réjouir
 \xv í ká kúma tùn bɛ́ kà né láɲagali
 \xf tes paroles causaient ma joie (jr 15, 16)
-\dt 11/Nov/2007
+\dt 01/Apr/2019
 
 \lx láɲɛ̀
 \mm lá:mrph:CAUS
 \mm ɲɛ̀:v:réussir
-\va lá.ɲà
+\va láɲà
 \mm lá:mrph:CAUS
+\mm ɲà:v:réussir
+\va náɲɛ̀
+\mm ná:mrph:CAUS
+\mm ɲɛ̀:v:réussir
+\va náɲà
+\mm ná:mrph:CAUS
 \mm ɲà:v:réussir
 \ps v
 \vl vt
 \gf faire.réussir
 \gvf faire réussir
 \gvf faire du bien
-\dt 11/Nov/2007
+\dt 01/Apr/2019
 
 \lx láɲɛbaga
-\mm lá.ɲɛ̀:v:faire.réussir
-\mm lá:mrph:CAUS
-\mm ɲɛ̀:v:réussir
+\mm láɲɛ̀:v:faire.réussir
+\mmm lá:mrph:CAUS
+\mmm ɲɛ̀:v:réussir
 \mm baga:mrph:AG.OCC
-\va lá.ɲa.baga
-\mm lá.ɲà:v:faire.réussir
-\mm lá:mrph:CAUS
-\mm ɲà:v:réussir
+\va láɲabaga
+\mm láɲà:v:faire.réussir
+\mmm lá:mrph:CAUS
+\mmm ɲà:v:réussir
+\mm baga:mrph:AG.OCC
+\va náɲɛbaga
+\mm náɲɛ̀:v:faire.réussir
+\mmm ná:mrph:CAUS
+\mmm ɲɛ̀:v:réussir
+\mm baga:mrph:AG.OCC
+\va náɲabaga
+\mm náɲà:v:faire.réussir
+\mmm ná:mrph:CAUS
+\mmm ɲà:v:réussir
 \mm baga:mrph:AG.OCC
 \ps n
 \gf bienfaiteur
 \gvf bienfaiteur
 \xv Óniyasi mín tùn yé dùgu láɲɛbaga yé / á tùn yé  Ála ká màsaya laɲɛbagaw dè ye
 \xf Onias, le bienfaiteur de la ville (2 Ch 4, 2) / vous étiez au service de sa royauté (Sg 6, 4)
-\dt 11/Nov/2007
+\dt 01/Apr/2019
 
 \lx láɲɛ̀gɛn
 \mm lá:mrph:CAUS
+\mm ɲɛ̀gɛn:v:dessiner\
+\va náɲɛ̀gɛn
+\mm ná:mrph:CAUS
 \mm ɲɛ̀gɛn:v:dessiner
 \ps v
 \vl vt
@@ -83487,74 +83691,106 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf peindre
 \gvf colorer
 \smf (même en monochrome)
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx láɲɛnajɛ
 \mm lá:mrph:CAUS
-\mm ɲɛ́.na.jɛ:v:réjouir
-\mm ɲɛ́:n:oeil
+\mm ɲɛ́najɛ:v:réjouir
+\mmm ɲɛ́:n:oeil
+\mmm ná:mrph:CAUS
+\mmm jɛ́:v:blanchir
+\va náɲɛnajɛ
 \mm ná:mrph:CAUS
-\mm jɛ́:v:blanchir
+\mm ɲɛ́najɛ:v:réjouir
+\mmm ɲɛ́:n:oeil
+\mmm ná:mrph:CAUS
+\mmm jɛ́:v:blanchir
 \ps v
 \vl vt
 \gf réjouir
 \gvf réjouir
 \gvf amuser
 \gvf distraire
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx láɲɛnamaliya
 \mm lá:mrph:CAUS
-\mm ɲɛ́.nama.ya:v:ranimer
-\mm ɲɛ́.nama:adj:vivant
-\mm ɲɛ́:n:oeil
-\mm nama:mrph:STAT
+\mm ɲɛ́nama:adj:vivant
+\mmm ɲɛ́:n:oeil
+\mmm nama:mrph:STAT
+\mm li:mrph:NMLZ
+\mm ya:mrph:ABSTR
+\va n áɲɛnamaliya
+\mm ná:mrph:CAUS
+\mm ɲɛ́nama:adj:vivant
+\mmm ɲɛ́:n:oeil
+\mmm nama:mrph:STAT
 \mm li:mrph:NMLZ
 \mm ya:mrph:ABSTR
 \ps n
 \gf dynamisation
 \gvf dynamisation
-\dt 13/Jul/2013
+\dt 01/Apr/2019
 
 \lx láɲɛnamaya
 \mm lá:mrph:CAUS
-\mm ɲɛ́.nama.ya:v:ranimer
-\mm ɲɛ́.nama:adj:vivant
-\mm ɲɛ́:n:oeil
-\mm nama:mrph:STAT
-\mm ya:mrph:ABSTR
+\mm ɲɛ́namaya:v:ranimer
+\mmm ɲɛ́nama:adj:vivant
+\mmmm ɲɛ́:n:oeil
+\mmmm nama:mrph:STAT
+\mmm ya:mrph:ABSTR
+\va náɲɛnamaya
+\mm ná:mrph:CAUS
+\mm ɲɛ́namaya:v:ranimer
+\mmm ɲɛ́nama:adj:vivant
+\mmmm ɲɛ́:n:oeil
+\mmmm nama:mrph:STAT
+\mmm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf rénover
 \gvf rénover
 \gvf réanimer
 \gvf dynamiser
-\dt 13/Jul/2013
+\dt 01/Apr/2019
 
 \lx láɲɛni
 \mm lá:mrph:CAUS
 \mm ɲɛ́ni:v:réduire.à.la.misère
-\va lá.ɲani
+\va láɲani
 \mm lá:mrph:CAUS
+\mm ɲáni:v:réduire.à.la.misère
+\va náɲɛni
+\mm ná:mrph:CAUS
+\mm ɲɛ́ni:v:réduire.à.la.misère
+\va náɲani
+\mm ná:mrph:CAUS
 \mm ɲáni:v:réduire.à.la.misère
 \ps v
 \vl vt
 \gf réduire.à.la.misère
 \gvf réduire à la misère
-\dt 16/Aug/2006
+\dt 01/Apr/2019
 
 \lx láɲìnɛ
 \mm lá:mrph:CAUS
+\mm ɲìnɛ:v:oublier
+\va náɲìnɛ
+\mm ná:mrph:CAUS
 \mm ɲìnɛ:v:oublier
 \ps v
 \vl vt
 \gf faire.oublier
 \gvf faire oublier
 \xv màa láɲinɛ  fɛ́n kɔ́
-\dt 16/Aug/2006
+\dt 01/Apr/2019
 
 \lx làɲini
 \mm lá:mrph:CAUS
+\mm ɲíni:v:chercher
+\mm \:mrph:NMLZ2
+\va nàɲini
+\mm ná:mrph:CAUS
 \mm ɲíni:v:chercher
 \mm \:mrph:NMLZ2
 \ps n
@@ -83565,10 +83801,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf but recherché
 \xv láɲini ká kɔ̀rɔ làtigɛ yé
 \xf il faut chercher avant d'attendre de Dieu la décision (dicton)
-\dt 31/Mar/2019
+\dt 01/Apr/2019
 
 \lx láɲini
 \mm lá:mrph:CAUS
+\mm ɲíni:v:chercher
+\va náɲini
+\mm ná:mrph:CAUS
 \mm ɲíni:v:chercher
 \ps v
 \vl vt
@@ -83579,25 +83818,31 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \gvf provoquer qqn
 \gvf embêter
-\dt 04/Apr/2016
+\dt 01/Apr/2019
 
 \lx láɲìninka
 \mm lá:mrph:CAUS
 \mm ɲìninka:v:interroger
-\va lá.ɲìninkan
-\mm lá:mrph:CAUS
-\mm ɲìninkan:v:interroger
+\va náɲìninka
+\mm ná:mrph:CAUS
+\mm ɲìninka:v:interroger
 \ps v
 \vl vt
 \gf interroger
 \gvf interroger
-\dt 04/Dec/2017
+\dt 01/Apr/2019
 
 \lx láɲɔ
 \mm lá:mrph:CAUS
 \mm ɲɔ́:v:respirer
-\va lá.ɲɔn
+\va láɲɔn
 \mm lá:mrph:CAUS
+\mm ɲɔ́n:v:respirer
+\va náɲɔ
+\mm ná:mrph:CAUS
+\mm ɲɔ́:v:respirer
+\va náɲɔn
+\mm ná:mrph:CAUS
 \mm ɲɔ́n:v:respirer
 \va rɔ́.ɲɔ
 \mm rɔ́:mrph:IN
@@ -83609,10 +83854,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf respirer
 \ms 2
 \gvf se reposer
-\dt 16/Aug/2006
+\dt 01/Apr/2019
 
 \lx láɲɔ̀ngiri
 \mm lá:mrph:CAUS
+\mm ɲɔ̀ngiri:v:s'agenouiller
+\va náɲɔ̀ngiri
+\mm ná:mrph:CAUS
 \mm ɲɔ̀ngiri:v:s'agenouiller
 \ps v
 \vl vt
@@ -83620,26 +83868,36 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf faire agenouiller
 \xv à yé ɲàamɛ láɲɔngiri (gn 24, 11)
 \xf il fit agenouiller les chameaux
-\dt 11/Nov/2007
+\dt 01/Apr/2019
 
 \lx láɲugu
 \mm lá:mrph:CAUS
+\mm ɲúgu:v:avoir.la.nausée
+\va náɲugu
+\mm ná:mrph:CAUS
 \mm ɲúgu:v:avoir.la.nausée
 \ps v
 \vl vt
 \gf donner.la.nausée
 \gvf donner la nausée
+\dt 01/Apr/2019
 
 \lx lápan
 \mm lá:mrph:CAUS
 \mm pán:v:sauter
+\va nápan
+\mm ná:mrph:CAUS
+\mm pán:v:sauter
 \ps v
 \gf faire.voler
 \gvf faire voler
-\dt 11/Nov/2007
+\dt 01/Apr/2019
 
 \lx lápoyi
 \mm lá:mrph:CAUS
+\mm póyi:v:jaillir
+\va nápoyi
+\mm ná:mrph:CAUS
 \mm póyi:v:jaillir
 \ps v
 \vl vt
@@ -83647,7 +83905,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf faire jaillir
 \xv Í bɛ́ jí lápoyi
 \xf tu fais jaillir l'eau des sources (ps 104, 10)
-\dt 11/Nov/2007
+\dt 01/Apr/2019
 
 \lx làrabu
 \va arabu
@@ -83718,6 +83976,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx lásà
 \mm lá:mrph:CAUS
 \mm sà:v:mourir
+\va násà
+\mm ná:mrph:CAUS
+\mm sà:v:mourir
 \va rɔ́.sà
 \mm rɔ́:mrph:IN
 \mm sà:v:mourir
@@ -83732,7 +83993,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf empêcher
 \xv bàna yé né nàli lása dɔ́gɔkun fɔ́lɔ lá
 \xf la première semaine la maladie m'a empêché de venir
-\dt 04/Apr/2016
+\dt 01/Apr/2019
 
 \lx lásàa
 \ps v
@@ -83749,24 +84010,33 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx lásàalo
 \mm lá:mrph:CAUS
 \mm sàalo:v:masser
+\va násàalo
+\mm ná:mrph:CAUS
+\mm sàalo:v:masser
 \ps v
 \vl vt
 \gf consoler
 \gvf consoler
-\dt 19/Apr/2018
+\dt 01/Apr/2019
 
 \lx lásabali
 \mm lá:mrph:CAUS
+\mm sábali:v:être.patient
+\va násabali
+\mm ná:mrph:CAUS
 \mm sábali:v:être.patient
 \ps v
 \vl vt
 \gf calmer
 \gvf calmer
 \gvf apaiser
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx lásàbati
 \mm lá:mrph:CAUS
+\mm sàbati:v:prospérer
+\va násàbati
+\mm ná:mrph:CAUS
 \mm sàbati:v:prospérer
 \ps v
 \ms 1
@@ -83777,7 +84047,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \vl vi
 \gvf être appliqué
-\dt 26/Sep/2006
+\dt 01/Apr/2019
 
 \lx làsagafi
 \ps n
@@ -84721,7 +84991,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm lá.tunu:v:égarer
 \mm lá:mrph:CAUS
 \mm túnu:v:perdre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf immortel
 \gvf immortel
@@ -87216,7 +87486,7 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màkaribali
 \mm màkari:v:avoir.pitié
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf impitoyable
 \gvf impitoyable
@@ -87578,7 +87848,7 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màlobali
 \mm màlo:v:faire.honte
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf effronté
@@ -87592,7 +87862,7 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màlobaliya
 \mm màlo:v:faire.honte
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -90024,7 +90294,7 @@ des engagements
 
 \lx mɛ́bali
 \mm mɛ́:v:entendre
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf qui.n'entend.pas
 \gvf qui n'entend pas
@@ -90034,7 +90304,7 @@ des engagements
 
 \lx mɛ́bali
 \mm mɛ́:v:durer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf qui.ne.dure.pas
 \gvf qui ne dure pas
@@ -90499,7 +90769,7 @@ des engagements
 
 \lx míiribali
 \mm míiri:v:penser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf étourdi
 \gvf étourdi
@@ -90511,7 +90781,7 @@ des engagements
 
 \lx míiribaliya
 \mm míiri:v:penser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf irréflexion
@@ -93526,7 +93796,7 @@ pour les jardins)
 
 \lx mùɲubali
 \mm mùɲu:v:supporter
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf impatient
 \gvf impatient
@@ -107421,7 +107691,7 @@ banane, etc.)
 \mm ɲɛ́.dɔn:v:bien.connaître
 \mm ɲɛ́:n:oeil
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf mystérieux
@@ -107435,7 +107705,7 @@ banane, etc.)
 \mm ɲɛ́.dɔn:v:bien.connaître
 \mm ɲɛ́:n:oeil
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf méconnaissance
@@ -107783,7 +108053,7 @@ banane, etc.)
 \lx ɲɛ́gɛnɛkɛbaliya
 \mm ɲɛ́gɛnɛ:n:urine
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf rétention.d'urine
@@ -107794,7 +108064,7 @@ banane, etc.)
 \mm ɲɛ́gɛnɛ.kɛ.bali.ya:n:rétention.d'urine
 \mm ɲɛ́gɛnɛ:n:urine
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \mm bàna:n:maladie
 \ps n
@@ -108261,7 +108531,7 @@ banane, etc.)
 \mm ɲɛ́.kɔmi:v:ciller
 \mm ɲɛ́:n:oeil
 \mm kɔ́mi:v:branler
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf effronté
 \gvf effronté
@@ -108652,7 +108922,7 @@ banane, etc.)
 \mm ɲɛ́:n:oeil
 \mm mà:pp:ADR
 \mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf inattentif
 \gvf inattentif
@@ -108665,7 +108935,7 @@ banane, etc.)
 \mm ɲɛ́:n:oeil
 \mm mà:pp:ADR
 \mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf inattention
@@ -108733,7 +109003,7 @@ banane, etc.)
 \mm ɲɛ́.màlo:v:avoir.honte
 \mm ɲɛ́:n:oeil
 \mm màlo:v:faire.honte
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf impudent
 \gvf impudent
@@ -108743,7 +109013,7 @@ banane, etc.)
 \mm ɲɛ́.màlo:v:avoir.honte
 \mm ɲɛ́:n:oeil
 \mm màlo:v:faire.honte
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -109695,7 +109965,7 @@ banane, etc.)
 \mm ɲɛ́:n:oeil
 \mm ná:pp:à
 \mm yé:v:voir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps n
 \gf invisible
 \gvf invisible
@@ -111237,11 +111507,11 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲɔ̀gɔnyebali
 \mm ɲɔ̀gɔn:n:pareil
 \mm yé:v:voir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \va ɲwànyebali
 \mm ɲwàn:n:pareil
 \mm yé:v:voir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf insolite
 \gvf insolite
@@ -111775,7 +112045,7 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲùmandɔnbali
 \mm ɲùman:adj:bon
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf ingrat
 \gvf ingrat
@@ -111784,7 +112054,7 @@ le pèlerinage (bk 1/06 p.5)
 \mm ɲùman.dɔn.bali:ptcp:ingrat
 \mm ɲùman:adj:bon
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf ingratitude
@@ -115010,7 +115280,7 @@ épuisés
 
 \lx sàbali
 \mm sà:v:mourir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
 \gf immortel
@@ -115054,7 +115324,7 @@ épuisés
 \lx sàbaliya
 \mm sà.bali:ptcp:immortel
 \mm sà:v:mourir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf immortalité
@@ -115591,7 +115861,7 @@ langue, et finit par empêcher de marcher)
 \lx sàgokɛbali
 \mm sàgo:n:volonté
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf désobéissant
 \gvf désobéissant
@@ -115601,7 +115871,7 @@ langue, et finit par empêcher de marcher)
 \mm sàgo.kɛ.bali:ptcp:désobéissant
 \mm sàgo:n:volonté
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf désobéissance
@@ -117505,7 +117775,7 @@ langue, et finit par empêcher de marcher)
 \lx sánsɔrɔbaliya
 \mm sán:n:ciel
 \mm sɔ̀rɔ:v:obtenir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf échec
@@ -117761,7 +118031,7 @@ langue, et finit par empêcher de marcher)
 
 \lx sàrabali
 \mm sàra:v:payer
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf impayé
 \gvf impayé
@@ -117881,7 +118151,7 @@ langue, et finit par empêcher de marcher)
 \lx sárakaminɛbali
 \mm sáraka:n:aumône
 \mm mìnɛ:v:attraper
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf vaurien
 \gvf vaurien
@@ -118030,7 +118300,7 @@ composition de l'encens
 \mm sàra:v:avertir
 \mm ń:pers:1SG
 \mm ná:pp:à
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf importun
 \gvf importun
@@ -118955,7 +119225,7 @@ paniers, sègi)
 
 \lx sélibali
 \mm séli:v:prier
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non-musulman
 \gvf non-musulman
@@ -120768,7 +121038,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sɛ́bɛndɔnbali
 \mm sɛ́bɛn:n:écrit
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf analphabète
 \gvf analphabète
@@ -120778,7 +121048,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sɛ́bɛn.dɔn.bali:ptcp:analphabète
 \mm sɛ́bɛn:n:écrit
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf analphabétisme
@@ -121434,7 +121704,7 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sɛ̀nɛbali
 \mm sɛ̀nɛ:v:cultiver
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non.cultivé
 \gvf non cultivé
@@ -121464,7 +121734,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sɛ̀nɛkɛbali
 \mm sɛ̀nɛ:n:culture
 \mm kɛ́:v:faire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non-cultivateur
 \gvf non-cultivateur
@@ -121988,7 +122258,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sí.dɔn:v:connaître.parfaitement
 \mm sí:n:semence
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non.identifié
 \gvf non identifié
@@ -128166,7 +128436,7 @@ s'amène ...)
 
 \lx súnbali
 \mm sún:v:jeûner
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf qui.ne.jeûne.pas
 \gvf qui ne jeûne pas
@@ -128385,7 +128655,7 @@ s'amène ...)
 
 \lx sùnɔgɔbaliya
 \mm sùnɔgɔ:v:dormir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf insomnie
@@ -130527,7 +130797,7 @@ fiançailles
 
 \lx tàasibali
 \mm tàasi:v:réfléchir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf irréfléchi
 \gvf irréfléchi
@@ -134229,11 +134499,11 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tílenbaliya
 \mm tílen:v:redresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va tlén.bali.ya
 \mm tlén:v:redresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ph [tl]
 \ps n
@@ -134244,7 +134514,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tílenbaliyako
 \mm tílen.bali.ya:n:injustice
 \mm tílen:v:redresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \mm kó:n:affaire
 \ps n
@@ -135628,7 +135898,7 @@ est due aux paysans (kib 3/05 p.9)
 \lx tònsobibaliya
 \mm tònso:n:placenta
 \mm bì:v:tomber
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf rétention.placentaire
@@ -137771,12 +138041,12 @@ yé
 \mm túlo:n:oreille
 \mm mà:mrph:SUPER
 \mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \va tló.ma.jɔ.bali
 \mm tló:n:oreille
 \mm mà:mrph:SUPER
 \mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ph [tl]
 \ps ptcp
 \gf inattentif
@@ -137788,14 +138058,14 @@ yé
 \mm túlo:n:oreille
 \mm mà:mrph:SUPER
 \mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va tlómajɔbaliya
 \mm tlómajɔbali:ptcp:inattentif
 \mm tló:n:oreille
 \mm mà:mrph:SUPER
 \mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ph [tl]
 \ps n
@@ -139423,7 +139693,7 @@ planchette)
 \mm wále:n:acte
 \mm ɲùman:adj:bon
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf ingrat
 \gvf ingrat
@@ -139434,7 +139704,7 @@ planchette)
 \mm wále:n:acte
 \mm ɲùman:adj:bon
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf ingratitude
@@ -139475,7 +139745,7 @@ aîné ... (Kb 11/06 p.4)
 \mm wále.ya:v:appliquer
 \mm wále:n:acte
 \mm ya:mrph:ABSTR
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf inapplication
@@ -140089,7 +140359,7 @@ petites boules
 
 \lx wàsabali
 \mm wàsa:v:satisfaire
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf insatisfait
 \gvf insatisfait
@@ -140858,7 +141128,7 @@ la Justice (kb 12/05 p.4)
 
 \lx wólobali
 \mm wólo:v:accoucher
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf stérile
 \gvf stérile
@@ -142205,7 +142475,7 @@ Mali)
 
 \lx wúlibali
 \mm wúli:v:se.lever
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf immuable
 \gvf immuable
@@ -143474,7 +143744,7 @@ bambara)
 
 \lx yébali
 \mm yé:v:voir
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf invisible
 \gvf invisible
@@ -144225,7 +144495,7 @@ comportement (LD p.5)
 \lx yɛ̀rɛdɔnbali
 \mm yɛ̀rɛ̂:dtm:même
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf indigne
 \gvf indigne
@@ -144237,7 +144507,7 @@ comportement (LD p.5)
 \mm yɛ̀rɛ̂dɔnbali:ptcp:indigne
 \mm yɛ̀rɛ̂:dtm:même
 \mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.PRIV
+\mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf méconnaissance.de.sa.place
