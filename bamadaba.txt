@@ -1,4 +1,4 @@
-﻿\_sh v3.0  1296 MDF 4.0
+\_sh v3.0  1296 MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -84060,15 +84060,23 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm lá:mrph:CAUS
 \va lásagon
 \mm lá:mrph:CAUS
+\va násago
+\mm ná:mrph:CAUS
+\va násagon
+\mm ná:mrph:CAUS
 \ps n
 \gf conservation
 \gvf conservation
-\dt 20/Aug/2017
+\dt 02/Apr/2019
 
 \lx lásàgo
 \mm lá:mrph:CAUS
 \va lásàgon
 \mm lá:mrph:CAUS
+\va násàgo
+\mm ná:mrph:CAUS
+\va násàgon
+\mm ná:mrph:CAUS
 \ps v
 \vl vt
 \ms 1
@@ -84082,10 +84090,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf rester chaste
 \xv npògotigi yé  à yɛ̀rɛ lásago
 \xf la jeune fille s'est gardée chaste
-\dt 01/Nov/2017
+\dt 02/Apr/2019
 
 \lx lásaha
 \mm lá:mrph:CAUS
+\mm sáha:v:se.reposer
+\va násaha
+\mm ná:mrph:CAUS
 \mm sáha:v:se.reposer
 \ps v
 \ms 1
@@ -84095,10 +84106,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \vl vr
 \gvf se réposer
-\dt 14/Apr/2018
+\dt 02/Apr/2019
 
 \lx lásama
 \mm lá:mrph:CAUS
+\mm sàma:v:tirer.à.soi
+\va násama
+\mm ná:mrph:CAUS
 \mm sàma:v:tirer.à.soi
 \va rɔ́.sama
 \mm rɔ́:mrph:IN
@@ -84108,17 +84122,23 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gf étirer
 \gvf étirer
 \gvf s'étirer
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lásaniya
+\mm lá:mrph:CAUS
 \mm sániya:v:nettoyer
-\mm sáni:vq:propre
-\mm ya:mrph:DEQU
+\mmm sáni:vq:propre
+\mmm ya:mrph:DEQU
+\va násaniya
+\mm ná:mrph:CAUS
+\mm sániya:v:nettoyer
+\mmm sáni:vq:propre
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf nettoyer
 \gvf nettoyer
-\dt 28/Feb/2017
+\dt 02/Apr/2019
 
 \lx làsasi
 \ps n
@@ -84130,6 +84150,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx láse
 \mm lá:mrph:CAUS
 \mm sé:v:arriver
+\va náse
+\mm ná:mrph:CAUS
+\mm sé:v:arriver
 \ps v
 \vl vt
 \ms 1
@@ -84138,41 +84161,60 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf faire parvenir
 \ms 2
 \gvf achever
-\dt 22/Nov/2012
+\dt 02/Apr/2019
 
 \lx lásègin
 \mm lá:mrph:CAUS
+\mm sègin:v:revenir
+\va násègin
+\mm ná:mrph:CAUS
 \mm sègin:v:revenir
 \ps v
 \gf rendre
 \gvf rendre
 \gvf remettre
 \gvf renvoyer
-\dt 02/Feb/2013
+\dt 02/Apr/2019
 
 \lx làseli
 \mm lá:mrph:CAUS
 \mm séli:v:prier
 \mm \:mrph:NMLZ2
+\va nàseli
+\mm ná:mrph:CAUS
+\mm séli:v:prier
+\mm \:mrph:NMLZ2
 \ps n
 \gf direction.de.prière
 \gvf direction de prière
-\dt 31/Mar/2019
+\dt 02/Apr/2019
 
 \lx láseli
 \mm lá:mrph:CAUS
 \mm séli:v:prier
-\va lá.sali
+\va lásali
 \mm lá:mrph:CAUS
+\mm sáli:v:prier
+\ve (maninka)
+\va náseli
+\mm ná:mrph:CAUS
+\mm séli:v:prier
+\va násali
+\mm ná:mrph:CAUS
 \mm sáli:v:prier
 \ve (maninka)
 \ps v
 \gf diriger.prière
 \gvf diriger prière
 \smf (l'imam)
+\dt 02/Apr/2019
 
 \lx láseli
 \mm lá:mrph:CAUS
+\mm sé:v:arriver
+\mm li:mrph:NMLZ
+\va náseli
+\mm ná:mrph:CAUS
 \mm sé:v:arriver
 \mm li:mrph:NMLZ
 \ps n
@@ -84182,18 +84224,24 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf remise
 \ms 2
 \gvf rapport
-\dt 01/Jun/2016
+\dt 02/Apr/2019
 
 \lx láselisɛbɛn
-\mm lá.se.li:n:rapport
-\mm lá:mrph:CAUS
-\mm sé:v:arriver
+\mm láse:v:transmettre
+\mmm lá:mrph:CAUS
+\mmm sé:v:arriver
+\mm li:mrph:NMLZ
+\mm sɛ́bɛ:n:papier
+\va náselisɛbɛn
+\mm náse:v:transmettre
+\mmm ná:mrph:CAUS
+\mmm sé:v:arriver
 \mm li:mrph:NMLZ
 \mm sɛ́bɛ:n:papier
 \ps n
 \gf rapport
 \gvf rapport
-\dt 23/Jun/2018
+\dt 02/Apr/2019
 
 \lx lasibaati
 \ps n
@@ -84206,14 +84254,21 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
 \mm \:mrph:NMLZ2
+\va nàsigi
+\mm ná:mrph:CAUS
+\mm sìgi:v:asseoir
+\mm \:mrph:NMLZ2
 \ps n
 \gf fondation
 \gvf fondation
 \gvf installation
-\dt 31/Mar/2019
+\dt 02/Apr/2019
 
 \lx lásìgi
 \mm lá:mrph:CAUS
+\mm sìgi:v:asseoir
+\va násìgi
+\mm ná:mrph:CAUS
 \mm sìgi:v:asseoir
 \ps v
 \ms 1
@@ -84234,14 +84289,14 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \vl vt
 \gvf envoyer comme messager
 \gvf poster
-\dt 20/Aug/2017
+\dt 02/Apr/2019
 
 \lx làsigiden
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
 \mm \:mrph:NMLZ2
 \mm dén:n:enfant
-\va làasigi.den
+\va làasigiden
 \mm lá:mrph:CAUS
 \mm sìgi:v:asseoir
 \mm \:mrph:NMLZ2
@@ -84250,53 +84305,63 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gf ambassadeur
 \gvf ambassadeur
 \gvf représentant
-\dt 31/Mar/2019
+\dt 02/Apr/2019
 
 \lx làsigidenso
-\mm lá:mrph:CAUS
-\mm sìgi:v:asseoir
-\mm dén:n:enfant
+\mm làsigiden:n:ambassadeur
+\mmm lá:mrph:CAUS
+\mmm sìgi:v:asseoir
+\mmm dén:n:enfant
 \mm só:n:maison
-\va làasigi.den.so
-\mm lá:mrph:CAUS
-\mm sìgi:v:asseoir
-\mm dén:n:enfant
+\va làasigidenso
+\mm làsigiden:n:ambassadeur
+\mmm lá:mrph:CAUS
+\mmm sìgi:v:asseoir
+\mmm dén:n:enfant
 \mm só:n:maison
 \ps n
 \gf ambassade
 \gvf ambassade
 \rem l 89, du, jos
-\dt 24/May/2013
+\dt 02/Apr/2019
 
 \lx làsigidenyajuru
-\mm lá:mrph:CAUS
-\mm sìgi:v:asseoir
-\mm dén:n:enfant
+\mm làsigiden:n:ambassadeur
+\mmm lá:mrph:CAUS
+\mmm sìgi:v:asseoir
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \mm juru:n:corde
 \ps n
 \gf relation.diplomatique
 \gvf relation diplomatique
-\dt 14/Jun/2013
+\dt 02/Apr/2019
 
 \lx làsiran
 \mm lá:mrph:CAUS
+\mm síran:v:craindre
+\mm \:mrph:NMLZ2
+\va nàsiran
+\mm ná:mrph:CAUS
 \mm síran:v:craindre
 \mm \:mrph:NMLZ2
 \ps n
 \gf crainte
 \gvf crainte
 \gvf peur
-\dt 31/Mar/2019
+\dt 02/Apr/2019
 
 \lx lásiran
 \mm lá:mrph:CAUS
+\mm síran:v:craindre
+\va násiran
+\mm ná:mrph:CAUS
 \mm síran:v:craindre
 \ps v
 \gf effrayer
 \gvf effrayer
 \gvf faire peur
-\dt 04/Jul/2013
+\dt 02/Apr/2019
 
 \lx lásiri
 \ps n
@@ -84347,13 +84412,20 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx lásɔ̀mi
 \mm lá:mrph:CAUS
 \mm sɔ̀mi:v:soupçonner
-\va lá.sòmi
+\va lásòmi
 \mm lá:mrph:CAUS
+\mm sòmi:v:soupçonner
+\va násɔ̀mi
+\mm ná:mrph:CAUS
+\mm sɔ̀mi:v:soupçonner
+\va násòmi
+\mm ná:mrph:CAUS
 \mm sòmi:v:soupçonner
 \ps v
 \vl vt
 \gf avertir
 \gvf avertir
+\dt 02/Apr/2019
 
 \lx lásɔ̀n
 \va násɔ̀n
@@ -84377,14 +84449,21 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm lásɔ̀n:v:conserver
 \mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
+\va násɔnnenya
+\mm násɔ̀n:v:conserver
+\mm nen:mrph:PTCP.RES
+\mm ya:mrph:ABSTR
 \ps n
 \gf continence
 \gvf continence
 \gvf virginité
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lásɔ̀rɔ
 \mm lá:mrph:CAUS
+\mm sɔ̀rɔ:v:obtenir
+\va násɔ̀rɔ
+\mm ná:mrph:CAUS
 \mm sɔ̀rɔ:v:obtenir
 \ps v
 \vl vt
@@ -84399,18 +84478,24 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 4
 \gvf comprendre
 \gvf comporter
-\dt 30/Jan/2017
+\dt 02/Apr/2019
 
 \lx lásɔ̀sɔ
 \mm lá:mrph:CAUS
 \mm sɔ̀sɔ:v:contredire
+\va násɔ̀sɔ
+\mm ná:mrph:CAUS
+\mm sɔ̀sɔ:v:contredire
 \ps v
 \gf critiquer
 \gvf critiquer
-\dt 10/Apr/2013
+\dt 02/Apr/2019
 
 \lx lásu
 \mm lá:mrph:CAUS
+\mm sú:v:tremper
+\va násu
+\mm ná:mrph:CAUS
 \mm sú:v:tremper
 \va rɔ́.su
 \mm rɔ́:mrph:IN
@@ -84419,10 +84504,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \vl vt
 \gf inciter
 \gvf inciter
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lásuma
 \mm lá:mrph:CAUS
+\mm súma:v:rafraîchir
+\va násuma
+\mm ná:mrph:CAUS
 \mm súma:v:rafraîchir
 \va rɔ́.suma
 \mm rɔ́:mrph:IN
@@ -84439,14 +84527,20 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf apaiser
 \smf (une querelle)
 \rem f, Jos (rare)
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lásumaya
 \mm lásuma:v:rafraîchir
 \mmm lá:mrph:CAUS
-\mm súmaya:v:rafraîchir
-\mmm súma:vq:rafrais
-\mm ya:mrph:DEQU
+\mmm súmaya:v:rafraîchir
+\mmmm súma:vq:rafrais
+\mmmm ya:mrph:DEQU
+\va násumaya
+\mm násuma:v:rafraîchir
+\mmm ná:mrph:CAUS
+\mmm súmaya:v:rafraîchir
+\mmmm súma:vq:rafrais
+\mmmm ya:mrph:DEQU
 \ps v
 \gf rafraîchir
 \ms 1
@@ -84458,37 +84552,54 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 3
 \vl vt
 \gvf apaiser
-\dt 31/Mar/2019
+\dt 02/Apr/2019
 
 \lx lásùnɔgɔ
 \mm lá:mrph:CAUS
 \mm sùnɔgɔ:v:dormir
-\va lá.sùnaa
+\va lásùnaa
 \mm lá:mrph:CAUS
 \mm sùnaa:v:dormir
-\va lá.sìnɔgɔ
+\va lásìnɔgɔ
 \mm lá:mrph:CAUS
+\mm sìnɔgɔ:v:dormir
+\va násùnɔgɔ
+\mm ná:mrph:CAUS
+\mm sùnɔgɔ:v:dormir
+\va násùnaa
+\mm ná:mrph:CAUS
+\mm sùnaa:v:dormir
+\va násìnɔgɔ
+\mm ná:mrph:CAUS
 \mm sìnɔgɔ:v:dormir
 \ps v
 \vl vt
 \gf endormir
 \gvf endormir
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx lásùrunya
 \mm lá:mrph:CAUS
 \mm sùrunya:v:raccourcir
-\mm sùrun:vq:court
-\mm ya:mrph:DEQU
+\mmm sùrun:vq:court
+\mmm ya:mrph:DEQU
+\va násùrunya
+\mm ná:mrph:CAUS
+\mm sùrunya:v:raccourcir
+\mmm sùrun:vq:court
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf rendre.court
 \gvf rendre court
 \gvf raccourcir
-\dt 28/Feb/2017
+\dt 02/Apr/2019
 
 \lx látà
 \mm lá:mrph:CAUS
+\mm tà:v:prendre
+\va nátà
+\mm ná:mrph:CAUS
 \mm tà:v:prendre
 \ps v
 \vl vt
@@ -84498,13 +84609,19 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \gvf enjamber
 \smf (en sautant un peu)
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx látaa
 \mm lá:mrph:CAUS
 \mm táa:v:aller
-\va lá.taga
+\va látaga
 \mm lá:mrph:CAUS
+\mm tága:v:aller
+\va nátaa
+\mm ná:mrph:CAUS
+\mm táa:v:aller
+\va nátaga
+\mm ná:mrph:CAUS
 \mm tága:v:aller
 \ps v
 \vl vt
@@ -84512,11 +84629,20 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf faire partir
 \gvf faire avancer
 \sy láwa
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx látaama
 \mm lá:mrph:CAUS
 \mm táama:v:marcher
+\va látagama
+\mm lá:mrph:CAUS
+\mm tágama:v:marcher
+\va nátaama
+\mm ná:mrph:CAUS
+\mm táama:v:marcher
+\va nátagama
+\mm ná:mrph:CAUS
+\mm tágama:v:marcher
 \ps v
 \vl vt
 \gf faire.marcher
@@ -84524,30 +84650,41 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf faire voyager
 \xv kúran bɛ́ kɛ́ kà ízini látaama...
 \xf le courant permet de faire marcher les usines (kb 2/05 p.4)
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx látaama-táama
 \mm lá:mrph:CAUS
 \mm táama:v:marcher
 \mm táama:v:marcher
-\va lá.tagama-tágama
+\va látagama-tágama
 \mm lá:mrph:CAUS
+\mm tágama:v:marcher
+\mm tágama:v:marcher
+\va nátaama-táama
+\mm ná:mrph:CAUS
+\mm táama:v:marcher
+\mm táama:v:marcher
+\va nátagama-tágama
+\mm ná:mrph:CAUS
 \mm tágama:v:marcher
 \mm tágama:v:marcher
 \ps v
 \vl vt
 \gf faire.marcher
 \gvf faire marcher
-\dt 19/Dec/2012
+\dt 02/Apr/2019
 
 \lx látànga
 \mm lá:mrph:CAUS
+\mm tànga:v:protéger
+\va nátànga
+\mm ná:mrph:CAUS
 \mm tànga:v:protéger
 \ps v
 \vl vt
 \gf protéger
 \gvf protéger
-\dt 19/Aug/2006
+\dt 02/Apr/2019
 
 \lx làtarasoji
 \mm jí:n:eau
@@ -84561,39 +84698,61 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx látègele
 \mm lá:mrph:CAUS
 \mm tègele:v:soutenir
-\va lá.tɛ̀gɛlɛ
+\va látɛ̀gɛlɛ
 \mm lá:mrph:CAUS
+\mm tɛ̀gɛlɛ:v:soutenir
+\va nátègele
+\mm ná:mrph:CAUS
+\mm tègele:v:soutenir
+\va nátɛ̀gɛlɛ
+\mm ná:mrph:CAUS
 \mm tɛ̀gɛlɛ:v:soutenir
 \ps v
 \vl vt
 \gf faire.tenir.debout
 \gvf faire tenir debout
 \smf (en équilibre (un bébé ...))
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx láteliya
 \mm lá:mrph:CAUS
 \mm téliya:v:accélérer
-\mm téli:vq:rapide
-\mm ya:mrph:DEQU
-\va lá.tɛli.ya
+\mmm téli:vq:rapide
+\mmm ya:mrph:DEQU
+\va látɛliya
 \mm lá:mrph:CAUS
-\mm tɛ́li.ya:v:accélérer
-\mm tɛ́li:vq:rapide
-\mm ya:mrph:DEQU
+\mm tɛ́liya:v:accélérer
+\mmm tɛ́li:vq:rapide
+\mmm ya:mrph:DEQU
+\va náteliya
+\mm ná:mrph:CAUS
+\mm téliya:v:accélérer
+\mmm téli:vq:rapide
+\mmm ya:mrph:DEQU
+\va nátɛliya
+\mm ná:mrph:CAUS
+\mm tɛ́liya:v:accélérer
+\mmm tɛ́li:vq:rapide
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf accélérer
 \gvf accélérer
 \xv í k'í bólo láteliya  báara lá !
 \xf accélère le mouvement au travail
-\dt 28/Feb/2017
+\dt 02/Apr/2019
 
 \lx látɛ̀mɛ
 \mm lá:mrph:CAUS
 \mm tɛ̀mɛ:v:passer
 \va látɛ̀mɛn
 \mm lá:mrph:CAUS
+\mm tɛ̀mɛn:v:passer
+\va nátɛ̀mɛ
+\mm ná:mrph:CAUS
+\mm tɛ̀mɛ:v:passer
+\va nátɛ̀mɛn
+\mm ná:mrph:CAUS
 \mm tɛ̀mɛn:v:passer
 \ps v
 \ms 1
@@ -84619,14 +84778,18 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \smf (à ....mà)
 \xv í yɛ̀rɛ látɛmɛ  Ála mà
 \xf se consacrer à Dieu
-\dt 12/Mar/2014
+\dt 02/Apr/2019
 
 \lx látìbitaba
 \mm lá:mrph:CAUS
 \mm tìbitaba:v:être.chancelant
+\va nátìbitaba
+\mm ná:mrph:CAUS
+\mm tìbitaba:v:être.chancelant
 \ps v
 \gf faire.tituber
 \gvf faire tituber
+\dt 02/Apr/2019
 
 \lx làtigɛ
 \mm lá:mrph:CAUS
@@ -84646,6 +84809,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 
 \lx látìgɛ
 \mm lá:mrph:CAUS
+\mm tìgɛ:v:couper
+\va nátìgɛ
+\mm ná:mrph:CAUS
 \mm tìgɛ:v:couper
 \va rɔ́.tìgɛ
 \mm rɔ́:mrph:IN
@@ -84682,13 +84848,19 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 7
 \gvf déflorer
 \smf (dans les insultes de femmes)
-\dt 02/Mar/2019
+\dt 02/Apr/2019
 
 \lx látiimɛ
 \mm lá:mrph:CAUS
 \mm tíimɛ:v:accomplir
-\va lá.timɛ
+\va látimɛ
 \mm lá:mrph:CAUS
+\mm tímɛ:v:accomplir
+\va nátiimɛ
+\mm ná:mrph:CAUS
+\mm tíimɛ:v:accomplir
+\va nátimɛ
+\mm ná:mrph:CAUS
 \mm tímɛ:v:accomplir
 \ps v
 \vl vt
@@ -84697,7 +84869,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf mener à bien
 \xv mɔ̀gɔ bɛ́  láyidu tà, Ála b'ó látiimɛ
 \xf les hommes font des promesses, Dieu les mène à bien
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx làtikɔlɔn
 \va làtikɔlɔ
@@ -84712,24 +84884,34 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx látila
 \mm lá:mrph:CAUS
 \mm tíla:v:diviser
-\va lá.tla
+\va látla
 \mm lá:mrph:CAUS
 \mm tlá:v:diviser
-\ph [tl]
+\va nátila
+\mm ná:mrph:CAUS
+\mm tíla:v:diviser
+\va nátla
+\mm ná:mrph:CAUS
+\mm tlá:v:diviser
 \ps v
 \vl vt
 \gf libérer
 \gvf libérer
 \gvf sauver
-\dt 27/Mar/2018
+\dt 02/Apr/2019
 
 \lx látilen
 \mm lá:mrph:CAUS
 \mm tílen:v:redresser
-\va lá.tlen
+\va látlen
 \mm lá:mrph:CAUS
 \mm tlén:v:redresser
-\ph [tl]
+\vl nátilen
+\mm ná:mrph:CAUS
+\mm tílen:v:redresser
+\va nátlen
+\mm ná:mrph:CAUS
+\mm tlén:v:redresser
 \ps v
 \vl vt
 \ms 1
@@ -84739,40 +84921,47 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \gvf bien suivre
 \smf (une loi)
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx látilennikiritigɛda
-\mm lá.tilen:v:redresser
-\mm lá:mrph:CAUS
-\mm tílen:v:redresser
+\mm látilen:v:redresser
+\mmm lá:mrph:CAUS
+\mmm tílen:v:redresser
 \mm ni:mrph:NMLZ
-\mm kíri:n:jugement
-\mm tìgɛ:v:couper
+\mm kíritigɛ:n:procès
+\mmm kíri:n:jugement
+\mmm tìgɛ:v:couper
 \mm dá:n:bouche
-\va lá.tlen.ni.kiri.tigɛ.da
-\mm lá.tlen:v:redresser
-\mm lá:mrph:CAUS
-\mm tlén:v:redresser
+\va látlennikiritigɛda
+\mm látlen:v:redresser
+\mmm lá:mrph:CAUS
+\mmm tlén:v:redresser
 \mm ni:mrph:NMLZ
-\mm kíri:n:jugement
-\mm tìgɛ:v:couper
+\mm kíritigɛ:n:procès
+\mmm kíri:n:jugement
+\mmm tìgɛ:v:couper
 \mm dá:n:bouche
 \ph [tl]
 \ps n
 \gf tribunal.correctionnel
 \gvf tribunal correctionnel
-\dt 19/Aug/2006
+\dt 02/Apr/2019
 
 \lx látimiya
 \mm lá:mrph:CAUS
-\mm tími.ya:v:rendre.savoureux
-\mm tími:vq:savoureux
-\mm ya:mrph:DEQU
+\mm tímiya:v:rendre.savoureux
+\mmm tími:vq:savoureux
+\mmm ya:mrph:DEQU
+\va nátimiya
+\mm ná:mrph:CAUS
+\mm tímiya:v:rendre.savoureux
+\mmm tími:vq:savoureux
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf rendre.sucré
 \gvf rendre sucré
-\dt 28/Feb/2017
+\dt 02/Apr/2019
 
 \lx làtiɲɛ
 \mm lá:mrph:CAUS
@@ -84782,12 +84971,20 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm lá:mrph:CAUS
 \mm tíyɛn:v:gâter
 \mm \:mrph:NMLZ2
+\va nàtiɲɛ
+\mm ná:mrph:CAUS
+\mm tíɲɛ:v:gâter
+\mm \:mrph:NMLZ2
+\va nàtiyɛn
+\mm ná:mrph:CAUS
+\mm tíyɛn:v:gâter
+\mm \:mrph:NMLZ2
 \ps n
 \gf gaspillage
 \gvf gaspillage
 \gvf mise hors de service
 \smf (le fait de gâter)
-\dt 31/Mar/2019
+\dt 02/Apr/2019
 
 \lx látiɲɛ
 \mm lá:mrph:CAUS
@@ -84795,8 +84992,17 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \va látiyɛn
 \mm lá:mrph:CAUS
 \mm tíyɛn:v:gâter
-\va lá.cɛn
+\va lácɛn
 \mm lá:mrph:CAUS
+\mm cɛ́n:v:gâter
+\va nátiɲɛ
+\mm ná:mrph:CAUS
+\mm tíɲɛ:v:gâter
+\va nátiyɛn
+\mm ná:mrph:CAUS
+\mm tíyɛn:v:gâter
+\va nácɛn
+\mm ná:mrph:CAUS
 \mm cɛ́n:v:gâter
 \va rɔ́tiɲɛ
 \mm rɔ́:mrph:IN
@@ -84830,19 +85036,25 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf dénigrer
 \ms 5
 \gvf mépriser
-\dt 16/Jul/2017
+\dt 02/Apr/2019
 
 \lx látìson
 \mm lá:mrph:CAUS
+\mm tìson:v:éternuer
+\va nátìson
+\mm ná:mrph:CAUS
 \mm tìson:v:éternuer
 \ps v
 \vl vt
 \gf faire.éternuer
 \gvf faire éternuer
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx láto
 \mm lá:mrph:CAUS
+\mm tó:v:rester
+\va náto
+\mm ná:mrph:CAUS
 \mm tó:v:rester
 \ps v
 \vl vt
@@ -84852,7 +85064,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \gvf assassiner
 \smf (en simulant un accident)
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx látɔ̀lɔ
 \mm lá:mrph:CAUS
@@ -84863,24 +85075,39 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \va látlɔ̀
 \mm lá:mrph:CAUS
 \mm tlɔ̀:v:engraisser
-\ph [latlɔ]
+\va nátɔ̀lɔ
+\mm ná:mrph:CAUS
+\mm tɔ̀lɔ:v:engraisser
+\va nátùlɔ
+\mm ná:mrph:CAUS
+\mm tùlɔ:v:engraisser
+\va nátlɔ̀
+\mm ná:mrph:CAUS
+\mm tlɔ̀:v:engraisser
 \ps v
 \vl vt
 \gf engraisser
 \gvf engraisser
-\dt 15/Oct/2017
+\dt 02/Apr/2019
 
 \lx làtɔmɔ
 \mm lá:mrph:CAUS
 \mm tɔ̀mɔ:v:ramasser
 \mm \:mrph:NMLZ2
+\va nàtɔmɔ
+\mm ná:mrph:CAUS
+\mm tɔ̀mɔ:v:ramasser
+\mm \:mrph:NMLZ2
 \ps n
 \gf sélection
 \gvf sélection
-\dt 31/Mar/2019
+\dt 02/Apr/2019
 
 \lx látɔ̀mɔ
 \mm lá:mrph:CAUS
+\mm tɔ̀mɔ:v:ramasser
+\va nátɔ̀mɔ
+\mm ná:mrph:CAUS
 \mm tɔ̀mɔ:v:ramasser
 \va rɔ́.tɔ̀mɔ
 \mm rɔ́:mrph:IN
@@ -84890,10 +85117,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gf choisir
 \gvf choisir
 \gvf distinguer
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx látɔ̀n
 \mm lá:mrph:CAUS
+\mm tɔ̀n:v:bloquer
+\va nátɔ̀n
+\mm ná:mrph:CAUS
 \mm tɔ̀n:v:bloquer
 \ps v
 \ms 1
@@ -84915,7 +85145,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf garder la continence
 \gvf garder la virginité
 \sy lasɔ̀n
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx látɔri
 \mm lá:mrph:CAUS
@@ -84929,35 +85159,46 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx látɔrɔ
 \mm lá:mrph:CAUS
 \mm tɔ́rɔ:v:cogner
+\va nátɔrɔ
+\mm ná:mrph:CAUS
+\mm tɔ́rɔ:v:cogner
 \ps v
 \vl vt
 \gf faire.éclore
 \gvf faire éclore
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx látugu
 \mm lá:mrph:CAUS
+\mm túgu:v:faire.exprès
+\va nátugu
+\mm ná:mrph:CAUS
 \mm túgu:v:faire.exprès
 \ps v
 \gf obliger
 \gvf obliger
 \gvf contraindre
-\dt 25/Apr/2016
+\dt 02/Apr/2019
 
 \lx látulon
 \mm lá:mrph:CAUS
 \mm túlon:v:jouer
-\va lá.tlon
+\va látlon
 \mm lá:mrph:CAUS
 \mm tlón:v:jouer
-\ph [latlon]
+\va nátulon
+\mm ná:mrph:CAUS
+\mm túlon:v:jouer
+\va nátlon
+\mm ná:mrph:CAUS
+\mm tlón:v:jouer
 \ps v
 \vl vt
 \gf amuser
 \gvf amuser
 \xv kɔ̀nɔnin kélen tɛ́ sé  kà dénmisɛnnin fìla látulon
 \xf un seul petit oiseau ne peut amuser deux enfants (prov)
-\dt 12/Aug/2006
+\dt 02/Apr/2019
 
 \lx làtunu
 \mm lá:mrph:CAUS
@@ -84967,16 +85208,30 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm lá:mrph:CAUS
 \mm túnun:v:perdre
 \mm \:mrph:NMLZ2
+\va nàtunu
+\mm ná:mrph:CAUS
+\mm túnu:v:perdre
+\mm \:mrph:NMLZ2
+\va nàtunun
+\mm ná:mrph:CAUS
+\mm túnun:v:perdre
+\mm \:mrph:NMLZ2
 \ps n
 \gf disparition
 \gvf disparition
-\dt 31/Mar/2019
+\dt 02/Apr/2019
 
 \lx látunu
 \mm lá:mrph:CAUS
 \mm túnu:v:perdre
 \va látunun
 \mm lá:mrph:CAUS
+\mm túnun:v:perdre
+\va nátunu
+\mm ná:mrph:CAUS
+\mm túnu:v:perdre
+\va nátunun
+\mm ná:mrph:CAUS
 \mm túnun:v:perdre
 \ps v
 \vl vt
@@ -84985,12 +85240,17 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf égarer
 \ms 2
 \gvf faire périr
-\dt 20/Aug/2017
+\dt 02/Apr/2019
 
 \lx látunubali
-\mm lá.tunu:v:égarer
-\mm lá:mrph:CAUS
-\mm túnu:v:perdre
+\mm látunu:v:égarer
+\mmm lá:mrph:CAUS
+\mmm túnu:v:perdre
+\mm bali:mrph:PTCP.NEG
+\va nátunubali
+\mm nátunu:v:égarer
+\mmm ná:mrph:CAUS
+\mmm túnu:v:perdre
 \mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf immortel
@@ -84998,7 +85258,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf indestructible
 \xv kàtugu  tílennenya yé  sí látunubali yé
 \xf car la justice est immortelle (Sg 1, 15)
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx làturu
 \va làtoro
@@ -85024,12 +85284,15 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx látuubi
 \mm lá:mrph:CAUS
 \mm túubi:v:convertir
+\va nátuubi
+\mm ná:mrph:CAUS
+\mm túubi:v:convertir
 \ps v
 \vl vt
 \gf convertir
 \gvf convertir
 \smf (musulmane, chrétienne ...)
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx làwa
 \ps n
@@ -85048,13 +85311,16 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \lx láwà
 \mm lá:mrph:CAUS
 \mm wà:v:aller
+\va náwà
+\mm ná:mrph:CAUS
+\mm wà:v:aller
 \ps v
 \vl vt
 \gf faire.partir
 \gvf faire partir
 \gvf envoyer
 \sy látaa
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx làwaji
 \mm làwa:n:désir
@@ -85064,9 +85330,9 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf sperme
 
 \lx làwajikisɛ
-\mm làwa.ji:n:sperme
-\mm làwa:n:désir
-\mm jí:n:eau
+\mm làwaji:n:sperme
+\mmm làwa:n:désir
+\mmm jí:n:eau
 \mm kìsɛ:n:grain
 \ps n
 \ms 1
@@ -85077,7 +85343,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \sy làwakisɛ
 \sy dénfan
 \nt 2/ LD p.22
-\dt 04/Apr/2016
+\dt 02/Apr/2019
 
 \lx làwakisɛ
 \mm làwa:n:désir
@@ -85108,6 +85374,11 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm wàra:v:augmenter
 \va láwɛ̀rɛ
 \mm lá:mrph:CAUS
+\va náwàra
+\mm ná:mrph:CAUS
+\mm wàra:v:augmenter
+\va náwɛ̀rɛ
+\mm ná:mrph:CAUS
 \ps v
 \ms 1
 \gf élargir
@@ -85116,10 +85387,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf augmenter
 \ms 2
 \gvf développer
-\dt 10/Apr/2016
+\dt 02/Apr/2019
 
 \lx láwàsa
 \mm lá:mrph:CAUS
+\mm wàsa:v:satisfaire
+\va náwàsa
+\mm ná:mrph:CAUS
 \mm wàsa:v:satisfaire
 \ps v
 \vl vt
@@ -85127,10 +85401,13 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf combler
 \xv né yé à láwasa àlikama ní ɛ̀rɛzɛndɔlɔ lá (gn 27, 37)
 \xf je l'ai pourvu de blé et de vin
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx láwolo
 \mm lá:mrph:CAUS
+\mm wólo:v:accoucher
+\va náwolo
+\mm ná:mrph:CAUS
 \mm wólo:v:accoucher
 \ps v
 \vl vt
@@ -85139,21 +85416,28 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \gvf faire engendrer
 \ms 2
 \gvf faire grener
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx làwoloma
 \mm lá:mrph:CAUS
 \mm wóloma:v:trier
+\mm \:mrph:NMLZ2
+\va nàwoloma
+\mm ná:mrph:CAUS
+\mm wóloma:v:trier
+\mm \:mrph:NMLZ2
 \ps n
 \gf tri
 \gvf tri
 \gvf acception de personne
-\dt 20/Aug/2017
+\dt 02/Apr/2019
 
 \lx láwoloma
 \mm lá:mrph:CAUS
 \mm wóloma:v:trier
-\mm \:mrph:NMLZ2
+\va náwoloma
+\mm ná:mrph:CAUS
+\mm wóloma:v:trier
 \va rɔ́.woloma
 \mm rɔ́:mrph:IN
 \mm wóloma:v:trier
@@ -85169,10 +85453,13 @@ personne)
 \ms 2
 \vl vt
 \gvf fouiller
-\dt 31/Mar/2019
+\dt 02/Apr/2019
 
 \lx láwòyo
 \mm lá:mrph:CAUS
+\mm wòyo:v:couler
+\va náwòyo
+\mm ná:mrph:CAUS
 \mm wòyo:v:couler
 \ps v
 \vl vt
@@ -85180,13 +85467,19 @@ personne)
 \gvf faire couler
 \xv kà ù láwoyo kɔ̀ kɔ́nɔ
 \xf (tu conduis l'eau des sources) dans les ruisseaux (Ps 104, 10)
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx láwuli
 \mm lá:mrph:CAUS
 \mm wúli:v:se.lever
-\va lá.wili
+\va láwili
 \mm lá:mrph:CAUS
+\mm wíli:v:se.lever
+\va náwuli
+\mm ná:mrph:CAUS
+\mm wúli:v:se.lever
+\va náwili
+\mm ná:mrph:CAUS
 \mm wíli:v:se.lever
 \ps v
 \vl vt
@@ -85200,7 +85493,7 @@ personne)
 \xf il l'a fait exprès
 \ms 3
 \gvf faire démarrer
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx láwulinkama
 \mm lá:mrph:CAUS
@@ -85222,6 +85515,9 @@ personne)
 \lx láyaala
 \mm lá:mrph:CAUS
 \mm yáala:v:se.promener
+\va náyaala
+\mm ná:mrph:CAUS
+\mm yáala:v:se.promener
 \va rɔ́.yaala
 \mm rɔ́:mrph:IN
 \mm yáala:v:se.promener
@@ -85229,27 +85525,36 @@ personne)
 \vl vt
 \gf promener
 \gvf promener
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx láyaala
 \mm lá:mrph:CAUS
+\mm yáala:v:bailler
+\va náyaala
+\mm ná:mrph:CAUS
 \mm yáala:v:bailler
 \ps v
 \vl vt
 \gf faire.bailler
 \gvf faire bailler
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx láyaala
 \mm lá:mrph:CAUS
 \mm yáala:v:bailler
+\va náyaala
+\mm ná:mrph:CAUS
+\mm yáala:v:bailler
 \ps n
 \gf fait.de.faire.bailler
 \gvf fait de faire bailler
-\dt 20/Aug/2017
+\dt 02/Apr/2019
 
 \lx láyelenku
 \mm lá:mrph:CAUS
+\mm yélenku:v:scintiller
+\va náyelenku
+\mm ná:mrph:CAUS
 \mm yélenku:v:scintiller
 \ps v
 \vl vt
@@ -85258,19 +85563,25 @@ personne)
 \gvf cirer
 \xv à bɛ́ kà à ká kàbasen yéelen láyelenku cógo mín ná, é bɛ́ ò dɔ́n wá?
 \xf sais-tu comment il fait briller la foudre dans les nuages ? (Job 37, 15)
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx láyɛlɛ
 \mm lá:mrph:CAUS
+\mm yɛ́lɛ:v:rire
+\va náyɛlɛ
+\mm ná:mrph:CAUS
 \mm yɛ́lɛ:v:rire
 \ps v
 \vl vt
 \gf faire.rire
 \gvf faire rire
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx láyɛ̀lɛn
 \mm lá:mrph:CAUS
+\mm yɛ̀lɛn:v:monter
+\va náyɛ̀lɛn
+\mm ná:mrph:CAUS
 \mm yɛ̀lɛn:v:monter
 \ps v
 \vl vt
@@ -85280,17 +85591,20 @@ personne)
 \gvf lever
 \xv àrajo kán láyɛlɛn
 \xf mets la radio plus fort
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx láyɛrɛyɛrɛ
 \mm lá:mrph:CAUS
+\mm yɛ́rɛyɛrɛ:v:trembler
+\va náyɛrɛyɛrɛ
+\mm ná:mrph:CAUS
 \mm yɛ́rɛyɛrɛ:v:trembler
 \ps v
 \vl vt
 \gf faire.trembler
 \gvf faire trembler
 \nt Jr 1, 17
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx láyi
 \ps adv
@@ -85356,6 +85670,9 @@ personne)
 \lx láyiriwa
 \mm lá:mrph:CAUS
 \mm yíriwa:v:accroître
+\va náyiriwa
+\mm ná:mrph:CAUS
+\mm yíriwa:v:accroître
 \ps v
 \vl vt
 \gf faire.prospérer
@@ -85364,7 +85681,7 @@ personne)
 \xf kb 10/06 p.1 /
 \xv ní jàmana m'ú dànbe sínsin k'ú ká kán láyiriwa...
 \xf les pays qui ne renforcent pas leur renom et ne font pas progresser leurs langues nationales ... (kb 9/05/ p.2)
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx lé
 \ps n
@@ -85477,7 +85794,7 @@ personne)
 \lx lèmuruba
 \mm lèmuru:n:agrume.en.général
 \mm ba:mrph:AUGM
-\va lènburu.ba
+\va lènburuba
 \mm lènburu:n:agrume.en.général
 \mm ba:mrph:AUGM
 \ps n
@@ -85486,26 +85803,26 @@ personne)
 \gvf orange
 \lat Citrus.sinensis
 \sd ruta
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lèmurugɛlɛn
 \mm lèmuru:n:agrume.en.général
-\mm gɛ̀lɛn:vq/adj:dur
-\va lènburu.gɛlɛn
+\mm gɛ̀lɛn:adj:dur
+\va lènburugɛlɛn
 \mm lènburu:n:agrume.en.général
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:dur
 \ps n
 \gf citronnier
 \gvf citronnier
 \gvf citron
 \lat Citrus.limon
 \sd ruta
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lèmuruji
 \mm lèmuru:n:agrume.en.général
 \mm jí:n:eau
-\va lènburu.ji
+\va lènburuji
 \mm lènburu:n:agrume.en.général
 \mm jí:n:eau
 \ps n
@@ -85513,25 +85830,25 @@ personne)
 \gvf jus de citron
 \gvf citronnade
 \rem l 89, du, jos
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx lèmurukumu
 \mm lèmuru:n:agrume.en.général
-\mm kùmu:vq:aigre
+\mm kùmu:adj:aigre
 \va lènburu.kumu
 \mm lènburu:n:agrume.en.général
-\mm kùmu:vq:aigre
+\mm kùmu:adj:aigre
 \ps n
 \gf citronnier
 \gvf citronnier
 \gvf citron
 \lat Citrus.limon
 \sd ruta
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lèmurukuna
 \mm lèmuru:n:agrume.en.général
-\mm kúna:vq:amer
+\mm kúna:adj:amer
 \ps n
 \gf pamplemousse
 \gvf pamplemousse
@@ -85539,7 +85856,7 @@ personne)
 \lat Citrus.decumana
 \sd ruta
 \sy pánpulimusi
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lènge
 \va lènke
@@ -85618,7 +85935,7 @@ personne)
 \lx lɛ̀kɔnɔ
 \mm lɛ̀:n:porc
 \mm kɔ̀nɔ:n:oiseau
-\va jɛ̀.kɔnɔ
+\va jɛ̀kɔnɔ
 \mm jɛ̀:n:porc
 \mm kɔ̀nɔ:n:oiseau
 \ps n
@@ -85627,7 +85944,7 @@ personne)
 \gvf oiseau barbican à poitrine rouge
 \smf (frugivore, bec robuste, barbiche fournie)
 \sy lɛ̀kɔnɔ
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lɛ̀lɛ
 \ve (-bk)
@@ -85729,7 +86046,7 @@ personne)
 \lx lɛ́tɛrɛforoko
 \mm lɛ́tɛrɛ:n:lettre
 \mm fóroko:n:sac
-\va lɛ́tri.foroko
+\va lɛ́triforoko
 \mm lɛ́tri:n:lettre
 \mm fóroko:n:sac
 \ps n
@@ -85737,7 +86054,7 @@ personne)
 \gvf enveloppe
 \smf (d'une lettre à envoyer)
 \rem du
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx líburu
 \es {fr : livre}
@@ -85793,8 +86110,10 @@ personne)
 \dt 26/Sep/2006
 
 \lx lìmaniya
+\mm lìmana:n:confiance
 \mm ya:mrph:ABSTR
 \va lèmineya
+\mm lìmana:n:confiance
 \mm ya:mrph:ABSTR
 \ve (f)
 \bw ar: àl-iman = foi
@@ -85803,18 +86122,20 @@ personne)
 \gvf foi
 \gvf confiance
 \smf (un ami, en Dieu...= piété)
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx lìmaniya
+\mm lìmana:n:confiance
 \mm ya:mrph:ABSTR
 \va lèmineya
+\mm lìmana:n:confiance
 \mm ya:mrph:ABSTR
 \ve (f)
 \ps v
 \vl vi
 \gf avoir.confiance
 \gvf avoir confiance
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx límɔgɔ
 \va dímɔgɔ
@@ -86247,22 +86568,6 @@ famille)
 \xf Que Dieu le fasse vivre !
 \dt 23/Feb/2014
 
-\lx màabaya
-\mm màa.ba:n:personne.importante
-\mm màa:n:homme
-\mm ba:mrph:AUGM
-\mm ya:mrph:ABSTR
-\va mɔ̀gɔ.ba.ya
-\mm mɔ̀gɔ.ba:n:personne.importante
-\mm mɔ̀gɔ:n:homme
-\mm ba:mrph:AUGM
-\mm ya:mrph:ABSTR
-\ps n
-\gf respectable
-\gvf respectable
-\gvf condition d'une personne respectée
-\dt 26/Sep/2006
-
 \lx màá-bɛ́-ń-fɛ̀
 \mm màa:n:homme
 \mm bɛ́:cop:être
@@ -86278,18 +86583,6 @@ famille)
 \ps n
 \gf griot.toucouleur
 \gvf griot toucouleur
-\dt 16/Aug/2006
-
-\lx màadolo
-\mm màa:n:homme
-\mm dòlo:n:étoile
-\va mɔ̀gɔ.dolo
-\mm mɔ̀gɔ:n:homme
-\mm dòlo:n:étoile
-\ps n
-\gf constellation.d'Orion
-\gvf constellation d'Orion
-\smf (homme = pieds, mains, tête, épée)
 \dt 16/Aug/2006
 
 \lx màafɛmaa
@@ -86323,12 +86616,13 @@ famille)
 
 \lx màa-jùkunan
 \mm màa:n:homme
-\mm jù.kunan:n:fesse
-\mm jù:n:derrière
-\mm kúnan:n:plat.en.bois
+\mm jùkunan:n:fesse
+\mmm jù:n:derrière
+\mmm kúnan:n:plat.en.bois
 \ps n
 \gf cul-de-jatte
 \gvf cul-de-jatte
+\dt 02/Apr/2019
 
 \lx màako
 \mm màa:n:homme
@@ -86346,24 +86640,12 @@ famille)
 
 \lx màakɔrɔlama
 \mm màa:n:homme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \mm lama:mrph:STAT
 \ps adj
 \gf vieux
 \gvf vieux
-\dt 16/Aug/2006
-
-\lx màama
-\mm màa:n:homme
-\mm ma:mrph:COM
-\va mɔ̀gɔ.ma
-\mm mɔ̀gɔ:n:homme
-\mm ma:mrph:COM
-\ps adj
-\gf lieu.habité
-\gvf lieu habité
-\smf (par les hommes)
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx màama
 \va máamà
@@ -86376,6 +86658,7 @@ famille)
 
 \lx màamaɲini
 \mm màa:n:homme
+\mm màɲíni:v:chercher.à.atteindre
 \mm mà:mrph:SUPER
 \mm ɲíni:v:chercher
 \ps v
@@ -86383,20 +86666,20 @@ famille)
 \gf provoquer
 \gvf provoquer
 \gvf chercher noise à
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx màamayɛlɛma
 \mm màa:n:homme
-\mm mà.yɛ̀lɛma:v:changer
-\mm mà:mrph:SUPER
-\mm yɛ̀lɛma:v:changer
+\mm màyɛ̀lɛma:v:changer
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps n
 \ms 1
 \gf métamorphose
 \gvf métamorphose
 \ms 2
 \gvf homme censé capable de se métamorphoser
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx màamisɛnya
 \mm màa:n:homme
@@ -86491,13 +86774,13 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx máaɲɔkuru
 \mm máaɲɔ:n:maïs
-\mm ɲɔ̀:n:mil
+\mmm ɲɔ̀:n:mil
 \mm kùru:n:boule
 \ps n
 \gf épi.de.maïs
 \gvf épi de maïs
 \rem du, jos
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx Màari
 \va Màri
@@ -86513,21 +86796,6 @@ jour, c'est une personne dépendante qu'il voit
 \gvf faire des traces
 \xv à y'á nú màari  jíri lá
 \xf il a essuyé sa morve (son nez) à l'arbre
-\dt 26/Sep/2006
-
-\lx màasɛbɛya
-\mm màa.sɛbɛ:n:honnête.homme
-\mm màa:n:homme
-\mm sɛ̀bɛ:vq:honnête
-\mm ya:mrph:ABSTR
-\va mɔ̀gɔ.sɛbɛ.ya
-\mm mɔ̀gɔ.sɛbɛ:n:honnête.homme
-\mm mɔ̀gɔ:n:homme
-\mm sɛ̀bɛ:vq:honnête
-\mm ya:mrph:ABSTR
-\ps n
-\gf honnêteté
-\gvf honnêteté
 \dt 26/Sep/2006
 
 \lx màa-tɛ́-fìli
@@ -86702,15 +86970,15 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màdiya
 \mm mà:mrph:SUPER
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\va màn.di.ya
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\va màndiya
 \mm màn:mrph:SUPER
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\va mà.ja
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\va màja
 \mm mà:mrph:SUPER
 \mm já:v:rendre.agréable
 \ph [maja]
@@ -86722,13 +86990,13 @@ jour, c'est une personne dépendante qu'il voit
 \xf sa mère l'aime
 \xv à ká mádiya sìgira  à kàn
 \xf elle le prit en affection
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx màdíya
 \mm mà:mrph:SUPER
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf aimer
@@ -86736,7 +87004,7 @@ jour, c'est une personne dépendante qu'il voit
 \gvf estimer
 \xv í yɛ̀rɛ màdíya
 \xf chercher à se faire estimer (en faisant du zèle)
-\dt 14/Apr/2018
+\dt 02/Apr/2019
 
 \lx màdògo
 \mm mà:mrph:SUPER
@@ -86762,14 +87030,14 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màdɔ́gɔya
 \mm mà:mrph:SUPER
-\mm dɔ́gɔ.ya:v:amoindrir
-\mm dɔ́gɔ:vq:petit
-\mm ya:mrph:DEQU
+\mm dɔ́gɔya:v:amoindrir
+\mmm dɔ́gɔ:vq:petit
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf humilier
 \gvf humilier
-\dt 14/Apr/2018
+\dt 02/Apr/2019
 
 \lx màduman
 \mm mà:mrph:SUPER
@@ -86849,28 +87117,31 @@ jour, c'est une personne dépendante qu'il voit
 \va màfyɛ́n
 \mm mà:mrph:SUPER
 \mm fyɛ́n:vq:léger
-\ph [mafyɛn]
 \va màfíɲɛ
+\mm mà:mrph:SUPER
+\mm fíɲɛ:vq:léger
 \ps v
 \vl vt
 \gf dénigrer
 \gvf dénigrer
-\dt 14/Apr/2018
+\dt 02/Apr/2019
 
 \lx màfíyɛnya
-\mm mà:mrph:SUPER
-\mm fíyɛn:vq:léger
+\mm màfiyɛn:v:dénigrer
+\mmm mà:mrph:SUPER
+\mmm fíyɛn:vq:léger
 \mm ya:mrph:DEQU
 \va màfyɛ́nya
-\mm mà:mrph:SUPER
-\mm fyɛ́n:vq:léger
+\mm màfyɛ́n:v:dénigrer
+\mmm mà:mrph:SUPER
+\mmm fyɛ́n:vq:léger
 \mm ya:mrph:DEQU
 \ph [fy]
 \ps v
 \vl vt
 \gf dénigrer
 \gvf dénigrer
-\dt 14/Apr/2018
+\dt 02/Apr/2019
 
 \lx màfúra
 \mm mà:mrph:SUPER
@@ -86928,19 +87199,18 @@ jour, c'est une personne dépendante qu'il voit
 \lx màgan
 \mm mà:mrph:SUPER
 \mm gàn:v:chauffer
-\va mà.gwan
+\va màgwan
 \mm mà:mrph:SUPER
 \mm gwàn:v:chauffer
-\ph [gw]
 \ps n
 \gf effort
 \gvf effort
-\dt 12/Aug/2006
+\dt 02/Apr/2019
 
 \lx màgan
 \mm mà:mrph:SUPER
 \mm gàn:v:chauffer
-\va mà.gwan
+\va màgwan
 \mm mà:mrph:SUPER
 \mm gwàn:v:chauffer
 \ph [gw]
@@ -86955,25 +87225,24 @@ jour, c'est une personne dépendante qu'il voit
 \xf la mère se donne de la peine pour ses enfants nuit et jour
 \ms 3
 \gvf bien travailler
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx màgankɛla
-\mm mà.gan:n:effort
-\mm mà:mrph:SUPER
-\mm gàn:v:chauffer
+\mm màgan:n:effort
+\mmm mà:mrph:SUPER
+\mmm gàn:v:chauffer
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
-\va mà.gwan.kɛ.la
-\mm mà.gwan:n:effort
-\mm mà:mrph:SUPER
-\mm gwàn:v:chauffer
+\va màgwankɛla
+\mm màgwan:n:effort
+\mmm mà:mrph:SUPER
+\mmm gwàn:v:chauffer
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
-\ph [gw]
 \ps n
 \gf ouvrier.actif
 \gvf ouvrier actif
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx màganman
 \mm màgan:vq:mou
@@ -86987,16 +87256,15 @@ jour, c'est une personne dépendante qu'il voit
 \dt 26/Sep/2006
 
 \lx màganna
-\mm mà.gan:v:faire.effort
-\mm mà:mrph:SUPER
-\mm gàn:v:chauffer
+\mm màgan:v:faire.effort
+\mmm mà:mrph:SUPER
+\mmm gàn:v:chauffer
 \mm na:mrph:AG.PRM
-\va mà.gwan.na
-\mm mà.gwan:v:faire.effort
-\mm mà:mrph:SUPER
-\mm gwàn:v:chauffer
+\va màgwanna
+\mm màgwan:v:faire.effort
+\mmm mà:mrph:SUPER
+\mmm gwàn:v:chauffer
 \mm na:mrph:AG.PRM
-\ph [gw]
 \ps n
 \ms 1
 \gf bon.travailleur
@@ -87004,34 +87272,33 @@ jour, c'est une personne dépendante qu'il voit
 \ms 2
 \gvf serviteur
 \gvf servante
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx màgannamuso
-\mm mà.gan.na:n:bon.travailleur
-\mm mà.gan:v:faire.effort
-\mm mà:mrph:SUPER
-\mm gàn:v:chauffer
-\mm na:mrph:AG.PRM
+\mm màganna:n:bon.travailleur
+\mmm màgan:v:faire.effort
+\mmmm mà:mrph:SUPER
+\mmmm gàn:v:chauffer
+\mmm na:mrph:AG.PRM
 \mm mùso:adj:femme
-\va mà.gwan.na.muso
-\mm mà.gwan.na:n:bon.travailleur
-\mm mà.gwan:v:faire.effort
-\mm mà:mrph:SUPER
-\mm gwàn:v:chauffer
-\mm na:mrph:AG.PRM
+\va màgwannamuso
+\mm màgwanna:n:bon.travailleur
+\mmm màgwan:v:faire.effort
+\mmmm mà:mrph:SUPER
+\mmmm gwàn:v:chauffer
+\mmm na:mrph:AG.PRM
 \mm mùso:adj:femme
-\ph [gw]
 \ps n
 \gf servante
 \gvf servante
-\dt 12/Aug/2006
+\dt 02/Apr/2019
 
 \lx màgannaya
-\mm mà.gan.na:n:bon.travailleur
-\mm mà.gan:v:faire.effort
-\mm mà:mrph:SUPER
-\mm gàn:v:chauffer
-\mm na:mrph:AG.PRM
+\mm màganna:n:bon.travailleur
+\mmm màgan:v:faire.effort
+\mmmm mà:mrph:SUPER
+\mmmm gàn:v:chauffer
+\mmm na:mrph:AG.PRM
 \mm ya:mrph:ABSTR
 \ps n
 \gf condition.de.servante
@@ -87040,7 +87307,7 @@ jour, c'est une personne dépendante qu'il voit
 \xv mínnu tùn bɛ́ màgannaya lá màsakɛ bólo
 \xf ... qui étaient au service du roi
 \rem ex 21,7
-\dt 11/Nov/2007
+\dt 02/Apr/2019
 
 \lx màgasa
 \va màngasa
@@ -87055,7 +87322,7 @@ jour, c'est une personne dépendante qu'il voit
 \lx màgaya
 \mm màga:vq:mou
 \mm ya:mrph:DEQU
-\va màa.ya
+\va màaya
 \mm màa:vq:mou
 \mm ya:mrph:DEQU
 \ps v
@@ -87066,21 +87333,23 @@ jour, c'est une personne dépendante qu'il voit
 \ms 2
 \gvf assouplir
 \gvf desserrer
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx màgɛlɛya
 \mm mà:mrph:SUPER
-\mm gɛ̀lɛ:vq:dur
-\mm ya:mrph:DEQU
+\mm gɛ̀lɛya:n:dureté
+\mmm gɛ̀lɛn:vq:dur
+\mmm ya:mrph:DEQU
 \ps n
 \gf difficulté
 \gvf difficulté
-\dt 28/Mar/2019
+\dt 02/Apr/2019
 
 \lx màgɛ̀lɛya
 \mm mà:mrph:SUPER
-\mm gɛ̀lɛ:vq:dur
-\mm ya:mrph:DEQU
+\mm gɛ̀lɛya:v:durcir
+\mmm gɛ̀lɛn:vq:dur
+\mmm ya:mrph:DEQU
 \ps v
 \ms 1
 \gf être.difficile
@@ -87088,7 +87357,7 @@ jour, c'est une personne dépendante qu'il voit
 \ms 2
 \gvf insister
 \gvf recommander fortement
-\dt 28/Mar/2019
+\dt 02/Apr/2019
 
 \lx màgɛn
 \mm mà:mrph:SUPER
@@ -87180,14 +87449,14 @@ jour, c'est une personne dépendante qu'il voit
 \mm màgo:n:besoin
 \mm ɲɛ̀:v:réussir
 \mm fɛ́n:n:chose
-\va màko.ɲɛ.fɛn
+\va màkoɲɛfɛn
 \mm màko:n:besoin
 \mm ɲɛ̀:v:réussir
 \mm fɛ́n:n:chose
 \ps n
 \gf objet.de.nécessité
 \gvf objet de nécessité
-\dt 04/Dec/2012
+\dt 02/Apr/2019
 
 \lx màgoɲinina
 \mm màgo:n:besoin
@@ -87227,10 +87496,11 @@ jour, c'est une personne dépendante qu'il voit
 \dt 24/Sep/2018
 
 \lx màhinɛ
+\mm hínɛ:v:avoir.pitié
 \ps n
 \gf compassion
 \gvf compassion
-\dt 18/Apr/2014
+\dt 02/Apr/2019
 
 \lx màjálan
 \mm mà:mrph:SUPER
@@ -87376,12 +87646,12 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màkanbilen
 \mm màkan:n:rollier
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf rollier.à.ventre.bleu
 \gvf rollier à ventre bleu
 \lat Coracias.cyanogaster
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx màkanbugun
 \mm màkan:n:rollier
@@ -87411,13 +87681,13 @@ jour, c'est une personne dépendante qu'il voit
 \lx màkan-kújan
 \mm màkan:n:rollier
 \mm kú:n:queue
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf rollier.d'Abyssinie
 \gvf rollier d'Abyssinie
 \lat Coracias.abyssinica
 \sy màkanbugun
-\dt 16/Aug/2006
+\dt 02/Apr/2019
 
 \lx mákantaantoolen
 \mm Mákan:n:Mecque
@@ -87444,15 +87714,15 @@ jour, c'est une personne dépendante qu'il voit
 \dt 14/Apr/2018
 
 \lx màkaranna
-\mm mà.karan:v:défendre
-\mm mà:mrph:SUPER
-\mm káran:v:veiller
+\mm màkaran:v:défendre
+\mmm mà:mrph:SUPER
+\mmm káran:v:veiller
 \mm na:mrph:AG.PRM
 \ps n
 \gf vigilant
 \gvf vigilant
 \gvf empressé
-\dt 26/Sep/2006
+\dt 02/Apr/2019
 
 \lx màkari
 \ps n
@@ -89084,7 +89354,7 @@ invulnérable aux serpents, aux fauves ...)
 \dt 11/Nov/2007
 
 \lx màɲíni
-\mm mà:mrph:
+\mm mà:mrph:SUPER
 \mm ɲíni:v:chercher
 \ps v
 \ms 1
@@ -89094,7 +89364,7 @@ invulnérable aux serpents, aux fauves ...)
 \ms 2
 \vl vt
 \gvf chercher
-\dt 31/Jan/2016
+\dt 02/Apr/2019
 
 \lx màɲìninka
 \mm mà:mrph:SUPER
@@ -92219,6 +92489,34 @@ des engagements
 \gvf personnalité
 \dt 26/Sep/2006
 
+\lx mɔ̀gɔbaya
+\mm mɔ̀gɔba:n:personne.importante
+\mmm mɔ̀gɔ:n:homme
+\mmm ba:mrph:AUGM
+\mm ya:mrph:ABSTR
+\va màabaya
+\mm màaba:n:personne.importante
+\mmm màa:n:homme
+\mmm ba:mrph:AUGM
+\mm ya:mrph:ABSTR
+\ps n
+\gf respectable
+\gvf respectable
+\gvf condition d'une personne respectée
+\dt 02/Apr/2019
+
+\lx mɔ̀gɔdolo
+\mm mɔ̀gɔ:n:homme
+\mm dòlo:n:étoile
+\va màadolo
+\mm màa:n:homme
+\mm dòlo:n:étoile
+\ps n
+\gf constellation.d'Orion
+\gvf constellation d'Orion
+\smf (homme = pieds, mains, tête, épée)
+\dt 02/Apr/2019
+
 \lx mɔ̀gɔdun
 \mm mɔ̀gɔ:n:homme
 \mm dún:v:manger
@@ -92442,6 +92740,18 @@ des engagements
 \gvf misanthropie
 \dt 26/Sep/2006
 
+\lx mɔ̀gɔ.ma
+\mm mɔ̀gɔ:n:homme
+\mm ma:mrph:COM
+\va màama
+\mm màa:n:homme
+\mm ma:mrph:COM
+\ps adj
+\gf lieu.habité
+\gvf lieu habité
+\smf (par les hommes)
+\dt 02/Apr/2019
+
 \lx mɔ̀gɔmayɔrɔ
 \mm mɔ̀gɔ.ma:adj:lieu.habité
 \mm mɔ̀gɔ:n:homme
@@ -92593,6 +92903,21 @@ homme
 \gf honnête.homme
 \gvf honnête homme
 \dt 26/Sep/2006
+
+\lx mɔ̀gɔsɛbɛya
+\mm mɔ̀gɔsɛbɛ:n:honnête.homme
+\mmm mɔ̀gɔ:n:homme
+\mmm sɛ̀bɛ:vq:honnête
+\mm ya:mrph:ABSTR
+\va màasɛbɛya
+\mm màasɛbɛ:n:honnête.homme
+\mmm màa:n:homme
+\mmm sɛ̀bɛ:vq:honnête
+\mm ya:mrph:ABSTR
+\ps n
+\gf honnêteté
+\gvf honnêteté
+\dt 02/Apr/2019
 
 \lx mɔ̀gɔsogoɲimi
 \mm mɔ̀gɔ:n:homme
