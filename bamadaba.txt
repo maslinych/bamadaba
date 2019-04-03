@@ -65634,8 +65634,8 @@ probablement de chaux vive)
 \mmm kíri:n:jugement
 \mmm tìgɛ:v:couper
 \mm ɲɔgɔn:mrph:RECP
-\va kíiri.tigɛ.ɲɔgɔn
-\mm kíiritigɛ:juger
+\va kíiri.igɛɲɔgɔn
+\mm kíiritigɛ:v:juger
 \mmm kíiri:n:jugement
 \mmm tìgɛ:v:couper
 \mm ɲɔgɔn:mrph:RECP
@@ -65643,7 +65643,7 @@ probablement de chaux vive)
 \gf partie.adverse
 \gvf partie adverse
 \sy kíriɲɔgɔn
-\dt 25/Mar/2019
+\dt 03/Apr/2019
 
 \lx kíritigɛso
 \mm kíritigɛ:n:procès
@@ -77773,18 +77773,17 @@ l'intérieur une ou deux graines)
 \dt 31/Mar/2019
 
 \lx kùnnatigɛlenya
-\mm kùnnatìgɛlen
-\mmm kùnnatìgɛ:v:libérer.de.honte
-\mmmm kùn:n:tête
-\mmmm nátìgɛ:v:faire.passer
-\mmmmm ná:mrph:CAUS
-\mmmmm tìgɛ:v:couper
-\mmm len:mrph:PTCP.RES
+\mm kùnnatìgɛ:v:libérer.de.honte
+\mmm kùn:n:tête
+\mmm nátìgɛ:v:faire.passer
+\mmmm ná:mrph:CAUS
+\mmmm tìgɛ:v:couper
+\mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \gf effronterie
 \gvf effronterie
-\dt 31/Mar/2019
+\dt 03/Apr/2019
 
 \lx kùnnatiɲɛ
 \mm kùn:n:tête
@@ -88107,14 +88106,14 @@ jour, c'est une personne dépendante qu'il voit
 \mm màlo:v:faire.honte
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va màlo.baga.tɔ
+\va màlobagatɔ
 \mm màlo:v:faire.honte
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj
 \gf rempli.de.confusion
 \gvf rempli de confusion
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màlobali
 \mm màlo:v:faire.honte
@@ -88131,8 +88130,9 @@ jour, c'est une personne dépendante qu'il voit
 \dt 04/Apr/2016
 
 \lx màlobaliya
-\mm màlo:v:faire.honte
-\mm bali:mrph:PTCP.NEG
+\mm màlobali:ptcp:effronté
+\mmm màlo:v:faire.honte
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -88141,7 +88141,7 @@ jour, c'est une personne dépendante qu'il voit
 \ms 2
 \gvf impudicité
 \gvf débauche
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx màlodunkɔnɔnin
 \mm màlo:n:riz
@@ -88166,23 +88166,23 @@ jour, c'est une personne dépendante qu'il voit
 \lx màlogosi
 \mm màlo:n:riz
 \mm gòsi:v:battre
-\va màlo.gɔsi
+\va màlogɔsi
 \mm màlo:n:riz
 \mm gɔ̀si:v:battre
 \ps n
 \gf battage.du.riz
 \gvf battage du riz
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màlogosimasin
-\mm màlo.gosi:n:battage.du.riz
-\mm màlo:n:riz
-\mm gòsi:v:battre
+\mm màlogosi:n:battage.du.riz
+\mmm màlo:n:riz
+\mmm gòsi:v:battre
 \mm màsin:n:machine
 \ps n
 \gf batteuse.pour.le.riz
 \gvf batteuse pour le riz
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màlokaama
 \mm màlo:n:riz
@@ -88203,14 +88203,14 @@ jour, c'est une personne dépendante qu'il voit
 \dt 16/Aug/2006
 
 \lx màlokanmasin
-\mm màlo.kan:n:fauchage.du.riz
-\mm màlo:n:riz
-\mm kàn:v:couper
+\mm màlokan:n:fauchage.du.riz
+\mmm màlo:n:riz
+\mmm kàn:v:couper
 \mm màsin:n:machine
 \ps n
 \gf faucheuse.à.riz
 \gvf faucheuse à riz
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màlokini
 \mm màlo:n:riz
@@ -88223,14 +88223,14 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màlokunba
 \mm màlo:n:riz
-\mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf haricot
 \gvf haricot
 \smf (terme de plaisanterie)
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màlomaɲɔgɔn
 \mm màlo:n:honte
@@ -88325,13 +88325,17 @@ jour, c'est une personne dépendante qu'il voit
 \gvf grand'mère
 \dt 04/Apr/2016
 
-\lx màmàɲini
+\lx màmàɲíni
+\mm mà:mrph:SUPER
+\mm màɲíni:v:chercher.à.atteindre
+\mmm mà:mrph:SUPER
+\mmm ɲíni:v:chercher
 \ps v
 \vl vt
 \gf médire
 \gvf médire
 \gvf calomnier
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx Mamara
 \ps n
@@ -88343,13 +88347,13 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màmarikanjɛ
 \mm kán:n:cou
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf cigogne.épiscopale
 \gvf cigogne épiscopale
 \lat Ciconia.episcopus
 \smf (cigogne au cou blanc)
-\dt 04/Apr/2016
+\dt 03/Apr/2019
 
 \lx màméleke
 \mm mà:mrph:SUPER
@@ -88382,29 +88386,29 @@ jour, c'est une personne dépendante qu'il voit
 \dt 28/May/2017
 
 \lx màminɛcɛ
-\mm mà.minɛ:n:fiançailles
-\mm mà:mrph:SUPER
-\mm mìnɛ:v:attraper
+\mm màminɛ:n:fiançailles
+\mmm mà:mrph:SUPER
+\mmm mìnɛ:v:attraper
 \mm cɛ̀:n:mâle
-\va mà.minɛ.kɛ
-\mm mà.minɛ:n:fiançailles
-\mm mà:mrph:SUPER
-\mm mìnɛ:v:attraper
+\va màminɛkɛ
+\mm màminɛ:n:fiançailles
+\mmm mà:mrph:SUPER
+\mmm mìnɛ:v:attraper
 \mm kɛ:adj:mâle
 \ps n
 \gf fiancé
 \gvf fiancé
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màminɛmuso
-\mm mà.minɛ:n:fiançailles
-\mm mà:mrph:SUPER
-\mm mìnɛ:v:attraper
+\mm màminɛ:n:fiançailles
+\mmm mà:mrph:SUPER
+\mmm mìnɛ:v:attraper
 \mm mùso:adj:femme
 \ps n
 \gf fiancée
 \gvf fiancée
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx màmɔ̀
 \mm mà:mrph:SUPER
@@ -88515,13 +88519,13 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx mànafin
 \mm màna:n:roche.noire
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf roche.noire
 \gvf roche noire
 \smf (très dure)
 \sy kábafin
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mánaji
 \mm mána:n:substance.collante
@@ -88587,11 +88591,11 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx mànamajugu
 \mm mànama:n:aspect.extérieur
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj
 \gf laid
 \gvf laid
-\dt 12/Aug/2006
+\dt 03/Apr/2019
 
 \lx mànamana
 \ps n
@@ -88740,12 +88744,12 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màndi
 \mm màn:mrph:SUPER
-\mm dí:vq/adj:agréable
+\mm dí:vq:agréable
 \ps adj
 \gf bien-aimé
 \gvf bien-aimé
 \gvf estimé
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx màndími
 \mm màn:mrph:SUPER
@@ -88761,16 +88765,17 @@ jour, c'est une personne dépendante qu'il voit
 \dt 14/Apr/2018
 
 \lx màndiya
-\mm màn:mrph:SUPER
-\mm dí:vq/adj:agréable
-\mm ya:mrph:ABSTR
+\mm màndi:adj:bien-aimé
+\mmm màn:mrph:SUPER
+\mmm dí:vq:agréable
+\mm ya:mrph:DEQU
 \ps n
 \gf affection
 \gvf affection
 \gvf amour
 \gvf estime
 \gvf bonnes grâces
-\dt 04/Jul/2013
+\dt 03/Apr/2019
 
 \lx màndíya
 \mm màn:mrph:SUPER
@@ -88804,14 +88809,14 @@ jour, c'est une personne dépendante qu'il voit
 \lx mángala
 \mm má:n:Dieu
 \mm Ngála:n:Dieu
-\va má.ŋala
+\va máŋala
 \mm má:n:Dieu
 \mm ŋála:n:Dieu
 \ps n
 \gf Dieu
 \gvf Dieu
 \smf (un des titres de)
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mànge
 \va mànke
@@ -88840,9 +88845,9 @@ jour, c'est une personne dépendante qu'il voit
 \dt 06/Jun/2014
 
 \lx màngoya
-\mm màn.go:adj:détesté
-\mm màn:mrph:SUPER
-\mm gó:vq:désagréable
+\mm màngo:adj:détesté
+\mmm màn:mrph:SUPER
+\mmm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \ps n
 \gf antipathie
@@ -88850,12 +88855,12 @@ jour, c'est une personne dépendante qu'il voit
 \gvf haine
 \xv à ká màngoya sìgira  dén kàn
 \xf elle s'est mise à détester l'enfant
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx màngóya
-\mm màn:mrph:SUPER
-\mm gó.ya:v:rendre.mauvais
-\mm gó:vq:désagréable
+\mm màngo:adj:détesté
+\mmm màn:mrph:SUPER
+\mmm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -88864,7 +88869,7 @@ jour, c'est une personne dépendante qu'il voit
 \gvf détester
 \ms 2
 \gvf rendre antipathique
-\dt 14/Apr/2018
+\dt 03/Apr/2019
 
 \lx mánimani
 \ps n
@@ -88890,13 +88895,13 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx màninkafin
 \mm màninka:n:malinké
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf malinké.animiste
 \gvf malinké animiste
 \smf (entre Siguiri et Kita)
 \rem l 89
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx màninkakan
 \mm màninka:n:malinké
@@ -88916,11 +88921,12 @@ jour, c'est une personne dépendante qu'il voit
 \dt 11/Nov/2007
 
 \lx màninkɛmɛ
+\mm màninka:n:malinké
 \mm kɛ̀mɛ:num:cent
 \ps n
 \gf soixante
 \gvf soixante
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màninwolo
 \mm mà:n:lamantin
@@ -88974,7 +88980,7 @@ jour, c'est une personne dépendante qu'il voit
 
 \lx mànkalannin
 \mm mànkalan:n:céphalophe.de.Grimm
-\mm kálan:vq:bariolé
+\mmm kálan:vq:bariolé
 \mm nin:mrph:DIM
 \ps n
 \gf céphalophe.de.Grimm
@@ -88982,6 +88988,7 @@ jour, c'est une personne dépendante qu'il voit
 \gvf céphalophe couronné
 \lat Cephalophus.Sylvicapra.grimmia
 \smf (petite antilope à l'arrière-train plus foncé que l'avant-train)
+\dt 03/Apr/2019
 
 \lx mànkan
 \fa màngan
@@ -89028,36 +89035,30 @@ invulnérable aux serpents, aux fauves ...)
 \dt 16/Aug/2006
 
 \lx mànkanbonyanan
-\mm màn.kan:n:bruit
-\mm màn:mrph:SUPER
-\mm kán:n:cou
+\mm mànkan:n:bruit
 \mm bònya:v:grossir
-\mm bòn:vq:grand
-\mm ya:mrph:DEQU
+\mmm bòn:vq:grand
+\mmm ya:mrph:DEQU
 \mm nan:mrph:INSTR
 \ps n
 \gf amplificateur
 \gvf amplificateur
 \gvf micro
 \nt kb 10/04 p.9
-\dt 28/Feb/2017
+\dt 03/Apr/2019
 
 \lx mànkankɛla
-\mm màn.kan:n:bruit
-\mm màn:mrph:SUPER
-\mm kán:n:cou
+\mm mànkan:n:bruit
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf qui.fait.du.bruit
 \gvf qui fait du bruit
 \gvf manifestant
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mànkansigini
-\mm màn.kan:n:bruit
-\mm màn:mrph:SUPER
-\mm kán:n:cou
+\mm mànkan:n:bruit
 \mm sìgini:n:alphabet
 \ps n
 \gf alphabet.phonétique
@@ -89065,7 +89066,7 @@ invulnérable aux serpents, aux fauves ...)
 \xv díɲɛforobamankansigini
 \xf alphabet phonétique international
 \nt kb 9/05 p.7
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mánko
 \ps n
@@ -89108,7 +89109,7 @@ invulnérable aux serpents, aux fauves ...)
 
 \lx mànɔgɔ
 \mm mà:n:lamantin
-\mm nɔ́gɔ:vq/adj:gluant
+\mm nɔ́gɔ:adj:gluant
 \ps n
 \gf silure
 \gvf silure
@@ -89118,7 +89119,7 @@ invulnérable aux serpents, aux fauves ...)
 \ms 2
 \lat Heterobranchus
 \smf (dorsale rayonnée + adipeuse bien développée)
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mànɔ́gɔ
 \mm mà:mrph:SUPER
@@ -89220,9 +89221,9 @@ invulnérable aux serpents, aux fauves ...)
 \dt 26/Sep/2006
 
 \lx màntɔɔrɔya
-\mm màn.tɔɔrɔ:n:mal
-\mm màn:mrph:SUPER
-\mm tɔ́ɔrɔ:v:faire.souffrir
+\mm màntɔɔrɔ:n:mal
+\mmm màn:mrph:SUPER
+\mmm tɔ́ɔrɔ:v:faire.souffrir
 \mm ya:mrph:ABSTR
 \ps n
 \gf mal
@@ -89231,7 +89232,7 @@ invulnérable aux serpents, aux fauves ...)
 \gvf souffrance
 \xv màntɔɔrɔya sí tɛ́  án fɛ̀ yàn bì
 \xf tout va bien chez nous en ce moment
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mànùgu
 \mm mà:mrph:SUPER
@@ -89302,7 +89303,7 @@ invulnérable aux serpents, aux fauves ...)
 \dt 14/Apr/2018
 
 \lx màɲaganci
-\mm mà.ɲaga:v:refuser
+\mm màɲága:v:se.rebiffer
 \mm mà:mrph:SUPER
 \mm ɲága:v:activer.le.feu
 \mm nci:mrph:AG.EX
@@ -89310,7 +89311,7 @@ invulnérable aux serpents, aux fauves ...)
 \gf orgueilleux
 \gvf orgueilleux
 \gvf prétentieux
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx máɲamaɲa
 \va ŋáɲaŋaɲa
@@ -89380,18 +89381,21 @@ invulnérable aux serpents, aux fauves ...)
 
 \lx màɲɔgɔlɔn
 \mm mà:mrph:SUPER
+\mm ɲɔ́gɔlɔn:n:ornement
 \ps n
 \gf ornement
 \gvf ornement
+\dt 03/Apr/2019
 
 \lx màɲɔ́gɔlɔn
 \mm mà:mrph:SUPER
+\mm ɲɔ́gɔlɔn:n:ornement
 \ps v
 \vl vt
 \gf orner
 \gvf orner
 \sy màsíri
-\dt 14/Apr/2018
+\dt 03/Apr/2019
 
 \lx màɲɔgɔnna
 \mm mà:mrph:SUPER
@@ -89425,7 +89429,7 @@ invulnérable aux serpents, aux fauves ...)
 \dt 14/Apr/2018
 
 \lx màɲumanko
-\mm mà.ɲuman:v:avoir.pitié
+\mm màɲuman:v:avoir.pitié
 \mmm mà:mrph:SUPER
 \mmm ɲùman:adj:bon
 \mm kó:n:affaire
@@ -89434,11 +89438,11 @@ invulnérable aux serpents, aux fauves ...)
 \gvf sujet de pitié
 \gvf situation pitoyable
 \sy màkariko
-\dt 04/Jun/2017
+\dt 03/Apr/2019
 
 \lx màɲumankotɔ
-\mm mà.ɲuman.ko:n:sujet.de.pitié
-\mmm mà.ɲuman:v:avoir.pitié
+\mm màɲumanko:n:sujet.de.pitié
+\mmm màɲuman:v:avoir.pitié
 \mmmm mà:mrph:SUPER
 \mmmm ɲùman:adj:bon
 \mmm kó:n:affaire
@@ -89446,10 +89450,10 @@ invulnérable aux serpents, aux fauves ...)
 \ps adj
 \gf qui.inspire.pitié
 \gvf qui inspire pitié
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màɲumantɔ
-\mm mà.ɲuman:v:avoir.pitié
+\mm màɲuman:v:avoir.pitié
 \mmm mà:mrph:SUPER
 \mmm ɲùman:adj:bon
 \mm tɔ:mrph:ST
@@ -89457,11 +89461,11 @@ invulnérable aux serpents, aux fauves ...)
 \gf qui.inspire.pitié
 \gvf qui inspire pitié
 \sy màɲumankotɔ
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màɲumantɔkan
-\mm mà.ɲuman.tɔ:adj:qui.inspire.pitié
-\mmm mà.ɲuman:v:avoir.pitié
+\mm màɲumantɔ:adj:qui.inspire.pitié
+\mmm màɲuman:v:avoir.pitié
 \mmmm mà:mrph:SUPER
 \mmmm ɲùman:adj:bon
 \mmm tɔ:mrph:ST
@@ -89477,7 +89481,7 @@ invulnérable aux serpents, aux fauves ...)
 \xv à yé Dániyɛli wéle ní màɲumantɔkan yé
 \xf Il appela Daniel d'une voix affligée (Dn 6, 21)
 \rem l 89
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx màra
 \ps n
@@ -89551,19 +89555,18 @@ invulnérable aux serpents, aux fauves ...)
 
 \lx màrabaatiga
 \mm tìga:n:arachide
-\va màrbaatiga
-\mm tìga:n:arachide
 \va màrabatiga
 \mm tìga:n:arachide
 \va màribatiga
 \mm tìga:n:arachide
-\ph [marba ...]
+\va màrbaatiga
+\mm tìga:n:arachide
 \ps n
 \gf arachides.grillées
 \gvf arachides grillées
 \smf (et salées)
 \gvf cacahuètes grillées
-\dt 20/Mar/2018
+\dt 03/Apr/2019
 
 \lx màrabolo
 \mm màra:n:garde
@@ -89613,7 +89616,7 @@ invulnérable aux serpents, aux fauves ...)
 \lx màrakajalan
 \mm màraka:n:Soninké
 \mm jàlan:adj:sec
-\va màrka.jalan
+\va màrkajalan
 \mm màrka:n:Soninké
 \mm jàlan:adj:sec
 \ph [marka...]
@@ -89621,7 +89624,7 @@ invulnérable aux serpents, aux fauves ...)
 \gf sarakolé
 \gvf sarakolé
 \smf (ethnie du Cercle de San)
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màrakakan
 \mm màraka:n:soninké
@@ -89645,14 +89648,15 @@ invulnérable aux serpents, aux fauves ...)
 
 \lx màrakunkolodimi
 \mm màra:n:onchocercose
-\mm kùn:n:tête
-\mm kólo:n:os
+\mm kùnkolo:n:crâne
+\mmm kùn:n:tête
+\mmm kólo:n:os
 \mm dími:n:souffrance
 \ps n
 \gf maux.de.tête
 \gvf maux de tête
 \smf (de l'onchocercose)
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màramafɛn
 \mm fɛ́n:n:chose
@@ -89660,7 +89664,7 @@ invulnérable aux serpents, aux fauves ...)
 \ps n
 \gf arme
 \gvf arme
-\dt 12/Aug/2006
+\dt 03/Apr/2019
 
 \lx màramɔgɔ
 \mm màra:v:garder
@@ -89867,9 +89871,9 @@ des engagements
 \dt 26/Jun/2018
 
 \lx màsakɛya
-\mm màsa.kɛ:n:roi
-\mm màsa:n:roi
-\mm kɛ:adj:mâle
+\mm màsakɛ:n:roi
+\mmm màsa:n:roi
+\mmm kɛ:adj:mâle
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -89877,7 +89881,7 @@ des engagements
 \gvf rendre roi
 \xv à dén y'á màsakɛya
 \xf ses fils l'ont établi roi
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màsaku
 \mm màsa:n:roi
@@ -89953,6 +89957,8 @@ des engagements
 
 \lx màsamali
 \mm màsama:v:attirer
+\mmm mà:mrph:SUPER
+\mmm sàma:v:tirer.à.soi
 \mm li:mrph:NMLZ
 \ps n
 \gf attraction
@@ -89960,7 +89966,7 @@ des engagements
 \gvf attrait
 \xv júguman ká màsamali bɛ́  ɲùman dòn  dúgu lá
 \xf l'attrait du mal enterre la vision qu'on peut avoir du bien (Sg 4, 12)
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx màsamuso
 \mm màsa:n:roi
@@ -89972,14 +89978,14 @@ des engagements
 \lx màsangala
 \mm màsa:n:roi
 \mm Ngála:n:Dieu
-\va màsa.ŋala
+\va màsaŋala
 \mm màsa:n:roi
 \mm ŋála:n:Dieu
 \ps n
 \gf Dieu
 \gvf Dieu
 \smf (titre donné à Dieu)
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx màsàra
 \mm mà:mrph:SUPER
@@ -90010,14 +90016,15 @@ des engagements
 
 \lx màsasigilan
 \mm màsa:n:roi
-\mm sìgi:v:asseoir
-\mm lan:mrph:INSTR
+\mm sìgilan:n:siège
+\mmm sìgi:v:asseoir
+\mmm lan:mrph:INSTR
 \ps n
 \gf trône
 \gvf trône
 \smf (royal)
 \nt vérifier le ton
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx màsaso
 \mm màsa:n:roi
@@ -90137,21 +90144,21 @@ des engagements
 \dt 26/Sep/2006
 
 \lx màsirifɛn
-\mm mà.sìri:v:parer
-\mm mà:mrph:SUPER
-\mm sìri:v:lier
+\mm màsiri:n:ornement
+\mmm mà:mrph:SUPER
+\mmm sìri:v:lier
 \mm fɛ́n:n:chose
-\va mà.siri.ma.fɛn
-\mm mà.sìri:v:parer
-\mm mà:mrph:SUPER
-\mm sìri:v:lier
+\va màsirimafɛn
+\mm màsiri:n:ornement
+\mmm mà:mrph:SUPER
+\mmm sìri:v:lier
 \mm ma:mrph:COM
 \mm fɛ́n:n:chose
 \ps n
 \gf ornements
 \gvf ornements
 \gvf bijoux
-\dt 07/Jul/2013
+\dt 03/Apr/2019
 
 \lx masɔn
 \va mɔsɔn
@@ -90199,9 +90206,9 @@ des engagements
 \dt 14/Apr/2018
 
 \lx màsumalenya
-\mm mà.suma:v:calmer
-\mm mà:mrph:SUPER
-\mm súma:v:rafraîchir
+\mm màsúma:v:calmer
+\mmm mà:mrph:SUPER
+\mmm súma:v:rafraîchir
 \mm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
@@ -90210,13 +90217,13 @@ des engagements
 \gvf calme
 \xv ò màsumalenya kɛ́ra gánsan yé
 \xf cette douceur silencieuse fut vaine (Ps 39, 3)
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx màsúmaya
 \mm mà:mrph:SUPER
-\mm súma.ya:v:rafraîchir
-\mm súma:v:rafraîchir
-\mm ya:mrph:ABSTR
+\mm súmaya:v:rafraîchir
+\mmm súma:vq:lent
+\mmm ya:mrph:DEQU
 \ps v
 \ms 1
 \vl vi
@@ -90227,7 +90234,7 @@ des engagements
 \ms 2
 \vl vr
 \gvf se déprimer
-\dt 14/Apr/2018
+\dt 03/Apr/2019
 
 \lx màsurun
 \mm mà:mrph:SUPER
@@ -90244,9 +90251,9 @@ des engagements
 \dt 28/Feb/2017
 
 \lx màsurunna
-\mm mà.surun:adj:proche
-\mm mà:mrph:SUPER
-\mm sùrun:vq:court
+\mm màsurun:adj:proche
+\mmm mà:mrph:SUPER
+\mmm sùrun:vq:court
 \mm na:mrph:LOC
 \va màsurun
 \mm mà:mrph:SUPER
@@ -90256,12 +90263,12 @@ des engagements
 \gvf les abords
 \gvf proximité
 \gvf voisinage
-\dt 14/Mar/2018
+\dt 03/Apr/2019
 
 \lx màsurunya
-\mm mà.surun:adj:proche
-\mm mà:mrph:SUPER
-\mm sùrun:vq:court
+\mm màsurun:adj:proche
+\mmm mà:mrph:SUPER
+\mmm sùrun:vq:court
 \mm ya:mrph:ABSTR
 \ps n
 \gf proximité
@@ -90269,19 +90276,20 @@ des engagements
 \gvf voisinage
 \xv ní kɔ̀lɔn sònina ɲɛ́gɛn màsurunya ná...
 \rem du, Jos, bk
-\dt 28/Feb/2017
+\dt 03/Apr/2019
 
 \lx màsùrunya
 \mm mà:mrph:SUPER
-\mm sùrun:vq:court
-\mm ya:mrph:DEQU
+\mm sùrunya:v:raccourcir
+\mmm sùrun:vq:court
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf rapprocher
 \gvf rapprocher
 \xv sánnakurun yé  yɔ́rɔ màsurunya  ɲɔ́gɔn ná :
 \xf l'avion a rapproché les lieux
-\dt 28/Feb/2017
+\dt 03/Apr/2019
 
 \lx màsùuli
 \mm mà:mrph:SUPER
@@ -90562,24 +90570,6 @@ des engagements
 \gvf mai
 \dt 24/Jul/2017
 
-\lx mɛ́bali
-\mm mɛ́:v:entendre
-\mm bali:mrph:PTCP.NEG
-\ps ptcp
-\gf qui.n'entend.pas
-\gvf qui n'entend pas
-\xv ù yé  ù túlo kɛ́  à mɛ́bali yé
-\xf ils ont fait ceux qui n'ont pas entendu
-\dt 16/Aug/2006
-
-\lx mɛ́bali
-\mm mɛ́:v:durer
-\mm bali:mrph:PTCP.NEG
-\ps ptcp
-\gf qui.ne.dure.pas
-\gvf qui ne dure pas
-\dt 16/Aug/2006
-
 \lx mɛ́ɛn
 \va mɛ́
 \va mɛ́n
@@ -90594,6 +90584,14 @@ des engagements
 \xv à mɛ́na
 \xf il y a longtemps
 \dt 14/Feb/2015
+
+\lx mɛ́ɛnbali
+\mm mɛ́ɛn:v:durer
+\mm bali:mrph:PTCP.NEG
+\ps ptcp
+\gf qui.ne.dure.pas
+\gvf qui ne dure pas
+\dt 03/Apr/2019
 
 \lx mɛ́ɛnɛnɛnɛ
 \ps adv
@@ -90777,6 +90775,19 @@ des engagements
 \xf il ne comprend pas encore le bambara
 \dt 14/Feb/2015
 
+\lx mɛ́nbali
+\mm mɛ́n:v:entendre
+\mm bali:mrph:PTCP.NEG
+\va mɛ́bali
+\mm mɛ́:v:entendre
+\mm bali:mrph:PTCP.NEG
+\ps ptcp
+\gf qui.n'entend.pas
+\gvf qui n'entend pas
+\xv ù yé  ù túlo kɛ́  à mɛ́bali yé
+\xf ils ont fait ceux qui n'ont pas entendu
+\dt 03/Apr/2019
+
 \lx mɛ̀nɛ
 \ps prt
 \ms 1
@@ -90841,11 +90852,11 @@ des engagements
 
 \lx mɛ́nɛmɛnɛbilen
 \mm mɛ́nɛmɛnɛ:n:petite.fourmi
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf petite.fourmi.rouge
 \gvf petite fourmi rouge
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mɛ̀nɛnkɛ
 \ps n
@@ -91050,19 +91061,20 @@ des engagements
 \dt 07/Dec/2014
 
 \lx míiribaliya
-\mm míiri:v:penser
-\mm bali:mrph:PTCP.NEG
+\mm míiribali:ptcp:étourdi
+\mmm míiri:v:penser
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf irréflexion
 \gvf irréflexion
 \rem Mol, du : manque de réflexion
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx míirina
 \mm míiri:n:idée
 \mm ná:mrph:MNT1
-\va míiri.la
+\va míirila
 \mm míiri:n:idée
 \mm ná:mrph:MNT1
 \ps n
@@ -91073,12 +91085,12 @@ des engagements
 \sy míirinako
 \xv ù tɛ́  à míirina dɔ́n
 \xf ils ne savent pas ce qu'il pense, ce qu'il projette
-\dt 29/Jun/2013
+\dt 03/Apr/2019
 
 \lx míirinata
 \mm míiri:n:idée
 \mm nata:mrph:MNT2
-\va míiri.lata
+\va míirilata
 \mm míiri:n:idée
 \mm lata:mrph:MNT2
 \ps n
@@ -91088,7 +91100,7 @@ des engagements
 \gvf imagination
 \xv kàbi  à ká míirinata nìnnu dágura :
 \xf dès que ses prévisions se sont réalisées
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx míiriya
 \mm míiri:n:idée
@@ -91295,12 +91307,12 @@ des engagements
 
 \lx mìnanjan
 \mm mìnan:n:guib.harnaché
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf antilope
 \gvf antilope
 \smf (de la taille d'un boeuf mais plus fin)
-\dt 12/Aug/2006
+\dt 03/Apr/2019
 
 \lx mìnankalan
 \mm mìnan:n:guib.harnaché
@@ -91450,15 +91462,21 @@ des engagements
 \gvf ministre
 \dt 11/Nov/2007
 
-\lx mínisiriɲɛmaa
+\lx mínisiriɲɛmɔgɔ
 \mm mínisiri:n:ministre
-\mm ɲɛ́:n:oeil
-\mm màa:n:homme
+\mm ɲɛ́mɔgɔ:n:dirigeant
+\mmm ɲɛ́:n:oeil
+\mmm mɔ̀gɔ:n:homme
+\va mínisiriɲɛmaa
+\mm mínisiri:n:ministre
+\mm ɲɛ́maa:n:dirigeant
+\mmm ɲɛ́:n:oeil
+\mmm màa:n:homme
 \ps n
 \gf premier.ministre
 \gvf premier ministre
 \nt kb 3/05 p.11
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mínisiriso
 \mm mínisiri:n:ministre
@@ -91570,29 +91588,34 @@ des engagements
 
 \lx mìnnɔgɔ
 \mm mìn:v:boire
+\mm dɔ́gɔ:n:désir
 \va mìndɔgɔ
 \mm mìn:v:boire
 \mm dɔ́gɔ:n:désir
 \va mìnaa
+\mm mìn:v:boire
+\mm dɔ́gɔ:n:désir
 \ps n
 \gf soif
 \gvf soif
 \xv ò bɛ́  mìnnɔgɔ bìla  màa ná
 \xf ça donne soif
-\dt 04/Feb/2016
+\dt 03/Apr/2019
 
 \lx mìnnɔgɔtɔ
-\mm mìn.nɔgɔ:n:soif
-\mm mìn:v:boire
-\mm nɔ́gɔ:n:désir
+\mm mìnnɔgɔ:n:soif
+\mmm mìn:v:boire
+\mmm dɔ́gɔ:n:désir
 \mm tɔ:mrph:ST
-\va mìnaa.tɔ
+\va mìnaatɔ
 \mm mìnaa:n:soif
+\mmm mìn:v:boire
+\mmm dɔ́gɔ:n:désir
 \mm tɔ:mrph:ST
 \ps adj
 \gf assoiffé
 \gvf assoiffé
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mínnu
 \mm mîn:prn:REL
@@ -91795,16 +91818,16 @@ des engagements
 \dt 26/Sep/2006
 
 \lx mìsɛnmannin
-\mm mìsɛn.man:adj:petit
-\mm mìsɛn:vq:petit
-\mm man:mrph:ADJ
+\mm mìsɛnman:adj:petit
+\mmm mìsɛn:vq:petit
+\mmm man:mrph:ADJ
 \mm nin:mrph:DIM
 \ps n
 \gf rougeole
 \gvf rougeole
 \smf (euph.)
 \sy ɲɔ̀ni
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mìsɛnya
 \mm mìsɛn:vq:petit
@@ -91865,9 +91888,9 @@ des engagements
 \dt 26/Sep/2006
 
 \lx mìsidenwara
-\mm mìsi.den:n:veau
-\mm mìsi:n:bovidé
-\mm dén:n:enfant
+\mm mìsiden:n:veau
+\mmm mìsi:n:bovidé
+\mmm dén:n:enfant
 \mm wára:n:fauve
 \ve (-bk, -bn)
 \ps n
@@ -91876,25 +91899,25 @@ des engagements
 \lat Caracal.caracal
 \smf (allure de lynx, oreilles pointues terminées par un long pinceau de poil, attaque même les veaux, les moutons, les chèvres)
 \sy túlokɔnɔsima
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mìsigeren
 \mm mìsi:n:bovidé
 \mm gèren:adj:fruit.vert
-\va mìsi.gweren
+\va mìsigweren
 \mm mìsi:n:bovidé
 \mm gwèren:adj:fruit.vert
 \ph [gw]
 \ps n
 \gf génisse
 \gvf génisse
-\dt 12/Aug/2006
+\dt 03/Apr/2019
 
 \lx mìsigɛnden
 \mm mìsi:n:bovidé
 \mm gɛ́n:v:chasser
 \mm dén:n:enfant
-\va mìsi.gwɛn.den
+\va mìsigwɛnden
 \mm mìsi:n:bovidé
 \mm gwɛ́n:v:chasser
 \mm dén:n:enfant
@@ -91903,13 +91926,13 @@ des engagements
 \gf bouvier
 \gvf bouvier
 \gvf peul
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mìsigɛnkɔnɔ
 \mm mìsi:n:bovidé
 \mm gɛ́n:v:chasser
 \mm kɔ̀nɔ:n:oiseau
-\va mìsi.gwɛn.kɔnɔ
+\va mìsigwɛnkɔnɔ
 \mm mìsi:n:bovidé
 \mm gwɛ́n:v:chasser
 \mm kɔ̀nɔ:n:oiseau
@@ -91922,13 +91945,13 @@ des engagements
 \smf (en permanence accroché à la peau des ongulés)
 \sy fàligɛnfulanin
 \sy tɛ́rɛbɔkɔnɔnin
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mìsigɛnna
 \mm mìsi:n:bovidé
 \mm gɛ́n:v:chasser
 \mm na:mrph:AG.PRM
-\va mìsi.gwɛn.na
+\va mìsigwɛnna
 \mm mìsi:n:bovidé
 \mm gwɛ́n:v:chasser
 \mm na:mrph:AG.PRM
@@ -91936,7 +91959,7 @@ des engagements
 \ps n
 \gf berger
 \gvf berger
-\dt 12/Aug/2006
+\dt 03/Apr/2019
 
 \lx mísika
 \va míska
@@ -92069,7 +92092,7 @@ des engagements
 \mm mìsiri:n:mosquée
 \mm wéle:v:appeler
 \mm la:mrph:AG.PRM
-\va mìsiri.weele.la
+\va mìsiriweelela
 \mm mìsiri:n:mosquée
 \mm wéele:v:appeler
 \mm la:mrph:AG.PRM
@@ -92078,7 +92101,7 @@ des engagements
 \gvf muezzin
 \xv Máhamadu kó mán dí ń yé, ò yé tìɲɛ yé, ká í nà à tɔ́gɔ mɛ́n mìsiriwelela dá dɛ́ !
 \rem Mol, l 89, du
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mìsitɛ̀nɛ
 \mm mìsi:n:bovidé
@@ -92135,14 +92158,15 @@ des engagements
 
 \lx móbilijɔyɔrɔ
 \mm móbili:n:automobile
-\mm jɔ̀:v:dresser
-\mm yɔ́rɔ:n:lieu
+\mm jɔ̀yɔrɔ:n:place
+\mmm jɔ̀:n:station.debout
+\mmm yɔ́rɔ:n:lieu
 \ps n
 \gf parc.à.autos
 \gvf parc à autos
 \xv kà kɛ́nɛlankolon dɔ́ bìla àni mɔ́bilijɔyɔrɔ 400 ɲɔ̀gɔnna
 \xf ils prévoient des parcs pour environ 400 voitures (kb 3/05 p.5
-\dt 28/Feb/2017
+\dt 03/Apr/2019
 
 \lx móbilisen
 \mm móbili:n:automobile
@@ -92198,7 +92222,7 @@ des engagements
 \lx mórikalan
 \mm móri:n:marabout
 \mm kàlan:n:lecture
-\va mɔ́ri.kalan
+\va mɔ́rikalan
 \mm mɔ́ri:n:marabout
 \mm kàlan:n:lecture
 \ps n
@@ -92208,18 +92232,18 @@ des engagements
 \ms 2
 \gvf école coranique
 \rem du
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mórikaramɔgɔden
 \mm móri:n:marabout
 \mm kàramɔgɔ:n:maître
-\mm mɔ̀gɔ:n:homme
+\mmm mɔ̀gɔ:n:homme
 \mm dén:n:enfant
 \ps n
 \gf apprenti.marabout
 \gvf apprenti marabout
 \so KT
-\dt 28/Feb/2017
+\dt 03/Apr/2019
 
 \lx mórikolo
 \mm móri:n:marabout
@@ -92233,7 +92257,7 @@ des engagements
 \lx móriya
 \mm móri:n:marabout
 \mm ya:mrph:ABSTR
-\va mɔ́ri.ya
+\va mɔ́riya
 \mm mɔ́ri:n:marabout
 \mm ya:mrph:ABSTR
 \ps n
@@ -92246,19 +92270,19 @@ des engagements
 \ms 3
 \gvf islam
 \gvf condition de musulman
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx móriyabaara
-\mm móri.ya:n:maraboutage
-\mm móri:n:marabout
-\mm ya:mrph:ABSTR
+\mm móriya:n:maraboutage
+\mmm móri:n:marabout
+\mmm ya:mrph:ABSTR
 \mm báara:n:travail
 \ps n
 \gf maraboutage
 \gvf maraboutage
 \xv Jɛ̀nɛ móri yé móriyabaara kɛ́ à yé
 \xf les marabouts de Jènè ont mis en oeuvre leur savoir en sa faveur ... (kb 3/05 p.2)
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mótɛri
 \va mótɛrɛ
@@ -92400,45 +92424,48 @@ des engagements
 \dt 16/Aug/2006
 
 \lx mɔ̀denbolo
-\mm mɔ̀:n:parent.2ème.génération
-\mm dén:n:enfant
+\mm mɔ̀den:n:petit-fils
+\mmm mɔ̀:n:parent.2ème.génération
+\mmm dén:n:enfant
 \mm bólo:n:branche
 \ps n
 \gf petits-enfants
 \gvf petits-enfants
 \xv yàn mɔ̀denbolo, àni Fàlajɛ mɔ̀denbolo àni Dában mɔ̀denbolo, ò bɛ́ɛ yé mɔ̀denbolo kélen yé
 \rem f
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mɔ̀denkɛ
-\mm mɔ̀.den:n:petit-fils
-\mm mɔ̀:n:parent.2ème.génération
-\mm dén:n:enfant
+\mm mɔ̀den:n:petit-fils
+\mmm mɔ̀:n:parent.2ème.génération
+\mmm dén:n:enfant
 \mm kɛ:adj:mâle
 \ps n
 \gf petit-fils
 \gvf petit-fils
+\dt 03/Apr/2019
 
 \lx mɔ̀denmuso
-\mm mɔ̀.den:n:petit-fils
-\mm mɔ̀:n:parent.2ème.génération
-\mm dén:n:enfant
+\mm mɔ̀den:n:petit-fils
+\mmm mɔ̀:n:parent.2ème.génération
+\mmm dén:n:enfant
 \mm mùso:adj:femme
 \ps n
 \gf petite-fille
 \gvf petite-fille
+\dt 03/Apr/2019
 
 \lx mɔ̀denya
-\mm mɔ̀.den:n:petit-fils
-\mm mɔ̀:n:parent.2ème.génération
-\mm dén:n:enfant
+\mm mɔ̀den:n:petit-fils
+\mmm mɔ̀:n:parent.2ème.génération
+\mmm dén:n:enfant
 \mm ya:mrph:ABSTR
 \ps n
 \gf condition.de.petit-fils
 \gvf condition de petit-fils
 \gvf condition de petite-fille
 \smf (et ses privilèges ...)
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀duman
 \mm mɔ̀:n:croissance
@@ -92480,14 +92507,14 @@ des engagements
 \lx mɔ̀gɔba
 \mm mɔ̀gɔ:n:homme
 \mm ba:mrph:AUGM
-\va màa.ba
+\va màaba
 \mm màa:n:homme
 \mm ba:mrph:AUGM
 \ps n
 \gf personne.importante
 \gvf personne importante
 \gvf personnalité
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔbaya
 \mm mɔ̀gɔba:n:personne.importante
@@ -92503,7 +92530,7 @@ des engagements
 \gf respectable
 \gvf respectable
 \gvf condition d'une personne respectée
-\dt 02/Apr/2019
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔdolo
 \mm mɔ̀gɔ:n:homme
@@ -92520,26 +92547,26 @@ des engagements
 \lx mɔ̀gɔdun
 \mm mɔ̀gɔ:n:homme
 \mm dún:v:manger
-\va màa.dun
+\va màadun
 \mm màa:n:homme
 \mm dún:v:manger
 \ps n
 \gf cannibale
 \gvf cannibale
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔdunna
 \mm mɔ̀gɔ:n:homme
 \mm dún:v:manger
 \mm na:mrph:AG.PRM
-\va màa.dun.na
+\va màadunna
 \mm màa:n:homme
 \mm dún:v:manger
 \mm na:mrph:AG.PRM
 \ps n
 \gf cannibalisme
 \gvf cannibalisme
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔfaga
 \mm mɔ̀gɔ:n:homme
@@ -92555,36 +92582,36 @@ des engagements
 \mm mɔ̀gɔ:n:homme
 \mm fàga:v:tuer
 \mm la:mrph:AG.PRM
-\va màa.faa.la
+\va màafaala
 \mm màa:n:homme
 \mm fàa:v:tuer
 \mm la:mrph:AG.PRM
 \ps n
 \gf assassin
 \gvf assassin
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔfagali
 \mm mɔ̀gɔ:n:homme
 \mm fàga:v:tuer
 \mm li:mrph:NMLZ
-\va màa.faa.li
+\va màafaali
 \mm màa:n:homme
 \mm fàa:v:tuer
 \mm li:mrph:NMLZ
 \ps n
 \gf meurtre
 \gvf meurtre
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔjɛ
 \mm mɔ̀gɔ:n:homme
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf homme.blanc
 \gvf homme blanc
 \sy fàrajɛ
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔjiri
 \mm mɔ̀gɔ:n:homme
@@ -92635,49 +92662,49 @@ des engagements
 \mm mɔ̀gɔ:n:homme
 \mm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
-\va màa.kɔrɔ.ba
+\va màakɔrɔba
 \mm màa:n:homme
 \mm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
 \ps n
 \gf vieux
 \gvf vieux
-\dt 27/Jan/2018
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔkɔrɔbaya
-\mm mɔ̀gɔ.kɔrɔ.ba:n:vieux
-\mm mɔ̀gɔ:n:homme
-\mm kɔ̀rɔ:adj:vieux
-\mm ba:mrph:AUGM
+\mm mɔ̀gɔkɔrɔba:n:vieux
+\mmm mɔ̀gɔ:n:homme
+\mmm kɔ̀rɔ:adj:vieux
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
-\va màa.kɔrɔ.ba.ya
-\mm màa.kɔrɔ.ba:n:vieux
-\mm màa:n:homme
-\mm kɔ̀rɔ:adj:vieux
-\mm ba:mrph:AUGM
+\va màakɔrɔbaya
+\mm màakɔrɔba:n:vieux
+\mmm màa:n:homme
+\mmm kɔ̀rɔ:adj:vieux
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf vieillesse
 \gvf vieillesse
-\dt 27/Jan/2018
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔlandi
 \mm mɔ̀gɔ:n:homme
 \mm landi:adj:qui.aime
-\va màa.landi
+\va màalandi
 \mm màa:n:homme
 \mm landi:adj:qui.aime
 \ps adj/n
 \gf philanthrope
 \gvf philanthrope
 \gvf personne bienveillante
-\dt 05/Apr/2015
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔlandiya
 \mm mɔ̀gɔ:n:humain
 \mm landi:adj:qui.aime
 \mm ya:mrph:ABSTR
-\va màa.landi.ya
+\va màalandiya
 \mm màa:n:humain
 \mm landi:adj:qui.aime
 \mm ya:mrph:ABSTR
@@ -92688,13 +92715,13 @@ des engagements
 \gvf se montrer aimable
 \xv à yé  fálatɔ màalandiya
 \xf il a bien traité l'orphelin
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔlandiya
 \mm mɔ̀gɔ:n:humain
 \mm landi:adj:qui.aime
 \mm ya:mrph:ABSTR
-\va màa.landi.ya
+\va màalandiya
 \mm màa:n:humain
 \mm landi:adj:qui.aime
 \mm ya:mrph:ABSTR
@@ -92702,17 +92729,17 @@ des engagements
 \gf philanthropie
 \gvf philanthropie
 \gvf bienveillance
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔlango
 \mm mɔ̀gɔ:n:homme
 \mm lan:mrph:dans
 \mm gó:vq:désagréable
-\va màa.lan.go
+\va màalango
 \mm màa:n:homme
 \mm lan:mrph:dans
 \mm gó:vq:désagréable
-\va màa.nan.go
+\va màanango
 \mm màa:n:homme
 \mm nan:mrph:dans
 \mm gó:vq:désagréable
@@ -92720,48 +92747,35 @@ des engagements
 \gf misanthrope
 \gvf misanthrope
 \gvf insociable
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔlangoya
-\mm mɔ̀gɔ.lan.go:adj/n:misanthrope
-\mm mɔ̀gɔ:n:homme
-\mm lan:mrph:dans
-\mm gó:vq:désagréable
+\mm mɔ̀gɔlango:adj:misanthrope
+\mmm mɔ̀gɔ:n:homme
+\mmm lan:mrph:dans
+\mmm gó:vq:désagréable
 \mm ya:mrph:DEQU
-\va màa.nan.go.ya
-\mm màa.nan.go:adj/n:misanthrope
-\mm màa:n:homme
-\mm nan:mrph:dans
-\mm gó:vq:désagréable
+\va màanangoya
+\mm màanango:n:misanthrope
+\mmm màa:n:homme
+\mmm nan:mrph:dans
+\mmm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \ps n
 \gf insociabilité
 \gvf insociabilité
 \gvf misanthropie
-\dt 26/Sep/2006
-
-\lx mɔ̀gɔ.ma
-\mm mɔ̀gɔ:n:homme
-\mm ma:mrph:COM
-\va màama
-\mm màa:n:homme
-\mm ma:mrph:COM
-\ps adj
-\gf lieu.habité
-\gvf lieu habité
-\smf (par les hommes)
-\dt 02/Apr/2019
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔmayɔrɔ
-\mm mɔ̀gɔ.ma:adj:lieu.habité
-\mm mɔ̀gɔ:n:homme
-\mm ma:mrph:COM
+\mmm mɔ̀gɔ:n:homme
+\mmm ma:mrph:COM
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf pays.habité
 \gvf pays habité
 \rem ex 16,, 35
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mɔ́gɔmɔgɔ
 \ps v
@@ -92780,7 +92794,7 @@ des engagements
 \lx mɔ̀gɔnin
 \mm mɔ̀gɔ:n:homme
 \mm nin:mrph:DIM
-\va màa.nin
+\va màanin
 \mm màa:n:homme
 \mm nin:mrph:DIM
 \ps n
@@ -92794,16 +92808,16 @@ des engagements
 \ms 3
 \gvf statuette
 \gvf poupée
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔninfin
 \mm mɔ̀gɔ:n:homme
 \mm nin:mrph:DIM
-\mm fìn:vq/adj:noir
-\va màa.nin.fin
+\mm fìn:adj:noir
+\va màaninfin
 \mm màa:n:homme
 \mm nin:mrph:DIM
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \ms 1
 \gf homme
@@ -92814,19 +92828,19 @@ des engagements
 \ms 2
 \gvf homme de race noire
 \fq (rare)
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔninfinya
-\mm mɔ̀gɔ.nin.fin:n:homme
-\mm mɔ̀gɔ:n:homme
-\mm nin:mrph:DIM
-\mm fìn:vq/adj:noir
+\mm mɔ̀gɔninfin:n:homme
+\mmm mɔ̀gɔ:n:homme
+\mmm nin:mrph:DIM
+\mmm fìn:adj:noir
 \mm ya:mrph:ABSTR
-\va màa.nin.fin.ya
-\mm màa.nin.fin:n:homme
-\mm màa:n:homme
-\mm nin:mrph:DIM
-\mm fìn:vq/adj:noir
+\va màaninfinya
+\mm màaninfin:n:homme
+\mmm màa:n:homme
+\mmm nin:mrph:DIM
+\mmm fìn:adj:noir
 \mm ya:mrph:ABSTR
 \ps n
 \gf humanité
@@ -92839,7 +92853,7 @@ des engagements
 homme
 \sy mɔ̀gɔya
 \sy ádamadenya
-\dt 04/Apr/2016
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔntan
 \mm mɔ̀gɔ:n:homme
@@ -92864,10 +92878,10 @@ homme
 \dt 11/Nov/2007
 
 \lx mɔ̀gɔɲɛnatɔ
-\mm mɔ̀gɔ.ɲɛ.na:n:fanfaronnade
-\mm mɔ̀gɔ:n:homme
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mm mɔ̀gɔɲɛna:n:fanfaronnade
+\mmm mɔ̀gɔ:n:homme
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm tɔ:mrph:ST
 \ps adj/n
 \ms 1
@@ -92878,7 +92892,7 @@ homme
 \smf (qui fait des manières quand on le regarde, devant les étrangers)
 \xv mɔ̀gɔɲɛna b'á lá, mɔ̀gɔɲɛnatɔ dòn
 \rem f
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔɲɔgɔn
 \mm mɔ̀gɔ:n:homme
@@ -92891,7 +92905,7 @@ homme
 \gvf prochain
 \smf (ton semblable (frère humain), autrui)
 \rem f 81
-\dt 23/Feb/2017
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔsɛbɛ
 \mm mɔ̀gɔ:n:homme
@@ -92917,7 +92931,7 @@ homme
 \ps n
 \gf honnêteté
 \gvf honnêteté
-\dt 02/Apr/2019
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔsogoɲimi
 \mm mɔ̀gɔ:n:homme
@@ -92944,7 +92958,7 @@ homme
 \lx mɔ̀gɔya
 \mm mɔ̀gɔ:n:homme
 \mm ya:mrph:ABSTR
-\va màa.ya
+\va màaya
 \mm màa:n:homme
 \mm ya:mrph:ABSTR
 \ps n
@@ -92966,7 +92980,7 @@ homme
 \gvf serviabilité
 \xv dá tɛ́  mɔ̀gɔya tùgu, sèn bɛ́  mɔ̀gɔya tùgu : (pró)
 \xf ce n'est pas la bouche qui relie les hommes, mais le pied (les actes unissent plus que les bonnes paroles)
-\dt 01/May/2014
+\dt 03/Apr/2019
 
 \lx mɔ̀gɔya
 \mm mɔ̀gɔ:n:homme
@@ -92978,20 +92992,20 @@ homme
 \dt 06/Mar/2019
 
 \lx mɔ̀gɔyajɛ
-\mm mɔ̀gɔ.ya:n:humanité
-\mm mɔ̀gɔ:n:homme
-\mm ya:mrph:ABSTR
+\mm mɔ̀gɔya:n:humanité
+\mmm mɔ̀gɔ:n:homme
+\mmm ya:mrph:ABSTR
 \mm jɛ̀:n:assemblée
 \va màayajɛ
-\mm màa.ya:n:humanité
-\mm mɔ̀gɔ:n:homme
-\mm ya:mrph:ABSTR
+\mm màaya:n:humanité
+\mmm mɔ̀gɔ:n:homme
+\mmm ya:mrph:ABSTR
 \mm jɛ̀:n:assemblée
 \ps n
 \gf organisation.sociale
 \gvf organisation sociale
 \gvf culture
-\dt 08/Dec/2018
+\dt 03/Apr/2019
 
 \lx mɔ̀kɛ
 \mm mɔ̀:n:parent.2ème.génération
@@ -93002,13 +93016,14 @@ homme
 
 \lx mɔ̀kundama
 \mm mɔ̀:v:mûrir
-\mm kùn:n:tête
-\mm dàma:n:limite
+\mm kùndama:n:taille
+\mmm kùn:n:tête
+\mmm dàma:n:limite
 \ps n
 \gf taille
 \gvf taille
 \gvf hauteur
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mɔ́lɔnkɔtɔn
 \ps v
@@ -93118,7 +93133,7 @@ cause
 \lx mɔ́nɛtɔ
 \mm mɔ́nɛ:n:rancoeur
 \mm tɔ:mrph:ST
-\va múnɛ.tɔ
+\va múnɛtɔ
 \mm múnɛ:n:rancoeur
 \mm tɔ:mrph:ST
 \ve (bn; bk)
@@ -93128,7 +93143,7 @@ cause
 \gvf plein de rancune
 \gvf plein d'esprit de vengeance
 \rem f
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mɔ̀ni
 \ps n
@@ -93382,16 +93397,17 @@ cause
 
 \lx mɔ́rɔnjɛ
 \mm mɔ́rɔn:n:terre.blanche
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ve (bk,bn)
 \va bɔ́rɔn.jɛ
 \mm bɔ́rɔn:n:terre.blanche
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ve (f)
 \ps n
 \gf terre.blanche
 \gvf terre blanche
 \smf (l'argile rouge subit des transformations chimiques, quand elle est  longtemps imprégnée d'eau, elle devient blanche)
+\dt 03/Apr/2019
 
 \lx mɔ́rɔɲɔmɔrɔɲɔ
 \ps adv
@@ -93673,11 +93689,11 @@ pour les jardins)
 
 \lx mùgufin
 \mm mùgu:n:poisson.Synodontis.filamentosus
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf poisson.Synodontis.courteti
 \gvf poisson Synodontis courteti
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx múgufyɛ
 \mm múgu:n:poudre
@@ -93817,7 +93833,7 @@ pour les jardins)
 \mm mùluku:v:paralyser
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va mùluku.baga.tɔ
+\va mùlukubagatɔ
 \mm mùluku:v:paralyser
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -93825,7 +93841,7 @@ pour les jardins)
 \gf harassé.de.fatigue
 \gvf harassé de fatigue
 \gvf paralysé
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mùlukumalaka
 \ps v
@@ -94007,6 +94023,8 @@ pour les jardins)
 \mm múnu:v:tourner
 \mm múnu:v:tourner
 \va múnunmunun
+\mm múnun:v:tourner
+\mm múnun:v:tourner
 \ps v
 \vl vt
 \gf faire.tourner
@@ -94014,18 +94032,20 @@ pour les jardins)
 \gvf faire des détours
 \xv án kà  án hákili múnu-múnu dɔ́ɔnin !
 \xf réfléchissons un peu !
-\dt 23/Dec/2014
+\dt 03/Apr/2019
 
 \lx múnumunu
 \mm múnu:v:tourner
 \mm múnu:v:tourner
 \va múnunmunun
+\mm múnu:v:tourner
+\mm múnu:v:tourner
 \ps n
 \gf tournoiement
 \gvf tournoiement
 \gvf mouvement circulaire
 \gvf agitation
-\dt 23/Dec/2014
+\dt 03/Apr/2019
 
 \lx múnunan
 \mm múnu:v:tourner
@@ -94109,7 +94129,7 @@ pour les jardins)
 \lx mùɲubaa
 \mm mùɲu:v:supporter
 \mm baa:mrph:AG.OCC
-\va mùɲu.baga
+\va mùɲubaga
 \mm mùɲu:v:supporter
 \mm baga:mrph:AG.OCC
 \ps n
@@ -94117,7 +94137,7 @@ pour les jardins)
 \gvf patient
 \xv mùɲubaa bɛ́  sí bɔ́ syɛ̀fan ná
 \xf (prov)celui qui patiente fait sortir des plumes d'un oeuf de poule
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mùɲubali
 \mm mùɲu:v:supporter
@@ -94204,14 +94224,14 @@ pour les jardins)
 
 \lx mùrudacɛnnan
 \mm mùru:n:couteau
-\mm dá.cɛ̀n:v:aiguiser
-\mm dá:n:bouche
-\mm cɛ̀n:v:moudre
+\mm dácɛ̀n:v:aiguiser
+\mmm dá:n:bouche
+\mmm cɛ̀n:v:moudre
 \mm nan:mrph:INSTR
 \ps n
 \gf pierre.à.aiguiser
 \gvf pierre à aiguiser
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx múrufe
 \va múrufɛ
@@ -94244,7 +94264,7 @@ pour les jardins)
 \ps n
 \gf balance.romaine
 \gvf balance romaine
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mùrujan
 \mm mùru:n:couteau
@@ -94429,14 +94449,14 @@ pour les jardins)
 
 \lx mùsocamanfuru
 \mm mùso:n:femme
-\mm cá.man:adj:nombreux
-\mm cá:vq:nombreux
-\mm man:mrph:ADJ
+\mm cáman:adj:nombreux
+\mmm cá:vq:nombreux
+\mmm man:mrph:ADJ
 \mm fúru:v:épouser
 \ps n
 \gf polygamie
 \gvf polygamie
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mùsocɛ
 \mm mùso:n:femme
@@ -94480,7 +94500,7 @@ pour les jardins)
 \lx mùsogana
 \mm mùso:n:femme
 \mm gána:adj:célibataire
-\va mùso.gwana
+\va mùsogwana
 \mm mùso:n:femme
 \mm gwána:adj:célibataire
 \ph [gw]
@@ -94488,24 +94508,24 @@ pour les jardins)
 \gf vieille.fille
 \gvf vieille fille
 \gvf femme célibataire
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mùsoganaya
-\mm mùso.gana:n:vieille.fille
-\mm mùso:n:femme
-\mm gána:adj:célibataire
+\mm mùsogana:n:vieille.fille
+\mmm mùso:n:femme
+\mmm gána:adj:célibataire
 \mm ya:mrph:ABSTR
-\va mùso.gwana.ya
-\mm mùso.gwana:n:vieille.fille
-\mm mùso:n:femme
-\mm gwána:adj:célibataire
+\va mùsogwanaya
+\mm mùsogwana:n:vieille.fille
+\mmm mùso:n:femme
+\mmm gwána:adj:célibataire
 \mm ya:mrph:ABSTR
 \ph [gw]
 \ps n
 \gf célibat
 \gvf célibat
 \smf (pour une femme)
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mùsojiginna
 \mm mùso:n:femme
@@ -94595,26 +94615,26 @@ pour les jardins)
 
 \lx mùsokɔrɔ
 \mm mùso:n:femme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf vieille.femme
 \gvf vieille femme
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mùsokɔrɔba
-\mm mùso.kɔrɔ:n:vieille.femme
+\mm mùsokɔrɔ:n:vieille.femme
 \mmm mùso:n:femme
-\mmm kɔ̀rɔ:vq/adj:vieux
+\mmm kɔ̀rɔ:adj:vieux
 \mm ba:mrph:AUGM
 \ps n
 \gf vieille.femme
 \gvf vieille femme
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mùsokɔrɔnin
-\mm mùso.kɔrɔ:n:vieille.femme
-\mm mùso:n:femme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm mùsokɔrɔ:n:vieille.femme
+\mmm mùso:n:femme
+\mmm kɔ̀rɔ:adj:vieux
 \mm nin:mrph:DIM
 \ps n
 \ms 1
@@ -94623,7 +94643,7 @@ pour les jardins)
 \ms 2
 \gvf rosette
 \smf (maladie des arachides)
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mùsokun
 \mm mùso:n:femme
@@ -94706,23 +94726,23 @@ pour les jardins)
 \smf (opposé à garçon, fils)
 
 \lx mùsomannin
-\mm mùso.man:adj:féminin
-\mm mùso:n:femme
-\mm man:mrph:ADJ
+\mm mùsoman:adj:féminin
+\mmm mùso:n:femme
+\mmm man:mrph:ADJ
 \mm nin:mrph:DIM
 \ps n
 \gf jeune.fille
 \gvf jeune fille
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mùsomisɛn
 \mm mùso:n:femme
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ps n
 \gf jeune.femme.mariée
 \gvf jeune femme mariée
 \smf (en âge de procréer)
-\dt 16/Aug/2006
+\dt 03/Apr/2019
 
 \lx mùsonsana
 \mm mùso:n:femme
@@ -94747,9 +94767,9 @@ pour les jardins)
 \dt 26/Sep/2006
 
 \lx mùsontanya
-\mm mùso.ntan:adj:célibataire
-\mm mùso:n:femme
-\mm ntan:mrph:PRIV
+\mm mùsontan:adj:célibataire
+\mmm mùso:n:femme
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -94760,18 +94780,19 @@ pour les jardins)
 \gvf veuvage
 \smf (de l'homme)
 \rem Jos, bk
-\dt 11/Nov/2007
+\dt 03/Apr/2019
 
 \lx mùsontanya
-\mm mùso:n:femme
-\mm ntan:mrph:PRIV
+\mm mùsontan:adj:célibataire
+\mmm mùso:n:femme
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf rendre.veuf
 \gvf rendre veuf
 \gvf priver de femme
-\dt 26/Sep/2006
+\dt 03/Apr/2019
 
 \lx mùsoselijila
 \mm mùso:n:femme
