@@ -27767,7 +27767,6 @@ chefs religieux et représentants de l'administration
 \mm dí:vq:agréable
 \mm ya:mrph:DEQU
 \va já
-\ph [dya-->ja]
 \ps n
 \ms 1
 \gf bon.goût
@@ -27785,7 +27784,7 @@ chefs religieux et représentants de l'administration
 \gvf réussite
 \ms 5
 \gvf entrain
-\dt 11/Feb/2019
+\dt 04/Apr/2019
 
 \lx díya
 \mm dí:vq:agréable
@@ -27820,7 +27819,7 @@ chefs religieux et représentants de l'administration
 \gvf jouer avec ardeur
 \xv ù yé  fɔ́li díya
 \xf ils ont joué avec plus d'ardeur
-\dt 25/Mar/2019
+\dt 04/Apr/2019
 
 \lx díyabaatɔ
 \mm dí.ya:v:rendre.agréable
@@ -29165,11 +29164,12 @@ chefs religieux et représentants de l'administration
 \va ndóolen
 \va dólen
 \va ndólen
+\va dɔ́len
 \ps n
 \gf hameçon
 \gvf hameçon
 \gvf ligne
-\dt 14/Jun/2018
+\dt 04/Apr/2019
 
 \lx dóoli
 \ps n
@@ -94797,15 +94797,15 @@ pour les jardins)
 \lx mùsoselijila
 \mm mùso:n:femme
 \mm séliji:v:circoncire
-\mm séli:v:prier
-\mm jí:n:eau
+\mmm séli:v:prier
+\mmm jí:n:eau
 \mm la:mrph:AG.PRM
 \ps n
 \gf exciseuse
 \gvf exciseuse
 \xv kàrisa yé mùsoselijila yé, màliden dòn fána
 \xf Une telle est exciseuse, malienne de plus  (kb 1/05 p.7)
-\dt 16/Mar/2018
+\dt 04/Apr/2019
 
 \lx mùsosintaki
 \mm mùso:n:femme
@@ -94834,15 +94834,15 @@ pour les jardins)
 \dt 16/Aug/2006
 
 \lx mùsotigiya
-\mm mùso.tigi:n:marié
-\mm mùso:n:femme
-\mm tìgi:n:maître
+\mm mùsotigi:n:marié
+\mmm mùso:n:femme
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \gf devenir.époux
 \gvf devenir époux
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx mùsowaa
 \mm mùso:n:femme
@@ -95129,25 +95129,25 @@ pour les jardins)
 \dt 12/Dec/2014
 
 \lx náafigiya
-\mm náafigi:adj/n:rapporteur
+\mm náafigi:n:rapporteur
 \mm ya:mrph:ABSTR
 \ps n
 \gf indiscrétion
 \gvf indiscrétion
 \gvf rapportage
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nàakɔrɔladimi
-\mm nàa.kɔrɔ.la:n:bas-ventre
-\mm nàa:n:ventre
-\mm kɔ́rɔ:n:dessous
-\mm la:mrph:LOC
+\mm nàakɔrɔla:n:bas-ventre
+\mmm nàa:n:ventre
+\mmm kɔ́rɔ:n:dessous
+\mmm la:mrph:LOC
 \mm dími:n:souffrance
 \ps n
 \gf douleur.pelvienne
 \gvf douleur pelvienne
 \rem jakité : avec dysurie ou leucorrhée
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx náalo
 \va náalon
@@ -95173,7 +95173,7 @@ pour les jardins)
 \dt 26/Sep/2006
 
 \lx náamiden
-\mm náami:adj/n:gourmand
+\mm náami:n:gourmand
 \mm dén:n:enfant
 \ps n
 \ms 1
@@ -95183,7 +95183,7 @@ pour les jardins)
 \gvf pique-assiette
 \gvf courtisan
 \gvf béni-oui-oui
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nàamù
 \bw ar: na`am = id.
@@ -95231,13 +95231,14 @@ pour les jardins)
 
 \lx nàamunaminɛna
 \mm nàamu:intj:oui
-\mm ná:mrph:CAUS
-\mm mìnɛ:v:attraper
+\mm námìnɛ:v:maintenir
+\mmm ná:mrph:CAUS
+\mmm mìnɛ:v:attraper
 \mm na:mrph:AG.PRM
 \ps n
 \gf répondant.du.conteur
 \gvf répondant du conteur
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx náanagalen
 \va nánagalen
@@ -95372,23 +95373,26 @@ pour les jardins)
 
 \lx nádiyafɛn
 \mm ná:n:sauce
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm fɛ́n:n:chose
 \ps n
 \gf condiment
 \gvf condiment
 \rem du, jos
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nádiyalan
 \mm ná:n:sauce
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm lan:mrph:INSTR
 \ps n
 \gf condiments
 \gvf condiments
+\dt 04/Apr/2019
 
 \lx nàfa
 \bw ar: naf` = profit
@@ -95434,15 +95438,15 @@ pour les jardins)
 \dt 08/Mar/2018
 
 \lx nàfamaya
-\mm nàfa.ma:adj:profitable
-\mm nàfa:n:profit
-\mm ma:mrph:COM
+\mm nàfama:adj:profitable
+\mmm nàfa:n:profit
+\mmm ma:mrph:COM
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf rendre.profitable
 \gvf rendre profitable
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nàfantan
 \mm nàfa:n:profit
@@ -95454,8 +95458,9 @@ pour les jardins)
 \dt 26/Sep/2006
 
 \lx nàfantanya
-\mm nàfa:n:profit
-\mm ntan:mrph:PRIV
+\mm nàfantan:adj:sans.profit
+\mmm nàfa:n:profit
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -95463,7 +95468,7 @@ pour les jardins)
 \gvf rendre sans profit
 \xv ní bálokodɛsɛ bɛ́ bágan fàga kà dùgukolo nàfantanya, án kɛ́wale júgu sèn b'o la
 \xf si le manque de nourriture tue le bétail et rend la terre sans profit, nos mauvaises actions y ont leur part (kb 2/06 p.7)
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nàfasɔrɔsira
 \mm nàfa:n:profit
@@ -95544,8 +95549,9 @@ pour les jardins)
 \dt 26/Sep/2006
 
 \lx nàfolotigiya
-\mm nàfolo:n:biens
-\mm tìgi:n:maître
+\mm nàfolotigi:n:riche
+\mmm nàfolo:n:biens
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf richesse
@@ -95554,18 +95560,18 @@ pour les jardins)
 \xv à lá nàfolotigiya hákɛ tɛ̀mɛna kójugu  / kà nàfolotigiya kɛ́
 \xf le montant de sa fortune est par trop grand / devenir propriétaire
 \rem l 89 : possession de richesses
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nàfolotigiya
-\mm nàfolo.tigi:n:riche
-\mm nàfolo:n:biens
-\mm tìgi:n:maître
+\mm nàfolotigi:n:riche
+\mmm nàfolo:n:biens
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf rendre.riche
 \gvf rendre riche
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nàga
 \va nàa
@@ -95656,26 +95662,26 @@ pour les jardins)
 \dt 12/Aug/2006
 
 \lx nájima
-\mm ná.ji:n:sauce
-\mm ná:n:sauce
-\mm jí:n:eau
+\mm náji:n:sauce
+\mmm ná:n:sauce
+\mmm jí:n:eau
 \mm ma:mrph:COM
 \ps adj
 \gf pourvu.de.sauce
 \gvf pourvu de sauce
 \smf (de viande ou de poisson)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nájinin
-\mm ná.ji:n:sauce
-\mm ná:n:sauce
-\mm jí:n:eau
+\mm náji:n:sauce
+\mmm ná:n:sauce
+\mmm jí:n:eau
 \mm nin:mrph:DIM
 \ps n
 \gf cube.maggi
 \gvf cube maggi
 \gvf cube pour la sauce
-\dt 27/Apr/2014
+\dt 04/Apr/2019
 
 \lx nàkan
 \mm nà:n:venue
@@ -95689,26 +95695,26 @@ pour les jardins)
 \dt 14/Aug/2017
 
 \lx nàkanma
-\mm nà.kan:n:destinée
-\mm nà:n:venue
-\mm kán:n:cou
+\mm nàkan:n:destinée
+\mmm nà:n:venue
+\mmm kán:n:cou
 \mm ma:mrph:COM
 \ps adj
 \gf voué.à.un.heureux.destin
 \gvf voué à un heureux destin
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nàkantigi
-\mm nà.kan:n:destinée
-\mm nà:n:venue
-\mm kán:n:cou
+\mm nàkan:n:destinée
+\mmm nà:n:venue
+\mmm kán:n:cou
 \mm tìgi:n:maître
 \ps n
 \gf voué.à.un.heureux.destin
 \gvf voué à un heureux destin
 \sy dákantigi
 \sy nàkanma
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx náki
 \ps v
@@ -95801,15 +95807,15 @@ pour les jardins)
 \dt 22/Dec/2014
 
 \lx nálonmaya
-\mm nálon.ma:adj/n:sot
-\mm nálon:n:idiot
-\mm ma:mrph:COM
+\mm nálonma:adj:sot
+\mmm nálon:n:idiot
+\mmm ma:mrph:COM
 \mm ya:mrph:ABSTR
 \ps n
 \gf imbécillité
 \gvf imbécillité
 \gvf balourdise
-\dt 05/Apr/2016
+\dt 04/Apr/2019
 
 \lx nàma
 \ve (-bn)
@@ -95900,9 +95906,9 @@ qui revient en visite dans sa famille)
 \dt 16/Aug/2006
 
 \lx nàmakɔrɔba-lá-bálafɔ-npíri
-\mm nàma.kɔrɔ:n:hyène
-\mm nàma:n:hyène
-\mm kɔrɔ:adj:mâle.adulte
+\mm nàmakɔrɔ:n:hyène
+\mmm nàma:n:hyène
+\mmm kɔrɔ:adj:mâle.adulte
 \mm ba:mrph:AUGM
 \mm lá:pp:à
 \mm bála:n:balafon
@@ -95915,7 +95921,7 @@ qui revient en visite dans sa famille)
 \smf (plante.adventice (tige quadrangulaire pubescente, fleurs en glomérules axillaires))
 \cf nàmakɔrɔba-lá-dídaa-kála
 \sy sòsobankɛnɛsi
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx nàmakɔrɔba-lá-dídaa-kála
 \mm nàma.kɔrɔ:n:hyène
@@ -95959,7 +95965,7 @@ qui revient en visite dans sa famille)
 \mm námara:n:fraude
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
-\va nánbara.kɛ.la
+\va nánbarakɛla
 \mm nánbara:n:fraude
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
@@ -95967,7 +95973,7 @@ qui revient en visite dans sa famille)
 \gf malhonnête
 \gvf malhonnête
 \gvf escroc
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx námaranci
 \mm námara:n:fraude
@@ -96077,19 +96083,19 @@ qui revient en visite dans sa famille)
 \dt 11/Nov/2007
 
 \lx námugulama
-\mm ná.mugu:n:poudre
-\mm ná:n:sauce
-\mm múgu:n:poudre
+\mm námugu:n:poudre
+\mmm ná:n:sauce
+\mmm múgu:n:poudre
 \mm lama:mrph:STAT
 \ps adj
 \gf vert
 \gvf vert
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx námugulasa
-\mm ná.mugu:n:poudre
-\mm ná:n:sauce
-\mm múgu:n:poudre
+\mm námugu:n:poudre
+\mmm ná:n:sauce
+\mmm múgu:n:poudre
 \mm lá:pp:à
 \mm sà:n:serpent
 \ps n
@@ -96107,12 +96113,12 @@ qui revient en visite dans sa famille)
 \sy nɔ́gɔlanjuru
 \sy nwánanjuru
 \sy ɲùgujisa
-\dt 05/Apr/2016
+\dt 04/Apr/2019
 
 \lx námugulasogo
-\mm ná.mugu:n:poudre
-\mm ná:n:sauce
-\mm múgu:n:poudre
+\mm námugu:n:poudre
+\mmm ná:n:sauce
+\mmm múgu:n:poudre
 \mm lá:pp:à
 \mm sògo:n:viande
 \ps n
@@ -96122,7 +96128,7 @@ qui revient en visite dans sa famille)
 \gvf personne trop condescendante
 \ms 2
 \gvf personne d'humeur égale
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nan
 \ps num
@@ -96145,7 +96151,7 @@ qui revient en visite dans sa famille)
 
 \lx nànafinmannin
 \mm nàna:n:poisson.mormoridé
-\mm fìn:vq/adj:noir
+\mm fìn:vq:noir
 \mm man:mrph:ADJ
 \mm nin:mrph:DIM
 \ps n
@@ -96156,7 +96162,7 @@ qui revient en visite dans sa famille)
 \gvf poisson Marcusenius senegalensis ?
 \gvf poisson Marcusenius cyprinoides
 \smf (---> 33 cm, ---> 450 gr)
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nànamasumalen
 \mm nàna:n:don.gratuit
@@ -96259,15 +96265,15 @@ qui revient en visite dans sa famille)
 \dt 26/Sep/2006
 
 \lx nànkarabaya
-\mm nà.ń.káraba:adj/n:effronté
-\mm nà:v:venir
-\mm ń:pers:1SG
-\mm káraba:v:forcer
+\mm nàńkáraba:n:effronté
+\mmm nà:v:venir
+\mmm ń:pers:1SG
+\mmm káraba:v:forcer
 \mm ya:mrph:ABSTR
 \ps n
 \gf condition.d'aventurier
 \gvf condition d'aventurier
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nà-ń-kɛ́
 \mm nà:v:venir
@@ -96305,7 +96311,7 @@ qui revient en visite dans sa famille)
 \mm rɔ́:pp:IN
 \mm dén:n:enfant
 \ve (f)
-\va nà.n.kɔ.ra.den
+\va nànkɔraden
 \mm nà:v:venir
 \mm ń:pers:1SG
 \mm kɔ́:n:dos
@@ -96315,7 +96321,7 @@ qui revient en visite dans sa famille)
 \gf bâtard
 \gvf bâtard
 \smf (enfant né avant tout mariage)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nánɔgɔlan
 \mm ná:n:sauce
@@ -96588,7 +96594,7 @@ qui revient en visite dans sa famille)
 \dt 10/Mar/2018
 
 \lx nàtabaya
-\mm nàta.ba:n:avide
+\mm nàtaba:n:avide
 \mmm nàta:n:cupidité
 \mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
@@ -96596,7 +96602,7 @@ qui revient en visite dans sa famille)
 \gf cupidité
 \gvf cupidité
 \smf (désir.des.richesses, des honneurs)
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nátaliye
 \ps n
@@ -96678,25 +96684,27 @@ qui revient en visite dans sa famille)
 \mm ń:pers:1SG
 \mm bɛ:pm:IPFV.AFF
 \mm ń:pers:1SG
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ps n
 \gf jouissance
 \gvf jouissance
-\dt 07/Feb/2015
+\dt 04/Apr/2019
 
 \lx nbɛ́ndiyanci
-\mm n.bɛ́.n.di.ya:n:jouissance
-\mm ń:pers:1SG
-\mm bɛ:pm:IPFV.AFF
-\mm ń:pers:1SG
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm nbɛ́ndiya:n:jouissance
+\mmm ń:pers:1SG
+\mmm bɛ:pm:IPFV.AFF
+\mmm ń:pers:1SG
+\mmm díya:v:rendre.agréable
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
 \mm nci:mrph:AG.EX
 \ps n
 \gf fier.de.lui-même
 \gvf fier de lui-même
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nbɛ́rɛ
 \ps n
@@ -96714,15 +96722,15 @@ qui revient en visite dans sa famille)
 \dt 16/Aug/2006
 
 \lx nbòkunba
-\mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf poissons.Clarotes.macrocephalus
 \gvf poissons Clarotes macrocephalus
 \smf (---> 72 cm, ---> 11, 8 kg, assez large tête; carnassier vorace)
 \cf bòolo
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nbólonbalan
 \ps adv
@@ -96797,7 +96805,7 @@ qui revient en visite dans sa famille)
 \lx nbúrencɛ
 \mm nbúren:n:gardénia
 \mm cɛ̀:n:mâle
-\va nbrén.cɛ
+\va nbréncɛ
 \mm nbrén:n:gardénia
 \mm cɛ̀:n:mâle
 \ph [nbr]
@@ -96808,12 +96816,12 @@ qui revient en visite dans sa famille)
 \sd rubi
 \smf (arbuste ---> 5 m, fruits non comestibles, restant sur les rameaux)
 \sy búlencɛ
-\dt 03/Apr/2016
+\dt 04/Apr/2019
 
 \lx nbúrenmuso
 \mm nbúren:n:gardénia
 \mm mùso:adj:femme
-\va nbrén.muso
+\va nbrénmuso
 \mm nbrén:n:gardénia
 \mm mùso:adj:femme
 \ph [nbr]
@@ -96824,7 +96832,7 @@ qui revient en visite dans sa famille)
 \sd rubi
 \smf (arbuste ou gros buisson (fruits comestibles))
 \sy búlenmuso
-\dt 03/Apr/2016
+\dt 04/Apr/2019
 
 \lx nbyɛ́lɛ
 \va bɛ́ɛlɛ
@@ -96853,13 +96861,13 @@ qui revient en visite dans sa famille)
 
 \lx ncáfajɛ
 \mm ncáfa:n:arbre.Hexalobus.monopetalus
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf arbuste.Dombeya.multiflora
 \gvf arbuste Dombeya multiflora
 \sd ster
 \smf (feuilles pubescentes)
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx ncàngàra
 \a càngàra
@@ -96980,7 +96988,7 @@ qui revient en visite dans sa famille)
 \dt 28/Sep/2014
 
 \lx ncìbilennin
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \mm nin:mrph:DIM
 \ps n
 \ms 1
@@ -96993,7 +97001,7 @@ qui revient en visite dans sa famille)
 \gvf euplecte ignicolore
 \lat Euplectes.hordeaceus
 \smf (calotte rouge)
-\dt 05/Apr/2016
+\dt 04/Apr/2019
 
 \lx ncìcàndùgutigi
 \mm dùgu:n:terre
@@ -97014,13 +97022,14 @@ qui revient en visite dans sa famille)
 \dt 22/Nov/2016
 
 \lx ncíninkùnba
-\mm ncínin:vq/adj:petit
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm ncínin:adj:petit
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf têtard
 \gvf têtard
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ncó
 \ve (f)
@@ -97054,7 +97063,7 @@ qui revient en visite dans sa famille)
 \lx ncòkújɛ́
 \mm ncó:n:mangouste
 \mm kú:n:queue
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf mangouste
 \gvf mangouste
@@ -97064,7 +97073,7 @@ qui revient en visite dans sa famille)
 \sy ntàla
 \sy ncó
 \ve (f)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ncòna
 \ps adj/n
@@ -97411,15 +97420,15 @@ téter)
 \dt 16/Aug/2006
 
 \lx nègebɔnci
-\mm nège.bɔ:v:dégoûter
-\mm nège:n:désir
-\mm bɔ́:v:sortir
+\mm nègebɔ:v:dégoûter
+\mmm nège:n:désir
+\mmm bɔ́:v:sortir
 \mm nci:mrph:AG.EX
 \ps n
 \gf casse-pied
 \gvf casse-pied
 \gvf dégoûtant
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nègeji
 \mm nège:n:désir
@@ -97524,20 +97533,6 @@ petits enfants)
 \xv fúnu yé  nɛ̀ dòn
 \xf l'abcès a mûri (a fait du pus)
 \dt 16/Aug/2006
-
-\lx nɛ̀diya
-\mm nɛ̀:n:langue
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\va nɛ̀n.di.ya
-\mm nɛ̀n:n:langue
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\ps n
-\gf bagout
-\gvf bagout
-\smf (qualité ou défaut de qui parle facilement)
-\dt 26/Sep/2006
 
 \lx nɛ̀duman
 \mm nɛ̀:n:langue
@@ -98179,6 +98174,22 @@ petits enfants)
 \xf le cache-sexe "npogo" n'a qu'une bande
 \dt 20/Nov/2018
 
+\lx nɛ̀ndiya
+\mm nɛ̀n:n:langue
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\va nɛ̀diya
+\mm nɛ̀:n:langue
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\ps n
+\gf bagout
+\gvf bagout
+\smf (qualité ou défaut de qui parle facilement)
+\dt 04/Apr/2019
+
 \lx nɛ́nɛ
 \ps n
 \gf froid
@@ -98263,14 +98274,14 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \dt 19/Aug/2006
 
 \lx nɛ̀rɛmugulama
-\mm nɛ̀rɛ.mugu:n:pulpe.du.fruit.de.nèrè
-\mm nɛ̀rɛ:n:nèrè.de.Gambie
-\mm múgu:n:poudre
+\mm nɛ̀rɛmugu:n:pulpe.du.fruit.de.nèrè
+\mmm nɛ̀rɛ:n:nèrè.de.Gambie
+\mmm múgu:n:poudre
 \mm lama:mrph:STAT
 \ps adj
 \gf jaune
 \gvf jaune
-\dt 12/Aug/2006
+\dt 04/Apr/2019
 
 \lx nɛ̀rɛmugulen
 \mm nɛ̀rɛ:n:nèrè.de.Gambie
@@ -98284,14 +98295,14 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \dt 26/Sep/2006
 
 \lx nɛ̀rɛmuguma
-\mm nɛ̀rɛ.mugu:n:pulpe.du.fruit.de.nèrè
-\mm nɛ̀rɛ:n:nèrè.de.Gambie
-\mm múgu:n:poudre
+\mm nɛ̀rɛmugu:n:pulpe.du.fruit.de.nèrè
+\mmm nɛ̀rɛ:n:nèrè.de.Gambie
+\mmm múgu:n:poudre
 \mm ma:mrph:COM
 \ps adj
 \gf jaune
 \gvf jaune
-\dt 12/Aug/2006
+\dt 04/Apr/2019
 
 \lx nɛ̀rɛnin
 \mm nɛ̀rɛ:n:nèrè.de.Gambie
@@ -98348,13 +98359,13 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \dt 26/Sep/2006
 
 \lx nfónjɛ
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf serpent.Telescopus
 \gvf serpent Telescopus
 \smf (Tête large, bien distincte du cou, agressif, la coloration du corps les fait ressembler à la vipère 'bɛ̀lɛwɔ̀yɔ'.)
 \sy wòrofyɛn
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nfɔ́sɔn
 \va npɔ́sɔn
@@ -98366,13 +98377,13 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \smf (d'un tam-tam)
 \dt 16/Aug/2006
 
-\lx nfɔ́sɔnjúru
+\lx nfɔ́sɔnjuru
 \mm nfɔ́sɔn:n:sangle.de.tension
 \mm jùru:n:corde
-\va npɔ́sɔn.juru
+\va npɔ́sɔnjuru
 \mm npɔ́sɔn:n:sangle.de.tension
 \mm jùru:n:corde
-\va mɔ́sɔn.juru
+\va mɔ́sɔnjuru
 \mm mɔ́sɔn:n:sangle.de.tension
 \mm jùru:n:corde
 \ve (bk)
@@ -98380,17 +98391,17 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \gf sangle.de.tension
 \gvf sangle de tension
 \smf (d'un tam-tam)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nfúganìnjɛ́
 \mm nin:mrph:DIM
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf arbre.Hexalobus.monopetalus
 \gvf arbre Hexalobus monopetalus
 \sd anno
 \sy ncáfa
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx nfyé
 \va npíyen
@@ -98671,7 +98682,7 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \dt 19/Aug/2006
 
 \lx ngòlo-bòli-kà-bìn
-\mm ngòlo:n:Ngolo
+\mm ngòlo:n.prop:NOM.M
 \mm bòli:v:courir
 \mm kà:pm:INF
 \mm bìn:v:tomber
@@ -98686,7 +98697,7 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \lat Burhinus.capensis
 \smf (souvent confondu avec le précédent, habitat : plaines arides, 'fuga')
 \sy ŋòlokunba
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ngóloki
 \ps n
@@ -98723,13 +98734,13 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 
 \lx ngónìnjɛ́
 \mm nin:mrph:DIM
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf poisson.Synodontis.clarias
 \gvf poisson Synodontis clarias
 \smf (nageoire caudale rouge ; ---> 1,1 kg,  31cm)
 \sy bákɔnkɔn
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx ngòolo
 \ps n
@@ -98993,7 +99004,7 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \mm jɛ́:adj:blanc
 \va nkùnanjɛ
 \mm jɛ́:adj:blanc
-\va nkóna.jɛ
+\va nkónajɛ
 \mm jɛ́:adj:blanc
 \ps n
 \gf héron.garde-boeuf
@@ -99002,7 +99013,7 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \gvf aigrette garzette
 \lat Egretta garzetta
 \smf (petit héron, à distance paraît tout blanc, grégaire, lié à la présence du bétail)
-\dt 30/Sep/2018
+\dt 04/Apr/2019
 
 \lx ngùre
 \va nkùre
@@ -99139,19 +99150,19 @@ est "Ɲele" ...
 \lx nídɔngɔ
 \mm ní:n:âme
 \mm dɔ̀ngɔ:n:volonté
-\va ní.dɔgɔn
+\va nídɔgɔn
 \mm ní:n:âme
 \mm dɔ̀gɔn:n:volonté
 \ve (f,bk)
 \va nídungɔ
 \mm ní:n:âme
 \mm dùngɔ:n:volonté
-\sy díyanye
 \ps n
 \ms 1
 \gf plaisir
 \gvf plaisir
 \smf (ce qui plaît personnellement à ...)
+\sy díyanye
 \xv né nídɔngɔ yé  báara yé
 \xf ce que j'aime, c'est le travail
 \ms 2
@@ -99163,7 +99174,7 @@ est "Ɲele" ...
 \gvf coeur
 \gvf volonté
 \gvf passion
-\dt 17/Apr/2016
+\dt 04/Apr/2019
 
 \lx nìfana
 \mm nì:n:part
@@ -99186,7 +99197,7 @@ est "Ɲele" ...
 
 \lx nígɛlɛn
 \mm ní:n:âme
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:dur
 \ps n
 \ms 1
 \gf résistant
@@ -99196,12 +99207,13 @@ est "Ɲele" ...
 \gvf impitoyable
 \xv sòlo ní jàkuma ní ká gɛ̀lɛn / fàrafin ní ká gɛ̀lɛn tìle bólo
 \rem des affamés, des malades
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nígɛlɛya
 \mm ní:n:âme
-\mm gɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:DEQU
+\mm gɛ̀lɛya:n:dureté
+\mmm gɛ̀lɛ:vq:dur
+\mmm ya:mrph:DEQU
 \ps n
 \ms 1
 \gf résistance
@@ -99211,7 +99223,7 @@ est "Ɲele" ...
 \gvf fureur
 \xv Í yé nígɛlɛya kɛ́ né lá,
 \xf tu es devenu cruel à mon égard (Job 30, 21)
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nìgiri
 \ps n
@@ -99268,23 +99280,24 @@ est "Ɲele" ...
 
 \lx níjugu
 \mm ní:n:âme
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj/n
 \gf violent
 \gvf violent
 \gvf cruel
 \gvf dictateur
 \gvf oppresseur
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx níjuguya
-\mm ní.jugu:adj/n:violent
-\mm ní:n:âme
-\mm júgu:vq/adj:mauvais
-\mm ya:mrph:DEQU
+\mm níjugu:adj:violent
+\mmm ní:n:âme
+\mmm júgu:adj:mauvais
+\mm ya:mrph:ABSTR
 \ps n
 \gf cruauté
 \gvf cruauté
+\dt 04/Apr/2019
 
 \lx níkanden
 \mm ní:n:âme
@@ -99317,7 +99330,7 @@ est "Ɲele" ...
 \mm ní:n:âme
 \mm kàn:pp:sur
 \mm mɔ̀gɔ:n:homme
-\va ní.kan.maa
+\va níkanmaa
 \mm ní:n:âme
 \mm kàn:pp:sur
 \mm màa:n:homme
@@ -99328,7 +99341,7 @@ est "Ɲele" ...
 \sy nídɔngɔmɔgɔ
 \sy níkantɛri
 \rem jos
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nikiliyɛri
 \ps adj
@@ -99404,9 +99417,9 @@ sur soi, on les connaît
 \mm nìmaa:n:beau-parent.cadet
 \mm màa:n:homme
 \mm kɛ:adj:mâle
-\va nìmɔgɔ.kɛ
+\va nìmɔgɔkɛ
 \mm nìmɔgɔ:n:beau-parent.cadet
-\mm mɔ̀gɔ:n:homme
+\mmm mɔ̀gɔ:n:homme
 \mm kɛ:adj:mâle
 \ps n
 \ms 1
@@ -99416,15 +99429,15 @@ sur soi, on les connaît
 \xf tu es le "nimaakɛ" des épouses de ton frère aîné
 \ms 2
 \gvf frère cadet de l'épouse
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nìmaamuso
 \mm nìmaa:n:beau-parent.cadet
-\mm màa:n:homme
+\mmm màa:n:homme
 \mm mùso:adj:femme
-\va nìmɔgɔ.muso
+\va nìmɔgɔmuso
 \mm nìmɔgɔ:n:beau-parent.cadet
-\mm mɔ̀gɔ:n:homme
+\mmm mɔ̀gɔ:n:homme
 \mm mùso:adj:femme
 \ps n
 \ms 1
@@ -99436,32 +99449,32 @@ sur soi, on les connaît
 \gvf femme du frère aîné
 \xv í kɔ̀rɔkɛ mùso, ù yé  í nìmaamuso yé
 \xf les épouses de ton frère aîné, ce sont tes 'nimaamuso'
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nìmaanin
 \mm nìmaa:n:beau-parent.cadet
-\mm màa:n:homme
+\mmm màa:n:homme
 \mm nin:mrph:DIM
-\va nìmɔgɔ.nin
+\va nìmɔgɔnin
 \mm nìmɔgɔ:n:beau-parent.cadet
-\mm mɔ̀gɔ:n:homme
+\mmm mɔ̀gɔ:n:homme
 \mm nin:mrph:DIM
 \ps n
 \gf beau-parent.cadet
 \gvf beau-parent cadet
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nìmaaninya
-\mm nìmaa.nin:n:beau-parent.cadet
-\mm nìmaa:n:beau-parent.cadet
-\mm màa:n:homme
-\mm nin:mrph:DIM
+\mm nìmaanin:n:beau-parent.cadet
+\mmm nìmaa:n:beau-parent.cadet
+\mmmm màa:n:homme
+\mmm nin:mrph:DIM
 \mm ya:mrph:ABSTR
-\va nìmɔgɔ.nin.ya
-\mm nìmɔgɔ.nin:n:beau-parent.cadet
-\mm nìmɔgɔ:n:beau-parent.cadet
-\mm mɔ̀gɔ:n:homme
-\mm nin:mrph:DIM
+\va nìmɔgɔninya
+\mm nìmɔgɔnin:n:beau-parent.cadet
+\mmm nìmɔgɔ:n:beau-parent.cadet
+\mmmm mɔ̀gɔ:n:homme
+\mmm nin:mrph:DIM
 \mm ya:mrph:ABSTR
 \ps n
 \gf relations.de.plaisanterie
@@ -99469,45 +99482,49 @@ sur soi, on les connaît
 \smf (entre.l'épouse.et.les.jeunes.frères.du.mari ou entre l'époux et les cadets ou cadettes de l'épouse)
 \xv nìmaaninya yé  cógo fìla yé  án fɛ̀ : í kɔ̀rɔkɛ mùso...í mùso dɔ́gɔnin ò cɛ̀man fàra  mùsoman kàn
 \xf la (relation de parenté dite) 'nimaaninya'existe chez nous de deux façons : (entre toi et) les femmes de tes frères aînés, (de plus, entre toi et) les cadets ou les cadettes de ta femme
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nìmaaya
 \mm nìmaa:n:beau-parent.cadet
-\mm màa:n:homme
+\mmm màa:n:homme
 \mm ya:mrph:ABSTR
-\va nìmɔgɔ.ya
+\va nìmɔgɔya
 \mm nìmɔgɔ:n:beau-parent.cadet
-\mm mɔ̀gɔ:n:homme
+\mmm mɔ̀gɔ:n:homme
 \mm ya:mrph:ABSTR
 \ps n
 \gf relations.de.plaisanterie
 \gvf relations de plaisanterie
 \smf (entre.l'épouse.et.les.jeunes.frères.du.mari ou entre l'époux et les cadets ou cadettes de l'épouse)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nímafɛn
-\mm ní:n:âme
-\mm ma:mrph:COM
+\mm níma:adj:animé
+\mmm ní:n:âme
+\mmm ma:mrph:COM
 \mm fɛ́n:n:chose
 \ps n
 \gf être.vivant
 \gvf être vivant
 \xv ní mín tùn yé  kójugu kɛ́, ò tùn bɛ́ táa kɛ́  nímafɛn wɛ́rɛ yé : wùlu, wára...
 \xf celui qui avait commis un crime se transformait en un autre être vivant : chien, singe ...
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nímakaran
 \mm ní:n:âme
-\mm mà:mrph:SUPER
-\mm káran:v:veiller
+\mm màkáran:v:défendre
+\mmm mà:mrph:SUPER
+\mmm káran:v:veiller
 \ps n
 \gf agonie
 \gvf agonie
+\dt 04/Apr/2019
 
 \lx nímakaran
 \mm ní:n:âme
-\mm mà:mrph:SUPER
-\mm káran:v:veiller
+\mm màkáran:v:défendre
+\mmm mà:mrph:SUPER
+\mmm káran:v:veiller
 \ps v
 \vl vi
 \ms 1
@@ -99517,24 +99534,26 @@ sur soi, on les connaît
 \gvf veiller sur sa vie
 \xv à t'á nímakaran  háli dɔ́ɔnin, à b'í yɛ̀rɛ bìla  fàrati lá
 \xf il veille très peu sur sa vie, il prend des risques de lui-même
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nímakarantɔ
-\mm ní.ma.karan:n:agonie
-\mm ní:n:âme
-\mm mà:mrph:SUPER
-\mm káran:v:veiller
+\mm nímakaran:n:agonie
+\mmm ní:n:âme
+\mmm màkáran:v:défendre
+\mmmm mà:mrph:SUPER
+\mmmm káran:v:veiller
 \mm tɔ:mrph:ST
 \ps adj
 \gf agonisant
 \gvf agonisant
 \gvf mourant
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nímanɔgɔ
 \mm ní:n:âme
-\mm mà:mrph:SUPER
-\mm nɔ́gɔ:v:salir
+\mm mànɔ́gɔ:v:salir
+\mmm mà:mrph:SUPER
+\mmm nɔ́gɔ:v:salir
 \ps v
 \vl vt
 \gf maltraiter
@@ -99542,7 +99561,7 @@ sur soi, on les connaît
 \gvf faire souffrir
 \xv màa tɛ́  hɛ́rɛ sɔ̀rɔ ń'í má nímanɔgɔ
 \xf on n'obtient pas le bonheur sans peine
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nímanɔgɔsi
 \mm ní:n:âme
@@ -99692,8 +99711,9 @@ sur soi, on les connaît
 
 \lx nínakili
 \mm ní:n:âme
-\mm ná:mrph:CAUS
-\mm kíli:v:appeler
+\mm nákili:v:appeler
+\mmm ná:mrph:CAUS
+\mmm kíli:v:appeler
 \ps n
 \gf respiration
 \gvf respiration
@@ -99701,29 +99721,32 @@ sur soi, on les connaît
 \xf il lui insuffla dans ses narines le souffle de vie
 \xv sìisan b'á nínakili dègun, à tɛ́ sé  kà fíyɛn mìna k'à bìla
 \xf l'asthme gêne sa respiration, il ne peut  ni inspirer ni expirer
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nínakili
 \mm ní:n:âme
-\mm ná:mrph:CAUS
-\mm kíli:v:appeler
+\mm nákili:v:appeler
+\mmm ná:mrph:CAUS
+\mmm kíli:v:appeler
 \ps v
 \vl vi
 \gf respirer
 \gvf respirer
+\dt 04/Apr/2019
 
 \lx nínakilidegun
-\mm ní.na.kili:n:respiration
-\mm ní:n:âme
-\mm ná:mrph:CAUS
-\mm kíli:v:appeler
+\mm nínakili:n:respiration
+\mmm ní:n:âme
+\mmm nákili:v:appeler
+\mmmm ná:mrph:CAUS
+\mmmm kíli:v:appeler
 \mm dègun:n:oppression
 \ps n
 \gf asthme
 \gvf asthme
 \gvf cardioptahie dyspnéisante
 \rem jakité, du
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nínama
 \mm ní:n:âme
@@ -99768,8 +99791,12 @@ sur soi, on les connaît
 \dt 26/Sep/2006
 
 \lx nìnifɛn
+\mm nì:v:offrir
+\mm ni:mrph:NMLZ
 \mm fɛ́n:n:chose
 \va nìlifɛn
+\mm nì:v:offrir
+\mm li:mrph:NMLZ
 \mm fɛ́n:n:chose
 \ps n
 \gf cadeau
@@ -99777,7 +99804,7 @@ sur soi, on les connaît
 \gvf offrande
 \smf (à Dieu, à des amis ...)
 \rem bz, Mol, b, jos / ex 29, 25
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nìninana
 \ps n
@@ -99796,14 +99823,14 @@ sur soi, on les connaît
 \dt 06/Feb/2017
 
 \lx nìnnin
-\mm nìn:dtm/prn:DEM
+\mm nìn:dtm:DEM
 \mm nin:mrph:DIM
 \ps n
 \gf ce.tout.petit
 \gvf ce tout petit
 \xv ń tɛ́  nìnnin fɛ̀
 \xf je ne veux pas de ce tout petit
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nìnnú
 \mm nìn:dtm/prn:DEM
@@ -99858,90 +99885,94 @@ sur soi, on les connaît
 \dt 16/Mar/2018
 
 \lx nísɔndiya
-\mm ní.sɔn:n:humeur
-\mm ní:n:âme
-\mm sɔ̀n:n:coeur
-\mm dí:vq:agréable
-\mm ya:mrph:ABSTR
+\mm nísɔn:n:humeur
+\mmm ní:n:âme
+\mmm sɔ̀n:n:coeur
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ps n
 \gf joie
 \gvf joie
 \gvf bonne humeur
 \xv tùma bɛ́ɛ, á bɛ́  nísɔndiya lá
 \xf vous êtes toujours de bonne humeur
-\dt 16/Mar/2018
+\dt 04/Apr/2019
 
 \lx nísɔndiya
-\mm ní.sɔn:n:humeur
+\mm nísɔn:n:humeur
 \mmm ní:n:âme
 \mmm sɔ̀n:n:coeur
-\mm dí:vq:agréable
-\mm ya:mrph:ABSTR
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf réjouir
 \gvf réjouir
-\dt 16/Mar/2018
+\dt 04/Apr/2019
 
 \lx nísɔndiyafuranin
-\mm ní.sɔn.di.ya:n:joie
-\mm ní.sɔn:n:humeur
-\mm ní:n:âme
-\mm sɔ̀n:n:coeur
-\mm dí:vq:agréable
-\mm ya:mrph:ABSTR
+\mm nísɔndiya:n:joie
+\mmm nísɔn:n:humeur
+\mmmm ní:n:âme
+\mmmm sɔ̀n:n:coeur
+\mmm díya:n:bon.goût
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
 \mm fúra:n:feuille
 \mm nin:mrph:DIM
 \ps n
 \gf drogue
 \gvf drogue
-\dt 16/Mar/2018
+\dt 04/Apr/2019
 
 \lx nísɔnduman
-\mm ní.sɔn:n:humeur
-\mm ní:n:âme
-\mm sɔ̀n:n:coeur
+\mm nísɔn:n:humeur
+\mmm ní:n:âme
+\mmm sɔ̀n:n:coeur
 \mm dúman:adj:agréable
 \ps adj
 \gf joyeux
 \gvf joyeux
-\dt 16/Mar/2018
+\dt 04/Apr/2019
 
 \lx nísɔngo
-\mm ní.sɔn:n:humeur
-\mm ní:n:âme
-\mm sɔ̀n:n:coeur
+\mm nísɔn:n:humeur
+\mmm ní:n:âme
+\mmm sɔ̀n:n:coeur
 \mm gó:adj:désagréable
 \ps adj/n
 \gf de.mauvaise.humeur
 \gvf de mauvaise humeur
-\dt 16/Mar/2018
+\dt 04/Apr/2019
 
 \lx nísɔngoya
-\mm ní.sɔn:n:humeur
-\mm ní:n:âme
-\mm sɔ̀n:n:coeur
-\mm gó:adj:désagréable
+\mm nísɔngo:adj:de.mauvaise.humeur
+\mmm nísɔn:n:humeur
+\mmmm ní:n:âme
+\mmmm sɔ̀n:n:coeur
+\mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf mauvaise.humeur
 \gvf mauvaise humeur
 \gvf irritation
-\dt 16/Mar/2018
+\dt 04/Apr/2019
 
 \lx nísɔngoya
-\mm ní.sɔn.go:adj/n:de.mauvaise.humeur
-\mm ní.sɔn:n:humeur
-\mm ní:n:âme
-\mm sɔ̀n:n:coeur
-\mm gó:adj:désagréable
+\mm nísɔngo:adj:de.mauvaise.humeur
+\mmm nísɔn:n:humeur
+\mmmm ní:n:âme
+\mmmm sɔ̀n:n:coeur
+\mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf contrarier
 \gvf contrarier
 \gvf attrister
-\dt 16/Mar/2018
+\dt 04/Apr/2019
 
 \lx nísɔngɔ
 \mm ní:n:âme
@@ -99952,15 +99983,15 @@ sur soi, on les connaît
 \dt 16/Aug/2006
 
 \lx nísɔngɔbɔla
-\mm ní.sɔngɔ:n:impôt.de.capitation
-\mm ní:n:âme
-\mm sɔ̀ngɔ:n:prix
+\mm nísɔngɔ:n:impôt.de.capitation
+\mmm ní:n:âme
+\mmm sɔ̀ngɔ:n:prix
 \mm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
 \ps n
 \gf personne.imposable
 \gvf personne imposable
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nìta
 \mm nì:n:part
@@ -99994,7 +100025,7 @@ sur soi, on les connaît
 \ms 2
 \gvf parler sans cesse
 \smf (à tort et à travers)
-\dt 08/Nov/2012
+\dt 04/Apr/2019
 
 \lx njànkili
 \ps n
@@ -100208,14 +100239,14 @@ sur soi, on les connaît
 \dt 16/Aug/2006
 
 \lx nkàlonnciya
-\mm nkàlon.nci:n:roi.des.menteurs
-\mm nkàlon:n:mensonge
-\mm nci:mrph:AG.EX
+\mm nkàlonnci:n:roi.des.menteurs
+\mmm nkàlon:n:mensonge
+\mmm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps n
 \gf habitude.de.mentir
 \gvf habitude de mentir
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkàlontigɛ
 \mm nkàlon:n:mensonge
@@ -100278,7 +100309,7 @@ sur soi, on les connaît
 \ps n
 \mm nkàn:n:iule
 \mm ba:mrph:AUGM
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \gf iule
 \gvf iule
 \smf (gros, noir (-bn))
@@ -100286,7 +100317,7 @@ sur soi, on les connaît
 \ve (Kó)
 \sy nkàbaŋele
 \rem Cas / remède du kòbòli
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nkàncaraki
 \va nkànjaraki
@@ -100468,29 +100499,30 @@ familiaux; viande très prisée, auladiculture)
 
 \lx nkàridɔlen
 \mm nkàri:n:poisson.sp
+\mm dɔ́len:n:hameçon
 \ps n
 \gf ligne.de.hameçons
 \gvf ligne de hameçons
 \smf (pas trop rapprochés)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkàrifin
 \mm nkàri:n:poisson.sp
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf poisson.Schilbe.mystus
 \gvf poisson Schilbe mystus
 \smf (---> 30 cm, ---> 205 gr ; se déplace souvent en bandes, activité surtout nocturne)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkàrijɛ
 \mm nkàri:n:poisson.sp
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf poisson.Eutropius.niloticus
 \gvf poisson Eutropius niloticus
 \smf (---> 34 cm, ---> 640 gr ; coloration argentée, espèce adaptée à la vie des grands fleuves)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkàro
 \ps n
@@ -100597,14 +100629,14 @@ familiaux; viande très prisée, auladiculture)
 \mm nkènken:n:joue.intérieur
 \mm fùru:n:pulpe.des.fruits
 \ve (bk)
-\va kènken.furu
+\va kènkenfuru
 \mm kènken:n:joue.intérieur
 \mm fùru:n:pulpe.des.fruits
 \ps n
 \gf joue
 \gvf joue
 \gvf pommette
-\dt 18/Sep/2016
+\dt 04/Apr/2019
 
 \lx nkénninji
 \mm nin:mrph:DIM
@@ -100738,13 +100770,13 @@ familiaux; viande très prisée, auladiculture)
 \lx nkɛ̀lɛnkɛyɛ
 \mm nkɛ̀lɛn:n:testicules
 \mm kɛ̀yɛ:n:bourses
-\va nkɛ̀lɛn.kaya
+\va nkɛ̀lɛnkaya
 \mm nkɛ̀lɛn:n:testicules
 \mm kàya:n:bourses
 \ps n
 \gf hernie.inguino-scrotale
 \gvf hernie inguino-scrotale
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkɛ̀lɛnnin
 \mm nkɛ̀lɛn:n:rat.palmiste
@@ -100812,13 +100844,13 @@ familiaux; viande très prisée, auladiculture)
 \lx nkɛ̀rɛnín
 \mm nkɛ̀rɛ:n:prise.de.lutte
 \mm nin:mrph:DIM
-\va kɛ̀rɛ.nin
+\va kɛ̀rɛnin
 \mm kɛ̀rɛ:n:prise.de.lutte
 \mm nin:mrph:DIM
 \ps n
 \gf prise.de.lutte
 \gvf prise de lutte
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkɛ̀ru
 \ps n
@@ -100996,7 +101028,7 @@ familiaux; viande très prisée, auladiculture)
 \dt 18/Dec/2014
 
 \lx nkólonìnjɛ́
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf balan.des.savanes
 \gvf balan des savanes
@@ -101004,7 +101036,7 @@ familiaux; viande très prisée, auladiculture)
 \lat Securinega.virosa / S.microcarpa
 \sd euph
 \smf (fruits mûrs comestibles)
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nkólonkalan
 \va kólonkalan
@@ -101086,22 +101118,22 @@ familiaux; viande très prisée, auladiculture)
 
 \lx nkòrongobilen
 \mm nkòrongo:n:naja
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf serpent.Naja.haje
 \gvf serpent Naja haje
 \smf (---> 2,50 m (dans les endroits secs))
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkòrongofin
 \mm nkòrongo:n:naja
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf serpent.Naja.melanoleuca
 \gvf serpent Naja melanoleuca
 \smf (---> 2,50 m (lèvres blanches, bord des écailles noir)(vit dans l'eau et les lieux humides))
 \sy nkòrongoba
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkòrongofiyen
 \mm nkòrongo:n:naja
@@ -101116,12 +101148,12 @@ familiaux; viande très prisée, auladiculture)
 \mm nkòrongo:n:naja
 \mm nin:mrph:DIM
 \mm kán:n:cou
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf serpent.Naja.katiensis
 \gvf serpent Naja katiensis
 \smf (---> 0,70 m (près des lieux habités))
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkóronkoron
 \ps adv
@@ -101447,7 +101479,7 @@ charançon)
 \lx nkùnaji
 \mm nkùna:n:prunier.cornu
 \mm jí:n:eau
-\va nkùnan.ji
+\va nkùnanji
 \mm nkùnan:n:prunier.cornu
 \mm jí:n:eau
 \ps n
@@ -101455,7 +101487,7 @@ charançon)
 \gvf liqueur de prunier
 \smf (sorte de bière faite avec le fruit)
 \rem l 89, du
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nkúnankuna
 \va kúnankunan
@@ -101494,7 +101526,7 @@ charançon)
 \lx nkúrasyɛ
 \mm nkúra:n:fourmi.rouge
 \mm syɛ́:n:poule
-\va nkúra.shyɛ
+\va nkúrashyɛ
 \mm nkúra:n:fourmi.rouge
 \mm shyɛ́:n:poule
 \ph [shy]
@@ -101502,7 +101534,7 @@ charançon)
 \gf poule.féconde
 \gvf poule féconde
 \smf (poule qui pond beaucoup et a beaucoup de poussins)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkùre
 \ps n
@@ -101522,38 +101554,38 @@ graines, sert d'instrument rythmique)
 \lx nkùsunbala
 \mm nkùsun:n:calebasse.grelotte
 \mm bála:n:balafon
-\va ngùsun.bala
+\va ngùsunbala
 \mm ngùsun:n:calebasse.grelotte
 \mm bála:n:balafon
 \ps n
 \gf accompagnement.balafon
 \gvf accompagnement balafon
 \smf (type d'accompagnement au balafon des chants de femmes du Bɛlɛdugu)
-\dt 05/Apr/2016
+\dt 04/Apr/2019
 
 \lx nkùsunbara
 \mm nkùsun:n:calebasse.grelotte
 \mm bàra:n:calebasse
-\va ngùsun.bara
+\va ngùsunbara
 \mm ngùsun:n:calebasse.grelotte
 \mm bàra:n:calebasse
 \ps n
 \gf calebasse.sp
 \gvf calebasse sp
 \smf (sert de marinba)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nkùsunjeli
 \mm nkùsun:n:calebasse.grelotte
 \mm jèli:n:griot
-\va ngùsun.jeli
+\va ngùsunjeli
 \mm ngùsun:n:calebasse.grelotte
 \mm jèli:n:griot
 \ps n
 \gf chanteuse.de.Bèlèdugu
 \gvf chanteuse de Bèlèdugu
 \smf (rythmant ses chants avec le "ngusun" (elle célèbre les chasseurs, les cultivateurs, les guerriers courageux ...))
-\dt 05/Apr/2016
+\dt 04/Apr/2019
 
 \lx nkwá
 \va nkwɛ́
@@ -101704,28 +101736,31 @@ craie ...)
 \dt 07/Feb/2016
 
 \lx nɔ̀fɛgɛ́n
-\mm nɔ̀:n:trace
-\mm fɛ̀:pp:par
+\mm nɔ̀fɛ̀:pp:derrière
+\mmm nɔ̀:n:trace
+\mmm fɛ̀:pp:par
 \mm gɛ́n:v:chasser
 \ps v
 \vl vt
 \gf poursuivre
 \gvf poursuivre
 \gvf pourchasser
-\dt 14/Apr/2018
+\dt 04/Apr/2019
 
 \lx nɔ̀fɛta
-\mm nɔ̀:n:trace
-\mm fɛ̀:pp:par
+\mm nɔ̀fɛ̀:pp:derrière
+\mmm nɔ̀:n:trace
+\mmm fɛ̀:pp:par
 \mm ta:mrph:PTCP.POT
 \ps n
 \gf le.suivant
 \gvf le suivant
-\dt 01/Jun/2017
+\dt 04/Apr/2019
 
 \lx nɔ̀fɛtáama
-\mm nɔ̀:n:trace
-\mm fɛ̀:pp:par
+\mm nɔ̀fɛ̀:pp:derrière
+\mmm nɔ̀:n:trace
+\mmm fɛ̀:pp:par
 \mm táama:v:marcher
 \ps v
 \vl vt
@@ -101738,17 +101773,17 @@ craie ...)
 \vl vt
 \gvf aller chercher
 \smf (faire les démarches de mariage)
-\dt 14/Apr/2018
+\dt 04/Apr/2019
 
 \lx nɔ̀finman
 \mm nɔ̀:n:trace
-\mm fìn.man:adj:noir
+\mm fìnman:adj:noir
 \mmm fìn:vq:noir
 \mmm man:mrph:ADJ
 \ps n
 \gf acné
 \gvf acné
-\dt 03/Mar/2019
+\dt 04/Apr/2019
 
 \lx nɔ̀gɛ́n
 \mm nɔ̀:n:trace
@@ -101762,20 +101797,20 @@ craie ...)
 \dt 14/Apr/2018
 
 \lx nɔ̀gɛnbaa
-\mm nɔ̀.gɛn:v:poursuivre.en.courant
-\mm nɔ̀:n:trace
-\mm gɛ́n:v:chasser
+\mm nɔ̀gɛn:v:poursuivre.en.courant
+\mmm nɔ̀:n:trace
+\mmm gɛ́n:v:chasser
 \mm baa:mrph:AG.OCC
-\va nɔ̀.gɛn.baga
-\mm nɔ̀.gɛn:v:poursuivre.en.courant
-\mm nɔ̀:n:trace
-\mm gɛ́n:v:chasser
+\va nɔ̀gɛnbaga
+\mm nɔ̀gɛn:v:poursuivre.en.courant
+\mmm nɔ̀:n:trace
+\mmm gɛ́n:v:chasser
 \mm baga:mrph:AG.OCC
 \ps n
 \gf poursuivant
 \gvf poursuivant
 \rem Bz, Mol, b jo 2, 16
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nɔ̀gɔ
 \va nɔ̀gɔn
@@ -101937,7 +101972,7 @@ craie ...)
 \lx nɔ́gɔlan
 \mm nɔ́gɔ:v:salir
 \mm lan:mrph:INSTR
-\va nwá.nan
+\va nwánan
 \mm nwá:v:salir
 \mm nan:mrph:INSTR
 \ps n
@@ -101947,17 +101982,17 @@ craie ...)
 \smf (à base de feuilles d'arbres ou de plantes recherchées pour rendre la sauce gluante : baobab, gombo ...)
 \ms 2
 \gvf couleur verdâtre
-\dt 13/May/2018
+\dt 04/Apr/2019
 
 \lx nɔ́gɔlanjuru
-\mm nɔ́gɔ.lan:n:mucilage
-\mm nɔ́gɔ:v:salir
-\mm lan:mrph:INSTR
+\mm nɔ́gɔlan:n:mucilage
+\mmm nɔ́gɔ:v:salir
+\mmm lan:mrph:INSTR
 \mm jùru:n:corde
-\va nwá.nan.juru
-\mm nwá.nan:n:mucilage
-\mm nwá:v:salir
-\mm nan:mrph:INSTR
+\va nwánanjuru
+\mm nwánan:n:mucilage
+\mmm nwá:v:salir
+\mmm nan:mrph:INSTR
 \mm jùru:n:corde
 \ps n
 \gf serpent.vert
@@ -101974,12 +102009,12 @@ craie ...)
 \smf (1m et plus. Deux lignes jaunâtres sur les deux côtés de la tête)
 \sy námugulasa
 \sy ɲùgujisa
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nɔ́gɔlansa
-\mm nɔ́gɔ.lan:n:mucilage
-\mm nɔ́gɔ:v:salir
-\mm lan:mrph:INSTR
+\mm nɔ́gɔlan:n:mucilage
+\mmm nɔ́gɔ:v:salir
+\mmm lan:mrph:INSTR
 \mm sà:n:serpent
 \ps n
 \gf serpent.vert
@@ -101997,7 +102032,7 @@ craie ...)
 \sy nwánanjuru
 \sy námugulasa
 \sy ɲùgujisa
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nɔ́gɔlenya
 \mm nɔ́gɔ:v:salir
@@ -102027,7 +102062,7 @@ craie ...)
 \dt 26/Sep/2006
 
 \lx nɔ́gɔman
-\mm nɔ́gɔ:vq/adj:gluant
+\mm nɔ́gɔ:vq:gluant
 \mm man:mrph:ADJ
 \ps adj
 \ms 1
@@ -102037,7 +102072,7 @@ craie ...)
 \ms 2
 \gvf visqueux
 \gvf mucilagineux
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nɔ́gɔnɔgɔ
 \va nwánaa
@@ -102056,50 +102091,49 @@ craie ...)
 
 \lx nɔ́gɔnɔgɔbilen
 \mm nɔ́gɔnɔgɔ:n:arbuste.Grewia.sp
-\mm bìlen:vq/adj:rouge
-\va nɔ́gɔnɔgɔ.blen
+\mm bìlen:adj:rouge
+\va nɔ́gɔnɔgɔblen
 \mm nɔ́gɔnɔgɔ:n:arbuste.Grewia.sp
-\mm blèn:vq/adj:rouge
-\ph [bl]
-\va nwánaa.bilen
+\mm blèn:adj:rouge
+\va nwánaabilen
 \mm nwánaa:n:arbuste.Grewia.sp
-\mm bìlen:vq/adj:rouge
-\va nwánaa.blen
+\mm bìlen:adj:rouge
+\va nwánaablen
 \mm nwánaa:n:arbuste.Grewia.sp
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf arbuste.Grewia.bicolor
 \gvf arbuste Grewia bicolor
 \smf (arbuste ou arbre ---> 9 m)
 \sd tili
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nɔ́gɔnɔgɔfin
 \mm nɔ́gɔnɔgɔ:n:arbuste.Grewia.sp
-\mm fìn:vq/adj:noir
-\va nwánaa.fin
+\mm fìn:adj:noir
+\va nwánaafin
 \mm nwánaa:n:arbuste.Grewia.sp
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf arbuste.Grewia.sp
 \gvf arbuste Grewia sp
 \lat Grewia venusta / Grewia.mollis
 \smf (arbuste ou arbre ---> 7 m)
 \sd tili
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nɔ́gɔnɔgɔjɛ
 \mm nɔ́gɔnɔgɔ:n:arbuste.Grewia.sp
-\mm jɛ́:vq/adj:blanc
-\va nwánaa.jɛ
+\mm jɛ́:adj:blanc
+\va nwánaajɛ
 \mm nwánaa:n:arbuste.Grewia.sp
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf arbuste.Grewia.pubescens
 \gvf arbuste Grewia pubescens
 \sd tili
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nɔ̀gɔsi
 \va nàasi
@@ -102128,10 +102162,10 @@ craie ...)
 \mm nɔ̀gɔsi:n:cynhyène
 \mm wùlu:n:chien
 \ve (bn)
-\va nàasi.wulu
+\va nàasiwulu
 \mm nàasi:n:cynhyène
 \mm wùlu:n:chien
-\va nɔ̀nsi.wulu
+\va nɔ̀nsiwulu
 \mm nɔ̀nsi:n:cynhyène
 \mm wùlu:n:chien
 \ps n
@@ -102139,7 +102173,7 @@ craie ...)
 \gvf cynhyène
 \lat Lycaon.pictus
 \smf (loup petit, chien sauvage africain; en danger)
-\dt 05/Apr/2016
+\dt 04/Apr/2019
 
 \lx nɔ́gɔtɔ
 \mm nɔ́gɔ:v:salir
@@ -102185,20 +102219,21 @@ craie ...)
 \dt 16/Aug/2006
 
 \lx nɔ́gɔya
-\mm nɔ́gɔ:vq/adj:gluant
+\mm nɔ́gɔ:vq:gluant
 \mm ya:mrph:DEQU
 \ps n
 \gf viscosité
 \gvf viscosité
 \xv mànɔgɔ fàri yé  nɔ́gɔya dàn yé :
 \xf le corps du silure est on ne peut plus gluant
+\dt 04/Apr/2019
 
 \lx nɔ́gɔya
-\mm nɔ́gɔ:vq/adj:gluant
+\mm nɔ́gɔ:vq:gluant
 \mm ya:mrph:DEQU
 \ve (-bk)
-\va nwá.ya
-\mm nwá:vq/adj:gluant
+\va nwáya
+\mm nwá:vq:gluant
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -102212,11 +102247,11 @@ craie ...)
 \xf le mucilage n'a pas suffi, la sauce n'est pas encore visqueuse
 \xv ń'á nwáyana
 \xf s'il est souillé
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nɔ̀jɛmanbɔ
 \mm nɔ̀:n:trace
-\mm jɛ́.man:adj:blanc
+\mm jɛ́man:adj:blanc
 \mmm jɛ́:vq:blanc
 \mmm man:mrph:ADJ
 \mm bɔ́:n:sortie
@@ -102226,7 +102261,7 @@ craie ...)
 \gvf leucodermie
 \gvf achromie
 \smf (taches blanches sur la peau)
-\dt 03/Mar/2019
+\dt 04/Apr/2019
 
 \lx nɔ̀kàn
 \mm nɔ̀:n:trace
@@ -102240,8 +102275,9 @@ craie ...)
 \dt 16/Aug/2006
 
 \lx nɔ̀kanda
-\mm nɔ̀:n:trace
-\mm kàn:pp:sur
+\mm nɔ̀kàn:pp:après
+\mmm nɔ̀:n:trace
+\mmm kàn:pp:sur
 \mm dá:v:poser
 \ps n
 \ms 1
@@ -102253,20 +102289,23 @@ craie ...)
 \ms 3
 \gvf remplaçant
 \gvf lieutenant
+\dt 04/Apr/2019
 
 \lx nɔ̀kansigi
-\mm nɔ̀:n:trace
-\mm kàn:pp:sur
+\mm nɔ̀kàn:pp:après
+\mmm nɔ̀:n:trace
+\mmm kàn:pp:sur
 \mm sìgi:n:position.assise
 \ps n
 \gf remplaçant
 \gvf remplaçant
 \gvf successeur
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nɔ̀kanta
-\mm nɔ̀:n:trace
-\mm kàn:pp:sur
+\mm nɔ̀kàn:pp:après
+\mmm nɔ̀:n:trace
+\mmm kàn:pp:sur
 \mm tá:n:propriété
 \ps n
 \ms 1
@@ -102279,7 +102318,7 @@ craie ...)
 \ms 3
 \gvf remplaçant
 \gvf lieutenant
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nɔ̀mi
 \va nɔ̀min
@@ -102298,7 +102337,7 @@ craie ...)
 \lx nɔ̀mìnɛ
 \mm nɔ̀:n:trace
 \mm mìnɛ:v:attraper
-\va nɔ̀.mìna
+\va nɔ̀mìna
 \mm nɔ̀:n:trace
 \mm mìna:v:attraper
 \ps v
@@ -102311,19 +102350,19 @@ craie ...)
 \gvf imiter
 \xv ń'í táara, ń ń'í nɔ̀minɛ
 \xf si tu t'en vas, je te suivrai
-\dt 08/Feb/2017
+\dt 04/Apr/2019
 
 \lx nɔ̀mitɔ
 \mm nɔ̀mi:n:bec
 \mm tɔ:mrph:ST
-\va nɔ̀min.tɔ
+\va nɔ̀mintɔ
 \mm nɔ̀min:n:bec
 \mm tɔ:mrph:ST
 \ps n
 \gf bancal
 \gvf bancal
 \smf (personne aux jambes arquées (qui a le "valgus"))
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nɔ̀na
 \mm nɔ̀:n:trace
@@ -102351,8 +102390,9 @@ craie ...)
 \dt 14/Mar/2018
 
 \lx nɔ̀nabila
-\mm nɔ̀:n:trace
-\mm ná:pp:à
+\mm nɔ̀ná:pp:à.la.place.de
+\mmm nɔ̀:n:trace
+\mmm ná:pp:à
 \mm bìla:n:abandon
 \ps n
 \ms 1
@@ -102363,11 +102403,12 @@ craie ...)
 \ms 3
 \gvf pronom
 \smf (néologisme)
-\dt 24/Apr/2018
+\dt 04/Apr/2019
 
 \lx nɔ̀nabìla
-\mm nɔ̀:n:trace
-\mm ná:pp:à
+\mm nɔ̀ná:pp:à.la.place.de
+\mmm nɔ̀:n:trace
+\mmm ná:pp:à
 \mm bìla:v:mettre
 \ps v
 \vl vt
@@ -102376,13 +102417,14 @@ craie ...)
 \gvf remplacer
 \ms 2
 \gvf renouveler
-\dt 14/Apr/2018
+\dt 04/Apr/2019
 
 \lx nɔ̀nada
-\mm nɔ̀:n:trace
-\mm ná:pp:à
+\mm nɔ̀ná:pp:à.la.place.de
+\mmm nɔ̀:n:trace
+\mmm ná:pp:à
 \mm dá:v:poser
-\va nɔ̀.ra.da
+\va nɔ̀rada
 \mm nɔ̀:n:trace
 \mm rá:pp:à
 \mm dá:v:poser
@@ -102391,7 +102433,7 @@ craie ...)
 \ps n
 \gf puîné
 \gvf puîné
-\dt 23/Nov/2012
+\dt 04/Apr/2019
 
 \lx nɔ́nfɔn
 \va lɔ́npɔn
@@ -102412,32 +102454,32 @@ craie ...)
 \xf il sait nager
 
 \lx nɔ́nikɛla
-\mm nɔ́.ni:n:natation
-\mm nɔ́:v:nager
-\mm ni:mrph:NMLZ
+\mm nɔ́ni:n:natation
+\mmm nɔ́:v:nager
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
-\va nɔ́n.ni.kɛ.la
-\mm nɔ́n:v:nager
-\mm ni:mrph:NMLZ
+\va nɔ́nnikɛla
+\mmm nɔ́n:v:nager
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf nageur
 \gvf nageur
 \rem Mol, l 89
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nɔ́nikɛlan
-\mm nɔ́.ni:n:natation
-\mm nɔ́:v:nager
-\mm ni:mrph:NMLZ
+\mm nɔ́ni:n:natation
+\mmm nɔ́:v:nager
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm lan:mrph:INSTR
 \ps n
 \gf negeoire
 \gvf negeoire
-\dt 15/Mar/2018
+\dt 04/Apr/2019
 
 \lx nɔ̀nkɔn
 \va nɔ̀ngɔn
@@ -102480,14 +102522,14 @@ craie ...)
 \lx nɔ̀nkɔnɲa
 \mm nɔ̀nkɔn:n:coude
 \mm ɲá:n:fois
-\va nɔ̀nkɔn.ɲɛ
+\va nɔ̀nkɔnɲɛ
 \mm nɔ̀nkɔn:n:coude
 \mm ɲɛ́:n:fois
 \ps n
 \gf coudée
 \gvf coudée
 \smf (plus ou moins 50 centimètres)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nɔ́nɔ
 \ps n
@@ -102512,7 +102554,7 @@ craie ...)
 \lx nɔ́nɔkɛnɛfarigan
 \mm nɔ́nɔ:n:lait
 \mm kɛ́nɛ:adj:sain
-\mm fàri.gan:n:fièvre
+\mm fàrigan:n:fièvre
 \mmm fàri:n:corps
 \mmm gàn:vq:chaud
 \ps n
@@ -102520,7 +102562,7 @@ craie ...)
 \gvf brucellose
 \gvf fièvre ondulante
 \gvf fièvre de Malte
-\dt 04/Mar/2019
+\dt 04/Apr/2019
 
 \lx nɔ́nɔma
 \mm nɔ́nɔ:n:lait
@@ -102531,15 +102573,15 @@ craie ...)
 \dt 26/Sep/2006
 
 \lx nɔ́nɔmafɛn
-\mm nɔ́nɔ.ma:adj:lacté
-\mm nɔ́nɔ:n:lait
-\mm ma:mrph:COM
+\mm nɔ́nɔma:adj:lacté
+\mmm nɔ́nɔ:n:lait
+\mmm ma:mrph:COM
 \mm fɛ́n:n:chose
 \ps n
 \gf produit.laitier
 \gvf produit laitier
 \smf (fromage, yaourt, beurre)
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nɔ́nɔmugu
 \mm nɔ́nɔ:n:lait
@@ -102690,7 +102732,7 @@ craie ...)
 \mm nɔ̀ɔrɔ:n:glane
 \mm ɲíni:v:chercher
 \mm na:mrph:AG.PRM
-\va nɔ̀rɔ.ɲini.na
+\va nɔ̀rɔɲinina
 \mm nɔ̀rɔ:n:glane
 \mm ɲíni:v:chercher
 \mm na:mrph:AG.PRM
@@ -102699,7 +102741,7 @@ craie ...)
 \gvf glaneur
 \sy nɔ̀ɔrɔtɔmɔna
 \rem Mol
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nɔ́ɔrɔya
 \mm nɔ́ɔrɔ:n:auréole
@@ -102776,9 +102818,9 @@ craie ...)
 \dt 16/Aug/2006
 
 \lx nɔ́rɔlanba
-\mm nɔ́rɔ.lan:n:plante.s’accrochant
-\mm nɔ́rɔ:v:coller
-\mm lan:mrph:INSTR
+\mm nɔ́rɔlan:n:plante.s’accrochant
+\mmm nɔ́rɔ:v:coller
+\mmm lan:mrph:INSTR
 \mm ba:mrph:AUGM
 \va nɔ́rɔnna
 \mm nɔ́rɔ:v:coller
@@ -102795,7 +102837,7 @@ craie ...)
 \gvf plante Pupalia lappacea
 \sd amara
 \smf (plante herbacée, les glomérules de fleurs s'accrochent aux habits, feuilles veloutées)
-\dt 10/Jun/2016
+\dt 04/Apr/2019
 
 \lx nɔ́rɔńjùla
 \mm nɔ́rɔ:v:coller
@@ -102984,9 +103026,9 @@ craie ...)
 \dt 26/Sep/2006
 
 \lx npèkubaŋɛɲɛ
-\mm npèku.ba:n:vrai.raisinier
-\mm npèku:n:arbre.Lannea.sp
-\mm ba:mrph:AUGM
+\mm npèkuba:n:vrai.raisinier
+\mmm npèku:n:arbre.Lannea.sp
+\mmm ba:mrph:AUGM
 \mm ŋɛ́ɲɛ:vq:rugueux
 \ps n
 \gf raisinier.velu
@@ -102998,11 +103040,11 @@ craie ...)
 \sy bàkɔrɔnpeku
 \sy bènbekuna
 \sy bènbemuso
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx npèkugɛlɛn
 \mm npèku:n:arbre.Lannea.sp
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:dur
 \ps n
 \gf raisinier.acide
 \gvf raisinier acide
@@ -103012,7 +103054,7 @@ craie ...)
 \smf (drupes elliptiques de 1,2 cm de longueur, comestibles)
 \sy npèkuningɛlɛn
 \sy bènbefin
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx npélenpèlen
 \va pélenpelen
@@ -103025,13 +103067,14 @@ craie ...)
 \lx npélenpelenkolo
 \mm npélenpèlen:n:devant.de.la.patte
 \mm kólo:n:os
-\va pélenpelen.kolo
+\va pélenpelenkolo
 \mm pélenpelen:n:devant.de.la.patte
 \mm kólo:n:os
 \ps n
 \gf tibia
 \gvf tibia
 \smf (pour le bétail, peut désigner aussi l'os long de la patte avant)
+\dt 04/Apr/2019
 
 \lx npére
 \va npíri
@@ -103116,11 +103159,11 @@ craie ...)
 \lx npɛ́risènján
 \mm npɛ́ri:n:jeu.sp
 \mm sèn:n:jambe
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf jeu.à.damier
 \gvf jeu à damier
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx npɛ́tɛ
 \ps n
@@ -103225,9 +103268,9 @@ craie ...)
 \dt 16/Aug/2006
 
 \lx npògotigiden
-\mm npògo.tigi:n:jeune.fille
-\mm npògo:n:cache-sexe.des.filles
-\mm tìgi:n:maître
+\mm npògotigi:n:jeune.fille
+\mmm npògo:n:cache-sexe.des.filles
+\mmm tìgi:n:maître
 \mm dén:n:enfant
 \ps n
 \ms 1
@@ -103236,12 +103279,12 @@ craie ...)
 \ms 2
 \gvf enfant de la fiancée
 \smf (là où il y a le "cɛ̀làrɔ")
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx npògotigiya
-\mm npògo.tigi:n:jeune.fille
-\mm npògo:n:cache-sexe.des.filles
-\mm tìgi:n:maître
+\mm npògotigi:n:jeune.fille
+\mmm npògo:n:cache-sexe.des.filles
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -103253,18 +103296,18 @@ craie ...)
 \sy npògotigiyako
 \xv à y'á npògotigiya tà
 \xf il l'a déflorée
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx npògotigiya
-\mm npògo.tigi:n:jeune.fille
-\mm npògo:n:cache-sexe.des.filles
-\mm tìgi:n:maître
+\mm npògotigi:n:jeune.fille
+\mmm npògo:n:cache-sexe.des.filles
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \gf devenir.adolescente
 \gvf devenir adolescente
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx npóko
 \va nfúku
@@ -103402,14 +103445,15 @@ craie ...)
 
 \lx npɔ̀rɔnŋɔ́nima
 \mm npɔ̀rɔn:n:amaranthe
-\mm ŋɔ́ni:n:épine
-\mm ma:mrph:COM
+\mm ŋɔ́nima:adj:épineux
+\mmm ŋɔ́ni:n:épine
+\mmm ma:mrph:COM
 \ps n
 \gf Amaranthus.hybridus
 \gvf Amaranthus hybridus
 \smf (---> 0,60 cm / 1,20 m, inerme, cultivée)
 \sd amara
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx npɔ̀rɔnŋɔ́nintan
 \mm npɔ̀rɔn:n:amaranthe
@@ -103560,11 +103604,12 @@ craie ...)
 \mm nsàn:n.prop:NOM.M
 \mm nin:mrph:DIM
 \mm kélen:num:un
+\mm kélen:num:un
 \ps n
 \gf épi.de.maïs
 \gvf épi de maïs
 \smf (aux grains très rares)
-\dt 08/Nov/2012
+\dt 04/Apr/2019
 
 \lx nsànsima
 \mm nsàn:n:Nsan
@@ -103577,14 +103622,14 @@ craie ...)
 \dt 16/Aug/2006
 
 \lx nsàntɛgɛba
-\mm nsàn:n:Nsan
+\mm nsàn:n.prop:NOM.M
 \mm tɛ́gɛ:n:paume
 \mm ba:mrph:AUGM
 \ve (-bk,-f)
 \ps n
 \gf masque.de.danse
 \gvf masque de danse
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nsàra
 \ps n
@@ -103613,17 +103658,16 @@ craie ...)
 \lx nsàrakúbilen
 \mm nsàra:n:poisson.Brycinus.nurse
 \mm kú:n:queue
-\mm bìlen:vq/adj:rouge
-\va nsàra.kú.blen
+\mm bìlen:adj:rouge
+\va nsàrakúblen
 \mm nsàra:n:poisson.Brycinus.nurse
 \mm kú:n:queue
-\mm blèn:vq/adj:rouge
-\ph [bl]
+\mm blèn:adj:rouge
 \ps n
 \gf poisson.Brycinus.nurse
 \gvf poisson Brycinus nurse
 \smf (---> 22 cm, ---> 220 gr, caudale rouge vif avec une tache noire claviforme, nagent lentement en surface près des rives)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nsáyin
 \a nsáɲa
@@ -103725,10 +103769,10 @@ craie ...)
 
 \lx nsɛ́rɛbilen
 \mm nsɛ́rɛ:n:arbre.Ficus.sp
-\mm bìlen:vq/adj:rouge
-\va nsɛ́rɛ.blen
+\mm bìlen:adj:rouge
+\va nsɛ́rɛblen
 \mm nsɛ́rɛ:n:arbre.Ficus.sp
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf arbre.Ficus.glumosa
@@ -103736,12 +103780,12 @@ craie ...)
 \smf ( arbre ---> 10 / 20 m )
 \sd mora
 \smf (les figues bien mûres sont savoureuses)
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx nsɛ́rɛnìnjɛ́
 \mm nsɛ́rɛ:n:arbre.Ficus.sp
 \mm nin:mrph:DIM
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf arbre.Ficus.dekdekena
 \gvf arbre Ficus dekdekena
@@ -103750,7 +103794,7 @@ craie ...)
 \sd mora
 \smf (rarement indépendant, enlace généralement le tronc d'un autre arbre)
 \sy jàtigifaajiri
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx nsíirin
 \va nsíiri
@@ -103795,7 +103839,7 @@ craie ...)
 \lx nsìranɛgɛ
 \mm nsìra:n:cuivre.jaune
 \mm nɛ̀gɛ:n:fer
-\va sìra.nɛgɛ
+\va sìranɛgɛ
 \mm sìra:n:cuivre.jaune
 \mm nɛ̀gɛ:n:fer
 \ps n
@@ -103803,7 +103847,7 @@ craie ...)
 \gvf bronze
 \xv nsìranɛgɛ nùgulen
 \xf bronze poli
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nsòfaraŋɔni
 \mm nsò:n:variole
@@ -103864,26 +103908,26 @@ craie ...)
 
 \lx nsǒn`-ní-fànà
 \mm nsòn:n:voleur
-\mm ni:prep/conj:et
+\mm ni:conj:et
 \mm fàna:n:rapporteur
 \ps n
 \gf canaille
 \gvf canaille
 \gvf rapporteur
 \smf (personne qui a tous les défauts : vole, ment, rapporte...)
-\dt 18/Aug/2017
+\dt 04/Apr/2019
 
 \lx nsònnifanaya
 \mm nsǒn`-ní-fànà:n:canaille
-\mm nsòn:n:voleur
-\mm ni:prep/conj:et
-\mm fàna:n:rapporteur
+\mmm nsòn:n:voleur
+\mmm ni:conj:et
+\mmm fàna:n:rapporteur
 \mm ya:mrph:ABSTR
 \ps n
 \gf vol.et.mensonge
 \gvf vol et mensonge
 \smf (deux vices souvent associés)
-\dt 30/Oct/2017
+\dt 04/Apr/2019
 
 \lx nsónson
 \ps n
@@ -103912,7 +103956,7 @@ craie ...)
 
 \lx nsórobilen
 \mm nsóro:n:arbre.Ficus.dicranostyla
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \ms 1
 \gf arbre.Ficus.dicranostyla
@@ -103921,7 +103965,7 @@ craie ...)
 \ms 2
 \gvf couleur orange
 \smf (tirée du 'Ficus dicranostyla')
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx nsóroŋɛɲɛ
 \mm nsóro:n:arbre.Ficus.dicranostyla
@@ -103999,7 +104043,7 @@ craie ...)
 
 \lx ntábanɔgɔ
 \mm ntába:n:cola.ntaba
-\mm nɔ́gɔ:vq/adj:gluant
+\mm nɔ́gɔ:adj:gluant
 \ps n
 \gf cola.ntaba
 \gvf cola ntaba
@@ -104008,7 +104052,7 @@ craie ...)
 \smf (les fruits dans les gousses sont recouverts d'une matière visqueuse)
 \sy ntába
 \sy wɔ́nflɔ
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx ntàki
 \va ntàgi
@@ -104144,17 +104188,17 @@ craie ...)
 
 \lx ntámakunba
 \mm ntáma:n:détar
-\mm kùnba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \va ntábakunba
-\mm kùnba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \va tábakunba
-\mm kùnba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf grand.détar
 \gvf grand détar
@@ -104162,7 +104206,7 @@ craie ...)
 \lat Detarium.senegalense
 \sd césa
 \smf (la pulpe du fruit est très riche en vitamine C, il existe des variétés de fruit amer,  toxique)
-\dt 22/Apr/2017
+\dt 04/Apr/2019
 
 \lx ntàmakuru
 \mm kùru:n:boule
@@ -104400,7 +104444,7 @@ craie ...)
 
 \lx ntènbilen
 \mm ntèn:n:palmier.à.huile
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf érythrine
 \gvf érythrine
@@ -104408,7 +104452,7 @@ craie ...)
 \sd papi
 \smf (arbre, belle inflorescence rouge vif, fruit toruleux aux petites graines rouges)  ---> 5 / 15 m)
 \sy ntènkisɛdabilen
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntènji
 \mm ntèn:n:palmier.à.huile
@@ -104424,12 +104468,12 @@ craie ...)
 \mm ntèn:n:palmier.à.huile
 \mm kìsɛ:n:grain
 \mm dá:n:bouche
-\mm bìlen:vq/adj:rouge
-\va ntèn.kìsɛ.dá.blén
+\mm bìlen:adj:rouge
+\va ntènkìsɛdáblén
 \mm ntèn:n:palmier.à.huile
 \mm kìsɛ:n:grain
 \mm dá:n:bouche
-\mm blèn:vq:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf érythrine
@@ -104438,13 +104482,13 @@ craie ...)
 \sd papi
 \smf (arbre, belle inflorescence rouge vif, fruit toruleux aux petites graines rouges, ---> 5 / 15 m)
 \sy ntènbilen
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntènkìsɛdáfín
 \mm ntèn:n:palmier.à.huile
 \mm kìsɛ:n:grain
 \mm dá:n:bouche
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf abrus.à.prière
 \gvf abrus à prière
@@ -104452,7 +104496,7 @@ craie ...)
 \lat Abrus.precatorius
 \sd papi
 \smf (graines rouge vif ressemblant à celles de l'érythrine mais avec une tache noire sur le hile)
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx ntènɲama
 \mm ntèn:n:maladie.d'enfant.sp
@@ -104481,7 +104525,7 @@ craie ...)
 
 \lx ntɛ́bɛnfin
 \mm ntɛ́bɛn:n:poisson.Tilapia.sp
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \ms 1
 \gf poisson.Ctenopema.kingsleyae
@@ -104491,16 +104535,16 @@ craie ...)
 \gvf poisson Ctenopema petherici
 \smf (---> 19 cm)
 \sy kɔ́lɔfara
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntɛ́bɛnjɛ
 \mm ntɛ́bɛn:n:poisson.Tilapia.sp
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf poisson.Sarotherodon.galileus
 \gvf poisson Sarotherodon galileus
 \smf (---> 33 cm, ---> 1,620 kg (vivent souvent en bancs))
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntɛ́ɛnmàsa
 \ps intj
@@ -104611,22 +104655,22 @@ craie ...)
 \lx ntígikɛkɔrɔ
 \mm ntígi:n:poisson-électrique
 \mm kɛ:adj:mâle
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
-\gf poisson.homme.lent
-\gvf poisson homme lent
-\smf (comme un "ntigi", poisson  électrique)
-\dt 16/Aug/2006
+\gf homme.lent
+\gvf homme lent
+\smf (comme un "ntigi", poisson-électrique)
+\dt 04/Apr/2019
 
 \lx ntígimusokɔrɔ
 \mm ntígi:n:poisson-électrique
 \mm mùso:adj:femme
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
-\gf poisson.femme.lent
-\gvf poisson femme lent
+\gf femme.lente
+\gvf femme lente
 \smf (comme un "ntigi", poisson électrique)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntíleku
 \va ntléku
@@ -104657,16 +104701,34 @@ craie ...)
 
 \lx ń-tìn-kà-dɔ́n
 \mm ń:pers:1SG
-\mm tìn:n:compassion
+\mm tìn:prt:PST
+\mm kà:pm:INF
+\mm dɔ́n:n:connaissance
+\va ntùnkadɔn
+\mm ń:pers:1SG
+\mm tùn:prt:PST
+\mm kà:pm:INF
+\mm dɔ́n:n:connaissance
+\va tìnnadɔn
+\mm tìn:prt:PST
+\mm na:pm:CERT
+\mm dɔ́n:n:connaissance
+\va tùnkadɔn
+\mm tùn:prt:PST
+\mm kà:pm:INF
+\mm dɔ́n:n:connaissance
+\va tìnkadɔn
+\mm tìn:prt:PST
 \mm kà:pm:INF
 \mm dɔ́n:n:connaissance
 \ps n
 \gf regret
 \gvf regret
+\gvf remords
 \smf (n-tùn-kà-dɔn = si j'avais su !)
 \xv súgujɔ kɛ́ra ń-tìn-kà-dɔ́n yé à bólo
 \xf il a regretté d'être allé au marché  (il n'a rien vendu ni acheté)
-\dt 12/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntíntàntin
 \ps n
@@ -104771,9 +104833,9 @@ craie ...)
 \dt 21/Oct/2017
 
 \lx ntòlatankɛnɛ
-\mm ntòla.tan:n:football
-\mm ntòla:n:balle
-\mm tán:v:frapper
+\mm ntòlatan:n:football
+\mmm ntòla:n:balle
+\mmm tán:v:frapper
 \mm kɛ́nɛ:n:clarté
 \ps n
 \gf terrain.de.football
@@ -104782,7 +104844,7 @@ craie ...)
 \xv síniwa bɛ́na ntòlatankɛnɛ 3 jɔ̀ Màli lá
 \xf Les chinois vont construire 3 stades de football au Mali (kb 8/05 p.1)
 \nt kb 1/06 p.10
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx ntòlatanna
 \mm ntòla:n:balle
@@ -104797,25 +104859,25 @@ craie ...)
 \dt 11/Mar/2018
 
 \lx ntòlatantɔn
-\mm ntòla.tan:n:football
-\mm ntòla:n:balle
-\mm tán:v:frapper
+\mm ntòlatan:n:football
+\mmm ntòla:n:balle
+\mmm tán:v:frapper
 \mm tɔ́n:n:société
 \ps n
 \gf club.de.football
 \gvf club de football
 \nt kb 5/06 p.12
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx ntòlatanyɔrɔ
-\mm ntòla.tan:n:football
-\mm ntòla:n:balle
-\mm tán:v:frapper
+\mm ntòlatan:n:football
+\mmm ntòla:n:balle
+\mmm tán:v:frapper
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf terrain.de.football
 \gvf terrain de football
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntòlo
 \ps n
@@ -104841,7 +104903,7 @@ craie ...)
 \smf (écureuil arboricole de petite taille)
 \dt 16/Aug/2006
 
-\lx ntólonín
+\lx ntólonin
 \mm ntólo:n:petit.écureuil
 \mm nin:mrph:DIM
 \ps n
@@ -104849,6 +104911,7 @@ craie ...)
 \gvf petit écureuil
 \lat Heliosciurus.gambianus
 \smf (écureuil arboricole de petite taille)
+\dt 04/Apr/2019
 
 \lx ntómi
 \ps n
@@ -104909,12 +104972,12 @@ craie ...)
 
 \lx ntòmoncinin
 \mm ntòmo:n:"ntomo"
-\mm ncínin:vq/adj:petit
+\mm ncínin:adj:petit
 \ps n
 \gf 1ème.stade.d'initiation.au."ntomo"
 \gvf 1ème stade d'initiation au "ntomo"
 \smf (des jeunes garçons non circoncis, tesson de calebasse percé, avec une toile d'araignée collée sur le trou)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntòn
 \va ntò
@@ -104956,13 +105019,13 @@ craie ...)
 \lx ntónda
 \mm ntón:n:noeud.coulant
 \mm dá:n:bouche
-\va ntó.da
+\va ntóda
 \mm ntó:n:noeud.coulant
 \mm dá:n:bouche
 \ps n
 \gf boucle
 \gvf boucle
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntòni
 \ps n
@@ -105037,18 +105100,18 @@ craie ...)
 \lx ntóolenbafin
 \mm ntóolen:n:petit.calao
 \mm ba:mrph:AUGM
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf petit.calao.à.bec.noir
 \gvf petit calao à bec noir
 \lat Tockus.nasutus
 \sy mákantaantoolen
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntóolenbaga
 \mm ntóolen:n:petit.calao
 \mm bàga:n:poison
-\va ntóolen.bwa
+\va ntóolenbwa
 \mm ntóolen:n:petit.calao
 \mm bwà:n:poison
 \ps n
@@ -105058,7 +105121,7 @@ craie ...)
 \lat Sansevieria.liberica
 \sd agav
 \smf (au coucher du soleil les 6 lobes du périgone s'étalent et s'enroulent sur eux-mêmes)
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx ntòolo
 \ps v
@@ -105094,7 +105157,7 @@ craie ...)
 \lx ntòrida
 \mm ntòri:n:crapaud
 \mm dà:n:chanvre
-\va ntɔ̀ri.da
+\va ntɔ̀rida
 \mm ntɔ̀ri:n:crapaud
 \mm dà:n:chanvre
 \ps n
@@ -105103,7 +105166,7 @@ craie ...)
 \smf (plante herbacée ---> 1 / 1,5 m)
 \sd malv
 \smf (fleur blanc jaunâtre ou jaune crème)
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntòri-ká-sìgilan
 \va ntòrisìgilan
@@ -105124,7 +105187,7 @@ craie ...)
 \lx ntòrinin
 \mm ntòri:n:crapaud
 \mm nin:mrph:DIM
-\va ntɔ̀ri.nin
+\va ntɔ̀rinin
 \mm ntɔ̀ri:n:crapaud
 \mm nin:mrph:DIM
 \ps n
@@ -105134,34 +105197,36 @@ craie ...)
 \ms 2
 \gvf parties sexuelles féminines
 \smf (t.i)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntòrininkùnba
-\mm ntòri.nin:n:petit.crapaud
-\mm ntòri:n:crapaud
-\mm nin:mrph:DIM
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm ntòrinin:n:petit.crapaud
+\mmm ntòri:n:crapaud
+\mmm nin:mrph:DIM
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf têtard
 \gvf têtard
+\dt 04/Apr/2019
 
 \lx ntòriɲama
 \mm ntòri:n:crapaud
 \mm ɲàma:n:force.occulte
-\va ntɔ̀ri.ɲama
+\va ntɔ̀riɲama
 \mm ntɔ̀ri:n:crapaud
 \mm ɲàma:n:force.occulte
 \ps n
 \gf oedème.généralisé
 \gvf oedème généralisé
 \smf (chez les enfants, accès pernicieux ..., amaigrissement jusqu'à rendre la peau grisâtre)
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx ntòrisen
 \mm ntòri:n:crapaud
 \mm sèn:n:jambe
-\va ntɔ̀ri.sen
+\va ntɔ̀risen
 \mm ntɔ̀ri:n:crapaud
 \mm sèn:n:jambe
 \ps n
@@ -105171,12 +105236,12 @@ craie ...)
 \sy nkámasen
 \sd comp
 \smf (feuilles profondément divisées)
-\dt 19/Aug/2006 g84
+\dt 04/Apr/2019
 
 \lx ntòriwolo
 \mm ntòri:n:crapaud
 \mm wòlo:n:peau
-\va ntɔ̀ri.wolo
+\va ntɔ̀riwolo
 \mm ntɔ̀ri:n:crapaud
 \mm wòlo:n:peau
 \ps n
@@ -105185,7 +105250,7 @@ craie ...)
 \gvf cuir vert clair
 \ms 2
 \gvf parties sexuelles féminines
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntɔ́gɔntɔgɔ
 \va ndɔ́gɔndɔgɔ
@@ -105417,7 +105482,7 @@ craie ...)
 \lx ntúfanbafin
 \mm ntúfan:n:tourterelle
 \mm ba:mrph:AUGM
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \ms 1
 \gf tourterelle.à.collier
@@ -105428,7 +105493,7 @@ craie ...)
 \gvf tourterelle pleureuse
 \lat Streptopelia.decipiens
 \smf (régions semi-arides, pas trop loin de l'eau)
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntúfannin
 \mm ntúfan:n:tourterelle
@@ -105441,17 +105506,17 @@ craie ...)
 \dt 16/Aug/2006
 
 \lx ntúfanninkanfin
-\mm ntúfan.nin:n:tourterelle.maillée
-\mm ntúfan:n:tourterelle
-\mm nin:mrph:DIM
+\mm ntúfannin:n:tourterelle.maillée
+\mmm ntúfan:n:tourterelle
+\mmm nin:mrph:DIM
 \mm kán:n:cou
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf tourterelle.vineuse
 \gvf tourterelle vineuse
 \lat Streptopelia.vinacea
 \smf (pas anthropophile, plaines sèches à graminées)
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntúgannin-ká-jè
 \mm ntúgan:n:tourterelle
@@ -105483,11 +105548,11 @@ craie ...)
 
 \lx ntùgunbilen
 \mm ntùgun:n:butte
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf tombe
 \gvf tombe
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx ntúlo
 \va ntló
@@ -105577,14 +105642,14 @@ craie ...)
 \dt 12/Aug/2006
 
 \lx ntùrutibilen
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf muqueuse
 \gvf muqueuse
 \smf (partie rouge des muqueuses (des cavités du corps ...))
 \xv ní  díkisɛ y'í cín, í dácogo bɛ́ júguya k'à ntùruti bɔ́
 \xf si une abeille te pique, ta bouche s'enlaidit et fait apparaître sa muqueuse
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ntúsu
 \va ntúsun
@@ -105611,23 +105676,6 @@ banane, etc.)
 \xv í bɔ́ra né nù mà
 \xf je t'ai dépanné (tu t'en es sorti grâce à moi, grâce à mon intervention, à ma participation)
 \dt 01/Apr/2014
-
-\lx nú
-\va nún
-\ps n
-\ms 1
-\gf nez
-\gvf nez
-\xv í nú fyɛ́ !
-\xf mouche ton nez
-\xv à kása bɛ́  né nú ná
-\xf j'en sens l'odeur
-\ms 2
-\gvf pointe
-\smf (d'un couteau d'une lame, d'une lance ...)
-\xv fɛ́n nú bɔ́
-\xf épointer, tailler en pointe
-\dt 26/Sep/2006
 
 \lx núbara
 \mm nú:n:nez
@@ -105774,12 +105822,12 @@ banane, etc.)
 
 \lx nùgujugu
 \mm nùgu:n:intestin
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \gf avare.de.nourriture
 \gvf avare de nourriture
 \smf (qui ne partage pas son repas avec qqn d'autre)
-\dt 05/Apr/2016
+\dt 04/Apr/2019
 
 \lx nùgukun
 \mm nùgu:v:bourgeonner
@@ -105830,15 +105878,15 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx nùgumaba
-\mm nùgu.ma:adj:gourmand
-\mm nùgu:n:intestin
-\mm ma:mrph:COM
+\mm nùguma:adj:gourmand
+\mmm nùgu:n:intestin
+\mmm ma:mrph:COM
 \mm ba:mrph:AUGM
 \ps adj/n
 \gf gourmand
 \gvf gourmand
 \gvf bâfreur
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nùguman
 \mm nùgu:vq:lisse
@@ -105850,14 +105898,14 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx nùgumaya
-\mm nùgu.ma:adj:gourmand
-\mm nùgu:n:intestin
-\mm ma:mrph:COM
+\mm nùguma:adj:gourmand
+\mmm nùgu:n:intestin
+\mmm ma:mrph:COM
 \mm ya:mrph:ABSTR
 \ps n
 \gf gloutonnerie
 \gvf gloutonnerie
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx nùgumɛ
 \ps v
@@ -105867,12 +105915,12 @@ banane, etc.)
 
 \lx nùgumisɛn
 \mm nùgu:n:intestin
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ps n
 \gf intestin.grêle
 \gvf intestin grêle
 \sy nùguden
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx nùgurɛ
 \va nùgure
@@ -105919,67 +105967,6 @@ banane, etc.)
 \gvf lustrer
 \dt 26/Sep/2006
 
-\lx núji
-\mm nú:n:nez
-\mm jí:n:eau
-\va nún.ji
-\mm nún:n:nez
-\mm jí:n:eau
-\ps n
-\gf morve
-\gvf morve
-\xv í núji tùn bɛ́ bɔ́
-\xf ton nez coulait
-\dt 26/Sep/2006
-
-\lx nújibɔ
-\mm nú.ji:n:morve
-\mm nú:n:nez
-\mm jí:n:eau
-\mm bɔ́:n:sortie
-\va nún.ji.bɔ
-\mm nún.ji:n:morve
-\mm nún:n:nez
-\mm jí:n:eau
-\mm bɔ́:n:sortie
-\ps n
-\ms 1
-\gf écoulement.du.nez
-\gvf écoulement du nez
-\ms 2
-\gvf morveux
-\dt 26/Sep/2006
-
-\lx nújuru
-\mm nú:n:nez
-\mm jùru:n:corde
-\va nún.juru
-\mm nún:n:nez
-\mm jùru:n:corde
-\ps n
-\ms 1
-\gf bride
-\gvf bride
-\smf (corde attachée au museau et qui sert à guider un animal)
-\ms 2
-\gvf cloison nasale
-\sy dájuru
-\xv k'ù nújurunin ɲími
-\xf leur ronger la cloison nasale
-\rem du
-\dt 11/Nov/2007
-
-\lx núkala
-\mm nú:n:nez
-\mm kàla:n:tige
-\va nún.kala
-\mm nún:n:nez
-\mm kàla:n:tige
-\ps n
-\gf arête.du.nez
-\gvf arête du nez
-\dt 16/Aug/2006
-
 \lx núkoto
 \mm nú:n:nez
 \mm kòto:n:partie.basse.du.dos
@@ -105991,75 +105978,21 @@ banane, etc.)
 \gvf chanfrein
 \dt 16/Aug/2006
 
-\lx núkɔnɔsi
-\mm nú:n:nez
-\mm kɔ́nɔ:pp:à.l’intérieur
-\mm sí:n:poil
-\va nún.kɔnɔ.si
-\mm nún:n:nez
-\mm kɔ́nɔ:pp:à.l’intérieur
-\mm sí:n:poil
-\ps n
-\ms 1
-\gf poil.du.nez
-\gvf poil du nez
-\ms 2
-\gvf personne très chère
-\xv dén yé  núkɔnɔsi yé, ń'í y'á bɔ̀, í ɲɛ́ji bɛ́ bɔ́
-\xf l'enfant est un être très cher, si on te l'arrache, tu pleures
-\dt 16/Aug/2006
-
-\lx núkɔrɔsi
-\mm nú:n:nez
-\mm kɔ́rɔ:pp:sous
-\mm sí:n:poil
-\va nún.kɔrɔ.si
-\mm nún:n:nez
-\mm kɔ́rɔ:pp:sous
-\mm sí:n:poil
-\ve (dú)
-\va nún.kɔrɔ.sii
-\mm nún:n:nez
-\mm kɔ́rɔ:pp:sous
-\mm síi:n:poil
-\ps n
-\gf moustache
-\gvf moustache
-\ve (b)
-\sy dálasi
-\ve (bz)
-\sy dási
-\rem l 89, du, b, jos
-\dt 11/Nov/2007
-
-\lx núkun
-\mm nú:n:nez
-\mm kùn:n:tête
-\va nún.kun
-\mm nún:n:nez
-\mm kùn:n:tête
-\ps n
-\ms 1
-\gf bout.du.nez
-\gvf bout du nez
-\ms 2
-\gvf pointe
-\dt 16/Aug/2006
-
 \lx núkurun
 \mm nú:n:nez
-\mm kùrun:vq/adj:court
+\mm kùrun:adj:court
 \ps n
 \gf mangue.de.forme.trapue
 \gvf mangue de forme trapue
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx núkurun
 \mm nú:n:nez
-\mm kùrun:vq/adj:court
+\mm kùrun:adj:court
 \ps n
 \gf petit.mil.tardif
 \gvf petit mil tardif
+\dt 04/Apr/2019
 
 \lx núma
 \va núman
@@ -106072,39 +106005,39 @@ banane, etc.)
 \dt 16/Aug/2006
 
 \lx númabolo
-\mm núma:adj/n:gauche
+\mm núma:n:gauche
 \mm bólo:n:bras
 \ps n
 \gf main.gauche
 \gvf main gauche
 \xv kínibolo tɛ́ màga à lá, númabolo kɔ́
 \xf la main droite n'y touche pas, si ce n'est la gauche
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx númafɛla
-\mm núma:adj/n:gauche
+\mm núma:n:gauche
 \mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \gf la.gauche
 \gvf la gauche
 \sy númayanfan
-\dt 07/Feb/2016
+\dt 04/Apr/2019
 
 \lx númafɛlaka
-\mm núma.fɛ.la:n:la.gauche
-\mm núma:adj/n:gauche
-\mm fɛ̀:pp:par
-\mm la:mrph:LOC
+\mm númafɛla:n:la.gauche
+\mmm núma:n:gauche
+\mmm fɛ̀:pp:par
+\mmm la:mrph:LOC
 \mm ka:mrph:GENT
 \ps n
 \gf femme
 \gvf femme
 \smf (mot qui désigne les femmes, à la traditionnelle, elles sont enterrées sur le coude gauche !)
-\dt 07/Feb/2016
+\dt 04/Apr/2019
 
 \lx númakuru
-\mm núma:adj/n:gauche
+\mm núma:n:gauche
 \mm kùru:n:boule
 \ps n
 \ms 1
@@ -106119,19 +106052,19 @@ banane, etc.)
 \xv kàrisa yé  númakuru yé
 \xf un tel est gaucher
 \sy númama
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx númakuruma
-\mm núma.kuru:n:main.gauche
-\mm núma:adj/n:gauche
-\mm kùru:n:boule
+\mm númakuru:n:main.gauche
+\mmm núma:n:gauche
+\mmm kùru:n:boule
 \mm ma:mrph:COM
 \ps adj/n
 \gf gaucher
 \gvf gaucher
 \sy númama
 \sy númakuru
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx nùmu
 \va nùmun
@@ -106166,87 +106099,22 @@ banane, etc.)
 \smf (caste, métier)
 \dt 26/Sep/2006
 
-\lx núnadafalen
-\mm nú:n:nez
-\mm ná:pp:à
-\mm dá:n:bouche
-\mm fá:v:remplir
-\mm len:mrph:PTCP.RES
-\ve (kb)
-\va nún.na.da.fa.len
-\mm nún:n:nez
-\mm ná:pp:à
-\mm dá:n:bouche
-\mm fá:v:remplir
-\mm len:mrph:PTCP.RES
+\lx nún
+\va nú
 \ps n
-\gf voyelle.nasale
-\gvf voyelle nasale
-\smf (néo)
-\dt 11/Nov/2007
-
-\lx núnadafata
-\mm nú:n:nez
-\mm ná:pp:à
-\mm dá:n:bouche
-\mm fá:v:remplir
-\mm ta:mrph:PTCP.POT
-\ve (kb)
-\va nún.na.da.fa.ta
-\mm nún:n:nez
-\mm ná:pp:à
-\mm dá:n:bouche
-\mm fá:v:remplir
-\mm ta:mrph:PTCP.POT
-\ps n
-\gf consonne.nasale
-\gvf consonne nasale
-\dt 11/Nov/2007
-
-\lx núnafɔ
-\mm nú:n:nez
-\mm ná:pp:à
-\mm fɔ́:n:action.de.dire
-\va nún.na.fɔ
-\mm nún:n:nez
-\mm ná:pp:à
-\mm fɔ́:n:action.de.dire
-\ps n
-\gf nasalisation
-\gvf nasalisation
-\smf (néologisme)
-\dt 16/Aug/2006
-
-\lx núnafɔ
-\mm nú:n:nez
-\mm ná:pp:à
-\mm fɔ́:v:dire
-\va nún.na.fɔ
-\mm nún:n:nez
-\mm ná:pp:à
-\mm fɔ́:v:dire
-\ps v
-\vl vt ?
-\gf nasiller
-\gvf nasiller
-\xv à ká kúma bɛ́ɛ núnafɔra, né má  ù fàamu
-\xf il a prononcé toutes ses paroles du nez, je ne les ai pas comprises
-\dt 16/Aug/2006
-
-\lx núnakumana
-\mm nú:n:nez
-\mm ná:pp:à
-\mm kúma:v:parler
-\mm na:mrph:AG.PRM
-\va nún.na.kuma.na
-\mm nún:n:nez
-\mm ná:pp:à
-\mm kúma:v:parler
-\mm na:mrph:AG.PRM
-\ps n
-\gf nasillard
-\gvf nasillard
-\dt 16/Aug/2006
+\ms 1
+\gf nez
+\gvf nez
+\xv í nú fyɛ́ !
+\xf mouche ton nez
+\xv à kása bɛ́  né nú ná
+\xf j'en sens l'odeur
+\ms 2
+\gvf pointe
+\smf (d'un couteau d'une lame, d'une lance ...)
+\xv fɛ́n nú bɔ́
+\xf épointer, tailler en pointe
+\dt 04/Apr/2019
 
 \lx núnci
 \mm nún:n:nez
@@ -106278,6 +106146,37 @@ banane, etc.)
 \gvf lunettes
 \dt 05/Jun/2015
 
+\lx núnji
+\mm nún:n:nez
+\mm jí:n:eau
+\va núji
+\mm nú:n:nez
+\mm jí:n:eau
+\ps n
+\gf morve
+\gvf morve
+\xv í núji tùn bɛ́ bɔ́
+\xf ton nez coulait
+\dt 04/Apr/2019
+
+\lx núnjibɔ
+\mm núnji:n:morve
+\mmm nún:n:nez
+\mmm jí:n:eau
+\mm bɔ́:n:sortie
+\va nújibɔ
+\mm núji:n:morve
+\mmm nú:n:nez
+\mmm jí:n:eau
+\mm bɔ́:n:sortie
+\ps n
+\ms 1
+\gf écoulement.du.nez
+\gvf écoulement du nez
+\ms 2
+\gvf morveux
+\dt 04/Apr/2019
+
 \lx núnjɔlɔkɔ
 \mm nún:n:nez
 \mm jɔ̀lɔkɔ:n:chaîne
@@ -106289,7 +106188,94 @@ banane, etc.)
 \gvf cloison nasale
 \dt 13/May/2014
 
+\lx núnjuru
+\mm nún:n:nez
+\mm jùru:n:corde
+\va nújuru
+\mm nú:n:nez
+\mm jùru:n:corde
+\ps n
+\ms 1
+\gf bride
+\gvf bride
+\smf (corde attachée au museau et qui sert à guider un animal)
+\ms 2
+\gvf cloison nasale
+\sy dájuru
+\xv k'ù nújurunin ɲími
+\xf leur ronger la cloison nasale
+\rem du
+\dt 04/Apr/2019
+
+\lx núnkala
+\mm nún:n:nez
+\mm kàla:n:tige
+\va núkala
+\mm nú:n:nez
+\mm kàla:n:tige
+\ps n
+\gf arête.du.nez
+\gvf arête du nez
+\dt 04/Apr/2019
+
+\lx núnkɔnɔsi
+\mm nún:n:nez
+\mm kɔ́nɔ:pp:à.l’intérieur
+\mm sí:n:poil
+\va núkɔnɔsi
+\mm nú:n:nez
+\mm kɔ́nɔ:pp:à.l’intérieur
+\mm sí:n:poil
+\ps n
+\ms 1
+\gf poil.du.nez
+\gvf poil du nez
+\ms 2
+\gvf personne très chère
+\xv dén yé  núkɔnɔsi yé, ń'í y'á bɔ̀, í ɲɛ́ji bɛ́ bɔ́
+\xf l'enfant est un être très cher, si on te l'arrache, tu pleures
+\dt 04/Apr/2019
+
+\lx núnkɔrɔsi
+\mm nún:n:nez
+\mm kɔ́rɔ:pp:sous
+\mm sí:n:poil
+\ve (dú)
+\va núnkɔrɔsii
+\mm nún:n:nez
+\mm kɔ́rɔ:pp:sous
+\mm síi:n:poil
+\va núkɔrɔsi
+\mm nú:n:nez
+\mm kɔ́rɔ:pp:sous
+\mm sí:n:poil
+\ps n
+\gf moustache
+\gvf moustache
+\ve (b)
+\sy dálasi
+\ve (bz)
+\sy dási
+\rem l 89, du, b, jos
+\dt 04/Apr/2019
+
+\lx núnkun
+\mm nún:n:nez
+\mm kùn:n:tête
+\va núkun
+\mm nú:n:nez
+\mm kùn:n:tête
+\ps n
+\ms 1
+\gf bout.du.nez
+\gvf bout du nez
+\ms 2
+\gvf pointe
+\dt 04/Apr/2019
+
 \lx núnkurun
+\mm nún:n:nez
+\mm kùrun:adj:court
 \ps n
 \ms 1
 \gf nez.épaté
@@ -106301,17 +106287,99 @@ banane, etc.)
 \ms 4
 \gvf mil tardif
 \smf (Pennicularia spicata)
-\dt 27/Jan/2016
+\dt 04/Apr/2019
 
 \lx núnnabiri
 \mm nún:n:nez
 \mm lábiri:v:abaisser
-\mm ná:mrph:CAUS
-\mm bíri:v:courber
+\mmm ná:mrph:CAUS
+\mmm bíri:v:courber
 \ps n
 \gf cache-nez
 \gvf cache-nez
-\dt 22/Oct/2017
+\dt 04/Apr/2019
+
+\lx núnnadafalen
+\mm nún:n:nez
+\mm ná:pp:à
+\mm dá:n:bouche
+\mm fá:v:remplir
+\mm len:mrph:PTCP.RES
+\va núnadafalen
+\mm nú:n:nez
+\mm ná:pp:à
+\mm dá:n:bouche
+\mm fá:v:remplir
+\mm len:mrph:PTCP.RES
+\ve (kb)
+\ps n
+\gf voyelle.nasale
+\gvf voyelle nasale
+\smf (néo)
+\dt 04/Apr/2019
+
+\lx núnnadafata
+\mm nún:n:nez
+\mm ná:pp:à
+\mm dá:n:bouche
+\mm fá:v:remplir
+\mm ta:mrph:PTCP.POT
+\va núnadafata
+\mm nú:n:nez
+\mm ná:pp:à
+\mm dá:n:bouche
+\mm fá:v:remplir
+\mm ta:mrph:PTCP.POT
+\ve (kb)
+\ps n
+\gf consonne.nasale
+\gvf consonne nasale
+\dt 04/Apr/2019
+
+\lx núnnafɔ
+\mm nún:n:nez
+\mm ná:pp:à
+\mm fɔ́:n:action.de.dire
+\va núnafɔ
+\mm nú:n:nez
+\mm ná:pp:à
+\mm fɔ́:n:action.de.dire
+\ps n
+\gf nasalisation
+\gvf nasalisation
+\smf (néologisme)
+\dt 04/Apr/2019
+
+\lx núnnafɔ
+\mm nún:n:nez
+\mm ná:pp:à
+\mm fɔ́:v:dire
+\va núnafɔ
+\mm nú:n:nez
+\mm ná:pp:à
+\mm fɔ́:v:dire
+\ps v
+\vl vt ?
+\gf nasiller
+\gvf nasiller
+\xv à ká kúma bɛ́ɛ núnafɔra, né má  ù fàamu
+\xf il a prononcé toutes ses paroles du nez, je ne les ai pas comprises
+\dt 04/Apr/2019
+
+\lx núnnakumana
+\mm nún:n:nez
+\mm ná:pp:à
+\mm kúma:v:parler
+\mm na:mrph:AG.PRM
+\va núnakumana
+\mm nú:n:nez
+\mm ná:pp:à
+\mm kúma:v:parler
+\mm na:mrph:AG.PRM
+\ps n
+\gf nasillard
+\gvf nasillard
+\dt 04/Apr/2019
 
 \lx núnnango
 \mm nún:n:nez
@@ -106321,7 +106389,7 @@ banane, etc.)
 \mm nú:n:nez
 \mm nan:mrph:dans
 \mm gó:adj:désagréable
-\va nun.nɔn.go
+\va nunnɔngo
 \mm nú:n:nez
 \mm nɔn:mrph:IN
 \mm gó:adj:désagréable
@@ -106335,7 +106403,18 @@ banane, etc.)
 \ms 2
 \gvf taquin
 \smf (qui taquine méchamment)
-\dt 23/Mar/2015
+\dt 04/Apr/2019
+
+\lx núnwo
+\mm nún:n:nez
+\mm wò:n:trou
+\va núwo
+\mm nú:n:nez
+\mm wò:n:trou
+\ps n
+\gf narine
+\gvf narine
+\dt 04/Apr/2019
 
 \lx nùrdi
 \ps n
@@ -106353,33 +106432,22 @@ banane, etc.)
 \gvf balourd
 \dt 26/Sep/2006
 
-\lx núwo
-\mm nú:n:nez
-\mm wò:n:trou
-\va nún.wo
-\mm nún:n:nez
-\mm wò:n:trou
-\ps n
-\gf narine
-\gvf narine
-\dt 26/Sep/2006
-
 \lx nwánanbabulu
-\mm nwá.nan:n:mucilage
-\mm nwá:v:salir
-\mm nan:mrph:INSTR
+\mm nwánan:n:mucilage
+\mmm nwá:v:salir
+\mmm nan:mrph:INSTR
 \mm ba:mrph:AUGM
 \mm búlu:n:feuille
 \ps n
 \gf plante.Ipomoea.aquatica
 \gvf plante Ipomoea aquatica
 \smf (plante adventice (volubile, fleurs mauves ou blanches))
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx nwánankala
-\mm nwá.nan:n:mucilage
-\mm nwá:v:salir
-\mm nan:mrph:INSTR
+\mm nwánan:n:mucilage
+\mmm nwá:v:salir
+\mmm nan:mrph:INSTR
 \mm kàla:n:tige
 \ps n
 \gf plante.Dioscorea.sp
@@ -106387,7 +106455,7 @@ banane, etc.)
 \lat Dioscorea.praehensilis / D.lecardii
 \sd dios
 \smf (igname de brousse)
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx nwúun
 \ps intj
@@ -106550,7 +106618,7 @@ banane, etc.)
 \lx ɲàamɛŋɔni
 \mm ɲàamɛ:n:dromadaire
 \mm ŋɔ́ni:n:épine
-\va ɲáamu.ŋɔni
+\va ɲáamuŋɔni
 \mm ɲáamu:n:dromadaire
 \mm ŋɔ́ni:n:épine
 \ps n
@@ -106563,7 +106631,7 @@ banane, etc.)
 \ms 2
 \lat Centaurea.senegalensis
 \sd comp
-\dt 19/Aug/2006
+\dt 04/Apr/2019
 
 \lx ɲáanikɔ̀nɔnin
 \mm ɲáani:v:être.content
@@ -106592,7 +106660,7 @@ banane, etc.)
 \lx ɲàci
 \mm ɲà:v:réussir
 \mm cí:n:commission
-\va ɲɛ̀.ci
+\va ɲɛ̀ci
 \mm ɲɛ̀:v:réussir
 \mm cí:n:commission
 \ps n
@@ -106601,22 +106669,22 @@ banane, etc.)
 \gvf emploi
 \xv í ɲàci yé  jùmɛn yé ?
 \xf que sais-tu faire ? quel travail sais-tu faire ?
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx ɲàcintan
-\mm ɲà.ci:n:utilité
-\mm ɲà:v:réussir
-\mm cí:n:commission
+\mm ɲàci:n:utilité
+\mmm ɲà:v:réussir
+\mmm cí:n:commission
 \mm ntan:mrph:PRIV
-\va ɲɛ̀.ci.ntan
-\mm ɲɛ̀.ci:n:utilité
-\mm ɲɛ̀:v:réussir
-\mm cí:n:commission
+\va ɲɛ̀cintan
+\mm ɲɛ̀ci:n:utilité
+\mmm ɲɛ̀:v:réussir
+\mmm cí:n:commission
 \mm ntan:mrph:PRIV
 \ps adj
 \gf inutile
 \gvf inutile
-\dt 16/Aug/2006
+\dt 04/Apr/2019
 
 \lx ɲàda
 \mm ɲà:n:réussite
@@ -106808,17 +106876,18 @@ banane, etc.)
 \va ɲàngaribɔ
 \mm ɲàgari:n:moquerie
 \mm bɔ́:v:sortir
-\va ɲàgari.la.bɔ
+\va ɲàgarilabɔ
 \mm ɲàgari:n:moquerie
-\mm lá:mrph:CAUS
-\mm bɔ́:v:sortir
+\mm lábɔ:v:faire.sortir
+\mmm lá:mrph:CAUS
+\mmm bɔ́:v:sortir
 \ps v
 \vl vt
 \gf se.moquer
 \gvf se moquer
 \gvf vexer
 \gvf faire bisquer
-\dt 19/Jul/2015
+\dt 04/Apr/2019
 
 \lx ɲàgaribɔ
 \mm ɲàgari:n:moquerie
@@ -106849,13 +106918,13 @@ banane, etc.)
 
 \lx ɲàjan
 \mm ɲà:n:python.royal
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf serpent.Dispholidus.typus
 \gvf serpent Dispholidus typus
 \smf (---> 1,75 m, arboricole, très agressif, cou bien marqué, oeil très grand, couleur vert olive)
 \sy túrɔɲa
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx ɲáka
 \ps n
@@ -107005,22 +107074,22 @@ banane, etc.)
 \mm ɲàma:n:ordure
 \mm kɛ́:v:faire
 \mm mìnɛn:n:outils
-\va ɲàma.kɛ.minan
+\va ɲàmakɛminan
 \mm ɲàma:n:ordure
 \mm kɛ́:v:faire
 \mm mìnan:n:outils
 \ps n
 \gf poubelle
 \gvf poubelle
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx ɲàmakolon
 \mm ɲàma:n:ordure
-\mm kólon:vq:fainéant
+\mm kólon:adj:usagé
 \ps n
 \gf vaurien
 \gvf vaurien
-\dt 12/Aug/2006
+\dt 04/Apr/2019
 
 \lx ɲámaku
 \ps n
@@ -107050,13 +107119,13 @@ banane, etc.)
 \lx ɲàmaminɛn
 \mm ɲàma:n:ordure
 \mm mìnɛn:n:outils
-\va ɲàma.minan
+\va ɲàmaminan
 \mm ɲàma:n:ordure
 \mm mìnan:n:outils
 \ps n
 \gf poubelle
 \gvf poubelle
-\dt 11/Nov/2007
+\dt 04/Apr/2019
 
 \lx ɲámamuso
 \mm ɲáma:n:arbre.Piliostigma.sp
@@ -107081,24 +107150,24 @@ banane, etc.)
 \sy bánakɔtaa
 \dt 15/Aug/2006
 
-\lx ɲàmaɲáma
-\va ɲàmanɲáman
+\lx ɲàmaɲama
+\va ɲàmanɲaman
 \ps n
 \gf bricoles
 \gvf bricoles
 \gvf objets hétéroclites
-\dt 26/Sep/2006
+\dt 04/Apr/2019
 
 \lx ɲàmaton
 \mm ɲàma:n:ordure
 \mm tòn:n:tas
-\va ɲàman.ton
+\va ɲàmanton
 \mm ɲàman:n:ordure
 \mm tòn:n:tas
 \ps n
 \gf tas.d'ordures
 \gvf tas d'ordures
-\dt 30/Nov/2014
+\dt 04/Apr/2019
 
 \lx ɲàmatɔ
 \mm ɲàma:n:force.occulte
@@ -107133,49 +107202,49 @@ banane, etc.)
 \dt 06/Nov/2014
 
 \lx ɲàmɔgɔden
-\mm ɲà.mɔgɔ:n:amant
-\mm ɲà:n:réussite
-\mm mɔ̀gɔ:n:homme
+\mm ɲàmɔgɔ:n:amant
+\mmm ɲà:n:réussite
+\mmm mɔ̀gɔ:n:homme
 \mm dén:n:enfant
 \va ɲàmaaden
-\mm ɲà.maa:n:amant
-\mm ɲà:n:réussite
-\mm màa:n:homme
+\mm ɲàmaa:n:amant
+\mmm ɲà:n:réussite
+\mmm màa:n:homme
 \mm dén:n:enfant
 \ps n
 \gf bâtard
 \gvf bâtard
-\dt 02/Mar/2018
+\dt 04/Apr/2019
 
 \lx ɲàmɔgɔkɛ
-\mm ɲà.mɔgɔ:n:amant
-\mm ɲà:n:réussite
-\mm mɔ̀gɔ:n:homme
+\mm ɲàmɔgɔ:n:amant
+\mmm ɲà:n:réussite
+\mmm mɔ̀gɔ:n:homme
 \mm kɛ:adj:mâle
 \va ɲàmaakɛ
-\mm ɲà.maa:n:amant
-\mm ɲà:n:réussite
-\mm màa:n:homme
+\mm ɲàmaa:n:amant
+\mmm ɲà:n:réussite
+\mmm màa:n:homme
 \mm kɛ:adj:mâle
 \ps n
 \gf amant
 \gvf amant
-\dt 06/Nov/2014
+\dt 04/Apr/2019
 
 \lx ɲàmɔgɔmuso
-\mm ɲà.mɔgɔ:n:amant
-\mm ɲà:n:réussite
-\mm mɔ̀gɔ:n:homme
+\mm ɲàmɔgɔ:n:amant
+\mmm ɲà:n:réussite
+\mmm mɔ̀gɔ:n:homme
 \mm mùso:adj:femme
 \va ɲàmaamuso
-\mm ɲà.maa:n:amant
-\mm ɲà:n:réussite
-\mm màa:n:homme
+\mm ɲàmaa:n:amant
+\mmm ɲà:n:réussite
+\mmm màa:n:homme
 \mm mùso:adj:femme
 \ps n
 \gf amante
 \gvf amante
-\dt 06/Nov/2014
+\dt 04/Apr/2019
 
 \lx ɲàna
 \va ɲànan
@@ -107632,9 +107701,9 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx ɲɛ́baya
-\mm ɲɛ́.ba:adj/n:impertinent
-\mm ɲɛ́:n:oeil
-\mm ba:mrph:AUGM
+\mm ɲɛ́ba:adj:impertinent
+\mmm ɲɛ́:n:oeil
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf orgueil
@@ -107643,7 +107712,7 @@ banane, etc.)
 \gvf jalousie
 \xv ń tɛ́ dòn í ká ɲɛ́baya lá
 \xf sauf votre respect
-\dt 21/Oct/2014
+\dt 04/Apr/2019
 
 \lx ɲɛ̀bɛrɛ
 \ps n
@@ -107665,7 +107734,7 @@ banane, etc.)
 \lx ɲɛ́bila
 \mm ɲɛ́:n:oeil
 \mm bìla:n:abandon
-\va ɲɛ́.bla
+\va ɲɛ́bla
 \mm ɲɛ́:pp:devant
 \mm blà:n:abandon
 \ph [bl]
@@ -107678,7 +107747,7 @@ banane, etc.)
 \gvf préface
 \ms 3
 \gvf jeu préliminaire
-\dt 31/May/2016
+\dt 04/Apr/2019
 
 \lx ɲɛ́bìla
 \mm ɲɛ́:n:oeil
@@ -113017,7 +113086,7 @@ le pèlerinage (bk 1/06 p.5)
 \ps adj
 \gf épineux
 \gvf épineux
-\dt 12/Aug/2006
+\dt 04/Apr/2019
 
 \lx ŋɔ́nɔ
 \ve (f)
