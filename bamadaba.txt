@@ -107735,7 +107735,7 @@ banane, etc.)
 \mm ɲɛ́:n:oeil
 \mm bìla:n:abandon
 \va ɲɛ́bla
-\mm ɲɛ́:pp:devant
+\mm ɲɛ́:n:oeil
 \mm blà:n:abandon
 \ph [bl]
 \ps n
@@ -107747,13 +107747,13 @@ banane, etc.)
 \gvf préface
 \ms 3
 \gvf jeu préliminaire
-\dt 04/Apr/2019
+\dt 05/Apr/2019
 
 \lx ɲɛ́bìla
 \mm ɲɛ́:n:oeil
 \mm bìla:v:mettre
-\va ɲɛ́.blà
-\mm ɲɛ́:pp:devant
+\va ɲɛ́blà
+\mm ɲɛ́:n:oeil
 \mm blà:v:mettre
 \ph [bl]
 \ps v
@@ -107762,11 +107762,11 @@ banane, etc.)
 \gvf prévoir
 \gvf préparer l'arrivée de
 \sy ɲɛ́sigi
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́bilen
 \mm ɲɛ́:n:oeil
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \ms 1
 \gf rougeâtre
@@ -107777,16 +107777,16 @@ banane, etc.)
 \ms 3
 \gvf européen
 \smf (péj)
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́bilenkɔrɔ
 \mm ɲɛ́:n:oeil
-\mm bìlen:vq/adj:rouge
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm bìlen:adj:rouge
+\mm kɔ̀rɔ:adj:vieux
 \ps adj/n
 \gf aux.yeux.rouges
 \gvf aux yeux rouges
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́bo
 \mm ɲɛ́:n:oeil
@@ -107848,14 +107848,14 @@ banane, etc.)
 \lx ɲɛ́bɔɔsi
 \mm ɲɛ́:n:oeil
 \mm bɔ̀ɔsi:v:écorcher
-\va ɲɛ́.bɔsi
+\va ɲɛ́bɔsi
 \mm ɲɛ́:n:oeil
 \mm bɔ̀si:v:écorcher
 \ps n
 \gf maladie.des.yeux
 \gvf maladie des yeux
 \gvf blépharite
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́cɛ̀
 \mm ɲɛ́:n:oeil
@@ -107892,7 +107892,7 @@ banane, etc.)
 \lx ɲɛ́cɔnkɔ
 \mm ɲɛ́:n:oeil
 \mm cɔ́nkɔ:v:presser
-\va ɲɛ́.cɔngɔ
+\va ɲɛ́cɔngɔ
 \mm ɲɛ́:n:oeil
 \mm cɔ́ngɔ:v:presser
 \ps n
@@ -107901,7 +107901,7 @@ banane, etc.)
 \gvf frottement des yeux
 \ms 2
 \gvf lamentation
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́cun
 \mm ɲɛ́:n:oeil
@@ -107910,10 +107910,10 @@ banane, etc.)
 \vl vi
 \gf apercevoir
 \gvf apercevoir
-\smf (ɲɛ.cun... kàn)
-\xv kàbi  à ɲɛ́cunna  Ngɔ̀lɔ kàn...
+\smf (qqch. -- kàn)
+\xv kàbi à ɲɛ́cunna  Ngɔ̀lɔ kàn...
 \xf dès qu'elle aperçut Ngolo ...
-\dt 05/Apr/2016
+\dt 05/Apr/2019
 
 \lx ɲɛ́da
 \mm ɲɛ́:n:oeil
@@ -107932,14 +107932,14 @@ banane, etc.)
 \ms 1
 \gf poser.regard
 \gvf poser regard
-\smf (sur ... la, kàn)
+\smf (sur - lá, kàn)
 \ms 2
 \gvf aller voir
 \smf (par amitié, affection ...)
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́dakololabana
-\mm ɲɛ́.da:n:visage
+\mm ɲɛ́da:n:visage
 \mmm ɲɛ́:n:oeil
 \mmm dá:n:bouche
 \mm kólo:n:os
@@ -107948,7 +107948,7 @@ banane, etc.)
 \ps n
 \gf sinusite
 \gvf sinusite
-\dt 03/Mar/2019
+\dt 05/Apr/2019
 
 \lx ɲɛ́den
 \mm ɲɛ́:n:oeil
@@ -107963,14 +107963,15 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx ɲɛ́dendɔgɔjɔ
-\mm ɲɛ́.den:n:globe.de.l'oeil
-\mm ɲɛ́:n:oeil
-\mm dén:n:enfant
+\mm ɲɛ́den:n:globe.de.l'oeil
+\mmm ɲɛ́:n:oeil
+\mmm dén:n:enfant
 \mm dɔ́gɔ:n:marché
 \mm jɔ̀:n:station.debout
 \ps n
 \gf spectacle
 \gvf spectacle
+\dt 05/Apr/2019
 
 \lx ɲɛ́dimi
 \mm ɲɛ́:n:oeil
@@ -107982,25 +107983,25 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx ɲɛ́dimijalan
-\mm ɲɛ́.dimi:n:ophtalmie
-\mm ɲɛ́:n:oeil
-\mm dími:n:souffrance
+\mm ɲɛ́dimi:n:ophtalmie
+\mmm ɲɛ́:n:oeil
+\mmm dími:n:souffrance
 \mm jàlan:adj:sec
 \ps n
 \gf conjonctivite.sèche
 \gvf conjonctivite sèche
 \gvf trichiasis
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́dimitɔ
-\mm ɲɛ́.dimi:n:ophtalmie
-\mm ɲɛ́:n:oeil
-\mm dími:n:souffrance
+\mm ɲɛ́dimi:n:ophtalmie
+\mmm ɲɛ́:n:oeil
+\mmm dími:n:souffrance
 \mm tɔ:mrph:ST
 \ps adj
 \gf qui.a.mal.aux.yeux
 \gvf qui a mal aux yeux
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́dingɛ
 \mm ɲɛ́:n:oeil
@@ -108047,15 +108048,15 @@ banane, etc.)
 \dt 17/Apr/2016
 
 \lx ɲɛ́donnamɔgɔ
-\mm ɲɛ́.dòn:v:braver
-\mm ɲɛ́:n:oeil
-\mm dòn:v:entrer
+\mm ɲɛ́dòn:v:braver
+\mmm ɲɛ́:n:oeil
+\mmm dòn:v:entrer
 \mm ná:pp:à
 \mm mɔ̀gɔ:n:homme
-\va ɲɛ́.don.na.maa
-\mm ɲɛ́.dòn:v:braver
-\mm ɲɛ́:n:oeil
-\mm dòn:v:entrer
+\va ɲɛ́donnamaa
+\mm ɲɛ́dòn:v:braver
+\mmm ɲɛ́:n:oeil
+\mmm dòn:v:entrer
 \mm ná:pp:à
 \mm màa:n:homme
 \ps n
@@ -108064,19 +108065,19 @@ banane, etc.)
 \gvf qui n’est pas respecté
 \ms 2
 \gvf personne que l'on sous-estime
-\dt 18/Dec/2014
+\dt 05/Apr/2019
 
 \lx ɲɛ́donya
-\mm ɲɛ́.dòn:v:braver
-\mm ɲɛ́:n:oeil
-\mm dòn:v:entrer
+\mm ɲɛ́dòn:v:braver
+\mmm ɲɛ́:n:oeil
+\mmm dòn:v:entrer
 \mm ya:mrph:ABSTR
 \ps n
 \gf effronterie
 \gvf effronterie
 \gvf outrage
 \smf (à un supérieur ...)
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́dɔn
 \mm ɲɛ́:n:oeil
@@ -108103,9 +108104,9 @@ banane, etc.)
 \dt 16/Aug/2006
 
 \lx ɲɛ́dɔnbali
-\mm ɲɛ́.dɔn:v:bien.connaître
-\mm ɲɛ́:n:oeil
-\mm dɔ́n:v:connaître
+\mm ɲɛ́dɔn:v:bien.connaître
+\mmm ɲɛ́:n:oeil
+\mmm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.NEG
 \ps ptcp
 \ms 1
@@ -108113,14 +108114,14 @@ banane, etc.)
 \gvf mystérieux
 \ms 2
 \gvf ignorant
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́dɔnbaliya
-\mm ɲɛ́.dɔn.bali:ptcp:mystérieux
-\mm ɲɛ́.dɔn:v:bien.connaître
-\mm ɲɛ́:n:oeil
-\mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.NEG
+\mm ɲɛ́dɔnbali:ptcp:mystérieux
+\mmm ɲɛ́dɔn:v:bien.connaître
+\mmmm ɲɛ́:n:oeil
+\mmmm dɔ́n:v:connaître
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf méconnaissance
@@ -108128,7 +108129,7 @@ banane, etc.)
 \gvf ignorance
 \xv kà báara ɲɛ́dɔnbaliya àni bɛ̀nbaliya bɛ́ sɛ̀nɛ gɛ̀lɛya  lá, Màli kɔ́nɔ
 \xf mais la difficulté de la culture vient aussi de l'ignorance des techniques et de la mésentente (kb 5/06 p.7) des paysans
-\dt 11/Nov/2007
+\dt 05/Apr/2019
 
 \lx ɲɛ́duuru
 \mm ɲɛ́:n:oeil
@@ -108162,15 +108163,15 @@ banane, etc.)
 
 \lx ɲɛ́farajɛ
 \mm ɲɛ́fara:n:paupière
-\mm ɲɛ́:n:oeil
-\mm fàra:n:enveloppe
+\mmm ɲɛ́:n:oeil
+\mmm fàra:n:enveloppe
 \mm jɛ́:adj:blanc
 \ps adj
 \gf bon.à.rien
 \gvf bon à rien
 \gvf personne sans intérêt
 \smf (en parlant d'une personne)
-\dt 20/Oct/2014
+\dt 05/Apr/2019
 
 \lx ɲɛ́faralen
 \mm ɲɛ́:n:oeil
@@ -108214,18 +108215,20 @@ banane, etc.)
 \dt 28/Mar/2018
 
 \lx ɲɛ́fɛko
-\mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:par
+\mm ɲɛ́fɛ̀:pp:devant
+\mmm ɲɛ́:n:oeil
+\mmm fɛ̀:pp:par
 \mm kó:n:affaire
 \ps n
 \gf avenir
 \gvf avenir
 \gvf événement à venir
-\dt 07/Feb/2016
+\dt 05/Apr/2019
 
 \lx ɲɛ́fɛla
-\mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:par
+\mm ɲɛ́fɛ̀:pp:devant
+\mmm ɲɛ́:n:oeil
+\mmm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \ms 1
@@ -108233,13 +108236,14 @@ banane, etc.)
 \gvf devanture
 \ms 2
 \gvf parties sexuelles
-\dt 07/Feb/2016
+\dt 05/Apr/2019
 
 \lx ɲɛ́fɛlabɔ
-\mm ɲɛ́.fɛ.la:n:devanture
-\mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:par
-\mm la:mrph:LOC
+\mm ɲɛ́fɛla:n:devanture
+\mmm ɲɛ́fɛ̀:pp:devant
+\mmmm ɲɛ́:n:oeil
+\mmmm fɛ̀:pp:par
+\mmm la:mrph:LOC
 \mm bɔ́:n:sortie
 \ps n
 \gf prolapsus.génital
@@ -108248,38 +108252,29 @@ banane, etc.)
 \sy mùsokaya
 \sy káliya bɔ́ta
 \rem jakité
-\dt 07/Feb/2016
+\dt 05/Apr/2019
 
 \lx ɲɛ́fɛmɔgɔ
 \mm ɲɛ́fɛ̀:pp:devant
-\mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:par
-\mm mɔ̀gɔ:n:homme
-\ps n
-\gf avants.football
-\gvf avants football
-\gvf attaquant
-\dt 31/May/2016
-
-\lx ɲɛ́fɛmɔgɔ
-\mm ɲɛ́:n:oeuil
-\mm fɛ̀:pp:avec
+\mmm ɲɛ́:n:oeil
+\mmm fɛ̀:pp:par
 \mm mɔ̀gɔ:n:personne
 \ps n
 \gf attaquant
 \gvf attaquant
 \gvf avant
 \smf (poste au football)
-\dt 01/Feb/2017
+\dt 05/Apr/2019
 
 \lx ɲɛ́fɛtaa
-\mm ɲɛ́:n:oeil
-\mm fɛ̀:pp:par
+\mm ɲɛ́fɛ̀:pp:devant
+\mmm ɲɛ́:n:oeil
+\mmm fɛ̀:pp:par
 \mm táa:n:départ
 \ps n
 \gf progrès
 \gvf progrès
-\dt 07/Feb/2016
+\dt 05/Apr/2019
 
 \lx ɲɛ́fin
 \mm ɲɛ́:n:oeil
@@ -108331,15 +108326,15 @@ banane, etc.)
 \dt 25/Jun/2013
 
 \lx ɲɛ́fɔli
-\mm ɲɛ́.fɔ:v:expliquer
-\mm ɲɛ́:n:oeil
-\mm fɔ́:v:dire
+\mm ɲɛ́fɔ:v:expliquer
+\mmm ɲɛ́:n:oeil
+\mmm fɔ́:v:dire
 \mm li:mrph:NMLZ
 \ps n
 \gf explication
 \gvf explication
 \smf (détaillée ...)
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́fwàn
 \mm ɲɛ́:n:oeil
@@ -108354,18 +108349,18 @@ banane, etc.)
 
 \lx ɲɛ́gan
 \mm ɲɛ́:n:oeil
-\mm gàn:vq:chaud
+\mm gàn:v:chaffer
 \ps n
 \gf punition
 \gvf punition
 \xv 'Nìn ɲɛ́gan nìn ká bòn né mà háali! (gn 4,13)
 \xf cette peine est trop lourde à porter pour moi
-\dt 11/Nov/2007
+\dt 05/Apr/2019
 
 \lx ɲɛ́gàn
 \mm ɲɛ́:n:oeil
 \mm gàn:v:chauffer
-\va ɲɛ́.gwàn
+\va ɲɛ́gwàn
 \mm ɲɛ́:n:oeil
 \mm gwàn:v:chauffer
 \ph [gw]
@@ -108379,7 +108374,7 @@ banane, etc.)
 \xv à nà ɲɛ́gan
 \xv à ɲɛ́ nà gàn
 \xf il sera puni
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ̀ganya
 \mm ɲɛ̀gan:n:sorcier.bienfaisant
@@ -108442,28 +108437,28 @@ banane, etc.)
 
 \lx ɲɛ́gɛnɛbilen
 \mm ɲɛ́gɛnɛ:n:urine
-\mm bìlen:vq/adj:rouge
-\va ɲɛ́gɛnɛ.blen
+\mm bìlen:adj:rouge
+\va ɲɛ́gɛnɛblen
 \mm ɲɛ́gɛnɛ:n:urine
-\mm blèn:vq:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf hématurie
 \gvf hématurie
 \gvf blennorragie
 \gvf bilharziose
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́gɛnɛkɛ
 \mm ɲɛ́gɛnɛ:n:urine
-\mm kɛ́:n:action
+\mm kɛ́:v:faire
 \ps n
 \ms 1
 \gf urination
 \gvf urination
 \ms 2
 \gvf énurésie
-\dt 10/Jun/2016
+\dt 05/Apr/2019
 
 \lx ɲɛ́gɛnɛkɛbaliya
 \mm ɲɛ́gɛnɛ:n:urine
@@ -108476,34 +108471,36 @@ banane, etc.)
 \dt 16/Aug/2006
 
 \lx ɲɛ́gɛnɛkɛbaliyabana
-\mm ɲɛ́gɛnɛ.kɛ.bali.ya:n:rétention.d'urine
-\mm ɲɛ́gɛnɛ:n:urine
-\mm kɛ́:v:faire
-\mm bali:mrph:PTCP.NEG
-\mm ya:mrph:ABSTR
+\mm ɲɛ́gɛnɛkɛbaliya:n:rétention.d'urine
+\mmm ɲɛ́gɛnɛ:n:urine
+\mmm kɛ́:v:faire
+\mmm bali:mrph:PTCP.NEG
+\mmm ya:mrph:ABSTR
 \mm bàna:n:maladie
 \ps n
 \gf rétention.d'urine
 \gvf rétention d'urine
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́gɛnɛkɛbana
-\mm ɲɛ́gɛnɛ.kɛ:n:énurésie
-\mm ɲɛ́gɛnɛ:n:urine
-\mm kɛ́:v:faire
+\mm ɲɛ́gɛnɛkɛ:n:urination
+\mmm ɲɛ́gɛnɛ:n:urine
+\mmm kɛ́:v:faire
 \mm bàna:n:maladie
 \ps n
 \gf énurésie
 \gvf énurésie
+\dt 05/Apr/2019
 
 \lx ɲɛ́gɛnɛkɛdimi
-\mm ɲɛ́gɛnɛ:n:urine
-\mm kɛ́:v:faire
+\mm ɲɛ́gɛnɛkɛ:n:urination
+\mmm ɲɛ́gɛnɛ:n:urine
+\mmm kɛ́:v:faire
 \mm dími:n:souffrance
 \ps n
 \gf douleur.à.la.miction
 \gvf douleur à la miction
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ̀gɛnjate
 \mm ɲɛ̀gɛn:n:dessin
@@ -108516,10 +108513,10 @@ banane, etc.)
 
 \lx ɲɛ́go
 \mm ɲɛ́:n:oeil
-\mm gó:vq:désagréable
-\va ɲɛ́n.go
+\mm gó:adj:désagréable
+\va ɲɛ́ngo
 \mm ɲɛ́n:n:oeil
-\mm gó:vq:désagréable
+\mm gó:adj:désagréable
 \ps adj/n
 \ms 1
 \gf jaloux
@@ -108527,34 +108524,34 @@ banane, etc.)
 \gvf égoïste
 \ms 2
 \gvf atteint d'amaurose
-\dt 05/Apr/2016
+\dt 05/Apr/2019
 
 \lx ɲɛ́gonci
-\mm ɲɛ́.go:adj/n:jaloux
-\mm ɲɛ́:n:oeil
-\mm gó:vq:désagréable
+\mm ɲɛ́go:adj:jaloux
+\mmm ɲɛ́:n:oeil
+\mmm gó:adj:désagréable
 \mm nci:mrph:AG.EX
-\va ɲɛ́n.go.nci
-\mm ɲɛ́n.go:adj/n:jaloux
-\mm ɲɛ́n:n:oeil
-\mm gó:vq:désagréable
+\va ɲɛ́ngonci
+\mm ɲɛ́ngo:adj:jaloux
+\mmm ɲɛ́:n:oeil
+\mmm gó:adj:désagréable
 \mm nci:mrph:AG.EX
 \ps n
 \gf jaloux
 \gvf jaloux
 \smf (à l'excès)
 \gvf égoïste invétéré
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́goya
-\mm ɲɛ́.go:adj/n:jaloux
-\mm ɲɛ́:n:oeil
-\mm gó:vq:désagréable
+\mm ɲɛ́go:adj:jaloux
+\mmm ɲɛ́:n:oeil
+\mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
-\va ɲɛ́n.go.ya
-\mm ɲɛ́n.go:adj/n:jaloux
-\mm ɲɛ́n:n:oeil
-\mm gó:vq:désagréable
+\va ɲɛ́ngoya
+\mm ɲɛ́ngo:adj:jaloux
+\mmm ɲɛ́:n:oeil
+\mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -108564,18 +108561,18 @@ banane, etc.)
 \ms 2
 \gvf amaurose
 \smf (baisse de la vision)
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́goya
-\mm ɲɛ́.go:adj/n:jaloux
-\mm ɲɛ́:n:oeil
-\mm gó:vq:désagréable
+\mm ɲɛ́go:adj:jaloux
+\mmm ɲɛ́:n:oeil
+\mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf jalouser
 \gvf jalouser
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́jà
 \mm ɲɛ́:n:oeil
@@ -108640,9 +108637,9 @@ banane, etc.)
 \dt 03/Mar/2019
 
 \lx ɲɛ́jibɔ
-\mm ɲɛ́.ji:n:larme
-\mm ɲɛ́:n:oeil
-\mm jí:n:eau
+\mm ɲɛ́ji:n:larme
+\mmm ɲɛ́:n:oeil
+\mmm jí:n:eau
 \mm bɔ́:n:sortie
 \ps n
 \ms 1
@@ -108651,17 +108648,17 @@ banane, etc.)
 \gvf action de pleurer
 \ms 2
 \gvf maladie du bétail
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́jiforoko
-\mm ɲɛ́.ji:n:larme
+\mm ɲɛ́ji:n:larme
 \mmm ɲɛ́:n:oeil
 \mmm jí:n:eau
 \mm fóroko:n:sac.en.peau
 \ps n
 \gf sac.lacrymal
 \gvf sac lacrymal
-\dt 04/Mar/2019
+\dt 05/Apr/2019
 
 \lx ɲɛ́jìra
 \mm ɲɛ́:n:oeil
@@ -108677,24 +108674,26 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx ɲɛ́jirabaa
-\mm ɲɛ́:n:oeil
-\mm jìra:v:montrer
+\mm ɲɛ́jìra:v:enseigner
+\mmm ɲɛ́:n:oeil
+\mmm jìra:v:montrer
 \mm baa:mrph:AG.OCC
 \ps n
 \gf qui.montre
 \gvf qui montre
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́jirali
-\mm ɲɛ́:n:oeil
-\mm jìra:v:montrer
+\mm ɲɛ́jìra:v:enseigner
+\mmm ɲɛ́:n:oeil
+\mmm jìra:v:montrer
 \mm li:mrph:NMLZ
 \ps n
 \gf exemple
 \gvf exemple
 \xv kà ɲɛ́jirali ɲúman kɛ́
 \xf donner le bon exemple
-\dt 11/Nov/2007
+\dt 05/Apr/2019
 
 \lx ɲɛ́jo
 \mm ɲɛ́:n:oeil
@@ -108729,27 +108728,27 @@ banane, etc.)
 
 \lx ɲɛ́jugu
 \mm ɲɛ́:n:oeil
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj/n
 \gf quémandeur
 \gvf quémandeur
 \gvf pique-assiette
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́jugu
 \mm ɲɛ́:n:oeil
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \gf envers
 \gvf envers
 \xv à y'á dòn  à ɲɛ́jugu kàn
 \xf il l'a mis à l'envers (habit ...)
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́juguya
-\mm ɲɛ́.jugu:adj/n:quémandeur
-\mm ɲɛ́:n:oeil
-\mm júgu:vq/adj:mauvais
+\mm ɲɛ́jugu:adj:quémandeur
+\mmm ɲɛ́:n:oeil
+\mmm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \gf requête
@@ -108758,12 +108757,12 @@ banane, etc.)
 \smf (objet convoité)
 \xv ɲɛ́juguya ká fìsa  sònyali yé
 \xf mieux vaut demander que de voler
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́juguya
-\mm ɲɛ́.jugu:adj/n:quémandeur
-\mm ɲɛ́:n:oeil
-\mm júgu:vq/adj:mauvais
+\mm ɲɛ́jugu:adj:quémandeur
+\mmm ɲɛ́:n:oeil
+\mmm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -108772,16 +108771,16 @@ banane, etc.)
 \smf (qqch à qqn (en cadeau))
 \xv ní  né b'á ɲɛ́juguya  fɛ́n ná, ò ká gó  à yé : ní  né bɛ́  fɛ́n ɲɛ́juguya  à lá
 \xf quand je lui demande quelque chose, cela ne lui plaît pas
-\dt 05/Apr/2016
+\dt 05/Apr/2019
 
 \lx ɲɛ́jurujan
 \mm ɲɛ́:n:oeil
 \mm jùru:n:corde
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps adj/n
 \gf envieux.de.tout
 \gvf envieux de tout
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́kàn
 \mm ɲɛ́:n:oeil
@@ -108809,12 +108808,14 @@ banane, etc.)
 \dt 16/Aug/2006
 
 \lx ɲɛ́kelennin
-\mm ɲɛ́:n:oeil
-\mm kélen:num:un
+\mm ɲɛ́kelen:n:borgne
+\mmm ɲɛ́:n:oeil
+\mmm kélen:num:un
 \mm nin:mrph:DIM
 \ps n
 \gf borgne
 \gvf borgne
+\dt 05/Apr/2019
 
 \lx ɲɛ́kɛrɛn
 \mm ɲɛ́:n:oeil
@@ -108858,29 +108859,29 @@ banane, etc.)
 \lx ɲɛ̀ko
 \mm ɲɛ̀:v:réussir
 \mm kó:n:affaire
-\va ɲà.ko
+\va ɲàko
 \mm ɲà:v:réussir
 \mm kó:n:affaire
 \ps n
 \gf utilité
 \gvf utilité
 \gvf fonction
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ̀koma
-\mm ɲɛ̀.ko:n:utilité
-\mm ɲɛ̀:v:réussir
-\mm kó:n:affaire
+\mm ɲɛ̀ko:n:utilité
+\mmm ɲɛ̀:v:réussir
+\mmm kó:n:affaire
 \mm ma:mrph:COM
-\va ɲà.ko.ma
-\mm ɲà.ko:n:utilité
-\mm ɲà:v:réussir
-\mm kó:n:affaire
+\va ɲàkoma
+\mm ɲàko:n:utilité
+\mmm ɲà:v:réussir
+\mmm kó:n:affaire
 \mm ma:mrph:COM
 \ps adj/n
 \gf personne.utile
 \gvf personne utile
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́konkon
 \mm ɲɛ́:n:oeil
@@ -108891,39 +108892,41 @@ banane, etc.)
 \dt 16/Aug/2006
 
 \lx ɲɛ́konkonnasi
-\mm ɲɛ́.konkon:n:arcade.sourcilière
-\mm ɲɛ́:n:oeil
-\mm kónkon:n:partie.saillante
+\mm ɲɛ́konkon:n:arcade.sourcilière
+\mmm ɲɛ́:n:oeil
+\mmm kónkon:n:partie.saillante
 \mm ná:pp:à
 \mm sí:n:poil
 \ps n
 \gf sourcil
 \gvf sourcil
 \pc c:\myfiles\bamdicpic\arcadesourcilière.bmp
+\dt 05/Apr/2019
 
 \lx ɲɛ́konkonsi
-\mm ɲɛ́.konkon:n:arcade.sourcilière
-\mm ɲɛ́:n:oeil
-\mm kónkon:n:partie.saillante
+\mm ɲɛ́konkon:n:arcade.sourcilière
+\mmm ɲɛ́:n:oeil
+\mmm kónkon:n:partie.saillante
 \mm sí:n:poil
 \ps n
 \gf sourcil
 \gvf sourcil
+\dt 05/Apr/2019
 
 \lx ɲɛ̀kontan
-\mm ɲɛ̀.ko:n:utilité
-\mm ɲɛ̀:v:réussir
-\mm kó:n:affaire
+\mm ɲɛ̀ko:n:utilité
+\mmm ɲɛ̀:v:réussir
+\mmm kó:n:affaire
 \mm ntan:mrph:PRIV
-\va ɲà.ko.ntan
-\mm ɲà.ko:n:utilité
-\mm ɲà:v:réussir
-\mm kó:n:affaire
+\va ɲàkontan
+\mm ɲàko:n:utilité
+\mmm ɲà:v:réussir
+\mmm kó:n:affaire
 \mm ntan:mrph:PRIV
 \ps adj
 \gf inutile
 \gvf inutile
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́kɔmi
 \mm ɲɛ́:n:oeil
@@ -108943,25 +108946,26 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx ɲɛ́kɔmibali
-\mm ɲɛ́.kɔmi:v:ciller
-\mm ɲɛ́:n:oeil
-\mm kɔ́mi:v:branler
+\mm ɲɛ́kɔmi:v:ciller
+\mmm ɲɛ́:n:oeil
+\mmm kɔ́mi:v:branler
 \mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf effronté
 \gvf effronté
-\dt 12/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́kɔnɔna
-\mm ɲɛ́.kɔnɔ:n:fond.d'une.pièce
-\mm ɲɛ́:n:oeil
-\mm kɔ́nɔ:n:ventre
+\mm ɲɛ́kɔnɔ:n:fond.d'une.pièce
+\mmm ɲɛ́:n:oeil
+\mmm kɔ́nɔ:n:ventre
 \mm na:mrph:LOC
 \ps n
 \gf fond
 \gvf fond
 \smf (partie d'un espace la plus éloignée de l'endroit où l'on est )
 \sy ɲɛ́kɔnɔ
+\dt 05/Apr/2019
 
 \lx ɲɛ́kɔrɔ
 \mm ɲɛ́:n:oeil
@@ -108987,11 +108991,12 @@ banane, etc.)
 \dt 15/Jun/2015
 
 \lx ɲɛ́kɔrɔdiya
-\mm ɲɛ́.kɔrɔ:n:le.devant.de
-\mm ɲɛ́:n:oeil
-\mm kɔ́rɔ:n:dessous
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm ɲɛ́kɔrɔ:n:le.devant.de
+\mmm ɲɛ́:n:oeil
+\mmm kɔ́rɔ:n:dessous
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ps n
 \gf bienveillance
 \gvf bienveillance
@@ -108999,14 +109004,15 @@ banane, etc.)
 \xf un regard bienveillant (lumineux) donne de la joie (Pr 15, 30)
 \xv Ní ɲɛ́kɔrɔdiya bɛ́ màsakɛ ɲɛ́da lá, ò yé bálo yé
 \xf quand le visage du roi est radieux, c'est la vie (Pr 16, 15)
-\dt 11/Nov/2007
+\dt 05/Apr/2019
 
 \lx ɲɛ́kɔrɔdiya
-\mm ɲɛ́.kɔrɔ:n:le.devant.de
-\mm ɲɛ́:n:oeil
-\mm kɔ́rɔ:n:dessous
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm ɲɛ́kɔrɔ:n:le.devant.de
+\mmm ɲɛ́:n:oeil
+\mmm kɔ́rɔ:n:dessous
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ps v
 \ms 1
 \vl vt
@@ -109018,12 +109024,12 @@ banane, etc.)
 \vl vr
 \gvf accueillir avec joie
 \smf (... kɔrɔ)
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́kɔrɔmatìgɛ
-\mm ɲɛ́.kɔrɔ:n:le.devant.de
-\mm ɲɛ́:n:oeil
-\mm kɔ́rɔ:n:dessous
+\mm ɲɛ́kɔrɔ:n:le.devant.de
+\mmm ɲɛ́:n:oeil
+\mmm kɔ́rɔ:n:dessous
 \mm ma:mrph:à
 \mm tìgɛ:v:couper
 \ps v
@@ -109036,11 +109042,12 @@ banane, etc.)
 \sy ɲɛ́kɔrɔtigɛ
 \xv à yé sù ɲɛ́kɔrɔmatigɛ
 \xf il a enfreint la coutume ancestrale (un cadet qui veut être chef à la place du grand frère ...)
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́kɔrɔse
-\mm ɲɛ́:n:oeil
-\mm kɔ́rɔ:pp:sous
+\mm ɲɛ́kɔrɔ:n:le.devant.de
+\mmm ɲɛ́:n:oeil
+\mmm kɔ́rɔ:n:dessous
 \mm sé:v:arriver
 \ps v
 \ms 1
@@ -109052,21 +109059,23 @@ banane, etc.)
 \ms 2
 \vl vi
 \gvf en avoir assez
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́kɔrɔsìsi
-\mm ɲɛ́:n:oeil
-\mm kɔ́rɔ:pp:sous
+\mm ɲɛ́kɔrɔ:n:le.devant.de
+\mmm ɲɛ́:n:oeil
+\mmm kɔ́rɔ:n:dessous
 \mm sìsi:v:brûler
 \ps v
 \vl vt
 \gf attrister
 \gvf attrister
+\dt 05/Apr/2019
 
 \lx ɲɛ́kɔrɔtìgɛ
-\mm ɲɛ́.kɔrɔ:n:le.devant.de
-\mm ɲɛ́:n:oeil
-\mm kɔ́rɔ:n:dessous
+\mm ɲɛ́kɔrɔ:n:le.devant.de
+\mmm ɲɛ́:n:oeil
+\mmm kɔ́rɔ:n:dessous
 \mm tìgɛ:v:couper
 \ps v
 \vl vt
@@ -109075,7 +109084,7 @@ banane, etc.)
 \gvf barrer le chemin
 \ms 2
 \gvf passer devant
-\dt 16/Aug/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́ku
 \mm ɲɛ́:n:oeil
@@ -109137,32 +109146,33 @@ banane, etc.)
 
 \lx ɲɛ́kunanci
 \mm ɲɛ́:n:oeil
-\mm kúna:vq:amer
+\mm kúna:adj:amer
 \mm nci:mrph:AG.EX
-\va ɲɛ́.kunan.nci
+\va ɲɛ́kunannci
 \mm ɲɛ́:n:oeil
-\mm kúnan:vq:amer
+\mm kúnan:adj:amer
 \mm nci:mrph:AG.EX
 \ps n
 \gf jaloux
 \gvf jaloux
 \gvf égoïste
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́kunaya
 \mm ɲɛ́:n:oeil
-\mm kúna:vq:amer
-\mm ya:mrph:ABSTR
+\mm kúnaya:n:amertume
+\mmm kúna:vq:amer
+\mmm ya:mrph:DEQU
 \ps n
 \gf jalousie
 \gvf jalousie
 \gvf égoïsme
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́kunna
-\mm ɲɛ́.kun:n:le.devant.de
-\mm ɲɛ́:n:oeil
-\mm kùn:n:tête
+\mm ɲɛ́kun:n:le.devant.de
+\mmm ɲɛ́:n:oeil
+\mmm kùn:n:tête
 \mm na:mrph:LOC
 \ps n
 \gf alignement
@@ -109170,7 +109180,7 @@ banane, etc.)
 \gvf bout de ligne
 \xv á b'á jɔ̀  ɲɔ́gɔn kɔ́ fɛ̀  ɲɛ́kunna ná
 \xf vous vous mettez en rang l'un derrière l'autre dans l'alignement
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́kuru
 \mm ɲɛ́:m:oeuil
@@ -109181,11 +109191,14 @@ banane, etc.)
 \dt 29/Mar/2014
 
 \lx ɲɛ́lajɛ
+\mm ɲɛ́:n:oeil
+\mm lá:pp:à
+\mm jɛ́:v:blanchir
 \ps v
 \gf étaler
 \gvf étaler
 \gvf déplier totalement
-\dt 18/Apr/2014
+\dt 05/Apr/2019
 
 \lx ɲɛ́lasumunin
 \mm ɲɛ́:n:oeil
@@ -109220,8 +109233,9 @@ banane, etc.)
 \dt 02/Feb/2017
 
 \lx ɲɛ́mabòli
-\mm ɲɛ́:n:oeil
-\mm mà:pp:ADR
+\mm ɲɛ́mà:pp:devant
+\mmm ɲɛ́:n:oeil
+\mmm mà:pp:ADR
 \mm bòli:v:courir
 \ps v
 \vl vi
@@ -109230,7 +109244,7 @@ banane, etc.)
 \gvf s'exiler
 \xv kàrisa ɲɛ́mabolila tìle fìla ìn ná
 \rem bn, bk (-JOs)
-\dt 11/Nov/2007
+\dt 05/Apr/2019
 
 \lx ɲɛ́mada
 \mm ɲɛ́:n:oeil
@@ -109246,7 +109260,7 @@ banane, etc.)
 \xf les enfants observent ce que font leurs parents
 \ms 2
 \gvf se préoccuper
-\dt 26/Sep/2006
+\dt 05/Apr/2019
 
 \lx ɲɛ́mada
 \mm ɲɛ́:n:oeil
@@ -109333,30 +109347,30 @@ banane, etc.)
 \dt 25/Apr/2018
 
 \lx ɲɛ́majɔbali
-\mm ɲɛ́.ma.jɔ̀:v:être.prudent
-\mm ɲɛ́:n:oeil
-\mm mà:pp:ADR
-\mm jɔ̀:v:dresser
+\mm ɲɛ́majɔ̀:v:être.prudent
+\mmm ɲɛ́:n:oeil
+\mmm mà:pp:ADR
+\mmm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf inattentif
 \gvf inattentif
 \gvf étourdi
-\dt 28/Feb/2017
+\dt 05/Apr/2019
 
 \lx ɲɛ́majɔbaliya
-\mm ɲɛ́.ma.jɔ.bali:ptcp:inattentif
-\mm ɲɛ́.ma.jɔ̀:v:être.prudent
-\mm ɲɛ́:n:oeil
-\mm mà:pp:ADR
-\mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.NEG
+\mm ɲɛ́majɔbali:ptcp:inattentif
+\mmm ɲɛ́majɔ̀:v:être.prudent
+\mmmm ɲɛ́:n:oeil
+\mmmm mà:pp:ADR
+\mmmm jɔ̀:v:dresser
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf inattention
 \gvf inattention
 \gvf étourderie
-\dt 28/Feb/2017
+\dt 05/Apr/2019
 
 \lx ɲɛ́makala
 \mm ɲɛ́:n:oeil
