@@ -90370,6 +90370,16 @@ des engagements
 \smf (telle personne, tel objet, telle nourriture ; les considérer comme des 'interdits')
 \dt 26/Sep/2006
 
+\lx màtígɛ
+\mm mà:mrph:SUPER
+\mm tìgɛ:v:couper
+\ps v
+\gf chercher.querelle
+\vl vt
+\gvf chercher querelle avec
+\gvf taquiner
+\dt 06/Apr/2019
+
 \lx mátigi
 \mm má:n:Dieu
 \mm tìgi:n:maître
@@ -109429,20 +109439,21 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx ɲɛ́malobali
-\mm ɲɛ́.màlo:v:avoir.honte
-\mm ɲɛ́:n:oeil
-\mm màlo:v:faire.honte
+\mm ɲɛ́màlo:v:avoir.honte
+\mmm ɲɛ́:n:oeil
+\mmm màlo:v:faire.honte
 \mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf impudent
 \gvf impudent
+\dt 06/Apr/2019
 
 \lx ɲɛ́malobaliya
-\mm ɲɛ́.malo.bali:ptcp:impudent
-\mm ɲɛ́.màlo:v:avoir.honte
-\mm ɲɛ́:n:oeil
-\mm màlo:v:faire.honte
-\mm bali:mrph:PTCP.NEG
+\mm ɲɛ́malobali:ptcp:impudent
+\mmm ɲɛ́màlo:v:avoir.honte
+\mmmm ɲɛ́:n:oeil
+\mmmm màlo:v:faire.honte
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -109452,33 +109463,35 @@ banane, etc.)
 \gvf coït
 \xv ɲɛ́malobaliya kɛ́
 \xf forniquer
-\dt 15/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́manɔgɔ
 \mm ɲɛ́:n:oeil
-\mm mà:mrph:SUPER
-\mm nɔ́gɔ:v:salir
+\mm mànɔ́gɔ:v:salir
+\mmm mà:mrph:SUPER
+\mmm nɔ́gɔ:v:salir
 \ps v
 \vl vt
 \gf salir
 \gvf salir
 \gvf défigurer
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́manɔgɔ
 \mm ɲɛ́:n:oeil
-\mm mà:mrph:SUPER
-\mm nɔ́gɔ:v:salir
+\mm mànɔ́gɔ:v:salir
+\mmm mà:mrph:SUPER
+\mmm nɔ́gɔ:v:salir
 \ps n
 \gf misère
 \gvf misère
-\dt 25/Jun/2013
+\dt 06/Apr/2019
 
 \lx ɲɛ́manɔgɔfi
 \mm ɲɛ́:n:oeil
 \mm mà:mrph:SUPER
 \mm nɔ́gɔfi:v:maltraiter
-\va ɲɛ́.ma.nɔgɔsin
+\va ɲɛ́manɔgɔsin
 \mm ɲɛ́:n:oeil
 \mm mà:mrph:SUPER
 \mm nɔ́gɔsin:v:maltraiter
@@ -109486,7 +109499,7 @@ banane, etc.)
 \vl vt
 \gf salir
 \gvf salir
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́masaamɛya
 \mm ɲɛ́:n:oeil
@@ -109500,30 +109513,33 @@ banane, etc.)
 
 \lx ɲɛ́matìgɛ
 \mm ɲɛ́:n:oeil
-\mm mà:mrph:SUPER
-\mm tìgɛ:v:couper
+\mm màtígɛ:v:chercher.querelle
+\mmm mà:mrph:SUPER
+\mmm tìgɛ:v:couper
 \ps v
 \vl vi
 \gf se.réveiller
 \gvf se réveiller
 \gvf prendre conscience
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́matiyɛn
 \mm ɲɛ́:n:oeil
-\mm mà:pp:ADR
-\mm tíyɛn:v:gâter
-\va ɲɛ́.ma.tiɲɛ
+\mm màtíyɛn:v:vilipender
+\mmm mà:mrph:SUPER
+\mmm tíyɛn:v:gâter
+\va ɲɛ́matiɲɛ
 \mm ɲɛ́:n:oeil
-\mm mà:pp:ADR
-\mm tíɲɛ:v:gâter
+\mm màtíɲɛ:v:vilipender
+\mmm mà:mrph:SUPER
+\mmm tíɲɛ:v:gâter
 \ps v
 \vl vt
 \gf empêcher
 \gvf empêcher
 \xv í kàna  à ɲɛ́matiyɛn  né mà
 \xf ne m'empêche pas de le faire ! laisse-moi faire !
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́matunu
 \mm ɲɛ́:n:oeil
@@ -109577,21 +109593,22 @@ banane, etc.)
 \dt 30/Jan/2017
 
 \lx ɲɛ́minɛbaa
-\mm ɲɛ́:n:oeil
-\mm mìnɛ:v:attraper
+\mm ɲɛ́mìnɛ:v:prévoir
+\mmm ɲɛ́:n:oeil
+\mmm mìnɛ:v:attraper
 \mm baa:mrph:AG.OCC
 \ps n
 \gf chef
 \gvf chef
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́misɛn
 \mm ɲɛ́:n:oeil
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ps adj/n
 \gf tatillon
 \gvf tatillon
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́mɔ̀
 \mm ɲɛ́:n:oeil
@@ -109620,23 +109637,25 @@ banane, etc.)
 \dt 27/Jan/2018
 
 \lx ɲɛ́mɔgɔba
-\mm ɲɛ́.mɔgɔ:n:dirigeant
-\mm ɲɛ́:n:oeil
-\mm mɔ̀gɔ:n:homme
+\mm ɲɛ́mɔgɔ:n:dirigeant
+\mmm ɲɛ́:n:oeil
+\mmm mɔ̀gɔ:n:homme
 \mm ba:mrph:AUGM
 \ps n
 \gf grand.dirigeant
 \gvf grand dirigeant
 \gvf personnalité
-\dt 15/Feb/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́mɔ̀gɔnin
-\mm ɲɛ́:n:oeil
-\mm mɔ̀gɔ:n:homme
+\mm ɲɛ́mɔgɔ:n:dirigeant
+\mmm ɲɛ́:n:oeil
+\mmm mɔ̀gɔ:n:homme
 \mm nin:mrph:DIM
-\va ɲɛ́.màa.nin
-\mm ɲɛ́:n:oeil
-\mm màa:n:homme
+\va ɲɛ́màanin
+\mm ɲɛ́mɔgɔ:n:dirigeant
+\mmm ɲɛ́:n:oeil
+\mmm màa:n:homme
 \mm nin:mrph:DIM
 \ps n
 \gf pupille
@@ -109644,22 +109663,23 @@ banane, etc.)
 \smf (de l'oeil)
 \xv fìn kɔ́nɔ, fìn wɛ́rɛ bɛ́, ò yé  ɲɛ́maanin yé
 \xf dans l'iris sombre, il y a un autre "noir", c'est la pupille
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́mɔgɔya
-\mm ɲɛ́.mɔgɔ:n:dirigeant
-\mm ɲɛ́:n:oeil
-\mm mɔ̀gɔ:n:homme
+\mm ɲɛ́mɔgɔ:n:dirigeant
+\mmm ɲɛ́:n:oeil
+\mmm mɔ̀gɔ:n:homme
 \mm ya:mrph:ABSTR
-\va ɲɛ́.maa.ya
-\mm ɲɛ́.maa:n:dirigeant
-\mm ɲɛ́:n:oeil
-\mm màa:n:homme
+\va ɲɛ́maaya
+\mm ɲɛ́mɔgɔ:n:dirigeant
+\mmm ɲɛ́:n:oeil
+\mmm màa:n:homme
+\mm ya:mrph:ABSTR
 \ps n
 \gf autorité
 \gvf autorité
 \gvf présidence
-\dt 03/May/2013
+\dt 06/Apr/2019
 
 \lx ɲɛ́munu
 \mm ɲɛ́:n:oeil
@@ -109724,29 +109744,28 @@ banane, etc.)
 \dt 25/Nov/2017
 
 \lx ɲɛ́nabɔbaa
-\mm ɲɛ́.na.bɔ́:v:démêler
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
-\mm bɔ́:v:sortir
+\mm ɲɛ́nabɔ:v:démêler
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mmm bɔ́:v:sortir
 \mm baa:mrph:AG.OCC
 \ps n
 \gf le.responsable
 \gvf le responsable
 \smf (qui règle une affaire)
-\dt 25/Nov/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́nabɔla
-\mm ɲɛ́.na.bɔ́:v:démêler
-\mm ɲɛ́:n:oeil
-\mm ná.bɔ:v:faire.sortir
-\mm ná:pp:à
-\mm bɔ́:v:sortir
+\mm ɲɛ́nabɔ:v:démêler
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mmm bɔ́:v:sortir
 \mm la:mrph:AG.PRM
 \ps n
 \gf le.responsable
 \gvf le responsable
 \smf (qui règle une affaire)
-\dt 25/Nov/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́nacì
 \mm ɲɛ́:n:oeil
@@ -109787,9 +109806,9 @@ banane, etc.)
 \dt 10/Mar/2018
 
 \lx ɲɛ́nafin
-\mm ɲɛ́.na:n:regard
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm fìn:adj:noir
 \ps n
 \ms 1
@@ -109804,23 +109823,24 @@ banane, etc.)
 \gvf baisse de vision 
 \gvf amaurose
 \cf ɲɛ́goya
-\dt 25/Nov/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́nafin
-\mm ɲɛ́.na:n:regard
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm fìn:adj:noir
 \ps v
 \vl vi
 \gf être.triste
 \gvf être triste
 \gvf être nostalgique
-\dt 25/Nov/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́nafɔ
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm fɔ́:v:dire
 \ve (f)
 \ps v
@@ -109828,17 +109848,17 @@ banane, etc.)
 \gf expliquer
 \gvf expliquer
 \smf (plus rare que ɲɛfɔ)
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́nagɛlɛn
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm gɛ̀lɛn:adj:dur
-\va ɲɛ́.na.gwɛlɛn
+\va ɲɛ́nagwɛlɛn
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm gwɛ̀lɛn:adj:dur
 \ph [gw]
 \ps adj/n
@@ -109851,31 +109871,31 @@ banane, etc.)
 \ms 2
 \gvf effronté
 \gvf impudent
-\dt 28/Mar/2015
+\dt 06/Apr/2019
 
 \lx ɲɛ́nagɛlɛya
-\mm ɲɛ́.na:n:regard
-\mm ɲɛ́:n:oeil
-\mm na:mrph:MNT1
-\mm gɛ̀lɛ:vq/adj:dur
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm gɛ̀lɛ:vq:dur
 \mm ya:mrph:DEQU
-\va ɲɛ́.na.gwɛlɛ.ya
-\mm ɲɛ́.na:n:regard
-\mm ɲɛ́:n:oeil
-\mm na:mrph:MNT1
-\mm gwɛ̀lɛ:vq/adj:dur
+\va ɲɛ́nagwɛlɛya
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm gwɛ̀lɛ:vq:dur
 \mm ya:mrph:DEQU
 \ph [gw]
 \ps n
 \gf effronterie
 \gvf effronterie
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́nagɛ̀lɛya
-\mm ɲɛ́.na:n:regard
-\mm ɲɛ́:n:oeil
-\mm na:mrph:MNT1
-\mm gɛ̀lɛ:vq/adj:dur
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm gɛ̀lɛ:vq:dur
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -109883,19 +109903,19 @@ banane, etc.)
 \gvf rendre obstiné
 \xv à fílɛ, né yé í ɲɛ́nagɛlɛya ù ká ɲɛ́nagɛlɛya káma
 \xf je vais te rendre aussi obstiné qu'eux (Ez 3, 8) [rendre ton visage aussi dur que le leur]
-\dt 25/Nov/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́najà
-\mm ɲɛ́.na:n:regard
-\mm ɲɛ́:n:oeil
-\mm na:mrph:MNT1
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm jà:v:sécher
 \ps v
 \vl vt
 \gf refuser
 \gvf refuser
 \smf (refuser qqch à qqn ; refuser les avances de ...)
-\dt 05/Apr/2016
+\dt 06/Apr/2019
 
 \lx ɲɛ́najɛ
 \mm ɲɛ́:n:oeil
@@ -109934,10 +109954,10 @@ banane, etc.)
 \dt 19/Feb/2013
 
 \lx ɲɛ́najɛkɛla
-\mm ɲɛ́.na.jɛ:n:réjouissance
-\mm ɲɛ́:n:oeil
-\mm ná:mrph:CAUS
-\mm jɛ́:v:blanchir
+\mm ɲɛ́najɛ:n:réjouissance
+\mmm ɲɛ́:n:oeil
+\mmm ná:mrph:CAUS
+\mmm jɛ́:v:blanchir
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -109946,23 +109966,23 @@ banane, etc.)
 \gvf animateur
 \ms 2
 \gvf participant de fête
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́najɛlan
-\mm ɲɛ́.na.jɛ:v:réjouir
-\mm ɲɛ́:n:oeil
-\mm ná:mrph:CAUS
-\mm jɛ́:v:blanchir
+\mm ɲɛ́najɛ:v:réjouir
+\mmm ɲɛ́:n:oeil
+\mmm ná:mrph:CAUS
+\mmm jɛ́:v:blanchir
 \mm lan:mrph:INSTR
 \ps n
 \gf ce.qui.rend.gai
 \gvf ce qui rend gai
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́najugu
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm júgu:adj:mauvais
 \ps adj/n
 \ms 1
@@ -109971,7 +109991,7 @@ banane, etc.)
 \gvf parasite
 \ms 2
 \gvf quémandeur
-\dt 28/Mar/2015
+\dt 06/Apr/2019
 
 \lx ɲɛ́najugu
 \mm ɲɛ́:n:oeil
@@ -109984,32 +110004,32 @@ banane, etc.)
 
 \lx ɲɛ́nakegun
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm kègun:adj:malin
 \va ɲɛ́nakekun
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm kèkun:adj:malin
 \ps adj/n
 \gf adroit.de.ses.mains
 \gvf adroit de ses mains
 \rem l 89
-\dt 28/Mar/2015
+\dt 06/Apr/2019
 
 \lx ɲɛ́nakegunya
 \mm ɲɛ́nakegun:adj:adroit.de.ses.mains
-\mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
-\mm kègun:adj:malin
+\mmm ɲɛ́na:n:vue
+\mmmm ɲɛ́:n:oeil
+\mmmm ná:pp:à
+\mmm kègun:adj:malin
 \mm ya:mrph:ABSTR
 \ps n
 \gf habileté.technique
 \gvf habileté technique
 \gvf art
-\dt 28/Mar/2015
+\dt 06/Apr/2019
 
 \lx ɲɛ́nakɔniya
 \mm ɲɛ́:n:oeil
@@ -110023,8 +110043,9 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx ɲɛ́nakɔ̀rɔ
-\mm ɲɛ́:n:oeil
-\mm ná:mrph:CAUS
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm kɔ̀rɔ:v:vieillir
 \ps v
 \vl vt
@@ -110032,17 +110053,17 @@ banane, etc.)
 \gvf attrister
 \gvf peiner
 \gvf mécontenter
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́nakuna
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm kúna:adj:amer
 \va ɲɛ́nakunan
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm kúnan:adj:amer
 \ps adj
 \ms 1
@@ -110054,34 +110075,36 @@ banane, etc.)
 \gvf avare
 \ms 4
 \gvf égoïste
-\dt 28/Mar/2015
+\dt 06/Apr/2019
 
 \lx ɲɛ́nakunaya
 \mm ɲɛ́nakuna:adj:effronté
-\mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
-\mm kúna:adj:amer
+\mmm ɲɛ́na:n:vue
+\mmmm ɲɛ́:n:oeil
+\mmmm ná:pp:à
+\mmm kúna:adj:amer
 \mm ya:mrph:ABSTR
 \va ɲɛ́nakunanya
 \mm ɲɛ́nakunan:adj:effronté
-\mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
-\mm kúnan:adj:amer
+\mmm ɲɛ́na:n:vue
+\mmmm ɲɛ́:n:oeil
+\mmmm ná:pp:à
+\mmm kúnan:adj:amer
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \gf être.avare
 \gvf être avare
-\dt 28/Mar/2015
+\dt 06/Apr/2019
 
 \lx ɲɛ́nama
 \mm ɲɛ́:n:oeil
 \mm nama:mrph:STAT
 \va ɲɛ́nɛma
 \mm ɲɛ́:n:oeil
+\mm nama:mrph:STAT
 \va ɲínama
+\mm ɲɛ́:n:oeil
 \mm nama:mrph:STAT
 \ps adj
 \ms 1
@@ -110097,12 +110120,12 @@ banane, etc.)
 \xf ils n'ont pas leur compte de nourriture
 \xv ɲɛ́namaba
 \xf excellent
-\dt 26/Jul/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́namaya
-\mm ɲɛ́.nama:adj:vivant
-\mm ɲɛ́:n:oeil
-\mm nama:mrph:STAT
+\mm ɲɛ́nama:adj:vivant
+\mmm ɲɛ́:n:oeil
+\mmm nama:mrph:STAT
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -110111,12 +110134,12 @@ banane, etc.)
 \ms 2
 \gvf vivacité
 \gvf animation
-\dt 04/Mar/2019
+\dt 06/Apr/2019
 
 \lx ɲɛ́namaya
-\mm ɲɛ́.nama:adj:vivant
-\mm ɲɛ́:n:oeil
-\mm nama:mrph:STAT
+\mm ɲɛ́nama:adj:vivant
+\mmm ɲɛ́:n:oeil
+\mmm nama:mrph:STAT
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -110125,17 +110148,17 @@ banane, etc.)
 \gvf rendre comme neuf
 \xv à yé  à ká nɛ̀gɛso ɲɛ́namaya
 \xf il a remis son vélo à neuf
-\dt 04/Mar/2019
+\dt 06/Apr/2019
 
 \lx ɲɛ́namini
-\mm ɲɛ́.na:n:regard
-\mm ɲɛ́:n:oeil
-\mm na:mrph:MNT1
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm míni:v:enrouler
 \va ɲánamini
-\mm ɲá.na:n:regard
-\mm ɲá:n:oeil
-\mm na:mrph:MNT1
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm míni:v:enrouler
 \ps n
 \gf vertige
@@ -110144,36 +110167,36 @@ banane, etc.)
 \gvf ivresse
 \xv à ɲɛ́namini bɔ́ra  à lá
 \xf il n'a plus de vertiges, il est sorti de son ivresse
-\dt 28/May/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́namini
-\mm ɲɛ́.na:n:regard
-\mm ɲɛ́:n:oeil
-\mm na:mrph:MNT1
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm míni:v:enrouler
 \va ɲánamini
-\mm ɲá.na:n:regard
-\mm ɲá:n:oeil
-\mm na:mrph:MNT1
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm míni:v:enrouler
 \ps v
 \vl vt
 \gf donner.des.vertiges
 \gvf donner des vertiges
 \smf (pr. et fig)
-\dt 28/May/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́namisɛn
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm mìsɛn:adj:petit
 \ps adj/n
 \gf minutieux
 \gvf minutieux
 \gvf méticuleux
 \gvf délicat
-\dt 28/Mar/2015
+\dt 06/Apr/2019
 
 \lx ɲɛ́namɔgɔ
 \mm ɲɛ́:n:oeil
@@ -110186,13 +110209,13 @@ banane, etc.)
 
 \lx ɲɛ́nandi
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm nan:mrph:dans
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm dí:vq:agréable
-\mm ɲɛ́nadi:adj/n:gai
+\mm ɲɛ́nadi
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm dí:vq:agréable
 \ps adj/n
 \ms 1
@@ -110203,18 +110226,18 @@ banane, etc.)
 \gvf habile
 \gvf adroit
 \gvf astucieux
-\dt 28/Mar/2015
+\dt 06/Apr/2019
 
 \lx ɲɛ́nango
 \mm ɲɛ́na:n:vue
-\mm ɲɛ́:n:oeil
-\mm nan:mrph:dans
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm gó:adj:désagréable
 \ps adj/n
 \gf maladroit
 \gvf maladroit
 \gvf malhabile
-\dt 28/Mar/2015
+\dt 06/Apr/2019
 
 \lx ɲɛ́nantumu
 \mm ɲɛ́:n:oeil
@@ -110229,30 +110252,32 @@ banane, etc.)
 \dt 03/Mar/2019
 
 \lx ɲɛ́naɲini
-\mm ɲɛ́.na:n:regard
-\mm ɲɛ́:n:oeil
-\mm na:mrph:MNT1
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm ɲíni:v:chercher
 \ps v
 \vl vt
 \gf chercher.des.yeux
 \gvf chercher des yeux
-\dt 25/Nov/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́nasago
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm sàgo:n:volonté
 \ps n
 \gf préféré
 \gvf préféré
 \xv òlu kà ù ɲɛ́nasago tà ù lá
 \xf qu'ils en choisissent un pour eux (1 R 18, 23)
-\dt 11/Nov/2007
+\dt 06/Apr/2019
 
 \lx ɲɛ́nasìsi
-\mm ɲɛ́:n:oeil
-\mm ná:mrph:CAUS
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
 \mm sìsi:v:brûler
 \ps v
 \vl vt
@@ -110264,27 +110289,29 @@ banane, etc.)
 \vl vi
 \gvf être triste
 \gvf s'affliger
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́nasuma
-\mm ɲɛ́:n:oeil
-\mm ná:pp:à
-\mm súma:vq/adj:lent
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm súma:adj:lent
 \ps n
 \gf nostalgie
 \gvf nostalgie
 \gvf tristesse maladive
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́nasumunin
 \mm ɲɛ́:n:oeil
 \mm ná:pp:à
 \mm sùmu.nin:n:furoncle
-\mm sùmu:n:abcès
-\mm nin:mrph:DIM
+\mmm sùmu:n:abcès
+\mmm nin:mrph:DIM
 \ps n
 \gf orgelet
 \gvf orgelet
+\dt 06/Apr/2019
 
 \lx ɲɛ́nata
 \mm ɲɛ́:n:oeil
@@ -110384,11 +110411,12 @@ banane, etc.)
 \mm ná:pp:à
 \mm yé:v:voir
 \ps n
-\gf mine
+\gf apparence
+\gvf apparence
 \gvf mine
 \xv í yé mùso yé mín ɲɛ́naye cɛ̀ ká ɲì (gn 12, 11) / í kàna à ɲɛ́naye jàte (1 Sá 16, 7)
 \xf tu es une femme belle à voir
-\dt 11/Nov/2007
+\dt 06/Apr/2019
 
 \lx ɲɛ́nayebali
 \mm ɲɛ́:n:oeil
@@ -110438,7 +110466,7 @@ banane, etc.)
 \mm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
-\va ɲà.ni.kɛ.la
+\va ɲànikɛla
 \mm ɲà:v:réussir
 \mm ni:mrph:NMLZ
 \mm kɛ́:v:faire
@@ -110447,7 +110475,7 @@ banane, etc.)
 \gf celui.qui.fait.réussir
 \gvf celui qui fait réussir
 \xv Ála yé tíɲɛnikɛla yé, à yé ɲɛ̀nikɛla yé
-\dt 11/Nov/2007
+\dt 06/Apr/2019
 
 \lx ɲɛ́nitɔlama
 \mm ɲɛ́ni:n:misère
@@ -110550,14 +110578,14 @@ banane, etc.)
 \dt 23/Jun/2013
 
 \lx ɲɛ́ɲininan
-\mm ɲɛ́.ɲini:v:jeter.un.sort
-\mm ɲɛ́:n:oeil
-\mm ɲíni:v:chercher
+\mm ɲɛ́ɲini:v:résoudre
+\mmm ɲɛ́:n:oeil
+\mmm ɲíni:v:chercher
 \mm nan:mrph:INSTR
 \ps n
 \gf maléfice
 \gvf maléfice
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́ɲugu
 \mm ɲɛ́:n:oeil
@@ -110675,18 +110703,18 @@ banane, etc.)
 
 \lx ɲɛ́siran
 \mm ɲɛ́:n:oeil
-\mm síran.ya:n:peur
+\mm síran:n:peur
 \ps n
 \gf appréhension
 \gvf appréhension
 \gvf peur
-\dt 21/Dec/2014
+\dt 06/Apr/2019
 
 \lx ɲɛ́siranbaga
 \mm ɲɛ́:n:oeil
 \mm síran:v:craindre
 \mm baga:mrph:AG.OCC
-\va ɲɛ́.siran.baa
+\va ɲɛ́siranbaa
 \mm ɲɛ́:n:oeil
 \mm síran:v:craindre
 \mm baa:mrph:AG.OCC
@@ -110696,27 +110724,29 @@ banane, etc.)
 \smf (qui respecte un supérieur, qui le révère)
 \xv Mátigi Ála bɛ́ à yɛ̀rɛ gùndo dáyɛlɛ à ɲɛ́siranbaga yé,
 \xf Le Seigneur confie son secret à ses fidèles (Ps 25, 14)
-\dt 11/Nov/2007
+\dt 06/Apr/2019
 
 \lx ɲɛ́sirangirin
-\mm ɲɛ́:n:oeil
-\mm síran:n:crainte
-\mm gírin:vq/adj:lourd
+\mm ɲɛ́siran:n:appréhension
+\mmm ɲɛ́:n:oeil
+\mmm síran:n:crainte
+\mm gírin:adj:lourd
 \ps n
 \gf terreur
 \gvf terreur
 \gvf panique
-\dt 11/Nov/2007
+\dt 06/Apr/2019
 
 \lx ɲɛ́siranya
 \mm ɲɛ́:n:oeil
-\mm síran.ya:n:peur
-\mm síran:v:craindre
-\mm ya:mrph:ABSTR
+\mm síranya:n:peur
+\mmm síran:v:craindre
+\mmm ya:mrph:ABSTR
 \va ɲɛ́siranyɛ
 \mm ɲɛ́:n:oeil
-\mm síran.yɛ:n:peur
-\mm síran:v:craindre
+\mm síranyɛ:n:peur
+\mmm síran:v:craindre
+\mmm ya:mrph:ABSTR
 \va ɲɛ́siranɲɛ
 \mm ɲɛ́:n:oeil
 \mm síran:v:craindre
@@ -110727,7 +110757,7 @@ banane, etc.)
 \gvf peur
 \gvf crainte respectueuse
 \smf (ɲɛsiran.n.ɲɛ ?)
-\dt 08/Feb/2017
+\dt 06/Apr/2019
 
 \lx ɲɛ́sìri
 \mm ɲɛ́:n:oeil
@@ -110764,7 +110794,7 @@ banane, etc.)
 
 \lx ɲɛ́suma
 \mm ɲɛ́:n:oeil
-\mm súma:vq/adj:lent
+\mm súma:adj:frais
 \ps n
 \ms 1
 \gf aisance
@@ -110773,7 +110803,7 @@ banane, etc.)
 \gvf repos
 \ms 2
 \gvf accouchement heureux
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́suma
 \mm ɲɛ́:n:oeil
@@ -110794,11 +110824,11 @@ banane, etc.)
 
 \lx ɲɛ́ta
 \mm ɲɛ́:n:oeil
-\mm tà:v:prendre
+\mm tá:n:propriété
 \ps n
 \gf le.premier
 \gvf le premier
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́taa
 \mm ɲɛ́:n:oeil
@@ -110846,7 +110876,7 @@ banane, etc.)
 \lx ɲɛ́tilen
 \mm ɲɛ́:n:oeil
 \mm tílen:v:redresser
-\va ɲɛ́.tlén
+\va ɲɛ́tlén
 \mm ɲɛ́:n:oeil
 \mm tlén:v:redresser
 \ph [tl]
@@ -110857,30 +110887,34 @@ banane, etc.)
 \smf (devant soi)
 \xv í ɲɛ́tilen  án kà bɔ́lɔn tìgɛ
 \xf regarde devant toi, on va traverser la rue
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́tilenna
-\mm ɲɛ́.tilen:v:regarder.droit
-\mm ɲɛ́:n:oeil
-\mm tílen:v:redresser
+\mm ɲɛ́tilen:v:regarder.droit
+\mmm ɲɛ́:n:oeil
+\mmm tílen:v:redresser
 \mm na:mrph:LOC
-\va ɲɛ́.tlen.na
-\mm ɲɛ́.tlen:v:regarder.droit
-\mm ɲɛ́:n:oeil
-\mm tlén:v:redresser
+\va ɲɛ́tlenna
+\mm ɲɛ́tlen:v:regarder.droit
+\mmm ɲɛ́:n:oeil
+\mmm tlén:v:redresser
 \mm na:mrph:LOC
 \ph [tl]
 \ps n
 \gf objectif
 \gvf objectif
 \sy kùntilenna
-\dt 12/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɛ́tunu
 \mm ɲɛ́:n:oeil
 \mm túnu:v:perdre
+\va ɲɛ́tunun
+\mm ɲɛ́:n:oeil
+\mm túnun:v:perdre
 \va ɲɛ́kunu
 \mm ɲɛ́:n:oeil
+\mm túnu:v:perdre
 \ps v
 \vl vi
 \gf disparaître
@@ -110888,7 +110922,7 @@ banane, etc.)
 \gvf mourir
 \xv ní  í yɛ̀rɛ ɲɛ́tununa  dón ó dón, í dén bɛ́ kɛ́  màanasiri yé
 \xf quand tu seras mort, ton fils deviendra le boy de quelqu'un
-\dt 14/Apr/2018
+\dt 06/Apr/2019
 
 \lx ɲɛ́turu
 \mm ɲɛ́:n:oeil
@@ -110931,13 +110965,14 @@ banane, etc.)
 \xf j'ai les paupières lourdes (de sommeil)
 
 \lx ɲɛ́wolosi
-\mm ɲɛ́.wolo:n:paupière
-\mm ɲɛ́:n:oeil
-\mm wòlo:n:peau
+\mm ɲɛ́wolo:n:paupière
+\mmm ɲɛ́:n:oeil
+\mmm wòlo:n:peau
 \mm sí:n:poil
 \ps n
 \gf cil
 \gvf cil
+\dt 06/Apr/2019
 
 \lx ɲɛ́wusu
 \mm ɲɛ́:n:oeil
@@ -110952,18 +110987,18 @@ banane, etc.)
 \lx ɲɛ́yeelendonda
 \mm ɲɛ́:n:oeil
 \mm yéelen:n:lumière
-\mm dòn.da:n:entrée
+\mm dònda:n:entrée
 \mmm dòn:v:entrer
 \mmm dá:n:bouche
 \ps n
 \gf cornée
 \gvf cornée
-\dt 03/Mar/2019
+\dt 06/Apr/2019
 
 \lx ɲɛ́yɛ̀lɛ
 \mm ɲɛ́:n:oeil
 \mm yɛ̀lɛ:v:ouvrir
-\va ɲɛ́.yɛ̀lɛn
+\va ɲɛ́yɛ̀lɛn
 \mm ɲɛ́:n:oeil
 \mm yɛ̀lɛn:v:ouvrir
 \ps v
@@ -110975,7 +111010,7 @@ banane, etc.)
 \ms 2
 \vl vi
 \gvf accoucher
-\dt 05/Apr/2016
+\dt 06/Apr/2019
 
 \lx ɲɛ́yɛ̀lɛma
 \mm ɲɛ́:n:oeil
@@ -110993,14 +111028,15 @@ banane, etc.)
 \dt 26/Sep/2006
 
 \lx ɲɛ́yɛlɛsyɛ
-\mm ɲɛ́:n:oeil
-\mm yɛ̀lɛ:v:ouvrir
+\mm ɲɛ́yɛ̀lɛ:v:initier
+\mmm ɲɛ́:n:oeil
+\mmm yɛ̀lɛ:v:ouvrir
 \mm syɛ́:n:poule
 \ps n
 \gf poule.pour.l'initiation
 \gvf poule pour l'initiation
 \smf (poule sacrifiée pour l'initiation à tel fétiche)
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲì
 \ps vq
@@ -111100,18 +111136,19 @@ banane, etc.)
 
 \lx ɲígirɔgɛlɛn
 \mm ɲígirɔ:n:compassion
-\mm gɛ̀lɛn:vq/adj:dur
+\mm gɛ̀lɛn:adj:dur
 \ps adj/n
 \gf résolu
 \gvf résolu
 \smf (personne qui n'hésite pas à agir (dans des circonstances difficiles))
 \rem f 84 : cf : nyigirò :  !
-\dt 11/Nov/2007
+\dt 06/Apr/2019
 
 \lx ɲígirɔgɛlɛya
-\mm ɲígirɔ:n:compassion
-\mm gɛ̀lɛ:vq/adj:dur
-\mm ya:mrph:DEQU
+\mm ɲígirɔgɛlɛn:adj:résolu
+\mmm ɲígirɔ:n:compassion
+\mmm gɛ̀lɛ:adj:dur
+\mm ya:mrph:ABSTR
 \ps n
 \gf cruauté
 \gvf cruauté
@@ -111119,7 +111156,7 @@ banane, etc.)
 \xf les gens du voleur et ses amis qui s'étaient unis pour jouer les brigands au temps de leur puissance (kb 8/04 p.8)
 \xv Díinɛ màtarafali bɛ́ fàrafin bàli kà ɲígirɔgɛlɛya k'ù yɛ̀rɛ lá
 \xf l'observance de la religion empêche les noirs d'être cruels envers eux-mêmes (suicide) (kb 10 10/04 p.2
-\dt 11/Nov/2007
+\dt 06/Apr/2019
 
 \lx ɲími
 \ps n
@@ -111281,12 +111318,12 @@ banane, etc.)
 
 \lx ɲínɛ̂-ní-jàkuma
 \mm ɲínɛ:n:souris
-\mm ni:prep/conj:et
+\mm ni:conj:et
 \mm jàkuma:n:chat
 \ps n
 \gf forfanterie
 \gvf forfanterie
-\dt 18/Aug/2017
+\dt 06/Apr/2019
 
 \lx ɲíni
 \va ɲín'
@@ -111368,9 +111405,9 @@ postposition, n'est pas accepté par tous les locuteurs)
 \dt 26/Sep/2006
 
 \lx ɲìninkalikɛla
-\mm ɲìninka.li:n:interrogation
-\mm ɲìninka:v:interroger
-\mm li:mrph:NMLZ
+\mm ɲìninkali:n:interrogation
+\mmm ɲìninka:v:interroger
+\mmm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -111378,7 +111415,7 @@ postposition, n'est pas accepté par tous les locuteurs)
 \gvf qui pose des questions
 \xv ɲìninkalikɛla tɛ́ fìli
 \xf celui qui pose des questions ne se trompe pas
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲìnjugu
 \mm ɲìn:n:ami
@@ -111391,31 +111428,54 @@ postposition, n'est pas accepté par tous les locuteurs)
 \gvf ennemi
 \dt 12/Dec/2014
 
-\lx ɲíntan
-\mm ɲí:n:dent
-\mm ntan:mrph:PRIV
-\va ɲín.ntan
+\lx ɲínɲimi
 \mm ɲín:n:dent
+\mm ɲími:v:mâcher
+\va ɲíɲimi
+\mm ɲí:n:dent
+\mm ɲími:v:mâcher
+\ps n
+\gf grincement.de.dents
+\gvf grincement de dents
+\dt 06/Apr/2019
+
+\lx ɲínsusu
+\mm ɲín:n:dent
+\mm súsu:v:sucer
+\va ɲísusu
+\mm ɲí:n:dent
+\mm súsu:v:sucer
+\ps n
+\gf noircissement.des.gencives
+\gvf noircissement des gencives
+\smf (le sang se suce et se crache, il ne s'avale pas)
+\dt 06/Apr/2019
+
+\lx ɲíntan
+\mm ɲín:n:dent
+\mm ntan:mrph:PRIV
+\va ɲíntan
+\mm ɲí:n:dent
 \mm ntan:mrph:PRIV
 \ps adj
 \gf édenté
 \gvf édenté
 \smf (qui n'a pas encore ses dents, ne les a plus ...)
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲíntàra
 \mm ɲín:n:dent
 \mm tàra:n:forteresse
-\fa ɲí.tàra
+\fa ɲítàra
 \mm ɲí:n:dent
 \mm tàra:n:forteresse
 \ps n
 \gf gencive
 \gvf gencive
-\dt 04/Mar/2019
+\dt 06/Apr/2019
 
 \lx ɲíntaradimi
-\mm ɲín.tàra:n:gencive
+\mm ɲíntàra:n:gencive
 \mmm ɲín:n:dent
 \mmm tàra:n:forteresse
 \mm dími:n:souffrance
@@ -111423,7 +111483,7 @@ postposition, n'est pas accepté par tous les locuteurs)
 \gf parodontose
 \gvf parodontose
 \gvf pyorrhée
-\dt 04/Mar/2019
+\dt 06/Apr/2019
 
 \lx ɲìntin
 \ps n
@@ -111431,6 +111491,17 @@ postposition, n'est pas accepté par tous les locuteurs)
 \gvf jarre trouée
 \smf (jarre percée de petits trous (servant à cuire à la vapeur : couscous ...))
 \dt 16/Aug/2006
+
+\lx ɲíntoli
+\mm ɲín:n:dent
+\mm tòli:adj:pourri
+\va ɲítoli
+\mm ɲí:n:dent
+\mm tòli:adj:pourri
+\ps n
+\gf carie.dentaire
+\gvf carie dentaire
+\dt 06/Apr/2019
 
 \lx ɲíɲaɲi
 \ps n
@@ -111440,17 +111511,6 @@ postposition, n'est pas accepté par tous les locuteurs)
 \xf (Am 6, 7) finie la fête pour les fainéants !
 \nt ton haut (sb)/ ton bas pour Et.Kl !
 \dt 11/Nov/2007
-
-\lx ɲíɲimi
-\mm ɲí:n:dent
-\mm ɲími:v:mâcher
-\va ɲín.ɲimi
-\mm ɲín:n:dent
-\mm ɲími:v:mâcher
-\ps n
-\gf grincement.de.dents
-\gvf grincement de dents
-\dt 26/Sep/2006
 
 \lx ɲìsɔn
 \mm ɲì:n:ami
@@ -111463,22 +111523,10 @@ postposition, n'est pas accepté par tous les locuteurs)
 \xf ton cadeau fut le plus beau
 \dt 16/Aug/2006
 
-\lx ɲísusu
-\mm ɲí:n:dent
-\mm súsu:v:sucer
-\va ɲín.susu
-\mm ɲín:n:dent
-\mm súsu:v:sucer
-\ps n
-\gf noircissement.des.gencives
-\gvf noircissement des gencives
-\smf (le sang se suce et se crache, il ne s'avale pas)
-\dt 16/Aug/2006
-
 \lx ɲìto
 \mm ɲì:n:part
 \mm tò:n:“to”
-\va nì.to
+\va nìto
 \mm nì:n:part
 \mm tò:n:“to”
 \ps n
@@ -111487,18 +111535,7 @@ postposition, n'est pas accepté par tous les locuteurs)
 \smf (réservée à ...)
 \xv wáajibi dòn, í bɛ́ dúnan ɲìto bɔ́
 \rem f
-\dt 11/Nov/2007
-
-\lx ɲítoli
-\mm ɲí:n:dent
-\mm tòli:adj:pourri
-\va ɲín.toli
-\mm ɲín:n:dent
-\mm tòli:adj:pourri
-\ps n
-\gf carie.dentaire
-\gvf carie dentaire
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲógan
 \ve (f)
@@ -111713,16 +111750,18 @@ postposition, n'est pas accepté par tous les locuteurs)
 
 \lx ɲɔ́gɔnbonya
 \mm ɲɔ́gɔn:prn:RECP
-\mm bòn:vq:grand
-\mm ya:mrph:DEQU
+\mm bònya:n:grosseur
+\mmm bòn:vq:grand
+\mmm ya:mrph:DEQU
 \va ɲwánbonya
 \mm ɲwán:prn:RECP
-\mm bòn:vq:grand
-\mm ya:mrph:DEQU
+\mm bònya:n:grosseur
+\mmm bòn:vq:grand
+\mmm ya:mrph:DEQU
 \ps n
 \gf honneurs.réciproques
 \gvf honneurs réciproques
-\dt 28/Feb/2017
+\dt 06/Apr/2019
 
 \lx ɲɔ́gɔndan
 \mm ɲɔ́gɔn:prn:RECP
@@ -111748,7 +111787,7 @@ postposition, n'est pas accepté par tous les locuteurs)
 \gf compétiteur
 \gvf compétiteur
 \gvf participant de concours
-\dt 10/Mar/2018
+\dt 06/Apr/2019
 
 \lx ɲɔ́gɔndɛmɛ
 \mm ɲɔ́gɔn:prn:RECP
@@ -111818,18 +111857,20 @@ le pèlerinage (bk 1/06 p.5)
 
 \lx ɲɔ́gɔnkunbɛnyɔrɔ
 \mm ɲɔ́gɔn:prn:RECP
-\mm kùn:n:tête
-\mm bɛ̀n:v:se.rencontrer
+\mm kùnbɛn:n:rencontre-accueil
+\mmm kùn:n:tête
+\mmm bɛ̀n:n:accord
 \mm yɔ́rɔ:n:lieu
 \va ɲwánkunbɛnyɔrɔ
 \mm ɲwán:prn:RECP
-\mm kùn:n:tête
-\mm bɛ̀n:v:se.rencontrer
+\mm kùnbɛn:n:rencontre-accueil
+\mmm kùn:n:tête
+\mmm bɛ̀n:n:accord
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf lieu.de.rendez-vous
 \gvf lieu de rendez-vous
-\dt 06/Nov/2014
+\dt 06/Apr/2019
 
 \lx ɲɔ̀gɔnna
 \va ɲwànna
@@ -111845,10 +111886,10 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲɔ́gɔnna
 \mm ɲɔ́gɔn:prn:RECP
 \mm ná:pp:à
-\va ɲɔ́ɔn.na
+\va ɲɔ́ɔnna
 \mm ɲɔ́ɔn:prn:RECP
 \mm ná:pp:à
-\va ɲwán.na
+\va ɲwánna
 \mm ɲwán:prn:RECP
 \mm ná:pp:à
 \ph [ɲuanna]
@@ -111856,7 +111897,7 @@ le pèlerinage (bk 1/06 p.5)
 \gf puîné
 \gvf puîné
 \smf (frère cadet immédiat : Nsan par rapport à Nci, Ngolo par rapport à Nsan ...)
-\dt 06/Nov/2014
+\dt 06/Apr/2019
 
 \lx ɲɔ́gɔnsɔsɔ
 \mm ɲɔ́gɔn:prn:RECP
@@ -111885,9 +111926,6 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲɔ̀gɔntuma
 \mm ɲɔ̀gɔn:n:pareil
 \mm tùma:n:moment
-\va ɲɔ̀ɔntuma
-\mm ɲɔ̀ɔn:n:pareil
-\mm tùma:n:moment
 \va ɲwàntuma
 \mm ɲwàn:n:pareil
 \mm tùma:n:moment
@@ -111900,7 +111938,7 @@ le pèlerinage (bk 1/06 p.5)
 \gvf à pareil moment
 \xv síni ɲɔ̀gɔntuma
 \xf demain à la même heure
-\dt 13/Oct/2017
+\dt 06/Apr/2019
 
 \lx ɲɔ́gɔnye
 \mm ɲɔ́gɔn:prn:RECP
@@ -111918,20 +111956,20 @@ le pèlerinage (bk 1/06 p.5)
 \dt 06/Nov/2014
 
 \lx ɲɔ́gɔnyeba
-\mm ɲɔ́gɔn.ye:n:entrevue
-\mm ɲɔ́gɔn:prn:RECP
-\mm yé:v:voir
+\mm ɲɔ́gɔnye:n:entrevue
+\mmm ɲɔ́gɔn:prn:RECP
+\mmm yé:v:voir
 \mm ba:mrph:AUGM
 \va ɲwányeba
-\mm ɲwán.ye:n:entrevue
-\mm ɲwán:prn:RECP
-\mm yé:v:voir
+\mm ɲwánye:n:entrevue
+\mmm ɲwán:prn:RECP
+\mmm yé:v:voir
 \mm ba:mrph:AUGM
 \ps n
 \gf grande.assemblée
 \gvf grande assemblée
 \gvf concile
-\dt 06/Nov/2014
+\dt 06/Apr/2019
 
 \lx ɲɔ̀gɔnyebali
 \mm ɲɔ̀gɔn:n:pareil
@@ -112014,13 +112052,13 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲɔ́kan
 \mm ɲɔ́:n:respiration
 \mm kán:n:cou
-\va ɲɔ́n.kan
+\va ɲɔ́nkan
 \mm ɲɔ́n:n:respiration
 \mm kán:n:cou
 \ps n
 \gf bruit.de.respiration
 \gvf bruit de respiration
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɔ̀ki
 \ps v
@@ -112050,15 +112088,6 @@ le pèlerinage (bk 1/06 p.5)
 \gvf sarclage du mil
 \gvf buttage du mil
 \dt 26/Sep/2006
-
-\lx ɲɔ̀kɔrɔsyɛn
-\mm ɲɔ̀:n:mil
-\mm kɔ́rɔ:pp:sous
-\mm syɛ́n:n:lutte
-\ps n
-\gf sarclage.du.mil
-\gvf sarclage du mil
-\gvf buttage du mil
 
 \lx ɲɔ̀kuru
 \mm ɲɔ̀:n:mil
@@ -112154,11 +112183,11 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲɔ̀ninfin
 \mm ɲɔ̀:n:mil
 \mm nin:mrph:DIM
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf sorgho.hâtif.sp
 \gvf sorgho hâtif sp
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲɔ̀ninsà
 \va ɲɔ̀nisàn
@@ -112171,14 +112200,14 @@ le pèlerinage (bk 1/06 p.5)
 \lx ɲɔ́nminɛ
 \mm ɲɔ́n:n:respiration
 \mm mìnɛ:v:attraper
-\va ɲɔ́.minɛ
+\va ɲɔ́minɛ
 \mm ɲɔ́:n:respiration
 \mm mìnɛ:v:attraper
 \ps n
 \gf asthme
 \gvf asthme
 \gvf asphyxie
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ɲɔ̀nɔ
 \ps n
@@ -112367,21 +112396,21 @@ le pèlerinage (bk 1/06 p.5)
 \dt 11/Mar/2018
 
 \lx ɲùgujilama
-\mm ɲùgu.ji:n:sauce.de.feuilles
-\mm ɲùgu:n:feuilles
-\mm jí:n:eau
+\mm ɲùguji:n:sauce.de.feuilles
+\mmm ɲùgu:n:feuilles
+\mmm jí:n:eau
 \mm lama:mrph:STAT
 \ps adj
 \gf vert
 \gvf vert
 \smf (couleur)
 \sy bínkɛnɛnama
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲùgujisa
-\mm ɲùgu.ji:n:sauce.de.feuilles
-\mm ɲùgu:n:feuilles
-\mm jí:n:eau
+\mm ɲùguji:n:sauce.de.feuilles
+\mmm ɲùgu:n:feuilles
+\mmm jí:n:eau
 \mm sà:n:serpent
 \ps n
 \gf serpent.vert
@@ -112399,7 +112428,7 @@ le pèlerinage (bk 1/06 p.5)
 \sy námugulasa
 \sy nɔ́gɔlanjuru
 \sy nnɔ́gɔlansa
-\dt 19/Aug/2006
+\dt 06/Apr/2019
 
 \lx ɲùguɲùgu
 \mm ɲùgu:n:groupe
@@ -112480,14 +112509,15 @@ le pèlerinage (bk 1/06 p.5)
 \gvf ingrat
 
 \lx ɲùmandɔnbaliya
-\mm ɲùman.dɔn.bali:ptcp:ingrat
-\mm ɲùman:adj:bon
-\mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.NEG
+\mm ɲùmandɔnbali:ptcp:ingrat
+\mmm ɲùman:adj:bon
+\mmm dɔ́n:v:connaître
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf ingratitude
 \gvf ingratitude
+\dt 06/Apr/2019
 
 \lx ɲùmandɔnna
 \mm ɲùman:adj:bon
@@ -112581,13 +112611,13 @@ le pèlerinage (bk 1/06 p.5)
 \dt 02/May/2018
 
 \lx ŋàaraya
-\mm ŋàara:adj/n:éloquent
+\mm ŋàara:adj:éloquent
 \mm ya:mrph:ABSTR
 \ps n
 \gf éloquence
 \gvf éloquence
 \smf (des griots)
-\dt 16/Aug/2006
+\dt 06/Apr/2019
 
 \lx ŋàka
 \ps n
@@ -112608,12 +112638,13 @@ le pèlerinage (bk 1/06 p.5)
 \lx ŋàlakujɛ
 \mm ŋàla:n:chacal.à.flancs.rayés
 \mm kú:n:queue
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf chacal.à.flancs.rayés
 \gvf chacal à flancs rayés
 \lat Canis.canis.adustus
 \sy kúngowulu
+\dt 06/Apr/2019
 
 \lx ŋàna
 \ps n
@@ -113003,10 +113034,10 @@ le pèlerinage (bk 1/06 p.5)
 \dt 19/Jan/2015
 
 \lx ŋòlokùnba
-\mm ŋòlo:n:Ngolo
-\mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm ŋòlo:n.prop.NOM.M
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \ms 1
 \gf oedicnème.du.Sénégal
@@ -113018,7 +113049,7 @@ le pèlerinage (bk 1/06 p.5)
 \lat Burhinus.capensis
 \smf (souvent confondu avec le précédent, habitat : plaines arides, 'fuga')
 \sy ngòlo-bòli-kà-bìn
-\dt 05/Apr/2016
+\dt 06/Apr/2019
 
 \lx ŋɔ̀mɛ
 \ps v
@@ -113071,7 +113102,7 @@ le pèlerinage (bk 1/06 p.5)
 
 \lx ŋɔ́nifin
 \mm ŋɔ́ni:n:épine
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf acacia.trois.griffes
 \gvf acacia trois griffes
@@ -113079,11 +113110,11 @@ le pèlerinage (bk 1/06 p.5)
 \lat A.dudgeonii
 \sd mimo
 \smf (trois épines courbes à la base des feuilles, 2 vers le haut, 1 vers le bas)
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ŋɔ́nijɛ
 \mm ŋɔ́ni:n:épine
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf arbuste.Acacia.macrostachya
 \gvf arbuste Acacia macrostachya
@@ -113092,7 +113123,7 @@ le pèlerinage (bk 1/06 p.5)
 \smf (épines recourbées en griffes contre leur support)
 \sy pɔ́rɔtɔŋɔni
 \sy nsòfaraŋɔni
-\dt 26/Sep/2006
+\dt 06/Apr/2019
 
 \lx ŋɔ́nima
 \mm ŋɔ́ni:n:épine
@@ -113481,7 +113512,7 @@ envergure)
 \mm pàara:n:enjambée
 \mm ɲɛ́:n:fois
 \ve (f)
-\va pàara.ɲa
+\va pàaraɲa
 \mm pàara:n:enjambée
 \mm ɲá:n:fois
 \va pàraɲɛ
@@ -113492,7 +113523,7 @@ envergure)
 \gvf enjambée
 \xv í kà pàaraɲɛ bà fìla kɛ́ ò tìgi fɛ̀
 \xf fais deux mille pas avec cette personne
-\dt 14/Mar/2018
+\dt 06/Apr/2019
 
 \lx pácakopacako
 \ps onomat
@@ -113614,9 +113645,9 @@ envergure)
 \dt 22/Feb/2019
 
 \lx pánkurunjiginkɛnɛ
-\mm pán.kurun:n:avion
-\mm pán:v:sauter
-\mm kúrun:n:pirogue
+\mm pánkurun:n:avion
+\mmm pán:v:sauter
+\mmm kúrun:n:pirogue
 \mm jìgin:v:descendre
 \mm kɛ́nɛ:n:clarté
 \ps n
@@ -113624,18 +113655,18 @@ envergure)
 \gvf aérodrome
 \xv kà dɔ́ fàra  pánkurunjiginkɛnɛ bònya kàn
 \xf allonger la piste d'atterrissage (Kb 4/06 p.1)
-\dt 03/May/2013
+\dt 06/Apr/2019
 
 \lx pánkurunjiginyɔrɔ
-\mm pán.kurun:n:avion
-\mm pán:v:sauter
-\mm kúrun:n:pirogue
+\mm pánkurun:n:avion
+\mmm pán:v:sauter
+\mmm kúrun:n:pirogue
 \mm jìgin:v:descendre
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf aérodrome
 \gvf aérodrome
-\dt 03/May/2013
+\dt 06/Apr/2019
 
 \lx pánpala
 \ve (f,bk)
@@ -124761,9 +124792,9 @@ donne d'excellentes fibres)
 \lx síranya
 \mm síran:v:craindre
 \mm ya:mrph:ABSTR
-\va síran.yɛ
+\va síranyɛ
 \mm síran:v:craindre
-\mm yɛ:mrph:ABSTR
+\mm ya:mrph:ABSTR
 \va síranɲɛ
 \mm síran:v:craindre
 \mm ń:pers:1SG
@@ -124773,7 +124804,7 @@ donne d'excellentes fibres)
 \gvf peur
 \sy síran
 \sy jɔ̀rɔ
-\dt 02/May/2015
+\dt 06/Apr/2019
 
 \lx síranyafɛn
 \mm síran.ya:n:peur
