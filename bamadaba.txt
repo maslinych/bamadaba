@@ -114166,14 +114166,14 @@ envergure)
 \dt 11/Nov/2007
 
 \lx pérekunbanin
-\mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \mm nin:mrph:DIM
 \ps n
 \gf tambour.sp
 \gvf tambour sp
-\dt 16/Aug/2006
+\dt 07/Apr/2019
 
 \lx pérepèré
 \va pɛ́rɛpɛrɛ
@@ -114185,14 +114185,15 @@ envergure)
 \dt 16/Aug/2006
 
 \lx péreperelatìgɛ
-\mm lá:mrph:CAUS
-\mm tìgɛ:v:couper
+\mm látìgɛ:v:faire.passer
+\mmm lá:mrph:CAUS
+\mmm tìgɛ:v:couper
 \ps v
 \vl vt
 \gf dire.clairement
 \gvf dire clairement
 \gvf bien préciser
-\dt 26/Sep/2006
+\dt 07/Apr/2019
 
 \lx pèresidan
 \ps n
@@ -114935,23 +114936,23 @@ envergure)
 
 \lx pɔ̀liyɔbilen
 \mm pɔ̀liyɔ:n:silure
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf silure.sp
 \gvf silure sp
 \lat Heterobranchus.bidorsalis
 \smf (---> 1,24 m, 23 kg)
-\dt 16/Aug/2006
+\dt 07/Apr/2019
 
 \lx pɔ̀liyɔfin
 \mm pɔ̀liyɔ:n:silure
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf silure.sp
 \gvf silure sp
 \lat Heterobranchus.longifilis
 \smf (---> 80 cm,  6,400 kg)
-\dt 16/Aug/2006
+\dt 07/Apr/2019
 
 \lx pɔ̀n
 \es {fr : pont}
@@ -115084,13 +115085,21 @@ envergure)
 \gvf jeter par aspersion
 \dt 26/Sep/2006
 
+\lx puduru
+\bw fr. poudre
+\ps n
+\gf poudre
+\gvf poudre
+\dt 07/Apr/2019
+
 \lx pudurumugu
+\mm puduru:n:poudre
 \mm múgu:n:poudre
 \ps n
 \gf poudre
 \gvf poudre
 \smf (générale)
-\dt 11/May/2013
+\dt 07/Apr/2019
 
 \lx púkɛ
 \ps adv
@@ -115199,11 +115208,12 @@ envergure)
 
 \lx rɔ́kolense
 \mm rɔ́:mrph:IN
+\mm kólensen:v:mélanger
 \ps v
 \vl vt
 \gf mélanger
 \gvf mélanger
-\dt 12/Aug/2006
+\dt 07/Apr/2019
 
 \lx rɔ́kule
 \mm rɔ́:mrph:IN
@@ -115214,18 +115224,19 @@ envergure)
 \gvf mélanger
 \dt 12/Aug/2006
 
-\lx rɔ́ncàkanpo
+\lx rɔ́ncàpanko
 \mm rɔ́:mrph:IN
+\mm ncàpanko:v:contredire
 \ps v
 \vl vt
 \gf contredire
 \gvf contredire
-\dt 26/Sep/2006
+\dt 07/Apr/2019
 
 \lx rɔ́nkolon
 \mm rɔ́n:mrph:IN
 \mm kólon:adj:vide
-\va rɔ́.kolon
+\va rɔ́kolon
 \mm rɔ́:mrph:IN
 \mm kólon:adj:vide
 \ps adj
@@ -115237,20 +115248,22 @@ envergure)
 \ms 3
 \gvf sans valeur
 \gvf négligeable
+\dt 07/Apr/2019
 
 \lx rɔ́nkolonya
-\mm rɔ́n.kolon:adj:vide
-\mm rɔ́n:mrph:IN
-\mm kólon:adj:vide
+\mm rɔ́nkolon:adj:vide
+\mmm rɔ́n:mrph:IN
+\mmm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \ps n
 \gf nudité
 \gvf nudité
+\dt 07/Apr/2019
 
 \lx rɔ́nkolonya
-\mm rɔ́n.kolon:adj:vide
-\mm rɔ́n:mrph:IN
-\mm kólon:adj:vide
+\mm rɔ́nkolon:adj:vide
+\mmm rɔ́n:mrph:IN
+\mmm kólon:adj:vide
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -115259,6 +115272,7 @@ envergure)
 \gvf vider
 \ms 2
 \gvf dénuder
+\dt 07/Apr/2019
 
 \lx rɔ́nɔɔni
 \mm rɔ́:mrph:IN
@@ -115402,20 +115416,20 @@ envergure)
 \mm sáale:n:droits.du.marché
 \mm mìnɛ:v:attraper
 \mm baa:mrph:AG.OCC
-\va ságale.minɛ.baga
+\va ságaleminɛbaga
 \mm ságale:n:droits.du.marché
 \mm mìnɛ:v:attraper
 \mm baga:mrph:AG.OCC
 \ps n
 \gf percepteur.de.droits
 \gvf percepteur de droits
-\dt 16/Aug/2006
+\dt 07/Apr/2019
 
 \lx sáaleminɛna
 \mm sáale:n:droits.du.marché
 \mm mìnɛ:v:attraper
 \mm na:mrph:AG.PRM
-\va ságale.minɛ.na
+\va ságaleminɛna
 \mm ságale:n:droits.du.marché
 \mm mìnɛ:v:attraper
 \mm na:mrph:AG.PRM
@@ -115423,7 +115437,7 @@ envergure)
 \gf percepteur.de.droits
 \gvf percepteur de droits
 \rem Svt
-\dt 11/Nov/2007
+\dt 07/Apr/2019
 
 \lx sáalen
 \va sálen
@@ -115438,7 +115452,7 @@ envergure)
 \mm sáale:n:droits.du.marché
 \mm tà:v:prendre
 \mm la:mrph:AG.PRM
-\va ságale.ta.la
+\va ságaletala
 \mm ságale:n:droits.du.marché
 \mm tà:v:prendre
 \mm la:mrph:AG.PRM
@@ -115446,7 +115460,7 @@ envergure)
 \gf percepteur.de.droits
 \gvf percepteur de droits
 \rem Mol
-\dt 11/Nov/2007
+\dt 07/Apr/2019
 
 \lx sàalo
 \ps v
@@ -115782,13 +115796,14 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sàbaliya
-\mm sà.bali:ptcp:immortel
-\mm sà:v:mourir
-\mm bali:mrph:PTCP.NEG
+\mm sàbali:ptcp:immortel
+\mmm sà:v:mourir
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf immortalité
 \gvf immortalité
+\dt 07/Apr/2019
 
 \lx sàban
 \ps n
@@ -115896,13 +115911,13 @@ épuisés
 \mm sàbati:v:prospérer
 \mm ya:mrph:ABSTR
 \ps v
-\vl vi ?
-\gf prospérer
-\gvf prospérer
+\vl vt
+\gf faire.prospérer
+\gvf faire prospérer
 \sy sàbati
 \xv kà í ká dénko sàbatiya
 \rem jos, bk
-\dt 11/Nov/2007
+\dt 07/Apr/2019
 
 \lx sábila
 \ps n
@@ -115966,27 +115981,27 @@ épuisés
 \mm sábu:n:cause
 \mm lá:pp:à
 \mm fɛ́n:n:chose
-\va sábu.rɔ.fɛn
+\va sáburɔfɛn
 \mm sábu:n:cause
 \mm rɔ́:pp:IN
 \mm fɛ́n:n:chose
 \ps n
 \gf chose.extraordinaire
 \gvf chose extraordinaire
-\dt 26/Sep/2006
+\dt 07/Apr/2019
 
 \lx sábulamaa
 \mm sábu:n:cause
 \mm lá:pp:à
 \mm màa:n:homme
-\va sábu.la.mɔgɔ
+\va sábulamɔgɔ
 \mm sábu:n:cause
 \mm lá:pp:à
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf querelleur
 \gvf querelleur
-\dt 16/Aug/2006
+\dt 07/Apr/2019
 
 \lx sábulan
 \mm sábu:v:peigner
@@ -116038,41 +116053,41 @@ épuisés
 \dt 16/Aug/2006
 
 \lx sàdiya
-\mm dí.ya:n:bon.goût
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ve (-bn)
 \va sàndiya
-\mm dí.ya:n:bon.goût
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \va sàja
 \ps n
 \gf plaisanterie
 \gvf plaisanterie
 \xv sàdiya bìla  màa ná
 \xf plaisanter qqn
-\dt 03/Apr/2016
+\dt 07/Apr/2019
 
 \lx sàdiyakɛla
 \mm sàdiya:n:plaisanterie
-\mm dí.ya:n:bon.goût
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mmm díya:n:bon.goût
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
-\va sàndiya.kɛ.la
+\va sàndiyakɛla
 \mm sàndiya:n:plaisanterie
-\mm dí.ya:n:bon.goût
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mmm díya:n:bon.goût
+\mmmm dí:vq:agréable
+\mmmm ya:mrph:DEQU
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf plaisantin
 \gvf plaisantin
 \rem Bz, b
-\dt 05/Apr/2016
+\dt 07/Apr/2019
 
 \lx sáfa
 \ps n
