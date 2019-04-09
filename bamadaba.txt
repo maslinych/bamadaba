@@ -116268,15 +116268,15 @@ langue, et finit par empêcher de marcher)
 \gvf laine
 
 \lx sàgasifini
-\mm sàga.si:n:laine
-\mm sàga:n:ovin
-\mm sí:n:poil
+\mm sàgasi:n:laine
+\mmm sàga:n:ovin
+\mmm sí:n:poil
 \mm fìni:n:tissu
 \ps n
 \gf lainage
 \gvf lainage
 \gvf habit de laine
-\dt 11/Nov/2007
+\dt 09/Apr/2019
 
 \lx sàgasogo
 \mm sàga:n:ovin
@@ -116324,14 +116324,14 @@ langue, et finit par empêcher de marcher)
 \mm sàgo:n:volonté
 \mm kɛ́:v:faire
 \mm baga:mrph:AG.OCC
-\va sàgo.kɛ.baa
+\va sàgokɛbaa
 \mm sàgo:n:volonté
 \mm kɛ́:v:faire
 \mm baa:mrph:AG.OCC
 \ps n
 \gf obéissant
 \gvf obéissant
-\dt 11/Nov/2007
+\dt 09/Apr/2019
 
 \lx sàgokɛbali
 \mm sàgo:n:volonté
@@ -116343,15 +116343,15 @@ langue, et finit par empêcher de marcher)
 \dt 12/Aug/2006
 
 \lx sàgokɛbaliya
-\mm sàgo.kɛ.bali:ptcp:désobéissant
-\mm sàgo:n:volonté
-\mm kɛ́:v:faire
-\mm bali:mrph:PTCP.NEG
+\mm sàgokɛbali:ptcp:désobéissant
+\mmm sàgo:n:volonté
+\mmm kɛ́:v:faire
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf désobéissance
 \gvf désobéissance
-\dt 26/Sep/2006
+\dt 09/Apr/2019
 
 \lx sàgokɛla
 \mm sàgo:n:volonté
@@ -116364,13 +116364,15 @@ langue, et finit par empêcher de marcher)
 \lx sàgolata
 \mm sàgo:n:volonté
 \mm lata:mrph:MNT2
-\va sàgo.nata
+\va sàgonata
 \mm sàgo:n:volonté
 \mm nata:mrph:MNT2
 \ps n
 \gf choix
 \gvf choix
-\dt 16/Aug/2006
+\gvf volonté
+\gvf désir
+\dt 09/Apr/2019
 
 \lx sàgon
 \ps v
@@ -116429,7 +116431,7 @@ langue, et finit par empêcher de marcher)
 \dt 26/Sep/2006
 
 \lx sàgonada
-\mm sàgo.na:n:volonté
+\mm sàgona:n:volonté
 \mmm sàgo:n:volonté
 \mmm na:mrph:MNT1
 \mm dá:n:bouche
@@ -116439,26 +116441,17 @@ langue, et finit par empêcher de marcher)
 \gvf volonté
 \xv kà à dòn í sàgonada fɛ̀
 \xf l'utiliser à son gré
-\dt 01/Oct/2018
+\dt 09/Apr/2019
 
 \lx sàgonako
-\mm sàgo.na:n:volonté
-\mm sàgo:n:volonté
-\mm na:mrph:MNT1
+\mm sàgona:n:volonté
+\mmm sàgo:n:volonté
+\mmm na:mrph:MNT1
 \mm kó:n:affaire
 \ps n
 \gf projet
 \gvf projet
-\dt 26/Sep/2006
-
-\lx sàgonata
-\mm sàgo:n:volonté
-\mm nata:mrph:MNT2
-\ps n
-\gf volonté
-\gvf volonté
-\gvf désir
-\dt 30/Sep/2018
+\dt 09/Apr/2019
 
 \lx sàgonni
 \mm sàgon:v:sauter.par.dessus
@@ -116572,12 +116565,12 @@ langue, et finit par empêcher de marcher)
 
 \lx sàjɛ
 \mm sà:n:serpent
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf serpent.Psammophis.sibilans
 \gvf serpent Psammophis sibilans
 \smf (---> 1,75 m  (écailles lisses, queue mince) -- jaune olivâtre ou brun, très rapide, agressif))
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sàjɛgɛ
 \mm sà:n:serpent
@@ -116590,10 +116583,10 @@ langue, et finit par empêcher de marcher)
 \dt 16/Aug/2006
 
 \lx sàjɛgɛjɛ
-\mm sà.jɛgɛ:n:poisson.polyptère
-\mm sà:n:serpent
-\mm jɛ́gɛ:n:poisson
-\mm jɛ́:vq/adj:blanc
+\mm sàjɛgɛ:n:poisson.polyptère
+\mmm sà:n:serpent
+\mmm jɛ́gɛ:n:poisson
+\mm jɛ́:adj:blanc
 \ps n
 \ms 1
 \gf poisson.Polypterus.senegalus
@@ -116603,7 +116596,7 @@ langue, et finit par empêcher de marcher)
 \gvf poisson Polypterus endlicheri
 \smf (---> 75 cm)
 \sy lògomi
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sàjoona
 \mm sà:v:mourir
@@ -116651,14 +116644,14 @@ langue, et finit par empêcher de marcher)
 \lx sàkɛnɛsyɔ
 \mm sàkɛ̀nɛ́:n:lézard.sp
 \mm syɔ́:n:haricot
-\va sàkɛnɛ.shyɔ
+\va sàkɛnɛshyɔ
 \mm sàkɛ̀nɛ́:n:lézard.sp
 \mm shyɔ́:n:haricot
 \ph [sakɛnɛshyɔ]
 \ps n
 \gf haricot.sp
 \gvf haricot sp
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sáki
 \ps n
@@ -116735,16 +116728,16 @@ langue, et finit par empêcher de marcher)
 \dt 12/Aug/2006
 
 \lx sàlabaatɔya
-\mm sàla.baa.tɔ:adj/n:paresseux
-\mm sàla:v:devenir.paresseux
-\mm baa:mrph:AG.OCC
-\mm tɔ:mrph:ST
+\mm sàlabaatɔ:adj:paresseux
+\mmm sàla:v:devenir.paresseux
+\mmm baa:mrph:AG.OCC
+\mmm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
 \ps n
 \gf oisiveté
 \gvf oisiveté
 \gvf paresse
-\dt 26/Sep/2006
+\dt 09/Apr/2019
 
 \lx sálaku
 \ve (bn,bk)
@@ -116832,6 +116825,7 @@ langue, et finit par empêcher de marcher)
 \lx sàlogoni-kánjanmanjan
 \mm sàlogoni:n:oiseau.anhinga.d'Afrique
 \mm kán:n:cou
+\mm jànmanjan:n:long
 \mm jàn:vq:long
 \mm man:mrph:ADJ
 \mm jàn:vq:long
@@ -116839,7 +116833,7 @@ langue, et finit par empêcher de marcher)
 \gf oiseau.anhinga.d'Afrique
 \gvf oiseau anhinga d'Afrique
 \lat Anhinga rufa
-\dt 26/Sep/2006
+\dt 09/Apr/2019
 
 \lx sàlogoni-kánsurunnin
 \mm sàlogoni:n:oiseau.anhinga.d'Afrique
@@ -116863,20 +116857,20 @@ langue, et finit par empêcher de marcher)
 \dt 17/Mar/2018
 
 \lx sálonnasini
-\mm sálon:n/adv:l'an.dernier
+\mm sálon:n:l'an.dernier
 \mm ná:pp:à
 \mm síni:n:demain
 \va sánnasini
 \mm ná:pp:à
 \mm síni:n:demain
 \va sálòlalasini
-\mm sálon:n/adv:l'an.dernier
+\mm sálon:n:l'an.dernier
 \mm lá:pp:à
 \mm síni:n:demain
 \ps adv/n
 \gf il.y.a.deux.ans
 \gvf il y a deux ans
-\dt 05/Apr/2015
+\dt 09/Apr/2019
 
 \lx sàma
 \ps n
@@ -116961,13 +116955,13 @@ langue, et finit par empêcher de marcher)
 
 \lx sàma-ká-bín
 \mm sàma:n:éléphant
-\mm ká:pp:POSS
+\mm ka:pp:POSS
 \mm bín:n:herbe
 \ps n
 \gf herbe.Eragrostis.major
 \gvf herbe Eragrostis major
 \sd gram
-\dt 01/Mar/2017
+\dt 09/Apr/2019
 
 \lx sàmalemuru
 \mm sàma:n:éléphant
@@ -117044,9 +117038,9 @@ langue, et finit par empêcher de marcher)
 \dt 19/Aug/2006
 
 \lx sàmasenfura
-\mm sàma.sèn:n:plante.Costus.spectabilis
-\mm sàma:n:éléphant
-\mm sèn:n:jambe
+\mm sàmasèn:n:plante.Costus.spectabilis
+\mmm sàma:n:éléphant
+\mmm sèn:n:jambe
 \mm fúra:n:feuille
 \ps n
 \gf plante.Costus.spectabilis
@@ -117054,12 +117048,12 @@ langue, et finit par empêcher de marcher)
 \smf (plante à rhizome)
 \sy sàmasen
 \sd zing
-\dt 19/Aug/2006
+\dt 09/Apr/2019
 
 \lx sàmatulo
 \mm sàma:n:éléphant
 \mm túlo:n:oreille
-\va sàma.tlo
+\va sàmatlo
 \mm sàma:n:éléphant
 \mm tló:n:oreille
 \ph [tl]
@@ -117070,7 +117064,7 @@ langue, et finit par empêcher de marcher)
 \sd loga
 \smf (arbre, 10 / 20 m, port caractéristique, les branches ne portent des feuilles qu'au sommet)
 \sy pɔ̀pɔ
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sàmiya
 \va sàmiyɛ
@@ -117114,16 +117108,16 @@ langue, et finit par empêcher de marcher)
 
 \lx sámufin
 \mm sámu:n:poisson.Porcus.sp
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf poisson.Porcus.docmac
 \gvf poisson Porcus docmac
 \smf (---> 85 cm, ---> 12,5 kg (trapu, tête large, grande adipeuse; prédateur, comme les suivants))
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sámujɛ
 \mm sámu:n:poisson.Porcus.sp
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \ms 1
 \gf poisson.Porcus.bayad
@@ -117132,7 +117126,7 @@ langue, et finit par empêcher de marcher)
 \ms 2
 \gvf poisson Porcus filamentosus
 \smf (---> 55 cm (grande adipeuse, dorsale aux filaments plus longs))
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sàn
 \ps v
@@ -117250,13 +117244,13 @@ langue, et finit par empêcher de marcher)
 \lx sànbaa
 \mm sàn:v:acheter
 \mm baa:mrph:AG.OCC
-\va sàn.baga
+\va sànbaga
 \mm sàn:v:acheter
 \mm baga:mrph:AG.OCC
 \ps n
 \gf acheteur
 \gvf acheteur
-\dt 26/Sep/2006
+\dt 09/Apr/2019
 
 \lx sánbalaɲɔ
 \mm sán:n:ciel
@@ -117362,14 +117356,14 @@ langue, et finit par empêcher de marcher)
 \dt 07/Feb/2016
 
 \lx sánfɛla
-\mm sán.fɛ̀:pp:par-dessus
+\mm sánfɛ̀:pp:par-dessus
 \mmm sán:n:ciel
 \mmm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \gf le.haut
 \gvf le haut
-\dt 09/Mar/2019
+\dt 09/Apr/2019
 
 \lx sànfɛn
 \mm sàn:v:acheter
@@ -117402,17 +117396,17 @@ langue, et finit par empêcher de marcher)
 
 \lx sánfin
 \mm sán:n:ciel
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf nuage.de.pluie
 \gvf nuage de pluie
 \smf (nuage noir annonçant la pluie)
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sánfiyɛn
 \mm sán:n:ciel
 \mm fíyɛn:n:vent
-\va sán.fiɲɛ
+\va sánfiɲɛ
 \mm sán:n:ciel
 \mm fíɲɛ:n:vent
 \ps n
@@ -117420,13 +117414,13 @@ langue, et finit par empêcher de marcher)
 \gvf bourrasque
 \gvf tornade
 \gvf tempête
-\dt 26/Sep/2006
+\dt 09/Apr/2019
 
 \lx sànfola
 \mm sàn:n:message.de.deuil
 \mm fò:v:saluer
 \mm la:mrph:AG.PRM
-\va sànga.fo.la
+\va sàngafola
 \mm sànga:n:message.de.deuil
 \mm fò:v:saluer
 \mm la:mrph:AG.PRM
@@ -117436,7 +117430,7 @@ langue, et finit par empêcher de marcher)
 \gvf qui présente condoléances
 \ms 2
 \gvf pleureuse
-\dt 17/Dec/2017
+\dt 09/Apr/2019
 
 \lx sánfɔli
 \mm sán:n:ciel
@@ -117491,18 +117485,18 @@ langue, et finit par empêcher de marcher)
 \lx sàngabon
 \mm sànga:n:message.de.deuil
 \mm bón:n:case
-\va sàn.bon
+\va sànbon
 \mm sàn:n:message.de.deuil
 \mm bón:n:case
 \ps n
 \gf maison.mortuaire
 \gvf maison mortuaire
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sàngaci
 \mm sànga:n:message.de.deuil
 \mm cí:n:commission
-\va sàn.ci
+\va sànci
 \mm sàn:n:message.de.deuil
 \mm cí:n:commission
 \ps n
@@ -117512,19 +117506,19 @@ langue, et finit par empêcher de marcher)
 \smf (écrit ou oral)
 \ms 2
 \gvf qui annonce un décès
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sàngafo
 \mm sànga:n:message.de.deuil
 \mm fò:v:saluer
-\va sàn.fo
+\va sànfo
 \mm sàn:n:message.de.deuil
 \mm fò:v:saluer
 \ps n
 \gf condoléances
 \gvf condoléances
 \smf (action)
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sángama
 \mm sánga:n:temps
@@ -117544,9 +117538,9 @@ langue, et finit par empêcher de marcher)
 \dt 26/Sep/2006
 
 \lx sángaɲɔgɔnma
-\mm sánga.ɲɔgɔn:n:émule
-\mm sánga:v:comparer
-\mm ɲɔ́gɔn:prn:RECP
+\mm sángaɲɔgɔn:n:émule
+\mmm sánga:v:comparer
+\mmm ɲɔ́gɔn:prn:RECP
 \mm ma:mrph:COM
 \ps n
 \ms 1
@@ -117558,7 +117552,7 @@ langue, et finit par empêcher de marcher)
 \ms 2
 \gvf concurrent
 \gvf rival
-\dt 16/Jun/2017
+\dt 09/Apr/2019
 
 \lx sángaɲɔgɔnma
 \mm sánga:v:comparer
@@ -117572,14 +117566,15 @@ langue, et finit par empêcher de marcher)
 \dt 16/Jun/2017
 
 \lx sángaɲɔgɔnmali
-\mm sánga:v:comparer
-\mm ɲɔ́gɔn:prn:RECP
-\mm mà:pp:ADR
+\mm sángaɲɔgɔnma:n:émulation
+\mmm sánga:v:comparer
+\mmm ɲɔ́gɔn:prn:RECP
+\mmm mà:pp:ADR
 \mm li:mrph:NMLZ
-\va sángaɲɔgɔnmani
-\mm sánga:v:comparer
-\mm ɲɔ́gɔn:prn:RECP
-\mm mà:pp:ADR
+\mm sángaɲɔgɔnma:n:émulation
+\mmm sánga:v:comparer
+\mmm ɲɔ́gɔn:prn:RECP
+\mmm mà:pp:ADR
 \mm ni:mrph:NMLZ
 \ps n
 \ms 1
@@ -117588,7 +117583,7 @@ langue, et finit par empêcher de marcher)
 \gvf compétition
 \ms 2
 \gvf comparaison
-\dt 18/Jun/2017
+\dt 09/Apr/2019
 
 \lx sàngara
 \va sànkaran
@@ -117727,11 +117722,11 @@ langue, et finit par empêcher de marcher)
 
 \lx sánjan
 \mm sán:n:ciel
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf très.haut
 \gvf très haut
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sánji
 \mm sán:n:ciel
@@ -117751,50 +117746,38 @@ langue, et finit par empêcher de marcher)
 \dt 08/Oct/2017
 
 \lx sánjiba
-\mm sán.ji:n:pluie
-\mm sán:n:ciel
-\mm jí:n:eau
+\mm sánji:n:pluie
+\mmm sán:n:ciel
+\mmm jí:n:eau
 \mm ba:mrph:AUGM
 \ps n
 \gf grosse.averse
 \gvf grosse averse
 \gvf déluge
-\dt 26/Sep/2006
-
-\lx sánjidɛsɛ
-\mm sán.ji:n:pluie
-\mm sán:n:ciel
-\mm jí:n:eau
-\mm dɛ́sɛ:v:échouer
-\ps n
-\gf déficit.de.pluviométrie
-\gvf déficit de pluviométrie
-\smf (pluviométrique)
-\nt Kb 6/05 p.2
-\dt 11/Nov/2007
+\dt 09/Apr/2019
 
 \lx sánjikɔrɔwɔsi
-\mm sán.ji:n:pluie
-\mm sán:n:ciel
-\mm jí:n:eau
+\mm sánji:n:pluie
+\mmm sán:n:ciel
+\mmm jí:n:eau
 \mm kɔ́rɔ:pp:sous
 \mm wɔ̀si:n:sueur
 \ps n
 \gf travail.vain
 \gvf travail vain
 \gvf travail rude
-\dt 23/Jun/2013
+\dt 09/Apr/2019
 
 \lx sánjikuna
-\mm sán.ji:n:pluie
-\mm sán:n:ciel
-\mm jí:n:eau
-\mm kúna:vq:amer
+\mm sánji:n:pluie
+\mmm sán:n:ciel
+\mmm jí:n:eau
+\mm kúna:adj:amer
 \ps n
 \gf premières.pluies
 \gvf premières pluies
 \smf (époque : mai-juin)
-\dt 16/Aug/2006
+\dt 09/Apr/2019
 
 \lx sánkaba
 \mm sán:n:ciel
@@ -117896,8 +117879,8 @@ langue, et finit par empêcher de marcher)
 \lx sánkɔrɔta
 \mm sán:n:ciel
 \mm kɔ́rɔtà:v:soulever
-\mm kɔ́rɔ:pp:sous
-\mm tà:v:prendre
+\mmm kɔ́rɔ:pp:sous
+\mmm tà:v:prendre
 \ps n
 \ms 1
 \gf gloire
@@ -117905,7 +117888,7 @@ langue, et finit par empêcher de marcher)
 \gvf éloge
 \ms 2
 \gvf mise en valeur
-\dt 16/Nov/2017
+\dt 09/Apr/2019
 
 \lx sánkɔrɔtà
 \mm sán:n:ciel
