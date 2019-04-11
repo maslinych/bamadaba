@@ -11723,7 +11723,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo.la:n:action.de.main
 \mmm bólo:n:bras
 \mmm lá:pp:à
-\mm súma:vq:lent
+\mm súma:vq:froid
 \ps adj/n
 \gf lent
 \gvf lent
@@ -22359,7 +22359,7 @@ pas)
 \mm dá.la:n:bouche.active
 \mmm dá:n:bouche
 \mmm la:mrph:à
-\mm súma:vq:lent
+\mm súma:vq:froid
 \ps adj/n
 \ms 1
 \gf retenu
@@ -47313,10 +47313,10 @@ douanier, milicien, etc.)
 
 \lx góya
 \mm gó:vq:désagréable
-\mm ya:mrph:ABSTR
+\mm ya:mrph:DEQU
 \va kó.ya
 \mm kó:vq:désagréable
-\mm ya:mrph:ABSTR
+\mm ya:mrph:DEQU
 \ve (f,bk,bn)
 \ps n
 \ms 1
@@ -47331,7 +47331,7 @@ douanier, milicien, etc.)
 \xf il s'est montré désagréable envers moi
 \ms 4
 \gvf difficulté
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx góya
 \mm gó:vq:désagréable
@@ -47604,17 +47604,7 @@ douanier, milicien, etc.)
 \xf l'homosexualité est l'insertion du pénis érecté par derrière
 \xv gɔ́rɔjigɛniya yé  cɛ̀ yɛ̀rɛdama ká ɲɔ́gɔnɲini yé...wála
 \xf l'homosexualité est la recherche du sexe entre hommes seulement ou entre femmes seulement
-\dt 19/Mar/2019
-\mm górijɛgɛninya
-\mm ya:mrph:ABSTR
-\ps n
-\gf homosexualité
-\gvf homosexualité
-\smf (masculine)
-\gvf sodomie
-\xv górijɛgɛninya yé  fɔ́rɔ wílilen dònni yé kɔ́fɛla fɛ̀
-\xf (LD p.23)
-\nt quel ton ? à préciser
+\dt 11/Apr/2019
 
 \lx gɔ̀rɔ
 \ps v
@@ -48327,19 +48317,19 @@ doigts par des fileuses du coton)
 
 \lx hákilijakabɔ
 \mm hákili:n:esprit
-\mm jákabɔ:vse.moquer
+\mm jákabɔ:v:se.moquer
 \mmm jáka:n:dîme
 \mmm bɔ́:v:sortir
 \va hákilijagabɔ
 \mm hákili:n:esprit
-\mm jágabɔ:vse.moquer
+\mm jágabɔ:v:se.moquer
 \mmm jága:n:dîme
 \mmm bɔ́:v:sortir
 \ps n
 \gf réflexion
 \gvf réflexion
 \smf (profonde sur un problème donné)
-\dt 19/Mar/2019
+\dt 11/Apr/2019
 
 \lx hákilila
 \mm hákili:n:esprit
@@ -65620,14 +65610,14 @@ probablement de chaux vive)
 \mmm tìgɛ:v:couper
 \mm la:mrph:AG.PRM
 \va kíiritigɛla
-\mm kíiritigɛ:juger
+\mm kíiritigɛ:v:juger
 \mmm kíiri:n:jugement
 \mmm tìgɛ:v:couper
 \mm la:mrph:AG.PRM
 \ps n
 \gf juge
 \gvf juge
-\dt 25/Mar/2019
+\dt 11/Apr/2019
 
 \lx kíritigɛɲɔgɔn
 \mm kíritigɛ:v:juger
@@ -66476,14 +66466,14 @@ probablement de chaux vive)
 \dt 16/Aug/2006
 
 \lx kólandiya
-\mm kólandiadj:qui.aime.les.histoires
+\mm kólandi:adj:qui.aime.les.histoires
 \mmm kó:n:affaire
 \mmm landi:adj:qui.aime
 \mm ya:mrph:DEQU
 \ps n
 \gf fait.de.se.mêler.des.affaires.d'autrui
 \gvf fait de se mêler des affaires d'autrui
-\dt 25/Mar/2019
+\dt 11/Apr/2019
 
 \lx kòlanfu
 \mm kò:v:laver
@@ -75465,8 +75455,8 @@ le pouvoir administratif suprême)
 \mm kùn:n:tête
 \mm bɛ̀n:n:accord
 \ps n
-\ms 1
 \gf rencontre-accueil
+\ms 1
 \gvf rencontre
 \gvf accueil
 \ms 2
@@ -75474,7 +75464,7 @@ le pouvoir administratif suprême)
 \ms 3
 \gvf anniversaire
 \xv fàamakunbɛn
-\dt 30/Mar/2019
+\dt 11/Apr/2019
 
 \lx kùnbɛ̀n
 \mm kùn:n:tête
@@ -87870,7 +87860,7 @@ jour, c'est une personne dépendante qu'il voit
 \gf attendre
 \gvf attendre
 \sy kɔ̀nɔ
-\dt 15/Aug/2006
+\dt 11/Apr/2019
 
 \lx màkúma
 \mm mà:mrph:SUPER
@@ -90222,7 +90212,7 @@ des engagements
 \lx màsúmaya
 \mm mà:mrph:SUPER
 \mm súmaya:v:rafraîchir
-\mmm súma:vq:lent
+\mmm súma:vq:froid
 \mmm ya:mrph:DEQU
 \ps v
 \ms 1
@@ -93660,7 +93650,7 @@ pour les jardins)
 \smf (ouate, chair, tissu)
 \xv sìgilanmugu
 \xf fesses
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx múgu
 \ps v
@@ -104731,6 +104721,14 @@ craie ...)
 \mm tìn:prt:PST
 \mm kà:pm:INF
 \mm dɔ́n:n:connaissance
+\va tìn-kà-dɔ́n
+\mm tìn:prt:PST
+\mm kà:pm:INF
+\mm dɔ́n:v:connaître
+\va tìn-nà-dɔ́n
+\mm tìn:prt:PST
+\mm nà:pm:CERT
+\mm dɔ́n:v:connaître
 \ps n
 \gf regret
 \gvf regret
@@ -104738,7 +104736,9 @@ craie ...)
 \smf (n-tùn-kà-dɔn = si j'avais su !)
 \xv súgujɔ kɛ́ra ń-tìn-kà-dɔ́n yé à bólo
 \xf il a regretté d'être allé au marché  (il n'a rien vendu ni acheté)
-\dt 04/Apr/2019
+\xv né ká kɛ́len bɛ́ɛ tìn-kà-dɔ́n bɛ́ ń ná
+\xf je regrette tout ce que j'ai fait
+\dt 11/Apr/2019
 
 \lx ntíntàntin
 \ps n
@@ -110212,7 +110212,7 @@ banane, etc.)
 \mmm ɲɛ́:n:oeil
 \mmm ná:pp:à
 \mm dí:vq:agréable
-\mm ɲɛ́nadi
+\va ɲɛ́nadi
 \mm ɲɛ́na:n:vue
 \mmm ɲɛ́:n:oeil
 \mmm ná:pp:à
@@ -110226,7 +110226,7 @@ banane, etc.)
 \gvf habile
 \gvf adroit
 \gvf astucieux
-\dt 06/Apr/2019
+\dt 11/Apr/2019
 
 \lx ɲɛ́nango
 \mm ɲɛ́na:n:vue
@@ -113034,7 +113034,7 @@ le pèlerinage (bk 1/06 p.5)
 \dt 19/Jan/2015
 
 \lx ŋòlokùnba
-\mm ŋòlo:n.prop.NOM.M
+\mm ŋòlo:n.prop:NOM.M
 \mm kùnba:adj:gros
 \mmm kùn:n:tête
 \mmm ba:mrph:AUGM
@@ -113049,7 +113049,7 @@ le pèlerinage (bk 1/06 p.5)
 \lat Burhinus.capensis
 \smf (souvent confondu avec le précédent, habitat : plaines arides, 'fuga')
 \sy ngòlo-bòli-kà-bìn
-\dt 06/Apr/2019
+\dt 11/Apr/2019
 
 \lx ŋɔ̀mɛ
 \ps v
@@ -117893,8 +117893,8 @@ langue, et finit par empêcher de marcher)
 \lx sánkɔrɔtà
 \mm sán:n:ciel
 \mm kɔ́rɔtà:v:soulever
-\mm kɔ́rɔ:pp:sous
-\mm tà:v:prendre
+\mmm kɔ́rɔ:pp:sous
+\mmm tà:v:prendre
 \ps v
 \ms 1
 \vl vt
@@ -117920,7 +117920,7 @@ langue, et finit par empêcher de marcher)
 \vl vi
 \gvf être dans l'euphorie
 \smf (ivre ...)
-\dt 17/Apr/2016
+\dt 11/Apr/2019
 
 \lx sánkulu
 \mm sán:n:ciel
@@ -117936,17 +117936,19 @@ langue, et finit par empêcher de marcher)
 
 \lx sànkunbɛn
 \mm sàn:n:année
-\mm kùn:n:tête
-\mm bɛ̀n:v:se.rencontrer
+\mm kùnbɛn:n:rencontre-accueil
+\mmm kùn:n:tête
+\mmm bɛ̀n:v:se.rencontrer
 \ps n
 \gf anniversaire
 \gvf anniversaire
+\dt 11/Apr/2019
 
 \lx sánminɛdulɔki
 \mm sán:n:ciel
 \mm mìnɛ:v:attraper
 \mm dùlɔki:n:chemise
-\va sán.minɛ.dlɔki
+\va sánminɛdlɔki
 \mm sán:n:ciel
 \mm mìnɛ:v:attraper
 \mm dlɔ̀ki:n:chemise
@@ -117954,7 +117956,7 @@ langue, et finit par empêcher de marcher)
 \ps n
 \gf imperméable
 \gvf imperméable
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx sánminɛna
 \mm sán:n:ciel
@@ -117978,18 +117980,18 @@ langue, et finit par empêcher de marcher)
 \lx sánmùrubílen
 \mm sán:n:ciel
 \mm mùru:n:couteau
-\mm bìlen:vq/adj:rouge
-\va sán.mùru.blén
+\mm bìlen:adj:rouge
+\va sánmùrublén
 \mm sán:n:ciel
 \mm mùru:n:couteau
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf arc-en-ciel
 \gvf arc-en-ciel
 \sy ála-ká-mùru
 \sy ála-ká-mùrujan
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx sànnaci
 \mm sàn:n:message.de.deuil
@@ -118018,15 +118020,16 @@ langue, et finit par empêcher de marcher)
 \lx sánnakalansoba
 \mm sán:n:ciel
 \mm ná:pp:à
-\mm kàlan:n:lecture
-\mm só:n:maison
+\mm kàlanso:n:classe.d'école
+\mmm kàlan:n:lecture
+\mmm só:n:maison
 \mm ba:mrph:AUGM
 \ps n
 \gf université
 \gvf université
 \gvf école supérieure
 \nt kb 5/05 p.10
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sánnakolo
 \mm sán:n:ciel
@@ -118066,19 +118069,19 @@ langue, et finit par empêcher de marcher)
 
 \lx sànnifeere
 \mm sàn:v:acheter
-\mm ni:prep/conj:et
+\mm ni:conj:et
 \mm fèere:v:vendre
 \ps n
 \gf commerce
 \gvf commerce
 \xv sànnifeere kɛ́
 \xf faire du commerce, des affaires
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sànnifɛn
-\mm sàn.ni:n:achat
-\mm sàn:v:acheter
-\mm ni:mrph:NMLZ
+\mm sànni:n:achat
+\mmm sàn:v:acheter
+\mmm ni:mrph:NMLZ
 \mm fɛ́n:n:chose
 \ps n
 \gf marchandises
@@ -118086,12 +118089,12 @@ langue, et finit par empêcher de marcher)
 \gvf denrées
 \xv sànnifɛn tɛ́ bòli
 \xf les marchandises s'écoulent mal
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sànnikɛla
-\mm sàn.ni:n:achat
-\mm sàn:v:acheter
-\mm ni:mrph:NMLZ
+\mm sànni:n:achat
+\mmm sàn:v:acheter
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -118101,7 +118104,7 @@ langue, et finit par empêcher de marcher)
 \gvf chaland
 \ms 2
 \gvf vendeur
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sànntòla
 \ps n
@@ -118148,9 +118151,9 @@ langue, et finit par empêcher de marcher)
 \dt 16/Aug/2006
 
 \lx sánpɛrɛnjiri
-\mm sán.pɛrɛn:n:foudre
-\mm sán:n:ciel
-\mm pɛ́rɛn:v:fendre
+\mm sánpɛrɛn:n:foudre
+\mmm sán:n:ciel
+\mmm pɛ́rɛn:v:fendre
 \mm jíri:n:arbre
 \ps n
 \gf médicinier.rouge
@@ -118158,16 +118161,17 @@ langue, et finit par empêcher de marcher)
 \lat Jatropha gossypifolia
 \sd euph
 \smf (sous-ligneux ---> 1 / 2 m, buissonnant, éloignerait la foudre)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sánpɛrɛnkan
-\mm sán.pɛrɛn:n:foudre
-\mm sán:n:ciel
-\mm pɛ́rɛn:v:fendre
+\mm sánpɛrɛn:n:foudre
+\mmm sán:n:ciel
+\mmm pɛ́rɛn:v:fendre
 \mm kán:n:cou
 \ps n
 \gf tonnerre
 \gvf tonnerre
+\dt 11/Apr/2019
 
 \lx sánpiɲɔna
 \va sánpiyɔna
@@ -118253,14 +118257,14 @@ langue, et finit par empêcher de marcher)
 
 \lx sánsumaya
 \mm sán:n:ciel
-\mm súma.ya:n:froid
-\mm súma:vq/adj:lent
-\mm ya:mrph:DEQU
+\mm súmaya:n:froid
+\mmm súma:vq:froid
+\mmm ya:mrph:DEQU
 \ps n
 \gf hygrométrie
 \gvf hygrométrie
 \gvf humidité de l'atmosphère
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sànsyɔ̀n
 \ve (bk,bn)
@@ -118287,7 +118291,7 @@ langue, et finit par empêcher de marcher)
 \lx sántilan
 \mm sánti:v:peigner
 \mm lan:mrph:INSTR
-\va sáni.nan
+\va sáninan
 \mm sáni:v:peigner
 \mm nan:mrph:INSTR
 \ps n
@@ -118295,7 +118299,7 @@ langue, et finit par empêcher de marcher)
 \gvf peigne
 \gvf étrille
 \rem Mol
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx santimɛtɛrɛ
 \ps n
@@ -118350,14 +118354,14 @@ langue, et finit par empêcher de marcher)
 \dt 26/Sep/2006
 
 \lx sánujilama
-\mm sánu.ji:adj/n:couleur.d'or
-\mm sánu:n:or
-\mm jí:n:eau
+\mm sánuji:n:couleur.d'or
+\mmm sánu:n:or
+\mmm jí:n:eau
 \mm lama:mrph:STAT
 \ps adj
 \gf doré
 \gvf doré
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx sánuma
 \mm sánu:n:or
@@ -118388,16 +118392,16 @@ langue, et finit par empêcher de marcher)
 \dt 16/Aug/2006
 
 \lx sànyɛlɛmaseli
-\mm sàn.yɛlɛma:n:nouvel.an
-\mm sàn:n:année
-\mm yɛ̀lɛma:v:changer
+\mm sànyɛlɛma:n:nouvel.an
+\mmm sàn:n:année
+\mmm yɛ̀lɛma:v:changer
 \mm séli:n:prière
 \ps n
 \gf anniversaire
 \gvf anniversaire
 \xv Fárawɔn bánginni sànyɛlɛmaseli séra (gn 40, 20)
 \xf Pharaon fêta son anniversaire
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sàɲɔ
 \mm ɲɔ̀:n:mil
@@ -118499,11 +118503,12 @@ langue, et finit par empêcher de marcher)
 \va sàrabɔn
 \va sàribon
 \va sàribɔn
+\bw fr. charbon
 \ps n
 \gf charbon
 \gvf charbon
 \src ton B Boubacar Diarra, H Mahamadou Konta
-\dt 12/Mar/2018
+\dt 11/Apr/2019
 
 \lx sárada
 \mm sára:n:petits.tas
@@ -118585,14 +118590,14 @@ langue, et finit par empêcher de marcher)
 
 \lx sárakajugu
 \mm sáraka:n:aumône
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \ms 1
 \gf prescription.maléfique
 \gvf prescription maléfique
 \ms 2
 \gvf vaurien
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sárakaminɛ
 \mm sáraka:n:aumône
@@ -118626,7 +118631,7 @@ langue, et finit par empêcher de marcher)
 \lx sárakamɔgɔ
 \mm sáraka:n:aumône
 \mm mɔ̀gɔ:n:homme
-\va sáraka.maa
+\va sárakamaa
 \mm sáraka:n:aumône
 \mm màa:n:homme
 \ps n
@@ -118635,7 +118640,7 @@ langue, et finit par empêcher de marcher)
 \gvf maudit
 \sy sárakaden
 \sy sárakajugu
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sárakamurukuru
 \mm sáraka:n:aumône
@@ -118785,25 +118790,26 @@ composition de l'encens
 \dt 26/Sep/2006
 
 \lx sárantanya
-\mm sára.ntan:adj:laid
-\mm sára:n:charme
-\mm ntan:mrph:PRIV
+\mm sárantan:adj:laid
+\mmm sára:n:charme
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf laideur
 \gvf laideur
+\dt 11/Apr/2019
 
 \lx sárantori
 \mm sára:n:charme
 \mm ntòri:n:crapaud
-\va sára.ntɔri
+\va sárantɔri
 \mm sára:n:charme
 \mm ntɔ̀ri:n:crapaud
 \ps n
 \gf grenouille.à.longues.pattes
 \gvf grenouille à longues pattes
 \smf (jolie, saute bien)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sàratala
 \mm sàra:n:paie
@@ -118814,7 +118820,7 @@ composition de l'encens
 \gvf salarié
 
 \lx sárati
-\bw ar: ̀art = condition
+\bw ar: šart = condition
 \ps n
 \ms 1
 \gf promesse
@@ -118830,10 +118836,10 @@ composition de l'encens
 \gvf délai
 \xv jùru sàra  sárati ɲɛ́
 \xf payer une dette avant l'échéance
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sárati
-\bw ar
+\bw ar. šart
 \ps v
 \vl vi
 \gf convenir
@@ -118841,7 +118847,7 @@ composition de l'encens
 \gvf se mettre d'accord
 \xv án sáratira  mùn kàn ?
 \xf de quoi avions-nous convenu ?
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sáratikan
 \mm sárati:n:promesse
@@ -118855,11 +118861,12 @@ composition de l'encens
 
 \lx sàrawisi
 \va sàrawusi
+\bw fr. service
 \ps n
 \gf service.militaire
 \gvf service militaire
 \gvf soldat
-\dt 15/Jul/2017
+\dt 11/Apr/2019
 
 \lx sàri
 \ps n
@@ -118868,18 +118875,18 @@ composition de l'encens
 
 \lx sàribilennin
 \mm sàri:n:charrue
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \mm nin:mrph:DIM
-\va sàri.blen.nin
+\va sàriblennin
 \mm sàri:n:charrue
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \mm nin:mrph:DIM
 \ph [bl]
 \bw fr.charrue ...
 \ps n
 \gf multiculteur
 \gvf multiculteur
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx sàrimisi
 \mm sàri:n:charrue
@@ -118941,7 +118948,7 @@ composition de l'encens
 \ps n
 \gf Constitution
 \gvf Constitution
-\dt 22/Feb/2017
+\dt 11/Apr/2019
 
 \lx sàriyatigɛ
 \mm sàriya:n:loi
@@ -119059,13 +119066,14 @@ composition de l'encens
 \dt 26/Sep/2006
 
 \lx sàyasɛbɛn
-\mm sà:v:mourir
-\mm ya:mrph:ABSTR
+\mm sàya:n:mort
+\mmm sà:v:mourir
+\mmm ya:mrph:ABSTR
 \mm sɛ́bɛn:n:écrit
 \ps n
 \gf acte.de.décès
 \gvf acte de décès
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sáyi
 \ps n
@@ -119088,22 +119096,23 @@ composition de l'encens
 
 \lx sáyibilen
 \mm sáyi:n:jaunisse
-\mm bìlen:vq/adj:rouge
-\va sáyi.blen
+\mm bìlen:adj:rouge
+\va sáyiblen
 \mm sáyi:n:jaunisse
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf ictère
 \gvf ictère
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sáyijɛ
 \mm sáyi:n:jaunisse
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf anémie
 \gvf anémie
+\dt 11/Apr/2019
 
 \lx sáyijirinin
 \mm sáyi:n:jaunisse
@@ -119188,7 +119197,7 @@ composition de l'encens
 \lx sébaa
 \mm sé:v:arriver
 \mm baa:mrph:AG.OCC
-\va sé.baga
+\va sébaga
 \mm sé:v:arriver
 \mm baga:mrph:AG.OCC
 \ps n
@@ -119198,23 +119207,23 @@ composition de l'encens
 \smf ( = Dieu)
 \xv ù kúru lá, jɔ́n yé  sébaa yé ?
 \xf de ce groupe, qui est le plus fort ?
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sébaaya
-\mm sé.baa:n:vainqueur
-\mm sé:v:arriver
-\mm baa:mrph:AG.OCC
+\mm sébaa:n:vainqueur
+\mmm sé:v:arriver
+\mmm baa:mrph:AG.OCC
 \mm ya:mrph:ABSTR
-\va sé.baga.ya
-\mm sé.baga:n:vainqueur
-\mm sé:v:arriver
-\mm baga:mrph:AG.OCC
+\va sébagaya
+\mm sébaga:n:vainqueur
+\mmm sé:v:arriver
+\mmm baga:mrph:AG.OCC
 \mm ya:mrph:ABSTR
 \ps n
 \gf efficacité
 \gvf efficacité
 \gvf puissance
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sèbe
 \ps n
@@ -119265,23 +119274,23 @@ composition de l'encens
 
 \lx séerejuguya
 \mm séere:n:témoin
-\mm júgu:vq/adj:mauvais
-\mm ya:mrph:DEQU
+\mm júgu:adj:mauvais
+\mm ya:mrph:ABSTR
 \va shyéere.jugu.ya
 \mm shyéere:n:témoin
-\mm júgu:vq/adj:mauvais
-\mm ya:mrph:DEQU
+\mm júgu:adj:mauvais
+\mm ya:mrph:ABSTR
 \ph [shy]
 \ps n
 \gf témoignage.défavorable
 \gvf témoignage défavorable
 \smf (vrai ou faux !)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx séereya
 \mm séere:n:témoin
 \mm ya:mrph:ABSTR
-\va shyéere.ya
+\va shyéereya
 \mm shyéere:n:témoin
 \mm ya:mrph:ABSTR
 \ph [shy]
@@ -119291,12 +119300,12 @@ composition de l'encens
 \gvf preuve
 \xv mɔ̀gɔ tɛ́ jɔ̀  bɛ́ɛ séereya kɔ́rɔ
 \xf tous les témoignages ne sont pas crédibles aux yeux des gens
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx séereya
 \mm séere:n:témoin
 \mm ya:mrph:ABSTR
-\va shyéere.ya
+\va shyéereya
 \mm shyéere:n:témoin
 \mm ya:mrph:ABSTR
 \ph [shy]
@@ -119305,24 +119314,24 @@ composition de l'encens
 \gf témoigner
 \gvf témoigner
 \smf (en faveur de ...)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx séereyasɛbɛn
-\mm séere.ya:n:témoignage
-\mm séere:n:témoin
-\mm ya:mrph:ABSTR
+\mm séereya:n:témoignage
+\mmm séere:n:témoin
+\mmm ya:mrph:ABSTR
 \mm sɛ́bɛn:n:écrit
-\va shyéere.ya.sɛbɛn
-\mm shyéere.ya:n:témoignage
-\mm shyéere:n:témoin
-\mm ya:mrph:ABSTR
+\va shyéereyasɛbɛn
+\mm shyéereya:n:témoignage
+\mmm shyéere:n:témoin
+\mmm ya:mrph:ABSTR
 \mm sɛ́bɛn:n:écrit
 \ph [shy]
 \ps n
 \gf témoignage.écrit
 \gvf témoignage écrit
 \gvf reçu
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx séfa
 \ps n
@@ -119575,13 +119584,13 @@ paniers, sègi)
 
 \lx sélekemankan
 \mm séleke:n:angle
-\mm mánkan:adj/n:moyen
+\mm mánkan:adj:moyen
 \ps n
 \gf angle.droit
 \gvf angle droit
 \smf (néo)
 \nt kb
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sélekenaani
 \mm séleke:n:angle
@@ -119660,7 +119669,7 @@ paniers, sègi)
 \lx sélibaa
 \mm séli:v:prier
 \mm baa:mrph:AG.OCC
-\va séli.baga
+\va sélibaga
 \mm séli:v:prier
 \mm baga:mrph:AG.OCC
 \ps n
@@ -119668,10 +119677,10 @@ paniers, sègi)
 \gvf qui prie
 \gvf qui fait le 'salam'
 \smf (les jours de grande fête)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sélibakalo
-\mm séli.ba:n:Tabaski
+\mm séliba:n:Tabaski
 \mm séli:n:prière
 \mm ba:mrph:AUGM
 \mm kálo:n:lune
@@ -119679,7 +119688,7 @@ paniers, sègi)
 \gf 12e.mois.lunaire
 \gvf 12e mois lunaire
 \gvf mois de la Tabaski
-\dt 08/Feb/2017
+\dt 11/Apr/2019
 
 \lx sélibali
 \mm séli:v:prier
@@ -119690,18 +119699,18 @@ paniers, sègi)
 \dt 16/Aug/2006
 
 \lx sélibamakɔnɔkalo
-\mm séli.ba:n:Tabaski
-\mm séli:n:prière
-\mm ba:mrph:AUGM
+\mm séliba:n:Tabaski
+\mmm séli:n:prière
+\mmm ba:mrph:AUGM
 \mm màkɔ̀nɔ:v:attendre
-\mm mà:mrph:SUPER
-\mm kɔ̀nɔ:v:attendre
+\mmm mà:mrph:SUPER
+\mmm kɔ̀nɔ:v:attendre
 \mm kálo:n:lune
 \ps n
 \gf 11e.mois.lunaire
 \gvf 11e mois lunaire
 \gvf dou-l-qa’da
-\dt 08/Feb/2017
+\dt 11/Apr/2019
 
 \lx sélidenninkalo
 \mm séli:n:prière
@@ -119734,26 +119743,27 @@ paniers, sègi)
 \lx sélifilafurancɛkalo
 \mm séli:n:prière
 \mm fìla:num:deux
-\mm fùran.cɛ:n:distance
-\mm fùran:n:distance
-\mm cɛ́:n:milieu
+\mm fùrancɛ:n:distance
+\mmm fùran:n:distance
+\mmm cɛ́:n:milieu
 \mm kálo:n:lune
 \ps n
 \gf 11e.mois.lunaire
 \gvf 11e mois lunaire
 \smf (entre les deux grandes fêtes musulmanes)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sélifurancɛkalo
 \mm séli:n:prière
-\mm fùran.cɛ:n:distance
-\mm fùran:n:distance
-\mm cɛ́:n:milieu
+\mm fùrancɛ:n:distance
+\mmm fùran:n:distance
+\mmm cɛ́:n:milieu
 \mm kálo:n:lune
 \ps n
 \gf 11e.mois.lunaire
 \gvf 11e mois lunaire
 \smf (entre les deux grandes fêtes musulmanes)
+\dt 11/Apr/2019
 
 \lx séliji
 \mm séli:v:prier
@@ -119780,14 +119790,14 @@ paniers, sègi)
 \dt 16/Aug/2006
 
 \lx sélijimuso
-\mm séli.ji:v:circoncire
-\mm séli:v:prier
-\mm jí:n:eau
+\mm séliji:v:circoncire
+\mmm séli:v:prier
+\mmm jí:n:eau
 \mm mùso:n:femme
 \ps n
 \gf exciseuse
 \gvf exciseuse
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sélikalo
 \mm séli:n:prière
@@ -119860,15 +119870,16 @@ paniers, sègi)
 \dt 16/May/2017
 
 \lx sélininncininkalo
-\mm séli:n:prière
-\mm nin:mrph:DIM
-\mm ncínin:adj:petit
+\mm sélininncinin:n:fête.de.fin.de.ramadan
+\mmm séli:n:prière
+\mmm nin:mrph:DIM
+\mmm ncínin:adj:petit
 \mm kálo:n:lune
 \ps n
 \gf 10ème.mois.lunaire
 \gvf 10ème mois lunaire
 \sy sélikalo
-\dt 16/May/2017
+\dt 11/Apr/2019
 
 \lx séliwolo
 \mm séli:n:prière
@@ -120051,18 +120062,18 @@ pas réussi
 
 \lx sènbilennin
 \mm sèn:n:jambe
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \mm nin:mrph:DIM
-\va sèn.blen.nin
+\va sènblennin
 \mm sèn:n:jambe
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \mm nin:mrph:DIM
 \ph [bl]
 \ps n
 \gf broussard
 \gvf broussard
 \smf (aux pieds rougis par la poussière de latérite)
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx sèndabanin
 \mm sèn:n:jambe
@@ -120118,25 +120129,28 @@ pas réussi
 \dt 16/Aug/2006
 
 \lx sèndimibaatɔ
-\mm sèn:n:jambe
-\mm dími:v:faire.souffrir
+\mm sèndimi:n:mal.au.pied
+\mmm sèn:n:jambe
+\mmm dími:v:faire.souffrir
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va sèn.dimi.baga.tɔ
-\mm sèn:n:jambe
-\mm dími:v:faire.souffrir
+\va sèndimibagatɔ
+\mm sèndimi:n:mal.au.pied
+\mmm sèn:n:jambe
+\mmm dími:v:faire.souffrir
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps n
 \gf qui.a.mal.aux.pieds
 \gvf qui a mal aux pieds
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sèndiya
 \mm sèn:n:jambe
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
-\va sèn.ja
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\va sènja
 \mm sèn:n:jambe
 \mm já:n:bon.goût
 \ph [sendya--> senja]
@@ -120147,7 +120161,7 @@ pas réussi
 \gvf rapidité
 \ms 2
 \gvf heureuse coïncidence
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sèndòn
 \mm sèn:n:jambe
@@ -120165,19 +120179,19 @@ pas réussi
 \dt 26/Sep/2006
 
 \lx sèndonbaa
-\mm sèn.dòn:v:s'engager
-\mm sèn:n:jambe
-\mm dòn:v:entrer
+\mm sèndòn:v:s'engager
+\mmm sèn:n:jambe
+\mmm dòn:v:entrer
 \mm baa:mrph:AG.OCC
-\va sèn.don.baga
-\mm sèn.dòn:v:s'engager
-\mm sèn:n:jambe
-\mm dòn:v:entrer
+\va sèndonbaga
+\mm sèndòn:v:s'engager
+\mmm sèn:n:jambe
+\mmm dòn:v:entrer
 \mm baga:mrph:AG.OCC
 \ps n
 \gf dénonciateur
 \gvf dénonciateur
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sèndu
 \mm sèn:n:jambe
@@ -120212,7 +120226,7 @@ pas réussi
 \mm fàga:v:tuer
 \mm bàna:n:maladie
 \ve (kb)
-\va sèn.faa.bana
+\va sènfaabana
 \mm sèn:n:jambe
 \mm fàa:v:tuer
 \mm bàna:n:maladie
@@ -120221,7 +120235,7 @@ pas réussi
 \gvf poliomyélite
 \va sènsabana
 \va sènkolosabana
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sènfɛ̀
 \mm sèn:n:jambe
@@ -120273,6 +120287,7 @@ pas réussi
 
 \lx sèngoya
 \mm sèn:n:jambe
+\mm góya:n:mauvais.goût
 \mm gó:vq:désagréable
 \mm ya:mrph:DEQU
 \ps n
@@ -120283,7 +120298,7 @@ pas réussi
 \ms 2
 \gvf mauvaise coïncidence
 \gvf malchance
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sèngɔlɔn
 \mm sèn:n:jambe
@@ -120332,8 +120347,7 @@ pas réussi
 
 \lx sènkɛ́nyɛ
 \mm sèn:n:jambe
-\mm kɛ́n:vq:égal
-\mm yɛ:mrph:DEQU
+\mm kɛ́nyɛ:v:égaliser
 \ps v
 \vl vi
 \gf coïncider
@@ -120341,7 +120355,7 @@ pas réussi
 \smf (avec -- ní ... yé)
 \xv dúnan sènkɛ́nyɛna ní  dén bángenni yé...
 \xf l'arrivée de l'étranger coïncida avec la naissance de l'enfant ...
-\dt 14/Apr/2018
+\dt 11/Apr/2019
 
 \lx sènkolosabana
 \mm sèn:n:jambe
@@ -120356,37 +120370,37 @@ pas réussi
 \lx sènkɔnin
 \mm sèn:n:jambe
 \mm kɔnin:n:doigt
-\va sèn.nkɔni
+\va sènnkɔni
 \mm sèn:n:jambe
 \mm nkɔni:n:doigt
 \ps n
 \gf orteil
 \gvf orteil
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sènkɔninkolo
-\mm sèn.kɔnin:n:orteil
-\mm sèn:n:jambe
-\mm kɔnin:n:doigt
+\mm sènkɔnin:n:orteil
+\mmm sèn:n:jambe
+\mmm kɔnin:n:doigt
 \mm kólo:n:os
 \ps n
 \gf métacarpe
 \gvf métacarpe
 \gvf carpe
 \rem b
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sènkɔninkunba
-\mm sèn.kɔnin:n:orteil
-\mm sèn:n:jambe
-\mm kɔnin:n:doigt
-\mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm sènkɔnin:n:orteil
+\mmm sèn:n:jambe
+\mmm kɔnin:n:doigt
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf gros.orteil
 \gvf gros orteil
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sènkɔ́rɔ
 \mm sèn:n:jambe
@@ -120455,12 +120469,13 @@ pas réussi
 \lx sènkɔrɔmadɛ̀mɛ
 \mm sèn:n:jambe
 \mm kɔ́rɔ:pp:sous
-\mm mà:mrph:SUPER
-\mm dɛ̀mɛ:v:aider
+\mm màdɛ̀mɛ:v:aider
+\mmm mà:mrph:SUPER
+\mmm dɛ̀mɛ:v:aider
 \ps v
 \gf soutenir
 \gvf soutenir
-\dt 14/Apr/2018
+\dt 11/Apr/2019
 
 \lx sènkɔrɔmadòn
 \mm sèn:n:jambe
@@ -120531,9 +120546,9 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sènnabɔ́
 \mm sèn:n:jambe
-\mm ná.bɔ:v:faire.sortir
-\mm ná:mrph:CAUS
-\mm bɔ́:v:sortir
+\mm nábɔ:v:faire.sortir
+\mmm ná:mrph:CAUS
+\mmm bɔ́:v:sortir
 \ps v
 \ms 1
 \vl vt
@@ -120542,39 +120557,40 @@ gouvernement le soutient (kb 5/06 p.7)
 \ms 2
 \vl vr
 \gvf se promener
-\dt 07/Nov/2017
+\dt 11/Apr/2019
 
 \lx sènnagoni
 \mm sènna:n:allure
-\mm sèn:n:jambe
-\mm nan:mrph:dans
+\mmm sèn:n:jambe
+\mmm na:mrph:dans
 \mm gòni:adj:chaud
 \ps adj/n
 \gf rapide
 \gvf rapide
 \gvf véloce
-\dt 23/Mar/2015
+\dt 11/Apr/2019
 
 \lx sènnakalan
 \mm sènna:n:allure
-\mm sèn:n:jambe
-\mm nan:mrph:dans
+\mmm sèn:n:jambe
+\mmm na:mrph:dans
 \mm kálan:adj:chaud
 \ps adj/n
 \gf rapide
 \gvf rapide
 \gvf véloce
-\dt 23/Mar/2015
+\dt 11/Apr/2019
 
 \lx sènnakolon
-\mm sèn:n:jambe
-\mm nan:mrph:dans
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm na:mrph:dans
 \mm kólon:adj:vide
 \ps adj
 \gf nu-pieds
 \gvf nu-pieds
 \gvf déchaussé
-\dt 12/Jun/2018
+\dt 11/Apr/2019
 
 \lx sènnakuru
 \mm sèn:n:jambe
@@ -120613,38 +120629,42 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sènnandi
 \mm sènna:n:allure
-\mm sèn:n:jambe
-\mm nan:mrph:dans
+\mmm sèn:n:jambe
+\mmm nan:mrph:dans
 \mm dí:vq:agréable
 \ps adj/n
 \gf rapide
 \gvf rapide
 \gvf aux pieds légers
-\dt 23/Mar/2015
+\dt 11/Apr/2019
 
 \lx sènnankolon
-\mm sèn:n:jambe
-\mm nan:mrph:dans
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm nan:mrph:dans
 \mm kólon:adj:vide
 \va sènnakolon
-\mm sèn:n:pied
-\mm na:mrph:dans
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm nan:mrph:dans
 \mm kólon:adj:vide
 \ps adj/n
 \gf va-nu-pieds
 \gvf va-nu-pieds
 \smf (au sens propre ...)
 \gvf nu-pieds
-\dt 30/Apr/2017
+\dt 11/Apr/2019
 
 \lx sènnantolatan
-\mm sèn:n:jambe
-\mm ná:pp:à
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm nan:mrph:dans
 \mm ntòla:n:balle
 \mm tán:v:frapper
 \ps n
 \gf football
 \gvf football
+\dt 11/Apr/2019
 
 \lx sènnasìri
 \mm sèn:n:jambe
@@ -120677,20 +120697,20 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sènnasuma
 \mm sènna:n:allure
-\mm sèn:n:jambe
-\mm nan:mrph:dans
+\mmm sèn:n:jambe
+\mmm na:mrph:dans
 \mm súma:adj:lent
 \ps adj/n
 \gf lent
 \gvf lent
-\dt 23/Mar/2015
+\dt 11/Apr/2019
 
 \lx sènnasúmaya
 \mm sènnasuma:adj:lent
-\mm sènna:n:allure
-\mm sèn:n:jambe
-\mm nan:mrph:dans
-\mm súma:adj:lent
+\mmm sènna:n:allure
+\mmmm sèn:n:jambe
+\mmmm na:mrph:dans
+\mmm súma:adj:lent
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -120699,7 +120719,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \sy sènsumaya
 \xv ò bɛ́ɛ kɛ́ra sábabu yé kà báara sènnasumaya
 \xf tout cela fut cause du ralentissement des travaux (kb 2/05 p.2)
-\dt 14/Apr/2018
+\dt 11/Apr/2019
 
 \lx sènnataamayɔrɔ
 \mm sèn:n:jambe
@@ -120715,31 +120735,31 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 11/Nov/2007
 
 \lx sènnateli
-\mm sèn.na:n:allure
+\mm sènna:n:allure
 \mmm sèn:n:jambe
-\mmm ná:pp:à
+\mmm na:mrph:dans
 \mm téli:adj:rapide
 \va sènnatɛli
-\mm sèn.na:n:allure
+\mm sènna:n:allure
 \mmm sèn:n:jambe
-\mmm ná:pp:à
+\mmm na:mrph:dans
 \mm tɛ́li:adj:rapide
 \ps adj
 \gf pressé
 \gvf pressé
 \gvf rapide
-\dt 30/Sep/2018
+\dt 11/Apr/2019
 
 \lx sènnatéliya
-\mm sènna.téli:adj:pressé
-\mmm sèn.na:n:allure
+\mm sènnatéli:adj:pressé
+\mmm sènna:n:allure
 \mmmm sèn:n:jambe
 \mmmm ná:pp:à
 \mmm téli:adj:rapide
 \mm ya:mrph:ABSTR
 \va sènnatɛ́liya
-\mm sènna.tɛ́li:adj:pressé
-\mmm sèn.na:n:allure
+\mm sènnatɛ́li:adj:pressé
+\mmm sènna:n:allure
 \mmmm sèn:n:jambe
 \mmmm ná:pp:à
 \mmm tɛ́li:adj:rapide
@@ -120749,7 +120769,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf presser.l'allure
 \gvf presser l'allure
 \smf (pour le piéton)
-\dt 30/Sep/2018
+\dt 11/Apr/2019
 
 \lx sènnayáala
 \mm sèn:n:jambe
@@ -120797,15 +120817,16 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 26/Sep/2006
 
 \lx sènntanya
-\mm sèn:n:jambe
-\mm ntan:mrph:PRIV
+\mm sènntan:adj:apode
+\mmm sèn:n:jambe
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf priver.de.pied
 \gvf priver de pied
 \gvf priver de la capacité de marcher
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sènɲàran
 \mm sèn:n:jambe
@@ -120840,24 +120861,24 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sènsanfin
 \mm sènsan:n:arbre.sp
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf arbre.Pseudocedrela.kotschyi
 \gvf arbre Pseudocedrela kotschyi
 \smf (---> 10 m, écorce du tronc très fendillée, quadrillée)
 \sd méli
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx sènsanjɛ
 \mm sènsan:n:arbre.sp
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf arbre.Trichilia.emetica
 \gvf arbre Trichilia emetica
 \smf (---> 10 m )
 \sd méli
 \sy sòlafinsan
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx sénsen
 \ps n
@@ -120885,9 +120906,9 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 15/Aug/2006
 
 \lx séntanya
-\mm sé.ntan:adj:pauvre
-\mm sé:n:arrivée
-\mm ntan:mrph:PRIV
+\mm séntan:adj:pauvre
+\mmm sé:n:arrivée
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -120896,7 +120917,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \ms 2
 \gvf impuissance
 \gvf défaite
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sèntɛgɛ
 \mm sèn:n:jambe
@@ -120914,18 +120935,18 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 25/Apr/2018
 
 \lx sèntɛgɛninjɛ
-\mm sèn.tɛgɛ:n:pied
-\mm sèn:n:jambe
-\mm tɛ́gɛ:n:paume
+\mm sèntɛgɛ:n:pied
+\mmm sèn:n:jambe
+\mmm tɛ́gɛ:n:paume
 \mm nin:mrph:DIM
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf course.à.pied
 \gvf course à pied
 \smf (en courant on voit le dessous blanc du pied)
 \xv à y'á kɛ́  sèntɛgɛninjɛ yé
 \xf il s'est mis à courir
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sèntigiya
 \mm sèn:n:jambe
@@ -120955,23 +120976,23 @@ gouvernement le soutient (kb 5/06 p.7)
 \va sèntonton
 \mm sèn:n:jambe
 \mm tónto:n:talon
-\va sèn.tontoli
+\va sèntontoli
 \mm sèn:n:jambe
 \mm tóntòlí:n:talon
 \ps n
 \gf talon
 \gvf talon
-\dt 23/Dec/2014
+\dt 11/Apr/2019
 
 \lx sèntontolikolo
-\mm sèn.tontoli:n:talon
-\mm sèn:n:jambe
-\mm tóntòlí:n:talon
+\mm sèntontoli:n:talon
+\mmm sèn:n:jambe
+\mmm tóntòlí:n:talon
 \mm kólo:n:os
 \ps n
 \gf os.du.talon
 \gvf os du talon
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sénu
 \ve (bn)
@@ -121202,37 +121223,37 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx séribabilen
 \mm sériba:n:genette
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf genette.d'Europe
 \gvf genette d'Europe
 \lat Genetta genetta
 \smf (courte crinière érectile au milieu du dos)
 \sy sériba-jɛ̀kima
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx séribafin
 \mm sériba:n:genette
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf genette.tigrine
 \gvf genette tigrine
 \lat Genetta tigrina
 \smf (sujets mélaniques fréquents, oreilles un peu plus courtes et arrondies que celles de Genetta.)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx séribajɛ̀kima
 \mm sériba:n:genette
-\mm jɛ̀ki.ma:adj/n:qui.a.une.crinière
-\mm jɛ̀ki:n:haut.du.dos
-\mm ma:mrph:COM
+\mm jɛ̀kima:adj:qui.a.une.crinière
+\mmm jɛ̀ki:n:haut.du.dos
+\mmm ma:mrph:COM
 \ps n
 \gf genette.d'Europe
 \gvf genette d'Europe
 \lat Genetta genetta
 \smf (courte crinière érectile au milieu du dos)
 \sy séribabilen
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx séribanin
 \mm sériba:n:genette
@@ -121291,26 +121312,26 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 26/Sep/2006
 
 \lx sétigiya
-\mm sé.tigi:adj/n:influent
-\mm sé:n:arrivée
-\mm tìgi:n:maître
+\mm sétigi:n:influent
+\mmm sé:n:arrivée
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf influence
 \gvf influence
 \gvf puissance
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sétigiya
-\mm sé.tigi:adj/n:influent
-\mm sé:n:arrivée
-\mm tìgi:n:maître
+\mm sétigi:n:influent
+\mmm sé:n:arrivée
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf rendre.puissant
 \gvf rendre puissant
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx séwu
 \va sésewu
@@ -121365,16 +121386,16 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 03/Apr/2016
 
 \lx sɛ̀bɛdɔn
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:n:sérieux
 \mm dɔ́n:v:connaître
 \ps v
 \vl vt
 \gf prendre.au.sérieux
 \gvf prendre au sérieux
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sɛ̀bɛfɛn
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:n:sérieux
 \mm fɛ́n:n:chose
 \ps n
 \ms 1
@@ -121383,28 +121404,28 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf le sérieux
 \ms 2
 \gvf personne importante
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sɛ̀bɛkan
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:n:sérieux
 \mm kán:n:cou
 \ps n
 \gf propos.sérieux
 \gvf propos sérieux
 \sy sɛ̀bɛkuma
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sɛ̀bɛkolama
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:n:sérieux
 \mm kó:n:affaire
 \mm lama:mrph:STAT
 \ps adj
 \gf qui.paraît.important
 \gvf qui paraît important
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sɛ̀bɛkɔrɔ
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:adj:sérieux
 \mm kɔ̀rɔ:adj:vieux
 \ps adv.p
 \gf sérieusement
@@ -121418,25 +121439,25 @@ gouvernement le soutient (kb 5/06 p.7)
 \xf il n'est pas très grand
 \xv ń sɛ̀bɛkɔrɔ tɛ́!
 \xf ke refuse catégoriquement !
-\dt 11/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɛ̀bɛkuma
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:n:sérieux
 \mm kúma:n:parole
 \ps n
 \gf parole.sérieuse
 \gvf parole sérieuse
 \sy sɛ̀bɛkan
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sɛ̀bɛlama
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:adj:sérieux
 \mm lama:mrph:STAT
 \ps adj
 \gf important
 \gvf important
 \gvf sérieux
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sɛ́bɛn
 \ps n
@@ -121503,14 +121524,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 12/Aug/2006
 
 \lx sɛ́bɛndɔnbaliya
-\mm sɛ́bɛn.dɔn.bali:ptcp:analphabète
-\mm sɛ́bɛn:n:écrit
-\mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.NEG
+\mm sɛ́bɛndɔnbali:ptcp:analphabète
+\mmm sɛ́bɛn:n:écrit
+\mmm dɔ́n:v:connaître
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf analphabétisme
 \gvf analphabétisme
+\dt 11/Apr/2019
 
 \lx sɛ́bɛnfura
 \mm sɛ́bɛn:v:écrire
@@ -121535,21 +121557,21 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 26/Sep/2006
 
 \lx sɛ́bɛnniden
-\mm sɛ́bɛn.ni:n:écriture
-\mm sɛ́bɛn:v:écrire
-\mm ni:mrph:NMLZ
+\mm sɛ́bɛnni:n:écriture
+\mmm sɛ́bɛn:v:écrire
+\mmm ni:mrph:NMLZ
 \mm dén:n:enfant
 \ps n
 \gf caractère.d'écriture
 \gvf caractère d'écriture
 \sy sìginiden
 \sy sɛ́bɛnden
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sɛ́bɛnnikɛla
-\mm sɛ́bɛn.ni:n:écriture
-\mm sɛ́bɛn:v:écrire
-\mm ni:mrph:NMLZ
+\mm sɛ́bɛnni:n:écriture
+\mmm sɛ́bɛn:v:écrire
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -121557,12 +121579,12 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf celui qui écrit
 \gvf scribouillard
 \gvf écrivain public
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sɛ́bɛnnikɛlan
-\mm sɛ́bɛn.ni:n:écriture
-\mm sɛ́bɛn:v:écrire
-\mm ni:mrph:NMLZ
+\mm sɛ́bɛnni:n:écriture
+\mmm sɛ́bɛn:v:écrire
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm lan:mrph:INSTR
 \ps n
@@ -121570,7 +121592,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf bic
 \smf (tout instrument pour écrire)
 \gvf crayon
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sɛ́bɛrɛn
 \va sɛ́bɛrɛ
@@ -121581,20 +121603,20 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 16/Aug/2006
 
 \lx sɛ̀bɛsen
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:n:sérieux
 \mm sèn:n:jambe
 \ps n
 \gf comportement.sérieux
 \gvf comportement sérieux
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sɛ̀bɛya
-\mm sɛ̀bɛ:adj/n:sérieux
+\mm sɛ̀bɛ:adj:sérieux
 \mm ya:mrph:ABSTR
 \ps n
 \gf le.sérieux
 \gvf le sérieux
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sɛ̀ɛlɛ
 \va sɛ̀lɛ
@@ -121703,21 +121725,21 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sɛ́gɛbantin
 \mm sɛ́gɛ:n:salpêtre
 \mm bántin:n:filtre
-\va sɛ́gɛ.banti
+\va sɛ́gɛbanti
 \mm sɛ́gɛ:n:salpêtre
 \mm bánti:n:filtre
 \ps n
 \gf récipient.percé
 \gvf récipient percé
 \smf (rempli de cendres)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sɛ́gɛbilen
 \mm sɛ́gɛ:n:salpêtre
-\mm bìlen:vq/adj:rouge
-\va sɛ́gɛ.blen
+\mm bìlen:adj:rouge
+\va sɛ́gɛblen
 \mm sɛ́gɛ:n:salpêtre
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf herbe.Striga.senegalensis
@@ -121726,14 +121748,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf herbe Striga hermonthica
 \sd scro
 \sy sɛ́gɛnin
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx sɛ́gɛbilen
 \mm sɛ́gɛ:n:épervier
-\mm bìlen:vq/adj:rouge
-\va sɛ́gɛ.blen
+\mm bìlen:adj:rouge
+\va sɛ́gɛblen
 \mm sɛ́gɛ:n:épervier
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \ms 1
@@ -121747,7 +121769,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \smf (mâle et femelle sont entièrement roux, fréquente les feux de savane)
 \sy sìsilasɛgɛ
 \sy tásisirɔsɛgɛ
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sɛ́gɛfunteni
 \mm sɛ́gɛ:n:salpêtre
@@ -121838,7 +121860,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sɛ̀gɛn:v:fatiguer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va sɛ̀gɛn.baga.tɔ
+\va sɛ̀gɛnbagatɔ
 \mm sɛ̀gɛn:v:fatiguer
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -121848,7 +121870,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \sy dɛ́sɛbaatɔ
 \sy fàantan
 \sy bólontan
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɛ̀gɛnɛ
 \ps v
@@ -121889,13 +121911,14 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sɛ̀gɛnnafíyɛn
 \mm sɛ̀gɛn:n:fatigue
-\mm ná:mrph:CAUS
-\mm fíyɛn:v:sécher
+\mm náfiyɛn:v:se.reposer
+\mmm ná:mrph:CAUS
+\mmm fíyɛn:v:sécher
 \ps v
 \vl vr
 \gf se.reposer
 \gvf se reposer
-\dt 14/Apr/2018
+\dt 11/Apr/2019
 
 \lx sɛ̀gɛnsara
 \mm sɛ̀gɛn:n:fatigue
@@ -121940,30 +121963,33 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 26/Sep/2006
 
 \lx sɛ́gɛsɛgɛlibaga
-\mm sɛ́gɛsɛgɛ:v:bien.examiner
-\mm li:mrph:NMLZ
+\mm sɛ́gɛsɛgɛli:n:enquête
+\mmm sɛ́gɛsɛgɛ:v:bien.examiner
+\mmm li:mrph:NMLZ
 \mm baga:mrph:AG.OCC
 \ps n
 \gf contrôleur
 \gvf contrôleur
-\dt 30/Sep/2018
+\dt 11/Apr/2019
 
 \lx sɛ́gɛsɛgɛlikɛla
-\mm sɛ́gɛsɛgɛ.li:n:enquête
-\mm sɛ́gɛsɛgɛ:v:bien.examiner
-\mm li:mrph:NMLZ
+\mm sɛ́gɛsɛgɛli:n:enquête
+\mmm sɛ́gɛsɛgɛ:v:bien.examiner
+\mmm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf enquêteur
 \gvf enquêteur
+\dt 11/Apr/2019
 
 \lx sɛ́ki
+\bw fr. chèque
 \ps n
 \gf chèque
 \gvf chèque
 \smf (de banque)
-\dt 10/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɛkitɛri
 \ps n
@@ -122592,33 +122618,33 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sì:n:vie
 \mm bán:v:terminer
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps prcp/n
 \gf casse-cou
 \gvf casse-cou
 \gvf imprudent
 \sy sìbilangalama
 \ph [sìblà ...]
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sìbantɔya
-\mm sì.ban.tɔ:adj/n:casse-cou
-\mm sì:n:vie
-\mm bán:v:terminer
-\mm tɔ:mrph:ST
+\mm sìbantɔ:prcp:casse-cou
+\mmm sì:n:vie
+\mmm bán:v:terminer
+\mmm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
 \ps n
 \gf témérité
 \gvf témérité
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx síbiri
-\bw ar: ̀ibr = empan
+\bw ar: šibr = empan
 \ps n
 \gf empan
 \gvf empan
 \smf (mesure du pouce au majeur (l'empan français = du pouce au petit doigt))
 \cf síbiriɲa
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx síbiri
 \bw ar: sabt = sabbat
@@ -122631,14 +122657,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx síbiriɲa
 \mm síbiri:n:empan
 \mm ɲá:n:fois
-\va síbiri.ɲɛ
+\va síbiriɲɛ
 \mm síbiri:n:empan
 \mm ɲɛ́:n:fois
 \ps n
 \gf empan
 \gvf empan
 \smf (une mesure du pouce au majeur)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx síbolo
 \mm sí:n:semence
@@ -122667,6 +122693,17 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf syndrome immunodéficitaire acquis
 \dt 17/Feb/2017
 
+\lx sìdalan
+\mm sì:v:passer.la.nuit
+\mm dálan:n:lit
+\va sìdlan
+\mm sì:v:passer.la.nuit
+\mm dlán:n:lit
+\ps n
+\gf lit
+\gvf lit
+\dt 11/Apr/2019
+
 \lx sídɛgɛn
 \mm sí:n:semence
 \mm dɛ́gɛn:v:goûter
@@ -122679,14 +122716,6 @@ gouvernement le soutient (kb 5/06 p.7)
 \sy sífilɛ
 \sy nɛ́nɛ
 \dt 12/Aug/2006
-
-\lx sìdlan
-\mm sì:v:passer.la.nuit
-\mm dlán:n:lit
-\ps n
-\gf lit
-\gvf lit
-\dt 11/Nov/2007
 
 \lx sídon
 \mm sí:n:semence
@@ -122713,14 +122742,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 14/Mar/2018
 
 \lx sídɔnbali
-\mm sí.dɔn:v:connaître.parfaitement
-\mm sí:n:semence
-\mm dɔ́n:v:connaître
+\mm sídɔn:v:connaître.parfaitement
+\mmm sí:n:semence
+\mmm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf non.identifié
 \gvf non identifié
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sífa
 \va sífaya
@@ -122747,7 +122776,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sífilɛ
 \mm sí:n:semence
 \mm fílɛ:v:regarder
-\va sí.flɛ
+\va síflɛ
 \mm sí:n:semence
 \mm flɛ́:v:regarder
 \ph [siflɛ]
@@ -122761,7 +122790,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf essayer
 \xv fèerelifɛn bɛ́ sífilɛ, háli móbili
 \xf on essaie ce qu'on va acheter, même une voiture
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sìfilɛjirinin
 \mm sì:n:vie
@@ -122789,12 +122818,12 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sífin
 \mm sí:n:poil
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps adj/n
 \gf adulte
 \gvf adulte
 \smf (opposé au vieillard à cheveux blancs)
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx síga
 \va sígi
@@ -122867,16 +122896,20 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sígasiga
 \mm síga:n:doute
+\mm síga:n:doute
 \va sígisigi
+\mm sígi:n:doute
 \mm sígi:n:doute
 \ps n
 \gf hésitation
 \gvf hésitation
-\dt 08/Nov/2012
+\dt 11/Apr/2019
 
 \lx sígasiga
 \mm síga:v:douter
-\va sígi.sigi
+\mm síga:v:douter
+\va sígisigi
+\mm sígi:v:douter
 \mm sígi:v:douter
 \ps v
 \vl vi
@@ -122885,7 +122918,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf tergiverser
 \xv à bɛ́ sígi-sígi  síra lá
 \xf il hésite sur la route à prendre
-\dt 08/Nov/2012
+\dt 11/Apr/2019
 
 \lx sígeyi
 \va síkeyi
@@ -122974,7 +123007,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sìgibaa
 \mm sìgi:v:asseoir
 \mm baa:mrph:AG.OCC
-\va sìgi.baga
+\va sìgibaga
 \mm sìgi:v:asseoir
 \mm baga:mrph:AG.OCC
 \ps n
@@ -122987,7 +123020,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \smf (établi depuis longtemps dans le village)
 \ms 3
 \gvf circoncis
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sìgida
 \mm sìgi:v:asseoir
@@ -123032,7 +123065,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sígidulɔki
 \mm sígi:n:duel
 \mm dùlɔki:n:chemise
-\va sígi.dlɔki
+\va sígidlɔki
 \mm sígi:n:duel
 \mm dlɔ̀ki:n:chemise
 \ph [sigidlɔki]
@@ -123040,7 +123073,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf tunique.de.chasseur
 \gvf tunique de chasseur
 \gvf tunique de sorcier
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sìgifɛn
 \mm sìgi:v:asseoir
@@ -123080,12 +123113,13 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sìgilanmugu
 \mm sìgilan:n:siège
-\mm sìgi:v:asseoir
-\mm lan:mrph:INSTR
+\mmm sìgi:v:asseoir
+\mmm lan:mrph:INSTR
+\mm múgu:n:poudre
 \ps n
 \gf fesses
 \gvf fesses
-\dt 06/Nov/2014
+\dt 11/Apr/2019
 
 \lx sìgili
 \mm sìgi:v:asseoir
@@ -123158,15 +123192,15 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 26/Jun/2018
 
 \lx sìginfɛya
-\mm sìgi.n.fɛ:n:étranger
-\mm sìgi:v:asseoir
-\mm ń:pers:1SG
-\mm fɛ̀:pp:par
+\mm sìginfɛ:n:étranger
+\mmm sìgi:v:asseoir
+\mmm ń:pers:1SG
+\mmm fɛ̀:pp:par
 \mm ya:mrph:ABSTR
 \ps n
 \gf condition.d'étranger
 \gvf condition d'étranger
-\dt 07/Feb/2016
+\dt 11/Apr/2019
 
 \lx sìgini
 \ps n
@@ -123202,27 +123236,27 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 26/Sep/2006
 
 \lx sìginidenkunba
-\mm sìgini.den:n:caractère.d'écriture
-\mm sìgini:n:alphabet
-\mm dén:n:enfant
-\mm kùn.ba:vq:gros
-\mm kùn:n:tête
-\mm ba:mrph:AUGM
+\mm sìginiden:n:caractère.d'écriture
+\mmm sìgini:n:alphabet
+\mmm dén:n:enfant
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
 \ps n
 \gf majuscule
 \gvf majuscule
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sìginidenmisɛn
-\mm sìgini.den:n:caractère.d'écriture
-\mm sìgini:n:alphabet
-\mm dén:n:enfant
-\mm mìsɛn:vq:petit
+\mm sìginiden:n:caractère.d'écriture
+\mmm sìgini:n:alphabet
+\mmm dén:n:enfant
+\mm mìsɛn:adj:petit
 \ps n
 \gf minuscule
 \gvf minuscule
 \smf (lettre, caractère d'écriture)
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sìgiɲɔgɔn
 \mm sìgi:n:position.assise
@@ -123236,58 +123270,58 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 16/Aug/2006
 
 \lx sìgiɲɔgɔnjámana
-\mm sìgi.ɲɔgɔn:n:voisin
-\mm sìgi:n:position.assise
-\mm ɲɔ́gɔn:prn:RECP
+\mm sìgiɲɔgɔn:n:voisin
+\mmm sìgi:n:position.assise
+\mmm ɲɔ́gɔn:prn:RECP
 \mm jàmana:n:pays
 \ps n
 \gf pays.voisin
 \gvf pays voisin
 \xv Màli mín yé Kɔ́diwari sìgiɲɔgɔnjamana dɔ́ yé...
 \xf Le Mali qui est un pays voisin de la Côte d'Ivoire ... (kb 11/04 p.11)
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sìgiɲɔgɔnma
-\mm sìgi.ɲɔgɔn:n:voisin
-\mm sìgi:n:position.assise
-\mm ɲɔ́gɔn:prn:RECP
+\mm sìgiɲɔgɔn:n:voisin
+\mmm sìgi:n:position.assise
+\mmm ɲɔ́gɔn:prn:RECP
 \mm ma:mrph:COM
 \ps adj
 \gf voisin
 \gvf voisin
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx sìgiɲɔgɔnmaya
-\mm sìgi.ɲɔgɔn.ma:adj:voisin
-\mm sìgi.ɲɔgɔn:n:voisin
-\mm sìgi:n:position.assise
-\mm ɲɔ́gɔn:prn:RECP
-\mm ma:mrph:COM
+\mm sìgiɲɔgɔnma:adj:voisin
+\mmm sìgiɲɔgɔn:n:voisin
+\mmmm sìgi:n:position.assise
+\mmmm ɲɔ́gɔn:prn:RECP
+\mmm ma:mrph:COM
 \mm ya:mrph:ABSTR
 \ps n
 \gf voisinage
 \gvf voisinage
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sìgiɲɔgɔnmuso
-\mm sìgi.ɲɔgɔn:n:voisin
-\mm sìgi:n:position.assise
-\mm ɲɔ́gɔn:prn:RECP
+\mm sìgiɲɔgɔn:n:voisin
+\mmm sìgi:n:position.assise
+\mmm ɲɔ́gɔn:prn:RECP
 \mm mùso:n:femme
 \ps n
 \gf voisine
 \gvf voisine
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx sìgiɲɔgɔnya
-\mm sìgi.ɲɔgɔn:n:voisin
-\mm sìgi:n:position.assise
-\mm ɲɔ́gɔn:prn:RECP
+\mm sìgiɲɔgɔn:n:voisin
+\mmm sìgi:n:position.assise
+\mmm ɲɔ́gɔn:prn:RECP
 \mm ya:mrph:ABSTR
 \ps n
 \gf voisinage
 \gvf voisinage
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sígisigi
 \ps v
@@ -123301,14 +123335,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sígisigi:v:bégayer
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va sígisigi.baga.tɔ
+\va sígisigibagatɔ
 \mm sígisigi:v:bégayer
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj
 \gf hésitant
 \gvf hésitant
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sìgiyɔrɔ
 \mm sìgi:n:position.assise
@@ -123408,12 +123442,12 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 
 \lx sìjan
 \mm sì:n:vie
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf longue.vie
 \gvf longue vie
 \gvf âge avancé
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx síjɛ
 \mm sí:n:poil
@@ -123425,36 +123459,37 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 
 \lx síjɛtigi
 \mm sí:n:poil
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \mm tìgi:n:maître
 \ps n
 \gf vieux
 \gvf vieux
 \gvf chenu
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx síjɛya
 \mm sí:n:poil
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \mm ya:mrph:ABSTR
 \ps n
 \gf canitie
 \gvf canitie
+\dt 11/Apr/2019
 
 \lx síjugu
 \mm sí:n:poil
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \ms 1
 \gf chevelure.de.nouveau-né
 \gvf chevelure de nouveau-né
 \ms 2
 \gvf duvet des poussins
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx síjugu
 \mm sí:n:semence
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \ms 1
 \gf noble.dégénéré
@@ -123462,7 +123497,7 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \smf ("hɔrɔn" indigne de ce nom)
 \ms 2
 \gvf race de griots exploiteurs
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx síkan
 \ps adv
@@ -123516,26 +123551,26 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \dt 16/Aug/2006
 
 \lx sìkɔlɔlama
-\mm sì.kɔlɔ:n:noyau.de.karité
-\mm sì:n:karité
-\mm kɔ́lɔ:n:noyau.de.karité
+\mm sìkɔlɔ:n:noyau.de.karité
+\mmm sì:n:karité
+\mmm kɔ́lɔ:n:noyau.de.karité
 \mm lama:mrph:STAT
 \ps adj
 \gf brun
 \gvf brun
 \smf (couleur de noix de karité)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sìkɔlɔlamɔgɔ
-\mm sì.kɔlɔ:n:noyau.de.karité
-\mm sì:n:karité
-\mm kɔ́lɔ:n:noyau.de.karité
+\mm sìkɔlɔ:n:noyau.de.karité
+\mmm sì:n:karité
+\mmm kɔ́lɔ:n:noyau.de.karité
 \mm lá:pp:à
 \mm mɔ̀gɔ:n:homme
 \ps n
 \gf personne.au.teint.clair
 \gvf personne au teint clair
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sílakolokolo
 \mm sí:n:semence
@@ -123678,37 +123713,40 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \mm ma:mrph:COM
 \ps adj
 \gf poilu/plumeux
-\gvf poilu/plumeux
-\dt 26/Sep/2006
+\gvf poilu
+\gvf plumeux
+\dt 11/Apr/2019
 
 \lx símafɛn
-\mm sí.ma:adj:poilu/plumeux
-\mm sí:n:poil
-\mm ma:mrph:COM
+\mm síma:adj:poilu/plumeux
+\mmm sí:n:poil
+\mmm ma:mrph:COM
 \mm fɛ́n:n:chose
 \ps n
 \gf plumeux/poilu
-\gvf plumeux/poilu
-\dt 26/Sep/2006
+\gvf plumeux
+\gvf poilu
+\dt 11/Apr/2019
 
 \lx siman
 \va simɔn
+\bw fr. ciment
 \ps n
 \gf ciment
 \gvf ciment
-\dt 23/Sep/2014
+\dt 11/Apr/2019
 
 \lx sìmaya
-\mm sì.ma:adj:durable
-\mm sì:n:vie
-\mm ma:mrph:COM
+\mm sìma:adj:durable
+\mmm sì:n:vie
+\mmm ma:mrph:COM
 \mm ya:mrph:ABSTR
 \ps n
 \gf longue.vie
 \gvf longue vie
 \xv Ála ká  sìmaya ní  kɛ́nɛmaya k'án yé !
 \xf que Dieu nous accorde longue vie et santé !
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sìmi
 \va sìmin
@@ -123828,19 +123866,19 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \dt 26/Sep/2006
 
 \lx sìnamusoma
-\mm sìna.muso:n:coépouse
-\mm sìna:n:coépouse
-\mm mùso:n:femme
+\mm sìnamuso:n:coépouse
+\mmm sìna:n:coépouse
+\mmm mùso:n:femme
 \mm ma:mrph:RECP.PRN
 \ps n
 \gf coépouse
 \gvf coépouse
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx sìnamusoya
-\mm sìna.muso:n:coépouse
-\mm sìna:n:coépouse
-\mm mùso:n:femme
+\mm sìnamuso:n:coépouse
+\mmm sìna:n:coépouse
+\mmm mùso:n:femme
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -123848,7 +123886,7 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \gvf condition de coépouse
 \ms 2
 \gvf rivalité entre coépouses
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sìnaya
 \mm sìna:n:coépouse
@@ -123863,13 +123901,13 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 
 \lx sìnayasama
 \mm sìnaya:n:condition.de.coépouse
-\mm sìna:n:coépouse
-\mm ya:mrph:ABSTR
+\mmm sìna:n:coépouse
+\mmm ya:mrph:ABSTR
 \mm sàma:v:tirer.à.soi
 \ps n
 \gf rivalité
 \gvf rivalité
-\dt 20/Mar/2019
+\dt 11/Apr/2019
 
 \lx sínbara
 \mm sín:n:sein
@@ -124019,13 +124057,13 @@ trompe)
 \lx sínikɛnɛ
 \mm síni:n:demain
 \mm kɛ́nɛ:n:clarté
-\va sínin.kɛnɛ
+\va síninkɛnɛ
 \mm sínin:n:demain
 \mm kɛ́nɛ:n:clarté
 \ps adv/n
 \gf après-demain
 \gvf après-demain
-\dt 05/Apr/2015
+\dt 11/Apr/2019
 
 \lx sínimasini
 \mm síni:n:demain
@@ -124038,8 +124076,9 @@ trompe)
 
 \lx síniɲɛsigi
 \mm síni:n:demain
-\mm ɲɛ́:pp:devant
-\mm sìgi:v:asseoir
+\mm ɲɛ́sigi:n:préparatifs
+\mmm ɲɛ́:n:oeil
+\mmm sìgi:n:position.assise
 \ps n
 \ms 1
 \gf avenir
@@ -124048,7 +124087,7 @@ trompe)
 \ms 2
 \gvf épargne
 \smf (tout ce qu'on garde en réserve pour l'avenir)
-\dt 01/Feb/2017
+\dt 11/Apr/2019
 
 \lx sìnitile
 \mm sìni:n:matinée
@@ -124060,7 +124099,7 @@ trompe)
 
 \lx sínjan
 \mm sín:n:sein
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf casse-flûte
 \gvf casse-flûte
@@ -124069,11 +124108,11 @@ trompe)
 \sd césa
 \smf (belles fleurs jaune vif en grappes)
 \sy sínsan
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sínjanba
 \mm sín:n:sein
-\mm jàn:vq:long
+\mm jàn:adj:long
 \mm ba:mrph:AUGM
 \ps n
 \gf saucissonnier
@@ -124082,7 +124121,7 @@ trompe)
 \lat Kigelia africana
 \sd bign
 \smf (fruits ligneux, épais, en forme de saucisson)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sínji
 \mm sín:n:sein
@@ -124098,9 +124137,9 @@ trompe)
 \dt 16/Aug/2006
 
 \lx sínjima
-\mm sín.ji:n:lait.maternel
-\mm sín:n:sein
-\mm jí:n:eau
+\mm sínji:n:lait.maternel
+\mmm sín:n:sein
+\mmm jí:n:eau
 \mm ma:mrph:RECP.PRN
 \ps n
 \ms 1
@@ -124110,12 +124149,12 @@ trompe)
 \ms 2
 \gvf parent
 \smf (au sens large)
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx sínjiman
-\mm sín.ji:n:lait.maternel
-\mm sín:n:sein
-\mm jí:n:eau
+\mm sínji:n:lait.maternel
+\mmm sín:n:sein
+\mmm jí:n:eau
 \mm man:mrph:ADJ
 \ps n
 \ms 1
@@ -124125,22 +124164,22 @@ trompe)
 \ms 2
 \gvf parent
 \smf (au sens large)
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx sínjisira
-\mm sín.ji:n:lait.maternel
-\mm sín:n:sein
-\mm jí:n:eau
+\mm sínji:n:lait.maternel
+\mmm sín:n:sein
+\mmm jí:n:eau
 \mm síra:n:chemin
 \ps n
 \gf parenté
 \gvf parenté
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx sínjiya
-\mm sín.ji:n:lait.maternel
-\mm sín:n:sein
-\mm jí:n:eau
+\mm sínji:n:lait.maternel
+\mmm sín:n:sein
+\mmm jí:n:eau
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -124148,7 +124187,7 @@ trompe)
 \gvf parenté
 \ms 2
 \gvf affection entre frères ou soeurs de même mère
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx sínkelen
 \mm sín:n:sein
@@ -124173,13 +124212,13 @@ trompe)
 \lx sínkɔrɔkɛrɛdimi
 \mm sín:n:sein
 \mm kɔ́rɔ:pp:sous
-\mm kɛ̀rɛ.dimi:n:point.de.côté
+\mm kɛ̀rɛdimi:n:point.de.côté
 \mmm kɛ̀rɛ:n:côté
 \mmm dími:n:souffrance
 \ps n
 \gf pneumonie
 \gvf pneumonie
-\dt 03/Mar/2019
+\dt 11/Apr/2019
 
 \lx sínkɔrɔntalen
 \mm sín:n:sein
@@ -124203,8 +124242,9 @@ trompe)
 
 \lx sínnaban
 \mm sín:n:sein
-\mm ná:pp:à
-\mm bán:v:terminer
+\mm nában:n:fin
+\mmm ná:mrph:CAUS
+\mmm bán:v:terminer
 \ps n
 \ms 1
 \gf dernier.enfant
@@ -124213,7 +124253,7 @@ trompe)
 \sy làgare
 \ms 2
 \gvf auriculaire
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sínnukisɛ
 \mm sín:n:sein
@@ -124228,17 +124268,19 @@ trompe)
 
 \lx sínnunkun
 \mm sín:n:sein
+\mm núnkun:n:bout.du.nez
 \mm nún:n:nez
 \mm kùn:n:tête
 \va sínnukun
 \mm sín:n:sein
+\mm núkun:n:bout.du.nez
 \mm nú:n:nez
 \mm kùn:n:tête
 \ps n
 \gf téton
 \gvf téton
 \gvf mamelon
-\dt 07/Mar/2019
+\dt 11/Apr/2019
 
 \lx sìnɔgɔjɛgɛ
 \mm sìnɔgɔ:n:sommeil
@@ -124472,9 +124514,9 @@ trompe)
 \dt 16/Aug/2006
 
 \lx sìɲɛnakɛla
-\mm sì.ɲɛ.na:n:veillée
-\mm sì:v:passer.la.nuit
-\mm ɲɛ́:n:oeil
+\mm sìɲɛ.na:n:veillée
+\mmm sì:v:passer.la.nuit
+\mmm ɲɛ́:n:oeil
 \mm ná:pp:à
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
@@ -124487,7 +124529,7 @@ trompe)
 \gvf gardien de nuit
 \xv Sìɲɛnakɛla bɛ́ dùgujɛ màkɔ́nɔ
 \xf le veilleur désire voir poindre l'aube (ps 130, 6)
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sìɲɛta
 \mm sìɲɛ:n:lutte
@@ -124508,7 +124550,7 @@ trompe)
 \mm sìɲɛ:n:lutte
 \mm tà:v:prendre
 \mm la:mrph:AG.PRM
-\va shyɛ̀n.ta.la
+\va shyɛ̀ntala
 \mm shyɛ̀n:n:lutte
 \mm tà:v:prendre
 \mm la:mrph:AG.PRM
@@ -124520,7 +124562,7 @@ trompe)
 \ps n
 \gf lutteur
 \gvf lutteur
-\dt 30/Apr/2017
+\dt 11/Apr/2019
 
 \lx síɲɔgɔn
 \mm sí:n:semence
@@ -124614,8 +124656,9 @@ donne d'excellentes fibres)
 
 \lx síracɛtigɛ
 \mm síra:n:chemin
-\mm cɛ́:n:milieu
-\mm tìgɛ:v:couper
+\mm cɛ́tìgɛ:v:traverser
+\mmm cɛ́:n:milieu
+\mmm tìgɛ:v:couper
 \ps n
 \ms 1
 \gf embranchement
@@ -124625,7 +124668,7 @@ donne d'excellentes fibres)
 \gvf traversée de la route
 \xv síracɛtigɛ ká gɛ̀lɛn sísan, móbili ká cá !
 \xf il est difficile de traverser la route en ce moment, il y a trop de voitures
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sírada
 \mm síra:n:chemin
@@ -124692,12 +124735,13 @@ donne d'excellentes fibres)
 
 \lx sírakunbɛn
 \mm síra:n:chemin
-\mm kùn:n:tête
-\mm bɛ̀n:v:se.rencontrer
+\mm kùnbɛn:n:rencontre-accueil
+\mmm kùn:n:tête
+\mmm bɛ̀n:n:accord
 \ps n
 \gf carrefour
 \gvf carrefour
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sírakuruyɔrɔ
 \mm síra:n:chemin
@@ -124759,7 +124803,7 @@ donne d'excellentes fibres)
 \mm síran:v:craindre
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va síran.baga.tɔ
+\va síranbagatɔ
 \mm síran:v:craindre
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -124767,7 +124811,7 @@ donne d'excellentes fibres)
 \gf peureux
 \gvf peureux
 \sy jítɔ
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx síranfɛn
 \mm síran:v:craindre
@@ -124805,20 +124849,20 @@ donne d'excellentes fibres)
 \dt 06/Apr/2019
 
 \lx síranyafɛn
-\mm síran.ya:n:peur
-\mm síran:v:craindre
-\mm ya:mrph:ABSTR
+\mm síranya:n:peur
+\mmm síran:v:craindre
+\mmm ya:mrph:ABSTR
 \mm fɛ́n:n:chose
-\va síran.yɛ.fɛn
-\mm síran.yɛ:n:peur
-\mm síran:v:craindre
-\mm yɛ:mrph:ABSTR
+\va síranyɛfɛn
+\mm síranyɛ:n:peur
+\mmm síran:v:craindre
+\mmm yɛ:mrph:ABSTR
 \mm fɛ́n:n:chose
 \ps n
 \gf objet.terrifiant
 \gvf objet terrifiant
 \sy síranfɛn
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx síratigɛ
 \mm síra:n:chemin
@@ -124988,16 +125032,16 @@ donne d'excellentes fibres)
 \dt 26/Sep/2006
 
 \lx sìritigɛlenya
-\mm sìri.tigɛ.len:ptcp:effronté
-\mm sìri:n:liaison
-\mm tìgɛ:v:couper
-\mm len:mrph:PTCP.RES
+\mm sìritigɛlen:ptcp:effronté
+\mmm sìri:n:liaison
+\mmm tìgɛ:v:couper
+\mmm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ve (bmk)
 \ps n
 \gf effronterie
 \gvf effronterie
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sísàn
 \ps adv/n
@@ -125078,7 +125122,7 @@ donne d'excellentes fibres)
 
 \lx sìsijɛ
 \mm sìsi:n:fumée
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \ms 1
 \gf gris-clair
@@ -125086,7 +125130,7 @@ donne d'excellentes fibres)
 \smf (couleur)
 \ms 2
 \gvf fumée blanche
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sìsikurun
 \mm sìsi:n:fumée
@@ -125103,7 +125147,6 @@ donne d'excellentes fibres)
 \mm sɛ́gɛ:n:épervier
 \ps n
 \gf busard/faucon
-\gvf busard/faucon
 \ms 1
 \gvf busard des sauterelles
 \lat Butastur rufipennis
@@ -125112,7 +125155,7 @@ donne d'excellentes fibres)
 \lat Falco alopex
 \sy sɛ́gɛbilen
 \sy tásisirɔsɛgɛ
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sìso
 \mm sì:v:passer.la.nuit
@@ -125152,9 +125195,9 @@ donne d'excellentes fibres)
 \dt 18/Dec/2014
 
 \lx sìtanɛmako
-\mm sìtanɛ.ma:adj:querelleur
-\mm sìtanɛ:n:diable
-\mm ma:mrph:COM
+\mm sìtanɛma:adj:querelleur
+\mmm sìtanɛ:n:diable
+\mmm ma:mrph:COM
 \mm kó:n:affaire
 \ps n
 \ms 1
@@ -125164,7 +125207,7 @@ donne d'excellentes fibres)
 \gvf action illicite
 \xv ù yé jógo mínnu sɔ̀rɔ ù búruju sábabu lá, òlu b'ú bàli kà dòn sìtànɛ̀màko la
 \xf les bonnes moeurs héritées de leurs ancêtres les empêchent de faire certains crimes (suicide) (kb 10/04 p.2
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sìtanɛtɔ
 \mm sìtanɛ:n:diable
@@ -125239,18 +125282,14 @@ donne d'excellentes fibres)
 \xf la polio a disparu
 \dt 26/Sep/2006
 
-\lx sivili
-\ps n
-\gf civile
-\gvf civile
-\dt 03/May/2013
-
 \lx siwili
 \va siwuli
+\va sivili
+\bw fr. civil
 \ps n
 \gf civil
 \gvf civil
-\dt 22/May/2016
+\dt 11/Apr/2019
 
 \lx síya
 \mm sí:n:semence
@@ -125286,24 +125325,26 @@ donne d'excellentes fibres)
 \dt 14/Mar/2019
 
 \lx síyawoloma
-\mm sí.ya:n:race
-\mm sí:n:semence
-\mm ya:mrph:ABSTR
+\mm síya:n:race
+\mmm sí:n:semence
+\mmm ya:mrph:ABSTR
 \mm wóloma:v:trier
 \ps n
 \gf racisme
 \gvf racisme
+\dt 11/Apr/2019
 
 \lx síyawolomana
-\mm sí.ya:n:race
-\mm sí:n:semence
-\mm ya:mrph:ABSTR
-\mm wóloma:v:trier
+\mm síyawoloma:n:racisme
+\mmm síya:n:race
+\mmmm sí:n:semence
+\mmmm ya:mrph:ABSTR
+\mmm wóloma:v:trier
 \mm na:mrph:AG.PRM
 \ps n
 \gf raciste
 \gvf raciste
-\dt 12/Apr/2018
+\dt 11/Apr/2019
 
 \lx síyɛn
 \va sán
@@ -125388,13 +125429,14 @@ donne d'excellentes fibres)
 \dt 11/Nov/2007
 
 \lx sòbolikɛnɛ
-\mm sò.boli:n:équitation
-\mm sò:n:cheval
-\mm bòli:v:courir
+\mm sòboli:n:équitation
+\mmm sò:n:cheval
+\mmm bòli:v:courir
 \mm kɛ́nɛ:n:clarté
 \ps n
 \gf hippodrome
 \gvf hippodrome
+\dt 11/Apr/2019
 
 \lx sòbolila
 \mm sò:n:cheval
@@ -125415,13 +125457,14 @@ donne d'excellentes fibres)
 \dt 26/Sep/2006
 
 \lx sòbonna
+\mm sòbon:n:jeu.de.hasard
 \mm sò:n:cheval
 \mm bón:v:lancer
 \mm na:mrph:AG.PRM
 \ps n
 \gf joueur.aux.jeux.de.hasard
 \gvf joueur aux jeux de hasard
-\dt 12/Apr/2018
+\dt 11/Apr/2019
 
 \lx sóda
 \mm só:n:maison
@@ -125493,10 +125536,11 @@ donne d'excellentes fibres)
 \va sɔ́fɛrɛkɛ
 \mm sófɛri:n:chauffeur
 \mm kɛ:adj:mâle
+\bw fr. chauffeur
 \ps n
 \gf chauffeur
 \gvf chauffeur
-\dt 15/Mar/2018
+\dt 11/Apr/2019
 
 \lx sófìlawùlunin
 \mm só:n:maison
@@ -125529,7 +125573,7 @@ donne d'excellentes fibres)
 \lx sógan
 \mm só:n:maison
 \mm gàn:v:chauffer
-\va só.gwan
+\va sógwan
 \mm só:n:maison
 \mm gwàn:v:chauffer
 \ph [sogwan]
@@ -125541,7 +125585,7 @@ donne d'excellentes fibres)
 \ms 2
 \gvf criard
 \smf (qui crie tout le temps)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sògin
 \va sɔ̀gin
@@ -125604,15 +125648,15 @@ donne d'excellentes fibres)
 \dt 16/Aug/2006
 
 \lx sògobatiga
-\mm sògo.ba:n:gros.gibier
-\mm sògo:n:viande
-\mm ba:mrph:AUGM
+\mm sògoba:n:gros.gibier
+\mmm sògo:n:viande
+\mmm ba:mrph:AUGM
 \mm tìga:n:arachide
 \ps n
 \gf arachide.sp
 \gvf arachide sp
 \smf (variété de grosses arachides)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sògobu
 \mm sògo:n:viande
@@ -125634,7 +125678,7 @@ donne d'excellentes fibres)
 \mm sògo:n:viande
 \mm fàga:v:tuer
 \mm la:mrph:AG.PRM
-\va sògo.faa.la
+\va sògofaala
 \mm sògo:n:viande
 \mm fàa:v:tuer
 \mm la:mrph:AG.PRM
@@ -125646,7 +125690,7 @@ donne d'excellentes fibres)
 \smf (qui tue du gibier)
 \ms 2
 \gvf boucher d'abattoir
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sògofeereyɔrɔ
 \mm sògo:n:viande
@@ -125673,12 +125717,12 @@ donne d'excellentes fibres)
 
 \lx sògojugu
 \mm sògo:n:viande
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps n
 \gf viande.sacrifiée.au.fétiche
 \gvf viande sacrifiée au fétiche
 \smf (interdite aux non-initiés. Dans certaines régions : manière voilée de parler du sel, du lait, de l'or)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sògokalama
 \mm sògo:n:viande
@@ -125726,9 +125770,9 @@ donne d'excellentes fibres)
 \dt 16/Mar/2018
 
 \lx sògoninkun
-\mm sògo.nin:n:petite.antilope
-\mm sògo:n:viande
-\mm nin:mrph:DIM
+\mm sògonin:n:petite.antilope
+\mmm sògo:n:viande
+\mmm nin:mrph:DIM
 \mm kùn:n:tête
 \ps n
 \ms 1
@@ -125739,7 +125783,7 @@ donne d'excellentes fibres)
 \ms 3
 \gvf gland
 \smf (langage enfantin)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sògoɲama
 \mm sògo:n:viande
@@ -126025,13 +126069,13 @@ donne d'excellentes fibres)
 \lx sòlibaa
 \mm sòli:v:être.matinal
 \mm baa:mrph:AG.OCC
-\va sòli.baga
+\va sòlibaga
 \mm sòli:v:être.matinal
 \mm baga:mrph:AG.OCC
 \ps n
 \gf personne.matinale
 \gvf personne matinale
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sòlikabɔ
 \mm sòli:v:être.matinal
@@ -126068,25 +126112,25 @@ donne d'excellentes fibres)
 \dt 26/Sep/2006
 
 \lx sòlimaden
-\mm sòli.ma:n:nouveau.circoncis
-\mm sòli:n:circoncision
-\mm ma:mrph:COM
+\mm sòlima:n:nouveau.circoncis
+\mmm sòli:n:circoncision
+\mmm ma:mrph:COM
 \mm dén:n:enfant
 \ps n
 \gf nouveau.circoncis
 \gvf nouveau circoncis
 \sy bólokoden
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sòlimamuso
-\mm sòli.ma:n:nouveau.circoncis
-\mm sòli:n:circoncision
-\mm ma:mrph:COM
+\mm sòlima:n:nouveau.circoncis
+\mmm sòli:n:circoncision
+\mmm ma:mrph:COM
 \mm mùso:adj:femme
 \ps n
 \gf nouvelle.excisée
 \gvf nouvelle excisée
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sòlisi
 \mm sòli:n:circoncision
@@ -126152,12 +126196,12 @@ donne d'excellentes fibres)
 \lx sòlodakurun
 \mm sòlo:n:youyou
 \mm dá:n:bouche
-\mm kùrun:vq/adj:court
+\mm kùrun:adj:court
 \ps n
 \gf youyou
 \gvf youyou
 \lat Poicephalus senegalus
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sòlogɛn
 \mm sòlo:n:youyou
@@ -126172,13 +126216,13 @@ donne d'excellentes fibres)
 \lx sòlokujan
 \mm sòlo:n:youyou
 \mm kú:n:queue
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf perruche.à.collier
 \gvf perruche à collier
 \lat Psittacula krameri
 \sy fúlasolo
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sóma
 \ps n
@@ -126214,13 +126258,14 @@ donne d'excellentes fibres)
 
 \lx sómayɛlɛma
 \mm só:n:maison
-\mm mà:mrph:SUPER
-\mm yɛ̀lɛma:v:changer
+\mm màyɛ̀lɛma:v:changer
+\mmm mà:mrph:SUPER
+\mmm yɛ̀lɛma:v:changer
 \ps v
 \vl vi
 \gf mourir
 \gvf mourir
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sómɔgɔ
 \mm só:n:maison
@@ -126293,6 +126338,7 @@ donne d'excellentes fibres)
 
 \lx sònkalanku
 \mm sònkalan:n:bâtonnet
+\mmm kàla:n:tige
 \mm kú:n:queue
 \ps n
 \ms 1
@@ -126301,7 +126347,7 @@ donne d'excellentes fibres)
 \gvf amygdalite
 \ms 2
 \gvf remède de l'angine
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sònkɛ
 \mm sòn:n:voleur
@@ -126313,12 +126359,12 @@ donne d'excellentes fibres)
 
 \lx sònnifana
 \mm sòn:n:voleur
-\mm ni:prep/conj:et
+\mm ni:conj:et
 \mm fàna:n:rapporteur
 \ps n
 \gf rapporteur
 \gvf rapporteur
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sònsan
 \va nsàn
@@ -126386,6 +126432,7 @@ donne d'excellentes fibres)
 \mm ya:mrph:ABSTR
 \va sònyɛ
 \mm sòn:n:voleur
+\mm ya:mrph:ABSTR
 \va nsònya
 \mm nsòn:n:voleur
 \mm ya:mrph:ABSTR
@@ -126396,32 +126443,33 @@ donne d'excellentes fibres)
 \gvf voler
 \xv né má  mɔ̀gɔ sí sònya ábada
 \xf je n'ai jamais volé qui que ce soit
-\dt 19/Mar/2019
+\dt 11/Apr/2019
 
 \lx sònyalikɛla
-\mm sòn.ya:v:dérober
-\mm sòn:n:voleur
-\mm ya:mrph:ABSTR
+\mm sònya:v:dérober
+\mmm sòn:n:voleur
+\mmm ya:mrph:ABSTR
 \mm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \va sònyanikɛla
-\mm sòn.ya:v:dérober
-\mm sòn:n:voleur
-\mm ya:mrph:ABSTR
+\mm sònya:v:dérober
+\mmm sòn:n:voleur
+\mmm ya:mrph:ABSTR
 \mm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \va sònyɛniikɛla
 \mm sònyɛ:v:dérober
-\mm sòn:n:voleur
+\mmm sòn:n:voleur
+\mmm ya:mrph:ABSTR
 \mm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf voleur
 \gvf voleur
-\dt 10/Apr/2014
+\dt 11/Apr/2019
 
 \lx sóɲɛkɔnɔ
 \mm só:n:maison
@@ -126478,39 +126526,39 @@ donne d'excellentes fibres)
 \mm sòonadòn:v:intercéder
 \mm dòn:v:entrer
 \mm baa:mrph:AG.OCC
-\va sòonadon.baga
+\va sòonadonbaga
 \mm sòonadòn:v:intercéder
 \mm dòn:v:entrer
 \mm baga:mrph:AG.OCC
-\va sùruɲali.don.baga
+\va sùruɲalidonbaga
 \mm dòn:v:entrer
 \mm baga:mrph:AG.OCC
 \ps n
 \gf intercesseur
 \gvf intercesseur
 \gvf avocat
-\dt 03/May/2013
+\dt 11/Apr/2019
 
 \lx sòonadonna
 \mm sòonadòn:v:intercéder
-\mm dòn:v:entrer
+\mmm dòn:v:entrer
 \mm na:mrph:AG.PRM
 \ps n
 \gf intercesseur
 \gvf intercesseur
 \gvf avocat
 \smf (habituel)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sòonadonyɔrɔ
 \mm sòonadòn:v:intercéder
-\mm dòn:v:entrer
+\mmm dòn:v:entrer
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf asile
 \gvf asile
 \rem Mol, b
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sóoro
 \va sóro
@@ -126636,10 +126684,11 @@ donne d'excellentes fibres)
 
 \lx sosiyalisimu
 \va sosiyalisumu
+\bw fr. socialisme
 \ps n
 \gf socialisme
 \gvf socialisme
-\dt 09/Oct/2016
+\dt 11/Apr/2019
 
 \lx sòso
 \ps n
@@ -126692,12 +126741,13 @@ donne d'excellentes fibres)
 
 \lx sótarama
 \va sótrama
+\bw fr. SOTRAMA, Sociéte de Transport de Mali
 \ps n
 \gf minibus
 \gvf minibus
 \gvf SOTRAMA
 \smf (moyen de transport public, de Société de Transport du Mali)
-\dt 13/Feb/2017
+\dt 11/Apr/2019
 
 \lx sòtigi
 \mm sò:n:cheval
@@ -126859,7 +126909,7 @@ donne d'excellentes fibres)
 \lx sɔ̀gɔlan
 \mm sɔ̀gɔ:v:percer
 \mm lan:mrph:INSTR
-\va swà.lan
+\va swàlan
 \mm swà:v:percer
 \mm lan:mrph:INSTR
 \ps n
@@ -126874,7 +126924,7 @@ donne d'excellentes fibres)
 \gvf cadenas
 \gvf clefs de voiture
 \smf (tout instrument pour fermer)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sɔ̀gɔma
 \fq r
@@ -126962,12 +127012,12 @@ donne d'excellentes fibres)
 \lx sɔ̀gɔsɔgɔninjɛ
 \mm sɔ̀gɔsɔgɔ:n:toux
 \mm nin:mrph:DIM
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf tuberculose
 \gvf tuberculose
 \gvf bronchite chronique
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sɔ̀jigi
 \ps n
@@ -127346,16 +127396,16 @@ euphémique)
 
 \lx sɔ̀njugu
 \mm sɔ̀n:n:coeur
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj/n
 \gf débauché
 \gvf débauché
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀njuguya
-\mm sɔ̀n.jugu:adj/n:débauché
-\mm sɔ̀n:n:coeur
-\mm júgu:vq/adj:mauvais
+\mm sɔ̀njugu:adj:débauché
+\mmm sɔ̀n:n:coeur
+\mmm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps n
 \gf mauvaise.conduite
@@ -127365,12 +127415,12 @@ euphémique)
 \gvf débauche
 \xv à dén tɛ́  sɔ̀njuguya tó yèn, fɔ́ kà táa sà
 \xf son enfant n'abandonnera pas sa conduite mauvaise jusqu'à sa mort
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀njuguya
-\mm sɔ̀n.jugu:adj/n:débauché
-\mm sɔ̀n:n:coeur
-\mm júgu:vq/adj:mauvais
+\mm sɔ̀njugu:adj:débauché
+\mmm sɔ̀n:n:coeur
+\mmm júgu:adj:mauvais
 \mm ya:mrph:ABSTR
 \ps v
 \vl vt
@@ -127380,7 +127430,7 @@ euphémique)
 \xf il a raflé cette nourriture en l'absence de sa mère
 \xv í yé  nìn wári sɔ̀njuguya  k'à sɔ̀rɔ  à má d'í mà
 \xf tu as utilisé cet argent sans qu'on te l'ait donné
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀njuru
 \mm sɔ̀n:n:coeur
@@ -127394,14 +127444,14 @@ euphémique)
 
 \lx sɔ̀nkolon
 \mm sɔ̀n:n:coeur
-\mm kólon:vq:fainéant
+\mm kólon:adj:usagé
 \ps n
 \ms 1
 \gf vice
 \gvf vice
 \ms 2
 \gvf vaurien
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀nkómà
 \mm sɔ̀n:v:accepter
@@ -127415,14 +127465,14 @@ euphémique)
 
 \lx sɔ̀nkɔrɔ
 \mm sɔ̀n:n:coeur
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf vieille.habitude
 \gvf vieille habitude
 \smf (souvent mauvaise)
 \xv dùgumɛnɛ sɔ̀nkɔrɔ yé  cínni yé : (pró)
 \xf la vieille habitude de la fourmi est de piquer
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀nkun
 \mm sɔ̀n:n:coeur
@@ -127435,33 +127485,35 @@ euphémique)
 
 \lx sɔ̀nkuna
 \mm sɔ̀n:n:coeur
-\mm kúna:vq:amer
+\mm kúna:adj:amer
 \ps n
 \gf pyrosis
 \gvf pyrosis
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀nkundimi
-\mm sɔ̀n.kun:n:coeur
-\mm sɔ̀n:n:coeur
-\mm kùn:n:tête
+\mm sɔ̀nkun:n:coeur
+\mmm sɔ̀n:n:coeur
+\mmm kùn:n:tête
 \mm dími:n:souffrance
 \ps n
 \gf maux.de.coeur
 \gvf maux de coeur
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀nnabiri
 \mm sɔ̀n:n:coeur
+\mm nábiri:v:abaisser
 \mm ná:mrph:CAUS
 \mm bíri:v:courber
 \ps n
 \gf diaphragme
 \gvf diaphragme
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀nnaɲini
 \mm sɔ̀n:n:coeur
+\mm náɲini:v:chercher
 \mm ná:mrph:CAUS
 \mm ɲíni:v:chercher
 \ps v
@@ -127469,10 +127521,11 @@ euphémique)
 \gf chercher.querelle
 \gvf chercher querelle
 \rem l 89, bk, bn
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀nnasiran
 \mm sɔ̀n:n:coeur
+\mm násiran:v:effrayer
 \mm ná:mrph:CAUS
 \mm síran:v:craindre
 \ps v
@@ -127482,7 +127535,7 @@ euphémique)
 \xv ù b'ú sɔ̀nnasiran ní ò kúma cáman yé sá
 \xf ils lui flanquent la frousse avec beaucoup de paroles de ce genre !
 \rem f
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀nnɛmɛ
 \mm sɔ̀n:n:coeur
@@ -127517,20 +127570,20 @@ euphémique)
 \dt 16/Aug/2006
 
 \lx sɔ́nnifɛn
-\mm sɔ́n.ni:n:sacrifice
-\mm sɔ́n:v:gratifier
-\mm ni:mrph:NMLZ
+\mm sɔ́nni:n:sacrifice
+\mmm sɔ́n:v:gratifier
+\mmm ni:mrph:NMLZ
 \mm fɛ́n:n:chose
 \ps n
 \gf offrande
 \gvf offrande
 \gvf victime
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sɔ́nnikɛla
-\mm sɔ́n.ni:n:sacrifice
-\mm sɔ́n:v:gratifier
-\mm ni:mrph:NMLZ
+\mm sɔ́nni:n:sacrifice
+\mmm sɔ́n:v:gratifier
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
@@ -127540,7 +127593,7 @@ euphémique)
 \ms 2
 \gvf arroseur
 \rem Bz, Mol, b
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sɔ̀nntan
 \mm sɔ̀n:n:coeur
@@ -127553,14 +127606,14 @@ euphémique)
 \dt 16/Mar/2018
 
 \lx sɔ̀nntanya
-\mm sɔ̀n.ntan:adj:innocent
-\mm sɔ̀n:n:coeur
-\mm ntan:mrph:PRIV
+\mm sɔ̀nntan:adj:innocent
+\mmm sɔ̀n:n:coeur
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf innocence
 \gvf innocence
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀nsira
 \mm sɔ̀n:n:accord
@@ -127573,11 +127626,11 @@ euphémique)
 
 \lx sɔ̀nsuma
 \mm sɔ̀n:n:coeur
-\mm súma:v:rafraîchir
+\mm súma:n:froid
 \ps n
 \gf consolation
 \gvf consolation
-\dt 16/Mar/2018
+\dt 11/Apr/2019
 
 \lx sɔ̀ntigi
 \mm sɔ̀n:n:coeur
@@ -127667,7 +127720,7 @@ euphémique)
 \mm sɔ̀rɔ:v:obtenir
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va sɔ̀rɔ.baa.tɔ
+\va sɔ̀rɔbaatɔ
 \mm sɔ̀rɔ:v:obtenir
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -127675,7 +127728,7 @@ euphémique)
 \gf richard
 \gvf richard
 \gvf nouveau riche
-\dt 24/Jun/2013
+\dt 11/Apr/2019
 
 \lx sɔ̀rɔda
 \mm sɔ̀rɔ:n:gain
@@ -127690,12 +127743,13 @@ euphémique)
 \lx sɔ̀rɔdasi
 \va sɔ̀rasi
 \va sòrodasi
+\bw fr. soldat
 \ps n
 \gf militaire
 \gvf militaire
 \gf soldat
 \gvf soldat
-\dt 13/Jul/2013
+\dt 11/Apr/2019
 
 \lx sɔ̀rɔfɛn
 \mm sɔ̀rɔ:v:obtenir
@@ -127725,10 +127779,11 @@ euphémique)
 \dt 18/Aug/2017
 
 \lx sɔ̀rɔmu
+\bw fr. sérum
 \ps n
 \gf sérum
 \gvf sérum
-\dt 14/Oct/2017
+\dt 11/Apr/2019
 
 \lx sɔ̀sɔ
 \ps v
@@ -127764,16 +127819,16 @@ euphémique)
 \dt 26/Sep/2006
 
 \lx sɔ̀sɔlikɛla
-\mm sɔ̀sɔ.li:n:discussion
-\mm sɔ̀sɔ:v:contredire
-\mm li:mrph:NMLZ
+\mm sɔ̀sɔli:n:discussion
+\mmm sɔ̀sɔ:v:contredire
+\mmm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf discutailleur
 \gvf discutailleur
 \gvf chicaneur
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sɔ̀tìgɛ
 \mm sɔ̀:mrph:EN
@@ -127882,8 +127937,8 @@ euphémique)
 
 \lx súbagabana
 \mm súbaga:n:sorcier
-\mm sú:v:inciter
-\mm baga:mrph:AG.OCC
+\mmm sú:v:inciter
+\mmm baga:mrph:AG.OCC
 \mm bàna:n:fromager
 \ps n
 \gf ricin
@@ -127892,43 +127947,45 @@ euphémique)
 \sd euph
 \smf (arbuste ou arbre ---> 12 m, l'enveloppe des graines est très toxique)
 \sy tómotigi
-\dt 30/Oct/2017
+\dt 11/Apr/2019
 
 \lx súbagakaba
-\mm sú.baga:n:sorcier
-\mm sú:v:inciter
-\mm baga:mrph:AG.OCC
+\mm súbaga:n:sorcier
+\mmm sú:v:inciter
+\mmm baga:mrph:AG.OCC
 \mm kàba:n:maïs
 \ps n
 \gf maïs.sorte
-\gvf maïs sorte
-\dt 21/Feb/2017
+\gvf sorte de maïs
+\dt 11/Apr/2019
 
 \lx súbaganamansin
 \mm súbaga:n:sorcier
+\mmm sú:v:inciter
+\mmm baga:mrph:AG.OCC
 \mm lá:pp:à
 \mm mànsin:n:machine
 \ps n
 \gf ordinateur
 \gvf ordinateur
-\dt 30/Oct/2017
+\dt 11/Apr/2019
 
 \lx súbagaya
-\mm sú.baga:n:sorcier
-\mm sú:v:inciter
-\mm baga:mrph:AG.OCC
+\mm súbaga:n:sorcier
+\mmm sú:v:inciter
+\mmm baga:mrph:AG.OCC
 \mm ya:mrph:ABSTR
-\va sú.baa.ya
-\mm sú.baa:n:sorcier
-\mm sú:v:inciter
-\mm baa:mrph:AG.OCC
+\va súbaaya
+\mm súbaa:n:sorcier
+\mmm sú:v:inciter
+\mmm baa:mrph:AG.OCC
 \mm ya:mrph:ABSTR
 \ve (f)
 \ps n
 \gf sorcellerie
 \gvf sorcellerie
 \sy súya
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sùbahana
 \bw ar: subhana(allah) = expression de surprise (souvent en composition)
@@ -127983,14 +128040,14 @@ s'amène ...)
 \mm sù:n:cadavre
 \mm dòn:v:entrer
 \mm baga:mrph:AG.OCC
-\va sù.don.baa
+\va sùdonbaa
 \mm sù:n:cadavre
 \mm dòn:v:entrer
 \mm baa:mrph:AG.OCC
 \ps n
 \gf fossoyeur
 \gvf fossoyeur
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sùdonna
 \mm sù:n:cadavre
@@ -128013,13 +128070,13 @@ s'amène ...)
 \lx súfɛfarigan
 \mm sú:n:nuit
 \mm fɛ̀:pp:par
-\mm fàri.gan:n:fièvre
+\mm fàrigan:n:fièvre
 \mmm fàri:n:corps
 \mmm gàn:vq:chaud
 \ps n
 \gf herpès
 \gvf herpès
-\dt 03/Mar/2019
+\dt 11/Apr/2019
 
 \lx súfɛla
 \mm sú:n:nuit
@@ -128340,16 +128397,16 @@ s'amène ...)
 \dt 11/Nov/2007
 
 \lx sùkasidɔnkili
-\mm sù.kasi:n:lamentation.funèbre
-\mm sù:n:cadavre
-\mm kàsi:v:pleurer
-\mm dɔ̀n.kili:n:chant
-\mm dɔ̀n:n:danse
-\mm kíli:v:appeler
+\mm sùkasi:n:lamentation.funèbre
+\mmm sù:n:cadavre
+\mmm kàsi:v:pleurer
+\mm dɔ̀nkili:n:chant
+\mmm dɔ̀n:n:danse
+\mmm kíli:v:appeler
 \ps n
 \gf chant.funèbre
 \gvf chant funèbre
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sùko
 \mm sù:n:cadavre
@@ -128364,14 +128421,15 @@ s'amène ...)
 \dt 21/Jul/2014
 
 \lx sùkojama
-\mm sù:n:cadavre
-\mm kó:n:affaire
+\mm sùko:n:enterrement
+\mmm sù:n:cadavre
+\mmm kó:n:affaire
 \mm jàma:n:foule
 \ps n
 \gf assemblée.des.funérailles
 \gvf assemblée des funérailles
 \gvf coutumes funérailles
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sùkòlan
 \mm sù:n:cadavre
@@ -128408,10 +128466,10 @@ s'amène ...)
 
 \lx sùlafin
 \mm sùla:n:singe.rouge
-\mm fìn:vq/adj:noir
-\va sòla.fin
+\mm fìn:adj:noir
+\va sòlafin
 \mm sòla:n:singe.rouge
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf vervet
 \gvf vervet
@@ -128419,7 +128477,7 @@ s'amène ...)
 \sy nkòba
 \sy nkòbanin
 \sy sòlafin
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sùlantɛ̀rɛ
 \va sùlantàra
@@ -128442,15 +128500,15 @@ s'amène ...)
 \dt 05/Apr/2016
 
 \lx súlenya
-\mm sú.len:ptcp:saoûl
-\mm sú:v:tremper
-\mm len:mrph:PTCP.RES
+\mm súlen:ptcp:saoûl
+\mmm sú:v:tremper
+\mmm len:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \gf ivresse
 \gvf ivresse
 \gvf alcoolisme
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx sùlu
 \va sùli
@@ -128484,6 +128542,7 @@ s'amène ...)
 
 \lx súma
 \ps adj
+\gf frais
 \ms 1
 \gvf frais
 \gvf froid
@@ -128492,12 +128551,11 @@ s'amène ...)
 \xv jí súma ká dí
 \xf l'eau fraîche est agréable
 \ms 2
-\gf lent
 \gvf lent
 \gvf calme
 \xv à ká súma kójugu
 \xf c'est un lambin
-\dt 31/Mar/2019
+\dt 11/Apr/2019
 
 \lx súma
 \ps n
@@ -128580,16 +128638,16 @@ s'amène ...)
 
 \lx súmadiyalan
 \mm súma:n:odeur
-\mm dí.ya:v:rendre.agréable
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm lan:mrph:INSTR
 \ps n
 \gf parfum
 \gvf parfum
 \gvf aromate
 \gvf encens
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx súmalenya
 \mm súma:v:rafraîchir
@@ -128615,7 +128673,7 @@ s'amène ...)
 \dt 26/Sep/2006
 
 \lx súmaman
-\mm súma:vq:lent
+\mm súma:vq:froid
 \mm man:mrph:ADJ
 \ps adj
 \gf lent
@@ -128676,7 +128734,7 @@ s'amène ...)
 \dt 11/Nov/2007
 
 \lx súmaya
-\mm súma:vq:lent
+\mm súma:vq:frais
 \mm ya:mrph:DEQU
 \ps n
 \ms 1
@@ -128691,10 +128749,10 @@ s'amène ...)
 \smf (froid)
 \ms 3
 \gvf ralentissement
-\dt 04/Jun/2017
+\dt 11/Apr/2019
 
 \lx súmaya
-\mm súma:vq:lent
+\mm súma:vq:frais
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -128713,18 +128771,18 @@ s'amène ...)
 \xf la pluie m'a retardé dans les semis
 \xv ò làada bɛ́ kà súmaya
 \xf ces coutumes sont en train de se perdre (elles ralentissent)
-\dt 08/Feb/2017
+\dt 11/Apr/2019
 
 \lx súmayabana
-\mm súma.ya:n:froid
-\mmm súma:vq:lent
+\mm súmaya:n:froid
+\mmm súma:vq:frais
 \mmm ya:mrph:DEQU
 \mm bàna:n:maladie
 \ps n
 \gf paludisme
 \gvf paludisme
 \gvf malaria
-\dt 03/Mar/2019
+\dt 11/Apr/2019
 
 \lx súmesunsun
 \mm sùnsun:n:kaki.de.brousse
@@ -128733,7 +128791,7 @@ s'amène ...)
 \gvf arbre Garcinia livingstonei
 \smf (arbre ---> 2 / 8 m )
 \sd gutt
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx sùmu
 \va sùmun
@@ -128852,7 +128910,7 @@ s'amène ...)
 \mm sùnaa:v:dormir
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va sùnɔgɔ.baga.tɔ
+\va sùnɔgɔbagatɔ
 \mm sùnɔgɔ:v:dormir
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -128860,7 +128918,7 @@ s'amène ...)
 \gf dormeur
 \gvf dormeur
 \gvf endormi
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx súnamɔgɔ
 \mm súna:n:sounna
@@ -128923,33 +128981,33 @@ s'amène ...)
 \gvf prostituée
 
 \lx súngurunbamuso
-\mm súngurun.ba:n:prostituée
-\mm súngurun:n:jeune.fille
-\mm ba:mrph:AUGM
+\mm súngurunba:n:prostituée
+\mmm súngurun:n:jeune.fille
+\mmm ba:mrph:AUGM
 \mm mùso:adj:femme
 \ps n
 \gf putain
 \gvf putain
 \sy súngurunba
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx súngurunbaya
-\mm súngurun.ba:n:prostituée
-\mm súngurun:n:jeune.fille
-\mm ba:mrph:AUGM
+\mm súngurunba:n:prostituée
+\mmm súngurun:n:jeune.fille
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf prostitution
 \gvf prostitution
-\dt 15/Mar/2018
+\dt 11/Apr/2019
 
 \lx súngurunkɔrɔ
 \mm súngurun:n:jeune.fille
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf jeune.fille.grande.forte
 \gvf jeune fille grande forte
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx súngurunnin
 \mm súngurun:n:jeune.fille
@@ -128985,16 +129043,16 @@ s'amène ...)
 \dt 16/Mar/2018
 
 \lx súnguruntigɛla
-\mm súngurun.tigɛ:v:débaucher
-\mm súngurun:n:jeune.fille
-\mm tìgɛ:v:couper
+\mm súnguruntigɛ:v:débaucher
+\mmm súngurun:n:jeune.fille
+\mmm tìgɛ:v:couper
 \mm la:mrph:AG.PRM
 \ps n
 \gf séducteur
 \gvf séducteur
 \smf (séducteur de jeunes filles)
 \gvf coureur de 'pagne'
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx súngurunya
 \mm súngurun:n:jeune.fille
@@ -129034,26 +129092,28 @@ s'amène ...)
 \dt 16/Aug/2006
 
 \lx súnkalomakɔnɔ
-\mm sún.kalo:n:ramadan
-\mm sún:n:jeûne
-\mm kálo:n:lune
-\mm mà:mrph:SUPER
-\mm kɔ̀nɔ:v:attendre
+\mm súnkalo:n:ramadan
+\mmm sún:n:jeûne
+\mmm kálo:n:lune
+\mm màkɔ̀nɔ:v:attendre
+\mmm mà:mrph:SUPER
+\mmm kɔ̀nɔ:v:attendre
 \ps n
 \gf 8e.mois.lunaire
 \gvf 8e mois lunaire
 \smf (qui précède le ramadan)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx súnnakari
 \mm sún:n:jeûne
+\mm nákari:v:rendre.inefficace
 \mm ná:mrph:CAUS
 \mm kári:v:casser
 \ps n
 \gf repas.de.fin.de.jeûne
 \gvf repas de fin de jeûne
 \ph [sun-lakari --> sunnakari]
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sùnɔgɔ
 \va sùnaa
@@ -129095,11 +129155,11 @@ s'amène ...)
 \mm sùnɔgɔ:v:dormir
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va sùnɔgɔ.baga.tɔ
+\va sùnɔgɔbagatɔ
 \mm sùnɔgɔ:v:dormir
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va sùnaa.baa.tɔ
+\va sùnaabaatɔ
 \mm sùnaa:v:dormir
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -129109,7 +129169,7 @@ s'amène ...)
 \gvf endormi
 \xv sùnɔgɔbagatɔ kúnu ká dí  túgubaganci yé
 \xf il est plus facile de réveiller un dormeur que celui qui fait semblant
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx sùnɔgɔbaliya
 \mm sùnɔgɔ:v:dormir
@@ -129165,14 +129225,14 @@ s'amène ...)
 
 \lx sùnsunfin
 \mm sùnsun:n:kaki.de.brousse
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf arbuste.Annona.glauca
 \gvf arbuste Annona glauca
 \smf (arbuste ---> 1 m)
 \sd anno
 \smf (petit fruit à chair et arôme agréables)
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx súntɔ
 \mm sún:v:jeûner
@@ -129302,7 +129362,7 @@ s'amène ...)
 \mm sú:n:nuit
 \mm rɔ́:pp:IN
 \mm fàna:n:repas
-\va sú.ra.fana
+\va súrafana
 \mm sú:n:nuit
 \mm rá:pp:à
 \mm fàna:n:repas
@@ -129314,7 +129374,7 @@ s'amène ...)
 \xf le repas du soir est prêt
 \ms 2
 \gvf cadeaux de 'fiançailles'
-\dt 04/Jul/2013
+\dt 11/Apr/2019
 
 \lx súrɔfɛn
 \mm sú:n:nuit
@@ -129364,14 +129424,14 @@ fiançailles
 \mm sú:n:nuit
 \mm rɔ́:pp:IN
 \mm mɔ̀gɔ:n:homme
-\va sú.rɔ.maa
+\va súrɔmaa
 \mm sú:n:nuit
 \mm rɔ́:pp:IN
 \mm màa:n:homme
 \ps n
 \gf sorcier
 \gvf sorcier
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx sùruka
 \va sùruga
@@ -129424,7 +129484,7 @@ fiançailles
 
 \lx súrukubilennin
 \mm súruku:n:hyène
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \mm nin:mrph:DIM
 \ps n
 \ms 1
@@ -129435,7 +129495,7 @@ fiançailles
 \gvf débauché
 \gvf éhonté
 \smf ([fig])
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx súrukubòcɛ̀kálama
 \mm súruku:n:hyène
@@ -129499,7 +129559,7 @@ fiançailles
 \sy súrukuwaanin
 \ms 2
 \gvf candidose
-\dt 27/Mar/2019
+\dt 11/Apr/2019
 
 \lx sùrukusuruku
 \ps v
@@ -129527,13 +129587,11 @@ fiançailles
 \lx súrukuwaanin
 \mm súruku:n:hyène
 \mm wàanin:n:escabeau
-\mmm wàa:v:ouvrir.tout.grand
-\mmm nin:mrph:DIM
 \ps n
 \gf champignon.espèce
 \gvf espèce de champgnon
 \src Kalilu Tera
-\dt 14/Mar/2019
+\dt 11/Apr/2019
 
 \lx sùrun
 \ps vq/adj
@@ -130010,53 +130068,53 @@ fiançailles
 \lx syɛ̀danga
 \mm syɛ̀:n:poule
 \mm dánga:n:poulette-pondeuse
-\va shyɛ̀.danga
+\va shyɛ̀danga
 \mm shyɛ̀:n:poule
 \mm dánga:n:poulette-pondeuse
 \ph [shyɛ...]
-\va shɛ̀.danga
+\va shɛ̀danga
 \mm shɛ̀:n:poule
 \mm dánga:n:poulette-pondeuse
-\va sɛ̀.danga
+\va sɛ̀danga
 \mm sɛ̀:n:poule
 \mm dánga:n:poulette-pondeuse
 \ps n
 \gf poule.d'âge.à.pondre
 \gvf poule d'âge à pondre
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀den
 \mm syɛ̀:n:poule
 \mm dén:n:enfant
-\va shyɛ̀.den
+\va shyɛ̀den
 \mm shyɛ̀:n:poule
 \mm dén:n:enfant
 \ph [shyɛden]
-\va shɛ̀.den
+\va shɛ̀den
 \mm shɛ̀:n:poule
 \mm dén:n:enfant
-\va sɛ̀.den
+\va sɛ̀den
 \mm sɛ̀:n:poule
 \mm dén:n:enfant
 \ps n
 \gf poussin
 \gvf poussin
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀denba
 \mm syɛ̀:n:poule
 \mm dén:n:enfant
 \mm bá:n:mère
-\va shyɛ̀.den.ba
+\va shyɛ̀denba
 \mm shyɛ̀:n:poule
 \mm dén:n:enfant
 \mm bá:n:mère
 \ph [shyɛ...]
-\va shɛ̀.den.ba
+\va shɛ̀denba
 \mm shɛ̀:n:poule
 \mm dén:n:enfant
 \mm bá:n:mère
-\va sɛ̀.den.ba
+\va sɛ̀denba
 \mm sɛ̀:n:poule
 \mm dén:n:enfant
 \mm bá:n:mère
@@ -130067,85 +130125,85 @@ fiançailles
 \ms 2
 \gvf Les Pléiades
 \smf (constellation)
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀denninntuguntugun
-\mm syɛ̀.den:n:poussin
-\mm syɛ̀:n:poule
-\mm dén:n:enfant
+\mm syɛ̀den:n:poussin
+\mmm syɛ̀:n:poule
+\mmm dén:n:enfant
 \mm nin:mrph:DIM
 \va shyɛ̀denninntuguntugun
-\mm shyɛ̀.den:n:poussin
-\mm shyɛ̀:n:poule
-\mm dén:n:enfant
+\mm shyɛ̀den:n:poussin
+\mmm shyɛ̀:n:poule
+\mmm dén:n:enfant
 \mm nin:mrph:DIM
 \ph [shy ...]
 \va shɛ̀denninntuguntugun
-\mm shɛ̀.den:n:poussin
-\mm shɛ̀:n:poule
-\mm dén:n:enfant
+\mm shɛ̀den:n:poussin
+\mmm shɛ̀:n:poule
+\mmm dén:n:enfant
 \mm nin:mrph:DIM
 \va sɛ̀denninntuguntugun
-\mm sɛ̀.den:n:poussin
-\mm sɛ̀:n:poule
-\mm dén:n:enfant
+\mm sɛ̀den:n:poussin
+\mmm sɛ̀:n:poule
+\mmm dén:n:enfant
 \mm nin:mrph:DIM
 \ps n
 \gf petite.poulette
 \gvf petite poulette
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀fan
 \mm syɛ̀:n:poule
 \mm fán:n:oeuf
-\va shyɛ̀.fan
+\va shyɛ̀fan
 \mm shyɛ̀:n:poule
 \mm fán:n:oeuf
 \ph [shyɛfan]
-\va shɛ̀.fan
+\va shɛ̀fan
 \mm shɛ̀:n:poule
 \mm fán:n:oeuf
-\va sɛ̀.fan
+\va sɛ̀fan
 \mm sɛ̀:n:poule
 \mm fán:n:oeuf
 \ps n
 \gf oeuf.de.poule
 \gvf oeuf de poule
 \sy syɛ̀kili
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx syɛ̀fanfara
-\mm syɛ̀.fan:n:oeuf.de.poule
-\mm syɛ̀:n:poule
-\mm fán:n:oeuf
+\mm syɛ̀fan:n:oeuf.de.poule
+\mmm syɛ̀:n:poule
+\mmm fán:n:oeuf
 \mm fàra:n:enveloppe
 \va shɛ̀fanfara
-\mm shɛ̀.fan:n:oeuf.de.poule
-\mm shɛ̀:n:poule
-\mm fán:n:oeuf
+\mm shɛ̀fan:n:oeuf.de.poule
+\mmm shɛ̀:n:poule
+\mmm fán:n:oeuf
 \mm fàra:n:enveloppe
 \va sɛ̀fanfara
-\mm sɛ̀.fan:n:oeuf.de.poule
-\mm sɛ̀:n:poule
-\mm fán:n:oeuf
+\mm sɛ̀fan:n:oeuf.de.poule
+\mmm sɛ̀:n:poule
+\mmm fán:n:oeuf
 \mm fàra:n:enveloppe
 \ph [shy ...]
 \ps n
 \gf coquille.d'oeuf.de.poule
 \gvf coquille d'oeuf de poule
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀kama
 \mm syɛ̀:n:poule
 \mm káma:n:neuf
-\va shyɛ̀.kama
+\va shyɛ̀kama
 \mm shyɛ̀:n:poule
 \mm káma:n:neuf
 \ve (f)
-\va shɛ̀.kama
+\va shɛ̀kama
 \mm shɛ̀:n:poule
 \mm káma:n:neuf
-\va sɛ̀.kama
+\va sɛ̀kama
 \mm sɛ̀:n:poule
 \mm káma:n:neuf
 \ph [shyɛkama]
@@ -130153,7 +130211,7 @@ fiançailles
 \gf poulette.non.fécondée
 \gvf poulette non fécondée
 \sy syɛ̀misɛn
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀kasidono
 \mm syɛ̀:n:poule
@@ -130181,10 +130239,10 @@ fiançailles
 \lx syɛ̀kili
 \mm syɛ̀:n:poule
 \mm kíli:n:oeuf
-\va sɛ̀.kili
+\va sɛ̀kili
 \mm sɛ̀:n:poule
 \mm kíli:n:oeuf
-\va shɛ̀.kili
+\va shɛ̀kili
 \mm shɛ̀:n:poule
 \mm kíli:n:oeuf
 \ph [shyɛkili]
@@ -130192,27 +130250,27 @@ fiançailles
 \gf oeuf.de.poule
 \gvf oeuf de poule
 \sy syɛ̀fan
-\dt 21/May/2013
+\dt 11/Apr/2019
 
 \lx syɛ̀kilifara
-\mm syɛ̀.kili:n:oeuf.de.poule
-\mm syɛ̀:n:poule
-\mm kíli:n:oeuf
+\mm syɛ̀kili:n:oeuf.de.poule
+\mmm syɛ̀:n:poule
+\mmm kíli:n:oeuf
 \mm fàra:n:enveloppe
-\va shyɛ̀.kili.fara
-\mm shyɛ̀.kili:n:oeuf.de.poule
-\mm shyɛ̀:n:poule
-\mm kíli:n:oeuf
+\va shyɛ̀kilifara
+\mm shyɛ̀kili:n:oeuf.de.poule
+\mmm shyɛ̀:n:poule
+\mmm kíli:n:oeuf
 \mm fàra:n:enveloppe
-\va shɛ̀.kili.fara
-\mm shɛ̀.kili:n:oeuf.de.poule
-\mm shɛ̀:n:poule
-\mm kíli:n:oeuf
+\va shɛ̀kilifara
+\mm shɛ̀kili:n:oeuf.de.poule
+\mmm shɛ̀:n:poule
+\mmm kíli:n:oeuf
 \mm fàra:n:enveloppe
-\va sɛ̀.kili.fara
-\mm sɛ̀.kili:n:oeuf.de.poule
-\mm sɛ̀:n:poule
-\mm kíli:n:oeuf
+\va sɛ̀kilifara
+\mm sɛ̀kili:n:oeuf.de.poule
+\mmm sɛ̀:n:poule
+\mmm kíli:n:oeuf
 \mm fàra:n:enveloppe
 \ph [shy ...]
 \ps n
@@ -130220,42 +130278,42 @@ fiançailles
 \gvf coquille d'oeuf de poule
 \xv í sèn tɛ́  syɛ̀kilifara cì
 \xf tu n'es bon à rien (tu n'es même pas capable de briser une coquille d'oeuf avec ton pied)
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀kilisabasiri
 \mm syɛ̀kili:n:oeuf.de.poule
-\mm syɛ̀:n:poule
-\mm kíli:n:oeuf
+\mmm syɛ̀:n:poule
+\mmm kíli:n:oeuf
 \mm sàba:num:trois
 \mm sìri:v:attacher
 \va sɛ̀kilisabasiri
 \mm sɛ̀kili:n:oeuf.de.poule
-\mm sɛ̀:n:poule
-\mm kíli:n:oeuf
+\mmm sɛ̀:n:poule
+\mmm kíli:n:oeuf
 \mm sàba:num:trois
 \mm sìri:v:attacher
 \va shɛ̀kilisabasiri
 \mm shɛ̀kili:n:oeuf.de.poule
-\mm shɛ̀:n:poule
-\mm kíli:n:oeuf
+\mmm shɛ̀:n:poule
+\mmm kíli:n:oeuf
 \mm sàba:num:trois
 \mm sìri:v:attacher
 \ps n
 \gf casse-tête
 \gvf casse-tête
-\dt 20/Mar/2017
+\dt 11/Apr/2019
 
 \lx syɛ̀kɔ̀gɔ
 \mm syɛ́:n:poule
 \mm kɔ̀gɔ:n:sel
-\va shyɛ̀.kɔ̀gɔ
+\va shyɛ̀kɔ̀gɔ
 \mm shyɛ̀:n:poule
 \mm kɔ̀gɔ:n:sel
 \ve (f)
-\va shɛ̀.kɔ̀gɔ
+\va shɛ̀kɔ̀gɔ
 \mm shɛ̀:n:poule
 \mm kɔ̀gɔ:n:sel
-\va sɛ̀.kɔ̀gɔ
+\va sɛ̀kɔ̀gɔ
 \mm sɛ̀:n:poule
 \mm kɔ̀gɔ:n:sel
 \ph [shy ...]
@@ -130263,58 +130321,58 @@ fiançailles
 \gf gros.ver.blanc
 \gvf gros ver blanc
 \smf (larve de bousier ?)
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀kɔrɔ
 \mm syɛ̀:n:poule
-\mm kɔ̀rɔ:vq/adj:vieux
-\va shyɛ̀.kɔrɔ
+\mm kɔ̀rɔ:adj:vieux
+\va shyɛ̀kɔrɔ
 \mm shyɛ̀:n:poule
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ph [shy ...]
-\va shɛ̀.kɔrɔ
+\va shɛ̀kɔrɔ
 \mm shɛ̀:n:poule
-\mm kɔ̀rɔ:vq/adj:vieux
-\va sɛ̀.kɔrɔ
+\mm kɔ̀rɔ:adj:vieux
+\va sɛ̀kɔrɔ
 \mm sɛ̀:n:poule
-\mm kɔ̀rɔ:vq/adj:vieux
+\mm kɔ̀rɔ:adj:vieux
 \ps n
 \gf grosse.poule.adulte
 \gvf grosse poule adulte
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀kulukulu
 \mm syɛ̀:n:poule
 \mm kúlukulu:n:poulailler
-\va shyɛ̀.kulukulu
+\va shyɛ̀kulukulu
 \mm shyɛ̀:n:poule
 \mm kúlukulu:n:poulailler
 \ph [shy ...]
-\va shɛ̀.kulukulu
+\va shɛ̀kulukulu
 \mm shɛ̀:n:poule
 \mm kúlukulu:n:poulailler
-\va sɛ̀.kulukulu
+\va sɛ̀kulukulu
 \mm sɛ̀:n:poule
 \mm kúlukulu:n:poulailler
 \ps n
 \gf poulailler
 \gvf poulailler
 \sy syɛ̀sulu
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀kwànin
 \mm syɛ̀:n:poule
 \mm kwà:n:sel
 \mm nin:mrph:DIM
-\va shyɛ̀.kwà.nin
+\va shyɛ̀kwànin
 \mm shyɛ̀:n:poule
 \mm kwà:n:sel
 \mm nin:mrph:DIM
-\va shɛ̀.kwà.nin
+\va shɛ̀kwànin
 \mm shɛ̀:n:poule
 \mm kwà:n:sel
 \mm nin:mrph:DIM
-\va sɛ̀.kwà.nin
+\va sɛ̀kwànin
 \mm sɛ̀:n:poule
 \mm kwà:n:sel
 \mm nin:mrph:DIM
@@ -130323,7 +130381,7 @@ fiançailles
 \gf gros.ver.blanc
 \gvf gros ver blanc
 \smf (larve de bousier ?)
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀mara
 \mm syɛ̀:n:poule
@@ -130383,40 +130441,40 @@ fiançailles
 
 \lx syɛ̀misɛn
 \mm syɛ̀:n:poule
-\mm mìsɛn:vq:petit
-\va shyɛ̀.misɛn
+\mm mìsɛn:adj:petit
+\va shyɛ̀misɛn
 \mm shyɛ̀:n:poule
-\mm mìsɛn:vq:petit
-\va shɛ̀.misɛn
+\mm mìsɛn:adj:petit
+\va shɛ̀misɛn
 \mm shɛ̀:n:poule
-\mm mìsɛn:vq:petit
-\va sɛ̀.misɛn
+\mm mìsɛn:adj:petit
+\va sɛ̀misɛn
 \mm sɛ̀:n:poule
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ph [shyɛ̀ ...]
 \ps n
 \gf poulette
 \gvf poulette
 \sy syɛ̀kama
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀muso
 \mm syɛ̀:n:poule
 \mm mùso:adj:femme
-\va shyɛ̀.muso
+\va shyɛ̀muso
 \mm shyɛ̀:n:poule
 \mm mùso:adj:femme
-\va shɛ̀.muso
+\va shɛ̀muso
 \mm shɛ̀:n:poule
 \mm mùso:adj:femme
-\va sɛ̀.muso
+\va sɛ̀muso
 \mm sɛ̀:n:poule
 \mm mùso:adj:femme
 \ph [shy ...]
 \ps n
 \gf poule
 \gvf poule
-\dt 19/Oct/2014
+\dt 11/Apr/2019
 
 \lx syɛ̀n
 \va shyɛ̀n
@@ -130489,7 +130547,7 @@ fiançailles
 \mm syɛ̀:n:poule
 \mm nɔ́rɔ:v:coller
 \mm nan:mrph:INSTR
-\va shyɛ̀.nɔrɔ.nan
+\va shyɛ̀nɔrɔnan
 \mm shyɛ̀:n:poule
 \mm nɔ́rɔ:v:coller
 \mm nan:mrph:INSTR
@@ -130500,24 +130558,24 @@ fiançailles
 \smf (herbe adventice ---> 30 / 130 cm)
 \sd gram
 \sy ɲínɛminɛnan
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx syɛ̀ɲimi
 \mm syɛ̀:n:poule
 \mm ɲími:n:pou.de.tête
-\va shyɛ̀.ɲimi
+\va shyɛ̀ɲimi
 \mm shyɛ̀:n:poule
 \mm ɲími:n:pou.de.tête
 \ph [shyɛɲimi]
 \ps n
 \gf pou.de.poule
 \gvf pou de poule
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx syɛ̀sulu
 \mm syɛ̀:n:poule
 \mm sùlu:n:poulailler/bergerie
-\va shyɛ̀.sulu
+\va shyɛ̀sulu
 \mm shyɛ̀:n:poule
 \mm sùlu:n:poulailler/bergerie
 \ph [shyɛsulu]
@@ -130525,7 +130583,7 @@ fiançailles
 \gf poulailler
 \gvf poulailler
 \sy syɛ̀kulukulu
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx syɛ̀tɛ̀nɛ
 \mm syɛ̀:n:poule
@@ -130541,7 +130599,7 @@ fiançailles
 \lx syɛ̀walan
 \mm syɛ̀:n:poule
 \mm wálan:adj:moyen
-\va shyɛ̀.walan
+\va shyɛ̀walan
 \mm shyɛ̀:n:poule
 \mm wálan:adj:moyen
 \ph [shyɛwalan]
@@ -130549,7 +130607,7 @@ fiançailles
 \gf poulette
 \gvf poulette
 \cf dònobugun
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx syɔ́
 \ps n
@@ -130568,7 +130626,7 @@ fiançailles
 \mm syɔ̀:n:haricot
 \mm ba:mrph:AUGM
 \mm yógolon:v:soulever
-\va shyɔ̀.ba.yogolon
+\va shyɔ̀bayogolon
 \mm shyɔ̀:n:haricot
 \mm ba:mrph:AUGM
 \mm yógolon:v:soulever
@@ -130577,31 +130635,31 @@ fiançailles
 \ps n
 \gf gros.haricot
 \gvf gros haricot
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx syɔ̀kala
 \mm syɔ̀:n:haricot
 \mm kàla:n:tige
-\va shyɔ̀.kala
+\va shyɔ̀kala
 \mm shyɔ̀:n:haricot
 \mm kàla:n:tige
 \ph [shyɔkala]
 \ps n
 \gf fane.de.haricot
 \gvf fane de haricot
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx syɔ̀len
 \mm syɔ̀:n:haricot
 \mm len:n:enfant
-\va shyɔ̀.len
+\va shyɔ̀len
 \mm shyɔ̀:n:haricot
 \mm len:n:enfant
 \ph [shyɔlen]
 \ps n
 \gf haricot.hâtif
 \gvf haricot hâtif
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx syɔ̀lɔ
 \va shyɔ̀lɔ
@@ -130631,7 +130689,7 @@ fiançailles
 \lx syɔ́lɔlan
 \mm syɔ́lɔ:v:égoutter
 \mm lan:mrph:INSTR
-\va shyɔ́lɔ.lan
+\va shyɔ́lɔlan
 \mm shyɔ́lɔ:v:égoutter
 \mm lan:mrph:INSTR
 \ph [shy..]
@@ -130639,7 +130697,7 @@ fiançailles
 \gf passoire
 \gvf passoire
 \gvf filtre
-\dt 17/Jan/2015
+\dt 11/Apr/2019
 
 \lx syɔ̀manyɛ̀
 \va syɔ̀manjɛ̀
@@ -130910,17 +130968,17 @@ fiançailles
 \mm tàa:n:poisson.sp
 \mm kán:n:cou
 \mm kɔ́rɔ:n:dessous
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \va tàa-kán.kɔrɔ.blen
 \mm tàa:n:poisson.sp
 \mm kán:n:cou
 \mm kɔ́rɔ:n:dessous
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [bl]
 \ps n
 \gf poisson.Tilapia.melanopleura
 \gvf poisson Tilapia melanopleura
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx táa-ka-segin
 \mm táa:v:aller
@@ -131099,11 +131157,11 @@ fiançailles
 
 \lx táamaɲɔgɔn
 \mm táama:v:marcher
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf compagnon.de.route
 \gvf compagnon de route
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tàamaseere
 \ps n
@@ -131191,19 +131249,6 @@ fiançailles
 \gf lit.à.dossier.relevé
 \gvf lit à dossier relevé
 \dt 16/Aug/2006
-
-\lx tàaramuso
-\mm tàara:n:lit.à.dossier.relevé
-\mm mùso:n:femme
-\va tàra.muso
-\mm tàra:n:lit.à.dossier.relevé
-\mm mùso:n:femme
-\ve (f)
-\ps n
-\gf femme.esclave
-\gvf femme esclave
-\smf (d'origine servile)
-\dt 26/Sep/2006
 
 \lx táaran
 \va táara
@@ -131295,16 +131340,16 @@ fiançailles
 \dt 11/Nov/2007
 
 \lx táayɔrɔjɛ
-\mm táa.yɔrɔ:n:destination
-\mm táa:v:aller
-\mm yɔ́rɔ:n:lieu
-\mm jɛ́:vq/adj:blanc
+\mm táayɔrɔ:n:destination
+\mmm táa:v:aller
+\mmm yɔ́rɔ:n:lieu
+\mm jɛ́:adj:blanc
 \ps n
 \gf lieu.où.l'on.va
 \gvf lieu où l'on va
 \xv ɲínɛ mána jàkuma táayɔrɔjɛ dɔ́n...
 \xf si la souris savait où le chat s'en est allé ...
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tàba
 \ps n
@@ -131314,13 +131359,13 @@ fiançailles
 \lx tàbadaa
 \mm tàba:n:tabac
 \mm dàa:n:canari
-\va tàba.daga
+\va tàbadaga
 \mm tàba:n:tabac
 \mm dàga:n:canari
 \ps n
 \gf pipe
 \gvf pipe
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tábale
 \vt tábàlé
@@ -131332,19 +131377,20 @@ fiançailles
 \dt 26/Sep/2006
 
 \lx tàbali
+\bw fr. table
 \ps n
 \gf table
 \gvf table
+\dt 11/Apr/2019
 
 \lx tàbalitigi
 \mm tàbali:n:table
 \mm tìgi:n:maître
-\bw fr : table...
 \ps n
 \gf étalagiste
 \gvf étalagiste
 \smf (disposant d'une table pour proposer ses marchandises)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tábara
 \mm tá:n:feu
@@ -131414,12 +131460,14 @@ fiançailles
 \mm tàga:n:molaire
 \mm jù:n:derrière
 \va twàju
+\mm tàga:n:molaire
+\mm jù:n:derrière
 \ve (f)
 \ps n
 \gf molaire
 \gvf molaire
 \gvf dent de sagesse
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tágasitagasi
 \ps adv
@@ -131478,13 +131526,14 @@ fiançailles
 \dt 12/Aug/2006
 
 \lx tákalagomi
-\mm tá.kala:n:allumette
-\mm tá:n:feu
-\mm kàla:n:tige
+\mm tákala:n:allumette
+\mmm tá:n:feu
+\mmm kàla:n:tige
 \mm gómi:n:amidon
 \ps n
 \gf sucette
 \gvf sucette
+\dt 11/Apr/2019
 
 \lx tákami
 \mm tá:n:feu
@@ -131527,16 +131576,18 @@ fiançailles
 \dt 12/Aug/2006
 
 \lx tàkisi
+\bw fr. taxi
 \ps n
 \gf taxi
 \gvf taxi
-\dt 25/Feb/2017
+\dt 11/Apr/2019
 
 \lx tákisi
+\bw fr. taxe
 \ps n
 \gf taxe
 \gvf taxe
-\dt 25/Feb/2017
+\dt 11/Apr/2019
 
 \lx tàko
 \mm tà:v:prendre
@@ -131549,12 +131600,12 @@ fiançailles
 \gvf coup
 \dt 03/May/2013
 
-\lx tákùlá
+\lx tákùla
 \ps n
 \gf pain.de.mil
 \gvf pain de mil
 \smf (sert d'offrande rituelle; préconisé tant par les devins que par les marabouts, ne peut être préparé par une femme qui a ses règles)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tákulu
 \mm tá:n:feu
@@ -131589,12 +131640,12 @@ fiançailles
 
 \lx tálajɛ
 \mm tála:n:poisson.Cith.sp
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf poisson.Citharinus.citharus
 \gvf poisson Citharinus citharus
 \smf (---> 58 cm, 7 kg)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tàlan
 \mm tà:v:prendre
@@ -131792,13 +131843,13 @@ fiançailles
 \lx támana
 \mm tá:n:feu
 \mm mána:v:allumer
-\va tá.mɛnɛ
+\va támɛnɛ
 \mm tá:n:feu
 \mm mɛ́nɛ:v:allumer
 \ps n
 \gf flamme
 \gvf flamme
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tàmanda
 \mm tàman:n:tempe
@@ -131935,13 +131986,13 @@ suivi de ni)
 \lx tànbakinci
 \mm tànbaki:v:hésiter
 \mm nci:mrph:AG.EX
-\va tàmaki.nci
+\va tàmakinci
 \mm tàmaki:v:hésiter
 \mm nci:mrph:AG.EX
 \ps n
 \gf barguigneur
 \gvf barguigneur
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tànga
 \bw ar: ta`a = soumission
@@ -132196,13 +132247,13 @@ pieton)
 \lx táɲa
 \mm tá:n:propriété
 \mm ɲà:v:réussir
-\va tá.ɲɛ
+\va táɲɛ
 \mm tá:n:propriété
 \mm ɲɛ̀:v:réussir
 \ps n
 \gf succès
 \gvf succès
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx táɲinina
 \mm tá:n:propriété
@@ -132376,12 +132427,12 @@ pieton)
 \dt 16/Aug/2006
 
 \lx tása
-\bw fr : tasse
+\bw Ar. ṭa:sa
 \ps n
 \gf cuvette
 \gvf cuvette
 \gvf plat émaillé
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tàsabiya
 \va tásabila
@@ -132416,11 +132467,10 @@ pieton)
 \lx tásanin
 \mm tása:n:cuvette
 \mm nin:mrph:DIM
-\bw fr : tasse
 \ps n
 \gf assiette
 \gvf assiette
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx tàsari
 \va tàsali
@@ -132485,29 +132535,29 @@ pieton)
 \gvf feu
 
 \lx tásumafagala
-\mm tá.suma:n:feu
-\mm tá:n:feu
-\mm súma:n:odeur
+\mm tásuma:n:feu
+\mmm tá:n:feu
+\mmm súma:n:odeur
 \mm fàga:v:tuer
 \mm la:mrph:AG.PRM
 \va tásumafaaala
-\mm tá.suma:n:feu
-\mm tá:n:feu
-\mm súma:n:odeur
+\mm tásuma:n:feu
+\mmm tá:n:feu
+\mmm súma:n:odeur
 \mm fàa:v:tuer
 \mm la:mrph:AG.PRM
 \ps n
 \gf pompier
 \gvf pompier
-\dt 05/Jun/2018
+\dt 11/Apr/2019
 
 \lx tátiɲɛ
 \mm tá:n:propriété
 \mm tíɲɛ:v:gâter
-\va tá.tiyɛn
+\va tátiyɛn
 \mm tá:n:propriété
 \mm tíyɛn:v:gâter
-\va tá.cɛn
+\va tácɛn
 \mm tá:n:propriété
 \mm cɛ́n:v:gâter
 \ps n
@@ -132515,7 +132565,7 @@ pieton)
 \gvf catastrophe
 \gvf désastre
 \gvf échec personnel
-\dt 24/Jun/2013
+\dt 11/Apr/2019
 
 \lx tátiɲɛ
 \mm tá:n:propriété
@@ -132736,6 +132786,21 @@ flaques d'eau)
 \xf il est très probable qu'on va jouer du balafon ce soir
 \dt 22/Mar/2015
 
+\lx téliman
+\mm téli:vq:rapide
+\mm man:mrph:ADJ
+\va tɛ́liman
+\mm tɛ́li:vq:rapide
+\mm man:mrph:ADJ
+\ps adj
+\gf rapide
+\gvf rapide
+\gvf bref
+\gvf alerte
+\xv ù kó : ù kà  ɲɔ́gɔn nɔ́ tɛ́liman lájɛ
+\xf ils ont dit de vérifier qui est le plus rapide d'entre eux
+\dt 11/Apr/2019
+
 \lx téliya
 \mm téli:vq:rapide
 \mm ya:mrph:DEQU
@@ -132911,7 +132976,7 @@ flaques d'eau)
 
 \lx tèrejugu
 \mm tère:n:chance
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \ps adj/n
 \gf porte-malheur
 \gvf porte-malheur
@@ -132921,7 +132986,7 @@ flaques d'eau)
 \xv tèrejugu tùn bɛ́ tàli kɛ́ mùso fàrikolo fàndɔ bɔ́cogo lá
 \xf on devinait cette tare à des signes corporels extérieurs (kb 1/06 p.8)
 \rem l 89
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx téreke
 \bw ar: faraka = id.
@@ -132952,20 +133017,20 @@ flaques d'eau)
 \dt 12/Aug/2006
 
 \lx tèremajira
-\mm tère.ma:adj:malchanceux
-\mm tère:n:chance
-\mm ma:mrph:COM
+\mm tèrema:adj:malchanceux
+\mmm tère:n:chance
+\mmm ma:mrph:COM
 \mm jìra:v:montrer
-\va tère.ma.yira
-\mm tère.ma:adj:malchanceux
-\mm tère:n:chance
-\mm ma:mrph:COM
+\va tèremayira
+\mm tèrema:adj:malchanceux
+\mmm tère:n:chance
+\mmm ma:mrph:COM
 \mm yìra:v:montrer
 \ve (bn,f)
 \ps n
 \gf mauvais.augure
 \gvf mauvais augure
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx téretere
 \ps adj
@@ -133180,14 +133245,14 @@ flaques d'eau)
 \lx tɛ́gɛbisan
 \mm tɛ́gɛ:n:paume
 \mm bísan:n:verge
-\va tɛ́gɛ.busan
+\va tɛ́gɛbusan
 \mm tɛ́gɛ:n:paume
 \mm búsan:n:verge
 \ps n
 \gf paume
 \gvf paume
 \smf (de la main, quand elle sert à frapper)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tɛ́gɛfura
 \mm tɛ́gɛ:n:paume
@@ -133224,37 +133289,39 @@ flaques d'eau)
 
 \lx tɛ́gɛlamisɛn
 \mm tɛ́gɛla:n:main.active
-\mm tɛ́gɛ:n:paume
-\mm lá:pp:à
+\mmm tɛ́gɛ:n:paume
+\mmm lá:pp:à
 \mm mìsɛn:adj:petit
 \ps adj/n
 \gf touche-à-tout
 \gvf touche-à-tout
 \gvf voleur
-\dt 23/Mar/2015
+\dt 11/Apr/2019
 
 \lx tɛ́gɛlandi
 \mm tɛ́gɛla:n:main.active
-\mm tɛ́gɛ:n:paume
-\mm lan:mrph:dans
+\mmm tɛ́gɛ:n:paume
+\mmm la:mrph:dans
+\mm dí:vq:agréable
 \ps adj/n
 \gf adroit
 \gvf adroit
 \smf (à la chasse, au tir...)
 \gvf bon tireur
-\dt 08/Mar/2018
+\dt 11/Apr/2019
 
 \lx tɛ́gɛlandiya
 \mm tɛ́gɛlandi:adj:adroit
-\mm tɛ́gɛla:n:main.active
-\mm tɛ́gɛ:n:paume
-\mm lan:mrph:dans
+\mmm tɛ́gɛla:n:main.active
+\mmmm tɛ́gɛ:n:paume
+\mmmm lan:mrph:dans
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf dextérité
 \gvf dextérité
 \smf (adresse au tir)
-\dt 23/Mar/2015
+\dt 11/Apr/2019
 
 \lx tɛ́gɛlango
 \mm tɛ́gɛla:n:main.active
@@ -133270,45 +133337,45 @@ flaques d'eau)
 
 \lx tɛ́gɛlangoya
 \mm tɛ́gɛlango:adj:maladroit
-\mm tɛ́gɛla:n:main.active
-\mm tɛ́gɛ:n:paume
-\mm lan:mrph:dans
-\mm gó:adj:désagréable
+\mmm tɛ́gɛla:n:main.active
+\mmmm tɛ́gɛ:n:paume
+\mmmm lan:mrph:dans
+\mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
-\va tɛ́gɛ.go.ya
+\va tɛ́gɛgoya
 \mm tɛ́gɛ:n:paume
 \mm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf maladresse
 \gvf maladresse
-\dt 30/Sep/2018
+\dt 11/Apr/2019
 
 \lx tɛ́gɛlateli
 \mm tɛ́gɛla:n:main.active
-\mm tɛ́gɛ:n:paume
-\mm lá:pp:à
+\mmm tɛ́gɛ:n:paume
+\mmm la:mrph:dans
 \mm téli:adj:rapide
 \va tɛ́gɛlatelin
 \mm tɛ́gɛla:n:main.active
-\mm tɛ́gɛ:n:paume
-\mm lá:pp:à
+\mmm tɛ́gɛ:n:paume
+\mmm la:mrph:dans
 \mm télin:adj:rapide
 \va tɛ́gɛlanteli
-\mm tɛ́gɛla:n:main.active
-\mm tɛ́gɛ:n:paume
-\mm lan:mrph:dans
+\mm tɛ́gɛlan:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm lan:mrph:dans
 \mm téli:adj:rapide
 \va tɛ́gɛlantelin
 \mm tɛ́gɛla:n:main.active
-\mm tɛ́gɛ:n:paume
-\mm lan:mrph:dans
+\mmm tɛ́gɛ:n:paume
+\mmm lan:mrph:dans
 \mm télin:adj:rapide
 \ps adj/n
 \gf main.preste
 \gvf main preste
 \smf (au travail ..., pour manger ..., pour frapper ...)
-\dt 23/Mar/2015
+\dt 11/Apr/2019
 
 \lx tɛ̀gɛlɛ
 \va tɛ̀gɛrɛ
@@ -133334,39 +133401,39 @@ flaques d'eau)
 \dt 07/Dec/2014
 
 \lx tɛ́gɛmagɛlɛn
-\mm tɛ́gɛ.ma:n:main
-\mm tɛ́gɛ:n:paume
-\mm mà:mrph:SUPER
+\mm tɛ́gɛma:n:main
+\mmm tɛ́gɛ:n:paume
+\mmm mà:mrph:SUPER
 \mm gɛ̀lɛn:adj:dur
 \ps adj/n
 \gf avare
 \gvf avare
-\dt 07/Dec/2014
+\dt 11/Apr/2019
 
 \lx tɛ́gɛmagɛlɛya
-\mm tɛ́gɛ.ma:n:main
-\mm tɛ́gɛ:n:paume
-\mm mà:mrph:SUPER
+\mm tɛ́gɛma:n:main
+\mmm tɛ́gɛ:n:paume
+\mmm mà:mrph:SUPER
 \mm gɛ̀lɛ:adj:dur
 \mm ya:mrph:ABSTR
 \ps n
 \gf avarice
 \gvf avarice
-\dt 07/Dec/2014
+\dt 11/Apr/2019
 
 \lx tɛ́gɛmagɛlɛya
-\mm tɛ́gɛ.ma:n:main
-\mm tɛ́gɛ:n:paume
-\mm mà:mrph:SUPER
+\mm tɛ́gɛma:n:main
+\mmm tɛ́gɛ:n:paume
+\mmm mà:mrph:SUPER
 \mm gɛ̀lɛ:adj:dur
 \mm ya:mrph:DEQU
 \ps v
-\vl vr ?
+\vl vr
 \gf faire.l'avare
 \gvf faire l'avare
 \xv á kàna á tɛ́gɛmagɛlɛya á bálema fàantan fàn fɛ̀
 \xf tu ne fermeras pas ta main à ton frère pauvre (Dt 15, 7)
-\dt 07/Dec/2014
+\dt 11/Apr/2019
 
 \lx tɛ́gɛn
 \va tángi
@@ -133381,21 +133448,21 @@ flaques d'eau)
 
 \lx tɛ́gɛnasuma
 \mm tɛ́gɛla:n:main.active
-\mm tɛ́gɛ:n:paume
-\mm ná:pp:à
-\mm súma:adj:lent
+\mmm tɛ́gɛ:n:paume
+\mmm ná:pp:à
+\mm súma:adj:frais
 \ps adj/n
 \gf lent
 \gvf lent
 \smf (de mains)
-\dt 23/Mar/2015
+\dt 11/Apr/2019
 
 \lx tɛ́gɛnɔbìla
 \mm tɛ́gɛ:n:paume
 \mm nɔ̀:n:trace
 \mm bìla:v:mettre
 \ps v
-\vl vr ?
+\vl vr
 \gf signer
 \gvf signer
 \xv Máli ní gófɛrɛnaman ní Kówɛti bánki y'ú tɛ́gɛnɔbila (ò)
@@ -133404,7 +133471,7 @@ jùrudonsɛbɛn ná
 leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xv bɛ̀nkansɛbɛn ìn tɛ́gɛnɔbilara mɛ́kalo tìle fìla sàn 2006
 \xf cet accord a été signé le 2 mai 2006 ... (kb 5/06 p.1)
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx tɛ́gɛnpon
 \mm tɛ́gɛ:n:paume
@@ -133484,21 +133551,6 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf sabre large
 \dt 26/Sep/2006
 
-\lx tɛ́liman
-\mm tɛ́li:vq:rapide
-\mm man:mrph:ADJ
-\va téli.man
-\mm téli:vq:rapide
-\mm man:mrph:ADJ
-\ps adj
-\gf rapide
-\gvf rapide
-\gvf bref
-\gvf alerte
-\xv ù kó : ù kà  ɲɔ́gɔn nɔ́ tɛ́liman lájɛ
-\xf ils ont dit de vérifier qui est le plus rapide d'entre eux
-\dt 26/Sep/2006
-
 \lx tɛ̀mɛ
 \ps n
 \ms 1
@@ -133560,7 +133612,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tɛ̀mɛbaa
 \mm tɛ̀mɛ:v:passer
 \mm baa:mrph:AG.OCC
-\va tɛ̀mɛ.baga
+\va tɛ̀mɛbaga
 \mm tɛ̀mɛ:v:passer
 \mm baga:mrph:AG.OCC
 \ps n
@@ -133568,7 +133620,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf passant
 \xv dùgu ká dí, súkelentɛmɛbaa tɛ́  ò ɲɛ́dɔn
 \xf "la vie dans ce village est agréable", l'étranger qui n'y passe qu'un soir n'a pas le temps de s'en rendre compte (chant)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tɛ̀mɛkan
 \mm tɛ̀mɛ:v:passer
@@ -133646,18 +133698,18 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tɛ̀nɛmako
 \mm tɛ̀nɛ:n:tabou
-\mm mà:pp:ADR
+\mm ma:mrph:COM
 \mm kó:n:affaire
 \ps n
 \gf transgression.d’interdit
 \gvf transgression d’interdit
 \smf (action qui enfreint un interdit ... social ou divin)
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx tɛ́nɛmuso
 \mm tɛ́nɛ:n:tante.paternelle
 \mm mùso:adj:femme
-\va tnɛ́.muso
+\va tnɛ́muso
 \mm tnɛ́:n:tante.paternelle
 \mm mùso:adj:femme
 \ph [tn...]
@@ -133665,7 +133717,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf tante.paternelle
 \gvf tante paternelle
 \smf (soeur du père, aînée ou cadette)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tɛ́ngɛlɛn
 \ve (-bk)
@@ -133813,9 +133865,11 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tɛ́rɛn
 \vt tɛ̀rɛn
 \va trɛ́n
+\bw fr. train
 \ps n
 \gf train
 \gvf train
+\dt 11/Apr/2019
 
 \lx tɛ̀rɛnkunkolo
 \mm tɛ̀rɛn:n:train
@@ -133898,45 +133952,45 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tìgabo
 \mm tìga:n:arachide
 \mm bò:n:excrément
-\va tìgɛ.bo
+\va tìgɛbo
 \mm tìgɛ:n:arachide
 \mm bò:n:excrément
 \ps n
 \gf tourteau.d'arachide
 \gvf tourteau d'arachide
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgadɛgɛ
 \mm tìga:n:arachide
 \mm dɛ̀gɛ:n:brouet
-\va tìgɛ.dɛgɛ
+\va tìgɛdɛgɛ
 \mm tìgɛ:n:arachide
 \mm dɛ̀gɛ:n:brouet
 \ps n
 \gf pâte.d'arachide
 \gvf pâte d'arachide
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgafara
 \mm tìga:n:arachide
 \mm fàra:n:enveloppe
-\va tìgɛ.fara
+\va tìgɛfara
 \mm tìgɛ:n:arachide
 \mm fàra:n:enveloppe
 \ps n
 \gf coque.d'arachide
 \gvf coque d'arachide
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgagɛlɛn
 \mm tìga:n:arachide
-\mm gɛ̀lɛn:vq/adj:dur
-\va tìgɛ.gɛlɛn
+\mm gɛ̀lɛn:adj:dur
+\va tìgɛgɛlɛn
 \mm tìgɛ:n:arachide
-\mm gɛ̀lɛn:vq/adj:dur
-\va tìga.gwɛlɛn
+\mm gɛ̀lɛn:adj:dur
+\va tìgagwɛlɛn
 \mm tìga:n:arachide
-\mm gwɛ̀lɛn:vq/adj:dur
+\mm gwɛ̀lɛn:adj:dur
 \ph [tigagwɛlɛn]
 \ps n
 \gf pois.de.terre
@@ -133945,32 +133999,32 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \sd papi
 \sy tìganingɛlɛn
 \sy tìganinkuru
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgakala
 \mm tìga:n:arachide
 \mm kàla:n:tige
-\va tìgɛ.kala
+\va tìgɛkala
 \mm tìgɛ:n:arachide
 \mm kàla:n:tige
 \ps n
 \gf fanes.d'arachide
 \gvf fanes d'arachide
 \sy tígaɲaga
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgalamugu
 \mm tìga:n:arachide
 \mm lá:pp:à
 \mm múgu:n:poudre
-\va tìgɛ.la.mugu
+\va tìgɛlamugu
 \mm tìgɛ:n:arachide
 \mm lá:pp:à
 \mm múgu:n:poudre
 \ps n
 \gf couscous.à.la.pâte.d'arachide
 \gvf couscous à la pâte d'arachide
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgana
 \mm tìga:n:arachide
@@ -133984,19 +134038,19 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tìganingɛlɛn
 \mm tìga:n:arachide
 \mm nin:mrph:DIM
-\mm gɛ̀lɛn:vq/adj:dur
-\va tìgɛ.nin.gɛlɛn
+\mm gɛ̀lɛn:adj:dur
+\va tìgɛningɛlɛn
 \mm tìgɛ:n:arachide
 \mm nin:mrph:DIM
-\mm gɛ̀lɛn:vq/adj:dur
-\va tìga.nin.gwɛlɛn
+\mm gɛ̀lɛn:adj:dur
+\va tìganingwɛlɛn
 \mm tìga:n:arachide
 \mm nin:mrph:DIM
-\mm gwɛ̀lɛn:vq/adj:dur
-\va tìgɛ.nin.gwɛlɛn
+\mm gwɛ̀lɛn:adj:dur
+\va tìgɛningwɛlɛn
 \mm tìgɛ:n:arachide
 \mm nin:mrph:DIM
-\mm gwɛ̀lɛn:vq/adj:dur
+\mm gwɛ̀lɛn:adj:dur
 \ph [... gwɛlɛn]
 \ps n
 \gf pois.de.terre
@@ -134005,13 +134059,13 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \sd papi
 \sy tìgagɛlɛn
 \sy tìganinkuru
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìganinkuru
 \mm tìga:n:arachide
 \mm nin:mrph:DIM
 \mm kùru:n:boule
-\va tìgɛ.nin.kuru
+\va tìgɛninkuru
 \mm tìgɛ:n:arachide
 \mm nin:mrph:DIM
 \mm kùru:n:boule
@@ -134022,52 +134076,52 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \sd papi
 \sy tìganingɛlɛn
 \sy tìgagɛlɛn
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgaɲaga
 \mm tìga:n:arachide
 \mm ɲàga:n:résidu
-\va tìgɛ.ɲaga
+\va tìgɛɲaga
 \mm tìgɛ:n:arachide
 \mm ɲàga:n:résidu
 \ps n
 \gf fanes.d'arachide
 \gvf fanes d'arachide
 \sy tìgakala
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgasi
 \mm tìga:n:arachide
 \mm sí:n:semence
-\va tìgɛ.si
+\va tìgɛsi
 \mm tìgɛ:n:arachide
 \mm sí:n:semence
 \ps n
 \gf graine.d'arachide
 \gvf graine d'arachide
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgaso
 \mm tìga:n:arachide
 \mm só:n:maison
-\va tìgɛ.so
+\va tìgɛso
 \mm tìgɛ:n:arachide
 \mm só:n:maison
 \ps n
 \gf tas.d'arachides.en.fanes
 \gvf tas d'arachides en fanes
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgatulu
 \mm tìga:n:arachide
 \mm túlu:n:huile
-\va tìgɛ.tulu
+\va tìgɛtulu
 \mm tìgɛ:n:arachide
 \mm túlu:n:huile
 \ps n
 \gf huile.d'arachide
 \gvf huile d'arachide
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìgɛ
 \ps n
@@ -134171,11 +134225,12 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm bàna:n:maladie
 \ps n
 \gf lèpre/gangrène
-\gvf lèpre/gangrène
-\smf (maladie qui aboutit à l'amputation d'un membre : lèpre, gangrène ...)
+\gvf lèpre
+\gvf gangrène
+\smf (maladie qui aboutit à l'amputation d'un membre)
 \xv màa bɛ́ síran tìgɛlibana ɲɛ́
 \xf les gens ont peur de la lèpre
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tìgɛlima
 \ve (f)
@@ -134303,14 +134358,14 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm tìgi:n:maître
 \mm lá:pp:à
 \mm mɔ̀gɔ:n:homme
-\va tìgi.la.maa
+\va tìgilamaa
 \mm tìgi:n:maître
 \mm lá:pp:à
 \mm màa:n:homme
 \ps n
 \gf personne.de.sorte
 \gvf personne de sorte
-\dt 22/Nov/2012
+\dt 11/Apr/2019
 
 \lx tìgima
 \mm tìgi:n:maître
@@ -134361,15 +134416,15 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 26/Sep/2006
 
 \lx tìgiyalan
-\mm tìgi.ya:n:possession
-\mm tìgi:n:maître
-\mm ya:mrph:ABSTR
+\mm tìgiya:n:possession
+\mmm tìgi:n:maître
+\mmm ya:mrph:ABSTR
 \mm lan:mrph:INSTR
 \ps n
 \gf possessif
 \gvf possessif
 \smf (néo)
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx tìibitaaba
 \va tìbitaba
@@ -134446,26 +134501,21 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tíjani
 \bw ar: tijani = nom propre
 \ps n
+\gf tijani
 \ms 1
-\gf Tijani
-\gvf Tijani
-\smf (prénom d'homme)
-\ms 2
 \gvf "tijani"
 \smf (membre de la confrérie des "tijaniya" dont fit partie El Hadj Omar)
 \ms 3
 \gvf bonnet rond et haut
 \smf (comme celui du frère d'El Hadj Omar, Tijani)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tíjaniya
-\mm tíjani:n:Tijani
-\mm ya:mrph:ABSTR
 \ps n
 \gf Tidjaniyya
 \gvf Tidjaniyya
 \smf (confrérie musulmane d'A.N et d'A.O)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tíla
 \va tlá
@@ -134546,19 +134596,17 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tíla-ká-kɛ́nyɛ
 \mm tíla:v:diviser
 \mm kà:pm:INF
-\mm kɛ́n:vq:égal
-\mm yɛ:mrph:DEQU
-\va tlá-ká-kɛ́n.yɛ
+\mm kɛ́nyɛ:v:égaliser
+\va tlá-ká-kɛ́nyɛ
 \mm tlá:v:diviser
 \mm kà:pm:INF
-\mm kɛ́n:vq:égal
-\mm yɛ:mrph:DEQU
+\mm kɛ́nyɛ:v:égaliser
 \ph [tl]
 \ps n
 \gf milieu
 \gvf milieu
 \gvf division à parts égales
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tílalan
 \mm tíla:v:diviser
@@ -134579,7 +134627,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tílali
 \mm tíla:v:diviser
 \mm li:mrph:NMLZ
-\va tlá.li
+\va tláli
 \mm tlá:v:diviser
 \mm li:mrph:NMLZ
 \ph [tl]
@@ -134592,7 +134640,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \smf (d'obligations ...)
 \xv ní  ù tílara  ò tílali lá, ù bɛ́  bɛ́ɛ tá d'í mà
 \xf quand ils ont fini le partage, ils donnent à chacun sa part
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tílancɛ
 \mm tílan:v:diviser
@@ -134619,7 +134667,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tílata
 \mm tíla:v:diviser
 \mm tá:n:propriété
-\va tlá.ta
+\va tláta
 \mm tlá:v:diviser
 \mm tá:n:propriété
 \ph [tl]
@@ -134627,7 +134675,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf dividende
 \gvf dividende
 \smf (néologisme)
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx tílayɔrɔ
 \mm tíla:v:diviser
@@ -134669,7 +134717,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tìleba
 \mm tìle:n:soleil
 \mm ba:mrph:AUGM
-\va tlè.ba
+\va tlèba
 \mm tlè:n:soleil
 \mm ba:mrph:AUGM
 \ph [tleba]
@@ -134677,31 +134725,31 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf cigale
 \gvf cigale
 \sy tìlebajira
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìlebilen
 \mm tìle:n:soleil
-\mm bìlen:vq/adj:rouge
-\va tlè.blen
+\mm bìlen:adj:rouge
+\va tlèblen
 \mm tlè:n:soleil
-\mm blèn:vq/adj:rouge
+\mm blèn:adj:rouge
 \ph [tleblen]
 \ps n
 \gf fruit.qui.a.reçu.un.coup.de.soleil
 \gvf fruit qui a reçu un coup de soleil
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìlebin
 \mm tìle:n:soleil
 \mm bìn:v:tomber
-\va tlè.bin
+\va tlèbin
 \mm tlè:n:soleil
 \mm bìn:v:tomber
-\va tlè.bi
+\va tlèbi
 \mm tlè:n:soleil
 \mm bì:v:tomber
 \ph [tlebi]
-\va tìle.bi
+\va tìlebi
 \mm tìle:n:soleil
 \mm bì:v:tomber
 \ps n
@@ -134709,15 +134757,15 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf occident
 \gvf coucher du soleil
 \sy tìlebiyanfan
-\dt 08/Feb/2016
+\dt 11/Apr/2019
 
 \lx tìlebinda
-\mm tìle.bin:n:occident
+\mm tìlebin:n:occident
 \mm tìle:n:soleil
 \mm bìn:v:tomber
 \mm dá:n:bouche
-\va tlè.bin.da
-\mm tlè.bin:n:occident
+\va tlèbinda
+\mm tlèbin:n:occident
 \mm tlè:n:soleil
 \mm bìn:v:tomber
 \mm dá:n:bouche
@@ -134726,37 +134774,37 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf soir
 \gvf soir
 \gvf coucher du soleil
-\dt 01/Jun/2017
+\dt 11/Apr/2019
 
 \lx tìlebinyànfan
-\mm tìle.bin:n:occident
-\mm tìle:n:soleil
-\mm bìn:v:tomber
+\mm tìlebin:n:occident
+\mmm tìle:n:soleil
+\mmm bìn:v:tomber
 \mm yàn:n:ici
 \mm fàn:n:côté
 \va tìlebiyànfan
-\mm tìle.bi:n:occident
-\mm tìle:n:soleil
-\mm bì:v:tomber
+\mm tìlebi:n:occident
+\mmm tìle:n:soleil
+\mmm bì:v:tomber
 \mm yàn:n:ici
 \mm fàn:n:côté
-\va tlè.bin.yàn.fan
-\mm tlè.bin:n:occident
-\mm tlè:n:soleil
-\mm bìn:v:tomber
+\va tlèbinyànfan
+\mm tlèbin:n:occident
+\mmm tlè:n:soleil
+\mmm bìn:v:tomber
 \mm yàn:n:ici
 \mm fàn:n:côté
-\va tlè.bi.yàn.fan
-\mm tlè.bi:n:occident
-\mm tlè:n:soleil
-\mm bì:v:tomber
+\va tlèbiyàn.fan
+\mm tlèbi:n:occident
+\mmm tlè:n:soleil
+\mmm bì:v:tomber
 \mm yàn:n:ici
 \mm fàn:n:côté
 \ph [tl]
 \ps n
 \gf ouest
 \gvf ouest
-\dt 01/Jun/2017
+\dt 11/Apr/2019
 
 \lx tìlebɔtuma
 \mm tìle:n:soleil
@@ -134780,7 +134828,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \lx tìlegan
 \mm tìle:n:soleil
 \mm gàn:vq:chaud
-\va tìle.gwan
+\va tìlegwan
 \mm tìle:n:soleil
 \mm gwàn:vq:chaud
 \ph [tlegwan]
@@ -134789,18 +134837,18 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf grand soleil
 \smf (période la plus chaude de la journée, de midi à 14h)
 \sy tílegantuma
-\dt 17/May/2017
+\dt 11/Apr/2019
 
 \lx tìleganfɛsunɔgɔ
-\mm tìle.gan:n:grand.soleil
-\mm tìle:n:soleil
-\mm gàn:vq:chaud
+\mm tìlegan:n:grand.soleil
+\mmm tìle:n:soleil
+\mmm gàn:vq:chaud
 \mm fɛ̀:pp:par
 \mm sùnɔgɔ:n:sommeil
 \ps n
 \gf sieste
 \gvf sieste
-\dt 07/Feb/2016
+\dt 11/Apr/2019
 
 \lx tìlegankawuli
 \mm tìle:n:soleil
@@ -134827,15 +134875,15 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm tìle:n:soleil
 \mm lá:pp:à
 \mm fàna:n:repas
-\va tìle.rɔ.fana
+\va tìlerɔfana
 \mm tìle:n:soleil
 \mm rɔ́:pp:IN
 \mm fàna:n:repas
-\va tlè.la.fana
+\va tlèlafana
 \mm tlè:n:soleil
 \mm lá:pp:à
 \mm fàna:n:repas
-\va tlè.rɔ.fana
+\va tlèrɔfana
 \mm tlè:n:soleil
 \mm rɔ́:pp:IN
 \mm fàna:n:repas
@@ -134847,12 +134895,12 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf déjeuner
 \gvf déjeuner
 \gvf repas de midi
-\dt 11/Mar/2018
+\dt 11/Apr/2019
 
 \lx tìlema
 \mm tìle:n:soleil
 \mm ma:mrph:COM
-\va tlè.ma
+\va tlèma
 \mm tlè:n:soleil
 \mm ma:mrph:COM
 \ph [tl]
@@ -134863,37 +134911,37 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf passer la saison sèche
 \xv né tìlemana Bàmakɔ
 \xf j'ai passé la saison sèche à Bamako
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìlema
 \mm tìle:n:soleil
 \mm ma:mrph:COM
-\va tlè.ma
+\va tlèma
 \mm tlè:n:soleil
 \mm ma:mrph:COM
 \ph [tl]
 \ps n
 \gf saison.sèche
 \gvf saison sèche
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tìleminɛ
 \mm tìle:n:soleil
 \mm mìnɛ:v:attraper
-\va tlè.minɛ
+\va tlèminɛ
 \mm tlè:n:soleil
 \mm mìnɛ:v:attraper
-\va tlè.mina
+\va tlèmina
 \mm tlè:n:soleil
 \mm mìna:v:attraper
-\va tlè.mnɛ
+\va tlèmnɛ
 \mm tlè:n:soleil
 \mm mnɛ:v:attraper
 \ph [tlemnɛ]
 \ps n
 \gf parasol
 \gvf parasol
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìleminɛnan
 \mm tìle:n:soleil
@@ -134959,7 +135007,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm tílen:v:redresser
 \mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
-\va tlén.bali.ya
+\va tlénbaliya
 \mm tlén:v:redresser
 \mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
@@ -134967,24 +135015,24 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ps n
 \gf injustice
 \gvf injustice
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tílenbaliyako
-\mm tílen.bali.ya:n:injustice
-\mm tílen:v:redresser
-\mm bali:mrph:PTCP.NEG
-\mm ya:mrph:ABSTR
+\mm tílenbaliya:n:injustice
+\mmm tílen:v:redresser
+\mmm bali:mrph:PTCP.NEG
+\mmm ya:mrph:ABSTR
 \mm kó:n:affaire
 \ps n
 \gf injustice
 \gvf injustice
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx tílenbolokɔni
 \mm tílen:n:direction
 \mm bólo:n:bras
 \mm kɔni:n:doigt
-\va tlén.bolo.kɔni
+\va tlénbolokɔni
 \mm tlén:n:direction
 \mm bólo:n:bras
 \mm kɔni:n:doigt
@@ -134993,13 +135041,13 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf index
 \gvf index
 \sy jàasere
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx tílennenya
 \mm tílen:v:redresser
 \mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
-\va tlén.nen.ya
+\va tlénnenya
 \mm tlén:v:redresser
 \mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
@@ -135010,7 +135058,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf droiture
 \ms 2
 \gvf justice
-\dt 26/Mar/2014
+\dt 11/Apr/2019
 
 \lx tìlerɔ
 \mm tìle:n:soleil
@@ -135030,7 +135078,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm sé:v:arriver
 \mm kùn:n:tête
 \mm cɛ́:n:milieu
-\va tlè.se.kun.cɛ
+\va tlèsekuncɛ
 \mm tlè:n:soleil
 \mm sé:v:arriver
 \mm kùn:n:tête
@@ -135040,7 +135088,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf midi
 \gvf midi
 \smf (le soleil est au zénith)
-\dt 18/Apr/2014
+\dt 11/Apr/2019
 
 \lx tìlesenkuncɛ
 \mm tìle:n:soleil
@@ -135166,35 +135214,35 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 11/Feb/2017
 
 \lx tíminandiya
-\mm tími.nan.di:n:appliqué
-\mm tími:v:s'appliquer
-\mm nan:mrph:dans
-\mm dí:vq/adj:agréable
+\mm tíminandi:n:appliqué
+\mmm tími:v:s'appliquer
+\mmm nan:mrph:dans
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps n
 \gf bonne.application
 \gvf bonne application
 \xv ...kɛ́ ní  tíminandiya yé
 \xf s'ápplique à...
-\dt 11/Feb/2017
+\dt 11/Apr/2019
 
 \lx tíminandiya
-\mm tími.nan.di:n:appliqué
-\mm tími:v:s'appliquer
-\mm nan:mrph:dans
-\mm dí:vq/adj:agréable
+\mm tíminandi:n:appliqué
+\mmm tími:v:s'appliquer
+\mmm nan:mrph:dans
+\mmm dí:vq:agréable
 \mm ya:mrph:ABSTR
 \ps v
 \vl vr
 \gf s'appliquer.au.travail
 \gvf s'appliquer au travail
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tíminango
 \mm tími:v:s'appliquer
 \mm nan:mrph:dans
 \mm gó:vq:désagréable
-\va tími.nan.ko
+\va tíminanko
 \mm tími:v:s'appliquer
 \mm nan:mrph:dans
 \mm kó:vq:désagréable
@@ -135203,44 +135251,42 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf négligent
 \gvf négligent
 \gvf peu assidu
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tíminangoya
-\mm tími.nan.go:n:négligent
-\mm tími:v:s'appliquer
-\mm nan:mrph:dans
-\mm gó:vq:désagréable
+\mm tíminango:n:négligent
+\mmm tími:v:s'appliquer
+\mmm nan:mrph:dans
+\mmm gó:vq:désagréable
 \mm ya:mrph:ABSTR
-\va tími.nan.ko.ya
-\mm tími.nan.ko:n:négligent
-\mm tími:v:s'appliquer
-\mm nan:mrph:dans
-\mm kó:vq:désagréable
+\mm tíminanko:n:négligent
+\mmm tími:v:s'appliquer
+\mmm nan:mrph:dans
+\mmm kó:vq:désagréable
 \mm ya:mrph:ABSTR
 \ve (bn,f)
 \ps n
 \gf manque.d'assiduité
 \gvf manque d'assiduité
-\dt 15/Mar/2018
+\dt 11/Apr/2019
 
 \lx tíminangoya
-\mm tími.nan.go:n:négligent
-\mm tími:v:s'appliquer
-\mm nan:mrph:dans
-\mm gó:vq:désagréable
+\mm tíminango:n:négligent
+\mmm tími:v:s'appliquer
+\mmm nan:mrph:dans
+\mmm gó:vq:désagréable
 \mm ya:mrph:ABSTR
-\va tími.nan.ko.ya
-\mm tími.nan.ko:n:négligent
-\mm tími:v:s'appliquer
-\mm nan:mrph:dans
-\mm kó:vq:désagréable
+\mm tíminanko:n:négligent
+\mmm tími:v:s'appliquer
+\mmm nan:mrph:dans
+\mmm kó:vq:désagréable
 \mm ya:mrph:ABSTR
 \ve (bn,f)
 \ps v
 \vl vr/vi
 \gf manquer.d'assiduité
 \gvf manquer d'assiduité
-\dt 15/Mar/2018
+\dt 11/Apr/2019
 
 \lx tíminkàla
 \mm tími:vq:savoureux
@@ -135374,32 +135420,21 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 16/Aug/2006
 
 \lx tìndimijalan
-\mm tìn.dimi:n:douleurs.d'accouchement
-\mm tìn:n:douleurs.d'accouchement
-\mm dími:n:souffrance
+\mm tìndimi:n:douleurs.d'accouchement
+\mmm tìn:n:douleurs.d'accouchement
+\mmm dími:n:souffrance
 \mm jàlan:adj:sec
 \ps n
 \gf faux.travail
 \gvf faux travail
 \smf (douleur pelvienne simulant celle du travail)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tìngitanga
 \ps v
 \vl vi
 \gf tituber
 \gvf tituber
-\dt 26/Sep/2006
-
-\lx tìn-kà-dɔ́n
-\mm tìn:prt:PST
-\mm kà:pm:INF
-\mm dɔ́n:v:connaître
-\ps n
-\gf regret
-\gvf regret
-\xv né ká kɛ́len bɛ́ɛ tìn-kà-dɔ́n bɛ́ ń ná
-\xf je regrette tout ce que j'ai fait
 \dt 26/Sep/2006
 
 \lx tìnkon
@@ -135420,9 +135455,9 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 16/Aug/2006
 
 \lx tìnminɛmuso
-\mm tìn.minɛ:n:aide.à.l'accouchement
-\mm tìn:n:douleurs.d'accouchement
-\mm mìnɛ:v:attraper
+\mm tìnminɛ:n:aide.à.l'accouchement
+\mmm tìn:n:douleurs.d'accouchement
+\mmm mìnɛ:v:attraper
 \mm mùso:n:femme
 \ps n
 \gf sage-femme
@@ -135431,21 +135466,13 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf accoucheuse
 \sy tìnminɛna
 \sy mùsojiginna
-\dt 26/Sep/2006
-
-\lx tìn-nà-dɔ́n
-\mm tìn:prt:PST
-\mm nà:pm:CERT
-\mm dɔ́n:v:connaître
-\ps n
-\gf regret
-\gvf regret
+\dt 11/Apr/2019
 
 \lx tìnnamɔgɔ
 \mm tìn:n:compassion
 \mm ná:pp:à
 \mm mɔ̀gɔ:n:homme
-\va tìn.na.maa
+\va tìnnamaa
 \mm tìn:n:compassion
 \mm ná:pp:à
 \mm màa:n:homme
@@ -135453,7 +135480,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf ami.sûr
 \gvf ami sûr
 \gvf personne de confiance
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tínsan
 \ps n
@@ -135595,40 +135622,111 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xf ma voiture ne marche plus
 \dt 28/Nov/2018
 
-\lx tíɲɛnenya
+\lx tíɲɛda
 \mm tíɲɛ:v:gâter
+\mm dá:n:bouche
+\va tíyɛnda
+\mm tíyɛn:v:gâter
+\mm dá:n:bouche
+\va cɛ́nda
+\mm cɛ́n:v:gâter
+\mm dá:n:bouche
+\ph [cɛnda]
+\ps n
+\gf avarie
+\gvf avarie
+\gvf endroit détérioré
+\dt 11/Apr/2019
+
+\lx tìɲɛfɔla
+\mm tìɲɛ:n:vérité
+\mm fɔ́:v:dire
+\mm la:mrph:AG.PRM
+\va tìyɛnfɔla
+\mm tìyɛn:n:vérité
+\mm fɔ́:v:dire
+\mm la:mrph:AG.PRM
+\va cɛ̀nfɔla
+\mm cɛ̀n:n:vérité
+\mm fɔ́:v:dire
+\mm la:mrph:AG.PRM
+\ps n
+\gf personne.véridique
+\gvf personne véridique
+\dt 11/Apr/2019
+
+\lx tíɲɛlenya
+\mm tíɲɛ:v:gâter
+\mm len:mrph:PTCP.RES
+\mm ya:mrph:ABSTR
+\va tíɲɛnenya
+\mm tíɲɛ:v:gâter
+\mm nen:mrph:PTCP.RES
+\mm ya:mrph:ABSTR
+\va tíyɛnlenya
+\mm tíyɛn:v:gâter
+\mm len:mrph:PTCP.RES
+\mm ya:mrph:ABSTR
+\va cɛ́nlenya
+\mm cɛ́n:v:gâter
+\mm len:mrph:PTCP.RES
+\mm ya:mrph:ABSTR
+\va cɛ́nnenya
+\mm cɛ́n:v:gâter
 \mm nen:mrph:PTCP.RES
 \mm ya:mrph:ABSTR
 \ps n
 \gf mauvaise.éducation
 \gvf mauvaise éducation
 \gvf état de ce qui est gâté
-\dt 08/Aug/2016
+\dt 11/Apr/2019
+
+\lx tíɲɛni
+\mm tíɲɛ:v:gâter
+\mm ni:mrph:NMLZ
+\va tíɲɛli
+\mm tíɲɛ:v:gâter
+\mm li:mrph:NMLZ
+\va tíyɛnli
+\mm tíyɛn:v:gâter
+\mm li:mrph:NMLZ
+\va tíyɛnni
+\mm tíyɛn:v:gâter
+\mm ni:mrph:NMLZ
+\va cɛ́nni
+\mm cɛ́n:v:gâter
+\mm ni:mrph:NMLZ
+\ph [cɛnni]
+\ps n
+\gf dégâts
+\gvf dégâts
+\gvf dommage
+\dt 11/Apr/2019
 
 \lx tíɲɛnnikɛla
-\mm tíɲɛn:v:gâter
-\mm ni:mrph:NMLZ
-\mm kɛ́:v:faire
-\mm la:mrph:AG.PRM
-\mm ni:mrph:NMLZ
+\mm tíɲɛni:n:dégâts
+\mmm tíɲɛn:v:gâter
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \va tíyɛnnikɛla
-\mm tíyɛn.ni:n:dégâts
-\mm tíyɛn:v:gâter
-\va cɛ́n.ni.kɛ.la
-\mm cɛ́n.ni:n:dégâts
-\mm cɛ́n:v:gâter
-\mm ni:mrph:NMLZ
+\mm tíyɛnni:n:dégâts
+\mmm tíyɛn:v:gâter
+\mmm ni:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
-\ph [cɛn...]
+\va cɛ́nnikɛla
+\mm cɛ́nni:n:dégâts
+\mmm cɛ́n:v:gâter
+\mmm ni:mrph:NMLZ
+\mm kɛ́:v:faire
+\mm la:mrph:AG.PRM
 \ps n
 \gf bousilleur
 \gvf bousilleur
 \gvf saboteur
 \smf (personne qui gâte, fait échouer ...)
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx tìɲɛso
 \mm tìɲɛ:n:vérité
@@ -135640,26 +135738,58 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \smf (pour les défunts)
 \dt 12/Mar/2018
 
-\lx tìɲɛtigiya
+\lx tìɲɛtigi
 \mm tìɲɛ:n:vérité
-\mm tigi:n:maître
-\mm ya:mrph:ABSTR
-\ps v
-\vl vt
-\gf confirmer
-\gvf confirmer
-\gvf reconnaître pour vrai
-\gvf donner raison à
-\dt 06/Feb/2017
+\mm tìgi:n:maître
+\va tìyɛntigi
+\mm tìyɛn:n:vérité
+\mm tìgi:n:maître
+\va cɛ̀ntigi
+\mm cɛ̀n:n:vérité
+\mm tìgi:n:maître
+\ps n
+\gf personne.véridique
+\gvf personne véridique
+\smf (personne qui dit vrai, qui a raison)
+\dt 11/Apr/2019
 
 \lx tìɲɛtigiya
-\mm tìɲɛ:n:vérité
-\mm tigi:n:maître
+\mm tìɲɛtigi:n:personne.véridique
+\mmm tìɲɛ:n:vérité
+\mmm tigi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf confirmation
 \gvf confirmation
-\dt 06/Feb/2017
+\dt 11/Apr/2019
+
+\lx tìɲɛtigiya
+\mm tìɲɛtigi:n:personne.véridique
+\mmm tìɲɛ:n:vérité
+\mmm tigi:n:maître
+\mm ya:mrph:ABSTR
+\va tìyɛntigiya
+\mm tìyɛntigi:n:personne.véridique
+\mmm tìyɛn:n:vérité
+\mmm tigi:n:maître
+\mm ya:mrph:ABSTR
+\va cɛ̀ntigiya
+\mm cɛ̀ntigi:n:personne.véridique
+\mmm cɛ̀n:n:vérité
+\mmm tigi:n:maître
+\mm ya:mrph:ABSTR
+\ps v
+\gf donner.raison
+\ms 1
+\vl vt
+\gvf donner raison à
+\ms 2
+\vl vt
+\gvf reconnaître la véracité
+\ms 3
+\vl vt
+\gvf confirmer
+\dt 11/Apr/2019
 
 \lx tíri
 \ps n
@@ -135734,119 +135864,6 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf théâtre
 \gvf théâtre
 \dt 18/May/2017
-
-\lx tíyɛnda
-\mm tíyɛn:v:gâter
-\mm dá:n:bouche
-\va tíɲɛ.da
-\mm tíɲɛ:v:gâter
-\mm dá:n:bouche
-\va cɛ́n.da
-\mm cɛ́n:v:gâter
-\mm dá:n:bouche
-\ph [cɛnda]
-\ps n
-\gf avarie
-\gvf avarie
-\gvf endroit détérioré
-\dt 26/Sep/2006
-
-\lx tìyɛnfɔla
-\mm tìyɛn:n:vérité
-\mm fɔ́:v:dire
-\mm la:mrph:AG.PRM
-\va tìɲɛ.fɔ.la
-\mm tìɲɛ:n:vérité
-\mm fɔ́:v:dire
-\mm la:mrph:AG.PRM
-\va cɛ̀n.fɔ.la
-\mm cɛ̀n:n:vérité
-\mm fɔ́:v:dire
-\mm la:mrph:AG.PRM
-\ph [cɛn...]
-\ps n
-\gf personne.véridique
-\gvf personne véridique
-\dt 16/Aug/2006
-
-\lx tíyɛnlenya
-\mm tíyɛn:v:gâter
-\mm len:mrph:PTCP.RES
-\mm ya:mrph:ABSTR
-\va tíɲɛ.len.ya
-\mm tíɲɛ:v:gâter
-\mm len:mrph:PTCP.RES
-\mm ya:mrph:ABSTR
-\va cɛ́n.len.ya
-\mm cɛ́n:v:gâter
-\mm len:mrph:PTCP.RES
-\mm ya:mrph:ABSTR
-\va cɛ́n.nen.ya
-\mm cɛ́n:v:gâter
-\mm nen:mrph:PTCP.RES
-\mm ya:mrph:ABSTR
-\ph [cɛn...]
-\ps n
-\gf mauvaise.éducation
-\gvf mauvaise éducation
-\dt 26/Sep/2006
-
-\lx tíyɛnli
-\mm tíyɛn:v:gâter
-\mm li:mrph:NMLZ
-\va tíyɛn.ni
-\mm tíyɛn:v:gâter
-\mm ni:mrph:NMLZ
-\va tíɲɛ.li
-\mm tíɲɛ:v:gâter
-\mm li:mrph:NMLZ
-\va cɛ́n.ni
-\mm cɛ́n:v:gâter
-\mm ni:mrph:NMLZ
-\ph [cɛnni]
-\ps n
-\gf dégâts
-\gvf dégâts
-\gvf dommage
-\dt 26/Sep/2006
-
-\lx tìyɛntigi
-\mm tìyɛn:n:vérité
-\mm tìgi:n:maître
-\va tìɲɛ.tigi
-\mm tìɲɛ:n:vérité
-\mm tìgi:n:maître
-\va cɛ̀n.tigi
-\mm cɛ̀n:n:vérité
-\mm tìgi:n:maître
-\ph [cɛntigi]
-\ps n
-\gf personne.véridique
-\gvf personne véridique
-\smf (personne qui dit vrai, qui a raison)
-\dt 26/Sep/2006
-
-\lx tìyɛntigiya
-\mm tìyɛn:n:vérité
-\mm tìgi:n:maître
-\mm ya:mrph:ABSTR
-\va tìɲɛ.tigi.ya
-\mm tìɲɛ:n:vérité
-\mm tìgi:n:maître
-\mm ya:mrph:ABSTR
-\va cɛ̀n.tigi.ya
-\mm cɛ̀n:n:vérité
-\mm tìgi:n:maître
-\mm ya:mrph:ABSTR
-\ph [cɛn...]
-\ps v
-\vl vt
-\ms 1
-\gf donner.raison
-\gvf donner raison
-\ms 2
-\gvf reconnaître la véracité
-\dt 16/Aug/2006
 
 \lx tò
 \fq r
@@ -135947,38 +135964,38 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \dt 16/Aug/2006
 
 \lx tóbilikɛdibi
-\mm tóbi.li:n:cuisine
-\mm tóbi:v:cuire
-\mm li:mrph:NMLZ
+\mm tóbili:n:cuisine
+\mmm tóbi:v:cuire
+\mmm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm díbi:n:four
 \ps n
 \gf foyer.amélioré
 \gvf foyer amélioré
 \gvf four de cuisine
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tóbilikɛla
-\mm tóbi.li:n:cuisine
-\mm tóbi:v:cuire
-\mm li:mrph:NMLZ
+\mm tóbili:n:cuisine
+\mmm tóbi:v:cuire
+\mmm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf cuisinière
 \gvf cuisinière
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tóbilinin
-\mm tóbi.li:n:cuisine
-\mm tóbi:v:cuire
-\mm li:mrph:NMLZ
+\mm tóbili:n:cuisine
+\mmm tóbi:v:cuire
+\mmm li:mrph:NMLZ
 \mm nin:mrph:DIM
 \ps n
 \gf dînette
 \gvf dînette
 \smf (jeu d'enfant)
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx tòbiɲɛ
 \mm tò:n:“tô”
@@ -136043,9 +136060,9 @@ obtenir ce qu'on demande, par exemple : la main de la fille )
 \dt 16/Aug/2006
 
 \lx tógodalamɔgɔ
-\mm tógo.da:n:hameau
-\mm tógo:n:hutte
-\mm dá:n:bouche
+\mm tógoda:n:hameau
+\mmm tógo:n:hutte
+\mmm dá:n:bouche
 \mm lá:pp:à
 \mm mɔ̀gɔ:n:homme
 \ps n
@@ -136054,7 +136071,7 @@ obtenir ce qu'on demande, par exemple : la main de la fille )
 \xv ń'í y'á yé fànga dɔ́ɔnin bɛ́ bálikukalan ná, ò bɔ́ra tógodalamɔgɔ lá
 \xf si l'on constate que l'alphabétisation a quelque importance, elle
 est due aux paysans (kib 3/05 p.9)
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx tógofà
 \ps n
@@ -136365,13 +136382,13 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tònsobilennin
 \mm tònso:n:chauve-souris
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \mm nin:mrph:DIM
 \ps n
 \gf épomophore.de.Gambie
 \gvf épomophore de Gambie
 \lat Epomophorus gambianus
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tònsojuru
 \mm tònso:n:placenta
@@ -136423,14 +136440,14 @@ est due aux paysans (kib 3/05 p.9)
 \dt 16/Aug/2006
 
 \lx tóntigiya
-\mm tón.tigi:n:noble
-\mm tón:n:carquois
-\mm tìgi:n:maître
+\mm tóntigi:n:noble
+\mmm tón:n:carquois
+\mmm tìgi:n:maître
 \mm ya:mrph:ABSTR
 \ps n
 \gf fétichisme
 \gvf fétichisme
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tòntogo
 \ps n
@@ -136572,10 +136589,10 @@ est due aux paysans (kib 3/05 p.9)
 \dt 16/Aug/2006
 
 \lx tòsiradunbonsi
-\mm tò.si.ra:n:reste.du.souper
-\mm tò:n:“to”
-\mm sì:v:passer.la.nuit
-\mm ra:mrph:PFV.INTR
+\mm tòsira:n:reste.du.souper
+\mmm tò:n:“to”
+\mmm sì:v:passer.la.nuit
+\mmm ra:mrph:PFV.INTR
 \mm dún:v:manger
 \mm bòn:n:menton
 \mm sí:n:poil
@@ -136585,7 +136602,7 @@ est due aux paysans (kib 3/05 p.9)
 \gvf barbe précoce
 \ms 2
 \gvf barbu
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tòta
 \ps n
@@ -136695,13 +136712,13 @@ est due aux paysans (kib 3/05 p.9)
 \mm tɔ̀gɔ:n:hanche
 \mm kólo:n:os
 \mm dími:n:souffrance
-\va twà.dimi
+\va twàdimi
 \mm twà:n:hanche
 \mm dími:n:souffrance
 \ps n
 \gf coxalgie
 \gvf coxalgie
-\dt 27/Mar/2019
+\dt 11/Apr/2019
 
 \lx tɔ̀gɔfɛbila
 \mm tɔ̀gɔ:n:hanche
@@ -136724,40 +136741,40 @@ est due aux paysans (kib 3/05 p.9)
 \lx tɔ̀gɔkelen
 \mm tɔ̀gɔ:n:hanche
 \mm kélen:num:un
-\va twà.kelen
+\va twàkelen
 \mm twà:n:hanche
 \mm kélen:num:un
 \ps adj/n
 \gf déhanché
 \gvf déhanché
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tɔ̀gɔkun
 \mm tɔ̀gɔ:n:hanche
 \mm kùn:n:tête
-\va twà.kun
+\va twàkun
 \mm twà:n:hanche
 \mm kùn:n:tête
 \ps n
 \gf articulation.de.la.hanche
 \gvf articulation de la hanche
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tɔ̀gɔkunkolo
-\mm tɔ̀gɔ.kun:n:articulation.de.la.hanche
-\mm tɔ̀gɔ:n:hanche
-\mm kùn:n:tête
+\mm tɔ̀gɔkun:n:articulation.de.la.hanche
+\mmm tɔ̀gɔ:n:hanche
+\mmm kùn:n:tête
 \mm kólo:n:os
-\va twà.kun.kolo
-\mm twà.kun:n:articulation.de.la.hanche
-\mm twà:n:hanche
-\mm kùn:n:tête
+\va twàkunkolo
+\mm twàkun:n:articulation.de.la.hanche
+\mmm twà:n:hanche
+\mmm kùn:n:tête
 \mm kólo:n:os
 \ps n
 \gf os.du.bassin
 \gvf os du bassin
 \gvf os iliaque
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tɔ́gɔladon
 \mm tɔ́gɔ:n:nom
@@ -136813,13 +136830,13 @@ est due aux paysans (kib 3/05 p.9)
 \dt 06/Nov/2014
 
 \lx tɔ́gɔntanya
-\mm tɔ́gɔ.ntan:adj:anonyme
-\mm tɔ́gɔ:n:nom
-\mm ntan:mrph:PRIV
+\mm tɔ́gɔntan:adj:anonyme
+\mmm tɔ́gɔ:n:nom
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \va twántanya
-\mm twá:n:nom
-\mm ntan:mrph:PRIV
+\mmm twá:n:nom
+\mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \ms 1
@@ -136828,7 +136845,7 @@ est due aux paysans (kib 3/05 p.9)
 \gvf absence de nom
 \ms 2
 \gvf manque de renommée
-\dt 06/Nov/2014
+\dt 11/Apr/2019
 
 \lx tɔ́gɔɲini
 \mm tɔ́gɔ:n:nom
@@ -136881,12 +136898,12 @@ est due aux paysans (kib 3/05 p.9)
 \sy tɔ́gɔma
 \dt 06/Nov/2014
 
-\lx tɔ́gɔtiyɛn
-\mm tɔ́gɔ:n:nom
-\mm tíyɛn:v:gâter
-\va tɔ́gɔ.tiɲɛ
+\lx tɔ́gɔtiɲɛ
 \mm tɔ́gɔ:n:nom
 \mm tíɲɛ:v:gâter
+\va tɔ́gɔtiyɛn
+\mm tɔ́gɔ:n:nom
+\mm tíyɛn:v:gâter
 \va tɔ́gɔ.cɛn
 \mm tɔ́gɔ:n:nom
 \mm cɛ́n:v:gâter
@@ -136900,7 +136917,7 @@ est due aux paysans (kib 3/05 p.9)
 \gf dénigrement
 \gvf dénigrement
 \smf (par médisance ou calomnie)
-\dt 06/Nov/2014
+\dt 11/Apr/2019
 
 \lx tɔ̀gɔtɔgɔnin
 \mm nin:mrph:DIM
@@ -136955,10 +136972,11 @@ est due aux paysans (kib 3/05 p.9)
 \dt 17/Apr/2016
 
 \lx tɔ́li
+\bw fr. tôle
 \ps n
 \gf tôle
 \gvf tôle
-\dt 20/Feb/2013
+\dt 11/Apr/2019
 
 \lx tɔ̀lɔ
 \va tlɔ̀
@@ -137112,14 +137130,14 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tɔ́nboloma
 \mm tɔ́n:n:société
-\mm bólo.ma:n:intermédiaire
-\mm bólo:n:bras
-\mm ma:mrph:COM
+\mm bóloma:n:intermédiaire
+\mmm bólo:n:bras
+\mmm ma:mrph:COM
 \ps n
 \gf messager.d'association
 \gvf messager d'association
 \sy tɔ́njeli
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tɔ́nden
 \mm tɔ́n:n:société
@@ -137160,10 +137178,12 @@ est due aux paysans (kib 3/05 p.9)
 \dt 16/Aug/2006
 
 \lx tɔ́njɔn
+\mm tɔ́n:n:société
+\mm jɔ̀n:n:esclave
 \ps n
 \gf captif.de.la.couronne
 \gvf captif de la couronne
-\dt 10/Apr/2014
+\dt 11/Apr/2019
 
 \lx tɔ́nkalannin
 \mm tɔ́n:n:radicelles
@@ -137202,12 +137222,13 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tɔ́nkuntigi
 \mm tɔ́n:n:société
-\mm kùn:n:tête
-\mm tìgi:n:maître
+\mm kùntigi:n:chef
+\mmm kùn:n:tête
+\mmm tìgi:n:maître
 \ps n
 \gf président.d'association
 \gvf président d'association
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tɔ̀nɔ
 \ps n
@@ -137270,30 +137291,32 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tɔ̀nɔmada
 \mm tɔ̀nɔ:n:gain
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
 \ps n
 \gf gage
 \gvf gage
 \xv Ní í yé í mɔ̀gɔɲɔgɔn dɔ́ ká dùlɔkiba mínɛ tɔ̀nɔmada yé...é 22, 25)
 \xf Si tu prends en gage le manteau de qqn ...
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx tɔ̀nɔmadá
 \mm tɔ̀nɔ:n:gain
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
 \va tnɔ̀màdá
 \mm tnɔ̀:n:gain
-\mm mà:mrph:SUPER
-\mm dá:v:poser
-\ph [tnɔ]
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
 \ps v
 \vl vt
 \gf mettre.en.gage
 \gvf mettre en gage
 \smf (même ses enfants)
-\dt 14/Apr/2018
+\dt 11/Apr/2019
 
 \lx tɔ́nɔmi
 \va tnɔ́mi
@@ -137415,7 +137438,7 @@ est due aux paysans (kib 3/05 p.9)
 \lx tɔ̀ɲɔgɔnkɛ
 \mm tɔ̀ɲɔgɔn:n:camarade
 \mm kɛ:adj:mâle
-\va tɔ̀ɲɔɔn.kɛ
+\va tɔ̀ɲɔɔnkɛ
 \mm tɔ̀ɲɔɔn:n:camarade
 \mm kɛ:adj:mâle
 \ps n
@@ -137423,7 +137446,7 @@ est due aux paysans (kib 3/05 p.9)
 \gvf camarade
 \gvf compagnon
 \gvf copain
-\dt 07/Dec/2014
+\dt 11/Apr/2019
 
 \lx tɔ̀ɲɔgɔnma
 \mm tɔ̀ɲɔgɔn:n:camarade
@@ -137452,13 +137475,13 @@ est due aux paysans (kib 3/05 p.9)
 \lx tɔ̀ɲɔgɔnya
 \mm tɔ̀ɲɔgɔn:n:camarade
 \mm ya:mrph:ABSTR
-\va tɔ̀.ɲɔɔn.ya
+\va tɔ̀ɲɔɔnya
 \mm tɔ̀ɲɔɔn:n:camarade
 \mm ya:mrph:ABSTR
 \ps n
 \gf camaraderie
 \gvf camaraderie
-\dt 07/Dec/2014
+\dt 11/Apr/2019
 
 \lx tɔ́ɔrɔ
 \ps n
@@ -137703,12 +137726,12 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx tùbabufin
 \mm tùbabu:n:Européen
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf noir.européanisé
 \gvf noir européanisé
 \smf (noir qui a adopté bien des comportements d'européen)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tùbabujaba
 \mm tùbabu:n:Européen
@@ -137728,15 +137751,15 @@ est due aux paysans (kib 3/05 p.9)
 \dt 26/Sep/2006
 
 \lx tùbabukanfɔla
-\mm tùbabu.kan:n:langue.française
-\mm tùbabu:n:Européen
+\mm tùbabukan:n:langue.française
+\mmm tùbabu:n:Européen
 \mm kán:n:cou
 \mm fɔ́:v:dire
 \mm la:mrph:AG.PRM
 \ps n
 \gf francophone
 \gvf francophone
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx tùbabukɔɔri
 \mm tùbabu:n:Européen
@@ -138059,13 +138082,12 @@ est due aux paysans (kib 3/05 p.9)
 
 \lx túgunni
 \va túguni
-\mm ni:prep/conj:et
 \ps adv
 \gf encore
 \gvf encore
 \xv dénnin nàna ní  dúmuni yé túgunni
 \xf la jeune fille a de nouveau apporté de la nourriture
-\dt 08/Apr/2015
+\dt 11/Apr/2019
 
 \lx tùgusɔn
 \mm tùgu:n:bras
@@ -138128,16 +138150,16 @@ est due aux paysans (kib 3/05 p.9)
 \lx túlobo
 \mm túlo:n:oreille
 \mm bò:n:excrément
-\va tló.bo
+\va tlóbo
 \mm tló:n:oreille
 \mm bò:n:excrément
 \ph [tl]
 \ps n
 \gf cérumen
 \gvf cérumen
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
-\lx túlobɔ́ńyɛ́rɛlɔ́
+\lx túlobɔnyɛrɛlɔ
 \mm túlo:n:oreille
 \mm bɔ́:v:sortir
 \mm ń:pers:1SG
@@ -138147,7 +138169,7 @@ est due aux paysans (kib 3/05 p.9)
 \gf cuiller.en.bois
 \gvf cuiller en bois
 \sy sònkala
-\dt 28/Feb/2017
+\dt 11/Apr/2019
 
 \lx túlobu
 \mm túlo:n:oreille
@@ -138160,31 +138182,31 @@ est due aux paysans (kib 3/05 p.9)
 \lx túlodimi
 \mm túlo:n:oreille
 \mm dími:n:souffrance
-\va tló.dimi
+\va tlódimi
 \mm tló:n:oreille
 \mm dími:n:souffrance
 \ph [tl]
 \ps n
 \gf otite
 \gvf otite
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx túlofura
 \mm túlo:n:oreille
 \mm fúra:n:feuille
-\va tló.fura
+\va tlófura
 \mm tló:n:oreille
 \mm fúra:n:feuille
 \ph [tl]
 \ps n
 \gf pavillon.d'oreille
 \gvf pavillon d'oreille
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx túlogeren
 \mm túlo:n:oreille
 \mm géren:adj:bouché
-\va tló.gweren
+\va tlógweren
 \mm tló:n:oreille
 \mm gwéren:adj:bouché
 \ph [tlogweren]
@@ -138192,23 +138214,23 @@ est due aux paysans (kib 3/05 p.9)
 \gf sourd
 \gvf sourd
 \gvf mal entendant
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx túlogerenya
-\mm túlo.geren:adj/n:sourd
-\mm túlo:n:oreille
-\mm géren:adj:bouché
+\mm túlogeren:adj:sourd
+\mmm túlo:n:oreille
+\mmm géren:adj:bouché
 \mm ya:mrph:ABSTR
-\va tló.gweren.ya
-\mm tló.gweren:adj/n:sourd
-\mm tló:n:oreille
-\mm gwéren:adj:bouché
+\va tlógwerenya
+\mm tlógweren:adj/n:sourd
+\mmm tló:n:oreille
+\mmm gwéren:adj:bouché
 \mm ya:mrph:ABSTR
 \ph [tlogwerenya]
 \ps n
 \gf surdité
 \gvf surdité
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx túlojalandimi
 \mm túlo:n:oreille
@@ -138223,7 +138245,7 @@ est due aux paysans (kib 3/05 p.9)
 \mm túlo:n:oreille
 \mm kɔ́nɔ:n:ventre
 \mm na:mrph:LOC
-\va tló.kɔnɔ.na
+\va tlókɔnɔna
 \mm tló:n:oreille
 \mm kɔ́nɔ:n:ventre
 \mm na:mrph:LOC
@@ -138231,7 +138253,7 @@ est due aux paysans (kib 3/05 p.9)
 \ps n
 \gf intérieur.de.l'oreille
 \gvf intérieur de l'oreille
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx túlokɔnɔsima
 \mm túlo:n:oreille
@@ -138260,21 +138282,23 @@ est due aux paysans (kib 3/05 p.9)
 \dt 26/Sep/2006
 
 \lx túlokɔrɔcipɛ
-\mm túlo.kɔrɔ.ci:n:herbe.crotalaire
-\mm túlo:n:oreille
-\mm kɔ́rɔ:pp:sous
-\mm cì:v:frapper
+\mm túlokɔrɔci:n:herbe.crotalaire
+\mmm túlo:n:oreille
+\mmm kɔ́rɔ:pp:sous
+\mmm cì:v:frapper
 \ps n
 \gf herbe.crotalaire
 \gvf herbe crotalaire
 \smf (plante herbacée)
 \lat Crotalaria sp.
+\dt 11/Apr/2019
 
 \lx túlokɔrɔdiya
 \mm túlo:n:oreille
 \mm kɔ́rɔ:pp:sous
-\mm dí:vq/adj:agréable
-\mm ya:mrph:DEQU
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf amadouer
@@ -138283,13 +138307,13 @@ est due aux paysans (kib 3/05 p.9)
 \xv gófɛrɛnama yé sɛ̀nɛkɛla túlokɔrɔdiya, kà à má nà ní ángɛrɛ
 yé
 \xf Le gouvernement a dit de belles paroles aux paysans mais il n'a pas apporté l'engrais (kb 10/05 p.7)
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx túlokɔrɔfɛlɛfɛlɛ
 \mm túlo:n:oreille
 \mm kɔ́rɔ:n:dessous
 \mm fɛ́lɛfɛlɛ:n:eventail
-\va tló.kɔrɔ.fɛlɛfɛlɛ
+\va tlókɔrɔfɛlɛfɛlɛ
 \mm tló:n:oreille
 \mm kɔ́rɔ:n:dessous
 \mm fɛ́lɛfɛlɛ:n:eventail
@@ -138297,13 +138321,13 @@ yé
 \ps n
 \gf lobe.d'oreille
 \gvf lobe d'oreille
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx túlokɔrɔgàn
 \mm túlo:n:oreille
 \mm kɔ́rɔ:n:dessous
 \mm gàn:v:chauffer
-\va tló.kɔrɔ.gàn
+\va tlókɔrɔgàn
 \mm tló:n:oreille
 \mm kɔ́rɔ:n:dessous
 \mm gàn:v:chauffer
@@ -138314,13 +138338,13 @@ yé
 \gvf assourdir
 \gvf casser les oreilles
 \sy túlokɔrɔlagan
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx túlokɔrɔju
 \mm túlo:n:oreille
 \mm kɔ́rɔ:pp:sous
 \mm jù:n:derrière
-\va tló.kɔrɔ.ju
+\va tlókɔrɔju
 \mm tló:n:oreille
 \mm kɔ́rɔ:pp:sous
 \mm jù:n:derrière
@@ -138329,12 +138353,12 @@ yé
 \gf sous.oreille
 \gvf sous oreille
 \smf (qui remue quand on mâche)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx túlokun
 \mm túlo:n:oreille
 \mm kùn:n:tête
-\va tló.kun
+\va tlókun
 \mm tló:n:oreille
 \mm kùn:n:tête
 \ph [tl]
@@ -138343,26 +138367,26 @@ yé
 \gvf docilité
 \xv à túlokun ká gɛ̀lɛn
 \xf il est têtu
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx túlokurun
 \mm túlo:n:oreille
-\mm kùrun:vq/adj:court
-\va tló.kurun
+\mm kùrun:adj:court
+\va tlókurun
 \mm tló:n:oreille
-\mm kùrun:vq/adj:court
+\mm kùrun:adj:court
 \ph [tl]
 \ps n
 \gf moignon.d'oreille
 \gvf moignon d'oreille
 \smf (se dit des chiens dont on a coupé le bout des oreilles)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx túloladon
 \mm túlo:n:oreille
 \mm lá:pp:à
 \mm dòn:v:entrer
-\va tló.la.don
+\va tlóladon
 \mm tló:n:oreille
 \mm lá:pp:à
 \mm dòn:v:entrer
@@ -138370,13 +138394,13 @@ yé
 \ps n
 \gf boucle.d'oreille
 \gvf boucle d'oreille
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx túlolanɛgɛ
 \mm túlo:n:oreille
 \mm lá:pp:à
 \mm nɛ̀gɛ:n:fer
-\va tló.la.nɛgɛ
+\va tlólanɛgɛ
 \mm tló:n:oreille
 \mm lá:pp:à
 \mm nɛ̀gɛ:n:fer
@@ -138384,13 +138408,13 @@ yé
 \ps n
 \gf boucle.d'oreille.métallique
 \gvf boucle d'oreille métallique
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx túlolasanu
 \mm túlo:n:oreille
 \mm lá:pp:à
 \mm sánu:n:or
-\va tló.la.sanu
+\va tlólasanu
 \mm tló:n:oreille
 \mm lá:pp:à
 \mm sánu:n:or
@@ -138398,7 +138422,7 @@ yé
 \ps n
 \gf boucle.d'oreille.en.or
 \gvf boucle d'oreille en or
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx túloma
 \mm túlo:n:oreille
@@ -138421,13 +138445,13 @@ yé
 \lx túlomada
 \mm túlo:n:oreille
 \mm màda:v:incliner
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
 \ps v
 \gf bien.écouter
 \gvf bien écouter
 \gvf prêter attention
-\dt 29/Mar/2014
+\dt 11/Apr/2019
 
 \lx túlomagɛlɛn
 \mm túlo:n:oreille
@@ -138448,14 +138472,16 @@ yé
 \dt 23/Mar/2015
 
 \lx túlomagɛlɛya
-\mm túlo:n:oreille
-\mm mà:pp:ADR
-\mm gɛ̀lɛ:vq/adj:dur
+\mm túlomagɛlɛn:adj:entêté
+\mmm túlo:n:oreille
+\mmm mà:pp:ADR
+\mmm gɛ̀lɛ:adj:dur
 \mm ya:mrph:ABSTR
-\va túlo.ma.gwɛlɛ.ya
-\mm túlo:n:oreille
-\mm mà:pp:ADR
-\mm gwɛ̀lɛ:vq/adj:dur
+\va túlomagwɛlɛya
+\mm túlomagwɛlɛn:adj:entêté
+\mmm túlo:n:oreille
+\mmm mà:pp:ADR
+\mmm gwɛ̀lɛ:adj:dur
 \mm ya:mrph:ABSTR
 \ph [gw]
 \ps n
@@ -138464,26 +138490,29 @@ yé
 \gvf rébellion
 \gvf désobéissance
 \rem Jos
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx túlomajɔ
 \mm túlo:n:oreille
-\mm mà:mrph:SUPER
-\mm jɔ̀:v:dresser
+\mm màjɔ̀:v:mettre.droit
+\mmm mà:mrph:SUPER
+\mmm jɔ̀:v:dresser
 \ps n
 \gf fait.d'écouter
 \gvf fait d'écouter
 \gvf attention
-\dt 28/Feb/2017
+\dt 11/Apr/2019
 
 \lx túlomàjɔ
 \mm túlo:n:oreille
-\mm mà:mrph:SUPER
-\mm jɔ̀:v:dresser
-\va tló.mà.jɔ
+\mm màjɔ̀:v:mettre.droit
+\mmm mà:mrph:SUPER
+\mmm jɔ̀:v:dresser
+\va tlómàjɔ
 \mm tló:n:oreille
-\mm mà:mrph:SUPER
-\mm jɔ̀:v:dresser
+\mm màjɔ̀:v:mettre.droit
+\mmm mà:mrph:SUPER
+\mmm jɔ̀:v:dresser
 \ph [tl]
 \ps v
 \vl vr
@@ -138493,43 +138522,51 @@ yé
 \gvf dresser l'oreille
 \xv à b'í túlomajɔ  ò fɛ̀
 \xf il l'écoute bien
-\dt 01/Mar/2017
+\dt 11/Apr/2019
 
 \lx túlomajɔbali
-\mm túlo:n:oreille
-\mm mà:mrph:SUPER
-\mm jɔ̀:v:dresser
+\mm túlomàjɔ:v:écouter
+\mmm túlo:n:oreille
+\mmm màjɔ̀:v:mettre.droit
+\mmmm mà:mrph:SUPER
+\mmmm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.NEG
-\va tló.ma.jɔ.bali
-\mm tló:n:oreille
-\mm mà:mrph:SUPER
-\mm jɔ̀:v:dresser
+\va tlómajɔbali
+\mm tlómàjɔ:v:écouter
+\mmm tló:n:oreille
+\mmm màjɔ̀:v:mettre.droit
+\mmmm mà:mrph:SUPER
+\mmmm jɔ̀:v:dresser
 \mm bali:mrph:PTCP.NEG
 \ph [tl]
 \ps ptcp
 \gf inattentif
 \gvf inattentif
-\dt 01/Mar/2017
+\dt 11/Apr/2019
 
 \lx túlomajɔbaliya
 \mm túlomajɔbali:ptcp:inattentif
-\mm túlo:n:oreille
-\mm mà:mrph:SUPER
-\mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.NEG
+\mmm túlomàjɔ:v:écouter
+\mmmm túlo:n:oreille
+\mmmmm màjɔ̀:v:mettre.droit
+\mmmmm mà:mrph:SUPER
+\mmmmm jɔ̀:v:dresser
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \va tlómajɔbaliya
 \mm tlómajɔbali:ptcp:inattentif
-\mm tló:n:oreille
-\mm mà:mrph:SUPER
-\mm jɔ̀:v:dresser
-\mm bali:mrph:PTCP.NEG
+\mmm tlómàjɔ:v:écouter
+\mmmm tló:n:oreille
+\mmmmm màjɔ̀:v:mettre.droit
+\mmmmm mà:mrph:SUPER
+\mmmmm jɔ̀:v:dresser
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ph [tl]
 \ps n
 \gf inattention
 \gvf inattention
-\dt 01/Mar/2017
+\dt 11/Apr/2019
 
 \lx túlomalale
 \mm túlo:n:oreille
@@ -138551,12 +138588,14 @@ yé
 
 \lx túlomasama
 \mm túlo:n:oreille
-\mm mà:pp:ADR
-\mm sàma:v:tirer.à.soi
-\va tló.ma.sama
+\mm màsàma:v:attirer
+\mmm mà:mrph:SUPER
+\mmm sàma:v:tirer.à.soi
+\va tlóma.sama
 \mm tló:n:oreille
-\mm mà:pp:ADR
-\mm sàma:v:tirer.à.soi
+\mm màsàma:v:attirer
+\mmm mà:mrph:SUPER
+\mmm sàma:v:tirer.à.soi
 \ph [tl]
 \ps n
 \ms 1
@@ -138568,7 +138607,7 @@ yé
 \gvf bisaïeul
 \gvf bisaïeule
 \gvf bisaïeule
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx túlominɛ
 \mm túlo:n:oreille
@@ -138576,7 +138615,7 @@ yé
 \va túlomina
 \mm túlo:n:oreille
 \mm mìna:v:attraper
-\va tló.minɛ
+\va tlóminɛ
 \mm tló:n:oreille
 \mm mìnɛ:v:attraper
 \ph [tl]
@@ -138591,7 +138630,7 @@ yé
 \xv háli ní  à mɔ̀kɛ sàlen tɛ́, í ń'á sɔ̀rɔ : à túlominɛ sàlen dòn
 \xf même si son grand-père n'est pas mort, en tout cas son
 arrière grand-père est mort
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx túlon
 \va tlón
@@ -138643,53 +138682,59 @@ arrière grand-père est mort
 \dt 19/Mar/2018
 
 \lx túlonkɛden
-\mm túlon:n:jeu
-\mm kɛ́:v:faire
+\mm túlonkɛ:n:jeu
+\mmm túlon:n:jeu
+\mmm kɛ́:v:faire
 \mm dén:n:enfant
-\va tlón.kɛ.den
-\mm tlón:n:jeu
-\mm kɛ́:v:faire
+\va tlónkɛden
+\mm tlónkɛ:n:jeu
+\mmm tlón:n:jeu
+\mmm kɛ́:v:faire
 \mm dén:n:enfant
 \ph [tl]
 \ps n
 \gf bâtard
 \gvf bâtard
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx túlonkɛfɛn
-\mm túlon:n:jeu
-\mm kɛ́:v:faire
+\mm túlonkɛ:n:jeu
+\mmm túlon:n:jeu
+\mmm kɛ́:v:faire
 \mm fɛ́n:n:chose
-\va tlón.kɛ.fɛn
-\mm tlón:n:jeu
-\mm kɛ́:v:faire
+\va tlónkɛfɛn
+\mm tlónkɛ:n:jeu
+\mmm tlón:n:jeu
+\mmm kɛ́:v:faire
 \mm fɛ́n:n:chose
 \ph [tl]
 \ps n
 \gf jouet
 \gvf jouet
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx túlonkɛkuma
-\mm túlon:n:jeu
-\mm kɛ́:v:faire
+\mm túlonkɛ:n:jeu
+\mmm túlon:n:jeu
+\mmm kɛ́:v:faire
 \mm kúma:n:parole
-\va tlón.kɛ.kuma
-\mm tlón:n:jeu
-\mm kɛ́:v:faire
+\va tlónkɛkuma
+\mm tlónkɛ:n:jeu
+\mmm tlón:n:jeu
+\mmm kɛ́:v:faire
 \mm kúma:n:parole
 \ph [tl]
 \ps n
 \gf plaisanterie
 \gvf plaisanterie
 \sy túlonkuma
-\dt 15/Aug/2006
+\dt 11/Apr/2019
 
 \lx túlonkɛla
 \mm túlon:n:jeu
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
-\va tlón.kɛ.la
+\va tlónkɛla
 \mm tlón:n:jeu
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
@@ -138701,13 +138746,13 @@ arrière grand-père est mort
 \gvf plaisantin
 \ms 2
 \gvf débauché
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx túlonkɛlan
 \mm túlon:n:jeu
 \mm kɛ́:v:faire
 \mm lan:mrph:INSTR
-\va tlón.kɛ.lan
+\va tlónkɛlan
 \mm tlón:n:jeu
 \mm kɛ́:v:faire
 \mm lan:mrph:INSTR
@@ -138715,7 +138760,7 @@ arrière grand-père est mort
 \ps n
 \gf jouet
 \gvf jouet
-\dt 12/Aug/2006
+\dt 11/Apr/2019
 
 \lx túlonɔgɔ
 \mm túlo:n:oreille
@@ -138729,26 +138774,26 @@ arrière grand-père est mort
 \lx túlontɔgɔ
 \mm túlon:n:jeu
 \mm tɔ́gɔ:n:nom
-\va túlon.twa
+\va túlontwa
 \mm túlon:n:jeu
 \mm twá:n:nom
 \ps n
 \gf sobriquet
 \gvf sobriquet
 \rem f
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx túlowo
 \mm túlo:n:oreille
 \mm wò:n:trou
-\va tló.wo
+\va tlówo
 \mm tló:n:oreille
 \mm wò:n:trou
 \ph [tl]
 \ps n
 \gf cavité.d'oreille
 \gvf cavité d'oreille
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx tùlu
 \va tùru
@@ -138777,7 +138822,7 @@ arrière grand-père est mort
 \lx tùlukala
 \mm tùlu:n:huppe
 \mm kàla:n:tige
-\va tùru.kala
+\va tùrukala
 \mm tùru:n:huppe
 \mm kàla:n:tige
 \ps n
@@ -138787,11 +138832,11 @@ arrière grand-père est mort
 \ms 2
 \gvf antenne
 \smf (de sauterelle ...)
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx túlukuna
 \mm túlu:n:huile
-\mm kúna:vq:amer
+\mm kúna:adj:amer
 \ps n
 \gf arbre.Carapa.procera
 \gvf arbre Carapa procera
@@ -138799,7 +138844,7 @@ arrière grand-père est mort
 \sd méli
 \smf (fleurs en panicules pendants ---> 50 / 60 cm, graine : huile et savon)
 \sy kɔ̀bi
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx túluma
 \mm túlu:n:huile
@@ -138889,13 +138934,13 @@ arrière grand-père est mort
 \va súmɛ
 \ve (bk)
 \ve (-f)
-\bw ar: tum = id.
+\bw Ar. ɵu:m
 \ps n
 \gf ail
 \gvf ail
 \lat Allium sativum
 \sd lili
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx tùn
 \vc tìn
@@ -138935,7 +138980,7 @@ arrière grand-père est mort
 \mm túnga:n:pays.étranger
 \mm fɛ̀:pp:par
 \mm táa:n:départ
-\va túnga.fɛ.taga
+\va túngafɛtaga
 \mm túnga:n:pays.étranger
 \mm fɛ̀:pp:par
 \mm tága:n:départ
@@ -138945,14 +138990,14 @@ arrière grand-père est mort
 \gvf expatriation
 \xv ò dè kósɔn dénmisɛn bɛ́ k'ù ní fìli túngafɛtaa nɔ̀fɛ̀
 \xf c'est pourquoi les jeunes gens veulent à tout prix s'expatrier (Kb 10/06 p.3)
-\dt 05/Apr/2016
+\dt 11/Apr/2019
 
 \lx túngalataala
-\mm `túnga:n:pays.étranger
+\mm túnga:n:pays.étranger
 \mm lá:pp:à
 \mm táa:v:aller
 \mm la:mrph:AG.PRM
-\va túnga.fɛ.taa.la
+\va túngafɛtaala
 \mm túnga:n:pays.étranger
 \mm fɛ̀:pp:par
 \mm táa:v:aller
@@ -138963,21 +139008,21 @@ arrière grand-père est mort
 \sy túngalamɔgɔ
 \xv kúrun dáfirila ní túngalataala cáman yé
 \xf la barque s'est renversée avec beaucoup d'émigrés (kb 11/05 p.3)
-\dt 26/Nov/2018
+\dt 11/Apr/2019
 
 \lx túnga-ma-diya-n-na
 \mm túnga:n:pays.étranger
 \mm má:mp:PFV.NEG
 \mm díya:v:rendre.agréable
-\mm dí:vq:agréable
-\mm ya:mrph:DEQU
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \mm ń:pers:1SG
 \mm ná:pp:à
 \ps n
 \gf sac.en.plastique
 \gvf sac en plastique
 \smf (une espèce de)
-\dt 05/Feb/2017
+\dt 11/Apr/2019
 
 \lx túngarankɛ
 \mm túnga:n:pays.étranger
@@ -139076,26 +139121,26 @@ arrière grand-père est mort
 \mm tú:n:touffe
 \mm rɔ́:pp:IN
 \mm mìna:n:guib.harnaché
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf girafe
 \gvf girafe
 \lat Giraffa camelopardis
 \sy ntìlen
 \sy kúngoɲaamu
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx túrɔɲajan
 \mm tú:n:touffe
 \mm rɔ́:pp:IN
 \mm ɲà:n:python.royal
-\mm jàn:vq:long
+\mm jàn:adj:long
 \ps n
 \gf serpent.Dispholidus.typus
 \gvf serpent Dispholidus typus
 \smf (---> 1,75 m, arboricole, agressif, cou bien marqué, couleur vert olive, oeil très grand)
 \sy ɲàjan
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx tùru
 \ps n
@@ -139139,7 +139184,7 @@ responsabilité sur le dos de qqn')
 \lx túrukabala
 \mm túruka:n:Tourouka
 \mm bála:n:balafon
-\va túrka.bala
+\va túrkabala
 \mm túrka:n:Tourouka
 \mm bála:n:balafon
 \ph [turkabala]
@@ -139147,7 +139192,7 @@ responsabilité sur le dos de qqn')
 \gf balafon.sp
 \gvf balafon sp
 \sy bálanin
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx túruti
 \va túrti
@@ -139240,14 +139285,14 @@ responsabilité sur le dos de qqn')
 
 \lx tùtufin
 \mm tùtu:n:arbre.tutu.blanc
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf arbre.Parinari.polyandra
 \gvf arbre Parinari polyandra
 \smf (arbuste ou arbre ---> 7 m )
 \sd rosa
 \smf (fruit comestible)
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx tùtunin
 \mm tùtu:n:prostituée
@@ -139284,7 +139329,7 @@ responsabilité sur le dos de qqn')
 \lx túubibaa
 \mm túubi:v:convertir
 \mm baa:mrph:AG.OCC
-\va túubi.baga
+\va túubibaga
 \mm túubi:v:convertir
 \mm baga:mrph:AG.OCC
 \ps n
@@ -139299,7 +139344,7 @@ responsabilité sur le dos de qqn')
 \gvf convertisseur
 \smf (qui amène qn à se convertir)
 \rem Bz, Mol, b
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx túubiden
 \mm túubi:v:convertir
@@ -139420,7 +139465,7 @@ bruyants, près du sol, dans les fourrés)
 \lx wàaba
 \mm wàa:n:brousse
 \mm ba:mrph:AUGM
-\va wàga.ba
+\va wàgaba
 \mm wàga:n:brousse
 \mm ba:mrph:AUGM
 \ps n
@@ -139428,7 +139473,7 @@ bruyants, près du sol, dans les fourrés)
 \gvf herbe Andropogon gayanus
 \smf (grande herbe ---> 3 m)
 \sd gram
-\dt 19/Aug/2006
+\dt 11/Apr/2019
 
 \lx wáajibi
 \va wájibi
@@ -139461,7 +139506,7 @@ bruyants, près du sol, dans les fourrés)
 \lx wáajibiya
 \mm wáajibi:v:contraindre
 \mm ya:mrph:ABSTR
-\va wájibi.ya
+\va wájibiya
 \mm wáajibi:v:contraindre
 \mm ya:mrph:ABSTR
 \bw ar
@@ -139471,19 +139516,19 @@ bruyants, près du sol, dans les fourrés)
 \gvf contraindre
 \xv cí bɛ́  né kàn k'à fɔ́, cí tɛ́  né kàn  kà mɔ̀gɔ wáajibiya k'à kɛ́
 \xf c'est mon devoir de le dire, non de forcer les gens à le faire.
-\dt 06/Feb/2013
+\dt 11/Apr/2019
 
 \lx wàaju
 \mm wàa:n:brousse
 \mm jù:n:derrière
-\va wàga.ju
+\va wàgaju
 \mm wàga:n:brousse
 \mm jù:n:derrière
 \ps n
 \gf touffe.d’herbes
 \gvf touffe d’herbes
 \smf (grosse touffe de grande graminée)
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx wáaju
 \bw ar: wa`z = id.
@@ -139513,25 +139558,26 @@ bruyants, près du sol, dans les fourrés)
 \dt 11/Nov/2007
 
 \lx wáajulikɛla
-\mm wáaju.li:n:prêche
-\mm wáaju:v:exhorter
-\mm li:mrph:NMLZ
+\mm wáajuli:n:prêche
+\mmm wáaju:v:exhorter
+\mmm li:mrph:NMLZ
 \mm kɛ́:v:faire
 \mm la:mrph:AG.PRM
 \ps n
 \gf prédicateur
 \gvf prédicateur
+\dt 11/Apr/2019
 
 \lx wàakɛnɛ
 \mm wàa:n:brousse
 \mm kɛ́nɛ:n:clarté
-\va wàga.kɛnɛ
+\va wàgakɛnɛ
 \mm wàga:n:brousse
 \mm kɛ́nɛ:n:clarté
 \ps n
 \gf nouveau.champ
 \gvf nouveau champ
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx wàala
 \ps n
@@ -139579,13 +139625,11 @@ bruyants, près du sol, dans les fourrés)
 \dt 02/Mar/2019
 
 \lx wàanin
-\mm wàa:v:ouvrir.tout.grand
-\mm nin:mrph:DIM
 \ps n
 \gf escabeau
 \gvf escabeau
 \smf (aux pieds écartés, destiné aux hommes)
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx wàanso
 \ps n
@@ -139637,11 +139681,11 @@ bruyants, près du sol, dans les fourrés)
 \mm wàa:n:brousse
 \mm rɔ́:pp:IN
 \mm wòro:n:kola
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf chenille.comestible
 \gvf chenille comestible
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx wàasɛ
 \va wàsɛ
@@ -139689,10 +139733,10 @@ bruyants, près du sol, dans les fourrés)
 \ps n
 \gf décédé
 \gvf décédé
-\smf (personne dont) l'échéance (est arrivée)
+\smf (personne dont l'échéance est arrivée)
 \sy tùmase
 \rem l 89, Jos
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx wàga
 \va wàa
@@ -139735,13 +139779,13 @@ bruyants, près du sol, dans les fourrés)
 \lx wàgabɔ
 \mm wàga:n:brousse
 \mm bɔ̀:v:arracher
-\va wàa.bɔ
+\va wàabɔ
 \mm wàa:n:brousse
 \mm bɔ̀:v:arracher
 \ps n
 \gf défrichage
 \gvf défrichage
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx wàgande
 \ps n
@@ -140095,13 +140139,13 @@ planchette)
 \lx wáledafa
 \mm wále:n:acte
 \mm dáfa:n:complément
-\mm dá:n:bouche
-\mm fá:v:remplir
+\mmm dá:n:bouche
+\mmm fá:v:remplir
 \ps n
 \usf ling.
 \gf complément.d'objet
 \gvf complément d'objet
-\dt 11/Mar/2018
+\dt 11/Apr/2019
 
 \lx wáledɛmɛnan
 \mm wále:n:acte
@@ -140147,26 +140191,28 @@ planchette)
 \dt 16/Aug/2006
 
 \lx wáleɲumandɔnbali
-\mm wále.ɲuman.dɔn:v:avoir.gratitude
-\mm wále:n:acte
-\mm ɲùman:adj:bon
-\mm dɔ́n:v:connaître
+\mm wáleɲumandɔn:v:avoir.gratitude
+\mmm wále:n:acte
+\mmm ɲùman:adj:bon
+\mmm dɔ́n:v:connaître
 \mm bali:mrph:PTCP.NEG
 \ps ptcp
 \gf ingrat
 \gvf ingrat
+\dt 11/Apr/2019
 
 \lx wáleɲumandɔnbaliya
-\mm wále.ɲuman.dɔn.bali:ptcp:ingrat
-\mm wále.ɲuman.dɔn:v:avoir.gratitude
-\mm wále:n:acte
-\mm ɲùman:adj:bon
-\mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.NEG
+\mm wáleɲumandɔnbali:ptcp:ingrat
+\mmm wáleɲumandɔn:v:avoir.gratitude
+\mmmm wále:n:acte
+\mmmm ɲùman:adj:bon
+\mmmm dɔ́n:v:connaître
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf ingratitude
 \gvf ingratitude
+\dt 11/Apr/2019
 
 \lx wáleya
 \mm wále:n:acte
@@ -140200,9 +140246,9 @@ aîné ... (Kb 11/06 p.4)
 \dt 26/Sep/2006
 
 \lx wáleyabaliya
-\mm wále.ya:v:appliquer
-\mm wále:n:acte
-\mm ya:mrph:ABSTR
+\mm wáleya:v:appliquer
+\mmm wále:n:acte
+\mmm ya:mrph:ABSTR
 \mm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
@@ -140211,7 +140257,7 @@ aîné ... (Kb 11/06 p.4)
 \gvf inaccomplissement
 \xv yùruguyurugu kɛ̀lɛli mín sàriya tàra, ò wálebaliya
 \xf l'inapplication de la loi contre les fraudes ... (kb 12/05 p.4)
-\dt 07/Mar/2014
+\dt 11/Apr/2019
 
 \lx wàli
 \va wɔ̀li
@@ -140364,30 +140410,30 @@ aîné ... (Kb 11/06 p.4)
 \dt 16/Aug/2006
 
 \lx wárabaden
-\mm wára.ba:n:lion
-\mm wára:n:fauve
-\mm ba:mrph:AUGM
+\mm wáraba:n:lion
+\mmm wára:n:fauve
+\mmm ba:mrph:AUGM
 \mm dén:n:enfant
 \ps n
 \gf lionceau
 \gvf lionceau
 \sy jàraden
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx wárabamuso
-\mm wára.ba:n:lion
-\mm wára:n:fauve
-\mm ba:mrph:AUGM
+\mm wáraba:n:lion
+\mmm wára:n:fauve
+\mmm ba:mrph:AUGM
 \mm mùso:adj:femme
 \ps n
 \gf lionne
 \gvf lionne
 \sy jàramuso
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx wárabilen
 \mm wára:n:fauve
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf singe.rouge
 \gvf singe rouge
@@ -140396,13 +140442,13 @@ aîné ... (Kb 11/06 p.4)
 \sy búbunin
 \sy wára
 \sy sòla
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx wáradagan
 \mm wára:n:fauve
 \mm dá:n:bouche
 \mm gàn:v:chauffer
-\va wára.da.gwan
+\va wáradagwan
 \mm wára:n:fauve
 \mm dá:n:bouche
 \mm gwàn:v:chauffer
@@ -140416,7 +140462,7 @@ aîné ... (Kb 11/06 p.4)
 \sy sòlaminkɔn
 \sy wáraminkɔn
 \rem (f)
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx wárajakuma
 \mm wára:n:fauve
@@ -140648,15 +140694,15 @@ petites boules
 \dt 26/Sep/2006
 
 \lx wáribontigi
-\mm wári.bon:n:banque
-\mm wári:n:argent
-\mm bón:n:case
+\mm wáribon:n:banque
+\mmm wári:n:argent
+\mmm bón:n:case
 \mm tìgi:n:maître
 \ps n
 \gf banquier
 \gvf banquier
 \gvf trésorier
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx wáribulu
 \mm wári:n:argent
@@ -140685,23 +140731,23 @@ petites boules
 
 \lx wárijɛ
 \mm wári:n:argent
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps n
 \gf argent.comptant
 \gvf argent comptant
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx wárijɛkisɛ
-\mm wári.jɛ:n:argent.comptant
-\mm wári:n:argent
-\mm jɛ́:vq/adj:blanc
+\mm wárijɛ:n:argent.comptant
+\mmm wári:n:argent
+\mmm jɛ́:adj:blanc
 \mm kìsɛ:n:grain
 \ps n
 \gf pièce.d'argent
 \gvf pièce d'argent
 \xv 'Né fílɛ kà wárijɛkisɛ bà kélen dí í bálemakɛ mà (gn 20, 16)
 \xf voici que je donne mille pièces d'argent à ton frère
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx wárimarala
 \mm wári:n:argent
@@ -140726,11 +140772,11 @@ petites boules
 
 \lx wárimisɛn
 \mm wári:n:argent
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ps n
 \gf pièces.de.monnaie
 \gvf pièces de monnaie
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx wárimugu
 \mm wári:n:argent
@@ -140806,14 +140852,14 @@ petites boules
 \mm wàsa:v:satisfaire
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va wàsa.baga.tɔ
+\va wàsabagatɔ
 \mm wàsa:v:satisfaire
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
 \ps adj
 \gf satisfait
 \gvf satisfait
-\dt 16/Aug/2006
+\dt 11/Apr/2019
 
 \lx wàsabali
 \mm wàsa:v:satisfaire
@@ -140894,7 +140940,7 @@ petites boules
 \mm wáso:v:se.vanter
 \mm baa:mrph:AG.OCC
 \mm nci:mrph:AG.EX
-\va wáso.baga.nci
+\va wásobaganci
 \mm wáso:v:se.vanter
 \mm baga:mrph:AG.OCC
 \mm nci:mrph:AG.EX
@@ -140903,25 +140949,25 @@ petites boules
 \gvf vaniteux
 \gvf vantard
 \gvf fat
-\dt 26/Sep/2006
+\dt 11/Apr/2019
 
 \lx wásobaanciya
-\mm wáso.baa.nci:n:vaniteux
-\mm wáso:v:se.vanter
-\mm baa:mrph:AG.OCC
-\mm nci:mrph:AG.EX
+\mm wásobaanci:n:vaniteux
+\mmm wáso:v:se.vanter
+\mmm baa:mrph:AG.OCC
+\mmm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
-\va wáso.baga.nci.ya
-\mm wáso.baga.nci:n:vaniteux
-\mm wáso:v:se.vanter
-\mm baga:mrph:AG.OCC
-\mm nci:mrph:AG.EX
+\va wásobaganciya
+\mm wásobaganci:n:vaniteux
+\mmm wáso:v:se.vanter
+\mmm baga:mrph:AG.OCC
+\mmm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps n
 \gf vanité
 \gvf vanité
 \gvf prétention
-\dt 11/Nov/2007
+\dt 11/Apr/2019
 
 \lx wàtità
 \ps adj
