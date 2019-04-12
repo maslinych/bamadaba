@@ -31731,7 +31731,7 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \dt 16/Mar/2018
 
 \lx dúmunibaliya
-\mm dúmunibali:prcp:qui.ne.mange.pas
+\mm dúmunibali:ptcp:qui.ne.mange.pas
 \mmm dúmuni:v:nourrir
 \mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
@@ -31739,7 +31739,7 @@ chez sa grand-mère maternelle, sinon tu meurs !
 \gf jeûne
 \gvf jeûne
 \gvf diète
-\dt 14/Mar/2019
+\dt 12/Apr/2019
 
 \lx dúmunibɔminɛn
 \mm dúmuni:n:action.de.manger
@@ -54305,6 +54305,29 @@ le toit de la maison et descendaient
 \gvf bander
 \smf (sens sexuel)
 \dt 21/Mar/2019
+
+\lx jírikɔrɔtali
+\mm jírikɔrɔta:v:donner.la.nausée
+\mmm jíri:n:arbre
+\mmm kɔ́rɔtà:v:soulever
+\mmmm kɔ́rɔ:n:dessous
+\mmmm tà:v:prendre
+\mm li:mrph:NMLZ
+\va yírikɔrɔtali
+\mm yírikɔrɔta:v:donner.la.nausée
+\mmm yíri:n:arbre
+\mmm kɔ́rɔtà:v:soulever
+\mmmm kɔ́rɔ:n:dessous
+\mmmm tà:v:prendre
+\mm li:mrph:NMLZ
+\ps n
+\ms 1
+\gf nausée
+\gvf nausée
+\ms 2
+\gvf érection
+\smf (anat)
+\dt 12/Apr/2019
 
 \lx jírikunanin
 \mm jíri:n:arbre
@@ -122618,16 +122641,16 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sì:n:vie
 \mm bán:v:terminer
 \mm tɔ:mrph:ST
-\ps prcp/n
+\ps ptcp/n
 \gf casse-cou
 \gvf casse-cou
 \gvf imprudent
 \sy sìbilangalama
 \ph [sìblà ...]
-\dt 11/Apr/2019
+\dt 12/Apr/2019
 
 \lx sìbantɔya
-\mm sìbantɔ:prcp:casse-cou
+\mm sìbantɔ:ptcp:casse-cou
 \mmm sì:n:vie
 \mmm bán:v:terminer
 \mmm tɔ:mrph:ST
@@ -122635,7 +122658,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \ps n
 \gf témérité
 \gvf témérité
-\dt 11/Apr/2019
+\dt 12/Apr/2019
 
 \lx síbiri
 \bw ar: šibr = empan
@@ -141173,7 +141196,7 @@ la Justice (kb 12/05 p.4)
 \lx wélenin
 \mm wéle:n:clochette
 \mm nin:mrph:DIM
-\va ŋéle.nin
+\va ŋélenin
 \mm ŋéle:n:clochette
 \mm nin:mrph:DIM
 \ve (f,bk)
@@ -141181,7 +141204,7 @@ la Justice (kb 12/05 p.4)
 \gf grelot
 \gvf grelot
 \smf (aux pieds des bébés)
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wélewele
 \va wólowolo
@@ -141219,25 +141242,26 @@ la Justice (kb 12/05 p.4)
 \dt 08/Nov/2012
 
 \lx wéleweledala
-\mm wélewele.da:v:annoncer.publiquement
-\mm wélewele:n:annonce.publique
-\mm dá:v:poser
+\mm wéleweleda:v:annoncer.publiquement
+\mmm wélewele:n:annonce.publique
+\mmm dá:v:poser
 \mm la:mrph:AG.PRM
 \ps n
 \gf crieur.public
 \gvf crieur public
-\dt 08/Nov/2012
+\dt 12/Apr/2019
 
 \lx wélewelemada
 \mm wélewele:n:annonce.publique
-\mm mà:mrph:SUPER
-\mm dá:v:poser
+\mm màdá:v:incliner
+\mmm mà:mrph:SUPER
+\mmm dá:v:poser
 \ps v
 \vl vt
 \gf annoncer.publiquement
 \gvf annoncer publiquement
 \smf (une nouvelle)
-\dt 08/Nov/2012
+\dt 12/Apr/2019
 
 \lx wènce
 \ve (-bk)
@@ -141248,13 +141272,13 @@ la Justice (kb 12/05 p.4)
 \dt 26/Sep/2006
 
 \lx wènceya
-\mm wènce:adj/n:intrus
+\mm wènce:adj:intrus
 \mm ya:mrph:ABSTR
 \ps n
 \gf importunité
 \gvf importunité
 \gvf comportement d'intrus
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wérewerenin
 \ve (f)
@@ -141620,7 +141644,7 @@ la Justice (kb 12/05 p.4)
 \lx wólobaa
 \mm wólo:v:accoucher
 \mm baa:mrph:AG.OCC
-\va wólo.baga
+\va wólobaga
 \mm wólo:v:accoucher
 \mm baga:mrph:AG.OCC
 \ps n
@@ -141628,7 +141652,7 @@ la Justice (kb 12/05 p.4)
 \gvf géniteur
 \gvf génitrice
 \rem Bz, Svt, Mol
-\dt 11/Nov/2007
+\dt 12/Apr/2019
 
 \lx wólobali
 \mm wólo:v:accoucher
@@ -141674,16 +141698,16 @@ la Justice (kb 12/05 p.4)
 \dt 16/Aug/2006
 
 \lx wòlobɔlafuru
-\mm wòlo.bɔ.la:n:dépouilleur
-\mm wòlo:n:peau
-\mm bɔ́:v:sortir
-\mm la:mrph:AG.PRM
+\mm wòlobɔla:n:dépouilleur
+\mmm wòlo:n:peau
+\mmm bɔ́:v:sortir
+\mmm la:mrph:AG.PRM
 \mm fùru:n:estomac
 \ps n
 \gf caillette
 \gvf caillette
 \smf (partie de l'estomac des ruminants)
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wóloden
 \mm wólo:v:accoucher
@@ -141694,26 +141718,26 @@ la Justice (kb 12/05 p.4)
 \dt 16/Aug/2006
 
 \lx wólodenntanya
-\mm wólo.den:n:propre.enfant
-\mm wólo:v:accoucher
-\mm dén:n:enfant
+\mm wóloden:n:propre.enfant
+\mmm wólo:v:accoucher
+\mmm dén:n:enfant
 \mm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
 \ps n
 \gf absence.d’enfants
 \gvf absence d’enfants
 \smf (état d'une personne qui n'a pas d'enfant (ou dont les enfants sont tous morts))
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wólodentigi
-\mm wólo.den:n:propre.enfant
-\mm wólo:v:accoucher
-\mm dén:n:enfant
+\mm wóloden:n:propre.enfant
+\mmm wólo:v:accoucher
+\mmm dén:n:enfant
 \mm tìgi:n:maître
 \ps n
 \gf qui.a.des.enfants
 \gvf qui a des enfants
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wòlodogila
 \mm wòlo:n:peau
@@ -141741,27 +141765,27 @@ la Justice (kb 12/05 p.4)
 \dt 16/Aug/2006
 
 \lx wólofantan
-\mm wólo.fa:n:propre.père
-\mm wólo:v:accoucher
-\mm fà:n:père
+\mm wólofa:n:propre.père
+\mmm wólo:v:accoucher
+\mmm fà:n:père
 \mm ntan:mrph:PRIV
 \ps n
 \gf orphelin.de.père
 \gvf orphelin de père
 \xv wólofantannin lá jùru bɛ́ wólofatigi lá (chán)
-\dt 11/Nov/2007
+\dt 12/Apr/2019
 
 \lx wólofilan
 \mm wólo:n:procréation
 \mm fílan:n:camarade.d’âge
-\va wólon.flan
+\va wólonflan
 \mm wólon:n:procréation
 \mm flán:n:camarade.d’âge
 \ph [woloflan]
 \ps n
 \gf de.même.âge
 \gvf de même âge
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wòloforoko
 \mm wòlo:n:peau
@@ -141783,13 +141807,13 @@ la Justice (kb 12/05 p.4)
 
 \lx wòlojɛ
 \mm wòlo:n:peau
-\mm jɛ́:vq/adj:blanc
+\mm jɛ́:adj:blanc
 \ps adj/n
 \gf blanc
 \gvf blanc
 \smf (personne : européen, maure ...)
 \sy fàrajɛ
-\dt 26/Sep/2006
+\dt 12/Apr/2019
 
 \lx wòlokɔrɔda
 \mm wòlo:n:peau
@@ -141841,12 +141865,13 @@ la Justice (kb 12/05 p.4)
 
 \lx wòlomasiri
 \mm wòlo:n:peau
-\mm mà:mrph:SUPER
-\mm sìri:v:lier
+\mm màsiri:n:ornement
+\mmm mà:mrph:SUPER
+\mmm sìri:v:lier
 \ps n
 \gf fusil.orné.de.cuir
 \gvf fusil orné de cuir
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wólomuso
 \mm wólo:v:accoucher
@@ -141875,11 +141900,11 @@ la Justice (kb 12/05 p.4)
 \lx wólonfilanan
 \mm wólonfila:num:sept
 \mm nan:mrph:ORD
-\va wólonfla.nan
+\va wólonflanan
 \mm wólonfla:num:sept
 \mm nan:mrph:ORD
 \ph [fl]
-\va wólonwula.nan
+\va wólonwulanan
 \mm wólonwula:num:sept
 \mm nan:mrph:ORD
 \va 7nan
@@ -141888,7 +141913,7 @@ la Justice (kb 12/05 p.4)
 \ps adj
 \gf septième
 \gvf septième
-\dt 08/Feb/2016
+\dt 12/Apr/2019
 
 \lx wòlonin
 \va wɔ̀lɔnin
@@ -141934,12 +141959,12 @@ la Justice (kb 12/05 p.4)
 
 \lx wóloɲɔgɔn
 \mm wólo:v:accoucher
-\mm ɲɔ́gɔn:prn:RECP
+\mm ɲɔgɔn:mrph:RECP
 \ps n
 \gf de.la.même.classe.d'âge
 \gvf de la même classe d'âge
 \sy fílan
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wólosɛbɛn
 \mm wólo:v:accoucher
@@ -142008,7 +142033,7 @@ la Justice (kb 12/05 p.4)
 \smf (arbre, très épineux)
 \dt 16/Aug/2006
 
-\lx wóńbádɛ́
+\lx wónbadɛ
 \mm wó:prt:hé
 \mm ń:pers:1SG
 \mm bá:n:mère
@@ -142017,7 +142042,7 @@ la Justice (kb 12/05 p.4)
 \gf oh.là.là
 \gvf oh là là
 \smf (exclamation qui exprime l'excès de fatigue)
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wònto
 \ps n
@@ -142120,15 +142145,15 @@ Mali)
 
 \lx wòroduguyànfan
 \mm wòrodugu:n:sud
-\mm wòro:n:kola
-\mm dùgu:n:terre
+\mmm wòro:n:kola
+\mmm dùgu:n:terre
 \mm yàn:n:ici
 \mm fàn:n:côté
 \ps n
 \gf sud
 \gvf sud
 \gvf partie sud
-\dt 05/Feb/2017
+\dt 12/Apr/2019
 
 \lx wòrofyɛn
 \ps n
@@ -142148,15 +142173,15 @@ Mali)
 \dt 26/Sep/2006
 
 \lx wòrojilama
-\mm wòro.ji:n:couleur.rosâtre
-\mm wòro:n:kola
-\mm jí:n:eau
+\mm wòroji:n:couleur.rosâtre
+\mmm wòro:n:kola
+\mmm jí:n:eau
 \mm lama:mrph:STAT
 \ps adj
 \gf rosâtre
 \gvf rosâtre
 \gvf orange
-\dt 26/Sep/2006
+\dt 12/Apr/2019
 
 \lx wòrojɔn
 \mm wòro:n:kola
@@ -142242,13 +142267,13 @@ Mali)
 \lx wósoninfin
 \mm wóso:n:patate.douce
 \mm nin:mrph:DIM
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf tubercule.Coleus.blumei
 \gvf tubercule Coleus blumei
 \smf (tubercule sauvage comestible)
 \sd labi
-\dt 19/Aug/2006
+\dt 12/Apr/2019
 
 \lx wóte
 \va wɔ́te
@@ -142490,7 +142515,7 @@ Mali)
 \gvf faucille
 \dt 16/Aug/2006
 
-\lx wɔ̀lɔtónńkàn
+\lx wɔ̀lɔtónnkàn
 \mm wɔ̀lɔ:n:francolin
 \mm tón:v:enfiler
 \mm ń:pers:1SG
@@ -142500,7 +142525,7 @@ Mali)
 \gvf faucon lanier
 \lat Falco biarmicus
 \smf (chasse en piqué)
-\dt 26/Sep/2006
+\dt 12/Apr/2019
 
 \lx wɔ̀lɔwɔlɔ
 \ps v
@@ -142759,14 +142784,14 @@ Mali)
 \lx wúlaba
 \mm wúla:n:brousse
 \mm ba:mrph:AUGM
-\va wúlɛ.ba
+\va wúlɛba
 \mm wúlɛ:n:brousse
 \mm ba:mrph:AUGM
 \ve (f,bn)
 \ps n
 \gf grande.brousse
 \gvf grande brousse
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wúlada
 \mm wúla:n:soir
@@ -142778,28 +142803,28 @@ Mali)
 \dt 16/Aug/2006
 
 \lx wúladanin
-\mm wúla.da:n:début.de.l'après-midi
-\mm wúla:n:soir
-\mm dá:n:bouche
+\mm wúlada:n:début.de.l'après-midi
+\mmm wúla:n:soir
+\mmm dá:n:bouche
 \mm nin:mrph:DIM
 \ps n
 \gf vers.17h30
 \gvf vers 17h30
 \smf (moment de l'après-midi (vers 17h30 = làansára))
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wúladaninfyɛ
-\mm wúla.da.nin:n:vers.17h30
-\mm wúla.da:n:début.de.l'après-midi
-\mm wúla:n:soir
-\mm dá:n:bouche
-\mm nin:mrph:DIM
+\mm wúladanin:n:vers.17h30
+\mmm wúlada:n:début.de.l'après-midi
+\mmmm wúla:n:soir
+\mmmm dá:n:bouche
+\mmm nin:mrph:DIM
 \mm fyɛ̀:n:place
 \ps n
 \gf coucher.du.soleil
 \gvf coucher du soleil
 \smf (moment de l'après-midi (au coucher du soleil))
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wúlafɛla
 \mm wúla:n:soir
@@ -142867,14 +142892,14 @@ Mali)
 \dt 16/Aug/2006
 
 \lx wúlatilejan
-\mm wúla.tile:n:après-midi.14h30à17h
-\mm wúla:n:soir
-\mm tìle:n:soleil
-\mm jàn:vq:long
+\mm wúlatile:n:après-midi.14h30à17h
+\mmm wúla:n:soir
+\mmm tìle:n:soleil
+\mm jàn:adj:long
 \ps n
 \gf après-midi.vers.15h
 \gvf après-midi vers 15h
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wúlɛ
 \ps n
@@ -143047,13 +143072,13 @@ Mali)
 \lx wúlubere
 \mm wúlu:n:sexe.masculin
 \mm bére:n:bâton
-\va wúlu.bereke
+\va wúlubereke
 \mm wúlu:n:sexe.masculin
 \mm béreke:n:bâton
 \ps n
 \gf pénis
 \gvf pénis
-\dt 26/Sep/2006
+\dt 12/Apr/2019
 
 \lx wùlubokaba
 \mm wùlu:n:chien
@@ -143115,16 +143140,16 @@ Mali)
 \dt 19/Aug/2006
 
 \lx wùlukucɛɲi
-\mm wùlu.ku:n:herbe.Ctenium.elegans
-\mm wùlu:n:chien
-\mm kú:n:queue
+\mm wùluku:n:herbe.Ctenium.elegans
+\mmm wùlu:n:chien
+\mmm kú:n:queue
 \mm cɛ̀:n:aspect
 \mm ɲì:vq:bon
 \ps n
 \gf herbe.Schoenefeldia.gracilis
 \gvf herbe Schoenefeldia gracilis
 \sd gram
-\dt 19/Aug/2006
+\dt 12/Apr/2019
 
 \lx wùlukutu
 \va wùrukutu
@@ -143208,15 +143233,15 @@ Mali)
 \dt 16/Aug/2006
 
 \lx wùlusilanden
-\mm wùlusi.lan:n:égreneuse
-\mm wùlusi:v:égrener
-\mm lan:mrph:INSTR
+\mm wùlusilan:n:égreneuse
+\mmm wùlusi:v:égrener
+\mmm lan:mrph:INSTR
 \mm dén:n:enfant
 \ps n
 \gf tige.égreneuse
 \gvf tige égreneuse
 \smf (tige de métal ou de bois avec laquelle on égrène le coton)
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wùluwúlu
 \va wùruwúru
@@ -143333,10 +143358,10 @@ Mali)
 \lx wùrusilan
 \mm wùrusi:v:égrener
 \mm lan:mrph:INSTR
-\va wùlusi.lan
+\va wùlusilan
 \mm wùlusi:v:égrener
 \mm lan:mrph:INSTR
-\va wùusi.lan
+\va wùusilan
 \mm wùusi:v:égrener
 \mm lan:mrph:INSTR
 \ve (f)
@@ -143344,7 +143369,7 @@ Mali)
 \gf égreneuse
 \gvf égreneuse
 \smf (tout instrument pour égrener le coton : pierre ...)
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx wúruu
 \ps adv
@@ -143395,16 +143420,16 @@ Mali)
 \dt 16/Aug/2006
 
 \lx wúsulandaga
-\mm wúsu.lan:n:encens
-\mm wúsu:v:fumer
-\mm lan:mrph:INSTR
+\mm wúsulan:n:encens
+\mmm wúsu:v:fumer
+\mmm lan:mrph:INSTR
 \mm dàga:n:canari
 \ps n
 \gf encensoir.en.terre.cuite
 \gvf encensoir en terre cuite
 \smf (vase brûle-parfum)
 \rem lév 16, 12
-\dt 16/Mar/2017
+\dt 12/Apr/2019
 
 \lx wúsuru
 \ps n
@@ -143720,14 +143745,14 @@ Mali)
 \lx yàfabaga
 \mm yàfa:v:pardonner
 \mm baga:mrph:AG.OCC
-\va yàfa.baa
+\va yàfabaa
 \mm yàfa:v:pardonner
 \mm baa:mrph:AG.OCC
 \ve (f,bk)
 \ps n
 \gf clément
 \gvf clément
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx yágayaga
 \ps n
@@ -143962,11 +143987,8 @@ soient définitivement données à leur mari)
 \gvf valeur
 \dt 02/Feb/2017
 
-\lx yànni
-\mm yàn:n:ici
-\mm ni:prep/conj:et
+\lx yànní
 \va yànn'
-\va yàli
 \ps conj
 \ms 1
 \gf avant.que
@@ -143977,7 +143999,7 @@ soient définitivement données à leur mari)
 \xf avant que ce jour n'arrive
 \ms 2
 \gvf au lieu de
-\dt 10/Oct/2017
+\dt 12/Apr/2019
 
 \lx yànnɔ̀
 \va yànninnɔ̀
@@ -144041,26 +144063,26 @@ soient définitivement données à leur mari)
 \mm yàwuse:n:orgueil
 \mm ya:mrph:ABSTR
 \ve (bz; mó)
-\va yàwɛsi.ya
+\va yàwɛsiya
 \mm yàwɛsi:n:orgueil
 \mm ya:mrph:ABSTR
-\va yàwɛsɛ.ya
+\va yàwɛsɛya
 \mm yàwɛsɛ:n:orgueil
 \mm ya:mrph:ABSTR
 \ps n
 \gf orgueil
 \gvf orgueil
 \rem cas (-bn, bz)
-\dt 11/Nov/2007
+\dt 12/Apr/2019
 
 \lx yàwuseya
 \mm yàwuse:n:orgueil
 \mm ya:mrph:ABSTR
 \ve (bz; mó)
-\va yàwɛsi.ya
+\va yàwɛsiya
 \mm yàwɛsi:n:orgueil
 \mm ya:mrph:ABSTR
-\va yàwɛsɛ.ya
+\va yàwɛsɛya
 \mm yàwɛsɛ:n:orgueil
 \mm ya:mrph:ABSTR
 \ps v
@@ -144069,24 +144091,24 @@ soient définitivement données à leur mari)
 \gvf faire le supérieur
 \gvf faire l'orgueilleux
 \rem cas (-bn, bz)
-\dt 11/Nov/2007
+\dt 12/Apr/2019
 
-\lx yàyàlé
+\lx yàyàle
 \ps n
 \gf herbe.Andropogon.fastigiatus
 \gvf herbe Andropogon fastigiatus
 \sd gram
-\dt 19/Aug/2006
+\dt 12/Apr/2019
 
-\lx yàyàlécɛ̀ɲi
-\mm yàyàlé:n:herbe.Andropogon.fastigiatus
+\lx yàyàlecɛ̀ɲi
+\mm yàyàle:n:herbe.Andropogon.fastigiatus
 \mm cɛ̀:n:aspect
 \mm ɲì:vq:bon
 \ps n
 \gf herbe.Schizachirium.brevifolium
 \gvf herbe Schizachirium brevifolium
 \sd gram
-\dt 19/Aug/2006
+\dt 12/Apr/2019
 
 \lx yáyaya
 \ps n
@@ -144327,15 +144349,16 @@ bambara)
 \lx yéfugeya
 \mm yéfuge:n:albinos
 \mm ya:mrph:ABSTR
-\va yéfege.ya
+\va yéfegeya
 \mm yéfege:n:albinos
 \mm ya:mrph:ABSTR
-\va yépege.ya
+\va yépegeya
 \mm yépege:n:albinos
 \mm ya:mrph:ABSTR
 \ps n
 \gf albinisme
 \gvf albinisme
+\dt 12/Apr/2019
 
 \lx yègentu
 \va yègeru
@@ -144772,12 +144795,13 @@ comportement (LD p.5)
 
 \lx yɛ́lɛmisɛn
 \mm yɛ́lɛ:n:rire
-\mm mìsɛn:vq:petit
+\mm mìsɛn:adj:petit
 \ps n
 \gf sourire
 \gvf sourire
 \xv à bɛ́  yɛ́lɛmisɛn kɛ́ / cì
 \xf il sourit
+\dt 12/Apr/2019
 
 \lx yɛ̀lɛn
 \ps v
@@ -144844,13 +144868,14 @@ comportement (LD p.5)
 
 \lx yɛ̀lɛnyɛlɛnnan
 \mm yɛ̀lɛn:v:monter
+\mm yɛ̀lɛn:v:monter
 \mm nan:mrph:INSTR
 \ps n
 \gf échelle
 \gvf échelle
 \xv ní  yɛ̀lɛnyɛlɛnnan tùn bɛ́  Ála lá, né tùn ná yɛ̀lɛn  kà bárika dá
 \xf s'il y avait un escalier pour monter vers Dieu, j'y monterais pour le remercier (chant de maman)
-\dt 15/Mar/2017
+\dt 12/Apr/2019
 
 \lx yɛ́lɛɲi
 \mm yɛ́lɛ:v:rire
@@ -144930,17 +144955,17 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛbaya
 \mm yɛ̀rɛba:n:fat
-\mm yɛ̀rɛ̂:dtm:même
-\mm ba:mrph:AUGM
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm ba:mrph:AUGM
 \mm ya:mrph:ABSTR
 \ps n
 \gf orgueil.et.égoïsme
 \gvf orgueil et égoïsme
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛbonya
 \mm yɛ̀rɛ̂:dtm:même
-\mm bòn.ya:n:grosseur
+\mm bònya:n:grosseur
 \mmm bòn:vq:grand
 \mmm ya:mrph:DEQU
 \ps n
@@ -144952,7 +144977,7 @@ comportement (LD p.5)
 \xf avant la ruine, il y a l'orgueil (Pr 16, 18) l'orgueil conduit à la faillite
 \ms 2
 \gvf estime de soi
-\dt 06/Mar/2019
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛbɔ
 \mm yɛ̀rɛ̂:dtm:même
@@ -145009,15 +145034,15 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛdɔnbaliya
 \mm yɛ̀rɛ̂dɔnbali:ptcp:indigne
-\mm yɛ̀rɛ̂:dtm:même
-\mm dɔ́n:v:connaître
-\mm bali:mrph:PTCP.NEG
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm dɔ́n:v:connaître
+\mmm bali:mrph:PTCP.NEG
 \mm ya:mrph:ABSTR
 \ps n
 \gf méconnaissance.de.sa.place
 \gvf méconnaissance de sa place
 \smf (proche de la suffisance ...)
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛdulon
 \mm yɛ̀rɛ̂:dtm:même
@@ -145040,27 +145065,29 @@ comportement (LD p.5)
 \dt 28/Feb/2017
 
 \lx yɛ̀rɛfaganci
-\mm yɛ̀rɛ̂:dtm:même
-\mm fàga:v:tuer
+\mm yɛ̀rɛfaga:n:suicide
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm fàga:v:tuer
 \mm nci:mrph:AG.EX
 \va yɛ̀rɛfaanci
-\mm yɛ̀rɛ̂:dtm:même
-\mm fàa:v:tuer
+\mm yɛ̀rɛfaa:n:suicide
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm fàa:v:tuer
 \mm nci:mrph:AG.EX
 \ps n
 \gf suicidaire
 \gvf suicidaire
-\dt 27/Jan/2016
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛfagasu
-\mm yɛ̀rɛ.faga:n:suicide
-\mm yɛ̀rɛ̂:dtm:même
-\mm fàga:v:tuer
+\mm yɛ̀rɛfaga:n:suicide
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm fàga:v:tuer
 \mm sù:n:cadavre
 \va yɛ̀rɛfaasu
 \mm yɛ̀rɛfaa:n:suicide
-\mm yɛ̀rɛ̂:dtm:même
-\mm fàa:v:tuer
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm fàa:v:tuer
 \mm sù:n:cadavre
 \ps n
 \ms 1
@@ -145071,57 +145098,72 @@ comportement (LD p.5)
 \sy sì bántɔ
 \ms 3
 \gvf kamikaze
-\dt 09/Dec/2018
+\dt 12/Apr/2019
 
-\lx yɛ̀rɛjirako
+\lx yɛ̀rɛjira
 \mm yɛ̀rɛ̂:dtm:même
 \mm jìra:v:montrer
-\mm kó:n:affaire
-\va yɛ̀rɛyira.ko
+\va yɛ̀rɛyira
 \mm yɛ̀rɛ̂:dtm:même
 \mm yìra:v:montrer
+\ps n
+\gf vanité
+\gvf vanité
+\gvf ostentation
+\gvf fatuité
+\dt 12/Apr/2019
+
+\lx yɛ̀rɛjirako
+\mm yɛ̀rɛjira:n:vanité
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm jìra:v:montrer
+\mm kó:n:affaire
+\va yɛ̀rɛyirako
+\mm yɛ̀rɛjira:n:vanité
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm yìra:v:montrer
 \mm kó:n:affaire
 \ps n
 \gf action.ostentatoire
 \gvf action ostentatoire
 \smf (faite pour la galerie)
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛjiranci
 \mm yɛ̀rɛjira:n:vanité
-\mm yɛ̀rɛ̂:dtm:même
-\mm jìra:v:montrer
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm jìra:v:montrer
 \mm nci:mrph:AG.EX
-\va yɛ̀rɛyira.nci
+\va yɛ̀rɛyiranci
 \mm yɛ̀rɛyira:n:vanité
-\mm yɛ̀rɛ̂:dtm:même
-\mm yìra:v:montrer
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm yìra:v:montrer
 \mm nci:mrph:AG.EX
 \ps n
 \gf vaniteux
 \gvf vaniteux
 \gvf m'as-tu-vu
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛjiranciya
 \mm yɛ̀rɛjiranci:n:vaniteux
-\mm yɛ̀rɛjira:n:vanité
-\mm yɛ̀rɛ̂:dtm:même
-\mm jìra:v:montrer
-\mm nci:mrph:AG.EX
+\mmm yɛ̀rɛjira:n:vanité
+\mmmm yɛ̀rɛ̂:dtm:même
+\mmmm jìra:v:montrer
+\mmm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
-\va yɛ̀rɛyiranci.ya
+\va yɛ̀rɛyiranciya
 \mm yɛ̀rɛyiranci:n:vaniteux
-\mm yɛ̀rɛyira:n:vanité
-\mm yɛ̀rɛ̂:dtm:même
-\mm yìra:v:montrer
-\mm nci:mrph:AG.EX
+\mmm yɛ̀rɛyira:n:vanité
+\mmmm yɛ̀rɛ̂:dtm:même
+\mmmm yìra:v:montrer
+\mmm nci:mrph:AG.EX
 \mm ya:mrph:ABSTR
 \ps n
 \gf vanité
 \gvf vanité
 \gvf ostentation
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛkalan
 \mm yɛ̀rɛ̂:dtm:même
@@ -145136,14 +145178,14 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛkalanden
 \mm yɛ̀rɛkalan:n:autodidacte
-\mm yɛ̀rɛ̂:dtm:même
-\mm kàlan:v:lire
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm kàlan:v:lire
 \mm dén:n:enfant
 \ps n
 \gf autodidacte
 \gvf autodidacte
 \rem l 89
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ́rɛkɛ
 \va yɛ̀rɛkɛ̀
@@ -145184,50 +145226,53 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛkunfeere
 \mm yɛ̀rɛkun:n:soi-même
-\mm yɛ̀rɛ̂:dtm:même
-\mm kùn:n:tête
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm kùn:n:tête
 \mm fèere:v:vendre
 \ps n
 \gf prostitution
 \gvf prostitution
 \xv òlu bɛ́ sɔ̀n kà lában yɛ̀rɛkunfeere lá
 \xf elles acceptent finalement de se prostituer (kb 1/06 p..8)
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛkunfeerela
 \mm yɛ̀rɛkun:n:soi-même
-\mm yɛ̀rɛ̂:dtm:même
-\mm kùn:n:tête
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm kùn:n:tête
 \mm fèere:v:vendre
 \mm la:mrph:AG.PRM
 \ps n
 \gf prostituée
 \gvf prostituée
 \nt Kb 6/05 p.5
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛlabila
 \mm yɛ̀rɛ̂:dtm:même
-\mm lá:mrph:CAUS
-\mm bìla:v:mettre
+\mm lábìla:v:laisser.partir
+\mmm lá:mrph:CAUS
+\mmm bìla:v:mettre
 \ps n
 \gf vie.désordonnée
 \gvf vie désordonnée
 \smf (sur tous les plans)
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛlagosi
 \mm yɛ̀rɛ̂:dtm:même
-\mm lá:mrph:CAUS
-\mm gòsi:v:battre
+\mm lágòsi:v:mépriser
+\mmm lá:mrph:CAUS
+\mmm gòsi:v:battre
 \va yɛ̀rɛlagɔsi
 \mm yɛ̀rɛ̂:dtm:même
-\mm lá:mrph:CAUS
-\mm gɔ̀si:v:battre
+\mm lágɔ̀si:v:mépriser
+\mmm lá:mrph:CAUS
+\mmm gɔ̀si:v:battre
 \ps n
 \gf qui.prête.le.flanc.aux.critiques
 \gvf qui prête le flanc aux critiques
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛlakalila
 \mm yɛ̀rɛ̂:dtm:même
@@ -145261,52 +145306,55 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛmahɔrɔnya
 \mm yɛ̀rɛmahɔrɔn:n:homme.libre
-\mm yɛ̀rɛ̂:dtm:même
-\mm mà:pp:ADR
-\mm hɔ́rɔn:adj:libre
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm mà:pp:ADR
+\mmm hɔ́rɔn:adj:libre
 \mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \gf devenir.libre
 \gvf devenir libre
 \gvf devenir indépendant
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛmahɔrɔnya
 \mm yɛ̀rɛmahɔrɔn:n:homme.libre
-\mm yɛ̀rɛ̂:dtm:même
-\mm mà:pp:ADR
-\mm hɔ́rɔn:adj:libre
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm mà:pp:ADR
+\mmm hɔ́rɔn:adj:libre
 \mm ya:mrph:ABSTR
 \ps n
 \gf liberté
 \gvf liberté
 \gvf indépendance
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛmajigin
 \mm yɛ̀rɛ̂:dtm:même
-\mm mà:mrph:SUPER
-\mm jìgin:v:descendre
+\mm màjigin:n:humilité
+\mmm mà:mrph:SUPER
+\mmm jìgin:v:descendre
 \ps n
 \gf humilité
 \gvf humilité
 \gvf modestie
 \sy yɛ̀rɛmajigilenya
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛmajira
 \mm yɛ̀rɛ̂:dtm:même
-\mm mà:mrph:SUPER
-\mm jìra:v:montrer
+\mm màjìra:v:montrer
+\mmm mà:mrph:SUPER
+\mmm jìra:v:montrer
 \va yɛ̀rɛmayira
 \mm yɛ̀rɛ̂:dtm:même
-\mm mà:mrph:SUPER
-\mm yìra:v:montrer
+\mm màyìra:v:montrer
+\mmm mà:mrph:SUPER
+\mmm yìra:v:montrer
 \ps n
 \gf ostentation
 \gvf ostentation
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛmandiya
 \mm yɛ̀rɛ̂:dtm:même
@@ -145368,18 +145416,18 @@ comportement (LD p.5)
 
 \lx yɛ̀rɛɲaninci
 \mm yɛ̀rɛɲani:n:masochisme
-\mm yɛ̀rɛ̂:dtm:même
-\mm ɲáni:v:réduire.à.la.misère
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm ɲáni:v:réduire.à.la.misère
 \mm nci:mrph:AG.EX
 \va yɛ̀rɛɲɛninci
 \mm yɛ̀rɛɲɛni:n:masochisme
-\mm yɛ̀rɛ̂:dtm:même
-\mm ɲɛ́ni:v:réduire.à.la.misère
+\mmm yɛ̀rɛ̂:dtm:même
+\mmm ɲɛ́ni:v:réduire.à.la.misère
 \mm nci:mrph:AG.EX
 \ps n
 \gf masochiste
 \gvf masochiste
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yɛ̀rɛɲini
 \mm yɛ̀rɛ̂:dtm:même
@@ -145513,7 +145561,7 @@ comportement (LD p.5)
 \mm yɛ́rɛyɛrɛ:v:trembler
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va yɛ́rɛyɛrɛ.baga.tɔ
+\va yɛ́rɛyɛrɛbagatɔ
 \mm yɛ́rɛyɛrɛ:v:trembler
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
@@ -145521,20 +145569,7 @@ comportement (LD p.5)
 \gf tremblant
 \gvf tremblant
 \smf (quelle que soit la cause)
-\dt 16/Aug/2006
-
-\lx yɛ̀rɛyira
-\mm yɛ̀rɛ̂:dtm:même
-\mm yìra:v:montrer
-\va yɛ̀rɛjira
-\mm yɛ̀rɛ̂:dtm:même
-\mm jìra:v:montrer
-\ps n
-\gf vanité
-\gvf vanité
-\gvf ostentation
-\gvf fatuité
-\dt 28/Feb/2017
+\dt 12/Apr/2019
 
 \lx yìgiyaga
 \ps v
@@ -145649,27 +145684,6 @@ comportement (LD p.5)
 \gf selles.glaireuses
 \gvf selles glaireuses
 \dt 07/Mar/2019
-
-\lx yírikɔrɔtali
-\mm yíri.kɔrɔ.ta:v:donner.la.nausée
-\mm yíri:n:arbre
-\mm kɔ́rɔ:n:dessous
-\mm tà:v:prendre
-\mm li:mrph:NMLZ
-\va jíri.kɔrɔ.ta.li
-\mm jíri.kɔrɔ.ta:v:donner.la.nausée
-\mm jíri:n:arbre
-\mm kɔ́rɔ:n:dessous
-\mm tà:v:prendre
-\mm li:mrph:NMLZ
-\ps n
-\ms 1
-\gf nausée
-\gvf nausée
-\ms 2
-\gvf érection
-\smf (anat)
-\dt 16/Aug/2006
 
 \lx yìrindi
 \ve (bn)
@@ -145835,11 +145849,11 @@ l'intention)
 \dt 19/Jan/2015
 
 \lx yórobilen
-\mm bìlen:vq/adj:rouge
+\mm bìlen:adj:rouge
 \ps n
 \gf rouge.brun.foncé
 \gvf rouge brun foncé
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx yòroboyaraba
 \ps v
@@ -146013,29 +146027,29 @@ généreuses, avec bourrelets)
 \lx yɔ́rɔjanya
 \mm yɔ́rɔ:n:lieu
 \mm jànya:v:allonger
-\mm jàn:vq:long
-\mm ya:mrph:DEQU
+\mmm jàn:vq:long
+\mmm ya:mrph:DEQU
 \ps v
 \vl vt
 \gf éloigner
 \gvf éloigner
 \gvf placer loin de
-\dt 08/Feb/2017
+\dt 12/Apr/2019
 
-\lx yɔ́rɔjumɛka
-\mm yɔ́rɔ:n:lieu
-\mm jùmɛ:prn:lequel
-\mm ka:mrph:GENT
-\va yɔ́rɔ.jumɛn.ka
+\lx yɔ́rɔjumɛnka
 \mm yɔ́rɔ:n:lieu
 \mm jùmɛn:prn:lequel
+\mm ka:mrph:GENT
+\va yɔ́rɔjumɛ.ka
+\mm yɔ́rɔ:n:lieu
+\mm jùmɛ:prn:lequel
 \mm ka:mrph:GENT
 \ps n
 \gf habitant.d’où
 \gvf habitant d’où
 \xv yɔ́rɔjumɛka b'án fò ?
 \xf Les gens de quel village nous saluent ? (= d'où viens-tu ?)
-\dt 16/Aug/2006
+\dt 12/Apr/2019
 
 \lx yɔ́rɔnin
 \mm yɔ́rɔ:n:lieu
