@@ -1435,13 +1435,24 @@ les deux flancs'
 \lx báarantan
 \mm báara:n:travail
 \mm ntan:mrph:PRIV
-\ps adj/n
+\ps adj
 \ms 1
 \gf chômeur
 \gvf chômeur
 \ms 2
 \gvf oisif
-\dt 16/Aug/2006
+\dt 12/Apr/2019
+
+\lx báarantan
+\mm báara:n:travail
+\mm ntan:mrph:PRIV
+\ps n
+\ms 1
+\gf chômeur
+\gvf chômeur
+\ms 2
+\gvf oisif
+\dt 12/Apr/2019
 
 \lx báarantanya
 \mm báara.ntan:adj:chômeur
@@ -4059,14 +4070,27 @@ fabrication de meubles, chaises, lits...)
 \ve (bn)
 \va mána
 \va bánan
-\ps adj/n
+\ps adj
 \ms 1
 \gf auto-ensemencé
 \gvf auto-ensemencé
 \smf (plante qui a poussé d'elle-même)
 \ms 2
 \gvf animal sauvage apprivoisé
-\dt 16/Aug/2006
+\dt 12/Apr/2019
+
+\lx bána
+\ve (bn)
+\va mána
+\va bánan
+\ps n
+\ms 1
+\gf auto-ensemencé
+\gvf auto-ensemencé
+\smf (plante qui a poussé d'elle-même)
+\ms 2
+\gvf animal sauvage apprivoisé
+\dt 12/Apr/2019
 
 \lx bànaba
 \mm bàna:n:maladie
@@ -4088,10 +4112,23 @@ fabrication de meubles, chaises, lits...)
 \mm bàna:n:maladie
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps n
 \gf malade
 \gvf malade
-\dt 15/Aug/2006
+\dt 12/Apr/2019
+
+\lx bànabaatɔ
+\mm bàna:n:maladie
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va bàna.baga.tɔ
+\mm bàna:n:maladie
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps adj
+\gf malade
+\gvf malade
+\dt 12/Apr/2019
 
 \lx bànabaatɔlama
 \mm bàna.baa.tɔ:ad:malade
@@ -4169,15 +4206,26 @@ Fleurs spectaculaires)
 \gvf virus
 \dt 26/Sep/2006
 
+\lx bànakisɛfagalan
+\mm bànakisɛ:n:microbe
+\mmm bàna:n:maladie
+\mmm kìsɛ:n:grain
+\mm fàga:v:tuer
+\mm lan:mrph:INSTR
+\ps n
+\gf désinfectant
+\gvf désinfectant
+\dt 13/Apr/2019
+
 \lx bànakisɛfura
-\mm bàna.kisɛ:n:microbe
+\mm bànakisɛ:n:microbe
 \mmm bàna:n:maladie
 \mmm kìsɛ:n:grain
 \mm fúra:n:feuille
 \ps n
 \gf antibiotique
 \gvf antibiotique
-\dt 04/Mar/2019
+\dt 13/Apr/2019
 
 \lx bànakisɛma
 \mm bàna.kisɛ:n:microbe
@@ -5142,7 +5190,7 @@ Fleurs spectaculaires)
 \lx bàrajintan
 \mm bàraji:n:récompense.divine
 \mm ntan:mrph:PRIV
-\ps adj/n
+\ps adj
 \ms 1
 \gf ingrat
 \gvf ingrat
@@ -5151,7 +5199,21 @@ Fleurs spectaculaires)
 \ms 2
 \gvf sans récompense
 \smf (travail)
-\dt 11/Nov/2007
+\dt 12/Apr/2019
+
+\lx bàrajintan
+\mm bàraji:n:récompense.divine
+\mm ntan:mrph:PRIV
+\ps n
+\ms 1
+\gf ingrat
+\gvf ingrat
+\smf (Kita)
+\rem mol, du  + 2 / pour Cas : celui qui refuse de te suivre
+\ms 2
+\gvf sans récompense
+\smf (travail)
+\dt 12/Apr/2019
 
 \lx bàrajintanya
 \mm bàraji.ntan:adj/n:ingrat
@@ -7835,7 +7897,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \vc biɲɛ
 \vc bagan
 \vc banga
-\ps adj/n
+\ps adj
 \ms 1
 \gf sans.sauce
 \gvf sans sauce
@@ -7846,18 +7908,35 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf nu
 \smf (sens particulier)
 \ve (bk)
-\dt 15/Mar/2013
+\dt 12/Apr/2019
+
+\lx bɛɲɛ
+\vc biɲɛ
+\vc bagan
+\vc banga
+\ps n
+\ms 1
+\gf sans.sauce
+\gvf sans sauce
+\gvf boue desséchée
+\ms 2
+\gvf nu
+\smf (sens particulier)
+\ve (bk)
+\dt 12/Apr/2019
 
 \lx bɛ̀rɛ
 \ps n
 \gf mesure
 \gvf mesure
 \sy hákɛ
+\xv ò y'á sɔ̀rɔ, né tùn tɛ́  bɛ́rɛ bɔ́
+\xf à l'époque, je n'étais pas grand
 \xv sánji nàna  k'à bɛ̀rɛ bɛ̀n
 \xf la pluie est venue en bonne quantité
 \xv sánji nàna  kà bɛ̀n  à bɛ̀rɛ mà :
 \xf id.
-\dt 15/Aug/2006
+\dt 13/Apr/2019
 
 \lx bɛ́rɛ
 \bw ar: birr = action juste, bonne ?
@@ -7872,19 +7951,18 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bɛ́rɛ
 \ps adj
-\ms 1
 \gf vrai
+\ms 1
 \gvf vrai
-\ms 2
-\gvf grand
-\ms 3
-\gvf important
 \xv í fà bɛ́rɛ
 \xf ton vrai père (qui t'a engendré)
 \xv à tɔ́gɔ bɛ́rɛ
 \xf son vrai nom
-\xv ò y'á sɔ̀rɔ, né tùn tɛ́  bɛ́rɛ bɔ́
-\xf à l'époque, je n'étais pas grand
+\ms 2
+\gvf grand
+\ms 3
+\gvf important
+\dt 13/Apr/2019
 
 \lx bɛ́rɛ
 \ps n
@@ -7893,11 +7971,17 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf assez
 \xv ò tɛ́  bɛ́rɛ yé
 \xf ce n'est pas beaucoup (pas assez)
-\xv à ká kɛ́nɛ bɛ́rɛ
-\xf il est en excellente santé
 \xv bɛ́rɛ t'á jɛ̀
 \xf il s'en faut de peu
-\dt 26/Sep/2006
+\dt 13/Apr/2019
+
+\lx bɛ́rɛ
+\ps adv
+\gf vraiment
+\gvf vraiment
+\xv à ká kɛ́nɛ bɛ́rɛ
+\xf il est en excellente santé
+\dt 13/Apr/2019
 
 \lx bɛ̀rɛbɛ̀n
 \mm bɛ̀rɛ:n:mesure
@@ -7946,14 +8030,25 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bɛ̀sɛ
 \va bɛ̀ɛsɛ
-\ps adj/n
+\ps adj
 \ms 1
 \gf coquet
 \gvf coquet
 \ms 2
 \gvf très propre
 \sy bùga
-\dt 08/Mar/2018
+\dt 12/Apr/2019
+
+\lx bɛ̀sɛ
+\va bɛ̀ɛsɛ
+\ps n
+\ms 1
+\gf coquet
+\gvf coquet
+\ms 2
+\gvf très propre
+\sy bùga
+\dt 12/Apr/2019
 
 \lx bɛ̀sɛya
 \mm bɛ̀sɛ:adj:coquet
@@ -8349,12 +8444,28 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm kó:n:affaire
 \mm júgu:adj:mauvais
 \ph [bla]
-\ps adj/n
+\ps n
 \gf vaurien
 \gvf vaurien
 \xv kà à bìla fó bìlakojugu
 \xf laisser (la place) pour jamais
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bìlakojugu
+\mm bìlako:n:conduite
+\mmm bìla:v:mettre
+\mmm kó:n:affaire
+\mm júgu:adj:mauvais
+\va blà.ko.jugu
+\mm blàko:n:conduite
+\mmm blà:v:mettre
+\mmm kó:n:affaire
+\mm júgu:adj:mauvais
+\ph [bla]
+\ps adj
+\gf vaurien
+\gvf vaurien
+\dt 12/Apr/2019
 
 \lx bìlakojuguya
 \mm bìlako.jugu:adj:vaurien
@@ -9512,11 +9623,23 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \va bíyɛn.ma
 \mm bíyɛn:n:corne
 \mm ma:mrph:COM
-\ps adj/n
+\ps adj
 \gf cornu
 \gvf cornu
 \smf (qui a des cornes, en forme de corne)
-\dt 11/Nov/2007
+\dt 12/Apr/2019
+
+\lx bíɲɛma
+\mm bíɲɛ:n:corne
+\mm ma:mrph:COM
+\va bíyɛn.ma
+\mm bíyɛn:n:corne
+\mm ma:mrph:COM
+\ps n
+\gf cornu
+\gvf cornu
+\smf (qui a des cornes, en forme de corne)
+\dt 12/Apr/2019
 
 \lx bìri
 \va brì
@@ -11498,11 +11621,22 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm bólo:n:bras
 \mmm lá:pp:à
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \gf mauvais.travailleur
 \gvf mauvais travailleur
 \sy bólomanjugu
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólolajugu
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mm júgu:adj:mauvais
+\ps n
+\gf mauvais.travailleur
+\gvf mauvais travailleur
+\sy bólomanjugu
+\dt 12/Apr/2019
 
 \lx bólolakaran
 \mm bólo.la:n:action.de.main
@@ -11531,7 +11665,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm bólo:n:bras
 \mmm lá:pp:à
 \mm mìsɛn:adj:petit
-\ps adj/n
+\ps adj
 \ms 1
 \gf chapardeur
 \gvf chapardeur
@@ -11539,7 +11673,22 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ms 2
 \gvf minutieux
 \gvf méticuleux
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólolamisɛn
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mm mìsɛn:adj:petit
+\ps n
+\ms 1
+\gf chapardeur
+\gvf chapardeur
+\gvf touche-à-tout
+\ms 2
+\gvf minutieux
+\gvf méticuleux
+\dt 12/Apr/2019
 
 \lx bólolamisɛnya
 \mm bólola.misɛn:adj:chapardeur
@@ -11572,7 +11721,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm bólo:n:bras
 \mmm lan:mrph:dans
 \mm dí:vq:agréable
-\ps adj/n
+\ps n
 \ms 1
 \gf soigneux
 \gvf soigneux
@@ -11583,7 +11732,25 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf habile
 \ms 4
 \gvf généreux
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólolandi
+\mm bólo.lan:n:action.de.main
+\mmm bólo:n:bras
+\mmm lan:mrph:dans
+\mm dí:vq:agréable
+\ps adj
+\ms 1
+\gf soigneux
+\gvf soigneux
+\ms 2
+\gvf ordonné
+\ms 3
+\gvf adroit
+\gvf habile
+\ms 4
+\gvf généreux
+\dt 12/Apr/2019
 
 \lx bólolandɔgɔ
 \mm bólo.lan:n:action.de.main
@@ -11608,14 +11775,24 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf bracelet en métal
 
 \lx bólolango
-\mm bólo.lan:n:action.de.main
+\mm bólolan:n:action.de.main
 \mmm bólo:n:bras
 \mmm lan:mrph:dans
 \mm gó:vq:désagréable
-\ps adj/n
+\ps adj
 \gf avare
 \gvf avare
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólolango
+\mm bólolan:n:action.de.main
+\mmm bólo:n:bras
+\mmm lan:mrph:dans
+\mm gó:vq:désagréable
+\ps n
+\gf avare
+\gvf avare
+\dt 12/Apr/2019
 
 \lx bólolanjugu
 \mm bólo.lan:n:action.de.main
@@ -11626,24 +11803,52 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo:n:bras
 \mm man:mrph:SUPER
 \mm júgu:vq:mauvais
-\ps adj/n
+\ps adj
 \ms 1
 \gf désordonné
 \gvf désordonné
 \gvf qui manque de soin
 \ms 2
 \gvf qui travaille mal
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólolanjugu
+\mm bólo.lan:n:action.de.main
+\mmm bólo:n:bras
+\mmm lan:mrph:dans
+\mm júgu:vq:mauvais
+\va bólomanjugu
+\mm bólo:n:bras
+\mm man:mrph:SUPER
+\mm júgu:vq:mauvais
+\ps n
+\ms 1
+\gf désordonné
+\gvf désordonné
+\gvf qui manque de soin
+\ms 2
+\gvf qui travaille mal
+\dt 12/Apr/2019
 
 \lx bólolankolon
 \mm bólo:n:bras
 \mm lán.kolon:adj:vide
 \mmm lan:mrph:dans
 \mmm kólon:adj:vide
-\ps adj/n
+\ps n
 \gf pauvre
 \gvf pauvre
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólolankolon
+\mm bólo:n:bras
+\mm lán.kolon:adj:vide
+\mmm lan:mrph:dans
+\mmm kólon:adj:vide
+\ps n
+\gf pauvre
+\gvf pauvre
+\dt 12/Apr/2019
 
 \lx bólolankolonya
 \mm bólo:n:bras
@@ -11724,11 +11929,22 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm bólo:n:bras
 \mmm lá:pp:à
 \mm súma:vq:froid
-\ps adj/n
+\ps adj
 \gf lent
 \gvf lent
 \smf (qui travaille lentement)
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólolasuma
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mm súma:vq:froid
+\ps n
+\gf lent
+\gvf lent
+\smf (qui travaille lentement)
+\dt 12/Apr/2019
 
 \lx bólolateli
 \mm bólo.la:n:action.de.main
@@ -11740,7 +11956,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm bólo:n:bras
 \mmm lá:pp:à
 \mm télin:vq:rapide
-\ps adj/n
+\ps adj
 \ms 1
 \gf rapide.des.mains
 \gvf rapide des mains
@@ -11752,7 +11968,31 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \gvf qui touche à tout
 \ms 4
 \gvf qui frappe facilement
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólolateli
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mm téli:vq:rapide
+\va bólolatelin
+\mm bólo.la:n:action.de.main
+\mmm bólo:n:bras
+\mmm lá:pp:à
+\mm télin:vq:rapide
+\ps n
+\ms 1
+\gf rapide.des.mains
+\gvf rapide des mains
+\gvf preste
+\ms 2
+\gvf adroit
+\gvf habile
+\ms 3
+\gvf qui touche à tout
+\ms 4
+\gvf qui frappe facilement
+\dt 12/Apr/2019
 
 \lx bólolatigɛ
 \mm bólo:n:bras
@@ -11923,10 +12163,19 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo:n:bras
 \mm mà:mrph:SUPER
 \mm gɛ̀lɛn:vq:dur
-\ps adj/n
+\ps adj
 \gf avare
 \gvf avare
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólomagɛlɛn
+\mm bólo:n:bras
+\mm mà:mrph:SUPER
+\mm gɛ̀lɛn:vq:dur
+\ps n
+\gf avare
+\gvf avare
+\dt 12/Apr/2019
 
 \lx bólomagɛn
 \mm bólo:n:bras
@@ -11956,10 +12205,19 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo:n:bras
 \mm man:mrph:SUPER
 \mm dí:vq:agréable
-\ps adj/n
+\ps adj
 \gf généreux
 \gvf généreux
-\dt 10/Jun/2015
+\dt 12/Apr/2019
+
+\lx bólomandi
+\mm bólo:n:bras
+\mm man:mrph:SUPER
+\mm dí:vq:agréable
+\ps n
+\gf généreux
+\gvf généreux
+\dt 12/Apr/2019
 
 \lx bólomandɔgɔ
 \mm bólo:n:bras
@@ -11969,7 +12227,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo:n:bras
 \mm ma:mrph:SUPER
 \mm dɔ́gɔ:vq:étroit
-\ps adj/n
+\ps adj
 \ms 1
 \gf pauvre
 \gvf pauvre
@@ -11977,7 +12235,25 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \smf (mais non miséreux ; ne peut dépanner les autres)
 \ms 2
 \gvf faible
-\dt 01/Aug/2018
+\dt 12/Apr/2019
+
+\lx bólomandɔgɔ
+\mm bólo:n:bras
+\mm man:mrph:SUPER
+\mm dɔ́gɔ:vq:étroit
+\va bólomadɔgɔ
+\mm bólo:n:bras
+\mm ma:mrph:SUPER
+\mm dɔ́gɔ:vq:étroit
+\ps n
+\ms 1
+\gf pauvre
+\gvf pauvre
+\gvf indigent
+\smf (mais non miséreux ; ne peut dépanner les autres)
+\ms 2
+\gvf faible
+\dt 12/Apr/2019
 
 \lx bólomandɔgɔya
 \mm bólo.man.dɔgɔ:n:pauvre
@@ -12000,11 +12276,25 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo:n:bras
 \mm ma:mrph:à
 \mm júgu:vq:mauvais
-\ps adj/n
+\ps adj
 \gf mauvais.travailleur
 \gvf mauvais travailleur
 \sy bólolajugu
-\dt 01/Mar/2019
+\dt 12/Apr/2019
+
+\lx bólomanjugu
+\mm bólo:n:bras
+\mm màn:mrph:SUPER
+\mm júgu:vq:mauvais
+\va bólo.ma.jugu
+\mm bólo:n:bras
+\mm ma:mrph:à
+\mm júgu:vq:mauvais
+\ps n
+\gf mauvais.travailleur
+\gvf mauvais travailleur
+\sy bólolajugu
+\dt 12/Apr/2019
 
 \lx bólomanjuguya
 \mm bólo.man.jugu:adj:mauvais.travailleur
@@ -12114,7 +12404,20 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bólontan
 \mm bólo:n:bras
 \mm ntan:mrph:PRIV
-\ps adj/n
+\ps adj
+\ms 1
+\gf manchot
+\gvf manchot
+\gvf sans manche
+\ms 2
+\gvf pauvre
+\sy dɛ́sɛbaatɔ
+\dt 12/Apr/2019
+
+\lx bólontan
+\mm bólo:n:bras
+\mm ntan:mrph:PRIV
+\ps n
 \ms 1
 \gf manchot
 \gvf manchot
@@ -12122,7 +12425,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ms 2
 \gvf pauvre
 \sy dɛ́sɛbaatɔ
-\dt 26/Sep/2006
+\dt 12/Apr/2019
 
 \lx bóloɲa
 \mm bólo:n:bras
@@ -13763,10 +14066,10 @@ toujours (pro)
 \lx bɔ̀rɔma
 \mm bɔ̀rɔ:n:sac
 \mm ma:mrph:COM
-\ps adj/n
+\ps adj
 \gf ensaché
 \gvf ensaché
-\dt 11/Nov/2007
+\dt 12/Apr/2019
 
 \lx bɔ́rɔn
 \ps v
@@ -14314,12 +14617,12 @@ centrale est de couleur sombre
 \lx búgunnama
 \mm búgun:vq:gris.clair
 \mm nama:mrph:STAT
-\ps adj/n
+\ps adj
 \gf embrumé
 \gvf embrumé
 \gvf gris
 \rem f
-\dt 11/Nov/2007
+\dt 12/Apr/2019
 
 \lx búgunnatigɛ
 \mm búgun:n:moisissure
@@ -14453,11 +14756,11 @@ centrale est de couleur sombre
 
 \lx búla
 \va bɔ́lan
-\ps adj/n
+\ps adj
 \gf jeune.(animal)
-\gvf jeune (animal)
-\smf (pas encore adulte)
-\dt 16/Aug/2006
+\gvf jeune
+\smf (animal)
+\dt 12/Apr/2019
 
 \lx búla
 \ps n
@@ -14478,6 +14781,14 @@ centrale est de couleur sombre
 \gf faire.la.lessive.avec.un.peu.de.bleu
 \gvf faire la lessive avec un peu de bleu
 \dt 16/Aug/2006
+
+\lx búla
+\va bɔ́lan
+\ps n
+\gf jeune.(animal)
+\gvf jeune animal
+\smf (pas encore adulte)
+\dt 12/Apr/2019
 
 \lx bùlakabulaka
 \ps v
@@ -19573,11 +19884,22 @@ saillie)
 \mmm dá:n:bouche
 \mmm bàra:n:calebasse
 \mm jɛ́:adj:blanc
-\ps adj/n
+\ps adj
 \gf pauvre
 \gvf pauvre
-\smf (qui n'est pas considéré [fig])
-\dt 07/Mar/2019
+\smf (qui n'est pas considéré)
+\dt 12/Apr/2019
+
+\lx dábarajɛ
+\mm dá.bara:n:bouche
+\mmm dá:n:bouche
+\mmm bàra:n:calebasse
+\mm jɛ́:adj:blanc
+\ps n
+\gf pauvre
+\gvf pauvre
+\smf (qui n'est pas considéré)
+\dt 12/Apr/2019
 
 \lx dábɛrɛbɛrɛma
 \ve (-f,-bk)
@@ -20116,11 +20438,20 @@ saillie)
 \lx dáduman
 \mm dá:n:bouche
 \mm dúman:adj:agréable
-\ps adj/n
+\ps adj
 \gf beau.parleur
 \gvf beau parleur
 \gvf bavard
-\dt 11/Nov/2007
+\dt 12/Apr/2019
+
+\lx dáduman
+\mm dá:n:bouche
+\mm dúman:adj:agréable
+\ps n
+\gf beau.parleur
+\gvf beau parleur
+\gvf bavard
+\dt 12/Apr/2019
 
 \lx dáfa
 \mm dá:n:bouche
@@ -20721,14 +21052,27 @@ Burkina Faso, sa langue)
 \va dágwaran
 \mm dá:n:bouche
 \mm gwáran:v:entraver
-\ph [gw]
-\ps adj/n
+\ps adj
+\ms 1
+\gf bègue
+\gvf bègue
+\ms 2
+\gvf aux paroles inintelligibles
+\dt 12/Apr/2019
+
+\lx dágaran
+\mm dá:n:bouche
+\mm gáran:v:entraver
+\va dágwaran
+\mm dá:n:bouche
+\mm gwáran:v:entraver
+\ps n
 \ms 1
 \gf bègue
 \gvf bègue
 \ms 2
 \gvf personne aux paroles inintelligibles
-\dt 07/Mar/2019
+\dt 12/Apr/2019
 
 \lx dàga-sìgi-dàga-lá
 \mm dàga:n:canari
@@ -20767,11 +21111,10 @@ Burkina Faso, sa langue)
 \va dágweren
 \mm dá:n:bouche
 \mm gwéren:adj:bouché
-\ph [gw]
-\ps adj/n
+\ps adj
 \gf muet
 \gvf muet
-\dt 07/Mar/2019
+\dt 15/Apr/2019
 
 \lx dágeren
 \mm dá:n:bouche
@@ -20787,6 +21130,17 @@ Burkina Faso, sa langue)
 \smf (un orifice)
 \gvf bloquer
 \dt 07/Mar/2019
+
+\lx dágeren
+\mm dá:n:bouche
+\mm géren:adj:bouché
+\va dágweren
+\mm dá:n:bouche
+\mm gwéren:adj:bouché
+\ps n
+\gf muet
+\gvf muet
+\dt 15/Apr/2019
 
 \lx dágɛlɛkɛ
 \mm dá:n:bouche
@@ -21345,11 +21699,21 @@ Burkina Faso, sa langue)
 \mm dá:v:poser
 \mm kó:n:affaire
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \gf mauvais.coucheur
 \gvf mauvais coucheur
 \smf (donne des coups de pieds en dormant)
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dákojugu
+\mm dá:v:poser
+\mm kó:n:affaire
+\mm júgu:adj:mauvais
+\ps n
+\gf mauvais.coucheur
+\gvf mauvais coucheur
+\smf (donne des coups de pieds en dormant)
+\dt 15/Apr/2019
 
 \lx dákolo
 \mm dá:n:bouche
@@ -21645,10 +22009,22 @@ Burkina Faso, sa langue)
 \mm cá.man:adj:nombreux
 \mmm cá:vq:nombreux
 \mmm man:mrph:ADJ
-\ps adj/n
+\ps adj
 \gf bavard
 \gvf bavard
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálacaman
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm cá.man:adj:nombreux
+\mmm cá:vq:nombreux
+\mmm man:mrph:ADJ
+\ps n
+\gf bavard
+\gvf bavard
+\dt 15/Apr/2019
 
 \lx dálacɛ
 \mm dá:n:bouche
@@ -21729,11 +22105,37 @@ Burkina Faso, sa langue)
 \mmm dá:n:bouche
 \mmm la:mrph:à
 \mm fyɛ́n:adj:léger
-\ps adj/n
+\ps adj
 \gf indiscret
 \gvf indiscret
 \smf (qui ne tient pas sa langue)
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálafɛgɛn
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm fɛ́gen:adj:léger
+\va dálafiɲɛ
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm fíɲɛ:adj:léger
+\va dálafiyɛn
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm fíyɛn:adj:léger
+\va dálafyɛn
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm fyɛ́n:adj:léger
+\ps n
+\gf indiscret
+\gvf indiscret
+\smf (qui ne tient pas sa langue)
+\dt 15/Apr/2019
 
 \lx dálafiɲɛ
 \mm dá:n:bouche
@@ -21764,12 +22166,34 @@ Burkina Faso, sa langue)
 \mm dá:n:bouche
 \mm rɔ:mrph:IN
 \mm gɛ̀lɛn:adj:dur
-\ps adj/n
+\ps adj
 \gf effronté
 \gvf effronté
 \gvf têtu
 \smf (qui nie tout, discute tout, qui ne reconnaît pas ses torts)
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálagɛlɛn
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm gɛ̀lɛn:adj:dur
+\va dámagɛlɛn
+\mm dáma:n:bouche.active
+\mm dá:n:bouche
+\mm mà:mrph:SUPER
+\mm gɛ̀lɛn:adj:dur
+\va dárɔgɛlɛn
+\mm dárɔ:n:bouche.active
+\mm dá:n:bouche
+\mm rɔ:mrph:IN
+\mm gɛ̀lɛn:adj:dur
+\ps n
+\gf effronté
+\gvf effronté
+\gvf têtu
+\smf (qui nie tout, discute tout, qui ne reconnaît pas ses torts)
+\dt 15/Apr/2019
 
 \lx dálagirin
 \mm dá.la:n:bouche.active
@@ -21777,11 +22201,23 @@ Burkina Faso, sa langue)
 \mmm la:mrph:à
 \mm gírin:adj:lourd
 \ph [gr]
-\ps adj/n
+\ps adj
 \gf discret
 \gvf discret
 \smf (dans ses paroles)
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálagirin
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm gírin:adj:lourd
+\ph [gr]
+\ps n
+\gf discret
+\gvf discret
+\smf (dans ses paroles)
+\dt 15/Apr/2019
 
 \lx dálaja
 \mm dá:n:bouche
@@ -21818,7 +22254,7 @@ Burkina Faso, sa langue)
 \mmm dá:n:bouche
 \mmm la:mrph:à
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \ms 1
 \gf grossier
 \gvf grossier
@@ -21826,7 +22262,22 @@ Burkina Faso, sa langue)
 \ms 2
 \gvf goinfre
 \sy dájugu
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálajugu
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm júgu:adj:mauvais
+\ps n
+\ms 1
+\gf grossier
+\gvf grossier
+\gvf ordurier
+\ms 2
+\gvf goinfre
+\sy dájugu
+\dt 15/Apr/2019
 
 \lx dálakà
 \mm dá:n:bouche
@@ -21959,13 +22410,31 @@ Burkina Faso, sa langue)
 \mmm dá:n:bouche
 \mmm la:mrph:à
 \mm kúnan:adj:amer
-\ps adj/n
+\ps adj
 \gf médisant
 \gvf médisant
 \gvf mauvaise langue
 \smf (qui parle désagréablement; personne aux remarques
 désobligeantes)
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálakuna
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm kúna:adj:amer
+\va dálakunan
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm kúnan:adj:amer
+\ps n
+\gf médisant
+\gvf médisant
+\gvf mauvaise langue
+\smf (qui parle désagréablement; personne aux remarques
+désobligeantes)
+\dt 15/Apr/2019
 
 \lx dálakùru
 \mm dá:n:bouche
@@ -22103,7 +22572,7 @@ parfois péjoratif)
 \mmm dá:n:bouche
 \mmm la:mrph:à
 \mm mìsɛn:adj:petit
-\ps adj/n
+\ps adj
 \ms 1
 \gf bavard
 \gvf bavard
@@ -22118,7 +22587,30 @@ parfois péjoratif)
 \gvf gourmand
 \sy dálandi
 \sy dárɔndi
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+
+\lx dálamisɛn
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm mìsɛn:adj:petit
+\ps n
+\ms 1
+\gf bavard
+\gvf bavard
+\smf (personne qui ne peut retenir sa bouche)
+\ms 2
+\gvf indiscret
+\smf (personne qui fait des observations sur tout)
+\ms 3
+\gvf irascible
+\smf (pour qui tout est sujet à querelle)
+\ms 4
+\gvf gourmand
+\sy dálandi
+\sy dárɔndi
+\dt 15/Apr/2019
 
 
 \lx dálamìsɛnya
@@ -22166,7 +22658,7 @@ parfois péjoratif)
 \mmm rɔ:mrph:IN
 \mm dí:vq:agréable
 \ve (f)
-\ps adj/n
+\ps adj
 \ms 1
 \gf bavard
 \gvf bavard
@@ -22174,7 +22666,33 @@ parfois péjoratif)
 \gvf importun
 \gvf indiscret
 \sy dálamisɛn
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálandi
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm lan:mrph:à
+\mm dí:vq:agréable
+\va dámandi
+\mm dá.ma:n:bouche.active
+\mmm dá:n:bouche
+\mmm man:mrph:SUPER
+\mm dí:vq:agréable
+\va dárɔndi
+\mm dá.rɔ:n:bouche.active
+\mmm dá:n:bouche
+\mmm rɔ:mrph:IN
+\mm dí:vq:agréable
+\ve (f)
+\ps n
+\ms 1
+\gf bavard
+\gvf bavard
+\ms 2
+\gvf importun
+\gvf indiscret
+\sy dálamisɛn
+\dt 15/Apr/2019
 
 \lx dálango
 \mm dá.la:n:bouche.active
@@ -22186,12 +22704,29 @@ parfois péjoratif)
 \mmm dá:n:bouche
 \mmm man:mrph:SUPER
 \mm gó:adj:désagréable
-\ps adj/n
+\ps adj
 \gf fielleux
 \gvf fielleux
 \smf (qui parle mal; qui répond de façon desagréable ou ne répond
 pas)
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálango
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm lan:mrph:à
+\mm gó:adj:désagréable
+\va dámango
+\mm dá.ma:n:bouche.active
+\mmm dá:n:bouche
+\mmm man:mrph:SUPER
+\mm gó:adj:désagréable
+\ps n
+\gf fielleux
+\gvf fielleux
+\smf (qui parle mal; qui répond de façon desagréable ou ne répond
+pas)
+\dt 15/Apr/2019
 
 \lx dálankolon
 \mm dá:n:bouche
@@ -22203,7 +22738,7 @@ pas)
 \mm rɔ́n.kolon:adj:vide
 \mmm rɔ́n:mrph:IN
 \mmm kólon:adj:vide
-\ps adj/n
+\ps adj
 \ms 1
 \gf édenté
 \gvf édenté
@@ -22211,7 +22746,27 @@ pas)
 \ms 2
 \gvf qui n'a rien à dire
 \gvf sans rien dire
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálankolon
+\mm dá:n:bouche
+\mm lán.kolon:adj:vide
+\mmm lan:mrph:dans
+\mmm kólon:adj:vide
+\va dá.rɔn.kolon
+\mm dá:n:bouche
+\mm rɔ́n.kolon:adj:vide
+\mmm rɔ́n:mrph:IN
+\mmm kólon:adj:vide
+\ps n
+\ms 1
+\gf édenté
+\gvf édenté
+\smf (enfant qui n'a pas fait ses dents, personne àgée qui a perdu les siennes)
+\ms 2
+\gvf qui n'a rien à dire
+\gvf sans rien dire
+\dt 15/Apr/2019
 
 \lx dálannabana
 \mm dá.lan:n:lit
@@ -22360,7 +22915,7 @@ pas)
 \mmm dá:n:bouche
 \mmm la:mrph:à
 \mm súma:vq:froid
-\ps adj/n
+\ps adj
 \ms 1
 \gf retenu
 \gvf retenu
@@ -22368,21 +22923,50 @@ pas)
 \ms 2
 \gvf discret
 \smf (qui sait garder les secrets)
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálasuma
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm súma:vq:froid
+\ps n
+\ms 1
+\gf retenu
+\gvf retenu
+\smf (qui n'est pas bavard)
+\ms 2
+\gvf discret
+\smf (qui sait garder les secrets)
+\dt 15/Apr/2019
 
 \lx dálateli
 \mm dá.la:n:bouche.active
 \mmm dá:n:bouche
 \mmm la:mrph:à
 \mm téli:vq:rapide
-\ps adj/n
+\ps adj
 \ms 1
 \gf moulin.à.paroles
 \gvf moulin à paroles
 \smf (qui parle vite)
 \ms 2
 \gvf prompt à insulter
-\dt 08/Mar/2019
+\dt 15/Apr/2019
+
+\lx dálateli
+\mm dá.la:n:bouche.active
+\mmm dá:n:bouche
+\mmm la:mrph:à
+\mm téli:vq:rapide
+\ps n
+\ms 1
+\gf moulin.à.paroles
+\gvf moulin à paroles
+\smf (qui parle vite)
+\ms 2
+\gvf prompt à insulter
+\dt 15/Apr/2019
 
 \lx dálateliya
 \mm dála.teli:adj:moulin.à.paroles
@@ -22872,12 +23456,23 @@ rétribution mais à titre de réciprocité)
 \mm dá:n:bouche
 \mm màn:mrph:SUPER
 \mm gó:vq:désagréable
-\ps adj/n
+\ps n
 \gf malpoli
 \gvf malpoli
 \smf (personne qui ne répond pas aux gens)
 \gvf acerbe
-\dt 26/Sep/2006
+\dt 15/Apr/2019
+
+\lx dámango
+\mm dá:n:bouche
+\mm màn:mrph:SUPER
+\mm gó:vq:désagréable
+\ps adj
+\gf malpoli
+\gvf malpoli
+\smf (personne qui ne répond pas aux gens)
+\gvf acerbe
+\dt 15/Apr/2019
 
 \lx dàmantan
 \va dàmanta
@@ -24137,14 +24732,26 @@ génitales ...)
 \lx dántan
 \mm dá:n:bouche
 \mm ntan:mrph:PRIV
-\ps adj/n
+\ps adj
 \ms 1
 \gf muet
 \gvf muet
 \gvf sans parole
 \ms 2
 \gvf animal
-\dt 26/Sep/2006
+\dt 15/Apr/2019
+
+\lx dántan
+\mm dá:n:bouche
+\mm ntan:mrph:PRIV
+\ps n
+\ms 1
+\gf muet
+\gvf muet
+\gvf sans parole
+\ms 2
+\gvf animal
+\dt 15/Apr/2019
 
 \lx dántanfɛn
 \mm dá.ntan:n:muet
@@ -24253,10 +24860,18 @@ génitales ...)
 \lx dàntɔ
 \mm dàn:n:limite
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf bossu
 \gvf bossu
-\dt 12/Aug/2006
+\dt 15/Apr/2019
+
+\lx dàntɔ
+\mm dàn:n:limite
+\mm tɔ:mrph:ST
+\ps n
+\gf bossu
+\gvf bossu
+\dt 15/Apr/2019
 
 \lx dánye
 \mm dá:v:créer
@@ -25024,10 +25639,18 @@ génitales ...)
 \lx dáyɛlɛ
 \mm dá:n:bouche
 \mm yɛ̀lɛ:v:ouvrir
-\ps adj/n
+\ps adj
 \gf niais
 \gvf niais
-\dt 12/Aug/2006
+\dt 15/Apr/2019
+
+\lx dáyɛlɛ
+\mm dá:n:bouche
+\mm yɛ̀lɛ:v:ouvrir
+\ps n
+\gf niais
+\gvf niais
+\dt 15/Apr/2019
 
 \lx dáyɛ̀lɛ
 \mm dá:n:bouche
@@ -25567,11 +26190,20 @@ génitales ...)
 \lx dénbo
 \mm dén:n:enfant
 \mm bò:n:excrément
-\ps adj/n
+\ps adj
 \gf vaurien
 \gvf vaurien
-\smf (t.i)
-\dt 16/Aug/2006
+\smf (terme injurieux)
+\dt 15/Apr/2019
+
+\lx dénbo
+\mm dén:n:enfant
+\mm bò:n:excrément
+\ps n
+\gf vaurien
+\gvf vaurien
+\smf (terme injurieux)
+\dt 15/Apr/2019
 
 \lx dénbolo
 \mm dén:n:enfant
@@ -25652,7 +26284,7 @@ génitales ...)
 \lx dénjugu
 \mm dén:n:enfant
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \ms 1
 \gf égoïste
 \gvf égoïste
@@ -25662,7 +26294,22 @@ génitales ...)
 \ms 3
 \gvf qui use de maléfices
 \smf (pour tuer les gens, le bétail ...)
-\dt 17/Mar/2018
+\dt 15/Apr/2019
+
+\lx dénjugu
+\mm dén:n:enfant
+\mm júgu:adj:mauvais
+\ps n
+\ms 1
+\gf égoïste
+\gvf égoïste
+\gvf mauvais coeur
+\ms 2
+\gvf fripouille
+\ms 3
+\gvf qui use de maléfices
+\smf (pour tuer les gens, le bétail ...)
+\dt 15/Apr/2019
 
 \lx dénjuguya
 \mm dén.jugu:n:égoïste
@@ -25738,11 +26385,20 @@ génitales ...)
 \lx dénkun
 \mm dén:n:enfant
 \mm kùn:n:tête
-\ps adj/n
+\ps adj
 \gf costaud
 \gvf costaud
 \smf (bien bâti, qui s'impose par sa personnalité)
-\dt 26/Sep/2006
+\dt 15/Apr/2019
+
+\lx dénkun
+\mm dén:n:enfant
+\mm kùn:n:tête
+\ps n
+\gf costaud
+\gvf costaud
+\smf (bien bâti, qui s'impose par sa personnalité)
+\dt 15/Apr/2019
 
 \lx dénkundi
 \mm dén:n:enfant
@@ -26705,7 +27361,7 @@ porte jusqu'à ce que passe le chef
 \mm dɛ́sɛ:v:échouer
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \ms 1
 \gf indigent
 \gvf indigent
@@ -26718,7 +27374,30 @@ porte jusqu'à ce que passe le chef
 \ms 3
 \gvf incapable
 \smf (de faire telle action)
-\dt 10/Mar/2019
+\dt 15/Apr/2019
+
+\lx dɛ́sɛbaatɔ
+\mm dɛ́sɛ:v:échouer
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va dɛ́sɛbagatɔ
+\mm dɛ́sɛ:v:échouer
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
+\ms 1
+\gf indigent
+\gvf indigent
+\smf (qui n'arrive pas à subvenir à ses besoins)
+\sy fàantan
+\sy bólontan
+\ms 2
+\gvf infirme
+\smf (incapable de marcher )
+\ms 3
+\gvf incapable
+\smf (de faire telle action)
+\dt 15/Apr/2019
 
 \lx dɛ́sɛlan
 \mm dɛ́sɛ:v:tailler
@@ -32405,11 +33084,20 @@ gens)
 \lx dùsuba
 \mm dùsu:v:se.fâcher
 \mm ba:mrph:AUGM
-\ps adj/n
+\ps adj
 \gf coléreux
 \gvf coléreux
 \gvf susceptible
-\dt 26/Sep/2006
+\dt 15/Apr/2019
+
+\lx dùsuba
+\mm dùsu:v:se.fâcher
+\mm ba:mrph:AUGM
+\ps n
+\gf coléreux
+\gvf coléreux
+\gvf susceptible
+\dt 15/Apr/2019
 
 \lx dùsubaya
 \mm dùsuba:adj:coléreux
@@ -32646,13 +33334,26 @@ gens)
 \mmm dùsu:n:coeur
 \mmm kùn:n:tête
 \mm ntan:mrph:PRIV
-\ps adj/n
+\ps adj
 \ms 1
 \gf poltron
 \gvf poltron
 \ms 2
 \gvf paresseux
-\dt 14/Mar/2019
+\dt 15/Apr/2019
+
+\lx dùsukunntan
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
+\mm ntan:mrph:PRIV
+\ps n
+\ms 1
+\gf poltron
+\gvf poltron
+\ms 2
+\gvf paresseux
+\dt 15/Apr/2019
 
 \lx dùsukunntanya
 \mm dùsukun:n:coeur
@@ -32718,7 +33419,7 @@ gens)
 \mmm dùsu:n:coeur
 \mmm man:mrph:SUPER
 \mm dí:vq:agréable
-\ps adj/n
+\ps adj
 \ms 1
 \gf bénin
 \gvf bénin
@@ -32728,7 +33429,24 @@ gens)
 \gvf de bon caractère
 \ms 3
 \gvf de bonne humeur
-\dt 14/Mar/2019
+\dt 15/Apr/2019
+
+\lx dùsumandi
+\mm dùsuman:n:humeur
+\mmm dùsu:n:coeur
+\mmm man:mrph:SUPER
+\mm dí:vq:agréable
+\ps n
+\ms 1
+\gf bénin
+\gvf bénin
+\gvf affable
+\gvf aimable
+\ms 2
+\gvf de bon caractère
+\ms 3
+\gvf de bonne humeur
+\dt 15/Apr/2019
 
 \lx dùsumandiya
 \mm dùsumandi:adj:bénin
@@ -33052,10 +33770,16 @@ gens)
 \dt 04/Feb/2016
 
 \lx ɛ́ndiyɛn
-\ps adj/n
+\ps adj
 \gf indien
 \gvf indien
-\dt 06/Feb/2017
+\dt 15/Apr/2019
+
+\lx ɛ́ndiyɛn
+\ps n
+\gf Indien
+\gvf Indien
+\dt 15/Apr/2019
 
 \lx ɛntɛrinɛti
 \va ɛntɛrɛnɛti
@@ -33419,7 +34143,20 @@ gens)
 \lx fàantan
 \mm fàa:n:force
 \mm ntan:mrph:PRIV
-\ps adj/n
+\ps adj
+\ms 1
+\gf pauvre
+\gvf pauvre
+\sy dɛ́sɛbaatɔ
+\sy sɛ̀gɛnbaatɔ
+\ms 2
+\gvf impuissance
+\dt 15/Apr/2019
+
+\lx fàantan
+\mm fàa:n:force
+\mm ntan:mrph:PRIV
+\ps n
 \ms 1
 \gf pauvre
 \gvf pauvre
@@ -33429,7 +34166,7 @@ gens)
 \xf le pauvre a le ventre (rectum) vide (dicton)
 \ms 2
 \gvf impuissance
-\dt 26/Sep/2006
+\dt 15/Apr/2019
 
 \lx fàantanden
 \mm fàantan:n:pauvre
@@ -33997,10 +34734,18 @@ gens)
 \lx fàlandi
 \mm fà:n:père
 \mm landi:adj:qui.aime
-\ps adj/n
+\ps adj
 \gf qui.aime.son.père
 \gvf qui aime son père
-\dt 16/Aug/2006
+\dt 15/Apr/2019
+
+\lx fàlandi
+\mm fà:n:père
+\mm landi:adj:qui.aime
+\ps n
+\gf qui.aime.son.père
+\gvf qui aime son père
+\dt 15/Apr/2019
 
 \lx fàlandiya
 \mm fàlandi:adj:qui.aime.son.père
@@ -34039,12 +34784,22 @@ gens)
 \lx fálatɔ
 \mm fála:n:orphelin
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf orphelin
 \gvf orphelin
 \gvf orpheline
 \sy fála
-\dt 26/Sep/2006
+\dt 15/Apr/2019
+
+\lx fálatɔ
+\mm fála:n:orphelin
+\mm tɔ:mrph:ST
+\ps n
+\gf orphelin
+\gvf orphelin
+\gvf orpheline
+\sy fála
+\dt 15/Apr/2019
 
 \lx fálatɔya
 \mm fálatɔ:adj:orphelin
@@ -34804,10 +35559,18 @@ mais plus large que sóli; pour sarcler en profondeur)
 \lx fàntan
 \mm fà:n:père
 \mm ntan:mrph:PRIV
-\ps adj/n
+\ps adj
 \gf orphelin.de.père
 \gvf orphelin de père
-\dt 16/Aug/2006
+\dt 15/Apr/2019
+
+\lx fàntan
+\mm fà:n:père
+\mm ntan:mrph:PRIV
+\ps n
+\gf orphelin.de.père
+\gvf orphelin de père
+\dt 15/Apr/2019
 
 \lx fàntanfala
 \mm fà:n:père
@@ -35614,10 +36377,34 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:PTCP.PROG
 \ph [gw]
-\ps adj/n
+\ps adj
 \gf fiévreux
 \gvf fiévreux
-\dt 17/Mar/2019
+\dt 15/Apr/2019
+
+\lx fàriganbaatɔ
+\mm fàrigan:n:fièvre
+\mmm fàri:n:corps
+\mmm gàn:n:fièvre
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va fàri.gan.baga.tɔ
+\mm fàrigan:n:fièvre
+\mmm fàri:n:corps
+\mmm gàn:n:fièvre
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va fàri.gwan.baa.tɔ
+\mm fàrigwan:n:fièvre
+\mmm fàri:n:corps
+\mmm gwàn:n:fièvre
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:PTCP.PROG
+\ph [gw]
+\ps n
+\gf fiévreux
+\gvf fiévreux
+\dt 15/Apr/2019
 
 \lx fàrikalaya
 \mm fàri:n:corps
@@ -36409,7 +37196,19 @@ compagnie ...
 \lx fàtɔ
 \mm fà:n:folie
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
+\ms 1
+\gf fou
+\gvf fou
+\ms 2
+\gvf enragé
+\smf (chien)
+\dt 15/Apr/2019
+
+\lx fàtɔ
+\mm fà:n:folie
+\mm tɔ:mrph:ST
+\ps n
 \ms 1
 \gf fou
 \gvf fou
@@ -36418,7 +37217,7 @@ compagnie ...
 \smf (chien ...)
 \xv ɲì tɛ́  fàtɔ lá
 \xf le fou n'a pas d'ami  (dicton)
-\dt 26/Sep/2006
+\dt 15/Apr/2019
 
 \lx fàtɔgɔma
 \mm fà:n:père
@@ -37724,11 +38523,11 @@ bien (dicton)
 \mm fìla:num:deux
 \mm nan:mrph:ORD
 \ph [fl]
-\ps adj/n
+\ps adj
 \gf deuxième
 \gvf deuxième
 \ph [remarque : on s'attendrait à un ton bas]
-\dt 31/May/2017
+\dt 15/Apr/2019
 
 \lx fílanbolo
 \mm fílan:n:camarade.d’âge
@@ -38111,13 +38910,13 @@ la virginité (pièce de monnaie sans trou)
 \va fíl'
 \ps v
 \vl vt
-\ms 1
 \gf regarder
+\ms 1
 \gvf regarder
 \gvf considérer
-\xv à fílɛ  nìn / ò yé !
+\xv à fílɛ nìn / ò yé !
 \xf le voici ! le voilà !
-\xv fílɛ  nkàlontigɛla yé !
+\xv fílɛ nkàlontigɛla yé !
 \xf considère-le comme un menteur !
 \ms 2
 \gvf faire la divination
@@ -38128,7 +38927,7 @@ la virginité (pièce de monnaie sans trou)
 \ms 4
 \gvf prendre
 \smf (pour -- yé)
-\dt 05/Mar/2017
+\dt 14/Apr/2019
 
 \lx fílɛli
 \mm fílɛ:v:regarder
@@ -39477,10 +40276,25 @@ sur le ventre -- í kɔ́nɔ kàn)
 \va fíɲetɔ
 \mm fíɲe:n:aveugle
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf aveugle
 \gvf aveugle
-\dt 23/Jan/2015
+\dt 15/Apr/2019
+
+\lx fíyentɔ
+\mm fíyen:v:rendre.aveugle
+\mm tɔ:mrph:ST
+\va fyén.tɔ
+\mm fyén:v:rendre.aveugle
+\mm tɔ:mrph:ST
+\ph [fy]
+\va fíɲetɔ
+\mm fíɲe:n:aveugle
+\mm tɔ:mrph:ST
+\ps n
+\gf aveugle
+\gvf aveugle
+\dt 15/Apr/2019
 
 \lx fíyentɔbere
 \mm fíyentɔ:n:aveugle
@@ -41196,14 +42010,12 @@ sur le ventre -- í kɔ́nɔ kàn)
 \dt 19/Mar/2019
 
 \lx fɔ́lɔ
-\ps adj/n
+\ps adj
 \gf premier
 \gvf premier
 \xv né dénkɛ fɔ́lɔ dòn
 \xf c'est mon fils aîné
-\xv fɔ́lɔ...fílanan...
-\xf en premier lieu ..., en second lieu ...
-\dt 16/Dec/2018
+\dt 15/Apr/2019
 
 \lx fɔ́lɔ
 \ps adv
@@ -41240,6 +42052,14 @@ sur le ventre -- í kɔ́nɔ kàn)
 \gf autrefois
 \gvf autrefois
 \dt 24/Mar/2015
+
+\lx fɔ́lɔ
+\ps n
+\gf premier
+\gvf premier
+\xv fɔ́lɔ...fílanan...
+\xf en premier lieu ..., en second lieu ...
+\dt 15/Apr/2019
 
 \lx fɔ́lɔfɔlɔ
 \mm fɔ́lɔ:n:autrefois
@@ -43446,13 +44266,13 @@ forestières, fruit : long follicule de 50 cm)
 \lx fútɛ̀rɛ́
 \ve (bk,bn)
 \va pútɛ̀rɛ́
-\ps adj/n
+\ps n
 \gf un.peu
 \gvf un peu
 \sy pápaga
 \xv à táara fɛ́lɛbɔyɔrɔ, háli pútɛrɛ, à má  ò sɔ̀rɔ
 \xf il est allé à la chasse collective, il n'en a rien rapporté du tout
-\dt 16/Aug/2006
+\dt 15/Apr/2019
 
 \lx fwá
 \va fúwaa
@@ -72046,6 +72866,11 @@ ou une proposition)
 \mmm kɔ́nɔ:n:ventre
 \mmm nùgu:n:intestin
 \mm tìgɛ:v:couper
+\va kɔ́nɔnanugutigɛ
+\mm kɔ́nɔ:n:ventre
+\mm ná:pp:à
+\mm nùgu:n:intestin
+\mm tìgɛ:v:couper
 \ps n
 \gf crampe.d'estomac
 \ms 1
@@ -72053,7 +72878,7 @@ ou une proposition)
 \ms 2
 \gvf tranchée
 \sy kɔ́nɔtigɛ
-\dt 29/Mar/2019
+\dt 15/Apr/2019
 
 \lx kɔ̀nɔɲama
 \mm kɔ̀nɔ:n:oiseau
@@ -93129,14 +93954,13 @@ homme
 \ms 1
 \gf se.défouler
 \gvf se défouler
-\gvf réagir violemment en désespoir de
-cause
+\gvf réagir violemment en désespoir de #cause
 \ms 2
 \gvf s'exciter au travail
 \smf (par jalousie, émulation ...)
 \xv à múnɛna  báara fɛ̀
 \xf il s'est acharné au travail
-\dt 20/Aug/2017
+\dt 13/Apr/2019
 
 \lx mɔ́nɛ
 \ps adj
@@ -122641,13 +123465,23 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sì:n:vie
 \mm bán:v:terminer
 \mm tɔ:mrph:ST
-\ps ptcp/n
+\ps ptcp
 \gf casse-cou
 \gvf casse-cou
 \gvf imprudent
 \sy sìbilangalama
-\ph [sìblà ...]
-\dt 12/Apr/2019
+\dt 13/Apr/2019
+
+\lx sìbantɔ
+\mm sì:n:vie
+\mm bán:v:terminer
+\mm tɔ:mrph:ST
+\ps n
+\gf casse-cou
+\gvf casse-cou
+\gvf imprudent
+\sy sìbilangalama
+\dt 13/Apr/2019
 
 \lx sìbantɔya
 \mm sìbantɔ:ptcp:casse-cou
