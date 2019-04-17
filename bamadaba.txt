@@ -46528,13 +46528,28 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \mm gwèren:adj:fruit.vert
 \mm kári:v:casser
 \ph [gw]
-\ps adj/n
+\ps adj
 \ms 1
 \gf fruit.cueilli.avant.d'être.mûr
 \gvf fruit cueilli avant d'être mûr
 \ms 2
 \gvf mort jeune
-\dt 16/Aug/2006
+\dt 16/Apr/2019
+
+\lx gèrenkari
+\mm gèren:adj:fruit.vert
+\mm kári:v:casser
+\va gwèren.kari
+\mm gwèren:adj:fruit.vert
+\mm kári:v:casser
+\ph [gw]
+\ps n
+\ms 1
+\gf fruit.cueilli.avant.d'être.mûr
+\gvf fruit cueilli avant d'être mûr
+\ms 2
+\gvf mort jeune
+\dt 16/Apr/2019
 
 \lx gèrentigɛ
 \mm gèren:adj:fruit.vert
@@ -50107,10 +50122,19 @@ doigts par des fileuses du coton)
 \mm hínɛ:n:pitié
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf miséricordieux
 \gvf miséricordieux
-\dt 26/Sep/2006
+\dt 16/Apr/2019
+
+\lx hínɛbaatɔ
+\mm hínɛ:n:pitié
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
+\gf miséricordieux
+\gvf miséricordieux
+\dt 16/Apr/2019
 
 \lx hínɛbali
 \mm hínɛ:v:avoir.pitié
@@ -50232,23 +50256,41 @@ doigts par des fileuses du coton)
 
 \lx hɔ́rɔn
 \bw ar: hurr = id.
-\ps adj/n
+\ps adj
 \ms 1
 \gf libre
 \gvf libre
+\smf (opposé à l'esclave : jɔ̀n)
+\ms 2
+\gvf personne honnête
+\dt 16/Apr/2019
+
+\lx hɔ́rɔn
+\bw ar: hurr = id.
+\ps n
+\ms 1
+\gf homme.libre
 \gvf homme libre
 \smf (opposé à l'esclave : jɔ̀n)
 \ms 2
 \gvf personne honnête
-\dt 26/Sep/2006
+\dt 16/Apr/2019
 
 \lx hɔ́rɔnkolon
 \mm hɔ́rɔn:adj:libre
 \mm kólon:adj:usagé
-\ps adj/n
+\ps adj
 \gf vaurien
 \gvf vaurien
-\dt 19/Mar/2019
+\dt 16/Apr/2019
+
+\lx hɔ́rɔnkolon
+\mm hɔ́rɔn:adj:libre
+\mm kólon:adj:usagé
+\ps n
+\gf vaurien
+\gvf vaurien
+\dt 16/Apr/2019
 
 \lx hɔ́rɔnya
 \mm hɔ́rɔn:adj:libre
@@ -51244,14 +51286,32 @@ qqch ...)
 \va jɛ̀ki.ma
 \mm jɛ̀ki:n:crinière
 \mm ma:mrph:COM
-\ps adj/n
+\ps adj
 \ms 1
 \gf qui.a.une.crinière
 \gvf qui a une crinière
 \gvf qui a une nageoire dorsale
 \ms 2
 \gvf personne voûtée
-\dt 26/Sep/2006
+\dt 16/Apr/2019
+
+\lx jàkima
+\mm jàki:n:crinière
+\mm ma:mrph:COM
+\va jàgi.ma
+\mm jàgi:n:crinière
+\mm ma:mrph:COM
+\va jɛ̀ki.ma
+\mm jɛ̀ki:n:crinière
+\mm ma:mrph:COM
+\ps n
+\ms 1
+\gf qui.a.une.crinière
+\gvf qui a une crinière
+\gvf qui a une nageoire dorsale
+\ms 2
+\gvf personne voûtée
+\dt 16/Apr/2019
 
 \lx jàkɔngɔ
 \mm jà:n:sécheresse
@@ -51344,12 +51404,23 @@ calebasses)
 \mm jà:n:ombre
 \mm lá:pp:à
 \mm fárin:adj:ardent
-\ps adj/n
+\ps adj
 \gf téméraire
 \gvf téméraire
 \gvf audacieux
 \gvf courageux
-\dt 19/Mar/2019
+\dt 16/Apr/2019
+
+\lx jàlafarin
+\mm jà:n:ombre
+\mm lá:pp:à
+\mm fárin:adj:ardent
+\ps n
+\gf téméraire
+\gvf téméraire
+\gvf audacieux
+\gvf courageux
+\dt 16/Apr/2019
 
 \lx jàlagɛlɛn
 \mm jà:n:ombre
@@ -51399,10 +51470,19 @@ calebasses)
 \mm jàlaki:v:donner.tort
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf accusé
 \gvf accusé
-\dt 26/Sep/2006
+\dt 16/Apr/2019
+
+\lx jàlakibaatɔ
+\mm jàlaki:v:donner.tort
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
+\gf accusé
+\gvf accusé
+\dt 16/Apr/2019
 
 \lx jàlakibaga
 \mm jàlaki:v:donner.tort
@@ -51478,10 +51558,10 @@ calebasses)
 \mm jà:n:ombre
 \mm lá:pp:à
 \mm mìsɛn:adj:petit
-\ps adj/n
+\ps adj
 \gf peureux
 \gvf peureux
-\dt 23/Mar/2015
+\dt 17/Apr/2019
 
 \lx jàlamisɛn
 \mm jàla:n:cordon
@@ -51493,6 +51573,15 @@ calebasses)
 \xv sɔ̀rɔdasi jàlamisenw
 \xf personnel troupe
 \dt 23/Mar/2015
+
+\lx jàlamisɛn
+\mm jà:n:ombre
+\mm lá:pp:à
+\mm mìsɛn:adj:petit
+\ps n
+\gf peureux
+\gvf peureux
+\dt 17/Apr/2019
 
 \lx jàlamugu
 \mm jàla:n:cordon
@@ -52788,11 +52877,20 @@ calebasses)
 \lx játɔ
 \va jádɔ
 \ph [*diya.tɔ --> jatɔ = jouisseur]
-\ps adj/n
+\ps adj
 \gf débauché.invétéré
 \gvf débauché invétéré
 \smf (selon certains : opposé à kàkàla : impudique occasionnel)
-\dt 16/Aug/2006
+\dt 17/Apr/2019
+
+\lx játɔ
+\va jádɔ
+\ph [*diya.tɔ --> jatɔ = jouisseur]
+\ps n
+\gf débauché.invétéré
+\gvf débauché invétéré
+\smf (selon certains : opposé à kàkàla : impudique occasionnel)
+\dt 17/Apr/2019
 
 \lx játɔmuso
 \mm játɔ:n:débauché.invétéré
@@ -55957,7 +56055,27 @@ et insecticides)
 \mmm jèli:n:sang
 \mmm man:mrph:SUPER
 \mm dí:vq:agréable
-\ps adj/n
+\ps adj
+\ms 1
+\gf sympathique
+\gvf sympathique
+\gvf sociable
+\ms 2
+\gvf préféré
+\gvf favori
+\dt 17/Apr/2019
+
+\lx jòlimandi
+\mm jòliman:n:sang.actif
+\mmm jòli:n:sang
+\mmm man:mrph:SUPER
+\mm dí:vq:agréable
+\va jèlimandi
+\mm jèliman:n:sang.actif
+\mmm jèli:n:sang
+\mmm man:mrph:SUPER
+\mm dí:vq:agréable
+\ps n
 \ms 1
 \gf sympathique
 \gvf sympathique
@@ -55968,7 +56086,7 @@ et insecticides)
 \ms 3
 \gvf play-boy
 \smf (pop.)
-\dt 21/Mar/2019
+\dt 17/Apr/2019
 
 \lx jòlimandiya
 \mm jòliman:n:sang.actif
@@ -55999,7 +56117,7 @@ et insecticides)
 \mmm jèli:n:sang
 \mmm man:mrph:SUPER
 \mm gó:adj:désagréable
-\ps adj/n
+\ps adj
 \ms 1
 \gf antipathique
 \gvf antipathique
@@ -56009,7 +56127,29 @@ et insecticides)
 \ms 2
 \gvf peu sociable
 \gvf misanthrope
-\dt 21/Mar/2019
+\dt 17/Apr/2019
+
+\lx jòlimango
+\mm jòliman:n:sang.actif
+\mmm jòli:n:sang
+\mmm man:mrph:SUPER
+\mm gó:adj:désagréable
+\va jèlimango
+\mm jèliman:n:sang.actif
+\mmm jèli:n:sang
+\mmm man:mrph:SUPER
+\mm gó:adj:désagréable
+\ps n
+\ms 1
+\gf antipathique
+\gvf antipathique
+\gvf désagréable
+\xv ntòri yé  fɛ́n jòlimango yé
+\xf le crapaud est repoussant
+\ms 2
+\gvf peu sociable
+\gvf misanthrope
+\dt 17/Apr/2019
 
 \lx jòlimangoya
 \mm jòlimango:adj:antipathique
@@ -57040,11 +57180,25 @@ fusil)
 \mm tɔ:mrph:ST
 \va jòbaatɔ
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf nouvelle.accouchée
 \gvf nouvelle accouchée
 \smf (femelle qui vient de mettre bas)
-\dt 08/Oct/2017
+\dt 17/Apr/2019
+
+\lx jùbaatɔ
+\mm tɔ:mrph:ST
+\va jùbagatɔ
+\mm tɔ:mrph:ST
+\va jìbaatɔ
+\mm tɔ:mrph:ST
+\va jòbaatɔ
+\mm tɔ:mrph:ST
+\ps n
+\gf nouvelle.accouchée
+\gvf nouvelle accouchée
+\smf (femelle qui vient de mettre bas)
+\dt 17/Apr/2019
 
 \lx jùbara
 \mm jù:n:derrière
@@ -57475,7 +57629,22 @@ composante des adjectifs séparables)
 \mmm jù:n:derrière
 \mmm lá:pp:à
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
+\ms 1
+\gf impudique
+\gvf impudique
+\smf (personne sans aucune retenue, obsédé par le sexe)
+\ms 2
+\gvf malpropre
+\smf (enfant qui fait pipi caca partout, pète ...)
+\dt 17/Apr/2019
+
+\lx jùlajugu
+\mm jùla:n:maîtrise.de.cul
+\mmm jù:n:derrière
+\mmm lá:pp:à
+\mm júgu:adj:mauvais
+\ps n
 \ms 1
 \gf impudique
 \gvf impudique
@@ -57483,7 +57652,7 @@ composante des adjectifs séparables)
 \ms 2
 \gvf enfant malpropre
 \smf (qui fait pipi caca partout, pète ...)
-\dt 22/Mar/2019
+\dt 17/Apr/2019
 
 \lx jùlajuguya
 \mm jùlajugu:n:impudique
@@ -59165,10 +59334,16 @@ l'eau est prête
 \dt 26/Sep/2006
 
 \lx kàkala
-\ps adj/n
+\ps adj
 \gf débauché
 \gvf débauché
-\dt 26/Sep/2006
+\dt 17/Apr/2019
+
+\lx kàkala
+\ps n
+\gf débauché
+\gvf débauché
+\dt 17/Apr/2019
 
 \lx kàkalaka
 \ve (d)
@@ -61954,7 +62129,7 @@ prolapsus utérin
 \mm kán:n:cou
 \mm nan:mrph:à
 \mm kólon:adj:vide
-\ps adj/n
+\ps adj
 \ms 1
 \gf torse.nu
 \gvf torse nu
@@ -61962,7 +62137,25 @@ prolapsus utérin
 \gvf pauvre
 \ms 3
 \gvf impuissant
-\dt 24/Mar/2019
+\dt 17/Apr/2019
+
+\lx kánnakolon
+\mm kán:n:cou
+\mm na:mrph:à
+\mm kólon:adj:vide
+\va kán.nan.kolon
+\mm kán:n:cou
+\mm nan:mrph:à
+\mm kólon:adj:vide
+\ps n
+\ms 1
+\gf torse.nu
+\gvf torse nu
+\ms 2
+\gvf pauvre
+\ms 3
+\gvf impuissant
+\dt 17/Apr/2019
 
 \lx kánnakɔnɔ
 \mm kán:n:cou
@@ -62750,14 +62943,26 @@ probablement de chaux vive)
 \lx kárankarantɔ
 \mm káran:v:veiller
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf téméraire
 \gvf téméraire
 \smf (étourdi jusqu'à l'imprudence)
 \sy kárankarannci
 \xv fà tɛ́ kárankarantɔ lá, ká à t'í yɛ̀rɛ kɔ̀lɔsi
 \rem f
-\dt 08/Nov/2012
+\dt 17/Apr/2019
+
+\lx kárankarantɔ
+\mm káran:v:veiller
+\mm tɔ:mrph:ST
+\ps n
+\gf téméraire
+\gvf téméraire
+\smf (étourdi jusqu'à l'imprudence)
+\sy kárankarannci
+\xv fà tɛ́ kárankarantɔ lá, ká à t'í yɛ̀rɛ kɔ̀lɔsi
+\rem f
+\dt 17/Apr/2019
 
 \lx káratata
 \ps adv
@@ -62769,11 +62974,20 @@ probablement de chaux vive)
 \lx káratɔ
 \mm kára:n:mauvais.sort
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf casse-cou
 \gvf casse-cou
 \gvf téméraire
-\dt 26/Sep/2006
+\dt 17/Apr/2019
+
+\lx káratɔ
+\mm kára:n:mauvais.sort
+\mm tɔ:mrph:ST
+\ps n
+\gf casse-cou
+\gvf casse-cou
+\gvf téméraire
+\dt 17/Apr/2019
 
 \lx kàratu
 \ps n
@@ -63477,10 +63691,18 @@ probablement de chaux vive)
 \lx kátigɛlɛn
 \mm káti:n:caractère
 \mm gɛ̀lɛn:adj:dur
-\ps adj/n
+\ps adj
 \gf obstiné
 \gvf obstiné
-\dt 24/Mar/2019
+\dt 17/Apr/2019
+
+\lx kátigɛlɛn
+\mm káti:n:caractère
+\mm gɛ̀lɛn:adj:dur
+\ps n
+\gf obstiné
+\gvf obstiné
+\dt 17/Apr/2019
 
 \lx kàtilaka
 \va kàtlaka
@@ -64026,11 +64248,30 @@ probablement de chaux vive)
 \mm ya:mrph:DEQU
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf jaloux
 \gvf jaloux
-\rem l 89, du
-\dt 28/Feb/2017
+\dt 17/Apr/2019
+
+\lx kèleyabaatɔ
+\mm kèle:vq:envieux
+\mm ya:mrph:DEQU
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va kèleyabagatɔ
+\mm kèle:vq:envieux
+\mm ya:mrph:DEQU
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va cèleyabaatɔ
+\mm cèle:vq:envieux
+\mm ya:mrph:DEQU
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
+\gf jaloux
+\gvf jaloux
+\dt 17/Apr/2019
 
 \lx kènde
 \va nkène
@@ -64963,10 +65204,23 @@ probablement de chaux vive)
 \mm kɛ́nɛ:vq:en.bonne.santé
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps n
+\gf bien.portant
+\gvf bien portant
+\dt 17/Apr/2019
+
+\lx kɛ́nɛbaatɔ
+\mm kɛ́nɛ:vq:en.bonne.santé
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va kɛ́nɛbagatɔ
+\mm kɛ́nɛ:vq:en.bonne.santé
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
 \gf personne.bien.portante
 \gvf personne bien portante
-\dt 04/Mar/2019
+\dt 17/Apr/2019
 
 \lx kɛ́nɛbɔnda
 \mm kɛ́nɛ:n:clarté
@@ -65332,12 +65586,21 @@ probablement de chaux vive)
 \lx kɛ́ɲɛkɛ
 \mm kɛ́ɲɛ:v:empêcher
 \mm kɛ́:v:faire
-\ps adj/n
+\ps adj
 \gf indomptable
 \gvf indomptable
 \gvf incorrigible
-\smf (réagit comme un adjectif sur le plan tonal)
-\dt 26/Sep/2006
+\smf (tonalement compacte)
+\dt 17/Apr/2019
+
+\lx kɛ́ɲɛkɛ
+\mm kɛ́ɲɛ:v:empêcher
+\mm kɛ́:v:faire
+\ps n
+\gf indomptable
+\gvf indomptable
+\gvf incorrigible
+\dt 17/Apr/2019
 
 \lx kɛ́ɲɛkɛden
 \mm kɛ́ɲɛ:v:empêcher
@@ -66158,10 +66421,18 @@ probablement de chaux vive)
 \lx kínima
 \mm kíni:n:droite
 \mm ma:mrph:COM
-\ps adj/n
+\ps adj
 \gf droitier
 \gvf droitier
-\dt 12/Aug/2006
+\dt 17/Apr/2019
+
+\lx kínima
+\mm kíni:n:droite
+\mm ma:mrph:COM
+\ps n
+\gf droitier
+\gvf droitier
+\dt 17/Apr/2019
 
 \lx kíniyanfan
 \mm kíni:n:droite
@@ -66349,9 +66620,19 @@ probablement de chaux vive)
 \mm kìrikirimasyɛn:n:épilepsie
 \mm syɛ́n:n:lutte
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf épileptique
 \gvf épileptique
+\dt 17/Apr/2019
+
+\lx kìrikirimasyɛntɔ
+\mm kìrikirimasyɛn:n:épilepsie
+\mm syɛ́n:n:lutte
+\mm tɔ:mrph:ST
+\ps n
+\gf épileptique
+\gvf épileptique
+\dt 17/Apr/2019
 
 \lx kìrin
 \ps n
@@ -67302,11 +67583,20 @@ probablement de chaux vive)
 \lx kólandi
 \mm kó:n:affaire
 \mm landi:adj:qui.aime
-\ps adj/n
+\ps adj
 \gf qui.aime.les.histoires
 \gvf qui aime les histoires
 \smf (qui se mêle des affaires des autres)
-\dt 16/Aug/2006
+\dt 17/Apr/2019
+
+\lx kólandi
+\mm kó:n:affaire
+\mm landi:adj:qui.aime
+\ps n
+\gf qui.aime.les.histoires
+\gvf qui aime les histoires
+\smf (qui se mêle des affaires des autres)
+\dt 17/Apr/2019
 
 \lx kólandiya
 \mm kólandi:adj:qui.aime.les.histoires
@@ -67790,10 +68080,25 @@ probablement de chaux vive)
 \mmm kó:n:affaire
 \mmm júgu:adj:mauvais
 \ve (bn,bk)
-\ps adj/n
+\ps adj
 \gf mal.éduqué
 \gvf mal éduqué
-\dt 27/Mar/2019
+\dt 17/Apr/2019
+
+\lx kólokojugu
+\mm kólo:v:éduquer
+\mm kó:n:affaire
+\mm júgu:vq/adj:mauvais
+\va kólonkojugu:n:mal.éduqué
+\mm kólon:v:éduquer
+\mm kójugu:adv:trop
+\mmm kó:n:affaire
+\mmm júgu:adj:mauvais
+\ve (bn,bk)
+\ps n
+\gf mal.éduqué
+\gvf mal éduqué
+\dt 17/Apr/2019
 
 \lx kólokojuguya
 \mm kólokojugu:n:mal.éduqué
@@ -67808,7 +68113,7 @@ probablement de chaux vive)
 \dt 27/Mar/2019
 
 \lx kòlokolo
-\ps adj/n
+\ps adj
 \ms 1
 \gf déplumé
 \gvf déplumé
@@ -67820,7 +68125,7 @@ probablement de chaux vive)
 \smf (à qui les poils ne poussent pas)
 \xv í bònbo kòlokolo dòn
 \xf tu n'as pas de poils au menton
-\dt 19/Oct/2017
+\dt 17/Apr/2019
 
 \lx kòlokolo
 \ps n
@@ -67828,6 +68133,21 @@ probablement de chaux vive)
 \gvf boisson forte
 \smf (à base de mil et de miel, de poulet ... )
 \dt 16/Aug/2006
+
+\lx kòlokolo
+\ps n
+\ms 1
+\gf déplumé
+\gvf déplumé
+\smf (poule)
+\ms 2
+\gvf dépenaillé
+\ms 3
+\gvf imberbe
+\smf (à qui les poils ne poussent pas)
+\xv í bònbo kòlokolo dòn
+\xf tu n'as pas de poils au menton
+\dt 17/Apr/2019
 
 \lx kólokolo
 \ps n
@@ -67944,11 +68264,20 @@ champs)
 \mm kùnba:adj:gros
 \mmm kùn:n:tête
 \mmm ba:mrph:AUGM
-\ps adj/n
+\ps adj
 \gf corpulent
 \gvf corpulent
-\rem du / Mol, Guérin
-\dt 27/Mar/2019
+\dt 17/Apr/2019
+
+\lx kólokunba
+\mm kólo:n:os
+\mm kùnba:adj:gros
+\mmm kùn:n:tête
+\mmm ba:mrph:AUGM
+\ps n
+\gf corpulent
+\gvf corpulent
+\dt 17/Apr/2019
 
 \lx kólokuru
 \mm kólo:n:os
@@ -68578,12 +68907,21 @@ champs)
 
 \lx kòna
 \va kɔ́nan
-\ps adj/n
+\ps adj
 \gf sans.enfant
 \gvf sans enfant
 \smf (soit qu'elle les ait tous perdus, soit stérile)
 \sy bɔ̀rɔgɛ
-\dt 16/Aug/2006
+\dt 17/Apr/2019
+
+\lx kòna
+\va kɔ́nan
+\ps n
+\gf sans.enfant
+\gvf sans enfant
+\smf (soit qu'elle les ait tous perdus, soit stérile)
+\sy bɔ̀rɔgɛ
+\dt 17/Apr/2019
 
 \lx kònaya
 \mm kòna:adj:sans.enfant
@@ -70146,11 +70484,20 @@ harpon)
 \lx kɔ́gɔfa
 \mm kɔ́gɔ:n:poitrine
 \mm fá:n:plein
-\ps adj/n
+\ps adj
 \gf à.la.poitrine.abondante
 \gvf à la poitrine abondante
 \gvf aux seins bien formés
-\dt 26/Sep/2006
+\dt 17/Apr/2019
+
+\lx kɔ́gɔfa
+\mm kɔ́gɔ:n:poitrine
+\mm fá:n:plein
+\ps n
+\gf femme.à.la.poitrine.abondante
+\gvf femme à la poitrine abondante
+\gvf femme aux seins bien formés
+\dt 17/Apr/2019
 
 \lx kɔ̀gɔfin
 \mm kɔ̀gɔ:n:sel
@@ -71291,10 +71638,18 @@ harpon)
 \lx kɔ́ngɔtɔ
 \mm kɔ́ngɔ:n:faim
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf affamé
 \gvf affamé
-\dt 07/Mar/2014
+\dt 17/Apr/2019
+
+\lx kɔ́ngɔtɔ
+\mm kɔ́ngɔ:n:faim
+\mm tɔ:mrph:ST
+\ps n
+\gf affamé
+\gvf affamé
+\dt 17/Apr/2019
 
 \lx kɔni
 \vc nkɔni
