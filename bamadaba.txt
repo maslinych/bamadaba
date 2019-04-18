@@ -72373,11 +72373,20 @@ ou une proposition)
 \lx kɔ́nɔjugu
 \mm kɔ́nɔ:n:ventre
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \gf mal.intentionné
 \gvf mal intentionné
 \sy kɔ́nɔnajugu
-\dt 28/Mar/2019
+\dt 18/Apr/2019
+
+\lx kɔ́nɔjugu
+\mm kɔ́nɔ:n:ventre
+\mm júgu:adj:mauvais
+\ps n
+\gf mal.intentionné
+\gvf mal intentionné
+\sy kɔ́nɔnajugu
+\dt 18/Apr/2019
 
 \lx kɔ́nɔjuguya
 \mm kɔ́nɔ:n:ventre
@@ -72726,12 +72735,23 @@ ou une proposition)
 \mm kɔ́nɔ:n:ventre
 \mm ná:pp:à
 \mm fìn:adj:noir
-\ps adj/n
+\ps adj
 \gf hypocrite
 \gvf hypocrite
 \gvf très mal intentionné
 \gvf foncièrement malhonnête
-\dt 23/Mar/2015
+\dt 18/Apr/2019
+
+\lx kɔ́nɔnafin
+\mm kɔ́nɔ:n:ventre
+\mm ná:pp:à
+\mm fìn:adj:noir
+\ps n
+\gf hypocrite
+\gvf hypocrite
+\gvf très mal intentionné
+\gvf foncièrement malhonnête
+\dt 18/Apr/2019
 
 \lx kɔ́nɔnafinya
 \mm kɔ́nɔnafin:n:hypocrite
@@ -72777,7 +72797,7 @@ ou une proposition)
 \mm kɔ́nɔ:n:ventre
 \mm nan:mrph:dans
 \mm jɛ́:adj:blanc
-\ps adj/n
+\ps adj
 \ms 1
 \gf franc
 \gvf franc
@@ -72785,7 +72805,43 @@ ou une proposition)
 \gvf loyal
 \ms 2
 \gvf sympatique
-\dt 04/Apr/2016
+\dt 18/Apr/2019
+
+\lx kɔ́nɔnajɛ
+\mm kɔ́nɔ:n:ventre
+\mm ná:pp:à
+\mm jɛ́:adj:blanc
+\va kɔ́nɔnanjɛ
+\mm kɔ́nɔ:n:ventre
+\mm nan:mrph:dans
+\mm jɛ́:adj:blanc
+\ps adj
+\ms 1
+\gf franc
+\gvf franc
+\gvf ouvert
+\gvf loyal
+\ms 2
+\gvf sympatique
+\dt 18/Apr/2019
+
+\lx kɔ́nɔnajɛ
+\mm kɔ́nɔ:n:ventre
+\mm ná:pp:à
+\mm jɛ́:adj:blanc
+\va kɔ́nɔnanjɛ
+\mm kɔ́nɔ:n:ventre
+\mm nan:mrph:dans
+\mm jɛ́:adj:blanc
+\ps n
+\ms 1
+\gf franc
+\gvf franc
+\gvf ouvert
+\gvf loyal
+\ms 2
+\gvf sympatique
+\dt 18/Apr/2019
 
 \lx kɔ́nɔnajɛya
 \mm kɔ́nɔnajɛ:adj:franc
@@ -72832,13 +72888,29 @@ ou une proposition)
 \mm kɔ́nɔ:n:ventre
 \mm nan:mrph:dans
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \gf fourbe
 \gvf fourbe
 \gvf mal intentionné
 \gvf dissimulé
 \sy kɔ́nɔjugu
-\dt 23/Mar/2015
+\dt 18/Apr/2019
+
+\lx kɔ́nɔnajugu
+\mm kɔ́nɔ:n:ventre
+\mm ná:pp:à
+\mm júgu:adj:mauvais
+\va kɔ́nɔnanjugu
+\mm kɔ́nɔ:n:ventre
+\mm nan:mrph:dans
+\mm júgu:adj:mauvais
+\ps n
+\gf fourbe
+\gvf fourbe
+\gvf mal intentionné
+\gvf dissimulé
+\sy kɔ́nɔjugu
+\dt 18/Apr/2019
 
 \lx kɔ́nɔnajuguya
 \mm kɔ́nɔnajugu:adj:fourbe
@@ -72942,11 +73014,21 @@ ou une proposition)
 \mm kɔ́nɔ:n:ventre
 \mm nan:mrph:dans
 \mm dí:vq:agréable
-\ps adj/n
+\ps adj
 \gf bien.intentionné
 \gvf bien intentionné
 \gvf serviable
-\dt 23/Mar/2015
+\dt 18/Apr/2019
+
+\lx kɔ́nɔnandi
+\mm kɔ́nɔ:n:ventre
+\mm nan:mrph:dans
+\mm dí:vq:agréable
+\ps n
+\gf bien.intentionné
+\gvf bien intentionné
+\gvf serviable
+\dt 18/Apr/2019
 
 \lx kɔ́nɔnandiya
 \mm kɔ́nɔnandi:adj:bien.intentionné
@@ -72977,7 +73059,7 @@ ou une proposition)
 \mm kɔ́nɔ:n:ventre
 \mm nan:mrph:dans
 \mm gó:vq:désagréable
-\ps adj/n
+\ps adj
 \ms 1
 \gf mal.intentionné
 \gvf mal intentionné
@@ -72987,7 +73069,23 @@ ou une proposition)
 \gvf qui pense du mal des autres
 \ms 3
 \gvf naturellement nerveux
-\dt 23/Mar/2015
+\dt 18/Apr/2019
+
+\lx kɔ́nɔnango
+\mm kɔ́nɔ:n:ventre
+\mm nan:mrph:dans
+\mm gó:vq:désagréable
+\ps n
+\ms 1
+\gf mal.intentionné
+\gvf mal intentionné
+\ms 2
+\gvf insincère
+\gvf dissimulé
+\gvf qui pense du mal des autres
+\ms 3
+\gvf naturellement nerveux
+\dt 18/Apr/2019
 
 \lx kɔ́nɔnangoya
 \mm kɔ́nɔnango:adj:mal.intentionné
@@ -74731,14 +74829,14 @@ plus solide)
 \lx kɔ́sa
 \va kɔ́san
 \bw ar: aqsa = le dernier
-\ps adj/n
+\ps adj
 \gf récent
 \gvf récent
 \gvf dernier
 \gvf tardif
 \xv kɔ́sa ìn ná
 \xf récemment
-\dt 10/Apr/2014
+\dt 18/Apr/2019
 
 \lx kɔ́sa
 \ps v
@@ -74763,6 +74861,18 @@ plus solide)
 \gf récemment
 \gvf récemment
 \dt 18/Apr/2014
+
+\lx kɔ́sa
+\va kɔ́san
+\bw ar: aqsa = le dernier
+\ps n
+\gf récent
+\gvf récent
+\gvf dernier
+\gvf tardif
+\xv kɔ́sa ìn ná
+\xf récemment
+\dt 18/Apr/2019
 
 \lx kɔ́sà
 \ps v
@@ -76536,14 +76646,26 @@ le pouvoir administratif suprême)
 \lx kùnbaba
 \mm kùnba:adj:gros
 \mm ba:mrph:AUGM
-\ps adj/n
+\ps adj
 \gf gros
 \gvf gros
 \gvf principal
 \gvf le plus essentiel
 \gvf le plus gros
 \gvf somnifère (pop )
-\dt 30/Mar/2019
+\dt 18/Apr/2019
+
+\lx kùnbaba
+\mm kùnba:adj:gros
+\mm ba:mrph:AUGM
+\ps n
+\gf gros
+\gvf gros
+\gvf principal
+\gvf le plus essentiel
+\gvf le plus gros
+\gvf somnifère (pop )
+\dt 18/Apr/2019
 
 \lx kùnbabin
 \mm kùn:n:tête
@@ -76809,10 +76931,20 @@ le pouvoir administratif suprême)
 \mmm kùn:n:tête
 \mmm cɛ́:n:milieu
 \mm ba:mrph:AUGM
-\ps adj/n
+\ps adj
 \gf orgueilleux
 \gvf orgueilleux
-\dt 30/Mar/2019
+\dt 18/Apr/2019
+
+\lx kùncɛba
+\mm kùncɛ:n:sommet
+\mmm kùn:n:tête
+\mmm cɛ́:n:milieu
+\mm ba:mrph:AUGM
+\ps n
+\gf orgueilleux
+\gvf orgueilleux
+\dt 18/Apr/2019
 
 \lx kùncɛbaya
 \mm kùncɛba:adj:orgueilleux
@@ -76855,11 +76987,22 @@ le pouvoir administratif suprême)
 \mmm kùn:n:tête
 \mmm cɛ́:n:milieu
 \mm dɔ́gɔ:vq:petit
-\ps adj/n
+\ps adj
 \gf humble
 \gvf humble
 \gvf modeste
-\dt 30/Mar/2019
+\dt 18/Apr/2019
+
+\lx kùncɛdɔgɔ
+\mm kùncɛ:n:sommet
+\mmm kùn:n:tête
+\mmm cɛ́:n:milieu
+\mm dɔ́gɔ:vq:petit
+\ps n
+\gf humble
+\gvf humble
+\gvf modeste
+\dt 18/Apr/2019
 
 \lx kùncɛdɔgɔman
 \mm kùncɛ:n:sommet
@@ -77142,11 +77285,11 @@ le pouvoir administratif suprême)
 \lx kùnfin
 \mm kùn:n:tête
 \mm fìn:adj:noir
-\ps adj/n
+\ps adj
 \gf illettré
 \gvf illettré
 \gvf ignare
-\dt 31/Mar/2019
+\dt 18/Apr/2019
 
 \lx kùnfin
 \mm kùn:n:tête
@@ -77157,6 +77300,15 @@ le pouvoir administratif suprême)
 \gvf assombrir
 \smf (en parlant d'une petite pluie)
 \dt 14/Apr/2018
+
+\lx kùnfin
+\mm kùn:n:tête
+\mm fìn:adj:noir
+\ps n
+\gf illettré
+\gvf illettré
+\gvf ignare
+\dt 18/Apr/2019
 
 \lx kùnfinya
 \mm kùnfin:adj:illettré
@@ -77470,15 +77622,26 @@ l'intérieur une ou deux graines)
 \lx kùnjɛ
 \mm kùn:n:tête
 \mm jɛ́:adj:blanc
-\ps adj/n
+\ps adj
+\ms 1
+\gf chauve
+\gvf chauve
+\gvf chenu
+\ms 2
+\gvf vieux
+\dt 18/Apr/2019
+
+\lx kùnjɛ
+\mm kùn:n:tête
+\mm jɛ́:adj:blanc
+\ps n
 \ms 1
 \gf chauve
 \gvf chauve
 \gvf chenu
 \ms 2
 \gvf vieillard
-\fq (rare)
-\dt 31/Mar/2019
+\dt 18/Apr/2019
 
 \lx kúnji
 \mm kún:v:s'adapter
@@ -77579,12 +77742,22 @@ l'intérieur une ou deux graines)
 \lx kùnkelen
 \mm kùn:n:tête
 \mm kélen:num:un
-\ps adj/n
+\ps adj
 \gf franc
 \gvf franc
 \gvf simple
 \gvf droit
-\dt 26/Sep/2006
+\dt 18/Apr/2019
+
+\lx kùnkelen
+\mm kùn:n:tête
+\mm kélen:num:un
+\ps n
+\gf franc
+\gvf franc
+\gvf simple
+\gvf droit
+\dt 18/Apr/2019
 
 \lx kùnkelenya
 \mm kùnkelen:adj:franc
@@ -78058,14 +78231,28 @@ l'intérieur une ou deux graines)
 \mmm kùn:n:tête
 \mmm mà:mrph:SUPER
 \mm dɔ́gɔ:vq:étroit
-\ps adj/n
+\ps adj
 \ms 1
 \gf chétif
 \gvf chétif
 \gvf malingre
 \ms 2
 \gvf éhonté
-\dt 31/Mar/2019
+\dt 18/Apr/2019
+
+\lx kùnmadɔgɔ
+\mm kùnma:n:vitalité
+\mmm kùn:n:tête
+\mmm mà:mrph:SUPER
+\mm dɔ́gɔ:vq:étroit
+\ps n
+\ms 1
+\gf chétif
+\gvf chétif
+\gvf malingre
+\ms 2
+\gvf éhonté
+\dt 18/Apr/2019
 
 \lx kùnmadɔ́gɔya
 \mm kùnmadɔgɔ:adj:chétif
@@ -78523,10 +78710,20 @@ l'intérieur une ou deux graines)
 \mmm kùn:n:tête
 \mmm ná:pp:à
 \mm gɛ̀lɛn:adj:difficile
-\ps adj/n
+\ps adj
 \gf récalcitrant
 \gvf récalcitrant
-\dt 31/Mar/2019
+\dt 18/Apr/2019
+
+\lx kùnnagɛlɛn
+\mm kùnna:n:contenu.de.tête
+\mmm kùn:n:tête
+\mmm ná:pp:à
+\mm gɛ̀lɛn:adj:difficile
+\ps n
+\gf récalcitrant
+\gvf récalcitrant
+\dt 18/Apr/2019
 
 \lx kùnnagosi
 \mm kùn:n:tête
@@ -78636,12 +78833,22 @@ l'intérieur une ou deux graines)
 \mmm kùn:n:tête
 \mmm nan:mrph:dans
 \mm dí:vq:agréable
-\ps adj/n
+\ps adj
 \gf chanceux
 \gvf chanceux
 \xv ń'í y'á mɛ́ kó : jɔ̀nnin kùnnandi, à fɔ́ "sábabu ɲúman"
-\xf (dicton) si tu entends "oh ! le petit homme chanceux", réponds " oh ! le bienfaiteur " (qqn l'a aidé : Dieu, un ami ...)
-\dt 03/Apr/2016
+\xf si tu entends "oh ! le petit homme chanceux", réponds " oh ! le bienfaiteur " (qqn l'a aidé : Dieu, un ami ...)
+\dt 18/Apr/2019
+
+\lx kùnnandi
+\mm kùnna:n:contenu.de.tête
+\mmm kùn:n:tête
+\mmm nan:mrph:dans
+\mm dí:vq:agréable
+\ps n
+\gf chanceux
+\gvf chanceux
+\dt 18/Apr/2019
 
 \lx kùnnandiya
 \mm kùn.nan.di:adj:chanceux
@@ -78687,10 +78894,20 @@ l'intérieur une ou deux graines)
 \mmm kùn:n:tête
 \mmm nan:mrph:dans
 \mm gó:vq:désagréable
-\ps adj/n
+\ps adj
 \gf malchanceux
 \gvf malchanceux
-\dt 31/Mar/2019
+\dt 18/Apr/2019
+
+\lx kùnnango
+\mm kùnna:n:contenu.de.tête
+\mmm kùn:n:tête
+\mmm nan:mrph:dans
+\mm gó:vq:désagréable
+\ps n
+\gf malchanceux
+\gvf malchanceux
+\dt 18/Apr/2019
 
 \lx kùnnangoya
 \mm kùnnango:adj:malchanceux
@@ -79532,14 +79749,35 @@ Sahel)
 \mm kúnu:v:se.réveiller
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \ms 1
 \gf veilleur
 \gvf veilleur
 \smf (opposé à l'endormi : sùnɔ̀gɔ̀bàatɔ)
 \ms 2
 \gvf en train de se réveiller
-\dt 31/Mar/2019
+\dt 18/Apr/2019
+
+\lx kúnubaatɔ
+\mm kúnu:v:se.réveiller
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va kúnunbaatɔ
+\mm kúnun:v:se.réveiller
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va kúnubagatɔ
+\mm kúnu:v:se.réveiller
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
+\ms 1
+\gf veilleur
+\gvf veilleur
+\smf (opposé à l'endormi : sùnɔ̀gɔ̀bàatɔ)
+\ms 2
+\gvf qui est en train de se réveiller
+\dt 18/Apr/2019
 
 \lx kúnunama
 \mm kúnu:n:hier
@@ -80011,7 +80249,7 @@ Sahel)
 \lx kùruma
 \mm kùru:n:boule
 \mm ma:mrph:COM
-\ps adj/n
+\ps adj
 \ms 1
 \gf courbé
 \gvf courbé
@@ -80020,7 +80258,17 @@ Sahel)
 \gvf anxieux
 \xv fà kɔ́nɔ kùruma sìgilen, à kɔ́nɔgannenba dòn
 \xf le père est assis angoissé, il est très anxieux
-\dt 26/Sep/2006
+\dt 18/Apr/2019
+
+\lx kùruma
+\mm kùru:n:boule
+\mm ma:mrph:COM
+\ps n
+\ms
+\gf courbé
+\gvf courbé
+\gvf bossu
+\dt 18/Apr/2019
 
 \lx kùrumankɔ́
 \mm kùru:v:plier
@@ -82317,11 +82565,20 @@ catastrophe)
 \lx lágalagatɔ
 \mm lágalaga:n:apathie
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf amorphe
 \gvf amorphe
 \gvf imbécile
-\dt 26/Sep/2006
+\dt 18/Apr/2019
+
+\lx lágalagatɔ
+\mm lágalaga:n:apathie
+\mm tɔ:mrph:ST
+\ps n
+\gf amorphe
+\gvf amorphe
+\gvf imbécile
+\dt 18/Apr/2019
 
 \lx làgamu
 \va làgabu
@@ -83376,12 +83633,21 @@ catastrophe)
 \lx làkika
 \va hàkika
 \bw ar: al-haqiqa = vérité
-\ps adj/n
+\ps adj
 \gf vrai
 \gvf vrai
 \gvf authentique
-\smf (l'adjectif est tonalement non-compact avec son nom déterminé)
-\dt 16/Jul/2017
+\smf (tonalement non-compact avec son nom déterminé)
+\dt 18/Apr/2019
+
+\lx làkika
+\va hàkika
+\bw ar: al-haqiqa = vérité
+\ps n
+\gf vrai
+\gvf vrai
+\gvf authentique
+\dt 18/Apr/2019
 
 \lx lákili
 \mm lá:mrph:CAUS
@@ -90204,12 +90470,18 @@ jour, c'est une personne dépendante qu'il voit
 \dt 07/Mar/2019
 
 \lx mánkan
-\ps adj/n
+\ps adj
 \gf moyen
 \gvf moyen
 \xv fílen mánkan
 \xf une calebasse de taille moyenne
-\dt 12/Aug/2006
+\dt 18/Apr/2019
+
+\lx mánkan
+\ps n
+\gf moyen
+\gvf moyen
+\dt 18/Apr/2019
 
 \lx mànkana
 \ps n
@@ -93897,11 +94169,23 @@ des engagements
 \va màalandi
 \mm màa:n:homme
 \mm landi:adj:qui.aime
-\ps adj/n
+\ps adj
 \gf philanthrope
 \gvf philanthrope
 \gvf personne bienveillante
-\dt 03/Apr/2019
+\dt 18/Apr/2019
+
+\lx mɔ̀gɔlandi
+\mm mɔ̀gɔ:n:homme
+\mm landi:adj:qui.aime
+\va màalandi
+\mm màa:n:homme
+\mm landi:adj:qui.aime
+\ps n
+\gf philanthrope
+\gvf philanthrope
+\gvf personne bienveillante
+\dt 18/Apr/2019
 
 \lx mɔ̀gɔlandiya
 \mm mɔ̀gɔ:n:humain
@@ -93946,11 +94230,29 @@ des engagements
 \mm màa:n:homme
 \mm nan:mrph:dans
 \mm gó:vq:désagréable
-\ps adj/n
+\ps adj
 \gf misanthrope
 \gvf misanthrope
 \gvf insociable
-\dt 03/Apr/2019
+\dt 18/Apr/2019
+
+\lx mɔ̀gɔlango
+\mm mɔ̀gɔ:n:homme
+\mm lan:mrph:dans
+\mm gó:vq:désagréable
+\va màalango
+\mm màa:n:homme
+\mm lan:mrph:dans
+\mm gó:vq:désagréable
+\va màanango
+\mm màa:n:homme
+\mm nan:mrph:dans
+\mm gó:vq:désagréable
+\ps n
+\gf misanthrope
+\gvf misanthrope
+\gvf insociable
+\dt 18/Apr/2019
 
 \lx mɔ̀gɔlangoya
 \mm mɔ̀gɔlango:adj:misanthrope
@@ -94086,7 +94388,22 @@ homme
 \mmm ɲɛ́:n:oeil
 \mmm ná:pp:à
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
+\ms 1
+\gf fanfaron
+\gvf fanfaron
+\ms 2
+\gvf maniérée
+\smf (qui fait des manières quand on le regarde, devant les étrangers)
+\dt 18/Apr/2019
+
+\lx mɔ̀gɔɲɛnatɔ
+\mm mɔ̀gɔɲɛna:n:fanfaronnade
+\mmm mɔ̀gɔ:n:homme
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm tɔ:mrph:ST
+\ps n
 \ms 1
 \gf fanfaron
 \gvf fanfaron
@@ -94095,7 +94412,7 @@ homme
 \smf (qui fait des manières quand on le regarde, devant les étrangers)
 \xv mɔ̀gɔɲɛna b'á lá, mɔ̀gɔɲɛnatɔ dòn
 \rem f
-\dt 03/Apr/2019
+\dt 18/Apr/2019
 
 \lx mɔ̀gɔɲɔgɔn
 \mm mɔ̀gɔ:n:homme
@@ -95876,10 +96193,18 @@ pour les jardins)
 \lx mùsolandi
 \mm mùso:n:femme
 \mm landi:adj:qui.aime
-\ps adj/n
+\ps adj
 \gf coureur.de.femmes
 \gvf coureur de femmes
-\dt 16/Aug/2006
+\dt 18/Apr/2019
+
+\lx mùsolandi
+\mm mùso:n:femme
+\mm landi:adj:qui.aime
+\ps n
+\gf coureur.de.femmes
+\gvf coureur de femmes
+\dt 18/Apr/2019
 
 \lx mùsolanpɛrɛ
 \mm mùso:n:femme
@@ -96206,12 +96531,22 @@ pour les jardins)
 \lx myɛ̀tɔ
 \mm myɛ̀:n:envie.de.viande
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf friand.de.viande
 \gvf friand de viande
 \gvf friand de poisson
-\rem l 89, du : personne en état de carence de viande (protéines animales)
-\dt 11/Nov/2007
+\rem (en état de carence de viande)
+\dt 18/Apr/2019
+
+\lx myɛ̀tɔ
+\mm myɛ̀:n:envie.de.viande
+\mm tɔ:mrph:ST
+\ps n
+\gf friand.de.viande
+\gvf friand de viande
+\gvf friand de poisson
+\rem (personne en état de carence de viande)
+\dt 18/Apr/2019
 
 \lx ḿm
 \ps intj
@@ -96322,13 +96657,23 @@ pour les jardins)
 \va náanfigi
 \va múnaafigi
 \bw ar: mu]nafiq = hypocrite
-\ps adj/n
+\ps adj
+\gf rapporteur
+\gvf rapporteur
+\gvf indiscret
+\dt 18/Apr/2019
+
+\lx náafigi
+\va náanfigi
+\va múnaafigi
+\bw ar: mu]nafiq = hypocrite
+\ps n
 \gf rapporteur
 \gvf rapporteur
 \gvf indiscret
 \xv náafigi bɛ́  mɔ̀gɔ bìla  ɲɔ́gɔn ná
 \xf le rapporteur crée la zizanie
-\dt 12/Dec/2014
+\dt 18/Apr/2019
 
 \lx náafigiya
 \mm náafigi:n:rapporteur
@@ -96364,7 +96709,7 @@ pour les jardins)
 
 \lx náami
 \va námi
-\ps adj/n
+\ps adj
 \ms 1
 \gf gourmand
 \gvf gourmand
@@ -96372,7 +96717,19 @@ pour les jardins)
 \gvf pique-assiette
 \gvf courtisan
 \gvf béni-oui-oui
-\dt 26/Sep/2006
+\dt 18/Apr/2019
+
+\lx náami
+\va námi
+\ps n
+\ms 1
+\gf gourmand
+\gvf gourmand
+\ms 2
+\gvf pique-assiette
+\gvf courtisan
+\gvf béni-oui-oui
+\dt 18/Apr/2019
 
 \lx náamiden
 \mm náami:n:gourmand
@@ -96518,12 +96875,20 @@ pour les jardins)
 \dt 03/Nov/2013
 
 \lx nàbara
-\ps adj/n
+\ps adj
 \gf paralysé.des.jambes
 \gvf paralysé des jambes
 \gvf cul-de-jatte
 \smf (peut se dire aussi d'animaux perclus)
-\dt 26/Sep/2006
+\dt 18/Apr/2019
+
+\lx nàbara
+\ps n
+\gf paralysé.des.jambes
+\gvf paralysé des jambes
+\gvf cul-de-jatte
+\smf (peut se dire aussi d'animaux perclus)
+\dt 18/Apr/2019
 
 \lx nàbaraya
 \mm nàbara:n:paralysé.des.jambes
@@ -96715,10 +97080,18 @@ pour les jardins)
 \lx nàfololandi
 \mm nàfolo:n:biens
 \mm landi:adj:qui.aime
-\ps adj/n
+\ps n
 \gf qui.aime.la.richesse
 \gvf qui aime la richesse
-\dt 16/Aug/2006
+\dt 18/Apr/2019
+
+\lx nàfololandi
+\mm nàfolo:n:biens
+\mm landi:adj:qui.aime
+\ps n
+\gf qui.aime.la.richesse
+\gvf qui aime la richesse
+\dt 18/Apr/2019
 
 \lx nàfolomarayɔrɔ
 \mm nàfolo:n:biens
@@ -96999,14 +97372,27 @@ pour les jardins)
 \va náloma
 \mm nálon:n:idiot
 \mm ma:mrph:COM
-\ps adj/n
+\ps adj
+\gf sot
+\gvf sot
+\gvf imbécile
+\gvf balourd
+\dt 18/Apr/2019
+
+\lx nálonma
+\mm nálon:n:idiot
+\mm ma:mrph:COM
+\va náloma
+\mm nálon:n:idiot
+\mm ma:mrph:COM
+\ps n
 \gf sot
 \gvf sot
 \gvf imbécile
 \gvf balourd
 \xv nálonma kɔ́gɔlen !
 \xf tu es un parfait imbécile !
-\dt 22/Dec/2014
+\dt 18/Apr/2019
 
 \lx nálonmaya
 \mm nálonma:adj:sot
@@ -97188,12 +97574,22 @@ qui revient en visite dans sa famille)
 \lx námaratɔ
 \mm námara:n:fraude
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf malhonnête
 \gvf malhonnête
 \gvf filou
 \smf (en affaires, en service ...)
-\dt 26/Sep/2006
+\dt 18/Apr/2019
+
+\lx námaratɔ
+\mm námara:n:fraude
+\mm tɔ:mrph:ST
+\ps n
+\gf malhonnête
+\gvf malhonnête
+\gvf filou
+\smf (en affaires, en service ...)
+\dt 18/Apr/2019
 
 \lx nàmasa
 \ps n
@@ -97457,14 +97853,27 @@ qui revient en visite dans sa famille)
 \mm nà:v:venir
 \mm ń:pers:1SG
 \mm káraba:v:forcer
-\ps adj/n
+\ps adj
 \ms 1
 \gf effronté
 \gvf effronté
 \smf (qui ne recule devant rien)
 \ms 2
 \gvf qui a du succès
-\dt 26/Sep/2006
+\dt 18/Apr/2019
+
+\lx nàńkáraba
+\mm nà:v:venir
+\mm ń:pers:1SG
+\mm káraba:v:forcer
+\ps n
+\ms 1
+\gf effronté
+\gvf effronté
+\smf (qui ne recule devant rien)
+\ms 2
+\gvf qui a du succès
+\dt 18/Apr/2019
 
 \lx nànkarabaya
 \mm nàńkáraba:n:effronté
@@ -97617,11 +98026,19 @@ qui revient en visite dans sa famille)
 
 \lx nàntan
 \mm ntan:mrph:PRIV
-\ps adj/n
+\ps adj
 \gf vaurien
 \gvf vaurien
-\gvf bon à rien, 
-\dt 05/Feb/2017
+\gvf bon à rien
+\dt 18/Apr/2019
+
+\lx nàntan
+\mm ntan:mrph:PRIV
+\ps n
+\gf vaurien
+\gvf vaurien
+\gvf bon à rien
+\dt 18/Apr/2019
 
 \lx nàra
 \ps n
@@ -98278,12 +98695,20 @@ qui revient en visite dans sa famille)
 \dt 04/Apr/2019
 
 \lx ncòna
-\ps adj/n
+\ps adj
 \gf malhonnête
 \gvf malhonnête
 \gvf qui sème la zizanie
 \gvf brigand
-\dt 26/Sep/2006
+\dt 18/Apr/2019
+
+\lx ncòna
+\ps n
+\gf malhonnête
+\gvf malhonnête
+\gvf qui sème la zizanie
+\gvf brigand
+\dt 18/Apr/2019
 
 \lx ncòron
 \ps n
@@ -98744,10 +99169,23 @@ petits enfants)
 \mm nɛ̀n:n:langue
 \mm dúman:adj:agréable
 \mm man:mrph:ADJ
-\ps adj/n
+\ps adj
 \gf baratineur
 \gvf baratineur
-\dt 16/Aug/2006
+\dt 18/Apr/2019
+
+\lx nɛ̀duman
+\mm nɛ̀:n:langue
+\mm dúman:adj:agréable
+\mm man:mrph:ADJ
+\va nɛ̀n.duman
+\mm nɛ̀n:n:langue
+\mm dúman:adj:agréable
+\mm man:mrph:ADJ
+\ps n
+\gf baratineur
+\gvf baratineur
+\dt 18/Apr/2019
 
 \lx nɛ́ɛma
 \bw ar: ni`ma = bienfait, faveur
@@ -100483,13 +100921,24 @@ est "Ɲele" ...
 \lx níjugu
 \mm ní:n:âme
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \gf violent
 \gvf violent
 \gvf cruel
 \gvf dictateur
 \gvf oppresseur
-\dt 04/Apr/2019
+\dt 18/Apr/2019
+
+\lx níjugu
+\mm ní:n:âme
+\mm júgu:adj:mauvais
+\ps n
+\gf violent
+\gvf violent
+\gvf cruel
+\gvf dictateur
+\gvf oppresseur
+\dt 18/Apr/2019
 
 \lx níjuguya
 \mm níjugu:adj:violent
@@ -100972,10 +101421,19 @@ sur soi, on les connaît
 \mm ní:n:âme
 \mm nan:mrph:dans
 \mm gó:vq:désagréable
-\ps adj/n
+\ps adj
 \gf insociable
 \gvf insociable
-\dt 12/Aug/2006
+\dt 18/Apr/2019
+
+\lx nínango
+\mm ní:n:âme
+\mm nan:mrph:dans
+\mm gó:vq:désagréable
+\ps n
+\gf insociable
+\gvf insociable
+\dt 18/Apr/2019
 
 \lx nìnginanga
 \ps v
@@ -101144,10 +101602,20 @@ sur soi, on les connaît
 \mmm ní:n:âme
 \mmm sɔ̀n:n:coeur
 \mm gó:adj:désagréable
-\ps adj/n
+\ps adj
 \gf de.mauvaise.humeur
 \gvf de mauvaise humeur
-\dt 04/Apr/2019
+\dt 18/Apr/2019
+
+\lx nísɔngo
+\mm nísɔn:n:humeur
+\mmm ní:n:âme
+\mmm sɔ̀n:n:coeur
+\mm gó:adj:désagréable
+\ps n
+\gf de.mauvaise.humeur
+\gvf de mauvaise humeur
+\dt 18/Apr/2019
 
 \lx nísɔngoya
 \mm nísɔngo:adj:de.mauvaise.humeur
@@ -102187,11 +102655,18 @@ familiaux; viande très prisée, auladiculture)
 \dt 16/Aug/2006
 
 \lx nkòki
-\ps adj/n
+\ps adj
 \gf crapule
 \gvf crapule
 \gvf délinquant
-\dt 26/Sep/2006
+\dt 18/Apr/2019
+
+\lx nkòki
+\ps n
+\gf crapule
+\gvf crapule
+\gvf délinquant
+\dt 18/Apr/2019
 
 \lx nkòko
 \ps n
@@ -104280,10 +104755,10 @@ craie ...)
 
 \lx npére
 \va npíri
-\ps adj/n
+\ps adj
 \gf premier
 \gvf premier
-\dt 12/Aug/2006
+\dt 18/Apr/2019
 
 \lx npére
 \bw fr : premier
@@ -104292,6 +104767,13 @@ craie ...)
 \gf être.premier
 \gvf être premier
 \dt 26/Sep/2006
+
+\lx npére
+\va npíri
+\ps n
+\gf premier
+\gvf premier
+\dt 18/Apr/2019
 
 \lx npéreketenin
 \va npɔ́rɔkɔnin
@@ -104382,11 +104864,11 @@ craie ...)
 \dt 18/May/2017
 
 \lx npíri
-\bw wolof = lutteur de profession ?
-\ps adj/n
+\bw wolof 'lutteur de profession'?
+\ps adj
 \gf champion
 \gvf champion
-\dt 12/Aug/2006
+\dt 18/Apr/2019
 
 \lx npíri
 \ve (-bn,-bk)
@@ -104403,6 +104885,13 @@ craie ...)
 \gvf verrue
 \smf (sorte de verrue arrondie (apparaît souvent sur le nez))
 \dt 16/Aug/2006
+
+\lx npíri
+\bw wolof 'lutteur de profession'?
+\ps n
+\gf champion
+\gvf champion
+\dt 18/Apr/2019
 
 \lx npíya
 \va npíyɛ
@@ -105766,12 +106255,21 @@ craie ...)
 \lx ntɛ̀gɛ
 \va dɛ̀gɛ
 \va ntɛ̀gɛn
-\ps adj/n
+\ps adj
+\gf castré
+\gvf castré
+\smf (bovin = boeuf, se dit aussi des caprins)
+\dt 18/Apr/2019
+
+\lx ntɛ̀gɛ
+\va dɛ̀gɛ
+\va ntɛ̀gɛn
+\ps n
 \gf castré
 \gvf castré
 \smf (bovin = boeuf, se dit aussi des caprins)
 \gvf animal castré
-\dt 02/May/2015
+\dt 18/Apr/2019
 
 \lx ntɛ̀gɛdunu
 \mm dùnu:n:tambour
@@ -107094,11 +107592,22 @@ banane, etc.)
 \mmm nùgu:n:intestin
 \mmm ma:mrph:COM
 \mm ba:mrph:AUGM
-\ps adj/n
+\ps adj
 \gf gourmand
 \gvf gourmand
 \gvf bâfreur
-\dt 04/Apr/2019
+\dt 18/Apr/2019
+
+\lx nùgumaba
+\mm nùguma:adj:gourmand
+\mmm nùgu:n:intestin
+\mmm ma:mrph:COM
+\mm ba:mrph:AUGM
+\ps n
+\gf gourmand
+\gvf gourmand
+\gvf bâfreur
+\dt 18/Apr/2019
 
 \lx nùguman
 \mm nùgu:vq:lisse
@@ -107208,13 +107717,13 @@ banane, etc.)
 
 \lx núma
 \va núman
-\ps adj/n
-\gf gauche
-\gvf gauche
+\ps n
+\gf côté.gauche
+\gvf côté gauche
 \smf (opposé à droite)
 \xv ò jɛ̀ngɛnnen à núma fɛ̀
 \xf il penche à gauche
-\dt 16/Aug/2006
+\dt 18/Apr/2019
 
 \lx númabolo
 \mm núma:n:gauche
@@ -107271,12 +107780,24 @@ banane, etc.)
 \mmm núma:n:gauche
 \mmm kùru:n:boule
 \mm ma:mrph:COM
-\ps adj/n
+\ps adj
 \gf gaucher
 \gvf gaucher
 \sy númama
 \sy númakuru
-\dt 04/Apr/2019
+\dt 18/Apr/2019
+
+\lx númakuruma
+\mm númakuru:n:main.gauche
+\mmm núma:n:gauche
+\mmm kùru:n:boule
+\mm ma:mrph:COM
+\ps n
+\gf gaucher
+\gvf gaucher
+\sy númama
+\sy númakuru
+\dt 18/Apr/2019
 
 \lx nùmu
 \va nùmun
