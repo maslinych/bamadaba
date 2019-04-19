@@ -108127,7 +108127,7 @@ banane, etc.)
 \mm nɔn:mrph:IN
 \mm gó:adj:désagréable
 \ve (f)
-\ps adj/n
+\ps adj
 \ms 1
 \gf irascible
 \gvf irascible
@@ -108136,7 +108136,31 @@ banane, etc.)
 \ms 2
 \gvf taquin
 \smf (qui taquine méchamment)
-\dt 04/Apr/2019
+\dt 19/Apr/2019
+
+\lx núnnango
+\mm nún:n:nez
+\mm nan:mrph:dans
+\mm gó:adj:désagréable
+\va núnango
+\mm nú:n:nez
+\mm nan:mrph:dans
+\mm gó:adj:désagréable
+\va nunnɔngo
+\mm nú:n:nez
+\mm nɔn:mrph:IN
+\mm gó:adj:désagréable
+\ve (f)
+\ps n
+\ms 1
+\gf irascible
+\gvf irascible
+\gvf hargneux
+\smf (qui manifeste de la mauvaise humeur, insociable)
+\ms 2
+\gvf taquin
+\smf (qui taquine méchamment)
+\dt 19/Apr/2019
 
 \lx núnwo
 \mm nún:n:nez
@@ -109427,11 +109451,20 @@ banane, etc.)
 \lx ɲɛ́ba
 \mm ɲɛ́:n:oeil
 \mm ba:mrph:AUGM
-\ps adj/n
+\ps adj
 \gf impertinent
 \gvf impertinent
 \gvf jaloux
-\dt 26/Sep/2006
+\dt 19/Apr/2019
+
+\lx ɲɛ́ba
+\mm ɲɛ́:n:oeil
+\mm ba:mrph:AUGM
+\ps n
+\gf impertinent
+\gvf impertinent
+\gvf jaloux
+\dt 19/Apr/2019
 
 \lx ɲɛ́baya
 \mm ɲɛ́ba:adj:impertinent
@@ -109516,10 +109549,19 @@ banane, etc.)
 \mm ɲɛ́:n:oeil
 \mm bìlen:adj:rouge
 \mm kɔ̀rɔ:adj:vieux
-\ps adj/n
+\ps adj
 \gf aux.yeux.rouges
 \gvf aux yeux rouges
-\dt 05/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ́bilenkɔrɔ
+\mm ɲɛ́:n:oeil
+\mm bìlen:adj:rouge
+\mm kɔ̀rɔ:adj:vieux
+\ps n
+\gf aux.yeux.rouges
+\gvf aux yeux rouges
+\dt 19/Apr/2019
 
 \lx ɲɛ́bo
 \mm ɲɛ́:n:oeil
@@ -110250,14 +110292,29 @@ banane, etc.)
 \va ɲɛ́ngo
 \mm ɲɛ́n:n:oeil
 \mm gó:adj:désagréable
-\ps adj/n
+\ps adj
 \ms 1
 \gf jaloux
 \gvf jaloux
 \gvf égoïste
 \ms 2
 \gvf atteint d'amaurose
-\dt 05/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ́go
+\mm ɲɛ́:n:oeil
+\mm gó:adj:désagréable
+\va ɲɛ́ngo
+\mm ɲɛ́n:n:oeil
+\mm gó:adj:désagréable
+\ps n
+\ms 1
+\gf jaloux
+\gvf jaloux
+\gvf égoïste
+\ms 2
+\gvf atteint d'amaurose
+\dt 19/Apr/2019
 
 \lx ɲɛ́gonci
 \mm ɲɛ́go:adj:jaloux
@@ -110462,11 +110519,11 @@ banane, etc.)
 \lx ɲɛ́jugu
 \mm ɲɛ́:n:oeil
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \gf quémandeur
 \gvf quémandeur
 \gvf pique-assiette
-\dt 05/Apr/2019
+\dt 19/Apr/2019
 
 \lx ɲɛ́jugu
 \mm ɲɛ́:n:oeil
@@ -110477,6 +110534,15 @@ banane, etc.)
 \xv à y'á dòn  à ɲɛ́jugu kàn
 \xf il l'a mis à l'envers (habit ...)
 \dt 05/Apr/2019
+
+\lx ɲɛ́jugu
+\mm ɲɛ́:n:oeil
+\mm júgu:adj:mauvais
+\ps n
+\gf quémandeur
+\gvf quémandeur
+\gvf pique-assiette
+\dt 19/Apr/2019
 
 \lx ɲɛ́juguya
 \mm ɲɛ́jugu:adj:quémandeur
@@ -110510,10 +110576,19 @@ banane, etc.)
 \mm ɲɛ́:n:oeil
 \mm jùru:n:corde
 \mm jàn:adj:long
-\ps adj/n
+\ps adj
 \gf envieux.de.tout
 \gvf envieux de tout
-\dt 05/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ́jurujan
+\mm ɲɛ́:n:oeil
+\mm jùru:n:corde
+\mm jàn:adj:long
+\ps n
+\gf envieux.de.tout
+\gvf envieux de tout
+\dt 19/Apr/2019
 
 \lx ɲɛ́kàn
 \mm ɲɛ́:n:oeil
@@ -110611,10 +110686,25 @@ banane, etc.)
 \mmm ɲà:v:réussir
 \mmm kó:n:affaire
 \mm ma:mrph:COM
-\ps adj/n
+\ps adj
 \gf personne.utile
 \gvf personne utile
-\dt 05/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ̀koma
+\mm ɲɛ̀ko:n:utilité
+\mmm ɲɛ̀:v:réussir
+\mmm kó:n:affaire
+\mm ma:mrph:COM
+\va ɲàkoma
+\mm ɲàko:n:utilité
+\mmm ɲà:v:réussir
+\mmm kó:n:affaire
+\mm ma:mrph:COM
+\ps n
+\gf personne.utile
+\gvf personne utile
+\dt 19/Apr/2019
 
 \lx ɲɛ́konkon
 \mm ɲɛ́:n:oeil
@@ -111328,10 +111418,18 @@ banane, etc.)
 \lx ɲɛ́misɛn
 \mm ɲɛ́:n:oeil
 \mm mìsɛn:adj:petit
-\ps adj/n
+\ps adj
 \gf tatillon
 \gvf tatillon
-\dt 06/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ́misɛn
+\mm ɲɛ́:n:oeil
+\mm mìsɛn:adj:petit
+\ps n
+\gf tatillon
+\gvf tatillon
+\dt 19/Apr/2019
 
 \lx ɲɛ́mɔ̀
 \mm ɲɛ́:n:oeil
@@ -111584,7 +111682,7 @@ banane, etc.)
 \mmm ná:pp:à
 \mm gwɛ̀lɛn:adj:dur
 \ph [gw]
-\ps adj/n
+\ps adj
 \ms 1
 \gf téméraire
 \gvf téméraire
@@ -111594,7 +111692,30 @@ banane, etc.)
 \ms 2
 \gvf effronté
 \gvf impudent
-\dt 06/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ́nagɛlɛn
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm gɛ̀lɛn:adj:dur
+\va ɲɛ́nagwɛlɛn
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm gwɛ̀lɛn:adj:dur
+\ph [gw]
+\ps n
+\ms 1
+\gf téméraire
+\gvf téméraire
+\gvf persévérant
+\gvf hardi
+\smf (qui n'a a pas froid aux yeux)
+\ms 2
+\gvf effronté
+\gvf impudent
+\dt 19/Apr/2019
 
 \lx ɲɛ́nagɛlɛya
 \mm ɲɛ́na:n:vue
@@ -111707,14 +111828,14 @@ banane, etc.)
 \mmm ɲɛ́:n:oeil
 \mmm ná:pp:à
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \ms 1
 \gf pique-assiette
 \gvf pique-assiette
 \gvf parasite
 \ms 2
 \gvf quémandeur
-\dt 06/Apr/2019
+\dt 19/Apr/2019
 
 \lx ɲɛ́najugu
 \mm ɲɛ́:n:oeil
@@ -111724,6 +111845,20 @@ banane, etc.)
 \gf envers
 \gvf envers
 \dt 23/Mar/2015
+
+\lx ɲɛ́najugu
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm júgu:adj:mauvais
+\ps n
+\ms 1
+\gf pique-assiette
+\gvf pique-assiette
+\gvf parasite
+\ms 2
+\gvf quémandeur
+\dt 19/Apr/2019
 
 \lx ɲɛ́nakegun
 \mm ɲɛ́na:n:vue
@@ -111735,11 +111870,25 @@ banane, etc.)
 \mmm ɲɛ́:n:oeil
 \mmm ná:pp:à
 \mm kèkun:adj:malin
-\ps adj/n
+\ps adj
 \gf adroit.de.ses.mains
 \gvf adroit de ses mains
-\rem l 89
-\dt 06/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ́nakegun
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm kègun:adj:malin
+\va ɲɛ́nakekun
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm kèkun:adj:malin
+\ps n
+\gf adroit.de.ses.mains
+\gvf adroit de ses mains
+\dt 19/Apr/2019
 
 \lx ɲɛ́nakegunya
 \mm ɲɛ́nakegun:adj:adroit.de.ses.mains
@@ -111914,12 +112063,24 @@ banane, etc.)
 \mmm ɲɛ́:n:oeil
 \mmm ná:pp:à
 \mm mìsɛn:adj:petit
-\ps adj/n
+\ps adj
 \gf minutieux
 \gvf minutieux
 \gvf méticuleux
 \gvf délicat
-\dt 06/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ́namisɛn
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm mìsɛn:adj:petit
+\ps n
+\gf minutieux
+\gvf minutieux
+\gvf méticuleux
+\gvf délicat
+\dt 19/Apr/2019
 
 \lx ɲɛ́namɔgɔ
 \mm ɲɛ́:n:oeil
@@ -111940,7 +112101,7 @@ banane, etc.)
 \mmm ɲɛ́:n:oeil
 \mmm ná:pp:à
 \mm dí:vq:agréable
-\ps adj/n
+\ps adj
 \ms 1
 \gf gai
 \gvf gai
@@ -111949,18 +112110,50 @@ banane, etc.)
 \gvf habile
 \gvf adroit
 \gvf astucieux
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ́nandi
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm dí:vq:agréable
+\va ɲɛ́nadi
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm dí:vq:agréable
+\ps n
+\ms 1
+\gf gai
+\gvf gai
+\gvf au visage avenant
+\ms 2
+\gvf habile
+\gvf adroit
+\gvf astucieux
+\dt 19/Apr/2019
 
 \lx ɲɛ́nango
 \mm ɲɛ́na:n:vue
 \mmm ɲɛ́:n:oeil
 \mmm ná:pp:à
 \mm gó:adj:désagréable
-\ps adj/n
+\ps adj
 \gf maladroit
 \gvf maladroit
 \gvf malhabile
-\dt 06/Apr/2019
+\dt 19/Apr/2019
+
+\lx ɲɛ́nango
+\mm ɲɛ́na:n:vue
+\mmm ɲɛ́:n:oeil
+\mmm ná:pp:à
+\mm gó:adj:désagréable
+\ps n
+\gf maladroit
+\gvf maladroit
+\gvf malhabile
+\dt 19/Apr/2019
 
 \lx ɲɛ́nantumu
 \mm ɲɛ́:n:oeil
@@ -112168,11 +112361,20 @@ banane, etc.)
 \lx ɲɛ́ngo
 \mm ɲɛ́:n:oeuil
 \mm gó:adj:désagréable
-\ps adj/n
+\ps adj
 \gf jaloux
 \gvf jaloux
 \gvf égoïste
-\dt 17/Feb/2018
+\dt 19/Apr/2019
+
+\lx ɲɛ́ngo
+\mm ɲɛ́:n:oeuil
+\mm gó:adj:désagréable
+\ps n
+\gf jaloux
+\gvf jaloux
+\gvf égoïste
+\dt 19/Apr/2019
 
 \lx ɲɛ́ni
 \va ɲáni
@@ -112250,7 +112452,7 @@ banane, etc.)
 \mm ɲɛ́:n:oeil
 \mm tà:v:prendre
 \mm nci:mrph:AG.EX
-\ps adj/n
+\ps adj
 \ms 1
 \gf dérisoire
 \gvf dérisoire
@@ -112260,7 +112462,27 @@ banane, etc.)
 \gvf prétentieux
 \gvf qui fait l'important
 \smf (joue les premiers rôles sans en être chargé)
-\dt 05/Apr/2015
+\dt 19/Apr/2019
+
+\lx ɲɛ́ntannci
+\mm ɲɛ́:n:oeil
+\mm ntan:mrph:PRIV
+\mm nci:mrph:AG.EX
+\va ɲɛ́tanci
+\mm ɲɛ́:n:oeil
+\mm tà:v:prendre
+\mm nci:mrph:AG.EX
+\ps n
+\ms 1
+\gf dérisoire
+\gvf dérisoire
+\gvf sans importance
+\ms 2
+\gvf fanfaron
+\gvf prétentieux
+\gvf qui fait l'important
+\smf (joue les premiers rôles sans en être chargé)
+\dt 19/Apr/2019
 
 \lx ɲɛ̀ɲɛn
 \va ɲɛ̀nɲɛn
@@ -112860,12 +113082,20 @@ banane, etc.)
 \lx ɲígirɔgɛlɛn
 \mm ɲígirɔ:n:compassion
 \mm gɛ̀lɛn:adj:dur
-\ps adj/n
+\ps adj
 \gf résolu
 \gvf résolu
-\smf (personne qui n'hésite pas à agir (dans des circonstances difficiles))
-\rem f 84 : cf : nyigirò :  !
-\dt 06/Apr/2019
+\smf (personne qui n'hésite pas à agir dans des circonstances difficiles)
+\dt 19/Apr/2019
+
+\lx ɲígirɔgɛlɛn
+\mm ɲígirɔ:n:compassion
+\mm gɛ̀lɛn:adj:dur
+\ps n
+\gf résolu
+\gvf résolu
+\smf (personne qui n'hésite pas à agir dans des circonstances difficiles)
+\dt 19/Apr/2019
 
 \lx ɲígirɔgɛlɛya
 \mm ɲígirɔgɛlɛn:adj:résolu
@@ -114402,10 +114632,11 @@ le pèlerinage (bk 1/06 p.5)
 
 \lx ŋánamaŋanama
 \va ŋɛ́nɛmɛŋɛnɛmɛ
-\ps adj/n
+\ps adj
 \gf fanfaron
 \gvf fanfaron
 \gvf étourdi
+\dt 19/Apr/2019
 
 \lx ŋánamaŋanama
 \va ŋɛ́nɛmɛŋɛnɛmɛ
@@ -114413,6 +114644,14 @@ le pèlerinage (bk 1/06 p.5)
 \gf à.l'étourdie
 \gvf à l'étourdie
 \dt 26/Sep/2006
+
+\lx ŋánamaŋanama
+\va ŋɛ́nɛmɛŋɛnɛmɛ
+\ps n
+\gf fanfaron
+\gvf fanfaron
+\gvf étourdi
+\dt 19/Apr/2019
 
 \lx ŋánamatan
 \ps adv
@@ -114931,11 +115170,22 @@ le pèlerinage (bk 1/06 p.5)
 \ve (bn)
 \va ŋùnafeku
 \ve (bk)
-\ps adj/n
+\ps adj
 \gf rapporteur
 \gvf rapporteur
 \gvf médisant
-\dt 19/Jul/2015
+\dt 19/Apr/2019
+
+\lx ŋùnafaki
+\va ŋùnafɛki
+\ve (bn)
+\va ŋùnafeku
+\ve (bk)
+\ps n
+\gf rapporteur
+\gvf rapporteur
+\gvf médisant
+\dt 19/Apr/2019
 
 \lx ŋùnafinfin
 \mm ŋùna:n:feu.de.brousse
@@ -118444,11 +118694,21 @@ langue, et finit par empêcher de marcher)
 \mm sàla:v:devenir.paresseux
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf paresseux
 \gvf paresseux
 \smf (occasionnel, s'opposerait à 'kolon' paresseux invétéré)
-\dt 12/Aug/2006
+\dt 19/Apr/2019
+
+\lx sàlabaatɔ
+\mm sàla:v:devenir.paresseux
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
+\gf paresseux
+\gvf paresseux
+\smf (occasionnel, s'opposerait à 'kolon' paresseux invétéré)
+\dt 19/Apr/2019
 
 \lx sàlabaatɔya
 \mm sàlabaatɔ:adj:paresseux
@@ -118488,11 +118748,18 @@ langue, et finit par empêcher de marcher)
 \dt 16/Aug/2006
 
 \lx sàlasala
-\ps adj/n
+\ps adj
 \gf peu.concentré
 \gvf peu concentré
-\smf (mélange liquide peu concentré -- sans force, sans saveur ... se dit de la sauce,  de la bière, du sang, du sperme ...)
-\dt 25/Jun/2013
+\smf (mélange liquide peu concentré -- sans force, sans saveur; se dit de la sauce, de la bière, du sang, du sperme)
+\dt 19/Apr/2019
+
+\lx sàlasala
+\ps n
+\gf peu.concentré
+\gvf peu concentré
+\smf (mélange liquide peu concentré -- sans force, sans saveur; se dit de la sauce, de la bière, du sang, du sperme)
+\dt 19/Apr/2019
 
 \lx salati
 \ps n
@@ -120070,11 +120337,20 @@ langue, et finit par empêcher de marcher)
 \lx sánuji
 \mm sánu:n:or
 \mm jí:n:eau
-\ps adj/n
+\ps adj
 \gf couleur.d'or
 \gvf couleur d'or
 \gvf doré
-\dt 26/Sep/2006
+\dt 19/Apr/2019
+
+\lx sánuji
+\mm sánu:n:or
+\mm jí:n:eau
+\ps n
+\gf couleur.d'or
+\gvf couleur d'or
+\gvf doré
+\dt 19/Apr/2019
 
 \lx sánujilama
 \mm sánuji:n:couleur.d'or
@@ -121741,10 +122017,27 @@ pas réussi
 \va sènenkunma
 \mm sènenkun:n:cousin.de.plaisanterie
 \mm ma:mrph:RECP.PRN
-\ps adj/n
+\ps adj
 \gf cousin.de.plaisanterie
 \gvf cousin de plaisanterie
-\dt 07/May/2017
+\dt 19/Apr/2019
+
+\lx sènankunma
+\mm sènankun:n:cousin.de.plaisanterie
+\mm ma:mrph:RECP.PRN
+\va sɛ̀nɛnkunma
+\mm sɛ̀nɛnkun:n:cousin.de.plaisanterie
+\mm ma:mrph:RECP.PRN
+\va sìnankunma
+\mm sìnankun:n:cousin.de.plaisanterie
+\mm ma:mrph:RECP.PRN
+\va sènenkunma
+\mm sènenkun:n:cousin.de.plaisanterie
+\mm ma:mrph:RECP.PRN
+\ps n
+\gf cousin.de.plaisanterie
+\gvf cousin de plaisanterie
+\dt 19/Apr/2019
 
 \lx sènankunya
 \mm sènankun:n:cousin.de.plaisanterie
@@ -121919,10 +122212,18 @@ pas réussi
 \lx sèndu
 \mm sèn:n:jambe
 \mm dù:v:courber
-\ps adj/n
+\ps adj
 \gf aux.pieds.tordus
 \gvf aux pieds tordus
-\dt 16/Aug/2006
+\dt 19/Apr/2019
+
+\lx sèndu
+\mm sèn:n:jambe
+\mm dù:v:courber
+\ps n
+\gf aux.pieds.tordus
+\gvf aux pieds tordus
+\dt 19/Apr/2019
 
 \lx séne
 \ps n
@@ -122063,10 +122364,18 @@ pas réussi
 \lx sènkelen
 \mm sèn:n:jambe
 \mm kélen:num:un
-\ps adj/n
+\ps adj
 \gf unijambiste
 \gvf unijambiste
-\dt 12/Aug/2006
+\dt 19/Apr/2019
+
+\lx sènkelen
+\mm sèn:n:jambe
+\mm kélen:num:un
+\ps n
+\gf unijambiste
+\gvf unijambiste
+\dt 19/Apr/2019
 
 \lx sènkɛ́nyɛ
 \mm sèn:n:jambe
@@ -122287,22 +122596,44 @@ gouvernement le soutient (kb 5/06 p.7)
 \mmm sèn:n:jambe
 \mmm na:mrph:dans
 \mm gòni:adj:chaud
-\ps adj/n
+\ps adj
 \gf rapide
 \gvf rapide
 \gvf véloce
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx sènnagoni
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm na:mrph:dans
+\mm gòni:adj:chaud
+\ps n
+\gf rapide
+\gvf rapide
+\gvf véloce
+\dt 19/Apr/2019
 
 \lx sènnakalan
 \mm sènna:n:allure
 \mmm sèn:n:jambe
 \mmm na:mrph:dans
 \mm kálan:adj:chaud
-\ps adj/n
+\ps adj
 \gf rapide
 \gvf rapide
 \gvf véloce
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx sènnakalan
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm na:mrph:dans
+\mm kálan:adj:chaud
+\ps n
+\gf rapide
+\gvf rapide
+\gvf véloce
+\dt 19/Apr/2019
 
 \lx sènnakolon
 \mm sènna:n:allure
@@ -122355,11 +122686,22 @@ gouvernement le soutient (kb 5/06 p.7)
 \mmm sèn:n:jambe
 \mmm nan:mrph:dans
 \mm dí:vq:agréable
-\ps adj/n
+\ps adj
 \gf rapide
 \gvf rapide
 \gvf aux pieds légers
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx sènnandi
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm nan:mrph:dans
+\mm dí:vq:agréable
+\ps n
+\gf rapide
+\gvf rapide
+\gvf aux pieds légers
+\dt 19/Apr/2019
 
 \lx sènnankolon
 \mm sènna:n:allure
@@ -122371,12 +122713,29 @@ gouvernement le soutient (kb 5/06 p.7)
 \mmm sèn:n:jambe
 \mmm nan:mrph:dans
 \mm kólon:adj:vide
-\ps adj/n
+\ps adj
 \gf va-nu-pieds
 \gvf va-nu-pieds
 \smf (au sens propre ...)
 \gvf nu-pieds
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx sènnankolon
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm nan:mrph:dans
+\mm kólon:adj:vide
+\va sènnakolon
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm nan:mrph:dans
+\mm kólon:adj:vide
+\ps n
+\gf va-nu-pieds
+\gvf va-nu-pieds
+\smf (au sens propre ...)
+\gvf nu-pieds
+\dt 19/Apr/2019
 
 \lx sènnantolatan
 \mm sènna:n:allure
@@ -122423,10 +122782,20 @@ gouvernement le soutient (kb 5/06 p.7)
 \mmm sèn:n:jambe
 \mmm na:mrph:dans
 \mm súma:adj:lent
-\ps adj/n
+\ps adj
 \gf lent
 \gvf lent
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx sènnasuma
+\mm sènna:n:allure
+\mmm sèn:n:jambe
+\mmm na:mrph:dans
+\mm súma:adj:lent
+\ps n
+\gf lent
+\gvf lent
+\dt 19/Apr/2019
 
 \lx sènnasúmaya
 \mm sènnasuma:adj:lent
@@ -123028,11 +123397,20 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sétigi
 \mm sé:n:arrivée
 \mm tìgi:n:maître
-\ps adj/n
+\ps adj
 \gf influent
 \gvf influent
 \gvf riche
-\dt 26/Sep/2006
+\dt 19/Apr/2019
+
+\lx sétigi
+\mm sé:n:arrivée
+\mm tìgi:n:maître
+\ps n
+\gf influent
+\gvf influent
+\gvf riche
+\dt 19/Apr/2019
 
 \lx sétigiya
 \mm sétigi:n:influent
@@ -123086,27 +123464,42 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sɛ̀bɛ
 \va sɔ̀bɛ
-\ps adj/n
+\ps adj
 \ms 1
 \gf sérieux
 \gvf sérieux
 \gvf important
 \gvf réel
-\xv sɛ̀bɛ lá
-\xf réellement, en vérité, sérieusement
-\xv à b'á sɛ̀bɛ lá
-\xf il est bien décidé, il ne blague pas
-\xv ...dòn  sɛ̀bɛ lá
-\xf prendre au sérieux qqch
 \ms 2
+\gvf sincère
+\xv nìn yé màa sɛ́bɛ yé
+\xf c'est un brave homme, une personne honnête, serviable
+\dt 19/Apr/2019
+
+\lx sɛ̀bɛ
+\va sɔ̀bɛ
+\ps adv.p
+\ms 1
+\gf sérieusement
+\gvf sérieusement
 \gvf en grande quantité
 \xv ù y'á sɛ̀bɛ-fó
 \xf ils l'ont remercié bien bien
-\ms 3
-\gvf sincère
-\xv nìn yé  màa sɛ́bɛ yé
-\xf c'est un brave homme, une personne honnête, serviable
-\dt 03/Apr/2016
+\dt 19/Apr/2019
+
+\lx sɛ̀bɛ
+\va sɔ̀bɛ
+\ps n
+\gf sérieux
+\gvf sérieux
+\gvf attitude sérieuse
+\xv sɛ̀bɛ lá
+\xe réellement, en vérité, sérieusement
+\xv à b'á sɛ̀bɛ lá
+\xe il est bien décidé, il ne blague pas
+\xv ... dòn sɛ̀bɛ lá
+\xe prendre au sérieux qc
+\dt 19/Apr/2019
 
 \lx sɛ̀bɛdɔn
 \mm sɛ̀bɛ:n:sérieux
@@ -123587,13 +123980,29 @@ gouvernement le soutient (kb 5/06 p.7)
 \mm sɛ̀gɛn:v:fatiguer
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps adj/n
+\ps adj
 \gf pauvre
 \gvf pauvre
 \sy dɛ́sɛbaatɔ
 \sy fàantan
 \sy bólontan
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx sɛ̀gɛnbaatɔ
+\mm sɛ̀gɛn:v:fatiguer
+\mm baa:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\va sɛ̀gɛnbagatɔ
+\mm sɛ̀gɛn:v:fatiguer
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
+\ps n
+\gf pauvre
+\gvf pauvre
+\sy dɛ́sɛbaatɔ
+\sy fàantan
+\sy bólontan
+\dt 19/Apr/2019
 
 \lx sɛ̀gɛnɛ
 \ps v
@@ -124552,11 +124961,20 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sífin
 \mm sí:n:poil
 \mm fìn:adj:noir
-\ps adj/n
+\ps adj
 \gf adulte
 \gvf adulte
 \smf (opposé au vieillard à cheveux blancs)
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx sífin
+\mm sí:n:poil
+\mm fìn:adj:noir
+\ps n
+\gf adulte
+\gvf adulte
+\smf (opposé au vieillard à cheveux blancs)
+\dt 19/Apr/2019
 
 \lx síga
 \va sígi
@@ -125185,10 +125603,18 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \lx síjɛ
 \mm sí:n:poil
 \mm jɛ́:adj:blanc
-\ps adj/n
+\ps adj
 \gf vieux
 \gvf vieux
-\dt 19/Dec/2018
+\dt 19/Apr/2019
+
+\lx síjɛ
+\mm sí:n:poil
+\mm jɛ́:adj:blanc
+\ps n
+\gf vieux
+\gvf vieux
+\dt 19/Apr/2019
 
 \lx síjɛtigi
 \mm sí:n:poil
@@ -129130,10 +129556,18 @@ euphémique)
 \lx sɔ̀njugu
 \mm sɔ̀n:n:coeur
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \gf débauché
 \gvf débauché
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx sɔ̀njugu
+\mm sɔ̀n:n:coeur
+\mm júgu:adj:mauvais
+\ps n
+\gf débauché
+\gvf débauché
+\dt 19/Apr/2019
 
 \lx sɔ̀njuguya
 \mm sɔ̀njugu:adj:débauché
@@ -129190,11 +129624,21 @@ euphémique)
 \mm sɔ̀n:v:accepter
 \mm kó:n:affaire
 \mm mà:pp:ADR
-\ps adj/n
+\ps adj
 \gf complaisant
 \gvf complaisant
 \gvf facile
-\dt 26/Sep/2006
+\dt 19/Apr/2019
+
+\lx sɔ̀nkómà
+\mm sɔ̀n:v:accepter
+\mm kó:n:affaire
+\mm mà:pp:ADR
+\ps n
+\gf complaisant
+\gvf complaisant
+\gvf facile
+\dt 19/Apr/2019
 
 \lx sɔ̀nkɔrɔ
 \mm sɔ̀n:n:coeur
@@ -131041,7 +131485,21 @@ s'amène ...)
 \dt 26/Sep/2006
 
 \lx súre
-\ps adj/n
+\ps adj
+\ms 1
+\gf abandonné
+\gvf abandonné
+\gvf sans propriétaire
+\gvf sans famille
+\ms 2
+\gvf intrus
+\gvf insolite
+\ms 3
+\gvf emprunté
+\dt 19/Apr/2019
+
+\lx súre
+\ps n
 \ms 1
 \gf abandonné
 \gvf abandonné
@@ -131057,7 +131515,7 @@ s'amène ...)
 \gvf insolite
 \ms 4
 \gvf emprunt
-\dt 10/Mar/2018
+\dt 19/Apr/2019
 
 \lx súrɔ
 \mm sú:n:nuit
@@ -131138,10 +131596,19 @@ fiançailles
 \mm sú:n:nuit
 \mm rɔ́:pp:IN
 \mm gùngurun:n:souche
-\ps adj/n
+\ps adj
 \gf hypocrite
 \gvf hypocrite
-\dt 12/Aug/2006
+\dt 19/Apr/2019
+
+\lx súrɔgungurun
+\mm sú:n:nuit
+\mm rɔ́:pp:IN
+\mm gùngurun:n:souche
+\ps n
+\gf hypocrite
+\gvf hypocrite
+\dt 19/Apr/2019
 
 \lx súrɔkɔnɔ
 \mm sú:n:nuit
@@ -133918,10 +134385,18 @@ pieton)
 \lx tántan
 \mm tá:n:propriété
 \mm ntan:mrph:PRIV
-\ps adj/n
+\ps adj
 \gf pauvre
 \gvf pauvre
-\dt 07/Mar/2014
+\dt 19/Apr/2019
+
+\lx tántan
+\mm tá:n:propriété
+\mm ntan:mrph:PRIV
+\ps n
+\gf pauvre
+\gvf pauvre
+\dt 19/Apr/2019
 
 \lx tántantali
 \ps adv
@@ -134710,16 +135185,24 @@ flaques d'eau)
 \lx tèrejugu
 \mm tère:n:chance
 \mm júgu:adj:mauvais
-\ps adj/n
+\ps adj
 \gf porte-malheur
 \gvf porte-malheur
 \smf (personne poursuivie par une fatalité)
 \xv mùso tèrejugu bɛ́  í káburu dɛ̀ɛnkun
 \xf une femme porte-malheur dame ta tombe !
+\dt 19/Apr/2019
+
+\lx tèrejugu
+\mm tère:n:chance
+\mm júgu:adj:mauvais
+\ps n
+\gf porte-malheur
+\gvf porte-malheur
+\smf (personne poursuivie par une fatalité)
 \xv tèrejugu tùn bɛ́ tàli kɛ́ mùso fàrikolo fàndɔ bɔ́cogo lá
-\xf on devinait cette tare à des signes corporels extérieurs (kb 1/06 p.8)
-\rem l 89
-\dt 11/Apr/2019
+\xf on devinait cette tare à des signes corporels extérieurs
+\dt 19/Apr/2019
 
 \lx téreke
 \bw ar: faraka = id.
@@ -135025,23 +135508,46 @@ flaques d'eau)
 \mmm tɛ́gɛ:n:paume
 \mmm lá:pp:à
 \mm mìsɛn:adj:petit
-\ps adj/n
+\ps adj
 \gf touche-à-tout
 \gvf touche-à-tout
 \gvf voleur
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx tɛ́gɛlamisɛn
+\mm tɛ́gɛla:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm lá:pp:à
+\mm mìsɛn:adj:petit
+\ps n
+\gf touche-à-tout
+\gvf touche-à-tout
+\gvf voleur
+\dt 19/Apr/2019
 
 \lx tɛ́gɛlandi
 \mm tɛ́gɛla:n:main.active
 \mmm tɛ́gɛ:n:paume
 \mmm la:mrph:dans
 \mm dí:vq:agréable
-\ps adj/n
+\ps adj
 \gf adroit
 \gvf adroit
 \smf (à la chasse, au tir...)
 \gvf bon tireur
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx tɛ́gɛlandi
+\mm tɛ́gɛla:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm la:mrph:dans
+\mm dí:vq:agréable
+\ps n
+\gf adroit
+\gvf adroit
+\smf (à la chasse, au tir...)
+\gvf bon tireur
+\dt 19/Apr/2019
 
 \lx tɛ́gɛlandiya
 \mm tɛ́gɛlandi:adj:adroit
@@ -135061,12 +135567,24 @@ flaques d'eau)
 \mm tɛ́gɛ:n:paume
 \mm lan:mrph:dans
 \mm gó:adj:désagréable
-\ps adj/n
+\ps adj
 \gf maladroit
 \gvf maladroit
 \smf (à la chasse, au tir)
 \gvf mauvais tireur
-\dt 08/Mar/2018
+\dt 19/Apr/2019
+
+\lx tɛ́gɛlango
+\mm tɛ́gɛla:n:main.active
+\mm tɛ́gɛ:n:paume
+\mm lan:mrph:dans
+\mm gó:adj:désagréable
+\ps n
+\gf maladroit
+\gvf maladroit
+\smf (à la chasse, au tir)
+\gvf mauvais tireur
+\dt 19/Apr/2019
 
 \lx tɛ́gɛlangoya
 \mm tɛ́gɛlango:adj:maladroit
@@ -135104,11 +135622,63 @@ flaques d'eau)
 \mmm tɛ́gɛ:n:paume
 \mmm lan:mrph:dans
 \mm télin:adj:rapide
-\ps adj/n
+\ps adj
 \gf main.preste
 \gvf main preste
-\smf (au travail ..., pour manger ..., pour frapper ...)
-\dt 11/Apr/2019
+\smf (au travail, pour manger, pour frapper)
+\dt 19/Apr/2019
+
+\lx tɛ́gɛlateli
+\mm tɛ́gɛla:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm la:mrph:dans
+\mm téli:adj:rapide
+\va tɛ́gɛlatelin
+\mm tɛ́gɛla:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm la:mrph:dans
+\mm télin:adj:rapide
+\va tɛ́gɛlanteli
+\mm tɛ́gɛlan:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm lan:mrph:dans
+\mm téli:adj:rapide
+\va tɛ́gɛlantelin
+\mm tɛ́gɛla:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm lan:mrph:dans
+\mm télin:adj:rapide
+\ps n
+\gf main.preste
+\gvf main preste
+\smf (au travail, pour manger, pour frapper)
+\dt 19/Apr/2019
+
+\lx tɛ́gɛlateli
+\mm tɛ́gɛla:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm la:mrph:dans
+\mm téli:adj:rapide
+\va tɛ́gɛlatelin
+\mm tɛ́gɛla:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm la:mrph:dans
+\mm télin:adj:rapide
+\va tɛ́gɛlanteli
+\mm tɛ́gɛlan:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm lan:mrph:dans
+\mm téli:adj:rapide
+\va tɛ́gɛlantelin
+\mm tɛ́gɛla:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm lan:mrph:dans
+\mm télin:adj:rapide
+\ps n
+\gf main.preste
+\gvf main preste
+\smf (au travail, pour manger, pour frapper)
+\dt 19/Apr/2019
 
 \lx tɛ̀gɛlɛ
 \va tɛ̀gɛrɛ
@@ -135138,10 +135708,20 @@ flaques d'eau)
 \mmm tɛ́gɛ:n:paume
 \mmm mà:mrph:SUPER
 \mm gɛ̀lɛn:adj:dur
-\ps adj/n
+\ps adj
 \gf avare
 \gvf avare
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx tɛ́gɛmagɛlɛn
+\mm tɛ́gɛma:n:main
+\mmm tɛ́gɛ:n:paume
+\mmm mà:mrph:SUPER
+\mm gɛ̀lɛn:adj:dur
+\ps n
+\gf avare
+\gvf avare
+\dt 19/Apr/2019
 
 \lx tɛ́gɛmagɛlɛya
 \mm tɛ́gɛma:n:main
@@ -135184,11 +135764,22 @@ flaques d'eau)
 \mmm tɛ́gɛ:n:paume
 \mmm ná:pp:à
 \mm súma:adj:frais
-\ps adj/n
+\ps adj
 \gf lent
 \gvf lent
 \smf (de mains)
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx tɛ́gɛnasuma
+\mm tɛ́gɛla:n:main.active
+\mmm tɛ́gɛ:n:paume
+\mmm ná:pp:à
+\mm súma:adj:frais
+\ps n
+\gf lent
+\gvf lent
+\smf (de mains)
+\dt 19/Apr/2019
 
 \lx tɛ́gɛnɔbìla
 \mm tɛ́gɛ:n:paume
@@ -136941,10 +137532,19 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm tími:v:s'appliquer
 \mm nan:mrph:dans
 \mm dí:vq:agréable
-\ps adj/n
+\ps adj
 \gf appliqué
 \gvf appliqué
-\dt 11/Feb/2017
+\dt 19/Apr/2019
+
+\lx tíminandi
+\mm tími:v:s'appliquer
+\mm nan:mrph:dans
+\mm dí:vq:agréable
+\ps n
+\gf appliqué
+\gvf appliqué
+\dt 19/Apr/2019
 
 \lx tíminandiya
 \mm tíminandi:n:appliqué
@@ -136980,11 +137580,26 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm nan:mrph:dans
 \mm kó:vq:désagréable
 \ve (bn,f)
-\ps adj/n
+\ps adj
 \gf négligent
 \gvf négligent
 \gvf peu assidu
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx tíminango
+\mm tími:v:s'appliquer
+\mm nan:mrph:dans
+\mm gó:vq:désagréable
+\va tíminanko
+\mm tími:v:s'appliquer
+\mm nan:mrph:dans
+\mm kó:vq:désagréable
+\ve (bn,f)
+\ps n
+\gf négligent
+\gvf négligent
+\gvf peu assidu
+\dt 19/Apr/2019
 
 \lx tíminangoya
 \mm tíminango:n:négligent
@@ -138477,10 +139092,21 @@ est due aux paysans (kib 3/05 p.9)
 \va twàkelen
 \mm twà:n:hanche
 \mm kélen:num:un
-\ps adj/n
+\ps adj
 \gf déhanché
 \gvf déhanché
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx tɔ̀gɔkelen
+\mm tɔ̀gɔ:n:hanche
+\mm kélen:num:un
+\va twàkelen
+\mm twà:n:hanche
+\mm kélen:num:un
+\ps n
+\gf déhanché
+\gvf déhanché
+\dt 19/Apr/2019
 
 \lx tɔ̀gɔkun
 \mm tɔ̀gɔ:n:hanche
@@ -139942,12 +140568,24 @@ est due aux paysans (kib 3/05 p.9)
 \va tlógweren
 \mm tló:n:oreille
 \mm gwéren:adj:bouché
-\ph [tlogweren]
-\ps adj/n
+\ps adj
 \gf sourd
 \gvf sourd
 \gvf mal entendant
-\dt 11/Apr/2019
+\dt 19/Apr/2019
+
+\lx túlogeren
+\mm túlo:n:oreille
+\mm géren:adj:bouché
+\va tlógweren
+\mm tló:n:oreille
+\mm gwéren:adj:bouché
+\ph [tlogweren]
+\ps n
+\gf sourd
+\gvf sourd
+\gvf mal entendant
+\dt 19/Apr/2019
 
 \lx túlogerenya
 \mm túlogeren:adj:sourd
@@ -140195,14 +140833,30 @@ yé
 \mm mà:mrph:SUPER
 \mm gwɛ̀lɛn:adj:dur
 \ph [tlomagwɛlɛn]
-\ps adj/n
+\ps adj
 \gf entêté
 \gvf entêté
 \gvf obstiné
 \gvf têtu
 \xv ń'í yé dénmisɛnnin túlomagɛlɛn fɛ́n ó fɛ́n yé, ó yé  mɔ̀musolamɔden dé yé
 \xf si tu vois un enfant désobéissant, c'est sa grand'mère qui l'a éduqué
-\dt 23/Mar/2015
+\dt 19/Apr/2019
+
+\lx túlomagɛlɛn
+\mm túlo:n:oreille
+\mm mà:mrph:SUPER
+\mm gɛ̀lɛn:adj:dur
+\va túlomagwɛlɛn
+\mm túlo:n:oreille
+\mm mà:mrph:SUPER
+\mm gwɛ̀lɛn:adj:dur
+\ph [tlomagwɛlɛn]
+\ps n
+\gf entêté
+\gvf entêté
+\gvf obstiné
+\gvf têtu
+\dt 19/Apr/2019
 
 \lx túlomagɛlɛya
 \mm túlomagɛlɛn:adj:entêté
@@ -142975,11 +143629,19 @@ la Justice (kb 12/05 p.4)
 
 \lx wènce
 \ve (-bk)
-\ps adj/n
+\ps adj
 \gf intrus
 \gvf intrus
 \smf (personne qui vient sans avoir été invitée)
-\dt 26/Sep/2006
+\dt 19/Apr/2019
+
+\lx wènce
+\ve (-bk)
+\ps n
+\gf intrus
+\gvf intrus
+\smf (personne qui vient sans avoir été invitée)
+\dt 19/Apr/2019
 
 \lx wènceya
 \mm wènce:adj:intrus
@@ -143518,12 +144180,22 @@ la Justice (kb 12/05 p.4)
 \lx wòlojɛ
 \mm wòlo:n:peau
 \mm jɛ́:adj:blanc
-\ps adj/n
+\ps adj
 \gf blanc
 \gvf blanc
 \smf (personne : européen, maure ...)
 \sy fàrajɛ
-\dt 12/Apr/2019
+\dt 19/Apr/2019
+
+\lx wòlojɛ
+\mm wòlo:n:peau
+\mm jɛ́:adj:blanc
+\ps n
+\gf blanc
+\gvf blanc
+\smf (personne : européen, maure ...)
+\sy fàrajɛ
+\dt 19/Apr/2019
 
 \lx wòlokɔrɔda
 \mm wòlo:n:peau
@@ -146175,7 +146847,7 @@ bambara)
 \dt 16/Aug/2006
 
 \lx yéleke
-\ps adj/n
+\ps adj
 \ms 1
 \gf étranger
 \gvf étranger
@@ -146186,7 +146858,19 @@ bambara)
 \gvf intrus
 \gvf espion
 \smf (péj)
-\dt 26/Sep/2006
+\dt 19/Apr/2019
+
+\lx yéleke
+\ps n
+\ms 1
+\gf étranger
+\gvf étranger
+\smf (d'une autre race, d'un autre groupe)
+\ms 2
+\gvf intrus
+\gvf espion
+\smf (péj)
+\dt 19/Apr/2019
 
 \lx yélekuyeleku
 \ps adv
@@ -147221,7 +147905,22 @@ comportement (LD p.5)
 \lx yɛ̀rɛwolo
 \mm yɛ̀rɛ̂:n:légitime
 \mm wólo:v:accoucher
-\ps adj/n
+\ps adj
+\ms 1
+\gf légitime
+\gvf légitime
+\gvf enfant légitime
+\ms 2
+\gvf superbe
+\smf (d'excellente qualité)
+\xv sánu yɛ̀rɛwolo
+\xf de l'or pur
+\dt 19/Apr/2019
+
+\lx yɛ̀rɛwolo
+\mm yɛ̀rɛ̂:n:légitime
+\mm wólo:v:accoucher
+\ps n
 \ms 1
 \gf légitime
 \gvf légitime
@@ -147231,12 +147930,7 @@ comportement (LD p.5)
 \smf (issu de la lignée du fondateur du village)
 \xv Fàlajɛ yɛ̀rɛwolo yé  Tàrawele yé
 \xf les autochtones de Falajɛ sont les Tarawele
-\ms 3
-\gvf superbe
-\smf (d'excellente qualité)
-\xv sánu yɛ̀rɛwolo
-\xf de l'or pur
-\dt 28/Feb/2017
+\dt 19/Apr/2019
 
 \lx yɛ̀rɛ-yé-yɛ̀rɛ-bólo
 \mm yɛ̀rɛ̂:dtm:même
@@ -147593,10 +148287,17 @@ généreuses, avec bourrelets)
 
 \lx yòrose
 \va yòrofe
-\ps adj/n
+\ps adj
 \gf froussard
 \gvf froussard
-\dt 26/Sep/2006
+\dt 19/Apr/2019
+
+\lx yòrose
+\va yòrofe
+\ps n
+\gf froussard
+\gvf froussard
+\dt 19/Apr/2019
 
 \lx yóya
 \ps n
@@ -147830,7 +148531,16 @@ généreuses, avec bourrelets)
 \dt 17/Mar/2019
 
 \lx yúru
-\ps adj/n
+\ps adj
+\ms 1
+\gf rapporteur
+\gvf rapporteur
+\ms 2
+\gvf escroc
+\dt 19/Apr/2019
+
+\lx yúru
+\ps n
 \ms 1
 \gf rapporteur
 \gvf rapporteur
@@ -147839,7 +148549,7 @@ généreuses, avec bourrelets)
 \smf (vole sur le poids, le prix)
 \ms 3
 \gvf escroc
-\dt 20/Oct/2014
+\dt 19/Apr/2019
 
 \lx yùruguyurugu
 \va yùrukuyuruku
