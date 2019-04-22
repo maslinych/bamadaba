@@ -1761,6 +1761,14 @@ Ségou)
 \gvf Emirats Arabes Unis
 \dt 22/Feb/2019
 
+\lx Enedi
+\ps n.prop
+\gf TOP
+\gvf TOP
+\gvf Ennedi
+\smf (région nord-est du Tchad)
+\dt 21/Apr/2019
+
 \lx Eritere
 \ty гос.
 \ps n.prop
@@ -6654,6 +6662,14 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \gvf Tengréla
 \smf (ville, région de Savannes, Côte d'Ivoire)
 \dt 04/Feb/2017
+
+\lx Tibɛsiti
+\ps n.prop
+\gf TOP
+\gvf TOP
+\gvf Tibesti
+\smf (région nord-ouest du Tchad)
+\dt 21/Apr/2019
 
 \lx Tibi
 \ps n.prop

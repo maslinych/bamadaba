@@ -800,13 +800,21 @@ les deux flancs'
 
 \lx àní
 \va àn'
-\ps prep/conj
+\ps prep
 \gf ainsi.que
 \gvf ainsi que
 \smf (mise en relief : sert dans les énumérations, peut aussi coordonner des phrases)
 \xv à yé  ɲɔ́ d'á mà  àní wòro
 \xf il lui a donné du mil et (aussi) des kolas (souvent employé avant le dernier mot d'une série)
-\dt 01/Oct/2017
+\dt 21/Apr/2019
+
+\lx àní
+\va àn'
+\ps conj
+\gf ainsi.que
+\gvf ainsi que
+\smf (mise en relief : sert dans les énumérations, peut aussi coordonner des phrases)
+\dt 21/Apr/2019
 
 \lx ànkɛ
 \mr ɔ̀nhɔn kɛ̀
@@ -8107,8 +8115,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 16/Aug/2006
 
 \lx bì
-\vt bì
-\ps adv/n
+\ps adv
+\gf aujourd'hui
+\gvf aujourd'hui
+\dt 20/Apr/2019
+
+\lx bì
+\ps n
 \gf aujourd'hui
 \gvf aujourd'hui
 \xv kàbini bì
@@ -8119,7 +8132,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xf à partir d'aujourd'hui
 \xv bì kùnɲɔgɔn
 \xf aujourd'hui en huit,  dans huit jours
-\dt 20/May/2013
+\dt 20/Apr/2019
 
 \lx bî
 \ps num
@@ -8898,8 +8911,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 
 \lx bìlen
 \va blèn
-\ph [blen]
-\ps vq/adj
+\ps vq
 \ms 1
 \gf rouge
 \gvf rouge
@@ -8909,12 +8921,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv à mán bìlen
 \xf ce n'est pas rouge
 \ms 2
+\usf rare
+\gvf lourd
 \gvf difficile
 \ms 3
 \gvf versé dans la magie
-\xv í bìlen  ó bìlen, né fána fìnnen dɛ́ ! :
-\xf si fort que tu sois en magie, je te dépasse !
-\dt 26/Sep/2006
+\dt 21/Apr/2019
 
 \lx bìlen
 \va blèn
@@ -8950,6 +8962,24 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv í yé  né bìlen
 \xf tu m'as couvert d'insultes
 \dt 26/Sep/2006
+
+\lx bìlen
+\va blèn
+\ps adj
+\ms 1
+\gf rouge
+\gvf rouge
+\smf (du jaune au brun en passant par le vert)
+\ms 2
+\gvf lourd
+\gvf difficile
+\ms 3
+\gvf dangereux
+\ms 3
+\gvf versé dans la magie
+\xv í bìlen  ó bìlen, né fána fìnnen dɛ́ ! :
+\xf si fort que tu sois en magie, je te dépasse !
+\dt 21/Apr/2019
 
 \lx bílen
 \va blén
@@ -30030,12 +30060,27 @@ chefs religieux et représentants de l'administration
 \dt 26/Sep/2006
 
 \lx dɔ́
-\ps dtm/prn
+\ps dtm
 \ms 1
 \gf certain
 \gvf certain
 \xv tùma dɔ́ lá
 \xf parfois, quelquefois
+\ms 2
+\gvf peu de
+\ms 3
+\gvf l'un de deux
+\gvf l'autre de deux
+\smf (son comportement sur le plan tonal est différent du dɔ (dét))
+\xv án kà táa  bá fàn dɔ́ fɛ̀
+\xf partons de l'autre côté de la rivière
+\dt 21/Apr/2019
+
+\lx dɔ́
+\ps prn
+\ms 1
+\gf certain
+\gvf certain
 \xv dɔ́ bɛ́, ù tɛ́  jí dɔ́n
 \xf il y en a qui ne savent pas nager
 \ms 2
@@ -30047,13 +30092,9 @@ chefs religieux et représentants de l'administration
 \ms 3
 \gvf l'un de deux
 \gvf l'autre de deux
-\smf (son comportement sur le plan tonal est différent du dɔ (dét))
-\xv án kà táa  bá fàn dɔ́ fɛ̀
-\xf partons de l'autre côté de la rivière
 \xv dɔ́ yé  dén wólo, dɔ́ má  dén wólo
 \xf l'une a eu un enfant, l'autre non
-
-\dt 04/Jun/2016
+\dt 21/Apr/2019
 
 \lx dɔ́bɔlan
 \mm dɔ́:dtm:certain
@@ -31207,14 +31248,21 @@ désorienter')
 
 \lx dɔ́ɔnin
 \va dɔ́ɔni
-\ps adv/n
+\ps adv
+\gf un.peu
+\gvf un peu
+\dt 20/Apr/2019
+
+\lx dɔ́ɔnin
+\va dɔ́ɔni
+\ps n
 \gf un.peu
 \gvf un peu
 \xv dɔ́ɔnin b'á jɛ̀
 \xf il s'en faut d'un tout petit peu
 \xv nà ní  jí dɔ́ɔnin yé
 \xf apporte un peu d'eau
-\dt 05/Mar/2017
+\dt 20/Apr/2019
 
 \lx dɔ́ɔnindɔɔnin
 \mm dɔ́ɔnin:adv:un.peu
@@ -33657,14 +33705,6 @@ gens)
 \gvf noctuelle des bourgeons du tabac
 \smf (une parasite de coton qui mange les fruits non-mûrs)
 \dt 13/Mar/2018
-
-\lx Enedi
-\ps n.prop
-\gf TOP
-\gvf TOP
-\gvf Ennedi
-\smf (région nord-est du Tchad)
-\dt 22/Feb/2017
 
 \lx eresi
 \ps n
@@ -36589,27 +36629,59 @@ compagnie ...
 \dt 26/Sep/2006
 
 \lx fárin
-\ps vq/adj
-\ms 1
+\ps vq
 \gf ardent
+\ms 1
 \gvf ardent
 \gvf fort
-\gvf piquant
+\gvf cuisant
 \xv tìle mán fárin bì
 \xf le soleil n'est pas brûlant aujourd'hui
+\ms 2
+\gvf piquant
+\gvf fort
+\smf (boisson)
 \xv fòronto ká fárin
 \xf le piment pique
-\ms 2
+\ms 3
 \gvf courageux
 \gvf agressif
+\gvf vaillant
 \xv nìn dònso ká fárin
 \xf ce chasseur est brave (il fait face)
-\ms 3
+\ms 4
 \gvf brutal
 \gvf féroce
+\gvf sévère
 \xv wáajuli tùn ká fárin
 \xf le sermon était sévère
-\dt 23/Nov/2012
+\dt 21/Apr/2019
+
+\lx fárin
+\ps adj
+\gf ardent
+\ms 1
+\gvf ardent
+\gvf fort
+\gvf cuisant
+\gf ardent
+\ms 1
+\gvf ardent
+\gvf fort
+\gvf cuisant
+\ms 2
+\gvf piquant
+\gvf fort
+\smf (boisson)
+\ms 3
+\gvf courageux
+\gvf agressif
+\gvf vaillant
+\ms 4
+\gvf brutal
+\gvf féroce
+\gvf sévère
+\dt 21/Apr/2019
 
 \lx fárini
 \bw Fr. farine
@@ -36762,17 +36834,17 @@ compagnie ...
 \va fàsan
 \va pàsan
 \va pàsa
-\ps vq/adj
+\ps vq
 \ms 1
 \gf résistant
 \gvf résistant
 \gvf consistant
 \gvf coriace
-\ms 2
-\gvf obstiné
 \xv à dá ká fàsa
 \xf il s'obstine à nier
-\dt 06/Feb/2013
+\ms 2
+\gvf maigre
+\dt 21/Apr/2019
 
 \lx fàsa
 \va pàsa
@@ -36799,6 +36871,20 @@ compagnie ...
 \xv ń'í y'í fàsa ò lá...
 \xf si tu t'obstines à ... (nier, mal agir ...)
 \dt 08/Dec/2018
+
+\lx fàsa
+\va fàsan
+\va pàsan
+\va pàsa
+\ps adj
+\ms 1
+\gf résistant
+\gvf résistant
+\gvf consistant
+\gvf coriace
+\ms 2
+\gvf maigre
+\dt 21/Apr/2019
 
 \lx fàsaba
 \mm fàsa:n:tendon
@@ -37738,23 +37824,50 @@ bien (dicton)
 \ph [fy]
 \va fíɲɛ
 \va fɛ́ngɛ
-\ps vq/adj
+\ps vq
 \ms 1
 \gf léger
 \gvf léger
 \xv à ká fíyɛn ń kùn
 \xf je le trouve léger
-\ms 2
-\gvf indiscret
-\gvf insolent
 \xv à dá ká fíyɛn
-\xf il est indiscret
-\xf il manque de discrétion
-\ms 3
-\gvf rapide
+\xf il est indiscret, il manque de discrétion
 \xv à tɛ́gɛla ká fíyɛn
 \xf il a la main leste, il est prompt à frapper
-\dt 03/Apr/2015
+\ms 2
+\gvf mince
+\ms 3
+\gvf fragile
+\gvf de mauvaise qualité
+\ms 4
+\gvf faible
+\gvf peureux
+\ms 5
+\gvf insolent
+\dt 21/Apr/2019
+
+\lx fɛ́gɛn
+\va fíyɛn
+\va fyɛ́n
+\ph [fy]
+\va fíɲɛ
+\va fɛ́ngɛ
+\ps adj
+\ms 1
+\gf léger
+\gvf léger
+\ms 2
+\gvf fragile
+\gvf de mauvaise qualité
+\ms 3
+\gvf faible
+\gvf peureux
+\ms 4
+\gvf insolent
+\ms 5
+\gvf facile
+\smf (travail)
+\dt 21/Apr/2019
 
 \lx fɛ́gɛnya
 \mm fɛ́gɛn:vq:léger
@@ -39143,7 +39256,7 @@ la virginité (pièce de monnaie sans trou)
 \dt 16/Aug/2006
 
 \lx fìn
-\ps vq/adj
+\ps vq
 \ms 1
 \gf noir
 \gvf noir
@@ -39151,12 +39264,7 @@ la virginité (pièce de monnaie sans trou)
 \gvf sombre
 \xv à ká fìn síi !
 \xf c'est très noir !
-\ms 2
-\gvf très versé
-\smf (superlatif : en fonction épithétique)
-\xv dònsofin
-\xf un très grand chasseur
-\dt 26/Sep/2006
+\dt 21/Apr/2019
 
 \lx fìn
 \ps v
@@ -39185,6 +39293,24 @@ la virginité (pièce de monnaie sans trou)
 \xv ń'í kó : í bɛ́  fìn bɛ́ɛ bɔ́  dàtu lá, í nà  dàtu bɛ́ɛ bɔ̀n
 \xf si tu dis que tu vas enlever tous les noirs du "sunbala",tu vas les enlever tous (prov)
 \dt 26/Sep/2006
+
+\lx fìn
+\ps adj
+\gf noir
+\ms 1
+\gvf noir
+\gvf foncé
+\gvf sombre
+\ms 2
+\gvf très versé
+\xv dònsofin
+\xf un très grand chasseur
+\ms 3
+\gvf difficile
+\gvf grave
+\gvf désagréable
+\smf (guerre, etc.)
+\dt 21/Apr/2019
 
 \lx fínali
 \ps n
@@ -40871,7 +40997,7 @@ sur le ventre -- í kɔ́nɔ kàn)
 \va f'
 \va fɔ́ɔ
 \va fɔ́
-\ps prep/conj
+\ps prep
 \ms 1
 \gf jusqu'à
 \gvf jusqu'à
@@ -40883,20 +41009,34 @@ sur le ventre -- í kɔ́nɔ kàn)
 \gvf sauf
 \xv bɛ́ɛ nàna, fɔ́ é !
 \xf tous sont venus, sauf toi !
-\gvf en sorte que
+\dt 21/Apr/2019
+
+\lx fó
+\va f'
+\va fɔ́ɔ
+\va fɔ́
+\ps conj
+\ms 1
+\gf jusqu'à
+\gvf jusqu'à
 \xv ù yé  báara kɛ́  fɔ́ kà bàna
 \xf ils ont travaillé jusqu'à se rendre malade
+\ms 2
+\gvf sauf
+\ms 3
+\gvf en sorte que
+\ms 4
 \xv fɔ́ ní
 \xf à moins que ..., à moins de ...
 \xv fɔ́ ń'í bànana...
 \xf à moins que tu ne tombes malade
-\ms 3
-\gvf au point de
-\ms 4
-\gvf si bien que
 \ms 5
+\gvf au point de
+\ms 6
+\gvf si bien que
+\ms 7
 \gvf il faut que
-\dt 03/May/2016
+\dt 21/Apr/2019
 
 \lx fóbɔnda
 \mm fó:n:saison.froide
@@ -47432,27 +47572,35 @@ caractéristique, réputé pour faciliter la procréation)
 \lx gírin
 \va grín
 \ph [grin]
-\ps vq/adj
+\ps vq
 \ms 1
 \gf lourd
 \gvf lourd
-\xv dòni mán gírin  à má
+\gvf pésant
+\xv dòni mán gírin à má
 \xf la charge n'est pas trop lourde pour lui
-\ms 2
+\ms 2.1
 \gvf solide
+\smf (étoffe)
 \xv nìn bági kólo ká gírin
 \xf ce tissu est solide
-\ms 3
+\ms 2.2
 \gvf épais
 \gvf consistant
 \xv nìn túlu ká gírin
 \xf cette huile est consistante
-\ms 4
+\ms 2.3
+\gvf fort
+\smf (boisson)
+\ms 3
 \gvf fort en
 \xv jùmɛn ká gírin  jùmɛn mà  bámanankan ná ?
 \xf qui est le plus fort en langue bambara ?
 \xv à kɔ́ ká gírin
 \xf il a de soutien, il a des protecteurs derrière lui
+\ms 4
+\usf rare
+\gvf difficile
 \ms 5
 \gvf tardif
 \smf (à long cycle de végétation)
@@ -47465,7 +47613,34 @@ caractéristique, réputé pour faciliter la procréation)
 \ms 7
 \gvf avoir un posture sociale solide
 \smf (avoir des connections, exercer de l'influence)
-\dt 14/Mar/2017
+\ms 8
+\usf pop.
+\gvf ennuyeux
+\gvf embêtant
+\dt 21/Apr/2019
+
+\lx gírin
+\va grín
+\ph [grin]
+\ps adj
+\ms 1
+\gf lourd
+\gvf lourd
+\gvf pésant
+\ms 2.1
+\gvf solide
+\smf (étoffe)
+\ms 2.2
+\gvf fort
+\smf (boisson)
+\ms 3
+\gvf tardif
+\smf (à long cycle de végétation)
+\ms 4
+\gvf important
+\gvf ayant une position sociale forte
+\smf (avoir des connections, exercer de l'influence)
+\dt 21/Apr/2019
 
 \lx gírin-kà-jɔ̀
 \mm gírin:v:se.précipiter
@@ -47650,22 +47825,24 @@ caractéristique, réputé pour faciliter la procréation)
 \lx gó
 \va kó
 \ve (f,bk)
-\ps vq/adj
+\ps vq
 \ms 1
 \gf désagréable
 \gvf désagréable
-\smf (aux sens (goût, odorat, ouïe), très rare en épithète : -lango, sumago ...)
+\smf (aux sens: goût, odorat, ouïe)
 \xv à súma ká gó
 \xf ça sent mauvais !
 \ms 2
-\gvf désagréable à qn
-\xv háli bì, Ɲéle kó mán gó  né yé
+\gvf déplaisant
+\smf (pour -- yé)
+\xv háli bì, Ɲéle kó mán gó né yé
 \xf encore maintenant, j'aime Nyele
 \ms 3
 \gvf en mauvais état
+\gvf de pauvre qualité
 \xv jéle dá ká gó
 \xf la hache est émoussée
-\xv  à tɛgɛ ka go
+\xv à tɛgɛ ka go
 \xf il est maladroit
 \ms 4
 \gvf difficile
@@ -47673,7 +47850,21 @@ caractéristique, réputé pour faciliter la procréation)
 \xf c'est difficile à dire
 \xv à sɔ̀rɔ mán gó
 \xf ce n'est pas difficile à trouver
-\dt 22/Mar/2015
+\dt 22/Apr/2019
+
+\lx gó
+\va kó
+\ve (f,bk)
+\ps adj
+\ms 1
+\gf désagréable
+\gvf désagréable
+\gvf déplaisant
+\ms 2
+\gvf mauvais
+\gvf de pauvre qualité
+\gvf bon à rien
+\dt 22/Apr/2019
 
 \lx gòbi
 \va gòbinin
@@ -47936,13 +48127,30 @@ douanier, milicien, etc.)
 \dt 26/Sep/2006
 
 \lx gòni
-\ps vq/adj
-\sy gàn
+\ps vq
 \ms 1
 \gf chaud
 \gvf chaud
+\sy gàn
 \xv jí ká gòni
 \xf l'eau est chaude
+\ms 2
+\gvf rapide
+\gvf vif
+\gvf agile
+\xv kàrisa ká gòni
+\xf un tel est un rapide
+\ms 3
+\gvf irascible
+\gvf nerveux
+\dt 22/Apr/2019
+
+\lx gòni
+\ps adj
+\ms 1
+\gf chaud
+\gvf chaud
+\sy gàn
 \xv jí góni dòn
 \xf c'est de l'eau chaude
 \xv nɔ̀ gòni fɛ̀, nɔ̀ gòni lá
@@ -47951,9 +48159,12 @@ douanier, milicien, etc.)
 \xf à ce moment, au moment de
 \ms 2
 \gvf rapide
-\xv kàrisa ká gòni
-\xf un tel est un rapide
-\dt 07/Mar/2019
+\gvf vif
+\gvf agile
+\ms 3
+\gvf irascible
+\gvf nerveux
+\dt 22/Apr/2019
 
 \lx gòniman
 \mm gòni:vq:chaud
@@ -50420,15 +50631,21 @@ doigts par des fileuses du coton)
 \dt 27/Nov/2014
 
 \lx íko
-\ps prep/conj
+\ps prep
 \gf comme
 \gvf comme
-\dt 18/Jan/2015
+\dt 21/Apr/2019
+
+\lx íko
+\ps conj
+\gf comme
+\gvf comme
+\dt 21/Apr/2019
 
 \lx íkomi
 \va íkɔmi
 \bw fr : comme
-\ps prep/conj
+\ps prep
 \gf comme
 \gvf comme
 \gvf ainsi
@@ -50436,7 +50653,18 @@ doigts par des fileuses du coton)
 \sy í ń'á fɔ́
 \xv à bɛ́  íkomi fàtɔ
 \xf il est comme fou
-\dt 22/Apr/2017
+\dt 21/Apr/2019
+
+\lx íkomi
+\va íkɔmi
+\bw fr : comme
+\ps conj
+\gf comme
+\gvf comme
+\gvf ainsi
+\sy íko
+\sy í ń'á fɔ́
+\dt 21/Apr/2019
 
 \lx íkɔrɔ
 \ps adv
@@ -50457,12 +50685,22 @@ doigts par des fileuses du coton)
 \lx ínafɔ
 \va í ná à fɔ́
 \va í n'à fɔ́
-\ps prep/conj
+\ps prep
 \gf comme
 \gvf comme
 \sy íko
 \sy íkomi
-\dt 18/Jan/2015
+\dt 21/Apr/2019
+
+\lx ínafɔ
+\va í ná à fɔ́
+\va í n'à fɔ́
+\ps conj
+\gf comme
+\gvf comme
+\sy íko
+\sy íkomi
+\dt 21/Apr/2019
 
 \lx iniwɛrisite
 \va iniwɛrɛsite
@@ -51966,7 +52204,7 @@ calebasses)
 \dt 11/Nov/2007
 
 \lx jàn
-\ps vq/adj
+\ps vq
 \ms 1
 \gf long
 \gvf long
@@ -51981,7 +52219,7 @@ calebasses)
 \xf cet endroit est éloigné
 \xv à bɔ́tuma ká jàn
 \xf il y a longtemps qu'il est sorti
-\dt 29/Dec/2012
+\dt 22/Apr/2019
 
 \lx jàn
 \ce jà et ses  expressions dans le sens de peur, courage; certaines langues voisines ont un même mot pur toutes ces acceptions)
@@ -52007,6 +52245,20 @@ calebasses)
 \xv kó dúman tɛ́ jàn kélen ná ! / Ála k'í jàn bɛ́ɛ wɔ́ɔrɔ kɛ́nɛ tó !
 \rem f, Tor : ne s'entend que dans les chants ou les bénédictions (-bk, -bn) / deux yeux, deux bras, deux jambes à bk = jòn : esclave !
 \dt 11/Nov/2007
+
+\lx jàn
+\ps adj
+\ms 1
+\gf long
+\gvf long
+\ms 2
+\gvf haut
+\ms 3
+\gvf éloigné
+\smf (dans l'espace ou le temps)
+\ms 4
+\gvf dilué
+\dt 22/Apr/2019
 
 \lx ján
 \ps n
@@ -53212,25 +53464,32 @@ calebasses)
 \dt 26/Sep/2006
 
 \lx jɛ́
-\ps vq/adj
+\ps vq
 \ms 1
 \gf blanc
 \gvf blanc
 \smf (ou tirant sur le blanc)
-\ms 2
+\gvf chenu
+\ms 2.1
 \gvf propre
+\gvf pur
+\ms 2.2
+\gvf transparent
+\gvf limpide
 \ms 3
 \gvf clair
 \gvf évident
-\ms 4
-\gvf loyal
+\gvf compréhensible
 \xv à kɔ́nɔ ká jɛ́
 \xf il est franc, loyal
-\ms 5
+\ms 4
 \gvf vierge
 \xv npògotigi ìn ká jɛ́
 \xf cette jeune fille est chaste
-\dt 26/Sep/2006
+\ms 5
+\gvf certain
+\smf (de -- lá)
+\dt 22/Apr/2019
 
 \lx jɛ́
 \ps n
@@ -53284,6 +53543,28 @@ calebasses)
 \gvf espace dégagé
 \smf (fertile)
 \dt 20/Dec/2015
+
+\lx jɛ́
+\ps adj
+\ms 1
+\gf blanc
+\gvf blanc
+\smf (ou tirant sur le blanc)
+\gvf chenu
+\ms 2.1
+\gvf propre
+\gvf pur
+\ms 2.2
+\gvf transparent
+\gvf limpide
+\ms 3
+\gvf clair
+\gvf évident
+\gvf compréhensible
+\ms 4
+\gvf ouvert
+\gvf vacant
+\dt 22/Apr/2019
 
 \lx jɛ́bɛn
 \ps v
@@ -57335,16 +57616,28 @@ fusil)
 \dt 26/Sep/2006
 
 \lx júgu
-\ps vq/adj
+\va júgun
+\ps vq
 \ms 1
-\gf mauvais
-\gvf mauvais
-\gvf grave
-\ms 2
+\gf méchant
 \gvf méchant
 \xv tùma dɔ́ lá  í ká júgu, tùma dɔ́ lá  í ká ɲì
 \xf à certains moments tu es méchant, à d'autres tu es gentil
-\dt 22/Mar/2015
+\ms 2
+\gvf mauvais
+\gvf de pauvre qualité
+\gvf laid
+\ms 3
+\gvf grave
+\smf (maladie, etc.)
+\ms 4
+\gvf dangereux
+\gvf maléfique
+\gvf nuisible
+\ms 5
+\gvf cher
+\smf (marchandise)
+\dt 22/Apr/2019
 
 \lx júgu
 \ps n
@@ -57352,6 +57645,28 @@ fusil)
 \gvf ennemi
 \xv dɔ́ bɔ́ra  júgu lá
 \xf un ennemi de moins (qd on a tué un serpent ...)
+
+\lx júgu
+\va júgun
+\ps adj
+\ms 1
+\gf méchant
+\gvf méchant
+\ms 2
+\gvf mauvais
+\gvf de pauvre qualité
+\gvf laid
+\ms 3
+\gvf grave
+\smf (maladie, etc.)
+\ms 4
+\gvf dangereux
+\gvf maléfique
+\gvf nuisible
+\ms 5
+\gvf cher
+\smf (marchandise)
+\dt 22/Apr/2019
 
 \lx júguman
 \mm júgu:vq:mauvais
@@ -59003,7 +59318,7 @@ l'eau est prête
 \lx kàbi
 \va kàbii
 \va kàb'
-\ps prep/conj
+\ps prep
 \gf depuis
 \gvf depuis
 \gvf dès que
@@ -59012,9 +59327,19 @@ l'eau est prête
 \xf depuis Falajɛ jusqu'à Négala
 \xv kàbi tùma ján
 \xf depuis longtemps
+\dt 21/Apr/2019
+
+\lx kàbi
+\va kàbii
+\va kàb'
+\ps conj
+\gf depuis
+\gvf depuis
+\gvf dès que
+\sy kàbini
 \xv kàbi à y'á yé...
 \xf dès qu'il l'eût vu ...
-\dt 05/Nov/2014
+\dt 21/Apr/2019
 
 \lx kábi
 \ve (-f)
@@ -59068,13 +59393,22 @@ l'eau est prête
 \dt 26/Sep/2006
 
 \lx kàbini
-\mm kàbi:prep/conj:depuis
+\mm kàbi:prep:depuis
 \mm ní:conj:si
-\ps prep/conj
+\ps prep
 \gf depuis
 \gvf depuis
 \xv kàbi
-\dt 12/Aug/2006
+\dt 21/Apr/2019
+
+\lx kàbini
+\mm kàbi:conj:depuis
+\mm ní:conj:si
+\ps conj
+\gf depuis
+\gvf depuis
+\xv kàbi
+\dt 21/Apr/2019
 
 \lx káburu
 \va kábru
@@ -63905,14 +64239,35 @@ probablement de chaux vive)
 \ve (f)
 \va kègu
 \va kèku
-\ps vq/adj
+\ps vq
 \gf malin
+\ms 1
 \gvf malin
 \gvf rusé
 \gvf roublard
-\xv wɔ̀lɔ ká kègun ní  sònsan yé
+\xv wɔ̀lɔ ká kègun ní sònsan yé
 \xf le francolin est plus malin que le lièvre
-\dt 03/Apr/2015
+\ms 2
+\gvf habile
+\dt 22/Apr/2019
+
+\lx kègun
+\va kèkun
+\vc kègu
+\ve (bn)
+\va kèwun
+\ve (f)
+\va kègu
+\va kèku
+\ps adj
+\gf malin
+\ms 1
+\gvf malin
+\gvf rusé
+\gvf roublard
+\ms 2
+\gvf habile
+\dt 22/Apr/2019
 
 \lx kègunman
 \mm kègun:vq:malin
@@ -65152,7 +65507,7 @@ probablement de chaux vive)
 \dt 26/Sep/2006
 
 \lx kɛ́nɛ
-\ps vq/adj
+\ps vq
 \ms 1.1
 \gf sain
 \gvf sain
@@ -65171,6 +65526,36 @@ probablement de chaux vive)
 \smf (fruit, viande, poisson, lait)
 \gvf vert
 \smf (bois)
+\gvf de bonne qualité
+\smf (cola)
+\ms 3
+\gvf cru
+\gvf non cuit
+\smf (fruit)
+\ms 4
+\usf Islam.
+\gvf vrai
+\gvf authentique
+\gvf solide
+\smf (vérité)
+\dt 22/Apr/2019
+
+\lx kɛ́nɛ
+\ps adj
+\ms 1.1
+\gf sain
+\gvf sain
+\gvf en bonne santé
+\gvf en pleine forme
+\ms 1.2
+\gvf actif
+\ms 2
+\gvf frais
+\smf (fruit, viande, poisson, lait)
+\gvf vert
+\smf (bois)
+\gvf de bonne qualité
+\smf (cola)
 \xv à nɔ̀ kɛ́nɛ-kɛ́nɛ dòn
 \xf ses traces sont toutes fraîches
 \ms 3
@@ -65185,7 +65570,7 @@ probablement de chaux vive)
 \gvf authentique
 \gvf solide
 \smf (vérité)
-\dt 11/Sep/2018
+\dt 22/Apr/2019
 
 \lx kɛ́nɛba
 \mm kɛ́nɛ:n:clarté
@@ -68849,13 +69234,24 @@ champs)
 \lx kómi
 \va kómin
 \va kɔ́mi
-\bw fr : comme = id
-\ps prep/conj
+\bw fr comme
+\ps prep
 \gf comme
 \gvf comme
 \gvf puisque
 \cf íkomi
-\dt 22/Apr/2017
+\dt 21/Apr/2019
+
+\lx kómi
+\va kómin
+\va kɔ́mi
+\bw fr. comme
+\ps conj
+\gf comme
+\gvf comme
+\gvf puisque
+\cf íkomi
+\dt 21/Apr/2019
 
 \lx kómini
 \ps n
@@ -74035,24 +74431,20 @@ plus solide)
 \dt 27/Nov/2014
 
 \lx kɔ̀rɔ
-\ps vq/adj
+\ps vq
 \ms 1
 \gf vieux
 \gvf vieux
 \gvf âgé
-\gvf ancien
-\xv à bìla  à yɔ́rɔ kɔ́rɔ lá !
-\xf remets-le à son ancienne place !
 \ms 2
+\gvf aîné
 \gvf antérieur
 \gvf plus âgé
 \xv à ká kɔ̀rɔ  í yé
 \xf il est plus âgé que toi
-\xv à rɔ́ kɔ̀rɔ bòlila
-\xf le plus vieux s'enfuit
-\xv fìnita, à súdalen kɔ́rɔ dòn
-\xf on a déjà annoncé la circoncision
-\dt 26/Sep/2006
+\ms 3
+\gvf usagé
+\dt 22/Apr/2019
 
 \lx kɔ̀rɔ
 \vc kɔ̀ɔ
@@ -74079,6 +74471,28 @@ plus solide)
 \xv màa tɛ́ kɔ̀rɔ  kàlan mà
 \xf on n'est jamais trop vieux pour apprendre
 \dt 12/Aug/2006
+
+\lx kɔ̀rɔ
+\ps adj
+\ms 1
+\gf vieux
+\gvf vieux
+\gvf âgé
+\ms 2
+\gvf ancien
+\xv à bìla  à yɔ́rɔ kɔ́rɔ lá !
+\xf remets-le à son ancienne place !
+\ms 3
+\gvf aîné
+\gvf antérieur
+\gvf plus âgé
+\xv à rɔ́ kɔ̀rɔ bòlila
+\xf le plus vieux s'enfuit
+\xv fìnita, à súdalen kɔ́rɔ dòn
+\xf on a déjà annoncé la circoncision
+\ms 3
+\gvf usagé
+\dt 22/Apr/2019
 
 \lx kɔ́rɔ
 \ps n
@@ -76516,19 +76930,49 @@ le pouvoir administratif suprême)
 
 \lx kúna
 \va kúnan
-\ps vq/adj
+\ps vq
 \ms 1
 \gf amer
 \gvf amer
+\gvf acre
 \xv nìn fúra ìn ká kúna
 \xf ce remède est amer
-\ms 2
+\ms 2.1
 \gvf pénible
+\gvf brûlant
+\smf (soleil)
+\ms 2.2
+\gvf désagréable
 \ms 3
 \gvf avare
 \xv kàrisa ká kúna
 \xf un tel est avare
-\dt 23/Mar/2015
+\ms 4
+\gvf envieux
+\smf (yeux)
+\ms 5
+\usf rare
+\gvf douteux
+\gvf louche
+\dt 22/Apr/2019
+
+\lx kúna
+\va kúnan
+\ps adj
+\ms 1
+\gf amer
+\gvf amer
+\gvf acre
+\ms 2
+\gvf pénible
+\gvf brûlant
+\smf (soleil)
+\ms 3
+\gvf avare
+\ms 4
+\gvf envieux
+\smf (yeux)
+\dt 22/Apr/2019
 
 \lx kúnafaa
 \mm kúna:n:plat.en.bois
@@ -76573,17 +77017,30 @@ le pouvoir administratif suprême)
 \dt 26/Sep/2006
 
 \lx kúnasini
-\ps adv/n
+\ps adv
 \gf avant-hier
 \gvf avant-hier
-\dt 05/Apr/2015
+\dt 21/Apr/2019
+
+\lx kúnasini
+\ps n
+\gf avant-hier
+\gvf avant-hier
+\dt 21/Apr/2019
 
 \lx kúnasiniwo
 \mm kúnasini:adv:avant-hier
-\ps adv/n
+\ps adv
 \gf avant-hier
 \gvf avant-hier
-\dt 30/Mar/2019
+\dt 21/Apr/2019
+
+\lx kúnasiniwo
+\mm kúnasini:adv:avant-hier
+\ps n
+\gf avant-hier
+\gvf avant-hier
+\dt 21/Apr/2019
 
 \lx kúnatɔ
 \mm kúna:n:lèpre.amputante
@@ -76633,15 +77090,44 @@ le pouvoir administratif suprême)
 \dt 16/Aug/2006
 
 \lx kùnba
-\ps vq/adj
+\ps vq
 \gf gros
+\ms 1
 \gvf gros
 \sy bòn
 \sy bèlebele
 \sy -bá
 \xv à ká kùnba
 \xf il est gros, elle est grosse
-\dt 24/Jan/2013
+\ms 2
+\gvf spacieux
+\gvf vaste
+\ms 3
+\gvf important
+\gvf essentiel
+\dt 22/Apr/2019
+
+\lx kùnba
+\ps adj
+\gf gros
+\ms 1
+\gvf gros
+\gvf grand
+\sy bòn
+\sy bèlebele
+\sy -bá
+\xv à ká kùnba
+\xf il est gros, elle est grosse
+\ms 2
+\gvf spacieux
+\gvf vaste
+\ms 3
+\gvf important
+\gvf essentiel
+\ms 4
+\usf rare, élevé
+\gvf entier
+\dt 22/Apr/2019
 
 \lx kùnbaba
 \mm kùnba:adj:gros
@@ -80285,19 +80771,26 @@ Sahel)
 \dt 14/Apr/2018
 
 \lx kùrun
-\ps vq/adj
+\ps vq
 \gf court
 \gvf court
 \gvf en boule
 \xv bàla nú ká kùrun
 \xf le porc-épic a le nez en boule
+\dt 22/Apr/2019
+
+\lx kùrun
+\ps adj
+\gf court
+\gvf court
+\gvf en boule
 \xv túlokurun
 \xf oreille coupée (des chiens)
 \xv tɛ́gɛkurun
 \xf moignon (main sans doigts des lépreux)
 \xv dákurun
 \xf bouche courte (variété de "nana"  poisson, de"sòlo" perruche)
-\dt 26/Sep/2006
+\dt 22/Apr/2019
 
 \lx kúrun
 \ps n
@@ -88636,17 +89129,22 @@ jour, c'est une personne dépendante qu'il voit
 \lx màgan
 \va màga
 \va màa
-\ps vq/adj
+\ps vq
 \ms 1
 \gf mou
 \gvf mou
 \gvf souple
+\gvf potélé
 \xv à ká màgan
 \xf c'est flasque
 \ms 2
 \gvf grave
 \smf (en parlant d'une voix)
-\dt 08/Feb/2017
+\ms 3
+\usf rare, figuré
+\gvf pliable
+\gvf accomodant
+\dt 22/Apr/2019
 
 \lx màgan
 \ps n
@@ -88684,6 +89182,20 @@ jour, c'est une personne dépendante qu'il voit
 \ms 3
 \gvf bien travailler
 \dt 02/Apr/2019
+
+\lx màgan
+\va màga
+\va màa
+\ps adj
+\ms 1
+\gf mou
+\gvf mou
+\gvf souple
+\gvf potélé
+\ms 2
+\gvf grave
+\smf (en parlant d'une voix)
+\dt 22/Apr/2019
 
 \lx màgankɛla
 \mm màgan:n:effort
@@ -93264,11 +93776,14 @@ des engagements
 \dt 26/Sep/2006
 
 \lx mìsɛn
-\ps vq/adj
-\ms 1
+\ps vq
+\ms 1.1
 \gf petit
 \gvf petit
+\smf (inanimé)
+\ms 1.2
 \gvf mince
+\gvf à caractères fins
 \xv à ɲɛ́ ká mìsɛn
 \xf les mailles sont petites (filet) les caractères sont fins (écriture), il est attentif, raffiné (personne)
 \ms 2
@@ -93278,7 +93793,20 @@ des engagements
 \xf c'est un touche-à-tout
 \xv à dála ká mìsɛn
 \xf il ne tient pas sa langue
-\dt 23/Nov/2012
+\dt 22/Apr/2019
+
+\lx mìsɛn
+\ps adj
+\ms 1.1
+\gf petit
+\gvf petit
+\smf (animié ou inanimé)
+\ms 2
+\gvf mince
+\gvf fin
+\ms 3
+\gvf jeune
+\dt 22/Apr/2019
 
 \lx mìsɛnman
 \mm mìsɛn:vq:petit
@@ -100690,22 +101218,29 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 
 \lx ni
 \va n'
-\ps prep/conj
+\ps prep
 \gf et
 \gvf et
-\ph [enclitique : se prononce avec le mot qui précède]
-\xv à yé  màlo ni  tìga sàn
-\xf elle a acheté du riz et des arachides
 \xv à ni nɛ̀gɛso táara
 \xf il est parti à vélo (lui et le vélo sont partis)
 \xv à ni Nsàn táara
-\xf il est parti avec Nsan (lui et Nsan sont
-partis)
+\xf il est parti avec Nsan (lui et Nsan sont partis)
 \xv nê ni bàna ìn dára
 \xf je suis née avec cette infirmité (moi et cette infirmité ont été créés)
 \xv á ni sú !
 \xf bonsoir ! (vous et le soir !)
-\dt 22/Sep/2017
+\dt 21/Apr/2019
+
+\lx ni
+\va n'
+\ps conj
+\gf et
+\gvf et
+\xv à yé  màlo ni  tìga sàn
+\xf elle a acheté du riz et des arachides
+\xv à ni Nsàn táara
+\xf il est parti avec Nsan (lui et Nsan sont partis)
+\dt 21/Apr/2019
 
 \lx nì
 \ps v
@@ -101498,10 +102033,21 @@ sur soi, on les connaît
 \va nùnu
 \mm nìn:dtm/prn:DEM
 \mm nu:mrph:PL2
-\ps dtm/prn
+\ps dtm
 \gf DEM.PL
 \gvf DEM PL
-\dt 03/Dec/2014
+\dt 21/Apr/2019
+
+\lx nìnnú
+\mm nìn:dtm/prn:DEM
+\mm nu:mrph:PL2
+\va nùnu
+\mm nìn:dtm/prn:DEM
+\mm nu:mrph:PL2
+\ps prn
+\gf DEM.PL
+\gvf DEM PL
+\dt 21/Apr/2019
 
 \lx níntanfɛn
 \mm ní:n:âme
@@ -103519,21 +104065,16 @@ craie ...)
 
 \lx nɔ́gɔ
 \va nwá
-\ps vq/adj
+\ps vq
 \gf gluant
+\ms 1
 \gvf gluant
-\gvf glissant
-\gvf sale
-\fq (rare)
+\gvf visqueux
 \xv à ká nɔ́gɔ
 \xf c'est gluant
-\xv jínɔgɔ
-\xf eau sale
-\xv fílennɔgɔ
-\xf calebasse sale
-\xv ntábanɔgɔ
-\xf ntaba' gluant. Cola cordifolia (ster) aux fruits gluants
-\dt 26/Sep/2006
+\ms 2
+\gvf glissant
+\dt 22/Apr/2019
 
 \lx nɔ́gɔ
 \ps n
@@ -103570,6 +104111,22 @@ craie ...)
 \xv í kàna mɔ̀gɔ sí nɔ́gɔ ní  nkàlon yé !
 \xf ne calomnie personne !
 \dt 26/Sep/2006
+
+\lx nɔ́gɔ
+\va nwá
+\ps adj
+\gf sale
+\ms 1
+\gvf sale
+\xv jínɔgɔ
+\xf eau sale
+\xv fílennɔgɔ
+\xf calebasse sale
+\ms 2
+\gvf gluant
+\xv ntábanɔgɔ
+\xf ntaba' gluant. Cola cordifolia (ster) aux fruits gluants
+\dt 22/Apr/2019
 
 \lx nɔ́gɔbana
 \mm nɔ́gɔ:n:saleté
@@ -113170,10 +113727,18 @@ banane, etc.)
 \lx ɲìna
 \va ɲìnan
 \va ɲìnɛn
-\ps adv/n
+\ps adv
 \gf cette.année
 \gvf cette année
-\dt 30/Jan/2017
+\dt 21/Apr/2019
+
+\lx ɲìna
+\va ɲìnan
+\va ɲìnɛn
+\ps n
+\gf cette.année
+\gvf cette année
+\dt 21/Apr/2019
 
 \lx ɲìnanama
 \mm ɲìna:n:cette.année
@@ -118841,10 +119406,19 @@ langue, et finit par empêcher de marcher)
 \va sálonwo
 \va sánwo
 \va sálǒnkó
-\ps adv/n
+\ps adv
 \gf l'an.dernier
 \gvf l'an dernier
-\dt 17/Mar/2018
+\dt 21/Apr/2019
+
+\lx sálòn
+\va sálonwo
+\va sánwo
+\va sálǒnkó
+\ps n
+\gf l'an.dernier
+\gvf l'an dernier
+\dt 21/Apr/2019
 
 \lx sálonnasini
 \mm sálon:n:l'an.dernier
@@ -118857,10 +119431,26 @@ langue, et finit par empêcher de marcher)
 \mm sálon:n:l'an.dernier
 \mm lá:pp:à
 \mm síni:n:demain
-\ps adv/n
+\ps adv
 \gf il.y.a.deux.ans
 \gvf il y a deux ans
-\dt 09/Apr/2019
+\dt 21/Apr/2019
+
+\lx sálonnasini
+\mm sálon:n:l'an.dernier
+\mm ná:pp:à
+\mm síni:n:demain
+\va sánnasini
+\mm ná:pp:à
+\mm síni:n:demain
+\va sálòlalasini
+\mm sálon:n:l'an.dernier
+\mm lá:pp:à
+\mm síni:n:demain
+\ps n
+\gf il.y.a.deux.ans
+\gvf il y a deux ans
+\dt 21/Apr/2019
 
 \lx sàma
 \ps n
@@ -123096,13 +123686,21 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sénu
 \ve (bn)
-\ps vq/adj
+\ps vq
 \gf saint
 \gvf saint
 \smf (sens chrétien)
 \xv Mátigi ! É ká sénu !
 \xf Tu es saint, Seigneur !
-\dt 22/Mar/2015
+\dt 22/Apr/2019
+
+\lx sénu
+\ve (bn)
+\ps adj
+\gf saint
+\gvf saint
+\smf (sens chrétien)
+\dt 22/Apr/2019
 
 \lx sénuman
 \mm sénu:vq:saint
@@ -124721,14 +125319,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \dt 16/Aug/2006
 
 \lx sí
-\ps dtm/prn
+\ps dtm
 \gf aucun
 \gvf aucun
 \xv mɔ̀gɔ sí
 \xf personne, aucune personne
-\xv ù sí má sé  kà sí láse  sí mà
+\xv ù sí má sé  kà sí láse sí mà
 \xf aucun d'eux n'a pu attirer l'autre à soi(aucun n'a pu attirer aucun à aucun !)
-\dt 06/Feb/2017
+\dt 21/Apr/2019
 
 \lx sí
 \ps v
@@ -124745,6 +125343,14 @@ gouvernement le soutient (kb 5/06 p.7)
 \vl vt
 \gvf scier
 \dt 27/May/2018
+
+\lx sí
+\ps prn
+\gf aucun
+\gvf aucun
+\xv ù sí má sé  kà sí láse  sí mà
+\xf aucun d'eux n'a pu attirer l'autre à soi(aucun n'a pu attirer aucun à aucun !)
+\dt 21/Apr/2019
 
 \lx sìbantɔ
 \mm sì:n:vie
@@ -126183,7 +126789,17 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 
 \lx síni
 \va sínin
-\ps adv/n
+\ps adv
+\ms 1
+\gf demain
+\gvf demain
+\ms 2
+\gvf avenir
+\dt 21/Apr/2019
+
+\lx síni
+\va sínin
+\ps n
 \ms 1
 \gf demain
 \gvf demain
@@ -126195,7 +126811,7 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \xv - jɔ́n yé  síni dɔ́nbaa yé ? - fálatɔ lánaanibaa
 \xf - qui reconnaît l'autre vie ? - celui qui console l'orphelin (chant de
 trompe)
-\dt 23/Feb/2014
+\dt 21/Apr/2019
 
 \lx sínikan
 \mm síni:n:demain
@@ -126219,10 +126835,21 @@ trompe)
 \va síninkɛnɛ
 \mm sínin:n:demain
 \mm kɛ́nɛ:n:clarté
-\ps adv/n
+\ps adv
 \gf après-demain
 \gvf après-demain
-\dt 11/Apr/2019
+\dt 21/Apr/2019
+
+\lx sínikɛnɛ
+\mm síni:n:demain
+\mm kɛ́nɛ:n:clarté
+\va síninkɛnɛ
+\mm sínin:n:demain
+\mm kɛ́nɛ:n:clarté
+\ps n
+\gf après-demain
+\gvf après-demain
+\dt 21/Apr/2019
 
 \lx sínimasini
 \mm síni:n:demain
@@ -127203,14 +127830,20 @@ donne d'excellentes fibres)
 \dt 11/Apr/2019
 
 \lx sísàn
-\ps adv/n
+\ps adv
+\gf maintenant
+\gvf maintenant
+\dt 21/Apr/2019
+
+\lx sísàn
+\ps n
 \gf maintenant
 \gvf maintenant
 \xv fɔ́ sísan
 \xf jusqu'à présent, encore maintenant
 \xv sísan sɔ̀rɔ kà...
 \xf disposer de cet instant pour ...
-\dt 10/Sep/2017
+\dt 21/Apr/2019
 
 \lx sísandanin
 \mm sísan:n:maintenant
@@ -129829,12 +130462,19 @@ euphémique)
 
 \lx sɔ́ɔnin
 \va sɔ́ɔni
-\ps adv/n
+\ps adv
 \gf bientôt
 \gvf bientôt
 \xv k'án sɔ́ɔni !
 \xf à bientôt !
-\dt 05/Apr/2015
+\dt 21/Apr/2019
+
+\lx sɔ́ɔnin
+\va sɔ́ɔni
+\ps n
+\gf bientôt
+\gvf bientôt
+\dt 21/Apr/2019
 
 \lx sɔ́ɔrɔ
 \ve (-bk)
@@ -131794,16 +132434,29 @@ fiançailles
 \dt 11/Apr/2019
 
 \lx sùrun
-\ps vq/adj
+\ps vq
 \ms 1
 \gf court
 \gvf court
-\smf (petit de taille, bas (de hauteur ou de durée))
+\smf (petit de taille, bas de hauteur ou de durée)
 \ms 2
 \gvf proche
 \xv à ká sùrun Ségu lá
 \xf c'est près de Ségou
-\dt 29/Dec/2012
+\ms 3
+\gvf pareil
+\gvf semblable
+\dt 22/Apr/2019
+
+\lx sùrun
+\ps adj
+\ms 1
+\gf court
+\gvf court
+\smf (petit de taille, bas de hauteur ou de durée)
+\ms 2
+\gvf proche
+\dt 22/Apr/2019
 
 \lx sùrundu
 \va sùruntu
@@ -134981,18 +135634,48 @@ flaques d'eau)
 \va tɛ́li
 \ve (bk, f)
 \va télin
-\ps vq/adj
-\ms 1
+\ps vq
+\ms 1.1
 \gf rapide
 \gvf rapide
-\smf (de cycle court)
 \xv à dùsubɔ ká tɛ́li
 \xf il se fâche vite
+\ms 1.2
+\gvf vif
+\gvf prompt
+\ms 1.3
+\gvf bref
+\gvf court
 \ms 2
+\gvf pressé
+\gvf avoir hâte
+\ms 3
 \gvf être très probable
 \xv bála ká tɛ́li kà fɔ́ sú ìn nɔ́
 \xf il est très probable qu'on va jouer du balafon ce soir
-\dt 22/Mar/2015
+\dt 22/Apr/2019
+
+\lx téli
+\ve (bn)
+\va tɛ́li
+\ve (bk, f)
+\va télin
+\ps adj
+\ms 1.1
+\gf rapide
+\gvf rapide
+\ms 1.2
+\gvf vif
+\gvf prompt
+\ms 1.3
+\gvf bref
+\gvf court
+\ms 2
+\gvf pressé
+\gvf avoir hâte
+\ms 3
+\gvf être très probable
+\dt 22/Apr/2019
 
 \lx téliman
 \mm téli:vq:rapide
@@ -136241,14 +136924,6 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf très.lourd
 \gvf très lourd
 \dt 24/Jun/2013
-
-\lx Tibɛsiti
-\ps n.prop
-\gf TOP
-\gvf TOP
-\gvf Tibesti
-\smf (région nord-ouest du Tchad)
-\dt 22/Feb/2017
 
 \lx tìbitaba
 \va tìibitaaba
@@ -146264,7 +146939,7 @@ Mali)
 \dt 20/Mar/2014
 
 \lx yàn
-\ps adv/n
+\ps adv
 \ms 1
 \gf ici
 \gvf ici
@@ -146274,9 +146949,18 @@ Mali)
 \xf donne-le moi !  (donne-le ici)
 \ms 2
 \gvf maintenant
+\dt 21/Apr/2019
+
+\lx yàn
+\ps n
+\ms 1
+\gf cet.endroit
+\gvf cet endroit
+\ms 2
+\gvf maintenant
 \xv yàn ní  tìle sàba cɛ́
 \xf d'ici trois jours ...
-\dt 20/May/2013
+\dt 21/Apr/2019
 
 \lx yánba
 \ps n
@@ -146918,14 +147602,20 @@ bambara)
 \dt 07/Mar/2019
 
 \lx yèn
-\ps adv/n
+\ps adv
 \gf là-bas
 \gvf là-bas
 \xv bɔ́ yèn ! [bɔ́e]
 \xf Déguerpis de là ! Va--t-en !
 \xv í y'á tà  yɔ́rɔ mín ná, í k'ò bìla yèn !
 \xf remets-le où tu l'as pris !
-\dt 20/May/2013
+\dt 21/Apr/2019
+
+\lx yèn
+\ps n
+\gf là-bas
+\gvf là-bas
+\dt 21/Apr/2019
 
 \lx yènfɛla
 \mm yèn:n:là-bas
