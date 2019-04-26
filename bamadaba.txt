@@ -15666,11 +15666,14 @@ l'hivernage
 (rép : la mort)
 \vl vt
 \gvf faire tomber
-\ms 2
-\vl vi/vt
-\gvf perdre
+\ms 2.1
+\vl vi
+\gvf se perdre
 \xv à bùrunna  né kɔ́
 \xf je l'ai perdu (en route, à mon insu)
+\ms 2.2
+\vl vt
+\gvf perdre
 \ms 3
 \vl vi
 \gvf faire une fausse couche
@@ -15682,7 +15685,7 @@ l'hivernage
 \sy jàrabi
 \xv à bùrunna  dénnin dɔ́ lá
 \xf il est tombé amoureux d'une jeune fille
-\dt 03/Apr/2016
+\dt 24/Apr/2019
 
 \lx bùruntu
 \ps v
@@ -16469,9 +16472,9 @@ médicinales)
 \gf circoncire
 \gvf circoncire
 \ms 2
-\vl vt ?
+\vl vi
 \gvf devenir jeune homme
-\dt 02/Mar/2019
+\dt 26/Apr/2019
 
 \lx cɛ̀balen
 \mm cɛ̀:n:mâle
@@ -20436,13 +20439,17 @@ saillie)
 \mm dá:n:bouche
 \mm dɔ́n:v:connaître
 \ps v
-\vl vt/vi
 \gf connaître
+\ms 1
+\vl vt
 \gvf connaître
 \gvf être au courant de
-\xv mùso tɛ́  à dádɔn
+\xv mùso tɛ́ à dádɔn
 \xf les femmes ne sont pas au courant  (fétiches)
-\dt 26/Sep/2006
+\ms 2
+\vl vi
+\gvf être connu
+\dt 26/Apr/2019
 
 \lx dádɔnbali
 \mm dá.dɔn:v:connaître
@@ -25596,14 +25603,15 @@ génitales ...)
 
 \lx dáwula
 \ps v
+\gf rendre.glorieux
 \ms 1
 \vl vt
-\gf rendre.glorieux
 \gvf rendre glorieux
 \ms 2
-\vl ?
-\gvf être beau
-\dt 26/Sep/2006
+\vl vi
+\gvf devenir beau
+\gvf devenir joli
+\dt 26/Apr/2019
 
 \lx dáwulama
 \mm dáwula:n:charme
@@ -40912,12 +40920,12 @@ sur le ventre -- í kɔ́nɔ kàn)
 
 \lx fò
 \ps v
-\vl vi ?
+\vl vr
 \gf pardon
 \gvf pardon
 \xv í fò
 \xf Pardon ! Excusez !
-\dt 12/Aug/2006
+\dt 26/Apr/2019
 
 \lx fò
 \ps v
@@ -43256,12 +43264,12 @@ forestières, fruit : long follicule de 50 cm)
 \lx fúnti
 \ve (-f,-bk)
 \ps v
-\vl vi ?
+\vl vi
 \gf jaillir
 \gvf jaillir
 \gvf sortir brusquement
 \sy póyi
-\dt 16/Aug/2006
+\dt 26/Apr/2019
 
 \lx fùntun
 \va fòndon
@@ -46408,15 +46416,22 @@ forestières, fruit : long follicule de 50 cm)
 \va gwène
 \ve (f,bk)
 \va gènde
-\ph [gw]
+\va gwènde
 \ps v
-\vl vt/vi
 \gf serrer
+\ms 1
+\vl vi
 \gvf serrer
-\smf (se dit d'un vêtement trop étroit ...)
-\xv sàbara nìn ká dɔ́gɔ  í sèn mà, à bɛ́ gène  à mà
+\gvf gêner
+\gvf être trop étroit
+\smf (un vêtement, une chaussure; pour -- mà)
+\xv sàbara nìn ká dɔ́gɔ  í sèn mà, à bɛ́ gène à mà
 \xf ces chaussures sont trop petites pour ton pied, elles le compriment
-\dt 16/Aug/2006
+\ms 2
+\vl vt
+\gvf serrer
+\gvf bien fermer
+\dt 26/Apr/2019
 
 \lx génekàlan
 \va gwénekàlan
@@ -47051,9 +47066,9 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \xv à yé  nìn gɛ̀lɛya  ù mà...
 \xf il leur a recommandé ceci ...
 \ms 3
-\vl ?
+\vl vr
 \gvf s'efforcer
-\xv í gɛ̀lɛya  kà nìn kɛ́
+\xv í gɛ̀lɛya kà nìn kɛ́
 \xf efforce-toi de faire ceci
 \ms 4
 \gvf rendre difficile
@@ -47062,7 +47077,7 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \smf (le prix de ...)
 \xv à y'á sɔ̀ngɔ gɛ̀lɛya
 \xf il a rendu le prix inabordable
-\dt 23/Feb/2017
+\dt 26/Apr/2019
 
 \lx gɛ̀lɛyalan
 \mm gɛ̀lɛya:v:durcir
@@ -48507,12 +48522,12 @@ douanier, milicien, etc.)
 \ve (bk; du)
 \va kɔ̀ngɔli
 \ps v
-\vl vi ?
+\vl vt
 \gf retrousser
 \gvf retrousser
 \xv sùmɛ dánin gɔ̀ngɔlilen /
 \xf le poisson 'Arias gigas' a les lèvres retroussées
-\dt 11/Nov/2007
+\dt 26/Apr/2019
 
 \lx gɔ́ngɔn
 \va gángan
@@ -56617,36 +56632,43 @@ d'arrière-saison
 \lx jɔ̀
 \va dɔ̀
 \ps v
-\ms 1
-\vl vt/vr
 \gf dresser
+\ms 1.1
+\vl vt
 \gvf dresser
 \gvf mettre debout
-\xv wúli k'ì jɔ̀ !
-\xf debout ! lève-toi !
 \xv só jɔ̀
 \xf bâtir une maison
-\xv á'y'á jɔ̀  ɲɔ́gɔn kɔ́ !
-\xf mettez-vous en file indienne !
 \xv súgu jɔ̀
 \xf aller au marché, faire le marché
-\ms 2
-\vl vt/vr
+\ms 1.2
+\vl vr
+\gvf se lever
+\gvf se mettre
+\xv wúli k'ì jɔ̀ !
+\xf debout ! lève-toi !
+\xv á y'á jɔ̀  ɲɔ́gɔn kɔ́ !
+\xf mettez-vous en file indienne !
+\ms 2.1
+\vl vt
 \gvf arrêter
-\xv à yé  móbili jɔ̀
+\xv à yé móbili jɔ̀
 \xf il a arrêté la voiture
-\xv í jɔ̀ !
-\xf arrête-toi !
 \xv hákili jɔ̀
 \xf être attentif
-\xv fòli jɔ̀  mɔ̀gɔ fɛ̀
+\xv fòli jɔ̀ mɔ̀gɔ fɛ̀
 \xf dire au revoir à qqn
 \xv cí jɔ̀ / sàma jɔ̀
 \xf envoyer un ordre, un message ...  confier une commission
+\ms 2.1
+\vl vr
+\gvf s'arrêter
+\xv í jɔ̀ !
+\xf arrête-toi !
 \ms 3
-\vl vt/vr
+\vl vr
 \gvf prendre en charge
-\xv jàtigikɛ y'á jɔ̀  dúnan yé
+\xv jàtigikɛ y'à jɔ̀ dúnan yé
 \xf l'hôte a tout fait pour son étranger
 \ms 4
 \vl vi
@@ -56655,8 +56677,9 @@ d'arrière-saison
 \xf le vent a cessé
 \xv à wólo jɔ̀ra
 \xf elle a cessé d'engendrer (ménopause)
-\xv à jɔ̀ra  dén ná
-\xf elle a conçu (conception = cessation des règles)
+\xv à jɔ̀ra dén ná
+\xf elle a conçu
+\smf (conception comme cessation des règles)
 \ms 5
 \vl vi
 \gvf avouer
@@ -56672,7 +56695,7 @@ d'arrière-saison
 \gvf accepter
 \xv mɔ̀gɔ tɛ́ jɔ̀  bɛ́ɛ séereya kɔ́rɔ
 \xf on n'accepte pas tous les témoignages
-\dt 17/Feb/2017
+\dt 26/Apr/2019
 
 \lx jɔ̀
 \ps n
@@ -58216,11 +58239,11 @@ composante des adjectifs séparables)
 
 \lx júngurunjɛngɛrɛn
 \ps v
-\vl vt ?
+\vl vi
 \gf marcher.en.se.pavanant
 \gvf marcher en se pavanant
 \sy jáɲigijaɲigi
-\dt 16/Aug/2006
+\dt 26/Apr/2019
 
 \lx jùnjun
 \va jùnyun
@@ -60318,10 +60341,14 @@ l'eau est prête
 \mm kàlan:n:lecture
 \mm jɛ́:adj:blanc
 \ps n
-\gf apprentissage.de.la.lecture
+\gf lecture
+\ms 1
+\gvf lecture
 \gvf apprentissage de la lecture
 \smf (opposé à l'écriture)
-\dt 23/Mar/2019
+\ms 1
+\gvf études sans spécialisation
+\dt 23/Apr/2019
 
 \lx kàlanjɛgafe
 \mm kàlanjɛ:n:apprentissage.de.la.lecture
@@ -78964,12 +78991,16 @@ l'intérieur une ou deux graines)
 \ve (bk)
 \va kùnbɔ
 \ps v
-\vl vt ?
-\gf remplir
+\gf mettre.en.boules
+\ms 1
+\vl vt
+\gvf mettre en boules
+\ms 2
+\vl vt
 \gvf remplir
 \smf (un panier ...)
 \rem du, b, bk, bn  / du ajoute le sens de 'mettre en boules' refusé par bk, Tor
-\dt 11/Nov/2007
+\dt 26/Apr/2019
 
 \lx kùnmugu
 \mm kùn:n:tête
@@ -86069,11 +86100,19 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mm rɔ́:mrph:IN
 \mm sàma:v:tirer.à.soi
 \ps v
-\vl vt ?
 \gf étirer
+\ms 1.1
+\vl vt
 \gvf étirer
-\gvf s'étirer
-\dt 02/Apr/2019
+\smf (main, cou)
+\ms 1.2
+\vl vr
+\gvf s'étirer)
+\ms 3
+\vl vi
+\gvf durer
+\gvf continuer
+\dt 26/Apr/2019
 
 \lx lásaniya
 \mm lá:mrph:CAUS
@@ -91397,13 +91436,19 @@ invulnérable aux serpents, aux fauves ...)
 \mm mà:mrph:SUPER
 \mm ɲùman:adj:bon
 \ps v
-\vl vi/vt
 \gf avoir.pitié
+\ms 1
+\vl vi
 \gvf avoir pitié
-\xv à yé fàantan màɲúman
+\smf (de -- lá)
 \xv à màɲúmanna fàantan ná
 \xf il a eu pitié des pauvres
-\dt 14/Apr/2018
+\ms 2
+\vl vt
+\gvf avoir pitié
+\xv à yé fàantan màɲúman
+\xf il a eu pitié des pauvres
+\dt 26/Apr/2019
 
 \lx màɲumanko
 \mm màɲuman:v:avoir.pitié
@@ -92082,14 +92127,12 @@ des engagements
 \mm mà:mrph:SUPER
 \mm sìgi:v:asseoir
 \ps v
-\ms 1
+\gf remettre
+\ms
 \vl vt
-\gf faire.asseoir
-\gvf faire asseoir
-\ms 2
-\vl vt ?
-\gvf se calmer
-\dt 16/Aug/2006
+\gvf remettre
+\gvf présenter
+\dt 26/Apr/2019
 
 \lx màsina
 \ve (bk,bn)
@@ -93705,16 +93748,24 @@ des engagements
 
 \lx mìsali
 \ps v
-\vl vt ?
-\ms 1
+\vl vt
 \gf imaginer
+\ms 1
+\vl vt
 \gvf imaginer
 \gvf croire
-\ms 2
-\gvf baratiner
+\gvf espérer
+\smf (à -- ní ... yé, kó)
 \xv ń y'á mìsali kó Músa táara Bàmakɔ
-\rem l 89, du
-\dt 11/Nov/2007
+\xf j'ai espéré que Moussa serait parti à Bamako
+\ms 2
+\vl vt
+\gvf baratiner
+\smf (une fille)
+\ms 3
+\vl vt
+\gvf citer en exemple
+\dt 26/Apr/2019
 
 \lx mìsaliya
 \mm mìsali:n:exemple
@@ -104883,10 +104934,10 @@ craie ...)
 \mm nɔ́ɔnsi:n:caméléon
 \mm táama:v:marcher
 \ps v
-\vl vt ?
+\vl vr
 \gf marcher.lentement
 \gvf marcher lentement
-\dt 16/Aug/2006
+\dt 26/Apr/2019
 
 \lx nɔ̀ɔrɛ
 \va nɔ̀ɔrɔ
@@ -108649,12 +108700,17 @@ banane, etc.)
 \mm ná:pp:à
 \mm fɔ́:v:dire
 \ps v
-\vl vt ?
 \gf nasiller
+\ms 1
+\vl vt
 \gvf nasiller
+\ms 2
+\vl vi
+\gvf être nasillé
+\gvf être nasalisé
 \xv à ká kúma bɛ́ɛ núnafɔra, né má  ù fàamu
 \xf il a prononcé toutes ses paroles du nez, je ne les ai pas comprises
-\dt 04/Apr/2019
+\dt 26/Apr/2019
 
 \lx núnnakumana
 \mm nún:n:nez
@@ -113145,13 +113201,13 @@ banane, etc.)
 
 \lx ɲɛ́ri
 \ps v
-\vl vi ?
+\vl vi
 \gf fleurir
 \gvf fleurir
 \smf (en parlant des graminées)
 \sy wólo
 \rem alf (-Jos)
-\dt 11/Nov/2007
+\dt 26/Apr/2019
 
 \lx ɲɛ́sen
 \mm ɲɛ́:n:oeil
@@ -114075,14 +114131,15 @@ postposition, n'est pas accepté par tous les locuteurs)
 \lx ɲóron
 \va ɲóro
 \ps v
-\vl vi ?
 \ms 1
+\vl vi
 \gf avoir.la.nausée
 \gvf avoir la nausée
 \ms 2
+\vl vi
 \gvf sangloter
 \gvf être au bord des larmes
-\dt 26/Sep/2006
+\dt 26/Apr/2019
 
 \lx ɲóron
 \ps v
@@ -125071,8 +125128,9 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf avancer péniblement
 \gvf avancer doucement
 \ms 2
+\vl vt
 \gvf conduire en lente procession
-\dt 17/Nov/2018
+\dt 24/Apr/2019
 
 \lx sɛ́nsɛn
 \ps v
@@ -125151,10 +125209,11 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sɛ̀riwusi
 \va sɛ̀rɛwusi
+\bw Fr. service
 \ps n
 \gf service
 \gvf service
-\dt 23/Feb/2014
+\dt 24/Apr/2019
 
 \lx sɛ̀riwusida
 \mm sɛ̀riwusi:n:service
@@ -130327,11 +130386,13 @@ euphémique)
 \mm ná:mrph:CAUS
 \mm ɲíni:v:chercher
 \ps v
-\vl vt ?
-\gf chercher.querelle
+\gf provoquer
+\vl vt
+\gvf provoquer
 \gvf chercher querelle
+\gvf mettre à l'épreuve
 \rem l 89, bk, bn
-\dt 11/Apr/2019
+\dt 26/Apr/2019
 
 \lx sɔ̀nnasiran
 \mm sɔ̀n:n:coeur
@@ -131702,16 +131763,24 @@ s'amène ...)
 \lx sún
 \bw ar: saum = id.
 \ps v
-\vl vi/vt/vr
 \gf jeûner
+\ms 1
+\vl vi
 \gvf jeûner
 \xv à sunna
 \xf il a observé le jeûne
-\xv à ye  tìlè tan sun
+\ms 2
+\vl vt
+\gvf jeûner pendant
+\smf (un période de temps)
+\xv à ye tìlè tan sun
 \xf il a fait dix jours de jeûne
+\ms 3
+\vl vr
+\gvf jeûner
 \xv à y'í sún
 \xf il a jeûné
-\dt 16/Aug/2006
+\dt 26/Apr/2019
 
 \lx súna
 \ps n
@@ -133754,9 +133823,10 @@ fiançailles
 
 \lx táabataaba
 \ps v
-\vl vi ?
+\vl vi
 \gf tituber
 \gvf tituber
+\dt 26/Apr/2019
 
 \lx táabolo
 \mm táa:v:aller
@@ -134585,11 +134655,13 @@ fiançailles
 
 \lx tàlitalima
 \ps v
-\vl vt ?
 \gf traîner
+\vl vt
 \gvf traîner
-\smf (derrière soi) (de force)
-\dt 16/Aug/2006
+\smf (derrière soi, de force)
+\gvf emmener de force
+\gvf pousser en culbutant
+\dt 26/Apr/2019
 
 \lx tàlitayi
 \ve (f)
@@ -134900,6 +134972,16 @@ suivi de ni)
 \gvf pousser
 \smf (pour faire tomber)
 \dt 26/Sep/2006
+
+\lx tángi
+\va tɛ́gɛn
+\ps v
+\vl vt
+\gf goûter
+\gvf goûter
+\sy nɛ́nɛ
+\sy sífilɛ
+\dt 26/Apr/2019
 
 \lx tàngɔn
 \va tàngɔ
@@ -135714,14 +135796,16 @@ flaques d'eau)
 \mm tɛ́li:vq:rapide
 \mm ya:mrph:DEQU
 \ps v
-\vl vt
 \gf accélérer
+\ms 1
+\vl vt
 \gvf accélérer
-\vl vr ?
+\ms 2
+\vl vr
 \gvf se dépêcher
 \xv í tɛ́liya !
 \xf presse-toi !, dépêche-toi !, vite !
-\dt 01/Mar/2017
+\dt 26/Apr/2019
 
 \lx télu
 \ve (-bk)
@@ -136430,17 +136514,6 @@ flaques d'eau)
 \xv á kàna á tɛ́gɛmagɛlɛya á bálema fàantan fàn fɛ̀
 \xf tu ne fermeras pas ta main à ton frère pauvre (Dt 15, 7)
 \dt 11/Apr/2019
-
-\lx tɛ́gɛn
-\va tángi
-\ps v
-\vl vt ?
-\gf goûter
-\gvf goûter
-\sy nɛ́nɛ
-\sy sífilɛ
-\rem f, va : bz, mol
-\dt 11/Nov/2007
 
 \lx tɛ́gɛnasuma
 \mm tɛ́gɛla:n:main.active
@@ -138957,13 +139030,13 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \xv à tó : ń kà tɛ̀mɛ !
 \xf laisse-moi passer !
 \ms 4
-\vl vt/vi ?
+\vl vt
 \gvf être cause
 \xv ò dè y'á tó...
 \xf c'est pourquoi, en conséquence (c'est cela qui a provoqué ceci : ...)
 \xv Ála máa á tóra...
 \xf Dieu fasse que ...
-\dt 21/Apr/2018
+\dt 26/Apr/2019
 
 \lx tóbi
 \va tɔ́bi
@@ -140629,12 +140702,16 @@ est due aux paysans (kib 3/05 p.9)
 \mm tɔ̀rɔmajɔn:n:poignée
 \mm ya:mrph:ABSTR
 \ps v
-\vl vt/vr
 \gf prendre.à.pleine.main
+\ms 1
+\vl vt
 \gvf prendre à pleine main
-\xv à y'á bólo tɔ̀rɔmɔjɔnya shɔ́ lá
+\xv à y'à bólo tɔ̀rɔmɔjɔnya shɔ́ lá
 \xf il a pris une poignée de haricots
-\dt 02/May/2015
+\ms 2
+\vl vr
+\gvf prendre à pleine main
+\dt 26/Apr/2019
 
 \lx tɔ̀rɔɲaga
 \mm ɲàga:n:nid
@@ -141698,9 +141775,19 @@ arrière grand-père est mort
 \va tlón
 \ph [tlon]
 \ps v
-\vl vi ?
 \gf jouer
+\ms 1
+\vl vr
+\usf rare
 \gvf jouer
+\ms 2
+\vl vr
+\gvf caracoler
+\ms 3
+\vl vi
+\gvf faire sans efforts
+\smf (qqch. -- kà)
+\dt 26/Apr/2019
 
 \lx túlon
 \va tlón
@@ -145630,19 +145717,31 @@ Mali)
 
 \lx wɔ̀ɔlɔ
 \ps v
-\ms 1
-\vl vi ?
+\ms 1.1
+\vl vi
 \gf couler
 \gvf couler
+\ms 1.2
 \vl vt
 \gvf faire couler
 \smf (doucement)
 \gvf baver
 \ms 2
 \vl vr
-\gvf partir
-\smf (discrètement)
-\dt 26/Sep/2006
+\gvf partir discrètement
+\gvf se perdre
+\smf (dans la foule)
+\ms 2.1
+\vl vi
+\gvf accoucher prématurement
+\ms 2.2
+\vl vt
+\gvf pondre prématurement
+\ms 3
+\vl vt
+\usf péj.
+\gvf avoir un accouchement facile
+\dt 26/Apr/2019
 
 \lx wɔ́ɔrɔ
 \ps num
@@ -145772,26 +145871,46 @@ Mali)
 
 \lx wùgu
 \ps v
-\ms 1
-\vl vi/vt
 \gf ruminer
+\ms
+\vl vt
 \gvf ruminer
 \xv mìsi bɛ́ kà bín wùgu
 \xf la vache rumine son herbe
-\ms 2
-\vl vt
-\gvf affouiller
-\gvf saper
-\gvf déraciner
-\ms 3
+\dt 26/Apr/2019
+
+\lx wùgu
+\ps v
+\gf déteindre
+\ms 1.1
 \vl vi
 \gvf déteindre
-\smf (habits ...)
+\gvf perdre sa couleur
+\smf (habits)
+\ms 1.2
+\vl vt
+\gvf faire déteindre
 \ms 4
 \vl vi
 \gvf s'oxyder
-\smf (marmite ...)
-\dt 16/Aug/2006
+\smf (marmite)
+\gvf
+\dt 26/Apr/2019
+
+\lx wùgu
+\ps v
+\gf déraciner
+\ms 1
+\vl vt
+\gvf déraciner
+\gvf affouiller
+\gvf saper
+\ms 2
+\vl vi
+\gvf s'éjecter
+\gvf sortir dans un jet
+\gvf s'expulser
+\dt 26/Apr/2019
 
 \lx wúgu
 \ps n
@@ -146405,12 +146524,12 @@ Mali)
 
 \lx wùrunti
 \ps v
-\vl vt ?
+\vl vt
 \gf filer.coton
 \gvf filer coton
 \sy párata
 \rem Mol, f, bn (-bk)
-\dt 11/Nov/2007
+\dt 26/Apr/2019
 
 \lx wùrusilan
 \mm wùrusi:v:égrener
