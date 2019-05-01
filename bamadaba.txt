@@ -2395,7 +2395,9 @@ consommables)
 \gvf lèpre à pustules
 \sy fàrilɔfɛn
 \sy bànaba
-\dt 16/Aug/2006
+\xv bàgi jɛ
+\xf lèpre multi bacillaire, lèpre lépromateuse
+\dt 01/May/2019
 
 \lx bági
 \ps n
@@ -7976,12 +7978,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps n
 \gf beaucoup
 \gvf beaucoup
-\gvf assez
-\xv ò tɛ́  bɛ́rɛ yé
-\xf ce n'est pas beaucoup (pas assez)
+\gvf grande quantité
+\gvf foison
+\xv ò tɛ́ bɛ́rɛ yé
+\xf ce n'est pas beaucoup
+\smf (pas assez)
 \xv bɛ́rɛ t'á jɛ̀
 \xf il s'en faut de peu
-\dt 13/Apr/2019
+\dt 01/May/2019
 
 \lx bɛ́rɛ
 \ps adv
@@ -21005,14 +21009,6 @@ Burkina Faso, sa langue)
 \gvf manger complètement
 \dt 26/Sep/2006
 
-\lx dágalaka
-\mm dá:n:bouche
-\mm gálaka:n:côte
-\ps n
-\gf mâchoire
-\gvf mâchoire
-\dt 04/Mar/2019
-
 \lx dàgan
 \va dànga
 \ps n
@@ -21184,10 +21180,16 @@ Burkina Faso, sa langue)
 \va dágwɛlɛkɛ
 \mm dá:n:bouche
 \ph [gw]
+\va dágalaka
+\mm dá:n:bouche
+\mm gálaka:n:côte
 \ps n
-\gf mâchoire.inférieure
+\gf mâchoire
+\ms 1
+\gvf mâchoire
+\ms 2
 \gvf mâchoire inférieure
-\dt 03/Apr/2016
+\dt 01/May/2019
 
 \lx dágɛlɛn
 \mm dá:n:bouche
@@ -21614,6 +21616,16 @@ Burkina Faso, sa langue)
 \sy nàkan
 \dt 08/Mar/2019
 
+\lx dákankun
+\mm dá:n:bouche
+\mm kàn:pp:sur
+\mm kùn:n:tête
+\ps n
+\gf seuil
+\gvf seuil de la porte
+\syn dákun
+\dt 27/Apr/2019
+
 \lx dákanma
 \mm dá.kan:n:destin
 \mm dá:n:création
@@ -21906,6 +21918,7 @@ Burkina Faso, sa langue)
 \xf la soeur de ton père, tu ne peux la convoiter sur le plan sexuel (inceste)
 \ms 2
 \gvf seuil de la porte
+\syn dákankun
 \ms 3
 \gvf moment
 \gvf période
@@ -21918,7 +21931,7 @@ Burkina Faso, sa langue)
 \ms 5
 \gvf étape
 \smf (dans une course)
-\dt 26/Jul/2018
+\dt 27/Apr/2019
 
 \lx dákun
 \mm dá:v:créer
@@ -32359,6 +32372,13 @@ fait de bonnes poutres)
 \xf les abeilles se suspendent à l'arbre et forment un essaim
 \dt 16/Aug/2006
 
+\lx dúlondulonmugu
+\mm múgu:n:poudre
+\ps n
+\gf mollet
+\gvf mollet
+\dt 01/May/2019
+
 \lx dùlɔki
 \va dùloki
 \va dɔ̀lɔki
@@ -32811,7 +32831,8 @@ quant à sa mère, elle prend de l'âge
 \gf consommable
 \gvf consommable
 \gvf part d'aliment consommable immédiatement
-\dt 05/Feb/2017
+\gvf qualité de ce qui est mangeable
+\dt 01/May/2019
 
 \lx dúnden
 \ps n
@@ -33555,10 +33576,23 @@ gens)
 \lx dùsuɲugu
 \mm dùsu:n:coeur
 \mm ɲúgu:n:nausée
+\va dùsuɲugun
+\mm dùsu:n:coeur
+\mm ɲúgun:n:nausée
+\va dùsukunɲugu
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
+\mm ɲúgu:n:nausée
+\va dùsukunɲugun
+\mm dùsukun:n:coeur
+\mmm dùsu:n:coeur
+\mmm kùn:n:tête
+\mm ɲúgun:n:nausée
 \ps n
 \gf nausées
 \gvf nausées
-\dt 20/Jul/2014
+\dt 01/May/2019
 
 \lx dùtebin
 \mm dùte:n:thé.vert
@@ -36350,6 +36384,16 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \ms 2
 \gvf menstrue
 \dt 13/Apr/2018
+
+\lx fàrida
+\mm fàri:n:corps
+\mm dá:n:bouche
+\ps n
+\gf état.corporel
+\ms
+\gvf état corporel
+\gvf maladie
+\dt 01/May/2019
 
 \lx fàrifaa
 \mm fàri:n:corps
@@ -43141,7 +43185,15 @@ forestières, fruit : long follicule de 50 cm)
 \ps adv
 \gf tout.courbaturé
 \gvf tout courbaturé
-\dt 19/Jan/2015
+\gvf ramolli
+\dt 01/May/2019
+
+\lx fúluka
+\ps v
+\gf courbaturer
+\vl vt
+\gvf courbaturer
+\dt 01/May/2019
 
 \lx fúlumɛ
 \ps n
@@ -51644,6 +51696,15 @@ calebasses)
 \smf (de militaire)
 \dt 26/Sep/2006
 
+\lx jàla
+\mm jà:n:ombre
+\mm lá:pp:à
+\ps n
+\gf âme
+\gvf âme
+\smf (une partie séparable des adjectifs séparables)
+\dt 01/May/2019
+
 \lx jála
 \ps n
 \gf caïlcédrat
@@ -51654,15 +51715,16 @@ calebasses)
 \dt 02/May/2018
 
 \lx jàlafarin
-\mm jà:n:ombre
-\mm lá:pp:à
+\mm jàla:n:âme
+\mmm jà:n:ombre
+\mmm lá:pp:à
 \mm fárin:adj:ardent
 \ps adj
 \gf téméraire
 \gvf téméraire
 \gvf audacieux
 \gvf courageux
-\dt 16/Apr/2019
+\dt 01/May/2019
 
 \lx jàlafarin
 \mm jà:n:ombre
@@ -51676,19 +51738,21 @@ calebasses)
 \dt 16/Apr/2019
 
 \lx jàlagɛlɛn
-\mm jà:n:ombre
-\mm lá:pp:à
+\mm jàla:n:âme
+\mmm jà:n:ombre
+\mmm lá:pp:à
 \mm gɛ̀lɛn:adj:dur
 \va jàlagwɛlɛn
-\mm jà:n:ombre
-\mm lá:pp:à
+\mm jàla:n:âme
+\mmm jà:n:ombre
+\mmm lá:pp:à
 \mm gwɛ̀lɛn:adj:dur
 \ph [gw]
-\ps n
+\ps adj
 \gf brave
 \gvf brave
 \sy jàgɛlɛn
-\dt 23/Mar/2015
+\dt 01/May/2019
 
 \lx jálaji
 \mm jála:n:caïlcédrat
@@ -59726,6 +59790,13 @@ l'eau est prête
 \gvf cacao
 \dt 13/Feb/2017
 
+\lx káki
+\ps adv
+\gf fortement.fermer
+\gvf fortement
+\smf (fermer)
+\dt 01/May/2019
+
 \lx kàko
 \va kòko
 \ps n
@@ -60721,13 +60792,15 @@ l'eau est prête
 \ps n
 \gf douleur.aigüe
 \gvf douleur aigüe
-\gvf sensation de boule
-\smf (se dit de nombreuses maladies, spécialement celles des
-organes génitaux : hydrocèle, hernies, kyste de l'ovaire...)
+\gvf hernie
+\gvf kyste de l'ovaire
+\gvf hydrocèle
+\smf (sensation de boule; se dit de nombreuses maladies, spécialement celles des
+organes génitaux)
 \xv káliya bɔ́ta
 \xf hydrocèle; cystocèle des femmes (hernie de la vessie);
 prolapsus utérin
-\dt 04/Apr/2016
+\dt 01/May/2019
 
 \lx káliyabonbon
 \mm káliya:n:douleur.aigue
@@ -62640,9 +62713,10 @@ prolapsus utérin
 \ms 1
 \gf enrouement.des.chanteuses
 \gvf enrouement des chanteuses
+\gvf angine à streptocoques
 \ms 2
 \gvf diphtérie
-\dt 26/Sep/2006
+\dt 01/May/2019
 
 \lx kánntan
 \mm kán:n:cou
@@ -70639,9 +70713,13 @@ harpon)
 \mm fɛ̀:pp:par
 \ps adv
 \gf puis
+\ms 1
 \gvf puis
 \gvf ensuite
-\dt 16/May/2017
+\ms 2
+\gvf en arrière
+\gvf en retard
+\dt 01/May/2019
 
 \lx kɔ́fɛla
 \mm kɔ́fɛ̀:pp:derrière
@@ -72336,13 +72414,6 @@ ou une proposition)
 \xv fílen kɔ́nɔ kò
 \xf laver l'intérieur de la calebasse
 \ms 4
-\gvf largeur
-\smf (d'une bande)
-\xv í kàna tɛ̀mɛ  kɔ́nɔ wɔ́ɔrɔ kàn !
-\xf ne dépasse pas six largeurs !
-\xv jírifɛɛrɛn kɔ́nɔ ká bòn
-\xf la planche est large
-\ms 5
 \gvf pensées
 \gvf avis
 \xv à bɛ́ ń kɔ́nɔ, à tɛ́ ń dá lá
@@ -72357,7 +72428,7 @@ ou une proposition)
 \xf qu'as-tu l'intention de faire ?
 \xv í kɔ́nɔ jɛ́ya  màa yé
 \xf ouvrir sa conscience à qqn
-\dt 03/Apr/2016
+\dt 01/May/2019
 
 \lx kɔ́nɔ
 \ps pp
@@ -72371,6 +72442,23 @@ ou une proposition)
 \xv à tɛ́ ń kɔ́nɔ bìlen
 \xf je l'ai oublié
 \dt 22/Aug/2017
+
+\lx kɔ́nɔ
+\ps n
+\gf bande.tissu
+\ms 1
+\gvf bande
+\smf (de tissu)
+\xv fìninkɔnɔ
+\xf une bande de tissu
+\ms 2
+\gvf largeur
+\smf (d'une bande)
+\xv í kàna tɛ̀mɛ kɔ́nɔ wɔ́ɔrɔ kàn !
+\xf ne dépasse pas six largeurs !
+\xv jírifɛɛrɛn kɔ́nɔ ká bòn
+\xf la planche est large
+\dt 01/May/2019
 
 \lx kɔ́nɔbara
 \mm kɔ́nɔ:n:ventre
@@ -75675,17 +75763,33 @@ plus solide)
 \mm màbɔ́:v:éloigner
 \mmm mà:mrph:SUPER
 \mmm bɔ́:v:sortir
-\va kɔ́ntɔrɔnmabɔ
+\va kɔ́ntɔrɔnmàbɔ́
+\mm kɔ́:n:dos
+\mm ntɔ́rɔn:v:cogner
+\mm màbɔ́:v:éloigner
+\mmm mà:mrph:SUPER
+\mmm bɔ́:v:sortir
+\va kɔ́ntɔrɔmàbɔ́
 \mm kɔ́:n:dos
 \mm ntɔ́rɔn:v:cogner
 \mm màbɔ́:v:éloigner
 \mmm mà:mrph:SUPER
 \mmm bɔ́:v:sortir
 \ps v
-\vl vr/vi
 \gf reculer
+\ms 1
+\vl vr
 \gvf reculer
-\dt 30/Mar/2019
+\ms 2
+\usf rare
+\vl vi
+\gvf reculer
+\ms 3
+\vl vt
+\gvf presser
+\smf (l'adversaire)
+\gvf faire reculer
+\dt 27/Apr/2019
 
 \lx kɔ̀woronto
 \mm kɔ̀:n:marigot
@@ -76946,7 +77050,11 @@ le pouvoir administratif suprême)
 \gvf lèpre amputante
 \sy bànaba
 \sy fàrilɔfɛn
-\dt 16/Aug/2006
+\xv kúna jalan
+\xf lèpre pauci bacillaire, lèpre tuberculoïde
+\xv kúna jɛ
+\xf lèpre multi bacillaire, lèpre lépromateuse
+\dt 01/May/2019
 
 \lx kúna
 \va kúnan
@@ -81033,6 +81141,17 @@ kúrunninle
 \gvf qui a des furoncles
 \gvf qui a des kystes
 \dt 26/Sep/2006
+
+\lx kùrutuguda
+\mm kùru:n:boule
+\mm tùguda:n:point.d'attache
+\mmm tùgu:v:rabouter
+\mmm dá:n:bouche
+\ps n
+\gf articulation
+\gvf articulation
+\smf (anatomique)
+\dt 01/May/2019
 
 \lx kùrutukurutu
 \ps n
@@ -88154,10 +88273,24 @@ personne)
 
 \lx lìngilanga
 \ps n
-\gf longiligne
+\gf oscillation
+\ms 1
+\gvf oscillation
+\gvf problème d'équilibre
+\ms 2
 \gvf longiligne
-\smf (de.grande.taille.et.rectiligne, droit comme un " I ")
-\dt 26/Sep/2006
+\smf (de grande taille et rectiligne, droit comme un " I ")
+\dt 01/May/2019
+
+\lx lìngilanga
+\ps v
+\gf osciller
+\vl vi
+\gvf osciller
+\gvf se balancer
+\gvf se pavaner
+\smf (pour qqch. ou qqn de long, grand, mince, frêle)
+\dt 01/May/2019
 
 \lx línjila
 \va línjili
@@ -113626,18 +113759,10 @@ banane, etc.)
 \xf des fois tu es gentil, des fois tu es méchant
 \dt 26/Aug/2017
 
-\lx ɲígin
-\ps v
-\vl vt
-\gf mouiller
-\gvf mouiller
-\gvf détremper
-\gvf imbiber
-\dt 26/Sep/2006
-
-\lx ɲígin
-\va ɲúgun
+\lx ɲígi
+\va ɲígin
 \va ɲúgu
+\va ɲúgun
 \ve (f)
 \ps n
 \gf nausée
@@ -113647,6 +113772,15 @@ banane, etc.)
 \gvf aversion
 \xv ntòri ɲígin bɛ́ ń ná
 \xf j'ai horreur des crapauds
+\dt 01/May/2019
+
+\lx ɲígin
+\ps v
+\vl vt
+\gf mouiller
+\gvf mouiller
+\gvf détremper
+\gvf imbiber
 \dt 26/Sep/2006
 
 \lx ɲígin
@@ -116509,6 +116643,7 @@ envergure)
 \va pàron
 \va pàgo
 \va fàro
+\va fàron
 \ps v
 \ms 1
 \vl vt
@@ -116518,7 +116653,7 @@ envergure)
 \ms 2
 \gvf arracher
 \gvf prendre brusquement
-\dt 05/Apr/2016
+\dt 01/May/2019
 
 \lx páro
 \ps adv
@@ -123091,9 +123226,9 @@ pas réussi
 \gvf chez
 \gvf au milieu de
 \ms 2
-\gvf à même temps
+\gvf en même temps
 \gvf au cours de
-\dt 07/Mar/2019
+\dt 01/May/2019
 
 \lx sènkɔrɔcɛ̀
 \mm sèn:n:jambe
@@ -123203,7 +123338,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf domination
 \gvf pouvoir
 \smf (sur les plus petits et moins forts)
-\dt 20/Mar/2018
+\dt 01/May/2019
 
 \lx sènnaanimafɛn
 \mm sèn:n:jambe
@@ -123282,16 +123417,27 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf véloce
 \dt 19/Apr/2019
 
+\lx sénnako
+\mm sénna:n:domination
+\mmm sé:v:arriver
+\mmm ń:pers:1SG
+\mmm na:pp:à
+\mm kó:n:affaire
+\ps n
+\gf capacité
+\gvf capacité
+\dt 01/May/2019
+
 \lx sènnakolon
 \mm sènna:n:allure
 \mmm sèn:n:jambe
-\mmm na:mrph:dans
+\mmm na:mrph:à
 \mm kólon:adj:vide
 \ps adj
 \gf nu-pieds
 \gvf nu-pieds
 \gvf déchaussé
-\dt 11/Apr/2019
+\dt 01/May/2019
 
 \lx sènnakuru
 \mm sèn:n:jambe
@@ -123387,13 +123533,13 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sènnantolatan
 \mm sènna:n:allure
 \mmm sèn:n:jambe
-\mmm nan:mrph:dans
+\mmm nan:mrph:à
 \mm ntòla:n:balle
 \mm tán:v:frapper
 \ps n
 \gf football
 \gvf football
-\dt 11/Apr/2019
+\dt 01/May/2019
 
 \lx sènnasìri
 \mm sèn:n:jambe
@@ -124857,8 +125003,8 @@ gouvernement le soutient (kb 5/06 p.7)
 \vl vt
 \gf adosser
 \gvf adosser
-\smf (contre ...)
-\dt 26/Sep/2006
+\smf (contre)
+\dt 01/May/2019
 
 \lx sɛ̀mɛ
 \ps n
@@ -124909,6 +125055,19 @@ gouvernement le soutient (kb 5/06 p.7)
 \gf hache-houe
 \gvf hache-houe
 \dt 28/Sep/2014
+
+\lx sɛ̀mɛnan
+\mm sɛ̀mɛ:v:adosser
+\mm nan:mrph:INSTR
+\ps n
+\gf protéïne
+\ms 1
+\gvf protéïne
+\gvf vitamine
+\ms 2
+\gvf appui
+\gvf soutient
+\dt 01/May/2019
 
 \lx sɛ́mɛntiya
 \va sɛ́mɛnciya
@@ -131743,7 +131902,8 @@ s'amène ...)
 \ms 2
 \gvf origine
 \gvf source
-\dt 26/Sep/2006
+\gvf cause
+\dt 01/May/2019
 
 \lx sún
 \bw ar: saum = id.
@@ -138379,10 +138539,17 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm ya:mrph:ABSTR
 \ve (bn,f)
 \ps v
-\vl vr/vi
 \gf manquer.d'assiduité
+\ms 1
+\vl vi
+\gvf perdre l'assiduité
+\ms 2
+\vl vr
 \gvf manquer d'assiduité
-\dt 11/Apr/2019
+\ms 3
+\vl vt
+\gvf priver d'assiduité
+\dt 27/Apr/2019
 
 \lx tíminkàla
 \mm tími:vq:savoureux
@@ -146418,6 +146585,14 @@ Mali)
 \gvf tige égreneuse
 \smf (tige de métal ou de bois avec laquelle on égrène le coton)
 \dt 12/Apr/2019
+
+\lx wùlusɔgɔsɔgɔ
+\mm wùlu:n:chien
+\mm sɔ̀gɔsɔgɔ:n:toux
+\ps n
+\gf toux.aboyante
+\gvf toux aboyante
+\dt 01/May/2019
 
 \lx wùluwúlu
 \va wùruwúru
