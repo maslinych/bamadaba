@@ -3793,6 +3793,13 @@ région de Sikasso)
 région de Mopti)
 \dt 03/Jun/2017
 
+\lx Koriyɔme
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village à 10 km de Tombouctou)
+\dt 02/May/2019
+
 \lx Koro
 \ps n.prop
 \gf TOP
@@ -5073,6 +5080,13 @@ Mopti)
 \smf (fleuve)
 \gvf Nil
 \dt 15/Sep/2016
+
+\lx Nisi
+\ps n.prop
+\gf TOP
+\gvf Nice
+\smf (ville en France)
+\dt 02/May/2019
 
 \lx Niyɔriki
 \va Niyɔrɔki

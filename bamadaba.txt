@@ -1882,17 +1882,18 @@ traîne sur le fond des eaux)
 \mm dén:n:enfant
 \ps n
 \ms 1
-\gf frère/soeur.utérin(e)
-\gvf frère/soeur utérin(e)
+\gf frère.ou.soeur.utérin(e)
+\gvf frère utérin
+\gvf soeur utérine
 \ms 2
 \gvf frère
 \smf (parent de la grande famille)
-\xv fà yé  báden lájɛ
+\xv fà yé báden lájɛ
 \xf le père a rassemblé ses frères
 \ms 3
 \gvf frère
 \smf (toute personne que l'on considère comme un frère ; une soeur (sens plus large, affectueux))
-\dt 08/Mar/2018
+\dt 02/May/2019
 
 \lx bádenma
 \mm bá.den:n:frère.soeur.utérin(e)
@@ -1900,12 +1901,13 @@ traîne sur le fond des eaux)
 \mmm dén:n:enfant
 \mm ma:mrph:RECP.PRN
 \ps n
-\gf frère/soeur
-\gvf frère/soeur
-\dt 01/Mar/2019
+\gf frère.ou.soeur
+\gvf frère
+\gvf soeur
+\dt 02/May/2019
 
 \lx bádenya
-\mm bá.den:n:frère/soeur.utérin(e)
+\mm bá.den:n:frère.utérin
 \mmm bá:n:mère
 \mmm dén:n:enfant
 \mm ya:mrph:ABSTR
@@ -1922,7 +1924,7 @@ traîne sur le fond des eaux)
 \xf l'entente fraternelle a disparu
 \ms 3
 \gvf entente
-\dt 01/Mar/2019
+\dt 02/May/2019
 
 \lx bádì
 \ps prt
@@ -2303,6 +2305,18 @@ pour les jardins; toxique.)
 \ps n
 \gf fumier
 \gvf fumier
+
+\lx bágansogolatumunin
+\mm bágan:n:bête
+\mm sògo:n:viande
+\mm lá:pp:à
+\mm ntùmu:n:ver
+\mm nin:mrph:DIM
+\mm
+\ps n
+\gf trichinose
+\gvf trichinose
+\dt 02/May/2019
 
 \lx bàgantan
 \mm bàga:n:poison
@@ -3239,9 +3253,13 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \lx bálan
 \ps n
 \gf empêchement
+\ms 1
 \gvf empêchement
 \gvf accrochage
-\dt 25/Jun/2013
+\ms 2
+\usf sport
+\gvf haies
+\dt 02/May/2019
 
 \lx bálanin
 \mm bála:n:xylophone
@@ -3549,7 +3567,7 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \lx bálima
 \va bálema
 \va bádenma
-\mm bá.den:n:frère/soeur.utérin(e)
+\mm báden:n:frère.utérin
 \mmm bá:n:mère
 \mmm dén:n:enfant
 \mm ma:mrph:COM
@@ -3564,7 +3582,7 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \ms 2
 \gvf frère
 \smf (personne que l'on considère comme un frère ...)
-\dt 01/Mar/2019
+\dt 02/May/2019
 
 \lx bálimakɛ
 \mm bálima:n:frère
@@ -4302,7 +4320,8 @@ Fleurs spectaculaires)
 \sd (euph.)
 \sy kɔ́fɛtaa
 \sy ɲàmanataa
-\dt 01/Mar/2019
+\sy ɲɛ́gɛnnataa
+\dt 02/May/2019
 
 \lx bánakɔtaasɔrɔbaliya
 \mm bána.kɔ.taa:n:excrément.humain
@@ -6234,16 +6253,16 @@ furoncles, inf. urinaires)
 
 \lx bàsulu
 \mm bà:n:chèvre
-\mm sùlu:n:poulailler/bergerie
-\va bà.suli
+\mm sùlu:n:poulailler
+\va bàsuli
 \mm bà:n:chèvre
-\mm sùli:n:poulailler/bergerie
+\mm sùli:n:poulailler
 \ve (k)
 \ps n
 \gf case.pour.les.chèvres
 \gvf case pour les chèvres
 \sy bàbon
-\dt 16/Aug/2006
+\dt 02/May/2019
 
 \lx bàtaki
 \bw ar: kataba = écrire
@@ -7260,19 +7279,19 @@ rhume, toux)
 \mm bɛ́n:n:oncle.maternel
 \mm nin:mrph:DIM
 \ps n
-\gf neveu/nièce
+\gf neveu.ou.nièce
 \gvf neveu
 \gvf nièce
 \smf (enfant de la soeur)
-\dt 01/Mar/2019
+\dt 02/May/2019
 
 \lx bɛ́ɛnninkɛ
-\mm bɛ́ɛn.nin:n:neveu/nièce
+\mm bɛ́ɛnnin:n:neveu
 \mmm bɛ́ɛn:n:oncle.maternel
 \mmm nin:mrph:DIM
 \mm kɛ:adj:mâle
-\va bɛ́n.nin.kɛ
-\mm bɛ́n.nin:n:neveu/nièce
+\va bɛ́nninkɛ
+\mm bɛ́nnin:n:neveu
 \mmm bɛ́n:n:oncle.maternel
 \mmm nin:mrph:DIM
 \mm kɛ:adj:mâle
@@ -7281,10 +7300,10 @@ rhume, toux)
 \gvf neveu
 \smf (fils d'une soeur)
 \rem f
-\dt 01/Mar/2019
+\dt 02/May/2019
 
 \lx bɛ́ɛnninmuso
-\mm bɛ́ɛn.nin:n:neveu/nièce
+\mm bɛ́ɛnnin:n:neveu
 \mmm bɛ́ɛn:n:oncle.maternel
 \mmm nin:mrph:DIM
 \mm mùso:adj:femme
@@ -7292,7 +7311,7 @@ rhume, toux)
 \gf nièce
 \gvf nièce
 \gvf fille d'une soeur
-\dt 01/Mar/2019
+\dt 02/May/2019
 
 \lx bɛ̀ɛrɛbɛɛrɛ
 \va bèrebere
@@ -20884,15 +20903,15 @@ Burkina Faso, sa langue)
 
 \lx dáfuruku
 \mm dá:n:bouche
-\mm fúruku:n:bon/mauvais.côté
-\va dá.furugu
+\mm fúruku:n:bon.ou.mauvais.côté
+\va dáfurugu
 \mm dá:n:bouche
-\mm fúrugu:n:bon/mauvais.côté
+\mm fúrugu:n:bon.ou.mauvais.côté
 \ps n
 \gf joue
 \gvf joue
 \gvf abajoue
-\dt 26/Sep/2006
+\dt 02/May/2019
 
 \lx dáfyɛ
 \mm dá:n:bouche
@@ -21071,13 +21090,11 @@ Burkina Faso, sa langue)
 \ps n
 \gf plante.Annona.senegalensis
 \gvf plante Annona senegalensis
-\gf arbuste ---> 2 / 3 m
-\gvf arbuste ---> 2 / 3 m
+\smf (arbuste de 2 à 3 m, fruit comestible,orange à maturité, 'pomme cannelle' sauvage)
 \sd anno
-\smf (fruit comestible,orange à maturité, 'pomme cannelle' sauvage)
 \sy dùgumadagannin
 \sy màndesunsun
-\dt 19/Aug/2006
+\dt 02/May/2019
 
 \lx dágaran
 \mm dá:n:bouche
@@ -24905,7 +24922,9 @@ génitales ...)
 \smf (d'une narration, d'une rédaction ...)
 \xv dàntigɛli kɔ́nɔ, í bɛ́na kó mín lákali, í b'ó péreperelatigɛ
 \xf dans une introduction, tu précises ce que tu vas raconter ... (kb 2/06 p.8)
-\dt 09/Mar/2019
+\ms 3
+\gvf éditorial
+\dt 02/May/2019
 
 \lx dàntɔ
 \mm dàn:n:limite
@@ -29045,6 +29064,17 @@ chefs religieux et représentants de l'administration
 \gvf retraite
 \rem l 89
 \dt 11/Nov/2007
+
+\lx dògoyɔrɔlakaba
+\mm dògoyɔrɔ:n:parties.génitales 
+\mmm dògo:v:cacher
+\mmm yɔ́rɔ:n:lieu
+\mm lá:pp:à
+\mm kàba:n:teigne
+\ps n
+\gf herpès.génital
+\gvf herpès génital
+\dt 02/May/2019
 
 \lx dògoyɔrɔlakuru
 \mm dògo:v:cacher
@@ -38166,13 +38196,16 @@ bien (dicton)
 \mm kɛ́:v:faire
 \ps v
 \vl vt
+\gf "choser"
 \ms 1
-\gf travailler.qqn/qqch
-\gvf travailler qqn/qqch
+\gvf "choser"
 \ms 2
+\gvf travailler qqn ou qqch
+\gvf envoûter
+\ms 3
 \gvf trafiquer
-\smf ('choser' expression vague)
-\dt 28/Mar/2017
+\smf ('choser', une expression vague)
+\dt 02/May/2019
 
 \lx fɛ́nkɛbali
 \mm fɛ́n:n:chose
@@ -43425,12 +43458,12 @@ forestières, fruit : long follicule de 50 cm)
 \lx fùra
 \ve (f)
 \ps n
-\gf grande.fête.des.excisées/circoncis
-\gvf grande fête des excisées/circoncis
+\gf grande.fête.des.circoncis
+\gvf grande fête des excisées ou des circoncis
 \smf (au Bɛlɛdugu)
 \xv fùra sì ( cì )
-\xf faire cette fête
-\dt 16/Aug/2006
+\xf faire la fête des circoncis ou excisées
+\dt 02/May/2019
 
 \lx fúra
 \ps n
@@ -43876,10 +43909,10 @@ forestières, fruit : long follicule de 50 cm)
 
 \lx fùrasi
 \ps n
-\gf grande.fête.des.excisées/circoncis
-\gvf grande fête des excisées/circoncis
+\gf grande.fête.des.circoncis
+\gvf grande fête des excisées ou circoncis
 \smf (au Bɛlɛdugu)
-\dt 26/Sep/2006
+\dt 02/May/2019
 
 \lx fúrasyɔri
 \mm fúra:n:feuille
@@ -44120,32 +44153,31 @@ forestières, fruit : long follicule de 50 cm)
 
 \lx fùrufuru
 \ps v
-\vl vi
-\ms 1
 \gf déborder.par.ébullition
+\ms 1
+\vl vi
 \gvf déborder par ébullition
 \ms 2
+\vl vi
 \gvf pétiller en fermentant
-\dt 16/Aug/2006
+\ms 3.1
+\vl vi
+\gvf se couvrir des pustules
+\ms 3.2
+\vl vt
+\gvf provoquer des pustules
+\xv fàrigan yé  né mìnɛ  fɔ́ kà ń dáwolo fùrufuru
+\xf j'ai eu un bouton de fièvre aux lèvres
+\dt 02/May/2019
 
 \lx fùrufuru
-\va fòroforo
 \ps n
 \gf ampoule.de.la.peau
 \gvf ampoule de la peau
 \gvf cloque de la peau
 \gvf phlyctène
 \gvf impétigo
-\dt 07/Mar/2019
-
-\lx fùrufuru
-\ps v
-\vl vt
-\gf provoquer.des.pustules
-\gvf provoquer des pustules
-\xv fàrigan yé  né mìnɛ  fɔ́ kà ń dáwolo fùrufuru
-\xf j'ai eu un bouton de fièvre aux lèvres
-\dt 26/Sep/2006
+\dt 02/May/2019
 
 \lx fúrufuru
 \ps v
@@ -44208,10 +44240,10 @@ forestières, fruit : long follicule de 50 cm)
 \lx fúruku
 \va fúrugu
 \ps n
-\gf bon/mauvais.côté
-\gvf bon/mauvais côté
+\gf bon.ou.mauvais.côté
+\gvf bon ou mauvais côté
 \smf (d'un sac, d'un vêtement, des intestins ...)
-\dt 16/Aug/2006
+\dt 02/May/2019
 
 \lx fùrumɛ
 \ve (bk)
@@ -53474,12 +53506,13 @@ calebasses)
 \mm jèni:v:brûler
 \mm yɔ́rɔ:n:lieu
 \ps n
-\gf place.de.cuite
-\gvf place de cuite
+\gf plaque.de.cuisson
+\gvf plaque de cuisson
 \smf (là où on cuit ou grille)
+\gvf lieu où on brûle qqch
 \xv k'í jèniyɔrɔ fìn
 \xe bien remplir son rôle, tenir sa place, s'acquitter de sa tâche
-\dt 01/Jun/2017
+\dt 02/May/2019
 
 \lx jɛ̀
 \ps v
@@ -56301,6 +56334,18 @@ et insecticides)
 \gf anémie
 \gvf anémie
 \dt 21/Mar/2019
+
+\lx jòlidɛsɛtumu
+\mm jòlidɛsɛ:n:anémie
+\mmm jòli:n:sang
+\mmm dɛ́sɛ:n:manque
+\mm tùmu:n:ver
+\ps n
+\gf schistosome
+\gvf schistosome
+\gvf ankylostome
+\syn kɔ́nɔnantumuɲinma
+\dt 02/May/2019
 
 \lx jòlidɔgɔyabana
 \mm jòli:n:sang
@@ -61364,10 +61409,37 @@ prolapsus utérin
 \dt 19/Aug/2006
 
 \lx kàmikami
+\va kàminkamin
 \ps v
+\gf trembler
+\ms 1
 \vl vi
-\gf s'énerver
+\gvf trembler
+\ms 2.1
+\vl vi
 \gvf s'énerver
+\ms 2.2
+\vl vt
+\gvf émouvoir
+\gvf affliger
+\ms 3
+\vl vi
+\gvf sangloter
+\ms 4
+\gvf vi
+\gvf cligner
+\gvf clignoter
+\dt 02/May/2019
+
+\lx kàmikami
+\va kàminkamin
+\ps n
+\gf affliction
+\ms 1
+\gvf grande affliction
+\ms 2
+\gvf sanglot
+\dt 02/May/2019
 
 \lx kàmitulu
 \mm kàmi:n:pintade
@@ -72537,6 +72609,16 @@ ou une proposition)
 \sy kɔ́nɔkari
 \dt 26/Sep/2006
 
+\lx kɔ́nɔbolitumu
+\mm kɔ́nɔboli:n:diarrhée
+\mmm kɔ́nɔ:n:ventre
+\mmm bòli:n:course
+\mm tùmu:n:ver
+\ps n
+\gf trichuris
+\gvf trichuris
+\dt 02/May/2019
+
 \lx kɔ́nɔbɔ
 \mm kɔ́nɔ:n:ventre
 \mm bɔ́:n:sortie
@@ -72597,9 +72679,10 @@ ou une proposition)
 \gf colique
 \gvf colique
 \gvf mal de ventre
+\gvf crampes d'estomac
 \ms 2
 \gvf mal d'enfant
-\dt 26/Sep/2006
+\dt 02/May/2019
 
 \lx kɔ́nɔdòn
 \mm kɔ́nɔ:n:ventre
@@ -73843,6 +73926,18 @@ ou une proposition)
 \gvf tranchée
 \sy kɔ́nɔtigɛ
 \dt 15/Apr/2019
+
+\lx kɔ́nɔnugutigɛtumu
+\mm kɔ́nɔnugutigɛ:n:crampe.d'estomac
+\mmm kɔ́nɔnugu:n:intestin
+\mmmm kɔ́nɔ:n:ventre
+\mmmm nùgu:n:intestin
+\mmm tìgɛ:v:couper
+\mm tùmu:n:ver
+\ps n
+\gf strongyloïdes
+\gvf strongyloïdes
+\dt 02/May/2019
 
 \lx kɔ̀nɔɲama
 \mm kɔ̀nɔ:n:oiseau
@@ -93468,6 +93563,17 @@ des engagements
 \gvf minuit
 \dt 18/Apr/2014
 
+\lx mìnandajinɔ
+\mm mìnan:n:guib.harnaché
+\mm dáji:n:salive
+\mmm dá:n:bouche
+\mmm jí:n:eau
+\mm nɔ̀:n:trace
+\ps n
+\gf psoriasis
+\gvf psoriasis
+\dt 02/May/2019
+
 \lx mìnanjan
 \mm mìnan:n:guib.harnaché
 \mm jàn:adj:long
@@ -106024,13 +106130,18 @@ craie ...)
 \dt 19/Aug/2006
 
 \lx nsànfala
-\va nsánfɛlɛ
+\va nsànfɛlɛ
+\va zànfala
+\va gànfɛlɛ
+\va nkànfɛlɛ
 \va nsànfalanfalan
 \ps n
 \gf maladie.cutanée
 \gvf maladie cutanée
-\smf (maladie de peau 'pytiriasis versicolor')
-\dt 16/Aug/2006
+\gvf pytiriasis versicolor
+\smf (taches squameuses disséminées sur la peau)
+\gvf dartre
+\dt 02/May/2019
 
 \lx nsànninkelenkelen
 \mm nsàn:n.prop:NOM.M
@@ -108039,13 +108150,14 @@ craie ...)
 \dt 15/Mar/2017
 
 \lx ntùmu
+\va tùmu
 \ps n
 \gf ver
 \gvf ver
 \gvf chenille
 \xv ní  sìlantumu má jìgin, myɛ̀tɔ nà yɛ̀lɛn
 \xf (prov)si la chenille du karité ne descend pas, le gourmand va monter
-\dt 26/Sep/2006
+\dt 02/May/2019
 
 \lx ntùmukala
 \mm ntùmu:n:ver
@@ -111031,6 +111143,15 @@ banane, etc.)
 \gvf géométrie
 \smf (néologisme de Mamadu Dukure)
 \dt 05/Apr/2016
+
+\lx ɲɛ́gɛnnataa
+\mm ɲɛ́gɛn:n:douchière
+\mm na:pp:à
+\mm táa:v:aller
+\ps n
+\gf excrément.humain
+\gvf excrément humain
+\dt 02/May/2019
 
 \lx ɲɛ́go
 \mm ɲɛ́:n:oeil
@@ -126695,21 +126816,21 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \mm sí:n:poil
 \mm ma:mrph:COM
 \ps adj
-\gf poilu/plumeux
+\gf poilu
 \gvf poilu
 \gvf plumeux
-\dt 11/Apr/2019
+\dt 02/May/2019
 
 \lx símafɛn
-\mm síma:adj:poilu/plumeux
+\mm síma:adj:poilu
 \mmm sí:n:poil
 \mmm ma:mrph:COM
 \mm fɛ́n:n:chose
 \ps n
-\gf plumeux/poilu
+\gf poilu
 \gvf plumeux
 \gvf poilu
-\dt 11/Apr/2019
+\dt 02/May/2019
 
 \lx siman
 \va simɔn
@@ -128156,7 +128277,7 @@ donne d'excellentes fibres)
 \mm lá:pp:à
 \mm sɛ́gɛ:n:épervier
 \ps n
-\gf busard/faucon
+\gf busard
 \ms 1
 \gvf busard des sauterelles
 \lat Butastur rufipennis
@@ -128165,7 +128286,7 @@ donne d'excellentes fibres)
 \lat Falco alopex
 \sy sɛ́gɛbilen
 \sy tásisirɔsɛgɛ
-\dt 11/Apr/2019
+\dt 02/May/2019
 
 \lx sìso
 \mm sì:v:passer.la.nuit
@@ -131551,10 +131672,11 @@ s'amène ...)
 \va sùli
 \ve (f)
 \ps n
-\gf poulailler/bergerie
-\gvf poulailler/bergerie
-\smf (abri pour le petit bétail (chèvres, poules ...))
-\dt 26/Sep/2006
+\gf poulailler
+\gvf poulailler
+\gvf bergerie
+\smf (abri pour le petit bétail ou volaille)
+\dt 02/May/2019
 
 \lx súma
 \bw ar: ̀amm = id.
@@ -133656,16 +133778,16 @@ fiançailles
 
 \lx syɛ̀sulu
 \mm syɛ̀:n:poule
-\mm sùlu:n:poulailler/bergerie
+\mm sùlu:n:poulailler
 \va shyɛ̀sulu
 \mm shyɛ̀:n:poule
-\mm sùlu:n:poulailler/bergerie
+\mm sùlu:n:poulailler
 \ph [shyɛsulu]
 \ps n
 \gf poulailler
 \gvf poulailler
 \sy syɛ̀kulukulu
-\dt 11/Apr/2019
+\dt 02/May/2019
 
 \lx syɛ̀tɛ̀nɛ
 \mm syɛ̀:n:poule
@@ -137456,13 +137578,13 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm li:mrph:NMLZ
 \mm bàna:n:maladie
 \ps n
-\gf lèpre/gangrène
+\gf lèpre
 \gvf lèpre
 \gvf gangrène
 \smf (maladie qui aboutit à l'amputation d'un membre)
 \xv màa bɛ́ síran tìgɛlibana ɲɛ́
 \xf les gens ont peur de la lèpre
-\dt 11/Apr/2019
+\dt 02/May/2019
 
 \lx tìgɛlima
 \ve (f)
@@ -138825,6 +138947,15 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf en couches
 \smf (qui est dans les douleurs de l'enfantement)
 \dt 16/Aug/2006
+
+\lx tìntɔ
+\mm tìn:n:douleurs.d'accouchement
+\mm tɔ:mrph:ST
+\ps n
+\gf parturiente
+\gvf parturiente
+\smf (qui est dans les douleurs de l'enfantement)
+\dt 02/May/2019
 
 \lx tìntɔn
 \va tìnton
