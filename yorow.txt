@@ -1537,6 +1537,13 @@ Kirina, lieu de bataille entre Soundiata et Soumangourou)
 \cm (в Мали, центр внутренний дельты Нигера)
 \dt 23/May/2010
 
+\lx Degɛnbere
+\ps n.prop
+\gf TOP
+\gvf Deguembéré
+\smf (zone montagneuse à 19 km de Bandiagara, le dernier refuge d'El Hadj Oumar Tal)
+\dt 03/May/2019
+
 \lx Dɛ́rsàlám
 \ty кв.
 \ps n.prop
@@ -4918,6 +4925,13 @@ Ségou)
 \smf (nom de lieu)
 \dt 23/Feb/2014
 
+\lx Nabilabugu
+\ps n.prop
+\gf TOP
+\gvf Nabilabougou
+\smf (village, commune de Togou, cercle et région de Ségou, près de Markala)
+\dt 03/May/2019
+
 \lx Nairobi
 \ty г.
 \ps n.prop
@@ -5294,6 +5308,13 @@ Niafunké, région de Tombouctou)
 \gvf Niamakoro
 \smf (un quartier dans la commune 6 de Bamako)
 \dt 04/Jun/2016
+
+\lx Ɲamala
+\ps n.prop
+\gf TOP
+\gvf Gniamala
+\smf (un village)
+\dt 03/May/2019
 
 \lx Ɲámina
 \ps n.prop
@@ -6312,6 +6333,13 @@ Djenné, région de Mopti)
 \smf (village, cercle de Kati, région de Koulikoro)
 \dt 15/Jun/2017
 
+\lx Sokɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Sokoro
+\smf (un village, région de Ségou)
+\dt 03/May/2019
+
 \lx Sokɔrɔji
 \ps n.prop
 \gf TOP
@@ -6410,6 +6438,13 @@ droite du Niger, 23 km à l'ouest de Ségou)
 \gvf l’Union Soviétique
 \ru Cоветский Союз
 \dt 05/Apr/2016
+
+\lx Sɔbugu
+\ps n.prop
+\gf TOP
+\gvf Sobougou
+\smf (un village)
+\dt 03/May/2019
 
 \lx Sɔmɔnɔdugunin
 \ps n.prop
@@ -6639,6 +6674,13 @@ Niger, près de Bourem, 130 km à l'ouest de Gao)
 \smf (village et cercle, région de Kidal)
 \dt 01/Feb/2017
 
+\lx Teserebugu
+\ps n.prop
+\gf TOP
+\gvf Tésserebougou
+\smf (village, commune de Togou, cercle et région de Ségou, près de Markala)
+\dt 03/May/2019
+
 \lx Tesiti
 \ps n.prop
 \gf TOP
@@ -6782,6 +6824,13 @@ frontière malienne)
 \gvf Togo
 \ru Того
 \dt 23/May/2010
+
+\lx Togu
+\ps n.prop
+\gf TOP
+\gvf Togou
+\smf (commune dans le cercle et région de Ségou)
+\dt 03/May/2019
 
 \lx Tokɔrɔba
 \ps n.prop

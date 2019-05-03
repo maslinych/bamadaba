@@ -24539,7 +24539,13 @@ génitales ...)
 \dt 27/Mar/2019
 
 \lx dánnaya
-\mm dá.n.na:n:foi
+\mm dánna:n:foi
+\mmm dá:v:poser
+\mmm ń:pers:1SG
+\mmm ná:pp:à
+\mm ya:mrph:ABSTR
+\va dánaya
+\mm dánna:n:foi
 \mmm dá:v:poser
 \mmm ń:pers:1SG
 \mmm ná:pp:à
@@ -24548,7 +24554,7 @@ génitales ...)
 \gf foi
 \gvf foi
 \gvf confiance
-\dt 09/Mar/2019
+\dt 03/May/2019
 
 \lx dánnayamɔgɔ
 \mm dánnaya:n:foi
@@ -25110,12 +25116,20 @@ génitales ...)
 \bw ar: daraga : degré, grade ?)
 \ps n
 \gf célébrité
+\ms 1
 \gvf célébrité
-\gvf influence
+\gvf bonne renommée
+\gvf bonne réputation
 \sy dáwula
 \xf daraja b'a la
 \xf il est célèbre, il a du charme
-\dt 26/Sep/2006
+\ms 2
+\gvf influence
+\ms 3
+\gvf charme
+\ms 4
+\gvf qualité
+\dt 03/May/2019
 
 \lx dárajama
 \mm dáraja:n:célébrité
@@ -29667,17 +29681,22 @@ chefs religieux et représentants de l'administration
 \dt 26/Sep/2006
 
 \lx dónkunbɛn
-\mm dòn:v:entrer
-\mm kùn:n:tête
-\mm bɛ̀n:v:se.rencontrer
+\mm dón:n:jour
+\mm kùnbɛn:n:rencontre-accueil
+\mmm kùn:n:tête
+\mmm bɛ̀n:n:accord
 \ps n
-\gf octave
-\gvf octave
-\smf (d'un jour donné)
+\gf huitaine
+\ms 1
+\gvf huitaine
+\gvf jour en huit
 \sy kùnɲɔgɔn
 \xv kó dɔ́ kɛ́ra, à dónkunbɛn yé  bì yé
 \xf qqch s'est passé, il y a huit jours
-\dt 03/Apr/2016
+\ms 2
+\gvf jour anniversaire
+\gvf anniversaire
+\dt 03/May/2019
 
 \lx dónmafila
 \mm dón:n:jour
@@ -46823,6 +46842,9 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \lx gèseda
 \mm gèse:n:fil
 \mm dá:v:créer
+\va gèeseda
+\mm gèese:n:fil
+\mm dá:v:créer
 \va gwèse.da
 \mm gwèse:n:fil
 \mm dá:v:créer
@@ -46830,10 +46852,14 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \ps n
 \gf tissage
 \gvf tissage
-\dt 12/Jun/2016
+\dt 03/May/2019
 
 \lx gèsedala
 \mm gèse:n:fil
+\mm dá:v:créer
+\mm la:mrph:AG.PRM
+\va gèesedala
+\mm gèese:n:fil
 \mm dá:v:créer
 \mm la:mrph:AG.PRM
 \va gwèse.da.la
@@ -46844,7 +46870,7 @@ ne fera pas d'autre bruit que celui d'un bout de métal (prov)
 \ps n
 \gf tisserand
 \gvf tisserand
-\dt 12/Jun/2016
+\dt 03/May/2019
 
 \lx gèsekolo
 \mm gèse:n:fil
@@ -51707,6 +51733,15 @@ calebasses)
 \ps n
 \gf hypocrite
 \gvf hypocrite
+
+\lx jàkumaɲama
+\mm jàkuma:n:chat
+\mm ɲàma:n:force.occulte
+\ps n
+\gf coqueluche
+\usf rare
+\gvf coqueluche
+\dt 03/May/2019
 
 \lx jàkumawara
 \mm jàkuma:n:chat
@@ -71906,6 +71941,12 @@ harpon)
 \xf branler la tête
 \dt 25/Nov/2017
 
+\lx kɔ́mi
+\ps n
+\gf seconde
+\gvf seconde
+\dt 03/May/2019
+
 \lx kɔ̀mɔ
 \va kɔ̀ma
 \ps n
@@ -78413,8 +78454,8 @@ l'intérieur une ou deux graines)
 \ps n
 \gf événement
 \gvf événement
-\gvf affaire intéressant
-\dt 26/Sep/2006
+\gvf affaire intéressante
+\dt 03/May/2019
 
 \lx kùnkanna
 \mm kùn:n:tête
@@ -81510,6 +81551,17 @@ kúrunninle
 \gvf règles
 \dt 17/May/2017
 
+\lx làadalalajɛ
+\mm làada:n:coutume
+\mm lá:pp:à
+\mm lájɛ:n:réunion
+\mmm lá:mrph:CAUS
+\mmm jɛ̀:v:assembler
+\ps n
+\gf réunion.ordinaire
+\gvf réunion ordinaire
+\dt 03/May/2019
+
 \lx làadalatɔnsigi
 \mm làada:n:coutume
 \mm lá:pp:à
@@ -81519,8 +81571,8 @@ kúrunninle
 \ps n
 \gf réunion.ordinaire
 \gvf réunion ordinaire
-\smf ( conseil des ministres ordinaire ...)
-\dt 31/Mar/2019
+\smf (conseil des ministres, etc.)
+\dt 03/May/2019
 
 \lx làadama
 \mm làada:n:coutume
@@ -86366,6 +86418,15 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \ms 2
 \gvf achever
 \dt 02/Apr/2019
+
+\lx láse
+\mm lá:mrph:CAUS
+\mm sé:v:arriver
+\ps n
+\gf émission
+\gvf émission
+\gvf transmission
+\dt 03/May/2019
 
 \lx lásègin
 \mm lá:mrph:CAUS
@@ -136362,15 +136423,29 @@ flaques d'eau)
 \dt 26/Sep/2006
 
 \lx térun
+\va tóri
 \va télun
 \ve (f)
 \ps v
-\vl vt
 \gf déplacer
+\ms 1
+\vl vt
 \gvf déplacer
-\gvf bouger
-\smf (devant, derrière, sur le côté ...)
-\dt 26/Sep/2006
+\smf (légèrement)
+\gvf pousser
+\gvf approcher
+\ms 2
+\vl vi
+\gvf s'approcher
+\smf (un objet inanimé)
+\gvf reculer
+\ms 3
+\vl vr
+\gvf avancer
+\gvf s'approcher
+\smf (un être animé)
+\gvf s'écarter
+\dt 03/May/2019
 
 \lx tétewu
 \ps adv
@@ -138836,8 +138911,11 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mm mìnɛ:v:attraper
 \ps n
 \gf aide.à.l'accouchement
+\ms 1
 \gvf aide à l'accouchement
-\dt 16/Aug/2006
+\ms 2
+\gvf
+\dt 03/May/2019
 
 \lx tìnminɛmuso
 \mm tìnminɛ:n:aide.à.l'accouchement
@@ -142922,49 +143000,6 @@ bruyants, près du sol, dans les fourrés)
 \sd gram
 \dt 11/Apr/2019
 
-\lx wáajibi
-\va wájibi
-\bw ar. wagib =  contraindre
-\ps n
-\gf obligation
-\gvf obligation
-\xv wáajbi lá
-\xf de force
-\xv wáajibi !
-\xf c'est obligatoire, de gré ou de force
-\dt 16/Aug/2006
-
-\lx wáajibi
-\va wájibi
-\bw ar
-\ps v
-\vl vt
-\gf contraindre
-\gvf contraindre
-\dt 06/Feb/2013
-
-\lx wáajibi
-\va wájibi
-\ps adv
-\gf obligatoirement
-\gvf obligatoirement
-\dt 28/Sep/2013
-
-\lx wáajibiya
-\mm wáajibi:v:contraindre
-\mm ya:mrph:ABSTR
-\va wájibiya
-\mm wáajibi:v:contraindre
-\mm ya:mrph:ABSTR
-\bw ar
-\ps v
-\vl vt
-\gf contraindre
-\gvf contraindre
-\xv cí bɛ́  né kàn k'à fɔ́, cí tɛ́  né kàn  kà mɔ̀gɔ wáajibiya k'à kɛ́
-\xf c'est mon devoir de le dire, non de forcer les gens à le faire.
-\dt 11/Apr/2019
-
 \lx wàaju
 \mm wàa:n:brousse
 \mm jù:n:derrière
@@ -143279,6 +143314,57 @@ bruyants, près du sol, dans les fourrés)
 \smf (un terme péjoratif, impliquant le djihadisme, par rapport aux
 termes plus neutres bólominɛ et súnamɔgɔ)
 \dt 06/Mar/2017
+
+\lx wájibi
+\va wáajibi
+\bw Ar. wa:jib
+\ps adv
+\gf obligatoirement
+\gvf obligatoirement
+\dt 03/May/2019
+
+\lx wájibi
+\va wáajibi
+\bw ar
+\ps v
+\vl vt
+\gf contraindre
+\gvf contraindre
+\dt 03/May/2019
+
+\lx wájibi
+\va wáajibi
+\bw Ar. wajaba 'être obligatoire'
+\ps n
+\gf obligation
+\gvf obligation
+\xv wáajbi lá
+\xf de force
+\xv wáajibi !
+\xf c'est obligatoire, de gré ou de force
+\dt 03/May/2019
+
+\lx wájibiya
+\mm wáajibi:v:contraindre
+\mm ya:mrph:ABSTR
+\va wáajibiya
+\mm wáajibi:v:contraindre
+\mm ya:mrph:ABSTR
+\ps v
+\vl vt
+\gf contraindre
+\gvf contraindre
+\xv cí bɛ́  né kàn k'à fɔ́, cí tɛ́  né kàn  kà mɔ̀gɔ wáajibiya k'à kɛ́
+\xf c'est mon devoir de le dire, non de forcer les gens à le faire.
+\dt 03/May/2019
+
+\lx wájibiya
+\mm wájibi:n:obligation
+\mm ya:mrph:ABSTR
+\ps n
+\gf obligation
+\gvf obligation
+\dt 03/May/2019
 
 \lx wàkali
 \bw ar: wakala = confier à
