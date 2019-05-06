@@ -2312,11 +2312,10 @@ pour les jardins; toxique.)
 \mm lá:pp:à
 \mm ntùmu:n:ver
 \mm nin:mrph:DIM
-\mm
 \ps n
 \gf trichinose
 \gvf trichinose
-\dt 02/May/2019
+\dt 06/May/2019
 
 \lx bàgantan
 \mm bàga:n:poison
@@ -4578,7 +4577,7 @@ Fleurs spectaculaires)
 
 \lx báncinin
 \mm bá:n:mère
-\mm ncínin:vq/adj:petit
+\mm ncínin:adj:petit
 \ps n
 \ms 1
 \gf tante.cadette
@@ -4590,7 +4589,7 @@ Fleurs spectaculaires)
 \ms 3
 \gvf tante cadette
 \smf (soeur cadette de la mère (la benjamine))
-\dt 16/Aug/2006
+\dt 06/May/2019
 
 \lx bànda
 \ve (Kita)
@@ -4889,7 +4888,7 @@ Fleurs spectaculaires)
 \lx báninncinin
 \mm bá:n:mère
 \mm nin:mrph:DIM
-\mm ncínin:vq/adj:petit
+\mm ncínin:adj:petit
 \ps n
 \ms 1
 \gf tante.cadette
@@ -4901,6 +4900,7 @@ Fleurs spectaculaires)
 \ms 3
 \gvf tante cadette
 \smf (soeur cadette de la mère (la benjamine))
+\dt 06/May/2019
 
 \lx bànjaraki
 \ps n
@@ -5245,7 +5245,7 @@ Fleurs spectaculaires)
 \dt 12/Apr/2019
 
 \lx bàrajintanya
-\mm bàraji.ntan:adj/n:ingrat
+\mm bàrajintan:adj:ingrat
 \mmm bàraji:n:récompense.divine
 \mmm ntan:mrph:PRIV
 \mm ya:mrph:ABSTR
@@ -5257,7 +5257,7 @@ Fleurs spectaculaires)
 \ms 2
 \gvf absence de récompense
 \smf (fait de ne pas être récompensé)
-\dt 01/Mar/2019
+\dt 06/May/2019
 
 \lx bàrajuru
 \mm bàra:n:calebasse
@@ -12350,13 +12350,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 12/Apr/2019
 
 \lx bólomanjuguya
-\mm bólo.man.jugu:adj:mauvais.travailleur
+\mm bólomanjugu:adj:mauvais.travailleur
 \mmm bólo:n:bras
 \mmm màn:mrph:SUPER
 \mmm júgu:vq:mauvais
 \mm ya:mrph:ABSTR
-\va bólo.ma.jugu.ya
-\mm bólo.ma.jugu:adj/n:mauvais.travailleur
+\va bólomajuguya
+\mm bólomajugu:n:mauvais.travailleur
 \mmm bólo:n:bras
 \mmm mà:mrph:SUPER
 \mmm júgu:vq:mauvais
@@ -12364,7 +12364,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps n
 \gf travail.sans.soin
 \gvf travail sans soin
-\dt 01/Mar/2019
+\dt 06/May/2019
 
 \lx bólomasigi
 \mm bólo:n:bras
@@ -68666,7 +68666,7 @@ probablement de chaux vive)
 \lx kólokojugu
 \mm kólo:v:éduquer
 \mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \va kólonkojugu:n:mal.éduqué
 \mm kólon:v:éduquer
 \mm kójugu:adv:trop
@@ -68676,12 +68676,12 @@ probablement de chaux vive)
 \ps adj
 \gf mal.éduqué
 \gvf mal éduqué
-\dt 17/Apr/2019
+\dt 06/May/2019
 
 \lx kólokojugu
 \mm kólo:v:éduquer
 \mm kó:n:affaire
-\mm júgu:vq/adj:mauvais
+\mm júgu:adj:mauvais
 \va kólonkojugu:n:mal.éduqué
 \mm kólon:v:éduquer
 \mm kójugu:adv:trop
@@ -68691,7 +68691,7 @@ probablement de chaux vive)
 \ps n
 \gf mal.éduqué
 \gvf mal éduqué
-\dt 17/Apr/2019
+\dt 06/May/2019
 
 \lx kólokojuguya
 \mm kólokojugu:n:mal.éduqué
@@ -100229,13 +100229,13 @@ petits enfants)
 
 \lx nɛ̀gɛfin
 \mm nɛ̀gɛ:n:fer
-\mm fìn:vq/adj:noir
+\mm fìn:adj:noir
 \ps n
 \gf fer
 \gvf fer
 \smf (opposé aux autres métaux : zinc, alu, or ...)
 \rem l 89 + gn
-\dt 11/Nov/2007
+\dt 06/May/2019
 
 \lx nɛ̀gɛgirintala
 \mm nɛ̀gɛ:n:fer
@@ -108640,28 +108640,28 @@ banane, etc.)
 \dt 18/Apr/2019
 
 \lx númabolo
-\mm núma:n:gauche
+\mm núma:n:côté.gauche
 \mm bólo:n:bras
 \ps n
 \gf main.gauche
 \gvf main gauche
 \xv kínibolo tɛ́ màga à lá, númabolo kɔ́
 \xf la main droite n'y touche pas, si ce n'est la gauche
-\dt 04/Apr/2019
+\dt 06/May/2019
 
 \lx númafɛla
-\mm núma:n:gauche
+\mm núma:n:côté.gauche
 \mm fɛ̀:pp:par
 \mm la:mrph:LOC
 \ps n
 \gf la.gauche
 \gvf la gauche
 \sy númayanfan
-\dt 04/Apr/2019
+\dt 06/May/2019
 
 \lx númafɛlaka
 \mm númafɛla:n:la.gauche
-\mmm núma:n:gauche
+\mmm núma:n:côté.gauche
 \mmm fɛ̀:pp:par
 \mmm la:mrph:LOC
 \mm ka:mrph:GENT
@@ -108669,10 +108669,10 @@ banane, etc.)
 \gf femme
 \gvf femme
 \smf (mot qui désigne les femmes, à la traditionnelle, elles sont enterrées sur le coude gauche !)
-\dt 04/Apr/2019
+\dt 06/May/2019
 
 \lx númakuru
-\mm núma:n:gauche
+\mm núma:n:côté.gauche
 \mm kùru:n:boule
 \ps n
 \ms 1
@@ -108687,11 +108687,11 @@ banane, etc.)
 \xv kàrisa yé  númakuru yé
 \xf un tel est gaucher
 \sy númama
-\dt 04/Apr/2019
+\dt 06/May/2019
 
 \lx númakuruma
 \mm númakuru:n:main.gauche
-\mmm núma:n:gauche
+\mmm núma:n:côté.gauche
 \mmm kùru:n:boule
 \mm ma:mrph:COM
 \ps adj
@@ -108699,11 +108699,11 @@ banane, etc.)
 \gvf gaucher
 \sy númama
 \sy númakuru
-\dt 18/Apr/2019
+\dt 06/May/2019
 
 \lx númakuruma
 \mm númakuru:n:main.gauche
-\mmm núma:n:gauche
+\mmm núma:n:côté.gauche
 \mmm kùru:n:boule
 \mm ma:mrph:COM
 \ps n
@@ -108711,7 +108711,7 @@ banane, etc.)
 \gvf gaucher
 \sy númama
 \sy númakuru
-\dt 18/Apr/2019
+\dt 06/May/2019
 
 \lx nùmu
 \va nùmun
@@ -124457,7 +124457,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf sincère
 \xv nìn yé màa sɛ́bɛ yé
 \xf c'est un brave homme, une personne honnête, serviable
-\dt 19/Apr/2019
+\dt 06/May/2019
 
 \lx sɛ̀bɛ
 \va sɔ̀bɛ
@@ -141721,7 +141721,7 @@ est due aux paysans (kib 3/05 p.9)
 \mmm géren:adj:bouché
 \mm ya:mrph:ABSTR
 \va tlógwerenya
-\mm tlógweren:adj/n:sourd
+\mm tlógweren:adj:sourd
 \mmm tló:n:oreille
 \mmm gwéren:adj:bouché
 \mm ya:mrph:ABSTR
@@ -141729,7 +141729,7 @@ est due aux paysans (kib 3/05 p.9)
 \ps n
 \gf surdité
 \gvf surdité
-\dt 11/Apr/2019
+\dt 06/May/2019
 
 \lx túlojalandimi
 \mm túlo:n:oreille
