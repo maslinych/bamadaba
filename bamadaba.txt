@@ -2125,7 +2125,7 @@ mauvais
 \nt trouver une meilleure traduction (Kb 6/05 p.1)
 \dt 08/Feb/2018
 
-\lx bàgalakarilan:n:antitoxine
+\lx bàgalakarilan
 \mm bàga:n:poison
 \mm lákari:v:rendre.inefficace 
 \mmm lá:mrph:CAUS
@@ -2134,7 +2134,7 @@ mauvais
 \ps n
 \gf antitoxine
 \gvf antitoxine
-\dt 27/Mar/2019
+\dt 07/May/2019
 
 \lx bàgama
 \mm bàga:n:poison
@@ -17760,28 +17760,28 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cɛ̀ɲa
 \mm cɛ̀:n:aspect
-\mm ɲà:n:réussite
-\va cɛ̀.ɲɛ
+\mm ya:mrph:ABSTR
+\va cɛ̀ɲɛ
 \mm cɛ̀:n:aspect
-\mm ɲɛ̀:n:réussite
+\mm ya:mrph:ABSTR
 \ps n
 \gf beauté
 \gvf beauté
-\dt 27/Nov/2014
+\dt 07/May/2019
 
 \lx cɛ̀ɲa
 \mm cɛ̀:n:aspect
-\mm ɲà:n:réussite
+\mm ya:mrph:ABSTR
 \va cɛ̀.ɲɛ
 \mm cɛ̀:n:aspect
-\mm ɲɛ̀:n:réussite
+\mm ya:mrph:ABSTR
 \ps v
 \vl vi
 \gf être.beau
 \gvf être beau
 \vl vt
 \gvf rendre beau
-\dt 27/Nov/2014
+\dt 07/May/2019
 
 \lx cɛ̀ɲi
 \mm cɛ̀:n:aspect
@@ -68667,31 +68667,29 @@ probablement de chaux vive)
 \mm kólo:v:éduquer
 \mm kó:n:affaire
 \mm júgu:adj:mauvais
-\va kólonkojugu:n:mal.éduqué
+\va kólonkojugu
 \mm kólon:v:éduquer
-\mm kójugu:adv:trop
-\mmm kó:n:affaire
-\mmm júgu:adj:mauvais
+\mm kó:n:affaire
+\mm júgu:adj:mauvais
 \ve (bn,bk)
 \ps adj
 \gf mal.éduqué
 \gvf mal éduqué
-\dt 06/May/2019
+\dt 07/May/2019
 
 \lx kólokojugu
 \mm kólo:v:éduquer
 \mm kó:n:affaire
 \mm júgu:adj:mauvais
-\va kólonkojugu:n:mal.éduqué
+\va kólonkojugu
 \mm kólon:v:éduquer
-\mm kójugu:adv:trop
-\mmm kó:n:affaire
-\mmm júgu:adj:mauvais
+\mm kó:n:affaire
+\mm júgu:adj:mauvais
 \ve (bn,bk)
 \ps n
 \gf mal.éduqué
 \gvf mal éduqué
-\dt 06/May/2019
+\dt 07/May/2019
 
 \lx kólokojuguya
 \mm kólokojugu:n:mal.éduqué
@@ -82319,22 +82317,22 @@ catastrophe)
 
 \lx lácɛ̀ɲa
 \mm lá:mrph:CAUS
-\va cɛ̀ɲa:v:être.beau
+\va cɛ̀ɲa
 \mmm cɛ̀:n:aspect
 \mmm ɲà:v:réussir
 \va lácɛ̀ɲɛ
 \mm lá:mrph:CAUS
-\va cɛ̀ɲɛ:v:être.beau
+\va cɛ̀ɲɛ
 \mmm cɛ̀:n:aspect
 \mmm ɲɛ̀:v:réussir
 \va nácɛ̀ɲa
 \mm ná:mrph:CAUS
-\va cɛ̀ɲa:v:être.beau
+\va cɛ̀ɲa
 \mmm cɛ̀:n:aspect
 \mmm ɲà:v:réussir
 \va nácɛ̀ɲɛ
 \mm ná:mrph:CAUS
-\va cɛ̀ɲɛ:v:être.beau
+\va cɛ̀ɲɛ
 \mmm cɛ̀:n:aspect
 \mmm ɲɛ̀:v:réussir
 \ps v
@@ -82344,7 +82342,7 @@ catastrophe)
 \gvf rendre beau
 \xv Sánu mín bɛ́ bɔ̀n bóli kàn kà ù lácɛɲɛ
 \xf l'or dont on les a couverts pour les embellir (lettre de Jér 1, 23)
-\dt 31/Mar/2019
+\dt 07/May/2019
 
 \lx láci
 \mm lá:mrph:CAUS
@@ -102379,26 +102377,26 @@ sur soi, on les connaît
 \dt 04/Apr/2019
 
 \lx nìnnú
-\mm nìn:dtm/prn:DEM
+\mm nìn:dtm:DEM
 \mm nu:mrph:PL2
 \va nùnu
-\mm nìn:dtm/prn:DEM
+\mm nìn:prn:DEM
 \mm nu:mrph:PL2
 \ps dtm
 \gf DEM.PL
 \gvf DEM PL
-\dt 21/Apr/2019
+\dt 07/May/2019
 
 \lx nìnnú
-\mm nìn:dtm/prn:DEM
+\mm nìn:prn:DEM
 \mm nu:mrph:PL2
 \va nùnu
-\mm nìn:dtm/prn:DEM
+\mm nìn:prn:DEM
 \mm nu:mrph:PL2
 \ps prn
 \gf DEM.PL
 \gvf DEM PL
-\dt 21/Apr/2019
+\dt 07/May/2019
 
 \lx níntanfɛn
 \mm ní:n:âme
@@ -135400,7 +135398,7 @@ suivi de ni)
 
 \lx tánnifilafili
 \mm tán:num:dix
-\mm ni:prep/conj:et
+\mm ni:conj:et
 \mm fìla:num:deux
 \mm fìli:v:jeter
 \ps n
@@ -135409,7 +135407,7 @@ suivi de ni)
 \gvf summum
 \xv kàrisa bɛ́ à tánnifilafili lá
 \xf un tel est au meilleur de sa forme
-\dt 26/Sep/2006
+\dt 07/May/2019
 
 \lx tánpɔ
 \ps v
@@ -136747,32 +136745,6 @@ flaques d'eau)
 \mmm lan:mrph:dans
 \mm télin:adj:rapide
 \ps adj
-\gf main.preste
-\gvf main preste
-\smf (au travail, pour manger, pour frapper)
-\dt 19/Apr/2019
-
-\lx tɛ́gɛlateli
-\mm tɛ́gɛla:n:main.active
-\mmm tɛ́gɛ:n:paume
-\mmm la:mrph:dans
-\mm téli:adj:rapide
-\va tɛ́gɛlatelin
-\mm tɛ́gɛla:n:main.active
-\mmm tɛ́gɛ:n:paume
-\mmm la:mrph:dans
-\mm télin:adj:rapide
-\va tɛ́gɛlanteli
-\mm tɛ́gɛlan:n:main.active
-\mmm tɛ́gɛ:n:paume
-\mmm lan:mrph:dans
-\mm téli:adj:rapide
-\va tɛ́gɛlantelin
-\mm tɛ́gɛla:n:main.active
-\mmm tɛ́gɛ:n:paume
-\mmm lan:mrph:dans
-\mm télin:adj:rapide
-\ps n
 \gf main.preste
 \gvf main preste
 \smf (au travail, pour manger, pour frapper)
