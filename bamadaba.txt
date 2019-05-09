@@ -36517,6 +36517,12 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \mmm gwàn:n:fièvre
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:PTCP.PROG
+\va fàrigwanbagatɔ
+\mm fàrigwan:n:fièvre
+\mmm fàri:n:corps
+\mmm gwàn:n:fièvre
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
 \ph [gw]
 \ps adj
 \gf fiévreux
@@ -36541,6 +36547,12 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \mmm gwàn:n:fièvre
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:PTCP.PROG
+\va fàrigwanbagatɔ
+\mm fàrigwan:n:fièvre
+\mmm fàri:n:corps
+\mmm gwàn:n:fièvre
+\mm baga:mrph:AG.OCC
+\mm tɔ:mrph:ST
 \ph [gw]
 \ps n
 \gf fiévreux
@@ -83469,15 +83481,18 @@ catastrophe)
 \lx lágɛ̀rɛntɛ
 \mm lá:mrph:CAUS
 \mm gɛ̀rɛntɛ:v:serrer
+\va lágwɛ̀rɛntɛ
+\mm lá:mrph:CAUS
+\mm gwɛ̀rɛntɛ:v:serrer
 \va nágɛ̀rɛntɛ
 \mm ná:mrph:CAUS
-\mm gɛ̀rɛntɛ:v:serrer
-\va rɔ́.gɛ̀rɛntɛ
-\mm rɔ́:mrph:IN
 \mm gɛ̀rɛntɛ:v:serrer
 \va nágwɛ̀rɛntɛ
 \mm ná:mrph:CAUS
 \mm gwɛ̀rɛntɛ:v:serrer
+\va rɔ́gɛ̀rɛntɛ
+\mm rɔ́:mrph:IN
+\mm gɛ̀rɛntɛ:v:serrer
 \va rɔ́gwɛ̀rɛntɛ
 \mm rɔ́:mrph:IN
 \mm gwɛ̀rɛntɛ:v:serrer
@@ -83486,7 +83501,7 @@ catastrophe)
 \vl vt
 \gf resserrer
 \gvf resserrer
-\dt 31/Mar/2019
+\dt 09/May/2019
 
 \lx lágirin
 \mm lá:mrph:CAUS
@@ -85176,6 +85191,16 @@ catastrophe)
 \mmm lá:mrph:CAUS
 \mmm mɛ́n:v:entendre
 \mm baa:mrph:AG.OCC
+\va lámɛbaa
+\mm lámɛ:v:écouter
+\mmm lá:mrph:CAUS
+\mmm mɛ́:v:entendre
+\mm baga:mrph:AG.OCC
+\va lámɛnbaga
+\mm lámɛ:v:écouter
+\mmm lá:mrph:CAUS
+\mmm mɛ́:v:entendre
+\mm baga:mrph:AG.OCC
 \va lámɛbaga
 \mm lámɛ:v:écouter
 \mmm lá:mrph:CAUS
@@ -85186,7 +85211,7 @@ catastrophe)
 \mmm ná:mrph:CAUS
 \mmm mɛ́n:v:entendre
 \mm baa:mrph:AG.OCC
-\va námɛbaga
+\va námɛnbaga
 \mm námɛ:v:écouter
 \mmm ná:mrph:CAUS
 \mmm mɛ́:v:entendre
@@ -85194,7 +85219,7 @@ catastrophe)
 \ps n
 \gf auditeur
 \gvf auditeur
-\dt 01/Apr/2019
+\dt 09/May/2019
 
 \lx làmin
 \mm lá:mrph:CAUS
@@ -89262,44 +89287,6 @@ jour, c'est une personne dépendante qu'il voit
 \gvf causer de la douleur
 \dt 14/Apr/2018
 
-\lx màdiya
-\mm mà:mrph:SUPER
-\mm díya:v:rendre.agréable
-\mmm dí:vq:agréable
-\mmm ya:mrph:DEQU
-\va màndiya
-\mm màn:mrph:SUPER
-\mm díya:v:rendre.agréable
-\mmm dí:vq:agréable
-\mmm ya:mrph:DEQU
-\va màja
-\mm mà:mrph:SUPER
-\mm já:v:rendre.agréable
-\ph [maja]
-\ps n
-\gf affection
-\gvf affection
-\gvf estime
-\xv à bá ká màdiya b'á kàn
-\xf sa mère l'aime
-\xv à ká mádiya sìgira  à kàn
-\xf elle le prit en affection
-\dt 02/Apr/2019
-
-\lx màdíya
-\mm mà:mrph:SUPER
-\mm díya:v:rendre.agréable
-\mmm dí:vq:agréable
-\mmm ya:mrph:DEQU
-\ps v
-\vl vt
-\gf aimer
-\gvf aimer
-\gvf estimer
-\xv í yɛ̀rɛ màdíya
-\xf chercher à se faire estimer (en faisant du zèle)
-\dt 02/Apr/2019
-
 \lx màdògo
 \mm mà:mrph:SUPER
 \mm dògo:v:cacher
@@ -91083,24 +91070,58 @@ jour, c'est une personne dépendante qu'il voit
 \mmm màn:mrph:SUPER
 \mmm dí:vq:agréable
 \mm ya:mrph:DEQU
+\va màdiya
+\mm mà:mrph:SUPER
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\va màja
+\mm mà:mrph:SUPER
+\mm já:v:rendre.agréable
+\ph [maja]
 \ps n
 \gf affection
+\ms 1
 \gvf affection
 \gvf amour
 \gvf estime
+\xv à bá ká màdiya b'á kàn
+\xf sa mère l'aime
+\xv à ká mádiya sìgira  à kàn
+\xf elle le prit en affection
+\ms 2
 \gvf bonnes grâces
-\dt 03/Apr/2019
+\dt 09/May/2019
 
 \lx màndíya
 \mm màn:mrph:SUPER
 \mm dí:vq:agréable
 \mm ya:mrph:DEQU
+\va màdíya
+\mm mà:mrph:SUPER
+\mm díya:v:rendre.agréable
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
 \ps v
-\gf chérir
-\gvf chérir
-\gvf aimer
+\gf plaire
+\ms 1
+\vl vi
+\gvf plaire
+\gvf être agréable
+\smf (à -- yé)
 \gvf estimer
-\dt 14/Apr/2018
+\ms 2
+\vl vt
+\gvf faire plaire
+\gvf faire aimer
+\smf (par -- yé)
+\ms 3
+\vl vr
+\gvf se faire aimer
+\smf (par -- yé)
+\xv í yɛ̀rɛ màdíya
+\xf chercher à se faire estimer (en faisant du zèle)
+\dt 09/May/2019
 
 \lx mànfan
 \ps n
@@ -147205,7 +147226,7 @@ Mali)
 \dt 11/Nov/2007
 
 \lx yàalayaalafura
-\mm B:mrph:NMLZ2
+\mm /:mrph:NMLZ2
 \mm yáala:n:promenade
 \mm yáala:n:promenade
 \mm fúra:n:feuille
@@ -147213,7 +147234,7 @@ Mali)
 \gf médicaments.de.la.rue
 \gvf médicaments de la rue
 \smf (vendus dans les "pharmacies par terre" ou par des colporteurs)
-\dt 11/Mar/2018
+\dt 09/May/2019
 
 \lx yàara
 \ps v
