@@ -36505,13 +36505,13 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \mmm gàn:n:fièvre
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va fàri.gan.baga.tɔ
+\va fàriganbagatɔ
 \mm fàrigan:n:fièvre
 \mmm fàri:n:corps
 \mmm gàn:n:fièvre
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va fàri.gwan.baa.tɔ
+\va fàrigwanbaatɔ
 \mm fàrigwan:n:fièvre
 \mmm fàri:n:corps
 \mmm gwàn:n:fièvre
@@ -36521,7 +36521,7 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \ps adj
 \gf fiévreux
 \gvf fiévreux
-\dt 15/Apr/2019
+\dt 09/May/2019
 
 \lx fàriganbaatɔ
 \mm fàrigan:n:fièvre
@@ -36529,13 +36529,13 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \mmm gàn:n:fièvre
 \mm baa:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va fàri.gan.baga.tɔ
+\va fàriganbagatɔ
 \mm fàrigan:n:fièvre
 \mmm fàri:n:corps
 \mmm gàn:n:fièvre
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\va fàri.gwan.baa.tɔ
+\va fàrigwanbaatɔ
 \mm fàrigwan:n:fièvre
 \mmm fàri:n:corps
 \mmm gwàn:n:fièvre
@@ -36545,7 +36545,7 @@ pas dans la sauce, elle n'aura pas de goût (prov)
 \ps n
 \gf fiévreux
 \gvf fiévreux
-\dt 15/Apr/2019
+\dt 09/May/2019
 
 \lx fàrikalaya
 \mm fàri:n:corps
@@ -51820,6 +51820,23 @@ calebasses)
 \gvf brave
 \sy jàgɛlɛn
 \dt 01/May/2019
+
+\lx jàlagɛlɛn
+\mm jàla:n:âme
+\mmm jà:n:ombre
+\mmm lá:pp:à
+\mm gɛ̀lɛn:adj:dur
+\va jàlagwɛlɛn
+\mm jàla:n:âme
+\mmm jà:n:ombre
+\mmm lá:pp:à
+\mm gwɛ̀lɛn:adj:dur
+\ph [gw]
+\ps n
+\gf brave
+\gvf brave
+\sy jàgɛlɛn
+\dt 09/May/2019
 
 \lx jálaji
 \mm jála:n:caïlcédrat
@@ -95150,14 +95167,14 @@ des engagements
 \dt 03/Apr/2019
 
 \lx mɔ̀gɔmayɔrɔ
-\mmm mɔ̀gɔ:n:homme
-\mmm ma:mrph:COM
+\mm mɔ̀gɔ:n:homme
+\mm ma:mrph:COM
 \mm yɔ́rɔ:n:lieu
 \ps n
 \gf pays.habité
 \gvf pays habité
 \rem ex 16,, 35
-\dt 03/Apr/2019
+\dt 09/May/2019
 
 \lx mɔ́gɔmɔgɔ
 \ps v
@@ -103325,12 +103342,14 @@ familiaux; viande très prisée, auladiculture)
 \mm nkɛ̀lɛn:n:testicules
 \mm nkɛ̀lɛn:n:testicules
 \va kɛ̀lɛnkɛ̀lɛn
+\mm nkɛ̀lɛn:n:testicules
+\mm nkɛ̀lɛn:n:testicules
 \ps n
 \gf adénopathie
 \gvf adénopathie
 \gvf adénite
 \smf (inflammation des ganglions de l'aine)
-\dt 15/Sep/2018
+\dt 09/May/2019
 
 \lx nkɛ̀lɛnkɛyɛ
 \mm nkɛ̀lɛn:n:testicules
@@ -114340,27 +114359,27 @@ postposition, n'est pas accepté par tous les locuteurs)
 \dt 06/Apr/2019
 
 \lx ɲíntan
-\mm ɲín:n:dent
-\mm ntan:mrph:PRIV
-\va ɲíntan
 \mm ɲí:n:dent
+\mm ntan:mrph:PRIV
+\va ɲínntan
+\mm ɲín:n:dent
 \mm ntan:mrph:PRIV
 \ps adj
 \gf édenté
 \gvf édenté
 \smf (qui n'a pas encore ses dents, ne les a plus ...)
-\dt 06/Apr/2019
+\dt 09/May/2019
 
 \lx ɲíntàra
 \mm ɲín:n:dent
 \mm tàra:n:forteresse
-\fa ɲítàra
+\va ɲítàra
 \mm ɲí:n:dent
 \mm tàra:n:forteresse
 \ps n
 \gf gencive
 \gvf gencive
-\dt 06/Apr/2019
+\dt 09/May/2019
 
 \lx ɲíntaradimi
 \mm ɲíntàra:n:gencive
@@ -120523,6 +120542,7 @@ langue, et finit par empêcher de marcher)
 \mmm ɲɔ́gɔn:prn:RECP
 \mmm mà:pp:ADR
 \mm li:mrph:NMLZ
+\va sángaɲɔgɔnmani
 \mm sángaɲɔgɔnma:n:émulation
 \mmm sánga:v:comparer
 \mmm ɲɔ́gɔn:prn:RECP
@@ -120535,7 +120555,7 @@ langue, et finit par empêcher de marcher)
 \gvf compétition
 \ms 2
 \gvf comparaison
-\dt 09/Apr/2019
+\dt 09/May/2019
 
 \lx sàngara
 \va sànkaran
@@ -137880,8 +137900,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gvf resemer
 \gvf remplacer les manquants
 \smf (les pieds du mil, haricot, maïs, etc. qui n'ont pas poussé)
-\dt 04/Mar/2019
-\va
+\dt 09/May/2019
 
 \lx tìiricilan
 \mm tìiri:n:trait
@@ -138684,6 +138703,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mmm nan:mrph:dans
 \mmm gó:vq:désagréable
 \mm ya:mrph:ABSTR
+\va tíminankoya
 \mm tíminanko:n:négligent
 \mmm tími:v:s'appliquer
 \mmm nan:mrph:dans
@@ -138693,7 +138713,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ps n
 \gf manque.d'assiduité
 \gvf manque d'assiduité
-\dt 11/Apr/2019
+\dt 09/May/2019
 
 \lx tíminangoya
 \mm tíminango:n:négligent
@@ -138701,6 +138721,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \mmm nan:mrph:dans
 \mmm gó:vq:désagréable
 \mm ya:mrph:ABSTR
+\va tíminankoya
 \mm tíminanko:n:négligent
 \mmm tími:v:s'appliquer
 \mmm nan:mrph:dans
@@ -138718,7 +138739,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \ms 3
 \vl vt
 \gvf priver d'assiduité
-\dt 27/Apr/2019
+\dt 09/May/2019
 
 \lx tíminkàla
 \mm tími:vq:savoureux
