@@ -923,8 +923,8 @@ la culture
 \lx Jàkunbɛn
 \mm jà:n:sécheresse
 \mm kùnbɛn:n:rencontre-accueil
-\mm kùn:n:tête
-\mm bɛ̀n:n:accord
+\mmm kùn:n:tête
+\mmm bɛ̀n:n:accord
 \ps n
 \gf sorgho.esp.
 \dt 09/Mar/2018
@@ -969,7 +969,7 @@ la culture
 
 \lx Jɔ̀rɔbanna
 \mm jɔ̀rɔ:n:inquiétude
-\mm bán:v:finir
+\mm bán:v:terminer
 \mm na:mrph:PFV.INTR
 \ps n
 \gf maïs.esp.

@@ -1,4 +1,4 @@
-\_sh v3.0  1296 MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name yorow
@@ -1960,7 +1960,7 @@ Koulikoro)
 \dt 01/Mar/2019
 
 \lx Fàrafinna
-\mm fàra:n:écorce
+\mm fàra:n:écorce
 \mm fìn:adj:noir
 \mm na:mrph:LOC
 \ps n.prop
@@ -2292,6 +2292,29 @@ Tombouctou)
 \cm (на востоке Мали)
 \dt 07/Apr/2017
 
+\lx Gbékeduu
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Gbekedou
+\ru Гекеду
+\cm (в Гвинее)
+\dt 23/May/2010
+
+\lx Gben Kɔɔjida
+\va Gbenkɔɔijida
+\di m
+\ty гос.
+\ru Кот-д'Ивуар
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Côte d'Ivoire
+\sy Kɔ́nɔwari
+\dt 23/May/2010
+
 \lx Gerenadi
 \ps n.prop
 \gf TOP
@@ -2388,29 +2411,6 @@ Mopti)
 \smf (nom de lieu)
 \gvf Guyane
 \dt 05/Feb/2017
-
-\lx Gbékeduu
-\di m
-\ty г.
-\ps n.prop
-\gf TOP
-\smf (nom de lieu)
-\gvf Gbekedou
-\ru Гекеду
-\cm (в Гвинее)
-\dt 23/May/2010
-
-\lx Gben Kɔɔjida
-\va Gbenkɔɔijida
-\di m
-\ty гос.
-\ru Кот-д'Ивуар
-\ps n.prop
-\gf TOP
-\smf (nom de lieu)
-\gvf Côte d'Ivoire
-\sy Kɔ́nɔwari
-\dt 23/May/2010
 
 \lx Hámdàlay
 \va Hámudàlayi
@@ -5026,13 +5026,6 @@ Mopti)
 \smf (un village, commune de Niéna, cercle et région de Sikasso)
 \dt 15/Oct/2017
 
-\lx N'daki
-\ps n.prop
-\gf TOP
-\gvf N'Daki
-\smf (une localité, région de Gao)
-\dt 22/Feb/2017
-
 \lx Ndebugu
 \ps n.prop
 \gf TOP
@@ -5271,6 +5264,13 @@ de Koulikoro)
 \cm (в Гвинее)
 \dt 23/May/2010
 
+\lx N'daki
+\ps n.prop
+\gf TOP
+\gvf N'Daki
+\smf (une localité, région de Gao)
+\dt 22/Feb/2017
+
 \lx Ɲaamɛ
 \ps n.prop
 \gf TOP
@@ -5413,6 +5413,7 @@ gauche du Niger)
 \dt 01/May/2017
 
 \lx Ɲɔrɔn
+\va Ɲɔ́rɔ
 \ps n.prop
 \gf TOP
 \smf (nom de lieu)
@@ -5893,6 +5894,11 @@ Ségou)
 \smf (commune rurale dans le Cercle de Kati, au sud de Bamako)
 \dt 01/Jun/2016
 
+\lx Sankaran
+\ps n.prop
+\gf TOP
+\dt 11/May/2019
+
 \lx Sankaranin
 \ty р.
 \ru Санкарани
@@ -6288,13 +6294,6 @@ de Mopti)
 Djenné, région de Mopti)
 \dt 15/Nov/2017
 
-\lx Sogoninkɔ
-\ps n.prop
-\gf TOP
-\gvf Sogoniko
-\smf (un quartier dans la commune 6 de Bamako)
-\dt 04/Jun/2016
-
 \lx Sogbɛ
 \ty кв.
 \ru Согбе
@@ -6303,6 +6302,13 @@ Djenné, région de Mopti)
 \smf (quartier à Kankan)
 \cm (в Канкане)
 \dt 23/May/2010
+
+\lx Sogoninkɔ
+\ps n.prop
+\gf TOP
+\gvf Sogoniko
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
 
 \lx Sòkálakɔ̀nɔ
 \ty кв.
@@ -6935,6 +6941,12 @@ invahisseurs marocains et les Songhaï en 1591)
 \gvf Tripolo
 \ru Триполи
 \dt 23/May/2010
+
+\lx Túba
+\ps n.prop
+\gf TOP
+\gvf Touba
+\dt 13/May/2019
 
 \lx Tukɔrɔ
 \ps n.prop
