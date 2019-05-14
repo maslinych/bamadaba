@@ -341,7 +341,7 @@
 \mm álalandi:n:personne.pieuse
 \mmm Ála:n:Dieu
 \mmm landi:adj:qui.aime
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ps n
 \gf piété
 \gvf piété
@@ -8523,14 +8523,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmmm bìla:v:mettre
 \mmmm kó:n:affaire
 \mmm júgu:adj:méchant
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \va blàkojuguya
 \mm blàkojugu:adj:vaurien
 \mmm blàko:n:conduite
 \mmmm blà:v:mettre
 \mmmm kó:n:affaire
 \mmm júgu:adj:méchant
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ph [bla]
 \ps n
 \gf mauvaise.conduite
@@ -8543,14 +8543,14 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmmm bìla:v:mettre
 \mmmm kó:n:affaire
 \mmm júgu:adj:méchant
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \va blàkojuguya
 \mm blàkojugu:adj:vaurien
 \mmm blàko:n:conduite
 \mmmm blà:v:mettre
 \mmmm kó:n:affaire
 \mmm júgu:adj:méchant
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ph [bla]
 \ps v
 \ms 1
@@ -16976,7 +16976,7 @@ sur soi)
 \mm cɛ̀jugu:adj:vilain
 \mmm cɛ̀:n:aspect
 \mmm júgu:adj:méchant
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ps n
 \gf laideur
 \gvf laideur
@@ -16986,7 +16986,7 @@ sur soi)
 \mm cɛ̀jugu:adj:vilain
 \mmm cɛ̀:n:aspect
 \mmm júgu:adj:méchant
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ps v
 \gf être.laid
 \gvf être laid
@@ -16998,7 +16998,7 @@ sur soi)
 \mmm cɛ̀jugu:adj:vilain
 \mmmm cɛ̀:n:aspect
 \mmmm júgu:adj:méchant
-\mmm ya:mrph:DEQU
+\mmm ya:mrph:ABSTR
 \mm kùru:n:boule
 \ps n
 \gf grain.de.beauté
@@ -59062,23 +59062,23 @@ l'eau est prête
 \mm kàanagɛlɛn:n:intransigeant
 \mmm kàana:n:caractère
 \mmm gɛ̀lɛn:adj:difficile
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \va kàarɔgɛlɛnya
 \mm kàarɔgɛlɛn:n:intransigeant
 \mmm gɛ̀lɛn:adj:difficile
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \va kàrɔgɛlɛnya
 \mm kàrɔgɛlɛn:n:intransigeant
 \mmm gɛ̀lɛn:adj:difficile
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \va kàanagwɛlɛnya
 \mm kàana:n:caractère
-\mm gwɛ̀lɛn:vq:difficile
-\mm ya:mrph:DEQU
+\mm gwɛ̀lɛn:adj:difficile
+\mm ya:mrph:ABSTR
 \va kàarɔgwɛlɛnya
 \mm kàarɔgwɛlɛn:n:intransigeant
 \mmm gwɛ̀lɛn:adj:difficile
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ph [gw]
 \ps n
 \ms 1
@@ -64928,7 +64928,7 @@ probablement de chaux vive)
 \mm kèle:vq:envieux
 \mm ya:mrph:DEQU
 \va cèleya
-\mm cèle:vq:jaloux
+\mm cèle:vq:envieux
 \mm ya:mrph:DEQU
 \ps n
 \gf jalousie
@@ -64940,7 +64940,7 @@ probablement de chaux vive)
 \mm kèle:vq:envieux
 \mm ya:mrph:DEQU
 \va cèleya
-\mm cèle:vq:jaloux
+\mm cèle:vq:envieux
 \mm ya:mrph:DEQU
 \ps v
 \vl vt
@@ -68350,7 +68350,7 @@ probablement de chaux vive)
 \mm kólandi:adj:qui.aime.les.histoires
 \mmm kó:n:affaire
 \mmm landi:adj:qui.aime
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ps n
 \gf fait.de.se.mêler.des.affaires.d'autrui
 \gvf fait de se mêler des affaires d'autrui
@@ -79845,7 +79845,7 @@ l'intérieur une ou deux graines)
 \mmmm kùn:n:tête
 \mmmm nan:mrph:à
 \mmm gó:adj:désagréable
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ps n
 \gf malchance
 \gvf malchance
@@ -79859,7 +79859,7 @@ l'intérieur une ou deux graines)
 \mmmm kùn:n:tête
 \mmmm nan:mrph:à
 \mmm gó:adj:désagréable
-\mm ya:mrph:DEQU
+\mm ya:mrph:ABSTR
 \ps v
 \gf être.malchanceux
 \gvf être malchanceux
@@ -137100,8 +137100,8 @@ flaques d'eau)
 \mm tɛ́gɛma:n:main
 \mmm tɛ́gɛ:n:paume
 \mmm mà:mrph:SUPER
-\mm gɛ̀lɛ:vq:difficile
-\mm ya:mrph:DEQU
+\mm gɛ̀lɛ:adj:difficile
+\mm ya:mrph:ABSTR
 \ps v
 \vl vr
 \gf faire.l'avare
