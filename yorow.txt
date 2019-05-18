@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+\_sh v3.0  1296 MDF 4.0
 
 \lang bam
 \name yorow
@@ -2292,29 +2292,6 @@ Tombouctou)
 \cm (на востоке Мали)
 \dt 07/Apr/2017
 
-\lx Gbékeduu
-\di m
-\ty г.
-\ps n.prop
-\gf TOP
-\smf (nom de lieu)
-\gvf Gbekedou
-\ru Гекеду
-\cm (в Гвинее)
-\dt 23/May/2010
-
-\lx Gben Kɔɔjida
-\va Gbenkɔɔijida
-\di m
-\ty гос.
-\ru Кот-д'Ивуар
-\ps n.prop
-\gf TOP
-\smf (nom de lieu)
-\gvf Côte d'Ivoire
-\sy Kɔ́nɔwari
-\dt 23/May/2010
-
 \lx Gerenadi
 \ps n.prop
 \gf TOP
@@ -2411,6 +2388,29 @@ Mopti)
 \smf (nom de lieu)
 \gvf Guyane
 \dt 05/Feb/2017
+
+\lx Gbékeduu
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Gbekedou
+\ru Гекеду
+\cm (в Гвинее)
+\dt 23/May/2010
+
+\lx Gben Kɔɔjida
+\va Gbenkɔɔijida
+\di m
+\ty гос.
+\ru Кот-д'Ивуар
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Côte d'Ivoire
+\sy Kɔ́nɔwari
+\dt 23/May/2010
 
 \lx Hámdàlay
 \va Hámudàlayi
@@ -5026,6 +5026,13 @@ Mopti)
 \smf (un village, commune de Niéna, cercle et région de Sikasso)
 \dt 15/Oct/2017
 
+\lx N'daki
+\ps n.prop
+\gf TOP
+\gvf N'Daki
+\smf (une localité, région de Gao)
+\dt 22/Feb/2017
+
 \lx Ndebugu
 \ps n.prop
 \gf TOP
@@ -5263,13 +5270,6 @@ de Koulikoro)
 \ru Нзерекоре
 \cm (в Гвинее)
 \dt 23/May/2010
-
-\lx N'daki
-\ps n.prop
-\gf TOP
-\gvf N'Daki
-\smf (une localité, région de Gao)
-\dt 22/Feb/2017
 
 \lx Ɲaamɛ
 \ps n.prop
@@ -6294,6 +6294,13 @@ de Mopti)
 Djenné, région de Mopti)
 \dt 15/Nov/2017
 
+\lx Sogoninkɔ
+\ps n.prop
+\gf TOP
+\gvf Sogoniko
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
 \lx Sogbɛ
 \ty кв.
 \ru Согбе
@@ -6302,13 +6309,6 @@ Djenné, région de Mopti)
 \smf (quartier à Kankan)
 \cm (в Канкане)
 \dt 23/May/2010
-
-\lx Sogoninkɔ
-\ps n.prop
-\gf TOP
-\gvf Sogoniko
-\smf (un quartier dans la commune 6 de Bamako)
-\dt 04/Jun/2016
 
 \lx Sòkálakɔ̀nɔ
 \ty кв.

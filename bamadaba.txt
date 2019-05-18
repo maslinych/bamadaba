@@ -1583,9 +1583,9 @@ les deux flancs'
 \ps v
 \gf érafler
 \vl vt
-\gvf érafler
-\gvf égratigner
-\gvf écorcher
+\gvf érafler
+\gvf égratigner
+\gvf écorcher
 \dt 07/Mar/2019
 
 \lx báasi
@@ -1726,7 +1726,7 @@ traîne sur le fond des eaux)
 \gvf sandales
 \smf (chaussures d'une semelle avec une courroie qui passe entre les orteils; fabriquées dans une matière synthétique qui fait éponge; le nom vient de la publicité qui les comparait avec la voiture 2CV Citroën)
 \ms 3
-\gvf crème glacée
+\gvf crème glacée
 \dt 06/Mar/2019
 
 \lx bábili
@@ -2303,7 +2303,7 @@ pour les jardins; toxique.)
 \gf fumier
 \gvf fumier
 
-\lx bágansogolatumunin
+\lx bágansogolantumunin
 \mm bágan:n:bête
 \mm sògo:n:viande
 \mm lá:pp:à
@@ -3895,7 +3895,7 @@ fébrifuge post-accouchement, potentiel anti-malaria)
 \smf (un bébé)
 \ms 2
 \vl vt
-\gvf former un épi
+\gvf former un épi
 \dt 03/Feb/2019
 
 \lx bámu
@@ -6689,12 +6689,14 @@ feu)
 \dt 08/Oct/2017
 
 \lx báyɛlɛmali
-\mm bá:n:base
-\mm yɛ̀lɛma:v:changer
+\mm báyɛ̀lɛma:v:transformer
+\mmm bá:n:base
+\mmm yɛ̀lɛma:v:changer
 \mm li:mrph:NMLZ
 \va báyɛlɛmani
-\mm bá:n:base
-\mm yɛ̀lɛma:v:changer
+\mm báyɛ̀lɛma:v:transformer
+\mmm bá:n:base
+\mmm yɛ̀lɛma:v:changer
 \mm ni:mrph:NMLZ
 \ps n
 \ms 1
@@ -6711,7 +6713,7 @@ feu)
 \mm sí:n:semence
 \ps n
 \gf semence.OGM
-\gvf semence.OGM
+\gvf semence OGM
 \gvf semence génétiquement modifiée
 \dt 15/Mar/2019
 
@@ -8298,6 +8300,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps num
 \gf quatre-vingt.dix
 \gvf quatre-vingt dix
+\gvf nonante
 \dt 01/Mar/2019
 
 \lx bìla
@@ -8869,12 +8872,17 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bìlasira:v:raccompagner
 \mmm bìla:v:mettre
 \mmm síra:n:chemin
-\mm bága:pm:INFR
+\mm baga:mrph:AG.OCC
+\va bìlasirabaa
+\mm bìlasira:v:raccompagner
+\mmm bìla:v:mettre
+\mmm síra:n:chemin
+\mm baa:mrph:AG.OCC
 \va blàsirabaga
 \mm blàsira:v:raccompagner
 \mmm blà:v:mettre
 \mmm síra:n:chemin
-\mm bága:pm:INFR
+\mm baga:mrph:AG.OCC
 \ps n
 \ms 1
 \gf accompagnateur
@@ -10097,6 +10105,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps num
 \gf quatre-vingt
 \gvf quatre-vingt
+\gvf octante
 \sy bámanakɛmɛ
 \dt 01/Mar/2019
 
@@ -10220,6 +10229,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \ps num
 \gf soixante-dix
 \gvf soixante-dix
+\gvf septante
 \dt 01/Mar/2019
 
 \lx bîwɔ́ɔrɔ
@@ -11017,7 +11027,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \xv bólofa bɛ́ à kàn
 \xf on a en elle une confiance parfaite
 \ms 5
-\gvf particulièrement
+\gvf particulièrement
 \gvf notamment
 \xv bólofa b'à tá kàn
 \xf lui en particulier, une importance particulière est accordée à lui
@@ -11298,11 +11308,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm bólo:n:bras
 \mmm kɔni:n:doigt
 \mm dén:n:enfant
-\va bólonkɔni
-\mm bólonkɔni:n:doigt
-\mmm bólo:n:bras
-\mmm nkɔni:n:doigt
-\mm dén:n:enfant
+\sy bólonkɔni
 \ps n
 \gf doigt
 \gvf doigt
@@ -11691,10 +11697,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm bólo:n:bras
 \mmm la:mrph:à
 \mm júgu:adj:méchant
+\va bólomajugu
+\mm bólo:n:bras
+\mm ma:mrph:SUPER
+\mm júgu:adj:méchant
 \ps adj
 \gf mauvais.travailleur
 \gvf mauvais travailleur
-\sy bólomanjugu
 \dt 12/Apr/2019
 
 \lx bólolajugu
@@ -11702,10 +11711,13 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm bólo:n:bras
 \mmm la:mrph:à
 \mm júgu:adj:méchant
+\va bólomajugu
+\mm bólo:n:bras
+\mm ma:mrph:SUPER
+\mm júgu:adj:méchant
 \ps n
 \gf mauvais.travailleur
 \gvf mauvais travailleur
-\sy bólomanjugu
 \dt 12/Apr/2019
 
 \lx bólolakaran
@@ -11869,10 +11881,6 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm bólo:n:bras
 \mmm lan:mrph:à
 \mm júgu:adj:méchant
-\va bólomanjugu
-\mm bólo:n:bras
-\mm man:mrph:SUPER
-\mm júgu:adj:méchant
 \ps adj
 \ms 1
 \gf désordonné
@@ -11886,10 +11894,6 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólolan:n:action.de.main
 \mmm bólo:n:bras
 \mmm lan:mrph:à
-\mm júgu:adj:méchant
-\va bólomanjugu
-\mm bólo:n:bras
-\mm man:mrph:SUPER
 \mm júgu:adj:méchant
 \ps n
 \ms 1
@@ -11905,9 +11909,10 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm lánkolon:adj:vide
 \mmm lán:mrph:CAUS
 \mmm kólon:adj:vide
-\ps n
+\ps adj
 \gf pauvre
 \gvf pauvre
+\gvf sans-le-sou
 \dt 12/Apr/2019
 
 \lx bólolankolon
@@ -11926,12 +11931,29 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mmm lán:mrph:CAUS
 \mmm kólon:adj:vide
 \mm ya:mrph:ABSTR
+\ps n
+\gf pauvreté
+\gvf pauvreté
+\gvf appauvrissement
+\gvf dénuement
+\gvf misère
+\dt 18/May/2019
+
+\lx bólolankolonya
+\mm bólo:n:bras
+\mm lánkolon:adj:vide
+\mmm lán:mrph:CAUS
+\mmm kólon:adj:vide
+\mm ya:mrph:ABSTR
 \ps v
 \vl vt
 \gf rendre.pauvre
 \gvf rendre pauvre
+\gvf appauvrir
 \xv Màtigi Ála bɛ́  mɔ̀gɔ bólolankolonya (Sá 2, 7)
 \xf Le Seigneur appauvrit  (et enrichit)
+\vl vr
+\gvf s'appauvrir
 \dt 01/Mar/2019
 
 \lx bólolantola
@@ -12342,10 +12364,6 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bólo:n:bras
 \mm man:mrph:SUPER
 \mm júgu:adj:méchant
-\va bólomajugu
-\mm bólo:n:bras
-\mm ma:mrph:SUPER
-\mm júgu:adj:méchant
 \ps adj
 \gf mauvais.travailleur
 \gvf mauvais travailleur
@@ -12355,10 +12373,6 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \lx bólomanjugu
 \mm bólo:n:bras
 \mm man:mrph:SUPER
-\mm júgu:adj:méchant
-\va bólomajugu
-\mm bólo:n:bras
-\mm ma:mrph:SUPER
 \mm júgu:adj:méchant
 \ps n
 \gf mauvais.travailleur
@@ -15454,8 +15468,8 @@ centrale est de couleur sombre
 \mm búran:n:beau-parent
 \mm mùso:adj:féminin
 \ps n
-\gf parente.par.alliance
-\gvf parente par alliance
+\gf parenté.par.alliance
+\gvf parenté par alliance
 \ms 1
 \gvf belle-mère
 \ms 2
@@ -15582,7 +15596,7 @@ centrale est de couleur sombre
 \gf grosse.grenouille
 \gvf grosse grenouille
 \src KT
-\gvf petite grenouille qui apparaît à
+\gvf petite grenouille qui apparaît à
 l'hivernage 
 \src AN
 \gvf gros crapaud
@@ -18533,14 +18547,14 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 
 \lx cínda
 \mm cín:v:mordre
-\mm dá:n:bouche
+\mm dá:n:plaie
 \va kínda
 \mm kín:v:mordre
-\mm dá:n:bouche
+\mm dá:n:plaie
 \va cínnida
 \mm cín:v:mordre
 \mm ni:mrph:NMLZ
-\mm dá:n:bouche
+\mm dá:n:plaie
 \ps n
 \ms 1
 \gf morsure
@@ -18966,7 +18980,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \ps n
 \gf pincée
 \ms 1
-\gvf pincée
+\gvf pincée
 \smf (mesure pour une poudre)
 \ms 2
 \gvf fois
@@ -19187,7 +19201,7 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \smf (dont on tire les fibres)
 \sy dàba
 \sy dàjan
-\gf Hibiscus cannabicus
+\gf Hibiscus.cannabicus
 \gvf Hibiscus cannabicus
 \sd malv
 \ms 2
@@ -20367,7 +20381,7 @@ saillie)
 \ms 1
 \gvf mal
 \ms 2
-\gvf dépense
+\gvf dépense
 \dt 06/Mar/2019
 
 \lx dádimi
@@ -22799,15 +22813,13 @@ parfois péjoratif)
 \mmm dá:n:bouche
 \mmm la:mrph:à
 \mm gó:adj:désagréable
-\va dámango
-\mm dáma:n:bouche.active
-\mmm dá:n:bouche
-\mmm ma:mrph:SUPER
-\mm gó:adj:désagréable
+\sy dámango
 \ps adj
 \gf fielleux
 \gvf fielleux
-\smf (qui parle mal; qui répond de façon desagréable ou ne répond
+\gvf mal poli
+\gvf acerbe
+\smf (qui parle mal; qui répond de façon désagréable ou ne répond
 pas)
 \dt 15/Apr/2019
 
@@ -22816,15 +22828,13 @@ pas)
 \mmm dá:n:bouche
 \mmm la:mrph:à
 \mm gó:adj:désagréable
-\va dámango
-\mm dáma:n:bouche.active
-\mmm dá:n:bouche
-\mmm ma:mrph:SUPER
-\mm gó:adj:désagréable
+\sy dámango
 \ps n
 \gf fielleux
 \gvf fielleux
-\smf (qui parle mal; qui répond de façon desagréable ou ne répond
+\gvf mal poli
+\gvf acerbe
+\smf (qui parle mal; qui répond de façon désagréable ou ne répond
 pas)
 \dt 15/Apr/2019
 
@@ -23576,22 +23586,28 @@ rétribution mais à titre de réciprocité)
 \mm dá:n:bouche
 \mm man:mrph:SUPER
 \mm gó:vq:désagréable
+\sy dálango
 \ps n
-\gf malpoli
-\gvf malpoli
-\smf (personne qui ne répond pas aux gens)
+\gf fielleux
+\gvf fielleux
+\gvf mal poli
 \gvf acerbe
+\smf (qui parle mal; qui répond de façon désagréable ou ne répond
+pas)
 \dt 15/Apr/2019
 
 \lx dámango
 \mm dá:n:bouche
 \mm man:mrph:SUPER
 \mm gó:vq:désagréable
+\sy dálango
 \ps adj
-\gf malpoli
-\gvf malpoli
-\smf (personne qui ne répond pas aux gens)
+\gf fielleux
+\gvf fielleux
+\gvf mal poli
 \gvf acerbe
+\smf (qui parle mal; qui répond de façon désagréable ou ne répond
+pas)
 \dt 15/Apr/2019
 
 \lx dàmantan
@@ -25179,8 +25195,8 @@ génitales ...)
 \gf célébrité
 \ms 1
 \gvf célébrité
-\gvf bonne renommée
-\gvf bonne réputation
+\gvf bonne renommée
+\gvf bonne réputation
 \sy dáwula
 \xf daraja b'a la
 \xf il est célèbre, il a du charme
@@ -25681,8 +25697,8 @@ génitales ...)
 \mm ɲími:v:mâcher
 \mm bàna:n:maladie
 \ps n
-\gf bec.de.lièvre
-\gvf bec de lièvre
+\gf bec.de.lièvre
+\gvf bec de lièvre
 \dt 09/Mar/2019
 
 \lx dáwɔɔrɔ
@@ -30942,8 +30958,9 @@ le nom du groupe ethnique)
 \dt 16/Aug/2006
 
 \lx dɔ̀lɔminbana
-\mm dɔ̀lɔ:n:bière.de.mil
-\mm mìn:v:boire
+\mm dɔ̀lɔmin:n:consommation.d'alcool
+\mmm dɔ̀lɔ:n:bière.de.mil
+\mmm mìn:v:boire
 \mm bàna:n:maladie
 \ps n
 \gf alcoolisme
@@ -31279,14 +31296,14 @@ désorienter')
 
 \lx dɔ́nnakari
 \mm dɔ́n:n:connaissance
-\mm lákari:v:rendre.inefficace
-\mmm lá:mrph:CAUS
+\mm nákari:v:rendre.inefficace
+\mmm ná:mrph:CAUS
 \mmm kári:v:casser
 \ps v
 \vl vt
 \gf connaître.à.fond
 \gvf connaître à fond
-\gvf être très expert
+\gvf être très expert
 \dt 14/Mar/2019
 
 \lx dɔ́nni
@@ -34306,7 +34323,7 @@ gens)
 \vl vt
 \gf comprendre
 \gvf comprendre
-\gvf se.familiariser
+\gvf se familiariser
 \xv án kà  ɲɔ́gɔn fàamuya !
 \xf comprenons-nous bien !
 \dt 17/Mar/2019
@@ -36769,8 +36786,8 @@ compagnie ...
 \mmm kìsɛ:v:grener
 \mm nin:mrph:DIM
 \ps v
-\gf impétigo
-\gvf impétigo
+\gf impétigo
+\gvf impétigo
 \dt 04/Mar/2019
 
 \lx fàrilasi
@@ -37714,8 +37731,8 @@ bien (dicton)
 \lx félefele
 \va féefee
 \ps n
-\gf filet.de.pêche
-\gvf filet de pêche de surface
+\gf filet.de.pêche
+\gvf filet de pêche de surface
 \smf (pour les poissons nsàra et fɔ̀ɔnɔ)
 \dt 26/Jun/2018
 
@@ -40658,7 +40675,7 @@ sur le ventre -- í kɔ́nɔ kàn)
 \mmm fyén:v:devenir.aveugle
 \mmm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
-\va fíɲetɔ
+\va fíɲetɔya
 \mm fíɲetɔ:n:aveugle
 \mmm fíɲe:n:aveugle
 \mmm tɔ:mrph:ST
@@ -40678,7 +40695,7 @@ sur le ventre -- í kɔ́nɔ kàn)
 \mmm fyén:v:devenir.aveugle
 \mmm tɔ:mrph:ST
 \mm ya:mrph:ABSTR
-\va fíɲetɔ
+\va fíɲetɔya
 \mm fíɲetɔ:n:aveugle
 \mmm fíɲe:n:aveugle
 \mmm tɔ:mrph:ST
@@ -41645,7 +41662,7 @@ sur le ventre -- í kɔ́nɔ kàn)
 \smf (peau d'un serpent qui a mué)
 \ms 2
 \gvf squame
-\gvf parcelles d'épiderme
+\gvf parcelles d'épiderme
 \dt 07/Mar/2019
 
 \lx fòolo
@@ -41871,7 +41888,7 @@ sur le ventre -- í kɔ́nɔ kàn)
 \gvf boursouflure
 \gvf ampoule
 \gvf cloque
-\gvf phlyctène
+\gvf phlyctène
 \ms 2
 \gvf eczéma
 \dt 03/Mar/2019
@@ -43391,8 +43408,7 @@ forestières, fruit : long follicule de 50 cm)
 \src Amadu Mariko
 \ps n
 \gf singe.rouge
-\gf singe rouge
-\gvf
+\gvf singe rouge
 \dt 26/Jun/2018
 
 \lx fúnfun
@@ -47978,7 +47994,7 @@ caractéristique, réputé pour faciliter la procréation)
 \gf être.lourd
 \gvf être lourd
 \vl vt
-\gf rendre lourd
+\gf rendre.lourd
 \gvf rendre lourd
 \xv sùnɔgɔ b'á ɲɛ́ gírinya
 \xf le sommeil alourdit ses paupières (yeux)
@@ -50964,7 +50980,7 @@ doigts par des fileuses du coton)
 \mm ɲɛ́:n:oeil
 \mm túgu:v:fermer
 \mm í:pers:2SG
-\mm búranmuso:n:parente.par.alliance
+\mm búranmuso:n:parenté.par.alliance
 \mmm búran:n:beau-parent
 \mmm mùso:adj:féminin
 \mm bɛ:pm:IPFV.AFF
@@ -51060,8 +51076,8 @@ doigts par des fileuses du coton)
 \ms 4.1
 \vl vi
 \gvf devenir engourdi
-\gvf devenir ankylosé
-\gvf devenir paralysé
+\gvf devenir ankylosé
+\gvf devenir paralysé
 \gvf devenir raide
 \gvf devenir rigide
 \ms 4.2
@@ -52040,7 +52056,7 @@ calebasses)
 \ps n
 \gf innocence
 \gvf innocence
-\va jàlakintanya
+\sy jàlakintanya
 \dt 19/Mar/2019
 
 \lx jàlakintan
@@ -52238,7 +52254,7 @@ calebasses)
 \gvf tétanos
 \gvf méningite
 \gvf polio
-\gvf épilepsie
+\gvf épilepsie
 \smf (maladie qui provoque le raidissement du corps)
 \dt 07/Mar/2019
 
@@ -52783,7 +52799,7 @@ calebasses)
 
 \lx jánki
 \ps onomat
-\gf bruit.de pas
+\gf bruit.de.pas
 \gvf bruit de pas
 \dt 01/May/2014
 
@@ -53479,7 +53495,7 @@ calebasses)
 \ms 1
 \vl vt
 \gvf effrayer
-\gvf inquiéter
+\gvf inquiéter
 \ms 2
 \vl vt
 \gvf impressionner
@@ -56600,7 +56616,7 @@ et insecticides)
 \xf - pour combien en veux-tu ? - pour 100 fr
 \dt 20/Mar/2018
 
-\lx jólilabana
+\lx jòlilabana
 \mm jòli:n:sang
 \mm lá:pp:à
 \mm bàna:n:maladie
@@ -56689,7 +56705,7 @@ et insecticides)
 \ps n
 \gf air.sympathique
 \gvf air sympathique
-\gvf qualité d'être sympathique
+\gvf qualité d'être sympathique
 \gvf don de plaire aux gens
 \dt 21/Mar/2019
 
@@ -56859,7 +56875,7 @@ et insecticides)
 
 \lx jóoki
 \ps onomat
-\gf bruit.de pas
+\gf bruit.de.pas
 \gvf bruit de pas
 \dt 01/May/2014
 
@@ -57985,7 +58001,7 @@ fusil)
 \dt 22/Apr/2019
 
 \lx júguman
-\mm júgu:adj:méchant
+\mm júgu:vq:méchant
 \mm man:mrph:ADJ
 \ps adj
 \ms 1
@@ -57999,7 +58015,7 @@ fusil)
 \dt 14/Mar/2019
 
 \lx júguman
-\mm júgu:adj:méchant
+\mm júgu:vq:méchant
 \mm man:mrph:ADJ
 \ps n
 \gf méchanceté
@@ -61604,7 +61620,7 @@ prolapsus utérin
 \gvf s'énerver
 \ms 2.2
 \vl vt
-\gvf émouvoir
+\gvf émouvoir
 \gvf affliger
 \ms 3
 \vl vi
@@ -62227,13 +62243,13 @@ prolapsus utérin
 \mm gɛ̀lɛn:adj:difficile
 \ps n
 \ms 1
-\gf voix.très.élevée
+\gf voix.très.élevée
 \gvf soprano
 \gvf voix très élevée
 \ms 2
-\gvf parole.dure
+\gvf parole dure
 \ms 3
-\gvf langue.difficile
+\gvf langue difficile
 \ms 4
 \gvf arrogant
 \dt 24/Mar/2019
@@ -64593,7 +64609,6 @@ probablement de chaux vive)
 
 \lx kègun
 \va kèkun
-\va kègu
 \ve (bn)
 \va kèwun
 \ve (f)
@@ -64613,7 +64628,6 @@ probablement de chaux vive)
 
 \lx kègun
 \va kèkun
-\va kègu
 \ve (bn)
 \va kèwun
 \ve (f)
@@ -65949,7 +65963,7 @@ probablement de chaux vive)
 \mm kɛ́nɛ:vq:sain
 \mm baga:mrph:AG.OCC
 \mm tɔ:mrph:ST
-\ps n
+\ps adj
 \gf bien.portant
 \gvf bien portant
 \dt 17/Apr/2019
@@ -69058,7 +69072,7 @@ champs)
 
 \lx kóloma
 \mm kólo:n:os
-\mm mà:mrph:SUPER
+\mm ma:mrph:SUPER
 \ps n
 \gf texture
 \gvf texture
@@ -69068,7 +69082,7 @@ champs)
 \lx kólomadɔgɔ
 \mm kóloma:n:texture
 \mmm kólo:n:os
-\mmm mà:mrph:SUPER
+\mmm ma:mrph:SUPER
 \mm dɔ́gɔ:vq:étroit
 \ps adj
 \gf malingre
@@ -69079,7 +69093,7 @@ champs)
 \lx kólomagɛlɛn
 \mm kóloma:n:texture
 \mmm kólo:n:os
-\mmm mà:mrph:SUPER
+\mmm ma:mrph:SUPER
 \mm gɛ̀lɛn:adj:difficile
 \ps n
 \gf résistant
@@ -69094,7 +69108,7 @@ champs)
 \lx kólomamisɛn
 \mm kóloma:n:texture
 \mmm kólo:n:os
-\mmm mà:mrph:SUPER
+\mmm ma:mrph:SUPER
 \mm mìsɛn:adj:petit
 \ps adj
 \ms 1
@@ -69218,7 +69232,7 @@ champs)
 \gvf petit bouton
 \ms 2
 \src BZ
-\gvf agrafe en métal
+\gvf agrafe en métal
 \ms 3
 \src KT
 \gvf sorte de bijou de femme
@@ -71323,8 +71337,8 @@ harpon)
 \mm kɔ̀gɔ:n:sel
 \mm wàsa:n:satisfaction
 \ps v
-\gf sel.iodé
-\gvf sel iodé
+\gf sel.iodé
+\gvf sel iodé
 \dt 04/Mar/2019
 
 \lx kɔ́ja
@@ -71420,7 +71434,7 @@ harpon)
 \gf à.l'extérieur
 \gvf à l'extérieur
 \ms 2
-\gf de l'autre côté de
+\gvf de l'autre côté de
 \gvf de l'autre côté de
 \dt 23/Feb/2014
 
@@ -72800,7 +72814,12 @@ ou une proposition)
 \sy kɔ́nɔkari
 \dt 26/Sep/2006
 
-\lx kɔ́nɔbolitumu
+\lx kɔ́nɔbolintumu
+\mm kɔ́nɔboli:n:diarrhée
+\mmm kɔ́nɔ:n:ventre
+\mmm bòli:n:course
+\mm ntùmu:n:ver
+\lva kɔ́nɔbolitumu
 \mm kɔ́nɔboli:n:diarrhée
 \mmm kɔ́nɔ:n:ventre
 \mmm bòli:n:course
@@ -73573,24 +73592,6 @@ ou une proposition)
 \gvf angoisser
 \sy kɔ́nɔgàn
 \dt 14/Apr/2018
-
-\lx kɔ́nɔnajɛ
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm jɛ́:adj:blanc
-\va kɔ́nɔnanjɛ
-\mm kɔ́nɔ:n:ventre
-\mm nan:mrph:à
-\mm jɛ́:adj:blanc
-\ps adj
-\ms 1
-\gf franc
-\gvf franc
-\gvf ouvert
-\gvf loyal
-\ms 2
-\gvf sympatique
-\dt 18/Apr/2019
 
 \lx kɔ́nɔnajɛ
 \mm kɔ́nɔ:n:ventre
@@ -76089,7 +76090,7 @@ plus solide)
 
 \lx kɔ̀wulu
 \ps n
-\gf fourmi.rouge 
+\gf fourmi.rouge
 \gvf fourmi rouge 
 \smf (des manguiers, des caïlcédrats, dont la piqûre est douloureuse)
 \dt 30/Mar/2019
@@ -76102,7 +76103,7 @@ plus solide)
 \gvf loutre
 \ms 1
 \gvf loutre à cou tacheté
-\lat Lutra.maculicollis
+\lat Lutra maculicollis
 \ms 2
 \gvf loutre à joues blanches
 \lat Aonyx.capensis
@@ -76637,7 +76638,7 @@ il en contient dix
 \gvf petit enfant
 \ms 3
 \gvf ensemble
-\gvf totalité
+\gvf totalité
 \gvf entier
 \dt 03/Mar/2019
 
@@ -77800,7 +77801,7 @@ le pouvoir administratif suprême)
 \gf égoïsme
 \gvf égoïsme
 \ms 2
-\gvf négligence
+\gvf négligence
 \dt 30/Sep/2018
 
 \lx kùnbɔnkola
@@ -77810,8 +77811,8 @@ le pouvoir administratif suprême)
 \mm kó:n:affaire
 \mm lá:pp:à
 \ps n
-\gf négligence
-\gvf négligence
+\gf négligence
+\gvf négligence
 \dt 30/Sep/2018
 
 \lx kùncɛ
@@ -79041,7 +79042,7 @@ l'intérieur une ou deux graines)
 
 \lx kùnma
 \mm kùn:n:tête
-\mm mà:mrph:SUPER
+\mm ma:mrph:SUPER
 \ps n
 \ms 1
 \gf vitalité
@@ -79142,7 +79143,7 @@ l'intérieur une ou deux graines)
 \lx kùnmadɔgɔ
 \mm kùnma:n:vitalité
 \mmm kùn:n:tête
-\mmm mà:mrph:SUPER
+\mmm ma:mrph:SUPER
 \mm dɔ́gɔ:vq:étroit
 \ps adj
 \ms 1
@@ -79156,7 +79157,7 @@ l'intérieur une ou deux graines)
 \lx kùnmadɔgɔ
 \mm kùnma:n:vitalité
 \mmm kùn:n:tête
-\mmm mà:mrph:SUPER
+\mmm ma:mrph:SUPER
 \mm dɔ́gɔ:vq:étroit
 \ps n
 \ms 1
@@ -79171,7 +79172,7 @@ l'intérieur une ou deux graines)
 \mm kùnmadɔgɔ:adj:chétif
 \mmm kùnma:n:vitalité
 \mmmm kùn:n:tête
-\mmmm mà:mrph:SUPER
+\mmmm ma:mrph:SUPER
 \mmm dɔ́gɔ:vq:étroit
 \mm ya:mrph:ABSTR
 \ps v
@@ -86151,7 +86152,7 @@ manière (les aînés fouettent les cadets nouvellement initiés)
 \mmm nama:mrph:STAT
 \mm li:mrph:NMLZ
 \mm ya:mrph:ABSTR
-\va n áɲɛnamaliya
+\va náɲɛnamaliya
 \mm ná:mrph:CAUS
 \mm ɲɛ́nama:adj:vivant
 \mmm ɲɛ́:n:oeil
@@ -89231,6 +89232,7 @@ jour, c'est une personne dépendante qu'il voit
 \mm ɲɔ̀:n:mil
 \ve (f)
 \va máɲɔ
+\mm ɲɔ̀:n:mil
 \ps n
 \gf maïs
 \gvf maïs
@@ -92367,6 +92369,9 @@ des engagements
 \lx màsakɛ
 \mm màsa:n:roi
 \mm kɛ:adj:mâle
+\va mànsakɛ
+\mm mànsa:n:roi
+\mm kɛ:adj:mâle
 \ps n
 \gf roi
 \gvf roi
@@ -94252,7 +94257,7 @@ des engagements
 \gvf espérer
 \smf (à -- ní ... yé, kó)
 \xv ń y'á mìsali kó Músa táara Bàmakɔ
-\xf j'ai espéré que Moussa serait parti à Bamako
+\xf j'ai espéré que Moussa serait parti à Bamako
 \ms 2
 \vl vt
 \gvf baratiner
@@ -98149,7 +98154,7 @@ pour les jardins)
 \va náfula
 \ps n
 \ms 1
-\gf prière surérogatoire
+\gf prière.surérogatoire
 \gvf prière surérogatoire
 \ms 2
 \gvf complément
@@ -100572,7 +100577,7 @@ petits enfants)
 \gf contenant.du.fer
 \gvf contenant du fer
 \ms 2
-\gf en fer
+\gf en.fer
 \gvf en fer
 \gvf métallique
 \rem Bz, Mol
@@ -102517,7 +102522,7 @@ sur soi, on les connaît
 \ps n
 \gf rate
 \gvf rate
-\gvf pancréas
+\gvf pancréas
 \dt 04/Mar/2019
 
 \lx nínango
@@ -108615,7 +108620,7 @@ banane, etc.)
 \gvf lisser
 \ms 2
 \vl vt
-\gvf moudre très fin
+\gvf moudre très fin
 \dt 07/Mar/2019
 
 \lx nùgu
@@ -109768,7 +109773,7 @@ banane, etc.)
 \va ɲàngari
 \ps v
 \vl vi
-\gf se moquer
+\gf se.moquer
 \gvf se moquer
 \dt 25/Apr/2018
 
@@ -111477,7 +111482,7 @@ banane, etc.)
 \mm nci:mrph:AG.EX
 \va ɲɛ́ngonci
 \mm ɲɛ́ngo:adj:jaloux
-\mmm ɲɛ́:n:oeil
+\mmm ɲɛ́n:n:oeil
 \mmm gó:adj:désagréable
 \mm nci:mrph:AG.EX
 \ps n
@@ -111494,7 +111499,7 @@ banane, etc.)
 \mm ya:mrph:ABSTR
 \va ɲɛ́ngoya
 \mm ɲɛ́ngo:adj:jaloux
-\mmm ɲɛ́:n:oeil
+\mmm ɲɛ́n:n:oeil
 \mmm gó:adj:désagréable
 \mm ya:mrph:ABSTR
 \ps n
@@ -111802,8 +111807,8 @@ banane, etc.)
 \mmm kíli:n:oeuf
 \mm tàra:n:chaleur
 \ps n
-\gf xérophtalmie
-\gvf xérophtalmie
+\gf xérophtalmie
+\gvf xérophtalmie
 \smf (maladie des yeux secs)
 \dt 07/Mar/2019
 
@@ -112076,7 +112081,7 @@ banane, etc.)
 \mm kú:n:queue
 \ps n
 \gf coin.de.l'oeil
-\gvf angle extérieur de l'oeil
+\gvf angle extérieur de l'oeil
 \gvf angle de l'oeil
 \gvf coin de l'oeil
 \dt 05/Mar/2019
@@ -113158,6 +113163,22 @@ banane, etc.)
 \xf excellent
 \dt 06/Apr/2019
 
+\lx ɲɛ́nama
+\mm ɲɛ́:n:oeil
+\mm nama:mrph:STAT
+\va ɲɛ́nɛma
+\mm ɲɛ́:n:oeil
+\mm nama:mrph:STAT
+\va ɲínama
+\mm ɲɛ́:n:oeil
+\mm nama:mrph:STAT
+\ps n
+\ms 1
+\gf être.vivant
+\gvf être vivant
+\gvf créature
+\dt 15/May/2019
+
 \lx ɲɛ́namaya
 \mm ɲɛ́nama:adj:vivant
 \mmm ɲɛ́:n:oeil
@@ -113522,24 +113543,6 @@ banane, etc.)
 \smf (en tiges de grandes graminées ..., sert de lit, de porte ...)
 \dt 16/Aug/2006
 
-\lx ɲɛ́ngo
-\mm ɲɛ́:n:oeil
-\mm gó:adj:désagréable
-\ps adj
-\gf jaloux
-\gvf jaloux
-\gvf égoïste
-\dt 19/Apr/2019
-
-\lx ɲɛ́ngo
-\mm ɲɛ́:n:oeil
-\mm gó:adj:désagréable
-\ps n
-\gf jaloux
-\gvf jaloux
-\gvf égoïste
-\dt 19/Apr/2019
-
 \lx ɲɛ́ni
 \va ɲáni
 \ps v
@@ -113656,7 +113659,7 @@ banane, etc.)
 \gvf brisure de céréales
 \gvf mil concassé
 \xv à kùnkun n'à ɲɛ̀ɲɛn
-\xf en gros et dans le détail, intégralement, jusqu'au moindre détail
+\xf en gros et dans le détail, intégralement, jusqu'au moindre détail
 \dt 20/Nov/2018
 
 \lx ɲɛ́ɲini
@@ -114659,8 +114662,8 @@ postposition, n'est pas accepté par tous les locuteurs)
 \mm nì:n:part
 \mm tò:n:“tô”
 \ps n
-\gf part.de.'to'
-\gvf part de 'to'
+\gf part.de.'tô'
+\gvf part de 'tô'
 \smf (réservée à ...)
 \xv wáajibi dòn, í bɛ́ dúnan ɲìto bɔ́
 \rem f
@@ -123796,7 +123799,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \ps v
 \ms 1
 \vl vt
-\gf accompagner 
+\gf accompagner
 \gvf accompagner 
 \ms 2
 \vl vr
@@ -124492,7 +124495,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \gvf éparpiller
 \gvf asperger
 \gvf semer à la volée
-\gvf jeter en éparpillant
+\gvf jeter en éparpillant
 \ms 1.2
 \vl vi
 \gvf s'éparpiller
@@ -124517,7 +124520,7 @@ gouvernement le soutient (kb 5/06 p.7)
 \smf (à -- lá, sur -- kàn)
 \ms 3.2
 \vl vr
-\gvf faire un saut périlleux arrière
+\gvf faire un saut périlleux arrière
 \dt 07/Mar/2019
 
 \lx sériba
@@ -125686,8 +125689,8 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sɛ̀ngɛrɛ
 \va sɛ̀ngɛrɛn
 \ps n
-\gf pâte.sèche.de.'to'
-\gvf pâte sèche de 'to'
+\gf pâte.sèche.de.'tô'
+\gvf pâte sèche de 'tô'
 \dt 16/Aug/2006
 
 \lx sɛ̀nsɛn
@@ -125704,8 +125707,8 @@ gouvernement le soutient (kb 5/06 p.7)
 \sy dɛ̀ɛndɛɛn
 \ms 1.2
 \vl vr
-\gvf se traîner
-\gvf avancer péniblement
+\gvf se traîner
+\gvf avancer péniblement
 \gvf avancer doucement
 \ms 2
 \vl vt
@@ -126402,7 +126405,7 @@ gouvernement le soutient (kb 5/06 p.7)
 
 \lx sígi
 \ps n
-\gf combat singulier
+\gf combat.singulier
 \gvf combat singulier
 \smf (l'issue en est douteuse, dans ce sens, ne s'entend que sous la forme : sigi)
 
@@ -126663,6 +126666,9 @@ gouvernement le soutient (kb 5/06 p.7)
 \lx sìgiɲɔgɔn
 \mm sìgi:n:position.assise
 \mm ɲɔ́gɔn:prn:RECP
+\va sìgiɲwan
+\mm sìgi:n:position.assise
+\mm ɲwán:prn:RECP
 \ps n
 \gf voisin
 \gvf voisin
@@ -130029,8 +130035,7 @@ donne d'excellentes fibres)
 \vl vi
 \gf moisir
 \gvf moisir
-\gf (foin, récolte)
-\gvf (foin, récolte)
+\smf (foin, récolte)
 \dt 26/Sep/2006
 
 \lx sòrofe
@@ -130730,7 +130735,7 @@ euphémique)
 \src DU
 \gvf haricots cuits à la vapeur
 \smf (accompagnés d'huile, de condiments et de sucre)
-\gvf haricots et arachides mêlés cuits au bain-marie
+\gvf haricots et arachides mêlés cuits au bain-marie
 \dt 25/Mar/2019
 
 \lx sɔ́nfɛn
@@ -131687,7 +131692,7 @@ s'amène ...)
 \mm mɔ́:v:prendre
 \ps n
 \gf cadeau.de.marché
-\gvf petit cadeau fait à ses proches par celui qui revient du marché
+\gvf petit cadeau fait à ses proches par celui qui revient du marché
 \dt 17/Nov/2018
 
 \lx súgunɛ
@@ -136702,7 +136707,7 @@ flaques d'eau)
 \gvf avancer
 \gvf s'approcher
 \smf (un être animé)
-\gvf s'écarter
+\gvf s'écarter
 \dt 03/May/2019
 
 \lx tétewu
@@ -136990,6 +136995,55 @@ flaques d'eau)
 \gvf maladresse
 \dt 11/Apr/2019
 
+\lx tɛ́gɛlankolon
+\mm tɛ́gɛ:n:paume
+\mm lánkolon:adj:vide
+\mmm lán:mrph:CAUS
+\mmm kólon:adj:vide
+\ps adj
+\gf pauvre
+\gvf pauvre
+\gvf sans-le-sou
+\dt 18/May/2019
+
+\lx tɛ́gɛlankolon
+\mm tɛ́gɛ:n:paume
+\mm lánkolon:adj:vide
+\mmm lán:mrph:CAUS
+\mmm kólon:adj:vide
+\ps n
+\gf pauvre
+\gvf pauvre
+\dt 18/May/2019
+
+\lx tɛ́gɛlankolonya
+\mm tɛ́gɛ:n:paume
+\mm lánkolon:adj:vide
+\mmm lán:mrph:CAUS
+\mmm kólon:adj:vide
+\mm ya:mrph:ABSTR
+\ps n
+\gf pauvreté
+\gvf pauvreté
+\gvf appauvrissement
+\gvf dénuement
+\gvf misère
+\dt 18/May/2019
+
+\lx tɛ́gɛlankolonya
+\mm tɛ́gɛ:n:paume
+\mm lánkolon:adj:vide
+\mmm lán:mrph:CAUS
+\mmm kólon:adj:vide
+\mm ya:mrph:ABSTR
+\ps v
+\vl vt
+\gf appauvrir
+\gvf appauvrir
+\vl vr
+\gvf s'appauvrir
+\dt 18/May/2019
+
 \lx tɛ́gɛlateli
 \mm tɛ́gɛla:n:main.active
 \mmm tɛ́gɛ:n:paume
@@ -137055,7 +137109,7 @@ flaques d'eau)
 
 \lx tɛ́gɛma
 \mm tɛ́gɛ:n:paume
-\mm mà:mrph:SUPER
+\mm ma:mrph:SUPER
 \ps n
 \gf main
 \gvf main
@@ -137068,7 +137122,7 @@ flaques d'eau)
 \lx tɛ́gɛmagɛlɛn
 \mm tɛ́gɛma:n:main
 \mmm tɛ́gɛ:n:paume
-\mmm mà:mrph:SUPER
+\mmm ma:mrph:SUPER
 \mm gɛ̀lɛn:adj:difficile
 \ps adj
 \gf avare
@@ -137078,7 +137132,7 @@ flaques d'eau)
 \lx tɛ́gɛmagɛlɛn
 \mm tɛ́gɛma:n:main
 \mmm tɛ́gɛ:n:paume
-\mmm mà:mrph:SUPER
+\mmm ma:mrph:SUPER
 \mm gɛ̀lɛn:adj:difficile
 \ps n
 \gf avare
@@ -137088,7 +137142,7 @@ flaques d'eau)
 \lx tɛ́gɛmagɛlɛya
 \mm tɛ́gɛma:n:main
 \mmm tɛ́gɛ:n:paume
-\mmm mà:mrph:SUPER
+\mmm ma:mrph:SUPER
 \mm gɛ̀lɛ:adj:difficile
 \mm ya:mrph:ABSTR
 \ps n
@@ -137099,7 +137153,7 @@ flaques d'eau)
 \lx tɛ́gɛmagɛlɛya
 \mm tɛ́gɛma:n:main
 \mmm tɛ́gɛ:n:paume
-\mmm mà:mrph:SUPER
+\mmm ma:mrph:SUPER
 \mm gɛ̀lɛ:adj:difficile
 \mm ya:mrph:ABSTR
 \ps v
@@ -137584,7 +137638,7 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 \gf panaris.de.pouce
 \gvf panaris de pouce
 \ms 2
-\gf suppurations cutanées
+\gf suppurations.cutanées
 \gvf suppurations cutanées
 \smf (au bras)
 \dt 16/Aug/2006
@@ -140218,7 +140272,7 @@ est due aux paysans (kib 3/05 p.9)
 \ps n
 \gf cuillère.en.bois
 \gvf cuillère en bois
-\smf (grande cuillère en bois pour remuer le 'to')
+\smf (grande cuillère en bois pour remuer le 'tô')
 \sy npálako
 \dt 19/Aug/2006
 
@@ -144405,7 +144459,7 @@ aîné ... (Kb 11/06 p.4)
 \gvf tomber à grosses gouttes
 \smf (pluie, larmes)
 \gvf fuser
-\gvf crépiter
+\gvf crépiter
 \smf (balles)
 \ms 1.2
 \vl vt
@@ -144415,7 +144469,7 @@ aîné ... (Kb 11/06 p.4)
 petites boules
 \ms 2
 \vl vi
-\gvf tomber irrégulièrement
+\gvf tomber irrégulièrement
 \smf (pour des fruits)
 \dt 23/Aug/2018
 
@@ -144423,7 +144477,7 @@ petites boules
 \ps n
 \gf rayure
 \gvf marque en forme de rayure
-\gvf marques de décoloration sur le corps
+\gvf marques de décoloration sur le corps
 \smf (également sur les courges)
 \dt 23/Aug/2018
 
@@ -144794,7 +144848,7 @@ petites boules
 \ms 1.2
 \vl vi
 \gvf se desquamer
-\gvf se détacher par plaques
+\gvf se détacher par plaques
 \gvf se soulever par plaques
 \ms 2
 \vl vi
@@ -146808,6 +146862,7 @@ Mali)
 \dt 24/Apr/2018
 
 \lx wúli
+\va wíli
 \ps v
 \vl vi
 \gf bouillir
