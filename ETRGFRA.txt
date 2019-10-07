@@ -40,6 +40,27 @@ balikukalan sèriwusi... (Kibaru n°65, 1977)
 \smf ETRG.FRA
 \dt 07/Jun/2017
 
+\lx agarafezi
+\ps n
+\gf agrafeuse
+\xv a sɔrɔla ka tɔgɔwele daminɛ, sɔgɔlikɛlan agarafezi
+b'a bolo a ye sɛbɛnw fara ɲɔgɔn kan, k'u sɔgɔ
+ɲɔgɔn na. (Kibaru 566, 2019)
+\smf ETRG.FRA
+\dt 25/Aug/2019
+
+\lx akademi
+\ps n
+\gf académie
+\xv Kalan wulila ka ɲɛ bawo Jamana Kalanko Minisiriso
+ye taama dɔw labɛn min ye gafedi taama ye jamana
+marayɔrɔ kelen kelen kɔnɔ. Akademi kelen kelen
+sendonna o baaraw la ka ɲɛ. Gafew dira
+kalanyɔrɔw ɲɛmaaw ma, kalanden ka u magow ɲɛ u
+la.(Dibifara n°25, 2003)
+\smf ETRG.FRA
+\dt 07/Oct/2019
+
 \lx akɔridalize
 \ps n
 \gf accords.d'Alger
@@ -536,11 +557,12 @@ bɛ bɛn.(Kibaru n°527, 12/2015)
 \lx arayi
 \ps n
 \gf rail
+\va rayi
 \sy nɛ̀gɛsira
 \xv Nɛgɛsira (arayi) de tun ye Kayi marabolo taamasira
 jɔnjɔn ye kabini tubabutile la. (Kibaru 524, 2015)
 \smf ETRG.FRA
-\dt 28/Nov/2018
+\dt 14/Aug/2019
 
 \lx arazuware
 \ps n
@@ -633,6 +655,15 @@ a la ... (Dɔgɔtɔrɔ tɛ sigida min na, 2018)
 1%) jilama fura wɛrɛw kɛ den ɲɛ na. (Dɔgɔtɔrɔ tɛ sigida min na, 2018)
 \smf ETRG.FRA
 \dt 06/Dec/2018
+
+\lx arozuwari
+\ps n
+\gf arroisoir
+\xv I bɛ se k'a kɛ fiyɛlipɔnpe fana kɔnɔ, walima
+sɔnnikɛlan min bɛ wele arozuwari. (Kibaru 567,
+2019)
+\smf ETRG.FRA
+\dt 13/Sep/2019
 
 \lx arɔmu
 \ps n
@@ -1866,6 +1897,15 @@ caman yeli nisɔndiya kɛ yen.
 \smf ETRG.FRA
 \dt 29/Apr/2019
 
+\lx delege
+\ps n
+\gf délégué
+\xv Buguni sɛrikili delege ka nɔnabila y'a jira a ka
+kuma kɔnɔ ko fasojɔ hami de ye « RJDRE » tɔn bila
+nin wale in na.(Dibifara n°1, 2001)
+\smf ETRG.FRA
+\dt 02/Oct/2019
+
 \lx demokarati
 \ps n
 \gf Démocrates.parti.USA
@@ -2211,6 +2251,15 @@ kana a di denmisɛnniw ma. (Dɔgɔtɔrɔ tɛ sigida min na,
 \smf ETRG.FRA
 \dt 01/Dec/2018
 
+\lx dɔkitora
+\ps n
+\gf doctorat
+\xv A ye sanfɛkalan kɛ Faransijamana kan, ka
+sɔrɔkodɔnniya jalaba sɔrɔ yen, n'o ye dɔkitora
+ye.(Kibaru 567, 2019)
+\smf ETRG.FRA
+\dt 24/Sep/2019
+
 \lx dubile
 \ps n
 \gf doublé
@@ -2395,6 +2444,16 @@ kosɛbɛ. (Kibaru bɔko 531, 2016)
 \date
 \dt 21/May/2016
 
+\lx eremɔriku
+\ps n
+\gf remorque
+\xv A y'a seko damajira k'o la, nka mɔbili misɛnnin
+bolibaga m'a jaabi. Bɛɛ dun b'a dɔn ko kamiyɔnba
+minnu bɛ wele ko « eremɔriku », olu tɛ sira bila
+mɔgɔ ye sufɛ. (Kibaru345, 2000)
+\smf ETRG.FRA
+\dt 15/Aug/2019
+
 \lx eremɔrɔku
 \ps n
 \gf camion.remorque
@@ -2515,6 +2574,15 @@ sɔrɔdasi fugula bilenmantigiw ye. (Kibaru 539,
 \smf ETRG.FRA
 \dt 22/Jan/2017
 
+\lx erezisɛri
+\ps n
+\gf régisseur
+\xv Fɛn min ye Gofɛrɛnaman ka dilen ye, an ye baaraw
+kɛ n'o ye k'a tɔ kɛ ka mɛri sekeretɛri zenerali ni
+erezisɛriw ka sarako ɲɛnabɔ. (Dibifara n°3, 2001)
+\smf ETRG.FRA
+\dt 04/Oct/2019
+
 \lx erezisitiri
 \ps n
 \gf registre
@@ -2534,14 +2602,15 @@ kelen sigi u komini 5 tɔgɔ la. O welela erezo.
 \smf ETRG.FRA
 \dt 24/Apr/2017
 
-\lx erezɔn
+\lx érezɔn
 \ps n
+\va èrezɔn
 \gf région
 \xv bamakò dugu tè erezònw na belen, a tè sèrikiliw la
 belen, a kèra yòrò kèrènkèrènnen ye, min bè mara
 a dan na. (Kibaru n°65, 1977)
 \smf ETRG.FRA
-\dt 14/Mar/2015
+\dt 26/Jun/2019
 
 \lx erigotarati
 \ps n
@@ -2936,13 +3005,17 @@ ergotamine). (Dɔgɔtɔrɔ tɛ sigida min na, 2018)
 
 \lx ɛrini
 \ps n
+\va ereni
 \gf hernie
 \xv A fisa ka ka furudimi furakɛ kabini a daminɛ. Ni o
 tɛ a bɛ se ka basi bɔn jugumanba lase a tigi ma
 walima ɛrini. (Dɔgɔtɔrɔ tɛ sigida min na, 2018)
+\xv Farikolo yɔrɔ dɔ farali k'a kɔnɔfɛn npurugutu ka bɔ
+o wo fɛ, o bana de bɛ wele tubabukan na ereni
+(hernie). (Kibaru 550, 2017)
 \smf ETRG.FRA
 
-\dt 29/Nov/2018
+\dt 17/Aug/2019
 
 \lx ɛsikirimu
 \ps n
@@ -4059,6 +4132,16 @@ Bamakɔ n'a bɛ baara kɛ « zeni irirali » la, ...(Kibaru
 \smf ETRG.FRA
 \dt 12/Nov/2018
 
+\lx isiye
+\ps n
+\gf huissier
+\xv O sɛbɛn kɔnɔ, kiiri don n'a waati bɛ sɛbɛn. O sɛbɛn
+bɛ ci isiye ma, n'ale de bɛ sariyakow waleya, o bɛ
+sɔrɔ ka sɛbɛn lase kiiritigiw ma. (Dibifara n°15,
+2003)
+\smf ETRG.FRA
+\dt 07/Oct/2019
+
 \lx isoniyazidi
 \ps n
 \gf isoniazide
@@ -4736,6 +4819,15 @@ lajɛ) walima difenɔkisilati (lomotili) ɲɛci tɛ olu la (Dɔgɔtɔrɔ tɛ sig
 \smf ETRG.FRA
 \dt 23/Jan/2019
 
+\lx kazino
+\ps n
+\gf casino
+\va kasino
+\xv An bɛ don min na kazinoko kɛlen bɛ dantɛmɛ ye
+Mali kɔnɔ.  (Kibaru 563, 2018)
+\smf ETRG.FRA
+\dt 19/Aug/2019
+
 \lx kaziye
 \ps n
 \gf casier.hydraulique
@@ -5024,6 +5116,14 @@ fanga bɛ se kilowati (KWA) 363 ma. (Kibaru 498,
 \smf ETRG.FRA
 \dt 12/Nov/2018
 
+\lx kilɔti
+\ps n
+\gf culotte
+\xv 1 - Ɲugu min bɛ kilɔti la.  (...) 10 - Kilɔti kɔfɛ pɔshi.
+(Kibaru 325, 1999)
+\smf ETRG.FRA
+\dt 12/Aug/2019
+
 \lx kinakirini
 \ps n
 \gf quinacrine
@@ -5102,6 +5202,14 @@ feerelitabaliw, kiyɔsiw ani bitiki jirisoninw
 na.(Kibaru 506, 2014)
 \smf ETRG.FRA
 \dt 15/Nov/2018
+
+\lx kizini
+\ps n
+\gf cuisine
+\xv Min bɛ bɔ izini kɔnɔ ka don kizini kɔnɔ (Dibifara
+n°15, 2003)
+\smf ETRG.FRA
+\dt 07/Oct/2019
 
 \lx klɛ́rɔn
 \ps n
@@ -5471,6 +5579,15 @@ namaralen tun bɛ «kɔntarakitiyɛli» 662 bolo.
 (Kibaru 486, 2012)
 \smf ETRG.FRA
 \dt 22/Oct/2018
+
+\lx kɔntenɛri
+\ps n
+\gf conteneur
+\xv San o san mangoro tiɲɛ dimɔgɔw bɛ se ka mangoro
+kɔntenɛri kelen tiɲɛ Afiriki mɔgɔ dɔw ye. (Kibaru
+567, 2019)
+\smf ETRG.FRA
+\dt 13/Sep/2019
 
 \lx kɔntɛri
 \ps n
@@ -6771,6 +6888,18 @@ se ka « nɔtiw » ta, k'o bla u bolo kɔrɔ;(Jama n°11,
 \smf ETRG.FRA
 \dt 03/Feb/2019
 
+\lx mɛtirikibi
+\ps n
+\gf mètre-cube
+\xv Sumanw kɛrɛfɛ, caman bɔra jitiɲɛni na, bawo a tun
+bɛ san damadɔ bɔ ji hakɛ min tun bɛ labila
+forokɛnɛ taari kelen sɔnni kama, o tun bɛ mɛtirikibi
+25.000 ni 32.000 cɛ. Nka ɲinan o hakɛ dɔgɔyara ka
+kɛ mɛtirikibi 14.000 ni 20.000 cɛ. (Kibaru 325,
+1999)
+\smf ETRG.FRA
+\dt 12/Aug/2019
+
 \lx mɛtirizi
 \ps n
 \gf maîtrise
@@ -7154,6 +7283,15 @@ Nalɔkizɔni, Naloxone ye a lakari ye. (Dɔgɔtɔrɔ tɛ
 sigida min na, 2018)
 \smf ETRG.FRA
 \dt 29/Nov/2018
+
+\lx nasiyɔn
+\ps n
+\gf nation
+\xv Bɛnkan in bɛ se ka sɛmɛntiya, wa a sɛmɛntiyakunw
+bɛɛ bɛ mara Nasiyɔn Zuni bolokɔrɔ. (Dibifara n°3,
+2001)
+\smf ETRG.FRA
+\dt 04/Oct/2019
 
 \lx násɔnali
 \ps adj
@@ -7586,6 +7724,17 @@ mɔbilifeeresobaw fɛ,... (Kibaru 507, 2014)
 \smf ETRG.FRA
 \dt 06/Dec/2018
 
+\lx orokɛti
+\ps n
+\gf roquette
+\xv Marifa PM 5.943, karabini 3.736, mɛtɛrɛsi 990,
+pisitolɛ 473, orokɛti 225, maramafɛn girin 490,
+misili 6, gerenadi n'o ye pɛrɛnbaranin ye, o 3.177,
+obi n'o ye mugu jugu ye, o 201, olu de lakodɔnna
+k'o bɛ mɔgɔ murutilenw bolo.(Kibaru 564, 2019)
+\smf ETRG.FRA
+\dt 20/Aug/2019
+
 \lx oroman
 \ps n
 \psd
@@ -7617,17 +7766,6 @@ walima mizopɔrɔsitɔli (misoprostol) bɛ aw bolo
 kɔrɔ, aw bɛ o pikiri kɛ jibaatɔ la. (Dɔgɔtɔrɔ tɛ sigida min na, 2018)
 \smf ETRG.FRA
 \dt 04/Dec/2018
-
-\lx ozeforɛ
-\ps n
-\gf Administration.des.Eaux.et.Forêts
-\xv Mɔ̀gɔw kúmana ò yɛ̀rɛ̂ kàn kósɛbɛ, ò kɔ́fɛ̀ ká kúma
-ozoforɛ kó kàn. Ozoforɛ y'án dègun !... (Traoré,
-Hinɛ nana III.01)
-\smf ETRG.FRA
-\va zoforɛ
-\va ozoforɛ
-\dt 24/Jan/2018
 
 \lx ɔkisidi
 \ps n
@@ -8840,6 +8978,15 @@ bɛ kaso la ɲɔgɔn fɛ, nka o ma sɔn ka boli. (Kibaru
 \smf ETRG.FRA
 \dt 28/Nov/2018
 
+\lx poliyo
+\ps n
+\gf poliomyélite
+\xv Poliyo bɛ hadamaden lanɔgɔli min kɛ, k'a
+taamasenw faga, o bana tɛ Ala ka latigɛ ye, barisa
+boloci bɛ se k'a kunbɛn. (Kibaru 333, 1999)
+\smf ETRG.FRA
+\dt 13/Aug/2019
+
 \lx pomadi
 \ps n
 \va pomati
@@ -9207,11 +9354,12 @@ marifaforokow.(Kibaru 538, 2016)
 \lx pɔ́si
 \ps n
 \gf poche
+\va pɔ́shi
 \xv  o tuma, jelikɛ ye a bolo don pɔsi la ka syɛfan di a
 ma ani woro. (Meyer-Görög, Contes bambara,
 1985)
 \smf ETRG.FRA
-\dt 29/Mar/2019
+\dt 14/Aug/2019
 
 \lx pɔ́siti
 \va pɔ́site
@@ -9498,23 +9646,31 @@ vendre leurs services à Bamako.
 
 \lx sànpiɲɔn
 \ps n
+\va shànpiyɔn
 \gf champion
 \xv Tumani sera Libika dɔ la, ka tila ka Kɔdiwarika dɔ
 gosi; ka kɛ Afiriki sanpiɲɔn ye. (Kibaru, n°467)
+\xv Joliba kɛli shanpiyɔn dankan ye, o kɛra sababu ye u
+ka ekipu ka sefawari 100.000 donbolo sɔrɔ.
+(Kibaru 345, 2000)
 \smf ETRG.FRA
-\dt 12/Jun/2017
+\dt 15/Aug/2019
 
 \lx sànpiɲɔna
 \ps n
-\pf
+\va shànpiyɔna
 \gf championnat
 \xv O kɔrɔ ye ko Mali sanpiɲɔna fanga ka dɔgɔ, a
 ntolatantɔnw ka se ka dɔgɔ.(Kibaru bɔko 531,
 2016)
+\xv O ladiyalifɛn ɲɔgɔnna dira Mamadu KANTE ma, k'a
+jira k'a ɲɔgɔn bidonna ma ye ɲinan, bawo a kelen
+ye bi 15 don shanpiyɔna kunbɛn na.(Kibaru 345,
+2000)
 \smf ETRG.FRA
 \xf
 \date
-\dt 12/Jun/2017
+\dt 15/Aug/2019
 
 \lx sànpiyɔna
 \ps n
@@ -9846,13 +10002,17 @@ digilikɛlan dɔ, fiɲɛ bɛ kɛ min na, ka joli bɔyɔrɔ siri.(Dɔgɔtɔrɔ t�
 \lx sɛrɛwɛti
 \ps n
 \va seriwiyɛti
+\va sarabɛti
 \gf serviette
 \xv Aw bɛ sɔrɔ ka a bɛɛ meleke ni sɛrɛwɛti ye walasa
 funteni ka to a la. (Dɔgɔtɔrɔ tɛ sigida min na, 2018)
 \xv Finiw, dara ni seriwiyɛti nɔgɔlenw walima u
 jolimaw ka kan ka ladilan ni yɛrɛ kɔlɔsi ye.
+\xv Kasoden kelen-kelen bɛɛ bɛ sange kelen sɔrɔ, ani
+safunɛminɛn, ani yɛrɛjɔsilan (sarabɛti), ani
+samara.(Kibaru339, 2000)
 \smf ETRG.FRA
-\dt 05/Dec/2018
+\dt 14/Aug/2019
 
 \lx sɛ́rikili
 \ps n
@@ -10114,6 +10274,14 @@ Mari Kuri, o ye ŋanaya sɔrɔ dɔnniya dɔ la min bɛ
 wele tubabukan na simi. (Kibaru 559, 2018)
 \smf ETRG.FRA
 \dt 18/Oct/2018
+
+\lx simisi
+\ps n
+\gf chemise
+\xv 6. Ɲugu min bɛ simisi (duloki) numanfɛ bolo la.
+(Kibaru 325, 1999)
+\smf ETRG.FRA
+\dt 12/Aug/2019
 
 \lx singɔmin
 \ps n
@@ -11234,14 +11402,13 @@ nɔfɛ ka dɛsɛ.(Kibaru 535, 2016)
 
 \lx wiski
 \ps n
-\gf ETRG.FRA
-\gvf whisky
+\gf whisky
 \va wisiki
 \xv Namakɔrɔ Wulila ka sumalan Dayɛlɛ ka wisiki
 buteli ni dunden fla Ta, ani ji sumalen. (Ni san
 cyɛnna, jate tɛ kalo la. Mamadu Dukure)
 \smf ETRG.FRA
-\dt 12/Jun/2017
+\dt 24/Jun/2019
 
 \lx witamini
 \ps n
@@ -11422,6 +11589,16 @@ gentiane), ... (Dɔgɔtɔrɔ tɛ sigida min na, 2018)
 \smf ETRG.FRA
 \dt 05/Dec/2018
 
+\lx zapɔnɛ
+\ps n
+\gf japonais
+\xv Ɲɔgɔnbilasara lajɛ in labɛnna « SASAKAWA -
+GILOBALI 2000 » fɛ, n'o ye zapɔnɛw ni Amerikɛnw
+ka dɛmɛkɛ jɛkulu fila faralen ye ɲɔgɔn kan (Kibaru
+333, 1999)
+\smf ETRG.FRA
+\dt 13/Aug/2019
+
 \lx zaradɛn
 \ps n
 \gf jardin
@@ -11589,6 +11766,19 @@ farafinnɔgɔ kan.(Kibaru 536, 2016)
 \smf ETRG.FRA
 \dt 09/Oct/2018
 
+\lx zoforɛ
+\ps n
+\gf Administration.des.Eaux.et.Forêts
+\xv Mɔ̀gɔw kúmana ò yɛ̀rɛ̂ kàn kósɛbɛ, ò kɔ́fɛ̀ ká kúma
+ozoforɛ kó kàn. Ozoforɛ y'án dègun !... (Traoré,
+Hinɛ nana III.01)
+\smf ETRG.FRA
+\va zofɔrɛ
+\va zofore
+\va ozeforɛ
+\va ozoforɛ
+\dt 24/Jun/2019
+
 \lx zomɛtɛrɛ
 \ps n
 \psd
@@ -11604,11 +11794,16 @@ caman ka baara tun jɔra. (Kibaru 535, 2016)
 
 \lx zóni
 \ps n
+\va zɔ́ni
 \gf zone
 \xv  jagokɛla don Zoni Endisiriyɛli la Bamakɔ (Kibaru
 n°527, 12/2015)
+\xv Ofisi di Nizɛri sigida ka bon kosɛbɛ. A tilalen don
+k'a kɛ sigida duuru ye; o sigidaw bɛ wele ko «
+zɔniw ». O dugu dɔw ye Kolongo Ɲɔnɔ, Molodo,
+Ntenbugu, ani Kurumari ye.(Kibaru 345, 2000)
 \smf ETRG.FRA
-\dt 16/May/2017
+\dt 15/Aug/2019
 
 \lx zɔnki
 \ps n
@@ -11620,6 +11815,15 @@ kurunba min kan, o tun bɛ wele ko Zɔnki.(Kibaru
 \smf ETRG.FRA
 
 \dt 14/Oct/2017
+
+\lx zurunali
+\ps n
+\gf journal
+\xv Anw b'an ka kunnafonisɛbɛnw ci kibaru ma, an t'an
+ka kunnafoniw lamɛn arajo la; wa an m'u ye fɔlɔ
+zurunali kɔnɔ. (Kibaru 333, 1999)
+\smf ETRG.FRA
+\dt 13/Aug/2019
 
 \lx zusitisi
 \ps n
@@ -11648,9 +11852,18 @@ la.(Kibaru 548, 2017)
 \ps n
 \va ziyifu
 \va zuifu
-\gf juif
+\gf Juif
+\gvf juif
 \xv Zuyifuw ye siya dɔ ye, an b'a fɔ u ma yahudiyaw
 walima banisiralakaw.(Kibaru 538, 2016)
-\xf
 \smf ETRG.FRA
-\dt 15/Nov/2018
+\dt 24/Jun/2019
+
+\lx zuzi
+\ps n
+\gf juge
+\xv Nka, kiiritigɛla (n'o ye zuzi ye), o fana bɛ se k'i ban
+ko segin ka kɛ kiiri kan tuguni k'a da kiiri tigɛcogo
+lahalayaw kan sariya kɔnɔ.(Dibifara n°15, 2003)
+\smf ETRG.FRA
+\dt 07/Oct/2019
