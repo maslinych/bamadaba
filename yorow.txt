@@ -2330,6 +2330,14 @@ Tombouctou)
 \gvf Guinée-Bissau
 \dt 23/May/2010
 
+\lx Gize
+\ps n.prop
+\gf TOP
+\gvf Gizeh
+\gvf Giza
+\smf (ville en Egypte où se trouvent les pyramides)
+\dt 27/Oct/2019
+
 \lx Gomakura
 \ps n.prop
 \gf TOP
@@ -2525,10 +2533,11 @@ Tombouctou)
 \dt 22/Feb/2019
 
 \lx Indonezi
+\va Ɛndonesi
 \ps n.prop
 \gf TOP
 \gvf Indonésie
-\dt 22/Feb/2019
+\dt 27/Oct/2019
 
 \lx Inekari
 \ps n.prop
@@ -6275,6 +6284,12 @@ région de Sikasso)
 \smf (pays)
 \gvf Syrie
 \dt 15/Sep/2016
+
+\lx Sirilanka
+\ps n.prop
+\gf TOP
+\gvf Sri Lanka
+\dt 27/Oct/2019
 
 \lx Sitakili
 \ps n.prop

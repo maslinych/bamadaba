@@ -83460,6 +83460,7 @@ catastrophe)
 \dt 15/Mar/2017
 
 \lx làfiya
+\va làafiya
 \va làfya
 \ph [fy]
 \bw ar: al-'afia = repos
@@ -83472,7 +83473,7 @@ catastrophe)
 \xf beaucoup de gens sont heureux, mais ne sont pas à rien faire
 \xv í k'í tɔ́n-tɔ́n  kà dén dɛ̀mɛ  wáasa  à bɛ́ làfiya  hɛ́rɛ lá
 \xf pousse, aide l'enfant (qui va naître) pour qu'il soit bien reposé
-\dt 26/Sep/2006
+\dt 27/Oct/2019
 
 \lx làfiyadon
 \mm làfiya:v:se.reposer
@@ -139019,12 +139020,16 @@ leur signature à ce prêt remboursable (kb 11/04 p.3)
 
 \lx tímina
 \mm tími:v:s'appliquer
-\mm na:mrph:MNT1
+\mm na:mrph:à
+\va tíminan
+\mm tími:v:s'appliquer
+\mm nan:mrph:à
 \ps n
 \gf application
 \gvf application
 \xv ní mín tímina ká dí, à ná dòn  dá lá
 \xf celui qui s'applique va réussir
+\dt 27/Oct/2019
 
 \lx tíminandi
 \mm tími:v:s'appliquer
