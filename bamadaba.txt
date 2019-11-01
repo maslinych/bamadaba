@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+\_sh v3.0  1296 MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -948,9 +948,8 @@ les deux flancs'
 \ps n
 \gf arrondissement
 \gvf arrondissement
-\smf (une ancienne division administrative, maintenant correspond
-à cercle, sɛ́rikili)
-\dt 26/Feb/2017
+\smf (une division administrative, équivalente de la sous-préfecture)
+\dt 31/Oct/2019
 
 \lx ásipirini
 \ps n
@@ -18544,6 +18543,28 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \gvf messager
 \dt 02/Mar/2019
 
+\lx címicama
+\ps n
+\ms 1
+\gf bosson.alcoolisé
+\gvf bosson alcoolisé
+\ms 2
+\gvf cerveau dérangé
+\smf (perte de contrôle temporaire de ses actions)
+\dt 30/Oct/2019
+
+\lx címicama
+\ps v
+\ms 1
+\vl vt
+\gf soûler
+\gvf soûler
+\gvf enivrer
+\ms 2
+\vl vr
+\gvf se soûler
+\dt 30/Oct/2019
+
 \lx cín
 \va kín
 \ps v
@@ -28729,35 +28750,6 @@ chefs religieux et représentants de l'administration
 \dt 11/Mar/2019
 
 \lx díyagoya
-\mm díya:n:bon.goût
-\mmm dí:vq:agréable
-\mmm ya:mrph:DEQU
-\mm gó:vq:désagréable
-\mm ya:mrph:DEQU
-\va díyakoya
-\mm díya:n:bon.goût
-\mmm dí:vq:agréable
-\mmm ya:mrph:DEQU
-\mm kó:vq:désagréable
-\mm ya:mrph:DEQU
-\va jákoya
-\mm já:n:bon.goût
-\mm kó:vq:désagréable
-\mm ya:mrph:DEQU
-\va jágoya
-\mm já:n:bon.goût
-\mm gó:vq:désagréable
-\mm ya:mrph:DEQU
-\ph [jakoya]
-\ps n
-\gf contrainte
-\gvf contrainte
-\xv díyagoya lá
-\xv díyagoya rɔ́
-\xf bon gré, mal gré (de force)
-\dt 11/Mar/2019
-
-\lx díyagoya
 \mm díya:v:rendre.agréable
 \mmm dí:vq:agréable
 \mmm ya:mrph:DEQU
@@ -28798,6 +28790,35 @@ chefs religieux et représentants de l'administration
 \gf de.force
 \gvf de force
 \dt 11/Mar/2019
+
+\lx díyagòya
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\mm gó:vq:désagréable
+\mm ya:mrph:DEQU
+\va díyakòya
+\mm díya:n:bon.goût
+\mmm dí:vq:agréable
+\mmm ya:mrph:DEQU
+\mm kó:vq:désagréable
+\mm ya:mrph:DEQU
+\va jákòya
+\mm já:n:bon.goût
+\mm kó:vq:désagréable
+\mm ya:mrph:DEQU
+\va jágòya
+\mm já:n:bon.goût
+\mm gó:vq:désagréable
+\mm ya:mrph:DEQU
+\ph [jakoya]
+\ps n
+\gf contrainte
+\gvf contrainte
+\xv díyagòya lá
+\xv díyagòya rɔ́
+\xf bon gré, mal gré (de force)
+\dt 27/Oct/2019
 
 \lx díyagoyabaara
 \mm díyagoya:adv.p:de.force
@@ -30065,10 +30086,13 @@ chefs religieux et représentants de l'administration
 
 \lx dóoli
 \ps n
+\ms 1
 \gf tabac
 \gvf tabac
 \smf (fumé pour les fiançailles en signe d'alliance)
-\dt 16/Aug/2006
+\ms 2
+\gvf tabac pour chiquer
+\dt 30/Oct/2019
 
 \lx dòolo
 \va dòlo
@@ -57940,10 +57964,10 @@ fusil)
 \va júga
 \ve (f)
 \ps n
-\vl rn
+\vl rn, fn
 \gf poche
 \gvf poche
-\dt 07/Oct/2019
+\dt 27/Oct/2019
 
 \lx jùfɛ̀
 \mm jù:n:derrière
@@ -59514,7 +59538,7 @@ l'eau est prête
 \gvf nuage
 \dt 16/Aug/2006
 
-\lx  kábakuru
+\lx kábakuru
 \mm kába:n:pierre
 \mm kùru:n:boule
 \va kábakurun
@@ -59526,7 +59550,7 @@ l'eau est prête
 \gvf bloc de pierre
 \ms 2
 \gvf savon en boule
-\dt 06/Oct/2019
+\dt 01/Nov/2019
 
 \lx kàbakurun
 \mm kàba:n:ciel
@@ -60123,12 +60147,15 @@ l'eau est prête
 \xf le manche de la hache a cassé
 \ms 3
 \gvf os long
-\ms 4
+\ms 4.1
 \gvf sort
 \xv ù yé  kàla dá
-\xf ils ont tiré à la courte paille (pour connaître qqch) --> ň5
+\xf ils ont tiré à la courte paille (pour connaître qqch)
 \xv kàla fìli
 \xf voter
+\ms 4.2
+\gvf numéro
+\smf (en football)
 \ms 5
 \gvf connaissance
 \xv né má  kàla dɔ́n  à lá
@@ -60142,7 +60169,7 @@ l'eau est prête
 \gvf cause de malheur
 \xv dɔ̀lɔmin kɛ́ra à kàla yé
 \xf l'alcoolisme l'a fait mourir
-\dt 24/Jan/2019
+\dt 28/Oct/2019
 
 \lx kála
 \ps n
@@ -61882,12 +61909,13 @@ prolapsus utérin
 \dt 26/Sep/2006
 
 \lx kána
+\va kánan
 \ps v
 \vl vt
 \gf émonder
 \gvf émonder
 \gvf tailler
-\dt 26/Sep/2006
+\dt 27/Oct/2019
 
 \lx kána
 \ps n
@@ -81949,11 +81977,12 @@ catastrophe)
 
 \lx làaka
 \va làka
+\va làga
 \ps n
 \gf bouillie.crémeuse
 \gvf bouillie crémeuse
 \smf (c'est le "seri" des Wolofs)
-\dt 16/Aug/2006
+\dt 27/Oct/2019
 
 \lx làalà
 \va làlà
@@ -115818,7 +115847,8 @@ le pèlerinage (bk 1/06 p.5)
 \vl vt
 \gf tordre.de.force
 \gvf tordre de force
-\dt 16/Aug/2006
+\gvf courber
+\dt 30/Oct/2019
 
 \lx ŋàara
 \va ngàra
@@ -125882,8 +125912,8 @@ gouvernement le soutient (kb 5/06 p.7)
 \ps n
 \gf cercle
 \gvf cercle
-\smf (administratif)
-\dt 10/Jun/2015
+\smf (division administrative, correspond à la préfecture)
+\dt 31/Oct/2019
 
 \lx sɛ̀riwusi
 \va sɛ̀rɛwusi
@@ -147508,6 +147538,12 @@ Mali)
 \gvf calebasse sp
 \smf (sert d'instrument rythmique pour les hommes)
 \dt 16/Aug/2006
+
+\lx yáabe
+\ps n
+\gf but.contre.son.camp
+\gvf but contre son camp
+\dt 31/Oct/2019
 
 \lx yàabu
 \ps n
