@@ -120538,14 +120538,14 @@ langue, et finit par empêcher de marcher)
 \dt 12/Sep/2019
 
 \lx sànanko
-\mm sànan:n:gratin
+\mm sànan:n:brûlé
 \mm kò:v:laver
 \ps v
 \vl vt
 \gf rincer
 \gvf rincer
 \smf (à l'eau claire)
-\dt 16/Aug/2006
+\dt 02/Nov/2019
 
 \lx sánasana
 \va sínasina
@@ -131245,6 +131245,7 @@ euphémique)
 \va shɔ́lɔ
 \ph [shyɔlɔ]
 \va syɔ́lɔ
+\va shyɔ́lɔ
 \va syólo
 \ps v
 \vl vt
@@ -131256,7 +131257,20 @@ euphémique)
 \smf (faire sortir en comprimant (vider les intestins ...))
 \ms 3
 \gvf filtrer
-\dt 06/Oct/2019
+\dt 02/Nov/2019
+
+\lx sɔ́ɔlɔlan
+\mm sɔ́ɔlɔ:v:égoutter
+\mm lan:mrph:INSTR
+\va shyɔ́lɔlan
+\mm shyɔ́lɔ:v:égoutter
+\mm lan:mrph:INSTR
+\ph [shy..]
+\ps n
+\gf passoire
+\gvf passoire
+\gvf filtre
+\dt 02/Nov/2019
 
 \lx sɔ́ɔnin
 \va sɔ́ɔni
@@ -134337,19 +134351,6 @@ fiançailles
 \gvf calebasse percée
 \smf (pour le beurre de karité ...)
 \dt 16/Aug/2006
-
-\lx syɔ́lɔlan
-\mm syɔ́lɔ:v:égoutter
-\mm lan:mrph:INSTR
-\va shyɔ́lɔlan
-\mm shyɔ́lɔ:v:égoutter
-\mm lan:mrph:INSTR
-\ph [shy..]
-\ps n
-\gf passoire
-\gvf passoire
-\gvf filtre
-\dt 11/Apr/2019
 
 \lx syɔ̀manyɛ̀
 \va syɔ̀manjɛ̀
