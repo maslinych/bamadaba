@@ -140,7 +140,7 @@
 \smf (enfin, j'ai compris)
 \dt 27/Nov/2014
 
-\lx akademi
+\lx ákademi
 \ps n
 \gf académie
 \gvf académie
@@ -935,8 +935,8 @@ les deux flancs'
 
 \lx arozuwari
 \ps n
-\gf arrosoire
-\gvf arrosoire
+\gf arrosoir
+\gvf arrosoir
 \dt 03/Nov/2019
 
 \lx árɔndisiman
@@ -26099,7 +26099,8 @@ génitales ...)
 \xf il vit de ses yeux ce qu'étaient leurs corvées  / il est opprimé, oppressé
 \dt 11/Nov/2007
 
-\lx delege
+\lx dèlege
+\va délege
 \ps n
 \gf délégué
 \gvf délégué
@@ -33943,6 +33944,12 @@ gens)
 \gvf noctuelle des bourgeons du tabac
 \smf (une parasite de coton qui mange les fruits non-mûrs)
 \dt 13/Mar/2018
+
+\lx éreni
+\ps n
+\gf hernie
+\gvf hernie
+\dt 03/Nov/2019
 
 \lx eresi
 \ps n
@@ -51084,7 +51091,7 @@ doigts par des fileuses du coton)
 \gvf genie
 \dt 17/Mar/2018
 
-\lx isiye
+\lx ísiye
 \ps n
 \gf huissier
 \gvf huissier
@@ -67185,7 +67192,7 @@ probablement de chaux vive)
 \gvf kilomètre carré
 \dt 25/Mar/2019
 
-\lx kilɔti
+\lx kìlɔti
 \bw Fr. culotte
 \ps n
 \gf culotte
@@ -118037,7 +118044,7 @@ envergure)
 \gf politique
 \gvf politique
 
-\lx poliyo
+\lx póliyo
 \bw Fr. polio
 \ps n
 \gf poliomyélite
@@ -118494,12 +118501,6 @@ envergure)
 \gf très.propre
 \gvf très propre
 \dt 19/Jan/2015
-
-\lx reni
-\ps n
-\gf hernie
-\gvf hernie
-\dt 03/Nov/2019
 
 \lx rɔ́
 \va lɔ́
@@ -127371,7 +127372,7 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \nt donniya  5/6 p. 17
 \dt 11/Nov/2007
 
-\lx simisi
+\lx símisi
 \bw Fr. chemise
 \ps n
 \gf chemise
@@ -150426,7 +150427,7 @@ généreuses, avec bourrelets)
 \gvf zone
 \dt 01/May/2017
 
-\lx zɔni
+\lx zɔ́ni
 \bw Fr. zone
 \ps n
 \gf zone
@@ -150447,7 +150448,7 @@ généreuses, avec bourrelets)
 \gvf juillet
 \dt 30/Jun/2017
 
-\lx zurunali
+\lx zúrunali
 \bw Fr. journal
 \ps n
 \gf journal
