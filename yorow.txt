@@ -1830,11 +1830,12 @@ Tadmekka)
 \dt 09/Dec/2018
 
 \lx Ɛndonezi
+\va Indonezi
+\va Ɛndonesi
 \ps n.prop
 \gf TOP
-\smf (pays)
 \gvf Indonésie
-\dt 11/Mar/2018
+\dt 03/Nov/2019
 
 \lx Ɛ̀ndu
 \va Híndi
@@ -2531,13 +2532,6 @@ Tombouctou)
 \gf TOP
 \gvf Inde
 \dt 22/Feb/2019
-
-\lx Indonezi
-\va Ɛndonesi
-\ps n.prop
-\gf TOP
-\gvf Indonésie
-\dt 27/Oct/2019
 
 \lx Inekari
 \ps n.prop
@@ -5931,6 +5925,13 @@ affluent de Niger)
 \gvf San Pedro
 \smf (une ville portuaire en Côte d'Ivoire)
 \dt 01/Feb/2017
+
+\lx Sansana
+\ps n.prop
+\gf TOP
+\gvf Sanzana
+\smf (commune dans le cercle de Sikasso)
+\dt 03/Nov/2019
 
 \lx Sánso
 \ps n.prop

@@ -4,22 +4,6 @@
 \name bamadaba
 \ver 0.5.4
 
-\lx `
-\va gwánsan
-\ph [gw]
-\ps adj
-\ms 1
-\gf gratuit
-\gvf gratuit
-\ms 2
-\gvf inutile
-\ms 3
-\gvf ordinaire
-\xv séli tɛ́ bì, nká  dón gánsan tɛ́
-\xf ce n'est pas une fête aujourd'hui,
-\xf mais ce n'est pas un jour ordinaire
-\dt 07/Oct/2019
-
 \lx à
 \ms 1
 \ps pers
@@ -155,6 +139,12 @@
 \gvf bon
 \smf (enfin, j'ai compris)
 \dt 27/Nov/2014
+
+\lx akademi
+\ps n
+\gf académie
+\gvf académie
+\dt 03/Nov/2019
 
 \lx ákara
 \ve (-bn,bk)
@@ -942,6 +932,12 @@ les deux flancs'
 \gvf Arma
 \smf (descendants des invahisseurs marocains de 16 siècle)
 \dt 05/Feb/2016
+
+\lx arozuwari
+\ps n
+\gf arrosoire
+\gvf arrosoire
+\dt 03/Nov/2019
 
 \lx árɔndisiman
 \va árɔndiseman
@@ -26103,6 +26099,12 @@ génitales ...)
 \xf il vit de ses yeux ce qu'étaient leurs corvées  / il est opprimé, oppressé
 \dt 11/Nov/2007
 
+\lx delege
+\ps n
+\gf délégué
+\gvf délégué
+\dt 03/Nov/2019
+
 \lx dèli
 \va dɛ̀li
 \ps n
@@ -30734,14 +30736,14 @@ le nom du groupe ethnique)
 \lx dɔ̀gɔtɔrɔmobili
 \mm dɔ̀gɔtɔrɔ:n:docteur
 \mm móbili:n:automobile
-\va dɔ́kɔtɔrɔmobili
+\va dɔ̀kɔtɔrɔmobili
 \mm dɔ̀kɔtɔrɔ:n:docteur
 \mm móbili:n:automobile
 \ps n
 \gf ambulance
 \gvf ambulance
 \rem du /l 89/
-\dt 03/Oct/2019
+\dt 03/Nov/2019
 
 \lx dɔ̀gɔtɔrɔmuso
 \mm dɔ̀gɔtɔrɔ:n:docteur
@@ -45992,6 +45994,22 @@ forestières, fruit : long follicule de 50 cm)
 \xf on ne le fait pas sans raison
 \dt 26/Sep/2006
 
+\lx gánsan
+\va gwánsan
+\ph [gw]
+\ps adj
+\ms 1
+\gf gratuit
+\gvf gratuit
+\ms 2
+\gvf inutile
+\ms 3
+\gvf ordinaire
+\xv séli tɛ́ bì, nká  dón gánsan tɛ́
+\xf ce n'est pas une fête aujourd'hui,
+\xf mais ce n'est pas un jour ordinaire
+\dt 03/Nov/2019
+
 \lx gánse
 \va gánsi
 \ve (-f,-bk,-bn)
@@ -51065,6 +51083,12 @@ doigts par des fileuses du coton)
 \gvf esprit
 \gvf genie
 \dt 17/Mar/2018
+
+\lx isiye
+\ps n
+\gf huissier
+\gvf huissier
+\dt 03/Nov/2019
 
 \lx itali
 \ps n
@@ -58601,14 +58625,6 @@ composante des adjectifs séparables)
 \smf (partie de la volaille : sternum + aile)
 \dt 16/Aug/2006
 
-\lx jùngun
-\va jùnkun
-\ps n
-\gf bosse
-\gvf bosse
-\smf (d'un animal : zébu ...)
-\dt 14/Oct/2019
-
 \lx júngurunjɛngɛrɛn
 \ps v
 \vl vi
@@ -58635,6 +58651,14 @@ composante des adjectifs séparables)
 \gvf semer
 \smf (en laissant tomber)
 \dt 16/Aug/2006
+
+\lx jùnkun
+\va jùngun
+\ps n
+\gf bosse
+\gvf bosse
+\smf (d'un animal : zébu ...)
+\dt 03/Nov/2019
 
 \lx jùrɔfɛn
 \mm jù:n:derrière
@@ -61915,7 +61939,7 @@ prolapsus utérin
 \gf émonder
 \gvf émonder
 \gvf tailler
-\dt 27/Oct/2019
+\dt 03/Nov/2019
 
 \lx kána
 \ps n
@@ -67160,6 +67184,13 @@ probablement de chaux vive)
 \gf kilomètre.carré
 \gvf kilomètre carré
 \dt 25/Mar/2019
+
+\lx kilɔti
+\bw Fr. culotte
+\ps n
+\gf culotte
+\gvf culotte
+\dt 03/Nov/2019
 
 \lx kìn
 \ps n
@@ -81951,10 +81982,11 @@ kúrunninle
 \dt 08/Feb/2017
 
 \lx láafu
+\va láfu
 \ps n
 \gf faiblesse
 \gvf faiblesse
-\dt 08/Feb/2017
+\dt 03/Nov/2019
 
 \lx láahawula
 \va láayilaa
@@ -118005,6 +118037,14 @@ envergure)
 \gf politique
 \gvf politique
 
+\lx poliyo
+\bw Fr. polio
+\ps n
+\gf poliomyélite
+\gvf poliomyélite
+\gvf polio
+\dt 03/Nov/2019
+
 \lx pònpóron
 \va pɔ̀npɔ́rɔn
 \bw fr : poivron
@@ -118310,10 +118350,12 @@ envergure)
 \dt 26/Sep/2006
 
 \lx pɔ́si
+\va pɔ́shi
+\bw Fr. poche
 \ps n
 \gf poche
 \gvf poche
-\dt 01/May/2017
+\dt 03/Nov/2019
 
 \lx pɔ́site
 \va pɔ́sitɛ
@@ -118452,6 +118494,12 @@ envergure)
 \gf très.propre
 \gvf très propre
 \dt 19/Jan/2015
+
+\lx reni
+\ps n
+\gf hernie
+\gvf hernie
+\dt 03/Nov/2019
 
 \lx rɔ́
 \va lɔ́
@@ -120538,14 +120586,12 @@ langue, et finit par empêcher de marcher)
 \dt 12/Sep/2019
 
 \lx sànanko
-\mm sànan:n:brûlé
-\mm kò:v:laver
 \ps v
 \vl vt
 \gf rincer
 \gvf rincer
 \smf (à l'eau claire)
-\dt 02/Nov/2019
+\dt 03/Nov/2019
 
 \lx sánasana
 \va sínasina
@@ -121502,17 +121548,19 @@ langue, et finit par empêcher de marcher)
 
 \lx sánpiɲɔna
 \va sánpiyɔna
+\va shánpiyɔna
 \ps n
 \gf championnat
 \gvf championnat
-\dt 16/Sep/2016
+\dt 03/Nov/2019
 
 \lx sànpiyɔn
 \va sànpiɲɔn
+\va shànpiyɔn
 \ps n
 \gf champion
 \gvf champion
-\dt 16/Sep/2016
+\dt 03/Nov/2019
 
 \lx sánpɔ̀rɔn
 \mm npɔ̀rɔn:n:sifflement.de.mépris
@@ -127322,6 +127370,13 @@ multiplié par : mùgan  sìgìyɔ̀rɔ̀ma sàba 20 x 3 = 60  )
 \gvf présure
 \nt donniya  5/6 p. 17
 \dt 11/Nov/2007
+
+\lx simisi
+\bw Fr. chemise
+\ps n
+\gf chemise
+\gvf chemise
+\dt 03/Nov/2019
 
 \lx sìmɔ
 \mm sì:n:karité
@@ -147799,9 +147854,9 @@ Mali)
 \ve (bmk)
 \bw ar: yahudiyya = judaïsme
 \ps n
-\gf juif
-\gvf juif
-\dt 24/Jun/2019
+\gf Juif
+\gvf Juif
+\dt 03/Nov/2019
 
 \lx yàkubaya
 \ps v
@@ -150299,6 +150354,14 @@ généreuses, avec bourrelets)
 \gvf janvier
 \dt 01/Feb/2017
 
+\lx zaponɛ
+\va zapɔnɛ
+\bw Fr. japonais
+\ps n
+\gf Japonais
+\gvf Japonais
+\dt 03/Nov/2019
+
 \lx zawɛliji
 \mm jí:n:eau
 \ps n
@@ -150362,6 +150425,13 @@ généreuses, avec bourrelets)
 \gvf zone
 \dt 01/May/2017
 
+\lx zɔni
+\bw Fr. zone
+\ps n
+\gf zone
+\gvf zone
+\dt 03/Nov/2019
+
 \lx zú
 \bw fr : joug
 \ps n
@@ -150375,6 +150445,13 @@ généreuses, avec bourrelets)
 \gf juillet
 \gvf juillet
 \dt 30/Jun/2017
+
+\lx zurunali
+\bw Fr. journal
+\ps n
+\gf journal
+\gvf journal
+\dt 03/Nov/2019
 
 \lx zùwɛn
 \bw fr : juin
