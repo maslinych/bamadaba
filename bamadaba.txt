@@ -143978,14 +143978,16 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 \dt 16/Aug/2006
 
 \lx wàlaha
-\bw ar.
+\bw ar: lawha = id. avec métathèse
 \ps n
+\ms 1
 \gf planchette
 \gvf planchette
 \smf (du marabout)
+\ms 2
 \gvf billot
 \smf (du boucher)
-\dt 28/Jul/2019
+\dt 03/Nov/2019
 
 \lx wálaki
 \va wálanki
@@ -144031,7 +144033,6 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 \dt 16/Aug/2006
 
 \lx wàlan
-\va wàlaha
 \bw ar: lawha = id. avec métathèse
 \ps n
 \gf planchette
@@ -144040,7 +144041,7 @@ termes plus neutres bólominɛ et súnamɔgɔ)
 planchette)
 \xv kà wàlan sɛ̀mɛ
 \xe démissionner, se retirer
-\dt 30/Apr/2017
+\dt 03/Nov/2019
 
 \lx wálan
 \va wála
