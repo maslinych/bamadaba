@@ -5365,14 +5365,14 @@ Fleurs spectaculaires)
 \lx báramɔgɔ
 \mm bára:pp:chez
 \mm mɔ̀gɔ:n:homme
-\va baramaa
+\va báramaa
 \mm bára:pp:chez
 \mm màa:n:homme
 \ps n
 \gf personne.de.la.maison
 \gvf personne de la maison
 \smf (de la famille)
-\dt 26/Sep/2006
+\dt 04/Nov/2019
 
 \lx báramuso
 \mm bára:n:préféré
@@ -6184,14 +6184,14 @@ furoncles, inf. urinaires)
 \dt 23/Feb/2014
 
 \lx básila
-\va basiya
+\va básiya
 \ve (f)
 \ps n
 \gf pagne.traditionnel.des.excisées
 \gvf pagne traditionnel des excisées
 \smf (teint en brun noir sur fond écru avec des motifs géométriques)
 \sy bɔ̀gɔlan
-\dt 16/Aug/2006
+\dt 04/Nov/2019
 
 \lx básima
 \mm bási:n:sang
@@ -8653,7 +8653,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \mm bìla:v:mettre
 \mm kó:n:affaire
 \mm rɔ́:pp:IN
-\va bilakola
+\va bìlakola
 \mm bìla:v:mettre
 \mm kó:n:affaire
 \mm lá:pp:à
@@ -8665,7 +8665,7 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \smf (qui crée des histoires à ...)
 \ms 2
 \smf (qui s'occupe de ce qui ne lui regarde pas)
-\dt 19/Aug/2006
+\dt 04/Nov/2019
 
 \lx bìlakun
 \mm bìla:v:mettre
@@ -22921,6 +22921,12 @@ pas)
 \mmm lan:mrph:INSTR
 \mm ná:pp:à
 \mm bàna:n:maladie
+\va dílannabana
+\mm dílan:n:lit
+\mmm dá:v:poser
+\mmm lan:mrph:INSTR
+\mm ná:pp:à
+\mm bàna:n:maladie
 \va dlánnabana
 \mm dlán:n:lit
 \mmm dá:v:poser
@@ -22933,7 +22939,7 @@ pas)
 \gvf impuissance sexuelle
 \sy jàlagɔsi
 \sy cɛ̀yasa
-\dt 08/Mar/2019
+\dt 04/Nov/2019
 
 \lx dálaɲini
 \mm dá:n:bouche
@@ -26099,6 +26105,13 @@ génitales ...)
 \xf il vit de ses yeux ce qu'étaient leurs corvées  / il est opprimé, oppressé
 \dt 11/Nov/2007
 
+\lx délegasɔn
+\bw fr. délégation
+\ps n
+\gf délégation
+\gvf délégation
+\dt 04/Nov/2019
+
 \lx dèlege
 \va délege
 \ps n
@@ -28562,14 +28575,14 @@ chefs religieux et représentants de l'administration
 \mm fílen:n:calebasse.demi-sphérique
 \mm kólo:n:os
 \mm nin:mrph:DIM
-\va disifilennin
+\va dísifilennin
 \mm dísi:n:poitrine
 \mm fílen:n:calebasse.demi-sphérique
 \mm nin:mrph:DIM
 \ps n
 \gf appendice.xyphoïde
 \gvf appendice xyphoïde
-\dt 11/Mar/2019
+\dt 04/Nov/2019
 
 \lx dísikolo
 \mm dísi:n:poitrine
@@ -30501,13 +30514,13 @@ l'occasion d'une naissance)
 \mm dɔ́gɔ:vq:étroit
 \mm dɔ́gɔ:vq:étroit
 \mm nin:mrph:DIM
-\va dɔndɔɔnin
+\va dɔ́ndɔɔnin
 \mm dɔ́gɔ:vq:étroit
 \mm nin:mrph:DIM
 \ps adv.p
 \gf doucement
 \gvf doucement
-\dt 14/Mar/2019
+\dt 04/Nov/2019
 
 \lx dɔ́gɔdɔgɔninfeerela
 \mm dɔ́gɔdɔgɔnin:adv.p:doucement
@@ -31725,14 +31738,14 @@ plus rien
 
 \lx dúfa
 \ve (f)
-\va duba
+\va dúba
 \ve (bn)
 \ps n
 \gf divination
 \gvf divination
 \xv sù kɔ́ dúfa kɛ́ra
 \xf suite au décès, on a fait la divination (traditionnelle)
-\dt 12/Aug/2006
+\dt 04/Nov/2019
 
 \lx dúfa
 \va dúga
@@ -33946,10 +33959,12 @@ gens)
 \dt 13/Mar/2018
 
 \lx éreni
+\va érini
+\va ɛ́reni
 \ps n
 \gf hernie
 \gvf hernie
-\dt 03/Nov/2019
+\dt 04/Nov/2019
 
 \lx eresi
 \ps n
@@ -42846,13 +42861,13 @@ sur le ventre -- í kɔ́nɔ kàn)
 \dt 16/Aug/2006
 
 \lx fɔ́ri
-\va fɔrin
+\va fɔ́rin
 \ps v
 \vl vt
 \gf détacher.délicatement
 \gvf détacher délicatement
 \smf (feuilles, graines ...)
-\dt 26/Sep/2006
+\dt 04/Nov/2019
 
 \lx fɔ́rɔ
 \ps n
@@ -80898,11 +80913,11 @@ Sahel)
 \dt 01/Jun/2016
 
 \lx kúpudimɔndi
-\va kupudimɔni
+\va kúpudimɔni
 \ps n
 \gf coupe.du.monde
 \gvf coupe du monde
-\dt 01/Jun/2016
+\dt 04/Nov/2019
 
 \lx kúra
 \ps adj
@@ -93906,7 +93921,7 @@ des engagements
 \dt 15/Mar/2018
 
 \lx mîn
-\va mun
+\va mûn
 \ps dtm
 \gf REL
 \gvf REL
@@ -93918,7 +93933,7 @@ des engagements
 \smf (son corrélatif dans la principale est 'ò' au sing. et 'òlu' au pl.)
 \xv í túlo bɛ́  wɔ̀lɔ mînnu kàsikan ná, né bɛ́ táa  òlu fàga
 \xf je m'en vais tuer les francolins que tu entends chanter
-\dt 28/May/2016
+\dt 04/Nov/2019
 
 \lx mîn
 \va mun
@@ -109428,7 +109443,7 @@ banane, etc.)
 \mm nú:n:nez
 \mm nan:mrph:à
 \mm gó:adj:désagréable
-\va nunnɔngo
+\va núnnɔngo
 \mm nú:n:nez
 \mm nɔn:mrph:IN
 \mm gó:adj:désagréable
@@ -109442,7 +109457,7 @@ banane, etc.)
 \ms 2
 \gvf taquin
 \smf (qui taquine méchamment)
-\dt 19/Apr/2019
+\dt 04/Nov/2019
 
 \lx núnnango
 \mm nún:n:nez
@@ -109452,7 +109467,7 @@ banane, etc.)
 \mm nú:n:nez
 \mm nan:mrph:à
 \mm gó:adj:désagréable
-\va nunnɔngo
+\va núnnɔngo
 \mm nú:n:nez
 \mm nɔn:mrph:IN
 \mm gó:adj:désagréable
@@ -109466,7 +109481,7 @@ banane, etc.)
 \ms 2
 \gvf taquin
 \smf (qui taquine méchamment)
-\dt 19/Apr/2019
+\dt 04/Nov/2019
 
 \lx núnwo
 \mm nún:n:nez
@@ -150422,17 +150437,12 @@ généreuses, avec bourrelets)
 \dt 13/Jun/2018
 
 \lx zóni
-\ps n
-\gf zone
-\gvf zone
-\dt 01/May/2017
-
-\lx zɔ́ni
+\va zɔ́ni
 \bw Fr. zone
 \ps n
 \gf zone
 \gvf zone
-\dt 03/Nov/2019
+\dt 04/Nov/2019
 
 \lx zú
 \bw fr : joug
