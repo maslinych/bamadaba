@@ -23558,6 +23558,11 @@ pas)
 \mmm dàn:n:limite
 \mmm mà:pp:ADR
 \mm kɛ́ɲɛ:v:égaliser
+\va dànmakɛɲɛ
+\mm dànma:n:limite
+\mmm dàn:n:limite
+\mmm mà:pp:ADR
+\mm kɛ́ɲɛ:v:égaliser
 \va dànmakɛnyɛ
 \mm dànma:n:limite
 \mmm dàn:n:limite
@@ -23571,7 +23576,7 @@ pas)
 \ms 2
 \vl vt
 \gvf rendre égal
-\dt 05/Feb/2017
+\dt 05/Nov/2019
 
 \lx dàmakɛnyɛ
 \mm dàma:n:limite
@@ -23583,6 +23588,11 @@ pas)
 \mmm dàn:n:limite
 \mmm mà:pp:ADR
 \mm kɛ́ɲɛ:v:égaliser
+\va dànmakɛɲɛ
+\mm dànma:n:limite
+\mmm dàn:n:limite
+\mmm mà:pp:ADR
+\mm kɛ́ɲɛ:v:égaliser
 \va dànmakɛnyɛ
 \mm dànma:n:limite
 \mmm dàn:n:limite
@@ -23591,7 +23601,7 @@ pas)
 \ps n
 \gf égalité
 \gvf égalité
-\dt 05/Feb/2017
+\dt 05/Nov/2019
 
 \lx dáman
 \va ntáma
@@ -32952,6 +32962,18 @@ quant à sa mère, elle prend de l'âge
 \xv ń bɛ́  ù dúnanjigin
 \xf je m'occupe d'eux (les présente ...)
 \dt 14/Mar/2019
+
+\lx dúnanjigin
+\mm dúnan:n:étranger
+\mm jìgin:v:descendre
+\va dnánjigin
+\mm dnán:n:étranger
+\mm jìgin:v:descendre
+\ps n
+\gf accueil
+\gvf accueil
+\smf (d'un visiteur)
+\dt 05/Nov/2019
 
 \lx dúnanjiginso
 \mm dúnanjigin:v:accueillir
@@ -47922,7 +47944,7 @@ caractéristique, réputé pour faciliter la procréation)
 \ms 1
 \gf lourd
 \gvf lourd
-\gvf pésant
+\gvf pesant
 \xv dòni mán gírin à má
 \xf la charge n'est pas trop lourde pour lui
 \ms 2.1
@@ -47963,7 +47985,7 @@ caractéristique, réputé pour faciliter la procréation)
 \usf pop.
 \gvf ennuyeux
 \gvf embêtant
-\dt 21/Apr/2019
+\dt 05/Nov/2019
 
 \lx gírin
 \va grín
@@ -52310,7 +52332,7 @@ calebasses)
 \gvf arbitrer
 \dt 15/Feb/2017
 
-\lx jàlatigɛbaa
+\lx jàlatigɛbaga
 \mm jálatìgɛ:v:arbitrer
 \mm baga:mrph:AG.OCC
 \va jàlatigɛbaa
@@ -52322,7 +52344,7 @@ calebasses)
 \sy jàlatigɛla
 \xv jàlatigɛbaa ká báara yé jùmɛn yé ?
 \xf quels sont les rôles de l'arbitre ? (kb 2/05 p.6)
-\dt 23/Feb/2017
+\dt 05/Nov/2019
 
 \lx jàlatigɛla
 \mm jálatìgɛ:v:arbitrer
@@ -59159,30 +59181,6 @@ l'eau est prête
 \smf (qqn d'obtenir qqch)
 \dt 04/Apr/2016
 
-\lx kàanagɛlɛn
-\mm kàana:n:caractère
-\mm gɛ̀lɛn:adj:difficile
-\va kàarɔgɛlɛn
-\mm gɛ̀lɛn:adj:difficile
-\va kàanagwɛlɛn
-\mm kàana:n:caractère
-\mm gwɛ̀lɛn:adj:difficile
-\va kàarɔgwɛlɛn
-\mm gwɛ̀lɛn:adj:difficile
-\va kàrɔgɛlɛn
-\mm gɛ̀lɛn:adj:difficile
-\ph [gw]
-\ps n
-\ms 1
-\gf intransigeant
-\gvf intransigeant
-\gvf difficile à convaincre
-\gvf tenace
-\ms 2
-\gvf cruel
-\gvf féroce
-\dt 16/Mar/2018
-
 \lx kàanagɛlɛya
 \mm kàanagɛlɛn:n:intransigeant
 \mmm kàana:n:caractère
@@ -59949,16 +59947,6 @@ l'eau est prête
 \gvf suffisance
 \dt 26/Sep/2006
 
-\lx kàfara
-\va kàfaara
-\ps n
-\ms 1
-\gf offrande.expiatoire
-\gvf offrande expiatoire
-\ms 2
-\gvf punition
-\dt 06/May/2016
-
 \lx kàfari
 \va kàfaara
 \va kàfara
@@ -59972,6 +59960,18 @@ l'eau est prête
 \ms 2
 \gvf pardonner
 \dt 06/May/2016
+
+\lx kàfari
+\va kàfara
+\va kàfaara
+\ps n
+\ms 1
+\gf offrande.expiatoire
+\gvf offrande expiatoire
+\gvf expiation
+\ms 2
+\gvf punition
+\dt 05/Nov/2019
 
 \lx káfe
 \es (fr: café}
@@ -64032,6 +64032,67 @@ probablement de chaux vive)
 \gvf être dur à avaler
 \smf (au propre et au figuré)
 \dt 26/Sep/2006
+
+\lx kàrɔgɛlɛn
+\mm gɛ̀lɛn:adj:difficile
+\va kàrɔgwɛlɛn
+\mm gwɛ̀lɛn:adj:difficile
+\va kàarɔgɛlɛn
+\mm gɛ̀lɛn:adj:difficile
+\va kàanagɛlɛn
+\mm kàana:n:caractère
+\mm gɛ̀lɛn:adj:difficile
+\va kàanagwɛlɛn
+\mm kàana:n:caractère
+\mm gwɛ̀lɛn:adj:difficile
+\va kànagɛlɛn
+\mm kàana:n:caractère
+\mm gɛ̀lɛn:adj:difficile
+\ps n
+\ms 1
+\gf intransigeant
+\gvf intransigeant
+\gvf difficile à convaincre
+\gvf tenace
+\ms 2
+\gvf cruel
+\gvf féroce
+\dt 05/Nov/2019
+
+\lx kàrɔgɛlɛya
+\mm kàrɔgɛlɛn:adj:intransigeant
+\mmm gɛ̀lɛn:adj:difficile
+\mm ya:mrph:ABSTR
+\va kàrɔgwɛlɛya
+\mm kàrɔgwɛlɛn:adj:intransigeant
+\mmm gɛ̀lɛn:adj:difficile
+\mm ya:mrph:ABSTR
+\va kàarɔgɛlɛya
+\mm kàarɔgɛlɛn:adj:intransigeant
+\mmm gɛ̀lɛn:adj:difficile
+\mm ya:mrph:ABSTR
+\va kàanagɛlɛya
+\mm kàanagɛlɛn:adj:intransigeant
+\mmm kàana:n:caractère
+\mmm gɛ̀lɛn:adj:difficile
+\mm ya:mrph:ABSTR
+\va kàanagwɛlɛya
+\mm kàanagɛlɛn:adj:intransigeant
+\mmm kàana:n:caractère
+\mmm gɛ̀lɛn:adj:difficile
+\mm ya:mrph:ABSTR
+\va kànagɛlɛya
+\mm kànagɛlɛn:adj:intransigeant
+\mmm kàna:n:caractère
+\mmm gɛ̀lɛn:adj:difficile
+\mm ya:mrph:ABSTR
+\ps n
+\ms 1
+\gf intransigeance
+\gvf intransigeance
+\ms 2
+\gvf cruauté
+\dt 05/Nov/2019
 
 \lx kàsa
 \ps n
@@ -73604,12 +73665,13 @@ ou une proposition)
 \gvf abats
 \ms 2
 \gvf pensées
+\gvf sentiments
 \ms 3
 \gvf nourriture
 \ms 4
 \gvf contenu
 \smf (ce qui est à l'intérieur)
-\dt 29/Mar/2019
+\dt 05/Nov/2019
 
 \lx kɔ̀nɔnafili
 \mm kɔ́nɔ:n:ventre
@@ -74300,23 +74362,6 @@ ou une proposition)
 \gvf suffixe
 \smf (néologisme)
 \dt 21/Feb/2017
-
-\lx kɔ́nɔrɔfɛn
-\mm kɔ́nɔ:n:ventre
-\mm rɔ́:pp:IN
-\mm fɛ́n:n:chose
-\va kɔ́nɔnafɛn
-\mm kɔ́nɔ:n:ventre
-\mm ná:pp:à
-\mm fɛ́n:n:chose
-\ps n
-\ms 1
-\gf entrailles
-\gvf entrailles
-\ms 2
-\gvf pensées
-\gvf sentiments
-\dt 29/Mar/2019
 
 \lx kɔ̀nɔsogonin
 \va kɔ̀nɔsogonti
