@@ -1785,12 +1785,13 @@ Ségou)
 \ru Эритрея
 \dt 23/May/2010
 
-\lx Erɔpu
+\lx Èrɔpu
+\va Ɛ̀ropu
+\va Ɛ̀ropi
 \ps n.prop
 \gf TOP
-\smf (groupe de pays)
 \gvf Europe
-\dt 03/Jun/2018
+\dt 23/Nov/2019
 
 \lx Esuki
 \ps n.prop
@@ -1857,16 +1858,6 @@ Tadmekka)
 \gvf Océan Indien
 \ru Индийский
 \dt 23/May/2010
-
-\lx Ɛ̀ropi
-\va Èrɔpu
-\ty конт.
-\ps n.prop
-\gf TOP
-\smf (groupe de pays)
-\gvf Europe
-\ru Европа
-\dt 15/Sep/2016
 
 \lx Ɛsipaɲi
 \ps n.prop

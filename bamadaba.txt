@@ -1,4 +1,4 @@
-\_sh v3.0  1296 MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lang bam
 \name bamadaba
@@ -298,8 +298,8 @@
 \lat Uraria picta, Chlorophytum senegalense, Cassytha filiformis
 \gf plante.esp
 \gvf plante esp
-\gvf leane chevelue
-\dt 15/Aug/2017
+\gvf liane chevelue
+\dt 23/Nov/2019
 
 \lx álakira
 \mm Ála:n:Dieu
@@ -618,12 +618,12 @@
 
 \lx àlikama
 \va àlikaama
-\bw ar: al-qamh= id.
+\bw ar: al-qamh
 \ps n
 \gf blé
 \gvf blé
 \sd gram
-\dt 19/Aug/2006
+\dt 14/Nov/2019
 
 \lx àlikamamugu
 \mm àlikama:n:blé
@@ -2004,6 +2004,19 @@ propriété antivirales: hépatite B chronique)
 \gvf confluent
 \dt 01/Apr/2019
 
+\lx bàfilabiye
+\mm bà:n:mille
+\mm fìla:num:deux
+\mm bíye:n:billet
+\va bàafilabiye
+\mm bàa:n:mille
+\mm fìla:num:deux
+\mm bíye:n:billet
+\ps n
+\gf billet.10000FCFA
+\gvf billet 10000 FCFA
+\dt 23/Nov/2019
+
 \lx báfìli
 \mm bá:n:base
 \mm fìli:v:jeter
@@ -2605,6 +2618,15 @@ urinaires, rhume, toux...)
 \smf (originellement, un chant à l'honneur de Bákarijan, héros de
 Ségou)
 \dt 15/May/2016
+
+\lx bàkelenbiye
+\mm bà:n:mille
+\mm kélen:num:un
+\mm bíye:n:billet
+\ps n
+\gf billet.5000FCFA
+\gvf billet 5000FCFA
+\dt 23/Nov/2019
 
 \lx bàkilu
 \va bàkiilu
@@ -10252,10 +10274,12 @@ bien-être (signalée chez les Socé). Sénégal (Iles du Saloum))
 \dt 01/Mar/2019
 
 \lx bíye
-\bw fr
+\bw fr. billet
 \ps n
 \gf billet
 \gvf billet
+\smf (de transport; de banque)
+\dt 23/Nov/2019
 
 \lx bíyɛnkalama
 \mm bíyɛn:n:foie
@@ -19861,13 +19885,15 @@ fermetures de portes, palissades; on l'utilise pour la toiture)
 \xf nous allons nous débrouiller
 \ms 2
 \gvf ruse
+\xv dàbali tìgɛ mɔ̀gɔ kámà
+\xf
 \ms 3
 \gvf sortilège
 \gvf maléfice
 \xv sán fìnnen, dàbali bɛ́  fíyɛn fɛ̀
 \xf le ciel est noir, le vent est maléfique
 \xf (on s'attend à la pluie, le vent va tout gâter)
-\dt 27/Nov/2014
+\dt 10/Nov/2019
 
 \lx dàbali
 \ps v
@@ -49040,12 +49066,17 @@ douanier, milicien, etc.)
 \dt 29/Apr/2014
 
 \lx gɔ̀rɔkɔ
+\va gɔ̀rɔgɔ
 \ps n
 \gf usure
+\ms 1
 \gvf usure
 \gvf prêt à usure
 \smf (ex : prêt d'un sac en période de soudure, deux sacs rendus à la récolte)
-\dt 26/Sep/2006
+\ms 2
+\gvf intérêts
+\smf (de crédit)
+\dt 23/Nov/2019
 
 \lx gɔ̀rɔntɔ
 \va gɔ̀rɔndɔ
@@ -49184,10 +49215,10 @@ douanier, milicien, etc.)
 \ps n
 \gf secret
 \gvf secret
-\xv gùndo fára
-\xv bɔ̀rɔtɔ
+\xv kà gùndo fára, kà gùndo bɔ̀rɔtɔ
 \xf dévoiler un secret
-\dt 09/Nov/2017
+\smf (devant -- yé)
+\dt 10/Nov/2019
 
 \lx gùndo
 \fq r
@@ -58753,6 +58784,26 @@ composante des adjectifs séparables)
 \gf corde
 \gvf corde
 
+\lx jùrudon
+\mm jùru:n:corde
+\mm dòn:v:entrer
+\ps n
+\gf emprunt
+\gvf emprunt
+\gvf crédit
+\dt 23/Nov/2019
+
+\lx jùrudòn
+\mm jùru:n:corde
+\mm dòn:v:entrer
+\ps v
+\gf prêter
+\vl vt
+\gvf prêter
+\gvf faire crédit
+\smf (à -- lá)
+\dt 23/Nov/2019
+
 \lx jùrudonna
 \mm jùru:n:corde
 \mm dòn:v:entrer
@@ -59971,7 +60022,7 @@ l'eau est prête
 \gvf expiation
 \ms 2
 \gvf punition
-\dt 05/Nov/2019
+\dt 06/Nov/2019
 
 \lx káfe
 \es (fr: café}
@@ -65943,6 +65994,32 @@ probablement de chaux vive)
 \gvf cinq cents francs
 \dt 26/Sep/2006
 
+\lx kɛ̀mɛbiye
+\mm kɛ̀mɛ:num:cent
+\mm bíye:n:billet
+\ps n
+\gf billet.500FCFA
+\gvf billet 500 FCFA
+\dt 23/Nov/2019
+
+\lx kɛ̀mɛduurubiye
+\mm kɛ̀mɛ:num:cent
+\mm dúuru:num:cinq
+\mm bíye:n:billet
+\ps n
+\gf billet.2500FCFA
+\gvf billet 2500 FCFA
+\dt 23/Nov/2019
+
+\lx kɛ̀mɛfilabiye
+\mm kɛ̀mɛ:num:cent
+\mm fìla:num:deux
+\mm bíye:n:billet
+\ps n
+\gf billet.1000FCFA
+\gvf billet 1000 FCFA
+\dt 23/Nov/2019
+
 \lx kɛ̀mɛgaramu
 \mm kɛ̀mɛ:num:cent
 \mm gáramu:n:gramme
@@ -65951,6 +66028,15 @@ probablement de chaux vive)
 \gf hectogramme
 \gvf hectogramme
 \dt 31/Jan/2017
+
+\lx kɛ̀mɛnaanibiye
+\mm kɛ̀mɛ:num:cent
+\mm náani:num:quatre
+\mm bíye:n:billet
+\ps n
+\gf billet.2000FCFA
+\gvf billet 2000 FCFA
+\dt 23/Nov/2019
 
 \lx kɛ̀mɛnan
 \mm kɛ̀mɛ:num:cent
@@ -90309,11 +90395,11 @@ jour, c'est une personne dépendante qu'il voit
 \mm màkan:n:rollier
 \mm búgun:vq:gris.clair
 \ps n
-\gf rollie.d'Abyssinie
-\gvf rollie d'Abyssinie
+\gf rollier.d'Abyssinie
+\gvf rollier d'Abyssinie
 \lat Coracias.abyssinica
 \sy màkan-kújan
-\dt 16/Aug/2006
+\dt 23/Nov/2019
 
 \lx mákanjamana
 \mm Mákan:n.prop:TOP
@@ -101957,22 +102043,6 @@ comestible et des graines qui servent à fabriquer le 'sunbala')
 \gvf maladie pulmonaire des bovins
 \dt 27/Jan/2016
 
-\lx ngúnanìnjɛ́
-\mm nin:mrph:DIM
-\mm jɛ́:adj:blanc
-\va nkùnanjɛ
-\mm jɛ́:adj:blanc
-\va nkónajɛ
-\mm jɛ́:adj:blanc
-\ps n
-\gf héron.garde-boeuf
-\gvf héron garde-boeuf
-\lat Ardeola ibis
-\gvf aigrette garzette
-\lat Egretta garzetta
-\smf (petit héron, à distance paraît tout blanc, grégaire, lié à la présence du bétail)
-\dt 04/Apr/2019
-
 \lx ngùre
 \va nkùre
 \ps n
@@ -104507,6 +104577,22 @@ charançon)
 \smf (sorte de bière faite avec le fruit)
 \rem l 89, du
 \dt 04/Apr/2019
+
+\lx nkùnanjɛ
+\mm jɛ́:adj:blanc
+\va nkónajɛ
+\mm jɛ́:adj:blanc
+\va ngúnanìnjɛ́
+\mm nin:mrph:DIM
+\mm jɛ́:adj:blanc
+\ps n
+\gf héron.garde-boeuf
+\gvf héron garde-boeuf
+\lat Ardeola ibis
+\gvf aigrette garzette
+\lat Egretta garzetta
+\smf (petit héron, à distance paraît tout blanc, grégaire, lié à la présence du bétail)
+\dt 22/Nov/2019
 
 \lx nkúnankuna
 \va kúnankunan
@@ -113932,8 +114018,9 @@ banane, etc.)
 \mmm man:mrph:ADJ
 \ps n
 \gf endroit.d'un.habit
-\gvf endroit d'un habit
-\dt 19/Aug/2006
+\gvf endroit
+\smf (d'un habit, d'un billet de banque, etc.)
+\dt 23/Nov/2019
 
 \lx ɲɛ́ŋunu
 \mm ɲɛ́:n:oeil
@@ -123571,6 +123658,20 @@ pas réussi
 \gvf trace de pas
 \dt 16/Aug/2006
 
+\lx sèndaɲɛ
+\mm sèn:n:jambe
+\mm dá:v:poser
+\mm ɲɛ́:n:fois
+\ps n
+\ms 1
+\gf pas
+\gvf pas
+\ms 2
+\gvf phase
+\gvf moment
+\gvf partie
+\dt 09/Nov/2019
+
 \lx sèndayɔrɔ
 \mm sèn:n:jambe
 \mm dá:v:poser
@@ -128298,9 +128399,11 @@ donne d'excellentes fibres)
 \gf chemin
 \gvf chemin
 \gvf itinéraire
-\xv à bɛ́  síra fɛ̀  kà nà
+\xv kà síra mìnɛ
+\xf se mettre en route
+\xv à bɛ́ síra fɛ̀ kà nà
 \xf il est en route, il arrive
-\xv án yé  síra bìla
+\xv án yé síra bìla
 \xf nous nous sommes trompés de route
 \xv án bɛ́  síra ɲíni
 \xf nous demandons l'autorisation de partir
@@ -128316,7 +128419,7 @@ donne d'excellentes fibres)
 \ms 4
 \gvf manière
 \gvf circonstances
-\xv án bɛ́  ò dɔ́n  síra jùmɛ fɛ̀ ?
+\xv án bɛ́ ò dɔ́n síra jùmɛ fɛ̀ ?
 \xf comment le savons-nous ?
 \ms 5
 \gvf religion
@@ -128324,7 +128427,7 @@ donne d'excellentes fibres)
 \xf on distingue les religions
 \xv díinɛsira táama
 \xf pratiquer une religion
-\dt 12/Jun/2016
+\dt 14/Nov/2019
 
 \lx sírabara
 \mm síra:n:tabac
