@@ -1,5 +1,5 @@
 # Bamana (Bambara) morphotactic patterns
-# version 20.05.2019 - 21.05 07:35
+# version 20.05.2019 - 21.05 07:35   - 22.11.2019
 # macro definitions
 macro   @smth-nasal@     <re>.*([nmɲŋ]..?n?|n|[aoeuiɔɛ][́̀̌]?n<)</re>
 macro   @nasal-syl@     <re>.*([nmɲŋ]..?n?|n)</re>
@@ -12,6 +12,7 @@ macro   @syl@   [^aoeuiɔɛ]*(?P<V>[aoeuiɔɛ])(?P=V)?(n(?=([^aoeuiɔɛ]|$)))?
 macro   @syl1@  [^aoeuiɔɛ]*(?P<V1>[aoeuiɔɛ])(?P=V1)?(n(?=([^aoeuiɔɛ]|$)))?
 macro   @syl2@  [^aoeuiɔɛ]*(?P<V2>[aoeuiɔɛ])(?P=V2)?(n(?=([^aoeuiɔɛ]|$)))?
 macro   @bam-cons@      [bcdfghjklmɲŋprstyz]
+macro   @propername@   <re>[A-ZƐƆƝŊ].+</re>
 
 # processing instructions
 plan
@@ -19,37 +20,41 @@ for token:
 #stage 0 apply firstmatch parse propername
 #stage 0 apply lookup
 #return if parsed
+stage 0 add parallel parse propername
 stage 0 add parallel parse num1price
 stage 0 add parallel parse inflection 
-stage 0 add parallel parse common_derivation
-stage 0 add parallel parse participles 
-stage 1 add sequential parse n_v_derivation
+stage 0 apply lookup
+return if parsed
+stage 1 add parallel parse common_derivation_DIM_AUGM
+stage 1 add parallel parse prefixes 
+stage 1 add parallel parse participles 
+#stage 1 add sequential parse n_v_derivation_ABSTR_GENT_LOC
+stage 1 add parallel parse n_v_derivation_ABSTR_GENT_LOC
 stage 1 add parallel parse n_derivation
 stage 1 add parallel parse v_vq_derivation
 stage 1 add parallel parse vq_derivation
 stage 1 add parallel parse specialcompo1
-#stage 0 apply lookup
-#return if parsed
 stage 1 add parallel parse num_derivation
-stage 3 add parallel decompose pos_composition
-stage 1b add parallel parse specialcompo2
-#stage 1 apply lookup
-#return if parsed
-stage 2 add parallel parse reduplication
+stage 1 apply lookup
+return if parsed
+stage 2 add parallel parse inflection_MNT12_OPT2_DIR
+stage 2 add parallel decompose pos_composition
 stage 2 apply lookup
+return if parsed
+stage 3 add parallel parse specialcompo2
+stage 3 add parallel parse reduplication
+stage 3 apply lookup
 return if parsed
 # commenting out the two above: fails
 stage 4 add parallel decompose pos_composition3
+stage 4 apply lookup
 return if parsed
 stage 5 add parallel decompose pos_composition4
+#stage 5 apply firstmatch  parse propername
 return if parsed
 stage 6 apply firstmatch parse nonbamana
 return if parsed
 #for sentence
-
-#section propername
-#pattern <re>[A-ZƐƆƝŊ].*</re>:: | :n.prop:
-##based on nonbamana: pattern <re>.+@bam-cons@</re>:: | ::EMPR 
 
 section num1price
 # -la/-na PRICE
@@ -68,10 +73,18 @@ pattern :v: [ {@nonnasalglide-syl@|<re>r[a']</re>}:: ] | :v: [:v: :mrph:PFV.INTR
 # -la/-na AG.PRM
 pattern :n: [ {@smth-nasal@|na}:: ] | :n: [ :v: :mrph:AG.PRM]
 pattern :n: [ {@nonnasal-v@|la}:: ] | :n: [ :v: :mrph:AG.PRM]
+pattern :n: [ {|kɛ|la}:: ] | :n: [ :n: kɛ́:v:faire :mrph:AG.PRM]
 
 # -la/-na PROG
 pattern :v: [ {@smth-nasal@|na}:: ] | :v: [:v: :mrph:PROG]
 pattern :v: [ {@nonnasal-v@|la}:: ] | :v: [:v: :mrph:PROG]
+
+# nominal inflection
+# -w PL
+pattern :n/adj/dtm/prn/ptcp/n.prop/num: [ {|w}:: ] | :n/adj/dtm/prn/ptcp/n.prop/num: [:n/adj/dtm/prn/ptcp/n.prop/num: :mrph:PL]
+
+
+section inflection_MNT12_OPT2_DIR
 # produce nouns but moved here  because of na/la ambiguity
 
 # -la/-na MNT1
@@ -89,18 +102,20 @@ pattern :v: [ {@nonnasalglide-syl@|<re>r[a']</re>}:: ] | :v: [:v: :mrph:OPT2]
 # -ma DIR
 pattern :v: [ {|ma}:: ] | :v: [:v: :mrph:DIR]
 
-# nominal inflection
-# -w PL
-pattern :n/adj/dtm/prn/ptcp/n.prop/num: [ {|w}:: ] | :n/adj/dtm/prn/ptcp/n.prop/num: [:n/adj/dtm/prn/ptcp/n.prop/num: :mrph:PL]
-# possibly -lu too ! frequent in griotic songs / not dtm/prn : creates ambiguity for ò.lu !!! found only dɔlu
-pattern :n: [ {@nonnasal-syl@|lu}:: ] | :n: [:n: lú:mrph:PL2]
-pattern :n: [ {@nasal-syl@|nu}:: ] | :n: [:n: nú:mrph:PL2]
+# v to nouns
+pattern :n: [ {@smth-nasal@|nata}:: ] | :n: [ :v: :mrph:MNT2]
+pattern :n: [ {@nonnasal-v@|lata}:: ] | :n: [ :v: :mrph:MNT2]
+# n to nouns
+pattern :n: [ {@smth-nasal@|nata}:: ] | :n: [ :n: :mrph:MNT2]
+pattern :n: [ {@nonnasal-v@|lata}:: ] | :n: [ :n: :mrph:MNT2]
 
 # prefixes
+section prefixes
 pattern :v: [ {la|}:: ] | :v: [lá:mrph:CAUS :v:]
 pattern :v: [ {ma|}:: ] | :v: [mà:mrph:SUPER :v:]
 pattern :v: [ {rɔ|}:: ] | :v: [rɔ́:mrph:IN :v:]
 pattern :v: [ {sɔ|}:: ] | :v: [sɔ̀:mrph:EN :v:]
+pattern :n: [{tɔgɔ|la|}:: ] | :n: [tɔ́gɔ:n:nom lá:pp:á :n:]
 
 
 # to participles
@@ -110,7 +125,7 @@ pattern :v/ptcp: [ {|ta}:: ] | :ptcp: [ :v: :mrph:PTCP.POT]
 pattern :v/ptcp: [ {|baga|tɔ}:: ] | :ptcp: [ :v: :mrph:AG.OCC :mrph:CONV]
 pattern :v/ptcp: [ {|baa|tɔ}:: ] | :ptcp: [ :v: :mrph:AG.OCC :mrph:CONV]
 pattern :v/ptcp: [ {|tɔ}:: ] | :ptcp: [ :v: :mrph:CONV]
-pattern :v/ptcp: [ {|tɔla}:: ] | :ptcp: [ :v: :mrph:CONV]
+pattern :v/ptcp: [ {|tɔ|la}:: ] | :ptcp: [ :v: :mrph:CONV :mrph:PROG]
 
 # moved up from  n_derivation  - otherwise never apply
 pattern :adj/n: [ {|baga|tɔ}:: ] | :n: [ :n: :mrph:AG.OCC :mrph:ST]
@@ -123,6 +138,7 @@ pattern :adj/n: [ {|tɔ}:: ] | :adj: [ :n: :mrph:ST]
 # moved up from v_vq_derivation - otherwise never apply for suli, sali
 pattern :n: [ {@smth-nasal@|ni}:: ] | :n: [ :v: :mrph:NMLZ]
 pattern :n: [ {@nonnasal-v@|li}:: ] | :n: [ :v: :mrph:NMLZ]
+pattern :n: [ {|kɛ|li}:: ] | :n: [ :n: kɛ́:v:faire :mrph:NMLZ]
 
 pattern :v/ptcp: [ {@smth-nasal@|nen}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
 pattern :v/ptcp: [ {@nonnasal-v@|len}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
@@ -142,20 +158,17 @@ pattern :v/ptcp/n/adj: [ {|tɔ|ya}:: ] | :n: [:v/ptcp: :mrph:CONV :mrph:ABSTR]
 pattern :v/ptcp/n/adj: [ {@smth-nasal@|nen|ya}:: ] | :n: [:v/ptcp: :mrph:PTCP.RES :mrph:ABSTR]
 pattern :v/ptcp/n/adj: [ {@nonnasal-v@|len|ya}:: ] | :n: [:v/ptcp: :mrph:PTCP.RES :mrph:ABSTR]
 
-# v to nouns
-pattern :n: [ {@smth-nasal@|nata}:: ] | :n: [ :v: :mrph:MNT2]
-pattern :n: [ {@nonnasal-v@|lata}:: ] | :n: [ :v: :mrph:MNT2]
-
 # derivative forms we need to consider even if we have them in dictionary
-section common_derivation
+section common_derivation_DIM_AUGM
 pattern :ptcp/n/adj: [ {|nin}:: ] | :ptcp/n/adj: [:ptcp/n/adj: :mrph:DIM]
 pattern :ptcp/n/adj: [ {|ba}:: ] | :ptcp/n/adj: [:ptcp/n/adj: :mrph:AUGM]
+
+
+# common nominal/verbal derivation (locatives) - rarer
+
+section n_v_derivation_ABSTR_GENT_LOC
 pattern :n/adj/ptcp/v: [ {|ya}:: ] | :n: [:n/adj/ptcp/v: :mrph:ABSTR]
 pattern :n/adj/ptcp/v: [ {|ya}:: ] | :v: [:n/adj/ptcp/v: :mrph:ABSTR]
-
-
-# common nominal/verbal derivation (locatives)
-section n_v_derivation
 #pattern :n/n.prop: [ {|ka}:: ] | :n/n.prop: [:n/n.prop: :mrph:GENT]
 #restricted to n.prop 14/3/17
 pattern :n.prop: [ {|ka}:: ] | :n: [:n.prop: :mrph:GENT]
@@ -176,8 +189,6 @@ pattern :n: [ {@nonnasal-v@|la}:: ] | :n: [:n: :mrph:LOC]
 
 # nominal derivation
 section n_derivation
-pattern :n: [ {@smth-nasal@|nata}:: ] | :n: [ :n: :mrph:MNT2]
-pattern :n: [ {@nonnasal-v@|lata}:: ] | :n: [ :n: :mrph:MNT2]
 
 pattern :n: [ {@smth-nasal@|nama}:: ] | :adj: [ :n: :mrph:STAT]
 pattern :n: [ {@nonnasal-v@|lama}:: ] | :adj: [ :n: :mrph:STAT]
@@ -203,6 +214,9 @@ pattern :num: [ {|nan}:: ] | :adj: [ :num: :mrph:ORD]
 pattern :n: [ {|baga}:: ] | :n: [ :v: :mrph:AG.OCC]
 pattern :n: [ {|baa}:: ] | :n: [ :v: :mrph:AG.OCC]
 
+pattern :n: [ {|kɛ|baga}:: ] | :n: [ :n: kɛ́:v:faire :mrph:AG.OCC]
+pattern :n: [ {|kɛ|baa}:: ] | :n: [ :n: kɛ́:v:faire :mrph:AG.OCC]
+
 pattern :n: [ {@nonnasal-v@|li|baga}:: ] | :n: [ :v: :mrph:NMLZ :mrph:AG.OCC]
 pattern :n: [ {@nonnasal-v@|li|baa}:: ] | :n: [ :v: :mrph:NMLZ :mrph:AG.OCC]
 pattern :n: [ {@smth-nasal@|ni|baga}:: ] | :n: [ :v: :mrph:NMLZ :mrph:AG.OCC]
@@ -216,6 +230,12 @@ pattern :n: [ {ɲɔgɔn|}:: ] | :v: [ ɲɔ́gɔn:prn:RECP :v: ]
 
 
 section specialcompo1
+# rare plural
+#frequent in griotic songs / not dtm/prn : creates ambiguity for ò.lu !!! found only dɔlu - but not dalilu
+pattern :n: [ {@nonnasal-syl@|lu}:: ] | :n: [:n: lú:mrph:PL2]
+pattern :n: [ {@nasal-syl@|nu}:: ] | :n: [:n: nú:mrph:PL2]
+
+
 # attempt to handle -likɛ, -likɛla, others like -likɛcogo...
 pattern :v: [ {@nonnasal-v@|li|kɛ}:: ] | :v: [ :v: :mrph:NMLZ kɛ́:v:faire]
 pattern :v: [ {@smth-nasal@|ni|kɛ}:: ] | :v: [ :v: :mrph:NMLZ kɛ́:v:faire]
@@ -237,19 +257,53 @@ pattern :n: [ {@nonnasal-v@|li|kɛ|fɛn}:: ] | :n: [ :v: :mrph:NMLZ kɛ́:v:fair
 pattern :n: [ {@smth-nasal@|ni|kɛ|fɛn}:: ] | :n: [ :v: :mrph:NMLZ kɛ́:v:faire fɛ́n:n:chose]
 
 pattern :n: [ {|tuma}:: ] | :n: [ :v: tùma:n:moment]
+pattern :n: [ {|kɛ|tuma}:: ] | :n: [ :n: kɛ́:v:faire tùma:n:moment]
 pattern :n: [ {|waati}:: ] | :n: [ :v: wáati:n:moment]
+pattern :n: [ {|kɛ|waati}:: ] | :n: [ :n: kɛ́:v:faire wáati:n:moment]
 pattern :n: [ {|yɔrɔ}:: ] | :n: [ :v: yɔ́rɔ:n:lieu]
+pattern :n: [ {|kɛ|yɔrɔ}:: ] | :n: [ :n: kɛ́:v:faire yɔ́rɔ:n:lieu]
+pattern :n: [ {|baara}:: ] | :n: [ :v: báara:n:travail]
+pattern :n: [ {|kɛ|baara}:: ] | :n: [ :n: kɛ́:v:faire báara:n:travail]
 pattern :n: [ {|cogo}:: ] | :n: [ :v: cógo:n:manière]
+pattern :n: [ {|kɛ|cogo}:: ] | :n: [ :n: kɛ́:v:faire cógo:n:manière]
+pattern :n: [ {|kun}:: ] | :n: [ :v: kùn:n:tête]
+pattern :n: [ {|don}:: ] | :n: [ :v: dón:n:jour]
+pattern :n: [ {|fɛn}:: ] | :n: [ :v: fɛ́n:n:chose]
+pattern :n: [ {|sira}:: ] | :n: [ :v: síra:n:chemin]
+
 pattern :n: [ {|jamana}:: ] | :n: [ :n: jàmana:n:pays]
-pattern :n/n.prop: [ {|jamana}:: ] | :n.prop: [ :n.prop: jàmana:n:pays]
+pattern :n.prop: [ {|jamana}:: ] | :n.prop: [ :n.prop: jàmana:n:pays]
+pattern :n: [ {|tigi}:: ] | :n: [ :n: tìgi:n:maître]
+pattern :n: [ {|ko}:: ] | :n: [ :n: kó:n:affaire]
+pattern :n: [ {|cɛ}:: ] | :n: [ :n: cɛ̀:n:mâle]
+pattern :n: [ {|mɔgɔ}:: ] | :n: [ :n: mɔ̀gɔ:n:homme]
+pattern :n: [ {|maa}:: ] | :n: [ :n: màa:n:homme]
+pattern :n: [ {|den}:: ] | :n: [ :n: dén:n:enfant]
+pattern :n: [ {|sira}:: ] | :n: [ :n: síra:n:chemin]
+pattern :n: [ {@nonnasal-v@|li|sira}:: ] | :n: [ :v: li:mrph:NMLZ síra:n:chemin]
+pattern :n: [ {@smth-nasal@|ni|sira}:: ] | :n: [ :v: ni:mrph:NMLZ síra:n:chemin]
+pattern :n: [ {|fɛn}:: ] | :n: [ :n: fɛ́n:n:chose]
+pattern :n: [ {|baara}:: ] | :n: [ :n: báara:n:travail]
+pattern :n: [ {|bana}:: ] | :n: [ :n: bàna:n:maladie]
+pattern :n: [ {@nonnasal-v@|la|bana}:: ] | :n: [ :n: lá:pp:à bàna:n:maladie]
+pattern :n: [ {@smth-nasal@|na|bana}:: ] | :n: [ :n: ná:pp:à bàna:n:maladie]
+pattern :n: [ {|wari}:: ] | :n: [ :n: wári:n:argent]
+pattern :n: [ {|kɛ|wari}:: ] | :n: [ :n: kɛ́:v:faire wári:n:argent]
+pattern :n: [ {|kɛ|tɔn}:: ] | :n: [ :n: kɛ́:v:faire tɔ́n:n:société]
+pattern :n: [ {|kɛ|so}:: ] | :n: [ :n: kɛ́:v:faire só:n:maison]
+
+pattern :n: [ {|muso}:: ] | :n: [ :n: mùso:adj:féminin]
+
+pattern :n: [ {|kɛ}:: ] | :n: [ :n: kɛ:adj:mâle]
+pattern :n: [ {|kɛ}:: ] | :n/v: [ :n: kɛ́:v:faire]
 
 # dɔn.kɛ.tɔ     not only ST
 pattern :ptcp: [ {|kɛ|tɔ}:: ] | :ptcp: [ :n: kɛ́:v:faire :mrph:CONV]
-pattern :ptcp: [ {|kɛ|tɔla}:: ] | :ptcp: [ :n: kɛ́:v:faire :mrph:CONV]
+pattern :ptcp: [ {|kɛ|tɔ|la}:: ] | :ptcp: [ :n: kɛ́:v:faire :mrph:CONV :mrph:PROG]
 pattern :ptcp: [ {|kɛ|len}:: ] | :ptcp: [ :n: kɛ́:v:faire :mrph:PTCP.RES]
 
-
 section specialcompo2
+
 # this is a temporary trick
 # I would not advise to return before other "normal" composition
 # but can't do otherwise. Caution with most...
@@ -460,6 +514,12 @@ pattern :n: [ :n: :v: :v: :n: ] | :n: [ :n: :v: :v: :n: ]
 # n+v+n+n ex: balo.sɔrɔ.yɔrɔ.ko
 pattern :n: [ :n: :v: :n: :n: ] | :n: [ :n: :v: :n: :n: ]
 # add   n n n n    and with   num ???
+
+section propername
+pattern :n: [ @propername@:: ] | :n.prop: [ :n.prop: ]
+# causes error : NoParseError: should have reached <EOF>: 500,9-500,17: Name 'nonbamana'
+#pattern <re>[A-ZƐƆƝŊ].*</re>:: | :n.prop:
+##based on nonbamana: pattern <re>.+@bam-cons@</re>:: | ::EMPR 
 
 # orthographically unlikely to be bamana words
 # for NEW orthography, with no tones marked
