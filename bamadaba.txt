@@ -4388,16 +4388,6 @@ Fleurs spectaculaires)
 \gvf anus
 \dt 05/Mar/2019
 
-\lx bànaku
-\va bànanku
-\ps n
-\gf manioc
-\gvf manioc
-\lat Manihot esculenta
-\sd euph
-\smf (la feuille ressemble à celle du fromager)
-\dt 19/Aug/2006
-
 \lx bànamini
 \ps n
 \gf barre.transversale
@@ -4449,6 +4439,16 @@ Fleurs spectaculaires)
 \gf punaise.du.cotonnier
 \gvf punaise du cotonnier
 \dt 13/Mar/2018
+
+\lx bànanku
+\va bànaku
+\ps n
+\gf manioc
+\gvf manioc
+\lat Manihot esculenta
+\sd euph
+\smf (la feuille ressemble à celle du fromager)
+\dt 25/Nov/2019
 
 \lx bàna-yɛ̀lɛmata
 \mm bàna:n:maladie
@@ -30488,16 +30488,16 @@ chefs religieux et représentants de l'administration
 \ms 1
 \gf étroit
 \gvf étroit
-\xv à ká dɔ́gɔ
+\xv à ka dɔ́gɔ
 \xf c'est (trop) étroit
 \ms 2
 \gvf rare
 \ms 3
 \gvf insuffisant
 \gvf pas assez
-\xv à ká dɔ́gɔ
+\xv à ka dɔ́gɔ
 \xf c'est (trop) peu, c'est rare
-\dt 04/Mar/2019
+\dt 25/Nov/2019
 
 \lx dɔ́gɔ
 \va dwá
