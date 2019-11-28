@@ -22,14 +22,14 @@ for token:
 #return if parsed
 stage 0 add parallel parse propername
 stage 0 add parallel parse num1price
-stage 0 add parallel parse inflection 
+stage 0 add parallel parse inflection_PFVINTR_PROG_PL
+stage 0 add parallel parse participles_PTCPRES
 stage 0 apply lookup
 return if parsed
 stage 1 add parallel parse common_derivation_DIM_AUGM
 stage 1 add parallel parse prefixes 
 stage 1 add parallel parse participles 
-#stage 1 add sequential parse n_v_derivation_ABSTR_GENT_LOC
-stage 1 add parallel parse n_v_derivation_ABSTR_GENT_LOC
+stage 1 add parallel parse n_v_derivation_ABSTR_GENT_LOC_AGPRM_LI
 stage 1 add parallel parse n_derivation
 stage 1 add parallel parse v_vq_derivation
 stage 1 add parallel parse vq_derivation
@@ -49,8 +49,10 @@ return if parsed
 stage 4 add parallel decompose pos_composition3
 stage 4 apply lookup
 return if parsed
+stage 5 add parallel parse rare_plural_PL2
 stage 5 add parallel decompose pos_composition4
 #stage 5 apply firstmatch  parse propername
+stage 5 apply lookup
 return if parsed
 stage 6 apply firstmatch parse nonbamana
 return if parsed
@@ -62,18 +64,13 @@ pattern :num: [ {@nasal-v@|na}:: ] | :num: [ :num: :mrph:PRIX]
 pattern :num: [ {@nonnasal-v@|la}:: ] | :num: [ :num: :mrph:PRIX]
 
 
-section inflection
+section inflection_PFVINTR_PROG_PL
 # verbal inflection (by order of frequency likelyhood)
 
 # -ra/-la/-na PFV.INTR
 pattern :v: [ {@nasal-syl@|<re>n[a']</re>}:: ] | :v: [:v: :mrph:PFV.INTR]
 pattern :v: [ {@glide-syl@|<re>l[a']</re>}:: ] | :v: [:v: :mrph:PFV.INTR]
 pattern :v: [ {@nonnasalglide-syl@|<re>r[a']</re>}:: ] | :v: [:v: :mrph:PFV.INTR]
-
-# -la/-na AG.PRM
-pattern :n: [ {@smth-nasal@|na}:: ] | :n: [ :v: :mrph:AG.PRM]
-pattern :n: [ {@nonnasal-v@|la}:: ] | :n: [ :v: :mrph:AG.PRM]
-pattern :n: [ {|kɛ|la}:: ] | :n: [ :n: kɛ́:v:faire :mrph:AG.PRM]
 
 # -la/-na PROG
 pattern :v: [ {@smth-nasal@|na}:: ] | :v: [:v: :mrph:PROG]
@@ -117,8 +114,13 @@ pattern :v: [ {rɔ|}:: ] | :v: [rɔ́:mrph:IN :v:]
 pattern :v: [ {sɔ|}:: ] | :v: [sɔ̀:mrph:EN :v:]
 pattern :n: [{tɔgɔ|la|}:: ] | :n: [tɔ́gɔ:n:nom lá:pp:á :n:]
 
+section participles_PTCPRES
+pattern :v/ptcp: [ {@smth-nasal@|nen}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
+pattern :v/ptcp: [ {@nonnasal-v@|len}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
+pattern :v/ptcp: [ {@smth-nasal@|'n}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
+pattern :v/ptcp: [ {@nonnasal-v@|'n}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
 
-# to participles
+# other participles
 section participles
 pattern :v/ptcp: [ {|bali}:: ] | :ptcp: [ :v: :mrph:PTCP.PRIV]
 pattern :v/ptcp: [ {|ta}:: ] | :ptcp: [ :v: :mrph:PTCP.POT]
@@ -135,15 +137,6 @@ pattern :adj/n: [ {|baga|tɔ}:: ] | :adj: [ :n: :mrph:AG.OCC :mrph:ST]
 pattern :adj/n: [ {|baa|tɔ}:: ] | :adj: [ :n: :mrph:AG.OCC :mrph:ST]
 pattern :adj/n: [ {|tɔ}:: ] | :adj: [ :n: :mrph:ST]
 # re above : adj/n does not produce adj ?
-# moved up from v_vq_derivation - otherwise never apply for suli, sali
-pattern :n: [ {@smth-nasal@|ni}:: ] | :n: [ :v: :mrph:NMLZ]
-pattern :n: [ {@nonnasal-v@|li}:: ] | :n: [ :v: :mrph:NMLZ]
-pattern :n: [ {|kɛ|li}:: ] | :n: [ :n: kɛ́:v:faire :mrph:NMLZ]
-
-pattern :v/ptcp: [ {@smth-nasal@|nen}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
-pattern :v/ptcp: [ {@nonnasal-v@|len}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
-pattern :v/ptcp: [ {@smth-nasal@|'n}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
-pattern :v/ptcp: [ {@nonnasal-v@|'n}:: ] | :ptcp: [ :v: :mrph:PTCP.RES]
 
 # frequently AUGMented participles
 pattern :v/ptcp: [ {@smth-nasal@|nen|ba}:: ] | :ptcp: [ :v: :mrph:PTCP.RES :mrph:AUGM]
@@ -166,18 +159,21 @@ pattern :ptcp/n/adj: [ {|ba}:: ] | :ptcp/n/adj: [:ptcp/n/adj: :mrph:AUGM]
 
 # common nominal/verbal derivation (locatives) - rarer
 
-section n_v_derivation_ABSTR_GENT_LOC
+section n_v_derivation_ABSTR_GENT_LOC_AGPRM_LI
 pattern :n/adj/ptcp/v: [ {|ya}:: ] | :n: [:n/adj/ptcp/v: :mrph:ABSTR]
 pattern :n/adj/ptcp/v: [ {|ya}:: ] | :v: [:n/adj/ptcp/v: :mrph:ABSTR]
 #pattern :n/n.prop: [ {|ka}:: ] | :n/n.prop: [:n/n.prop: :mrph:GENT]
 #restricted to n.prop 14/3/17
 pattern :n.prop: [ {|ka}:: ] | :n: [:n.prop: :mrph:GENT]
+pattern :n.prop: [ {|la|ka}:: ] | :n: [:n.prop: :mrph:LOC :mrph:GENT]
+
+
+# -la/-na LOC
 pattern :n.prop: [ {@nonnasal-v@|la}:: ] | :n: [:n.prop: :mrph:LOC]
 pattern :n.prop: [ {@smth-nasal@|na}:: ] | :n: [:n.prop: :mrph:LOC]
-pattern :n: [ {@smth-nasal@|na}:: ] | :n: [:n: :mrph:LOC]
-pattern :n: [ {@nonnasal-v@|la}:: ] | :n: [:n: :mrph:LOC]
-#pattern :n/n.prop: [ {@smth-nasal@|na}:: ] | :n/n.prop: [:n/n.prop: :mrph:LOC]
-#pattern :n/n.prop: [ {@nonnasal-v@|la}:: ] | :n/n.prop: [:n/n.prop: :mrph:LOC]
+#   CAUTION::: LOC la/na will supersedes AG.PRM if placed after AG.PRM la/na which converts v to n !!!
+#   pattern :n: [ {@smth-nasal@|na}:: ] | :n: [:n: :mrph:LOC]
+#   pattern :n: [ {@nonnasal-v@|la}:: ] | :n: [:n: :mrph:LOC]
 # can the gloss TOP be forced ? | :n/n.prop:TOP [:n/n.prop: :mrph:LOC]
 # Can the n.prop stay with its initial capital ?
 # Can n be restricted to a list of body parts, ex: sin -> sin.na "sein LOC" - different from sin.na "diriger PFV.INTR"
@@ -186,6 +182,16 @@ pattern :n: [ {@nonnasal-v@|la}:: ] | :n: [:n: :mrph:LOC]
 #fails: pattern :n: [ {nun|na}:: ] | :n: [nún:n:nez :mrph:LOC]
 #fails: pattern :n: [ {<re>(nun|sin)</re>|na}:: ] | :n: [:n: :mrph:LOC]
 #the above also fails anyway: pattern :n: [ {@smth-nasal@|na}:: ] | :n: [:n: :mrph:LOC]
+
+# -la/-na AG.PRM
+pattern :n: [ {@smth-nasal@|na}:: ] | :n: [ :v: :mrph:AG.PRM]
+pattern :n: [ {@nonnasal-v@|la}:: ] | :n: [ :v: :mrph:AG.PRM]
+pattern :n: [ {|kɛ|la}:: ] | :n: [ :n: kɛ́:v:faire :mrph:AG.PRM]
+
+# moved up from v_vq_derivation - otherwise never apply for suli, sali
+pattern :n: [ {@smth-nasal@|ni}:: ] | :n: [ :v: :mrph:NMLZ]
+pattern :n: [ {@nonnasal-v@|li}:: ] | :n: [ :v: :mrph:NMLZ]
+pattern :n: [ {|kɛ|li}:: ] | :n: [ :n: kɛ́:v:faire :mrph:NMLZ]
 
 # nominal derivation
 section n_derivation
@@ -229,13 +235,12 @@ pattern :n: [ {|<re>ɲwaa?n</re>}:: ] | :n: [ :v: :prn:RECP]
 pattern :n: [ {ɲɔgɔn|}:: ] | :v: [ ɲɔ́gɔn:prn:RECP :v: ]
 
 
-section specialcompo1
-# rare plural
+section rare_plural_PL2
 #frequent in griotic songs / not dtm/prn : creates ambiguity for ò.lu !!! found only dɔlu - but not dalilu
 pattern :n: [ {@nonnasal-syl@|lu}:: ] | :n: [:n: lú:mrph:PL2]
 pattern :n: [ {@nasal-syl@|nu}:: ] | :n: [:n: nú:mrph:PL2]
 
-
+section specialcompo1
 # attempt to handle -likɛ, -likɛla, others like -likɛcogo...
 pattern :v: [ {@nonnasal-v@|li|kɛ}:: ] | :v: [ :v: :mrph:NMLZ kɛ́:v:faire]
 pattern :v: [ {@smth-nasal@|ni|kɛ}:: ] | :v: [ :v: :mrph:NMLZ kɛ́:v:faire]

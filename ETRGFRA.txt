@@ -436,6 +436,16 @@ ye.(Kibaru 497, 2013)
 \smf ETRG.FRA
 \dt 11/Nov/2018
 
+\lx antibiyotiki
+\ps n
+\gf antibiotique
+\xv Nin bana minnu kofɔlen filɛ, n'a bɔra
+«tirikomonasi» la, ni dɔgɔtɔrɔw b'o furakɛ ni
+«toronidazoli» ye, a tɔ bɛɛ lajɛlen bɛ furakɛ ni
+«antibiyotiki» ye. (Kibaru 300, 1998)
+\smf ETRG.FRA
+\dt 27/Nov/2019
+
 \lx antiretorowirali
 \ps adj/n
 \va arw
@@ -1384,12 +1394,15 @@ nasiyɔnali) ni dunanjiginso « Buna » furancɛ la.
 \smf ETRG.FRA
 \dt 15/Nov/2018
 
-\lx bidonna
+\lx bídonna
 \ps n
 \gf buteur
+\mm bí:n:but
+\mm dòn:v:entrer
+\mm na:mrph:AG.PRM
 \xv Fantamadi Keyita de kɛra farafinna bidonna ŋana ye. (Kibaru nimirɔ 1)
 \smf ETRG.FRA
-\dt 04/Sep/2017
+\dt 21/Nov/2019
 
 \lx bìdɔn
 \ps n
@@ -1703,6 +1716,14 @@ taabolo.(Kibaru n°530, 2016)
 \date
 \dt 10/May/2016
 
+\lx butɔn
+\ps n
+\gf bouton
+\xv  jatekɛmansin butɔn naani tɔgɔ fɔ (Sise,
+donniyawmatematiki 2)
+\smf ETRG.FRA
+\dt 28/Nov/2019
+
 \lx buwasɔn
 \ps n
 \gf boisson
@@ -1962,6 +1983,15 @@ ye desilitiri (dl) ye.(Kibaru 540, 2017)
 \xv farinikilo (detayi) : dòròmè 44.  (Kibaru 29, 1974)
 \smf ETRG.FRA
 \dt 07/Feb/2014
+
+\lx dewaliyasɔn
+\ps n
+\gf dévaluation
+\xv gɔrɔgɔjurudon dabɔra wa dewaliyasɔnko y'a tɔ bɛ
+don ɲɔgɔn na, malosi gɛlɛyara, nɔgɔnin tɛ se ka
+san.(Kibaru 300, 1998)
+\smf ETRG.FRA
+\dt 27/Nov/2019
 
 \lx dewelopeman
 \ps n
@@ -3309,6 +3339,14 @@ Atɛni.(Kibaru 540, 2017)
 \smf ETRG.FRA
 \dt 15/Nov/2018
 
+\lx filozofi
+\ps n
+\gf philosophie
+\xv (...) filozofi, n'o bè dinyè faamuyali sira bèe kan:
+(...) (Kibaru 200, 1988)
+\smf ETRG.FRA
+\dt 25/Nov/2019
+
 \lx fínali
 \ps n
 \psd
@@ -3841,6 +3879,15 @@ ye.(Fasokan, 2009/12)
 \smf ETRG.FRA
 \dt 03/Nov/2015
 
+\lx gurupuman
+\ps n
+\gf groupement
+\xv an ye baara daminɛ ni dugutɔnw ye, i n' a fɔ « aw
+ni duguyiriwatɔnw ni gurupumanw ni dugujɛkulu
+wɛrɛw. (Kibaru 305, 1997)
+\smf ETRG.FRA
+\dt 28/Nov/2019
+
 \lx handiboli
 \ps n
 \va handibali
@@ -3907,16 +3954,6 @@ Hɛripɛsi zenitali ». (Kibaru 525, 2015)
 \sy kùrukurubana
 \dt 28/Nov/2018
 
-\lx hidorozɛni
-\ps n
-\gf hydrogène
-\xv An kan bɛ fiziki ni simi min ma, o dɔnniyatigiw y'a
-jira ko hidorozɛni bɛ fɛnw sama ka nɔrɔ a yɛrɛ la i
-n'a fɔ nɛgɛtalan bɛ baara kɛ cogo min na.(Kibaru
-487, 2012)
-\smf ETRG.FRA
-\dt 22/Oct/2018
-
 \lx hɔtikuru
 \ps n
 \gf haute.cour
@@ -3962,11 +3999,16 @@ sigida min na, 2018)
 \ps n
 \gf hydrogène
 \va didɔrɔzɛni
-\gf d'hydrogène
+\va hidorozɛni
+\gvf d'hydrogène
 \xv Aw bɛ kinda ko ni safinɛ ni jisuma ye min bɛ wele
 ko pirɔkisidi didɔrɔzɛni (peroxyde d’hydrogène). (Dɔgɔtɔrɔ tɛ sigida min na, 2018)
+\xv An kan bɛ fiziki ni simi min ma, o dɔnniyatigiw y'a
+jira ko hidorozɛni bɛ fɛnw sama ka nɔrɔ a yɛrɛ la i
+n'a fɔ nɛgɛtalan bɛ baara kɛ cogo min na.(Kibaru
+487, 2012)
 \smf ETRG.FRA
-\dt 06/Dec/2018
+\dt 27/Nov/2019
 
 \lx imayili
 \ps n
@@ -5851,18 +5893,18 @@ wele kúpudafiriki. (Kibaru nimirɔ 1)
 \smf ETRG.FRA
 \dt 18/Mar/2017
 
-\lx kupudimali
+\lx kúpudimali
 \ps n
 \gf coupe.du.Mali
 \xv "kupudimali" ye ntolatan ye, min bè mali
 ntolatan tònw bèe ni nyògòn cè. (Kibaru 29,
 1974)
 \smf ETRG.FRA
-\dt 12/Jun/2017
+\dt 22/Nov/2019
 
 \lx kúpudimɔndi
 \ps n
-\va kupudimɔni
+\va kúpudimɔni
 \pf
 \gf coupe.du.monde
 \xv Mali bɛna taa Afiriki jɔyɔrɔ fa basikɛti kupudimɔni
@@ -5870,7 +5912,7 @@ fila la (Kibaru bɔko 531, 2016)
 \smf ETRG.FRA
 \xf
 \date
-\dt 12/Jun/2017
+\dt 22/Nov/2019
 
 \lx kuraruzi
 \ps n.prop
@@ -6910,14 +6952,14 @@ sɔrɔ yen an'u «Mɛtirizi». (Kibaru 583, 2012)
 \smf ETRG.FRA
 \dt 15/Oct/2018
 
-\lx midi
+\lx mídi
 \ps n
 \gf midi
 \xv tile bè midi la bamakò tuma min na, o waati kelen
 na siniwaw ka jamana mògòw bè saafo baro de
 la.(Kibaru 29, 1974)
 \smf ETRG.FRA
-\dt 20/Nov/2017
+\dt 22/Nov/2019
 
 \lx mikonazɔli
 \ps n
@@ -7142,7 +7184,7 @@ kulu kelen ye.(Dɔgɔtɔrɔ tɛ sigida min na, 2018)
 \smf ETRG.FRA
 \dt 20/Apr/2019
 
-\lx motɛrɛ
+\lx mótɛrɛ
 \ps n
 \gf moteur
 \xv  Adama Tarawele ntolatancogo tun ka ɲi kosɛbɛ
@@ -7151,7 +7193,7 @@ ntolatan fɛɛrɛ caman b'a bolo, a hakili ka di ka da o
 kan. tiɲɛ yɛrɛ la a kɛra ziɲɔriw mɔtɛri ye fadenkɛnɛ
 in kan. (Kibaru 521)
 \smf ETRG.FRA
-\dt 27/Mar/2019
+\dt 22/Nov/2019
 
 \lx motokilitɛri
 \ps n
@@ -7263,6 +7305,15 @@ boli.(Kibaru 546, 2017)
 \smf ETRG.FRA
 
 \dt 12/Mar/2018
+
+\lx múlu
+\ps n
+\gf moule
+\xv N'i y'a lamaga kosɛbɛ, i bɛ sɔrɔ k'a kɛ mulu kɔnɔ,
+walima i b'a to bɛɲuwari kɔnɔ yen fɔ k'a simi
+kosɛbɛ. (Kibaru 300, 1997)
+\smf ETRG.FRA
+\dt 26/Nov/2019
 
 \lx muwayɛni
 \ps n
@@ -7718,11 +7769,11 @@ faga.(Ji ni keneya)
 \ps n
 \gf origine
 \va dorizini
-\gf d'origine
+\gvf d'origine
 \xv Suguya ɲuman fɔlɔ, n'o ye « dorizini » ye, o bɛ sɔrɔ
 mɔbilifeeresobaw fɛ,... (Kibaru 507, 2014)
 \smf ETRG.FRA
-\dt 06/Dec/2018
+\dt 27/Nov/2019
 
 \lx orokɛti
 \ps n
@@ -10113,6 +10164,14 @@ bisimuti ta walima fura wɛrɛ, salisilati walima
 sibisalisilati bɛ minnu na. (Dɔgɔtɔrɔ tɛ sigida min na, 2018)
 \smf ETRG.FRA
 \dt 06/Dec/2018
+
+\lx sifilisi
+\ps n
+\gf syphilis
+\xv Cɛnimusoya bana gurupu sabanan ye «Sifilisi» ye.
+(Kibaru 300, 1998)
+\smf ETRG.FRA
+\dt 27/Nov/2019
 
 \lx sìgarɛti
 \ps n
