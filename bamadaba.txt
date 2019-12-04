@@ -16902,6 +16902,16 @@ sur soi)
 \gvf médiation
 \dt 03/Mar/2019
 
+\lx cɛ́fɔla
+\mm cɛ́:pp:entre
+\mm fɔ́:v:dire
+\mm la:mrph:AG.PRM
+\ps n
+\gf intermédiaire
+\gvf intermédiaire
+\gvf médiateur
+\dt 04/Dec/2019
+
 \lx cɛ̀gana
 \mm cɛ̀:n:mâle
 \mm gána:adj:célibataire
@@ -80495,11 +80505,16 @@ l'intérieur une ou deux graines)
 \mm ntan:mrph:PRIV
 \ps adj
 \gf inutile
+\ms 1
 \gvf inutile
 \gvf sans raison
-\xv màa kúnntan
+\smf (dans ce sens, l'adjectif est tonalement compacte)
+\xv màa kunntan
 \xf un vaurien, un pauvre type
-\dt 11/Mar/2018
+\ms 2
+\gvf qui n'a pas de tête
+\smf (dans ce sens, l'adjectif n'est pas tonalement compacte)
+\dt 03/Dec/2019
 
 \lx kùnntanko
 \mm kùnntan:adj:inutile
@@ -91787,7 +91802,7 @@ jour, c'est une personne dépendante qu'il voit
 \gvf moyen
 \xv fílen mánkan
 \xf une calebasse de taille moyenne
-\dt 18/Apr/2019
+\dt 02/Dec/2019
 
 \lx mánkan
 \ps n
@@ -121575,6 +121590,17 @@ langue, et finit par empêcher de marcher)
 \ps n
 \gf avion
 \gvf avion
+
+\lx sánnayɛ̀lɛn
+\mm sán:n:ciel
+\mm ná:pp:à
+\mm yɛ̀lɛn:v:monter
+\ps v
+\gf progresser
+\vl vi
+\gvf progresser
+\gvf monter
+\dt 04/Dec/2019
 
 \lx sànni
 \mm sàn:v:acheter
